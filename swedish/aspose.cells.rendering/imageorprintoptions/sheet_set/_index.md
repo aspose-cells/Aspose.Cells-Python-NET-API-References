@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_set fastighet
 
-Hämtar eller ställer in arken att rendera. Standard är alla synliga ark i arbetsboken: [`SheetSet.visible`](/cells/python-net/sv/aspose.cells.rendering/sheetset#visible).
+Hämtar eller ställer in vilka ark som ska renderas. Standardvärdet är alla synliga ark i arbetsboken: [`SheetSet.visible`](/cells/python-net/sv/aspose.cells.rendering/sheetset#visible).
 
 ###  Anmärkningar
 

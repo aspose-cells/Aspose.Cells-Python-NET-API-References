@@ -1,0 +1,31 @@
+---
+title: check_workbook_default_font propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 60
+url: /fr/aspose.cells.rendering/svgimageoptions/check_workbook_default_font/
+is_root: false
+---
+##  check_workbook_default_font propriété
+
+Lorsque les caractères dans Excel sont Unicode et ne sont pas définis avec la police correcte dans le style de cellule,
+Ils peuvent apparaître sous forme de bloc dans un PDF, une image.
+Définissez cette option sur vrai pour essayer d'utiliser la police par défaut du classeur pour afficher ces caractères en premier.
+
+###  Remarques
+
+La valeur par défaut est vrai.
+###  Définition:
+```python
+@property
+def check_workbook_default_font(self):
+    ...
+@check_workbook_default_font.setter
+def check_workbook_default_font(self, value):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells.rendering`](../../)
+* classe [`SvgImageOptions`](/cells/python-net/fr/aspose.cells.rendering/svgimageoptions)

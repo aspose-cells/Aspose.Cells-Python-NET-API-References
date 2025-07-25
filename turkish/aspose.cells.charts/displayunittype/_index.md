@@ -8,30 +8,30 @@ url: /tr/aspose.cells.charts/displayunittype/
 is_root: false
 ---
 ##  DisplayUnitType numaralandırma
-Ekran birimi tipini temsil eder.
+Grafik ekseninin görüntüleme biriminin türünü temsil eder.
 
 
 
-DisplayUnitType türü aşağıdaki üyeleri gösterir:
+DisplayUnitType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | Ekran birimi Yok.|
-| HUNDREDS | Tablodaki değerlerin 100'e bölüneceğini belirtir.|
-| THOUSANDS | Tablodaki değerlerin 1.000'e bölüneceğini belirtir.|
-| TEN_THOUSANDS | Tablodaki değerlerin 10.000'e bölüneceğini belirtir.|
-| HUNDRED_THOUSANDS | Tablodaki değerlerin 100.000'e bölüneceğini belirtir.|
-| MILLIONS | Tablodaki değerlerin 1.000.000'e bölüneceğini belirtir.|
-| TEN_MILLIONS | Tablodaki değerlerin 10.000.000'e bölüneceğini belirtir.|
-| HUNDRED_MILLIONS | Tablodaki değerlerin 100.000.000'e bölüneceğini belirtir.|
-| BILLIONS | Tablodaki değerlerin 1.000.000.000'e bölüneceğini belirtir.|
-| TRILLIONS |Tablodaki değerlerin 1.000.000.000.000'a bölüneceğini belirtir.|
-| PERCENTAGE | Tablodaki değerler 0,01'e bölünecektir.|
+| NONE | Görüntüleme birimi Yok'tur.|
+| HUNDREDS | Grafikteki değerlerin 100'e bölünmesi gerektiğini belirtir.|
+| THOUSANDS | Grafikteki değerlerin 1.000'e bölünmesi gerektiğini belirtir.|
+| TEN_THOUSANDS | Grafikteki değerlerin 10.000'e bölünmesi gerektiğini belirtir.|
+| HUNDRED_THOUSANDS |Grafikteki değerlerin 100.000'e bölünmesi gerektiğini belirtir.|
+| MILLIONS | Grafikteki değerlerin 1.000.000'a bölünmesi gerektiğini belirtir.|
+| TEN_MILLIONS | Grafikteki değerlerin 10.000.000'a bölünmesi gerektiğini belirtir.|
+| HUNDRED_MILLIONS | Grafikteki değerlerin 100.000.000'a bölünmesi gerektiğini belirtir.|
+| BILLIONS | Grafikteki değerlerin 1.000.000.000'a bölünmesi gerektiğini belirtir.|
+| TRILLIONS | Grafikteki değerlerin 1.000.000.000.000'a bölünmesi gerektiğini belirtir.|
+| PERCENTAGE | Grafikteki değerler 0,01'e bölünecektir.|
 | CUST | görüntüleme birimi için özel bir değer belirtir.|
 | CUSTOM | görüntüleme birimi için özel bir değer belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

@@ -3,7 +3,7 @@ title: DataBarBorder صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 430
+weight: 400
 url: /ar/aspose.cells/databarborder/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [color](/cells/python-net/ar/aspose.cells/databarborder/color) | الحصول على أو تعيين لون حدود أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.|
-| [type](/cells/python-net/ar/aspose.cells/databarborder/type) | الحصول على أو تعيين نوع أشرطة البيانات الخاصة بالحدود المحددة بواسطة قاعدة التنسيق الشرطي.|
+| [color](/cells/python-net/ar/aspose.cells/databarborder/color) |يحصل على لون حدود أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي أو يعينه.|
+| [type](/cells/python-net/ar/aspose.cells/databarborder/type) | يحصل على أو يعين نوع حدود أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.|
 
 
 

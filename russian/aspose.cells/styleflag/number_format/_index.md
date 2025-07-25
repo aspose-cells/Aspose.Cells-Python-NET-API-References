@@ -1,6 +1,6 @@
 ---
 title: number_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 240
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

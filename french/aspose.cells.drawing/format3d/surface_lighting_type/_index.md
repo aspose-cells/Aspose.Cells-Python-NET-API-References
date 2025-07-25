@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  surface_lighting_type propriété
 
-Obtient et définit le type d'éclairage à appliquer à la scène de la forme.
+Obtient et définit le type d'éclairage qui doit être appliqué à la scène de la forme.
 La valeur par défaut est LightRigType.ThreePoint.
 ###  Définition:
 ```python
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Format3D](/cells/python-net/fr/aspose.cells.drawing/format3d)
-* classe [LightRigType](/cells/python-net/fr/aspose.cells.drawing/lightrigtype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Format3D`](/cells/python-net/fr/aspose.cells.drawing/format3d)
+* classe [`LightRigType`](/cells/python-net/fr/aspose.cells.drawing/lightrigtype)

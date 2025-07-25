@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_filtered Eigentum
 
-Gibt an, ob die Serie ausgewählt oder gefiltert ist. True bedeutet, dass diese Serie gefiltert ist und nicht im Diagramm angezeigt wird.
+Gibt an, ob die Reihe ausgewählt oder gefiltert ist. „True“ bedeutet, dass diese Reihe gefiltert ist und nicht im Diagramm angezeigt wird.
 ###  Definition:
 ```python
 @property

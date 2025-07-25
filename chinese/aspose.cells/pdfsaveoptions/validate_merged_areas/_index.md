@@ -1,19 +1,13 @@
 ---
-title: validate_merged_areas 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: validate_merged_areas属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 500
 url: /zh/aspose.cells/pdfsaveoptions/validate_merged_areas/
 is_root: false
 ---
-## validate_merged_areas 属性
-
-指示是否在保存文件之前验证合并的单元格。
-
-### 评论
-
-默认值为假。
+## validate_merged_areas属性
 ### 定义：
 ```python
 @property
@@ -25,5 +19,5 @@ def validate_merged_areas(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

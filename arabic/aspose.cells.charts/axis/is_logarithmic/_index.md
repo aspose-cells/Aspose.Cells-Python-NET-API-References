@@ -3,7 +3,7 @@ title: is_logarithmic عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ar/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_type fastighet
 
-Hämtar och ställer in tematyp.
+Hämtar och ställer in tematypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def color_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
-* klass [ThemeColorType](/cells/python-net/sv/aspose.cells/themecolortype)
+* modul [`aspose.cells`](../../)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)
+* klass [`ThemeColorType`](/cells/python-net/sv/aspose.cells/themecolortype)

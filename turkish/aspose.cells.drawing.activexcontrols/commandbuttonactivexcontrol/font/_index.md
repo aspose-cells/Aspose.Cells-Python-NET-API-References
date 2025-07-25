@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/font/
 is_root: false
 ---
 ##  font mülk
-
-Denetimin font'ini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +16,6 @@ def font(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CommandButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CommandButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

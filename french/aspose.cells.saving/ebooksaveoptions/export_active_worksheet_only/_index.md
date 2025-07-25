@@ -3,16 +3,16 @@ title: export_active_worksheet_only propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 230
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_active_worksheet_only/
 is_root: false
 ---
 ##  export_active_worksheet_only propriété
 
-Indique si vous exportez uniquement la feuille de calcul active vers un fichier HTML.
-Si c'est vrai, seule la feuille de calcul active sera exportée vers un fichier HTML ;
-Si faux, l'intégralité du classeur sera exportée vers un fichier HTML.
-La valeur par défaut est fausse.
+Indique si seule la feuille de calcul active est exportée vers un fichier HTML.
+Si vrai, seule la feuille de calcul active sera exportée vers un fichier HTML ;
+Si faux, le classeur entier sera exporté vers un fichier HTML.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

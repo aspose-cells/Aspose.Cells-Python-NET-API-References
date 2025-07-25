@@ -3,7 +3,7 @@ title: PivotFieldCollection indexeur
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 70
 url: /fr/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---

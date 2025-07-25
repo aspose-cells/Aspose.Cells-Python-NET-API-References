@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent propiedad
 
-Devuelve el objeto Worksheet que representa la hoja que contiene la segmentación. Solo lectura.
+Devuelve el objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) que contiene esta segmentación. Solo lectura.
 
 ###  Ejemplo
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

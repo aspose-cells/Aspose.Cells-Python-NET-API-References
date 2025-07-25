@@ -1,5 +1,5 @@
 ---
-title: contour_width الملكية
+title: contour_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/threedformat/contour_width/
 is_root: false
 ---
-##  contour_width الملكية
+##  contour_width عقار
 
-الحصول على عرض الكفاف على الشكل وتعيينه بوحدة النقاط.
+يحصل على عرض المحيط على الشكل ويحدده، بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def contour_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

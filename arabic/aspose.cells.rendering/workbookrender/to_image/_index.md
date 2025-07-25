@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-قم بعرض المصنف بأكمله كصورة Tiff للبث.
+##  to_image(self, stream) {#io.RawIOBase}
+عرض المصنف بأكمله كصورة Tiff للبث.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -20,15 +21,16 @@ def to_image(self, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | دفق صورة الإخراج|
+| stream | io.RawIOBase | تدفق الصورة الناتجة|
 
 
-##  to_image {#str}
-تقديم المصنف بأكمله كصورة Tiff إلى ملف.
+##  to_image(self, filename) {#str}
+عرض المصنف بأكمله كصورة Tiff إلى ملف.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -36,15 +38,16 @@ def to_image(self, filename):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| filename | str | اسم الملف لصورة الإخراج|
+| filename | str | اسم ملف الصورة الناتجة|
 
 
-##  to_image {#int-str}
+##  to_image(self, page_index, file_name) {#int-str}
 تقديم صفحة معينة إلى ملف.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -52,16 +55,17 @@ def to_image(self, page_index, file_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
-| file_name | str | اسم الملف لصورة الإخراج|
+| page_index | int | الإشارة إلى الصفحة التي سيتم تحويلها|
+| file_name | str | اسم ملف الصورة الناتجة|
 
 
-##  to_image {#int-io.RawIOBase}
-تقديم صفحة معينة إلى دفق.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+عرض صفحة معينة على مجرى مائي.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -69,8 +73,8 @@ def to_image(self, page_index, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| page_index | int | تشير إلى الصفحة التي سيتم تحويلها|
-| stream | io.RawIOBase | دفق صورة الإخراج|
+| page_index | int | الإشارة إلى الصفحة التي سيتم تحويلها|
+| stream | io.RawIOBase | تدفق الصورة الناتجة|
 
 
 

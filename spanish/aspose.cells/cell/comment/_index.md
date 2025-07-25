@@ -3,7 +3,7 @@ title: comment propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 420
+weight: 430
 url: /es/aspose.cells/cell/comment/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene el comment de esta celda.
 
 ###  Observaciones
 
-Si no hay ningún comment que se aplique a la celda, devuelve nulo.
+Si no se aplica comment a la celda, devuelve nulo.
 ###  Definición:
 ```python
 @property

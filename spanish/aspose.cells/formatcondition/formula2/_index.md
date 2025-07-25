@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  formula2 propiedad
 
-Obtiene y establece el valor o la expresión asociados con el formato condicional.
+Obtiene y establece el valor o la expresión asociada con el formato condicional.
 
 ###  Observaciones
 
-Agregue todas las áreas antes de establecer la fórmula.
-Para establecer la fórmula para esta condición, si el valor de entrada comienza con '=', se tomará como fórmula.
-De lo contrario, se tomará como valor simple (texto, número, bool). Para el valor de texto que comienza con '=', el usuario puede ingresarlo como fórmula en formato: "=\"=...\"".
+Agregue todas las áreas antes de configurar la fórmula.
+Para establecer la fórmula para esta condición, si el valor de entrada comienza con '=', entonces se tomará como fórmula.
+De lo contrario, se tomará como valor simple (texto, número, booleano). Para valores de texto que empiezan por '=', el usuario puede introducirlos como fórmula con el formato: "=\"=...\"".
 ###  Definición:
 ```python
 @property
@@ -27,5 +27,5 @@ def formula2(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

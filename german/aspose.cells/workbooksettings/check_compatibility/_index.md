@@ -13,7 +13,7 @@ Gibt an, ob beim Speichern der Arbeitsmappe die Kompatibilität mit früheren Ve
 
 ###  Bemerkungen
 
-Der Standardwert ist wahr.
+Der Standardwert ist „true“.
 Nur für Excel97-2003 XLS- oder XLT-Dateien.
 ###  Definition:
 ```python

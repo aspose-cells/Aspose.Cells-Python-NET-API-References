@@ -1,6 +1,6 @@
 ---
 title: full_object_bin недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin недвижимость
 
-Получает полные двоичные данные встроенного объекта ole в файле шаблона.
+Получает полные встроенные двоичные данные OLE-объекта в файле шаблона.
 ###  Определение:
 ```python
 @property

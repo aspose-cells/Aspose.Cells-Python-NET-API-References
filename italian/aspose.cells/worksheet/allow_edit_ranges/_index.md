@@ -1,15 +1,15 @@
 ---
 title: allow_edit_ranges proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 380
 url: /it/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges proprietà
 
-Ottiene la raccolta dell'intervallo di modifica consentita nel foglio di lavoro.
+Ottiene la raccolta degli intervalli di modifica consentiti nel foglio di lavoro.
 ###  Definizione:
 ```python
 @property

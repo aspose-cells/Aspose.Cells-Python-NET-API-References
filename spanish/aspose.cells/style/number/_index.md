@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  number propiedad
 
-Obtiene o establece el formato de visualización de números y fechas. Los patrones de formato son diferentes para diferentes regiones.
+Obtiene o establece el formato de visualización de números y fechas. Los patrones de formato varían según la región.
 
 ###  Observaciones
 
@@ -17,10 +17,10 @@ Por ejemplo, los patrones de formato representados por números para la región 
 | Valor| Tipo| Cadena de formato|
 | :- | :- | :- |
 | 0| General|
-| 1|Decimal|
-| 2|Decimal|
-| 3|Decimal|
-| 4|Decimal|
+| 1| Decimal|
+| 2| Decimal|
+| 3| Decimal|
+| 4| Decimal|
 | 5| Divisa|
 | 6| Divisa|
 | 7| Divisa|
@@ -28,8 +28,8 @@ Por ejemplo, los patrones de formato representados por números para la región 
 | 9| Porcentaje|
 | 10| Porcentaje|
 | 11| Científico|
-| 12| Fracción|
-| 13| Fracción|
+| 12|Fracción|
+| 13|Fracción|
 | 14| Fecha|
 | 15| Fecha|
 | 16| Fecha|

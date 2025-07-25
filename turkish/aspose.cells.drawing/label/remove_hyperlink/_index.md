@@ -3,16 +3,17 @@ title: remove_hyperlink yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells.drawing/label/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
-Şeklin köprüsünü kaldırın.
+##  remove_hyperlink(self) {#}
+Şeklin hiperlinkini kaldırır.
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

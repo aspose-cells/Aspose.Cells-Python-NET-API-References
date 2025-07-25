@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/chartmarkertype/
 is_root: false
 ---
 ##  ChartMarkerType numaralandırma
-Çizgi grafiğinde, dağılım grafiğinde veya radar grafiğinde işaretçi stilini temsil eder.
+Çizgi grafiği, dağılım grafiği veya radar grafiğindeki işaretleyici stilini temsil eder.
 
 
 
@@ -19,15 +19,15 @@ ChartMarkerType türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | AUTOMATIC | Otomatik işaretleyiciler.|
 | CIRCLE | Dairesel işaretleyiciler.|
-| DASH | Uzun çubuk işaretleri|
+| DASH | Uzun çubuk işaretleyicileri|
 | DIAMOND | Elmas şeklindeki işaretleyiciler.|
-| DOT | Kısa çubuk işaretleri.|
-| NONE | İşaret yok.|
+| DOT | Kısa bar işaretleyicileri.|
+| NONE | Hiçbir işaretleyici yok.|
 | SQUARE_PLUS | Artı işaretli kare işaretleyiciler.|
 | SQUARE | Kare işaretleyiciler.|
 | SQUARE_STAR | Yıldız işaretli kare işaretleyiciler.|
 | TRIANGLE | Üçgen işaretleyiciler.|
-| SQUARE_X | X içeren kare işaretleyiciler.|
+| SQUARE_X | X işaretli kare işaretleyiciler.|
 | PICTURE | Resim|
 
 

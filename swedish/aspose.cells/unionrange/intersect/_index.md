@@ -3,16 +3,17 @@ title: intersect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 40
 url: /sv/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
-Skär ett annat område.
+##  intersect(self, range) {#str}
+Korsar ett annat intervall.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -23,15 +24,16 @@ def intersect(self, range):
 | range | str | Räckvidden.|
 ###  Anmärkningar
 
-Om de två unionsområdena inte skärs, returneras null.
+Om de två unionsområdena inte skär varandra returneras null.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
-Skär ett annat område.
+Korsar ett annat intervall.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/sv/aspose.cells/unionrange) | Räckvidden.|
+| union_range | [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange) | Räckvidden.|
 ###  Anmärkningar
 
-Om de två unionsområdena inte skärs, returneras null.
+Om de två unionsområdena inte skär varandra returneras null.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
-Skär ett annat område.
+Korsar ett annat intervall.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -61,10 +64,10 @@ def intersect(self, ranges):
 | ranges | list | Räckvidden.|
 ###  Anmärkningar
 
-Om de två unionsområdena inte skärs, returneras null.
+Om de två unionsområdena inte skär varandra returneras null.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [UnionRange](/cells/python-net/sv/aspose.cells/unionrange)
+* modul [`aspose.cells`](../../)
+* klass [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange)

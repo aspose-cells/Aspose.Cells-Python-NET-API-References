@@ -3,11 +3,11 @@ title: get_text_of_range yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/settablepivotglobalizationsettings/get_text_of_range/
 is_root: false
 ---
-##  get_text_of_range {#}
+##  get_text_of_range(self) {#}
 "Aralık"ın yerel metnini alır
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_range(self):
     ...
 ```

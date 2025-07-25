@@ -18,11 +18,11 @@ El tipo TableDataSourceType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | WORKSHEET | Tabla de hoja de cálculo de Excel|
-| SHARE_POINT | Lista vinculada de lectura y escritura de SharePoint|
-| XML | Tabla de mapeador XML|
-| QUERY_TABLE | Tabla de consultas|
+| SHARE_POINT | Lista vinculada de SharePoint de lectura y escritura|
+| XML | Tabla del mapeador XML|
+| QUERY_TABLE | Tabla de consulta|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](..)
+* módulo [`aspose.cells.tables`](..)

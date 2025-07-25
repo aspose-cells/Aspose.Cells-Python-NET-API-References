@@ -1,9 +1,9 @@
 ---
 title: max_display_range недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1110
+weight: 1140
 url: /ru/aspose.cells/cells/max_display_range/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Возвращает значение null, если рабочий лист пуст с Aspose.Cells 21.5.2.
+Reutrns null, если рабочий лист пуст с Aspose.Cells 21.5.2.
 ###  Определение:
 ```python
 @property

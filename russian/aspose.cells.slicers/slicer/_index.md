@@ -1,6 +1,6 @@
 ---
 title: Slicer класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -8,37 +8,38 @@ url: /ru/aspose.cells.slicers/slicer/
 is_root: false
 ---
 ##  Slicer класс
-краткое описание Slicer Посмотреть
+краткое описание Slicer Вид
 
 
 
-Тип Slicer предоставляет следующие члены:
+Тип Slicer предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [title](/cells/python-net/ru/aspose.cells.slicers/slicer/title) | Указывает заголовок текущего объекта Slicer.|
+| [title](/cells/python-net/ru/aspose.cells.slicers/slicer/title) | Задает заголовок текущего объекта слайсера.|
 | [alternative_text](/cells/python-net/ru/aspose.cells.slicers/slicer/alternative_text) | Возвращает или задает описательную (альтернативную) текстовую строку объекта Slicer.|
-| [is_printable](/cells/python-net/ru/aspose.cells.slicers/slicer/is_printable) | Указывает, доступен ли для печати объект среза.|
+| [is_printable](/cells/python-net/ru/aspose.cells.slicers/slicer/is_printable) | Указывает, можно ли распечатать объект среза.|
 | [is_locked](/cells/python-net/ru/aspose.cells.slicers/slicer/is_locked) | Указывает, заблокирована ли форма среза.|
-| [placement](/cells/python-net/ru/aspose.cells.slicers/slicer/placement) | Представляет способ прикрепления объекта рисования к ячейкам под ним.<br/> Свойство управляет размещением объекта на рабочем листе.|
-| [locked_aspect_ratio](/cells/python-net/ru/aspose.cells.slicers/slicer/locked_aspect_ratio) | Указывает, блокируется ли соотношение сторон.|
-| [locked_position](/cells/python-net/ru/aspose.cells.slicers/slicer/locked_position) | Указывает, можно ли перемещать указанный срез или изменять его размер с помощью пользовательского интерфейса.|
-| [slicer_cache](/cells/python-net/ru/aspose.cells.slicers/slicer/slicer_cache) |Возвращает объект SlicerCache, связанный со слайсером. Только для чтения.|
-| [parent](/cells/python-net/ru/aspose.cells.slicers/slicer/parent) | Возвращает объект Worksheet, представляющий лист, содержащий срез. Только для чтения.|
+| [placement](/cells/python-net/ru/aspose.cells.slicers/slicer/placement) | Представляет собой способ присоединения объекта рисунка к ячейкам под ним.<br/> Свойство управляет размещением объекта на рабочем листе.|
+| [locked_aspect_ratio](/cells/python-net/ru/aspose.cells.slicers/slicer/locked_aspect_ratio) | Указывает, заблокировано ли соотношение сторон.|
+| [locked_position](/cells/python-net/ru/aspose.cells.slicers/slicer/locked_position) |Указывает, можно ли перемещать или изменять размер указанного слайсера с помощью пользовательского интерфейса.|
+| [shape](/cells/python-net/ru/aspose.cells.slicers/slicer/shape) | Возвращает объект Shape, связанный с указанным срезом. Только для чтения.|
+| [slicer_cache](/cells/python-net/ru/aspose.cells.slicers/slicer/slicer_cache) | Возвращает объект SlicerCache, связанный со слайсером. Только для чтения.|
+| [parent](/cells/python-net/ru/aspose.cells.slicers/slicer/parent) | Возвращает объект [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet), содержащий этот срез. Только для чтения.|
 | [style_type](/cells/python-net/ru/aspose.cells.slicers/slicer/style_type) | Укажите тип стиля встроенного слайсера<br/> тип по умолчанию — SlicerStyleLight1|
 | [name](/cells/python-net/ru/aspose.cells.slicers/slicer/name) | Возвращает или задает имя указанного слайсера|
 | [caption](/cells/python-net/ru/aspose.cells.slicers/slicer/caption) | Возвращает или задает заголовок указанного слайсера.|
-| [caption_visible](/cells/python-net/ru/aspose.cells.slicers/slicer/caption_visible) | Возвращает или задает, отображается ли заголовок, отображающий Caption слайсера.<br/> Значение по умолчанию верно|
-| [number_of_columns](/cells/python-net/ru/aspose.cells.slicers/slicer/number_of_columns) | Возвращает или задает количество столбцов в указанном слайсере.|
-| [left_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/left_pixel) | Возвращает или задает смещение формы среза по горизонтали относительно левого столбца в пикселях.|
-| [top_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/top_pixel) | Возвращает или задает вертикальное смещение формы среза от ее верхней строки в пикселях.|
+| [caption_visible](/cells/python-net/ru/aspose.cells.slicers/slicer/caption_visible) | Возвращает или задает видимость заголовка, отображающего подпись среза.<br/> значение по умолчанию — true|
+| [number_of_columns](/cells/python-net/ru/aspose.cells.slicers/slicer/number_of_columns) | Возвращает или задает количество столбцов в указанном срезе.|
+| [left_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/left_pixel) | Возвращает или задает горизонтальное смещение фигуры среза от ее левого столбца в пикселях.|
+| [top_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/top_pixel) | Возвращает или задает вертикальное смещение фигуры среза от ее верхней строки в пикселях.|
 | [width](/cells/python-net/ru/aspose.cells.slicers/slicer/width) | Возвращает или задает ширину указанного среза в пунктах.|
-| [width_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/width_pixel) | Возвращает или задает ширину указанного среза в пикселях.|
+| [width_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/width_pixel) |Возвращает или задает ширину указанного слайсера в пикселях.|
 | [height](/cells/python-net/ru/aspose.cells.slicers/slicer/height) | Возвращает или задает высоту указанного среза в пунктах.|
-| [height_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/height_pixel) |Возвращает или задает высоту указанного среза в пикселях.|
-| [column_width_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/column_width_pixel) | Получает или задает ширину в пикселях для каждого столбца среза.|
-| [column_width](/cells/python-net/ru/aspose.cells.slicers/slicer/column_width) | Возвращает или задает ширину (в пунктах) каждого столбца в слайсере.|
+| [height_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/height_pixel) | Возвращает или задает высоту указанного среза в пикселях.|
+| [column_width_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/column_width_pixel) | Возвращает или задает ширину каждого столбца в слайсере в пикселях.|
+| [column_width](/cells/python-net/ru/aspose.cells.slicers/slicer/column_width) | Возвращает или задает ширину каждого столбца в срезе в пунктах.|
 | [row_height_pixel](/cells/python-net/ru/aspose.cells.slicers/slicer/row_height_pixel) | Возвращает или задает высоту в пикселях каждой строки в указанном срезе.|
 | [row_height](/cells/python-net/ru/aspose.cells.slicers/slicer/row_height) | Возвращает или задает высоту в пунктах каждой строки в указанном срезе.|
 
@@ -46,9 +47,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add_pivot_connection(pivot)](/cells/python-net/ru/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | Добавляет соединение со сводной таблицей.|
-| [remove_pivot_connection(pivot)](/cells/python-net/ru/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | Удаляет подключение к сводной таблице.|
-| [refresh()](/cells/python-net/ru/aspose.cells.slicers/slicer/refresh/#) | Обновление слайсера. Между тем, обновление и расчет относительных сводных таблиц.|
+| [`add_pivot_connection(self, pivot)`](/cells/python-net/ru/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | Добавляет подключение к сводной таблице.|
+| [`remove_pivot_connection(self, pivot)`](/cells/python-net/ru/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | Удаляет подключение к сводной таблице.|
+| [`refresh(self)`](/cells/python-net/ru/aspose.cells.slicers/slicer/refresh/#) | Обновление среза. Тем временем обновление и расчет относительных сводных таблиц.|
 
 
 
@@ -111,4 +112,5 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](..)
+* модуль [`aspose.cells.slicers`](..)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

@@ -1,6 +1,6 @@
 ---
 title: update_empty_string_as_null недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null недвижимость
 
-Если TRUE, будет вставлено значение NULL, если значение равно "";
+Если TRUE, будет вставлен Null, если значение равно "";
 ###  Определение:
 ```python
 @property

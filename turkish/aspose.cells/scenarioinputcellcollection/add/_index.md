@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Bir giriş hücresi ekler.
 
 
@@ -17,6 +17,7 @@ Bir giriş hücresi ekler.
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -25,11 +26,11 @@ def add(self, row, column, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | row | int | Giriş hücresinin satır dizini.|
-| column | int | Giriş hücresinin sütun dizini.|
+| column | int | Giriş hücresinin sütun indeksi.|
 | value | str | Giriş hücresinin değeri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioInputCellCollection](/cells/python-net/tr/aspose.cells/scenarioinputcellcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioInputCellCollection`](/cells/python-net/tr/aspose.cells/scenarioinputcellcollection)

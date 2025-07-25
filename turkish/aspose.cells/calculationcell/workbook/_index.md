@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationCell](/cells/python-net/tr/aspose.cells/calculationcell)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

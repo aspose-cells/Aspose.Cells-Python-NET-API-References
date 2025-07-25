@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_length Eigentum
 
-Repräsentiert die Mindestlänge des Datenbalkens .
+Stellt die Mindestlänge des Datenbalkens dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def min_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

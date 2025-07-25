@@ -3,16 +3,17 @@ title: import_csv方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 660
 url: /zh/aspose.cells/cells/import_csv/
 is_root: false
 ---
-##  import_csv {#str-aspose.cells.TxtLoadOptions-int-int}
-将 CSV 文件导入到单元格中。
+##  import_csv(self, file_name, options, first_row, first_column) {#str-aspose.cells.TxtLoadOptions-int-int}
+将 CSV 文件导入到单元格。
 
 
 
 ```python
+
 def import_csv(self, file_name, options, first_row, first_column):
     ...
 ```
@@ -26,12 +27,13 @@ def import_csv(self, file_name, options, first_row, first_column):
 | first_column | int |要导入的第一个单元格的列号。|
 
 
-##  import_csv {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
-将 CSV 文件导入到单元格中。
+##  import_csv(self, stream, options, first_row, first_column) {#io.RawIOBase-aspose.cells.TxtLoadOptions-int-int}
+将 CSV 文件导入到单元格。
 
 
 
 ```python
+
 def import_csv(self, stream, options, first_row, first_column):
     ...
 ```
@@ -45,12 +47,13 @@ def import_csv(self, stream, options, first_row, first_column):
 | first_column | int |要导入的第一个单元格的列号。|
 
 
-##  import_csv {#str-str-bool-int-int}
-将 CSV 文件导入到单元格中。
+##  import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column) {#str-str-bool-int-int}
+将 CSV 文件导入到单元格。
 
 
 
 ```python
+
 def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column):
     ...
 ```
@@ -65,12 +68,13 @@ def import_csv(self, file_name, splitter, convert_numeric_data, first_row, first
 | first_column | int |要导入的第一个单元格的列号。|
 
 
-##  import_csv {#io.RawIOBase-str-bool-int-int}
-将 CSV 文件导入到单元格中。
+##  import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column) {#io.RawIOBase-str-bool-int-int}
+将 CSV 文件导入到单元格。
 
 
 
 ```python
+
 def import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 440
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font proprietà
 
-Rappresenta lo font di forma.
+Rappresenta la forma font.
 
 ###  Esempio
 

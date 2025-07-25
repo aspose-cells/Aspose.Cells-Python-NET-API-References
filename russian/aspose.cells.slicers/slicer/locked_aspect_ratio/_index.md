@@ -1,6 +1,6 @@
 ---
 title: locked_aspect_ratio недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_aspect_ratio недвижимость
 
-Указывает, блокируется ли соотношение сторон.
+Указывает, заблокировано ли соотношение сторон.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)

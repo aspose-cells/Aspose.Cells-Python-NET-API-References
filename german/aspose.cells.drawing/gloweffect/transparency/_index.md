@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency Eigentum
 
-Ruft den Grad von transparency des Glüheffekts ab und legt ihn fest. Bereich von 0,0 (undurchsichtig) bis 1,0 (durchsichtig).
+Ruft den Grad des Leuchteffekts ab und legt ihn fest. Bereich von 0,0 (undurchsichtig) bis 1,0 (transparent).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GlowEffect](/cells/python-net/de/aspose.cells.drawing/gloweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)

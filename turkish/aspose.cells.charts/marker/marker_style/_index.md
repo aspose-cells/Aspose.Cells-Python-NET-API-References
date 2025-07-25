@@ -21,6 +21,6 @@ def marker_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartMarkerType](/cells/python-net/tr/aspose.cells.charts/chartmarkertype)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartMarkerType`](/cells/python-net/tr/aspose.cells.charts/chartmarkertype)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)

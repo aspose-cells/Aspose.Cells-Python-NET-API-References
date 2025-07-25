@@ -1,15 +1,15 @@
 ---
 title: is_flipped_vertically proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 570
+weight: 580
 url: /it/aspose.cells.drawing/combobox/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically proprietà
 
-Ottiene e imposta se la forma viene capovolta verticalmente.
+Ottiene e imposta se la forma è capovolta verticalmente.
 
 ###  Esempio
 

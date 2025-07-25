@@ -1,6 +1,6 @@
 ---
 title: areas недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def areas(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionFormat](/cells/python-net/ru/aspose.cells.revisions/revisionformat)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionFormat`](/cells/python-net/ru/aspose.cells.revisions/revisionformat)

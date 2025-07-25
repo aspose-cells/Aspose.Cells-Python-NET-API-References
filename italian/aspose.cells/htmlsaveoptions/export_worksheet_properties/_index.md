@@ -1,16 +1,16 @@
 ---
 title: export_worksheet_properties proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 390
+weight: 450
 url: /it/aspose.cells/htmlsaveoptions/export_worksheet_properties/
 is_root: false
 ---
 ##  export_worksheet_properties proprietà
 
-Indica se si stanno esportando le proprietà del foglio di lavoro. Il valore predefinito è true. Se si desidera importare
-il file html o mht per Excel, mantieni il valore predefinito.
+ Indica se esportare le proprietà del foglio di lavoro. Il valore predefinito è true. Se si desidera importare
+il file html o mht in excel, mantieni il valore predefinito.
 ###  Definizione:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_direction mülk
 
-Metin okuma sırasını temsil eder.
+Metnin okuma sırasını gösterir.
 ###  Tanım:
 ```python
 @property

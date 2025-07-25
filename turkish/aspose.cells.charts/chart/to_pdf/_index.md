@@ -3,16 +3,17 @@ title: to_pdf yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 150
 url: /tr/aspose.cells.charts/chart/to_pdf/
 is_root: false
 ---
-##  to_pdf(file_name) {#str}
-Grafiği bir pdf dosyasına kaydeder.
+##  to_pdf(self, file_name) {#str}
+Tabloyu pdf dosyasına kaydeder.
 
 
 
 ```python
+
 def to_pdf(self, file_name):
     ...
 ```
@@ -20,15 +21,16 @@ def to_pdf(self, file_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| file_name | str | tam yol ile pdf dosya adı|
+| file_name | str | tam yolu ile pdf dosya adı|
 
 
-##  to_pdf(stream) {#io.RawIOBase}
-Grafik pdf'sini oluşturur ve bir akışa kaydeder.
+##  to_pdf(self, stream) {#io.RawIOBase}
+Grafik pdf'ini oluşturur ve bunu bir akışa kaydeder.
 
 
 
 ```python
+
 def to_pdf(self, stream):
     ...
 ```
@@ -39,12 +41,13 @@ def to_pdf(self, stream):
 | stream | io.RawIOBase | Çıkış akışı.|
 
 
-##  to_pdf(file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
-Grafiği bir pdf dosyasına kaydeder.
+##  to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
+Tabloyu pdf dosyasına kaydeder.
 
 
 
 ```python
+
 def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -52,19 +55,20 @@ def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| file_name | str | tam yol ile pdf dosya adı|
-| desired_page_width | float | İnç cinsinden istenen sayfa genişliği.|
-| desired_page_height | float | İnç cinsinden istenen sayfa yüksekliği.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıktı sayfasındaki grafik yatay hizalama türü.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıktı sayfasındaki grafik dikey hizalama türü.|
+| file_name | str | tam yolu ile pdf dosya adı|
+| desired_page_width | float | İstenilen sayfa genişliği (inç).|
+| desired_page_height | float | İstenilen sayfa yüksekliği (inç cinsinden).|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıkış sayfasındaki grafik yatay hizalama türü.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıkış sayfasındaki grafik dikey hizalama türü.|
 
 
-##  to_pdf(stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
-Grafik pdf'sini oluşturur ve bir akışa kaydeder.
+##  to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
+Grafik pdf'ini oluşturur ve bunu bir akışa kaydeder.
 
 
 
 ```python
+
 def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -73,13 +77,13 @@ def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_ty
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | stream | io.RawIOBase | Çıkış akışı.|
-| desired_page_width | float | İnç cinsinden istenen sayfa genişliği.|
-| desired_page_height | float | İnç cinsinden istenen sayfa yüksekliği.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıktı sayfasındaki grafik yatay hizalama türü.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıktı sayfasındaki grafik dikey hizalama türü.|
+| desired_page_width | float | İstenilen sayfa genişliği (inç).|
+| desired_page_height | float | İstenilen sayfa yüksekliği (inç cinsinden).|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıkış sayfasındaki grafik yatay hizalama türü.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/tr/aspose.cells/pagelayoutalignmenttype) | Çıkış sayfasındaki grafik dikey hizalama türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

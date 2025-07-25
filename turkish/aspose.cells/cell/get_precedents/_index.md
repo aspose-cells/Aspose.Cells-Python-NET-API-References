@@ -7,16 +7,17 @@ weight: 180
 url: /tr/aspose.cells/cell/get_precedents/
 is_root: false
 ---
-##  get_precedents() {#}
-Bu hücrenin formülünde görünen tüm başvuruları alır.
+##  get_precedents(self) {#}
+Bu hücrenin formülünde görünen tüm referansları alır.
 
 
 ###  İadeler
 
-Bu hücrenin formülünde görünen tüm referansların toplanması.
+Bu hücrenin formülünde görünen tüm referansların koleksiyonu.
 
 
 ```python
+
 def get_precedents(self):
     ...
 ```
@@ -24,18 +25,18 @@ def get_precedents(self):
 
 ###  Notlar
 
-* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm başvurular, hesaplama sırasında başvurulsa da başvurulmasa da döndürülür.
+* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm referanslar, hesaplama sırasında referans alınıp alınmadıklarına bakılmaksızın döndürülür.
 
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-hala formülün emsalleri olarak alınmaktadır. Yalnızca hesaplamayı etkileyen referansları almak için lütfen [Cell.get_precedents_in_calculation()](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Formülün emsalleri olarak hala kabul edilmektedir. Sadece hesaplamayı etkileyen referanslara ulaşmak için lütfen [`Cell.get_precedents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
 
-* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm başvurular, hesaplama sırasında başvurulsa da başvurulmasa da döndürülür.
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-hala formülün emsalleri olarak alınmaktadır. Yalnızca hesaplamayı etkileyen referansları almak için lütfen [Cell.get_precedents_in_calculation()](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
+* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm referanslar, hesaplama sırasında referans alınıp alınmadıklarına bakılmaksızın döndürülür.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Formülün emsalleri olarak hala kabul edilmektedir. Sadece hesaplamayı etkileyen referanslara ulaşmak için lütfen [`Cell.get_precedents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
 
-* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm başvurular, hesaplama sırasında başvurulsa da başvurulmasa da döndürülür.
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-hala formülün emsalleri olarak alınmaktadır. Yalnızca hesaplamayı etkileyen referansları almak için lütfen [Cell.get_precedents_in_calculation()](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
+* Bu bir formül hücresi değilse null döndürür. Bu hücrenin formülünde görünen tüm referanslar, hesaplama sırasında referans alınıp alınmadıklarına bakılmaksızın döndürülür.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Formülün emsalleri olarak hala kabul edilmektedir. Sadece hesaplamayı etkileyen referanslara ulaşmak için lütfen [`Cell.get_precedents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_precedents_in_calculation)'i kullanın.
 ###  Örnek
 
 ```python
@@ -65,5 +66,5 @@ for i in range(len(areas)):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

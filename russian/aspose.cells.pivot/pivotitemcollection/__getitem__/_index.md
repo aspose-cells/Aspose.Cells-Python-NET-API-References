@@ -1,9 +1,9 @@
 ---
 title: PivotItemCollection индексатор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 50
 url: /ru/aspose.cells.pivot/pivotitemcollection/__getitem__/
 is_root: false
 ---
@@ -18,5 +18,5 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotItemCollection](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotItemCollection`](/cells/python-net/ru/aspose.cells.pivot/pivotitemcollection)

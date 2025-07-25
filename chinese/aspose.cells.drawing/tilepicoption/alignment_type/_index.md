@@ -1,13 +1,13 @@
 ---
-title: alignment_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: alignment_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/tilepicoption/alignment_type/
 is_root: false
 ---
-## alignment_type 属性
+## alignment_type属性
 
 获取或设置平铺的对齐方式。
 ### 定义：
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [RectangleAlignmentType](/cells/python-net/zh/aspose.cells.drawing/rectanglealignmenttype)
-* 类 [TilePicOption](/cells/python-net/zh/aspose.cells.drawing/tilepicoption)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`RectangleAlignmentType`](/cells/python-net/zh/aspose.cells.drawing/rectanglealignmenttype)
+* 类 [`TilePicOption`](/cells/python-net/zh/aspose.cells.drawing/tilepicoption)

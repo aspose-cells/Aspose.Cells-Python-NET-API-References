@@ -7,8 +7,8 @@ weight: 50
 url: /ar/aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
-##  has_format_3d() {#}
-يشير إلى ما إذا كان للشكل بيانات بتنسيق ثلاثي الأبعاد.
+##  has_format_3d(self) {#}
+يشير إلى ما إذا كان الشكل يحتوي على بيانات بتنسيق ثلاثي الأبعاد.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_format_3d(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_format_3d(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

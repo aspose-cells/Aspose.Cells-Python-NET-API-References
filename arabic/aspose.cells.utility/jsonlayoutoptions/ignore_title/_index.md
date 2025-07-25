@@ -1,5 +1,5 @@
 ---
-title: ignore_title الملكية
+title: ignore_title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.utility/jsonlayoutoptions/ignore_title/
 is_root: false
 ---
-##  ignore_title الملكية
+##  ignore_title عقار
 
-Ingores عناوين السمات
+عناوين السمات
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)

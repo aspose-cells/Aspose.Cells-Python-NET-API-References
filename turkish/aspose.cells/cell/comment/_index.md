@@ -3,7 +3,7 @@ title: comment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 430
 url: /tr/aspose.cells/cell/comment/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Bu hücrenin comment'ini alır.
 
 ###  Notlar
 
-Hücreye uygulanan comment yoksa null değerini döndürür.
+Eğer hücreye comment uygulanmıyorsa null döner.
 ###  Tanım:
 ```python
 @property

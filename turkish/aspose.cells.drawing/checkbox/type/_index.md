@@ -3,13 +3,13 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /tr/aspose.cells.drawing/checkbox/type/
 is_root: false
 ---
 ##  type mülk
 
-type otomatik şeklini alır.
+Otomatik şekil type'i alır.
 
 ###  Örnek
 

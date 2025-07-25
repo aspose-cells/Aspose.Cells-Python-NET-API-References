@@ -3,13 +3,13 @@ title: contains_external_link fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 440
 url: /sv/aspose.cells/cell/contains_external_link/
 is_root: false
 ---
 ##  contains_external_link fastighet
 
-Anger om denna cell innehåller en extern länk.
+Anger om den här cellen innehåller en extern länk.
 Gäller endast när cellen är en formelcell.
 ###  Definition:
 ```python

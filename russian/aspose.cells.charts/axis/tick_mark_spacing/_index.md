@@ -1,15 +1,15 @@
 ---
 title: tick_mark_spacing недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ru/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
 ##  tick_mark_spacing недвижимость
 
-Возвращает или задает количество категорий или серий между делениями. Применяется только к осям категорий и серий.
+Возвращает или задаёт количество категорий или серий между делениями. Применяется только к осям категорий и серий.
 
 ###  Примечания
 

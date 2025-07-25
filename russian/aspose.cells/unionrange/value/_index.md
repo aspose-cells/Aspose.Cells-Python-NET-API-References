@@ -1,9 +1,9 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 230
 url: /ru/aspose.cells/unionrange/value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [UnionRange](/cells/python-net/ru/aspose.cells/unionrange)
+* модуль [`aspose.cells`](../../)
+* класс [`UnionRange`](/cells/python-net/ru/aspose.cells/unionrange)

@@ -7,12 +7,13 @@ weight: 50
 url: /zh/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-将特定页面渲染到文件中。
+##  to_image(self, page_index, file_name) {#int-str}
+将特定页面渲染到文件。
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -20,12 +21,12 @@ def to_image(self, page_index, file_name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| page_index | int |指示要转换的页面|
+| page_index | int |指示要转换哪个页面|
 | file_name | str |输出图像的文件名|
 
 ### 例子
 
-以下代码将第一张纸的第一页输出为 png 图像。
+以下代码将第一张表的第一页输出为 png 图像。
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-将特定页面渲染到流。
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+将特定页面渲染到流中。
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -58,7 +60,7 @@ def to_image(self, page_index, stream):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| page_index | int |指示要转换的页面|
+| page_index | int |指示要转换哪个页面|
 | stream | io.RawIOBase |输出图像的流|
 
 

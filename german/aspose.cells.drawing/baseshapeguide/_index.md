@@ -8,7 +8,7 @@ url: /de/aspose.cells.drawing/baseshapeguide/
 is_root: false
 ---
 ##  BaseShapeGuide Klasse
-Stellt die Formhilfe dar.
+Stellt die Formführung dar.
 
 
 
@@ -16,4 +16,4 @@ Der Typ BaseShapeGuide macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

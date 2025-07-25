@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_style mülk
 
-Denetim tarafından kullanılan kenarlık türünü alır ve ayarlar.
+Kontrol tarafından kullanılan kenarlığın türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlBorderType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlbordertype)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlBorderType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlbordertype)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

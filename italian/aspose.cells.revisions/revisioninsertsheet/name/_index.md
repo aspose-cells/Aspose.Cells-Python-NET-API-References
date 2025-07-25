@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Ottiene il numero name del foglio di lavoro.
+Ottiene il name del foglio di lavoro.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionInsertSheet](/cells/python-net/it/aspose.cells.revisions/revisioninsertsheet)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionInsertSheet`](/cells/python-net/it/aspose.cells.revisions/revisioninsertsheet)

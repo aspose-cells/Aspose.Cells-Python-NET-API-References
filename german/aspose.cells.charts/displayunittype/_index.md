@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/displayunittype/
 is_root: false
 ---
 ##  DisplayUnitType Aufzählung
-Repräsentiert den Typ der Anzeigeeinheit.
+Stellt den Typ der Anzeigeeinheit der Diagrammachse dar.
 
 
 
@@ -21,12 +21,12 @@ Der Typ DisplayUnitType macht die folgenden Member verfügbar:
 | HUNDREDS | Gibt an, dass die Werte im Diagramm durch 100 geteilt werden sollen.|
 | THOUSANDS | Gibt an, dass die Werte im Diagramm durch 1.000 geteilt werden sollen.|
 | TEN_THOUSANDS | Gibt an, dass die Werte im Diagramm durch 10.000 geteilt werden sollen.|
-| HUNDRED_THOUSANDS | Gibt an, dass die Werte im Diagramm durch 100.000 geteilt werden sollen.|
+| HUNDRED_THOUSANDS |Gibt an, dass die Werte im Diagramm durch 100.000 geteilt werden sollen.|
 | MILLIONS | Gibt an, dass die Werte im Diagramm durch 1.000.000 geteilt werden sollen.|
 | TEN_MILLIONS | Gibt an, dass die Werte im Diagramm durch 10.000.000 geteilt werden sollen.|
 | HUNDRED_MILLIONS | Gibt an, dass die Werte im Diagramm durch 100.000.000 geteilt werden sollen.|
 | BILLIONS | Gibt an, dass die Werte im Diagramm durch 1.000.000.000 geteilt werden sollen.|
-| TRILLIONS |Gibt an, dass die Werte im Diagramm durch 1.000.000.000.000 dividiert werden sollen.|
+| TRILLIONS | Gibt an, dass die Werte im Diagramm durch 1.000.000.000.000 geteilt werden sollen.|
 | PERCENTAGE | Die Werte im Diagramm werden durch 0,01 geteilt.|
 | CUST | gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.|
 | CUSTOM | gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.|
@@ -34,4 +34,4 @@ Der Typ DisplayUnitType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

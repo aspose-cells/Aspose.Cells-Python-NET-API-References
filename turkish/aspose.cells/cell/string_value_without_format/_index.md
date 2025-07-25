@@ -3,20 +3,20 @@ title: string_value_without_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 720
+weight: 750
 url: /tr/aspose.cells/cell/string_value_without_format/
 is_root: false
 ---
 ##  string_value_without_format mülk
 
-Hücrenin değerini herhangi bir format olmadan dize olarak alır.
+Hücrenin değerini herhangi bir formata tabi tutmadan string olarak alır.
 
 ###  Notlar
 
-NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
+NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
 Kullanıcı değer nesnesini almalı ve onu değer türüne ve özel gereksinime göre biçimlendirmelidir.
-Bu mülk, Aralık 2020'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+Bu özellik Aralık 2020'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

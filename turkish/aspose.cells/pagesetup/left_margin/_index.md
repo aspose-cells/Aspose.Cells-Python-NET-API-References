@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin mülk
 
-Sol kenar boşluğunun boyutunu santimetre cinsinden temsil eder.
+Sol kenar boşluğunun santimetre cinsinden boyutunu gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

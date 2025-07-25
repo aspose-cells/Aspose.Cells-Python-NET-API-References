@@ -1,6 +1,6 @@
 ---
 title: source_worksheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -18,6 +18,6 @@ def source_worksheet(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionCellMove](/cells/python-net/it/aspose.cells.revisions/revisioncellmove)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellMove`](/cells/python-net/it/aspose.cells.revisions/revisioncellmove)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

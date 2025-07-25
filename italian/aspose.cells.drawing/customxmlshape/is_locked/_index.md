@@ -1,22 +1,27 @@
 ---
 title: is_locked proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 610
+weight: 620
 url: /it/aspose.cells.drawing/customxmlshape/is_locked/
 is_root: false
 ---
 ##  is_locked proprietà
 
-Vero se l'oggetto è bloccato, Falso se l'oggetto può essere modificato quando il foglio è protetto.
+ Vero significa che l'oggetto non può essere modificato quando il foglio è protetto.
+Si noti che questo valore è significativo solo se il foglio di lavoro o gli oggetti nel foglio di lavoro sono protetti.
 
 ###  Esempio
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ###  Definizione:

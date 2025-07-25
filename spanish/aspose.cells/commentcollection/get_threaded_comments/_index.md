@@ -1,14 +1,14 @@
 ---
-title: get_threaded_comments método
+title: método get_threaded_comments
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Obtiene los comentarios encadenados por nombre de celda.
+##  get_threaded_comments(self, cell_name) {#str}
+Obtiene los comentarios enhebrados por nombre de celda.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Obtiene los comentarios encadenados por nombre de celda.
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Obtiene los comentarios encadenados por índice de fila y columna.
+##  get_threaded_comments(self, row, column) {#int-int}
+Obtiene los comentarios enhebrados por índice de fila y columna.
 
 
 ###  Devoluciones
@@ -48,6 +49,7 @@ Obtiene los comentarios encadenados por índice de fila y columna.
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CommentCollection](/cells/python-net/es/aspose.cells/commentcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`CommentCollection`](/cells/python-net/es/aspose.cells/commentcollection)

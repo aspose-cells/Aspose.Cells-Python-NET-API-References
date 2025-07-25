@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_first_point propriété
 
-Indique s'il faut mettre en surbrillance le premier point de données dans le groupe de graphiques sparkline.
+Indique s'il faut mettre en évidence le premier point de données dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_first_point(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

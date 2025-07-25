@@ -3,12 +3,12 @@ title: طريقة get_characters
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells.drawing/scrollbar/get_characters/
 is_root: false
 ---
-##  get_characters {#}
- إرجاع كافة كائنات الأحرف
+##  get_characters(self) {#}
+ إرجاع جميع كائنات الأحرف
 الذي يمثل مجموعة من الأحرف داخل النص.
 
 
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_characters(self):
 
 ###  ملاحظات
 
-ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
-الرجاء استخدام طريقة Shape.GetRichFormattings().
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ نوفمبر 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذه الطريقة أصبحت قديمة الآن. بدلاً من ذلك،
+من فضلك استخدم طريقة Shape.GetRichFormattings().
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ نوفمبر 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  مثال
 
 ```python

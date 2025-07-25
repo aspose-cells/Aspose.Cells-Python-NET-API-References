@@ -1,27 +1,27 @@
 ---
-title: العد ControlMatchEntryType
+title: ControlMatchEntryType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 170
 url: /ar/aspose.cells.drawing.activexcontrols/controlmatchentrytype/
 is_root: false
 ---
-##  العد ControlMatchEntryType
-يمثل كيفية قيام ListBox أو ComboBox بالبحث في قائمته عند كتابة المستخدم.
+##  ControlMatchEntryType التعداد
+يمثل كيفية قيام ListBox أو ComboBox بالبحث في قائمته أثناء قيام المستخدم بالكتابة.
 
 
 
-يكشف نوع ControlMatchEntryType الأعضاء التالية:
+يكشف النوع ControlMatchEntryType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| FIRST_LETTER | يبحث عنصر التحكم عن الإدخال التالي الذي يبدأ بالحرف الذي تم إدخاله.<br/> تتكرر كتابة نفس الحرف بشكل متكرر خلال جميع الإدخالات التي تبدأ بهذا الحرف.|
-| COMPLETE | أثناء كتابة كل حرف ، يبحث عنصر التحكم عن إدخال يطابق جميع الأحرف التي تم إدخالها.|
+| FIRST_LETTER | يبحث عنصر التحكم عن الإدخال التالي الذي يبدأ بالحرف المدخل.<br/> يؤدي كتابة نفس الحرف بشكل متكرر إلى تمرير جميع الإدخالات التي تبدأ بهذا الحرف.|
+| COMPLETE | عند كتابة كل حرف، يبحث عنصر التحكم عن إدخال يطابق جميع الأحرف المدخلة.|
 | NONE | لن يتم البحث في القائمة عند كتابة الأحرف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

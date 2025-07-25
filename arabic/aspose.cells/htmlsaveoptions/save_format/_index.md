@@ -3,7 +3,7 @@ title: save_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 720
 url: /ar/aspose.cells/htmlsaveoptions/save_format/
 is_root: false
 ---

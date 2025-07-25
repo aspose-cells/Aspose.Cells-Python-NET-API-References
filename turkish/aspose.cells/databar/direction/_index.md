@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction mülk
 
-Veri çubuğunun görüntülendiği direction'i alır veya ayarlar.
+direction veri çubuğunun görüntülenmesini sağlar veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
-* sınıf [TextDirectionType](/cells/python-net/tr/aspose.cells/textdirectiontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)
+* sınıf [`TextDirectionType`](/cells/python-net/tr/aspose.cells/textdirectiontype)

@@ -3,14 +3,14 @@ title: is_row_column_headers_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 630
 url: /sv/aspose.cells/worksheet/is_row_column_headers_visible/
 is_root: false
 ---
 ##  is_row_column_headers_visible fastighet
 
-Hämtar eller ställer in ett värde som anger om kalkylbladet kommer att visa rad- och kolumnrubriker.
-Standard är sant.
+Hämtar eller anger ett värde som anger om kalkylbladet ska visa rad- och kolumnrubriker.
+Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/
 is_root: false
 ---
-##  add_link_to_content(name, source) {#str-str}
+##  add_link_to_content(self, name, source) {#str-str}
 Skapar en ny anpassad dokumentegenskap som länkar till innehåll.
 
 
@@ -17,6 +17,7 @@ Det nyskapade egenskapsobjektet.
 
 
 ```python
+
 def add_link_to_content(self, name, source):
     ...
 ```
@@ -24,11 +25,11 @@ def add_link_to_content(self, name, source):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Namnet på fastigheten.|
-| source | str | Källan till fastigheten|
+| name | str | Fastighetens namn.|
+| source | str | Egenskapens källa. Det ska vara namnet på det namngivna området.|
 
 
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [CustomDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`CustomDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/customdocumentpropertycollection)

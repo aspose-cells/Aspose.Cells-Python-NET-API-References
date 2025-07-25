@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  placement fastighet
 
-Representerar hur ritobjektet är fäst vid cellerna under det.
-Egenskapen styr placement för ett objekt på ett kalkylblad.
+Representerar hur ritobjektet är kopplat till cellerna under det.
+Egenskapen styr placement för ett objekt i ett kalkylblad.
 
 ###  Exempel
 
@@ -31,6 +31,6 @@ def placement(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [PlacementType](/cells/python-net/sv/aspose.cells.drawing/placementtype)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`PlacementType`](/cells/python-net/sv/aspose.cells.drawing/placementtype)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

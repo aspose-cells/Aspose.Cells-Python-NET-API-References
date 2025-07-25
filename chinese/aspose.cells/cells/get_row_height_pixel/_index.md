@@ -3,20 +3,21 @@ title: get_row_height_pixel方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 520
 url: /zh/aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
-##  get_row_height_pixel {#int}
-获取指定行的高度（以像素为单位）。
+##  get_row_height_pixel(self, row) {#int}
+以像素为单位获取指定行的高度。
 
 
-### 退货
+### 返回
 
 行高
 
 
 ```python
+
 def get_row_height_pixel(self, row):
     ...
 ```

@@ -8,12 +8,11 @@ url: /es/aspose.cells.revisions/revisionautoformat/
 is_root: false
 ---
 ##  RevisionAutoFormat clase
-representa un registro de revisión de información sobre un cambio de formato.
+Representa un registro de revisión de información sobre un cambio de formato.
 
 
 
-**Herencia:** [RevisionAutoFormat](/cells/python-net/aspose.cells.revisions/revisionautoformat) → 
-[Revision](/cells/python-net/es/aspose.cells.revisions/revision)
+**Herencia:** [`RevisionAutoFormat`](/cells/python-net/es/aspose.cells.revisions/revisionautoformat)
 
 
 
@@ -23,13 +22,12 @@ El tipo RevisionAutoFormat expone los siguientes miembros:
 | Propiedad| Descripción|
 | :- | :- |
 | [type](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/type) | Obtiene el tipo de revisión.|
-| [worksheet](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/worksheet) | Obtiene la hoja de trabajo.|
-| [id](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/id) | Obtiene el número de esta revisión.|
+| [worksheet](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/worksheet) |  |
+| [id](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/id) |  |
 | [cell_area](/cells/python-net/es/aspose.cells.revisions/revisionautoformat/cell_area) | Obtiene la ubicación donde se aplicó el formato.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.revisions](..)
-* clase [Revision](/cells/python-net/es/aspose.cells.revisions/revision)
-* clase [RevisionAutoFormat](/cells/python-net/es/aspose.cells.revisions/revisionautoformat)
+* módulo [`aspose.cells.revisions`](..)
+* clase [`RevisionAutoFormat`](/cells/python-net/es/aspose.cells.revisions/revisionautoformat)

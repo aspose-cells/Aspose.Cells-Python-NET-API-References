@@ -1,15 +1,15 @@
 ---
 title: is_refresh_all_connections недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ru/aspose.cells/worksheetcollection/is_refresh_all_connections/
 is_root: false
 ---
 ##  is_refresh_all_connections недвижимость
 
-Указывает, обновляются ли все соединения при открытии файла в MS Excel.
+Указывает, обновлять ли все соединения при открытии файла в MS Excel.
 ###  Определение:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/
 is_root: false
 ---
-##  DigitalSignatureCollection() {#}
+##  \_\_init\_\_(self){#}
 Le constructeur du DigitalSignatureCollection.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.digitalsignatures](../../)
-* classe [DigitalSignatureCollection](/cells/python-net/fr/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* module [`aspose.cells.digitalsignatures`](../../)
+* classe [`DigitalSignatureCollection`](/cells/python-net/fr/aspose.cells.digitalsignatures/digitalsignaturecollection)

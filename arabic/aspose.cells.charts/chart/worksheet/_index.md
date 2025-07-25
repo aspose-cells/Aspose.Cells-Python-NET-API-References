@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  worksheet عقار
 
-يحصل على worksheet الذي يحتوي على هذا المخطط.
+يحصل على worksheet الذي يحتوي على هذا الرسم البياني.
 ###  تعريف:
 ```python
 @property

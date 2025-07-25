@@ -1,18 +1,19 @@
 ---
 title: Metodo insert_rows
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 720
+weight: 740
 url: /it/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows {#int-int}
+##  insert_rows(self, row_index, total_rows) {#int-int}
 Inserisce più righe nel foglio di lavoro.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows):
     ...
 ```
@@ -20,16 +21,17 @@ def insert_rows(self, row_index, total_rows):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row_index | int | Indice delle righe.|
+| row_index | int | Indice di riga.|
 | total_rows | int | Numero di righe da inserire.|
 
 
-##  insert_rows {#int-int-bool}
+##  insert_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 Inserisce più righe nel foglio di lavoro.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -37,17 +39,18 @@ def insert_rows(self, row_index, total_rows, update_reference):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row_index | int | Indice delle righe.|
+| row_index | int | Indice di riga.|
 | total_rows | int | Numero di righe da inserire.|
-| update_reference | bool | Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.|
+| update_reference | bool | Indica se i riferimenti negli altri fogli di lavoro verranno aggiornati.|
 
 
-##  insert_rows {#int-int-aspose.cells.InsertOptions}
+##  insert_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.InsertOptions}
 Inserisce più righe nel foglio di lavoro.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, options):
     ...
 ```
@@ -55,9 +58,9 @@ def insert_rows(self, row_index, total_rows, options):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row_index | int | Indice delle righe.|
+| row_index | int | Indice di riga.|
 | total_rows | int | Numero di righe da inserire.|
-| options | [`InsertOptions`](/cells/python-net/it/aspose.cells/insertoptions) | Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.|
+| options | [`InsertOptions`](/cells/python-net/it/aspose.cells/insertoptions) | Opzioni per l'inserimento dell'operazione.|
 
 
 

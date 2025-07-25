@@ -1,6 +1,6 @@
 ---
 title: has_drop_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_drop_lines недвижимость
 
-Истинно, если на диаграмме есть выпадающие линии.
-Применяется только к линейной диаграмме или диаграмме с областями.
+Истина, если на диаграмме есть линии сброса.
+Применимо только к линейным диаграммам или диаграммам с областями.
 ###  Определение:
 ```python
 @property

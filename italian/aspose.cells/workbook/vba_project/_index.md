@@ -1,15 +1,15 @@
 ---
 title: vba_project proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 670
+weight: 700
 url: /it/aspose.cells/workbook/vba_project/
 is_root: false
 ---
 ##  vba_project proprietà
 
-Ottiene lo [`Workbook.vba_project`](/cells/python-net/it/aspose.cells/workbook#vba_project) in un foglio di calcolo.
+Ottiene [`Workbook.vba_project`](/cells/python-net/it/aspose.cells/workbook#vba_project) in un foglio di calcolo.
 ###  Definizione:
 ```python
 @property

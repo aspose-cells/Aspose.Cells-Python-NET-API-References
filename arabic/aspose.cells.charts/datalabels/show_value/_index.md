@@ -3,13 +3,13 @@ title: show_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 510
 url: /ar/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
 ##  show_value عقار
 
-يمثل سلوك عرض قيم تسمية بيانات المخطط المحدد. صحيح يعرض القيم. كذبة للاختباء.
+يُمثل سلوك عرض قيم بيانات مخطط مُحدد. يُظهر "صحيح" القيم، ويُخفيها "خطأ".
 ###  تعريف:
 ```python
 @property

@@ -3,7 +3,7 @@ title: order3 mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells/datasorter/order3/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def order3(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataSorter](/cells/python-net/tr/aspose.cells/datasorter)
-* sınıf [SortOrder](/cells/python-net/tr/aspose.cells/sortorder)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataSorter`](/cells/python-net/tr/aspose.cells/datasorter)
+* sınıf [`SortOrder`](/cells/python-net/tr/aspose.cells/sortorder)

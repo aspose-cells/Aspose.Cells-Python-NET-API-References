@@ -1,15 +1,15 @@
 ---
 title: number proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 590
 url: /it/aspose.cells.pivot/pivotfield/number/
 is_root: false
 ---
 ##  number proprietà
 
-Rappresenta il formato di visualizzazione integrato di numeri e date.
+Rappresenta il formato di visualizzazione incorporato di numeri e date.
 ###  Definizione:
 ```python
 @property

@@ -3,17 +3,17 @@ title: has_multi_level_labels Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 180
 url: /de/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
 ##  has_multi_level_labels Eigentum
 
-Gibt an, ob die Beschriftungen mehrstufig angezeigt werden sollen.
+Gibt an, ob die Beschriftungen mehrstufig dargestellt werden sollen.
 
 ###  Bemerkungen
 
-Nur gültig für Kategorieachse.
+Nur gültig für die Kategorieachse.
 ###  Definition:
 ```python
 @property

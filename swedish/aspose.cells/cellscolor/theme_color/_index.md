@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color fastighet
 
-Får temafärgen. Gäller endast för temafärgstyp.
+Hämtar temafärgen. Gäller endast för temafärgstypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

@@ -1,6 +1,6 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 230
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
-
-Указывает, показывать ли shadow.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ScrollBarActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ScrollBarActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

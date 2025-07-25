@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked propiedad
 
-Indica si la forma de segmentación está bloqueada.
+Indica si la forma de la segmentación está bloqueada.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

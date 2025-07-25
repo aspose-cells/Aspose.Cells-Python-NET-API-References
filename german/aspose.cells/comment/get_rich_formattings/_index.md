@@ -7,17 +7,18 @@ weight: 50
 url: /de/aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
+##  get_rich_formattings(self) {#}
  Gibt alle Characters-Objekte zurück
-das einen Zeichenbereich im Kommentartext darstellt.
+das einen Zeichenbereich innerhalb des Kommentartextes darstellt.
 
 
 ###  Kehrt zurück
 
-Alle Characters-Objekte
+Alle Charaktere-Objekte
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

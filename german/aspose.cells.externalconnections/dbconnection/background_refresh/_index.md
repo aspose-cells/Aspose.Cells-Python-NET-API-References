@@ -8,10 +8,6 @@ url: /de/aspose.cells.externalconnections/dbconnection/background_refresh/
 is_root: false
 ---
 ##  background_refresh Eigentum
-
- Gibt an, ob die Verbindung im Hintergrund (asynchron) aktualisiert werden kann.
-true, wenn die bevorzugte Verwendung der Verbindung die asynchrone Aktualisierung im Hintergrund ist;
-false, wenn die bevorzugte Verwendung der Verbindung die synchrone Aktualisierung im Vordergrund ist.
 ###  Definition:
 ```python
 @property
@@ -23,5 +19,5 @@ def background_refresh(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

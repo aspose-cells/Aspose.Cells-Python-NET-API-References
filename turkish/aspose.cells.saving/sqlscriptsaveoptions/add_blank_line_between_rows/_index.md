@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows mülk
 
-Her veri arasına boş satır ekleyin.
+Her verinin arasına boş bir satır ekleyin.
 
 ###  Notlar
 
-[SqlScriptSaveOptions.separator](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions#separator) '\n' ise, okunabilirliği artırmak için bu özelliği true olarak ayarlamak daha iyidir.
+[`SqlScriptSaveOptions.separator`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions#separator) değeri '\n' ise okunabilirliği arttırmak için bu özelliği true olarak ayarlamak daha iyidir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [SqlScriptSaveOptions](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`SqlScriptSaveOptions`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)

@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.drawing/shapepathcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Bir oluşturma yolu ekleyin.
 
 
 ###  İadeler
 
-[ShapePath](/cells/python-net/tr/aspose.cells.drawing/shapepath) nesnesini döndürür.
+[`ShapePath`](/cells/python-net/tr/aspose.cells.drawing/shapepath) nesnesini döndürür.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,6 +27,6 @@ def add(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePath](/cells/python-net/tr/aspose.cells.drawing/shapepath)
-* sınıf [ShapePathCollection](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePath`](/cells/python-net/tr/aspose.cells.drawing/shapepath)
+* sınıf [`ShapePathCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepathcollection)

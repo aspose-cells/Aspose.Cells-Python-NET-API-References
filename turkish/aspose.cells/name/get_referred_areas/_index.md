@@ -7,8 +7,8 @@ weight: 40
 url: /tr/aspose.cells/name/get_referred_areas/
 is_root: false
 ---
-##  get_referred_areas(recalculate) {#bool}
-Bu adla anılan tüm başvuruları alır.
+##  get_referred_areas(self, recalculate) {#bool}
+Bu isimle anılan tüm referansları alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Tüm aralıklar.
 
 
 ```python
+
 def get_referred_areas(self, recalculate):
     ...
 ```
@@ -24,10 +25,10 @@ def get_referred_areas(self, recalculate):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| recalculate | bool | bu ad bu çağrıdan önce hesaplandıysa yeniden hesaplayın.|
+| recalculate | bool | Bu isim bu çağrıdan önce hesaplanmışsa yeniden hesaplansın mı?|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

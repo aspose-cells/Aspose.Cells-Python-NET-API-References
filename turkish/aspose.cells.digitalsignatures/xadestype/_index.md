@@ -12,9 +12,9 @@ XML Gelişmiş Elektronik İmza (XAdES) türü.
 
 
 
-XAdESType türü aşağıdaki üyeleri gösterir:
+XAdESType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | XAdES kapalı.|
@@ -23,4 +23,4 @@ XAdESType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](..)
+* modül [`aspose.cells.digitalsignatures`](..)

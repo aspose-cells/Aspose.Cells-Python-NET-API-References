@@ -23,4 +23,4 @@ El tipo WebExtensionProperty expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](..)
+* módulo [`aspose.cells.webextensions`](..)

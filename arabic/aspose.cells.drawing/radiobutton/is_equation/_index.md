@@ -3,13 +3,13 @@ title: is_equation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ar/aspose.cells.drawing/radiobutton/is_equation/
 is_root: false
 ---
 ##  is_equation عقار
 
-الإشارة إلى ما إذا كان الشكل يحتوي على معادلة فقط.
+يشير إلى ما إذا كان الشكل يحتوي فقط على معادلة.
 
 ###  مثال
 

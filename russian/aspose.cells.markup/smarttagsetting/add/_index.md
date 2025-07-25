@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Добавьте смарт-теги ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -24,19 +25,20 @@ def add(self, cell_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cell_name | str | Имя ячейки.|
+| cell_name | str | Название ячейки.|
 
 
-##  add(row, column) {#int-int}
-Добавляет в ячейку объект [SmartTagCollection](/cells/python-net/ru/aspose.cells.markup/smarttagcollection).
+##  add(self, row, column) {#int-int}
+Добавляет объект [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection) в ячейку.
 
 
-###  Возвращает
+###  Возврат
 
-Возвращает индекс объекта [SmartTagCollection](/cells/python-net/ru/aspose.cells.markup/smarttagcollection) на листе.
+Возвращает индекс объекта [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection) на рабочем листе.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -44,12 +46,12 @@ def add(self, row, column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| row | int | Ряд клетки.|
+| row | int | Ряд ячейки.|
 | column | int | Столбец ячейки.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [SmartTagCollection](/cells/python-net/ru/aspose.cells.markup/smarttagcollection)
-* класс [SmartTagSetting](/cells/python-net/ru/aspose.cells.markup/smarttagsetting)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection)
+* класс [`SmartTagSetting`](/cells/python-net/ru/aspose.cells.markup/smarttagsetting)

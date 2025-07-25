@@ -1,15 +1,15 @@
 ---
-title: value1 الملكية
+title: value1 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 170
 url: /ar/aspose.cells.pivot/pivotfilter/value1/
 is_root: false
 ---
-##  value1 الملكية
+##  value1 عقار
 
-الحصول على السلسلة value1 لعامل التصفية المحوري للتسمية.
+يحصل على السلسلة value1 من مرشح محور التسمية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value1(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilter`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)

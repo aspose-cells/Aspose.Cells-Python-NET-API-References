@@ -7,16 +7,17 @@ weight: 50
 url: /fr/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index {#int}
+##  get_cell_by_index(self, index) {#int}
 Obtenez la cellule par index spécifique dans la collection de cellules de cette ligne.
 
 
 ###  Retour
 
-L'objet Cell à une position donnée.
+L'objet Cell à la position donnée.
 
 
 ```python
+
 def get_cell_by_index(self, index):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
-title: font_name الملكية
+title: font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 30
 url: /ar/aspose.cells.drawing.texts/bullet/font_name/
 is_root: false
 ---
-##  font_name الملكية
+##  font_name عقار
 
-الحصول على اسم الخط وتعيينه.
+احصل على اسم الخط وحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [Bullet](/cells/python-net/ar/aspose.cells.drawing.texts/bullet)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`Bullet`](/cells/python-net/ar/aspose.cells.drawing.texts/bullet)

@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 190
 url: /sv/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing fastighet
 
-Indikerar om avståndet mellan bocketiketten är automatiskt
+Anger om avståndet mellan tick-etiketten är automatiskt
 ###  Definition:
 ```python
 @property

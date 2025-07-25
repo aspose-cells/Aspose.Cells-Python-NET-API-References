@@ -1,18 +1,19 @@
 ---
 title: insert_cut_cells метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 690
+weight: 710
 url: /ru/aspose.cells/cells/insert_cut_cells/
 is_root: false
 ---
-##  insert_cut_cells {#aspose.cells.Range-int-int-aspose.cells.ShiftType}
-Вставить диапазон вырезания.
+##  insert_cut_cells(self, cut_range, row, column, shift_type) {#aspose.cells.Range-int-int-aspose.cells.ShiftType}
+Вставьте диапазон резки.
 
 
 
 ```python
+
 def insert_cut_cells(self, cut_range, row, column, shift_type):
     ...
 ```
@@ -20,9 +21,9 @@ def insert_cut_cells(self, cut_range, row, column, shift_type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cut_range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Вырезанный диапазон.|
+| cut_range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Диапазон сокращения.|
 | row | int | Ряд.|
-| column | int |Колонка.|
+| column | int | Колонна.|
 | shift_type | [`ShiftType`](/cells/python-net/ru/aspose.cells/shifttype) | Тип смены.|
 
 

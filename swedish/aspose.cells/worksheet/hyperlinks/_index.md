@@ -3,13 +3,13 @@ title: hyperlinks fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 570
 url: /sv/aspose.cells/worksheet/hyperlinks/
 is_root: false
 ---
 ##  hyperlinks fastighet
 
-Får samlingen [`HyperlinkCollection`](/cells/python-net/sv/aspose.cells/hyperlinkcollection).
+Hämtar [`HyperlinkCollection`](/cells/python-net/sv/aspose.cells/hyperlinkcollection)-kollektionen.
 ###  Definition:
 ```python
 @property

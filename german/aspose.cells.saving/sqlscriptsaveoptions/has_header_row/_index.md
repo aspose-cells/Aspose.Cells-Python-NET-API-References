@@ -3,7 +3,7 @@ title: has_header_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 130
+weight: 150
 url: /de/aspose.cells.saving/sqlscriptsaveoptions/has_header_row/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](../../)
-* Klasse [SqlScriptSaveOptions](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)
+* Modul [`aspose.cells.saving`](../../)
+* Klasse [`SqlScriptSaveOptions`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)

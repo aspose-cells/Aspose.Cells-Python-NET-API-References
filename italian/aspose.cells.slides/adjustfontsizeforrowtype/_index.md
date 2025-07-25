@@ -1,6 +1,6 @@
 ---
 title: Enumerazione AdjustFontSizeForRowType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
@@ -8,7 +8,7 @@ url: /it/aspose.cells.slides/adjustfontsizeforrowtype/
 is_root: false
 ---
 ##  Enumerazione AdjustFontSizeForRowType
-Rappresenta il tipo di righe da regolare.
+Rappresenta il tipo di righe da modificare.
 
 
 

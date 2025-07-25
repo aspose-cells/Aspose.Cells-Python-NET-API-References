@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
-Koleksiyona bir FormatConditions ekler.
+##  add(self) {#}
+Koleksiyona FormatConditions ekler.
 
 
 ###  İadeler
 
-FormatConditions nesne dizini.
+FormatConditions nesnesinin dizini.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingCollection](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingCollection`](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)

@@ -1,15 +1,15 @@
 ---
 title: show_legend_key proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 130
 url: /it/aspose.cells.charts/chartdatatable/show_legend_key/
 is_root: false
 ---
 ##  show_legend_key proprietà
 
-True se la chiave della legenda dell'etichetta dati è visibile.
+Vero se la legenda dell'etichetta dati è visibile.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_legend_key(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartDataTable](/cells/python-net/it/aspose.cells.charts/chartdatatable)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartDataTable`](/cells/python-net/it/aspose.cells.charts/chartdatatable)

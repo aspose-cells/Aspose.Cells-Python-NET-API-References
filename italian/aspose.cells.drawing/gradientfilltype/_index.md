@@ -1,18 +1,18 @@
 ---
-title: GradientFillType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione GradientFillType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 870
+weight: 860
 url: /it/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
-##  GradientFillType enumerazione
-Rappresenta tutto il tipo di riempimento sfumato.
+##  Enumerazione GradientFillType
+Rappresenta tutti i tipi di riempimento sfumato.
 
 
 
-Il tipo GradientFillType espone i membri seguenti:
+Il tipo GradientFillType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo GradientFillType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

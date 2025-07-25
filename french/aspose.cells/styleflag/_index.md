@@ -3,12 +3,12 @@ title: StyleFlag classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1470
+weight: 1360
 url: /fr/aspose.cells/styleflag/
 is_root: false
 ---
 ##  StyleFlag classe
-Représente les indicateurs qui indiquent les propriétés de mise en forme appliquées.
+Représente les indicateurs qui indiquent les propriétés de formatage appliquées.
 
 
 
@@ -17,7 +17,7 @@ Le type StyleFlag expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells/styleflag/__init__/#) | Construit un objet avec tous les indicateurs comme faux.|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells/styleflag/__init__/#) | Construit un objet avec tous les indicateurs comme faux.|
 
 
 ###  Propriétés
@@ -33,26 +33,26 @@ Le type StyleFlag expose les membres suivants :
 | [diagonal_up_border](/cells/python-net/fr/aspose.cells/styleflag/diagonal_up_border) | Les paramètres de bordure diagonale vers le haut seront appliqués.|
 | [font](/cells/python-net/fr/aspose.cells/styleflag/font) | Les paramètres de police seront appliqués.|
 | [font_size](/cells/python-net/fr/aspose.cells/styleflag/font_size) | Le paramètre de taille de police sera appliqué.|
-| [font_name](/cells/python-net/fr/aspose.cells/styleflag/font_name) | Le paramètre du nom de police sera appliqué.|
+| [font_name](/cells/python-net/fr/aspose.cells/styleflag/font_name) | Le paramètre de nom de police sera appliqué.|
 | [font_color](/cells/python-net/fr/aspose.cells/styleflag/font_color) | Le paramètre de couleur de police sera appliqué.|
-| [font_bold](/cells/python-net/fr/aspose.cells/styleflag/font_bold) |Le paramètre de police gras sera appliqué.|
+| [font_bold](/cells/python-net/fr/aspose.cells/styleflag/font_bold) | Le paramètre de police en gras sera appliqué.|
 | [font_italic](/cells/python-net/fr/aspose.cells/styleflag/font_italic) | Le paramètre de police italique sera appliqué.|
 | [font_underline](/cells/python-net/fr/aspose.cells/styleflag/font_underline) | Le paramètre de soulignement de la police sera appliqué.|
-| [font_strike](/cells/python-net/fr/aspose.cells/styleflag/font_strike) | Le paramètre de police barrée sera appliqué.|
+| [font_strike](/cells/python-net/fr/aspose.cells/styleflag/font_strike) | Le paramètre de suppression de police sera appliqué.|
 | [font_script](/cells/python-net/fr/aspose.cells/styleflag/font_script) | Le paramètre de script de police sera appliqué.|
 | [number_format](/cells/python-net/fr/aspose.cells/styleflag/number_format) | Le paramètre de format numérique sera appliqué.|
-| [alignments](/cells/python-net/fr/aspose.cells/styleflag/alignments) | Le paramètre d’alignement sera appliqué.|
-| [horizontal_alignment](/cells/python-net/fr/aspose.cells/styleflag/horizontal_alignment) | Le paramètre d’alignement horizontal sera appliqué.|
+| [alignments](/cells/python-net/fr/aspose.cells/styleflag/alignments) | Le paramètre d'alignement sera appliqué.|
+| [horizontal_alignment](/cells/python-net/fr/aspose.cells/styleflag/horizontal_alignment) |Le paramètre d’alignement horizontal sera appliqué.|
 | [vertical_alignment](/cells/python-net/fr/aspose.cells/styleflag/vertical_alignment) | Le paramètre d’alignement vertical sera appliqué.|
-| [indent](/cells/python-net/fr/aspose.cells/styleflag/indent) | Le réglage du niveau de retrait sera appliqué.|
+| [indent](/cells/python-net/fr/aspose.cells/styleflag/indent) | Le paramètre de niveau d'indentation sera appliqué.|
 | [rotation](/cells/python-net/fr/aspose.cells/styleflag/rotation) | Le paramètre de rotation sera appliqué.|
-| [wrap_text](/cells/python-net/fr/aspose.cells/styleflag/wrap_text) | Le paramètre de retour à la ligne à la ligne sera appliqué.|
-| [shrink_to_fit](/cells/python-net/fr/aspose.cells/styleflag/shrink_to_fit) | Le paramètre Réduire pour s’adapter sera appliqué.|
+| [wrap_text](/cells/python-net/fr/aspose.cells/styleflag/wrap_text) | Le paramètre d'habillage du texte sera appliqué.|
+| [shrink_to_fit](/cells/python-net/fr/aspose.cells/styleflag/shrink_to_fit) | Le paramètre Rétrécir pour s'adapter sera appliqué.|
 | [text_direction](/cells/python-net/fr/aspose.cells/styleflag/text_direction) | Le paramètre de direction du texte sera appliqué.|
-| [cell_shading](/cells/python-net/fr/aspose.cells/styleflag/cell_shading) | Le paramètre d’ombrage Cell sera appliqué.|
+| [cell_shading](/cells/python-net/fr/aspose.cells/styleflag/cell_shading) | Le paramètre d'ombrage Cell sera appliqué.|
 | [locked](/cells/python-net/fr/aspose.cells/styleflag/locked) | Le paramètre verrouillé sera appliqué.|
-| [hide_formula](/cells/python-net/fr/aspose.cells/styleflag/hide_formula) | Masquer le paramètre de formule sera appliqué.|
-| [quote_prefix](/cells/python-net/fr/aspose.cells/styleflag/quote_prefix) | Masquer le paramètre de formule sera appliqué.|
+| [hide_formula](/cells/python-net/fr/aspose.cells/styleflag/hide_formula) | Le paramètre de masquer la formule sera appliqué.|
+| [quote_prefix](/cells/python-net/fr/aspose.cells/styleflag/quote_prefix) | Le paramètre de masquer la formule sera appliqué.|
 
 
 

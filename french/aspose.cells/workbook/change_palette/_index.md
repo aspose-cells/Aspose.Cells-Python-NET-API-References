@@ -1,5 +1,5 @@
 ---
-title: change_palette méthode
+title: méthode change_palette
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 50
 url: /fr/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
 Modifie la palette de la feuille de calcul dans l'index spécifié.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -40,20 +41,20 @@ Voici la palette de couleurs standard.
 | Noir| 0| 0| 0 |
 | Blanc| 255| 255| 255 |
 | Rouge| 255| 0| 0 |
-| Chaux| 0| 255| 0 |
+| Citron vert| 0| 255| 0 |
 | Bleu| 0| 0| 255 |
 | Jaune| 255| 255| 0 |
 | Magenta| 255| 0| 255 |
-| cyan| 0| 255| 255 |
+| Cyan| 0| 255| 255 |
 | Bordeaux| 128| 0| 0 |
 | Vert| 0| 128| 0 |
 | Marine| 0| 0| 128 |
-| olive| 128| 128| 0 |
+| Olive| 128| 128| 0 |
 | Violet| 128| 0| 128 |
 | Sarcelle| 0| 128| 128 |
 | Argent| 192| 192| 192 |
 | Gris| 128| 128| 128 |
-| Couleur17| 153| 153| 255 |
+|Couleur17| 153| 153| 255 |
 | Couleur18| 153| 51| 102 |
 | Couleur19| 255| 255| 204 |
 | Couleur20| 204| 255| 255 |
@@ -90,12 +91,12 @@ Voici la palette de couleurs standard.
 | Couleur51| 0| 51| 0 |
 | Couleur52| 51| 51| 0 |
 | Couleur53| 153| 51| 0 |
-|Couleur54| 153| 51| 102 |
+| Couleur54| 153| 51| 102 |
 | Couleur55| 51| 51| 153 |
 | Couleur56| 51| 51| 51 |
 
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

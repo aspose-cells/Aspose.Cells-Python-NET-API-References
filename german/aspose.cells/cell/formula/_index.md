@@ -3,18 +3,18 @@ title: formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 490
+weight: 500
 url: /de/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula Eigentum
 
-Ruft eine formula von [`Cell`](/cells/python-net/de/aspose.cells/cell) ab oder legt diese fest.
+Ruft einen formula des [`Cell`](/cells/python-net/de/aspose.cells/cell) ab oder legt diesen fest.
 
 ###  Bemerkungen
 
- Eine Zeichenfolge vom Typ formula beginnt immer mit einem Gleichheitszeichen (=).
-Und bitte verwenden Sie immer Komma(,) als Parametertrennzeichen, z. B. „=SUM(A1, E1, H2)“.
+ Eine Zeichenfolge formula beginnt immer mit einem Gleichheitszeichen (=).
+Und verwenden Sie bitte immer Kommas (,) als Parametertrennzeichen, z. B. „=SUMME(A1, E1, H2)“.
 
 ###  Beispiel
 

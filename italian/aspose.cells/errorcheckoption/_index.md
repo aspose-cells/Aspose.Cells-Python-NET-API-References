@@ -1,14 +1,14 @@
 ---
 title: ErrorCheckOption classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 530
 url: /it/aspose.cells/errorcheckoption/
 is_root: false
 ---
 ##  ErrorCheckOption classe
-Impostazione del controllo errori applicata su determinati intervalli.
+Impostazione di controllo degli errori applicata a determinati intervalli.
 
 
 
@@ -17,12 +17,12 @@ Il tipo ErrorCheckOption espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [is_error_check](/cells/python-net/it/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.ErrorCheckType) | Controlla se verrà controllato il tipo di errore specificato.|
-| [set_error_check](/cells/python-net/it/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.ErrorCheckType-bool) | Imposta se verrà controllato il tipo di errore specificato.|
-| [get_count_of_range](/cells/python-net/it/aspose.cells/errorcheckoption/get_count_of_range/#) | Ottiene il conteggio degli intervalli influenzati da questa impostazione.|
-| [add_range](/cells/python-net/it/aspose.cells/errorcheckoption/add_range/#aspose.cells.CellArea) | Aggiunge un intervallo influenzato da questa impostazione.|
-| [get_range](/cells/python-net/it/aspose.cells/errorcheckoption/get_range/#int) | Ottiene l'intervallo influenzato da questa impostazione in base all'indice specificato.|
-| [remove_range](/cells/python-net/it/aspose.cells/errorcheckoption/remove_range/#int) | Rimuove un intervallo in base all'indice specificato.|
+| [`is_error_check(self, error_check_type)`](/cells/python-net/it/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.errorchecktype) | Controlla se il tipo di errore specificato verrà verificato.|
+| [`set_error_check(self, error_check_type, is_check)`](/cells/python-net/it/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.errorchecktype-bool) | Imposta se il tipo di errore specificato verrà verificato.|
+| [`get_count_of_range(self)`](/cells/python-net/it/aspose.cells/errorcheckoption/get_count_of_range/#) | Ottiene il conteggio degli intervalli influenzati da questa impostazione.|
+| [`add_range(self, ca)`](/cells/python-net/it/aspose.cells/errorcheckoption/add_range/#aspose.cells.cellarea) | Aggiunge un intervallo influenzato da questa impostazione.|
+| [`get_range(self, index)`](/cells/python-net/it/aspose.cells/errorcheckoption/get_range/#int) | Ottiene l'intervallo influenzato da questa impostazione in base all'indice specificato.|
+| [`remove_range(self, index)`](/cells/python-net/it/aspose.cells/errorcheckoption/remove_range/#int) | Rimuove un intervallo in base all'indice specificato.|
 
 
 

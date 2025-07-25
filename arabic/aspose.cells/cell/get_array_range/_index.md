@@ -7,8 +7,8 @@ weight: 60
 url: /ar/aspose.cells/cell/get_array_range/
 is_root: false
 ---
-##  get_array_range() {#}
-الحصول على نطاق الصفيف إذا كانت صيغة الخلية عبارة عن صيغة صفيف.
+##  get_array_range(self) {#}
+يحصل على نطاق المصفوفة إذا كانت صيغة الخلية عبارة عن صيغة مصفوفة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_array_range(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_array_range(self):
 
 ###  ملاحظات
 
-يتم تطبيقه فقط عندما تكون صيغة الخلية عبارة عن صيغة صفيف
+ينطبق فقط عندما تكون صيغة الخلية عبارة عن صيغة مصفوفة
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

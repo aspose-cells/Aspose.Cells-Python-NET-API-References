@@ -3,12 +3,12 @@ title: GradientPresetType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 870
 url: /de/aspose.cells.drawing/gradientpresettype/
 is_root: false
 ---
 ##  GradientPresetType Aufzählung
-Stellt den voreingestellten Farbtyp des Farbverlaufs dar.
+Stellt den voreingestellten Farbverlaufsfarbtyp dar.
 
 
 
@@ -17,33 +17,33 @@ Der Typ GradientPresetType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| BRASS | Messing voreingestellte Farbe|
+| BRASS | Voreingestellte Farbe Messing|
 | CALM_WATER | Voreingestellte Farbe für ruhiges Wasser|
 | CHROME | Voreingestellte Chrome-Farbe|
-| CHROME_II | Chrome II voreingestellte Farbe|
-| DAYBREAK | Voreingestellte Farbe für Daybreak|
+| CHROME_II | Chrome II-Voreinstellungsfarbe|
+| DAYBREAK | Voreingestellte Daybreak-Farbe|
 | DESERT | Voreingestellte Wüstenfarbe|
-| EARLY_SUNSET | Voreingestellte Farbe für frühen Sonnenuntergang|
-| FIRE | Voreingestellte Farbe abfeuern|
+| EARLY_SUNSET | Voreingestellte Farbe „Early Sunset“|
+| FIRE | Voreingestellte Feuerfarbe|
 | FOG | Voreingestellte Nebelfarbe|
 | GOLD | Voreingestellte Farbe Gold|
 | GOLD_II | Voreingestellte Farbe Gold II|
-| HORIZON | Voreingestellte Farbe des Horizonts|
-| LATE_SUNSET | Voreingestellte Farbe für den späten Sonnenuntergang|
-| MAHOGANY | Mahagoni voreingestellte Farbe|
+| HORIZON | Voreingestellte Farbe für Horizont|
+| LATE_SUNSET | Voreingestellte Farbe für „Später Sonnenuntergang“|
+| MAHOGANY | Voreingestellte Farbe Mahagoni|
 | MOSS | Moos voreingestellte Farbe|
-| NIGHTFALL |Voreingestellte Farbe für Dämmerung|
-| OCEAN | Ozean voreingestellte Farbe|
-| PARCHMENT | Voreingestellte Farbe für Pergament|
-| PEACOCK | Peacock voreingestellte Farbe|
+| NIGHTFALL | Voreingestellte Farbe für Einbruch der Dunkelheit|
+| OCEAN | Voreingestellte Ozeanfarbe|
+| PARCHMENT | Voreingestellte Pergamentfarbe|
+| PEACOCK | Voreingestellte Farbe „Pfau“|
 | RAINBOW | Voreingestellte Regenbogenfarbe|
-| RAINBOW_II | Rainbow II voreingestellte Farbe|
-| SAPPHIRE | Saphir voreingestellte Farbe|
+| RAINBOW_II | Voreingestellte Farbe „Rainbow II“|
+| SAPPHIRE | Saphir-Voreinstellungsfarbe|
 | SILVER | Silberne voreingestellte Farbe|
-| WHEAT | Weizen voreingestellte Farbe|
-| UNKNOWN | Unbekannte voreingestellte Farbe.<br/> Nur für die voreingestellte Farbe (die nicht mit einer bekannten voreingestellten Farbe identisch ist) in der Vorlagenarbeitsmappe.|
+| WHEAT | Weizen-Vorgabefarbe|
+| UNKNOWN | Unbekannte voreingestellte Farbe.<br/>Nur für die voreingestellte Farbe (die nicht mit einer bekannten voreingestellten Farbe identisch ist) in der Vorlagenarbeitsmappe.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

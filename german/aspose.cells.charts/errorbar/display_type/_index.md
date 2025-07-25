@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_type Eigentum
 
-Stellt den Anzeigetyp der Fehlerleiste dar.
+Stellt den Anzeigetyp des Fehlerbalken dar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [ErrorBarDisplayType](/cells/python-net/de/aspose.cells.charts/errorbardisplaytype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`ErrorBarDisplayType`](/cells/python-net/de/aspose.cells.charts/errorbardisplaytype)

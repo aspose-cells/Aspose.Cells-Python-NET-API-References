@@ -1,18 +1,19 @@
 ---
 title: update_selected_value метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells.drawing/smartartshape/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-Обновите выбранное значение значением связанной ячейки.
+##  update_selected_value(self) {#}
+Обновить выбранное значение значением связанной ячейки.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: filter_by_fill_color недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color недвижимость
 
-Фильтрация по цвету заливки ячейки.
+Фильтровать ли по цвету заливки ячейки.
 
 ###  Примечания
 
-True: цвет заливки ячейки; Ложь: цвет шрифта ячейки.
+True: цвет заливки ячейки; False: цвет шрифта ячейки.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: alt_text_description недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 380
 url: /ru/aspose.cells.pivot/pivottable/alt_text_description/
 is_root: false
 ---
 ##  alt_text_description недвижимость
 
-Получает описание альтернативного текста
+Получает описание альтернативного текста.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def alt_text_description(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

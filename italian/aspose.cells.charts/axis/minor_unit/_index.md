@@ -1,15 +1,15 @@
 ---
 title: minor_unit proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 370
 url: /it/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---
 ##  minor_unit proprietà
 
-Rappresenta le unità minori per l'asse.
+Rappresenta le unità minori dell'asse.
 
 ###  Osservazioni
 

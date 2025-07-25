@@ -3,16 +3,17 @@ title: show_group_detail Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 900
+weight: 920
 url: /de/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail {#bool-int}
+##  show_group_detail(self, is_vertical, index) {#bool-int}
 Erweitert die gruppierten Zeilen/Spalten.
 
 
 
 ```python
+
 def show_group_detail(self, is_vertical, index):
     ...
 ```

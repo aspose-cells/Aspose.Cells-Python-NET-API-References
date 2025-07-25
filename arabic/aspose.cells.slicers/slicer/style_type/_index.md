@@ -1,15 +1,15 @@
 ---
-title: style_type الملكية
+title: style_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
-##  style_type الملكية
+##  style_type عقار
 
-حدد نوع نمط تقطيع اللحم المدمج
+حدد نوع نمط المقطع المدمج
 النوع الافتراضي هو SlicerStyleLight1
 
 ###  مثال
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
-* فئة [SlicerStyleType](/cells/python-net/ar/aspose.cells.slicers/slicerstyletype)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* فئة [`SlicerStyleType`](/cells/python-net/ar/aspose.cells.slicers/slicerstyletype)

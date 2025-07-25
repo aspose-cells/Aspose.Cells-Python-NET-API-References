@@ -3,13 +3,13 @@ title: display_zeros عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 500
 url: /ar/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ##  display_zeros عقار
 
-صحيح إذا تم عرض القيم الصفرية.
+صحيح إذا تم عرض قيم صفرية.
 ###  تعريف:
 ```python
 @property

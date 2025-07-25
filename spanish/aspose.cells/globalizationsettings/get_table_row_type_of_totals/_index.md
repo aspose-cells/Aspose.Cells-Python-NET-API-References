@@ -7,17 +7,18 @@ weight: 270
 url: /es/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals {#}
-Obtiene el nombre del tipo de las filas de la tabla que constan de la fila total de la tabla a la que se hace referencia.
-El valor predeterminado es "Totales", por lo que en la fórmula "#Totals" representa la fila total de la tabla a la que se hace referencia.
+##  get_table_row_type_of_totals(self) {#}
+Obtiene el nombre del tipo de filas de la tabla que consta de la fila total de la tabla referenciada.
+El valor predeterminado es "Totales", por lo que en la fórmula "#Totales" representa la fila total de la tabla referenciada.
 
 
 ###  Devoluciones
 
-el nombre del tipo de las filas de la tabla
+el nombre del tipo de filas de la tabla
 
 
 ```python
+
 def get_table_row_type_of_totals(self):
     ...
 ```

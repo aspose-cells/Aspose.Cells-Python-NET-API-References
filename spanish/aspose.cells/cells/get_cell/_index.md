@@ -7,7 +7,7 @@ weight: 310
 url: /es/aspose.cells/cells/get_cell/
 is_root: false
 ---
-##  get_cell {#int-int}
+##  get_cell(self, row, column) {#int-int}
 Obtiene el elemento [`Cell`](/cells/python-net/es/aspose.cells/cell) o nulo en el índice de fila de celda y el índice de columna especificados.
 
 
@@ -18,6 +18,7 @@ Devuelve nulo si la celda no existe.
 
 
 ```python
+
 def get_cell(self, row, column):
     ...
 ```
@@ -25,14 +26,14 @@ def get_cell(self, row, column):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| row | int | índice de fila|
+| row | int | Índice de fila|
 | column | int | Índice de columnas|
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método CheckCell (int fila, int columna).
- Este método se eliminará 12 meses después, desde febrero de 2024.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice el método CheckCell(int fila, int columna).
+ Este método se eliminará 12 meses después, a partir de febrero de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también

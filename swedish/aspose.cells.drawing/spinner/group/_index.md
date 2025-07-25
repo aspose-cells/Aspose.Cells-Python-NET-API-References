@@ -3,13 +3,13 @@ title: group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 410
 url: /sv/aspose.cells.drawing/spinner/group/
 is_root: false
 ---
 ##  group fastighet
 
-Får formen group som innehåller denna form.
+Hämtar formen group som innehåller den här formen.
 
 ###  Exempel
 

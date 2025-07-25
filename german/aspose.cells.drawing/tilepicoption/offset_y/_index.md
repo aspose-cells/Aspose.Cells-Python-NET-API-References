@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  offset_y Eigentum
 
-Ruft den Y-Offset für das Kachelbild ab oder legt diesen fest.
+Ruft den Y-Versatz für die Kachelung des Bildes ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_y(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

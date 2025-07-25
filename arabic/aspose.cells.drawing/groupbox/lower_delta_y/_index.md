@@ -3,17 +3,17 @@ title: lower_delta_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 770
 url: /ar/aspose.cells.drawing/groupbox/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y عقار
 
-الحصول على الإزاحة الرأسية للشكل أو تعيينها من صف الزاوية اليمنى السفلية.
+يحصل على أو يعين الإزاحة الرأسية للشكل من صف الزاوية اليمنى السفلية.
 
 ###  ملاحظات
 
-نطاق القيمة هو 0 إلى 256.
+نطاق القيمة هو من 0 إلى 256.
 
 ###  مثال
 

@@ -3,19 +3,19 @@ title: SqlScriptOperatorType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells.saving/sqlscriptoperatortype/
 is_root: false
 ---
 ## SqlScriptOperatorType枚举
-代表操作数据的类型。
+表示操作数据的类型。
 
 
 
 SqlScriptOperatorType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | INSERT |插入数据。|
 | UPDATE |更新数据。|

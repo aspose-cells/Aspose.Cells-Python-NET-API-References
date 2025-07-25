@@ -1,15 +1,15 @@
 ---
-title: over_lay الملكية
+title: over_lay عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 330
 url: /ar/aspose.cells.charts/title/over_lay/
 is_root: false
 ---
-##  over_lay الملكية
+##  over_lay عقار
 
-يمثل تراكب العنوان المركزي على الرسم البياني دون تغيير حجم المخطط.
+يمثل عنوانًا متمركزًا فوق الرسم البياني دون تغيير حجم الرسم البياني.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def over_lay(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

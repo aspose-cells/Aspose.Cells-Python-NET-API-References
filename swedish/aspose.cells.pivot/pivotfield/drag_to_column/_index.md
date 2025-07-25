@@ -3,7 +3,7 @@ title: drag_to_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 360
 url: /sv/aspose.cells.pivot/pivotfield/drag_to_column/
 is_root: false
 ---

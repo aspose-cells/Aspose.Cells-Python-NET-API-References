@@ -1,15 +1,15 @@
 ---
-title: shape_properties 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shape_properties属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 330
 url: /zh/aspose.cells.charts/plotarea/shape_properties/
 is_root: false
 ---
-## shape_properties 属性
+## shape_properties属性
 
-获取 [ChartFrame.shape_properties](/cells/python-net/zh/aspose.cells.charts/chartframe#shape_properties) 对象。
+获取 [`ChartFrame.shape_properties`](/cells/python-net/zh/aspose.cells.charts/chartframe#shape_properties) 对象。
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def shape_properties(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [PlotArea](/cells/python-net/zh/aspose.cells.charts/plotarea)
-* 类 [ShapePropertyCollection](/cells/python-net/zh/aspose.cells.drawing/shapepropertycollection)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`PlotArea`](/cells/python-net/zh/aspose.cells.charts/plotarea)
+* 类 [`ShapePropertyCollection`](/cells/python-net/zh/aspose.cells.drawing/shapepropertycollection)

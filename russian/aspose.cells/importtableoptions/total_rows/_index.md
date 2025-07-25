@@ -1,6 +1,6 @@
 ---
 title: total_rows недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_rows недвижимость
 
-Получает или задает общее количество строк для импорта из источника данных. -1 означает все строки данного источника данных.
+Возвращает или задает общее количество строк для импорта из источника данных. -1 означает все строки указанного источника данных.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_rows(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

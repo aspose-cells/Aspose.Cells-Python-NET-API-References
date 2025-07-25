@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/fr/aspose.cells/colorscale)
+* module [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/fr/aspose.cells/colorscale)

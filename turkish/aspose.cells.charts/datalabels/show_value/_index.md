@@ -3,13 +3,13 @@ title: show_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 510
 url: /tr/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
 ##  show_value mülk
 
-Belirtilen grafiğin veri etiketi değerleri görüntüleme davranışını temsil eder. True değerleri görüntüler. Saklanacak yanlış.
+Belirtilen bir grafiğin veri etiketi değerlerinin görüntülenme davranışını temsil eder. True değerleri görüntüler. Gizlemek için False kullanılır.
 ###  Tanım:
 ```python
 @property

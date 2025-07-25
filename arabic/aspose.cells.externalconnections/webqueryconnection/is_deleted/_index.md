@@ -1,16 +1,13 @@
 ---
-title: is_deleted الملكية
+title: is_deleted عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 180
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_deleted/
 is_root: false
 ---
-##  is_deleted الملكية
-
-يشير إلى ما إذا كان قد تم حذف اتصال المصنف المرتبط. صحيح إذا كان
-تم حذف الاتصال ؛ خلاف ذلك ، خطأ.
+##  is_deleted عقار
 ###  تعريف:
 ```python
 @property
@@ -22,5 +19,5 @@ def is_deleted(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

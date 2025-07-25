@@ -3,7 +3,7 @@ title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /ar/aspose.cells.drawing/commentshape/type/
 is_root: false
 ---

@@ -1,16 +1,16 @@
 ---
 title: page_change недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 850
+weight: 860
 url: /ru/aspose.cells.drawing/listbox/page_change/
 is_root: false
 ---
 ##  page_change недвижимость
 
  Указывает величину, на которую изменяется значение элемента управления.
-когда пользователь нажимает на область полосы прокрутки вверх или вниз.
+когда пользователь нажимает на область полосы прокрутки «страница вверх» или «страница вниз».
 ###  Определение:
 ```python
 @property

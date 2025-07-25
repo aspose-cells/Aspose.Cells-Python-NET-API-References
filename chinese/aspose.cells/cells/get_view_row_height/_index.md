@@ -3,20 +3,21 @@ title: get_view_row_height方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 550
 url: /zh/aspose.cells/cells/get_view_row_height/
 is_root: false
 ---
-##  get_view_row_height {#int}
+##  get_view_row_height(self, row) {#int}
 获取指定行的高度。
 
 
-### 退货
+### 返回
 
-行的高度。
+行高。
 
 
 ```python
+
 def get_view_row_height(self, row):
     ...
 ```

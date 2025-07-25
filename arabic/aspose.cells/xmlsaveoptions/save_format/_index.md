@@ -1,13 +1,13 @@
 ---
-title: save_format الملكية
+title: save_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 130
 url: /ar/aspose.cells/xmlsaveoptions/save_format/
 is_root: false
 ---
-##  save_format الملكية
+##  save_format عقار
 
 يحصل على تنسيق ملف الحفظ.
 ###  تعريف:
@@ -18,6 +18,6 @@ def save_format(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SaveFormat](/cells/python-net/ar/aspose.cells/saveformat)
-* فئة [XmlSaveOptions](/cells/python-net/ar/aspose.cells/xmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat)
+* فئة [`XmlSaveOptions`](/cells/python-net/ar/aspose.cells/xmlsaveoptions)

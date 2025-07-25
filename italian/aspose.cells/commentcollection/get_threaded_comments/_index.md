@@ -1,14 +1,14 @@
 ---
-title: metodo get_threaded_comments
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_threaded_comments
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Ottiene i commenti in thread in base al nome della cella.
+##  get_threaded_comments(self, cell_name) {#str}
+Ottiene i commenti ordinati in base al nome della cella.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Ottiene i commenti in thread in base al nome della cella.
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Ottiene i commenti in thread per indice di riga e colonna.
+##  get_threaded_comments(self, row, column) {#int-int}
+Ottiene i commenti suddivisi in base all'indice di riga e di colonna.
 
 
 ###  ritorna
@@ -48,6 +49,7 @@ Ottiene i commenti in thread per indice di riga e colonna.
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -55,8 +57,8 @@ def get_threaded_comments(self, row, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | L'indice di riga.|
-| column | int | L'indice di colonna.|
+| row | int | Indice di riga.|
+| column | int | L'indice della colonna.|
 
 ###  Esempio
 
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CommentCollection](/cells/python-net/it/aspose.cells/commentcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`CommentCollection`](/cells/python-net/it/aspose.cells/commentcollection)

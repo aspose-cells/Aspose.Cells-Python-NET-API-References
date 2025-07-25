@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_old_formatted fastighet
 
-Anger om denna cell är gammal formaterad.
+Anger om den här cellen har ett gammalt format.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_formatted(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)

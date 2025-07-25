@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  both fastighet
 
-Anger om de två kriterierna har ett "och"-samband.
+Anger om de två kriterierna har en "och"-relation.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CustomFilterCollection](/cells/python-net/sv/aspose.cells/customfiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`CustomFilterCollection`](/cells/python-net/sv/aspose.cells/customfiltercollection)

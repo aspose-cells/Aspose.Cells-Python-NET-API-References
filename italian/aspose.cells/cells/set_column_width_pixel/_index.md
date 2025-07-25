@@ -1,18 +1,19 @@
 ---
 title: Metodo set_column_width_pixel
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 850
+weight: 870
 url: /it/aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
-##  set_column_width_pixel {#int-int}
-Imposta la larghezza della colonna in unità di pixel nella visualizzazione normale.
+##  set_column_width_pixel(self, column, pixels) {#int-int}
+Imposta la larghezza della colonna in pixel nella visualizzazione normale.
 
 
 
 ```python
+
 def set_column_width_pixel(self, column, pixels):
     ...
 ```

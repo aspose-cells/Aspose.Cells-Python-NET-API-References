@@ -3,13 +3,13 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 850
 url: /sv/aspose.cells.drawing/radiobutton/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in formens name.
+Hämtar och anger name för formen.
 
 ###  Exempel
 

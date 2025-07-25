@@ -1,6 +1,6 @@
 ---
 title: linked_graphic недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsPageBackground](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsPageBackground`](/cells/python-net/ru/aspose.cells.ods/odspagebackground)

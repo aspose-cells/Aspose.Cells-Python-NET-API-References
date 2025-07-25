@@ -3,7 +3,7 @@ title: separator Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 220
 url: /de/aspose.cells.saving/sqlscriptsaveoptions/separator/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ruft das Zeichen separator des SQL-Skripts ab und legt es fest.
 
 ###  Bemerkungen
 
-Kann nur ' ' oder '\n' sein.
+Kann nur „ “ oder „\n“ sein.
 Wenn die
 ###  Definition:
 ```python
@@ -26,5 +26,5 @@ def separator(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](../../)
-* Klasse [SqlScriptSaveOptions](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)
+* Modul [`aspose.cells.saving`](../../)
+* Klasse [`SqlScriptSaveOptions`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)

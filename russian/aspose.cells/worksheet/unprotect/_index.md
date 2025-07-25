@@ -1,18 +1,19 @@
 ---
 title: unprotect метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 340
 url: /ru/aspose.cells/worksheet/unprotect/
 is_root: false
 ---
-##  unprotect {#}
-Снимает защиту листа.
+##  unprotect(self) {#}
+Снимает защиту с листа.
 
 
 
 ```python
+
 def unprotect(self):
     ...
 ```
@@ -20,15 +21,16 @@ def unprotect(self):
 
 ###  Примечания
 
-Этот метод снимает защиту с листа, защищенного паролем.
+Этот метод снимает защиту с листа, защищенного без пароля.
 
-##  unprotect {#str}
+##  unprotect(self, password) {#str}
 
-Снимает защиту листа.
+Снимает защиту с листа.
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```
@@ -39,7 +41,7 @@ def unprotect(self, password):
 | password | str | Пароль|
 ###  Примечания
 
-Если лист защищен паролем, вы можете установить нулевое значение или пустую строку в качестве параметра пароля.
+Если рабочий лист защищен без пароля, вы можете задать для параметра пароля нулевое значение или пустую строку.
 
 
 ###  Смотрите также

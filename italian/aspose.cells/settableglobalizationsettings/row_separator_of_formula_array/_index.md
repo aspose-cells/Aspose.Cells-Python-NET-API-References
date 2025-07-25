@@ -1,6 +1,6 @@
 ---
 title: row_separator_of_formula_array proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 510
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row_separator_of_formula_array proprietà
 
-Ottiene il separatore per le righe nei dati della matrice nella formula.
+Ottiene il separatore per le righe nei dati dell'array nella formula.
 ###  Definizione:
 ```python
 @property

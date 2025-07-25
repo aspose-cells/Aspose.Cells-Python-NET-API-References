@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
-##  auto_fit_column(column_index) {#int}
-يتم ضبط عرض العمود تلقائيًا.
+##  auto_fit_column(self, column_index) {#int}
+ضبط عرض العمود تلقائيًا.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index):
     ...
 ```
@@ -25,13 +26,14 @@ def auto_fit_column(self, column_index):
 
 AutoFitColumn هي وظيفة غير دقيقة.
 
-##  auto_fit_column(column_index, first_row, last_row) {#int-int-int}
+##  auto_fit_column(self, column_index, first_row, last_row) {#int-int-int}
 
-يتم ضبط عرض العمود تلقائيًا.
+ضبط عرض العمود تلقائيًا.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index, first_row, last_row):
     ...
 ```
@@ -41,13 +43,13 @@ def auto_fit_column(self, column_index, first_row, last_row):
 | :- | :- | :- |
 | column_index | int | فهرس العمود.|
 | first_row | int | فهرس الصف الأول.|
-| last_row | int | فهرس الصف الأخير.|
+| last_row | int | مؤشر الصف الأخير.|
 ###  ملاحظات
 
-تعمل هذه الطريقة على احتواء صف تلقائيًا استنادًا إلى المحتوى الموجود في نطاق من الخلايا داخل الصف.
+تعمل هذه الطريقة على ملاءمة صف تلقائيًا استنادًا إلى المحتوى الموجود في نطاق من الخلايا داخل الصف.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

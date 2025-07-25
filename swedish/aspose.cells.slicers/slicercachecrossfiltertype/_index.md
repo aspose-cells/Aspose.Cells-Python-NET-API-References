@@ -17,11 +17,11 @@ Typen SlicerCacheCrossFilterType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NONE | Tabellstilselementet i slicer-stilen för slicer-objekt<br/>utan data tillämpas inte på slicerobjekt utan data och slicerobjekt<br/> utan data sorteras inte separat i listan över utsnittsobjekt i utsnittsvyn|
-| SHOW_ITEMS_WITH_DATA_AT_TOP |Tabellstilselementet i slicer-stilen för slicer-artiklar med<br/>inga data tillämpas på skivobjekt utan data, och skivobjekt<br/> utan data sorteras längst ner i listan över skivobjekt i skivvyn|
-| SHOW_ITEMS_WITH_NO_DATA | Tabellformatelementet i utsnittsformatet för utsnittsobjekt utan data<br/> tillämpas på skivobjekt utan data och skivobjekt utan data<br/> sorteras inte separat i listan över utsnittsobjekt i utsnittsvyn.|
+| NONE | Tabellstilselementet i utsnittsstilen för utsnittsobjekt<br/>utan data tillämpas inte på utsnittsobjekt utan data, och utsnittsobjekt<br/>utan data sorteras inte separat i listan över utsnittsobjekt i utsnittsvyn|
+| SHOW_ITEMS_WITH_DATA_AT_TOP | Tabellstilselementet i utsnittsstilen för utsnittsobjekt med<br/>inga data tillämpas på utsnittsobjekt utan data, och utsnittsobjekt<br/> utan data sorteras längst ner i listan över utsnittsobjekt i utsnittsvyn|
+| SHOW_ITEMS_WITH_NO_DATA | Tabellstilselementet i utsnittsstilen för utsnittsobjekt utan data<br/> tillämpas på utsnittsobjekt utan data och utsnittsobjekt utan data<br/> sorteras inte separat i listan över utsnittsobjekt i utsnittsvyn.|
 
 
 
 ###  Se även
-* modul [aspose.cells.slicers](..)
+* modul [`aspose.cells.slicers`](..)

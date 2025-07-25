@@ -3,13 +3,13 @@ title: pivot_tables mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 710
+weight: 740
 url: /tr/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---
 ##  pivot_tables mülk
 
-Bu çalışma sayfasındaki tüm pivot tabloları alır.
+Bu çalışma sayfasındaki tüm pivot tablolarını alır.
 ###  Tanım:
 ```python
 @property

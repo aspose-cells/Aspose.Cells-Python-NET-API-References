@@ -1,6 +1,6 @@
 ---
 title: SmartTagShowType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-SmartTagShowType 类型公开了以下成员：
+SmartTagShowType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| ALL |指示智能标记已启用并显示|
-| NO_SMART_TAG_INDICATOR |指示智能标签已启用但未显示指示器。|
-| NONE |指示智能标记被禁用且不显示。|
+| ALL |表示智能标签已启用并显示|
+| NO_SMART_TAG_INDICATOR |表示智能标签已启用但未显示指示器。|
+| NONE |表示智能标记被禁用并且不显示。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.markup](..)
+* 模块[`aspose.cells.markup`](..)

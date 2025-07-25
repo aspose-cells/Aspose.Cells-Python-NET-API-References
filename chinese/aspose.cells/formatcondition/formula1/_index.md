@@ -1,21 +1,21 @@
 ---
-title: formula1 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: formula1属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
 url: /zh/aspose.cells/formatcondition/formula1/
 is_root: false
 ---
-## formula1 属性
+## formula1属性
 
-获取和设置与条件格式关联的值或表达式。
+获取并设置与条件格式相关的值或表达式。
 
-### 评论
+### 注意事项
 
 请在设置公式之前添加所有区域。
-设置此条件的公式，如果输入值以'='开头，则将其作为公式。
-否则它将被视为纯值（文本、数字、布尔值）。对于以'='开头的文本值，用户可以将其作为公式输入，格式为："=\"=...\""。
+对于此条件设置公式，如果输入值以“=”开头，则将作为公式。
+否则将被视为纯值（文本、数字、布尔值）。对于以“=”开头的文本值，用户可以按以下格式输入公式：“=\"=...\"”。
 ### 定义：
 ```python
 @property
@@ -27,5 +27,5 @@ def formula1(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FormatCondition](/cells/python-net/zh/aspose.cells/formatcondition)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormatCondition`](/cells/python-net/zh/aspose.cells/formatcondition)

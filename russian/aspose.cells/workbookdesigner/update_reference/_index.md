@@ -1,6 +1,6 @@
 ---
 title: update_reference недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference недвижимость
 
-Указывает, будут ли обновляться ссылки на других листах.
+Указывает, будут ли обновлены ссылки на других листах.
 ###  Определение:
 ```python
 @property

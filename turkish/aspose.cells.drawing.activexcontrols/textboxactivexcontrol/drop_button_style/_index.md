@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_button_style mülk
 
-Bırak düğmesinde görüntülenen sembolü belirtir
+Bırakma düğmesinde görüntülenen simgeyi belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def drop_button_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [DropButtonStyle](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`DropButtonStyle`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

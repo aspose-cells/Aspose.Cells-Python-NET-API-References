@@ -3,7 +3,7 @@ title: rotation_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 380
 url: /ar/aspose.cells.charts/legend/rotation_angle/
 is_root: false
 ---

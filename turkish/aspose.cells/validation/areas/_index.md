@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  areas mülk
 
-Veri doğrulama ayarlarını içeren tüm [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)'i alır.
+Veri doğrulama ayarlarını içeren tüm [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)'leri alır.
 ###  Tanım:
 ```python
 @property

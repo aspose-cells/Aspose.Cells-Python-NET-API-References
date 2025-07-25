@@ -1,6 +1,6 @@
 ---
 title: search_backward proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  search_backward proprietà
 
-Indica se cercare all'indietro le celle.
+Se cercare le celle all'indietro.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/it/aspose.cells/findoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/it/aspose.cells/findoptions)

@@ -1,5 +1,5 @@
 ---
-title: WeightType dénombrement
+title: WeightType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 1190
 url: /fr/aspose.cells.drawing/weighttype/
 is_root: false
 ---
-##  WeightType dénombrement
-Énumère les types de poids pour une bordure d'image ou une ligne de graphique.
+##  WeightType énumération
+Énumère les types de poids pour une bordure d’image ou une ligne de graphique.
 
 
 
@@ -20,9 +20,9 @@ Le type WeightType expose les membres suivants :
 | HAIR_LINE | Représente le poids de la ligne des cheveux.|
 | MEDIUM_LINE | Représente le poids de la ligne moyenne.|
 | SINGLE_LINE | Représente le poids d'une seule ligne.|
-| WIDE_LINE | Représente le poids de la ligne large.|
+| WIDE_LINE |Représente le poids de la ligne large.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

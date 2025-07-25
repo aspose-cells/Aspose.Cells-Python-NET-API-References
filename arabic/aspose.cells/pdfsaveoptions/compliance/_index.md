@@ -3,17 +3,17 @@ title: compliance عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
 ##  compliance عقار
 
-الحصول على أو تعيين مستوى PDF القياسي compliance لمستندات الإخراج.
+يحصل على أو يعين مستوى المعايير PDF compliance لمستندات الإخراج.
 
 ###  ملاحظات
 
-الافتراضي هو Pdf17.
+الإفتراضي هو Pdf17.
 ###  تعريف:
 ```python
 @property

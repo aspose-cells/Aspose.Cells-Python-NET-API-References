@@ -1,6 +1,6 @@
 ---
 title: gradient_style_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style_type proprietà
 
-Ottiene e imposta lo stile dell'ombreggiatura sfumata.
+Ottiene e imposta lo stile di ombreggiatura del gradiente.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GradientStyleType](/cells/python-net/it/aspose.cells.drawing/gradientstyletype)
-* classe [TwoColorGradient](/cells/python-net/it/aspose.cells/twocolorgradient)
+* modulo [`aspose.cells`](../../)
+* classe [`GradientStyleType`](/cells/python-net/it/aspose.cells.drawing/gradientstyletype)
+* classe [`TwoColorGradient`](/cells/python-net/it/aspose.cells/twocolorgradient)

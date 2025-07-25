@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  year mülk
 
-Gruplandırılmış tarih saatinin year'ini alır ve ayarlar.
+Gruplanmış tarih ve saatin year değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def year(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DateTimeGroupItem](/cells/python-net/tr/aspose.cells/datetimegroupitem)
+* modül [`aspose.cells`](../../)
+* sınıf [`DateTimeGroupItem`](/cells/python-net/tr/aspose.cells/datetimegroupitem)

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  plot_visible_cells Eigentum
 
-Gibt an, ob nur sichtbare Zellen dargestellt werden sollen.
+Gibt an, ob nur sichtbare Zellen dargestellt werden.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Eigenschaft PlotVisibleCellsOnly.
-Diese Methode wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Methode wird 12 Monate später ab Dezember 2022 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

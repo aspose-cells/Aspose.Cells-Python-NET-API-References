@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  borders mülk
 
-Tüm borders ayarları uygulanacaktır.
+borders ayarlarının tamamı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def borders(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

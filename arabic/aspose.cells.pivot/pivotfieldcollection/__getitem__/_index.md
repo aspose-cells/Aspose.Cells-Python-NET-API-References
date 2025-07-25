@@ -1,16 +1,16 @@
 ---
-title: PivotFieldCollection مفهرس
+title: PivotFieldCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
-##  PivotFieldCollection مفهرس
+##  PivotFieldCollection فهرس
 
 يحصل على كائن PivotField في الفهرس المحدد.
-###  مفهرس
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index |  |

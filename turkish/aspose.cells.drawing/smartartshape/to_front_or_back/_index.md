@@ -3,16 +3,17 @@ title: to_front_or_back yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells.drawing/smartartshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
-Şekli öne getirir veya şekli arkaya gönderir.
+##  to_front_or_back(self, orders) {#int}
+Şekli öne getirir veya arkaya gönderir.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```

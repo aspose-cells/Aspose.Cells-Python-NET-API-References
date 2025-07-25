@@ -3,12 +3,12 @@ title: PageSavingArgs klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 50
 url: /sv/aspose.cells.rendering/pagesavingargs/
 is_root: false
 ---
 ##  PageSavingArgs klass
-Info för en process för att spara sidan.
+Information om en process för att spara sidor.
 
 
 
@@ -23,4 +23,4 @@ Typen PageSavingArgs avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

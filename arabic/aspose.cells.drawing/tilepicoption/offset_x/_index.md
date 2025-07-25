@@ -1,5 +1,5 @@
 ---
-title: offset_x الملكية
+title: offset_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/tilepicoption/offset_x/
 is_root: false
 ---
-##  offset_x الملكية
+##  offset_x عقار
 
-الحصول على أو ضبط الإزاحة X لتبليط الصورة.
+يحصل على أو يعين إزاحة X لتقسيم الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TilePicOption](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TilePicOption`](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)

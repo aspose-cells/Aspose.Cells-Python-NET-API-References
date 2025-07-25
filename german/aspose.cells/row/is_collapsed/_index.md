@@ -3,7 +3,7 @@ title: is_collapsed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 180
 url: /de/aspose.cells/row/is_collapsed/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Row](/cells/python-net/de/aspose.cells/row)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Row`](/cells/python-net/de/aspose.cells/row)

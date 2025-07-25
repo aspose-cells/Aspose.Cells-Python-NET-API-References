@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index {#int}
-Bu satırın hücre koleksiyonundaki hücreyi belirli bir dizine göre alın.
+##  get_cell_by_index(self, index) {#int}
+Bu satırın hücre koleksiyonundaki belirli dizine göre hücreyi al.
 
 
 ###  İadeler
 
-Belirtilen konumdaki Cell nesnesi.
+Verilen konumdaki Cell nesnesi.
 
 
 ```python
+
 def get_cell_by_index(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get_cell_by_index(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Bu satırın hücre koleksiyonundaki hücrenin dizini (konumu).|
+| index | int | Bu satırın hücre koleksiyonundaki hücrenin indeksi (pozisyonu).|
 ###  Notlar
 
-Tüm hücreleri değişiklik yapmadan sırayla dolaşmak için,
-[`Row.get_enumerator`](/cells/python-net/tr/aspose.cells/row/get_enumerator)'in kullanılması, hücreleri tek tek almak için bu yöntemi kullanmaktan daha iyi performans verecektir.
+Sıradaki tüm hücreleri herhangi bir değişiklik yapmadan dolaşmak için,
+Hücreleri tek tek almak için bu yöntemi kullanmaktansa [`Row.get_enumerator`](/cells/python-net/tr/aspose.cells/row/get_enumerator)'i kullanmak daha iyi performans verecektir.
 
 
 ###  Ayrıca bakınız

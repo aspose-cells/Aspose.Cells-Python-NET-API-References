@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bookmark fastighet
 
-Hämtar och ställer in objektet [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry).
+Hämtar och anger [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)-objektet.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def bookmark(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

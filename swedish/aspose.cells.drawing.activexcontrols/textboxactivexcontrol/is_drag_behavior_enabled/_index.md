@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_drag_behavior_enabled fastighet
 
-Indikerar om dra och släpp är aktiverat för kontrollen.
+Anger om dra och släpp är aktiverat för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_drag_behavior_enabled(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

@@ -3,18 +3,18 @@ title: width mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 510
+weight: 580
 url: /tr/aspose.cells.charts/datalabels/width/
 is_root: false
 ---
 ##  width mülk
 
-Grafik alanının 1/4000'lik birimlerinde çerçevenin width'ini alır veya ayarlar.
+Grafik alanının 1/4000'lik birimler halinde width çerçeve değerini alır veya ayarlar.
 
 ###  Notlar
 
  1/4000 birimleri piksele nasıl dönüştürülür?
-Piksel Olarak Genişlik = Genişlik * Chart.ChartObject.Height / 4000;
+Genişlik Piksel Cinsinden = Genişlik * Chart.ChartObject.Height / 4000d;
 ###  Tanım:
 ```python
 @property

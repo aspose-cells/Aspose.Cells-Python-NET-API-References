@@ -17,13 +17,13 @@ El tipo DigitalSignatureCollection expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |El constructor de DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | El constructor de DigitalSignatureCollection.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Agregue una firma a DigitalSignatureCollection.|
+| [`add(self, digital_signature)`](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | Agregue una firma a DigitalSignatureCollection.|
 
 
 
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Ver también
-* módulo [aspose.cells.digitalsignatures](..)
+* módulo [`aspose.cells.digitalsignatures`](..)

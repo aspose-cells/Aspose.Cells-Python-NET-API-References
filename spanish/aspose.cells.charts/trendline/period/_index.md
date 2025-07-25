@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  period propiedad
 
-Devuelve o establece el period para la línea de tendencia del promedio móvil.
+Devuelve o establece period para la línea de tendencia del promedio móvil.
 
 ###  Observaciones
 
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

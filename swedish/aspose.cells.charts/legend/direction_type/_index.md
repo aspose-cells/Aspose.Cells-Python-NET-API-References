@@ -3,7 +3,7 @@ title: direction_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 190
 url: /sv/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---

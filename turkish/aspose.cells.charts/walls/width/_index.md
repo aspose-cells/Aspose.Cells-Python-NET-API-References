@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra grafiğin width'inin 1/4000'lik birimlerinde soldan sağa width'i alır.
+Chart.Calculate() metodunu çağırdıktan sonra grafiğin width değerinin 1/4000'lik birimler halinde soldan sağa width değerini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

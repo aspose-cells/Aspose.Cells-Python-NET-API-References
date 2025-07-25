@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type mülk
 
-Belirtilen eksende diğer eksenin kesiştiği [`Axis.cross_type`](/cells/python-net/tr/aspose.cells.charts/axis#cross_type)'i temsil eder.
+Diğer eksenin geçtiği belirtilen eksende [`Axis.cross_type`](/cells/python-net/tr/aspose.cells.charts/axis#cross_type)'i temsil eder.
 ###  Tanım:
 ```python
 @property

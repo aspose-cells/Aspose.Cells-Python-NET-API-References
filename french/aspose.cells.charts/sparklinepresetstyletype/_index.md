@@ -1,5 +1,5 @@
 ---
-title: SparklinePresetStyleType dénombrement
+title: SparklinePresetStyleType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 620
 url: /fr/aspose.cells.charts/sparklinepresetstyletype/
 is_root: false
 ---
-##  SparklinePresetStyleType dénombrement
-Représente les types de style prédéfinis pour les graphiques sparkline.
+##  SparklinePresetStyleType énumération
+Représente les types de styles prédéfinis pour Sparkline.
 
 
 
@@ -17,8 +17,8 @@ Le type SparklinePresetStyleType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| STYLE1 | Modèle 1|
-| STYLE2 | Modèle 2|
+| STYLE1 | Style 1|
+| STYLE2 | Style 2|
 | STYLE3 | Style 3|
 | STYLE4 | Style 4|
 | STYLE5 | Style 5|
@@ -28,7 +28,7 @@ Le type SparklinePresetStyleType expose les membres suivants :
 | STYLE9 | Style 9|
 | STYLE10 | Style 10|
 | STYLE11 | Style 11|
-| STYLE12 |Style 12|
+| STYLE12 | Style 12|
 | STYLE13 | Style 13|
 | STYLE14 | Style 14|
 | STYLE15 | Style 15|
@@ -45,7 +45,7 @@ Le type SparklinePresetStyleType expose les membres suivants :
 | STYLE26 | Style 26|
 | STYLE27 | Style 27|
 | STYLE28 | Style 28|
-| STYLE29 | Style 29|
+| STYLE29 |Style 29|
 | STYLE30 | Style 30|
 | STYLE31 | Style 31|
 | STYLE32 | Style 32|
@@ -58,4 +58,4 @@ Le type SparklinePresetStyleType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

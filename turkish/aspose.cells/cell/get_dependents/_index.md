@@ -7,12 +7,13 @@ weight: 90
 url: /tr/aspose.cells/cell/get_dependents/
 is_root: false
 ---
-##  get_dependents(is_all) {#bool}
-Formülü doğrudan bu hücreye başvuran tüm hücreleri alın.
+##  get_dependents(self, is_all) {#bool}
+Formülü doğrudan bu hücreye referans veren tüm hücreleri al.
 
 
 
 ```python
+
 def get_dependents(self, is_all):
     ...
 ```
@@ -20,39 +21,39 @@ def get_dependents(self, is_all):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| is_all | bool | Diğer çalışma sayfalarındaki formülleri kontrol edip etmeyeceğini gösterir.|
+| is_all | bool |Diğer çalışma sayfalarındaki formüllerin kontrol edilip edilmeyeceğini belirtir|
 ###  Notlar
 
-* Bu hücreyi içeren bir başvuru bir hücrenin formülünde görünürse, o hücre şu şekilde alınır:
+* Bu hücreyi içeren bir başvuru bir hücrenin formülünde yer alırsa, o hücre şu şekilde alınacaktır:
 
-Bu hücrenin bağımlısı, referans veya bu hücrenin hesaplama yapılırken kullanılıp kullanılmadığına bakılmaksızın.
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-bu formül yine A2'nin bağımlısı olarak alınır.
-Hesaplanan sonuçları bu hücreye bağlı olan formülleri almak için lütfen [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
-Dolayısıyla zaman alan bir süreçtir. Kullanıcının çok sayıda hücre için bağımlıları izlemesi gerekiyorsa, bu yöntemi kullanmak
-düşük performansa neden olur. Performans değerlendirmesi için kullanıcı bunun yerine [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation) kullanmalıdır.
-Veya kullanıcı önce [Cell.get_precedents()](/cells/python-net/tr/aspose.cells/cell/get_precedents) ile tüm hücrelerin emsal haritasını toplayabilir,
-ve ardından emsal haritasına göre bağımlılar haritasını oluşturun.
+Bu hücrenin bağımlısı, hesaplama sırasında referans veya bu hücrenin kullanılıp kullanılmadığına bakılmaksızın.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Bu formül hala A2'ye bağlı olarak alınabilir.
+Hesaplanan sonuçları bu hücreye bağlı olan formülleri elde etmek için lütfen [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
+Bu nedenle zaman alıcı bir işlemdir. Kullanıcının çok sayıda hücre için bağımlı kişileri izlemesi gerekiyorsa, bu yöntemi kullanmak
+Performans düşüklüğüne neden olur. Performans değerlendirmesi için kullanıcı [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanmalıdır.
+Veya kullanıcı öncelikle [`Cell.get_precedents`](/cells/python-net/tr/aspose.cells/cell/get_precedents)'e göre tüm hücrelerin emsal haritasını toplayabilir,
+ve daha sonra emsal haritaya göre bağımlı haritasını oluşturun.
 
-* Bu hücreyi içeren bir başvuru bir hücrenin formülünde görünürse, o hücre şu şekilde alınır:
-Bu hücrenin bağımlısı, referans veya bu hücrenin hesaplama yapılırken kullanılıp kullanılmadığına bakılmaksızın.
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-bu formül yine A2'nin bağımlısı olarak alınır.
-Hesaplanan sonuçları bu hücreye bağlı olan formülleri almak için lütfen [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
-Dolayısıyla zaman alan bir süreçtir. Kullanıcının çok sayıda hücre için bağımlıları izlemesi gerekiyorsa, bu yöntemi kullanmak
-düşük performansa neden olur. Performans değerlendirmesi için kullanıcı bunun yerine [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation) kullanmalıdır.
-Veya kullanıcı önce [Cell.get_precedents()](/cells/python-net/tr/aspose.cells/cell/get_precedents) ile tüm hücrelerin emsal haritasını toplayabilir,
-ve ardından emsal haritasına göre bağımlılar haritasını oluşturun.
+* Bu hücreyi içeren bir başvuru bir hücrenin formülünde yer alırsa, o hücre şu şekilde alınacaktır:
+Bu hücrenin bağımlısı, hesaplama sırasında referans veya bu hücrenin kullanılıp kullanılmadığına bakılmaksızın.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Bu formül hala A2'ye bağlı olarak alınabilir.
+Hesaplanan sonuçları bu hücreye bağlı olan formülleri elde etmek için lütfen [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
+Bu nedenle zaman alıcı bir işlemdir. Kullanıcının çok sayıda hücre için bağımlı kişileri izlemesi gerekiyorsa, bu yöntemi kullanmak
+Performans düşüklüğüne neden olur. Performans değerlendirmesi için kullanıcı [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanmalıdır.
+Veya kullanıcı öncelikle [`Cell.get_precedents`](/cells/python-net/tr/aspose.cells/cell/get_precedents)'e göre tüm hücrelerin emsal haritasını toplayabilir,
+ve daha sonra emsal haritaya göre bağımlı haritasını oluşturun.
 
-* Bu hücreyi içeren bir başvuru bir hücrenin formülünde görünürse, o hücre şu şekilde alınır:
-Bu hücrenin bağımlısı, referans veya bu hücrenin hesaplama yapılırken kullanılıp kullanılmadığına bakılmaksızın.
-Örneğin "=EĞER(DOĞRU,A1,A2)" formülündeki A2 hücresi hesaplama yapılırken kullanılmasa da,
-bu formül yine A2'nin bağımlısı olarak alınır.
-Hesaplanan sonuçları bu hücreye bağlı olan formülleri almak için lütfen [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
-Dolayısıyla zaman alan bir süreçtir. Kullanıcının çok sayıda hücre için bağımlıları izlemesi gerekiyorsa, bu yöntemi kullanmak
-düşük performansa neden olur. Performans değerlendirmesi için kullanıcı bunun yerine [Cell.get_dependents_in_calculation(recursive)](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation) kullanmalıdır.
-Veya kullanıcı önce [Cell.get_precedents()](/cells/python-net/tr/aspose.cells/cell/get_precedents) ile tüm hücrelerin emsal haritasını toplayabilir,
-ve ardından emsal haritasına göre bağımlılar haritasını oluşturun.
+* Bu hücreyi içeren bir başvuru bir hücrenin formülünde yer alırsa, o hücre şu şekilde alınacaktır:
+Bu hücrenin bağımlısı, hesaplama sırasında referans veya bu hücrenin kullanılıp kullanılmadığına bakılmaksızın.
+Örneğin, "=EĞER(DOĞRU;A1;A2)" formülündeki A2 hücresi hesaplama sırasında kullanılmasa da,
+Bu formül hala A2'ye bağlı olarak alınabilir.
+Hesaplanan sonuçları bu hücreye bağlı olan formülleri elde etmek için lütfen [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanın. Bir hücre için bağımlıları izlerken, çalışma kitabındaki veya çalışma sayfasındaki tüm formüller analiz edilecek ve kontrol edilecektir.
+Bu nedenle zaman alıcı bir işlemdir. Kullanıcının çok sayıda hücre için bağımlı kişileri izlemesi gerekiyorsa, bu yöntemi kullanmak
+Performans düşüklüğüne neden olur. Performans değerlendirmesi için kullanıcı [`Cell.get_dependents_in_calculation`](/cells/python-net/tr/aspose.cells/cell/get_dependents_in_calculation)'i kullanmalıdır.
+Veya kullanıcı öncelikle [`Cell.get_precedents`](/cells/python-net/tr/aspose.cells/cell/get_precedents)'e göre tüm hücrelerin emsal haritasını toplayabilir,
+ve daha sonra emsal haritaya göre bağımlı haritasını oluşturun.
 ###  Örnek
 
 ```python
@@ -71,5 +72,5 @@ for i in range(len(dependents)):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

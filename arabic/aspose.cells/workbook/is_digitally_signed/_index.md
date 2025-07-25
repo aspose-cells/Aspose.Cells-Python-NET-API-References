@@ -3,13 +3,13 @@ title: is_digitally_signed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 640
 url: /ar/aspose.cells/workbook/is_digitally_signed/
 is_root: false
 ---
 ##  is_digitally_signed عقار
 
-يشير إلى ما إذا كان جدول البيانات هذا موقعًا رقميًا.
+يشير إلى ما إذا كانت هذه الجداول موقعة رقميًا.
 ###  تعريف:
 ```python
 @property

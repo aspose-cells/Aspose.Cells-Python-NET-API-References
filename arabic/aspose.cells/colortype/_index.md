@@ -3,12 +3,12 @@ title: ColorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1930
+weight: 1840
 url: /ar/aspose.cells/colortype/
 is_root: false
 ---
 ##  ColorType التعداد
-يمثل كل نوع اللون
+يمثل جميع أنواع الألوان
 
 
 
@@ -18,8 +18,8 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | AUTOMATIC | اللون التلقائي.|
-| AUTOMATIC_INDEX | إنه لون تلقائي، ولكن اللون المعروض يعتمد على إعداد نظام التشغيل.|
-| RGB | لون آر جي بي.|
+| AUTOMATIC_INDEX | إنه لون تلقائي، لكن اللون المعروض يعتمد على إعدادات نظام التشغيل.|
+| RGB | لون RGB.|
 | INDEXED_COLOR | مؤشر اللون في لوحة الألوان.|
 | THEME | لون الموضوع.|
 

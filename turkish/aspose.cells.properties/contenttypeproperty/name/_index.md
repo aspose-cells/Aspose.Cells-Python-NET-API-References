@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Nesnenin name'ini döndürür veya ayarlar.
+Nesnenin name değerini döndürür veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [ContentTypeProperty](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`ContentTypeProperty`](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)

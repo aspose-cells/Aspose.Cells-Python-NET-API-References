@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user_id fastighet
 
-Hämtar och ställer in användarens id.
+Hämtar och anger användarens ID.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def user_id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ThreadedCommentAuthor](/cells/python-net/sv/aspose.cells/threadedcommentauthor)
+* modul [`aspose.cells`](../../)
+* klass [`ThreadedCommentAuthor`](/cells/python-net/sv/aspose.cells/threadedcommentauthor)

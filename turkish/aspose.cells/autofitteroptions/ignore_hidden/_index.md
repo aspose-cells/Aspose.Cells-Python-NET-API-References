@@ -3,7 +3,7 @@ title: ignore_hidden mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells/autofitteroptions/ignore_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def ignore_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFitterOptions](/cells/python-net/tr/aspose.cells/autofitteroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFitterOptions`](/cells/python-net/tr/aspose.cells/autofitteroptions)

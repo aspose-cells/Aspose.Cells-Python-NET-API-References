@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_between_categories Eigentum
 
-Stellt dar, ob die Wertachse die Kategorieachse zwischen Kategorien kreuzt.
+Stellt dar, ob die Werteachse die Kategorieachse zwischen Kategorien schneidet.
 
 ###  Bemerkungen
 

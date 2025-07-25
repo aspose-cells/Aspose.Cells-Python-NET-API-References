@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells_only Eigentum
 
-Gibt an, ob nur sichtbare Zellen geplottet werden sollen.
+Gibt an, ob nur sichtbare Zellen dargestellt werden sollen.
 ###  Definition:
 ```python
 @property

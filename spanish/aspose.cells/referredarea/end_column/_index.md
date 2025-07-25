@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ReferredArea](/cells/python-net/es/aspose.cells/referredarea)
+* módulo [`aspose.cells`](../../)
+* clase [`ReferredArea`](/cells/python-net/es/aspose.cells/referredarea)

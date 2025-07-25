@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar vägsegmentet type
+Hämtar sökvägssegmentet type
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePathType](/cells/python-net/sv/aspose.cells.drawing/shapepathtype)
-* klass [ShapeSegmentPath](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePathType`](/cells/python-net/sv/aspose.cells.drawing/shapepathtype)
+* klass [`ShapeSegmentPath`](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)

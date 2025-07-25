@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Добавляет комментарий к коллекции.
+##  add(self, cell_name) {#str}
+Добавляет комментарий в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Comment](/cells/python-net/ru/aspose.cells/comment) индекс объекта.
+Индекс объекта [`Comment`](/cells/python-net/ru/aspose.cells/comment).
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
-Добавляет комментарий к коллекции.
+##  add(self, row, column) {#int-int}
+Добавляет комментарий в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Comment](/cells/python-net/ru/aspose.cells/comment) индекс объекта.
+Индекс объекта [`Comment`](/cells/python-net/ru/aspose.cells/comment).
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -55,7 +57,7 @@ def add(self, row, column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| row | int | Cell индекс строки.|
+| row | int | Индекс строки Cell.|
 | column | int | Cell индекс столбца.|
 
 ###  Пример
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Comment](/cells/python-net/ru/aspose.cells/comment)
-* класс [CommentCollection](/cells/python-net/ru/aspose.cells/commentcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`Comment`](/cells/python-net/ru/aspose.cells/comment)
+* класс [`CommentCollection`](/cells/python-net/ru/aspose.cells/commentcollection)

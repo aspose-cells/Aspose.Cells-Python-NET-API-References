@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_operator_type fastighet
 
-Hämtar och ställer in filteroperatortypen.
+Hämtar och anger filteroperatortypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CustomFilter](/cells/python-net/sv/aspose.cells/customfilter)
-* klass [FilterOperatorType](/cells/python-net/sv/aspose.cells/filteroperatortype)
+* modul [`aspose.cells`](../../)
+* klass [`CustomFilter`](/cells/python-net/sv/aspose.cells/customfilter)
+* klass [`FilterOperatorType`](/cells/python-net/sv/aspose.cells/filteroperatortype)

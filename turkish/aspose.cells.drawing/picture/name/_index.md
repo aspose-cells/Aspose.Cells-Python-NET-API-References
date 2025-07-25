@@ -3,7 +3,7 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 920
+weight: 940
 url: /tr/aspose.cells.drawing/picture/name/
 is_root: false
 ---

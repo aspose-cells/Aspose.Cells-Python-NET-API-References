@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 将 FormatConditions 添加到集合中。
 
 
@@ -17,6 +17,7 @@ FormatConditions 对象索引。
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ConditionalFormattingCollection](/cells/python-net/zh/aspose.cells/conditionalformattingcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ConditionalFormattingCollection`](/cells/python-net/zh/aspose.cells/conditionalformattingcollection)

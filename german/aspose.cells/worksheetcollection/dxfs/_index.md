@@ -3,13 +3,13 @@ title: dxfs Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 310
 url: /de/aspose.cells/worksheetcollection/dxfs/
 is_root: false
 ---
 ##  dxfs Eigentum
 
-Ruft die Master-Differenzformatierungsdatensätze ab.
+Ruft die Masterdatensätze zur differenziellen Formatierung ab.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: window_left_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 570
 url: /tr/aspose.cells/workbooksettings/window_left_cm/
 is_root: false
 ---
 ##  window_left_cm mülk
 
-İstemci alanının sol kenarından pencerenin sol kenarına olan mesafe.
+Müşteri alanının sol kenarından pencerenin sol kenarına kadar olan mesafe.
 Santimetre biriminde.
 ###  Tanım:
 ```python

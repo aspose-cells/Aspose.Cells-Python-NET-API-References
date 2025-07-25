@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
 ##  TrendlineType numaralandırma
-Eğilim çizgisi türünü temsil eder.
+Trend çizgisi türünü temsil eder.
 
 
 
@@ -20,7 +20,7 @@ TrendlineType türü aşağıdaki üyeleri ortaya çıkarır:
 | EXPONENTIAL | Üstel|
 | LINEAR | Doğrusal|
 | LOGARITHMIC | Logaritmik|
-| MOVING_AVERAGE | Hareketli ortalama|
+| MOVING_AVERAGE | Hareketli Ortalama|
 | POLYNOMIAL | Polinom|
 | POWER | Güç|
 

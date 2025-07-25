@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Restituisce lo name della cache dello slicer.
+Restituisce il valore name della cache slicer.
 
 ###  Esempio
 
@@ -27,5 +27,5 @@ def name(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/it/aspose.cells.slicers/slicercache)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/it/aspose.cells.slicers/slicercache)

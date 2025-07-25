@@ -1,13 +1,13 @@
 ---
-title: links_up_to_date 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: links_up_to_date属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 300
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/links_up_to_date/
 is_root: false
 ---
-## links_up_to_date 属性
+## links_up_to_date属性
 
 指示文档中的超链接是否是最新的。
 ### 定义：
@@ -21,5 +21,5 @@ def links_up_to_date(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

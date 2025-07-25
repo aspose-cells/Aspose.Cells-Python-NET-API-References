@@ -7,12 +7,13 @@ weight: 70
 url: /ar/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
-قم بعرض ورقة العمل بأكملها كصورة Tiff للبث.
+##  to_tiff(self, stream) {#io.RawIOBase}
+عرض ورقة العمل بأكملها كصورة Tiff للبث.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -20,15 +21,16 @@ def to_tiff(self, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | دفق صورة الإخراج|
+| stream | io.RawIOBase | تدفق الصورة الناتجة|
 
 
-##  to_tiff {#str}
-تقديم ورقة العمل بأكملها كصورة Tiff إلى ملف.
+##  to_tiff(self, filename) {#str}
+عرض ورقة العمل بأكملها كصورة Tiff إلى ملف.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -36,11 +38,11 @@ def to_tiff(self, filename):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| filename | str | اسم الملف لصورة الإخراج|
+| filename | str | اسم ملف الصورة الناتجة|
 
 ###  مثال
 
-يقوم التعليمة البرمجية التالية بإخراج كافة صفحات الورقة الأولى إلى صورة Tiff.
+يقوم الكود التالي بإخراج جميع صفحات الورقة الأولى إلى صورة Tiff.
 
 ```python
 from aspose.cells import SaveFormat, Workbook

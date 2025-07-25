@@ -1,15 +1,15 @@
 ---
 title: top_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /ru/aspose.cells.drawing/groupshape/top_inch/
 is_root: false
 ---
 ##  top_inch недвижимость
 
-Представляет вертикальное смещение фигуры от ее верхнего ряда в дюймах.
+Представляет собой вертикальное смещение фигуры от ее верхней строки в дюймах.
 
 ###  Пример
 

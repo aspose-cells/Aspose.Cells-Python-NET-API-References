@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hidden mülk
 
-Sütunun gizli olup olmadığını gösterir.
+Sütunun gizli olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

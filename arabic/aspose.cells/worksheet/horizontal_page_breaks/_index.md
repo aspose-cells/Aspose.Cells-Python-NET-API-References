@@ -3,13 +3,13 @@ title: horizontal_page_breaks عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 560
 url: /ar/aspose.cells/worksheet/horizontal_page_breaks/
 is_root: false
 ---
 ##  horizontal_page_breaks عقار
 
-يحصل على مجموعة [`HorizontalPageBreakCollection`](/cells/python-net/ar/aspose.cells/horizontalpagebreakcollection).
+يحصل على المجموعة [`HorizontalPageBreakCollection`](/cells/python-net/ar/aspose.cells/horizontalpagebreakcollection).
 ###  تعريف:
 ```python
 @property

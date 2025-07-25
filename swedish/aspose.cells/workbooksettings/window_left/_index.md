@@ -3,13 +3,13 @@ title: window_left fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 560
 url: /sv/aspose.cells/workbooksettings/window_left/
 is_root: false
 ---
 ##  window_left fastighet
 
-Avståndet från klientområdets vänstra kant till fönstrets vänstra kant, i punktenhet.
+Avståndet från klientområdets vänstra kant till fönstrets vänstra kant, i enhet punkter.
 ###  Definition:
 ```python
 @property

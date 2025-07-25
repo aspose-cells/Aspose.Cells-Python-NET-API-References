@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  print_permission fastighet
 
-Indikerar om dokumentet ska skrivas ut.
+Anger om utskrift av dokumentet ska tillåtas.
 
 ###  Anmärkningar
 
- Möjligen inte på högsta kvalitetsnivå,
-beroende på om [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) också är inställd.
+ Kanske inte på högsta kvalitetsnivå,
+beroende på om [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) också är inställt.
 ###  Definition:
 ```python
 @property

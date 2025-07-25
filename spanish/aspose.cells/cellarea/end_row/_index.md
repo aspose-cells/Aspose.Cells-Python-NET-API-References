@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  end_row propiedad
 
-Obtiene o establece la última fila de esta área.
+Obtiene o establece la fila final de esta área.
+###  Definición:
+```python
+f end_row 
+```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)

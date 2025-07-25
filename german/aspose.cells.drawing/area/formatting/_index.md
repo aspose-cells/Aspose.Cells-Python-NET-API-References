@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  formatting Eigentum
 
-Stellt die formatting des Bereichs dar.
+Stellt die formatting des Gebiets dar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def formatting(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Area](/cells/python-net/de/aspose.cells.drawing/area)
-* Klasse [FormattingType](/cells/python-net/de/aspose.cells.charts/formattingtype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Area`](/cells/python-net/de/aspose.cells.drawing/area)
+* Klasse [`FormattingType`](/cells/python-net/de/aspose.cells.charts/formattingtype)

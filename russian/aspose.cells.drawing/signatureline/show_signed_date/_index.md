@@ -1,6 +1,6 @@
 ---
 title: show_signed_date недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_signed_date недвижимость
 
-Указывает, показывать ли подписанную дату.
+Указывает, следует ли показывать дату подписания.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SignatureLine](/cells/python-net/ru/aspose.cells.drawing/signatureline)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SignatureLine`](/cells/python-net/ru/aspose.cells.drawing/signatureline)

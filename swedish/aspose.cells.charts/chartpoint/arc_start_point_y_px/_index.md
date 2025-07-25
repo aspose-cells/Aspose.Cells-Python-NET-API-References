@@ -10,7 +10,7 @@ is_root: false
 ##  arc_start_point_y_px fastighet
 
 Hämtar y-koordinaten för startpunkten för cirkelsektionen efter anrop av metoden Chart.Calculate().
-Gäller paj- och munkdiagram.
+Gäller för cirkel- och munkdiagram.
 ###  Definition:
 ```python
 @property
@@ -19,5 +19,5 @@ def arc_start_point_y_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

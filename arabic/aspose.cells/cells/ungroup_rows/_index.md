@@ -3,16 +3,17 @@ title: طريقة ungroup_rows
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 970
 url: /ar/aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
-##  ungroup_rows {#int-int}
-فك تجميع الصفوف.
+##  ungroup_rows(self, first_index, last_index) {#int-int}
+إلغاء تجميع الصفوف.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index):
     ...
 ```
@@ -20,19 +21,20 @@ def ungroup_rows(self, first_index, last_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| first_index | int | فهرس الصف الأول المراد فك تجميعه.|
-| last_index | int | فهرس الصف الأخير المراد فك تجميعه.|
+| first_index | int | مؤشر الصف الأول الذي سيتم إلغاء تجميعه.|
+| last_index | int | آخر مؤشر صف سيتم إلغاء تجميعه.|
 ###  ملاحظات
 
-يزيل فقط معلومات المجموعة الخارجية.
+يزيل معلومات المجموعة الخارجية فقط.
 
-##  ungroup_rows {#int-int-bool}
+##  ungroup_rows(self, first_index, last_index, is_all) {#int-int-bool}
 
-فك تجميع الصفوف.
+إلغاء تجميع الصفوف.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index, is_all):
     ...
 ```
@@ -40,9 +42,9 @@ def ungroup_rows(self, first_index, last_index, is_all):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| first_index | int | فهرس الصف الأول المراد فك تجميعه.|
-| last_index | int | فهرس الصف الأخير المراد فك تجميعه.|
-| is_all | bool |صحيح، يزيل كافة المعلومات المجمعة. وإلا، قم بإزالة معلومات المجموعة الخارجية.|
+| first_index | int | مؤشر الصف الأول الذي سيتم إلغاء تجميعه.|
+| last_index | int | آخر مؤشر صف سيتم إلغاء تجميعه.|
+| is_all | bool | صحيح، يقوم بإزالة كافة المعلومات المجمعة. وإلا، فيتم إزالة معلومات المجموعة الخارجية.|
 
 
 

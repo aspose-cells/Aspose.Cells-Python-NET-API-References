@@ -21,6 +21,6 @@ def destination(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

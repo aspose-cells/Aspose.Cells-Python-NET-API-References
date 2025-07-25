@@ -3,13 +3,13 @@ title: export_area Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 240
 url: /de/aspose.cells.saving/ebooksaveoptions/export_area/
 is_root: false
 ---
 ##  export_area Eigentum
 
-Ruft die exportierende CellArea des aktuell aktiven Arbeitsblatts ab oder legt diese fest.
+Ruft den zu exportierenden Zellbereich des aktuell aktiven Arbeitsblatts ab oder legt ihn fest.
 Wenn Sie dieses Attribut festlegen, wird der Druckbereich des aktuell aktiven Arbeitsblatts weggelassen.
 Beim Speichern der Datei im HTML-Format wird nur der angegebene Bereich exportiert.
 ###  Definition:

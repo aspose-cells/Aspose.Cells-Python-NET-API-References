@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_generated_name Eigentum
 
-Gibt „true“ zurück, wenn diese Eigenschaft im OLE2-Speicher keinen Namen hat
-und ein eindeutiger Name wurde nur für die öffentliche API generiert.
+Gibt true zurück, wenn diese Eigenschaft keinen Namen im OLE2-Speicher hat
+und nur für die Öffentlichkeit wurde ein eindeutiger Name API generiert.
 ###  Definition:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_generated_name(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)

@@ -3,7 +3,7 @@ title: column_type_map propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells.saving/sqlscriptsaveoptions/column_type_map/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def column_type_map(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptColumnTypeMap](/cells/python-net/fr/aspose.cells.saving/sqlscriptcolumntypemap)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptColumnTypeMap`](/cells/python-net/fr/aspose.cells.saving/sqlscriptcolumntypemap)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

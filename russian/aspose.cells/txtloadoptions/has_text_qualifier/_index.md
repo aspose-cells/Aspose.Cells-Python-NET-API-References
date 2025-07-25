@@ -1,6 +1,6 @@
 ---
 title: has_text_qualifier недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_text_qualifier недвижимость
 
-Есть ли квалификатор текста для значения ячейки. Значение по умолчанию верно.
+Есть ли текстовый квалификатор для значения ячейки. Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_text_qualifier(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtLoadOptions](/cells/python-net/ru/aspose.cells/txtloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtLoadOptions`](/cells/python-net/ru/aspose.cells/txtloadoptions)

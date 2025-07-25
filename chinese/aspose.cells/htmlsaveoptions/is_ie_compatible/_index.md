@@ -3,13 +3,13 @@ title: is_ie_compatible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 590
 url: /zh/aspose.cells/htmlsaveoptions/is_ie_compatible/
 is_root: false
 ---
 ## is_ie_compatible属性
 
-指示输出HTML是否兼容IE浏览器。
+指示输出HTML是否与IE浏览器兼容。
 默认值为 false
 ### 定义：
 ```python

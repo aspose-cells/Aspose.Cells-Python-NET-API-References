@@ -21,5 +21,5 @@ def dock_state(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionTaskPane](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionTaskPane`](/cells/python-net/es/aspose.cells.webextensions/webextensiontaskpane)

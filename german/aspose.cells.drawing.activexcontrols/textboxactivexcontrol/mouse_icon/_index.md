@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/mouse_icon/
 is_root: false
 ---
 ##  mouse_icon Eigentum
-
-Ruft ein benutzerdefiniertes Symbol ab und legt es fest, das als Mauszeiger für das Steuerelement angezeigt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

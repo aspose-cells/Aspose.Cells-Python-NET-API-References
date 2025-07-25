@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/deleteoptions/__init__/
 is_root: false
 ---
-##  DeleteOptions() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av DeleteOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DeleteOptions](/cells/python-net/sv/aspose.cells/deleteoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DeleteOptions`](/cells/python-net/sv/aspose.cells/deleteoptions)

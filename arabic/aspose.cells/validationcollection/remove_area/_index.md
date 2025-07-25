@@ -7,12 +7,13 @@ weight: 90
 url: /ar/aspose.cells/validationcollection/remove_area/
 is_root: false
 ---
-##  remove_area(ca) {#CellArea}
-يزيل كل إعدادات التحقق من النطاق ..
+##  remove_area(self, ca) {#aspose.cells.CellArea}
+يزيل كافة إعدادات التحقق على النطاق.
 
 
 
 ```python
+
 def remove_area(self, ca):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_area(self, ca):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/ar/aspose.cells/cellarea) | النطاق الذي يحتوي على إعداد عمليات التحقق من الصحة.|
+| ca | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) | النطاق الذي يحتوي على إعدادات التحقق.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ValidationCollection](/cells/python-net/ar/aspose.cells/validationcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ValidationCollection`](/cells/python-net/ar/aspose.cells/validationcollection)

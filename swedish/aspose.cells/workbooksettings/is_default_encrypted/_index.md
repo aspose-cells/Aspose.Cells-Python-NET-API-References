@@ -3,17 +3,17 @@ title: is_default_encrypted fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 250
 url: /sv/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted fastighet
 
-Anger om kryptering av arbetsboken med standardlösenord om struktur och Windows i arbetsboken är låsta.
+Anger om arbetsboken krypteras med standardlösenordet om struktur och Windows i arbetsboken är låsta.
 
 ###  Anmärkningar
 
-Standardvärdet är falskt nu. Det är samma som MS Excel 2013.
+Standardvärdet är nu falskt. Det är samma som i MS Excel 2013.
 ###  Definition:
 ```python
 @property

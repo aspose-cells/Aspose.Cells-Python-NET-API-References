@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
-Fügt einen Hyperlink zu einer angegebenen Zelle oder einem Zellbereich hinzu.
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
+Fügt einer angegebenen Zelle oder einem Zellbereich einen Hyperlink hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Fügt einen Hyperlink zu einer angegebenen Zelle oder einem Zellbereich hinzu.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```
@@ -25,7 +26,7 @@ def add_hyperlink(self, address, text_to_display, screen_tip):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | address | str | Adresse des Hyperlinks.|
-| text_to_display | str | Der Text, der für den angegebenen Hyperlink angezeigt werden soll.|
+| text_to_display | str | Der für den angegebenen Hyperlink anzuzeigende Text.|
 | screen_tip | str | Der QuickInfo-Text für den angegebenen Hyperlink.|
 
 

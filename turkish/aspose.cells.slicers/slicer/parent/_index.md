@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent mülk
 
-Dilimleyiciyi içeren sayfayı temsil eden Worksheet nesnesini döndürür. Sadece oku.
+Bu dilimleyiciyi içeren [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) nesnesini döndürür. Salt okunur.
 
 ###  Örnek
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

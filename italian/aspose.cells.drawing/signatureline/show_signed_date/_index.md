@@ -1,6 +1,6 @@
 ---
 title: show_signed_date proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_signed_date proprietà
 
-Indica se mostrare la data firmata.
+Indica se mostrare la data della firma.
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

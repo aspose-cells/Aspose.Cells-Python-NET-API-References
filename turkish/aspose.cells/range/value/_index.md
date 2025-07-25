@@ -3,7 +3,7 @@ title: value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 520
 url: /tr/aspose.cells/range/value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Aralığın value değerini alır ve ayarlar.
 
 ###  Notlar
 
-Aralık birden fazla hücre içeriyorsa döndürülen/uygulanan nesnenin iki boyutlu bir Array nesnesi olması gerekir.
+Eğer aralık birden fazla hücre içeriyorsa, döndürülen/uygulanan nesne iki boyutlu bir Dizi nesnesi olmalıdır.
 ###  Tanım:
 ```python
 @property

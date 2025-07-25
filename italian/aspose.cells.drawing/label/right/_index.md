@@ -1,15 +1,15 @@
 ---
 title: right proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 860
+weight: 870
 url: /it/aspose.cells.drawing/label/right/
 is_root: false
 ---
 ##  right proprietà
 
-Rappresenta la larghezza dell'offset orizzontale della forma dalla colonna d'angolo inferiore right, in unità di pixel.
+Rappresenta la larghezza dello scostamento orizzontale della forma dalla colonna dell'angolo inferiore right, in pixel.
 
 ###  Esempio
 

@@ -3,12 +3,12 @@ title: get_text_of_years Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 230
 url: /de/aspose.cells/settablepivotglobalizationsettings/get_text_of_years/
 is_root: false
 ---
-##  get_text_of_years {#}
-Ruft den lokalen Text von „Years“ ab.
+##  get_text_of_years(self) {#}
+Ruft den lokalen Text von „Jahren“ ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den lokalen Text von „Years“ ab.
 
 
 ```python
+
 def get_text_of_years(self):
     ...
 ```

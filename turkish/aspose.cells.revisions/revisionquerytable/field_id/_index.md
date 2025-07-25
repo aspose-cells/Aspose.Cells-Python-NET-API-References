@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionQueryTable](/cells/python-net/tr/aspose.cells.revisions/revisionquerytable)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionQueryTable`](/cells/python-net/tr/aspose.cells.revisions/revisionquerytable)

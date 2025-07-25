@@ -3,7 +3,7 @@ title: ControlType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 250
 url: /sv/aspose.cells.drawing.activexcontrols/controltype/
 is_root: false
 ---
@@ -18,19 +18,20 @@ Typen ControlType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | COMMAND_BUTTON | Knapp|
-| COMBO_BOX | Kombinationsrutan|
+| COMBO_BOX | Kombinationsruta|
 | CHECK_BOX | Kryssruta|
-| LIST_BOX | ListBox|
+| LIST_BOX | Listbox|
 | TEXT_BOX | Textruta|
 | SPIN_BUTTON | Spinnare|
-| RADIO_BUTTON | Radio knapp|
+| RADIO_BUTTON | Radioknapp|
 | LABEL | Märka|
 | IMAGE | Bild|
-| TOGGLE_BUTTON | Växlingsknapp|
-| SCROLL_BAR | Rullningslist|
+| TOGGLE_BUTTON | VäxlaKnapp|
+| SCROLL_BAR | Rullningsfält|
+| BAR_CODE | Rullningsfält|
 | UNKNOWN | Okänd|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

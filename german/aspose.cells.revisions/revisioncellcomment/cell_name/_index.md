@@ -21,5 +21,5 @@ def cell_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionCellComment](/cells/python-net/de/aspose.cells.revisions/revisioncellcomment)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionCellComment`](/cells/python-net/de/aspose.cells.revisions/revisioncellcomment)

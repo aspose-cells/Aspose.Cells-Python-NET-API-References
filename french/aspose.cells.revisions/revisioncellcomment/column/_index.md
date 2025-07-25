@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column propriété
 
-Obtient l'index column de qui contient un commentaire.
+Obtient l'index column qui contient un commentaire.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)

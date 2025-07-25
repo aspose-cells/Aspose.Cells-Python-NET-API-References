@@ -7,16 +7,17 @@ weight: 170
 url: /sv/aspose.cells/cell/get_merged_range/
 is_root: false
 ---
-##  get_merged_range() {#}
-Returnerar ett [Range](/cells/python-net/sv/aspose.cells/range)-objekt som representerar ett sammanslaget intervall.
+##  get_merged_range(self) {#}
+Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt som representerar ett sammanfogat område.
 
 
 ###  Returnerar
 
-[Range](/cells/python-net/sv/aspose.cells/range) objekt. Null om denna cell inte slås samman.
+[`Range`](/cells/python-net/sv/aspose.cells/range)-objekt. Null om den här cellen inte slås samman.
 
 
 ```python
+
 def get_merged_range(self):
     ...
 ```
@@ -26,6 +27,6 @@ def get_merged_range(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)

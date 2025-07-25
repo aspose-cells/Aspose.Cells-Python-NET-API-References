@@ -1,6 +1,6 @@
 ---
 title: is_enabled недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/is_enabled/
 is_root: false
 ---
 ##  is_enabled недвижимость
-
-Указывает, может ли элемент управления получать фокус и реагировать на события, созданные пользователем.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [CheckBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`CheckBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

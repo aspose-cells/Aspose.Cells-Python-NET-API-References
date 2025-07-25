@@ -1,5 +1,5 @@
 ---
-title: color_index الملكية
+title: color_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/cellscolor/color_index/
 is_root: false
 ---
-##  color_index الملكية
+##  color_index عقار
 
-الحصول على فهرس اللون وتعيينه في لوحة الألوان. ينطبق فقط على اللون المفهرس.
+يحصل على مؤشر اللون في لوحة الألوان ويضبطه. ينطبق فقط على اللون المُفهرس.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def color_index(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)

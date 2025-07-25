@@ -3,13 +3,13 @@ title: is_over_lay عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 300
 url: /ar/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ##  is_over_lay عقار
 
-الحصول على أو تعيين ما إذا كان سيتم السماح لعناصر المخطط الأخرى بالتداخل مع عنصر المخطط هذا.
+يحصل أو يعين ما إذا كان سيتم عرض الأسطورة دون تداخل الرسم البياني.
 ###  تعريف:
 ```python
 @property

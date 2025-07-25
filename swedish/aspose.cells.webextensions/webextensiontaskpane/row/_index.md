@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämtar och ställer in indexet, uppräknat från utsidan till insidan, för detta aktivitetsfönster bland andra kvarstående aktivitetsrutor dockade på samma standardplats.
+Hämtar och ställer in indexet, som räknar upp från utsidan till insidan, för den här aktivitetsrutan bland andra sparade aktivitetsrutor som är dockade på samma standardplats.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

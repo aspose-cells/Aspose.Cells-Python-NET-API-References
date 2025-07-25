@@ -3,13 +3,14 @@ title: is_printable属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 650
+weight: 660
 url: /zh/aspose.cells.drawing/radiobutton/is_printable/
 is_root: false
 ---
 ## is_printable属性
 
-如果对象可打印则为 True
+指示对象是否可打印。
+如果为False，则打印时不会打印此形状。
 
 ### 例子
 

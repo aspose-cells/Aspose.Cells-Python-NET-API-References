@@ -1,6 +1,6 @@
 ---
 title: space_after_size_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_after_size_type недвижимость
 
-Получает и задает объем вертикального пробела, который будет присутствовать после абзаца.
+Возвращает и задает размер вертикального пробела, который будет присутствовать после абзаца.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def space_after_size_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [LineSpaceSizeType](/cells/python-net/ru/aspose.cells.drawing.texts/linespacesizetype)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`LineSpaceSizeType`](/cells/python-net/ru/aspose.cells.drawing.texts/linespacesizetype)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

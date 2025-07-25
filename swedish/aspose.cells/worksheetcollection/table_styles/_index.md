@@ -3,13 +3,13 @@ title: table_styles fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 380
 url: /sv/aspose.cells/worksheetcollection/table_styles/
 is_root: false
 ---
 ##  table_styles fastighet
 
-Får [`WorksheetCollection.table_styles`](/cells/python-net/sv/aspose.cells/worksheetcollection#table_styles) objekt.
+Hämtar [`WorksheetCollection.table_styles`](/cells/python-net/sv/aspose.cells/worksheetcollection#table_styles)-objektet.
 ###  Definition:
 ```python
 @property

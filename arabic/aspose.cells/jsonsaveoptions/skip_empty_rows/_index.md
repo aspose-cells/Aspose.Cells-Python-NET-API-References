@@ -1,15 +1,15 @@
 ---
-title: skip_empty_rows الملكية
+title: skip_empty_rows عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 220
 url: /ar/aspose.cells/jsonsaveoptions/skip_empty_rows/
 is_root: false
 ---
-##  skip_empty_rows الملكية
+##  skip_empty_rows عقار
 
-يشير إلى ما إذا كان يتم تخطي صفوف emtpy أم لا.
+يشير إلى ما إذا كان يتم تخطي الصفوف الفارغة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def skip_empty_rows(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

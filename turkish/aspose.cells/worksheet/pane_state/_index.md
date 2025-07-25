@@ -3,13 +3,13 @@ title: pane_state mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 720
 url: /tr/aspose.cells/worksheet/pane_state/
 is_root: false
 ---
 ##  pane_state mülk
 
-Bölmenin yatay veya dikey bölmelere sahip olup olmadığını ve bu bölmelerin dondurulmuş olup olmadığını belirtir.
+Bölmenin yatay veya dikey bölünmelere sahip olup olmadığını ve bu bölünmelerin dondurulup dondurulmadığını gösterir.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: view_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 910
+weight: 930
 url: /sv/aspose.cells/worksheet/view_type/
 is_root: false
 ---
 ##  view_type fastighet
 
-Hämtar och ställer in vytypen.
+Hämtar och anger vytypen.
 ###  Definition:
 ```python
 @property

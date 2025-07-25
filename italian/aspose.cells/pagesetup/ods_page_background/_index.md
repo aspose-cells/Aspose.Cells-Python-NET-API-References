@@ -1,6 +1,6 @@
 ---
 title: ods_page_background proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 450
@@ -18,6 +18,6 @@ def ods_page_background(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

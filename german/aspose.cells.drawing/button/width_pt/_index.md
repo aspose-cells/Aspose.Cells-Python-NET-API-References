@@ -3,7 +3,7 @@ title: width_pt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /de/aspose.cells.drawing/button/width_pt/
 is_root: false
 ---

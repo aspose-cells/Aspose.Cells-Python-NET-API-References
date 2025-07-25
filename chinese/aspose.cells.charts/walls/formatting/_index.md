@@ -1,13 +1,13 @@
 ---
-title: formatting 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: formatting属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 160
 url: /zh/aspose.cells.charts/walls/formatting/
 is_root: false
 ---
-## formatting 属性
+## formatting属性
 
 代表该地区的formatting。
 ### 定义：
@@ -21,6 +21,6 @@ def formatting(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [FormattingType](/cells/python-net/zh/aspose.cells.charts/formattingtype)
-* 类 [Walls](/cells/python-net/zh/aspose.cells.charts/walls)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`FormattingType`](/cells/python-net/zh/aspose.cells.charts/formattingtype)
+* 类 [`Walls`](/cells/python-net/zh/aspose.cells.charts/walls)

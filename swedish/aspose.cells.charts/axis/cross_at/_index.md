@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  cross_at fastighet
 
-Representerar den punkt på värdeaxeln där kategoriaxeln korsar den.
+Representerar punkten på värdeaxeln där kategoriaxeln skär den.
 
 ###  Anmärkningar
 
-Numret ska vara ett heltal när det gäller kategoriaxeln.
+Talet ska vara ett heltal när det gäller kategoriaxeln.
 Och värdet måste vara mellan 1 och 31999.
 ###  Definition:
 ```python

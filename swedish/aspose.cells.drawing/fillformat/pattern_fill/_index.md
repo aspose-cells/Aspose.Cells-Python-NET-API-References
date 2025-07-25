@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern_fill fastighet
 
-Får [FillFormat.pattern_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat#pattern_fill) objekt.
+Hämtar [`FillFormat.pattern_fill`](/cells/python-net/sv/aspose.cells.drawing/fillformat#pattern_fill)-objektet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def pattern_fill(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [PatternFill](/cells/python-net/sv/aspose.cells.drawing/patternfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`PatternFill`](/cells/python-net/sv/aspose.cells.drawing/patternfill)

@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.metadata/workbookmetadata/save/
 is_root: false
 ---
-##  save(file_name) {#str}
+##  save(self, file_name) {#str}
 Değiştirilen meta verileri dosyaya kaydedin.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def save(self, file_name):
 | file_name | str | Dosya adı.|
 
 
-##  save(stream) {#io.RawIOBase}
+##  save(self, stream) {#io.RawIOBase}
 Değiştirilen meta verileri akışa kaydedin.
 
 
 
 ```python
+
 def save(self, stream):
     ...
 ```
@@ -36,10 +38,10 @@ def save(self, stream):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| stream | io.RawIOBase | Akış.|
+| stream | io.RawIOBase | Dere.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.metadata](../../)
-* sınıf [WorkbookMetadata](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata)
+* modül [`aspose.cells.metadata`](../../)
+* sınıf [`WorkbookMetadata`](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata)

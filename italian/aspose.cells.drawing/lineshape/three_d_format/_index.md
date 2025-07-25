@@ -1,9 +1,9 @@
 ---
 title: three_d_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /it/aspose.cells.drawing/lineshape/three_d_format/
 is_root: false
 ---

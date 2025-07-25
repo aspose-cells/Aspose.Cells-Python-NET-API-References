@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Får Range-titeln. Detta används som en deskriptor, inte som en namngiven intervalldefinition.
+Hämtar intervalltiteln. Detta används som en beskrivning, inte som en definition av ett namngivet intervall.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ProtectedRange](/cells/python-net/sv/aspose.cells/protectedrange)
+* modul [`aspose.cells`](../../)
+* klass [`ProtectedRange`](/cells/python-net/sv/aspose.cells/protectedrange)

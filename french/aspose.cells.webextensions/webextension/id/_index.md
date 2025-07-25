@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id propriété
 
-Obtient et définit l'identifiant unique de l'instance du complément Office dans le document actif.
+Obtient et définit de manière unique l'instance du complément Office dans le document actuel.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/fr/aspose.cells.webextensions/webextension)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/fr/aspose.cells.webextensions/webextension)

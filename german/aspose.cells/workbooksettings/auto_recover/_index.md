@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_recover Eigentum
 
-Gibt an, ob die Datei für die automatische Wiederherstellung markiert ist.
+Gibt an, ob die Datei zur automatischen Wiederherstellung markiert ist.
 ###  Definition:
 ```python
 @property

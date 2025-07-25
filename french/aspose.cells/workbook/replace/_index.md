@@ -1,18 +1,19 @@
 ---
-title: replace méthode
+title: méthode replace
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 330
+weight: 350
 url: /fr/aspose.cells/workbook/replace/
 is_root: false
 ---
-##  replace(place_holder, new_value) {#str-str}
+##  replace(self, place_holder, new_value) {#str-str}
 Remplace la valeur d'une cellule par une nouvelle chaîne.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -35,12 +36,13 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-##  replace(place_holder, new_value) {#str-int}
+##  replace(self, place_holder, new_value) {#str-int}
 Remplace la valeur d'une cellule par un nouvel entier.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -64,12 +66,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(place_holder, new_value) {#str-float}
+##  replace(self, place_holder, new_value) {#str-float}
 Remplace la valeur d'une cellule par un nouveau double.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -93,12 +96,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(bool_value, new_value) {#bool-any}
+##  replace(self, bool_value, new_value) {#bool-any}
 Remplace les valeurs des cellules par de nouvelles données.
 
 
 
 ```python
+
 def replace(self, bool_value, new_value):
     ...
 ```
@@ -106,16 +110,17 @@ def replace(self, bool_value, new_value):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| bool_value | bool | Valeur booléenne à remplacer.|
-| new_value | any | Nouvelle valeur. Peut être une chaîne, un entier, un double ou une valeur DateTime.|
+| bool_value | bool | La valeur booléenne à remplacer.|
+| new_value | any | Nouvelle valeur. Il peut s'agir d'une chaîne, d'un entier, d'un double ou d'une valeur DateTime.|
 
 
-##  replace(int_value, new_value) {#int-any}
+##  replace(self, int_value, new_value) {#int-any}
 Remplace les valeurs des cellules par de nouvelles données.
 
 
 
 ```python
+
 def replace(self, int_value, new_value):
     ...
 ```
@@ -124,15 +129,16 @@ def replace(self, int_value, new_value):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | int_value | int | La valeur entière à remplacer.|
-| new_value | any | Nouvelle valeur. Peut être une chaîne, un entier, un double ou une valeur DateTime.|
+| new_value | any | Nouvelle valeur. Il peut s'agir d'une chaîne, d'un entier, d'un double ou d'une valeur DateTime.|
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 Remplace la valeur d'une cellule par un nouveau tableau de chaînes.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -157,12 +163,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
 Remplace les valeurs des cellules par un tableau d'entiers.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -187,12 +194,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-Remplace les valeurs des cellules par un double tableau.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+Remplace les valeurs des cellules par un tableau double.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -217,12 +225,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 Remplace la valeur d'une cellule par une nouvelle chaîne.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -232,10 +241,10 @@ def replace(self, place_holder, new_value, options):
 | :- | :- | :- |
 | place_holder | str | Cell espace réservé|
 | new_value | str | Valeur de chaîne à remplacer|
-| options | [ReplaceOptions](/cells/python-net/fr/aspose.cells/replaceoptions) | Les options de remplacement|
+| options | [`ReplaceOptions`](/cells/python-net/fr/aspose.cells/replaceoptions) | Les options de remplacement|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

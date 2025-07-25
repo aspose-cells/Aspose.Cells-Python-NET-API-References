@@ -3,7 +3,7 @@ title: start_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells.tables/listobject/start_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObject](/cells/python-net/tr/aspose.cells.tables/listobject)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObject`](/cells/python-net/tr/aspose.cells.tables/listobject)

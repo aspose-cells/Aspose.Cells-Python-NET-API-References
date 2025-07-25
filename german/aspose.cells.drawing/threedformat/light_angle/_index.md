@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  light_angle Eigentum
 
-Ruft den Winkel der Extrusionslichter ab und legt diesen fest.
+Ruft den Winkel der Extrusionslichter ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def light_angle(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

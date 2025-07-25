@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  special_effect fastighet
 
-Får och ställer in kontrollens specialeffekt.
+Hämtar och ställer in kontrollens specialeffekt.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlSpecialEffectType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlSpecialEffectType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

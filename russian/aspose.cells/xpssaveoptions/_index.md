@@ -1,9 +1,9 @@
 ---
 title: XpsSaveOptions класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1800
+weight: 1700
 url: /ru/aspose.cells/xpssaveoptions/
 is_root: false
 ---
@@ -12,9 +12,7 @@ is_root: false
 
 
 
-**Наследование:** [`XpsSaveOptions`](/cells/python-net/aspose.cells/xpssaveoptions) → 
-[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[`SaveOptions`](/cells/python-net/ru/aspose.cells/saveoptions)
+**Наследование:** [`XpsSaveOptions`](/cells/python-net/ru/aspose.cells/xpssaveoptions)
 
 
 
@@ -23,47 +21,48 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/xpssaveoptions/__init__/#) | Создает параметры для сохранения файла xps.|
-| [__init__](/cells/python-net/ru/aspose.cells/xpssaveoptions/__init__/#aspose.cells.SaveFormat) | Создает параметры для сохранения файла xps.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/xpssaveoptions/__init__/#) | Создает параметры для сохранения xps-файла.|
+| [`__init__(self, save_format)`](/cells/python-net/ru/aspose.cells/xpssaveoptions/__init__/#aspose.cells.saveformat) | Создает параметры для сохранения xps-файла.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [save_format](/cells/python-net/ru/aspose.cells/xpssaveoptions/save_format) | Получает формат файла сохранения.|
-| [clear_data](/cells/python-net/ru/aspose.cells/xpssaveoptions/clear_data) | Сделайте книгу пустой после сохранения файла.|
-| [cached_file_folder](/cells/python-net/ru/aspose.cells/xpssaveoptions/cached_file_folder) | Папка с кэшированными файлами используется для хранения больших данных.|
-| [validate_merged_areas](/cells/python-net/ru/aspose.cells/xpssaveoptions/validate_merged_areas) | Указывает, следует ли проверять объединенные ячейки перед сохранением файла.|
-| [merge_areas](/cells/python-net/ru/aspose.cells/xpssaveoptions/merge_areas) | Указывает, нужно ли объединять области условного форматирования и проверки перед сохранением файла.|
-| [create_directory](/cells/python-net/ru/aspose.cells/xpssaveoptions/create_directory) | Если это правда и каталог не существует, каталог будет автоматически создан перед сохранением файла.|
-| [sort_names](/cells/python-net/ru/aspose.cells/xpssaveoptions/sort_names) | Указывает, выполняется ли сортировка определенных имен перед сохранением файла.|
-| [sort_external_names](/cells/python-net/ru/aspose.cells/xpssaveoptions/sort_external_names) | Указывает, следует ли сортировать внешние определенные имена перед сохранением файла.|
-| [refresh_chart_cache](/cells/python-net/ru/aspose.cells/xpssaveoptions/refresh_chart_cache) | Указывает, обновляются ли данные кэша диаграммы.|
-| [warning_callback](/cells/python-net/ru/aspose.cells/xpssaveoptions/warning_callback) | Получает или задает обратный вызов с предупреждением.|
-| [update_smart_art](/cells/python-net/ru/aspose.cells/xpssaveoptions/update_smart_art) | Указывает, обновляются ли настройки Smart Art.<br/> Значение по умолчанию неверно.|
-| [default_font](/cells/python-net/ru/aspose.cells/xpssaveoptions/default_font) | Если символы в Excel имеют формат Unicode и не имеют правильного шрифта в стиле ячейки,<br/>Они могут отображаться как блоки в формате pdf, изображения.<br/>Установите DefaultFont, например MingLiu или MS Gothic, чтобы отобразить эти символы.<br/> Если это свойство не установлено, Aspose.Cells будет использовать системный шрифт по умолчанию для отображения этих символов Юникода.|
-| [check_workbook_default_font](/cells/python-net/ru/aspose.cells/xpssaveoptions/check_workbook_default_font) | Если символы в Excel имеют формат Unicode и не имеют правильного шрифта в стиле ячейки,<br/>Они могут отображаться как блоки в формате pdf, изображения.<br/> Установите для этого параметра значение true, чтобы попытаться использовать шрифт книги по умолчанию для отображения этих символов в первую очередь.|
-| [check_font_compatibility](/cells/python-net/ru/aspose.cells/xpssaveoptions/check_font_compatibility) | Указывает, следует ли проверять совместимость шрифтов для каждого символа в тексте.|
-| [is_font_substitution_char_granularity](/cells/python-net/ru/aspose.cells/xpssaveoptions/is_font_substitution_char_granularity) |Указывает, следует ли заменять шрифт символа только в том случае, если шрифт ячейки несовместим с ним.|
-| [one_page_per_sheet](/cells/python-net/ru/aspose.cells/xpssaveoptions/one_page_per_sheet) | Если OnePagePerSheet имеет значение true , все содержимое одного листа в результате будет выведено только на одну страницу.<br/> Размер бумаги в настройках страницы будет недействительным, а другие настройки страницы<br/> все равно вступит в силу.|
-| [all_columns_in_one_page_per_sheet](/cells/python-net/ru/aspose.cells/xpssaveoptions/all_columns_in_one_page_per_sheet) | Если AllColumnsInOnePagePerSheet имеет значение true , все содержимое столбцов одного листа будет выводиться только на одну страницу.<br/> Ширина бумаги, указанная в настройках страницы, будет игнорироваться, а другие настройки страницы будут игнорироваться.<br/> все равно вступит в силу.|
-| [ignore_error](/cells/python-net/ru/aspose.cells/xpssaveoptions/ignore_error) | Указывает, нужно ли скрыть ошибку при рендеринге.<br/> Ошибка может заключаться в ошибке формы, изображения, отрисовки диаграммы и т. д.|
-| [output_blank_page_when_nothing_to_print](/cells/python-net/ru/aspose.cells/xpssaveoptions/output_blank_page_when_nothing_to_print) | Указывает, выводить ли пустую страницу, если печатать нечего.|
-| [page_index](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_index) | Получает или задает индекс первой сохраняемой страницы, отсчитываемый от 0.|
-| [page_count](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_count) | Получает или задает количество сохраняемых страниц.|
-| [printing_page_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/printing_page_type) | Указывает, какие страницы не будут распечатаны.|
-| [gridline_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/gridline_type) | Получает или задает тип линии сетки.|
-| [text_cross_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/text_cross_type) | Получает или задает отображаемый тип текста, когда ширина текста больше ширины ячейки.|
-| [default_edit_language](/cells/python-net/ru/aspose.cells/xpssaveoptions/default_edit_language) | Получает или задает язык редактирования по умолчанию.|
-| [sheet_set](/cells/python-net/ru/aspose.cells/xpssaveoptions/sheet_set) |Получает или задает листы для визуализации. По умолчанию — все видимые листы в книге: [`SheetSet.visible`](/cells/python-net/ru/aspose.cells.rendering/sheetset#visible).|
-| [draw_object_event_handler](/cells/python-net/ru/aspose.cells/xpssaveoptions/draw_object_event_handler) | Реализует этот интерфейс для получения DrawObject и Bound при рендеринге.|
-| [page_saving_callback](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_saving_callback) | Контролируйте/отображайте ход процесса сохранения страницы.|
-| [emf_render_setting](/cells/python-net/ru/aspose.cells/xpssaveoptions/emf_render_setting) | Настройка рендеринга метафайла Emf.|
+| [save_format](/cells/python-net/ru/aspose.cells/xpssaveoptions/save_format) |  |
+| [clear_data](/cells/python-net/ru/aspose.cells/xpssaveoptions/clear_data) |  |
+| [cached_file_folder](/cells/python-net/ru/aspose.cells/xpssaveoptions/cached_file_folder) |  |
+| [validate_merged_areas](/cells/python-net/ru/aspose.cells/xpssaveoptions/validate_merged_areas) |  |
+| [merge_areas](/cells/python-net/ru/aspose.cells/xpssaveoptions/merge_areas) |  |
+| [create_directory](/cells/python-net/ru/aspose.cells/xpssaveoptions/create_directory) |  |
+| [sort_names](/cells/python-net/ru/aspose.cells/xpssaveoptions/sort_names) |  |
+| [sort_external_names](/cells/python-net/ru/aspose.cells/xpssaveoptions/sort_external_names) |  |
+| [refresh_chart_cache](/cells/python-net/ru/aspose.cells/xpssaveoptions/refresh_chart_cache) |  |
+| [check_excel_restriction](/cells/python-net/ru/aspose.cells/xpssaveoptions/check_excel_restriction) |  |
+| [update_smart_art](/cells/python-net/ru/aspose.cells/xpssaveoptions/update_smart_art) |  |
+| [encrypt_document_properties](/cells/python-net/ru/aspose.cells/xpssaveoptions/encrypt_document_properties) |  |
+| [default_font](/cells/python-net/ru/aspose.cells/xpssaveoptions/default_font) |  |
+| [check_workbook_default_font](/cells/python-net/ru/aspose.cells/xpssaveoptions/check_workbook_default_font) |  |
+| [check_font_compatibility](/cells/python-net/ru/aspose.cells/xpssaveoptions/check_font_compatibility) |  |
+| [is_font_substitution_char_granularity](/cells/python-net/ru/aspose.cells/xpssaveoptions/is_font_substitution_char_granularity) |  |
+| [one_page_per_sheet](/cells/python-net/ru/aspose.cells/xpssaveoptions/one_page_per_sheet) |  |
+| [all_columns_in_one_page_per_sheet](/cells/python-net/ru/aspose.cells/xpssaveoptions/all_columns_in_one_page_per_sheet) |  |
+| [ignore_error](/cells/python-net/ru/aspose.cells/xpssaveoptions/ignore_error) |  |
+| [output_blank_page_when_nothing_to_print](/cells/python-net/ru/aspose.cells/xpssaveoptions/output_blank_page_when_nothing_to_print) |  |
+| [page_index](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_index) |  |
+| [page_count](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_count) |  |
+| [printing_page_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/printing_page_type) |  |
+| [gridline_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/gridline_type) |  |
+| [gridline_color](/cells/python-net/ru/aspose.cells/xpssaveoptions/gridline_color) |  |
+| [text_cross_type](/cells/python-net/ru/aspose.cells/xpssaveoptions/text_cross_type) |  |
+| [default_edit_language](/cells/python-net/ru/aspose.cells/xpssaveoptions/default_edit_language) |  |
+| [sheet_set](/cells/python-net/ru/aspose.cells/xpssaveoptions/sheet_set) |  |
+| [draw_object_event_handler](/cells/python-net/ru/aspose.cells/xpssaveoptions/draw_object_event_handler) |  |
+| [page_saving_callback](/cells/python-net/ru/aspose.cells/xpssaveoptions/page_saving_callback) |  |
+| [emf_render_setting](/cells/python-net/ru/aspose.cells/xpssaveoptions/emf_render_setting) |  |
+| [custom_render_settings](/cells/python-net/ru/aspose.cells/xpssaveoptions/custom_render_settings) |  |
 
 
 
 ###  Смотрите также
 * модуль [`aspose.cells`](..)
-* класс [`PaginatedSaveOptions`](/cells/python-net/ru/aspose.cells/paginatedsaveoptions)
-* класс [`SaveOptions`](/cells/python-net/ru/aspose.cells/saveoptions)
 * класс [`XpsSaveOptions`](/cells/python-net/ru/aspose.cells/xpssaveoptions)

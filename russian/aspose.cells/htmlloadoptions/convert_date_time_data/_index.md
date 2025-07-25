@@ -1,6 +1,6 @@
 ---
 title: convert_date_time_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_date_time_data недвижимость
 
-Получает или задает значение, указывающее, преобразуется ли строка в текстовом файле в данные даты.
+Возвращает или задает значение, указывающее, преобразована ли строка в текстовом файле в данные о дате.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_date_time_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [HtmlLoadOptions](/cells/python-net/ru/aspose.cells/htmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`HtmlLoadOptions`](/cells/python-net/ru/aspose.cells/htmlloadoptions)

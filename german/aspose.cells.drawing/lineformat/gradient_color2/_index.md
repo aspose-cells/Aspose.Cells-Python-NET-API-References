@@ -13,7 +13,7 @@ Gibt die Verlaufsfarbe 2 für die angegebene Füllung zurück.
 
 ###  Bemerkungen
 
-Nur wenn der Verlaufsfarbtyp GradientColorType.TwoColors ist, ist diese Eigenschaft sinnvoll.
+Nur wenn der Farbverlaufstyp GradientColorType.TwoColors ist, ist diese Eigenschaft sinnvoll.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def gradient_color2(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)

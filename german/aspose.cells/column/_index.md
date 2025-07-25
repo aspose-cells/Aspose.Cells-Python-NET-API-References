@@ -3,7 +3,7 @@ title: Column Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 240
 url: /de/aspose.cells/column/
 is_root: false
 ---
@@ -18,20 +18,20 @@ Der Typ Column macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [index](/cells/python-net/de/aspose.cells/column/index) | Ruft den Index dieser Spalte ab.|
-| [width](/cells/python-net/de/aspose.cells/column/width) | Ruft die Spaltenbreite in Zeicheneinheiten ab und legt sie fest.|
-| [group_level](/cells/python-net/de/aspose.cells/column/group_level) | Ruft die Gruppenebene der Spalte ab.|
+| [width](/cells/python-net/de/aspose.cells/column/width) | Ruft die Spaltenbreite in Zeichen ab und legt sie fest.|
+| [group_level](/cells/python-net/de/aspose.cells/column/group_level) | Ruft die Gruppierungsebene der Spalte ab.|
 | [is_hidden](/cells/python-net/de/aspose.cells/column/is_hidden) | Gibt an, ob die Spalte ausgeblendet ist.|
-| [has_custom_style](/cells/python-net/de/aspose.cells/column/has_custom_style) | Gibt an, ob diese Spalte über benutzerdefinierte Stileinstellungen verfügt (anders als die von der Arbeitsmappe geerbten Standardeinstellungen).|
+| [has_custom_style](/cells/python-net/de/aspose.cells/column/has_custom_style) | Gibt an, ob diese Spalte benutzerdefinierte Stileinstellungen hat (anders als die aus der Arbeitsmappe übernommenen Standardeinstellungen).|
 | [style](/cells/python-net/de/aspose.cells/column/style) | Ruft den Stil dieser Spalte ab.|
-| [is_collapsed](/cells/python-net/de/aspose.cells/column/is_collapsed) | ob die Spalte ausgeblendet ist|
+| [is_collapsed](/cells/python-net/de/aspose.cells/column/is_collapsed) | ob die Spalte reduziert ist|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [apply_style](/cells/python-net/de/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Wendet Formate für eine ganze Spalte an.|
-| [get_style](/cells/python-net/de/aspose.cells/column/get_style/#) | Ruft den Stil dieser Spalte ab.|
-| [set_style](/cells/python-net/de/aspose.cells/column/set_style/#aspose.cells.Style) | Legt den Stil dieser Spalte fest.|
+| [`apply_style(self, style, flag)`](/cells/python-net/de/aspose.cells/column/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Wendet Formate für eine ganze Spalte an.|
+| [`get_style(self)`](/cells/python-net/de/aspose.cells/column/get_style/#) | Ruft den Stil dieser Spalte ab.|
+| [`set_style(self, style)`](/cells/python-net/de/aspose.cells/column/set_style/#aspose.cells.style) | Legt den Stil dieser Spalte fest.|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/it/aspose.cells.webextensions/webextension)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/it/aspose.cells.webextensions/webextension)

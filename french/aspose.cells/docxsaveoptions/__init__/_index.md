@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/docxsaveoptions/__init__/
 is_root: false
 ---
-##  DocxSaveOptions() {#}
+##  \_\_init\_\_(self){#}
 Représente les options d'enregistrement du fichier .docx.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  DocxSaveOptions(save_as_image) {#bool}
+##  \_\_init\_\_(self, enregistrer_sous_une_image){#bool}
 Représente les options d'enregistrement du fichier .docx.
 
 
 
 ```python
+
 def __init__(self, save_as_image):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, save_as_image):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| save_as_image | bool |Si True, le classeur sera converti en quelques images du fichier .docx.<br/> Si False, le classeur sera converti en certaines tables du fichier .docx.|
+| save_as_image | bool | Si vrai, le classeur sera converti en quelques images du fichier .docx.<br/>Si Faux, le classeur sera converti en quelques tableaux du fichier .docx.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DocxSaveOptions](/cells/python-net/fr/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`DocxSaveOptions`](/cells/python-net/fr/aspose.cells/docxsaveoptions)

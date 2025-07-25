@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  position fastighet
 
-Får och ställer in värdet.
+Hämtar och ställer in värdet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [SpinButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`SpinButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/
 is_root: false
 ---
-##  get_on_category_axis_point_y_px(index) {#int}
-Hämtar y-koordinaten för punkten på kategoriaxeln efter anrop av metoden Chart.Calculate(). Gäller endast Ytdiagram.
+##  get_on_category_axis_point_y_px(self, index) {#int}
+Hämtar y-koordinaten för punkten på kategoriaxeln efter anrop av metoden Chart.Calculate(). Gäller endast ytdiagram.
 
 
 
 ```python
+
 def get_on_category_axis_point_y_px(self, index):
     ...
 ```
@@ -23,10 +24,10 @@ def get_on_category_axis_point_y_px(self, index):
 | index | int |  |
 ###  Anmärkningar
 
-Område 2D-diagram: index är 0.
-Område 3D-diagram: index är 0 eller 1.
+Area 2D-diagram: index är 0.
+Area 3D-diagram: index är 0 eller 1.
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

@@ -1,15 +1,15 @@
 ---
-title: table_style_type الملكية
+title: table_style_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.tables/listobject/table_style_type/
 is_root: false
 ---
-##  table_style_type الملكية
+##  table_style_type عقار
 
-يحصل وأسلوب الجدول المدمج.
+يحصل على نمط الجدول المدمج.
 
 ###  مثال
 
@@ -36,6 +36,6 @@ def table_style_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
-* فئة [TableStyleType](/cells/python-net/ar/aspose.cells.tables/tablestyletype)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)
+* فئة [`TableStyleType`](/cells/python-net/ar/aspose.cells.tables/tablestyletype)

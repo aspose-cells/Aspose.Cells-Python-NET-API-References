@@ -18,6 +18,6 @@ def alter_references(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtension](/cells/python-net/es/aspose.cells.webextensions/webextension)
-* clase [WebExtensionReferenceCollection](/cells/python-net/es/aspose.cells.webextensions/webextensionreferencecollection)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtension`](/cells/python-net/es/aspose.cells.webextensions/webextension)
+* clase [`WebExtensionReferenceCollection`](/cells/python-net/es/aspose.cells.webextensions/webextensionreferencecollection)

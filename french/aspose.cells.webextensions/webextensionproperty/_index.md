@@ -8,7 +8,7 @@ url: /fr/aspose.cells.webextensions/webextensionproperty/
 is_root: false
 ---
 ##  WebExtensionProperty classe
-Représente une propriété personnalisée de complément Office.
+Représente une propriété personnalisée du complément Office.
 
 
 
@@ -23,4 +23,4 @@ Le type WebExtensionProperty expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.webextensions](..)
+* module [`aspose.cells.webextensions`](..)

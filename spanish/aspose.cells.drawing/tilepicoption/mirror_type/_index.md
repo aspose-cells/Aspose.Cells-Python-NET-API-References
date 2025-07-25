@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mirror_type propiedad
 
-Obtiene o establece el tipo de espejo para el mosaico.
+Obtiene o establece el tipo de espejo para mosaico.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def mirror_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MirrorType](/cells/python-net/es/aspose.cells.drawing/mirrortype)
-* clase [TilePicOption](/cells/python-net/es/aspose.cells.drawing/tilepicoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MirrorType`](/cells/python-net/es/aspose.cells.drawing/mirrortype)
+* clase [`TilePicOption`](/cells/python-net/es/aspose.cells.drawing/tilepicoption)

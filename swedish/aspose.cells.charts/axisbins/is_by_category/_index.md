@@ -21,5 +21,5 @@ def is_by_category(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [AxisBins](/cells/python-net/sv/aspose.cells.charts/axisbins)
+* modul [`aspose.cells.charts`](../../)
+* klass [`AxisBins`](/cells/python-net/sv/aspose.cells.charts/axisbins)

@@ -1,15 +1,15 @@
 ---
 title: is_full_path_link proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 580
 url: /it/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link proprietà
 
-Indica se si utilizza il collegamento al percorso completo in sheet00x.htm, filelist.xml e tabstrip.htm.
+Indica se utilizzare un collegamento al percorso completo in sheet00x.htm, filelist.xml e tabstrip.htm.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

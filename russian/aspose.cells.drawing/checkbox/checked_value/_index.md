@@ -1,15 +1,15 @@
 ---
 title: checked_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ru/aspose.cells.drawing/checkbox/checked_value/
 is_root: false
 ---
 ##  checked_value недвижимость
 
-Получает или устанавливает значение флажка.
+Получает или задает значение флажка.
 ###  Определение:
 ```python
 @property

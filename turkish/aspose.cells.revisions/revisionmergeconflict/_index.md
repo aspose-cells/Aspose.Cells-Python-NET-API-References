@@ -12,23 +12,21 @@ Bir birleştirme çakışması olduğunu gösteren bir revizyon kaydını temsil
 
 
 
-**Miras:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
+**Miras:** [`RevisionMergeConflict`](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict)
 
 
 
-RevisionMergeConflict türü aşağıdaki üyeleri gösterir:
+RevisionMergeConflict türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict/type) | Revizyon türünü alır.|
-| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict/worksheet) | Çalışma sayfasını alır.|
-| [id](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict/id) | Bu revizyonun numarasını alır.|
+| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
-* sınıf [Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
-* sınıf [RevisionMergeConflict](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict)
+* modül [`aspose.cells.revisions`](..)
+* sınıf [`RevisionMergeConflict`](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict)

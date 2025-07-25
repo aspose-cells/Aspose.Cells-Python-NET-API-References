@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Calcula la posición personalizada del área de trazado, ejes si la posición de ellos está asignada automáticamente.
+##  calculate(self) {#}
+Calcula la posición personalizada del área de trazado y de los ejes si su posición se asigna automáticamente.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Calcula la posición personalizada del área de trazado, los ejes si la posición de ellos está asignada automáticamente, con Opciones de cálculo de gráfico.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Calcula la posición personalizada del área del gráfico y de los ejes si su posición se asigna automáticamente, con las opciones de cálculo de gráficos.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

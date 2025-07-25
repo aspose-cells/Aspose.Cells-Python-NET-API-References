@@ -1,5 +1,5 @@
 ---
-title: total_pages الملكية
+title: total_pages عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 80
 url: /ar/aspose.cells.rendering/drawobject/total_pages/
 is_root: false
 ---
-##  total_pages الملكية
+##  total_pages عقار
 
 يشير إلى إجمالي الصفحات في العرض الحالي.
 ###  تعريف:
@@ -18,5 +18,5 @@ def total_pages(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [DrawObject](/cells/python-net/ar/aspose.cells.rendering/drawobject)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`DrawObject`](/cells/python-net/ar/aspose.cells.rendering/drawobject)

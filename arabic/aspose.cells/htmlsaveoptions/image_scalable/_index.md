@@ -3,15 +3,15 @@ title: image_scalable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 540
 url: /ar/aspose.cells/htmlsaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable عقار
 
-يشير إلى ما إذا كان سيتم استخدام وحدة قابلة للتطوير لوصف عرض الصورة
+يشير إلى ما إذا كان يتم استخدام وحدة قابلة للتطوير لوصف عرض الصورة
 عند استخدام وحدة قابلة للتطوير لوصف عرض العمود.
-القيمة الافتراضية هي الحقيقية.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

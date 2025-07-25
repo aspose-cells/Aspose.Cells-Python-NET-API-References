@@ -3,17 +3,17 @@ title: is_word_art mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 690
 url: /tr/aspose.cells.drawing/checkbox/is_word_art/
 is_root: false
 ---
 ##  is_word_art mülk
 
-Bu şeklin bir kelime sanatı olup olmadığını belirtir.
+Bu şeklin bir kelime sanatı olup olmadığını gösterir.
 
 ###  Notlar
 
-Yalnızca xls dosyasının Eski Şekli için.
+Sadece xls dosyasının Legacy Shape'i için.
 
 ###  Örnek
 

@@ -1,6 +1,6 @@
 ---
 title: cached_file_folder proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  cached_file_folder proprietà
 
-La cartella dei file memorizzati nella cache viene utilizzata per archiviare alcuni dati di grandi dimensioni.
+Cartella per i file temporanei che possono essere utilizzati come cache di dati.
+
+###  Osservazioni
+
+Se la cartella non è stata specificata,
+il valore predefinito è [`CellsHelper.get_cache_folder`](/cells/python-net/it/aspose.cells/cellshelper/get_cache_folder).
+Se il suo valore predefinito è null o vuoto, oppure è stato specificato come null o vuoto,
+in questo modo non verrà utilizzato alcun file di cache durante il salvataggio della cartella di lavoro.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +28,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/it/aspose.cells/jsonsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/it/aspose.cells/jsonsaveoptions)

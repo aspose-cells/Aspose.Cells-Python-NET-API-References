@@ -3,13 +3,13 @@ title: text_vertical_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /de/aspose.cells.drawing/listbox/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment Eigentum
 
-Ruft den vertikalen Textausrichtungstyp der Form ab und legt diesen fest.
+Ruft den Typ der vertikalen Textausrichtung der Form ab und legt ihn fest.
 
 ###  Beispiel
 

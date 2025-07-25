@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
-##  protect(islocked_for_viewing, password) {#bool-str}
+##  protect(self, islocked_for_viewing, password) {#bool-str}
 Schützt dieses VBA-Projekt oder hebt den Schutz auf.
 
 
 
 ```python
+
 def protect(self, islocked_for_viewing, password):
     ...
 ```
@@ -20,14 +21,14 @@ def protect(self, islocked_for_viewing, password):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| islocked_for_viewing | bool | gibt an, ob das Projekt zur Ansicht gesperrt ist.|
-| password | str | Wenn der Wert null ist, wird der Schutz dieses VBA-Projekts aufgehoben, andernfalls wird dieses VBA-Projekt projiziert.|
+| islocked_for_viewing | bool | gibt an, ob das Projekt zur Anzeige gesperrt ist.|
+| password | str | Wenn der Wert null ist, wird der Schutz für dieses VBA-Projekt aufgehoben, andernfalls wird der Schutz für dieses VBA-Projekt aufgehoben.|
 ###  Bemerkungen
 
-Wenn islockedForViewing wahr ist, darf das Passwort nicht null sein.
+Wenn „islockedForViewing“ wahr ist, darf das Kennwort nicht null sein.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProject](/cells/python-net/de/aspose.cells.vba/vbaproject)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProject`](/cells/python-net/de/aspose.cells.vba/vbaproject)

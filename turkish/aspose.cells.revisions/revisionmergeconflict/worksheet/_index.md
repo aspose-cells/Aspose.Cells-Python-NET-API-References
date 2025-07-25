@@ -8,8 +8,6 @@ url: /tr/aspose.cells.revisions/revisionmergeconflict/worksheet/
 is_root: false
 ---
 ##  worksheet mülk
-
-worksheet'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +16,6 @@ def worksheet(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionMergeConflict](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionMergeConflict`](/cells/python-net/tr/aspose.cells.revisions/revisionmergeconflict)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

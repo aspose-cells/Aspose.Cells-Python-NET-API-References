@@ -1,27 +1,27 @@
 ---
-title: classe SlicerCache
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: SlicerCache classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.slicers/slicercache/
 is_root: false
 ---
-##  classe SlicerCache
-descrizione sommaria della cache slicer
+##  SlicerCache classe
+Rappresenta la descrizione riassuntiva della cache slicer
 
 
 
-Il tipo SlicerCache espone i membri seguenti:
+Il tipo SlicerCache espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/it/aspose.cells.slicers/slicercache/cross_filter_type) | Restituisce o imposta se un'affettatrice partecipa al filtro incrociato con altre affettatrici<br/> che condividono la stessa cache slicer e come viene visualizzato il filtro incrociato. Leggere scrivere|
-| [list](/cells/python-net/it/aspose.cells.slicers/slicercache/list) | Restituisce se l'affettatrice associata alla cache affettatrice specificata è basata su un'origine dati non OLAP. Sola lettura|
-| [slicer_cache_items](/cells/python-net/it/aspose.cells.slicers/slicercache/slicer_cache_items) | Restituisce una raccolta SlicerCacheItem che contiene la raccolta di tutti gli elementi nella cache del filtro dei dati. Sola lettura|
-| [name](/cells/python-net/it/aspose.cells.slicers/slicercache/name) | Restituisce il nome della cache del filtro dei dati.|
-| [source_name](/cells/python-net/it/aspose.cells.slicers/slicercache/source_name) | Restituisce il nome del campo cache|
+| [cross_filter_type](/cells/python-net/it/aspose.cells.slicers/slicercache/cross_filter_type) | Restituisce o imposta se un'affettatrice partecipa al filtraggio incrociato con altre affettatrici<br/> che condividono la stessa cache slicer e come viene visualizzato il filtro incrociato. Lettura/scrittura|
+| [list](/cells/python-net/it/aspose.cells.slicers/slicercache/list) | Restituisce se l'affettatrice associata alla cache affettatrice specificata si basa su un'origine dati non OLAP. Di sola lettura|
+| [slicer_cache_items](/cells/python-net/it/aspose.cells.slicers/slicercache/slicer_cache_items) | Restituisce una raccolta SlicerCacheItem che contiene la raccolta di tutti gli elementi nella cache dello slicer. Di sola lettura|
+| [name](/cells/python-net/it/aspose.cells.slicers/slicercache/name) | Restituisce il nome della cache slicer.|
+| [source_name](/cells/python-net/it/aspose.cells.slicers/slicercache/source_name) | Restituisce il nome di questa cache slicer.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](..)
+* modulo [`aspose.cells.slicers`](..)

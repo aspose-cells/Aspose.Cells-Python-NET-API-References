@@ -9,7 +9,7 @@ is_root: false
 ---
 ## workbook属性
 
-获取函数所在的Workbook对象。
+获取函数所在的工作簿对象。
 ### 定义：
 ```python
 @property

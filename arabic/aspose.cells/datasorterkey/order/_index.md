@@ -1,5 +1,5 @@
 ---
-title: order الملكية
+title: order عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/datasorterkey/order/
 is_root: false
 ---
-##  order الملكية
+##  order عقار
 
-يشير إلى order الفرز.
+يشير إلى order للفرز.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def order(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorterKey](/cells/python-net/ar/aspose.cells/datasorterkey)
-* فئة [SortOrder](/cells/python-net/ar/aspose.cells/sortorder)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorterKey`](/cells/python-net/ar/aspose.cells/datasorterkey)
+* فئة [`SortOrder`](/cells/python-net/ar/aspose.cells/sortorder)

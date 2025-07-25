@@ -1,6 +1,6 @@
 ---
 title: image_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/it/aspose.cells.drawing/texturefill)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/it/aspose.cells.drawing/texturefill)

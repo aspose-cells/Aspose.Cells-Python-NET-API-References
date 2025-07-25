@@ -3,13 +3,13 @@ title: sheet_tab_bar_width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 450
+weight: 480
 url: /es/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
 ##  sheet_tab_bar_width propiedad
 
-Ancho de la barra de pestañas de la hoja de trabajo (en 1/1000 del ancho de la ventana).
+Ancho de la barra de pestañas de la hoja de cálculo (en 1/1000 del ancho de la ventana).
 ###  Definición:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: QueryTable classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1270
+weight: 1160
 url: /it/aspose.cells/querytable/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Il tipo QueryTable espone i seguenti membri:
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [connection_id](/cells/python-net/it/aspose.cells/querytable/connection_id) | Ottiene l'ID di connessione della tabella di query.|
+| [connection_id](/cells/python-net/it/aspose.cells/querytable/connection_id) | Ottiene l'ID di connessione della tabella delle query.|
 | [external_connection](/cells/python-net/it/aspose.cells/querytable/external_connection) | Ottiene la connessione esterna correlata.|
-| [name](/cells/python-net/it/aspose.cells/querytable/name) | Ottiene il nome di querytable.|
+| [name](/cells/python-net/it/aspose.cells/querytable/name) |Ottiene il nome della querytable.|
 | [result_range](/cells/python-net/it/aspose.cells/querytable/result_range) | Ottiene l'intervallo del risultato.|
-| [preserve_formatting](/cells/python-net/it/aspose.cells/querytable/preserve_formatting) | Restituisce o imposta PreserveFormatting dell'oggetto.|
+| [preserve_formatting](/cells/python-net/it/aspose.cells/querytable/preserve_formatting) | Restituisce o imposta il PreserveFormatting dell'oggetto.|
 | [adjust_column_width](/cells/python-net/it/aspose.cells/querytable/adjust_column_width) | Restituisce o imposta l'AdjustColumnWidth dell'oggetto.|
 
 

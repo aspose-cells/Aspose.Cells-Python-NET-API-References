@@ -3,17 +3,17 @@ title: show_all_sheets mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 740
 url: /tr/aspose.cells/htmlsaveoptions/show_all_sheets/
 is_root: false
 ---
 ##  show_all_sheets mülk
 
-Tek bir html dosyası olarak kaydederken tüm sayfaların gösterilip gösterilmeyeceğini belirtir.
+Tek bir HTML dosyası olarak kaydedildiğinde tüm sayfaların gösterilip gösterilmeyeceğini belirtir.
 
 ###  Notlar
 
-Yalnızca [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/tr/aspose.cells/htmlsaveoptions#save_as_single_file) Doğru olduğunda çalışır.
+Sadece [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/tr/aspose.cells/htmlsaveoptions#save_as_single_file) True olduğunda çalışır.
 ###  Tanım:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: DrawObjectEnum枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 180
 url: /zh/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-DrawObjectEnum 类型公开了以下成员：
+DrawObjectEnum 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| IMAGE |指示 DrawObject 是一个图像|
-| CELL |表示 DrawObject 是一个 Cell|
+| IMAGE |指示 DrawObject 是图像|
+| CELL |指示 DrawObject 是 Cell|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

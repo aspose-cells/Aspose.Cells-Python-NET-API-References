@@ -1,15 +1,15 @@
 ---
 title: index недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ru/aspose.cells/worksheet/index/
 is_root: false
 ---
 ##  index недвижимость
 
-Получает номер index листа в коллекции листов.
+Получает index листа в коллекции рабочих листов.
 ###  Определение:
 ```python
 @property

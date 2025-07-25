@@ -8,7 +8,7 @@ url: /es/aspose.cells.ods/opendocumentformatversiontype/
 is_root: false
 ---
 ##  OpenDocumentFormatVersionType enumeración
-Abra el tipo de versión de formato de documento.
+Tipo de versión de formato de documento abierto.
 
 
 
@@ -18,9 +18,9 @@ El tipo OpenDocumentFormatVersionType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | NONE | Ninguno estricto.|
-| ODF11 | ODF Versión 1.1|
-| ODF12 | ODF Versión 1.2|
-| ODF13 |ODF Versión 1.3|
+| ODF11 | ODF versión 1.1|
+| ODF12 | Versión 1.2 de ODF|
+| ODF13 | Versión 1.3 de ODF|
 
 
 

@@ -1,15 +1,15 @@
 ---
-title: bar_3d_shape_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bar_3d_shape_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.charts/series/bar_3d_shape_type/
 is_root: false
 ---
-## bar_3d_shape_type 属性
+## bar_3d_shape_type属性
 
-获取或设置与 3-D 条形图或柱形图一起使用的 3D 形状类型。
+获取或设置用于三维条形图或柱形图的三维形状类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_3d_shape_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Bar3DShapeType](/cells/python-net/zh/aspose.cells.charts/bar3dshapetype)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Bar3DShapeType`](/cells/python-net/zh/aspose.cells.charts/bar3dshapetype)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

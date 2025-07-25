@@ -1,6 +1,6 @@
 ---
 title: extract_content_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -10,7 +10,7 @@ is_root: false
 ##  extract_content_permission недвижимость
 
  Указывает, разрешено ли копировать или иным образом извлекать текст и графику из документа.
-операциями, отличными от тех, которые контролируются [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
+по операциям, отличным от контролируемых [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content).
 ###  Определение:
 ```python
 @property

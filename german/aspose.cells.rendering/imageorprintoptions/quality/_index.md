@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  quality Eigentum
 
-Ruft einen Wert ab, der die quality der generierten Bilder bestimmt, oder legt diesen fest
-Wird nur angewendet, wenn Seiten im Format `Jpeg` gespeichert werden. Der Standardwert ist 100
+Ruft einen Wert ab oder legt ihn fest, der den quality der generierten Bilder bestimmt
+gilt nur beim Speichern von Seiten im Format `Jpeg`. Der Standardwert ist 100
 
 ###  Bemerkungen
 

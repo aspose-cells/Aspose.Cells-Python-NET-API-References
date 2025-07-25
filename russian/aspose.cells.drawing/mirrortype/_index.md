@@ -1,18 +1,18 @@
 ---
 title: MirrorType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 960
+weight: 950
 url: /ru/aspose.cells.drawing/mirrortype/
 is_root: false
 ---
 ##  MirrorType перечисление
-Представляет зеркальный тип заливки текстурой
+Представляет собой зеркальный тип заливки текстуры.
 
 
 
-Тип MirrorType предоставляет следующие члены:
+Тип MirrorType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

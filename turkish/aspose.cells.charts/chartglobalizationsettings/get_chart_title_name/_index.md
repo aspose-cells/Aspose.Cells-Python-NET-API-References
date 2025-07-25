@@ -7,7 +7,7 @@ weight: 40
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_chart_title_name/
 is_root: false
 ---
-##  get_chart_title_name() {#}
+##  get_chart_title_name(self) {#}
 Grafik Başlığının adını alır.
 
 
@@ -17,6 +17,7 @@ Grafik Başlığının adını alır.
 
 
 ```python
+
 def get_chart_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_chart_title_name(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

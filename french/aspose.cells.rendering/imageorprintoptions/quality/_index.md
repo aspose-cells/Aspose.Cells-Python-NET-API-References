@@ -10,11 +10,11 @@ is_root: false
 ##  quality propriété
 
 Obtient ou définit une valeur déterminant le quality des images générées
-à appliquer uniquement lors de l'enregistrement de pages au format `Jpeg`. La valeur par défaut est 100
+à appliquer uniquement lors de l'enregistrement de pages au format `Jpeg`. La valeur par défaut est 100.
 
 ###  Remarques
 
-N'a d'effet que lors de l'enregistrement au JPEG.
+N'a d'effet que lors de l'enregistrement dans JPEG.
 La valeur doit être comprise entre 0 et 100.
 La valeur par défaut est 100.
 ###  Définition:

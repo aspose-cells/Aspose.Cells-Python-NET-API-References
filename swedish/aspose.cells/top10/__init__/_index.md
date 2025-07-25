@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/top10/__init__/
 is_root: false
 ---
-##  Top10() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av Top10
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10](/cells/python-net/sv/aspose.cells/top10)
+* modul [`aspose.cells`](../../)
+* klass [`Top10`](/cells/python-net/sv/aspose.cells/top10)

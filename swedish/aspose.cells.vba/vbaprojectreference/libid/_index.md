@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  libid fastighet
 
-Hämtar och ställer in referensens Libid.
+Hämtar och anger Libid för referensen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def libid(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProjectReference](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProjectReference`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)

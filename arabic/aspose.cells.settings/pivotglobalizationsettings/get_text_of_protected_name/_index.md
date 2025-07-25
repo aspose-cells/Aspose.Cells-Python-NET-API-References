@@ -3,20 +3,21 @@ title: طريقة get_text_of_protected_name
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protected_name/
 is_root: false
 ---
-##  get_text_of_protected_name {#str}
-الحصول على النص للاسم المحمي المحدد.
+##  get_text_of_protected_name(self, protected_name) {#str}
+يحصل على النص للاسم المحمي المحدد.
 
 
 ###  عائدات
 
-الأسماء المحلية الموجّهة لـ PivotTable.
+الأسماء المحلية المصححة لـ PivotTable.
 
 
 ```python
+
 def get_text_of_protected_name(self, protected_name):
     ...
 ```
@@ -27,8 +28,8 @@ def get_text_of_protected_name(self, protected_name):
 | protected_name | str | الاسم المحمي في PivotTable.|
 ###  ملاحظات
 
-في Ms Excel، لا يُسمح باستخدام بعض الأسماء كاسم PivotFields في PivotTable.
-وهي تختلف باختلاف المنطقة، ويمكن للمستخدم تحديدها بشكل صريح وفقًا للمنطقة المستخدمة.
+في برنامج Microsoft Excel، لا يُسمح باستخدام بعض الأسماء كاسم PivotFields في PivotTable.
+إنها تختلف باختلاف المنطقة، ويمكن للمستخدم تحديدها صراحةً وفقًا للمنطقة المستخدمة.
 
 
 ###  أنظر أيضا

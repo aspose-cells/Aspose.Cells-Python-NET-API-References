@@ -3,13 +3,13 @@ title: left_inch属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 710
+weight: 720
 url: /zh/aspose.cells.drawing/commentshape/left_inch/
 is_root: false
 ---
 ## left_inch属性
 
-表示形状相对于其左列的水平偏移量，以英寸为单位。
+表示形状与其左列的水平偏移量，以英寸为单位。
 
 ### 例子
 

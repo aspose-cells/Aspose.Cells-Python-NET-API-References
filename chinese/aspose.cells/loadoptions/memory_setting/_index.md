@@ -1,15 +1,19 @@
 ---
-title: memory_setting 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: memory_setting属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 160
 url: /zh/aspose.cells/loadoptions/memory_setting/
 is_root: false
 ---
-## memory_setting 属性
+## memory_setting属性
 
-获取或设置内存使用选项。
+获取或设置已加载工作簿的内存模式。
+
+### 注意事项
+
+有关记忆模式的更多详细信息，请参阅[`Cells.memory_setting`](/cells/python-net/zh/aspose.cells/cells#memory_setting)。
 ### 定义：
 ```python
 @property
@@ -21,6 +25,6 @@ def memory_setting(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [LoadOptions](/cells/python-net/zh/aspose.cells/loadoptions)
-* 类 [MemorySetting](/cells/python-net/zh/aspose.cells/memorysetting)
+* 模块[`aspose.cells`](../../)
+* 类 [`LoadOptions`](/cells/python-net/zh/aspose.cells/loadoptions)
+* 类 [`MemorySetting`](/cells/python-net/zh/aspose.cells/memorysetting)

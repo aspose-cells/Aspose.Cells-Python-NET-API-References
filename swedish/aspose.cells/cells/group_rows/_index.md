@@ -3,16 +3,17 @@ title: group_rows metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 580
 url: /sv/aspose.cells/cells/group_rows/
 is_root: false
 ---
-##  group_rows {#int-int}
+##  group_rows(self, first_index, last_index) {#int-int}
 Grupperar rader.
 
 
 
 ```python
+
 def group_rows(self, first_index, last_index):
     ...
 ```
@@ -24,12 +25,13 @@ def group_rows(self, first_index, last_index):
 | last_index | int | Det sista radindexet som ska grupperas.|
 
 
-##  group_rows {#int-int-bool}
+##  group_rows(self, first_index, last_index, is_hidden) {#int-int-bool}
 Grupperar rader.
 
 
 
 ```python
+
 def group_rows(self, first_index, last_index, is_hidden):
     ...
 ```

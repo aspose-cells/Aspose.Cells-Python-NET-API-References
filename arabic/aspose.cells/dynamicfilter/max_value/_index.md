@@ -1,5 +1,5 @@
 ---
-title: max_value الملكية
+title: max_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/dynamicfilter/max_value/
 is_root: false
 ---
-##  max_value الملكية
+##  max_value عقار
 
-الحصول على القيمة القصوى للمرشح الديناميكي وتعيينها.
+يحصل على القيمة القصوى للمرشح الديناميكي ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DynamicFilter](/cells/python-net/ar/aspose.cells/dynamicfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DynamicFilter`](/cells/python-net/ar/aspose.cells/dynamicfilter)

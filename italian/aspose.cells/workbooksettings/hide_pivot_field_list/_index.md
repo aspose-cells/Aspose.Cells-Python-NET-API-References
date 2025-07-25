@@ -1,9 +1,9 @@
 ---
 title: hide_pivot_field_list proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 240
 url: /it/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---

@@ -19,20 +19,20 @@ Typen RevisionType avslöjar följande medlemmar:
 | :- | :- |
 | CUSTOM_VIEW | Anpassad vy.|
 | DEFINED_NAME | Definierat namn.|
-| CHANGE_CELLS | Cells byte.|
+| CHANGE_CELLS | Cells ändring.|
 | AUTO_FORMAT | Automatiskt format.|
-| MERGE_CONFLICT | Slå samman konflikt.|
+| MERGE_CONFLICT | Sammanfoga konflikt.|
 | COMMENT | Kommentar.|
 | FORMAT | Formatera.|
 | INSERT_SHEET | Infoga arbetsblad.|
-| MOVE_CELLS |Flytta celler.|
+| MOVE_CELLS | Flytta celler.|
 | UNDO | Ångra.|
 | QUERY_TABLE | Frågetabell.|
-| INSERT_DELETE | Infoga eller radera.|
+| INSERT_DELETE | Infoga eller ta bort.|
 | RENAME_SHEET | Byt namn på kalkylblad.|
-| UNKNOWN | Okänd.|
+| UNKNOWN |Okänd.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](..)
+* modul [`aspose.cells.revisions`](..)

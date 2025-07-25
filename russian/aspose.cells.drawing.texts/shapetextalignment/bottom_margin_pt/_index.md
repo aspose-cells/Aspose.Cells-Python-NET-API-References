@@ -1,6 +1,6 @@
 ---
 title: bottom_margin_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin_pt недвижимость
 
-Возвращает нижнее поле в баллах
+Возвращает нижнее поле в пунктах.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)

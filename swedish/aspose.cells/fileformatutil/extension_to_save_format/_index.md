@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
-##  extension_to_save_format(extension) {#str}
+##  extension_to_save_format(, anknytning){#str}
 Konverterar ett filnamnstillägg till ett SaveFormat-värde.
 
 
@@ -17,20 +17,22 @@ Konverterar ett filnamnstillägg till ett SaveFormat-värde.
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| extension | str | Filtillägget. Kan vara med eller utan en inledande prick. Fallet okänslig.|
+| extension | str | Filändelsen. Kan vara med eller utan inledande punkt. Skiftlägeskänslig.|
 ###  Anmärkningar
 
-Om tillägget inte kan kännas igen, returnerar [SaveFormat.UNKNOWN](/cells/python-net/sv/aspose.cells/saveformat#UNKNOWN).
+Om anknytningen inte kan identifieras returneras [`SaveFormat.UNKNOWN`](/cells/python-net/sv/aspose.cells/saveformat#UNKNOWN).
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

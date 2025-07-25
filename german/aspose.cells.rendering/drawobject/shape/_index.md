@@ -19,6 +19,6 @@ def shape(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [DrawObject](/cells/python-net/de/aspose.cells.rendering/drawobject)
-* Klasse [Shape](/cells/python-net/de/aspose.cells.drawing/shape)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`DrawObject`](/cells/python-net/de/aspose.cells.rendering/drawobject)
+* Klasse [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)

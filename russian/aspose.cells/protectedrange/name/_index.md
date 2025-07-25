@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name недвижимость
 
-Получает титул Range. Это используется как дескриптор, а не как определение именованного диапазона.
+Получает заголовок диапазона. Используется как дескриптор, а не как определение именованного диапазона.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ProtectedRange](/cells/python-net/ru/aspose.cells/protectedrange)
+* модуль [`aspose.cells`](../../)
+* класс [`ProtectedRange`](/cells/python-net/ru/aspose.cells/protectedrange)

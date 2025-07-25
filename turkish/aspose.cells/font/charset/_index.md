@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  charset mülk
 
-Karakter kümesini temsil eder.
+Karakter setini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

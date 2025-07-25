@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cells_color mülk
 
-Bu gradyan durağının rengini alır.
+Bu degrade durağının rengini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def cells_color(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [GradientStop](/cells/python-net/tr/aspose.cells.drawing/gradientstop)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`GradientStop`](/cells/python-net/tr/aspose.cells.drawing/gradientstop)

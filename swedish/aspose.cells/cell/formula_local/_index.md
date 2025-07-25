@@ -3,13 +3,13 @@ title: formula_local fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 510
 url: /sv/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local fastighet
 
-Få den språkformaterade formeln för cellen.
+Hämta cellens språkformaterade formel.
 ###  Definition:
 ```python
 @property

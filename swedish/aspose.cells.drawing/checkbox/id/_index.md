@@ -3,13 +3,13 @@ title: id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 520
 url: /sv/aspose.cells.drawing/checkbox/id/
 is_root: false
 ---
 ##  id fastighet
 
-Hämtar identifieraren för denna form.
+Hämtar identifieraren för den här formen.
 
 ###  Exempel
 

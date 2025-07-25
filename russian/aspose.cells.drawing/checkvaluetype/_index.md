@@ -1,9 +1,9 @@
 ---
 title: CheckValueType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 790
+weight: 780
 url: /ru/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип CheckValueType предоставляет следующие члены:
+Тип CheckValueType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| UN_CHECKED | Не проверено|
+| UN_CHECKED | Непроверено|
 | CHECKED | Проверено|
-| MIXED | Смешанный|
+| MIXED | смешанный|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

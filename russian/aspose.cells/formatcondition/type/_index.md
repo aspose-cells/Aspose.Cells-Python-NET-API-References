@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type недвижимость
 
-Получает и задает тип условного формата.
+Возвращает и задает тип условного формата.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
-* класс [FormatConditionType](/cells/python-net/ru/aspose.cells/formatconditiontype)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)
+* класс [`FormatConditionType`](/cells/python-net/ru/aspose.cells/formatconditiontype)

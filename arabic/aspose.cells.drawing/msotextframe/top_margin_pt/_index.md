@@ -1,5 +1,5 @@
 ---
-title: top_margin_pt الملكية
+title: top_margin_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 90
 url: /ar/aspose.cells.drawing/msotextframe/top_margin_pt/
 is_root: false
 ---
-##  top_margin_pt الملكية
+##  top_margin_pt عقار
 
 إرجاع الهامش العلوي بوحدة النقاط
 ###  تعريف:
@@ -21,5 +21,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoTextFrame](/cells/python-net/ar/aspose.cells.drawing/msotextframe)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoTextFrame`](/cells/python-net/ar/aspose.cells.drawing/msotextframe)

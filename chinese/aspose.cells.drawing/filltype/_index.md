@@ -1,9 +1,9 @@
 ---
 title: FillType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 830
+weight: 820
 url: /zh/aspose.cells.drawing/filltype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ is_root: false
 
 
 
-FillType 类型公开了以下成员：
+FillType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | AUTOMATIC |表示自动格式化类型。|
-| NONE |表示无格式类型。|
+| NONE |代表无格式类型。|
 | SOLID |实心填充格式。|
 | GRADIENT |渐变填充格式。|
 | TEXTURE |纹理填充格式（包括图片填充）。|
@@ -28,4 +28,4 @@ FillType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

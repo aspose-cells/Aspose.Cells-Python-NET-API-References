@@ -7,7 +7,7 @@ weight: 50
 url: /es/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
+##  is_metered_licensed() {#}
 Compruebe si el medidor tiene licencia
 
 
@@ -17,7 +17,9 @@ Verdadero o falso
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

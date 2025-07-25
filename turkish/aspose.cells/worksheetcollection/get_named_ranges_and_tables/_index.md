@@ -7,19 +7,20 @@ weight: 110
 url: /tr/aspose.cells/worksheetcollection/get_named_ranges_and_tables/
 is_root: false
 ---
-##  get_named_ranges_and_tables() {#}
-Elektronik tablodaki tüm önceden tanımlanmış adlandırılmış aralıkları alır.
+##  get_named_ranges_and_tables(self) {#}
+E-tabloda önceden tanımlanmış tüm adlandırılmış aralıkları alır.
 
 
 ###  İadeler
 
-Range nesneleri dizisi.
+Range nesnelerinden oluşan bir dizi.
 
 
-Adlandırılmış aralık yoksa null değerini döndürür.
+Adlandırılmış aralık mevcut değilse null döndürür.
 
 
 ```python
+
 def get_named_ranges_and_tables(self):
     ...
 ```
@@ -29,5 +30,5 @@ def get_named_ranges_and_tables(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

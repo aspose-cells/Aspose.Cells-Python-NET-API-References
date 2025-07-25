@@ -3,12 +3,12 @@ title: DataBarBorderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1980
+weight: 1890
 url: /ar/aspose.cells/databarbordertype/
 is_root: false
 ---
 ##  DataBarBorderType التعداد
-يحدد نوع الحدود لشريط البيانات.
+يحدد نوع حدود شريط البيانات.
 
 
 

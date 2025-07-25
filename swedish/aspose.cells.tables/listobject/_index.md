@@ -8,9 +8,9 @@ url: /sv/aspose.cells.tables/listobject/
 is_root: false
 ---
 ##  ListObject klass
-Representerar ett listobjekt på ett kalkylblad.
- Objektet ListObject är en medlem av ListObjects-samlingen.
-ListObjects-samlingen innehåller alla listobjekt på ett kalkylblad.
+Representerar ett listobjekt i ett kalkylblad.
+ Objektet ListObject är medlem i ListObjects-samlingen.
+ListObjects-samlingen innehåller alla listobjekt i ett kalkylblad.
 
 
 
@@ -19,40 +19,43 @@ Typen ListObject avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [start_row](/cells/python-net/sv/aspose.cells.tables/listobject/start_row) | Hämtar intervallets startrad.|
+| [start_row](/cells/python-net/sv/aspose.cells.tables/listobject/start_row) | Hämtar startraden i intervallet.|
 | [start_column](/cells/python-net/sv/aspose.cells.tables/listobject/start_column) | Hämtar startkolumnen för intervallet.|
 | [end_row](/cells/python-net/sv/aspose.cells.tables/listobject/end_row) | Hämtar den sista raden i intervallet.|
-| [end_column](/cells/python-net/sv/aspose.cells.tables/listobject/end_column) |Hämtar slutkolumnen för intervallet.|
-| [list_columns](/cells/python-net/sv/aspose.cells.tables/listobject/list_columns) | Hämtar ListColumns för ListObject.|
-| [show_header_row](/cells/python-net/sv/aspose.cells.tables/listobject/show_header_row) | Hämtar och ställer in om detta ListObject visar rubrikrad.|
-| [show_totals](/cells/python-net/sv/aspose.cells.tables/listobject/show_totals) | Hämtar och ställer in om detta ListObject visar total rad.|
-| [data_range](/cells/python-net/sv/aspose.cells.tables/listobject/data_range) | Hämtar dataintervallet för ListObject.|
+| [end_column](/cells/python-net/sv/aspose.cells.tables/listobject/end_column) | Hämtar intervallets slutkolumn.|
+| [list_columns](/cells/python-net/sv/aspose.cells.tables/listobject/list_columns) | Hämtar ListColumns från ListObject.|
+| [show_header_row](/cells/python-net/sv/aspose.cells.tables/listobject/show_header_row) | Hämtar och anger om detta ListObject ska visa rubrikraden.|
+| [show_totals](/cells/python-net/sv/aspose.cells.tables/listobject/show_totals) | Hämtar och anger om detta ListObject visar en total rad.|
+| [data_range](/cells/python-net/sv/aspose.cells.tables/listobject/data_range) | Hämtar dataområdet för ListObject.|
 | [query_table](/cells/python-net/sv/aspose.cells.tables/listobject/query_table) | Hämtar den länkade frågetabellen.|
-| [data_source_type](/cells/python-net/sv/aspose.cells.tables/listobject/data_source_type) | Hämtar datakällans typ för tabellen.|
-| [auto_filter](/cells/python-net/sv/aspose.cells.tables/listobject/auto_filter) | Får autofilter.|
-| [display_name](/cells/python-net/sv/aspose.cells.tables/listobject/display_name) | Hämtar och ställer in visningsnamnet.|
-| [comment](/cells/python-net/sv/aspose.cells.tables/listobject/comment) | Får och ställer tabellens kommentar.|
+| [data_source_type](/cells/python-net/sv/aspose.cells.tables/listobject/data_source_type) |Hämtar datakälltypen för tabellen.|
+| [auto_filter](/cells/python-net/sv/aspose.cells.tables/listobject/auto_filter) | Hämtar automatiskt filter.|
+| [display_name](/cells/python-net/sv/aspose.cells.tables/listobject/display_name) | Hämtar och anger visningsnamnet.|
+| [comment](/cells/python-net/sv/aspose.cells.tables/listobject/comment) | Hämtar och anger tabellens kommentar.|
 | [show_table_style_first_column](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_first_column) | Anger om den första kolumnen i tabellen ska ha stilen tillämpad.|
 | [show_table_style_last_column](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_last_column) | Anger om den sista kolumnen i tabellen ska ha stilen tillämpad.|
-| [show_table_style_row_stripes](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_row_stripes) | Indikerar om radrandsformatering tillämpas.|
-| [show_table_style_column_stripes](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_column_stripes) | Indikerar om formatering av kolumnrand används.|
-| [table_style_type](/cells/python-net/sv/aspose.cells.tables/listobject/table_style_type) | Gets och den inbyggda bordsstilen.|
-| [table_style_name](/cells/python-net/sv/aspose.cells.tables/listobject/table_style_name) | Hämtar och ställer in tabellstilens namn.|
-| [xml_map](/cells/python-net/sv/aspose.cells.tables/listobject/xml_map) | Får ett [ListObject.xml_map](/cells/python-net/sv/aspose.cells.tables/listobject#xml_map) som används för denna lista.|
-| [alternative_text](/cells/python-net/sv/aspose.cells.tables/listobject/alternative_text) | Hämtar och ställer in den alternativa texten.|
-| [alternative_description](/cells/python-net/sv/aspose.cells.tables/listobject/alternative_description) | Hämtar och ställer in den alternativa beskrivningen.|
+| [show_table_style_row_stripes](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_row_stripes) | Anger om radrandformatering tillämpas.|
+| [show_table_style_column_stripes](/cells/python-net/sv/aspose.cells.tables/listobject/show_table_style_column_stripes) | Anger om formatering för kolumnrand tillämpas.|
+| [table_style_type](/cells/python-net/sv/aspose.cells.tables/listobject/table_style_type) | Gets och den inbyggda tabellstilen.|
+| [table_style_name](/cells/python-net/sv/aspose.cells.tables/listobject/table_style_name) | Hämtar och anger tabellstilens namn.|
+| [xml_map](/cells/python-net/sv/aspose.cells.tables/listobject/xml_map) | Får en [`ListObject.xml_map`](/cells/python-net/sv/aspose.cells.tables/listobject#xml_map) som används för den här listan.|
+| [alternative_text](/cells/python-net/sv/aspose.cells.tables/listobject/alternative_text) | Hämtar och ställer in alternativ text.|
+| [alternative_description](/cells/python-net/sv/aspose.cells.tables/listobject/alternative_description) | Hämtar och anger den alternativa beskrivningen.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [convert_to_range()](/cells/python-net/sv/aspose.cells.tables/listobject/convert_to_range/#) | Konvertera tabellen till intervall.|
-| [convert_to_range(options)](/cells/python-net/sv/aspose.cells.tables/listobject/convert_to_range/#TableToRangeOptions) | Konvertera tabellen till intervall.|
-| [resize(start_row, start_column, end_row, end_column, has_headers)](/cells/python-net/sv/aspose.cells.tables/listobject/resize/#int-int-int-int-bool) | Ändra storlek på intervallet för listobjektet.|
-| [put_cell_value(row_offset, column_offset, value)](/cells/python-net/sv/aspose.cells.tables/listobject/put_cell_value/#int-int-any) | Lägg värdet i cellen.|
-| [update_column_name()](/cells/python-net/sv/aspose.cells.tables/listobject/update_column_name/#) |Uppdaterar namnet på alla listkolumner från kalkylbladet.|
-| [filter()](/cells/python-net/sv/aspose.cells.tables/listobject/filter/#) | Filtrera tabellen.|
-| [apply_style_to_range()](/cells/python-net/sv/aspose.cells.tables/listobject/apply_style_to_range/#) | Tillämpa tabellstilen på intervallet.|
+| [`put_cell_value(self, row_offset, column_offset, value)`](/cells/python-net/sv/aspose.cells.tables/listobject/put_cell_value/#int-int-any) | Sätt in värdet i cellen.|
+| [`put_cell_value(self, row_offset, column_offset, value, is_totals_row_label)`](/cells/python-net/sv/aspose.cells.tables/listobject/put_cell_value/#int-int-any-bool) | Sätt in värdet i cellen.|
+| [`put_cell_formula(self, row_offset, column_offset, formula)`](/cells/python-net/sv/aspose.cells.tables/listobject/put_cell_formula/#int-int-str) | Sätt in formeln i cellen i tabellen.|
+| [`put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_formula)`](/cells/python-net/sv/aspose.cells.tables/listobject/put_cell_formula/#int-int-str-bool) | Sätt in formeln i cellen i tabellen.|
+| [`convert_to_range(self)`](/cells/python-net/sv/aspose.cells.tables/listobject/convert_to_range/#) | Konvertera tabellen till ett intervall.|
+| [`convert_to_range(self, options)`](/cells/python-net/sv/aspose.cells.tables/listobject/convert_to_range/#aspose.cells.tables.tabletorangeoptions) | Konvertera tabellen till ett intervall.|
+| [`resize(self, start_row, start_column, end_row, end_column, has_headers)`](/cells/python-net/sv/aspose.cells.tables/listobject/resize/#int-int-int-int-bool) | Ändra storlek på listobjektets område.|
+| [`update_column_name(self)`](/cells/python-net/sv/aspose.cells.tables/listobject/update_column_name/#) | Uppdaterar alla listkolumners namn från kalkylbladet.|
+| [`filter(self)`](/cells/python-net/sv/aspose.cells.tables/listobject/filter/#) | Filtrera tabellen.|
+| [`apply_style_to_range(self)`](/cells/python-net/sv/aspose.cells.tables/listobject/apply_style_to_range/#) | Tillämpa tabellformatet på intervallet.|
 
 
 
@@ -79,4 +82,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](..)
+* modul [`aspose.cells.tables`](..)

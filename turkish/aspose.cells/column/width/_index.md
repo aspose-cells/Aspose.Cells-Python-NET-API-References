@@ -9,7 +9,12 @@ is_root: false
 ---
 ##  width mülk
 
-width sütununu karakter birimi cinsinden alır ve ayarlar.
+width sütununu karakter biriminde alır ve ayarlar.
+
+###  Notlar
+
+E-tablo için width sütunu karakter sayısı olarak ölçülür
+0~9 sayılarının normal stil yazı tipinde işlendiği gibi en büyük rakamı width.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +26,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

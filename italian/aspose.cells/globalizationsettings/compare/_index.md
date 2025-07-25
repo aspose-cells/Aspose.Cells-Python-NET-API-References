@@ -1,13 +1,13 @@
 ---
-title: metodo compare
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo compare
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
-##  compare(v1, v2, ignore_case) {#str-str-bool}
+##  compare(self, v1, v2, ignore_case) {#str-str-bool}
 Confronta due valori stringa in base a determinate regole di confronto.
 
 
@@ -17,6 +17,7 @@ Numero intero che indica la relazione lessicale tra i due comparandi
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```
@@ -31,5 +32,5 @@ def compare(self, v1, v2, ignore_case):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

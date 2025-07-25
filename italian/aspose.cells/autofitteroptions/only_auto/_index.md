@@ -1,9 +1,9 @@
 ---
 title: only_auto proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells/autofitteroptions/only_auto/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def only_auto(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/it/aspose.cells/autofitteroptions)
+* modulo [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/it/aspose.cells/autofitteroptions)

@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size mülk
-
-Denetimin tüm içeriğini görüntülemek için otomatik olarak yeniden boyutlandırılıp boyutlandırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

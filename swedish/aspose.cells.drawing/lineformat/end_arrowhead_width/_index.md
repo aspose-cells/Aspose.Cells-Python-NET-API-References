@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_width fastighet
 
-Hämtar och ställer in slutpilens breddtyp för linjen.
+Hämtar och anger breddtypen för linjens slutpil.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)

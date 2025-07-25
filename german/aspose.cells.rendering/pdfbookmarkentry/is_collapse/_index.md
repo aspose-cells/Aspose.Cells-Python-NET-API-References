@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapse Eigentum
 
-Wenn diese Eigenschaft wahr ist, wird die Lesezeichenliste reduziert, andernfalls wird sie erweitert.
+Wenn diese Eigenschaft wahr ist, wird das Lesezeichen reduziert, andernfalls wird es erweitert.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapse(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)

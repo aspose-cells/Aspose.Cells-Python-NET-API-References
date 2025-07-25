@@ -8,7 +8,7 @@ url: /es/aspose.cells.querytables/powerqueryformulacollection/
 is_root: false
 ---
 ##  PowerQueryFormulaCollection clase
-Representa todas las fórmulas de consulta de energía en los datos del mashup.
+Representa todas las fórmulas de consulta de potencia en los datos mashup.
 
 
 
@@ -23,16 +23,19 @@ El tipo PowerQueryFormulaCollection expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/copy_to/#list) | Copia toda la lista de matrices en una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/copy_to/#int-list-int-int) |Copia un rango de elementos de la lista de arreglos a una lista de arreglos unidimensional compatible, comenzando en el índice especificado de la lista de arreglos de destino.|
-| [index_of(item, index)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/index_of/#PowerQueryFormula-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el índice especificado hasta el último elemento.|
-| [index_of(item, index, count)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/index_of/#PowerQueryFormula-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene el número especificado de elementos.|
-| [last_index_of(item)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#PowerQueryFormula) | Busca el objeto especificado y devuelve el índice de base cero de la última aparición en toda la lista de matrices.|
-| [last_index_of(item, index)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#PowerQueryFormula-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el primer elemento hasta el índice especificado.|
-| [last_index_of(item, index, count)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#PowerQueryFormula-int-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de matriz que contiene el número especificado de elementos y termina en el índice especificado.|
-| [binary_search(item)](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/binary_search/#PowerQueryFormula) | Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.|
+| [`copy_to(self, array)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/copy_to/#list) |Copia la lista de matrices completa a una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/copy_to/#int-list-int-int) | Copia un rango de elementos de la lista de matrices a una lista de matrices unidimensionales compatible, comenzando en el índice especificado de la lista de matrices de destino.|
+| [`index_of(self, item, index)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/index_of/#aspose.cells.querytables.powerqueryformula-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de la matriz que se extiende desde el índice especificado hasta el último elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/index_of/#aspose.cells.querytables.powerqueryformula-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene la cantidad especificada de elementos.|
+| [`last_index_of(self, item)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#aspose.cells.querytables.powerqueryformula) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro de toda la lista de la matriz.|
+| [`last_index_of(self, item, index)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#aspose.cells.querytables.powerqueryformula-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que se extiende desde el primer elemento hasta el índice especificado.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/last_index_of/#aspose.cells.querytables.powerqueryformula-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que contiene la cantidad especificada de elementos y termina en el índice especificado.|
+| [`get(self, name)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/get/#str) | Obtiene [`PowerQueryFormula`](/cells/python-net/es/aspose.cells.querytables/powerqueryformula) por el nombre de la fórmula de consulta de potencia.|
+| [`remove_by(self, name)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/remove_by/#str) | Eliminar la fórmula de consulta de energía por nombre.|
+| [`binary_search(self, item)`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulacollection/binary_search/#aspose.cells.querytables.powerqueryformula) | Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.querytables](..)
+* módulo [`aspose.cells.querytables`](..)
+* clase [`PowerQueryFormula`](/cells/python-net/es/aspose.cells.querytables/powerqueryformula)

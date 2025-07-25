@@ -9,7 +9,7 @@ is_root: false
 ---
 ## side_wall属性
 
-返回代表 3D 图表侧壁的 [`Chart.walls`](/cells/python-net/zh/aspose.cells.charts/chart#walls) 对象。
+返回代表三维图表侧壁的 [`Chart.walls`](/cells/python-net/zh/aspose.cells.charts/chart#walls) 对象。
 ### 定义：
 ```python
 @property

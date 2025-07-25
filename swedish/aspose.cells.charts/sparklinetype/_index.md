@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/sparklinetype/
 is_root: false
 ---
 ##  SparklineType uppräkning
-Representerar sparkline-typerna.
+Representerar miniatyrdiagramtyperna.
 
 
 
@@ -17,11 +17,11 @@ Typen SparklineType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| LINE | Linje sparkline.|
-| COLUMN | Kolumn sparkline.|
-| STACKED | Vinst/förlust sparkline.|
+| LINE | Linje miniatyrbild.|
+| COLUMN | Kolumn miniatyrbild.|
+| STACKED | Vinst/förlust-snapline.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

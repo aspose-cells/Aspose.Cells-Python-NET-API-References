@@ -1,15 +1,15 @@
 ---
-title: name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells.vba/vbamodule/name/
 is_root: false
 ---
-## name 属性
+## name属性
 
-获取和设置 Module 的 name。
+获取并设置模块的 name。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.vba](../../)
-* 类 [VbaModule](/cells/python-net/zh/aspose.cells.vba/vbamodule)
+* 模块[`aspose.cells.vba`](../../)
+* 类 [`VbaModule`](/cells/python-net/zh/aspose.cells.vba/vbamodule)

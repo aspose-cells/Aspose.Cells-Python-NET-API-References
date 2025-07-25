@@ -1,39 +1,40 @@
 ---
-title: JsonLayoutOptions الدرجة
+title: JsonLayoutOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ar/aspose.cells.utility/jsonlayoutoptions/
 is_root: false
 ---
-##  JsonLayoutOptions الدرجة
+##  JsonLayoutOptions صف
 يمثل خيارات نوع تخطيط json.
 
 
 
-يكشف نوع JsonLayoutOptions الأعضاء التالية:
+يكشف النوع JsonLayoutOptions عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [JsonLayoutOptions()](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/__init__/#) | يُنشئ نسخة جديدة من JsonLayoutOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/__init__/#) | منشئ تحميل خيارات التخطيط JSON.|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [array_as_table](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/array_as_table) | صفيف العمليات كجدول.|
-| [ignore_null](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_null) | يشير إلى ما إذا كان يتم تجاهل قيمة فارغة.|
-| [ignore_array_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_array_title) | يشير إلى ما إذا كان تجاهل العنوان إذا كانت المصفوفة خاصية لكائن.|
-| [ignore_object_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_object_title) | يشير إلى ما إذا كان تجاهل العنوان إذا كان الكائن خاصية لكائن.|
-| [ignore_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_title) | Ingores عناوين السمات|
-| [convert_numeric_or_date](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/convert_numeric_or_date) | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت السلسلة في json قد تم تحويلها إلى رقم أو تاريخ.|
-| [number_format](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/number_format) | الحصول على تنسيق القيمة الرقمية وتعيينه.|
-| [date_format](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/date_format) | الحصول على تنسيق قيمة التاريخ وتعيينه.|
-| [title_style](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/title_style) | الحصول على نمط العنوان وتعيينه.|
+| [array_as_table](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/array_as_table) |معالجة المصفوفة كجدول.|
+| [ignore_null](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_null) | يشير إلى ما إذا كان سيتم تجاهل القيمة الفارغة.|
+| [ignore_array_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_array_title) | يشير إلى ما إذا كان سيتم تجاهل العنوان إذا كانت المصفوفة خاصية للكائن.|
+| [ignore_object_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_object_title) | يشير إلى ما إذا كان سيتم تجاهل العنوان إذا كان الكائن خاصية للكائن.|
+| [ignore_title](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/ignore_title) | عناوين السمات|
+| [convert_numeric_or_date](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/convert_numeric_or_date) | يشير إلى ما إذا كان يتم تحويل السلسلة في json إلى قيمة رقمية أو قيمة تاريخية.|
+| [number_format](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/number_format) | يحصل على تنسيق القيمة الرقمية ويحدده.|
+| [date_format](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/date_format) | يحصل على تنسيق قيمة التاريخ ويحدده.|
+| [title_style](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/title_style) | يحصل على نمط العنوان ويحدده.|
+| [kept_schema](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions/kept_schema) | يشير إلى ما إذا كان يتم الاحتفاظ بمخطط json هذا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](..)
+* الوحدة [`aspose.cells.utility`](..)

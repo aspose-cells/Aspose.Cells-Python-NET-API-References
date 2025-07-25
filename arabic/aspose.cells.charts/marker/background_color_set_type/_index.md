@@ -1,5 +1,5 @@
 ---
-title: background_color_set_type الملكية
+title: background_color_set_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.charts/marker/background_color_set_type/
 is_root: false
 ---
-##  background_color_set_type الملكية
+##  background_color_set_type عقار
 
-الحصول على نوع تعيين لون خلفية العلامة أو تعيينه.
+يحصل على أو يعين نوع مجموعة ألوان خلفية العلامة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [FormattingType](/cells/python-net/ar/aspose.cells.charts/formattingtype)
-* فئة [Marker](/cells/python-net/ar/aspose.cells.charts/marker)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`FormattingType`](/cells/python-net/ar/aspose.cells.charts/formattingtype)
+* فئة [`Marker`](/cells/python-net/ar/aspose.cells.charts/marker)

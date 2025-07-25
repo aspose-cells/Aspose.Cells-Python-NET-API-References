@@ -1,6 +1,6 @@
 ---
 title: file_format_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -18,6 +18,6 @@ def file_format_type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo)
-* classe [FileFormatType](/cells/python-net/it/aspose.cells/fileformattype)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo)
+* classe [`FileFormatType`](/cells/python-net/it/aspose.cells/fileformattype)

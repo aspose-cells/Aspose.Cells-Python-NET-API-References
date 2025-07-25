@@ -1,6 +1,6 @@
 ---
 title: foreground_cells_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_cells_color недвижимость
 
-Получает и задает объект переднего плана [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor).
+Получает и задает объект переднего плана [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor).
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def foreground_cells_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [CellsColor](/cells/python-net/ru/aspose.cells/cellscolor)
-* класс [PatternFill](/cells/python-net/ru/aspose.cells.drawing/patternfill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor)
+* класс [`PatternFill`](/cells/python-net/ru/aspose.cells.drawing/patternfill)

@@ -3,13 +3,13 @@ title: zoom propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 960
 url: /es/aspose.cells/worksheet/zoom/
 is_root: false
 ---
 ##  zoom propiedad
 
-Representa el factor de escala en porcentaje. Debería estar entre 10 y 400.
+Representa el factor de escala en porcentaje. Debe estar entre 10 y 400.
 
 ###  Observaciones
 

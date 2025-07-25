@@ -3,13 +3,13 @@ title: first_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 420
 url: /tr/aspose.cells/range/first_column/
 is_root: false
 ---
 ##  first_column mülk
 
-Aralığın ilk sütununun dizinini alır.
+Aralığın ilk sütununun indeksini alır.
 ###  Tanım:
 ```python
 @property

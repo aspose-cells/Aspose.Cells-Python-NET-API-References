@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Får eller ställer in value för fastigheten.
+Hämtar eller ställer in value för egenskapen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)

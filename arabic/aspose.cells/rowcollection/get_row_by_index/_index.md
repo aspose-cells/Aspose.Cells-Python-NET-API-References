@@ -3,20 +3,21 @@ title: طريقة get_row_by_index
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells/rowcollection/get_row_by_index/
 is_root: false
 ---
-##  get_row_by_index(index) {#int}
-الحصول على كائن الصف حسب الموضع في القائمة.
+##  get_row_by_index(self, index) {#int}
+يحصل على كائن الصف حسب الموضع في القائمة.
 
 
 ###  عائدات
 
-كائن الصف في موضع معين.
+كائن الصف في الموضع المحدد.
 
 
 ```python
+
 def get_row_by_index(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_row_by_index(self, index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [RowCollection](/cells/python-net/ar/aspose.cells/rowcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`RowCollection`](/cells/python-net/ar/aspose.cells/rowcollection)

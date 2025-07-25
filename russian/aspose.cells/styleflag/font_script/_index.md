@@ -1,6 +1,6 @@
 ---
 title: font_script недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_script недвижимость
 
-Будет применена настройка скрипта шрифта.
+Будут применены настройки шрифта.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

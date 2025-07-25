@@ -21,6 +21,6 @@ def cap_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [LineCapType](/cells/python-net/es/aspose.cells.drawing/linecaptype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`LineCapType`](/cells/python-net/es/aspose.cells.drawing/linecaptype)

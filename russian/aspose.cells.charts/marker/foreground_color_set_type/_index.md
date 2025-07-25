@@ -1,6 +1,6 @@
 ---
 title: foreground_color_set_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color_set_type недвижимость
 
-Получает или задает тип набора цветов переднего плана маркера.
+Возвращает или задает тип набора цветов переднего плана маркера.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def foreground_color_set_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [FormattingType](/cells/python-net/ru/aspose.cells.charts/formattingtype)
-* класс [Marker](/cells/python-net/ru/aspose.cells.charts/marker)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`FormattingType`](/cells/python-net/ru/aspose.cells.charts/formattingtype)
+* класс [`Marker`](/cells/python-net/ru/aspose.cells.charts/marker)

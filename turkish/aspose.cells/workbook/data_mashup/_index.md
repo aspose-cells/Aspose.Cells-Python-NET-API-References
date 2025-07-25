@@ -3,13 +3,13 @@ title: data_mashup mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 550
 url: /tr/aspose.cells/workbook/data_mashup/
 is_root: false
 ---
 ##  data_mashup mülk
 
-Karma verileri alır.
+Mashup verilerini alır.
 ###  Tanım:
 ```python
 @property

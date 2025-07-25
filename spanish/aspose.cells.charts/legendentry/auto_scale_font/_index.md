@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  auto_scale_font propiedad
 
- True si el texto del objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto.
-El valor por defecto es verdadero.
+ Verdadero si el texto en el objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto.
+El valor predeterminado es Verdadero.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [LegendEntry](/cells/python-net/es/aspose.cells.charts/legendentry)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`LegendEntry`](/cells/python-net/es/aspose.cells.charts/legendentry)

@@ -1,15 +1,15 @@
 ---
 title: max_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
 ##  max_value недвижимость
 
-Представляет максимальное значение на оси значений.
+Представляет собой максимальное значение на оси значений.
 
 ###  Примечания
 

@@ -3,7 +3,7 @@ title: SelectionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /tr/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ Liste kutusunun seçim türü.
 
 
 
-SelectionType türü aşağıdaki üyeleri gösterir:
+SelectionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| SINGLE | Sigle seçim türü.|
-| MULTI |Çoklu seçim türü.|
-| EXTEND | Seçim türünü genişletin.|
+| SINGLE | Tek seçim tipi.|
+| MULTI | Çoklu seçim türü.|
+| EXTEND | Seçim türünü genişlet.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

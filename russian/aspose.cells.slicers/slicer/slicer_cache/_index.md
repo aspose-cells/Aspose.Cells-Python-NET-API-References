@@ -1,9 +1,9 @@
 ---
 title: slicer_cache недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 250
 url: /ru/aspose.cells.slicers/slicer/slicer_cache/
 is_root: false
 ---
@@ -26,6 +26,6 @@ def slicer_cache(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
-* класс [SlicerCache](/cells/python-net/ru/aspose.cells.slicers/slicercache)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* класс [`SlicerCache`](/cells/python-net/ru/aspose.cells.slicers/slicercache)

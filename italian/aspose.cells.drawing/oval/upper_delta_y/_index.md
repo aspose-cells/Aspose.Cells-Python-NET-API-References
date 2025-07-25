@@ -1,15 +1,15 @@
 ---
 title: upper_delta_y proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /it/aspose.cells.drawing/oval/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y proprietà
 
-Ottiene o imposta l'offset verticale della forma dalla riga dell'angolo superiore sinistro.
+Ottiene o imposta lo scostamento verticale della forma dalla riga dell'angolo superiore sinistro.
 
 ###  Osservazioni
 

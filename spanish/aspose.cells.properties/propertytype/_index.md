@@ -3,7 +3,7 @@ title: PropertyType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 80
 url: /es/aspose.cells.properties/propertytype/
 is_root: false
 ---
@@ -27,4 +27,4 @@ El tipo PropertyType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.properties](..)
+* módulo [`aspose.cells.properties`](..)

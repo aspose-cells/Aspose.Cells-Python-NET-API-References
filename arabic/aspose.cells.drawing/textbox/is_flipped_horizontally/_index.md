@@ -3,13 +3,13 @@ title: is_flipped_horizontally عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ar/aspose.cells.drawing/textbox/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally عقار
 
-الحصول على وتحديد ما إذا كان الشكل مقلوبًا أفقيًا.
+يحصل ويحدد ما إذا كان الشكل مقلوبًا أفقيًا.
 
 ###  مثال
 

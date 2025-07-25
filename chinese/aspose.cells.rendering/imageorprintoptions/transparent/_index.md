@@ -3,17 +3,17 @@ title: transparent属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 390
 url: /zh/aspose.cells.rendering/imageorprintoptions/transparent/
 is_root: false
 ---
 ## transparent属性
 
-指示生成图像的背景是否应为 transparent。
+指示生成的图像的背景是否应为 transparent。
 
-### 评论
+### 注意事项
 
-默认值为 false。这意味着生成的图像的背景是白色的。
+默认值为 false。即生成的图片背景为白色。
 ### 定义：
 ```python
 @property

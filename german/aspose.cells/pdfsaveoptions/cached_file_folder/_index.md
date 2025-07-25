@@ -8,8 +8,6 @@ url: /de/aspose.cells/pdfsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder Eigentum
-
-Der zwischengespeicherte Dateiordner wird verwendet, um einige große Daten zu speichern.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

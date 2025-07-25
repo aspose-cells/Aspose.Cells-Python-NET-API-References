@@ -8,8 +8,8 @@ url: /tr/aspose.cells.rendering/workbookrender/
 is_root: false
 ---
 ##  WorkbookRender sınıfı
- Bir Çalışma Kitabı işlemesini temsil eder.
-Bu sınıfın yapıcısı, sayfa düzeni, hücre stili değiştirildikten sonra kullanılmalıdır.
+ Bir Çalışma Kitabı oluşturmayı temsil eder.
+Bu sınıfın kurucusu, pagesetup, hücre stili değiştirildikten sonra kullanılmalıdır.
 
 
 
@@ -18,7 +18,7 @@ WorkbookRender türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions) | WorkbookRender'ın yapısı|
+| [`__init__(self, workbook, options)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.workbook-aspose.cells.rendering.imageorprintoptions) | WorkbookRender'ın yapısı|
 
 
 ###  Özellikler
@@ -30,18 +30,18 @@ WorkbookRender türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [to_image](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) | Akış için tüm çalışma kitabını Tiff Görüntüsü olarak işleyin.|
-| [to_image](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#str) | Çalışma kitabının tamamını Tiff Görüntüsü olarak bir dosyaya dönüştürün.|
-| [to_image](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#int-str) |Belirli bir sayfayı bir dosyaya dönüştürün.|
-| [to_image](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) | Belirli bir sayfayı bir akışa dönüştürün.|
-| [to_printer](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str) | Çalışma kitabını Yazıcıya aktar|
-| [to_printer](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str-str) | Çalışma kitabını Yazıcıya aktar|
-| [to_printer](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) | Çalışma kitabını Yazıcıya aktar|
-| [to_printer](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) | Çalışma kitabını Yazıcıya aktar|
-| [to_printer](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | Çalışma kitabını Yazıcıya aktar|
-| [get_page_size_inch](/cells/python-net/tr/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) | Çıktı görüntüsünün inç cinsinden sayfa boyutunu alın.|
-| [custom_print](/cells/python-net/tr/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) | Müşteri bu işlevi kullanarak her sayfayı yazdırırken yazıcının sayfa ayarını kontrol edebilir.|
-| [dispose](/cells/python-net/tr/aspose.cells.rendering/workbookrender/dispose/#) | Oluşturma için oluşturulan ve kullanılan kaynakları serbest bırakır.|
+| [`to_image(self, stream)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#io.rawiobase) | Tüm çalışma kitabını Tiff Görüntüsü olarak akışa aktarın.|
+| [`to_image(self, filename)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#str) | Tüm çalışma kitabını Tiff Görüntüsü olarak bir dosyaya aktar.|
+| [`to_image(self, page_index, file_name)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#int-str) | Belirli bir sayfayı bir dosyaya dönüştür.|
+| [`to_image(self, page_index, stream)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_image/#int-io.rawiobase) | Belirli bir sayfayı akışa dönüştür.|
+| [`to_printer(self, printer_name)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str) | Çalışma kitabını Yazıcıya aktar|
+| [`to_printer(self, printer_name, job_name)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str-str) | Çalışma kitabını Yazıcıya aktar|
+| [`to_printer(self, printer_settings)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.printersettings) | Çalışma kitabını Yazıcıya aktar|
+| [`to_printer(self, printer_settings, job_name)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.printersettings-str) | Çalışma kitabını Yazıcıya aktar|
+| [`to_printer(self, printer_name, print_page_index, print_page_count)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) | Çalışma kitabını Yazıcıya aktar|
+| [`get_page_size_inch(self, page_index)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) | Çıktı görüntüsünün sayfa boyutunu inç cinsinden alın.|
+| [`custom_print(self, next_page_after_print, print_page_event_args)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.printpageeventargs) | Bu fonksiyonu kullanarak istemci her sayfayı yazdırırken yazıcının sayfa ayarlarını kontrol edebilir.|
+| [`dispose(self)`](/cells/python-net/tr/aspose.cells.rendering/workbookrender/dispose/#) | Oluşturulan ve işleme için kullanılan kaynakları serbest bırakır.|
 
 
 

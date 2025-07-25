@@ -1,5 +1,5 @@
 ---
-title: password_char الملكية
+title: password_char عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 320
 url: /ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/password_char/
 is_root: false
 ---
-##  password_char الملكية
+##  password_char عقار
 
-الحصول على وتعيين حرف ليتم عرضه في مكان الأحرف التي تم إدخالها.
+يحصل على حرف ويحدده ليتم عرضه بدلاً من الأحرف المدخلة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def password_char(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [TextBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

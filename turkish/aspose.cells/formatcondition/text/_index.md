@@ -10,8 +10,8 @@ is_root: false
 ##  text mülk
 
  "text içerir" koşullu biçimlendirme kuralındaki text değeri.
-Yalnızca type = includeText, notContainsText, beginWith ve biterWith için geçerlidir.
-Varsayılan değer boştur.
+Yalnızca type = containsText, notContainsText, beginsWith ve endsWith için geçerlidir.
+Varsayılan değer null'dır.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

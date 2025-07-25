@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/data/
 is_root: false
 ---
 ##  data mülk
-
-Denetimin ikili data'ini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

@@ -7,17 +7,18 @@ weight: 260
 url: /sv/aspose.cells/globalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
-Hämtar typnamnet på tabellrader som består av tabellhuvudet.
-Standard är "Headers", så i formeln representerar "#Headers" tabellhuvudet.
+##  get_table_row_type_of_headers(self) {#}
+Hämtar typnamnet för tabellrader som består av tabellrubriken.
+Standardvärdet är "Headers", så i formeln representerar "#Headers" tabellrubriken.
 
 
 ###  Returnerar
 
-typnamnet på tabellrader
+typnamnet för tabellrader
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

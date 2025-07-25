@@ -1,6 +1,6 @@
 ---
 title: display_number_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format недвижимость
 
-Получает и задает формат отображаемого номера меток делений.
+Возвращает и задает формат отображаемого числа меток делений.
 ###  Определение:
 ```python
 @property

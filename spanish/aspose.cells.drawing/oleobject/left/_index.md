@@ -3,7 +3,7 @@ title: left propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 810
+weight: 820
 url: /es/aspose.cells.drawing/oleobject/left/
 is_root: false
 ---

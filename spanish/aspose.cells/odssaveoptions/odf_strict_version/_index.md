@@ -3,13 +3,13 @@ title: odf_strict_version propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 120
 url: /es/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---
 ##  odf_strict_version propiedad
 
-Obtiene y establece la versión ODF.
+Obtiene y establece la versión de ODF.
 ###  Definición:
 ```python
 @property

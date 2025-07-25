@@ -7,7 +7,7 @@ weight: 170
 url: /tr/aspose.cells/globalizationsettings/get_protection_name_of_pivot_table/
 is_root: false
 ---
-##  get_protection_name_of_pivot_table {#}
+##  get_protection_name_of_pivot_table(self) {#}
 PivotTable'daki koruma adını alır.
 
 
@@ -17,6 +17,7 @@ PivotTable'ın koruma adı
 
 
 ```python
+
 def get_protection_name_of_pivot_table(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_protection_name_of_pivot_table(self):
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen PivotGlobalizationSettings.GetTextOfProtectedName(string) yöntemini kullanın.
- Bu mülk, Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotGlobalizationSettings.GetTextOfProtectedName(string) metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

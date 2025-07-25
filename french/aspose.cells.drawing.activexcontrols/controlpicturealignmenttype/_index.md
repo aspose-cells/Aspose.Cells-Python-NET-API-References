@@ -1,13 +1,13 @@
 ---
-title: ControlPictureAlignmentType dénombrement
+title: ControlPictureAlignmentType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 190
 url: /fr/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
-##  ControlPictureAlignmentType dénombrement
+##  ControlPictureAlignmentType énumération
 Représente l'alignement de l'image à l'intérieur du formulaire ou de l'image.
 
 
@@ -26,4 +26,4 @@ Le type ControlPictureAlignmentType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

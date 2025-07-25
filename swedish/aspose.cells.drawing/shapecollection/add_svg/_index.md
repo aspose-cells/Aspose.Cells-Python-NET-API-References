@@ -3,11 +3,11 @@ title: add_svg metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 330
 url: /sv/aspose.cells.drawing/shapecollection/add_svg/
 is_root: false
 ---
-##  add_svg(upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+##  add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 Lägger till svg-bild.
 
 
@@ -17,6 +17,7 @@ Lägger till svg-bild.
 
 
 ```python
+
 def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, svg_data, compatible_image_data):
     ...
 ```
@@ -24,19 +25,21 @@ def add_svg(self, upper_left_row, top, upper_left_column, left, height, width, s
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int | Representerar den vertikala förskjutningen av formen från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| left | int | Den horisontella förskjutningen av formen från dess vänstra kolumn, i pixelenhet.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar formens vertikala förskjutning från dess vänstra rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| left | int | Formens horisontella förskjutning från dess vänstra kolumn, i pixelenhet.|
 | height | int | Formens höjd, i pixelenhet.|
-| width | int | Formens bredd, i pixelenhet.|
-| svg_data | bytes | Svg-bilddata.|
-| compatible_image_data | bytes |Konverterade bilddata från svg för att vara kompatibel med Excel 2016 eller lägre versioner.|
+| width | int | Formens bredd, i pixlar.|
+| svg_data | bytes | SVG-bilddata.|
+| compatible_image_data | bytes | Konverterade bilddata från svg för att vara kompatibel med Excel 2016 eller lägre versioner.|
 
 ###  Exempel
 
 ```python
 from aspose import pycore
+import bytearray
+import int
 
 #  add a svg
 with open("image.svg", "rb") as fs:
@@ -50,5 +53,5 @@ with open("image.svg", "rb") as fs:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

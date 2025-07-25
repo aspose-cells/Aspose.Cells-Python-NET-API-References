@@ -7,17 +7,19 @@ weight: 50
 url: /de/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
-Prüfen Sie, ob metered lizenziert ist
+##  is_metered_licensed() {#}
+Prüfen Sie, ob Metered lizenziert ist
 
 
 ###  Kehrt zurück
 
-Richtig oder falsch
+Wahr oder falsch
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

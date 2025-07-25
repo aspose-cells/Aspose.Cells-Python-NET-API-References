@@ -1,5 +1,5 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.webextensions/webextension/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-الحصول على وتعيين المعرف الفريد لمثيل Office Add-in في المستند الحالي.
+يحصل على ويحدد هوية فريدة لمثيل الوظيفة الإضافية لـ Office في المستند الحالي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtension](/cells/python-net/ar/aspose.cells.webextensions/webextension)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtension`](/cells/python-net/ar/aspose.cells.webextensions/webextension)

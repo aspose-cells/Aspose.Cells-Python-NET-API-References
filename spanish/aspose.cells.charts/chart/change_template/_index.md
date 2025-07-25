@@ -1,5 +1,5 @@
 ---
-title: change_template método
+title: método change_template
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 30
 url: /es/aspose.cells.charts/chart/change_template/
 is_root: false
 ---
-##  change_template(data) {#bytes}
-Cambie el tipo de gráfico con una plantilla preestablecida.
+##  change_template(self, data) {#bytes}
+Cambiar el tipo de gráfico con la plantilla preestablecida.
 
 
 
 ```python
+
 def change_template(self, data):
     ...
 ```
@@ -25,5 +26,5 @@ def change_template(self, data):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

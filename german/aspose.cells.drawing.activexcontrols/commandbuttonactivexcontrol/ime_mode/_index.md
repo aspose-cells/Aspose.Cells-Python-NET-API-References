@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/ime_mo
 is_root: false
 ---
 ##  ime_mode Eigentum
-
-Ruft den standardmäßigen Laufzeitmodus des Eingabemethoden-Editors für das Steuerelement ab und legt diesen fest, wenn es den Fokus erhält.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def ime_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CommandButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* Klasse [InputMethodEditorMode](/cells/python-net/de/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CommandButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* Klasse [`InputMethodEditorMode`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/inputmethodeditormode)

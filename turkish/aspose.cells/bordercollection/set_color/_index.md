@@ -3,16 +3,17 @@ title: set_color yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 20
+weight: 30
 url: /tr/aspose.cells/bordercollection/set_color/
 is_root: false
 ---
-##  set_color(color) {#aspose.pydrawing.Color}
+##  set_color(self, color) {#aspose.pydrawing.Color}
 Koleksiyondaki tüm kenarlıkların Rengini ayarlar.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```
@@ -25,5 +26,5 @@ def set_color(self, color):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [BorderCollection](/cells/python-net/tr/aspose.cells/bordercollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`BorderCollection`](/cells/python-net/tr/aspose.cells/bordercollection)

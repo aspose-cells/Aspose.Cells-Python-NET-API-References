@@ -1,5 +1,5 @@
 ---
-title: filter méthode
+title: méthode filter
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /fr/aspose.cells/namecollection/filter/
 is_root: false
 ---
-##  filter(type, sheet_index) {#NameScopeType-int}
+##  filter(self, type, sheet_index) {#aspose.cells.NameScopeType-int}
 Obtient tous les noms définis par portée.
 
 
@@ -17,6 +17,7 @@ Obtient tous les noms définis par portée.
 
 
 ```python
+
 def filter(self, type, sheet_index):
     ...
 ```
@@ -24,11 +25,11 @@ def filter(self, type, sheet_index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [NameScopeType](/cells/python-net/fr/aspose.cells/namescopetype) | Le type d'étendue.|
-| sheet_index | int | L'index de la feuille.<br/>Effets uniquement lorsque le type de portée est [NameScopeType.WORKSHEET](/cells/python-net/fr/aspose.cells/namescopetype#WORKSHEET) |
+| type | [`NameScopeType`](/cells/python-net/fr/aspose.cells/namescopetype) | Le type de portée.|
+| sheet_index | int | L'index des feuilles.<br/>Effets uniquement lorsque le type de portée est [`NameScopeType.WORKSHEET`](/cells/python-net/fr/aspose.cells/namescopetype#WORKSHEET) |
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [NameCollection](/cells/python-net/fr/aspose.cells/namecollection)
+* module [`aspose.cells`](../../)
+* classe [`NameCollection`](/cells/python-net/fr/aspose.cells/namecollection)

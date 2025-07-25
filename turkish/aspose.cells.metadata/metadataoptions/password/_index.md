@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password mülk
 
-Çalışma Kitabı dosya şifrelemesi password'i temsil eder.
+Çalışma kitabı dosya şifrelemesi password'i temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.metadata](../../)
-* sınıf [MetadataOptions](/cells/python-net/tr/aspose.cells.metadata/metadataoptions)
+* modül [`aspose.cells.metadata`](../../)
+* sınıf [`MetadataOptions`](/cells/python-net/tr/aspose.cells.metadata/metadataoptions)

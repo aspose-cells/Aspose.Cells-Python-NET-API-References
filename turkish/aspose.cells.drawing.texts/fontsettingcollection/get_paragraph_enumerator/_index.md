@@ -7,7 +7,7 @@ weight: 70
 url: /tr/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/
 is_root: false
 ---
-##  get_paragraph_enumerator() {#}
+##  get_paragraph_enumerator(self) {#}
 Paragrafların numaralandırıcısını alır.
 
 
@@ -17,6 +17,7 @@ Paragrafların numaralandırıcısını alır.
 
 
 ```python
+
 def get_paragraph_enumerator(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_paragraph_enumerator(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)

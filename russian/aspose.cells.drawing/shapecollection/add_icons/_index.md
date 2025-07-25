@@ -1,14 +1,14 @@
 ---
 title: add_icons метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-Добавляет изображение в формате SVG.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+Добавляет изображение SVG.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -24,14 +25,14 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| upper_left_row | int | Индекс верхней левой строки.|
-| top | int | Представляет вертикальное смещение фигуры от ее левого ряда в пикселях.|
+| upper_left_row | int | Указатель верхнего левого ряда.|
+| top | int | Представляет собой вертикальное смещение фигуры относительно ее левой строки в пикселях.|
 | upper_left_column | int | Индекс верхнего левого столбца.|
-| left | int | Горизонтальное смещение фигуры от ее левого столбца в пикселях.|
+| left | int | Горизонтальное смещение фигуры относительно ее левого столбца, в пикселях.|
 | height | int | Высота фигуры в пикселях.|
 | width | int | Ширина фигуры в пикселях.|
 | image_byte_data | bytes | Байтовые данные изображения.|
-| compatible_image_data | bytes | Данные изображения преобразованы из svg для совместимости с Excel 2016 или более ранними версиями.|
+| compatible_image_data | bytes | Конвертированные данные изображения из svg для совместимости с Excel 2016 или более ранними версиями.|
 
 ###  Пример
 

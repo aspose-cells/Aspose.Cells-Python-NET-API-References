@@ -1,5 +1,5 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 110
 url: /ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/height/
 is_root: false
 ---
-##  height الملكية
-
-الحصول على height الخاص بوحدة النقاط وتعيينه.
+##  height عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CheckBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CheckBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

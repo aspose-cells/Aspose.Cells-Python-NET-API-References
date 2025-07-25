@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  caption_visible propiedad
 
-Devuelve o establece si el encabezado que muestra el subtítulo de la segmentación está visible
-El valor por defecto es verdadero
+Devuelve o establece si el encabezado que muestra el título de la segmentación de datos es visible
+El valor predeterminado es verdadero
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

@@ -3,13 +3,13 @@ title: y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /ar/aspose.cells.drawing/webextensionshape/y/
 is_root: false
 ---
 ##  y عقار
 
-الحصول على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل وتعيينها، بوحدة البكسل.
+يحصل على الإزاحة الرأسية للشكل من الحد العلوي لورقة العمل، ويحددها بوحدة البكسل.
 
 ###  مثال
 

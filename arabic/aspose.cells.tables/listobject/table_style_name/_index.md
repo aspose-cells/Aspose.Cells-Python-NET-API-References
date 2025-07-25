@@ -1,15 +1,15 @@
 ---
-title: table_style_name الملكية
+title: table_style_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.tables/listobject/table_style_name/
 is_root: false
 ---
-##  table_style_name الملكية
+##  table_style_name عقار
 
-الحصول على اسم نمط الجدول وتعيينه.
+يحصل على اسم نمط الجدول ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def table_style_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

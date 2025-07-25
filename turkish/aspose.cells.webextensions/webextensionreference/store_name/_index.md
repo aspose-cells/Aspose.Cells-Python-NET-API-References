@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_name mülk
 
-Office Eklentisinin depolandığı pazar yeri örneğini alır ve ayarlar. .
+Office Eklentisinin depolandığı pazaryerinin örneğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionReference](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionReference`](/cells/python-net/tr/aspose.cells.webextensions/webextensionreference)

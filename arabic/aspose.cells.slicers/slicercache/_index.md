@@ -1,5 +1,5 @@
 ---
-title: SlicerCache الدرجة
+title: SlicerCache صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 20
 url: /ar/aspose.cells.slicers/slicercache/
 is_root: false
 ---
-##  SlicerCache الدرجة
-وصف موجز لذاكرة التخزين المؤقت القطاعة
+##  SlicerCache صف
+تمثيل وصف موجز لذاكرة التخزين المؤقت للشرائح
 
 
 
-يكشف نوع SlicerCache الأعضاء التالية:
+يكشف النوع SlicerCache عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/ar/aspose.cells.slicers/slicercache/cross_filter_type) | إرجاع أو تعيين ما إذا كانت أداة تقطيع الشرائح تشارك في التصفية المتقاطعة مع مقسمات طرق العرض الأخرى<br/> التي تشترك في نفس ذاكرة التخزين المؤقت لتقطيع الشرائح ، وكيفية عرض التصفية المتقاطعة. قراءة و كتابة|
-| [list](/cells/python-net/ar/aspose.cells.slicers/slicercache/list) | تُرجع ما إذا كانت أداة تقطيع الشرائح المقترنة بذاكرة التخزين المؤقت لقطاعة العرض المحددة تستند إلى مصدر بيانات غير OLAP. يقرأ فقط|
-| [slicer_cache_items](/cells/python-net/ar/aspose.cells.slicers/slicercache/slicer_cache_items) | تُرجع مجموعة SlicerCacheItem التي تحتوي على مجموعة كل العناصر الموجودة في ذاكرة التخزين المؤقت لمقسم طريقة العرض. يقرأ فقط|
-| [name](/cells/python-net/ar/aspose.cells.slicers/slicercache/name) | تُرجع اسم ذاكرة التخزين المؤقت لتقطيع الشرائح.|
-| [source_name](/cells/python-net/ar/aspose.cells.slicers/slicercache/source_name) | يُرجع اسم حقل ذاكرة التخزين المؤقت|
+| [cross_filter_type](/cells/python-net/ar/aspose.cells.slicers/slicercache/cross_filter_type) | إرجاع أو تعيين ما إذا كانت أداة التقطيع تشارك في التصفية المتبادلة مع أدوات التقطيع الأخرى<br/> التي تشترك في نفس ذاكرة التخزين المؤقت للمُقطّع، وكيفية عرض التصفية المتقاطعة. القراءة/الكتابة|
+| [list](/cells/python-net/ar/aspose.cells.slicers/slicercache/list) | يُرجع ما إذا كانت الشريحة المرتبطة بذاكرة التخزين المؤقت للشريحة المحددة تستند إلى مصدر بيانات غير OLAP. للقراءة فقط|
+| [slicer_cache_items](/cells/python-net/ar/aspose.cells.slicers/slicercache/slicer_cache_items) | يُرجع مجموعة SlicerCacheItem التي تحتوي على مجموعة جميع العناصر في ذاكرة التخزين المؤقت للمُقطّع. للقراءة فقط|
+| [name](/cells/python-net/ar/aspose.cells.slicers/slicercache/name) | إرجاع اسم ذاكرة التخزين المؤقت للتقطيع.|
+| [source_name](/cells/python-net/ar/aspose.cells.slicers/slicercache/source_name) | إرجاع اسم ذاكرة التخزين المؤقت لهذه الشريحة.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](..)
+* الوحدة [`aspose.cells.slicers`](..)

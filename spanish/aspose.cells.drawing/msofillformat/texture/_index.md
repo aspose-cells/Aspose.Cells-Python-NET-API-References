@@ -18,6 +18,6 @@ def texture(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFillFormat](/cells/python-net/es/aspose.cells.drawing/msofillformat)
-* clase [TextureType](/cells/python-net/es/aspose.cells.drawing/texturetype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFillFormat`](/cells/python-net/es/aspose.cells.drawing/msofillformat)
+* clase [`TextureType`](/cells/python-net/es/aspose.cells.drawing/texturetype)

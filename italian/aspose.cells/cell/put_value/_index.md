@@ -1,18 +1,19 @@
 ---
 title: Metodo put_value
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 290
 url: /it/aspose.cells/cell/put_value/
 is_root: false
 ---
-##  put_value {#bool}
+##  put_value(self, bool_value) {#bool}
 Inserisce un valore booleano nella cella.
 
 
 
 ```python
+
 def put_value(self, bool_value):
     ...
 ```
@@ -23,12 +24,13 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-##  put_value {#int}
+##  put_value(self, int_value) {#int}
 Inserisce un valore intero nella cella.
 
 
 
 ```python
+
 def put_value(self, int_value):
     ...
 ```
@@ -36,15 +38,16 @@ def put_value(self, int_value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| int_value | int | Valore immesso|
+| int_value | int | Valore di input|
 
 
-##  put_value {#float}
+##  put_value(self, double_value) {#float}
 Inserisce un valore doppio nella cella.
 
 
 
 ```python
+
 def put_value(self, double_value):
     ...
 ```
@@ -52,15 +55,16 @@ def put_value(self, double_value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| double_value | float | Valore immesso|
+| double_value | float | Valore di input|
 
 
-##  put_value {#str}
+##  put_value(self, string_value) {#str}
 Inserisce un valore stringa nella cella.
 
 
 
 ```python
+
 def put_value(self, string_value):
     ...
 ```
@@ -68,15 +72,16 @@ def put_value(self, string_value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| string_value | str | Valore immesso|
+| string_value | str | Valore di input|
 
 
-##  put_value {#DateTime}
+##  put_value(self, date_time) {#DateTime}
 Inserisce un valore DateTime nella cella.
 
 
 
 ```python
+
 def put_value(self, date_time):
     ...
 ```
@@ -84,14 +89,14 @@ def put_value(self, date_time):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| date_time | DateTime | Valore immesso|
+| date_time | DateTime | Valore di input|
 ###  Osservazioni
 
-L'impostazione di un valore DateTime per una dose cellulare non significa che la cella verrà formattata automaticamente come data e ora.
-Il valore DateTime è stato mantenuto come valore numerico nel modello dati sia di ms Excel che di Aspose.Cells.
+Impostando un valore DateTime per una cella non si avrà automaticamente il formato data/ora.
+Il valore DateTime è stato mantenuto come valore numerico nel modello dati di MS Excel e Aspose.Cells.
 Se il valore numerico verrà preso come valore numerico stesso o come data e ora
 dipende dal formato numerico applicato a questa cella. Se questa cella non è stata formattata come data e ora,
-verrà visualizzato come valore numerico anche se ciò che inserisci è DateTime.
+verrà visualizzato come valore numerico anche se hai inserito DateTime.
 ###  Esempio
 
 Questo esempio mostra come impostare il valore DateTime su una cella e visualizzarlo come data e ora.
@@ -112,12 +117,13 @@ cell.set_style(style)
 ```
 
 
-##  put_value {#any}
+##  put_value(self, object_value) {#any}
 Inserisce un valore oggetto nella cella.
 
 
 
 ```python
+
 def put_value(self, object_value):
     ...
 ```
@@ -128,12 +134,13 @@ def put_value(self, object_value):
 | object_value | any | valore di input|
 
 
-##  put_value {#str-bool}
+##  put_value(self, string_value, is_converted) {#str-bool}
 Inserisce un valore stringa nella cella e, se appropriato, converte il valore in un altro tipo di dati.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted):
     ...
 ```
@@ -141,16 +148,17 @@ def put_value(self, string_value, is_converted):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| string_value | str | Valore immesso|
+| string_value | str | Valore di input|
 | is_converted | bool | Vero: convertito in un altro tipo di dati, se appropriato.|
 
 
-##  put_value {#str-bool-bool}
-Inserisce un valore nella cella, se appropriato il valore verrà convertito in un altro tipo di dati e il formato numerico della cella verrà ripristinato.
+##  put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+Inserisce un valore nella cella; se appropriato, il valore verrà convertito in un altro tipo di dati e il formato numerico della cella verrà reimpostato.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```
@@ -158,7 +166,7 @@ def put_value(self, string_value, is_converted, set_style):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| string_value | str | Valore immesso|
+| string_value | str | Valore di input|
 | is_converted | bool | Vero: convertito in un altro tipo di dati, se appropriato.|
 | set_style | bool | Vero: imposta il formato del numero sullo stile della cella durante la conversione in un altro tipo di dati|
 

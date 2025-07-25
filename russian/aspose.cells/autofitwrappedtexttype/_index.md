@@ -1,14 +1,14 @@
 ---
 title: AutoFitWrappedTextType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1840
+weight: 1740
 url: /ru/aspose.cells/autofitwrappedtexttype/
 is_root: false
 ---
 ##  AutoFitWrappedTextType перечисление
-Представляет тип переносимого текста с автоматической подгонкой.
+Представляет собой тип автоматического подбора переносимого текста.
 
 
 
@@ -18,7 +18,7 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | DEFAULT | Работает как MS Excel.|
-| PARAGRAPH | Автоматическая подгонка ширины самого длинного абзаца.|
+| PARAGRAPH | Автоматически подгонять ширину по самому длинному абзацу.|
 
 
 

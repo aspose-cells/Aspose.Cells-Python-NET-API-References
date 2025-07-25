@@ -3,7 +3,7 @@ title: hyperlink_base propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 210
 url: /fr/aspose.cells.properties/builtindocumentpropertycollection/hyperlink_base/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def hyperlink_base(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/builtindocumentpropertycollection)

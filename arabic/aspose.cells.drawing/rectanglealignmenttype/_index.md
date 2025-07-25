@@ -1,18 +1,18 @@
 ---
-title: العد RectangleAlignmentType
+title: RectangleAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /ar/aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
-##  العد RectangleAlignmentType
+##  RectangleAlignmentType التعداد
 يمثل كيفية وضع مستطيلين بالنسبة لبعضهما البعض.
 
 
 
-يكشف نوع RectangleAlignmentType الأعضاء التالية:
+يكشف النوع RectangleAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -25,9 +25,9 @@ is_root: false
 | RIGHT | يمين|
 | TOP | قمة|
 | TOP_LEFT | أعلى اليسار|
-| TOP_RIGHT | اعلى اليمين|
+| TOP_RIGHT | أعلى اليمين|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -1,13 +1,13 @@
 ---
-title: GroupShape 分度器
+title: GroupShape 索引器
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
-## GroupShape 分度器
+## GroupShape 索引器
 
 通过索引获取子形状。
 ### 索引器
@@ -17,7 +17,7 @@ is_root: false
 
 
 
-### 退货
+### 返回
 
 返回子形状。
 

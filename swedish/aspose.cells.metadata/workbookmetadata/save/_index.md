@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.metadata/workbookmetadata/save/
 is_root: false
 ---
-##  save(file_name) {#str}
-Spara den ändrade metadatan i filen.
+##  save(self, file_name) {#str}
+Spara de ändrade metadata till filen.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def save(self, file_name):
 | file_name | str | Filnamnet.|
 
 
-##  save(stream) {#io.RawIOBase}
-Spara den modifierade metadatan i strömmen.
+##  save(self, stream) {#io.RawIOBase}
+Spara de ändrade metadata i strömmen.
 
 
 
 ```python
+
 def save(self, stream):
     ...
 ```
@@ -41,5 +43,5 @@ def save(self, stream):
 
 
 ###  Se även
-* modul [aspose.cells.metadata](../../)
-* klass [WorkbookMetadata](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata)
+* modul [`aspose.cells.metadata`](../../)
+* klass [`WorkbookMetadata`](/cells/python-net/sv/aspose.cells.metadata/workbookmetadata)

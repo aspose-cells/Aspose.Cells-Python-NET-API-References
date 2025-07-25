@@ -1,26 +1,24 @@
 ---
-title: GroupFill الدرجة
+title: GroupFill صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 240
 url: /ar/aspose.cells.drawing/groupfill/
 is_root: false
 ---
-##  GroupFill الدرجة
-يجب أن يرث يمثل تنسيق التعبئة هذا خصائص التعبئة للمجموعة.
+##  GroupFill صف
+يمثل هذا التنسيق التعبئة التي يجب أن ترث خصائص التعبئة للمجموعة.
 
 
 
-**ميراث:** [GroupFill](/cells/python-net/aspose.cells.drawing/groupfill) → 
-[Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+**الميراث:** [`GroupFill`](/cells/python-net/ar/aspose.cells.drawing/groupfill)
 
 
 
-يكشف نوع GroupFill الأعضاء التالية:
+يكشف النوع GroupFill عن الأعضاء التاليين:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
-* فئة [GroupFill](/cells/python-net/ar/aspose.cells.drawing/groupfill)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`GroupFill`](/cells/python-net/ar/aspose.cells.drawing/groupfill)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_inch mülk
 
-Yorumun genişliğini inç birimi cinsinden temsil eder.
+Yorumun genişliğini inç cinsinden gösterir.
 
 ###  Örnek
 

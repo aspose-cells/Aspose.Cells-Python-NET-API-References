@@ -3,7 +3,7 @@ title: line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 720
+weight: 730
 url: /tr/aspose.cells.drawing/oval/line/
 is_root: false
 ---

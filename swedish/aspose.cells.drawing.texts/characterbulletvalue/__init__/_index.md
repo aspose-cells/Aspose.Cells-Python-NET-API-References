@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.drawing.texts/characterbulletvalue/__init__/
 is_root: false
 ---
-##  CharacterBulletValue() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av CharacterBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [CharacterBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/characterbulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`CharacterBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/characterbulletvalue)

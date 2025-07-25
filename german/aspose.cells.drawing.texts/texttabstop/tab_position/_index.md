@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_position Eigentum
 
-Gibt die Position des Tabstopps relativ zum linken Rand an.
+Gibt die Position des Tabulators relativ zum linken Rand an.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextTabStop](/cells/python-net/de/aspose.cells.drawing.texts/texttabstop)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextTabStop`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstop)

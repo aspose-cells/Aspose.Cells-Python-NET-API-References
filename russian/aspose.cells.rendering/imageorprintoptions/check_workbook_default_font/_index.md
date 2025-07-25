@@ -1,6 +1,6 @@
 ---
 title: check_workbook_default_font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  check_workbook_default_font недвижимость
 
-Когда символы в Excel имеют формат Unicode и для них не задан правильный шрифт в стиле ячейки,
-Они могут отображаться как блок в pdf, изображение.
-Установите для этого параметра значение true, чтобы попытаться использовать шрифт рабочей книги по умолчанию для отображения этих символов в первую очередь.
+Если символы в Excel являются символами Unicode и им не задан правильный шрифт в стиле ячейки,
+Они могут отображаться в виде блока в PDF-файле, изображения.
+Установите значение true, чтобы попытаться использовать шрифт рабочей книги по умолчанию для отображения этих символов в первую очередь.
 
 ###  Примечания
 
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Returnerar eller ställer in value för egenskapstypen innehåll.
+Returnerar eller anger value för innehållstypsegenskapen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [ContentTypeProperty](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`ContentTypeProperty`](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)

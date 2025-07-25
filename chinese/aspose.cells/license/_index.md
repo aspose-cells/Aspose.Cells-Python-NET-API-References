@@ -3,7 +3,7 @@ title: License类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1020
+weight: 930
 url: /zh/aspose.cells/license/
 is_root: false
 ---
@@ -17,14 +17,14 @@ License 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells/license/__init__/#) |初始化此类的新实例。|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells/license/__init__/#) |初始化此类的新实例。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_license](/cells/python-net/zh/aspose.cells/license/set_license/#str) |许可该组件。|
-| [set_license](/cells/python-net/zh/aspose.cells/license/set_license/#io.RawIOBase) |许可该组件。|
+| [`set_license(self, license_name)`](/cells/python-net/zh/aspose.cells/license/set_license/#str) |许可该组件。|
+| [`set_license(self, stream)`](/cells/python-net/zh/aspose.cells/license/set_license/#io.rawiobase) |许可该组件。|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_old_formatted Eigentum
 
-Gibt an, ob diese Zelle alt formatiert ist.
+Gibt an, ob diese Zelle altformatiert ist.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_old_formatted(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionCellChange](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionCellChange`](/cells/python-net/de/aspose.cells.revisions/revisioncellchange)

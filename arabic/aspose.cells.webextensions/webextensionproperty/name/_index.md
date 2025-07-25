@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.webextensions/webextensionproperty/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على خاصية مخصصة وتعيينها name.
+يحصل على خاصية مخصصة name ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionProperty](/cells/python-net/ar/aspose.cells.webextensions/webextensionproperty)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionProperty`](/cells/python-net/ar/aspose.cells.webextensions/webextensionproperty)

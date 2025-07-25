@@ -3,7 +3,7 @@ title: is_in_array propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 590
+weight: 620
 url: /fr/aspose.cells/cell/is_in_array/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Indique si la formule de cellule est une formule matricielle.
 
 ###  Remarques
 
-REMARQUE : Cette classe est désormais obsolète. Plutôt,
-veuillez utiliser Cell.IsArrayFormula pour vérifier si la formule cellulaire est une formule matricielle.
-Cette propriété sera supprimée 12 mois plus tard depuis mai 2018.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ REMARQUE : Cette classe est désormais obsolète. À la place,
+veuillez utiliser Cell.IsArrayFormula pour vérifier si la formule de cellule est une formule matricielle.
+Cette propriété sera supprimée 12 mois plus tard soit en mai 2018.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

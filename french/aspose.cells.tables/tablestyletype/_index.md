@@ -1,5 +1,5 @@
 ---
-title: TableStyleType dénombrement
+title: TableStyleType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 120
 url: /fr/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
-##  TableStyleType dénombrement
-Représente le type de style de tableau intégré.
+##  TableStyleType énumération
+Représente le type de style de table intégré.
 
 
 
@@ -83,4 +83,4 @@ Le type TableStyleType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

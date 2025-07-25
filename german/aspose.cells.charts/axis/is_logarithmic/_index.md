@@ -3,13 +3,13 @@ title: is_logarithmic Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 250
 url: /de/aspose.cells.charts/axis/is_logarithmic/
 is_root: false
 ---
 ##  is_logarithmic Eigentum
 
-Stellt dar, ob der Skalierungstyp der Wertachse logarithmisch ist oder nicht.
+Gibt an, ob der Skalentyp der Werteachse logarithmisch ist oder nicht.
 ###  Definition:
 ```python
 @property

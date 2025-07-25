@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size Eigentum
 
-Ruft die Endposition (entlang der Alpha-Gradientenrampe) des Alpha-Endwerts in Prozent ab und legt sie fest
+Ruft die Endposition (entlang der Alpha-Gradientenrampe) des Alpha-Endwerts in Prozent ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

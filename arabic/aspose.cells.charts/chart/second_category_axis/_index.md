@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  second_category_axis عقار
 
-الحصول على المحور X الثاني للمخطط.
+يحصل على المحور X الثاني للرسم البياني.
 ###  تعريف:
 ```python
 @property

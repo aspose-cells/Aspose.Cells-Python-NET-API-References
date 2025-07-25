@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_radar_axis_labels mülk
 
-Bir radar grafiğinde kategori ekseni etiketleri varsa doğrudur. Yalnızca radar grafikleri için geçerlidir.
+Bir radar grafiğinin kategori eksen etiketleri varsa doğrudur. Yalnızca radar grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property

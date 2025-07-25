@@ -1,24 +1,24 @@
 ---
-title: trim_leading_blank_row_and_column 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: trim_leading_blank_row_and_column属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells/txtsaveoptions/trim_leading_blank_row_and_column/
 is_root: false
 ---
-## trim_leading_blank_row_and_column 属性
+## trim_leading_blank_row_and_column属性
 
-指示是否应像 ms excel 那样修剪前导空白行和列。
+指示是否应像 MS Excel 一样修剪前导空白行和列。
 默认为真。
 
-### 评论
+### 注意事项
 
-与ms excel中的规则相同，如果行/列具有自定义样式，则不会被视为空白，
-即使它不包含单元格数据。
-使用 LightCells 模式保存时，此选项无效。
-用户应通过执行 [TxtSaveOptions.light_cells_data_provider](/cells/python-net/zh/aspose.cells/txtsaveoptions#light_cells_data_provider) 来控制输出范围
-或指定 [TxtSaveOptions.export_area](/cells/python-net/zh/aspose.cells/txtsaveoptions#export_area)
+与 ms excel 中的规则相同，如果行/列具有自定义样式，则不会将其视为空白，
+即使它不包含任何单元格数据。
+当使用 LightCells 模式保存时，此选项不起作用。
+用户应通过实施 [`TxtSaveOptions.LightCellsDataProvider`](/cells/python-net/zh/aspose.cells/txtsaveoptions) 来控制输出范围
+或致电 [`TxtSaveOptions.export_area`](/cells/python-net/zh/aspose.cells/txtsaveoptions#export_area)
 ### 定义：
 ```python
 @property
@@ -30,5 +30,5 @@ def trim_leading_blank_row_and_column(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [TxtSaveOptions](/cells/python-net/zh/aspose.cells/txtsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`TxtSaveOptions`](/cells/python-net/zh/aspose.cells/txtsaveoptions)

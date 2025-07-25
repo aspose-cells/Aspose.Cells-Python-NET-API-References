@@ -1,15 +1,15 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 430
+weight: 530
 url: /it/aspose.cells/range/width/
 is_root: false
 ---
 ##  width proprietà
 
-Ottiene lo width di un intervallo in punti.
+Ottiene il valore width di un intervallo in punti.
 ###  Definizione:
 ```python
 @property

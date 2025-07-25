@@ -7,8 +7,8 @@ weight: 30
 url: /de/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/
 is_root: false
 ---
-##  get_custom_totals_row_formula(is_r1c1, is_local) {#bool-bool}
-Ruft die Summenformelzeile dieser Listenspalte ab.
+##  get_custom_totals_row_formula(self, is_r1c1, is_local) {#bool-bool}
+Ruft die Formel der Summenzeile dieser Listenspalte ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Die Formel dieser Listenspalte.
 
 
 ```python
+
 def get_custom_totals_row_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_custom_totals_row_formula(self, is_r1c1, is_local):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListColumn](/cells/python-net/de/aspose.cells.tables/listcolumn)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListColumn`](/cells/python-net/de/aspose.cells.tables/listcolumn)

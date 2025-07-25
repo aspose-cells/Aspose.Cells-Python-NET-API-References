@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_size fastighet
 
-Indikerar om storleken på formen justeras automatiskt efter dess innehåll.
+Anger om formens storlek justeras automatiskt enligt dess innehåll.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def auto_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

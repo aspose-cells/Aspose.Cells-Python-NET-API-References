@@ -1,6 +1,6 @@
 ---
 title: RevisionActionType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 180
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-RevisionActionType 类型公开了以下成员：
+RevisionActionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | ADD |添加修订。|
 | DELETE |删除修订。|
@@ -27,4 +27,4 @@ RevisionActionType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](..)
+* 模块[`aspose.cells.revisions`](..)

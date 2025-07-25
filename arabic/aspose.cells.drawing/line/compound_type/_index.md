@@ -1,5 +1,5 @@
 ---
-title: compound_type الملكية
+title: compound_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 80
 url: /ar/aspose.cells.drawing/line/compound_type/
 is_root: false
 ---
-##  compound_type الملكية
+##  compound_type عقار
 
 يحدد نوع الخط المركب
 ###  تعريف:
@@ -21,6 +21,6 @@ def compound_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
-* فئة [MsoLineStyle](/cells/python-net/ar/aspose.cells.drawing/msolinestyle)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)
+* فئة [`MsoLineStyle`](/cells/python-net/ar/aspose.cells.drawing/msolinestyle)

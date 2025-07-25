@@ -1,6 +1,6 @@
 ---
 title: Enumerazione DataLabelsSeparatorType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 480
@@ -19,11 +19,11 @@ Il tipo DataLabelsSeparatorType espone i seguenti membri:
 | :- | :- |
 | AUTO | Rappresenta il separatore automatico|
 | SPACE | Rappresenta lo spazio(" ")|
-| COMMA | Rappresenta la virgola(",")|
+| COMMA | Rappresenta la virgola (",")|
 | SEMICOLON | Rappresenta il punto e virgola(";")|
 | PERIOD | Rappresenta il punto(".")|
-| NEW_LINE | Rappresenta nuova riga("\n")|
-| CUSTOM | Rappresenta il separatore personalizzato|
+| NEW_LINE | Rappresenta newline("\n")|
+| CUSTOM | Rappresenta un separatore personalizzato|
 
 
 

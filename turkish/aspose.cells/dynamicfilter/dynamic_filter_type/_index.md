@@ -21,6 +21,6 @@ def dynamic_filter_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DynamicFilter](/cells/python-net/tr/aspose.cells/dynamicfilter)
-* sınıf [DynamicFilterType](/cells/python-net/tr/aspose.cells/dynamicfiltertype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DynamicFilter`](/cells/python-net/tr/aspose.cells/dynamicfilter)
+* sınıf [`DynamicFilterType`](/cells/python-net/tr/aspose.cells/dynamicfiltertype)

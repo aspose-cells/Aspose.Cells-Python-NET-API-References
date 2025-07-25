@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.drawing.texts/characterbulletvalue/__init__/
 is_root: false
 ---
-##  CharacterBulletValue() {#}
+##  \_\_init\_\_(kendi){#}
 CharacterBulletValue'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [CharacterBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`CharacterBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)

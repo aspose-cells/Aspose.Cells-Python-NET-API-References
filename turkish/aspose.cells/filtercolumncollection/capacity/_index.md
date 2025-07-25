@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FilterColumnCollection](/cells/python-net/tr/aspose.cells/filtercolumncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`FilterColumnCollection`](/cells/python-net/tr/aspose.cells/filtercolumncollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_aspect_ratio Eigentum
 
-Gibt an, ob das Seitenverhältnis gesperrt wird.
+Gibt an, ob das Seitenverhältnis gesperrt werden soll.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

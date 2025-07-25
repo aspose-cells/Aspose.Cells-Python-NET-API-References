@@ -3,7 +3,7 @@ title: type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /fr/aspose.cells.drawing/combobox/type/
 is_root: false
 ---

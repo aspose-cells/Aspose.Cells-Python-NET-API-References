@@ -7,12 +7,13 @@ weight: 70
 url: /ar/aspose.cells/style/set_custom/
 is_root: false
 ---
-##  set_custom(custom, builtin_preference) {#str-bool}
-يعيّن سلسلة تنسيق الأرقام المخصص لخلية.
+##  set_custom(self, custom, builtin_preference) {#str-bool}
+تعيين تنسيق سلسلة الأرقام المخصصة للخلية.
 
 
 
 ```python
+
 def set_custom(self, custom, builtin_preference):
     ...
 ```
@@ -20,11 +21,11 @@ def set_custom(self, custom, builtin_preference):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| custom | str | سلسلة تنسيق الأرقام المخصصة ، يجب أن تكون نمط InvariantCulture.|
-| builtin_preference | bool | إذا كانت سلسلة تنسيق الأرقام المخصصة تتطابق مع أحد تنسيقات الأرقام المضمنة<br/> المطابق للإعدادات الإقليمية الحالية ، سواء قمت بتعيين تنسيق الأرقام على أنه مضمن بدلاً من مخصص.|
+| custom | str |تنسيق الرقم المخصص للسلسلة، يجب أن يكون بنمط InvariantCulture.|
+| builtin_preference | bool | إذا تم إعطاء سلسلة تنسيق رقم مخصص تتطابق مع أحد تنسيقات الأرقام المضمنة<br/> تتوافق مع الإعدادات الإقليمية الحالية، سواء قمت بتعيين تنسيق الرقم كمضمن بدلاً من مخصص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

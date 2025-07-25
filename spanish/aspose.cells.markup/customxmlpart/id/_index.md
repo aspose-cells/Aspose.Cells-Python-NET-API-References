@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [CustomXmlPart](/cells/python-net/es/aspose.cells.markup/customxmlpart)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`CustomXmlPart`](/cells/python-net/es/aspose.cells.markup/customxmlpart)

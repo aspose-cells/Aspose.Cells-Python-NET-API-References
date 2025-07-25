@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_locke
 is_root: false
 ---
 ##  is_locked Eigentum
-
-Gibt an, ob Daten im Steuerelement zur Bearbeitung gesperrt sind.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [RadioButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`RadioButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

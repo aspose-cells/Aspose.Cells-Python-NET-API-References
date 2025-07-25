@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm mülk
 
-Yorumun yüksekliğini santimetre cinsinden temsil eder.
+Yorumun yüksekliğini santimetre cinsinden gösterir.
 
 ###  Örnek
 

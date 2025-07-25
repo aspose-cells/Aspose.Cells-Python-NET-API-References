@@ -1,5 +1,5 @@
 ---
-title: check_excel_restriction الملكية
+title: check_excel_restriction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,15 +7,15 @@ weight: 70
 url: /ar/aspose.cells.numbers/numbersloadoptions/check_excel_restriction/
 is_root: false
 ---
-##  check_excel_restriction الملكية
+##  check_excel_restriction عقار
 
-ما إذا كان التحقق من تقييد ملف Excel عند تعديل المستخدم للكائنات ذات الصلة بالخلايا.
-على سبيل المثال ، لا يسمح Excel بإدخال قيمة سلسلة أطول من 32 كيلو بايت.
-عند إدخال قيمة أطول من 32 كيلو بايت مثل Cell.PutValue (سلسلة) ، إذا كانت هذه الخاصية صحيحة ، فستحصل على استثناء.
-إذا كانت هذه الخاصية خاطئة ، فسنقبل قيمة سلسلة الإدخال كقيمة للخلية حتى يتم ذلك لاحقًا
-يمكنك إخراج قيمة السلسلة الكاملة لتنسيقات ملفات أخرى مثل CSV.
-ومع ذلك ، إذا قمت بتعيين مثل هذا النوع من القيمة غير الصالحة لتنسيق ملف Excel ،
-يجب ألا تحفظ المصنف بتنسيق ملف excel لاحقًا. وإلا فقد يكون هناك خطأ غير متوقع لملف Excel الذي تم إنشاؤه.
+ما إذا كان يتم التحقق من تقييد ملف Excel عندما يقوم المستخدم بتعديل الكائنات المرتبطة بالخلايا.
+على سبيل المثال، لا يسمح Excel بإدخال قيمة سلسلة أطول من 32 كيلو بايت.
+عندما تقوم بإدخال قيمة أطول من 32 كيلو بايت مثل Cell.PutValue(string)، إذا كانت هذه الخاصية صحيحة، فسوف تحصل على استثناء.
+إذا كانت هذه الخاصية خاطئة، فسنقبل قيمة السلسلة المدخلة كقيمة للخلية حتى نتمكن لاحقًا من
+يمكنك إخراج قيمة السلسلة الكاملة لتنسيقات الملفات الأخرى مثل CSV.
+ومع ذلك، إذا قمت بتعيين مثل هذا النوع من القيمة غير صالح لتنسيق ملف Excel،
+لا تحفظ المصنف بصيغة ملف إكسل لاحقًا، وإلا فقد يحدث خطأ غير متوقع في ملف إكسل الناتج.
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_excel_restriction(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](../../)
-* فئة [NumbersLoadOptions](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)
+* الوحدة [`aspose.cells.numbers`](../../)
+* فئة [`NumbersLoadOptions`](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)

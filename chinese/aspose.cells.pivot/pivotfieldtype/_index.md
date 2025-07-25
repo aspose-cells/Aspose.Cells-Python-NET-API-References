@@ -3,7 +3,7 @@ title: PivotFieldType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 360
 url: /zh/aspose.cells.pivot/pivotfieldtype/
 is_root: false
 ---
@@ -14,12 +14,12 @@ is_root: false
 
 PivotFieldType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| UNDEFINED |呈现基本数据透视字段类型。|
-| ROW |呈现行数据透视表字段类型。|
-| COLUMN |呈现列枢轴字段类型。|
+| UNDEFINED |呈现基本枢轴字段类型。|
+| ROW |呈现行数据透视字段类型。|
+| COLUMN |呈现列数据透视字段类型。|
 | PAGE |呈现页面数据透视字段类型。|
 | DATA |呈现数据透视字段类型。|
 

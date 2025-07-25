@@ -3,7 +3,7 @@ title: capacity Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.webextensions/webextensionpropertycollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionPropertyCollection](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionPropertyCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)

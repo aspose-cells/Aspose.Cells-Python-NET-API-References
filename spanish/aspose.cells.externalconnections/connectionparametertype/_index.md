@@ -3,7 +3,7 @@ title: ConnectionParameterType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 80
 url: /es/aspose.cells.externalconnections/connectionparametertype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ El tipo ConnectionParameterType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CELL | Obtenga el valor del parámetro de una celda en cada actualización.|
-| PROMPT | Solicite al usuario en cada actualización un valor de parámetro.|
+| CELL | Obtener el valor del parámetro de una celda en cada actualización.|
+| PROMPT | Solicitar al usuario un valor de parámetro en cada actualización.|
 | VALUE | Utilice un valor constante en cada actualización para el valor del parámetro.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](..)
+* módulo [`aspose.cells.externalconnections`](..)

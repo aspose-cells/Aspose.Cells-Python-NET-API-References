@@ -1,6 +1,6 @@
 ---
 title: workbook недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 290
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/workboo
 is_root: false
 ---
 ##  workbook недвижимость
-
-Получает объект [ActiveXControlBase.workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).
 ###  Определение:
 ```python
 @property
@@ -18,6 +16,6 @@ def workbook(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ToggleButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

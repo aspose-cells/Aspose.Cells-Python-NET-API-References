@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __içinde__ {#}
-E-kitap dosyasını yükleme seçenekleri oluşturur.
+##  \_\_init\_\_(kendi){#}
+E-kitap dosyasını yükleme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __içinde__ {#aspose.cells.LoadFormat}
-E-kitap dosyasını yükleme seçenekleri oluşturur.
+##  \_\_init\_\_(kendi, yükleme_biçimi){#aspose.cells.LoadFormat}
+E-kitap dosyasını yükleme seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```
@@ -33,7 +35,7 @@ def __init__(self, load_format):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| load_format | [`LoadFormat`](/cells/python-net/tr/aspose.cells/loadformat) | Yükleme formatı|
+| load_format | [`LoadFormat`](/cells/python-net/tr/aspose.cells/loadformat) | Yükleme biçimi|
 
 
 

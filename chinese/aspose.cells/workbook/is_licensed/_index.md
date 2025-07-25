@@ -3,7 +3,7 @@ title: is_licensed属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 650
 url: /zh/aspose.cells/workbook/is_licensed/
 is_root: false
 ---

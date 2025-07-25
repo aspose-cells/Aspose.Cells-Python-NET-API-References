@@ -3,19 +3,19 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 470
 url: /tr/aspose.cells/range/name/
 is_root: false
 ---
 ##  name mülk
 
-Aralığın name'ini alır veya ayarlar.
+Aralığın name değerini alır veya ayarlar.
 
 ###  Notlar
 
 Adlandırılmış aralık desteklenir. Örneğin,
 
-range.Name = "Sayfa1!Aralığım";
+aralık.Adı = "Sayfa1!Aralığım";
 ###  Tanım:
 ```python
 @property

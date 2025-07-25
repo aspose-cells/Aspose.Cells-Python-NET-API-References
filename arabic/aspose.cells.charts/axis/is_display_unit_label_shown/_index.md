@@ -3,17 +3,17 @@ title: is_display_unit_label_shown عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ##  is_display_unit_label_shown عقار
 
-يمثل ما إذا كانت تسمية وحدة العرض معروضة على المحور المحدد.
+يمثل ما إذا كان يتم عرض تسمية وحدة العرض على المحور المحدد.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي الحقيقية.
+القيمة الافتراضية هي True.
 ###  تعريف:
 ```python
 @property

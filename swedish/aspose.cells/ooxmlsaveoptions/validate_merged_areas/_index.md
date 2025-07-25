@@ -3,7 +3,7 @@ title: validate_merged_areas fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 190
 url: /sv/aspose.cells/ooxmlsaveoptions/validate_merged_areas/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlSaveOptions](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlSaveOptions`](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)

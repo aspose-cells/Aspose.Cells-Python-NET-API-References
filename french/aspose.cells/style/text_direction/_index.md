@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_direction propriété
 
-Représente l’ordre de lecture du texte.
+Représente l'ordre de lecture du texte.
 ###  Définition:
 ```python
 @property

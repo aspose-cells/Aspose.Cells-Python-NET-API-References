@@ -9,7 +9,7 @@ is_root: false
 ---
 ## row_separator_of_formula_array属性
 
-获取公式中数组数据的行分隔符。
+获取公式中数组数据行的分隔符。
 ### 定义：
 ```python
 @property

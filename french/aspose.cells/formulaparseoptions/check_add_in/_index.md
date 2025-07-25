@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  check_add_in propriété
 
-Vérifier si les compléments dans les liens externes existants du classeur actuel pour la fonction définie par l'utilisateur sans lien externe.
-La valeur par défaut est true (si la fonction définie par l'utilisateur correspond à un complément dans les liens externes existants, prenez-le comme complément).
+Vérifiez si les modules complémentaires dans les liens externes existants du classeur actuel pour la fonction définie par l'utilisateur sans lien externe.
+La valeur par défaut est true (si la fonction définie par l'utilisateur correspond à un module complémentaire dans les liens externes existants, alors considérez-la comme module complémentaire).
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def check_add_in(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaParseOptions](/cells/python-net/fr/aspose.cells/formulaparseoptions)
+* module [`aspose.cells`](../../)
+* classe [`FormulaParseOptions`](/cells/python-net/fr/aspose.cells/formulaparseoptions)

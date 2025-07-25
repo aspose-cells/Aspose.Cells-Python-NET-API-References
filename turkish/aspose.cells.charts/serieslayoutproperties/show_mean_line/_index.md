@@ -3,13 +3,13 @@ title: show_mean_line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 100
 url: /tr/aspose.cells.charts/serieslayoutproperties/show_mean_line/
 is_root: false
 ---
 ##  show_mean_line mülk
 
-Tüm ortalama noktaları birleştiren çizginin gösterilip gösterilmediğini gösterir.
+Tüm ortalama noktaları birleştiren çizginin gösterilip gösterilmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_mean_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SeriesLayoutProperties](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SeriesLayoutProperties`](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)

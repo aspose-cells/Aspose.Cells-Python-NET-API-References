@@ -3,7 +3,7 @@ title: export_data_options Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 280
 url: /de/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---

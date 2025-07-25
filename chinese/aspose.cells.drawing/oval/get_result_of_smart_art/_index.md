@@ -3,16 +3,17 @@ title: get_result_of_smart_art方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells.drawing/oval/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art {#}
+##  get_result_of_smart_art(self) {#}
 将智能艺术转换为分组形状。
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```

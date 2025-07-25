@@ -3,7 +3,7 @@ title: r1c1_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 710
 url: /sv/aspose.cells/cell/r1c1_formula/
 is_root: false
 ---

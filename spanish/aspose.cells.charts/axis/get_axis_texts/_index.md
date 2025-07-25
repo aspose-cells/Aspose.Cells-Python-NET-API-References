@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
+##  get_axis_texts(self) {#}
 Obtiene las etiquetas del eje después de llamar al método Chart.Calculate().
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

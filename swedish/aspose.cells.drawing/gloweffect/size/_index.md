@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size fastighet
 
-Hämtar och ställer in strålens radie, i poängenhet.
+Hämtar och ställer in glödens radie, i enheten punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GlowEffect](/cells/python-net/sv/aspose.cells.drawing/gloweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)

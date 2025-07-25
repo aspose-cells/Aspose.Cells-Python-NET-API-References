@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionQueryTable](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionQueryTable`](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable)

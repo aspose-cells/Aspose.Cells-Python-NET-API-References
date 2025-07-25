@@ -7,12 +7,13 @@ weight: 290
 url: /sv/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
-Ställer in visningssträngvärdet för cellens booleska värde
+##  set_boolean_value_string(self, bv, name) {#bool-str}
+Anger visningssträngvärdet för cellens booleska värde
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_boolean_value_string(self, bv, name):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | bv | bool | booleskt värde|
-| name | str | strängvärdet för det booleska värdet|
+| name | str | strängvärde för det booleska värdet|
 
 
 

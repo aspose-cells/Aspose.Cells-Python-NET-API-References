@@ -3,19 +3,19 @@ title: HyperlinkType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /zh/aspose.cells/hyperlinktype/
 is_root: false
 ---
 ## HyperlinkType枚举
-代表超链接的类型。
+表示超链接的类型。
 
 
 
 HyperlinkType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | URL | URL |
 | FILE |链接到外部文件。|

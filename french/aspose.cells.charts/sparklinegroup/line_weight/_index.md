@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_weight propriété
 
-Obtient et définit l'épaisseur de ligne dans chaque ligne sparkline du groupe de lignes sparkline, dans l'unité de points.
+Obtient et définit l'épaisseur de ligne dans chaque sparkline de ligne dans le groupe sparkline, en unités de points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

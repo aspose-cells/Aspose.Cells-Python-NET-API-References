@@ -3,15 +3,11 @@ title: source_file Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 290
 url: /de/aspose.cells.externalconnections/datamodelconnection/source_file/
 is_root: false
 ---
 ##  source_file Eigentum
-
- Wird verwendet, wenn die externe Datenquelle dateibasiert ist. Bei einer Verbindung zu solchen Daten
- source fehlschlägt, versucht die Tabellenkalkulationsanwendung, eine direkte Verbindung zu dieser Datei herzustellen. Vielleicht
-ausgedrückt in URI oder systemspezifischer Dateipfadnotation.
 ###  Definition:
 ```python
 @property
@@ -23,5 +19,5 @@ def source_file(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DataModelConnection](/cells/python-net/de/aspose.cells.externalconnections/datamodelconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DataModelConnection`](/cells/python-net/de/aspose.cells.externalconnections/datamodelconnection)

@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTagProperty](/cells/python-net/fr/aspose.cells.markup/smarttagproperty)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTagProperty`](/cells/python-net/fr/aspose.cells.markup/smarttagproperty)

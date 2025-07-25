@@ -18,5 +18,5 @@ def gradient_color1(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)

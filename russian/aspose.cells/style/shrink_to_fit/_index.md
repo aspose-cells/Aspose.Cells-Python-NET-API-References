@@ -1,6 +1,6 @@
 ---
 title: shrink_to_fit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit недвижимость
 
-Указывает, сжимается ли текст автоматически, чтобы соответствовать доступной ширине столбца.
+Показывает, сжимается ли текст автоматически, чтобы уместиться в доступной ширине столбца.
 ###  Определение:
 ```python
 @property

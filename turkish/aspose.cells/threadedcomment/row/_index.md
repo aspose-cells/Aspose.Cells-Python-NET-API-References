@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Yorumun row dizinini alır.
+Yorumun row indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedComment](/cells/python-net/tr/aspose.cells/threadedcomment)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedComment`](/cells/python-net/tr/aspose.cells/threadedcomment)

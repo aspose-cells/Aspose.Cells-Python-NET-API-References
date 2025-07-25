@@ -1,20 +1,21 @@
 ---
-title: metodo set_image_resample
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_image_resample
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/pdfsaveoptions/set_image_resample/
 is_root: false
 ---
-##  set_image_resample(desired_ppi, jpeg_quality) {#int-int}
- Imposta il PPI desiderato (pixel per pollice) delle immagini di ricampionamento e la qualità jpeg.
+##  set_image_resample(self, desired_ppi, jpeg_quality) {#int-int}
+ Imposta i PPI (pixel per pollice) desiderati delle immagini ricampionate e la qualità jpeg.
  Tutte le immagini verranno convertite in JPEG con l'impostazione di qualità specificata,
-e le immagini più grandi del PPI (pixel per pollice) specificato verranno ricampionate.
+e le immagini che hanno un numero di PPI (pixel per pollice) maggiore di quello specificato verranno ricampionate.
 
 
 
 ```python
+
 def set_image_resample(self, desired_ppi, jpeg_quality):
     ...
 ```
@@ -22,12 +23,12 @@ def set_image_resample(self, desired_ppi, jpeg_quality):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| desired_ppi | int | Pixel desiderati per pollice. 220 di alta qualità. 150 qualità dello schermo. 96 qualità della posta elettronica.|
+| desired_ppi | int | Pixel per pollice desiderati. 220 alta qualità. 150 qualità schermo. 96 qualità e-mail.|
 | jpeg_quality | int | 0 - 100% JPEG qualità.|
 
 ###  Esempio
 
-Il codice seguente imposta il PPI desiderato su 96 e la qualità jpeg su 80 per le immagini nel pdf di output.
+Il seguente codice imposta il PPI desiderato su 96 e la qualità JPEG su 80 per le immagini nel PDF di output.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -44,5 +45,5 @@ wb.save("output.pdf", pdfSaveOptions)
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/it/aspose.cells/pdfsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/it/aspose.cells/pdfsaveoptions)

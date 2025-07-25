@@ -7,17 +7,35 @@ weight: 170
 url: /de/aspose.cells/worksheetcollection/refresh_pivot_tables/
 is_root: false
 ---
-##  refresh_pivot_tables {#}
-Aktualisiert alle PivotTables in der WorksheetCollection.
+##  refresh_pivot_tables(self) {#}
+Aktualisiert alle PivotTables in der Excel-Datei.
 
 
 
 ```python
+
 def refresh_pivot_tables(self):
     ...
 ```
 
 
+
+
+##  refresh_pivot_tables(self, option) {#aspose.cells.pivot.PivotTableRefreshOption}
+Aktualisiert alle PivotTables in der Excel-Datei.
+
+
+
+```python
+
+def refresh_pivot_tables(self, option):
+    ...
+```
+
+
+| Parameter| Typ| Beschreibung|
+| :- | :- | :- |
+| option | aspose.cells.pivot.PivotTableRefreshOption | Die Option zum Aktualisieren der Datenquelle der Pivot-Tabellen.|
 
 
 

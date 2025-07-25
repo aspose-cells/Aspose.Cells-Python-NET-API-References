@@ -3,13 +3,13 @@ title: text_qualifier Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 420
+weight: 400
 url: /de/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ##  text_qualifier Eigentum
 
-Gibt den Textqualifizierer für Zellwerte an. Der Standardqualifikator ist „““.
+Gibt den Textqualifizierer für Zellenwerte an. Der Standardqualifizierer ist „“.
 
 ###  Bemerkungen
 

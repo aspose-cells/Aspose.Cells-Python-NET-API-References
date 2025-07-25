@@ -3,14 +3,14 @@ title: display_unit_label mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells.charts/axis/display_unit_label/
 is_root: false
 ---
 ##  display_unit_label mülk
 
- Belirtilen grafikteki bir eksendeki birim etiketini temsil eder.
-Birim etiketleri, büyük değerlerin (örneğin milyonlarca veya milyarlarca) grafiğini çizmek için kullanışlıdır.
+ Belirtilen grafikteki bir eksen üzerindeki birim etiketini temsil eder.
+Birim etiketleri büyük değerleri (örneğin milyonlarca veya milyarlarca) grafiklemek için kullanışlıdır.
 ###  Tanım:
 ```python
 @property

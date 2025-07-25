@@ -18,11 +18,11 @@ Typen OdsCellField avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [custom_format](/cells/python-net/sv/aspose.cells.ods/odscellfield/custom_format) | Representerar det anpassade formatet för fältets värde.|
-| [field_type](/cells/python-net/sv/aspose.cells.ods/odscellfield/field_type) | Hämtar och ställer in typen av fält.|
-| [row](/cells/python-net/sv/aspose.cells.ods/odscellfield/row) | Hämta och ställer in cellens radindex.|
-| [column](/cells/python-net/sv/aspose.cells.ods/odscellfield/column) | Hämta och ställer in kolumnindex för cellen.|
+| [field_type](/cells/python-net/sv/aspose.cells.ods/odscellfield/field_type) | Hämtar och anger fälttypen.|
+| [row](/cells/python-net/sv/aspose.cells.ods/odscellfield/row) | Hämta och anger radindex för cellen.|
+| [column](/cells/python-net/sv/aspose.cells.ods/odscellfield/column) |Hämta och anger cellens kolumnindex.|
 
 
 
 ###  Se även
-* modul [aspose.cells.ods](..)
+* modul [`aspose.cells.ods`](..)

@@ -7,12 +7,13 @@ weight: 90
 url: /sv/aspose.cells.drawing.texts/fontsettingcollection/insert_text/
 is_root: false
 ---
-##  insert_text(index, text) {#int-str}
-Infoga index vid positionen.
+##  insert_text(self, index, text) {#int-str}
+Infoga index på positionen.
 
 
 
 ```python
+
 def insert_text(self, index, text):
     ...
 ```
@@ -26,5 +27,5 @@ def insert_text(self, index, text):
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

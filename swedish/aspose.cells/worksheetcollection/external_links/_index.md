@@ -3,7 +3,7 @@ title: external_links fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 320
 url: /sv/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: glow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 480
+weight: 470
 url: /fr/aspose.cells.drawing/oleobject/glow/
 is_root: false
 ---

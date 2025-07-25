@@ -1,5 +1,5 @@
 ---
-title: search_backward الملكية
+title: search_backward عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 130
 url: /ar/aspose.cells/findoptions/search_backward/
 is_root: false
 ---
-##  search_backward الملكية
+##  search_backward عقار
 
 سواء كان البحث للخلف عن الخلايا.
 ###  تعريف:
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

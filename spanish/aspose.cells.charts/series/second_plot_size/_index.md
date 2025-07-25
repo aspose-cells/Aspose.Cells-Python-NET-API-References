@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  second_plot_size propiedad
 
- Devuelve o establece el tamaño de la sección secundaria de un gráfico circular o de un gráfico circular de barras,
-como un porcentaje del tamaño del pastel primario.
+ Devuelve o establece el tamaño de la sección secundaria de un gráfico circular o de una barra de un gráfico circular.
+como porcentaje del tamaño del pastel primario.
 Puede ser un valor de 5 a 200.
 ###  Definición:
 ```python
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

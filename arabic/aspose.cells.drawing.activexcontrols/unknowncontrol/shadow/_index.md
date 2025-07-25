@@ -1,15 +1,13 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 190
 url: /ar/aspose.cells.drawing.activexcontrols/unknowncontrol/shadow/
 is_root: false
 ---
-##  shadow الملكية
-
-يشير إلى ما إذا كان سيتم إظهار shadow.
+##  shadow عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [UnknownControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`UnknownControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/unknowncontrol)

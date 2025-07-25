@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale_y propriété
 
-Obtient ou définit l'échelle Y pour l'image en mosaïque.
+Obtient ou définit l'échelle Y pour le carrelage de l'image.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_y(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TilePicOption](/cells/python-net/fr/aspose.cells.drawing/tilepicoption)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TilePicOption`](/cells/python-net/fr/aspose.cells.drawing/tilepicoption)

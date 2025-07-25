@@ -3,13 +3,13 @@ title: soft_edges mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 890
+weight: 900
 url: /tr/aspose.cells.drawing/customxmlshape/soft_edges/
 is_root: false
 ---
 ##  soft_edges mülk
 
-Kenarlara uygulanacak bulanıklık yarıçapını nokta birimi cinsinden alır ve ayarlar.
+Kenarlara uygulanacak bulanıklık yarıçapını nokta biriminde alır ve ayarlar.
 
 ###  Örnek
 

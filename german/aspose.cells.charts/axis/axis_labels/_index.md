@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  axis_labels Eigentum
 
-Ruft die Beschriftungen der Achse nach dem Aufruf der Chart.Calculate()-Methode ab.
+Ruft die Beschriftungen der Achse nach dem Aufruf der Methode Chart.Calculate() ab.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode Axis.GetAxisTexts.
- Diese Immobilie wird 12 Monate später seit November 2023 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab November 2023) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

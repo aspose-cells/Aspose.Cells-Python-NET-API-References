@@ -18,9 +18,9 @@ Le type DataMashup expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [power_query_formulas](/cells/python-net/fr/aspose.cells.querytables/datamashup/power_query_formulas) | Obtient toutes les formules de requête de puissance.|
-| [power_query_formula_parameters](/cells/python-net/fr/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Obtient tous les paramètres des formules de requête de puissance.|
+| [power_query_formula_parameters](/cells/python-net/fr/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Obtient les paramètres de formule de requête de puissance.|
 
 
 
 ###  Voir également
-* module [aspose.cells.querytables](..)
+* module [`aspose.cells.querytables`](..)

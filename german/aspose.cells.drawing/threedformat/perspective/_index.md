@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective Eigentum
 
-Ruft den Winkel ab, in dem ein ThreeDFormat-Objekt angezeigt werden kann, und legt diesen fest.
+Ruft den Winkel ab und legt ihn fest, in dem ein ThreeDFormat-Objekt angezeigt werden kann.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def perspective(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

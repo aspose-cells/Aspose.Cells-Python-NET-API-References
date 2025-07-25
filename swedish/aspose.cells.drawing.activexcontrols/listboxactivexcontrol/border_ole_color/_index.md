@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color fastighet
 
-Hämtar och ställer in ole-färgen på bakgrunden.
+Hämtar och anger bakgrundsfärgen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

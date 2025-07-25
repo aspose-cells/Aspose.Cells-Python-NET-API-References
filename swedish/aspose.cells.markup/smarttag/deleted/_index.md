@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  deleted fastighet
 
-Indikerar om smarttaggen är deleted.
+Anger om smarttaggen är deleted.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def deleted(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTag](/cells/python-net/sv/aspose.cells.markup/smarttag)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTag`](/cells/python-net/sv/aspose.cells.markup/smarttag)

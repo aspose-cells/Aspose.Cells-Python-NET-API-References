@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_wide fastighet
 
-Representerar antalet sidor som kalkylbladet skalas till när det skrivs ut.
+Representerar antalet sidor i bredd som kalkylbladet kommer att skalas till när det skrivs ut.
 Standardvärdet är 1.
 
 ###  Anmärkningar
 
-Du måste ställa in FitToPagesTall som noll om du vill få plats med alla kolumner på en sida.
+Du måste ställa in FitToPagesTall till noll om du vill få plats med alla kolumner på en sida.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_wide(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

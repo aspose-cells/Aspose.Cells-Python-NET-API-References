@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controltype)
-* clase [ScrollBarActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controltype)
+* clase [`ScrollBarActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

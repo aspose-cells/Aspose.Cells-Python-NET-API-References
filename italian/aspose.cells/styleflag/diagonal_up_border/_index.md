@@ -1,6 +1,6 @@
 ---
 title: diagonal_up_border proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_up_border proprietà
 
-Verranno applicate le impostazioni del bordo diagonale in alto.
+Verranno applicate le impostazioni del bordo diagonale verso l'alto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_up_border(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

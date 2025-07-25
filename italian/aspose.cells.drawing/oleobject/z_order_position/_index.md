@@ -1,9 +1,9 @@
 ---
 title: z_order_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1430
+weight: 1440
 url: /it/aspose.cells.drawing/oleobject/z_order_position/
 is_root: false
 ---

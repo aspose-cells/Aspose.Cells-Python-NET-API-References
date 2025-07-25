@@ -1,15 +1,15 @@
 ---
-title: enable_zip64 الملكية
+title: enable_zip64 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/ooxmlsaveoptions/enable_zip64/
 is_root: false
 ---
-##  enable_zip64 الملكية
+##  enable_zip64 عقار
 
-استخدم دائمًا امتدادات ZIP64 عند كتابة أرشيفات مضغوطة ، حتى عندما لا يكون ذلك ضروريًا.
+استخدم دائمًا ملحقات ZIP64 عند كتابة أرشيفات zip، حتى عندما لا يكون ذلك ضروريًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_zip64(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OoxmlSaveOptions](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OoxmlSaveOptions`](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)

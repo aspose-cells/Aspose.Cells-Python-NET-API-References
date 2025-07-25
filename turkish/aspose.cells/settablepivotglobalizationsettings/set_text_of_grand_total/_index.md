@@ -3,16 +3,17 @@ title: set_text_of_grand_total yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/
 is_root: false
 ---
-##  set_text_of_grand_total {#str}
+##  set_text_of_grand_total(self, text) {#str}
 PivotTable'daki "Genel Toplam" etiketinin metnini ayarlar.
 
 
 
 ```python
+
 def set_text_of_grand_total(self, text):
     ...
 ```

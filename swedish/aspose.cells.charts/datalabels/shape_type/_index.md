@@ -3,13 +3,13 @@ title: shape_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 440
 url: /sv/aspose.cells.charts/datalabels/shape_type/
 is_root: false
 ---
 ##  shape_type fastighet
 
-Hämtar eller ställer in formtyp för dataetikett.
+Hämtar eller anger formtypen för dataetiketten.
 ###  Definition:
 ```python
 @property

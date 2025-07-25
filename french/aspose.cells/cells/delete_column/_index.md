@@ -7,12 +7,13 @@ weight: 220
 url: /fr/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column {#int}
+##  delete_column(self, column_index) {#int}
 Supprime une colonne.
 
 
 
 ```python
+
 def delete_column(self, column_index):
     ...
 ```
@@ -23,12 +24,13 @@ def delete_column(self, column_index):
 | column_index | int | Index de la colonne à supprimer.|
 
 
-##  delete_column {#int-bool}
+##  delete_column(self, column_index, update_reference) {#int-bool}
 Supprime une colonne.
 
 
 
 ```python
+
 def delete_column(self, column_index, update_reference):
     ...
 ```
@@ -37,7 +39,7 @@ def delete_column(self, column_index, update_reference):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | column_index | int | Index de la colonne à supprimer.|
-| update_reference | bool | Indique si les références à jour dans d’autres feuilles de calcul sont mises à jour.|
+| update_reference | bool | Indique si les références de mise à jour sont dans d'autres feuilles de calcul.|
 
 
 

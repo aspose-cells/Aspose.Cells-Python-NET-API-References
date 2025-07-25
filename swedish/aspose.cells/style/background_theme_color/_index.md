@@ -13,7 +13,7 @@ Hämtar och ställer in bakgrundstemafärgen.
 
 ###  Anmärkningar
 
-Om bakgrundsfärgen inte är en temafärg kommer NULL att returneras.
+Om bakgrundsfärgen inte är en temafärg returneras NULL.
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def background_theme_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

@@ -3,14 +3,14 @@ title: left_in_shape propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 690
+weight: 700
 url: /es/aspose.cells.drawing/shape/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape propiedad
 
- Representa el desplazamiento horizontal de la forma desde el borde izquierdo de la forma principal,
-en unidades de 1/4000 del ancho de la forma principal.
+ Representa el desplazamiento horizontal de la forma desde el borde izquierdo de la forma principal.
+en unidad de 1/4000 del ancho de la forma principal.
 
 ###  Observaciones
 

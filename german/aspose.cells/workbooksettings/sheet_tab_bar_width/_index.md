@@ -3,13 +3,13 @@ title: sheet_tab_bar_width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 480
 url: /de/aspose.cells/workbooksettings/sheet_tab_bar_width/
 is_root: false
 ---
 ##  sheet_tab_bar_width Eigentum
 
-Breite der Registerkartenleiste des Arbeitsblatts (in 1/1000 der Fensterbreite).
+Breite der Arbeitsblatt-Registerkartenleiste (in 1/1000 der Fensterbreite).
 ###  Definition:
 ```python
 @property

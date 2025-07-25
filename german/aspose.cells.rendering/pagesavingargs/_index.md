@@ -3,12 +3,12 @@ title: PageSavingArgs Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 50
 url: /de/aspose.cells.rendering/pagesavingargs/
 is_root: false
 ---
 ##  PageSavingArgs Klasse
-Info für einen Seitenspeichervorgang.
+Informationen zum Seitenspeichervorgang.
 
 
 
@@ -23,4 +23,4 @@ Der Typ PageSavingArgs macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](..)
+* Modul [`aspose.cells.rendering`](..)

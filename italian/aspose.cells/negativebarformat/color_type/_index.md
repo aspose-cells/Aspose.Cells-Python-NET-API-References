@@ -1,6 +1,6 @@
 ---
 title: color_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,6 +21,6 @@ def color_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBarNegativeColorType](/cells/python-net/it/aspose.cells/databarnegativecolortype)
-* classe [NegativeBarFormat](/cells/python-net/it/aspose.cells/negativebarformat)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBarNegativeColorType`](/cells/python-net/it/aspose.cells/databarnegativecolortype)
+* classe [`NegativeBarFormat`](/cells/python-net/it/aspose.cells/negativebarformat)

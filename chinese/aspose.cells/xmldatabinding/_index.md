@@ -3,7 +3,7 @@ title: XmlDataBinding类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1750
+weight: 1650
 url: /zh/aspose.cells/xmldatabinding/
 is_root: false
 ---
@@ -14,10 +14,10 @@ is_root: false
 
 XmlDataBinding 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [url](/cells/python-net/zh/aspose.cells/xmldatabinding/url) |获取此数据绑定的源 url。|
+| [url](/cells/python-net/zh/aspose.cells/xmldatabinding/url) |获取此数据绑定的源 URL。|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: XAdESType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.digitalsignatures/xadestype/
 is_root: false
 ---
 ##  XAdESType перечисление
-Тип расширенной электронной подписи XML (XAdES).
+Тип XML-расширенной электронной подписи (XAdES).
 
 
 
-Тип XAdESType предоставляет следующие члены:
+Тип XAdESType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.digitalsignatures](..)
+* модуль [`aspose.cells.digitalsignatures`](..)

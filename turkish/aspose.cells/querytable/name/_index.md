@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Sorgulanabilirin name'ini alır.
+Querytable'ın name'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [QueryTable](/cells/python-net/tr/aspose.cells/querytable)
+* modül [`aspose.cells`](../../)
+* sınıf [`QueryTable`](/cells/python-net/tr/aspose.cells/querytable)

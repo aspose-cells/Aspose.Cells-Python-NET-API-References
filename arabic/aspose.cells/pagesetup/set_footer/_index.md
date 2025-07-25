@@ -7,12 +7,13 @@ weight: 180
 url: /ar/aspose.cells/pagesetup/set_footer/
 is_root: false
 ---
-##  set_footer(section, footer_script) {#int-str}
-يعيّن برنامج نصي بتنسيق تذييل ملف Excel.
+##  set_footer(self, section, footer_script) {#int-str}
+تعيين نص برمجي لتنسيق تذييل ملف Excel.
 
 
 
 ```python
+
 def set_footer(self, section, footer_script):
     ...
 ```
@@ -20,7 +21,7 @@ def set_footer(self, section, footer_script):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| section | int | 0: القسم الأيسر ، 1: القسم الأوسط ، 2: القسم الأيمن.|
+| section | int |0: القسم الأيسر، 1: القسم الأوسط، 2: القسم الأيمن.|
 | footer_script | str | نص تنسيق التذييل.|
 ###  ملاحظات
 
@@ -28,21 +29,21 @@ def set_footer(self, section, footer_script):
 
 | يأمر| وصف|
 | :- | :- |
-| & ص| رقم الصفحة الحالية|
+| &ص| رقم الصفحة الحالية|
 | &ن| عدد الصفحات|
 | &د| التاريخ الحالي|
-| & ت| الوقت الحالي|
+| &ت| الوقت الحالي|
 | &أ| اسم الورقة|
-| &F| اسم الملف بدون مسار|
-| &"<FontName>"| اسم الخط ، على سبيل المثال: & "Arial"|
-| &"<FontName>, <FontStyle>"| اسم الخط ونمطه ، على سبيل المثال: & "Arial، Bold"|
-| &<FontSize>| حجم الخط. إذا كان هذا الأمر متبوعًا برقم عادي ليتم طباعته في الرأس ، فسيتم فصله عن ارتفاع الخط بحرف مسافة.|
-| &ك<RRGGBB>|لون الخط ، على سبيل المثال (أحمر): & KFF0000|
-| & ج| نص الصورة|
+| &ف| اسم الملف بدون مسار|
+| &"<FontName>"|اسم الخط، على سبيل المثال: &"Arial"|
+| &"<FontName>, <FontStyle>"| اسم الخط ونمط الخط، على سبيل المثال: &"Arial,Bold"|
+| &<FontSize>| حجم الخط. إذا تبع هذا الأمر رقمًا عاديًا لطباعته في العنوان، فسيتم فصله عن ارتفاع الخط بمسافة.|
+| &ك<RRGGBB>| لون الخط، على سبيل المثال (RED): &KFF0000|
+| &ج| نص الصورة|
 
-على سبيل المثال: "& Arial، Bold & 8Footer Note"
+على سبيل المثال: "&Arial,Bold&8Footer Note"
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

@@ -3,7 +3,7 @@ title: is_automatic_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 260
 url: /fr/aspose.cells.charts/legend/is_automatic_size/
 is_root: false
 ---

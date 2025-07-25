@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_interruption_requested propiedad
 
-Marcar el monitor como solicitando interrupción
+Marcar el monitor como solicitante de interrupción
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_interruption_requested(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [InterruptMonitor](/cells/python-net/es/aspose.cells/interruptmonitor)
+* módulo [`aspose.cells`](../../)
+* clase [`InterruptMonitor`](/cells/python-net/es/aspose.cells/interruptmonitor)

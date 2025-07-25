@@ -1,19 +1,19 @@
 ---
 title: width_in_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /ru/aspose.cells.drawing/lineshape/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape недвижимость
 
-Представляет ширину фигуры в единицах 1/4000 родительской фигуры.
+Представляет ширину фигуры в единицах, равных 1/4000 родительской фигуры.
 
 ###  Примечания
 
-Применяется только тогда, когда эта фигура находится в группе или диаграмме.
+Применяется только в том случае, если эта фигура находится в группе или на диаграмме.
 
 ###  Пример
 

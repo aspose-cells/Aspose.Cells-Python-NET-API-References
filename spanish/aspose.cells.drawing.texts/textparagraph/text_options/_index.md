@@ -18,6 +18,6 @@ def text_options(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextOptions](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
-* clase [TextParagraph](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextOptions`](/cells/python-net/es/aspose.cells.drawing.texts/textoptions)
+* clase [`TextParagraph`](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)

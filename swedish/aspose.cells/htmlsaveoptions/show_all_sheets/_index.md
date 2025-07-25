@@ -3,17 +3,17 @@ title: show_all_sheets fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 740
 url: /sv/aspose.cells/htmlsaveoptions/show_all_sheets/
 is_root: false
 ---
 ##  show_all_sheets fastighet
 
-Anger om alla ark visas när du sparar som en enda html-fil.
+Anger om alla ark ska visas när de sparas som en enda html-fil.
 
 ###  Anmärkningar
 
-Fungerar bara när [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/sv/aspose.cells/htmlsaveoptions#save_as_single_file) är sant.
+Fungerar bara när [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/sv/aspose.cells/htmlsaveoptions#save_as_single_file) är True.
 ###  Definition:
 ```python
 @property

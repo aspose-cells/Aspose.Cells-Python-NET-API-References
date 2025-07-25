@@ -1,5 +1,5 @@
 ---
-title: cell_row الملكية
+title: cell_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/calculationcell/cell_row/
 is_root: false
 ---
-##  cell_row الملكية
+##  cell_row عقار
 
-الحصول على فهرس صف الخلية.
+يحصل على مؤشر الصف للخلية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationCell](/cells/python-net/ar/aspose.cells/calculationcell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationCell`](/cells/python-net/ar/aspose.cells/calculationcell)

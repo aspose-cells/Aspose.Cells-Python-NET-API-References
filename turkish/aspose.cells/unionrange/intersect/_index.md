@@ -3,16 +3,17 @@ title: intersect yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 40
 url: /tr/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
-Başka bir aralıkla kesişir.
+##  intersect(self, range) {#str}
+Başka bir aralığı keser.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -23,15 +24,16 @@ def intersect(self, range):
 | range | str | Menzil.|
 ###  Notlar
 
-İki birleşim aralığı kesişmezse, null değerini döndürür.
+İki birleşim aralığı kesişmiyorsa null döndürür.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
-Başka bir aralıkla kesişir.
+Başka bir aralığı keser.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/tr/aspose.cells/unionrange) | Menzil.|
+| union_range | [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange) | Menzil.|
 ###  Notlar
 
-İki birleşim aralığı kesişmezse, null değerini döndürür.
+İki birleşim aralığı kesişmiyorsa null döndürür.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
-Başka bir aralıkla kesişir.
+Başka bir aralığı keser.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -61,10 +64,10 @@ def intersect(self, ranges):
 | ranges | list | Menzil.|
 ###  Notlar
 
-İki birleşim aralığı kesişmezse, null değerini döndürür.
+İki birleşim aralığı kesişmiyorsa null döndürür.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

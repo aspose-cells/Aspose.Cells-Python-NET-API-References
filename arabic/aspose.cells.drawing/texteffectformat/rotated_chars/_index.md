@@ -1,5 +1,5 @@
 ---
-title: rotated_chars الملكية
+title: rotated_chars عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.drawing/texteffectformat/rotated_chars/
 is_root: false
 ---
-##  rotated_chars الملكية
+##  rotated_chars عقار
 
-إذا كان هذا صحيحًا ، فسيتم تدوير الأحرف في WordArt المحدد بمقدار 90 درجة بالنسبة إلى الشكل المحيط في WordArt.
+إذا كانت هذه القيمة صحيحة، فسيتم تدوير الأحرف في WordArt المحدد بمقدار 90 درجة بالنسبة لشكل حدود WordArt.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotated_chars(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

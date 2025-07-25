@@ -8,7 +8,7 @@ url: /fr/aspose.cells.tables/tablestyle/
 is_root: false
 ---
 ##  TableStyle classe
-Représente le style de tableau.
+Représente le style du tableau.
 
 
 
@@ -17,8 +17,8 @@ Le type TableStyle expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [name](/cells/python-net/fr/aspose.cells.tables/tablestyle/name) | Obtient le nom du style de tableau.|
-| [table_style_elements](/cells/python-net/fr/aspose.cells.tables/tablestyle/table_style_elements) | Obtient tous les éléments du style de tableau.|
+| [name](/cells/python-net/fr/aspose.cells.tables/tablestyle/name) | Obtient le nom du style de table.|
+| [table_style_elements](/cells/python-net/fr/aspose.cells.tables/tablestyle/table_style_elements) | Obtient tous les éléments du style du tableau.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

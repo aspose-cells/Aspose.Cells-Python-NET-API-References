@@ -3,12 +3,12 @@ title: LightRigType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 910
 url: /sv/aspose.cells.drawing/lightrigtype/
 is_root: false
 ---
 ##  LightRigType uppräkning
-Representerar en förinställd ljusrätt som kan appliceras på en form
+Representerar en förinställd ljushöger som kan tillämpas på en form
 
 
 
@@ -19,14 +19,14 @@ Typen LightRigType avslöjar följande medlemmar:
 | :- | :- |
 | BALANCED | Balanserad|
 | BRIGHT_ROOM | Ljust rum|
-| CHILLY | Kyligt|
+| CHILLY | Kylig|
 | CONTRASTING | Kontrasterande|
 | FLAT | Platt|
 | FLOOD | Översvämning|
 | FREEZING | Frysning|
 | GLOW | Glöd|
 | HARSH | Hård|
-| LEGACY_FLAT1 | LegacyFlat1|
+| LEGACY_FLAT1 | LegacyLägenhet1|
 | LEGACY_FLAT2 | LegacyFlat2|
 | LEGACY_FLAT3 | LegacyFlat3|
 | LEGACY_FLAT4 | LegacyFlat4|
@@ -49,4 +49,4 @@ Typen LightRigType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

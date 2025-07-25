@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_size Eigentum
 
-Die Größe (in Punkten) der in der WordArt verwendeten Schriftart.
+Die Größe (in Punkten) der im WordArt-Objekt verwendeten Schriftart.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextEffectFormat](/cells/python-net/de/aspose.cells.drawing/texteffectformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextEffectFormat`](/cells/python-net/de/aspose.cells.drawing/texteffectformat)

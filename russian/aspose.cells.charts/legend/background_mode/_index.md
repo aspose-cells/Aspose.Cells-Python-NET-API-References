@@ -1,6 +1,6 @@
 ---
 title: background_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_mode недвижимость
 
-Получает и устанавливает режим отображения фона.
+Получает и задает режим отображения фона
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: FormatConditionCollection classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 730
+weight: 710
 url: /it/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection classe
 Rappresenta la formattazione condizionale.
-Le FormatConditions possono contenere fino a tre formati condizionali.
+FormatConditions può contenere fino a tre formati condizionali.
 
 
 
@@ -23,24 +23,24 @@ Il tipo FormatConditionCollection espone i seguenti membri:
 
 
 
-Ottiene la condizione di formattazione in base all'indice.
+Ottiene la condizione di formattazione tramite indice.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
-| [index] |l'indice della condizione di formattazione da restituire.|
+| [index] | l'indice della condizione di formattazione da restituire.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add_condition](/cells/python-net/it/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Aggiunge una condizione di formattazione.|
-| [add_condition](/cells/python-net/it/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Aggiungi una condizione di formato.|
-| [remove_area](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_area/#int) | Rimuove l'intervallo di celle formattato condizionale in base all'indice.|
-| [remove_area](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Rimuovi la formattazione condizionale nell'intervallo.|
-| [add](/cells/python-net/it/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Aggiunge una condizione di formattazione e la cella interessata a FormatConditions<br/>Le FormatConditions possono contenere fino a tre formati condizionali.<br/> Nelle formule di formattazione condizionale non sono ammessi riferimenti ad altri fogli.|
-| [add_area](/cells/python-net/it/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Aggiunge un intervallo di celle formattato condizionale.|
-| [get_cell_area](/cells/python-net/it/aspose.cells/formatconditioncollection/get_cell_area/#int) | Ottiene l'intervallo di celle formattato condizionale in base all'indice.|
-| [remove_condition](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_condition/#int) | Rimuove la condizione di formattazione per indice.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/it/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Aggiunge una condizione di formattazione.|
+| [`add_condition(self, type)`](/cells/python-net/it/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Aggiungere una condizione di formato.|
+| [`remove_area(self, index)`](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_area/#int) | Rimuove l'intervallo di celle formattato in modo condizionale in base all'indice.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Rimuovi la formattazione condizionale nell'intervallo.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/it/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |Aggiunge una condizione di formattazione e l'intervallo di celle interessate a FormatConditions<br/>FormatConditions può contenere fino a tre formati condizionali.<br/> I riferimenti ad altri fogli non sono consentiti nelle formule di formattazione condizionale.|
+| [`add_area(self, cell_area)`](/cells/python-net/it/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Aggiunge un intervallo di celle formattato in modo condizionale.|
+| [`get_cell_area(self, index)`](/cells/python-net/it/aspose.cells/formatconditioncollection/get_cell_area/#int) | Ottiene l'intervallo di celle formattato in modo condizionale in base all'indice.|
+| [`remove_condition(self, index)`](/cells/python-net/it/aspose.cells/formatconditioncollection/remove_condition/#int) | Rimuove la condizione di formattazione tramite indice.|
 
 
 

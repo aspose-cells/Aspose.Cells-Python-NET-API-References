@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.settings/pivotglobalizationsettings/__init__/
 is_root: false
 ---
-##  PivotGlobalizationSettings() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av PivotGlobalizationSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.settings](../../)
-* klass [PivotGlobalizationSettings](/cells/python-net/sv/aspose.cells.settings/pivotglobalizationsettings)
+* modul [`aspose.cells.settings`](../../)
+* klass [`PivotGlobalizationSettings`](/cells/python-net/sv/aspose.cells.settings/pivotglobalizationsettings)

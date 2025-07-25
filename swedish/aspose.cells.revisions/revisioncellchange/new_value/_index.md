@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  new_value fastighet
 
-Får nytt värde av cellen.
+Hämtar ett nytt värde för cellen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def new_value(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)

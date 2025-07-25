@@ -7,12 +7,13 @@ weight: 80
 url: /de/aspose.cells/style/set_pattern_color/
 is_root: false
 ---
-##  set_pattern_color(pattern, color1, color2) {#BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
+##  set_pattern_color(self, pattern, color1, color2) {#aspose.cells.BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
 Legt die Hintergrundfarbe fest.
 
 
 
 ```python
+
 def set_pattern_color(self, pattern, color1, color2):
     ...
 ```
@@ -20,12 +21,12 @@ def set_pattern_color(self, pattern, color1, color2):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pattern | [BackgroundType](/cells/python-net/de/aspose.cells/backgroundtype) | Das Muster.|
+| pattern | [`BackgroundType`](/cells/python-net/de/aspose.cells/backgroundtype) | Das Muster.|
 | color1 | aspose.pydrawing.Color | Die Vordergrundfarbe.|
-| color2 | aspose.pydrawing.Color | Die Hintergrundfarbe. Funktioniert nur, wenn pattern nicht BackgroundType.None und BackgroundType.Solid ist.|
+| color2 | aspose.pydrawing.Color | Die Hintergrundfarbe. Funktioniert nur, wenn das Muster nicht BackgroundType.None und BackgroundType.Solid ist.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

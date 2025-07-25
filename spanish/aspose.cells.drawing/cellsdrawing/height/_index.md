@@ -3,13 +3,13 @@ title: height propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 430
+weight: 420
 url: /es/aspose.cells.drawing/cellsdrawing/height/
 is_root: false
 ---
 ##  height propiedad
 
-Representa el height de forma, en unidades de píxel.
+Representa el height de forma, en unidad de píxel.
 
 ###  Ejemplo
 

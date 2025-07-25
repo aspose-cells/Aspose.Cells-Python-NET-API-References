@@ -7,12 +7,13 @@ weight: 80
 url: /ar/aspose.cells/style/set_pattern_color/
 is_root: false
 ---
-##  set_pattern_color(pattern, color1, color2) {#BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
-يضبط لون الخلفية.
+##  set_pattern_color(self, pattern, color1, color2) {#aspose.cells.BackgroundType-aspose.pydrawing.Color-aspose.pydrawing.Color}
+تعيين لون الخلفية.
 
 
 
 ```python
+
 def set_pattern_color(self, pattern, color1, color2):
     ...
 ```
@@ -20,12 +21,12 @@ def set_pattern_color(self, pattern, color1, color2):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| pattern | [BackgroundType](/cells/python-net/ar/aspose.cells/backgroundtype) | النمط.|
+| pattern | [`BackgroundType`](/cells/python-net/ar/aspose.cells/backgroundtype) | النمط.|
 | color1 | aspose.pydrawing.Color | لون المقدمة.|
-| color2 | aspose.pydrawing.Color | لون الخلفية. يعمل فقط عندما لا يكون النمط هو BackgroundType.None و BackgroundType.Solid.|
+| color2 | aspose.pydrawing.Color | لون الخلفية. يعمل فقط عندما لا يكون النمط BackgroundType.None وBackgroundType.Solid.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

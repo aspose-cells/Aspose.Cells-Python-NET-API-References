@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells/worksheetcollection/clear_pivottables/
 is_root: false
 ---
-##  clear_pivottables() {#}
-مسح الجداول المحورية من جدول البيانات.
+##  clear_pivottables(self) {#}
+مسح جداول المحور من جدول البيانات.
 
 
 
 ```python
+
 def clear_pivottables(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_pivottables(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

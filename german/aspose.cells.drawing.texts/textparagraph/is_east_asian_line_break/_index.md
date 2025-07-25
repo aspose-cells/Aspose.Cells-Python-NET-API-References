@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_east_asian_line_break Eigentum
 
-Gibt an, ob ein ostasiatisches Wort halbiert und in die nächste Zeile umgebrochen werden kann, ohne dass ein Bindestrich hinzugefügt wird.
+Gibt an, ob ein ostasiatisches Wort in zwei Hälften geteilt und in die nächste Zeile umgebrochen werden kann, ohne dass ein Bindestrich hinzugefügt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_east_asian_line_break(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

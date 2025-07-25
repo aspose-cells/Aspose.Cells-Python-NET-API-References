@@ -23,18 +23,18 @@ El tipo OdsCellFieldCollection expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/copy_to/#list) | Copia toda la lista de matrices en una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/copy_to/#int-list-int-int) |Copia un rango de elementos de la lista de arreglos a una lista de arreglos unidimensional compatible, comenzando en el índice especificado de la lista de arreglos de destino.|
-| [index_of(item, index)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/index_of/#OdsCellField-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el índice especificado hasta el último elemento.|
-| [index_of(item, index, count)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/index_of/#OdsCellField-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene el número especificado de elementos.|
-| [last_index_of(item)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#OdsCellField) | Busca el objeto especificado y devuelve el índice de base cero de la última aparición en toda la lista de matrices.|
-| [last_index_of(item, index)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#OdsCellField-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el primer elemento hasta el índice especificado.|
-| [last_index_of(item, index, count)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#OdsCellField-int-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de matriz que contiene el número especificado de elementos y termina en el índice especificado.|
-| [add(row, column, field_type, format)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/add/#int-int-OdsCellFieldType-str) | Agrega un campo.|
-| [update_fields_value()](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/update_fields_value/#) | Actualice el valor de los campos a las celdas.|
-| [binary_search(item)](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/binary_search/#OdsCellField) | Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.|
+| [`copy_to(self, array)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/copy_to/#list) |Copia la lista de matrices completa a una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/copy_to/#int-list-int-int) | Copia un rango de elementos de la lista de matrices a una lista de matrices unidimensionales compatible, comenzando en el índice especificado de la lista de matrices de destino.|
+| [`index_of(self, item, index)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/index_of/#aspose.cells.ods.odscellfield-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de la matriz que se extiende desde el índice especificado hasta el último elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/index_of/#aspose.cells.ods.odscellfield-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene la cantidad especificada de elementos.|
+| [`last_index_of(self, item)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#aspose.cells.ods.odscellfield) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro de toda la lista de la matriz.|
+| [`last_index_of(self, item, index)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#aspose.cells.ods.odscellfield-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que se extiende desde el primer elemento hasta el índice especificado.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/last_index_of/#aspose.cells.ods.odscellfield-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que contiene la cantidad especificada de elementos y termina en el índice especificado.|
+| [`add(self, row, column, field_type, format)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/add/#int-int-aspose.cells.ods.odscellfieldtype-str) | Agrega un campo.|
+| [`update_fields_value(self)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/update_fields_value/#) | Actualizar el valor de los campos en las celdas.|
+| [`binary_search(self, item)`](/cells/python-net/es/aspose.cells.ods/odscellfieldcollection/binary_search/#aspose.cells.ods.odscellfield) | Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.ods](..)
+* módulo [`aspose.cells.ods`](..)

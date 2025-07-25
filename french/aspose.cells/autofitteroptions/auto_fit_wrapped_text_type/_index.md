@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_wrapped_text_type propriété
 
-Obtient et définit le type de texte enveloppé d'ajustement automatique.
+Obtient et définit le type de texte enveloppé à ajustement automatique.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFitWrappedTextType](/cells/python-net/fr/aspose.cells/autofitwrappedtexttype)
-* classe [AutoFitterOptions](/cells/python-net/fr/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* classe [`AutoFitWrappedTextType`](/cells/python-net/fr/aspose.cells/autofitwrappedtexttype)
+* classe [`AutoFitterOptions`](/cells/python-net/fr/aspose.cells/autofitteroptions)

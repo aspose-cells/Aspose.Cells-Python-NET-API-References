@@ -8,48 +8,48 @@ url: /zh/aspose.cells.charts/errorbar/
 is_root: false
 ---
 ## ErrorBar类
-代表数据系列的误差线。
+表示数据系列的误差线。
 
 
 
-**遗产：** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
+**继承：** [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) → 
 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)
 
 
 
 ErrorBar 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [compound_type](/cells/python-net/zh/aspose.cells.charts/errorbar/compound_type) |指定复合线类型|
-| [dash_type](/cells/python-net/zh/aspose.cells.charts/errorbar/dash_type) |指定虚线类型|
-| [cap_type](/cells/python-net/zh/aspose.cells.charts/errorbar/cap_type) |指定结束大写字母。|
-| [join_type](/cells/python-net/zh/aspose.cells.charts/errorbar/join_type) |指定连接帽。|
-| [begin_type](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_type) |指定行首的箭头。|
-| [end_type](/cells/python-net/zh/aspose.cells.charts/errorbar/end_type) |指定行尾的箭头。|
-| [begin_arrow_length](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_arrow_length) |指定行首的箭头长度。|
+| [dash_type](/cells/python-net/zh/aspose.cells.charts/errorbar/dash_type) |规定虚线类型|
+| [cap_type](/cells/python-net/zh/aspose.cells.charts/errorbar/cap_type) |指定结束大写。|
+| [join_type](/cells/python-net/zh/aspose.cells.charts/errorbar/join_type) |指定连接端。|
+| [begin_type](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_type) |指定线的开头的箭头。|
+| [end_type](/cells/python-net/zh/aspose.cells.charts/errorbar/end_type) |指定线末端的箭头。|
+| [begin_arrow_length](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_arrow_length) |指定线起点箭头的长度。|
 | [end_arrow_length](/cells/python-net/zh/aspose.cells.charts/errorbar/end_arrow_length) |指定线末端箭头的长度。|
-| [begin_arrow_width](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_arrow_width) |指定线条开头的箭头宽度。|
+| [begin_arrow_width](/cells/python-net/zh/aspose.cells.charts/errorbar/begin_arrow_width) |指定线起点箭头的宽度。|
 | [end_arrow_width](/cells/python-net/zh/aspose.cells.charts/errorbar/end_arrow_width) |指定线末端箭头的宽度。|
-| [theme_color](/cells/python-net/zh/aspose.cells.charts/errorbar/theme_color) |获取和设置主题颜色。|
+| [theme_color](/cells/python-net/zh/aspose.cells.charts/errorbar/theme_color) |获取并设置主题颜色。|
 | [color](/cells/python-net/zh/aspose.cells.charts/errorbar/color) |代表线条的颜色。|
-| [transparency](/cells/python-net/zh/aspose.cells.charts/errorbar/transparency) |返回或设置线条的透明度，其值范围为 0.0（不透明）到 1.0（透明）。|
+| [transparency](/cells/python-net/zh/aspose.cells.charts/errorbar/transparency) |返回或设置线条的透明度，范围是 0.0（不透明）到 1.0（透明）。|
 | [style](/cells/python-net/zh/aspose.cells.charts/errorbar/style) |代表线条的风格。|
-| [weight](/cells/python-net/zh/aspose.cells.charts/errorbar/weight) |获取或设置线路的 [`WeightType`](/cells/python-net/zh/aspose.cells.drawing/weighttype)。|
-| [weight_pt](/cells/python-net/zh/aspose.cells.charts/errorbar/weight_pt) |获取或设置以点为单位的线的粗细。|
+| [weight](/cells/python-net/zh/aspose.cells.charts/errorbar/weight) |获取或设置该行的 [`WeightType`](/cells/python-net/zh/aspose.cells.drawing/weighttype)。|
+| [weight_pt](/cells/python-net/zh/aspose.cells.charts/errorbar/weight_pt) |获取或设置线的粗细（以点为单位）。|
 | [weight_px](/cells/python-net/zh/aspose.cells.charts/errorbar/weight_px) |获取或设置线条的粗细（以像素为单位）。|
 | [formatting_type](/cells/python-net/zh/aspose.cells.charts/errorbar/formatting_type) |获取或设置格式类型。|
-| [is_automatic_color](/cells/python-net/zh/aspose.cells.charts/errorbar/is_automatic_color) |指示线条颜色是否自动指定。|
+| [is_automatic_color](/cells/python-net/zh/aspose.cells.charts/errorbar/is_automatic_color) |指示是否自动分配线条颜色。|
 | [is_visible](/cells/python-net/zh/aspose.cells.charts/errorbar/is_visible) |表示该线是否可见。|
-| [is_auto](/cells/python-net/zh/aspose.cells.charts/errorbar/is_auto) |指示此线型是否自动分配。|
+| [is_auto](/cells/python-net/zh/aspose.cells.charts/errorbar/is_auto) |指示此线条样式是否自动分配。|
 | [gradient_fill](/cells/python-net/zh/aspose.cells.charts/errorbar/gradient_fill) |代表渐变填充。|
-| [type](/cells/python-net/zh/aspose.cells.charts/errorbar/type) |代表误差条金额类型。|
-| [display_type](/cells/python-net/zh/aspose.cells.charts/errorbar/display_type) |代表误差条显示类型。|
-| [amount](/cells/python-net/zh/aspose.cells.charts/errorbar/amount) |表示误差条的量。<br/>该金额必须大于或等于零。|
-| [show_marker_t_top](/cells/python-net/zh/aspose.cells.charts/errorbar/show_marker_t_top) |指示是否使用 T 形顶格式化误差线。|
-| [plus_value](/cells/python-net/zh/aspose.cells.charts/errorbar/plus_value) |当误差条类型为自定义时，表示正误差量。|
-| [minus_value](/cells/python-net/zh/aspose.cells.charts/errorbar/minus_value) |当误差条类型为自定义时，表示负误差量。|
+| [type](/cells/python-net/zh/aspose.cells.charts/errorbar/type) |表示误差线数量类型。|
+| [display_type](/cells/python-net/zh/aspose.cells.charts/errorbar/display_type) |表示误差线的显示类型。|
+| [amount](/cells/python-net/zh/aspose.cells.charts/errorbar/amount) |表示误差线的数量。|
+| [show_marker_t_top](/cells/python-net/zh/aspose.cells.charts/errorbar/show_marker_t_top) |指示是否使用 T 型顶格式化误差线。|
+| [plus_value](/cells/python-net/zh/aspose.cells.charts/errorbar/plus_value) |当误差线类型为自定义时，表示正误差量。|
+| [minus_value](/cells/python-net/zh/aspose.cells.charts/errorbar/minus_value) |当误差线类型为自定义时，表示负误差量。|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: parent_style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 420
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent_style недвижимость
 
-Получает родительский стиль этого стиля.
+Получает родительский стиль данного стиля.
 ###  Определение:
 ```python
 @property

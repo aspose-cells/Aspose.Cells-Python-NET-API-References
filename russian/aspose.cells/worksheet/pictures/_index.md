@@ -1,9 +1,9 @@
 ---
 title: pictures недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ru/aspose.cells/worksheet/pictures/
 is_root: false
 ---

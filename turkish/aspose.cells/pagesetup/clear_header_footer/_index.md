@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
-##  clear_header_footer() {#}
-Üst bilgi ve alt bilgi ayarını temizler.
+##  clear_header_footer(self) {#}
+Üstbilgi ve altbilgi ayarlarını temizler.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_header_footer(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

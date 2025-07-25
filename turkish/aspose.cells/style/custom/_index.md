@@ -10,11 +10,11 @@ is_root: false
 ##  custom mülk
 
 Bu stil nesnesinin custom sayı biçimi dizesini temsil eder.
-custom sayı biçimi ayarlanmamışsa (Örneğin, sayı biçimi yerleşiktir), "" döndürülür.
+custom sayı biçimi ayarlanmamışsa (Örneğin, sayı biçimi yerleşikse), "" döndürülecektir.
 
 ###  Notlar
 
-Döndürülen custom dizesi kültürden bağımsızdır.
+Dönen custom dizisi kültürden bağımsızdır.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def custom(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

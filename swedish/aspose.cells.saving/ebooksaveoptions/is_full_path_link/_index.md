@@ -3,13 +3,13 @@ title: is_full_path_link fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 580
 url: /sv/aspose.cells.saving/ebooksaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link fastighet
 
-Anger om fullständig sökvägslänk används i sheet00x.htm,filelist.xml och tabstrip.htm.
+Anger om en fullständig sökvägslänk används i sheet00x.htm, filelist.xml och tabstrip.htm.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

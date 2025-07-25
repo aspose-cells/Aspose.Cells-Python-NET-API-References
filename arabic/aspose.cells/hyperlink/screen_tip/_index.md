@@ -1,5 +1,5 @@
 ---
-title: screen_tip الملكية
+title: screen_tip عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/hyperlink/screen_tip/
 is_root: false
 ---
-##  screen_tip الملكية
+##  screen_tip عقار
 
-إرجاع أو تعيين نص تلميح الشاشة للارتباط التشعبي المحدد.
+إرجاع أو تعيين نص تلميح الشاشة للرابط التشعبي المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def screen_tip(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)

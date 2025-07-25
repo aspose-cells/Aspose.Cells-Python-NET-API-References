@@ -10,15 +10,15 @@ is_root: false
 ##  preserve_padding_spaces mülk
 
 Formül belirteçleri arasında doldurulan boşlukların ve satır sonlarının korunup korunmayacağını belirtir
-formülleri alırken ve ayarlarken.
+Formülleri alırken ve ayarlarken.
 Varsayılan değer false'tur.
 
 ###  Notlar
 
-Genellikle bu boşluklar ve satır araları sadece görsel amaçlıdır,
+Genellikle bu boşluklar ve satır sonları sadece görsel amaçlıdır.
 Bunların korunup korunmaması hesaplanan sonucu etkilemez.
-Performans değerlendirmesi için özel bir gereklilik yoksa,
-formülleri işlerken bunları saklamamak daha iyidir.
+Performans değerlendirmesi için, özel bir gereklilik yoksa,
+Formülleri işlerken bunları saklamamak daha iyidir.
 ###  Tanım:
 ```python
 @property

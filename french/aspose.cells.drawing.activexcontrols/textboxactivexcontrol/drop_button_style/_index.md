@@ -21,6 +21,6 @@ def drop_button_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [DropButtonStyle](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`DropButtonStyle`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

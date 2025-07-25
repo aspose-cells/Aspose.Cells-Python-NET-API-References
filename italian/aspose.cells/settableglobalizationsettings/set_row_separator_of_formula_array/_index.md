@@ -1,18 +1,19 @@
 ---
 title: Metodo set_row_separator_of_formula_array
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 360
 url: /it/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/
 is_root: false
 ---
-##  set_row_separator_of_formula_array {#char}
+##  set_row_separator_of_formula_array(self, c) {#char}
 Imposta il separatore per le righe nei dati dell'array nella formula.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```

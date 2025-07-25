@@ -3,7 +3,7 @@ title: reflection propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/groupbox/reflection/
 is_root: false
 ---

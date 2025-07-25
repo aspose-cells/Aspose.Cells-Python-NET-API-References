@@ -1,5 +1,5 @@
 ---
-title: split_type الملكية
+title: split_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 450
 url: /ar/aspose.cells.charts/series/split_type/
 is_root: false
 ---
-##  split_type الملكية
+##  split_type عقار
 
-إرجاع أو تعيين قيمة توضح كيفية تحديد نقاط البيانات الموجودة في الدائرة أو الشريط الثاني على فطيرة دائرية أو شريط من
+يعيد أو يعين قيمة لكيفية تحديد نقاط البيانات الموجودة في الفطيرة الثانية أو الشريط على فطيرة أو شريط
 مخطط دائري.
 ###  تعريف:
 ```python
@@ -22,6 +22,6 @@ def split_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartSplitType](/cells/python-net/ar/aspose.cells.charts/chartsplittype)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartSplitType`](/cells/python-net/ar/aspose.cells.charts/chartsplittype)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

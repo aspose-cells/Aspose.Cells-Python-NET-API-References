@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  always_export_as_json_object fastighet
 
-Anger om excel alltid exporteras till json som objekt, även om det bara finns ett kalkylblad i filen.
+Anger om Excel alltid ska exporteras till JSON som objekt, även om det bara finns ett kalkylblad i filen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def always_export_as_json_object(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonSaveOptions](/cells/python-net/sv/aspose.cells/jsonsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonSaveOptions`](/cells/python-net/sv/aspose.cells/jsonsaveoptions)

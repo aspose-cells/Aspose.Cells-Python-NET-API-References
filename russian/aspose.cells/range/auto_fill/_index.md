@@ -1,18 +1,19 @@
 ---
 title: auto_fill метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill {#aspose.cells.Range}
-Автоматическое заполнение целевого диапазона.
+##  auto_fill(self, target) {#aspose.cells.Range}
+Автоматически заполнить целевой диапазон.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -43,12 +44,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
-Автоматическое заполнение целевого диапазона.
+##  auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
+Автоматически заполнить целевой диапазон.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```
@@ -57,7 +59,7 @@ def auto_fill(self, target, auto_fill_type):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | target | [`Range`](/cells/python-net/ru/aspose.cells/range) | Целевой диапазон.|
-| auto_fill_type | [`AutoFillType`](/cells/python-net/ru/aspose.cells/autofilltype) | Тип автозаполнения.|
+| auto_fill_type | [`AutoFillType`](/cells/python-net/ru/aspose.cells/autofilltype) | Тип автоматического заполнения.|
 
 
 

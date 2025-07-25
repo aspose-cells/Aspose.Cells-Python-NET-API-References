@@ -1,6 +1,6 @@
 ---
 title: icon_set_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_set_type недвижимость
 
-Получает и задает, какой набор значков используется в критериях фильтрации.
+Получает и задает, какой набор значков используется в критериях фильтра.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def icon_set_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IconFilter](/cells/python-net/ru/aspose.cells/iconfilter)
-* класс [IconSetType](/cells/python-net/ru/aspose.cells/iconsettype)
+* модуль [`aspose.cells`](../../)
+* класс [`IconFilter`](/cells/python-net/ru/aspose.cells/iconfilter)
+* класс [`IconSetType`](/cells/python-net/ru/aspose.cells/iconsettype)

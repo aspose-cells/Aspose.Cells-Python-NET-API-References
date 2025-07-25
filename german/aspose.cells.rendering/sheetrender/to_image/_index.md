@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-Rendern Sie eine bestimmte Seite in eine Datei.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendern Sie eine bestimmte Seite in einer Datei.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -20,12 +21,12 @@ def to_image(self, page_index, file_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| page_index | int | Geben Sie an, welche Seite konvertiert werden soll|
+| page_index | int | geben Sie an, welche Seite konvertiert werden soll|
 | file_name | str | Dateiname des Ausgabebildes|
 
 ###  Beispiel
 
-Der folgende Code gibt die erste Seite des ersten Blatts als PNG-Bild aus.
+Der folgende Code gibt die erste Seite des ersten Blattes als PNG-Bild aus.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-Rendern Sie eine bestimmte Seite in einen Stream.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendern Sie bestimmte Seiten in einem Stream.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -58,7 +60,7 @@ def to_image(self, page_index, stream):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| page_index | int | Geben Sie an, welche Seite konvertiert werden soll|
+| page_index | int | geben Sie an, welche Seite konvertiert werden soll|
 | stream | io.RawIOBase | der Stream des Ausgabebildes|
 
 

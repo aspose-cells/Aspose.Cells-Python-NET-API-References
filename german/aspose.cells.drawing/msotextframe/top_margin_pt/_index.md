@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_margin_pt Eigentum
 
-Gibt den oberen Rand in Punkteinheiten zurück
+Gibt den oberen Rand in der Einheit Punkte zurück
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoTextFrame](/cells/python-net/de/aspose.cells.drawing/msotextframe)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoTextFrame`](/cells/python-net/de/aspose.cells.drawing/msotextframe)

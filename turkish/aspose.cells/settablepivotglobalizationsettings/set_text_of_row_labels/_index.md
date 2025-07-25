@@ -3,16 +3,17 @@ title: set_text_of_row_labels yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 310
 url: /tr/aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/
 is_root: false
 ---
-##  set_text_of_row_labels {#str}
+##  set_text_of_row_labels(self, text) {#str}
 PivotTable'daki "Satır Etiketleri" etiketinin metnini ayarlar.
 
 
 
 ```python
+
 def set_text_of_row_labels(self, text):
     ...
 ```

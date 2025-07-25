@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_justify_distributed Eigentum
 
-Gibt an, ob die Zellen im Blocksatz oder in der verteilten Ausrichtung in der letzten Textzeile verwendet werden sollen.
+Gibt an, ob in der letzten Textzeile die Blocksatz- oder die verteilte Ausrichtung der Zellen verwendet werden soll.
 
 ###  Bemerkungen
 
-Dies ist typisch für ostasiatische Ausrichtungen, in anderen Zusammenhängen jedoch nicht typisch.
+Dies ist typisch für ostasiatische Ausrichtungen, jedoch nicht typisch für andere Kontexte.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_angle propiedad
 
-Obtiene y establece el ángulo de iluminación. Rango de 0 a 359,9 grados.
+Obtiene y establece el ángulo de iluminación. El rango es de 0 a 359,9 grados.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def lighting_angle(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Format3D](/cells/python-net/es/aspose.cells.drawing/format3d)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Format3D`](/cells/python-net/es/aspose.cells.drawing/format3d)

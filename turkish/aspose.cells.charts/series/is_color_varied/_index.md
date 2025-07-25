@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_color_varied mülk
 
- Noktaların renginin değişip değişmediğini temsil eder.
-Grafik yalnızca bir seri içermelidir.
+ Noktaların renginin değişip değişmediğini gösterir.
+Grafikte yalnızca bir seri bulunmalıdır.
 ###  Tanım:
 ```python
 @property

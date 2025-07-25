@@ -3,13 +3,13 @@ title: width_inch属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /zh/aspose.cells.drawing/scrollbar/width_inch/
 is_root: false
 ---
 ## width_inch属性
 
-表示形状的宽度，单位为英寸。
+表示形状的宽度，以英寸为单位。
 
 ### 例子
 

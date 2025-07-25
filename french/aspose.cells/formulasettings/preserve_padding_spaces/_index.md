@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  preserve_padding_spaces propriété
 
-Indique si les espaces et les sauts de ligne qui sont remplis entre les jetons de formule sont conservés
+Indique si les espaces et les sauts de ligne qui sont remplis entre les jetons de formule doivent être conservés
 tout en obtenant et en définissant des formules.
-La valeur par défaut est fausse.
+La valeur par défaut est faux.
 
 ###  Remarques
 
-Généralement, ces espaces et sauts de ligne sont uniquement destinés à des fins visuelles,
-Les conserver ou non n’affecte pas le résultat calculé.
-Pour des raisons de performances, s'il n'y a pas d'exigence particulière,
-il vaut mieux ne pas les conserver lors du traitement des formules.
+En général, ces espaces et sauts de ligne sont uniquement à des fins visuelles,
+Le fait de les conserver ou non n'affecte pas le résultat calculé.
+Pour l'évaluation des performances, s'il n'y a pas d'exigence particulière,
+il vaut mieux ne pas les conserver pendant le traitement des formules.
 ###  Définition:
 ```python
 @property

@@ -21,6 +21,6 @@ def order(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
-* classe [PrintOrderType](/cells/python-net/fr/aspose.cells/printordertype)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)
+* classe [`PrintOrderType`](/cells/python-net/fr/aspose.cells/printordertype)

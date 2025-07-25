@@ -3,13 +3,13 @@ title: password fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 320
 url: /sv/aspose.cells/txtloadoptions/password/
 is_root: false
 ---
 ##  password fastighet
 
-Hämtar och ställer in password för arbetsboken.
+Hämtar och anger password i arbetsboken.
 ###  Definition:
 ```python
 @property

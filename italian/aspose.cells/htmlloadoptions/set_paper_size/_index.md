@@ -1,18 +1,19 @@
 ---
-title: metodo set_paper_size
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_paper_size
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/htmlloadoptions/set_paper_size/
 is_root: false
 ---
-##  set_paper_size(type) {#PaperSizeType}
-Imposta il formato carta di stampa predefinito dall'impostazione predefinita della stampante.
+##  set_paper_size(self, type) {#aspose.cells.PaperSizeType}
+Imposta il formato carta di stampa predefinito in base alle impostazioni predefinite della stampante.
 
 
 
 ```python
+
 def set_paper_size(self, type):
     ...
 ```
@@ -20,13 +21,13 @@ def set_paper_size(self, type):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [PaperSizeType](/cells/python-net/it/aspose.cells/papersizetype) | Il formato carta predefinito.|
+| type | [`PaperSizeType`](/cells/python-net/it/aspose.cells/papersizetype) | Formato carta predefinito.|
 ###  Osservazioni
 
-Se non ci sono impostazioni sulla dimensione della carta, MS Excel utilizzerà l'impostazione predefinita della stampante.
+Se non è stata impostata alcuna dimensione della carta, MS Excel utilizzerà le impostazioni predefinite della stampante.
 
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/it/aspose.cells/htmlloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/it/aspose.cells/htmlloadoptions)

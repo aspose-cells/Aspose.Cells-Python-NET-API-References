@@ -3,13 +3,13 @@ title: bottom mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 320
 url: /tr/aspose.cells.drawing/button/bottom/
 is_root: false
 ---
 ##  bottom mülk
 
-Piksel biriminde, şeklin alt bottom köşe satırından dikey uzaklığının genişliğini temsil eder.
+Şeklin alt bottom köşe satırından itibaren dikey ofsetinin genişliğini piksel cinsinden temsil eder.
 
 ###  Örnek
 

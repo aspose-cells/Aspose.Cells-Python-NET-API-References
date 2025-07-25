@@ -3,7 +3,7 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 970
+weight: 990
 url: /es/aspose.cells.drawing/checkbox/text_direction/
 is_root: false
 ---

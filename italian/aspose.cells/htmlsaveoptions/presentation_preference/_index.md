@@ -1,17 +1,17 @@
 ---
 title: presentation_preference proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 600
+weight: 690
 url: /it/aspose.cells/htmlsaveoptions/presentation_preference/
 is_root: false
 ---
 ##  presentation_preference proprietà
 
-Indica se il file html o mht è la preferenza di presentazione.
+Indica se è preferibile la presentazione tramite file html o mht.
 Il valore predefinito è falso.
-se vuoi ottenere una presentazione più bella, imposta il valore su true.
+Se vuoi ottenere una presentazione più gradevole, imposta il valore su true.
 ###  Definizione:
 ```python
 @property

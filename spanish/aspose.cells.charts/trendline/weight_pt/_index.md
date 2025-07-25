@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt propiedad
 
-Obtiene o establece el grosor de la línea en unidades de puntos.
+Obtiene o establece el peso de la línea en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

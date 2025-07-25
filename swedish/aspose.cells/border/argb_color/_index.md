@@ -21,5 +21,5 @@ def argb_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Border](/cells/python-net/sv/aspose.cells/border)
+* modul [`aspose.cells`](../../)
+* klass [`Border`](/cells/python-net/sv/aspose.cells/border)

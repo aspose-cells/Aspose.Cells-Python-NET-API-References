@@ -1,5 +1,5 @@
 ---
-title: FileFontSource المنشئ
+title: FileFontSource منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/filefontsource/__init__/
 is_root: false
 ---
-##  FileFontSource(file_path) {#str}
-Ctor.
+##  \_\_init\_\_(الذات، مسار الملف){#str}
+ممرضة
 
 
 
 ```python
+
 def __init__(self, file_path):
     ...
 ```
@@ -25,5 +26,5 @@ def __init__(self, file_path):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFontSource](/cells/python-net/ar/aspose.cells/filefontsource)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFontSource`](/cells/python-net/ar/aspose.cells/filefontsource)

@@ -3,7 +3,7 @@ title: x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1310
+weight: 1320
 url: /es/aspose.cells.drawing/listbox/x/
 is_root: false
 ---

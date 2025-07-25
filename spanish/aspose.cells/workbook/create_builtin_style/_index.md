@@ -1,22 +1,23 @@
 ---
-title: create_builtin_style método
+title: método create_builtin_style
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells/workbook/create_builtin_style/
 is_root: false
 ---
-##  create_builtin_style(type) {#BuiltinStyleType}
-Crea un estilo incorporado por tipo dado.
+##  create_builtin_style(self, type) {#aspose.cells.BuiltinStyleType}
+Crea un estilo integrado según el tipo dado.
 
 
 ###  Devoluciones
 
-objeto de estilo
+objeto [`Style`](/cells/python-net/es/aspose.cells/style)
 
 
 ```python
+
 def create_builtin_style(self, type):
     ...
 ```
@@ -24,10 +25,11 @@ def create_builtin_style(self, type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| type | [BuiltinStyleType](/cells/python-net/es/aspose.cells/builtinstyletype) |  |
+| type | [`BuiltinStyleType`](/cells/python-net/es/aspose.cells/builtinstyletype) | El estilo incorporado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

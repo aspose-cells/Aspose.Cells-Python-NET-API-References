@@ -1,6 +1,6 @@
 ---
 title: area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area proprietà
 
-Ottiene lo [ChartPoint.area](/cells/python-net/it/aspose.cells.charts/chartpoint#area).
+Ottiene [`ChartPoint.area`](/cells/python-net/it/aspose.cells.charts/chartpoint#area).
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Area](/cells/python-net/it/aspose.cells.drawing/area)
-* classe [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Area`](/cells/python-net/it/aspose.cells.drawing/area)
+* classe [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint)

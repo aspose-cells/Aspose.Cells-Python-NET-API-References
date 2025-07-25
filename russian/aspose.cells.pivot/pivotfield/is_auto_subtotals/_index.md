@@ -1,15 +1,15 @@
 ---
 title: is_auto_subtotals недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 400
+weight: 480
 url: /ru/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ##  is_auto_subtotals недвижимость
 
-Указывает, отображаются ли в указанном поле автоматические промежуточные итоги. По умолчанию верно.
+Указывает, отображаются ли в указанном поле автоматические промежуточные итоги. Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

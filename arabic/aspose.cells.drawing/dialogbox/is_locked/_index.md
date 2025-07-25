@@ -3,20 +3,25 @@ title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 620
 url: /ar/aspose.cells.drawing/dialogbox/is_locked/
 is_root: false
 ---
 ##  is_locked عقار
 
-صحيح إذا كان الكائن مقفلاً، وخطأ إذا كان من الممكن تعديل الكائن عندما تكون الورقة محمية.
+ صحيح يعني أنه لا يمكن تعديل الكائن عندما تكون الورقة محمية.
+لاحظ أن هذه القيمة لها معنى فقط إذا كانت ورقة العمل أو الكائنات الموجودة في ورقة العمل محمية.
 
 ###  مثال
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ###  تعريف:

@@ -3,7 +3,7 @@ title: show_mean_line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells.charts/serieslayoutproperties/show_mean_line/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_mean_line(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SeriesLayoutProperties](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)
+* module [`aspose.cells.charts`](../../)
+* classe [`SeriesLayoutProperties`](/cells/python-net/fr/aspose.cells.charts/serieslayoutproperties)

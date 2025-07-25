@@ -3,16 +3,16 @@ title: string_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 710
+weight: 740
 url: /tr/aspose.cells/cell/string_value/
 is_root: false
 ---
 ##  string_value mülk
 
-Hücrenin içerdiği dize değerini alır. Bu hücrenin türü string ise, string değerinin kendisini döndürün.
-Diğer hücre türleri için biçimlendirilmiş dize değeri (bu hücrenin belirtilen stiliyle biçimlendirilmiş) döndürülür.
-Biçimlendirilmiş hücre değeri, bir hücreyi metin olarak kopyalarken Excel'den alabileceğiniz değerle aynıdır (örneğin
-hücreyi metin düzenleyiciye kopyalamak veya csv'ye aktarmak).
+Hücrede bulunan dize değerini alır. Eğer bu hücrenin türü dize ise, dize değerinin kendisini döndürür.
+Diğer hücre tipleri için biçimlendirilmiş dize değeri (bu hücrenin belirtilen stiliyle biçimlendirilmiş) döndürülecektir.
+Biçimlendirilmiş hücre değeri, bir hücreyi metin olarak kopyaladığınızda Excel'den alabileceğiniz değerle aynıdır (örneğin
+(hücreyi metin düzenleyicisine kopyalama veya csv'ye aktarma).
 ###  Tanım:
 ```python
 @property

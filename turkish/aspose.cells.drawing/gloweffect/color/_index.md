@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color mülk
 
-Işıma efektinin color'ini alır.
+Parıltı efektinin color'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect)

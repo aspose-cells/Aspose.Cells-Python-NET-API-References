@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in den inmatade celladressen.
+Hämtar och anger inmatningscellens adress.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCell](/cells/python-net/sv/aspose.cells/scenarioinputcell)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCell`](/cells/python-net/sv/aspose.cells/scenarioinputcell)

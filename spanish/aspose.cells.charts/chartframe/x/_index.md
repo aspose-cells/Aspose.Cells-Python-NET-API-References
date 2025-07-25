@@ -3,7 +3,7 @@ title: x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 230
+weight: 310
 url: /es/aspose.cells.charts/chartframe/x/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Obtiene o establece la coordenada x de la esquina superior izquierda en unidades
 ###  Observaciones
 
  ¿Cómo convertir unidades de 1/4000 a píxeles?
-X en píxeles = X * Chart.ChartObject.Width / 4000;
+en píxeles = X * Chart.ChartObject.Width / 4000d;
 ###  Definición:
 ```python
 @property
@@ -26,5 +26,5 @@ def x(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartFrame](/cells/python-net/es/aspose.cells.charts/chartframe)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartFrame`](/cells/python-net/es/aspose.cells.charts/chartframe)

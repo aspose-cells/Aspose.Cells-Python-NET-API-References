@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  ExternalLinkCollection Indexierer
 
-Ruft das [ExternalLink](/cells/python-net/de/aspose.cells/externallink)-Element am angegebenen Index ab.
-###  Indexierer
+Ruft das Element [`ExternalLink`](/cells/python-net/de/aspose.cells/externallink) am angegebenen Index ab.
+###  Indexer
 | Name| Beschreibung|
 | :- | :- |
 | index | Der nullbasierte Index des Elements.|
@@ -22,6 +22,6 @@ Ruft das [ExternalLink](/cells/python-net/de/aspose.cells/externallink)-Element 
 Das Element am angegebenen Index.
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExternalLink](/cells/python-net/de/aspose.cells/externallink)
-* Klasse [ExternalLinkCollection](/cells/python-net/de/aspose.cells/externallinkcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExternalLink`](/cells/python-net/de/aspose.cells/externallink)
+* Klasse [`ExternalLinkCollection`](/cells/python-net/de/aspose.cells/externallinkcollection)

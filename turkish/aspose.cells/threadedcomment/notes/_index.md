@@ -21,5 +21,5 @@ def notes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedComment](/cells/python-net/tr/aspose.cells/threadedcomment)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedComment`](/cells/python-net/tr/aspose.cells/threadedcomment)

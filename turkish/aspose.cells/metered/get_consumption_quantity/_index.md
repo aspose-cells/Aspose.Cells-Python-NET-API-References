@@ -17,7 +17,9 @@ tüketim miktarı
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Metered](/cells/python-net/tr/aspose.cells/metered)
+* modül [`aspose.cells`](../../)
+* sınıf [`Metered`](/cells/python-net/tr/aspose.cells/metered)

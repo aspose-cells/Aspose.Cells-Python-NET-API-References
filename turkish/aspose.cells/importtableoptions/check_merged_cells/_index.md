@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_merged_cells mülk
 
-Birleştirilmiş hücrelerin kontrol edilip edilmediğini gösterir.
+Birleştirilmiş hücrelerin kontrol edilip edilmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_merged_cells(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

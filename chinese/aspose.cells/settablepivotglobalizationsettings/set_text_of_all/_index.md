@@ -3,16 +3,17 @@ title: set_text_of_all方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells/settablepivotglobalizationsettings/set_text_of_all/
 is_root: false
 ---
-##  set_text_of_all {#str}
+##  set_text_of_all(self, text) {#str}
 设置数据透视表中“（全部）”标签的文本。
 
 
 
 ```python
+
 def set_text_of_all(self, text):
     ...
 ```

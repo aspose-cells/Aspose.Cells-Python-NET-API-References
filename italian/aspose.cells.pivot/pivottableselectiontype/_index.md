@@ -1,9 +1,9 @@
 ---
 title: Enumerazione PivotTableSelectionType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 450
 url: /it/aspose.cells.pivot/pivottableselectiontype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Il tipo PivotTableSelectionType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| DATA_AND_LABEL |Dati ed etichette|
+| DATA_AND_LABEL | Dati ed etichette|
 | DATA_ONLY | Seleziona solo i dati|
 | LABEL_ONLY | Seleziona solo le etichette|
 

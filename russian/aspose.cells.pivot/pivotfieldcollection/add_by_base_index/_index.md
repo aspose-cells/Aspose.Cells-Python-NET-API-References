@@ -1,22 +1,23 @@
 ---
 title: add_by_base_index метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/
 is_root: false
 ---
-##  add_by_base_index(base_field_index) {#int}
+##  add_by_base_index(self, base_field_index) {#int}
 Добавляет объект PivotField к определенному типу PivotFields.
 
 
-###  Возвращает
+###  Возврат
 
 индекс объекта PivotField в этом PivotFields.
 
 
 ```python
+
 def add_by_base_index(self, base_field_index):
     ...
 ```
@@ -29,5 +30,5 @@ def add_by_base_index(self, base_field_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotFieldCollection](/cells/python-net/ru/aspose.cells.pivot/pivotfieldcollection)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotFieldCollection`](/cells/python-net/ru/aspose.cells.pivot/pivotfieldcollection)

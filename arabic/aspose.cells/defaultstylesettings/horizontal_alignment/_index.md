@@ -1,15 +1,15 @@
 ---
-title: horizontal_alignment الملكية
+title: horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/defaultstylesettings/horizontal_alignment/
 is_root: false
 ---
-##  horizontal_alignment الملكية
+##  horizontal_alignment عقار
 
-الحصول على / تعيين القيمة الافتراضية للمحاذاة الأفقية
+يحصل على/يضبط القيمة الافتراضية للمحاذاة الأفقية
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def horizontal_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DefaultStyleSettings](/cells/python-net/ar/aspose.cells/defaultstylesettings)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DefaultStyleSettings`](/cells/python-net/ar/aspose.cells/defaultstylesettings)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)

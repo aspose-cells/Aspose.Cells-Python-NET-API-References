@@ -1,22 +1,23 @@
 ---
 title: calculate_text_size方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/cellsdrawing/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
+##  calculate_text_size(self) {#}
 重新计算文本区域
 
 
 ### 返回
 
-文本在数组中的大小（宽度和高度）。
+数组中的文本大小（宽度和高度）。
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CellsDrawing](/cells/python-net/zh/aspose.cells.drawing/cellsdrawing)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CellsDrawing`](/cells/python-net/zh/aspose.cells.drawing/cellsdrawing)

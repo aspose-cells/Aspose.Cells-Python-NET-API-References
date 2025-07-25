@@ -1,22 +1,23 @@
 ---
 title: check_column метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
 url: /ru/aspose.cells/cells/check_column/
 is_root: false
 ---
-##  check_column(column_index) {#int}
-Получает элемент [Column](/cells/python-net/ru/aspose.cells/column) или null по указанному индексу столбца.
+##  check_column(self, column_index) {#int}
+Получает элемент [`Column`](/cells/python-net/ru/aspose.cells/column) или значение NULL по указанному индексу столбца.
 
 
-###  Возвращает
+###  Возврат
 
-Объект Столбец.
+Объект «Столбец».
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```
@@ -29,6 +30,6 @@ def check_column(self, column_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cells](/cells/python-net/ru/aspose.cells/cells)
-* класс [Column](/cells/python-net/ru/aspose.cells/column)
+* модуль [`aspose.cells`](../../)
+* класс [`Cells`](/cells/python-net/ru/aspose.cells/cells)
+* класс [`Column`](/cells/python-net/ru/aspose.cells/column)

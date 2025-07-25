@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
-##  get_all_name() {#}
-الحصول على اسم التسمية "(الكل)" في PivotTable.
+##  get_all_name(self) {#}
+يحصل على اسم العلامة "(الكل)" في الجدول المحوري.
 
 
 ###  عائدات
 
-اسم التصنيف "(الكل)"
+اسم العلامة "(الكل)"
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_all_name(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
-الرجاء استخدام طريقة GlobalizationSettings.GetColumnLabelsOfPivotTable ().
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+من فضلك استخدم طريقة GlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

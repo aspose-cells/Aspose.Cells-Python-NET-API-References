@@ -3,7 +3,7 @@ title: major_tick_mark عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---

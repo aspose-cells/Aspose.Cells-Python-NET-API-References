@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit Eigentum
 
-Stellt dar, ob der Text automatisch verkleinert wird, damit er in die verfügbare Spaltenbreite passt.
+Gibt an, ob der Text automatisch verkleinert wird, um in die verfügbare Spaltenbreite zu passen.
 ###  Definition:
 ```python
 @property

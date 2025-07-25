@@ -3,16 +3,17 @@ title: método get_filters
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 90
 url: /es/aspose.cells.pivot/pivotfield/get_filters/
 is_root: false
 ---
-##  get_filters {#}
-Obtiene todos los filtros dinámicos de este campo dinámico.
+##  get_filters(self) {#}
+Obtiene todos los filtros pivote de este campo pivote.
 
 
 
 ```python
+
 def get_filters(self):
     ...
 ```

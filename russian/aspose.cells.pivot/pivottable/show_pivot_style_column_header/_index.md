@@ -1,9 +1,9 @@
 ---
 title: show_pivot_style_column_header недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 930
+weight: 1060
 url: /ru/aspose.cells.pivot/pivottable/show_pivot_style_column_header/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_pivot_style_column_header(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

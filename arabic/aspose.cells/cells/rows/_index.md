@@ -3,13 +3,13 @@ title: rows عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /ar/aspose.cells/cells/rows/
 is_root: false
 ---
 ##  rows عقار
 
-الحصول على مجموعة الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الفرد rows في ورقة العمل هذه.
+يحصل على مجموعة من الكائنات [`Row`](/cells/python-net/ar/aspose.cells/row) التي تمثل الفرد rows في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property

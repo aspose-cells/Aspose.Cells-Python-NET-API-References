@@ -1,13 +1,13 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.rendering/pdfbookmarkentry/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
 书签的标题。
 ### 定义：
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [PdfBookmarkEntry](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`PdfBookmarkEntry`](/cells/python-net/zh/aspose.cells.rendering/pdfbookmarkentry)

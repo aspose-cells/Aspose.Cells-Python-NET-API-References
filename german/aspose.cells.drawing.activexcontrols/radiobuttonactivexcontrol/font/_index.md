@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/font/
 is_root: false
 ---
 ##  font Eigentum
-
-Stellt die font der Steuerung dar.
 ###  Definition:
 ```python
 @property
@@ -18,6 +16,6 @@ def font(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [RadioButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`RadioButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

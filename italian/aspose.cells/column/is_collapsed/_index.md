@@ -1,6 +1,6 @@
 ---
 title: is_collapsed proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapsed proprietà
 
-se la colonna è collassata
+se la colonna è compressa
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Column](/cells/python-net/it/aspose.cells/column)
+* modulo [`aspose.cells`](../../)
+* classe [`Column`](/cells/python-net/it/aspose.cells/column)

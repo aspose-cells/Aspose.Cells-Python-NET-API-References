@@ -3,7 +3,7 @@ title: ResourceLoadingType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2530
+weight: 2500
 url: /de/aspose.cells/resourceloadingtype/
 is_root: false
 ---

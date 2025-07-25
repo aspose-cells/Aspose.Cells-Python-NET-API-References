@@ -3,13 +3,13 @@ title: reading_order mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 370
 url: /tr/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---
 ##  reading_order mülk
 
-Metin okuma sırasını temsil eder.
+Metnin okuma sırasını gösterir.
 ###  Tanım:
 ```python
 @property

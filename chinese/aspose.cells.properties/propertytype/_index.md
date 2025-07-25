@@ -1,9 +1,9 @@
 ---
 title: PropertyType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 80
 url: /zh/aspose.cells.properties/propertytype/
 is_root: false
 ---
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-PropertyType 类型公开了以下成员：
+PropertyType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | BOOLEAN |该属性是一个布尔值。|
 | DATE_TIME |该属性是一个日期时间值。|
@@ -27,4 +27,4 @@ PropertyType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](..)
+* 模块[`aspose.cells.properties`](..)

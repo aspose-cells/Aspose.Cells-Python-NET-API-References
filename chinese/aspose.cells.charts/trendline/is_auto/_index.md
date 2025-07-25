@@ -1,15 +1,15 @@
 ---
-title: is_auto 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_auto属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 210
 url: /zh/aspose.cells.charts/trendline/is_auto/
 is_root: false
 ---
-## is_auto 属性
+## is_auto属性
 
-指示此线型是否自动指定。
+指示此线条样式是否自动分配。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Trendline](/cells/python-net/zh/aspose.cells.charts/trendline)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Trendline`](/cells/python-net/zh/aspose.cells.charts/trendline)

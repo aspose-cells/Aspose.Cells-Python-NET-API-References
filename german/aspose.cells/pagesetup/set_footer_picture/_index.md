@@ -7,16 +7,17 @@ weight: 190
 url: /de/aspose.cells/pagesetup/set_footer_picture/
 is_root: false
 ---
-##  set_footer_picture(section, footer_picture) {#int-bytes}
+##  set_footer_picture(self, section, footer_picture) {#int-bytes}
 Legt ein Bild in der Fußzeile eines Arbeitsblatts fest.
 
 
 ###  Kehrt zurück
 
-Gibt das Objekt [Picture](/cells/python-net/de/aspose.cells.drawing/picture) zurück.
+Gibt das Objekt [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) zurück.
 
 
 ```python
+
 def set_footer_picture(self, section, footer_picture):
     ...
 ```
@@ -24,12 +25,12 @@ def set_footer_picture(self, section, footer_picture):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| section | int | 0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
+| section | int |0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
 | footer_picture | bytes | Bilddaten.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)

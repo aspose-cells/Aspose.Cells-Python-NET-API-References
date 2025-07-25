@@ -3,13 +3,13 @@ title: width_pt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /tr/aspose.cells.drawing/groupshape/width_pt/
 is_root: false
 ---
 ##  width_pt mülk
 
-Nokta birimi cinsinden şeklin genişliğini temsil eder.
+Şeklin genişliğini nokta birimiyle temsil eder.
 
 ###  Örnek
 

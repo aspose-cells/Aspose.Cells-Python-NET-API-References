@@ -3,7 +3,7 @@ title: PivotFieldCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 110
 url: /de/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
@@ -23,7 +23,7 @@ Der Typ PivotFieldCollection macht die folgenden Member verfügbar:
 
 
 
-Ruft das PivotField-Objekt am spezifischen Index ab.
+Ruft das PivotField-Objekt am angegebenen Index ab.
 ###  Indexer
 | Name| Beschreibung|
 | :- | :- |
@@ -33,10 +33,11 @@ Ruft das PivotField-Objekt am spezifischen Index ab.
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_by_base_index](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Fügt ein PivotField-Objekt zum spezifischen Typ PivotFields hinzu.|
-| [add](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Fügt ein PivotField-Objekt zum spezifischen Typ PivotFields hinzu.|
-| [clear](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/clear/#) | Alle Felder der PivotFieldCollection löschen|
-| [move](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Verschiebt das PivotField von der aktuellen Position zur Zielposition|
+| [`get(self, name)`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/get/#str) |Ruft das PivotField-Objekt mit dem spezifischen Namen ab.|
+| [`add_by_base_index(self, base_field_index)`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Fügt dem spezifischen Typ PivotFields ein PivotField-Objekt hinzu.|
+| [`add(self, pivot_field)`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.pivotfield) | Fügt dem spezifischen Typ PivotFields ein PivotField-Objekt hinzu.|
+| [`clear(self)`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/clear/#) | alle Felder der PivotFieldCollection löschen|
+| [`move(self, curr_pos, dest_pos)`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Verschiebt das PivotField von der aktuellen Position zur Zielposition|
 
 
 

@@ -3,18 +3,11 @@ title: default_edit_language属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 120
 url: /zh/aspose.cells/pptxsaveoptions/default_edit_language/
 is_root: false
 ---
 ## default_edit_language属性
-
-获取或设置默认编辑语言。
-
-### 评论
-
-当设置不同的编辑语言时，它可能会显示/呈现不同的文本段落布局。
-默认值为 [`DefaultEditLanguage.AUTO`](/cells/python-net/zh/aspose.cells/defaulteditlanguage#AUTO)。
 ### 定义：
 ```python
 @property

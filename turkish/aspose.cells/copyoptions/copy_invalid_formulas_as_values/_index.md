@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  copy_invalid_formulas_as_values mülk
 
-Formül hedef hedef için geçerli değilse, yalnızca değerleri kopyalayın.
+Eğer formül hedef için geçerli değilse sadece değerleri kopyala.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def copy_invalid_formulas_as_values(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

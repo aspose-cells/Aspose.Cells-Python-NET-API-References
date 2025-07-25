@@ -1,5 +1,5 @@
 ---
-title: get_legend_total_name méthode
+title: méthode get_legend_total_name
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 70
 url: /fr/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/
 is_root: false
 ---
-##  get_legend_total_name() {#}
-Obtient le nom de Total pour la légende.
+##  get_legend_total_name(self) {#}
+Obtient le nom de Total pour Legend.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Obtient le nom de Total pour la légende.
 
 
 ```python
+
 def get_legend_total_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_total_name(self):
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartGlobalizationSettings](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartGlobalizationSettings`](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)

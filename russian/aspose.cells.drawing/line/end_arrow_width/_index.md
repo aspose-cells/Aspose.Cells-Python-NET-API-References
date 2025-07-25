@@ -1,6 +1,6 @@
 ---
 title: end_arrow_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrow_width недвижимость
 
-Определяет ширину стрелки для конца строки.
+Задает ширину стрелки на конце линии.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_arrow_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
-* класс [MsoArrowheadWidth](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)
+* класс [`MsoArrowheadWidth`](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)

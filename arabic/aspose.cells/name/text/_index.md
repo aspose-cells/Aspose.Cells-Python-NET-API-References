@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells/name/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-الحصول على اسم text للكائن.
+يحصل على اسم الكائن text.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

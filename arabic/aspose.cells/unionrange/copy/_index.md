@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/unionrange/copy/
 is_root: false
 ---
-##  copy(range, options) {#UnionRange-PasteOptions}
-نسخ النطاق مع خيارات لصق خاصة.
+##  copy(self, range, options) {#aspose.cells.UnionRange-aspose.cells.PasteOptions}
+نسخ النطاق باستخدام خيارات اللصق الخاصة.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -20,11 +21,11 @@ def copy(self, range, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [UnionRange](/cells/python-net/ar/aspose.cells/unionrange) | نطاق المصدر.|
-| options | [PasteOptions](/cells/python-net/ar/aspose.cells/pasteoptions) | خيارات لصق خاصة.|
+| range | [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange) | نطاق المصدر.|
+| options | [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions) | خيارات اللصق الخاصة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

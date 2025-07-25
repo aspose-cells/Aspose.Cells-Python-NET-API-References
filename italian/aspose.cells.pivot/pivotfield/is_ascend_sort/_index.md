@@ -1,15 +1,15 @@
 ---
 title: is_ascend_sort proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 450
 url: /it/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort proprietà
 
-Indica se il campo della tabella pivot specificato è ordinato automaticamente in modo crescente.
+Indica se il campo della tabella pivot specificato è ordinato automaticamente in ordine crescente.
 ###  Definizione:
 ```python
 @property

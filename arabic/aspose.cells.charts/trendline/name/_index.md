@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 270
 url: /ar/aspose.cells.charts/trendline/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
 إرجاع name لخط الاتجاه.
 ###  تعريف:
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

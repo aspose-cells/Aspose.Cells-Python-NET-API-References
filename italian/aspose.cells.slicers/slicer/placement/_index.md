@@ -1,6 +1,6 @@
 ---
 title: placement proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  placement proprietà
 
-Rappresenta il modo in cui l'oggetto di disegno è collegato alle celle sottostanti.
-La proprietà controlla il placement di un oggetto in un foglio di lavoro.
+Rappresenta il modo in cui l'oggetto del disegno è collegato alle celle sottostanti.
+La proprietà controlla il valore placement di un oggetto in un foglio di lavoro.
 
 ###  Esempio
 
@@ -31,6 +31,6 @@ def placement(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [PlacementType](/cells/python-net/it/aspose.cells.drawing/placementtype)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`PlacementType`](/cells/python-net/it/aspose.cells.drawing/placementtype)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

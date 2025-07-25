@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bi_level propiedad
 
-Indica si esta imagen debe mostrarse en blanco y negro de dos colores.
+Indica si esta imagen debe mostrarse en dos colores, blanco y negro.
 ###  Definición:
 ```python
 @property

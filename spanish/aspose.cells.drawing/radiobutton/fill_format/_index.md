@@ -13,10 +13,10 @@ Devuelve un objeto MsoFillFormat que contiene propiedades de formato de relleno 
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad Shape.Fill.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad Shape.Fill.
  Esta propiedad será eliminada 12 meses después desde julio de 2016.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

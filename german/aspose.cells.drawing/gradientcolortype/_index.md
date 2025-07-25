@@ -3,12 +3,12 @@ title: GradientColorType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 850
+weight: 840
 url: /de/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
 ##  GradientColorType Aufzählung
-Stellt den Verlaufsfarbtyp für die angegebene Füllung dar.
+Stellt den Farbverlaufstyp für die angegebene Füllung dar.
 
 
 
@@ -17,12 +17,12 @@ Der Typ GradientColorType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NONE | Keine Verlaufsfarbe|
-| ONE_COLOR | Eine Verlaufsfarbe|
-| PRESET_COLORS | Voreingestellte Verlaufsfarben|
-| TWO_COLORS | Zwei Verlaufsfarben|
+| NONE | Keine Farbverläufe|
+| ONE_COLOR | Eine Farbverlaufsfarbe|
+| PRESET_COLORS | Voreingestellte Farbverläufe|
+| TWO_COLORS | Zwei Farbverläufe|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

@@ -1,18 +1,19 @@
 ---
 title: custom_theme метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells/workbook/custom_theme/
 is_root: false
 ---
-##  custom_theme(theme_name, colors) {#str-aspose.pydrawing.Color[]}
+##  custom_theme(self, theme_name, colors) {#str-aspose.pydrawing.Color[]}
 Таможня тема.
 
 
 
 ```python
+
 def custom_theme(self, theme_name, colors):
     ...
 ```
@@ -27,9 +28,9 @@ def custom_theme(self, theme_name, colors):
 Длина цветов должна быть 12.
 | Индекс массива| Тип темы|
 | :- | :- |
-| 0| Фон1|
+| 0| Backgournd1|
 | 1| Текст 1|
-| 2| Фон2|
+| 2| Backgournd2|
 | 3| Текст2|
 | 4| Акцент1|
 | 5| Акцент2|
@@ -38,6 +39,6 @@ def custom_theme(self, theme_name, colors):
 | 8| Акцент5|
 | 9| Акцент6|
 | 10| Гиперссылка|
-| 11| Отслеживаемая гиперссылка|
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+| 11| Перейденная гиперссылка|
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

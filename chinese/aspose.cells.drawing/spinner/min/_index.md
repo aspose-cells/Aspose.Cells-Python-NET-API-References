@@ -3,7 +3,7 @@ title: min属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 840
+weight: 850
 url: /zh/aspose.cells.drawing/spinner/min/
 is_root: false
 ---

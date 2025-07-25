@@ -1,6 +1,6 @@
 ---
 title: field_id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_id недвижимость
 
-Получает идентификатор определенного поля таблицы запросов, которое было удалено.
+Получает идентификатор определенного поля таблицы запроса, которое было удалено.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionQueryTable](/cells/python-net/ru/aspose.cells.revisions/revisionquerytable)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionQueryTable`](/cells/python-net/ru/aspose.cells.revisions/revisionquerytable)

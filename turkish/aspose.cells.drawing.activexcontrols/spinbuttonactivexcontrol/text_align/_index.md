@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_alig
 is_root: false
 ---
 ##  text_align mülk
-
-Denetim tarafından kullanılan metnin nasıl hizalanacağını temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [SpinButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
-* sınıf [TextAlignmentType](/cells/python-net/tr/aspose.cells/textalignmenttype)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* sınıf [`TextAlignmentType`](/cells/python-net/tr/aspose.cells/textalignmenttype)

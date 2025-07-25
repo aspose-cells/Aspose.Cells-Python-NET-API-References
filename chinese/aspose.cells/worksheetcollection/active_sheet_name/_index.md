@@ -3,13 +3,13 @@ title: active_sheet_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 270
 url: /zh/aspose.cells/worksheetcollection/active_sheet_name/
 is_root: false
 ---
 ## active_sheet_name属性
 
-表示打开电子表格时活动工作表的名称。
+表示电子表格打开时活动工作表的名称。
 ### 定义：
 ```python
 @property

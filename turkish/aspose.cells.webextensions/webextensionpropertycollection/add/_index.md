@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-Web uzantısı özelliği ekler.
+##  add(self, name, value) {#str-str}
+Web uzantısı özelliğini ekler.
 
 
 ###  İadeler
 
-Eklenen özelliğin dizini.
+Eklenen özelliğin indeksi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -25,10 +26,10 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | str | Mülkün değeri.|
+| value | str | Emlak değeri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionPropertyCollection](/cells/python-net/tr/aspose.cells.webextensions/webextensionpropertycollection)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionPropertyCollection`](/cells/python-net/tr/aspose.cells.webextensions/webextensionpropertycollection)

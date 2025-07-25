@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_write_protected mülk
 
-Bu çalışma kitabının yazma korumalı olup olmadığını gösterir.
+Bu çalışma kitabının yazmaya karşı korumalı olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_write_protected(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WriteProtection](/cells/python-net/tr/aspose.cells/writeprotection)
+* modül [`aspose.cells`](../../)
+* sınıf [`WriteProtection`](/cells/python-net/tr/aspose.cells/writeprotection)

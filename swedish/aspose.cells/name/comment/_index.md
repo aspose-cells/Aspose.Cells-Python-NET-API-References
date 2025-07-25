@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  comment fastighet
 
-Hämtar och ställer in comment för namnet.
-Gäller endast Excel 2007 eller högre versioner.
+Hämtar och anger comment för namnet.
+Gäller endast för Excel 2007 eller senare versioner.
 ###  Definition:
 ```python
 @property

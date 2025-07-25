@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 20
 url: /fr/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
- Crée une nouvelle propriété de document personnalisée du**PropertyType.String** Type de données.
+##  add(self, name, value) {#str-str}
+ Crée une nouvelle propriété de document personnalisée du**PropertyType.String** type de données.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ L'objet de propriété nouvellement créé.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -28,8 +29,8 @@ def add(self, name, value):
 | value | str | La valeur de la propriété.|
 
 
-##  add(name, value) {#str-int}
- Crée une nouvelle propriété de document personnalisée du**PropertyType.Number** Type de données.
+##  add(self, name, value) {#str-int}
+ Crée une nouvelle propriété de document personnalisée du**PropertyType.Number** type de données.
 
 
 ###  Retour
@@ -38,6 +39,7 @@ L'objet de propriété nouvellement créé.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -49,8 +51,8 @@ def add(self, name, value):
 | value | int | La valeur de la propriété.|
 
 
-##  add(name, value) {#str-DateTime}
- Crée une nouvelle propriété de document personnalisée du**PropertyType.DateTime** Type de données.
+##  add(self, name, value) {#str-DateTime}
+ Crée une nouvelle propriété de document personnalisée du**Type de propriété.DateHeure** type de données.
 
 
 ###  Retour
@@ -59,6 +61,7 @@ L'objet de propriété nouvellement créé.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -70,8 +73,8 @@ def add(self, name, value):
 | value | DateTime | La valeur de la propriété.|
 
 
-##  add(name, value) {#str-bool}
- Crée une nouvelle propriété de document personnalisée du**PropertyType.Boolean** Type de données.
+##  add(self, name, value) {#str-bool}
+ Crée une nouvelle propriété de document personnalisée du**PropertyType.Booléen** type de données.
 
 
 ###  Retour
@@ -80,6 +83,7 @@ L'objet de propriété nouvellement créé.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -91,8 +95,8 @@ def add(self, name, value):
 | value | bool | La valeur de la propriété.|
 
 
-##  add(name, value) {#str-float}
- Crée une nouvelle propriété de document personnalisée du**PropertyType.Float** Type de données.
+##  add(self, name, value) {#str-float}
+ Crée une nouvelle propriété de document personnalisée du**PropertyType.Float** type de données.
 
 
 ###  Retour
@@ -101,6 +105,7 @@ L'objet de propriété nouvellement créé.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -114,5 +119,5 @@ def add(self, name, value):
 
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [CustomDocumentPropertyCollection](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`CustomDocumentPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/customdocumentpropertycollection)

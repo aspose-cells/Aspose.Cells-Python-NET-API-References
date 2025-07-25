@@ -3,12 +3,12 @@ title: ExternalLinkCollection classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 600
+weight: 580
 url: /fr/aspose.cells/externallinkcollection/
 is_root: false
 ---
 ##  ExternalLinkCollection classe
-Représente la collection de liens externes dans un classeur.
+Représente une collection de liens externes dans un classeur.
 
 
 
@@ -25,18 +25,18 @@ Obtient l'élément [`ExternalLink`](/cells/python-net/fr/aspose.cells/externall
 ###  Indexeur
 | Nom| Description|
 | :- | :- |
-| [index] | L'index de base zéro de l'élément.|
+| [index] | L'indice de base zéro de l'élément.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add](/cells/python-net/fr/aspose.cells/externallinkcollection/add/#str-list) | Ajoute un lien externe.|
-| [add](/cells/python-net/fr/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Ajoutez un lien externe .|
-| [clear](/cells/python-net/fr/aspose.cells/externallinkcollection/clear/#) | Supprime tous les liens externes.|
-| [clear](/cells/python-net/fr/aspose.cells/externallinkcollection/clear/#bool) | Supprime tous les liens externes.|
-| [remove_at](/cells/python-net/fr/aspose.cells/externallinkcollection/remove_at/#int) | Supprime le lien externe spécifié du classeur.|
-| [remove_at](/cells/python-net/fr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Supprime le lien externe spécifié du classeur.|
+| [`add(self, file_name, sheet_names)`](/cells/python-net/fr/aspose.cells/externallinkcollection/add/#str-list) | Ajoute un lien externe.|
+| [`add(self, directory_type, file_name, sheet_names)`](/cells/python-net/fr/aspose.cells/externallinkcollection/add/#aspose.cells.directorytype-str-list) | Ajouter un lien externe.|
+| [`clear(self)`](/cells/python-net/fr/aspose.cells/externallinkcollection/clear/#) | Supprime tous les liens externes.|
+| [`clear(self, update_references_as_local)`](/cells/python-net/fr/aspose.cells/externallinkcollection/clear/#bool) | Supprime tous les liens externes.|
+| [`remove_at(self, index)`](/cells/python-net/fr/aspose.cells/externallinkcollection/remove_at/#int) | Supprime le lien externe spécifié du classeur.|
+| [`remove_at(self, index, update_references_as_local)`](/cells/python-net/fr/aspose.cells/externallinkcollection/remove_at/#int-bool) | Supprime le lien externe spécifié du classeur.|
 
 
 

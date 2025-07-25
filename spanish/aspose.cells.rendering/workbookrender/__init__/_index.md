@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.rendering/workbookrender/__init__/
 is_root: false
 ---
-##  WorkbookRender(workbook, options) {#Workbook-ImageOrPrintOptions}
-La construcción de WorkbookRender
+##  \_\_init\_\_(self, libro de trabajo, opciones){#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions}
+El constructo de WorkbookRender
 
 
 
 ```python
+
 def __init__(self, workbook, options):
     ...
 ```
@@ -20,11 +21,11 @@ def __init__(self, workbook, options):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| workbook | [Workbook](/cells/python-net/es/aspose.cells/workbook) | Indique qué libro de trabajo se representará.|
-| options | [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions) | ImageOrPrintOptions contiene alguna propiedad de la imagen de salida|
+| workbook | [`Workbook`](/cells/python-net/es/aspose.cells/workbook) | Indique qué libro de trabajo se va a representar.|
+| options | [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions) | ImageOrPrintOptions contiene algunas propiedades de la imagen de salida|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [WorkbookRender](/cells/python-net/es/aspose.cells.rendering/workbookrender)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`WorkbookRender`](/cells/python-net/es/aspose.cells.rendering/workbookrender)

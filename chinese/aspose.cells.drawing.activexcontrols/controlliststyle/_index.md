@@ -1,9 +1,9 @@
 ---
 title: ControlListStyle枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 160
 url: /zh/aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-ControlListStyle 类型公开了以下成员：
+ControlListStyle 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| PLAIN |显示一个列表，其中项目的背景在被选中时突出显示。|
+| PLAIN |显示一个列表，其中选择某个项目时其背景会突出显示。|
 | OPTION |显示一个列表，其中每个条目旁边的选项按钮或复选框显示该项目的选择状态。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

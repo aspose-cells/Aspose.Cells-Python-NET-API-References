@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value Eigentum
 
-Ruft den dynamischen Filter value ab und legt ihn fest.
+Ruft den dynamischen Filter value ab und setzt ihn.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DynamicFilter](/cells/python-net/de/aspose.cells/dynamicfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DynamicFilter`](/cells/python-net/de/aspose.cells/dynamicfilter)

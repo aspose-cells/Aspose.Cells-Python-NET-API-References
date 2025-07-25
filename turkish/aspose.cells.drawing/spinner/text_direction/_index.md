@@ -3,7 +3,7 @@ title: text_direction mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1000
+weight: 1020
 url: /tr/aspose.cells.drawing/spinner/text_direction/
 is_root: false
 ---

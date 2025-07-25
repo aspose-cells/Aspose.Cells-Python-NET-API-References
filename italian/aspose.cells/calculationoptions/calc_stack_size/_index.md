@@ -1,6 +1,6 @@
 ---
 title: calc_stack_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -13,13 +13,13 @@ La dimensione dello stack per il calcolo ricorsivo delle celle. Il valore predef
 
 ###  Osservazioni
 
-Quando è necessario calcolare una grande quantità di celle in modo ricorsivo nell'albero delle dipendenze,
-StackOverflowException può essere causato nel processo di calcolo.
-In tal caso, l'utente deve specificare un valore più piccolo per questa proprietà.
-Per tale situazione, l'utente deve determinare il valore corretto per questa proprietà in base alle formule e ai dati effettivi.
-Tuttavia, un valore troppo piccolo potrebbe causare un degrado delle prestazioni per il calcolo della formula e un valore inferiore a 2
+Quando ci sono grandi quantità di celle che devono essere calcolate ricorsivamente nell'albero delle dipendenze,
+Potrebbe essersi verificato un errore StackOverflowException durante il processo di calcolo.
+In tal caso, l'utente dovrebbe specificare un valore inferiore per questa proprietà.
+In tali situazioni, l'utente deve determinare il valore corretto per questa proprietà in base alle formule e ai dati effettivi.
+Tuttavia, un valore troppo piccolo può causare un degrado delle prestazioni per il calcolo della formula e un valore inferiore a 2
 renderà impossibile calcolare una formula che dipende da un'altra. Quindi, se il valore specificato è inferiore a 2,
-verrà ripristinato a 2.
+verrà reimpostato a 2.
 ###  Definizione:
 ```python
 @property

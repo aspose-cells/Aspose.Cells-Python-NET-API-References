@@ -3,13 +3,13 @@ title: relative_to_original_picture_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 880
 url: /ar/aspose.cells.drawing/checkbox/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size عقار
 
-يشير إلى ما إذا كان الشكل متناسبًا مع حجم الصورة الأصلي.
+يشير إلى ما إذا كان الشكل نسبيًا لحجم الصورة الأصلية.
 
 ###  مثال
 

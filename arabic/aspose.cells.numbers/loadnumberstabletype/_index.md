@@ -1,5 +1,5 @@
 ---
-title: العد LoadNumbersTableType
+title: LoadNumbersTableType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 20
 url: /ar/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
-##  العد LoadNumbersTableType
-يشير إلى نوع جداول التحميل عندما تكون بعض الجداول في ورقة.
+##  LoadNumbersTableType التعداد
+يشير إلى نوع جداول التحميل عندما تكون بعض الجداول موجودة في ورقة.
 
 
 
-يكشف نوع LoadNumbersTableType الأعضاء التالية:
+يكشف النوع LoadNumbersTableType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](..)
+* الوحدة [`aspose.cells.numbers`](..)

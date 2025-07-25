@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/range/auto_fill/
 is_root: false
 ---
-##  auto_fill {#aspose.cells.Range}
-Hedef aralığı otomatik olarak doldurun.
+##  auto_fill(self, target) {#aspose.cells.Range}
+Hedef aralığını otomatik olarak doldur.
 
 
 
 ```python
+
 def auto_fill(self, target):
     ...
 ```
@@ -43,12 +44,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  auto_fill {#aspose.cells.Range-aspose.cells.AutoFillType}
-Hedef aralığı otomatik olarak doldurun.
+##  auto_fill(self, target, auto_fill_type) {#aspose.cells.Range-aspose.cells.AutoFillType}
+Hedef aralığını otomatik olarak doldur.
 
 
 
 ```python
+
 def auto_fill(self, target, auto_fill_type):
     ...
 ```
@@ -56,7 +58,7 @@ def auto_fill(self, target, auto_fill_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/tr/aspose.cells/range) | Hedeflenen aralık.|
+| target | [`Range`](/cells/python-net/tr/aspose.cells/range) | Hedeflenen menzil.|
 | auto_fill_type | [`AutoFillType`](/cells/python-net/tr/aspose.cells/autofilltype) | Otomatik doldurma türü.|
 
 

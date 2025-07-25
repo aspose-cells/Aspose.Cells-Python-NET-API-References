@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  character propiedad
 
-Obtiene y establece character de la viñeta.
+Obtiene y establece character de la bala.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def character(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [CharacterBulletValue](/cells/python-net/es/aspose.cells.drawing.texts/characterbulletvalue)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`CharacterBulletValue`](/cells/python-net/es/aspose.cells.drawing.texts/characterbulletvalue)

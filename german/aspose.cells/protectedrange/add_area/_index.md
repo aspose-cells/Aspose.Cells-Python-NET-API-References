@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/protectedrange/add_area/
 is_root: false
 ---
-##  add_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
-Fügt einen referenzierten Bereich hinzu
+##  add_area(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
+Fügt diesem einen referenzierten Bereich hinzu
 
 
 
 ```python
+
 def add_area(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -22,11 +23,11 @@ def add_area(self, start_row, start_column, end_row, end_column):
 | :- | :- | :- |
 | start_row | int | Die Startreihe.|
 | start_column | int | Die Startspalte.|
-| end_row | int | Die Endreihe.|
+| end_row | int | Die letzte Reihe.|
 | end_column | int | Die Endspalte.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

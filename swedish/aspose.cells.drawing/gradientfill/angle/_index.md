@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  angle fastighet
 
-angle av linjär fyllning.
+angle för linjär fyllning.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GradientFill](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GradientFill`](/cells/python-net/sv/aspose.cells.drawing/gradientfill)

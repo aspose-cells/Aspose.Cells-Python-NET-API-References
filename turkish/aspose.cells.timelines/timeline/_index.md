@@ -8,20 +8,21 @@ url: /tr/aspose.cells.timelines/timeline/
 is_root: false
 ---
 ##  Timeline sınıfı
-Timeline'in özet açıklaması Görüntüle
-MS Excel nedeniyle, Excel 2003 Timeline'i desteklemiyor
+Timeline Görünümünün Özet Açıklaması
+MS Excel nedeniyle Excel 2003 Timeline'i desteklemiyor
 
 
 
-Timeline türü aşağıdaki üyeleri gösterir:
+Timeline türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [caption](/cells/python-net/tr/aspose.cells.timelines/timeline/caption) | Belirtilen Zaman Çizelgesi'nin başlığını döndürür veya ayarlar.|
-| [name](/cells/python-net/tr/aspose.cells.timelines/timeline/name) |Belirtilen Zaman Çizelgesinin adını döndürür veya ayarlar|
+| [shape](/cells/python-net/tr/aspose.cells.timelines/timeline/shape) | Bu Zaman Çizelgesi ile ilişkili [`TimelineShape`](/cells/python-net/tr/aspose.cells.drawing/timelineshape) nesnesini döndürür. Salt okunur.|
+| [name](/cells/python-net/tr/aspose.cells.timelines/timeline/name) | Belirtilen Zaman Çizelgesi'nin adını döndürür veya ayarlar|
 | [left_pixel](/cells/python-net/tr/aspose.cells.timelines/timeline/left_pixel) | Zaman çizelgesi şeklinin sol sütunundan yatay uzaklığını piksel cinsinden döndürür veya ayarlar.|
-| [top_pixel](/cells/python-net/tr/aspose.cells.timelines/timeline/top_pixel) | Zaman çizelgesi şeklinin üst satırından dikey uzaklığını piksel cinsinden döndürür veya ayarlar.|
+| [top_pixel](/cells/python-net/tr/aspose.cells.timelines/timeline/top_pixel) | Zaman çizelgesi şeklinin en üst satırından itibaren dikey ofsetini piksel cinsinden döndürür veya ayarlar.|
 | [width_pixel](/cells/python-net/tr/aspose.cells.timelines/timeline/width_pixel) | Belirtilen zaman çizelgesinin genişliğini piksel cinsinden döndürür veya ayarlar.|
 | [height_pixel](/cells/python-net/tr/aspose.cells.timelines/timeline/height_pixel) | Belirtilen zaman çizelgesinin yüksekliğini piksel cinsinden döndürür veya ayarlar.|
 
@@ -32,7 +33,7 @@ Timeline türü aşağıdaki üyeleri gösterir:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.timelines](..)
+* modül [`aspose.cells.timelines`](..)
+* sınıf [`TimelineShape`](/cells/python-net/tr/aspose.cells.drawing/timelineshape)

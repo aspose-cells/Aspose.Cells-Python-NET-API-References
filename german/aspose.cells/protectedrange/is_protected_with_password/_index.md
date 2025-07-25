@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_protected_with_password Eigentum
 
-Gibt an, ob die Arbeitsblätter passwortgeschützt sind.
+Gibt an, ob die Arbeitsblätter mit einem Kennwort geschützt sind.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_protected_with_password(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

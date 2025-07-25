@@ -1,6 +1,6 @@
 ---
 title: locked_position недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_position недвижимость
 
-Указывает, можно ли перемещать указанный срез или изменять его размер с помощью пользовательского интерфейса.
+Указывает, можно ли перемещать или изменять размер указанного слайсера с помощью пользовательского интерфейса.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def locked_position(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)

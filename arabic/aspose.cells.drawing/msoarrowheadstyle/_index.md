@@ -1,30 +1,30 @@
 ---
-title: العد MsoArrowheadStyle
+title: MsoArrowheadStyle التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 970
 url: /ar/aspose.cells.drawing/msoarrowheadstyle/
 is_root: false
 ---
-##  العد MsoArrowheadStyle
-تعداد نوع نهاية الخط لخط حدود الشكل.
+##  MsoArrowheadStyle التعداد
+يقوم بإحصاء نوع نهاية الخط لخط حدود الشكل.
 
 
 
-يكشف نوع MsoArrowheadStyle الأعضاء التالية:
+يكشف النوع MsoArrowheadStyle عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا يوجد نوع نهاية سطر.|
-| ARROW | نوع خط نهاية السهم.|
-| ARROW_STEALTH | نوع نهاية خط السهم التسلل.|
-| ARROW_DIAMOND | نوع نهاية خط سهم ماسي.|
-| ARROW_OVAL | نوع نهاية خط سهم بيضاوي.|
-| ARROW_OPEN | سهم فتح نوع نهاية السطر.|
+| NONE | لا يوجد نوع نهاية الخط.|
+| ARROW | نوع نهاية خط السهم.|
+| ARROW_STEALTH | نوع نهاية خط السهم الخفي.|
+| ARROW_DIAMOND | نوع نهاية خط السهم الماسي.|
+| ARROW_OVAL | نوع نهاية الخط البيضاوي للسهم.|
+| ARROW_OPEN |نوع نهاية الخط المفتوح للسهم.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

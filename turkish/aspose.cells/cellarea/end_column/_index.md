@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  end_column mülk
 
-Bu alanın bitiş sütununu alır veya ayarlar.
+Bu alanın son sütununu alır veya ayarlar.
+###  Tanım:
+```python
+f end_column 
+```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)

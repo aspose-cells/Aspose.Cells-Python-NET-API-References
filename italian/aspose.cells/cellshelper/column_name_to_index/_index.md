@@ -1,23 +1,25 @@
 ---
-title: metodo column_name_to_index
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo column_name_to_index
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
 url: /it/aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
-##  column_name_to_index(column_name) {#str}
+##  column_name_to_index(, nome_colonna){#str}
 Ottiene l'indice della colonna in base al nome della colonna.
 
 
 ###  ritorna
 
-Indice di colonna.
+Indice delle colonne.
 
 
 ```python
-def column_name_to_index(self, column_name):
+
+@staticmethod
+def column_name_to_index(column_name):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_name_to_index(self, column_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/it/aspose.cells/cellshelper)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/it/aspose.cells/cellshelper)

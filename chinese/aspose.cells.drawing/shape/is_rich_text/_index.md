@@ -3,7 +3,7 @@ title: is_rich_text属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 630
+weight: 640
 url: /zh/aspose.cells.drawing/shape/is_rich_text/
 is_root: false
 ---

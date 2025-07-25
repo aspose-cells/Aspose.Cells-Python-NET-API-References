@@ -3,17 +3,17 @@ title: upper_delta_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /ar/aspose.cells.drawing/lineshape/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y عقار
 
-الحصول على الإزاحة الرأسية للشكل أو تعيينها من الصف العلوي الأيسر الخاص به.
+يحصل على أو يعين الإزاحة الرأسية للشكل من صف الزاوية اليسرى العلوية.
 
 ###  ملاحظات
 
-نطاق القيمة هو 0 إلى 256.
+نطاق القيمة هو من 0 إلى 256.
 
 ###  مثال
 

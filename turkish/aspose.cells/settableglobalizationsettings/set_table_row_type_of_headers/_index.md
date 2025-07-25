@@ -7,12 +7,13 @@ weight: 430
 url: /tr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_headers/
 is_root: false
 ---
-##  set_table_row_type_of_headers {#str}
+##  set_table_row_type_of_headers(self, name) {#str}
 Tablo başlığından oluşan tablo satırlarının tür adını ayarlar.
 
 
 
 ```python
+
 def set_table_row_type_of_headers(self, name):
     ...
 ```

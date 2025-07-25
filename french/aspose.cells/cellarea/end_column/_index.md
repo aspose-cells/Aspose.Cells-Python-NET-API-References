@@ -10,7 +10,11 @@ is_root: false
 ##  end_column propriété
 
 Obtient ou définit la colonne de fin de cette zone.
+###  Définition:
+```python
+f end_column 
+```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)

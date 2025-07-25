@@ -1,5 +1,5 @@
 ---
-title: begin_arrow_width الملكية
+title: begin_arrow_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.charts/trendline/begin_arrow_width/
 is_root: false
 ---
-##  begin_arrow_width الملكية
+##  begin_arrow_width عقار
 
-يحدد عرض رأس السهم لبداية السطر.
+يقوم بتحديد عرض رأس السهم لبداية الخط.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [MsoArrowheadWidth](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`MsoArrowheadWidth`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

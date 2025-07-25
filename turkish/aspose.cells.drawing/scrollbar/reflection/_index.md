@@ -3,13 +3,13 @@ title: reflection mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 910
 url: /tr/aspose.cells.drawing/scrollbar/reflection/
 is_root: false
 ---
 ##  reflection mülk
 
-Grafik öğesi veya şekli için reflection efektini belirten bir [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect) nesnesini temsil eder.
+Grafik öğesi veya şekli için reflection efektini belirten [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect) nesnesini temsil eder.
 
 ###  Örnek
 

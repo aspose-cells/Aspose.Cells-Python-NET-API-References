@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_binding fastighet
 
-Får ett [XmlDataBinding](/cells/python-net/sv/aspose.cells/xmldatabinding) av denna karta.
+Hämtar en [`XmlDataBinding`](/cells/python-net/sv/aspose.cells/xmldatabinding) av den här kartan.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_binding(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlDataBinding](/cells/python-net/sv/aspose.cells/xmldatabinding)
-* klass [XmlMap](/cells/python-net/sv/aspose.cells/xmlmap)
+* modul [`aspose.cells`](../../)
+* klass [`XmlDataBinding`](/cells/python-net/sv/aspose.cells/xmldatabinding)
+* klass [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap)

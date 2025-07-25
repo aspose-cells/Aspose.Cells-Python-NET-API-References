@@ -3,17 +3,17 @@ title: comment fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 430
 url: /sv/aspose.cells/cell/comment/
 is_root: false
 ---
 ##  comment fastighet
 
-Hämtar comment för denna cell.
+Hämtar comment för den här cellen.
 
 ###  Anmärkningar
 
-Om det inte finns någon comment gäller för cellen, returnerar null.
+Om ingen comment gäller för cellen returneras null.
 ###  Definition:
 ```python
 @property

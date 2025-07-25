@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  set_type fastighet
 
-Hämtar uppsättningstypen för fyllningsformat.
+Hämtar fyllningsformatuppsättningstypen.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd FillFormat.FillType-egenskapen istället.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juli 2016.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd egenskapen FillFormat.FillType istället.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juli 2016.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FormatSetType](/cells/python-net/sv/aspose.cells.drawing/formatsettype)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FormatSetType`](/cells/python-net/sv/aspose.cells.drawing/formatsettype)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

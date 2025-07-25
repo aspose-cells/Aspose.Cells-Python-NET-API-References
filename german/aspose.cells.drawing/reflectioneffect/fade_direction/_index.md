@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fade_direction Eigentum
 
-Ruft die Richtung zum Versetzen der Reflexion ab und legt diese fest.
+Ruft die Richtung zum Versetzen der Reflexion ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fade_direction(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

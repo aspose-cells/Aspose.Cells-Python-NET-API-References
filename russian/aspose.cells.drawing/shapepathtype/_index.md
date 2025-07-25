@@ -1,9 +1,9 @@
 ---
 title: ShapePathType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1160
+weight: 1150
 url: /ru/aspose.cells.drawing/shapepathtype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип ShapePathType предоставляет следующие члены:
+Тип ShapePathType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| LINE_TO |Сегмент прямой линии|
+| LINE_TO | Отрезок прямой линии|
 | CUBIC_BEZIER_CURVE_TO | Кубическая кривая Безье|
 | MOVE_TO | Начать новый путь|
-| CLOSE | Если начальная ТОЧКА и конечная ТОЧКА не совпадают,<br/> прямая линия нарисована, чтобы соединить начальную ТОЧКУ и конечную ТОЧКУ пути.|
+| CLOSE | Если начальная ТОЧКА и конечная ТОЧКА не совпадают, то один<br/> Проводится прямая линия, соединяющая начальную и конечную ТОЧКИ пути.|
 | END | Конец текущего пути|
 | ESCAPE | Побег|
 | ARC_TO | Дуга|
@@ -29,4 +29,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

@@ -1,9 +1,9 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 690
 url: /ru/aspose.cells/cell/name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Ячейка name включает букву столбца и номер строки. Например, name ячейки в строке 0 и столбце 0 — это A1.
+Ячейка name включает букву столбца и номер строки. Например, ячейка name в строке 0 и столбце 0 имеет код A1.
 ###  Определение:
 ```python
 @property

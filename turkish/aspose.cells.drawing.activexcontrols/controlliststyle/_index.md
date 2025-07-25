@@ -3,24 +3,24 @@ title: ControlListStyle numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 160
 url: /tr/aspose.cells.drawing.activexcontrols/controlliststyle/
 is_root: false
 ---
 ##  ControlListStyle numaralandırma
-Listenin bir ListBox veya ComboBox içindeki görsel görünümünü temsil eder.
+Listenin ListBox veya ComboBox'taki görsel görünümünü temsil eder.
 
 
 
-ControlListStyle türü aşağıdaki üyeleri gösterir:
+ControlListStyle türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | PLAIN | Bir öğe seçildiğinde arka planının vurgulandığı bir liste görüntüler.|
-| OPTION | Her girişin yanındaki seçenek düğmesinin veya onay kutusunun o öğenin seçim durumunu görüntülediği bir liste görüntüler.|
+| OPTION | Her bir girdinin yanında bir seçenek düğmesi veya onay kutusu bulunduğunda, o öğenin seçim durumunun görüntülendiği bir liste görüntüler.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

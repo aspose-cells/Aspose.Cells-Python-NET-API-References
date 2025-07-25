@@ -23,47 +23,59 @@ Der Typ DisplayUnitLabel macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_inner_mode) | Gibt an, ob die Größe des Plotbereichs die Teilstriche und die Achsenbeschriftungen umfasst.<br/> False gibt an, dass die Größe die Größe des Plotbereichs, der Teilstriche und der Achsenbeschriftungen bestimmen soll.|
+| [is_inner_mode](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_inner_mode) | Gibt an, ob die Größe des Zeichnungsbereichs die Teilstriche und die Achsenbeschriftungen umfasst.<br/> „False“ gibt an, dass die Größe die Größe des Zeichnungsbereichs, der Teilstriche und der Achsenbeschriftungen bestimmen soll.|
 | [border](/cells/python-net/de/aspose.cells.charts/displayunitlabel/border) | Ruft die [`Line`](/cells/python-net/de/aspose.cells.drawing/line) ab.|
 | [area](/cells/python-net/de/aspose.cells.charts/displayunitlabel/area) | Ruft die [`ChartFrame.area`](/cells/python-net/de/aspose.cells.charts/chartframe#area) ab.|
-| [text_font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_font) | Ruft ein [`ChartFrame.font`](/cells/python-net/de/aspose.cells.charts/chartframe#font)-Objekt des angegebenen ChartFrame-Objekts ab.|
-| [text_options](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_options) | Ruft die Optionen des Texts ab und legt diese fest.|
-| [font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/font) | Ruft ein [`DisplayUnitLabel.font`](/cells/python-net/de/aspose.cells.charts/displayunitlabel#font)-Objekt des angegebenen ChartFrame-Objekts ab.|
-| [auto_scale_font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/auto_scale_font) | True, wenn der Text im Objekt die Schriftgröße ändert, wenn sich die Objektgröße ändert. Der Standardwert ist True.|
-| [background_mode](/cells/python-net/de/aspose.cells.charts/displayunitlabel/background_mode) | Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest|
-| [background](/cells/python-net/de/aspose.cells.charts/displayunitlabel/background) | Ruft den Anzeigemodus des Hintergrunds ab und legt diesen fest|
+| [text_font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_font) |Ruft ein [`ChartFrame.font`](/cells/python-net/de/aspose.cells.charts/chartframe#font)-Objekt des angegebenen ChartFrame-Objekts ab.|
+| [text_options](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_options) | Ruft die Optionen des Textes ab und legt sie fest.|
+| [font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/font) |Ruft ein [`DisplayUnitLabel.font`](/cells/python-net/de/aspose.cells.charts/displayunitlabel#font)-Objekt des angegebenen ChartFrame-Objekts ab.|
+| [auto_scale_font](/cells/python-net/de/aspose.cells.charts/displayunitlabel/auto_scale_font) | True, wenn sich die Schriftgröße des Texts im Objekt ändert, wenn sich die Objektgröße ändert. Der Standardwert ist True.|
+| [background_mode](/cells/python-net/de/aspose.cells.charts/displayunitlabel/background_mode) | Ermittelt und setzt den Anzeigemodus des Hintergrunds|
+| [background](/cells/python-net/de/aspose.cells.charts/displayunitlabel/background) | Ermittelt und setzt den Anzeigemodus des Hintergrunds|
 | [is_automatic_size](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_automatic_size) | Gibt an, ob die Größe des Diagrammrahmens automatisch angepasst wird.|
-| [x](/cells/python-net/de/aspose.cells.charts/displayunitlabel/x) |Ruft die X-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.|
-| [y](/cells/python-net/de/aspose.cells.charts/displayunitlabel/y) | Ruft die Y-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.|
-| [height](/cells/python-net/de/aspose.cells.charts/displayunitlabel/height) | Ruft die Höhe des Rahmens in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.|
-| [width](/cells/python-net/de/aspose.cells.charts/displayunitlabel/width) | Ruft die Breite des Rahmens in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.|
-| [shadow](/cells/python-net/de/aspose.cells.charts/displayunitlabel/shadow) | True, wenn der Rahmen einen Schatten hat.|
-| [shape_properties](/cells/python-net/de/aspose.cells.charts/displayunitlabel/shape_properties) | Ruft das [`ChartFrame.shape_properties`](/cells/python-net/de/aspose.cells.charts/chartframe#shape_properties)-Objekt ab.|
-| [is_default_pos_be_set](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Gibt an, ob die Standardposition (DefaultX, DefaultY, DefaultWidth und DefaultHeight) festgelegt ist.|
-| [default_x](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_x) | Stellt x der Standardposition dar|
-| [default_y](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_y) | Stellt y der Standardposition dar|
-| [default_width](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_width) | Stellt die Breite der Standardposition dar|
-| [default_height](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_height) | Stellt die Höhe der Standardposition dar|
+| [x](/cells/python-net/de/aspose.cells.charts/displayunitlabel/x) | Ruft die x-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt sie fest.|
+| [y](/cells/python-net/de/aspose.cells.charts/displayunitlabel/y) | Ruft die Y-Koordinate der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche ab oder legt sie fest.|
+| [height](/cells/python-net/de/aspose.cells.charts/displayunitlabel/height) | Ruft die Höhe des Rahmens in Einheiten von 1/4000 der Diagrammfläche ab oder legt sie fest.|
+| [width](/cells/python-net/de/aspose.cells.charts/displayunitlabel/width) | Ruft die Rahmenbreite in Einheiten von 1/4000 der Diagrammfläche ab oder legt sie fest.|
+| [shadow](/cells/python-net/de/aspose.cells.charts/displayunitlabel/shadow) | Wahr, wenn der Rahmen einen Schatten hat.|
+| [shape_properties](/cells/python-net/de/aspose.cells.charts/displayunitlabel/shape_properties) | Ruft das Objekt [`ChartFrame.shape_properties`](/cells/python-net/de/aspose.cells.charts/chartframe#shape_properties) ab.|
+| [is_default_pos_be_set](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) |Gibt an, ob die Standardposition (DefaultX, DefaultY, DefaultWidth und DefaultHeight) festgelegt ist.|
+| [default_x](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_x) | Stellt x der Standardposition in Einheiten von 1/4000 der Diagrammfläche dar.|
+| [default_y](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_y) | Stellt y der Standardposition in Einheiten von 1/4000 des Diagrammbereichs dar.|
+| [default_width](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_width) | Stellt die Breite der Standardposition in Einheiten von 1/4000 des Diagrammbereichs dar.|
+| [default_height](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_height) | Stellt die Höhe der Standardposition in Einheiten von 1/4000 der Diagrammfläche dar.|
+| [default_x_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_x_ratio_to_chart) | Stellt x der Standardposition in Einheiten des Bruchteils der Diagrammfläche dar.|
+| [default_y_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_y_ratio_to_chart) | Stellt y der Standardposition in Einheiten des Bruchteils der Diagrammfläche dar.|
+| [default_width_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_width_ratio_to_chart) | Stellt die Breite der Standardposition in Einheiten von Bruchteilen der Diagrammfläche dar.|
+| [default_height_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/default_height_ratio_to_chart) | Stellt die Höhe der Standardposition in Einheiten von Bruchteilen der Diagrammfläche dar.|
+| [x_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/x_ratio_to_chart) | Ruft die x-Koordinate der oberen linken Ecke in Einheiten des Verhältnisses der Diagrammfläche ab oder legt diese fest.|
+| [y_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/y_ratio_to_chart) |Ruft die Y-Koordinate der oberen linken Ecke in Einheiten des Verhältnisses der Diagrammfläche ab oder legt diese fest.|
+| [width_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/width_ratio_to_chart) | Ruft die Breite des Rahmens in Einheiten des Verhältnisses zur Diagrammfläche ab oder legt diese fest.|
+| [height_ratio_to_chart](/cells/python-net/de/aspose.cells.charts/displayunitlabel/height_ratio_to_chart) | Ruft die Höhe des Rahmens in Einheiten des Verhältnisses zur Diagrammfläche ab oder legt sie fest.|
+| [x_pixel](/cells/python-net/de/aspose.cells.charts/displayunitlabel/x_pixel) | Ruft die x-Koordinate der oberen linken Ecke in Pixeleinheiten ab oder legt sie fest.|
+| [y_pixel](/cells/python-net/de/aspose.cells.charts/displayunitlabel/y_pixel) | Ruft die Y-Koordinate der oberen linken Ecke in Pixeleinheiten ab oder legt sie fest.|
+| [width_pixel](/cells/python-net/de/aspose.cells.charts/displayunitlabel/width_pixel) | Ruft die Breite des Rahmens in Pixeleinheiten ab oder legt sie fest.|
+| [height_pixel](/cells/python-net/de/aspose.cells.charts/displayunitlabel/height_pixel) | Ruft die Höhe des Rahmens in Pixeleinheiten ab oder legt sie fest.|
 | [is_auto_text](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_auto_text) | Zeigt an, dass der Text automatisch generiert wird.|
 | [is_deleted](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_deleted) | Gibt an, ob diese Datenbeschriftungen gelöscht werden.|
-| [text_horizontal_alignment](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Ruft die horizontale Textausrichtung ab und legt diese fest.|
-| [text_vertical_alignment](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_vertical_alignment) | Ruft die vertikale Textausrichtung des Textes ab oder legt diese fest.|
+| [text_horizontal_alignment](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Ruft die horizontale Textausrichtung ab und legt sie fest.|
+| [text_vertical_alignment](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_vertical_alignment) | Ruft die vertikale Textausrichtung ab oder legt sie fest.|
 | [rotation_angle](/cells/python-net/de/aspose.cells.charts/displayunitlabel/rotation_angle) | Stellt den Textdrehwinkel dar.|
 | [is_automatic_rotation](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_automatic_rotation) | Gibt an, ob der Text des Diagramms automatisch gedreht wird.|
-| [text](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text) | Ruft den Text der Anzeigeeinheitsbezeichnung ab oder legt ihn fest.|
+| [text](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text) | Ruft den Text der Anzeigeeinheitenbezeichnung ab oder legt ihn fest.|
 | [linked_source](/cells/python-net/de/aspose.cells.charts/displayunitlabel/linked_source) | Ruft einen Verweis auf das Arbeitsblatt ab und legt diesen fest.|
 | [text_direction](/cells/python-net/de/aspose.cells.charts/displayunitlabel/text_direction) | Stellt die Lesereihenfolge des Textes dar.|
 | [reading_order](/cells/python-net/de/aspose.cells.charts/displayunitlabel/reading_order) | Stellt die Lesereihenfolge des Textes dar.|
 | [direction_type](/cells/python-net/de/aspose.cells.charts/displayunitlabel/direction_type) | Ruft die Textrichtung ab und legt sie fest.|
-| [is_text_wrapped](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_text_wrapped) | Ruft einen Wert ab, der angibt, ob der Text umbrochen wird, oder legt diesen fest.|
-| [is_resize_shape_to_fit_text](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | Ruft ab oder legt fest, ob eine Form automatisch angepasst werden soll, um den darin beschriebenen Text vollständig zu enthalten. Auto-Fitting ist<br/> wenn Text innerhalb einer Form skaliert wird, um den gesamten darin enthaltenen Text aufzunehmen.|
+| [is_text_wrapped](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_text_wrapped) | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Text umbrochen wird.|
+| [is_resize_shape_to_fit_text](/cells/python-net/de/aspose.cells.charts/displayunitlabel/is_resize_shape_to_fit_text) | Legt fest, ob eine Form automatisch angepasst werden soll, um den darin beschriebenen Text vollständig aufzunehmen. Die automatische Anpassung ist<br/> wenn Text innerhalb einer Form skaliert wird, um den gesamten Text darin unterzubringen.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_position_auto](/cells/python-net/de/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Stellen Sie die Position des Rahmens auf automatisch ein|
-| [characters](/cells/python-net/de/aspose.cells.charts/displayunitlabel/characters/#int-int) | Gibt ein Characters-Objekt zurück, das einen Bereich von Zeichen im Text darstellt.|
+| [`set_position_auto(self)`](/cells/python-net/de/aspose.cells.charts/displayunitlabel/set_position_auto/#) | Position des Rahmens auf automatisch einstellen|
+| [`characters(self, start_index, length)`](/cells/python-net/de/aspose.cells.charts/displayunitlabel/characters/#int-int) |Gibt ein Characters-Objekt zurück, das einen Zeichenbereich innerhalb des Textes darstellt.|
 
 
 

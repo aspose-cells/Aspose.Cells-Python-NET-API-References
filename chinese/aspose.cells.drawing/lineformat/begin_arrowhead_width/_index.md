@@ -1,15 +1,15 @@
 ---
-title: begin_arrowhead_width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: begin_arrowhead_width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/lineformat/begin_arrowhead_width/
 is_root: false
 ---
-## begin_arrowhead_width 属性
+## begin_arrowhead_width属性
 
-获取和设置线的开始箭头宽度类型。
+获取并设置线的起始箭头宽度类型。
 
 ### 例子
 
@@ -30,6 +30,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
-* 类 [MsoArrowheadWidth](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadwidth)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 类 [`MsoArrowheadWidth`](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadwidth)

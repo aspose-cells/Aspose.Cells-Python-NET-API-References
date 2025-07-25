@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth_px fastighet
 
-Hämtar djupet fram och tillbaka i enheter av pixlar efter anrop av metoden Chart.Calculate().
+Hämtar djupet från framsida till baksida i pixlar efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

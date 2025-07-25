@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/autofilter/add_date_filter/
 is_root: false
 ---
-##  add_date_filter(field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-DateTimeGroupingType-int-int-int-int-int-int}
-يضيف مرشح التاريخ.
+##  add_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
+إضافة مرشح التاريخ.
 
 
 
 ```python
+
 def add_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second):
     ...
 ```
@@ -20,21 +21,20 @@ def add_date_filter(self, field_index, date_time_grouping_type, year, month, day
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| date_time_grouping_type | [DateTimeGroupingType](/cells/python-net/ar/aspose.cells/datetimegroupingtype) | [DateTimeGroupingType](/cells/python-net/ar/aspose.cells/datetimegroupingtype) |
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| date_time_grouping_type | [`DateTimeGroupingType`](/cells/python-net/ar/aspose.cells/datetimegroupingtype) | نوع التجميع|
 | year | int | السنة.|
 | month | int | الشهر.|
 | day | int | اليوم.|
-| hour | int | ساعة.|
+| hour | int | الساعة.|
 | minute | int | الدقيقة.|
-| second | int | الثاني.|
+| second | int | الثانيه|
 ###  ملاحظات
 
-إذا كانت DateTimeGroupingType هي Year ، فستكون تأثيرات السنة المعيارية فقط.
-إذا كان DateTiemGroupingType هو Month ، فسيتم فقط تحديد تأثير السنة والشهر.
+إذا كان DateTimeGroupingType هو Year، فسيتم فقط التأثير على معلمة year.
+إذا كان DateTiemGroupingType هو Month، فسيتم تطبيق تأثير السنة والشهر فقط.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
-* فئة [DateTimeGroupingType](/cells/python-net/ar/aspose.cells/datetimegroupingtype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

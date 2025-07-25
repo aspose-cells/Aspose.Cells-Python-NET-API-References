@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  sheets_in_loading_order propriété
 
-Spécifie les feuilles (indices) et l'ordre à charger.
-La valeur par défaut est null, ce qui signifie qu'il faut charger toutes les feuilles dans l'ordre par défaut dans le fichier modèle.
-S'il n'est pas nul et que l'index de certaines feuilles n'est pas dans le tableau renvoyé, la feuille ne sera pas chargée.
+Spécifie les feuilles (index) et l'ordre à charger.
+La valeur par défaut est null, ce qui signifie charger toutes les feuilles dans l'ordre par défaut dans le fichier modèle.
+Si la valeur n'est pas nulle et que l'index d'une feuille n'est pas dans le tableau renvoyé, la feuille ne sera pas chargée.
 ###  Définition:
 ```python
 @property
@@ -20,5 +20,5 @@ def sheets_in_loading_order(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [LoadFilter](/cells/python-net/fr/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* classe [`LoadFilter`](/cells/python-net/fr/aspose.cells/loadfilter)

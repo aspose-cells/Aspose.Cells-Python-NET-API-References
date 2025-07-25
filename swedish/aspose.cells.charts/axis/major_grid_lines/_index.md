@@ -3,13 +3,13 @@ title: major_grid_lines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines fastighet
 
-Representerar stora rutnät på en diagramaxel.
+Representerar större rutnät på en diagramaxel.
 
 ###  Exempel
 

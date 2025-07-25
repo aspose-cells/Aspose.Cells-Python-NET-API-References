@@ -1,5 +1,5 @@
 ---
-title: set_series_names método
+title: método set_series_names
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 100
 url: /es/aspose.cells.charts/seriescollection/set_series_names/
 is_root: false
 ---
-##  set_series_names(start_index, area, is_vertical) {#int-str-bool}
-Establece el nombre de todas las series en el gráfico.
+##  set_series_names(self, start_index, area, is_vertical) {#int-str-bool}
+Establece el nombre de todas las series del gráfico.
 
 
 
 ```python
+
 def set_series_names(self, start_index, area, is_vertical):
     ...
 ```
@@ -22,7 +23,7 @@ def set_series_names(self, start_index, area, is_vertical):
 | :- | :- | :- |
 | start_index | int | El índice de la primera serie a la que desea establecer el nombre.|
 | area | str | Especifica el área para el nombre de la serie.|
-| is_vertical | bool | >Especifica si trazar la serie a partir de un rango de valores de celda por fila o por columna.|
+| is_vertical | bool | >Especifica si se debe trazar la serie a partir de un rango de valores de celda por fila o por columna.|
 ###  Observaciones
 
 
@@ -30,5 +31,5 @@ def set_series_names(self, start_index, area, is_vertical):
 
 ###  Ver también
 
-* módulo [aspose.cells.charts](../../)
-* clase [SeriesCollection](/cells/python-net/es/aspose.cells.charts/seriescollection)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SeriesCollection`](/cells/python-net/es/aspose.cells.charts/seriescollection)

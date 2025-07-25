@@ -3,7 +3,7 @@ title: capacity Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 90
 url: /de/aspose.cells.querytables/powerqueryformulacollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.querytables](../../)
-* Klasse [PowerQueryFormulaCollection](/cells/python-net/de/aspose.cells.querytables/powerqueryformulacollection)
+* Modul [`aspose.cells.querytables`](../../)
+* Klasse [`PowerQueryFormulaCollection`](/cells/python-net/de/aspose.cells.querytables/powerqueryformulacollection)

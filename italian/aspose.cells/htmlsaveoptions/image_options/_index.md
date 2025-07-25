@@ -1,15 +1,15 @@
 ---
 title: image_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 460
+weight: 530
 url: /it/aspose.cells/htmlsaveoptions/image_options/
 is_root: false
 ---
 ##  image_options proprietà
 
-Ottieni l'oggetto ImageOrPrintOptions prima dell'esportazione
+Ottieni l'oggetto ImageOrPrintOptions prima di esportare
 ###  Definizione:
 ```python
 @property

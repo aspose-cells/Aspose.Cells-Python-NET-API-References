@@ -1,5 +1,5 @@
 ---
-title: Slicer الدرجة
+title: Slicer صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,48 +7,49 @@ weight: 10
 url: /ar/aspose.cells.slicers/slicer/
 is_root: false
 ---
-##  Slicer الدرجة
-وصف موجز للعرض Slicer
+##  Slicer صف
+وصف موجز لـ Slicer عرض
 
 
 
-يكشف نوع Slicer الأعضاء التالية:
+يكشف النوع Slicer عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [title](/cells/python-net/ar/aspose.cells.slicers/slicer/title) | يحدد عنوان كائن مقسم طريقة العرض الحالي.|
-| [alternative_text](/cells/python-net/ar/aspose.cells.slicers/slicer/alternative_text) | إرجاع أو تعيين السلسلة النصية الوصفية (البديلة) لكائن Slicer.|
-| [is_printable](/cells/python-net/ar/aspose.cells.slicers/slicer/is_printable) | يشير إلى ما إذا كان كائن تقطيع الشرائح قابل للطباعة.|
-| [is_locked](/cells/python-net/ar/aspose.cells.slicers/slicer/is_locked) | يشير إلى ما إذا كان شكل أداة تقطيع الشرائح مؤمنًا أم لا.|
-| [placement](/cells/python-net/ar/aspose.cells.slicers/slicer/placement) | يمثل الطريقة التي يتم بها إرفاق الكائن الرسومي بالخلايا الموجودة أسفله.<br/> تتحكم الخاصية في وضع كائن في ورقة العمل.|
-| [locked_aspect_ratio](/cells/python-net/ar/aspose.cells.slicers/slicer/locked_aspect_ratio) | يشير إلى ما إذا كان قفل نسبة العرض إلى الارتفاع.|
-| [locked_position](/cells/python-net/ar/aspose.cells.slicers/slicer/locked_position) | يشير إلى ما إذا كان يمكن نقل مقسم الشرائح المحدد أو تغيير حجمه باستخدام واجهة المستخدم.|
-| [slicer_cache](/cells/python-net/ar/aspose.cells.slicers/slicer/slicer_cache) |تُرجع كائن SlicerCache المرتبط بقطعة شرائح. يقرأ فقط.|
-| [parent](/cells/python-net/ar/aspose.cells.slicers/slicer/parent) | إرجاع كائن ورقة العمل الذي يمثل الورقة التي تحتوي على مقسم طريقة العرض. يقرأ فقط.|
-| [style_type](/cells/python-net/ar/aspose.cells.slicers/slicer/style_type) | حدد نوع نمط تقطيع اللحم المدمج<br/> النوع الافتراضي هو SlicerStyleLight1|
-| [name](/cells/python-net/ar/aspose.cells.slicers/slicer/name) | إرجاع أو تعيين اسم مقسم طريقة العرض المحدد|
-| [caption](/cells/python-net/ar/aspose.cells.slicers/slicer/caption) | إرجاع أو تعيين التسمية التوضيحية لقطاعة الشرائح المحددة.|
-| [caption_visible](/cells/python-net/ar/aspose.cells.slicers/slicer/caption_visible) | إرجاع أو تعيين ما إذا كان الرأس الذي يعرض التسمية التوضيحية لتقطيع الصور مرئيًا أم لا<br/> القيمة الافتراضية هي الحقيقية|
-| [number_of_columns](/cells/python-net/ar/aspose.cells.slicers/slicer/number_of_columns) | إرجاع أو تعيين عدد الأعمدة في مقسم طريقة العرض المحدد.|
-| [left_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/left_pixel) | إرجاع أو تعيين الإزاحة الأفقية لشكل مقسم طريقة العرض من العمود الأيسر بالبكسل.|
-| [top_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/top_pixel) | إرجاع أو تعيين الإزاحة الرأسية لشكل مقسم طريقة العرض من صفها العلوي بالبكسل.|
-| [width](/cells/python-net/ar/aspose.cells.slicers/slicer/width) | إرجاع أو تعيين عرض مقسم طريقة العرض المحدد بالنقاط.|
-| [width_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/width_pixel) | إرجاع أو تعيين عرض أداة تقطيع الشرائح المحددة بالبكسل.|
-| [height](/cells/python-net/ar/aspose.cells.slicers/slicer/height) | إرجاع أو تعيين ارتفاع مقسم طريقة العرض المحدد بالنقاط.|
-| [height_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/height_pixel) |تُرجع أو تحدد ارتفاع أداة تقطيع الشرائح المحددة بالبكسل.|
-| [column_width_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/column_width_pixel) | الحصول على أو تحديد العرض بوحدة البكسل لكل عمود في آلة التقطيع.|
-| [column_width](/cells/python-net/ar/aspose.cells.slicers/slicer/column_width) | إرجاع أو تعيين العرض ، بالنقاط ، لكل عمود في أداة تقطيع الشرائح.|
-| [row_height_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/row_height_pixel) | إرجاع أو تعيين الارتفاع بالبكسل لكل صف في مقسم طريقة العرض المحددة.|
-| [row_height](/cells/python-net/ar/aspose.cells.slicers/slicer/row_height) | إرجاع أو تعيين ارتفاع كل صف في مقسم طريقة العرض المحدد بالنقاط.|
+| [title](/cells/python-net/ar/aspose.cells.slicers/slicer/title) | يحدد عنوان كائن Slicer الحالي.|
+| [alternative_text](/cells/python-net/ar/aspose.cells.slicers/slicer/alternative_text) | إرجاع أو تعيين سلسلة النص الوصفي (البديل) لكائن Slicer.|
+| [is_printable](/cells/python-net/ar/aspose.cells.slicers/slicer/is_printable) | يشير إلى ما إذا كان كائن المقطع قابلاً للطباعة.|
+| [is_locked](/cells/python-net/ar/aspose.cells.slicers/slicer/is_locked) | يشير إلى ما إذا كان شكل المقطع مقفلاً.|
+| [placement](/cells/python-net/ar/aspose.cells.slicers/slicer/placement) | يمثل الطريقة التي يتم بها ربط كائن الرسم بالخلايا الموجودة أسفله.<br/> تتحكم الخاصية في وضع الكائن على ورقة العمل.|
+| [locked_aspect_ratio](/cells/python-net/ar/aspose.cells.slicers/slicer/locked_aspect_ratio) | يشير إلى ما إذا كان يتم قفل نسبة العرض إلى الارتفاع.|
+| [locked_position](/cells/python-net/ar/aspose.cells.slicers/slicer/locked_position) |يشير إلى ما إذا كان من الممكن نقل المقطع المحدد أو تغيير حجمه باستخدام واجهة المستخدم.|
+| [shape](/cells/python-net/ar/aspose.cells.slicers/slicer/shape) | إرجاع كائن الشكل المرتبط بالمقطع المحدد. للقراءة فقط.|
+| [slicer_cache](/cells/python-net/ar/aspose.cells.slicers/slicer/slicer_cache) | إرجاع كائن SlicerCache المرتبط بالمُقطّع. للقراءة فقط.|
+| [parent](/cells/python-net/ar/aspose.cells.slicers/slicer/parent) | يُرجع الكائن [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) الذي يحتوي على هذه الشريحة. للقراءة فقط.|
+| [style_type](/cells/python-net/ar/aspose.cells.slicers/slicer/style_type) | حدد نوع نمط المقطع المدمج<br/> النوع الافتراضي هو SlicerStyleLight1|
+| [name](/cells/python-net/ar/aspose.cells.slicers/slicer/name) | إرجاع أو تعيين اسم المقطع المحدد|
+| [caption](/cells/python-net/ar/aspose.cells.slicers/slicer/caption) | إرجاع أو تعيين تسمية توضيحية للمقطع المحدد.|
+| [caption_visible](/cells/python-net/ar/aspose.cells.slicers/slicer/caption_visible) | إرجاع أو تعيين ما إذا كان الرأس الذي يعرض التسمية التوضيحية للمقطع مرئيًا<br/> القيمة الافتراضية هي true|
+| [number_of_columns](/cells/python-net/ar/aspose.cells.slicers/slicer/number_of_columns) | إرجاع أو تعيين عدد الأعمدة في المقطع المحدد.|
+| [left_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/left_pixel) | إرجاع أو تعيين الإزاحة الأفقية لشكل المقطع من العمود الأيسر، بالبكسل.|
+| [top_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/top_pixel) | إرجاع أو تعيين الإزاحة الرأسية لشكل المقطع من الصف العلوي، بالبكسل.|
+| [width](/cells/python-net/ar/aspose.cells.slicers/slicer/width) | إرجاع أو تعيين عرض المقطع المحدد بالنقاط.|
+| [width_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/width_pixel) |إرجاع أو تعيين عرض المقطع المحدد بالبكسل.|
+| [height](/cells/python-net/ar/aspose.cells.slicers/slicer/height) | إرجاع أو تعيين ارتفاع المقطع المحدد بالنقاط.|
+| [height_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/height_pixel) | إرجاع أو تعيين ارتفاع المقطع المحدد بالبكسل.|
+| [column_width_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/column_width_pixel) | يحصل على أو يعين عرض كل عمود في المقطع، بوحدة البكسل.|
+| [column_width](/cells/python-net/ar/aspose.cells.slicers/slicer/column_width) | يقوم بإرجاع أو تعيين العرض، بالنقاط، لكل عمود في المقطع.|
+| [row_height_pixel](/cells/python-net/ar/aspose.cells.slicers/slicer/row_height_pixel) | يقوم بإرجاع أو تعيين الارتفاع بالبكسل لكل صف في المقطع المحدد.|
+| [row_height](/cells/python-net/ar/aspose.cells.slicers/slicer/row_height) | يقوم بإرجاع أو تعيين الارتفاع، بالنقاط، لكل صف في المقطع المحدد.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_pivot_connection(pivot)](/cells/python-net/ar/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | يضيف اتصال PivotTable.|
-| [remove_pivot_connection(pivot)](/cells/python-net/ar/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | يزيل اتصال PivotTable.|
-| [refresh()](/cells/python-net/ar/aspose.cells.slicers/slicer/refresh/#) | تجديد القطاعة ، وفي الوقت نفسه ، تحديث وحساب جداول PivotTable النسبية.|
+| [`add_pivot_connection(self, pivot)`](/cells/python-net/ar/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | إضافة اتصال PivotTable.|
+| [`remove_pivot_connection(self, pivot)`](/cells/python-net/ar/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | إزالة اتصال PivotTable.|
+| [`refresh(self)`](/cells/python-net/ar/aspose.cells.slicers/slicer/refresh/#) | تحديث المقطع. وفي الوقت نفسه، تحديث وحساب جداول البيانات المحورية النسبية.|
 
 
 
@@ -111,4 +112,5 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](..)
+* الوحدة [`aspose.cells.slicers`](..)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)

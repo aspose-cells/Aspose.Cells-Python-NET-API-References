@@ -1,16 +1,16 @@
 ---
 title: export_cell_coordinate недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 260
 url: /ru/aspose.cells/htmlsaveoptions/export_cell_coordinate/
 is_root: false
 ---
 ##  export_cell_coordinate недвижимость
 
-Указывает, экспортируется ли координата Excel непустых ячеек при сохранении файла в HTML. Значение по умолчанию неверно.
-Если вы хотите импортировать выходной HTML-код в Excel, сохраните значение по умолчанию.
+Указывает, экспортируются ли координаты непустых ячеек Excel при сохранении файла в HTML. Значение по умолчанию — false.
+Если вы хотите импортировать выходной HTML-код в Excel, оставьте значение по умолчанию.
 ###  Определение:
 ```python
 @property

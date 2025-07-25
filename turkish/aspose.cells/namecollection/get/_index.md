@@ -7,8 +7,8 @@ weight: 60
 url: /tr/aspose.cells/namecollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
+##  get(self, index) {#int}
+API for Python'i .Net yoluyla ekleyin. Bu[int index] desteklenmediğinden
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Öğenin sıfır tabanlı dizini.|
+| index | int | Elemanın sıfırdan başlayan indeksi.|
 
 
-##  get(text) {#str}
-API for Python .Net yoluyla ekleyin.çünkü bu[dize metni] desteklenmiyor
+##  get(self, text) {#str}
+API for Python'i .Net yoluyla ekleyin. Bu[dize metni] desteklenmediğinden
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ API for Python .Net yoluyla ekleyin.çünkü bu[dize metni] desteklenmiyor
 
 
 ```python
+
 def get(self, text):
     ...
 ```
@@ -49,5 +51,5 @@ def get(self, text):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [NameCollection](/cells/python-net/tr/aspose.cells/namecollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`NameCollection`](/cells/python-net/tr/aspose.cells/namecollection)

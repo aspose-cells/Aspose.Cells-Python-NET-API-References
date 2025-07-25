@@ -8,7 +8,7 @@ url: /ar/aspose.cells.ods/opendocumentformatversiontype/
 is_root: false
 ---
 ##  OpenDocumentFormatVersionType التعداد
-افتح نوع إصدار تنسيق المستند.
+نوع إصدار تنسيق المستند المفتوح.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا شيء صارم.|
+| NONE | لا يوجد شيء صارم.|
 | ODF11 | إصدار ODF 1.1|
 | ODF12 | إصدار ODF 1.2|
-| ODF13 |إصدار ODF 1.3|
+| ODF13 | إصدار ODF 1.3|
 
 
 

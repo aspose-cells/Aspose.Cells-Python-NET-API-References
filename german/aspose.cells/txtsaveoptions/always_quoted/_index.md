@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  always_quoted Eigentum
 
-Gibt an, ob immer '"' für jedes Feld hinzugefügt wird.
+Gibt an, ob für jedes Feld immer „“ hinzugefügt werden soll.
 Wenn wahr, werden alle Werte in Anführungszeichen gesetzt;
-Wenn falsch, werden die Werte nur bei Bedarf angegeben (z. B.
-wenn Werte Sonderzeichen wie '"' , '\n' oder Trennzeichen enthalten).
-Standard ist falsch.
+Wenn „false“, werden Werte nur dann in Anführungszeichen gesetzt, wenn sie benötigt werden (zum Beispiel
+wenn Werte Sonderzeichen wie „““, „\n“ oder Trennzeichen enthalten).
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie stattdessen die QuoteType-Eigenschaft.
- Diese Eigenschaft wird 12 Monate später seit August 2012 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie stattdessen die Eigenschaft QuoteType.
+ Diese Eigenschaft wird 12 Monate später (ab August 2012) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -32,5 +32,5 @@ def always_quoted(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TxtSaveOptions](/cells/python-net/de/aspose.cells/txtsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TxtSaveOptions`](/cells/python-net/de/aspose.cells/txtsaveoptions)

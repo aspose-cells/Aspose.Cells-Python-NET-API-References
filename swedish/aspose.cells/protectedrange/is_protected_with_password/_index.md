@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_protected_with_password fastighet
 
-Indikerar om kalkylbladen är skyddade med lösenord.
+Anger om arbetsbladen är lösenordsskyddade.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_protected_with_password(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ProtectedRange](/cells/python-net/sv/aspose.cells/protectedrange)
+* modul [`aspose.cells`](../../)
+* klass [`ProtectedRange`](/cells/python-net/sv/aspose.cells/protectedrange)

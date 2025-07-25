@@ -12,9 +12,9 @@ Yerleşik tablo stili türünü temsil eder.
 
 
 
-TableStyleType türü aşağıdaki üyeleri gösterir:
+TableStyleType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE |  |
@@ -83,4 +83,4 @@ TableStyleType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](..)
+* modül [`aspose.cells.tables`](..)

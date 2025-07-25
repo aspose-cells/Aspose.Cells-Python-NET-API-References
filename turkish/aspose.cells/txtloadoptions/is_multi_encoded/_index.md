@@ -3,13 +3,13 @@ title: is_multi_encoded mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 200
 url: /tr/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---
 ##  is_multi_encoded mülk
 
-Doğru, dosyanın birden fazla kodlama içerdiği anlamına gelir.
+True, dosyanın birden fazla kodlama içerdiği anlamına gelir.
 ###  Tanım:
 ```python
 @property

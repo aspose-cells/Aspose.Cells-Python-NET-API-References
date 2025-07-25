@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream):
     ...
 ```
@@ -24,8 +25,8 @@ def add(self, upper_left_row, upper_left_column, stream):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | stream | io.RawIOBase | Strömobjekt som innehåller bilddata.|
 
 ###  Exempel
@@ -39,16 +40,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name) {#int-int-str}
+##  add(self, upper_left_row, upper_left_column, file_name) {#int-int-str}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name):
     ...
 ```
@@ -56,8 +58,8 @@ def add(self, upper_left_row, upper_left_column, file_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | file_name | str | Bildfilnamn.|
 
 ###  Exempel
@@ -70,16 +72,17 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -87,10 +90,10 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| lower_right_row | int | Nedre högra radindex|
-| lower_right_column | int | Nedre högra kolumnindex|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| lower_right_row | int | Index nedre högra raden|
+| lower_right_column | int | Index i nedre högra kolumnen|
 | stream | io.RawIOBase | Strömobjekt som innehåller bilddata.|
 
 ###  Exempel
@@ -104,16 +107,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name):
     ...
 ```
@@ -121,10 +125,10 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| lower_right_row | int | Nedre högra radindex|
-| lower_right_column | int | Nedre högra kolumnindex|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| lower_right_row | int | Index nedre högra raden|
+| lower_right_column | int | Index i nedre högra kolumnen|
 | file_name | str | Bildfilnamn.|
 
 ###  Exempel
@@ -137,16 +141,17 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -154,10 +159,10 @@ def add(self, upper_left_row, upper_left_column, stream, width_scale, height_sca
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | stream | io.RawIOBase | Strömobjekt som innehåller bilddata.|
-| width_scale | int | Skala på bildens bredd, en procentandel.|
+| width_scale | int | Skala för bildbredd, en procentandel.|
 | height_scale | int | Skala för bildhöjd, en procentandel.|
 
 ###  Exempel
@@ -171,16 +176,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
+##  add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
 Lägger till en bild i samlingen.
 
 
 ###  Returnerar
 
-[Picture](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
+[`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture) objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale):
     ...
 ```
@@ -188,10 +194,10 @@ def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | file_name | str | Bildfilnamn.|
-| width_scale | int | Skala på bildens bredd, en procentandel.|
+| width_scale | int | Skala för bildbredd, en procentandel.|
 | height_scale | int | Skala för bildhöjd, en procentandel.|
 
 ###  Exempel
@@ -206,6 +212,6 @@ pictures.add(1, 1, "image.jpg", 50, 50)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Picture](/cells/python-net/sv/aspose.cells.drawing/picture)
-* klass [PictureCollection](/cells/python-net/sv/aspose.cells.drawing/picturecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Picture`](/cells/python-net/sv/aspose.cells.drawing/picture)
+* klass [`PictureCollection`](/cells/python-net/sv/aspose.cells.drawing/picturecollection)

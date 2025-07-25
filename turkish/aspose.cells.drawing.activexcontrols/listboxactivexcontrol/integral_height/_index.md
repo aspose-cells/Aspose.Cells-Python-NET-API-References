@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height mülk
 
-Kontrolün herhangi bir kısmi satır göstermeden yalnızca metnin tam satırlarını gösterip göstermeyeceğini belirtir.
+Kontrolün herhangi bir kısmi satırı göstermeden yalnızca metnin tam satırlarını gösterip göstermeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  extend_to_adjacent_range propiedad
 
-Indica si se extienden rangos al copiar el rango a un rango adyacente.
+Indica si se extienden los rangos al copiar el rango al rango adyacente.
 
 ###  Observaciones
 
-Si es cierto, solo amplía el rango del hipervínculo, sin agregar un nuevo hipervínculo al copiar hipervínculos en filas adyacentes.
+Si es verdadero, solo extiende el rango del hipervínculo, no agrega un nuevo hipervínculo al copiar hipervínculos a filas adyacentes.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def extend_to_adjacent_range(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CopyOptions](/cells/python-net/es/aspose.cells/copyoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions)

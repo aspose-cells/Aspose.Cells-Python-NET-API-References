@@ -3,13 +3,13 @@ title: width_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1370
+weight: 1380
 url: /sv/aspose.cells.drawing/oleobject/width_inch/
 is_root: false
 ---
 ##  width_inch fastighet
 
-Representerar formens bredd, i tumenhet.
+Representerar formens bredd, i enheten tum.
 
 ###  Exempel
 

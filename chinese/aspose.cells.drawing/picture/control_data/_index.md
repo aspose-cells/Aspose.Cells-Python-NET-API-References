@@ -3,13 +3,13 @@ title: control_data属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 380
 url: /zh/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---
 ## control_data属性
 
-获取控制数据。
+获取控件的数据。
 
 ### 例子
 

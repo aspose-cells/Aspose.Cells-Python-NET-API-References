@@ -3,13 +3,13 @@ title: standard_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1270
+weight: 1300
 url: /sv/aspose.cells/cells/standard_width/
 is_root: false
 ---
 ##  standard_width fastighet
 
-Hämtar eller ställer in standardkolumnbredden i kalkylbladet, i teckenenhet.
+Hämtar eller anger standardkolumnbredden i kalkylbladet, i teckenenhet.
 ###  Definition:
 ```python
 @property

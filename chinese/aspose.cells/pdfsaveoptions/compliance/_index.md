@@ -3,7 +3,7 @@ title: compliance属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取或设置输出文档的 PDF 标准 compliance 级别。
 
-### 评论
+### 注意事项
 
 默认为 Pdf17。
 ### 定义：

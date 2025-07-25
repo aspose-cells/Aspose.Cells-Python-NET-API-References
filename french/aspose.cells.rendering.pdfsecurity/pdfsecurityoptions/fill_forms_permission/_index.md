@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_forms_permission propriété
 
- Indique s'il faut autoriser le remplissage des champs de formulaires interactifs existants (y compris les champs de signature),
+ Indique s'il faut autoriser le remplissage des champs de formulaire interactifs existants (y compris les champs de signature),
 même si [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) est clair.
 ###  Définition:
 ```python

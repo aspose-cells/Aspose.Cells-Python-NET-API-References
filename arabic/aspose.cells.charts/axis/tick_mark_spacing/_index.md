@@ -3,17 +3,17 @@ title: tick_mark_spacing عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.charts/axis/tick_mark_spacing/
 is_root: false
 ---
 ##  tick_mark_spacing عقار
 
-إرجاع أو تعيين عدد الفئات أو السلاسل بين علامات التجزئة. ينطبق فقط على محاور الفئة والسلسلة.
+يُرجع أو يُحدد عدد الفئات أو السلاسل بين علامتي التجزئة. يُطبق فقط على محاور الفئات والسلاسل.
 
 ###  ملاحظات
 
-يجب أن يكون الرقم بين 1 و31999.
+يجب أن يكون الرقم بين 1 و 31999.
 ###  تعريف:
 ```python
 @property

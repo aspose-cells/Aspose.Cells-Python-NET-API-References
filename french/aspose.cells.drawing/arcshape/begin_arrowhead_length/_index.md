@@ -3,7 +3,7 @@ title: begin_arrowhead_length propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 320
 url: /fr/aspose.cells.drawing/arcshape/begin_arrowhead_length/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Obtient et définit la longueur de la pointe de flèche de début de la ligne.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété Shape.Line.BeginArrowheadLength.
- Cette propriété sera supprimée 12 mois plus tard depuis août 2016.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en août 2016.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

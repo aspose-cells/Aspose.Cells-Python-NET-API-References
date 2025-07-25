@@ -3,7 +3,7 @@ title: ShowDropButtonType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 280
 url: /sv/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
@@ -24,4 +24,4 @@ Typen ShowDropButtonType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

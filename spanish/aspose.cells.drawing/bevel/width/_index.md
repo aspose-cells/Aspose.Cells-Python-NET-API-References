@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width propiedad
 
-Obtiene y establece el width del bisel, o hasta qué punto se aplica en la forma.
+Obtiene y establece el width del bisel, o qué tan lejos en la forma se aplica.
 En unidad de Puntos.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Bevel](/cells/python-net/es/aspose.cells.drawing/bevel)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Bevel`](/cells/python-net/es/aspose.cells.drawing/bevel)

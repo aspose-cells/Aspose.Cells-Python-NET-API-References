@@ -1,15 +1,13 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 220
 url: /it/aspose.cells.drawing.activexcontrols/unknowncontrol/width/
 is_root: false
 ---
 ##  width proprietà
-
-Ottiene e imposta width del controllo in unità di punti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [UnknownControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`UnknownControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)

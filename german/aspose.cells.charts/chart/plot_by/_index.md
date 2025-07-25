@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_by Eigentum
 
-Ruft ab und legt fest, ob die Darstellung nach Zeile oder Spalte erfolgt.
+Ruft ab und legt fest, ob die Darstellung zeilen- oder spaltenweise erfolgt.
 ###  Definition:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: sheet_index الملكية
+title: sheet_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.rendering/drawobject/sheet_index/
 is_root: false
 ---
-##  sheet_index الملكية
+##  sheet_index عقار
 
-يشير إلى فهرس الورقة الحالي لـ DrawObject.
+يشير إلى فهرس الورقة الحالية لـ DrawObject.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def sheet_index(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [DrawObject](/cells/python-net/ar/aspose.cells.rendering/drawobject)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`DrawObject`](/cells/python-net/ar/aspose.cells.rendering/drawobject)

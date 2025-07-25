@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_tab_size propiedad
 
-Obtiene y establece el tamaño predeterminado de un carácter de tabulación dentro de este párrafo.
+Obtiene y establece el tamaño predeterminado para un carácter de tabulación dentro de este párrafo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextParagraph](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextParagraph`](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)

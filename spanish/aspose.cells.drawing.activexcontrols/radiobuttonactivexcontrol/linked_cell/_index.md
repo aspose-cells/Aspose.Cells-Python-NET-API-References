@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/linked_c
 is_root: false
 ---
 ##  linked_cell propiedad
-
-Obtiene y establece la celda vinculada.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [RadioButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`RadioButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -1,6 +1,6 @@
 ---
 title: evaluated_page_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  evaluated_page_count недвижимость
 
-Оцените общее количество страниц в этой книге
+Оцените общее количество страниц в этой рабочей книге.
 
 ###  Пример
 
-В следующем коде показан самый быстрый способ получить количество страниц книги.
+Следующий код показывает самый быстрый способ получить количество страниц в рабочей книге.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [WorkbookPrintingPreview](/cells/python-net/ru/aspose.cells.rendering/workbookprintingpreview)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`WorkbookPrintingPreview`](/cells/python-net/ru/aspose.cells.rendering/workbookprintingpreview)

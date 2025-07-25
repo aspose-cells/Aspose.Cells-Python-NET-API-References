@@ -1,16 +1,16 @@
 ---
 title: sort_left_to_right proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells/datasorter/sort_left_to_right/
 is_root: false
 ---
 ##  sort_left_to_right proprietà
 
 Vero significa che l'orientamento dell'ordinamento è da sinistra a destra.
-Falso significa che l'orientamento dell'ordinamento è dall'alto verso il basso.
+Falso significa che l'ordinamento avviene dall'alto verso il basso.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python
@@ -23,5 +23,5 @@ def sort_left_to_right(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/it/aspose.cells/datasorter)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/it/aspose.cells/datasorter)

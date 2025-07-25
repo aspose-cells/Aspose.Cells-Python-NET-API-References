@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-Akış için tüm çalışma kitabını Tiff Görüntüsü olarak işleyin.
+##  to_image(self, stream) {#io.RawIOBase}
+Tüm çalışma kitabını Tiff Görüntüsü olarak akışa aktarın.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase | çıktı görüntüsünün akışı|
 
 
-##  to_image {#str}
-Çalışma kitabının tamamını Tiff Görüntüsü olarak bir dosyaya dönüştürün.
+##  to_image(self, filename) {#str}
+Tüm çalışma kitabını Tiff Görüntüsü olarak bir dosyaya aktar.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -39,12 +41,13 @@ def to_image(self, filename):
 | filename | str | çıktı görüntüsünün dosya adı|
 
 
-##  to_image {#int-str}
-Belirli bir sayfayı bir dosyaya dönüştürün.
+##  to_image(self, page_index, file_name) {#int-str}
+Belirli bir sayfayı bir dosyaya dönüştür.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -56,12 +59,13 @@ def to_image(self, page_index, file_name):
 | file_name | str | çıktı görüntüsünün dosya adı|
 
 
-##  to_image {#int-io.RawIOBase}
-Belirli bir sayfayı bir akışa dönüştürün.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Belirli bir sayfayı akışa dönüştür.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

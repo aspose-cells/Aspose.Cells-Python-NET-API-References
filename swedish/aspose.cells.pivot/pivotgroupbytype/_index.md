@@ -3,7 +3,7 @@ title: PivotGroupByType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 380
 url: /sv/aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Typen PivotGroupByType avslöjar följande medlemmar:
 | :- | :- |
 | RANGE_OF_VALUES | Gruppera efter nummer.|
 | NUMBERS | Gruppera efter nummer.|
-| SECONDS | Presenterar sekunder grupp efter typ.|
-| MINUTES | Presenterar minuter grupp efter typ.|
-| HOURS |Presenterar timmar grupp efter typ.|
-| DAYS | Presenterar dagar grupp efter typ.|
-| MONTHS | Presenterar månader grupp efter typ.|
-| QUARTERS | Presenterar Quarters grupp efter typ.|
-| YEARS | Presenterar år grupp efter typ.|
+| SECONDS | Presenterar sekunder grupperade efter typ.|
+| MINUTES | Presenterar protokoll grupperade efter typ.|
+| HOURS | Presenterar timmar grupperas efter typ.|
+| DAYS | Presenterar dagar grupperas efter typ.|
+| MONTHS | Presenterar månader grupperade efter typ.|
+| QUARTERS |Presenterar kvartal grupperas efter typ.|
+| YEARS | Presenterar år grupperade efter typ.|
 
 
 

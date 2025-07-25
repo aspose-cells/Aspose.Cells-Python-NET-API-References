@@ -1,6 +1,6 @@
 ---
 title: rotation_angle недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle недвижимость
 
-Представляет угол поворота текста по часовой стрелке.
+Обозначает угол поворота текста по часовой стрелке.
 
 ###  Примечания
 

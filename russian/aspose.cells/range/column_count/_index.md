@@ -1,9 +1,9 @@
 ---
 title: column_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 370
 url: /ru/aspose.cells/range/column_count/
 is_root: false
 ---

@@ -3,20 +3,21 @@ title: get_text_of_days方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.settings/pivotglobalizationsettings/get_text_of_days/
 is_root: false
 ---
-##  get_text_of_days {#}
+##  get_text_of_days(self) {#}
 获取“Days”的本地文本。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def get_text_of_days(self):
     ...
 ```

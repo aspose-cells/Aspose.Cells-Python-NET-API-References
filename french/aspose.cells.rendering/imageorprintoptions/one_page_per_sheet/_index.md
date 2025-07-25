@@ -3,14 +3,14 @@ title: one_page_per_sheet propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 200
 url: /fr/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet propriété
 
- Si OnePagePerSheet est true , tout le contenu d’une feuille sera affiché sur une seule page.
- Le format de papier de la configuration de la page sera invalide et les autres paramètres de la configuration de la page
+ Si OnePagePerSheet est vrai, tout le contenu d'une feuille sera affiché sur une seule page dans le résultat.
+ Le format de papier de la mise en page sera invalide, ainsi que les autres paramètres de la mise en page.
 prendra toujours effet.
 ###  Définition:
 ```python

@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [PictureBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/picturebulletvalue)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`PictureBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/picturebulletvalue)

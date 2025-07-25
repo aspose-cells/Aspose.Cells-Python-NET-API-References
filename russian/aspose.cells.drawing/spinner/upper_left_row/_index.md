@@ -1,19 +1,19 @@
 ---
 title: upper_left_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /ru/aspose.cells.drawing/spinner/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row недвижимость
 
-Представляет индекс строки в верхнем левом углу.
+Представляет индекс верхней строки.
 
 ###  Примечания
 
-Если фигура находится в фигуре или в группе, UpperLeftRow будет игнорироваться.
+Если фигура находится в фигуре или в группе, UpperLeftRow будет проигнорирован.
 
 ###  Пример
 

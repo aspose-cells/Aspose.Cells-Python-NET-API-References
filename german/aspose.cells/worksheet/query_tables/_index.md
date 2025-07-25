@@ -3,13 +3,13 @@ title: query_tables Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 730
+weight: 760
 url: /de/aspose.cells/worksheet/query_tables/
 is_root: false
 ---
 ##  query_tables Eigentum
 
-Ruft [`QueryTableCollection`](/cells/python-net/de/aspose.cells/querytablecollection) im Arbeitsblatt ab.
+Ergibt [`QueryTableCollection`](/cells/python-net/de/aspose.cells/querytablecollection) im Arbeitsblatt.
 ###  Definition:
 ```python
 @property

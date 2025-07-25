@@ -1,14 +1,14 @@
 ---
 title: HtmlHiddenRowDisplayType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2240
+weight: 2180
 url: /ru/aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---
 ##  HtmlHiddenRowDisplayType перечисление
-Представляет два типа отображения скрытых строк в HTML.
+Представляет два типа отображения скрытых строк в html.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| HIDDEN |Спрятаны скрытые строки на html-странице.|
-| REMOVE | Удалите скрытые строки на странице html.|
+| HIDDEN | Скрыл скрытые строки на html-странице.|
+| REMOVE | Удалить скрытые строки на html-странице.|
 
 
 

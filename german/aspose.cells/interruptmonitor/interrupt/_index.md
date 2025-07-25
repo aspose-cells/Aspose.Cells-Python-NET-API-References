@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/interruptmonitor/interrupt/
 is_root: false
 ---
-##  interrupt() {#}
+##  interrupt(self) {#}
 Unterbrechen Sie den aktuellen Operator.
 
 
 
 ```python
+
 def interrupt(self):
     ...
 ```
@@ -22,5 +23,5 @@ def interrupt(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [InterruptMonitor](/cells/python-net/de/aspose.cells/interruptmonitor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`InterruptMonitor`](/cells/python-net/de/aspose.cells/interruptmonitor)

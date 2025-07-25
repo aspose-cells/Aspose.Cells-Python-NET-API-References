@@ -1,6 +1,6 @@
 ---
 title: create_id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 350
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  create_id недвижимость
 
-Получает и устанавливает идентификатор для этой фигуры.
+Получает и задает идентификатор создания для этой формы.
 ###  Определение:
 ```python
 @property

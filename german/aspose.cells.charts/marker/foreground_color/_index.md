@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color Eigentum
 
-Stellt die Vordergrundfarbe der Markierung in einem Liniendiagramm, Streudiagramm oder Netzdiagramm dar.
+Stellt die Vordergrundfarbe der Markierung in einem Liniendiagramm, Streudiagramm oder Radardiagramm dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

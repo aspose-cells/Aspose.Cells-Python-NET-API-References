@@ -3,13 +3,13 @@ title: major_unit_scale propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 320
 url: /fr/aspose.cells.charts/axis/major_unit_scale/
 is_root: false
 ---
 ##  major_unit_scale propriété
 
-Représente l’échelle des unités principales pour l’axe des catégories.
+Représente l'échelle de l'unité principale pour l'axe des catégories.
 
 ###  Exemple
 

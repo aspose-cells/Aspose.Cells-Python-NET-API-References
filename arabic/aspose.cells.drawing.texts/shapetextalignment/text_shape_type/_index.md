@@ -1,15 +1,15 @@
 ---
-title: text_shape_type الملكية
+title: text_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/text_shape_type/
 is_root: false
 ---
-##  text_shape_type الملكية
+##  text_shape_type عقار
 
-الحصول على نوع التحويل للنص وتعيينه.
+يحصل على نوع تحويل النص ويقوم بتعيينه.
 
 ###  مثال
 
@@ -31,6 +31,6 @@ def text_shape_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [AutoShapeType](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`AutoShapeType`](/cells/python-net/ar/aspose.cells.drawing/autoshapetype)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

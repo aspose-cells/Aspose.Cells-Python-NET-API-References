@@ -1,16 +1,13 @@
 ---
 title: sso_id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 240
+weight: 310
 url: /it/aspose.cells.externalconnections/datamodelconnection/sso_id/
 is_root: false
 ---
 ##  sso_id proprietà
-
- Identificatore per Single Sign On (SSO) utilizzato per l'autenticazione tra un intermediario
-server spreadsheetML e l'origine dati esterna.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +19,5 @@ def sso_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [DataModelConnection](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`DataModelConnection`](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)

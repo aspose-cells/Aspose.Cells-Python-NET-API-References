@@ -3,7 +3,7 @@ title: style_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 260
 url: /de/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
-* Klasse [SlicerStyleType](/cells/python-net/de/aspose.cells.slicers/slicerstyletype)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Klasse [`SlicerStyleType`](/cells/python-net/de/aspose.cells.slicers/slicerstyletype)

@@ -3,7 +3,7 @@ title: row_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 220
 url: /sv/aspose.cells/unionrange/row_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Hämtar antalet rader i intervallet.
 
 ###  Anmärkningar
 
-Effekter endast när den bara innehåller ett intervall.
+Gäller endast när den bara innehåller ett intervall.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def row_count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [UnionRange](/cells/python-net/sv/aspose.cells/unionrange)
+* modul [`aspose.cells`](../../)
+* klass [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange)

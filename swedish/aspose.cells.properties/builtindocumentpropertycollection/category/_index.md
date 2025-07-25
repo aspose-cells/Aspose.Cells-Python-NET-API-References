@@ -3,13 +3,13 @@ title: category fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/category/
 is_root: false
 ---
 ##  category fastighet
 
-Hämtar eller ställer in category för dokumentet.
+Hämtar eller anger category för dokumentet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def category(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

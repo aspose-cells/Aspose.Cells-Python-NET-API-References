@@ -1,15 +1,15 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ru/aspose.cells.drawing/checkbox/text/
 is_root: false
 ---
 ##  text недвижимость
 
-Представляет строку в этом объекте TextBox.
+Получает и задает text этой формы.
 
 ###  Пример
 

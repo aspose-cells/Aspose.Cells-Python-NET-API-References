@@ -1,18 +1,19 @@
 ---
 title: Metodo group_columns
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 530
+weight: 570
 url: /it/aspose.cells/cells/group_columns/
 is_root: false
 ---
-##  group_columns {#int-int}
+##  group_columns(self, first_index, last_index) {#int-int}
 Colonne dei gruppi.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index):
     ...
 ```
@@ -24,12 +25,13 @@ def group_columns(self, first_index, last_index):
 | last_index | int | L'ultimo indice di colonna da raggruppare.|
 
 
-##  group_columns {#int-int-bool}
+##  group_columns(self, first_index, last_index, is_hidden) {#int-int-bool}
 Colonne dei gruppi.
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index, is_hidden):
     ...
 ```

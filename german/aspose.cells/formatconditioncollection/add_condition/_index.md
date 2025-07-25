@@ -7,16 +7,17 @@ weight: 40
 url: /de/aspose.cells/formatconditioncollection/add_condition/
 is_root: false
 ---
-##  add_condition(type) {#FormatConditionType}
+##  add_condition(self, type) {#aspose.cells.FormatConditionType}
 Fügen Sie eine Formatbedingung hinzu.
 
 
 ###  Kehrt zurück
 
-Bedingungsobjektindex formatieren;
+Formatierungsbedingungsobjektindex;
 
 
 ```python
+
 def add_condition(self, type):
     ...
 ```
@@ -24,19 +25,20 @@ def add_condition(self, type):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [FormatConditionType](/cells/python-net/de/aspose.cells/formatconditiontype) | Bedingungstyp formatieren.|
+| type | [`FormatConditionType`](/cells/python-net/de/aspose.cells/formatconditiontype) | Formatieren Sie den Bedingungstyp.|
 
 
-##  add_condition(type, operator_type, formula1, formula2) {#FormatConditionType-OperatorType-str-str}
+##  add_condition(self, type, operator_type, formula1, formula2) {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
 Fügt eine Formatierungsbedingung hinzu.
 
 
 ###  Kehrt zurück
 
-Bedingungsobjektindex formatieren;
+Formatierungsbedingungsobjektindex;
 
 
 ```python
+
 def add_condition(self, type, operator_type, formula1, formula2):
     ...
 ```
@@ -44,15 +46,13 @@ def add_condition(self, type, operator_type, formula1, formula2):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [FormatConditionType](/cells/python-net/de/aspose.cells/formatconditiontype) | [FormatConditionType](/cells/python-net/de/aspose.cells/formatconditiontype) der bedingten Formatierung.<br/> Es könnte eines der Mitglieder von FormatConditionType sein.|
-| operator_type | [OperatorType](/cells/python-net/de/aspose.cells/operatortype) | Der Vergleich [OperatorType](/cells/python-net/de/aspose.cells/operatortype).<br/> Es könnte eines der Mitglieder von OperatorType sein.|
-| formula1 | str | Der Wert oder Ausdruck, der der bedingten Formatierung zugeordnet ist.<br/>Wenn der Eingabewert mit '=' beginnt, wird er als Formel angenommen.<br/>Andernfalls wird es als einfacher Wert (Text, Zahl, Bool) genommen.<br/> Für einen Textwert, der mit '=' beginnt, kann der Benutzer ihn als Formel im Format "=\"=...\"" eingeben.|
-| formula2 | str | Der Wert oder Ausdruck, der der bedingten Formatierung zugeordnet ist.<br/>Das Eingabeformat ist dasselbe wie bei formula1|
+| type | [`FormatConditionType`](/cells/python-net/de/aspose.cells/formatconditiontype) | Der Typ der Formatbedingung.|
+| operator_type | [`OperatorType`](/cells/python-net/de/aspose.cells/operatortype) | Der Operatortyp|
+| formula1 | str | Der mit der bedingten Formatierung verknüpfte Wert oder Ausdruck.<br/>Beginnt der Eingabewert mit „=“, wird er als Formel verwendet.<br/>Andernfalls wird es als einfacher Wert (Text, Zahl, Bool) übernommen.<br/> Für Textwerte, die mit „=“ beginnen, kann der Benutzer sie als Formel im Format „=\“=…\““ eingeben.|
+| formula2 | str | Der mit der bedingten Formatierung verknüpfte Wert oder Ausdruck.<br/> Das Eingabeformat ist dasselbe wie bei Formel 1|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
-* Klasse [FormatConditionType](/cells/python-net/de/aspose.cells/formatconditiontype)
-* Klasse [OperatorType](/cells/python-net/de/aspose.cells/operatortype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)

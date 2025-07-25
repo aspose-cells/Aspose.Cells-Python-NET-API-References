@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  header_margin mülk
 
-Sayfanın üstünden başlığa olan mesafeyi santimetre biriminde temsil eder.
+Sayfanın üst kısmından başlığa kadar olan mesafeyi santimetre cinsinden gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def header_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

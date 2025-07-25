@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionProperty](/cells/python-net/it/aspose.cells.webextensions/webextensionproperty)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionProperty`](/cells/python-net/it/aspose.cells.webextensions/webextensionproperty)

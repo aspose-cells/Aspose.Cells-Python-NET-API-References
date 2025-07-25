@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextAlignmentType](/cells/python-net/tr/aspose.cells/textalignmenttype)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextAlignmentType`](/cells/python-net/tr/aspose.cells/textalignmenttype)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

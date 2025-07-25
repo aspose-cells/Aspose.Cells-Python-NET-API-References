@@ -1,18 +1,19 @@
 ---
 title: Metodo update_selected_value
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 240
+weight: 250
 url: /it/aspose.cells.drawing/spinner/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-Aggiorna il valore selezionato in base al valore della cella collegata.
+##  update_selected_value(self) {#}
+Aggiorna il valore selezionato con il valore della cella collegata.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

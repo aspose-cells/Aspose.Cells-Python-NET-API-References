@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
-Lägger till ett FormatConditions till samlingen.
+##  add(self) {#}
+Lägger till en FormatConditions i samlingen.
 
 
 ###  Returnerar
 
-FormatConditions objektindex.
+FormatConditions-objektindex.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingCollection](/cells/python-net/sv/aspose.cells/conditionalformattingcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingCollection`](/cells/python-net/sv/aspose.cells/conditionalformattingcollection)

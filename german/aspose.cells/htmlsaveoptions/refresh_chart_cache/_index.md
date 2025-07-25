@@ -3,13 +3,13 @@ title: refresh_chart_cache Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 700
 url: /de/aspose.cells/htmlsaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache Eigentum
 
-Gibt an, ob Diagramm-Cache-Daten aktualisiert werden
+Gibt an, ob die Aktualisierung der Diagramm-Cache-Daten
 ###  Definition:
 ```python
 @property

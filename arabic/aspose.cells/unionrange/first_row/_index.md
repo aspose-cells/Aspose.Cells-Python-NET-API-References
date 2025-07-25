@@ -1,19 +1,19 @@
 ---
-title: first_row الملكية
+title: first_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 150
 url: /ar/aspose.cells/unionrange/first_row/
 is_root: false
 ---
-##  first_row الملكية
+##  first_row عقار
 
-الحصول على فهرس الصف الأول من النطاق.
+يحصل على مؤشر الصف الأول من النطاق.
 
 ###  ملاحظات
 
-التأثيرات فقط عندما تحتوي على نطاق واحد فقط.
+يؤثر فقط عندما يحتوي على نطاق واحد فقط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def first_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

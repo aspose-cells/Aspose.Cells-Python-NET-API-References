@@ -9,7 +9,7 @@ is_root: false
 ---
 ## border属性
 
-获取[`Line`](/cells/python-net/zh/aspose.cells.drawing/line)。
+获取 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)。
 ### 定义：
 ```python
 @property

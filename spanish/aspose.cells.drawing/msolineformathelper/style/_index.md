@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style propiedad
 
-Devuelve un objeto Style que representa el style del rango especificado.
+Devuelve un objeto de estilo que representa el style del rango especificado.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineFormatHelper](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)
-* clase [MsoLineStyle](/cells/python-net/es/aspose.cells.drawing/msolinestyle)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineFormatHelper`](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)
+* clase [`MsoLineStyle`](/cells/python-net/es/aspose.cells.drawing/msolinestyle)

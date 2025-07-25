@@ -21,6 +21,6 @@ def texture(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [TextureType](/cells/python-net/sv/aspose.cells.drawing/texturetype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`TextureType`](/cells/python-net/sv/aspose.cells.drawing/texturetype)

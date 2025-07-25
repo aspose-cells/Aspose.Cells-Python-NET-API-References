@@ -3,7 +3,7 @@ title: tick_labels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 410
 url: /fr/aspose.cells.charts/axis/tick_labels/
 is_root: false
 ---

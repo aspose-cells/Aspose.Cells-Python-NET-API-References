@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name عقار
 
-الحصول على أو تعيين name للنمط.
+يحصل على أو يعين name للنمط.
 ###  تعريف:
 ```python
 @property

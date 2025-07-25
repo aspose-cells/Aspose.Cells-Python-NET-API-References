@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/loadfilter/__init__/
 is_root: false
 ---
-##  LoadFilter() {#}
-Construye uno LoadFilter con opciones de filtro predeterminadas LoadDataFilterOptions.All.
+##  \_\_init\_\_(yo mismo){#}
+Construye un LoadFilter con opciones de filtro predeterminadas LoadDataFilterOptions.All.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  LoadFilter(opts) {#LoadDataFilterOptions}
-Construye uno LoadFilter con opciones de filtro dadas.
+##  \_\_init\_\_(self, opts){#aspose.cells.LoadDataFilterOptions}
+Construye un LoadFilter con las opciones de filtro dadas.
 
 
 
 ```python
+
 def __init__(self, opts):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, opts):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| opts | [LoadDataFilterOptions](/cells/python-net/es/aspose.cells/loaddatafilteroptions) | las opciones de filtro predeterminadas|
+| opts | [`LoadDataFilterOptions`](/cells/python-net/es/aspose.cells/loaddatafilteroptions) | las opciones de filtro predeterminadas|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [LoadFilter](/cells/python-net/es/aspose.cells/loadfilter)
+* módulo [`aspose.cells`](../../)
+* clase [`LoadFilter`](/cells/python-net/es/aspose.cells/loadfilter)

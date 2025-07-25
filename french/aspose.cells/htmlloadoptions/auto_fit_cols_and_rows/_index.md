@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_cols_and_rows propriété
 
-Indique si les colonnes et les lignes s'ajustent automatiquement. La valeur par défaut est faux.
+Indique si les colonnes et les lignes doivent être ajustées automatiquement. La valeur par défaut est « false ».
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_fit_cols_and_rows(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)

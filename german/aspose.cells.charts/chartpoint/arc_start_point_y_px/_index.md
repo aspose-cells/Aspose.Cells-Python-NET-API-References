@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  arc_start_point_y_px Eigentum
 
-Ruft die y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
+Ruft die Y-Koordinate des Startpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 Gilt für Kreis- und Ringdiagramme.
 ###  Definition:
 ```python
@@ -19,5 +19,5 @@ def arc_start_point_y_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

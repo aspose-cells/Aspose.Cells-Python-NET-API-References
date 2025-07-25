@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  base_unit_scale propriété
 
-Représente l’échelle des unités de base pour l’axe des catégories.
+Représente l'échelle de l'unité de base pour l'axe des catégories.
 
 ###  Remarques
 

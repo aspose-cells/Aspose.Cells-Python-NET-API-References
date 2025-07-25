@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Yol segmentini alır type
+type yol segmentini alır
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePathType](/cells/python-net/tr/aspose.cells.drawing/shapepathtype)
-* sınıf [ShapeSegmentPath](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePathType`](/cells/python-net/tr/aspose.cells.drawing/shapepathtype)
+* sınıf [`ShapeSegmentPath`](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath)

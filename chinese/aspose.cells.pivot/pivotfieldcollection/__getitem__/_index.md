@@ -1,13 +1,13 @@
 ---
-title: PivotFieldCollection 分度器
+title: PivotFieldCollection 索引器
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
-## PivotFieldCollection 分度器
+## PivotFieldCollection 索引器
 
 获取特定索引处的 PivotField 对象。
 ### 索引器

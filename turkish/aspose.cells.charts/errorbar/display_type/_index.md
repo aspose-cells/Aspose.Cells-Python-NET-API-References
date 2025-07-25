@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_type mülk
 
-Hata çubuğu görüntüleme tipini temsil eder.
+Hata çubuğunun görüntülenme türünü temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [ErrorBarDisplayType](/cells/python-net/tr/aspose.cells.charts/errorbardisplaytype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`ErrorBarDisplayType`](/cells/python-net/tr/aspose.cells.charts/errorbardisplaytype)

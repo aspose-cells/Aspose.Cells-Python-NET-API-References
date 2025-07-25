@@ -1,6 +1,6 @@
 ---
 title: alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment недвижимость
 
-Получает и задает положение Caption относительно элемента управления.
+Получает и задает положение заголовка относительно элемента управления.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlCaptionAlignmentType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
-* класс [RadioButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlCaptionAlignmentType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* класс [`RadioButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

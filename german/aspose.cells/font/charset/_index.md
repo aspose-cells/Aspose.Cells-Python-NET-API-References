@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)

@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/pagesetup/custom_paper_size/
 is_root: false
 ---
-##  custom_paper_size(width, height) {#float-float}
+##  custom_paper_size(self, width, height) {#float-float}
 Özel kağıt boyutunu inç cinsinden ayarlar.
 
 
 
 ```python
+
 def custom_paper_size(self, width, height):
     ...
 ```
@@ -26,5 +27,5 @@ def custom_paper_size(self, width, height):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

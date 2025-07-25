@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  second_plot_size propriété
 
- Renvoie ou définit la taille de la section secondaire d'un camembert ou d'une barre de camembert,
-en pourcentage de la taille du gâteau principal.
+ Renvoie ou définit la taille de la section secondaire d'un graphique à secteurs ou d'une barre de graphique à secteurs,
+en pourcentage de la taille du gâteau primaire.
 Peut être une valeur comprise entre 5 et 200.
 ###  Définition:
 ```python
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

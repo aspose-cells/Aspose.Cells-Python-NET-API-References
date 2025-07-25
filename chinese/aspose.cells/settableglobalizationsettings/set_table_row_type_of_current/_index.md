@@ -7,12 +7,13 @@ weight: 410
 url: /zh/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/
 is_root: false
 ---
-##  set_table_row_type_of_current {#str}
-设置由引用表中的当前行组成的表行的类型名称。
+##  set_table_row_type_of_current(self, name) {#str}
+设置引用表中当前行组成的表行的类型名称。
 
 
 
 ```python
+
 def set_table_row_type_of_current(self, name):
     ...
 ```

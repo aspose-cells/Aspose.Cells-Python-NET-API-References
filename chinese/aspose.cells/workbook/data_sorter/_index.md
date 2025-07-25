@@ -3,13 +3,13 @@ title: data_sorter属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 540
+weight: 570
 url: /zh/aspose.cells/workbook/data_sorter/
 is_root: false
 ---
 ## data_sorter属性
 
-获取 DataSorter 对象以对数据进行排序。
+获取 DataSorter 对象来对数据进行排序。
 ### 定义：
 ```python
 @property

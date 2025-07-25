@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  children fastighet
 
-Hämtar all textkörning i detta stycke.
+Hämtar all text i det här stycket.
 Om detta stycke är tomt, returnera själva stycket.
 ###  Definition:
 ```python
@@ -19,5 +19,5 @@ def children(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells.drawing/shapepropertycollection/has_glow_effect/
 is_root: false
 ---
-##  has_glow_effect() {#}
-Gibt an, ob die Form über Glüheffektdaten verfügt.
+##  has_glow_effect(self) {#}
+Gibt an, ob die Form über Leuchteffektdaten verfügt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt an, ob die Form über Glüheffektdaten verfügt.
 
 
 ```python
+
 def has_glow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_glow_effect(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

@@ -1,34 +1,34 @@
 ---
-title: classe VbaProjectReference
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: VbaProjectReference classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells.vba/vbaprojectreference/
 is_root: false
 ---
-##  classe VbaProjectReference
+##  VbaProjectReference classe
 Rappresenta il riferimento del progetto VBA.
 
 
 
-Il tipo VbaProjectReference espone i membri seguenti:
+Il tipo VbaProjectReference espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/type) | Ottiene il tipo di questo riferimento.|
+| [type](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/type) |Ottiene il tipo di questo riferimento.|
 | [name](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/name) | Ottiene e imposta il nome del riferimento.|
-| [libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/libid) | Ottiene e imposta la Libid del riferimento.|
-| [twiddledlibid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Ottiene e imposta la Libid modificata del riferimento.|
-| [extended_libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/extended_libid) | Ottiene e imposta la Libid estesa del riferimento.|
-| [relative_libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/relative_libid) | Ottiene e imposta l'identificatore del progetto VBA di riferimento con un percorso relativo.|
+| [libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/libid) | Ottiene e imposta il Libid del riferimento.|
+| [twiddledlibid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Ottiene e imposta il Libid modificato del riferimento.|
+| [extended_libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/extended_libid) | Ottiene e imposta il Libid esteso del riferimento.|
+| [relative_libid](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/relative_libid) | Ottiene e imposta l'identificatore del progetto VBA referenziato con un percorso relativo.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [copy(source)](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [`copy(self, source)`](/cells/python-net/it/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.vbaprojectreference) |  |
 
 
 
@@ -49,4 +49,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](..)
+* modulo [`aspose.cells.vba`](..)

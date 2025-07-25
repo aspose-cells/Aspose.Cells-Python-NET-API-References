@@ -3,13 +3,13 @@ title: value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /sv/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---
 ##  value fastighet
 
-Indikerar om kryssrutan är markerad eller inte.
+Anger om kryssrutan är markerad eller inte.
 ###  Definition:
 ```python
 @property

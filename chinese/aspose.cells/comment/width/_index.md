@@ -9,7 +9,7 @@ is_root: false
 ---
 ## width属性
 
-代表评论的width，以像素为单位。
+表示注意事项的width，单位为像素。
 
 ### 例子
 

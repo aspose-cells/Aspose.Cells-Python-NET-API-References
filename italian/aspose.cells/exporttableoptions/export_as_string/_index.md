@@ -1,6 +1,6 @@
 ---
 title: export_as_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_string proprietà
 
-Esporta il valore stringa delle celle in DataTable.
+Esporta il valore stringa delle celle nella tabella dati.
 ###  Definizione:
 ```python
 @property

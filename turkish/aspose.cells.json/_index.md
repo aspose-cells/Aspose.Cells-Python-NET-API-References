@@ -7,11 +7,11 @@ weight: 10
 url: /tr/aspose.cells.json/
 is_root: false
 ---
- bu**Aspose.Cells.Json** ad alanı, JSON'in tüm sınıflarını içerir.
+**Aspose.Cells.Json** namespace JSON'in tüm sınıflarını içerir.
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/tr/aspose.cells.json/jsonexporthyperlinktype) | Köprüleri json'a dışa aktarma türünü temsil eder.|
+| [`JsonExportHyperlinkType`](/cells/python-net/tr/aspose.cells.json/jsonexporthyperlinktype) | Bağlantıların json'a aktarılması türünü temsil eder.|
 
 

@@ -3,17 +3,17 @@ title: show_tabs propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 460
+weight: 490
 url: /fr/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs propriété
 
-Obtient ou définit une valeur si les onglets du classeur sont affichés.
+Obtenir ou définir une valeur indiquant si les onglets du classeur sont affichés.
 
 ###  Remarques
 
-La valeur par défaut est vraie.
+La valeur par défaut est vrai.
 
 ###  Exemple
 

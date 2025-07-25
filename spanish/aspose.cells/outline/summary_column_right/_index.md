@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right propiedad
 
-Indica si la columna de resumen se colocará a la derecha de las columnas de detalles en el esquema.
+Indica si la columna de resumen se ubicará a la derecha de las columnas de detalle en el esquema.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Outline](/cells/python-net/es/aspose.cells/outline)
+* módulo [`aspose.cells`](../../)
+* clase [`Outline`](/cells/python-net/es/aspose.cells/outline)

@@ -7,12 +7,13 @@ weight: 160
 url: /es/aspose.cells/worksheetcollection/refresh_all/
 is_root: false
 ---
-##  refresh_all {#}
-Actualice todas las tablas dinámicas y gráficos con fuente dinámica.
+##  refresh_all(self) {#}
+Actualice todas las tablas dinámicas y gráficos con la fuente dinámica.
 
 
 
 ```python
+
 def refresh_all(self):
     ...
 ```

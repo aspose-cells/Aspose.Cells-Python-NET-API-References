@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_encrypted mülk
 
-Belge şifrelenmişse ve açmak için parola gerektiriyorsa true değerini döndürür.
+Belge şifrelenmişse ve açmak için parola gerekiyorsa true değerini döndürür.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo)

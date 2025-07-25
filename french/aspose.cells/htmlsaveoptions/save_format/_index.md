@@ -3,7 +3,7 @@ title: save_format propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 630
+weight: 720
 url: /fr/aspose.cells/htmlsaveoptions/save_format/
 is_root: false
 ---

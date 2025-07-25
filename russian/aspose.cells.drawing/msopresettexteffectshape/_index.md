@@ -1,65 +1,65 @@
 ---
 title: MsoPresetTextEffectShape перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1040
+weight: 1030
 url: /ru/aspose.cells.drawing/msopresettexteffectshape/
 is_root: false
 ---
 ##  MsoPresetTextEffectShape перечисление
-Представляет предустановленный тип формы текстового эффекта WordArt.
+Представляет собой предустановленный тип формы текстового эффекта WordArt.
 
 
 
-Тип MsoPresetTextEffectShape предоставляет следующие члены:
+Тип MsoPresetTextEffectShape предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| PLAIN_TEXT | Простой текст|
+| PLAIN_TEXT | Обычный текст|
 | STOP | Останавливаться|
 | TRIANGLE_UP | ТреугольникВверх|
 | TRIANGLE_DOWN | ТреугольникВниз|
-| CHEVRON_UP | ШевронВверх|
+| CHEVRON_UP | ChevronUp|
 | CHEVRON_DOWN | ChevronDown|
-| RING_INSIDE | КольцоВнутри|
-| RING_OUTSIDE | КольцоСнаружи|
-| ARCH_UP_CURVE | АркаВверхКривая|
-| ARCH_DOWN_CURVE |АркаВнизКривая|
-| CIRCLE_CURVE | КругКривая|
-| BUTTON_CURVE | КнопкаКривая|
+| RING_INSIDE | RingInside|
+| RING_OUTSIDE | RingOutside|
+| ARCH_UP_CURVE | ArchUpCurve|
+| ARCH_DOWN_CURVE | ArchDownCurve|
+| CIRCLE_CURVE | CircleCurve|
+| BUTTON_CURVE | ButtonCurve|
 | ARCH_UP_POUR | ArchUpPour|
-| ARCH_DOWN_POUR | АркаВнизНалить|
-| CIRCLE_POUR | КругНалить|
-| BUTTON_POUR | КнопкаНалить|
-| CURVE_UP | КриваяВверх|
-| CURVE_DOWN | КриваяВниз|
+| ARCH_DOWN_POUR | ArchDownPour|
+| CIRCLE_POUR | CirclePour|
+| BUTTON_POUR | ButtonPour|
+| CURVE_UP | CurveUp|
+| CURVE_DOWN | CurveDown|
 | CAN_UP | CanUp|
 | CAN_DOWN | CanDown|
-| WAVE1 | Волна 1|
+| WAVE1 | Волна1|
 | WAVE2 | Волна2|
-| DOUBLE_WAVE1 | Даблволна1|
-| DOUBLE_WAVE2 | ДаблВейв2|
-| INFLATE | Надувать|
-| DEFLATE | Выкачать|
+| DOUBLE_WAVE1 | DoubleWave1|
+| DOUBLE_WAVE2 | DoubleWave2|
+| INFLATE | Надуть|
+| DEFLATE | Сдуть|
 | INFLATE_BOTTOM | InflateBottom|
 | DEFLATE_BOTTOM | DeflateBottom|
 | INFLATE_TOP | InflateTop|
 | DEFLATE_TOP | DeflateTop|
-| DEFLATE_INFLATE | ВыкачатьНадуть|
-| DEFLATE_INFLATE_DEFLATE | DeflateInflateDeflate|
+| DEFLATE_INFLATE |СдутьИнфлейт|
+| DEFLATE_INFLATE_DEFLATE | СдутьИнфлейтСдуть|
 | FADE_RIGHT | FadeRight|
 | FADE_LEFT | FadeLeft|
-| FADE_UP | Растворяться|
-| FADE_DOWN | FadeDown|
-| SLANT_UP | Наклонный|
-| SLANT_DOWN | наклон вниз|
-| CASCADE_UP | КаскадВверх|
-| CASCADE_DOWN | КаскадВниз|
-| MIXED | Смешанный|
+| FADE_UP | FadeUp|
+| FADE_DOWN | Затухание|
+| SLANT_UP | SlantUp|
+| SLANT_DOWN | SlantDown|
+| CASCADE_UP | CascadeUp|
+| CASCADE_DOWN | CascadeDown|
+| MIXED | смешанный|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

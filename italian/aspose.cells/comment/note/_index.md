@@ -1,6 +1,6 @@
 ---
 title: note proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -13,7 +13,7 @@ Rappresenta il contenuto del commento.
 
 ###  Osservazioni
 
-Se si tratta di un commento in thread, note non può essere modificato, altrimenti MS Excel non potrebbe elaborarlo come commento in thread.
+Se si tratta di un commento con thread, note non può essere modificato, altrimenti MS Excel non potrebbe elaborarlo come commento con thread.
 
 ###  Esempio
 

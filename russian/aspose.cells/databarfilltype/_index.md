@@ -1,14 +1,14 @@
 ---
 title: DataBarFillType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1990
+weight: 1900
 url: /ru/aspose.cells/databarfilltype/
 is_root: false
 ---
 ##  DataBarFillType перечисление
-Указывает, как строка данных заполняется цветом.
+Определяет, как заполняется цветом панель данных.
 
 
 

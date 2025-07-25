@@ -1,6 +1,6 @@
 ---
 title: show_error недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 260
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error недвижимость
 
-Указывает, будет ли отображаться сообщение об ошибке проверки данных всякий раз, когда пользователь вводит неверные данные.
+Указывает, будет ли отображаться сообщение об ошибке проверки данных каждый раз, когда пользователь вводит неверные данные.
 ###  Определение:
 ```python
 @property

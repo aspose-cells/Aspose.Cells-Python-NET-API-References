@@ -9,7 +9,7 @@ is_root: false
 ---
 ## end属性
 
-获取群组的日期时间 end。
+获取组的 end 日期时间。
 ### 定义：
 ```python
 @property

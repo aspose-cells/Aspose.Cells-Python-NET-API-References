@@ -1,15 +1,15 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 530
 url: /ru/aspose.cells/range/width/
 is_root: false
 ---
 ##  width недвижимость
 
-Получает width диапазона в пунктах.
+Получает width из диапазона в точках.
 ###  Определение:
 ```python
 @property

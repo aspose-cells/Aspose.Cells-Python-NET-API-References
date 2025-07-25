@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  folder_path mülk
 
-Fontlar klasörünün yolu.
+Yazı tipleri klasörünün yolu.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FolderFontSource](/cells/python-net/tr/aspose.cells/folderfontsource)
+* modül [`aspose.cells`](../../)
+* sınıf [`FolderFontSource`](/cells/python-net/tr/aspose.cells/folderfontsource)

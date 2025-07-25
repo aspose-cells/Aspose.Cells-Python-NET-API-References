@@ -3,13 +3,13 @@ title: default_pivot_style_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---
 ##  default_pivot_style_name عقار
 
-الحصول على اسم النمط الافتراضي للجدول المحوري وتعيينه.
+يحصل على اسم النمط الافتراضي لجدول المحور ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

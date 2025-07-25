@@ -1,5 +1,5 @@
 ---
-title: العد XAdESType
+title: XAdESType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 30
 url: /ar/aspose.cells.digitalsignatures/xadestype/
 is_root: false
 ---
-##  العد XAdESType
-نوع التوقيع الإلكتروني المتقدم بتنسيق XML (XAdES).
+##  XAdESType التعداد
+نوع من التوقيع الإلكتروني المتقدم XML (XAdES).
 
 
 
-يكشف نوع XAdESType الأعضاء التالية:
+يكشف النوع XAdESType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | تم إيقاف تشغيل XAdES.|
-| X_AD_ES | XAdES الأساسية.|
+| X_AD_ES | XAdES الأساسي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.digitalsignatures](..)
+* الوحدة [`aspose.cells.digitalsignatures`](..)

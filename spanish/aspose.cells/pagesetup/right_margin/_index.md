@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin propiedad
 
-Representa el tamaño del margen derecho, en unidades de centímetros.
+Representa el tamaño del margen derecho, en unidad de centímetros.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

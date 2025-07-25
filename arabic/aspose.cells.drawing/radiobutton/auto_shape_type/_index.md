@@ -3,13 +3,13 @@ title: auto_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells.drawing/radiobutton/auto_shape_type/
 is_root: false
 ---
 ##  auto_shape_type عقار
 
-الحصول على نوع الشكل التلقائي وتعيينه.
+يحصل على نوع الشكل التلقائي ويقوم بتعيينه.
 
 ###  مثال
 

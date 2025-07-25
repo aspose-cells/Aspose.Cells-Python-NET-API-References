@@ -1,15 +1,15 @@
 ---
 title: standard_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1270
+weight: 1300
 url: /ru/aspose.cells/cells/standard_width/
 is_root: false
 ---
 ##  standard_width недвижимость
 
-Получает или задает ширину столбца по умолчанию на листе в символах.
+Возвращает или задает ширину столбца по умолчанию на листе (в символах).
 ###  Определение:
 ```python
 @property

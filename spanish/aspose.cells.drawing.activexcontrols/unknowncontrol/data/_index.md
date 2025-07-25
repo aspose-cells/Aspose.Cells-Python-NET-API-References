@@ -18,5 +18,5 @@ def data(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [UnknownControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`UnknownControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/unknowncontrol)

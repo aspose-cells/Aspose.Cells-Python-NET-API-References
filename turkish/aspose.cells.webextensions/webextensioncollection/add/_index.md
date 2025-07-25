@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.webextensions/webextensioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Bir web uzantısı ekler.
+##  add(self) {#}
+Web uzantısı ekler.
 
 
 ###  İadeler
 
-İçerik.
+Endeks.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionCollection](/cells/python-net/tr/aspose.cells.webextensions/webextensioncollection)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionCollection`](/cells/python-net/tr/aspose.cells.webextensions/webextensioncollection)

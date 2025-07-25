@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  down_bars mülk
 
-Çizgi grafikteki aşağı çubukları temsil eden [`DropBars`](/cells/python-net/tr/aspose.cells.charts/dropbars) nesnesini döndürür.
-Yalnızca çizgi grafikleri için geçerlidir.
+Bir çizgi grafiğindeki aşağı çubukları temsil eden [`DropBars`](/cells/python-net/tr/aspose.cells.charts/dropbars) nesnesini döndürür.
+Sadece çizgi grafikler için geçerlidir.
 ###  Tanım:
 ```python
 @property

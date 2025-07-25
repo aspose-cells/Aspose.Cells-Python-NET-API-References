@@ -1,6 +1,6 @@
 ---
 title: surface_lighting_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  surface_lighting_type недвижимость
 
-Получает и задает тип освещения, который должен применяться к сцене фигуры.
+Получает и задает тип освещения, который должен быть применен к сцене формы.
 Значение по умолчанию — LightRigType.ThreePoint.
 ###  Определение:
 ```python
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Format3D](/cells/python-net/ru/aspose.cells.drawing/format3d)
-* класс [LightRigType](/cells/python-net/ru/aspose.cells.drawing/lightrigtype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Format3D`](/cells/python-net/ru/aspose.cells.drawing/format3d)
+* класс [`LightRigType`](/cells/python-net/ru/aspose.cells.drawing/lightrigtype)

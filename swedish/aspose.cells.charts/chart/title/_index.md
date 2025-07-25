@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  title fastighet
 
-Får sjökortets title.
+Hämtar diagrammets title.
 ###  Definition:
 ```python
 @property

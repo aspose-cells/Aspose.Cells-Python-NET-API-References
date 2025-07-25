@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_refers_to fastighet
 
-Hämtar eller ställer in en R1C1-referens för [Name](/cells/python-net/sv/aspose.cells/name).
+Hämtar eller ställer in en R1C1-referens för [`Name`](/cells/python-net/sv/aspose.cells/name).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_refers_to(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

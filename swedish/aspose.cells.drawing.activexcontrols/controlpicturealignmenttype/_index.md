@@ -3,12 +3,12 @@ title: ControlPictureAlignmentType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 190
 url: /sv/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
 ##  ControlPictureAlignmentType uppräkning
-Representerar justeringen av bilden inuti formuläret eller bilden.
+Representerar bildens justering inuti formuläret eller bilden.
 
 
 
@@ -19,11 +19,11 @@ Typen ControlPictureAlignmentType avslöjar följande medlemmar:
 | :- | :- |
 | TOP_LEFT | Det övre vänstra hörnet.|
 | TOP_RIGHT | Det övre högra hörnet.|
-| CENTER | Mitten.|
-| BOTTOM_LEFT | Nedre vänstra hörnet.|
+| CENTER | Centrum.|
+| BOTTOM_LEFT | Det nedre vänstra hörnet.|
 | BOTTOM_RIGHT | Det nedre högra hörnet.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

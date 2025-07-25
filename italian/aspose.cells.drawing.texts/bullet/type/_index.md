@@ -1,15 +1,15 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 40
 url: /it/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta lo type del bullet.
+Ottiene e imposta il valore type del punto elenco.
 ###  Definizione:
 ```python
 @property

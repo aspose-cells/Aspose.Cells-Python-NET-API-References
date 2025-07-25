@@ -1,5 +1,5 @@
 ---
-title: copy méthode
+title: méthode copy
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 60
 url: /fr/aspose.cells.drawing/picture/copy/
 is_root: false
 ---
-##  copy(source, options) {#Picture-CopyOptions}
+##  copy(self, source, options) {#aspose.cells.drawing.Picture-aspose.cells.CopyOptions}
 Copiez l'image.
 
 
 
 ```python
+
 def copy(self, source, options):
     ...
 ```
@@ -20,8 +21,8 @@ def copy(self, source, options):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source | [Picture](/cells/python-net/fr/aspose.cells.drawing/picture) | L'image source.|
-| options | [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions) | Les options de copie.|
+| source | [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture) | L'image source.|
+| options | [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions) | Les options de copie.|
 
 ###  Exemple
 
@@ -50,5 +51,5 @@ workbook.save("result.xlsx")
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Picture](/cells/python-net/fr/aspose.cells.drawing/picture)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Picture`](/cells/python-net/fr/aspose.cells.drawing/picture)

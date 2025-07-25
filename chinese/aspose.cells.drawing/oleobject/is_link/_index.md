@@ -3,13 +3,13 @@ title: is_link属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 730
 url: /zh/aspose.cells.drawing/oleobject/is_link/
 is_root: false
 ---
 ## is_link属性
 
-如果 OleObject 链接到文件，则返回 true。
+如果 OleObject 链接到该文件，则返回 true。
 ### 定义：
 ```python
 @property

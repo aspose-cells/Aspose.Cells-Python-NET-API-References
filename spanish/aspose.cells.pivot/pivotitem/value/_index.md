@@ -3,13 +3,13 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 180
 url: /es/aspose.cells.pivot/pivotitem/value/
 is_root: false
 ---
 ##  value propiedad
 
-Obtiene el value del elemento dinámico.
+Obtiene el value del elemento pivote
 ###  Definición:
 ```python
 @property

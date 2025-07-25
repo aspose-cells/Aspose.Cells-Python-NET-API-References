@@ -1,6 +1,6 @@
 ---
 title: TrendlineType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 680
@@ -19,9 +19,9 @@ is_root: false
 | :- | :- |
 | EXPONENTIAL | Экспоненциальный|
 | LINEAR | Линейный|
-| LOGARITHMIC | логарифмический|
-| MOVING_AVERAGE | Скользящее среднее|
-| POLYNOMIAL | Полиномиальный|
+| LOGARITHMIC | Логарифмический|
+| MOVING_AVERAGE | Скользящая средняя|
+| POLYNOMIAL | Многочлен|
 | POWER | Власть|
 
 

@@ -3,15 +3,15 @@ title: default_font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ar/aspose.cells.saving/ebooksaveoptions/default_font_name/
 is_root: false
 ---
 ##  default_font_name عقار
 
-حدد اسم الخط الافتراضي لتصدير html، وسيتم استخدام الخط الافتراضي عندما لا يكون خط النمط موجودًا،
-إذا كانت هذه الخاصية فارغة، فسيستخدم Aspose.Cells خطًا عالميًا له نفس عائلة الخط الأصلي،
-القيمه الافتراضيه فارغه.
+حدد اسم الخط الافتراضي لتصدير html، سيتم استخدام الخط الافتراضي عندما لا يكون خط النمط موجودًا،
+إذا كانت هذه الخاصية فارغة، فسوف يستخدم Aspose.Cells خطًا عالميًا له نفس عائلة الخط الأصلي،
+القيمة الافتراضية هي null.
 ###  تعريف:
 ```python
 @property

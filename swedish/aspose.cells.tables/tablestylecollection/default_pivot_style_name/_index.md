@@ -3,13 +3,13 @@ title: default_pivot_style_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 120
 url: /sv/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---
 ##  default_pivot_style_name fastighet
 
-Hämtar och ställer in standardformatnamnet för pivottabellen.
+Hämtar och anger standardstilnamnet för pivottabellen.
 ###  Definition:
 ```python
 @property

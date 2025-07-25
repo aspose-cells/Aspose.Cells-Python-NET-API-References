@@ -3,13 +3,13 @@ title: original_height_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 950
+weight: 970
 url: /de/aspose.cells.drawing/picture/original_height_inch/
 is_root: false
 ---
 ##  original_height_inch Eigentum
 
-Ruft die ursprüngliche Höhe des Bildes in der Einheit Zoll ab.
+Ruft die ursprüngliche Höhe des Bildes in Zoll ab.
 
 ###  Beispiel
 

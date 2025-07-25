@@ -1,6 +1,6 @@
 ---
 title: back_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color недвижимость
 
-Получает и задает задний цвет линии границы.
+Получает и задает цвет задней линии границы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoLineFormatHelper](/cells/python-net/ru/aspose.cells.drawing/msolineformathelper)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoLineFormatHelper`](/cells/python-net/ru/aspose.cells.drawing/msolineformathelper)

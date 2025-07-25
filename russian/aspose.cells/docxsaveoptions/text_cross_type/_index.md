@@ -1,15 +1,13 @@
 ---
 title: text_cross_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 350
 url: /ru/aspose.cells/docxsaveoptions/text_cross_type/
 is_root: false
 ---
 ##  text_cross_type недвижимость
-
-Получает или задает отображаемый тип текста, когда ширина текста больше ширины ячейки.
 ###  Определение:
 ```python
 @property

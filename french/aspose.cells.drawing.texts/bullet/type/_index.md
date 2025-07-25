@@ -3,13 +3,13 @@ title: type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 40
 url: /fr/aspose.cells.drawing.texts/bullet/type/
 is_root: false
 ---
 ##  type propriété
 
-Obtient et définit le type de la puce.
+Obtient et définit le type de bullet.
 ###  Définition:
 ```python
 @property

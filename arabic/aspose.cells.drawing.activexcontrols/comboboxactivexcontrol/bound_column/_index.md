@@ -1,5 +1,5 @@
 ---
-title: bound_column الملكية
+title: bound_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/bound_column/
 is_root: false
 ---
-##  bound_column الملكية
+##  bound_column عقار
 
-يمثل كيفية تحديد الخاصية Value لـ ComboBox أو ListBox
+يمثل كيفية تحديد خاصية القيمة لـ ComboBox أو ListBox
 عندما تكون قيمة خصائص MultiSelect (fmMultiSelectSingle).
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ComboBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ComboBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

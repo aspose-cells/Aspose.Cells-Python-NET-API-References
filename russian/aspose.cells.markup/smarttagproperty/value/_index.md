@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value недвижимость
 
-Получает и задает value свойства.
+Получает и задает значение value свойства.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [SmartTagProperty](/cells/python-net/ru/aspose.cells.markup/smarttagproperty)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`SmartTagProperty`](/cells/python-net/ru/aspose.cells.markup/smarttagproperty)

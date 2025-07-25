@@ -3,16 +3,17 @@ title: set_text_of_total方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 330
 url: /zh/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/
 is_root: false
 ---
-##  set_text_of_total {#str}
+##  set_text_of_total(self, text) {#str}
 设置数据透视表中“总计”标签的文本。
 
 
 
 ```python
+
 def set_text_of_total(self, text):
     ...
 ```

@@ -1,13 +1,13 @@
 ---
-title: row_height_pixel 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: row_height_pixel属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 230
 url: /zh/aspose.cells.slicers/slicer/row_height_pixel/
 is_root: false
 ---
-## row_height_pixel 属性
+## row_height_pixel属性
 
 返回或设置指定切片器中每行的高度（以像素为单位）。
 
@@ -29,5 +29,5 @@ def row_height_pixel(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

@@ -1,9 +1,9 @@
 ---
 title: bool_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 400
+weight: 410
 url: /it/aspose.cells/cell/bool_value/
 is_root: false
 ---

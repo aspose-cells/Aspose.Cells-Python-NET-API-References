@@ -7,12 +7,13 @@ weight: 160
 url: /tr/aspose.cells/cells/copy_columns/
 is_root: false
 ---
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number) {#Cells-int-int-int}
-Tüm sütunun verilerini ve biçimlerini kopyalar.
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number) {#aspose.cells.Cells-int-int-int}
+Bir sütunun tamamının verilerini ve formatlarını kopyalar.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number):
     ...
 ```
@@ -20,18 +21,19 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells0 | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_column_index | int | Kaynak sütun dizini.|
 | destination_column_index | int | Hedef sütun dizini.|
 | column_number | int | Kopyalanan sütun numarası.|
 
 
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#Cells-int-int-int-PasteOptions}
-Tüm sütunun verilerini ve biçimlerini kopyalar.
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions}
+Bir sütunun tamamının verilerini ve formatlarını kopyalar.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options):
     ...
 ```
@@ -39,19 +41,20 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells0 | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_column_index | int | Kaynak sütun dizini.|
 | destination_column_index | int | Hedef sütun dizini.|
 | column_number | int | Kopyalanan sütun numarası.|
-| paste_options | [PasteOptions](/cells/python-net/tr/aspose.cells/pasteoptions) | yapıştırma seçenekleri.|
+| paste_options | [`PasteOptions`](/cells/python-net/tr/aspose.cells/pasteoptions) | Yapıştırma seçenekleri.|
 
 
-##  copy_columns(source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#Cells-int-int-int-int}
+##  copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#aspose.cells.Cells-int-int-int-int}
 Tüm sütunların verilerini ve biçimlerini kopyalar.
 
 
 
 ```python
+
 def copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns):
     ...
 ```
@@ -59,7 +62,7 @@ def copy_columns(self, source_cells, source_column_index, source_total_columns, 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi, kopyalanacak verileri ve biçimleri içerir.|
+| source_cells | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Kaynak Cells nesnesi kopyalanacak verileri ve biçimleri içerir.|
 | source_column_index | int | Kaynak sütun dizini.|
 | source_total_columns | int | Kaynak sütunların sayısı.|
 | destination_column_index | int | Hedef sütun dizini.|
@@ -68,5 +71,5 @@ def copy_columns(self, source_cells, source_column_index, source_total_columns, 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

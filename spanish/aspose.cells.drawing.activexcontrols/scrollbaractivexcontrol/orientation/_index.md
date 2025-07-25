@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation propiedad
 
-Obtiene y establece si SpinButton o ScrollBar están orientados vertical u horizontalmente.
+Obtiene y establece si el SpinButton o ScrollBar está orientado vertical u horizontalmente.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlScrollOrientation](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* clase [ScrollBarActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlScrollOrientation`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* clase [`ScrollBarActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

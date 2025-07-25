@@ -3,13 +3,13 @@ title: left_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ar/aspose.cells.drawing/chartshape/left_inch/
 is_root: false
 ---
 ##  left_inch عقار
 
-يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة البوصة.
+يمثل الإزاحة الأفقية للشكل من العمود الأيسر، بوحدة البوصات.
 
 ###  مثال
 

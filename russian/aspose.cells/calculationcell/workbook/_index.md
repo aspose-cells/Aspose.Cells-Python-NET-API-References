@@ -1,6 +1,6 @@
 ---
 title: workbook недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CalculationCell](/cells/python-net/ru/aspose.cells/calculationcell)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationCell`](/cells/python-net/ru/aspose.cells/calculationcell)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

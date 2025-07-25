@@ -1,14 +1,14 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.markup/smarttagsetting/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-添加一个单元格智能标签。
+##  add(self, cell_name) {#str}
+添加单元格智能标签。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,16 +28,17 @@ def add(self, cell_name):
 | cell_name | str |单元格的名称。|
 
 
-##  add(row, column) {#int-int}
-将 [SmartTagCollection](/cells/python-net/zh/aspose.cells.markup/smarttagcollection) 对象添加到单元格。
+##  add(self, row, column) {#int-int}
+将 [`SmartTagCollection`](/cells/python-net/zh/aspose.cells.markup/smarttagcollection) 对象添加到单元格。
 
 
 ### 返回
 
-返回工作表中 [SmartTagCollection](/cells/python-net/zh/aspose.cells.markup/smarttagcollection) 对象的索引。
+返回工作表中 [`SmartTagCollection`](/cells/python-net/zh/aspose.cells.markup/smarttagcollection) 对象的索引。
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -50,6 +52,6 @@ def add(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.markup](../../)
-* 类 [SmartTagCollection](/cells/python-net/zh/aspose.cells.markup/smarttagcollection)
-* 类 [SmartTagSetting](/cells/python-net/zh/aspose.cells.markup/smarttagsetting)
+* 模块[`aspose.cells.markup`](../../)
+* 类 [`SmartTagCollection`](/cells/python-net/zh/aspose.cells.markup/smarttagcollection)
+* 类 [`SmartTagSetting`](/cells/python-net/zh/aspose.cells.markup/smarttagsetting)

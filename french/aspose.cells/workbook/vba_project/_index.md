@@ -3,7 +3,7 @@ title: vba_project propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 670
+weight: 700
 url: /fr/aspose.cells/workbook/vba_project/
 is_root: false
 ---

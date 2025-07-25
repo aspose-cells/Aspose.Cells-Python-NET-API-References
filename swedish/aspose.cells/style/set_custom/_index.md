@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells/style/set_custom/
 is_root: false
 ---
-##  set_custom(custom, builtin_preference) {#str-bool}
-Ställer in den anpassade nummerformatsträngen för en cell.
+##  set_custom(self, custom, builtin_preference) {#str-bool}
+Ställer in strängen Anpassat talformat för en cell.
 
 
 
 ```python
+
 def set_custom(self, custom, builtin_preference):
     ...
 ```
@@ -20,11 +21,11 @@ def set_custom(self, custom, builtin_preference):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| custom | str | Anpassad nummerformatsträng, ska vara InvariantCulture-mönster.|
-| builtin_preference | bool | Om det anges, matchar strängen anpassat nummerformat ett av de inbyggda nummerformaten<br/> motsvarande aktuella regionala inställningar, oavsett om sifferformatet är inbyggt istället för Custom.|
+| custom | str |Anpassad talformatssträng, ska vara ett InvariantCulture-mönster.|
+| builtin_preference | bool | Om den angivna strängen för anpassat talformat matchar ett av de inbyggda talformaten<br/> motsvarande aktuella regionala inställningar, om talformatet är inbyggt istället för Anpassat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

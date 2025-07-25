@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window fastighet
 
-Sant om Microsoft Excel ändrar storleken på diagrammet för att matcha storleken på diagrambladets fönster.
+Sant om Microsoft Excel ändrar storlek på diagrammet så att det matchar storleken på diagrambladsfönstret.
 ###  Definition:
 ```python
 @property

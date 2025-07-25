@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
-##  set_calculated_value(v) {#any}
+##  set_calculated_value(self, v) {#any}
 Hücre için hesaplanan değeri ayarlar.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```
@@ -23,10 +24,10 @@ def set_calculated_value(self, v):
 | v | any |  |
 ###  Notlar
 
-Kullanıcı, hücre için otomatik hesaplamayı yoksaymak için bu yöntemle hesaplanan sonucu ayarlayabilir.
+Kullanıcı bu yöntemle hesaplanan sonucun hücre için otomatik hesaplamayı göz ardı edecek şekilde ayarlayabilir.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [CalculationCell](/cells/python-net/tr/aspose.cells/calculationcell)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell)

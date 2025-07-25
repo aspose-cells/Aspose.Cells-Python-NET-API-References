@@ -3,16 +3,17 @@ title: set_color metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 20
+weight: 30
 url: /sv/aspose.cells/bordercollection/set_color/
 is_root: false
 ---
-##  set_color(color) {#aspose.pydrawing.Color}
-Ställer in färgen på alla ramar i samlingen.
+##  set_color(self, color) {#aspose.pydrawing.Color}
+Anger färgen på alla ramar i samlingen.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```
@@ -20,10 +21,10 @@ def set_color(self, color):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| color | aspose.pydrawing.Color | Borders färg.|
+| color | aspose.pydrawing.Color | Kanternas färg.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [BorderCollection](/cells/python-net/sv/aspose.cells/bordercollection)
+* modul [`aspose.cells`](../../)
+* klass [`BorderCollection`](/cells/python-net/sv/aspose.cells/bordercollection)

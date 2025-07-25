@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent propriété
 
-Renvoie l'objet Worksheet qui représente la feuille contenant le segment. Lecture seulement.
+Renvoie l'objet [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet) contenant ce slicer. Lecture seule.
 
 ###  Exemple
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

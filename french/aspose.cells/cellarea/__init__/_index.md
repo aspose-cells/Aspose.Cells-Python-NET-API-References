@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/cellarea/__init__/
 is_root: false
 ---
-##  CellArea() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de CellArea
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)

@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells.charts/displayunitlabel/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-تقوم بإرجاع عنصر الحروف الذي يمثل نطاقًا من characters داخل النص.
+##  characters(self, start_index, length) {#int-int}
+يقوم بإرجاع كائن أحرف يمثل نطاق characters داخل النص.
 
 
 ###  عائدات
 
-كائن الأحرف.
+كائنات الأحرف.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس بداية الحرف.|
+| start_index | int | مؤشر بداية الحرف.|
 | length | int | عدد الأحرف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

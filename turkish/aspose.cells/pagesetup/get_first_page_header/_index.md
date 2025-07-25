@@ -7,12 +7,13 @@ weight: 90
 url: /tr/aspose.cells/pagesetup/get_first_page_header/
 is_root: false
 ---
-##  get_first_page_header(section) {#int}
+##  get_first_page_header(self, section) {#int}
 Bir Excel dosyasının ilk sayfa başlığını biçimlendiren bir betik alır.
 
 
 
 ```python
+
 def get_first_page_header(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_first_page_header(self, section):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

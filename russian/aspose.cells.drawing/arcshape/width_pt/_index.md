@@ -1,9 +1,9 @@
 ---
 title: width_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1260
+weight: 1270
 url: /ru/aspose.cells.drawing/arcshape/width_pt/
 is_root: false
 ---

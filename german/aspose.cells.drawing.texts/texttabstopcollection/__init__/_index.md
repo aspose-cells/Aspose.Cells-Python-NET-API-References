@@ -1,5 +1,5 @@
 ---
-title: TextTabStopCollection Konstrukteur
+title: TextTabStopCollection Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.drawing.texts/texttabstopcollection/__init__/
 is_root: false
 ---
-##  TextTabStopCollection() {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt eine neue Instanz von TextTabStopCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextTabStopCollection](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextTabStopCollection`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)

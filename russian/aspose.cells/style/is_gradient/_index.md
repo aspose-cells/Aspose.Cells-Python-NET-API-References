@@ -1,6 +1,6 @@
 ---
 title: is_gradient недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 330
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient недвижимость
 
-Указывает, является ли затенение ячейки градиентным узором.
+Указывает, является ли затенение ячеек градиентным узором.
 ###  Определение:
 ```python
 @property

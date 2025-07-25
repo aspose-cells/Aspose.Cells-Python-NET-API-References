@@ -3,17 +3,17 @@ title: top عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /ar/aspose.cells.drawing/chartshape/top/
 is_root: false
 ---
 ##  top عقار
 
-يمثل الإزاحة الرأسية للشكل من الصف top، بوحدة البكسل.
+يمثل الإزاحة الرأسية للشكل من صفه top، بوحدة البكسل.
 
 ###  ملاحظات
 
-إذا كان الشكل موجودًا في المخطط، فإنه يمثل الإزاحة الرأسية للشكل من حدوده top.
+إذا كان الشكل موجودًا في الرسم البياني، فإنه يمثل الإزاحة الرأسية للشكل من حدوده top.
 
 ###  مثال
 

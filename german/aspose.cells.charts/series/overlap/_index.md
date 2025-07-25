@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  overlap Eigentum
 
-Gibt an, wie Balken und Säulen positioniert werden.
- Kann ein Wert zwischen – 100 und 100 sein.
+Gibt an, wie Balken und Spalten positioniert werden.
+Kann ein Wert zwischen –100 und 100 sein.
 Gilt nur für 2D-Balken- und 2D-Säulendiagramme.
 ###  Definition:
 ```python
@@ -23,5 +23,5 @@ def overlap(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

@@ -1,6 +1,6 @@
 ---
 title: SlideViewType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| VIEW | Экспорт в виде представления в MS Excel.|
-| PRINT | Экспорт в виде печати.|
+| VIEW | Экспорт в виде MS Excel.|
+| PRINT | Экспорт в печать.|
 
 
 

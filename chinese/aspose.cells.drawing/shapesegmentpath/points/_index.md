@@ -1,13 +1,13 @@
 ---
-title: points 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: points属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/shapesegmentpath/points/
 is_root: false
 ---
-## points 属性
+## points属性
 
 获取路径段中的 points
 ### 定义：
@@ -18,6 +18,6 @@ def points(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapePathPointCollection](/cells/python-net/zh/aspose.cells.drawing/shapepathpointcollection)
-* 类 [ShapeSegmentPath](/cells/python-net/zh/aspose.cells.drawing/shapesegmentpath)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapePathPointCollection`](/cells/python-net/zh/aspose.cells.drawing/shapepathpointcollection)
+* 类 [`ShapeSegmentPath`](/cells/python-net/zh/aspose.cells.drawing/shapesegmentpath)

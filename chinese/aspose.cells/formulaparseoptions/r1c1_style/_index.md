@@ -9,7 +9,7 @@ is_root: false
 ---
 ## r1c1_style属性
 
-公式是否为R1C1参考风格。默认为 false。
+公式是否为 R1C1 引用样式。默认为 false。
 ### 定义：
 ```python
 @property

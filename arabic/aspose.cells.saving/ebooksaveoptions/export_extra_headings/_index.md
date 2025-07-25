@@ -3,14 +3,14 @@ title: export_extra_headings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 300
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_extra_headings/
 is_root: false
 ---
 ##  export_extra_headings عقار
 
 يشير إلى ما إذا كان سيتم تصدير عناوين إضافية عندما يكون طول النص أطول من الحد الأقصى لعمود العرض.
-القيمة الافتراضية هي كاذبة. إذا كنت تريد استيراد ملف html إلى ملف Excel، فيرجى الاحتفاظ بالقيمة الافتراضية.
+القيمة الافتراضية هي خطأ. إذا كنت ترغب في استيراد ملف HTML إلى إكسل، يُرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property

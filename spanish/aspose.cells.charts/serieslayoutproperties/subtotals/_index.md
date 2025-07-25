@@ -3,7 +3,7 @@ title: subtotals propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 130
 url: /es/aspose.cells.charts/serieslayoutproperties/subtotals/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def subtotals(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SeriesLayoutProperties](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SeriesLayoutProperties`](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties)

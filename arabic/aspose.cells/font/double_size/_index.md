@@ -1,5 +1,5 @@
 ---
-title: double_size الملكية
+title: double_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/font/double_size/
 is_root: false
 ---
-##  double_size الملكية
+##  double_size عقار
 
-الحصول على الحجم المزدوج للخط وتعيينه.
+يحصل على حجم الخط المزدوج ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def double_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

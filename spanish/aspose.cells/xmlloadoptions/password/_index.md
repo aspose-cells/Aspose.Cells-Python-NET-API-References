@@ -3,7 +3,7 @@ title: password propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 250
 url: /es/aspose.cells/xmlloadoptions/password/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlLoadOptions](/cells/python-net/es/aspose.cells/xmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlLoadOptions`](/cells/python-net/es/aspose.cells/xmlloadoptions)

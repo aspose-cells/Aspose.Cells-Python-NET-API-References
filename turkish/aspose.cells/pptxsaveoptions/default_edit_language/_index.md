@@ -3,18 +3,11 @@ title: default_edit_language mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 120
 url: /tr/aspose.cells/pptxsaveoptions/default_edit_language/
 is_root: false
 ---
 ##  default_edit_language mülk
-
-Varsayılan düzenleme dilini alır veya ayarlar.
-
-###  Notlar
-
-Farklı düzenleme dilleri ayarlandığında metin paragrafı için farklı düzenler görüntüleyebilir/oluşturabilir.
-Varsayılan [`DefaultEditLanguage.AUTO`](/cells/python-net/tr/aspose.cells/defaulteditlanguage#AUTO)'dir.
 ###  Tanım:
 ```python
 @property

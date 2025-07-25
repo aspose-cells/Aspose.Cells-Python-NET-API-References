@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_rectangular_cornered propriété
 
-Obtient ou définit une valeur indiquant si la zone du graphique est rectangulaire.
-La valeur par défaut est vraie.
+Obtient ou définit une valeur indiquant si la zone du graphique est rectangulaire et angulaire.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

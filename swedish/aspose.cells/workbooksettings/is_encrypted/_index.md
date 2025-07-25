@@ -3,7 +3,7 @@ title: is_encrypted fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 260
 url: /sv/aspose.cells/workbooksettings/is_encrypted/
 is_root: false
 ---

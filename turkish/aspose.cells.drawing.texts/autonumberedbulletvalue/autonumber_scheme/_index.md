@@ -21,6 +21,6 @@ def autonumber_scheme(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [AutoNumberedBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* sınıf [TextAutonumberScheme](/cells/python-net/tr/aspose.cells.drawing.texts/textautonumberscheme)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`AutoNumberedBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* sınıf [`TextAutonumberScheme`](/cells/python-net/tr/aspose.cells.drawing.texts/textautonumberscheme)

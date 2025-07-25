@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/externallink/add_external_name/
 is_root: false
 ---
-##  add_external_name(text, refer_to) {#str-str}
+##  add_external_name(self, text, refer_to) {#str-str}
 Harici bir ad ekler.
 
 
 
 ```python
+
 def add_external_name(self, text, refer_to):
     ...
 ```
@@ -20,11 +21,11 @@ def add_external_name(self, text, refer_to):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| text | str | Harici adın metni.<br/>Harici ad bir çalışma sayfasına aitse, metin Sayfa1!Metin şeklinde olmalıdır.|
-| refer_to | str | Harici adın referTo'su. Bir hücre veya aralık olmalıdır.|
+| text | str | Dış ismin metni.<br/> Eğer harici isim bir çalışma sayfasına aitse, metin Sheet1!Text şeklinde olmalıdır.|
+| refer_to | str | Harici ismin referTo'su. Bir hücre veya aralık olmalıdır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLink](/cells/python-net/tr/aspose.cells/externallink)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLink`](/cells/python-net/tr/aspose.cells/externallink)

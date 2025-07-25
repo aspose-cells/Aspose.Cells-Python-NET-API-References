@@ -1,15 +1,15 @@
 ---
 title: separator недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells/txtsaveoptions/separator/
 is_root: false
 ---
 ##  separator недвижимость
 
-Получает и устанавливает символьный разделитель текстового файла.
+Получает и задает символьный разделитель текстового файла.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def separator(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtSaveOptions](/cells/python-net/ru/aspose.cells/txtsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtSaveOptions`](/cells/python-net/ru/aspose.cells/txtsaveoptions)

@@ -3,13 +3,13 @@ title: html_string Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 520
+weight: 540
 url: /de/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string Eigentum
 
-Ruft die HTML-Zeichenfolge ab, die Daten und einige Formate in dieser Zelle enthält, und legt sie fest.
+Ruft die HTML-Zeichenfolge ab und legt sie fest, die Daten und einige Formate in dieser Zelle enthält.
 ###  Definition:
 ```python
 @property

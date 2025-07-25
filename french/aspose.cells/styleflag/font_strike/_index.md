@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_strike propriété
 
-Le réglage de la police barrée sera appliqué.
+Le paramètre de suppression de police sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_strike(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

@@ -1,6 +1,6 @@
 ---
 title: MapChartRegionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 570
@@ -8,21 +8,21 @@ url: /ru/aspose.cells.charts/mapchartregiontype/
 is_root: false
 ---
 ##  MapChartRegionType перечисление
-Представляет тип области диаграммы карты.
+Представляет тип региона карты.
 
 
 
-Тип MapChartRegionType предоставляет следующие члены:
+Тип MapChartRegionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | автоматический|
-| DATA_ONLY | Только Данные.|
+| AUTOMATIC | Автоматический|
+| DATA_ONLY | Только данные.|
 | COUNTRY_REGION_LIST | Список регионов страны.|
 | WORLD | Мир.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

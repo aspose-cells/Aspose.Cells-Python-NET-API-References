@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  side_wall mülk
 
-boyutlu bir grafiğin yan duvarını temsil eden [`Chart.walls`](/cells/python-net/tr/aspose.cells.charts/chart#walls) nesnesini döndürür.
+3 boyutlu bir grafiğin yan duvarını temsil eden [`Chart.walls`](/cells/python-net/tr/aspose.cells.charts/chart#walls) nesnesini döndürür.
 ###  Tanım:
 ```python
 @property

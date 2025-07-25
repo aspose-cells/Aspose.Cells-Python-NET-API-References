@@ -3,13 +3,13 @@ title: only_visible_cells mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 30
+weight: 40
 url: /tr/aspose.cells/pasteoptions/only_visible_cells/
 is_root: false
 ---
 ##  only_visible_cells mülk
 
-Doğru, yalnızca görünür hücreleri kopyalamak anlamına gelir.
+True sadece görünen hücrelerin kopyalanması anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def only_visible_cells(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PasteOptions](/cells/python-net/tr/aspose.cells/pasteoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PasteOptions`](/cells/python-net/tr/aspose.cells/pasteoptions)

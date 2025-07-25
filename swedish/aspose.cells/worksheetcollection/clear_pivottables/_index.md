@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/worksheetcollection/clear_pivottables/
 is_root: false
 ---
-##  clear_pivottables() {#}
-Rensar pivottabeller från kalkylarket.
+##  clear_pivottables(self) {#}
+Rensar pivottabeller från kalkylbladet.
 
 
 
 ```python
+
 def clear_pivottables(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_pivottables(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  refresh_on_change propiedad
 
- Indicador que indica si la consulta debe actualizarse automáticamente cuando el contenido de un
- celda que proporciona los cambios de valor del parámetro. Si es verdadero, los datos externos se actualizan
- usando el nuevo valor del parámetro cada vez que hay un cambio. Si es falso, entonces datos externos
-solo se actualiza cuando lo solicita el usuario, o algún otro evento activa la actualización (p. ej., libro de trabajo abierto).
+ Bandera que indica si la consulta debe actualizarse automáticamente cuando se actualiza el contenido de una
+ La celda que proporciona el valor del parámetro cambia. Si es verdadero, se actualizan los datos externos.
+ Usando el nuevo valor del parámetro cada vez que hay un cambio. Si es falso, entonces los datos externos...
+sólo se actualiza cuando lo solicita el usuario o algún otro evento activa la actualización (por ejemplo, cuando se abre un libro).
 ###  Definición:
 ```python
 @property
@@ -24,5 +24,5 @@ def refresh_on_change(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [ConnectionParameter](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`ConnectionParameter`](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)

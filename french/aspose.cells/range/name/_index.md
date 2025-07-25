@@ -3,7 +3,7 @@ title: name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 470
 url: /fr/aspose.cells/range/name/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Obtient ou définit le name de la plage.
 
 ###  Remarques
 
-La plage nommée est prise en charge. Par exemple,
+Les plages nommées sont prises en charge. Par exemple :
 
-range.Name = "Feuil1!MaPlage";
+range.Name = "Feuille1!MaPlage";
 ###  Définition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: ScenarioInputCell صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1390
+weight: 1280
 url: /ar/aspose.cells/scenarioinputcell/
 is_root: false
 ---
@@ -17,11 +17,11 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [row](/cells/python-net/ar/aspose.cells/scenarioinputcell/row) | الحصول على فهرس الصف لخلية الإدخال وتعيينه.|
-| [column](/cells/python-net/ar/aspose.cells/scenarioinputcell/column) | الحصول على فهرس عمود خلية الإدخال وتعيينه.|
-| [name](/cells/python-net/ar/aspose.cells/scenarioinputcell/name) | الحصول على عنوان خلية الإدخال وتعيينه.|
-| [value](/cells/python-net/ar/aspose.cells/scenarioinputcell/value) | الحصول على قيمة خلية الإدخال وتعيينها.|
-| [is_deleted](/cells/python-net/ar/aspose.cells/scenarioinputcell/is_deleted) | يشير إلى ما إذا تم حذف خلية الإدخال.|
+| [row](/cells/python-net/ar/aspose.cells/scenarioinputcell/row) | يحصل على مؤشر الصف للخلية المدخلة ويقوم بتعيينه.|
+| [column](/cells/python-net/ar/aspose.cells/scenarioinputcell/column) | يحصل على مؤشر العمود للخلية المدخلة ويقوم بتعيينه.|
+| [name](/cells/python-net/ar/aspose.cells/scenarioinputcell/name) | يحصل على عنوان خلية الإدخال ويقوم بتعيينه.|
+| [value](/cells/python-net/ar/aspose.cells/scenarioinputcell/value) | يحصل على قيمة الخلية المدخلة ويحددها.|
+| [is_deleted](/cells/python-net/ar/aspose.cells/scenarioinputcell/is_deleted) | يشير إلى ما إذا كان سيتم حذف خلية الإدخال.|
 
 
 

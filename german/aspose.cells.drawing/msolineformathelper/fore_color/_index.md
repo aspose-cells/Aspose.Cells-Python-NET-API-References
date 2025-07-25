@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color Eigentum
 
-Ruft die Vorderfarbe der Grenzlinie ab und legt sie fest.
+Ruft die Vordergrundfarbe der Rahmenlinie ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoLineFormatHelper](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoLineFormatHelper`](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)

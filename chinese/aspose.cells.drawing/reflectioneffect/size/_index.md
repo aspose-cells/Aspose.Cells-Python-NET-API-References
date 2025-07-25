@@ -1,15 +1,15 @@
 ---
-title: size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/reflectioneffect/size/
 is_root: false
 ---
-## size 属性
+## size属性
 
-获取和设置结束 alpha 值的结束位置（沿 alpha 梯度斜坡），以百分比为单位
+获取并设置最终 alpha 值的结束位置（沿着 alpha 渐变坡道），以百分比为单位
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ReflectionEffect](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ReflectionEffect`](/cells/python-net/zh/aspose.cells.drawing/reflectioneffect)

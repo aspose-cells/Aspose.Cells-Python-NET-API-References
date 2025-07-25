@@ -1,21 +1,21 @@
 ---
-title: name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 180
 url: /zh/aspose.cells/unionrange/name/
 is_root: false
 ---
-## name 属性
+## name属性
 
 获取或设置范围的 name。
 
-### 评论
+### 注意事项
 
 支持命名范围。例如，
 
-range.Name = "Sheet1!MyRange";
+范围.名称 = “Sheet1！我的范围”；
 ### 定义：
 ```python
 @property
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [UnionRange](/cells/python-net/zh/aspose.cells/unionrange)
+* 模块[`aspose.cells`](../../)
+* 类 [`UnionRange`](/cells/python-net/zh/aspose.cells/unionrange)

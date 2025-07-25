@@ -3,7 +3,7 @@ title: charts عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 430
 url: /ar/aspose.cells/worksheet/charts/
 is_root: false
 ---

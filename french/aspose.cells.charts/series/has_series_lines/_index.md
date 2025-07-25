@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  has_series_lines propriété
 
-Vrai si un histogramme empilé ou un histogramme comporte des lignes de série ou
- si un graphique à secteurs ou à barres de secteurs comporte des lignes de connexion entre les deux sections.
-S'applique uniquement aux graphiques à colonnes empilées, aux graphiques à barres, aux graphiques à secteurs ou aux graphiques à barres de secteurs.
+Vrai si un graphique à colonnes empilées ou un graphique à barres comporte des lignes de série ou
+ si un graphique à secteurs ou un graphique à barres comporte des lignes de connexion entre les deux sections.
+S'applique uniquement aux graphiques à colonnes empilées, aux graphiques à barres, aux graphiques à secteurs ou aux graphiques à barres.
 ###  Définition:
 ```python
 @property

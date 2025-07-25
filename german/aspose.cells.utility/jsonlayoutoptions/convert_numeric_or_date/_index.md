@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_or_date Eigentum
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Zeichenfolge in JSON in eine Zahl oder ein Datum konvertiert wird.
+Gibt an, ob die Zeichenfolge in JSON in einen numerischen oder Datumswert konvertiert wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)

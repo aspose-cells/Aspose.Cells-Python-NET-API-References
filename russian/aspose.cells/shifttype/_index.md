@@ -1,14 +1,14 @@
 ---
 title: ShiftType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2560
+weight: 2530
 url: /ru/aspose.cells/shifttype/
 is_root: false
 ---
 ##  ShiftType перечисление
-Представляют параметры сдвига при удалении диапазона ячеек.
+Представляют собой варианты сдвига при удалении диапазона ячеек.
 
 
 
@@ -17,11 +17,11 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DOWN | Сдвинуть ячейки вниз.|
-| LEFT | Сдвинуть ячейки влево.|
-| NONE | Не сдвигайте ячейки.|
-| RIGHT | Сдвиньте ячейки вправо.|
-| UP | Сдвинуть ячейки вверх.|
+| DOWN | Сдвиг ячеек вниз.|
+| LEFT | Сдвиг ячеек влево.|
+| NONE | Не переставляйте ячейки.|
+| RIGHT | Сдвиг ячеек вправо.|
+| UP | Сдвиг ячеек вверх.|
 
 
 

@@ -1,15 +1,15 @@
 ---
-title: linked_source الملكية
+title: linked_source عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 310
 url: /ar/aspose.cells.charts/displayunitlabel/linked_source/
 is_root: false
 ---
-##  linked_source الملكية
+##  linked_source عقار
 
-الحصول على مرجع إلى ورقة العمل وتعيينه.
+يحصل على مرجع إلى ورقة العمل ويعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

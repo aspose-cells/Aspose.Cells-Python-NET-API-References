@@ -1,16 +1,16 @@
 ---
 title: export_document_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 290
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_document_properties/
 is_root: false
 ---
 ##  export_document_properties недвижимость
 
  Указывает, экспортируются ли свойства документа. Значение по умолчанию — true. Если вы хотите импортировать
-файл html или mht для Excel, оставьте значение по умолчанию.
+html или mht-файл в Excel, пожалуйста, оставьте значение по умолчанию.
 ###  Определение:
 ```python
 @property

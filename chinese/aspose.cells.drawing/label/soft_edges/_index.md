@@ -3,13 +3,13 @@ title: soft_edges属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 890
+weight: 900
 url: /zh/aspose.cells.drawing/label/soft_edges/
 is_root: false
 ---
 ## soft_edges属性
 
-获取并设置应用于边缘的模糊半径（以点为单位）。
+获取并设置应用于边缘的模糊半径，以点为单位。
 
 ### 例子
 

@@ -1,15 +1,15 @@
 ---
 title: code_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 450
 url: /ru/aspose.cells/worksheet/code_name/
 is_root: false
 ---
 ##  code_name недвижимость
 
-Получает кодовое имя листа.
+Получает кодовое имя рабочего листа.
 ###  Определение:
 ```python
 @property

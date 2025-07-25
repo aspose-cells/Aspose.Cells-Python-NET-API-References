@@ -3,13 +3,13 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /fr/aspose.cells.drawing/listbox/text/
 is_root: false
 ---
 ##  text propriété
 
-Représente la chaîne dans cet objet TextBox.
+Obtient et définit le text de cette forme.
 
 ###  Exemple
 

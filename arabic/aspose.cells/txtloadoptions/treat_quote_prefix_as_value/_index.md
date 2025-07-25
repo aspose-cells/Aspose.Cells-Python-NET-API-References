@@ -3,14 +3,14 @@ title: treat_quote_prefix_as_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 420
 url: /ar/aspose.cells/txtloadoptions/treat_quote_prefix_as_value/
 is_root: false
 ---
 ##  treat_quote_prefix_as_value عقار
 
-يشير إلى ما إذا كان ينبغي اعتبار علامة الاقتباس المفردة البادئة جزءًا من قيمة خلية واحدة.
-الافتراضي صحيح. إذا كانت خاطئة، فستتم إزالة علامة الاقتباس المفردة البادئة من قيمة الخلية المقابلة
+يشير إلى ما إذا كان ينبغي اعتبار علامة الاقتباس المفردة الرئيسية جزءًا من قيمة خلية واحدة.
+القيمة الافتراضية هي "صحيح". إذا كانت خاطئة، فسيتم إزالة علامة الاقتباس المفردة من قيمة الخلية المقابلة.
 وسيتم تعيين [`Style.quote_prefix`](/cells/python-net/ar/aspose.cells/style#quote_prefix) على أنه صحيح للخلية.
 ###  تعريف:
 ```python

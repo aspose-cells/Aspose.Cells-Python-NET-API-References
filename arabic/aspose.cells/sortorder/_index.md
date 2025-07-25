@@ -3,7 +3,7 @@ title: SortOrder التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2580
+weight: 2550
 url: /ar/aspose.cells/sortorder/
 is_root: false
 ---
@@ -17,8 +17,9 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ASCENDING |  |
-| DESCENDING |  |
+| ASCENDING | فرز البيانات بترتيب تصاعدي|
+| DESCENDING | فرز البيانات بترتيب تنازلي|
+| NATURAL | يحافظ على ترتيب البيانات الأصلي دون فرز. ينطبق فقط على بعض السيناريوهات الخاصة، مثل PivotTable.|
 
 
 

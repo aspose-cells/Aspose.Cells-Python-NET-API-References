@@ -1,6 +1,6 @@
 ---
 title: children недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  children недвижимость
 
-Получает все текстовые прогоны в этом абзаце.
+Получает все текстовые фрагменты в этом абзаце.
 Если этот абзац пуст, вернуть сам абзац.
 ###  Определение:
 ```python
@@ -19,5 +19,5 @@ def children(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

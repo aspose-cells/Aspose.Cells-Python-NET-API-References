@@ -1,9 +1,9 @@
 ---
 title: diagonal_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells/bordercollection/diagonal_style/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def diagonal_style(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [BorderCollection](/cells/python-net/it/aspose.cells/bordercollection)
-* classe [CellBorderType](/cells/python-net/it/aspose.cells/cellbordertype)
+* modulo [`aspose.cells`](../../)
+* classe [`BorderCollection`](/cells/python-net/it/aspose.cells/bordercollection)
+* classe [`CellBorderType`](/cells/python-net/it/aspose.cells/cellbordertype)

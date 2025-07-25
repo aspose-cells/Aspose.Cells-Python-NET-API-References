@@ -1,9 +1,9 @@
 ---
 title: width_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /it/aspose.cells.drawing/arcshape/width_cm/
 is_root: false
 ---

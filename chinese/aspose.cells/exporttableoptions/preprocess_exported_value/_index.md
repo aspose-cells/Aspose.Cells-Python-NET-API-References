@@ -7,16 +7,17 @@ weight: 20
 url: /zh/aspose.cells/exporttableoptions/preprocess_exported_value/
 is_root: false
 ---
-##  preprocess_exported_value {#int-int-aspose.cells.CellValue}
-预处理要导出的当前单元格的值。
+##  preprocess_exported_value(self, cell_row, cell_column, value) {#int-int-aspose.cells.CellValue}
+对当前要导出的单元格的值进行预处理。
 
 
-### 退货
+### 返回
 
 当前单元格是否已被替换为不同的类型和/或值。
 
 
 ```python
+
 def preprocess_exported_value(self, cell_row, cell_column, value):
     ...
 ```
@@ -27,10 +28,10 @@ def preprocess_exported_value(self, cell_row, cell_column, value):
 | cell_row | int |当前单元格的行索引|
 | cell_column | int |单元格的列索引|
 | value | [`CellValue`](/cells/python-net/zh/aspose.cells/cellvalue) |当前单元格的值和类型|
-### 评论
+### 注意事项
 
-行和列索引是单元格在工作表中的绝对索引，而不是导出表中的索引。
-用户可以在该方法的重写实现中检查当前单元格的值，
+行和列的索引是单元格在工作表中的绝对索引，而不是在导出的表格中的索引。
+用户可以在此方法的覆盖实现中检查当前单元格的值，
 如果当前单元格需要替换为其他类型和值，
 这里的实现应该将预期的类型和值设置为 CellValue 对象并返回 true。
 默认情况下，此方法不执行任何操作并返回 false。

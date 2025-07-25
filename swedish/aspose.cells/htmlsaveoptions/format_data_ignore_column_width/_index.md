@@ -3,15 +3,15 @@ title: format_data_ignore_column_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 460
 url: /sv/aspose.cells/htmlsaveoptions/format_data_ignore_column_width/
 is_root: false
 ---
 ##  format_data_ignore_column_width fastighet
 
-Indikerar om visa hela formaterade data för cellen när kolumnen svämmar över.
-Om sant, ignorera kolumnbredden och hela cellens data kommer att exporteras.
-Om falskt kommer data att exporteras på samma sätt som Excel.
+Anger om all formaterad data för cellen ska visas när kolumnen överfylls.
+Om värdet är sant ignoreras kolumnbredden och all celldata exporteras.
+Om värdet är falskt exporteras data på samma sätt som Excel.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

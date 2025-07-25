@@ -3,21 +3,22 @@ title: método get_rich_formattings
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells.drawing/combobox/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
- Devuelve todos los objetos de personajes.
-que representa una variedad de caracteres dentro del texto.
+##  get_rich_formattings(self) {#}
+ Devuelve todos los objetos de Personajes
+que representa un rango de caracteres dentro del texto.
 
 
 ###  Devoluciones
 
-Todos los objetos de personajes
+Todos los objetos de Personajes
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

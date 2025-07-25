@@ -3,7 +3,7 @@ title: encoding propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 80
 url: /es/aspose.cells/markdownsaveoptions/encoding/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MarkdownSaveOptions](/cells/python-net/es/aspose.cells/markdownsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`MarkdownSaveOptions`](/cells/python-net/es/aspose.cells/markdownsaveoptions)

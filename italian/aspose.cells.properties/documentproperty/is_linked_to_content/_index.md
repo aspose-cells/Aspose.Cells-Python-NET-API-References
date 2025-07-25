@@ -1,6 +1,6 @@
 ---
 title: is_linked_to_content proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -18,5 +18,5 @@ def is_linked_to_content(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [DocumentProperty](/cells/python-net/it/aspose.cells.properties/documentproperty)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`DocumentProperty`](/cells/python-net/it/aspose.cells.properties/documentproperty)

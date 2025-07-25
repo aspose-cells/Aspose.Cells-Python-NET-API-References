@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionBinding](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionBinding`](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding)

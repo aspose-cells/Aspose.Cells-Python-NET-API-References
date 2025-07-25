@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/filtercolumncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
-إرجاع عنصر عامل تصفية واحد من مجموعة.
+##  get_by_index(self, index) {#int}
+إرجاع كائن مرشح واحد من مجموعة.
 
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def get_by_index(self, index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FilterColumnCollection](/cells/python-net/ar/aspose.cells/filtercolumncollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FilterColumnCollection`](/cells/python-net/ar/aspose.cells/filtercolumncollection)

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  period mülk
 
-Hareketli ortalama eğilim çizgisi için period değerini döndürür veya ayarlar.
+Hareketli ortalama trend çizgisi için period değerini döndürür veya ayarlar.
 
 ###  Notlar
 
-Bu değer 2 ile 255 arasında olmalıdır.
-Ve serideki grafik noktalarının sayısından az olmalıdır.
+Bu değerin 2 ile 255 arasında olması gerekir.
+Ve serideki grafik noktalarının sayısından daha az olmalıdır
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

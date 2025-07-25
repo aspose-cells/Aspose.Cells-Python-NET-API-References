@@ -1,6 +1,6 @@
 ---
 title: alignment_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [RectangleAlignmentType](/cells/python-net/ru/aspose.cells.drawing/rectanglealignmenttype)
-* класс [TilePicOption](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`RectangleAlignmentType`](/cells/python-net/ru/aspose.cells.drawing/rectanglealignmenttype)
+* класс [`TilePicOption`](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)

@@ -1,5 +1,5 @@
 ---
-title: ExternalLinkCollection مفهرس
+title: ExternalLinkCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 50
 url: /ar/aspose.cells/externallinkcollection/__getitem__/
 is_root: false
 ---
-##  ExternalLinkCollection مفهرس
+##  ExternalLinkCollection فهرس
 
-الحصول على عنصر [ExternalLink](/cells/python-net/ar/aspose.cells/externallink) بالفهرس المحدد.
-###  مفهرس
+يحصل على العنصر [`ExternalLink`](/cells/python-net/ar/aspose.cells/externallink) في الفهرس المحدد.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
-| index | الفهرس الصفري للعنصر.|
+| index | مؤشر العنصر المبني على الصفر.|
 
 
 
 ###  عائدات
 
-العنصر في الفهرس المحدد.
+العنصر الموجود في الفهرس المحدد.
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExternalLink](/cells/python-net/ar/aspose.cells/externallink)
-* فئة [ExternalLinkCollection](/cells/python-net/ar/aspose.cells/externallinkcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExternalLink`](/cells/python-net/ar/aspose.cells/externallink)
+* فئة [`ExternalLinkCollection`](/cells/python-net/ar/aspose.cells/externallinkcollection)

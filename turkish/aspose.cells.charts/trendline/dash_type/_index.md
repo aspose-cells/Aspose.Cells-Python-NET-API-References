@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_type mülk
 
-Kısa çizgi tipini belirtir
+Kesik çizgi türünü belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [MsoLineDashStyle](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`MsoLineDashStyle`](/cells/python-net/tr/aspose.cells.drawing/msolinedashstyle)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

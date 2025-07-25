@@ -1,18 +1,19 @@
 ---
 title: align_top_right_corner方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/webextensionshape/align_top_right_corner/
 is_root: false
 ---
-##  align_top_right_corner(top_row, right_column) {#int-int}
+##  align_top_right_corner(self, top_row, right_column) {#int-int}
 将图片移动到右上角。
 
 
 
 ```python
+
 def align_top_right_corner(self, top_row, right_column):
     ...
 ```
@@ -34,5 +35,5 @@ shape.align_top_right_corner(2, 5)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [WebExtensionShape](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`WebExtensionShape`](/cells/python-net/zh/aspose.cells.drawing/webextensionshape)

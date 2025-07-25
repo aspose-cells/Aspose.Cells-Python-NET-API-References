@@ -1,13 +1,13 @@
 ---
 title: get_theme_font方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/workbooksettings/get_theme_font/
 is_root: false
 ---
-##  get_theme_font(type) {#FontSchemeType}
+##  get_theme_font(self, type) {#aspose.cells.FontSchemeType}
 获取默认主题字体名称。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_theme_font(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_theme_font(self, type):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [FontSchemeType](/cells/python-net/zh/aspose.cells/fontschemetype) |字体的方案类型。|
+| type | [`FontSchemeType`](/cells/python-net/zh/aspose.cells/fontschemetype) |字体的方案类型。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [WorkbookSettings](/cells/python-net/zh/aspose.cells/workbooksettings)
+* 模块[`aspose.cells`](../../)
+* 类 [`WorkbookSettings`](/cells/python-net/zh/aspose.cells/workbooksettings)

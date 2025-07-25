@@ -1,6 +1,6 @@
 ---
 title: summary_row_below proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Outline](/cells/python-net/it/aspose.cells/outline)
+* modulo [`aspose.cells`](../../)
+* classe [`Outline`](/cells/python-net/it/aspose.cells/outline)

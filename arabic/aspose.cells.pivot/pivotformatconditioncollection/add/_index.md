@@ -7,27 +7,21 @@ weight: 20
 url: /ar/aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف FormatCondition المحورية إلى المجموعة.
+##  add(self) {#}
 
 
-###  عائدات
-
-فهرس كائن FormatCondition المحوري.
 
 
 ```python
+
 def add(self):
     ...
 ```
 
 
-###  ملاحظات
 
-غير مدعوم
 
 
 ###  أنظر أيضا
-
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFormatConditionCollection](/cells/python-net/ar/aspose.cells.pivot/pivotformatconditioncollection)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFormatConditionCollection`](/cells/python-net/ar/aspose.cells.pivot/pivotformatconditioncollection)

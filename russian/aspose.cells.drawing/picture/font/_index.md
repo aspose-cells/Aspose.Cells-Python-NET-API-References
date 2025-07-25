@@ -1,15 +1,15 @@
 ---
 title: font недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 440
 url: /ru/aspose.cells.drawing/picture/font/
 is_root: false
 ---
 ##  font недвижимость
 
-Представляет форму font.
+Представляет собой форму font.
 
 ###  Пример
 

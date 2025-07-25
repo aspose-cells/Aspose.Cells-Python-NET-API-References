@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FontSourceType](/cells/python-net/de/aspose.cells/fontsourcetype)
-* Klasse [MemoryFontSource](/cells/python-net/de/aspose.cells/memoryfontsource)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FontSourceType`](/cells/python-net/de/aspose.cells/fontsourcetype)
+* Klasse [`MemoryFontSource`](/cells/python-net/de/aspose.cells/memoryfontsource)

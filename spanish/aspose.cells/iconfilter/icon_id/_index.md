@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_id propiedad
 
-Obtiene y establece el índice de base cero de un icono en un conjunto de iconos.
+Obtiene y establece el índice basado en cero de un ícono en un conjunto de íconos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def icon_id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [IconFilter](/cells/python-net/es/aspose.cells/iconfilter)
+* módulo [`aspose.cells`](../../)
+* clase [`IconFilter`](/cells/python-net/es/aspose.cells/iconfilter)

@@ -3,7 +3,7 @@ title: HorizontalPageBreak sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 780
+weight: 760
 url: /tr/aspose.cells/horizontalpagebreak/
 is_root: false
 ---
@@ -17,9 +17,9 @@ HorizontalPageBreak türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [start_column](/cells/python-net/tr/aspose.cells/horizontalpagebreak/start_column) | Bu yatay sayfa sonunun başlangıç sütunu dizinini alır.|
-| [end_column](/cells/python-net/tr/aspose.cells/horizontalpagebreak/end_column) | Bu yatay sayfa sonunun son sütun dizinini alır.|
-| [row](/cells/python-net/tr/aspose.cells/horizontalpagebreak/row) | Sıfır tabanlı satır dizinini alır.|
+| [start_column](/cells/python-net/tr/aspose.cells/horizontalpagebreak/start_column) | Bu yatay sayfa sonu için başlangıç sütun dizinini alır.|
+| [end_column](/cells/python-net/tr/aspose.cells/horizontalpagebreak/end_column) | Bu yatay sayfa sonu için son sütun dizinini alır.|
+| [row](/cells/python-net/tr/aspose.cells/horizontalpagebreak/row) |Sıfır tabanlı satır indeksini alır.|
 
 
 

@@ -1,13 +1,13 @@
 ---
-title: gradient_fill 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: gradient_fill属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells.drawing/line/gradient_fill/
 is_root: false
 ---
-## gradient_fill 属性
+## gradient_fill属性
 
 代表渐变填充。
 ### 定义：
@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [GradientFill](/cells/python-net/zh/aspose.cells.drawing/gradientfill)
-* 类 [Line](/cells/python-net/zh/aspose.cells.drawing/line)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`GradientFill`](/cells/python-net/zh/aspose.cells.drawing/gradientfill)
+* 类 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)

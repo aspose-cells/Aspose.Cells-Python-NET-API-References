@@ -1,18 +1,18 @@
 ---
 title: format_data_ignore_column_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 460
 url: /ru/aspose.cells/htmlsaveoptions/format_data_ignore_column_width/
 is_root: false
 ---
 ##  format_data_ignore_column_width недвижимость
 
-Указывает, показывать ли все форматированные данные ячейки при переполнении столбца.
-Если это правда, то игнорируйте ширину столбца, и все данные ячейки будут экспортированы.
-Если false, то данные будут экспортированы так же, как Excel.
-Значение по умолчанию неверно.
+Указывает, показывать ли все отформатированные данные ячейки при переполнении столбца.
+Если true, то ширина столбца игнорируется, и все данные ячейки будут экспортированы.
+Если false, то данные будут экспортированы так же, как в Excel.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

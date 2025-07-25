@@ -1,6 +1,6 @@
 ---
 title: cert_raw_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cert_raw_data proprietà
 
-Ottiene i dati non elaborati del certificato se questo progetto VBA è firmato.
+Ottiene i dati grezzi del certificato se questo progetto VBA è firmato.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def cert_raw_data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProject](/cells/python-net/it/aspose.cells.vba/vbaproject)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProject`](/cells/python-net/it/aspose.cells.vba/vbaproject)

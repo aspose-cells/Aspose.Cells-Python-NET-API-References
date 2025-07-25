@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineFormat](/cells/python-net/es/aspose.cells.drawing/msolineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineFormat`](/cells/python-net/es/aspose.cells.drawing/msolineformat)

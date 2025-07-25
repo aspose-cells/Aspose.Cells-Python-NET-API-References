@@ -1,18 +1,19 @@
 ---
-title: OdsPageBackground 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: OdsPageBackground 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells.ods/odspagebackground/__init__/
 is_root: false
 ---
-##  OdsPageBackground() {#}
-构造 OdsPageBackground 的新实例
+##  \_\_init\_\_（自身）{#}
+构造OdsPageBackground的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.ods](../../)
-* 类 [OdsPageBackground](/cells/python-net/zh/aspose.cells.ods/odspagebackground)
+* 模块[`aspose.cells.ods`](../../)
+* 类 [`OdsPageBackground`](/cells/python-net/zh/aspose.cells.ods/odspagebackground)

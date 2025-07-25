@@ -13,7 +13,7 @@ Obtient ou définit une valeur indiquant si une cellule peut être modifiée ou 
 
 ###  Remarques
 
-Le verrouillage des cellules n'a aucun effet sauf si la feuille de calcul est protégée.
+Le verrouillage des cellules n'a aucun effet à moins que la feuille de calcul ne soit protégée.
 ###  Définition:
 ```python
 @property

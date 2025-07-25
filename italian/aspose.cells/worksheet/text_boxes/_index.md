@@ -1,15 +1,15 @@
 ---
 title: text_boxes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 830
+weight: 850
 url: /it/aspose.cells/worksheet/text_boxes/
 is_root: false
 ---
 ##  text_boxes proprietà
 
-Ottiene una raccolta [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox).
+Ottiene una collezione [`TextBox`](/cells/python-net/it/aspose.cells.drawing/textbox).
 ###  Definizione:
 ```python
 @property

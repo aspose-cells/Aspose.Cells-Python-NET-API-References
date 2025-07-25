@@ -1,9 +1,9 @@
 ---
 title: keep_separators_for_blank_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 140
 url: /ru/aspose.cells/txtsaveoptions/keep_separators_for_blank_row/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def keep_separators_for_blank_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [TxtSaveOptions](/cells/python-net/ru/aspose.cells/txtsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`TxtSaveOptions`](/cells/python-net/ru/aspose.cells/txtsaveoptions)

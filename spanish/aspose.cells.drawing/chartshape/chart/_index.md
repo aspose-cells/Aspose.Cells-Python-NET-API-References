@@ -3,7 +3,7 @@ title: chart propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 330
 url: /es/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---

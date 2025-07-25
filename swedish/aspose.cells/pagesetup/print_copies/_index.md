@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_copies fastighet
 
-Hämta och ställer in antal kopior som ska skrivas ut.
+Hämta och anger antal kopior att skriva ut.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_copies(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

@@ -3,7 +3,7 @@ title: PrintSizeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2490
+weight: 2460
 url: /es/aspose.cells/printsizetype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ El tipo PrintSizeType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | FULL | Utilice página completa.|
-| FIT | Escalar para ajustarse a la página.|
+| FIT | Ajustar a escala la página.|
 | CUSTOM | Costumbre.|
 
 

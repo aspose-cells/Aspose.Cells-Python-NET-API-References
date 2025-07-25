@@ -1,22 +1,23 @@
 ---
 title: Metodo get_error_value_string
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
 url: /it/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
+##  get_error_value_string(self, err) {#str}
 Ottiene il valore della stringa visualizzata per il valore di errore della cella
 
 
 ###  ritorna
 
-Per impostazione predefinita restituisce il valore dell'errore stesso
+Per impostazione predefinita restituisce il valore di errore stesso
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| err | str | valori di errore come #VALORE!,#NOME?|
+| err | str |valori di errore come #VALORE!,#NOME?|
 
 
 

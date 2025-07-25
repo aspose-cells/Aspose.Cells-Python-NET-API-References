@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_tab Eigentum
 
-Gibt an, ob der Fokus automatisch zum nächsten Steuerelement verschoben wird, wenn der Benutzer die maximale Anzahl von Zeichen eingibt.
+Gibt an, ob der Fokus automatisch zum nächsten Steuerelement verschoben wird, wenn der Benutzer die maximale Anzahl an Zeichen eingibt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_tab(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

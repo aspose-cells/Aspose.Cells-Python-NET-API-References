@@ -3,17 +3,17 @@ title: lower_delta_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 750
+weight: 760
 url: /ar/aspose.cells.drawing/cellsdrawing/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x عقار
 
-الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليمنى السفلية.
+يحصل على أو يعين الإزاحة الأفقية للشكل من عمود الزاوية اليمنى السفلية.
 
 ###  ملاحظات
 
-نطاق القيمة هو 0 إلى 1024.
+نطاق القيمة هو من 0 إلى 1024.
 
 ###  مثال
 

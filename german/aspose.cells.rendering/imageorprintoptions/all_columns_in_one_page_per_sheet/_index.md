@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet Eigentum
 
- Wenn AllColumnsInOnePagePerSheet true ist, werden alle Spalteninhalte eines Blatts als Ergebnis nur auf einer Seite ausgegeben.
- Die Breite des Papierformats von pagesetup und die anderen Einstellungen von pagesetup werden ungültig
-wird noch wirksam.
+ Wenn AllColumnsInOnePagePerSheet true ist, wird der gesamte Spalteninhalt eines Blattes im Ergebnis nur auf einer Seite ausgegeben.
+ Die Breite der Papiergröße von pagesetup wird ungültig sein, und die anderen Einstellungen von pagesetup
+bleibt weiterhin wirksam.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

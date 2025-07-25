@@ -1,13 +1,13 @@
 ---
-title: values_format_code 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: values_format_code属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 510
 url: /zh/aspose.cells.charts/series/values_format_code/
 is_root: false
 ---
-## values_format_code 属性
+## values_format_code属性
 
 表示 Values 的 NumberList 的格式代码。
 ### 定义：
@@ -21,5 +21,5 @@ def values_format_code(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Series](/cells/python-net/zh/aspose.cells.charts/series)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Series`](/cells/python-net/zh/aspose.cells.charts/series)

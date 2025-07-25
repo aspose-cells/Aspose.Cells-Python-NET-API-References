@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_up_border fastighet
 
-Inställningar för diagonal uppkant kommer att tillämpas.
+Inställningar för diagonal uppåtriktad kant kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_up_border(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

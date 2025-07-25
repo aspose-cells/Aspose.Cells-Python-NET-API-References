@@ -1,6 +1,6 @@
 ---
 title: show_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_value недвижимость
 
-Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применяется этот набор значков.
-Значение по умолчанию — истина.
+Получите или установите флаг, указывающий, следует ли отображать значения ячеек, к которым применен этот набор значков.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IconSet](/cells/python-net/ru/aspose.cells/iconset)
+* модуль [`aspose.cells`](../../)
+* класс [`IconSet`](/cells/python-net/ru/aspose.cells/iconset)

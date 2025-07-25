@@ -1,9 +1,9 @@
 ---
 title: comment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.drawing/commentshape/comment/
 is_root: false
 ---

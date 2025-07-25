@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent_style propiedad
 
-Obtiene el estilo principal de este estilo.
+Obtiene el estilo padre de este estilo.
 ###  Definición:
 ```python
 @property

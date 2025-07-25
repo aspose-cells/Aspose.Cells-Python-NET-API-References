@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings propriété
 
-Les paramètres de mise en forme riche pour le texte remplacé.
+Les paramètres formatés riches pour le texte remplacé.
 ###  Définition:
 ```python
 @property

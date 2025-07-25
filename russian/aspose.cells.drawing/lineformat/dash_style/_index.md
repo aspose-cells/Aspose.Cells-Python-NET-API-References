@@ -1,6 +1,6 @@
 ---
 title: dash_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style недвижимость
 
-Определяет тип пунктира линии.
+Задает тип пунктирной линии.
 
 ###  Пример
 
@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
-* класс [MsoLineDashStyle](/cells/python-net/ru/aspose.cells.drawing/msolinedashstyle)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* класс [`MsoLineDashStyle`](/cells/python-net/ru/aspose.cells.drawing/msolinedashstyle)

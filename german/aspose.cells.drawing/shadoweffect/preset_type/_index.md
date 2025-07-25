@@ -21,6 +21,6 @@ def preset_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PresetShadowType](/cells/python-net/de/aspose.cells.drawing/presetshadowtype)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PresetShadowType`](/cells/python-net/de/aspose.cells.drawing/presetshadowtype)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

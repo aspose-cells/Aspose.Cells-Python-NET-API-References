@@ -3,13 +3,13 @@ title: ranges Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /de/aspose.cells/cells/ranges/
 is_root: false
 ---
 ##  ranges Eigentum
 
-Ruft die Sammlung von [`Range`](/cells/python-net/de/aspose.cells/range)-Objekten ab, die zur Laufzeit erstellt wurden.
+Ruft die Sammlung von [`Range`](/cells/python-net/de/aspose.cells/range) Objekten ab, die zur Laufzeit erstellt wurden.
 ###  Definition:
 ```python
 @property

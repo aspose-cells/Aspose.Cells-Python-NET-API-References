@@ -1,9 +1,9 @@
 ---
 title: first_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 150
+weight: 140
 url: /it/aspose.cells/unionrange/first_column/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def first_column(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

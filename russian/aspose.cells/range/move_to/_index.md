@@ -1,18 +1,19 @@
 ---
 title: move_to метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 210
 url: /ru/aspose.cells/range/move_to/
 is_root: false
 ---
-##  move_to {#int-int}
+##  move_to(self, dest_row, dest_column) {#int-int}
 Переместить текущий диапазон в целевой диапазон.
 
 
 
 ```python
+
 def move_to(self, dest_row, dest_column):
     ...
 ```
@@ -20,8 +21,8 @@ def move_to(self, dest_row, dest_column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| dest_row | int | Начальная строка диапазона назначения.|
-| dest_column | int | Начальный столбец целевого диапазона.|
+| dest_row | int | Начальная строка конечного диапазона.|
+| dest_column | int | Начальный столбец диапазона назначения.|
 
 
 

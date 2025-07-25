@@ -3,7 +3,7 @@ title: PivotTableCollection classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 250
 url: /fr/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -23,23 +23,29 @@ Le type PivotTableCollection expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Ajoute un nouveau cache PivotTable à une collection PivotCaches.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Ajoute un nouveau cache PivotTable à une collection PivotCaches.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Ajoute un nouveau cache PivotTable à une collection PivotCaches.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Ajoute un nouveau cache PivotTable à une collection PivotCaches.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Ajoute un nouvel objet de tableau croisé dynamique à la collection à partir d'un autre tableau croisé dynamique.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Ajoute un nouvel objet de tableau croisé dynamique à la collection à partir d'un autre tableau croisé dynamique.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |Ajoute un nouvel objet de tableau croisé dynamique à la collection avec plusieurs plages de consolidation comme source de données.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |Ajoute un nouvel objet de tableau croisé dynamique à la collection avec plusieurs plages de consolidation comme source de données.|
-| [copy_to](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Copie la liste entière des tableaux dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste des tableaux cible.|
-| [copy_to](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnels compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
-| [index_of](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste du tableau qui s'étend de l'index spécifié au dernier élément.|
-| [index_of](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
-| [last_index_of](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste entière du tableau.|
-| [last_index_of](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste du tableau qui s'étend du premier élément à l'index spécifié.|
-| [last_index_of](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.|
-| [remove_at](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Supprime le tableau croisé dynamique à l'index spécifié|
-| [binary_search](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Recherche un élément dans toute la liste de tableaux triés à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
+| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, source_data, row, column, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, source_data, cell, table_name, use_same_source, is_xls_classic)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Ajoute un nouveau tableau croisé dynamique.|
+| [`add(self, pivot_table, dest_cell_name, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-str-str) | Ajoute un nouveau tableau croisé dynamique basé sur un autre tableau croisé dynamique.|
+| [`add(self, pivot_table, row, column, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Ajoute un nouveau tableau croisé dynamique basé sur un autre tableau croisé dynamique.|
+| [`add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-str-str) | Ajoute un nouvel objet de tableau croisé dynamique à la collection avec plusieurs plages de consolidation comme source de données.|
+| [`add(self, source_data, is_auto_page, page_fields, row, column, table_name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-int-int-str) | Ajoute un nouvel objet de tableau croisé dynamique à la collection avec plusieurs plages de consolidation comme source de données.|
+| [`copy_to(self, array)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/copy_to/#list) |Copie la liste de tableaux entière dans une liste de tableaux unidimensionnelle compatible, en commençant au début de la liste de tableaux cible.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copie une plage d'éléments de la liste de tableaux vers une liste de tableaux unidimensionnelle compatible, en commençant à l'index spécifié de la liste de tableaux cible.|
+| [`index_of(self, item, index)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui s'étend de l'index spécifié au dernier élément.|
+| [`index_of(self, item, index, count)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la première occurrence dans la plage d'éléments de la liste de tableaux qui commence à l'index spécifié et contient le nombre d'éléments spécifié.|
+| [`last_index_of(self, item)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la liste de tableaux entière.|
+| [`last_index_of(self, item, index)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int) |Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui s'étend du premier élément à l'index spécifié.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int-int) | Recherche l'objet spécifié et renvoie l'index de base zéro de la dernière occurrence dans la plage d'éléments de la liste de tableaux qui contient le nombre spécifié d'éléments et se termine à l'index spécifié.|
+| [`get(self, name)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/get/#str) | Obtient le rapport de tableau croisé dynamique par le nom du tableau croisé dynamique.|
+| [`remove_pivot_table(self, pivot_table)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.pivottable) | Supprime le tableau croisé dynamique spécifié et supprime les données du tableau croisé dynamique|
+| [`remove_pivot_table_data(self, pivot_table, keep_data)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.pivottable-bool) | Supprime le tableau croisé dynamique spécifié|
+| [`remove_by_index(self, index)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Supprime le tableau croisé dynamique à l'index spécifié et supprime les données du tableau croisé dynamique|
+| [`remove_at(self, index, keep_data)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Supprime le tableau croisé dynamique à l'index spécifié|
+| [`binary_search(self, item)`](/cells/python-net/fr/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.pivottable) | Recherche dans la liste entière de tableaux triés un élément à l'aide du comparateur par défaut et renvoie l'index de base zéro de l'élément.|
 
 
 

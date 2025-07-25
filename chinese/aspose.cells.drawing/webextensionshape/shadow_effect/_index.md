@@ -3,13 +3,13 @@ title: shadow_effect属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 880
+weight: 890
 url: /zh/aspose.cells.drawing/webextensionshape/shadow_effect/
 is_root: false
 ---
 ## shadow_effect属性
 
-表示一个 [`ShadowEffect`](/cells/python-net/zh/aspose.cells.drawing/shadoweffect) 对象，该对象指定图表元素或形状的阴影效果。
+表示指定图表元素或形状的阴影效果的 [`ShadowEffect`](/cells/python-net/zh/aspose.cells.drawing/shadoweffect) 对象。
 
 ### 例子
 

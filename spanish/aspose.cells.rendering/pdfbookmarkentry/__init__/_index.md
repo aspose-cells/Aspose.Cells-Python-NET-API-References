@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.rendering/pdfbookmarkentry/__init__/
 is_root: false
 ---
-##  PdfBookmarkEntry() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de PdfBookmarkEntry
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PdfBookmarkEntry](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PdfBookmarkEntry`](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)

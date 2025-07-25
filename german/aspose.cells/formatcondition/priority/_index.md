@@ -10,8 +10,8 @@ is_root: false
 ##  priority Eigentum
 
 Die priority dieser Regel zur bedingten Formatierung. Dieser Wert wird verwendet, um zu bestimmen, welche
-Format ausgewertet und gerendert werden soll. Niedrigere Zahlenwerte sind höher als priority
-höhere numerische Werte, wobei '1' der höchste priority ist.
+Format ausgewertet und gerendert werden soll. Niedrigere numerische Werte sind höher als priority
+höhere numerische Werte, wobei „1“ der höchste ist priority.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def priority(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

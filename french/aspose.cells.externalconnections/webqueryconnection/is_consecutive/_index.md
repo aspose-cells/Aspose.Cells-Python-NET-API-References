@@ -3,13 +3,13 @@ title: is_consecutive propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 120
+weight: 170
 url: /fr/aspose.cells.externalconnections/webqueryconnection/is_consecutive/
 is_root: false
 ---
 ##  is_consecutive propriété
 
-Indicateur indiquant si des délimiteurs consécutifs doivent être traités comme un seul délimiteur.
+Drapeau indiquant si les délimiteurs consécutifs doivent être traités comme un seul délimiteur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_consecutive(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)
+* module [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/fr/aspose.cells.externalconnections/webqueryconnection)

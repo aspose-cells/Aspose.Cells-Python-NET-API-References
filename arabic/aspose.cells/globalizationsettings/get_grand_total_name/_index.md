@@ -7,16 +7,17 @@ weight: 110
 url: /ar/aspose.cells/globalizationsettings/get_grand_total_name/
 is_root: false
 ---
-##  get_grand_total_name {#aspose.cells.ConsolidationFunction}
-الحصول على الاسم الإجمالي الكلي للوظيفة.
+##  get_grand_total_name(self, function_type) {#aspose.cells.ConsolidationFunction}
+يحصل على الاسم الإجمالي للوظيفة.
 
 
 ###  عائدات
 
-الاسم الإجمالي الكلي للوظيفة.
+الاسم الإجمالي للوظيفة.
 
 
 ```python
+
 def get_grand_total_name(self, function_type):
     ...
 ```

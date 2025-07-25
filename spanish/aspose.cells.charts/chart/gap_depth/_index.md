@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_depth propiedad
 
-Obtiene o establece la distancia entre las series de datos en un gráfico 3D, como porcentaje del ancho del marcador.
+Obtiene o establece la distancia entre las series de datos en un gráfico 3D, como un porcentaje del ancho del marcador.
 El valor de esta propiedad debe estar entre 0 y 500.
 ###  Definición:
 ```python

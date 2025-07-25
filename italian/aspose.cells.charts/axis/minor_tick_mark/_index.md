@@ -1,9 +1,9 @@
 ---
 title: minor_tick_mark proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 360
 url: /it/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---

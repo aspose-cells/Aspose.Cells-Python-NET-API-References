@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stop_if_true Eigentum
 
-True, keine Regeln mit niedrigerer Priorität können auf diese Regel angewendet werden, wenn diese Regel als wahr ausgewertet wird.
+True: Wenn diese Regel als „true“ ausgewertet wird, dürfen keine Regeln mit niedrigerer Priorität auf diese Regel angewendet werden.
 Gilt nur für Excel 2007;
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

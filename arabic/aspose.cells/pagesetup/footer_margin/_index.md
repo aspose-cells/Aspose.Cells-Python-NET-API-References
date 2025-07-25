@@ -1,5 +1,5 @@
 ---
-title: footer_margin الملكية
+title: footer_margin عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 320
 url: /ar/aspose.cells/pagesetup/footer_margin/
 is_root: false
 ---
-##  footer_margin الملكية
+##  footer_margin عقار
 
-يمثل المسافة من أسفل الصفحة إلى التذييل بوحدة سنتيمترات.
+يمثل المسافة من أسفل الصفحة إلى التذييل، بوحدة السنتيمتر.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

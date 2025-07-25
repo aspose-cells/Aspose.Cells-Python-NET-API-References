@@ -18,11 +18,11 @@ Bar3DShapeType türü aşağıdaki üyeleri ortaya çıkarır:
 | Alan| Tanım|
 | :- | :- |
 | BOX | Kutu|
-| PYRAMID_TO_POINT | PiramitToPoint|
-| PYRAMID_TO_MAX | PiramitToMax|
+| PYRAMID_TO_POINT | Piramitten Noktaya|
+| PYRAMID_TO_MAX | PiramittenMaks'a|
 | CYLINDER | Silindir|
-| CONE_TO_POINT | ConeToPoint|
-| CONE_TO_MAX | ConeToMax|
+| CONE_TO_POINT | Koniden Noktaya|
+| CONE_TO_MAX | KoniToMax|
 
 
 

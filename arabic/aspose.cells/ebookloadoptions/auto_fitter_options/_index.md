@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options عقار
 
-الحصول على خيارات المثبت التلقائي وتعيينها
+يحصل على خيارات التركيب التلقائي ويضبطها
 
 ###  ملاحظات
 
-فقط لملف xlsx، SpreadsheetML الآن.
+متاح الآن فقط لملفات xlsx و spreadsheetML.
 ###  تعريف:
 ```python
 @property

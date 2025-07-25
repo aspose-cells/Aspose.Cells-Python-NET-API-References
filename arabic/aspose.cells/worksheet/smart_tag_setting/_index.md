@@ -3,13 +3,13 @@ title: smart_tag_setting عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 780
+weight: 810
 url: /ar/aspose.cells/worksheet/smart_tag_setting/
 is_root: false
 ---
 ##  smart_tag_setting عقار
 
-يحصل على كافة الكائنات [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) في ورقة العمل.
+يحصل على جميع الكائنات [`SmartTagCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagcollection) من ورقة العمل.
 ###  تعريف:
 ```python
 @property

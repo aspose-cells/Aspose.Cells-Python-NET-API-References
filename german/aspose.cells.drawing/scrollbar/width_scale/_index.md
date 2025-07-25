@@ -3,14 +3,14 @@ title: width_scale Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /de/aspose.cells.drawing/scrollbar/width_scale/
 is_root: false
 ---
 ##  width_scale Eigentum
 
-Ruft die Breitenskala in Prozent der ursprünglichen Bildbreite ab und legt diese fest.
-Wenn es sich bei der Form nicht um ein Bild handelt, gibt die Eigenschaft „WidthScale“ nur 100 zurück.
+Ruft den Breitenmaßstab in Prozent der ursprünglichen Bildbreite ab und legt ihn fest.
+Wenn die Form kein Bild ist, gibt die WidthScale-Eigenschaft nur 100 zurück.
 
 ###  Beispiel
 

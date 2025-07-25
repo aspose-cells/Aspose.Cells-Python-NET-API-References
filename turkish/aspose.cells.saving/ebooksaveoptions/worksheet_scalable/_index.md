@@ -3,13 +3,13 @@ title: worksheet_scalable mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 810
 url: /tr/aspose.cells.saving/ebooksaveoptions/worksheet_scalable/
 is_root: false
 ---
 ##  worksheet_scalable mülk
 
-Dosyayı html'ye kaydederken çalışma sayfası yakınlaştırma düzeyi aracılığıyla html'nin yakınlaştırılması veya uzaklaştırılması durumunda varsayılan değerin false olduğunu belirtir.
+Dosyayı HTML olarak kaydederken çalışma sayfası yakınlaştırma düzeyine göre HTML'yi yakınlaştırıp uzaklaştırmayı belirtir, varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

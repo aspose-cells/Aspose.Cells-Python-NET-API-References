@@ -1,13 +1,13 @@
 ---
-title: refers_to الملكية
+title: refers_to عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 210
 url: /ar/aspose.cells/unionrange/refers_to/
 is_root: false
 ---
-##  refers_to الملكية
+##  refers_to عقار
 
 يحصل على النطاق الذي يشير إليه.
 ###  تعريف:
@@ -18,5 +18,5 @@ def refers_to(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

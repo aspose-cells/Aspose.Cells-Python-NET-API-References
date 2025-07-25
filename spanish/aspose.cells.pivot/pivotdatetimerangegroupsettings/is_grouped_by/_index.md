@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/
 is_root: false
 ---
-##  is_grouped_by {#aspose.cells.pivot.PivotGroupByType}
+##  is_grouped_by(self, type) {#aspose.cells.pivot.PivotGroupByType}
 Compruebe si el campo está agrupado por tipo.
 
 
@@ -17,6 +17,7 @@ Compruebe si el campo está agrupado por tipo.
 
 
 ```python
+
 def is_grouped_by(self, type):
     ...
 ```

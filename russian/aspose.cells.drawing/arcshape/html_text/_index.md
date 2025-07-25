@@ -1,15 +1,15 @@
 ---
 title: html_text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 540
 url: /ru/aspose.cells.drawing/arcshape/html_text/
 is_root: false
 ---
 ##  html_text недвижимость
 
-Получает и задает строку HTML, содержащую данные и некоторые форматы в этом текстовом поле.
+Получает и задает HTML-строку, содержащую данные и некоторые форматы в этом текстовом поле.
 
 ###  Пример
 

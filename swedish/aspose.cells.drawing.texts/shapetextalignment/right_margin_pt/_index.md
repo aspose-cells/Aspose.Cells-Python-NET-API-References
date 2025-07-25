@@ -3,13 +3,13 @@ title: right_margin_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt/
 is_root: false
 ---
 ##  right_margin_pt fastighet
 
-Returnerar högermarginalen i poängenhet
+Returnerar högermarginalen i enheten poäng
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

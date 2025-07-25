@@ -1,5 +1,5 @@
 ---
-title: match_blanks método
+title: método match_blanks
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 120
 url: /es/aspose.cells/autofilter/match_blanks/
 is_root: false
 ---
-##  match_blanks(field_index) {#int}
-Coincide con todas las celdas en blanco de la lista.
+##  match_blanks(self, field_index) {#int}
+Coincidir con todas las celdas en blanco de la lista.
 
 
 
 ```python
+
 def match_blanks(self, field_index):
     ...
 ```
@@ -25,5 +26,5 @@ def match_blanks(self, field_index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFilter](/cells/python-net/es/aspose.cells/autofilter)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFilter`](/cells/python-net/es/aspose.cells/autofilter)

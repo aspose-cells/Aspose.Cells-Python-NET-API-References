@@ -3,7 +3,7 @@ title: query_tables属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 730
+weight: 760
 url: /zh/aspose.cells/worksheet/query_tables/
 is_root: false
 ---

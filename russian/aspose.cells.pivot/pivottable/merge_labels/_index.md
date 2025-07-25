@@ -1,16 +1,15 @@
 ---
 title: merge_labels недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 650
+weight: 750
 url: /ru/aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---
 ##  merge_labels недвижимость
 
-Указывает, является ли указанный элемент внешней строки отчета сводной таблицы, элемент столбца, промежуточный итог,
-а метки общего итога используют объединенные ячейки.
+True, если метки элементов внешней строки, столбца, промежуточных итогов и общих итогов указанного отчета сводной таблицы используют объединенные ячейки.
 ###  Определение:
 ```python
 @property
@@ -22,5 +21,5 @@ def merge_labels(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

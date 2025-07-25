@@ -14,10 +14,10 @@ Obtient l'objet Cell dans lequel se trouve la fonction.
 ###  Remarques
 
 Lors du calcul d'une formule sans la définir sur cell,
-comme par [`Worksheet.calculate_formula`](/cells/python-net/fr/aspose.cells/worksheet/calculate_formula),
-la formule sera calculée comme si elle avait été définie sur cell A1,
-donc [`CalculationData.cell_row`](/cells/python-net/fr/aspose.cells/calculationdata#cell_row) et [`CalculationData.cell_column`](/cells/python-net/fr/aspose.cells/calculationdata#cell_column) valent tous deux 0.
-Cependant, cell A1 dans la feuille de calcul n’a peut-être pas été instancié.
+comme par exemple au [`Worksheet.calculate_formula`](/cells/python-net/fr/aspose.cells/worksheet/calculate_formula),
+la formule sera calculée comme elle a été définie sur cell A1,
+donc [`CalculationData.cell_row`](/cells/python-net/fr/aspose.cells/calculationdata#cell_row) et [`CalculationData.cell_column`](/cells/python-net/fr/aspose.cells/calculationdata#cell_column) sont tous deux 0.
+Cependant, cell A1 dans la feuille de calcul n'a peut-être pas été instancié.
 Donc, pour ce genre de situation, cette propriété sera nulle.
 ###  Définition:
 ```python

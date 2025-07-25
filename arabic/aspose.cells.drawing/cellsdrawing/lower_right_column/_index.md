@@ -3,13 +3,13 @@ title: lower_right_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 780
 url: /ar/aspose.cells.drawing/cellsdrawing/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column عقار
 
-يمثل مؤشر عمود الزاوية اليمنى السفلى.
+يمثل مؤشر العمود الموجود في الزاوية اليمنى السفلية.
 
 ###  مثال
 

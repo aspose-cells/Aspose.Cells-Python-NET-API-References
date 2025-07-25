@@ -3,14 +3,14 @@ title: current_region عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 390
 url: /ar/aspose.cells/range/current_region/
 is_root: false
 ---
 ##  current_region عقار
 
- تقوم بإرجاع كائن نطاق يمثل المنطقة الحالية.
-المنطقة الحالية عبارة عن نطاق محاط بأي مجموعة من الصفوف والأعمدة الفارغة.
+ يقوم بإرجاع كائن النطاق الذي يمثل المنطقة الحالية.
+المنطقة الحالية عبارة عن نطاق محدد بأي مجموعة من الصفوف الفارغة والأعمدة الفارغة.
 ###  تعريف:
 ```python
 @property

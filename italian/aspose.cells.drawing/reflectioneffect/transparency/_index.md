@@ -1,6 +1,6 @@
 ---
 title: transparency proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)

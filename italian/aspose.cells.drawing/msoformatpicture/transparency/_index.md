@@ -1,6 +1,6 @@
 ---
 title: transparency proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency proprietà
 
-Restituisce o imposta il grado transparency dell'area come valore compreso tra 0,0 (opaco) e 1,0 (chiaro).
+Restituisce o imposta il grado transparency dell'area come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: resource_loading_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  resource_loading_type недвижимость
 
-Получает и задает тип загружаемого ресурса.
+Получает и задает тип ресурса загрузки.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def resource_loading_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ResourceLoadingType](/cells/python-net/ru/aspose.cells/resourceloadingtype)
-* класс [StreamProviderOptions](/cells/python-net/ru/aspose.cells/streamprovideroptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ResourceLoadingType`](/cells/python-net/ru/aspose.cells/resourceloadingtype)
+* класс [`StreamProviderOptions`](/cells/python-net/ru/aspose.cells/streamprovideroptions)

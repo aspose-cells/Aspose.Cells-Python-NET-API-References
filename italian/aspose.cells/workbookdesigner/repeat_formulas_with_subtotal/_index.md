@@ -1,6 +1,6 @@
 ---
 title: repeat_formulas_with_subtotal proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  repeat_formulas_with_subtotal proprietà
 
-Indica se ripetere le formule con la riga del totale parziale.
+Indica se ripetere le formule con la riga del subtotale.
 ###  Definizione:
 ```python
 @property

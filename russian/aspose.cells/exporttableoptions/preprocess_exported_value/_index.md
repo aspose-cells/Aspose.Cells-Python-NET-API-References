@@ -1,14 +1,14 @@
 ---
 title: preprocess_exported_value метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/exporttableoptions/preprocess_exported_value/
 is_root: false
 ---
-##  preprocess_exported_value {#int-int-aspose.cells.CellValue}
-Предварительно обработайте значение текущей ячейки для экспорта.
+##  preprocess_exported_value(self, cell_row, cell_column, value) {#int-int-aspose.cells.CellValue}
+Предварительно обработать значение текущей ячейки для экспорта.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def preprocess_exported_value(self, cell_row, cell_column, value):
     ...
 ```
@@ -30,7 +31,7 @@ def preprocess_exported_value(self, cell_row, cell_column, value):
 ###  Примечания
 
 Индекс строки и столбца — это абсолютный индекс ячейки на листе, а не индекс в экспортированной таблице.
-Пользователь может проверить значение текущей ячейки в переопределенной реализации этого метода.
+Пользователь может проверить значение текущей ячейки в переопределенной реализации этого метода,
 если текущую ячейку необходимо заменить другим типом и значением,
 здесь реализация должна установить ожидаемый тип и значение для объекта CellValue и вернуть true.
 По умолчанию этот метод ничего не делает и возвращает false.

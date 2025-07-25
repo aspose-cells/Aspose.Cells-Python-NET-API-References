@@ -7,16 +7,17 @@ weight: 280
 url: /ar/aspose.cells/cells/end_cell_in_row/
 is_root: false
 ---
-##  end_cell_in_row(row_index) {#int}
-تحصل على الخلية الأخيرة في هذا الصف.
+##  end_cell_in_row(self, row_index) {#int}
+يحصل على الخلية الأخيرة في هذا الصف.
 
 
 ###  عائدات
 
-Cell كائن.
+Cell الكائن.
 
 
 ```python
+
 def end_cell_in_row(self, row_index):
     ...
 ```
@@ -24,19 +25,20 @@ def end_cell_in_row(self, row_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_index | int | فهرس الصف.|
+| row_index | int | مؤشر الصف.|
 
 
-##  end_cell_in_row(start_row, end_row, start_column, end_column) {#int-int-int-int}
-الحصول على الخلية الأخيرة ذات فهرس الصف الأقصى في هذا النطاق.
+##  end_cell_in_row(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
+يحصل على الخلية الأخيرة ذات مؤشر الصف الأقصى في هذا النطاق.
 
 
 ###  عائدات
 
-Cell كائن.
+Cell الكائن.
 
 
 ```python
+
 def end_cell_in_row(self, start_row, end_row, start_column, end_column):
     ...
 ```
@@ -44,13 +46,13 @@ def end_cell_in_row(self, start_row, end_row, start_column, end_column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_row | int | فهرس صف البداية.|
-| end_row | int | فهرس صف النهاية.|
-| start_column | int | فهرس عمود البداية.|
-| end_column | int | فهرس عمود النهاية.|
+| start_row | int | مؤشر الصف الأول.|
+| end_row | int | مؤشر الصف النهائي.|
+| start_column | int |مؤشر العمود البداية.|
+| end_column | int | مؤشر العمود النهائي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

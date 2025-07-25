@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_enabled/
 is_root: false
 ---
 ##  is_enabled Eigentum
-
-Gibt an, ob das Steuerelement den Fokus erhalten und auf vom Benutzer generierte Ereignisse reagieren kann.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

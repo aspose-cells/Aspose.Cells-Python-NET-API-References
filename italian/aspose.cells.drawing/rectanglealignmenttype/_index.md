@@ -1,18 +1,18 @@
 ---
-title: RectangleAlignmentType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione RectangleAlignmentType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /it/aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
-##  RectangleAlignmentType enumerazione
-Rappresenta come posizionare due rettangoli l'uno rispetto all'altro.
+##  Enumerazione RectangleAlignmentType
+Rappresenta il modo in cui posizionare due rettangoli l'uno rispetto all'altro.
 
 
 
-Il tipo RectangleAlignmentType espone i membri seguenti:
+Il tipo RectangleAlignmentType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,10 +24,10 @@ Il tipo RectangleAlignmentType espone i membri seguenti:
 | LEFT | Sinistra|
 | RIGHT | Giusto|
 | TOP | Superiore|
-| TOP_LEFT | A sinistra in alto|
+| TOP_LEFT | In alto a sinistra|
 | TOP_RIGHT | In alto a destra|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

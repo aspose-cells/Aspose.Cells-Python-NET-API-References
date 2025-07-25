@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
-##  refresh() {#}
-تجديد القطاعة ، وفي الوقت نفسه ، تحديث وحساب جداول PivotTable النسبية.
+##  refresh(self) {#}
+تحديث المقطع. وفي الوقت نفسه، تحديث وحساب جداول البيانات المحورية النسبية.
 
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -30,5 +31,5 @@ slicer.refresh()
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

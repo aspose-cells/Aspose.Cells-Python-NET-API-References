@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_alignment Eigentum
 
-Gibt die Ausrichtung an, die mit diesem Tabstopp auf Text angewendet werden soll.
+Gibt die Ausrichtung an, die auf Text angewendet werden soll, der diesen Tabulator verwendet.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextTabAlignmentType](/cells/python-net/de/aspose.cells.drawing.texts/texttabalignmenttype)
-* Klasse [TextTabStop](/cells/python-net/de/aspose.cells.drawing.texts/texttabstop)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextTabAlignmentType`](/cells/python-net/de/aspose.cells.drawing.texts/texttabalignmenttype)
+* Klasse [`TextTabStop`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstop)

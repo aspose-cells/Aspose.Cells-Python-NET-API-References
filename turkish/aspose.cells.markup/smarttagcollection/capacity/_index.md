@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)

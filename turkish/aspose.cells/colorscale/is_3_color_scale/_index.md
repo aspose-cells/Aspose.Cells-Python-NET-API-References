@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_3_color_scale mülk
 
-Koşullu biçimlendirmenin 3 renk ölçeği olup olmadığını gösterir.
+Koşullu biçimlendirmenin 3 renk skalasında olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_3_color_scale(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)

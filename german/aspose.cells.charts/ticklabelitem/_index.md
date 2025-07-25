@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/ticklabelitem/
 is_root: false
 ---
 ##  TickLabelItem Klasse
-Stellt eine Markierung im Diagramm dar.
+Stellt eine Teilstrichbeschriftung im Diagramm dar.
 
 
 

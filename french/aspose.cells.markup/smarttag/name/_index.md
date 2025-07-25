@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propriété
 
-Obtient le name de la balise active.
+Obtient le name de la balise intelligente.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTag](/cells/python-net/fr/aspose.cells.markup/smarttag)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTag`](/cells/python-net/fr/aspose.cells.markup/smarttag)

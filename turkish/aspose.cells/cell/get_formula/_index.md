@@ -7,16 +7,17 @@ weight: 130
 url: /tr/aspose.cells/cell/get_formula/
 is_root: false
 ---
-##  get_formula(is_r1c1, is_local) {#bool-bool}
+##  get_formula(self, is_r1c1, is_local) {#bool-bool}
 Bu hücrenin formülünü alın.
 
 
 ###  İadeler
 
-bu hücrenin formülü.
+Bu hücrenin formülü.
 
 
 ```python
+
 def get_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_formula(self, is_r1c1, is_local):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

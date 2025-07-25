@@ -3,13 +3,13 @@ title: is_plot_order_reversed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ar/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
 ##  is_plot_order_reversed عقار
 
-يمثل ما إذا كان Microsoft Excel يرسم نقاط البيانات من الأخير إلى الأول.
+يمثل Microsoft Excel يرسم نقاط البيانات من الأخير إلى الأول.
 ###  تعريف:
 ```python
 @property

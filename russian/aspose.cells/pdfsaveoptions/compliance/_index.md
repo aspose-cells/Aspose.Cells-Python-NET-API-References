@@ -1,15 +1,15 @@
 ---
 title: compliance недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
 ##  compliance недвижимость
 
-Получает или задает уровень стандартов compliance compliance для выходных документов.
+Возвращает или задает уровень стандартов PDF compliance для выходных документов.
 
 ###  Примечания
 

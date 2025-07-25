@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_split fastighet
 
-Indikerar om tröskelvärdet är automatiskt.
+Anger om tröskelvärdet är automatiskt.
 ###  Definition:
 ```python
 @property

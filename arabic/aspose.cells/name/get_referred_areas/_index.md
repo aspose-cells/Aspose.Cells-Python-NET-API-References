@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells/name/get_referred_areas/
 is_root: false
 ---
-##  get_referred_areas(recalculate) {#bool}
+##  get_referred_areas(self, recalculate) {#bool}
 يحصل على جميع المراجع المشار إليها بهذا الاسم.
 
 
 ###  عائدات
 
-كل النطاقات.
+جميع النطاقات.
 
 
 ```python
+
 def get_referred_areas(self, recalculate):
     ...
 ```
@@ -24,10 +25,10 @@ def get_referred_areas(self, recalculate):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| recalculate | bool | سواء إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
+| recalculate | bool | هل يجب إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

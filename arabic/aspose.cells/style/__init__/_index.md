@@ -1,5 +1,5 @@
 ---
-title: Style المنشئ
+title: Style منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/style/__init__/
 is_root: false
 ---
-##  Style() {#}
-يقوم بتهيئة نسخة جديدة من الفئة [Style](/cells/python-net/ar/aspose.cells/style).
+##  \_\_init\_\_(الذات){#}
+يقوم بتهيئة مثيل جديد للفئة [`Style`](/cells/python-net/ar/aspose.cells/style).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,12 @@ def __init__(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا المُنشئ الآن قديم.
-بدلاً من ذلك ، يرجى استخدام طريقة CellsFactory.CreateStyle ().
- ستتم إزالة هذا العقار بعد 6 أشهر منذ أكتوبر 2016.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملحوظة: هذا المنشئ أصبح الآن قديمًا.
+بدلاً من ذلك، يرجى استخدام طريقة CellsFactory.CreateStyle().
+ سيتم إزالة هذه الخاصية بعد 6 أشهر منذ أكتوبر 2016.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -3,12 +3,12 @@ title: طريقة add_icons
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-يضيف صورة SVG.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+إضافة صورة svg.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -25,13 +26,13 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | upper_left_row | int | مؤشر الصف العلوي الأيسر.|
-| top | int | يمثل الإزاحة الرأسية للشكل من صفه الأيسر، بوحدة البكسل.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
+| top | int | يمثل الإزاحة الرأسية للشكل من الصف الأيسر، بوحدة البكسل.|
+| upper_left_column | int | فهرس العمود العلوي الأيسر.|
 | left | int | الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة البكسل.|
-| height | int | ارتفاع الشكل بوحدة البكسل.|
-| width | int | عرض الشكل بوحدة البكسل.|
-| image_byte_data | bytes | بيانات بايت الصورة|
-| compatible_image_data | bytes | تم تحويل بيانات الصورة من svg لتكون متوافقة مع Excel 2016 أو الإصدارات الأقل.|
+| height | int | ارتفاع الشكل، بوحدة البكسل.|
+| width | int | عرض الشكل، بوحدة البكسل.|
+| image_byte_data | bytes | بيانات بايت الصورة.|
+| compatible_image_data | bytes | تم تحويل بيانات الصورة من svg لتكون متوافقة مع Excel 2016 أو الإصدارات الأقدم.|
 
 ###  مثال
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Hämtar eller ställer in kantens färg.
+Hämtar eller anger färgen på kantlinjen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Border](/cells/python-net/sv/aspose.cells/border)
+* modul [`aspose.cells`](../../)
+* klass [`Border`](/cells/python-net/sv/aspose.cells/border)

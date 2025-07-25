@@ -1,15 +1,13 @@
 ---
 title: WarningType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2760
+weight: 2730
 url: /ru/aspose.cells/warningtype/
 is_root: false
 ---
 ##  WarningType перечисление
-Тип Варинга
-
 
 
 Тип WarningType предоставляет следующие элементы:
@@ -17,17 +15,17 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| FONT_SUBSTITUTION | Тип предупреждения о замене шрифта<br/> если шрифт не найден, можно получить этот тип предупреждения.|
-| DUPLICATE_DEFINED_NAME | В файле обнаружено повторяющееся определенное имя.|
-| UNSUPPORTED_FILE_FORMAT | Неподдерживаемый формат файла.|
-| INVALID_TEXT_OF_DEFINED_NAME | Неверный текст определенного имени.|
-| INVALID_FONT_NAME | Недопустимое имя шрифта.|
-| INVALID_AUTO_FILTER_RANGE | Недопустимый диапазон автофильтра.|
-| IO | Файл поврежден.|
-| LIMITATION | Ошибка ограничения MS Excel.|
-| INVALID_DATA | Неверные данные.|
-| FORMULA | Неверная формула.|
-| INVALID_OPERATOR | Неверный оператор.|
+| FONT_SUBSTITUTION |  |
+| DUPLICATE_DEFINED_NAME |  |
+| UNSUPPORTED_FILE_FORMAT |  |
+| INVALID_TEXT_OF_DEFINED_NAME |  |
+| INVALID_FONT_NAME |  |
+| INVALID_AUTO_FILTER_RANGE |  |
+| IO |  |
+| LIMITATION |  |
+| INVALID_DATA |  |
+| FORMULA |  |
+| INVALID_OPERATOR |  |
 
 
 

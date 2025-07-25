@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_size fastighet
 
-Teckenstorleksinställning kommer att tillämpas.
+Inställningen för teckenstorlek kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

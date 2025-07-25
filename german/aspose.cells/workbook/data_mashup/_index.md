@@ -3,7 +3,7 @@ title: data_mashup Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 550
 url: /de/aspose.cells/workbook/data_mashup/
 is_root: false
 ---

@@ -1,26 +1,26 @@
 ---
 title: ShapeSegmentPath класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 590
 url: /ru/aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
 ##  ShapeSegmentPath класс
-Представляет путь сегмента в пути произвольной формы.
+Представляет собой сегмент пути в контуре свободной формы.
 
 
 
-Тип ShapeSegmentPath предоставляет следующие члены:
+Тип ShapeSegmentPath предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [type](/cells/python-net/ru/aspose.cells.drawing/shapesegmentpath/type) | Получает тип сегмента пути|
-| [points](/cells/python-net/ru/aspose.cells.drawing/shapesegmentpath/points) | Получает точки в сегменте пути|
+| [points](/cells/python-net/ru/aspose.cells.drawing/shapesegmentpath/points) | Получает точки на сегменте пути|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

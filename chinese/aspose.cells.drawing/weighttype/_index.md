@@ -1,6 +1,6 @@
 ---
 title: WeightType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 1190
@@ -8,21 +8,21 @@ url: /zh/aspose.cells.drawing/weighttype/
 is_root: false
 ---
 ## WeightType枚举
-枚举图片边框或图表线条的粗细类型。
+枚举图片边框或图表线的权重类型。
 
 
 
-WeightType 类型公开了以下成员：
+WeightType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| HAIR_LINE |表示发线的粗细。|
-| MEDIUM_LINE |代表中线的重量。|
-| SINGLE_LINE |表示单行的权重。|
-| WIDE_LINE |表示宽线的重量。|
+| HAIR_LINE |表示发际线的粗细。|
+| MEDIUM_LINE |代表中线的权重。|
+| SINGLE_LINE |表示单线的粗细。|
+| WIDE_LINE |表示宽线的粗细。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

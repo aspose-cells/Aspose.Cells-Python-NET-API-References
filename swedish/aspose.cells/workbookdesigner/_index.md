@@ -3,12 +3,12 @@ title: WorkbookDesigner klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1670
+weight: 1580
 url: /sv/aspose.cells/workbookdesigner/
 is_root: false
 ---
 ##  WorkbookDesigner klass
-Kapslar in objektet som representerar ett designerkalkylblad.
+Inkapslar objektet som representerar ett Designer-kalkylblad.
 
 
 
@@ -17,33 +17,34 @@ Typen WorkbookDesigner avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/workbookdesigner/__init__/#) | Initierar en ny instans av klassen [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner).|
-| [__init__](/cells/python-net/sv/aspose.cells/workbookdesigner/__init__/#aspose.cells.Workbook) | Initierar en ny instans av klassen [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner).|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/workbookdesigner/__init__/#) | Initierar en ny instans av klassen [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner).|
+| [`__init__(self, workbook)`](/cells/python-net/sv/aspose.cells/workbookdesigner/__init__/#aspose.cells.workbook) | Initierar en ny instans av klassen [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner).|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [workbook](/cells/python-net/sv/aspose.cells/workbookdesigner/workbook) | Hämtar och ställer in objektet [`WorkbookDesigner.workbook`](/cells/python-net/sv/aspose.cells/workbookdesigner#workbook).|
-| [repeat_formulas_with_subtotal](/cells/python-net/sv/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Anger om repeterande formler med delsumma rad.|
-| [update_empty_string_as_null](/cells/python-net/sv/aspose.cells/workbookdesigner/update_empty_string_as_null) | Om TRUE, kommer Null att infogas om värdet är "";|
+| [workbook](/cells/python-net/sv/aspose.cells/workbookdesigner/workbook) | Hämtar och anger [`WorkbookDesigner.workbook`](/cells/python-net/sv/aspose.cells/workbookdesigner#workbook)-objektet.|
+| [repeat_formulas_with_subtotal](/cells/python-net/sv/aspose.cells/workbookdesigner/repeat_formulas_with_subtotal) | Anger om upprepade formler med delsummarad är obligatoriska.|
+| [update_empty_string_as_null](/cells/python-net/sv/aspose.cells/workbookdesigner/update_empty_string_as_null) |Om TRUE, infogas Null om värdet är "";|
 | [update_reference](/cells/python-net/sv/aspose.cells/workbookdesigner/update_reference) | Anger om referenser i andra arbetsblad kommer att uppdateras.|
 | [calculate_formula](/cells/python-net/sv/aspose.cells/workbookdesigner/calculate_formula) | Anger om formler ska beräknas.|
-| [call_back](/cells/python-net/sv/aspose.cells/workbookdesigner/call_back) | Hämtar och ställer in återuppringningsgränssnitt för bearbetning av smartmarker.|
-| [line_by_line](/cells/python-net/sv/aspose.cells/workbookdesigner/line_by_line) | Indikerar om den smarta markören bearbetas rad för rad.|
+| [line_by_line](/cells/python-net/sv/aspose.cells/workbookdesigner/line_by_line) | Anger om den smarta markören bearbetas rad för rad.|
+| [contains_variables](/cells/python-net/sv/aspose.cells/workbookdesigner/contains_variables) | Anger om det första kalkylbladet innehåller anpassade variabler.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_data_source](/cells/python-net/sv/aspose.cells/workbookdesigner/set_data_source/#str-aspose.cells.ICellsDataTable) | Ställer in datakälla för ett [`ICellsDataTable`](/cells/python-net/sv/aspose.cells/icellsdatatable)-objekt.|
-| [set_data_source](/cells/python-net/sv/aspose.cells/workbookdesigner/set_data_source/#str-any) | Ställer in databindning till en variabel.|
-| [process](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#) |Bearbetar de smarta markörerna och fyller i datakällans värden.|
-| [process](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#bool) |Bearbetar de smarta markörerna och fyller i datakällans värden.|
-| [process](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#int-bool) |Bearbetar de smarta markörerna och fyller i datakällans värden.|
-| [clear_data_source](/cells/python-net/sv/aspose.cells/workbookdesigner/clear_data_source/#) | Rensar alla datakällor.|
-| [set_json_data_source](/cells/python-net/sv/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
-| [get_smart_markers](/cells/python-net/sv/aspose.cells/workbookdesigner/get_smart_markers/#) | Returnerar en samling smarta markörer i ett kalkylblad.|
+| [`set_data_source(self, data_source, cells_data_table)`](/cells/python-net/sv/aspose.cells/workbookdesigner/set_data_source/#str-icellsdatatable) |  |
+| [`set_data_source(self, variable, data)`](/cells/python-net/sv/aspose.cells/workbookdesigner/set_data_source/#str-any) | Ställer in databindning till en variabel.|
+| [`process(self, range, is_preserved)`](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#aspose.cells.range-bool) | Bearbetar de smarta markörerna och fyller i datakällans värden.|
+| [`process(self)`](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#) | Bearbetar de smarta markörerna och fyller i datakällans värden.|
+| [`process(self, is_preserved)`](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#bool) | Bearbetar de smarta markörerna och fyller i datakällans värden.|
+| [`process(self, sheet_index, is_preserved)`](/cells/python-net/sv/aspose.cells/workbookdesigner/process/#int-bool) | Bearbetar de smarta markörerna och fyller i datakällans värden.|
+| [`clear_data_source(self)`](/cells/python-net/sv/aspose.cells/workbookdesigner/clear_data_source/#) | Rensar alla datakällor.|
+| [`set_json_data_source(self, variable, data)`](/cells/python-net/sv/aspose.cells/workbookdesigner/set_json_data_source/#str-str) |  |
+| [`get_smart_markers(self)`](/cells/python-net/sv/aspose.cells/workbookdesigner/get_smart_markers/#) | Returnerar en samling smarta markörer i ett kalkylblad.|
 
 
 
@@ -70,5 +71,4 @@ wd.workbook.save("outSmartMarker_Designer.xls")
 
 ###  Se även
 * modul [`aspose.cells`](..)
-* klass [`ICellsDataTable`](/cells/python-net/sv/aspose.cells/icellsdatatable)
 * klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

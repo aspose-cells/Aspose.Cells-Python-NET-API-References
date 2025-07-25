@@ -1,33 +1,33 @@
 ---
-title: العد MsoLineDashStyle
+title: MsoLineDashStyle التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1010
+weight: 1000
 url: /ar/aspose.cells.drawing/msolinedashstyle/
 is_root: false
 ---
-##  العد MsoLineDashStyle
-يمثل نمط خطوط رسم اندفاعة.
+##  MsoLineDashStyle التعداد
+يمثل أسلوب رسم خطوط الشرطة.
 
 
 
-يكشف نوع MsoLineDashStyle الأعضاء التالية:
+يكشف النوع MsoLineDashStyle عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DASH | تمثل خط شرطة.|
-| DASH_DOT |يمثل خط نقطة شرطة.|
-| DASH_DOT_DOT | يمثل خط شرطة-نقطة-نقطة.|
-| DASH_LONG_DASH | يمثل خط شرطة طويل - قصير.|
-| DASH_LONG_DASH_DOT | يمثل خطًا طويلًا ونقطة شرطة قصيرة.|
-| ROUND_DOT | يمثل خط نقطة مستديرة.|
-| SOLID | تمثل خطاً متيناً.|
-| SQUARE_DOT | يمثل خط نقطة مربعة.|
-| CUSTOM | نمط شرطة مخصص.|
+| DASH | يمثل خطًا متقطعًا.|
+| DASH_DOT | يمثل خطًا منقطًا وشرطة.|
+| DASH_DOT_DOT | يمثل خطًا مكونًا من شرطة ونقطة ونقطة.|
+| DASH_LONG_DASH | يمثل خطًا طويلاً من الشرطة القصيرة.|
+| DASH_LONG_DASH_DOT | يمثل خطًا طويلًا مكونًا من شرطة قصيرة ونقطة.|
+| ROUND_DOT | يمثل خطًا من النقاط المستديرة.|
+| SOLID | يمثل خطًا متصلًا.|
+| SQUARE_DOT | يمثل خطًا من النقاط المربعة.|
+| CUSTOM | نمط لوحة القيادة مخصص.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

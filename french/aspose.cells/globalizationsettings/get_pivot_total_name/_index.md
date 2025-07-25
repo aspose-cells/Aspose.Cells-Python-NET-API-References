@@ -7,9 +7,9 @@ weight: 160
 url: /fr/aspose.cells/globalizationsettings/get_pivot_total_name/
 is_root: false
 ---
-##  get_pivot_total_name {#}
+##  get_pivot_total_name(self) {#}
 Obtient le nom de l'étiquette « Total » dans le tableau croisé dynamique.
-Vous devez remplacer cette méthode lorsque le tableau croisé dynamique contient deux ou plusieurs PivotFields dans la zone de données.
+Vous devez remplacer cette méthode lorsque le tableau croisé dynamique contient deux champs croisés dynamiques ou plus dans la zone de données.
 
 
 ###  Retour
@@ -18,6 +18,7 @@ Le nom du label « Total »
 
 
 ```python
+
 def get_pivot_total_name(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_pivot_total_name(self):
 
 ###  Remarques
 
-REMARQUE : ce membre est désormais obsolète. Plutôt,
+REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Ce bien sera supprimé 12 mois plus tard depuis décembre 2022.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit décembre 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

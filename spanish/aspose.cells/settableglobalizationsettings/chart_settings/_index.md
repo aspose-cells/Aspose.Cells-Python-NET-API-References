@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  chart_settings propiedad
 
-Obtiene o establece la configuración de globalización para Chart.
+Obtiene o establece la configuración de globalización para el gráfico.
 ###  Definición:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: Metodo copy
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
 url: /it/aspose.cells/worksheet/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Worksheet}
+##  copy(self, source_sheet) {#aspose.cells.Worksheet}
 Copia contenuti e formati da un altro foglio di lavoro.
 
 
 
 ```python
+
 def copy(self, source_sheet):
     ...
 ```
@@ -23,12 +24,13 @@ def copy(self, source_sheet):
 | source_sheet | [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) | Foglio di lavoro di origine.|
 
 
-##  copy {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
+##  copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
 Copia contenuti e formati da un altro foglio di lavoro.
 
 
 
 ```python
+
 def copy(self, source_sheet, copy_options):
     ...
 ```
@@ -40,7 +42,7 @@ def copy(self, source_sheet, copy_options):
 | copy_options | [`CopyOptions`](/cells/python-net/it/aspose.cells/copyoptions) |  |
 ###  Osservazioni
 
-Puoi copy dati da un altro foglio di lavoro nello stesso file o in un altro file. Tuttavia, questo metodo non supporta gli oggetti di disegno copy, come commenti, immagini e grafici.
+È possibile importare dati da un altro foglio di lavoro nello stesso file o in un altro. Tuttavia, questo metodo non supporta oggetti di disegno, come commenti, immagini e grafici.
 
 
 ###  Guarda anche

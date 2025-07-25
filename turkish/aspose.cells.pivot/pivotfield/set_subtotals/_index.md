@@ -3,16 +3,17 @@ title: set_subtotals yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 210
 url: /tr/aspose.cells.pivot/pivotfield/set_subtotals/
 is_root: false
 ---
-##  set_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
-Belirtilen alanın bu alt toplamları gösterip göstermeyeceğini ayarlar.
+##  set_subtotals(self, subtotal_type, shown) {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
+Belirtilen alanın ara toplamları gösterip göstermeyeceğini ayarlar.
 
 
 
 ```python
+
 def set_subtotals(self, subtotal_type, shown):
     ...
 ```
@@ -20,8 +21,8 @@ def set_subtotals(self, subtotal_type, shown):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) | alt toplamlar türü.|
-| shown | bool |belirtilen alanın bu alt toplamları gösterip göstermediği.|
+| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldsubtotaltype) | ara toplamlar türü.|
+| shown | bool | Belirtilen alanın ara toplamları gösterip göstermediği.|
 
 
 

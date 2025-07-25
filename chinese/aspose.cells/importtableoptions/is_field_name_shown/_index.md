@@ -1,13 +1,13 @@
 ---
-title: is_field_name_shown 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_field_name_shown属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 110
 url: /zh/aspose.cells/importtableoptions/is_field_name_shown/
 is_root: false
 ---
-## is_field_name_shown 属性
+## is_field_name_shown属性
 
 指示是否应导入字段名称。
 ### 定义：
@@ -21,5 +21,5 @@ def is_field_name_shown(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ImportTableOptions](/cells/python-net/zh/aspose.cells/importtableoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`ImportTableOptions`](/cells/python-net/zh/aspose.cells/importtableoptions)

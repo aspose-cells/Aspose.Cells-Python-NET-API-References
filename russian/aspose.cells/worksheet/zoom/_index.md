@@ -1,15 +1,15 @@
 ---
 title: zoom недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 940
+weight: 960
 url: /ru/aspose.cells/worksheet/zoom/
 is_root: false
 ---
 ##  zoom недвижимость
 
-Представляет коэффициент масштабирования в процентах. Должно быть от 10 до 400.
+Коэффициент масштабирования в процентах. Должен быть в диапазоне от 10 до 400.
 
 ###  Примечания
 

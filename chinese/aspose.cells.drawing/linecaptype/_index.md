@@ -1,28 +1,28 @@
 ---
 title: LineCapType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 930
+weight: 920
 url: /zh/aspose.cells.drawing/linecaptype/
 is_root: false
 ---
 ## LineCapType枚举
-代表一行的上限
+代表线的端点
 
 
 
-LineCapType 类型公开了以下成员：
+LineCapType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| SQUARE |正方形突出半线宽。|
-| ROUND |圆形末端。|
-| FLAT |线在终点结束。|
+| SQUARE |正方形突出半个线宽。|
+| ROUND |末端呈圆形。|
+| FLAT |线在终点处结束。|
 | NONE |无上限|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

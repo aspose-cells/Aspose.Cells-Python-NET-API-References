@@ -3,13 +3,13 @@ title: font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 170
 url: /es/aspose.cells.charts/plotarea/font/
 is_root: false
 ---
 ##  font propiedad
 
-Obtiene un objeto [ChartFrame.font](/cells/python-net/es/aspose.cells.charts/chartframe#font) del objeto ChartFrame especificado.
+Obtiene un objeto [`ChartFrame.font`](/cells/python-net/es/aspose.cells.charts/chartframe#font) del objeto ChartFrame especificado.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
-* clase [PlotArea](/cells/python-net/es/aspose.cells.charts/plotarea)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)
+* clase [`PlotArea`](/cells/python-net/es/aspose.cells.charts/plotarea)

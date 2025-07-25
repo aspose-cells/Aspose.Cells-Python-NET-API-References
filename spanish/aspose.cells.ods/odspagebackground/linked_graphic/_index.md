@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  linked_graphic propiedad
 
-Obtiene y establece la ruta del gráfico vinculado.
+Obtiene y establece la ruta gráfica vinculada.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.ods](../../)
-* clase [OdsPageBackground](/cells/python-net/es/aspose.cells.ods/odspagebackground)
+* módulo [`aspose.cells.ods`](../../)
+* clase [`OdsPageBackground`](/cells/python-net/es/aspose.cells.ods/odspagebackground)

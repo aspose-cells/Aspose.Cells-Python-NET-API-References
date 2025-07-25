@@ -3,7 +3,7 @@ title: first_row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 430
 url: /sv/aspose.cells/range/first_row/
 is_root: false
 ---

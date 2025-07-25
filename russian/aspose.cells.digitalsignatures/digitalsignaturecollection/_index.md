@@ -1,6 +1,6 @@
 ---
 title: DigitalSignatureCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -8,22 +8,22 @@ url: /ru/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
 ##  DigitalSignatureCollection класс
-Предоставляет набор цифровых подписей, прикрепленных к документу.
+Предоставляет коллекцию цифровых подписей, прикрепленных к документу.
 
 
 
-Тип DigitalSignatureCollection предоставляет следующие члены:
+Тип DigitalSignatureCollection предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |Конструктор DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | Конструктор DigitalSignatureCollection.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Добавьте одну подпись в DigitalSignatureCollection.|
+| [`add(self, digital_signature)`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | Добавьте одну подпись в DigitalSignatureCollection.|
 
 
 
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.digitalsignatures](..)
+* модуль [`aspose.cells.digitalsignatures`](..)

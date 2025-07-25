@@ -3,7 +3,7 @@ title: paths عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 880
+weight: 890
 url: /ar/aspose.cells.drawing/scrollbar/paths/
 is_root: false
 ---

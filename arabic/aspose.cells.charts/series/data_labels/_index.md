@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_labels عقار
 
-يمثل كائن DataLabels لـ ASeries المحدد.
+يمثل كائن DataLabels لـ ASeries المحددة.
 ###  تعريف:
 ```python
 @property

@@ -3,12 +3,12 @@ title: FilterColumn clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 640
+weight: 620
 url: /es/aspose.cells/filtercolumn/
 is_root: false
 ---
 ##  FilterColumn clase
-Representa un filtro para una sola columna. El objeto Filter es miembro de la colección Filters.
+Representa un filtro para una sola columna. El objeto Filtro pertenece a la colección Filtros.
 
 
 

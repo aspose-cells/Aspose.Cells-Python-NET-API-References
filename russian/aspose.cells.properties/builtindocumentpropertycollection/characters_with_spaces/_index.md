@@ -1,15 +1,15 @@
 ---
 title: characters_with_spaces недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/characters_with_spaces/
 is_root: false
 ---
 ##  characters_with_spaces недвижимость
 
-Представляет оценку количества символов (включая пробелы) в документе.
+Представляет собой оценку количества символов (включая пробелы) в документе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def characters_with_spaces(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

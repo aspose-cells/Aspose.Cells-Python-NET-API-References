@@ -1,13 +1,13 @@
 ---
-title: language 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: language属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/language/
 is_root: false
 ---
-## language 属性
+## language属性
 
 获取或设置文档的 language。
 ### 定义：
@@ -21,5 +21,5 @@ def language(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  spacing mülk
 
-Bir metin çalıştırmasındaki karakterler arasındaki spacing'i belirtir.
+Bir metin çalışması içindeki karakterler arasında spacing'i belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def spacing(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

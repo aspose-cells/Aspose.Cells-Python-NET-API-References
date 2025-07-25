@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked propriété
 
-Le réglage verrouillé sera appliqué.
+Le paramètre verrouillé sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def locked(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

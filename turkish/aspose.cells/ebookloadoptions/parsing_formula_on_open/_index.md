@@ -3,7 +3,7 @@ title: parsing_formula_on_open mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 280
 url: /tr/aspose.cells/ebookloadoptions/parsing_formula_on_open/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Dosya okunurken formülün ayrıştırılıp ayrıştırılmayacağını belirti
 
 ###  Notlar
 
-Yalnızca Excel Xlsx, Xltx, Xltm ve Xlsm dosyası için geçerlidir
-çünkü dosyalardaki formüller bir dize formülüyle saklanır.
+Sadece Excel Xlsx, Xltx, Xltm ve Xlsm dosyaları için geçerlidir
+çünkü dosyalardaki formüller string formülü ile saklanıyor.
 ###  Tanım:
 ```python
 @property

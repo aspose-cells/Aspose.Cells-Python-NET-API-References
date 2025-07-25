@@ -1,5 +1,5 @@
 ---
-title: split_value الملكية
+title: split_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 460
 url: /ar/aspose.cells.charts/series/split_value/
 is_root: false
 ---
-##  split_value الملكية
+##  split_value عقار
 
-إرجاع أو تعيين قيمة يجب استخدامها لتحديد نقاط البيانات الموجودة في الدائرة أو الشريط الثاني
-رسم بياني دائري أو شريط دائري.
+يقوم بإرجاع أو تعيين قيمة يجب استخدامها لتحديد نقاط البيانات الموجودة في الفطيرة الثانية أو الشريط على
+فطيرة من الفطيرة أو شريط من الرسم البياني الدائري.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible Eigentum
 
-Stellt dar, ob die Linie sichtbar ist.
+Gibt an, ob die Linie sichtbar ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)

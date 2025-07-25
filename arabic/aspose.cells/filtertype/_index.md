@@ -3,7 +3,7 @@ title: FilterType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2130
+weight: 2060
 url: /ar/aspose.cells/filtertype/
 is_root: false
 ---
@@ -17,13 +17,13 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| COLOR_FILTER | التصفية حسب لون تعبئة الخلية.|
+| COLOR_FILTER |تصفية حسب لون تعبئة الخلية.|
 | CUSTOM_FILTERS | نوع الفلتر المخصص.|
-| DYNAMIC_FILTER | نوع الفلتر الديناميكي|
-| MULTIPLE_FILTERS | عند اختيار قيم متعددة للتصفية حسبها، أو عند اختيار مجموعة من قيم التاريخ للتصفية حسبها،<br/> يجمع هذا العنصر تلك المعايير معًا.|
-| ICON_FILTER | التصفية حسب أيقونة التنسيق الشرطي.|
+| DYNAMIC_FILTER | نوع الفلتر الديناميكي.|
+| MULTIPLE_FILTERS | عند اختيار قيم متعددة للتصفية حسبها، أو عند اختيار مجموعة من قيم التاريخ للتصفية حسبها،<br/> يقوم هذا العنصر بتجميع تلك المعايير معًا.|
+| ICON_FILTER | تصفية حسب أيقونة التنسيق الشرطي.|
 | TOP10 | أفضل 10 مرشحات.|
-| NONE | لا يوجد مرشح.|
+| NONE | لا يوجد فلتر.|
 
 
 

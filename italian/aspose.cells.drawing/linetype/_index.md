@@ -1,26 +1,26 @@
 ---
-title: LineType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione LineType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 950
+weight: 940
 url: /it/aspose.cells.drawing/linetype/
 is_root: false
 ---
-##  LineType enumerazione
-Enumera il tipo di bordo [Picture](/cells/python-net/it/aspose.cells.drawing/picture) o la linea [Chart](/cells/python-net/it/aspose.cells.charts/chart).
+##  Enumerazione LineType
+Enumera il tipo di bordo [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture) o di linea [`Chart`](/cells/python-net/it/aspose.cells.charts/chart).
 
 
 
-Il tipo LineType espone i membri seguenti:
+Il tipo LineType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | DARK_GRAY | Rappresenta una linea grigio scuro.|
 | DASH | Rappresenta una linea tratteggiata.|
-| DASH_DOT | Rappresenta una linea tratteggiata|
-| DASH_DOT_DOT | Rappresenta una linea trattino-punto-punto.|
+| DASH_DOT | Rappresenta una linea tratteggiata e puntinata|
+| DASH_DOT_DOT | Rappresenta una linea tratteggiata-punto-punto.|
 | DOT | Rappresenta una linea tratteggiata.|
 | LIGHT_GRAY | Rappresenta una linea grigio chiaro.|
 | MEDIUM_GRAY | Rappresenta una linea grigia media.|
@@ -29,6 +29,6 @@ Il tipo LineType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [Picture](/cells/python-net/it/aspose.cells.drawing/picture)
+* modulo [`aspose.cells.drawing`](..)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`Picture`](/cells/python-net/it/aspose.cells.drawing/picture)

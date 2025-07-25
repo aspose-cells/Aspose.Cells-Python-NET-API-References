@@ -3,7 +3,7 @@ title: DataBarAxisPosition numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1970
+weight: 1880
 url: /tr/aspose.cells/databaraxisposition/
 is_root: false
 ---
@@ -17,9 +17,9 @@ DataBarAxisPosition türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTOMATIC | Aralıktaki minimum negatif değerin maksimum pozitif değere oranına göre ekseni değişken bir konumda görüntüleyin.<br/> Pozitif değerler soldan sağa yönde görüntülenir.<br/> Negatif değerler sağdan sola yönde görüntülenir.<br/>Tüm değerler pozitif veya tüm değerler negatif olduğunda hiçbir eksen görüntülenmez.|
-| MIDPOINT | Aralıktaki değer kümesinden bağımsız olarak ekseni hücrenin orta noktasında görüntüleyin.<br/> Pozitif değerler soldan sağa yönde görüntülenir.<br/> Negatif değerler sağdan sola yönde görüntülenir.|
-| NONE | Hiçbir eksen görüntülenmez ve hem pozitif hem de negatif değerler soldan sağa yönde görüntülenir.|
+| AUTOMATIC | Aralıktaki minimum negatif değerin maksimum pozitif değere oranına göre eksenin değişken bir konumda görüntülenmesini sağlar.<br/> Pozitif değerler soldan sağa doğru gösterilir.<br/> Negatif değerler sağdan sola doğru görüntülenir.<br/> Tüm değerler pozitif veya tüm değerler negatif olduğunda hiçbir eksen görüntülenmez.|
+| MIDPOINT | Aralıktaki değer kümesinden bağımsız olarak eksenin hücrenin orta noktasında görüntülenmesini sağlar.<br/> Pozitif değerler soldan sağa doğru gösterilir.<br/> Negatif değerler sağdan sola doğru görüntülenir.|
+| NONE | Hiçbir eksen görüntülenmiyor ve hem pozitif hem de negatif değerler soldan sağa doğru gösteriliyor.|
 
 
 

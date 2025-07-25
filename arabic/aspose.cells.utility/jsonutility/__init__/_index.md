@@ -1,5 +1,5 @@
 ---
-title: JsonUtility المنشئ
+title: JsonUtility منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.utility/jsonutility/__init__/
 is_root: false
 ---
-##  JsonUtility() {#}
-بناء نسخة جديدة من JsonUtility
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ JsonUtility
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonUtility](/cells/python-net/ar/aspose.cells.utility/jsonutility)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonUtility`](/cells/python-net/ar/aspose.cells.utility/jsonutility)

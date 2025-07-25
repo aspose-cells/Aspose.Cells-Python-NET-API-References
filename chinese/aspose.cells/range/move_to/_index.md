@@ -3,16 +3,17 @@ title: move_to方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 210
 url: /zh/aspose.cells/range/move_to/
 is_root: false
 ---
-##  move_to {#int-int}
-将当前范围移至目标范围。
+##  move_to(self, dest_row, dest_column) {#int-int}
+将当前范围移动到目标范围。
 
 
 
 ```python
+
 def move_to(self, dest_row, dest_column):
     ...
 ```

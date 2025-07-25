@@ -1,6 +1,6 @@
 ---
 title: convert_numeric_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data proprietà
 
-Ottiene o imposta un valore che indica se convertire il valore di stringa cercato in dati numerici.
+Ottiene o imposta un valore che indica se convertire il valore stringa cercato in dati numerici.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/it/aspose.cells/findoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/it/aspose.cells/findoptions)

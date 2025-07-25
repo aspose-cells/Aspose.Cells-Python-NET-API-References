@@ -21,5 +21,5 @@ def stream(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StreamProviderOptions](/cells/python-net/fr/aspose.cells/streamprovideroptions)
+* module [`aspose.cells`](../../)
+* classe [`StreamProviderOptions`](/cells/python-net/fr/aspose.cells/streamprovideroptions)

@@ -3,11 +3,11 @@ title: add_text_effect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 360
 url: /sv/aspose.cells.drawing/shapecollection/add_text_effect/
 is_root: false
 ---
-##  add_text_effect(effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width) {#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
+##  add_text_effect(self, effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int-int-int}
 Infogar ett WordArt-objekt.
 
 
@@ -17,6 +17,7 @@ Returnerar ett Shape-objekt som representerar det nya WordArt-objektet.
 
 
 ```python
+
 def add_text_effect(self, effect, text, font_name, size, font_bold, font_italic, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,18 +25,18 @@ def add_text_effect(self, effect, text, font_name, size, font_bold, font_italic,
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/sv/aspose.cells.drawing/msopresettexteffect) | Den mso förinställda texteffekttypen.|
+| effect | [`MsoPresetTextEffect`](/cells/python-net/sv/aspose.cells.drawing/msopresettexteffect) | Den förinställda texteffekttypen för mso.|
 | text | str | WordArt-texten.|
-| font_name | str | Teckensnittets namn.|
+| font_name | str | Typsnittets namn.|
 | size | int | Teckenstorleken|
 | font_bold | bool | Anger om teckensnittet är fetstilt.|
 | font_italic | bool | Anger om teckensnittet är kursivt.|
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int | Representerar den vertikala förskjutningen av formen från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar formens vertikala förskjutning från dess vänstra rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
 | left | int |Representerar den horisontella förskjutningen av formen från dess vänstra kolumn, i pixelenhet.|
-| height | int | Representerar formhöjden, i pixelenhet.|
-| width | int | Representerar formens bredd i pixelenhet.|
+| height | int | Representerar formens höjd, i pixelenhet.|
+| width | int | Representerar formens bredd, i pixelenhet.|
 
 ###  Exempel
 
@@ -50,5 +51,5 @@ wordArt1 = shapes.add_text_effect(MsoPresetTextEffect.TEXT_EFFECT10, "WordArt", 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

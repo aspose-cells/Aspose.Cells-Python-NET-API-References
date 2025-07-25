@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/
 is_root: false
 ---
-##  get_numberic_type() {#}
+##  get_numberic_type(self) {#}
 Ruft den numerischen Typ in der Datenbank ab.
 
 
@@ -17,6 +17,7 @@ Ruft den numerischen Typ in der Datenbank ab.
 
 
 ```python
+
 def get_numberic_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_numberic_type(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](../../)
-* Klasse [SqlScriptColumnTypeMap](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap)
+* Modul [`aspose.cells.saving`](../../)
+* Klasse [`SqlScriptColumnTypeMap`](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap)

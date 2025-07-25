@@ -1,9 +1,9 @@
 ---
 title: Enumerazione PivotGroupByType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 310
+weight: 380
 url: /it/aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
@@ -19,13 +19,13 @@ Il tipo PivotGroupByType espone i seguenti membri:
 | :- | :- |
 | RANGE_OF_VALUES | Raggruppa per numeri.|
 | NUMBERS | Raggruppa per numeri.|
-| SECONDS | Presenta i secondi raggruppati per tipo.|
-| MINUTES | Presenta i verbali raggruppati per tipo.|
-| HOURS |Presenta ore raggruppate per tipo.|
-| DAYS | Gruppo di giorni di regali per tipo.|
-| MONTHS | Presenta i mesi raggruppati per tipo.|
-| QUARTERS | Presenta i quartieri raggruppati per tipo.|
-| YEARS | Presenta Anni raggruppati per tipo.|
+| SECONDS | Presenta il tipo di raggruppamento dei secondi.|
+| MINUTES | Presenta il tipo di raggruppamento dei minuti.|
+| HOURS | Presenta il tipo di raggruppamento Ore.|
+| DAYS | Presenta i giorni raggruppati per tipo.|
+| MONTHS | Presenta il tipo di raggruppamento dei mesi.|
+| QUARTERS |Presenta i quarti raggruppati per tipo.|
+| YEARS | Presenta gli anni raggruppati per tipo.|
 
 
 

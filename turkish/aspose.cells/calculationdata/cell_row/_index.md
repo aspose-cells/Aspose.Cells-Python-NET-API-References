@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_row mülk
 
-Fonksiyonun bulunduğu hücrenin satır indeksini alır.
+Fonksiyonun bulunduğu hücrenin satır dizinini alır.
 ###  Tanım:
 ```python
 @property

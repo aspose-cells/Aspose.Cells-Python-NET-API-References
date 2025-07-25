@@ -1,6 +1,6 @@
 ---
 title: is_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Scenario](/cells/python-net/ru/aspose.cells/scenario)
+* модуль [`aspose.cells`](../../)
+* класс [`Scenario`](/cells/python-net/ru/aspose.cells/scenario)

@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/databarborder/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
-الحصول على أو تحديد type للحد من أشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.
+يحصل على أو يعين حدود type لأشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBarBorder](/cells/python-net/ar/aspose.cells/databarborder)
-* فئة [DataBarBorderType](/cells/python-net/ar/aspose.cells/databarbordertype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBarBorder`](/cells/python-net/ar/aspose.cells/databarborder)
+* فئة [`DataBarBorderType`](/cells/python-net/ar/aspose.cells/databarbordertype)

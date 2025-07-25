@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells/referredarea/get_values/
 is_root: false
 ---
-##  get_values() {#}
+##  get_values(self) {#}
 Får cellvärden i detta område.
 
 
@@ -15,10 +15,11 @@ Får cellvärden i detta område.
 
 Om detta område är ogiltigt, "#REF!" kommer att returneras;
 Om detta område är en enskild cell, returnera sedan cellvärdeobjektet;
-Annars returnerar du en 2D-array för alla värden i detta område.
+Annars returnera en 2D-array för alla värden i detta område.
 
 
 ```python
+
 def get_values(self):
     ...
 ```
@@ -26,7 +27,7 @@ def get_values(self):
 
 
 
-##  get_values(calculate_formulas) {#bool}
+##  get_values(self, calculate_formulas) {#bool}
 Får cellvärden i detta område.
 
 
@@ -34,10 +35,11 @@ Får cellvärden i detta område.
 
 Om detta område är ogiltigt, "#REF!" kommer att returneras;
 Om detta område är en enskild cell, returnera sedan cellvärdeobjektet;
-Annars returnerar du en 2D-array för alla värden i detta område.
+Annars returnera en 2D-array för alla värden i detta område.
 
 
 ```python
+
 def get_values(self, calculate_formulas):
     ...
 ```
@@ -45,10 +47,10 @@ def get_values(self, calculate_formulas):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| calculate_formulas | bool | I det här intervallet, om det finns några formler som inte har beräknats,<br/> denna flagga anger om dessa formler ska beräknas rekursivt|
+| calculate_formulas | bool | Om det finns några formler i detta intervall som inte har beräknats,<br/> denna flagga anger om dessa formler ska beräknas rekursivt|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ReferredArea](/cells/python-net/sv/aspose.cells/referredarea)
+* modul [`aspose.cells`](../../)
+* klass [`ReferredArea`](/cells/python-net/sv/aspose.cells/referredarea)

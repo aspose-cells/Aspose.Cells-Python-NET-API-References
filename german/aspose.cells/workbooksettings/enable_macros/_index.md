@@ -3,7 +3,7 @@ title: enable_macros Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 200
 url: /de/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---

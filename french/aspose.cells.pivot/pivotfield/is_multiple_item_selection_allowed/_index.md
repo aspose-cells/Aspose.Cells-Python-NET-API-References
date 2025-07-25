@@ -3,15 +3,15 @@ title: is_multiple_item_selection_allowed propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 440
+weight: 520
 url: /fr/aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
 ##  is_multiple_item_selection_allowed propriété
 
-indique si le champ peut avoir plusieurs éléments
-sélectionné dans le champ de la page
-La valeur par défaut est fausse.
+indique si le champ peut contenir plusieurs éléments
+sélectionné dans le champ de page
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

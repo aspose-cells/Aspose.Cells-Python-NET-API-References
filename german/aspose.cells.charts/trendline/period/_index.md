@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  period Eigentum
 
-Gibt den Wert period für die Trendlinie des gleitenden Durchschnitts zurück oder legt ihn fest.
+Gibt period für die gleitende Durchschnittstrendlinie zurück oder legt diese fest.
 
 ###  Bemerkungen
 
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

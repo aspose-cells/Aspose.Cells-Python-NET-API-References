@@ -1,6 +1,6 @@
 ---
 title: weight_pt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt proprietà
 
-Ottiene o imposta lo spessore della linea in unità di punti.
+Ottiene o imposta il peso della linea in unità di punti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)

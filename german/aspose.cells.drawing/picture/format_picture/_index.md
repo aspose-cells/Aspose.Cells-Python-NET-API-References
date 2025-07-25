@@ -3,13 +3,13 @@ title: format_picture Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 450
 url: /de/aspose.cells.drawing/picture/format_picture/
 is_root: false
 ---
 ##  format_picture Eigentum
 
-Ruft die Optionen des Bildformats ab und legt diese fest.
+Ruft die Optionen des Bildformats ab und legt sie fest.
 
 ###  Beispiel
 

@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -13,12 +13,12 @@ Ottiene/imposta la cella value.
 
 ###  Osservazioni
 
-Lo value deve essere della tipologia corretta di oggetto corrispondente allo [`CellValue.type`](/cells/python-net/it/aspose.cells/cellvalue#type):
+Il value deve essere del tipo corretto di oggetto corrispondente al [`CellValue.type`](/cells/python-net/it/aspose.cells/cellvalue#type):
 | Tipo| Valore|
 | :- | :- |
 | null, qualsiasi altro oggetto verrà ignorato|
 | double |
-| Appuntamento|
+| Data e ora|
 | corda|
 | bool|
 | stringa di errore come "#VALORE!", "#NOME?", ...|

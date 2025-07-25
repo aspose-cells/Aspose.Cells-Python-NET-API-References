@@ -1,6 +1,6 @@
 ---
 title: image_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data недвижимость
 
-Получает и задает данные заливки текстуры и рисунка.
+Получает и задает данные заливки текстуры и изображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoFillFormatHelper](/cells/python-net/ru/aspose.cells.drawing/msofillformathelper)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoFillFormatHelper`](/cells/python-net/ru/aspose.cells.drawing/msofillformathelper)

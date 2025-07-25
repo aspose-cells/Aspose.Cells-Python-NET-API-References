@@ -1,6 +1,6 @@
 ---
 title: is_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible недвижимость
 
-Указывает, виден ли комментарий или нет.
+Показывает, виден ли комментарий или нет.
 
 ###  Пример
 

@@ -1,6 +1,6 @@
 ---
 title: is_deleted proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted proprietà
 
-Indica se la cella di input viene eliminata.
+Indica se la cella di input è stata eliminata.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ScenarioInputCell](/cells/python-net/it/aspose.cells/scenarioinputcell)
+* modulo [`aspose.cells`](../../)
+* classe [`ScenarioInputCell`](/cells/python-net/it/aspose.cells/scenarioinputcell)

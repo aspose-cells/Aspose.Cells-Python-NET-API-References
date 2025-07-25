@@ -7,17 +7,18 @@ weight: 60
 url: /de/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
+##  get_cell_or_null(self, column) {#int}
 Ruft die Zelle oder Null im spezifischen Index ab.
 
 
 ###  Kehrt zurück
 
-Gibt das Zellobjekt zurück, wenn die Zelle vorhanden ist.
-Oder gibt null zurück, wenn das Zellobjekt nicht existiert.
+Gibt das Zellenobjekt zurück, wenn die Zelle vorhanden ist.
+Oder gibt null zurück, wenn das Zellenobjekt nicht existiert.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -30,5 +31,5 @@ def get_cell_or_null(self, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Row](/cells/python-net/de/aspose.cells/row)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Row`](/cells/python-net/de/aspose.cells/row)

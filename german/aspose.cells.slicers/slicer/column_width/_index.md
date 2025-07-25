@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  column_width Eigentum
 
-Gibt die Breite jeder Spalte im Slicer in Punkt zurück oder legt sie fest.
+Gibt die Breite jeder Spalte im Slicer in Punkten zurück oder legt sie fest.
 
 ###  Beispiel
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Definition:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

@@ -21,6 +21,6 @@ def preset_shape(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoPresetTextEffectShape](/cells/python-net/de/aspose.cells.drawing/msopresettexteffectshape)
-* Klasse [TextEffectFormat](/cells/python-net/de/aspose.cells.drawing/texteffectformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoPresetTextEffectShape`](/cells/python-net/de/aspose.cells.drawing/msopresettexteffectshape)
+* Klasse [`TextEffectFormat`](/cells/python-net/de/aspose.cells.drawing/texteffectformat)

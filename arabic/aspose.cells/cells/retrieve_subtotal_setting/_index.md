@@ -3,12 +3,12 @@ title: طريقة retrieve_subtotal_setting
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 840
 url: /ar/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
-استرداد إعداد الإجماليات الفرعية للنطاق.
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
+استرداد إعدادات المجموع الفرعي للنطاق.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```

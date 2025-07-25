@@ -3,13 +3,13 @@ title: is_numeric_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 620
+weight: 650
 url: /tr/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
 ##  is_numeric_value mülk
 
-Bu hücrenin değerinin sayısal olup olmadığını belirtir(int, double ve datetime)
+Bu hücrenin değerinin numeric(int, double ve datetime) olup olmadığını gösterir
 
 ###  Notlar
 

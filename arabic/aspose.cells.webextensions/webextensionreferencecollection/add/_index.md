@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells.webextensions/webextensionreferencecollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 يضيف مرجعًا فارغًا لملحق الويب.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionReferenceCollection](/cells/python-net/ar/aspose.cells.webextensions/webextensionreferencecollection)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionReferenceCollection`](/cells/python-net/ar/aspose.cells.webextensions/webextensionreferencecollection)

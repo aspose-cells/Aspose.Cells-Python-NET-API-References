@@ -1,15 +1,15 @@
 ---
 title: standard_height_pixels proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1260
+weight: 1290
 url: /it/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---
 ##  standard_height_pixels proprietà
 
-Ottiene o imposta l'altezza della riga predefinita in questo foglio di lavoro, in unità di pixel.
+Ottiene o imposta l'altezza predefinita della riga in questo foglio di lavoro, in pixel.
 ###  Definizione:
 ```python
 @property

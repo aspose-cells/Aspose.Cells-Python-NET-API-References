@@ -1,15 +1,15 @@
 ---
-title: end_arrow_length 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: end_arrow_length属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells.charts/trendline/end_arrow_length/
 is_root: false
 ---
-## end_arrow_length 属性
+## end_arrow_length属性
 
-指定行尾箭头的长度。
+指定线末端箭头的长度。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def end_arrow_length(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [MsoArrowheadLength](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadlength)
-* 类 [Trendline](/cells/python-net/zh/aspose.cells.charts/trendline)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`MsoArrowheadLength`](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadlength)
+* 类 [`Trendline`](/cells/python-net/zh/aspose.cells.charts/trendline)

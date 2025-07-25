@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [CustomXmlPartCollection](/cells/python-net/sv/aspose.cells.markup/customxmlpartcollection)
+* modul [`aspose.cells.markup`](../../)
+* klass [`CustomXmlPartCollection`](/cells/python-net/sv/aspose.cells.markup/customxmlpartcollection)

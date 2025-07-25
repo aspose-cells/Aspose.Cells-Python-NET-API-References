@@ -3,13 +3,13 @@ title: sparkline_groups عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 800
+weight: 820
 url: /ar/aspose.cells/worksheet/sparkline_groups/
 is_root: false
 ---
 ##  sparkline_groups عقار
 
-الحصول على مجموعات الخطوط المميزة في ورقة العمل.
+يحصل على مجموعات الشريط الشريطي في ورقة العمل.
 ###  تعريف:
 ```python
 @property

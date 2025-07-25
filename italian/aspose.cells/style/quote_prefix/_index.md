@@ -1,6 +1,6 @@
 ---
 title: quote_prefix proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 440
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  quote_prefix proprietà
 
-Indica se il valore della cella inizia con virgolette singole.
+Indica se il valore della cella inizia con un apice singolo.
 ###  Definizione:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_wrapped mülk
 
-Hücre içindeki metnin kaydırılıp kaydırılmadığını gösteren bir değer alır veya ayarlar.
+Bir hücrenin içindeki metnin sarılıp sarılmadığını gösteren bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

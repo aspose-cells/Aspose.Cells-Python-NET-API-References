@@ -13,8 +13,8 @@ Ruft die Standardbearbeitungssprache ab oder legt sie fest.
 
 ###  Bemerkungen
 
-Es kann unterschiedliche Layouts für Textabsätze anzeigen/darstellen, wenn unterschiedliche Bearbeitungssprachen eingestellt sind.
-Standard ist [DefaultEditLanguage.AUTO](/cells/python-net/de/aspose.cells/defaulteditlanguage#AUTO).
+Es können unterschiedliche Layouts für Textabsätze angezeigt/gerendert werden, wenn unterschiedliche Bearbeitungssprachen eingestellt sind.
+Der Standardwert ist [`DefaultEditLanguage.AUTO`](/cells/python-net/de/aspose.cells/defaulteditlanguage#AUTO).
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions)
-* Klasse [DefaultEditLanguage](/cells/python-net/de/aspose.cells/defaulteditlanguage)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions)
+* Klasse [`DefaultEditLanguage`](/cells/python-net/de/aspose.cells/defaulteditlanguage)

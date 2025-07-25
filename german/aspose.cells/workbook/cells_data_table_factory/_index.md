@@ -3,13 +3,13 @@ title: cells_data_table_factory Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 480
 url: /de/aspose.cells/workbook/cells_data_table_factory/
 is_root: false
 ---
 ##  cells_data_table_factory Eigentum
 
-Ruft die Factory zum Erstellen von ICellsDataTable aus benutzerdefinierten Objekten ab
+Ruft die Factory zum Erstellen von ICellsDataTable aus benutzerdefinierten Objekten ab.
 ###  Definition:
 ```python
 @property

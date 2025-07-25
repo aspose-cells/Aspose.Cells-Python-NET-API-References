@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in en anpassad egenskap name.
+Hämtar och anger en anpassad egenskap name.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionProperty](/cells/python-net/sv/aspose.cells.webextensions/webextensionproperty)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionProperty`](/cells/python-net/sv/aspose.cells.webextensions/webextensionproperty)

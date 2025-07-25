@@ -3,12 +3,12 @@ title: retrieve_subtotal_setting metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 840
 url: /sv/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
-Hämtar inställning av delsummor för intervallet.
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
+Hämtar delsummor för intervallet.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar inställning av delsummor för intervallet.
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```
@@ -24,7 +25,7 @@ def retrieve_subtotal_setting(self, ca):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Räckvidden|
+| ca | [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) | Utbudet|
 
 
 

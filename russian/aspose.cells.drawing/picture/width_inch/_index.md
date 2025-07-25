@@ -1,9 +1,9 @@
 ---
 title: width_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1380
+weight: 1400
 url: /ru/aspose.cells.drawing/picture/width_inch/
 is_root: false
 ---

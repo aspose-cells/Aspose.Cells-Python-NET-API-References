@@ -1,6 +1,6 @@
 ---
 title: number proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 410
@@ -13,14 +13,14 @@ Ottiene o imposta il formato di visualizzazione di numeri e date. I modelli di f
 
 ###  Osservazioni
 
-Ad esempio, i modelli di formattazione rappresentati da numeri per la regione en_US:
+Ad esempio, i modelli di formattazione rappresentati dai numeri per la regione en_US:
 | Valore| Tipo| Stringa di formato|
 | :- | :- | :- |
 | 0| Generale|
-| 1|Decimale|
-| 2|Decimale|
-| 3|Decimale|
-| 4|Decimale|
+| 1| Decimale|
+| 2| Decimale|
+| 3| Decimale|
+| 4| Decimale|
 | 5| Valuta|
 | 6| Valuta|
 | 7| Valuta|
@@ -28,8 +28,8 @@ Ad esempio, i modelli di formattazione rappresentati da numeri per la regione en
 | 9| Percentuale|
 | 10| Percentuale|
 | 11| Scientifico|
-| 12| Frazione|
-| 13| Frazione|
+| 12|Frazione|
+| 13|Frazione|
 | 14| Data|
 | 15| Data|
 | 16| Data|

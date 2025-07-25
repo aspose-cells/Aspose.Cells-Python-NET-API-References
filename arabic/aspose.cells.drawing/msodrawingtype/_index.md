@@ -1,53 +1,53 @@
 ---
-title: العد MsoDrawingType
+title: MsoDrawingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1000
+weight: 990
 url: /ar/aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---
-##  العد MsoDrawingType
-يمثل نوع كائنات رسم المكتب.
+##  MsoDrawingType التعداد
+يمثل نوع كائنات الرسم المكتبية.
 
 
 
-يكشف نوع MsoDrawingType الأعضاء التالية:
+يكشف النوع MsoDrawingType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | GROUP | مجموعة|
 | LINE | خط|
-| RECTANGLE | مستطيل|
+| RECTANGLE | المستطيل|
 | OVAL | بيضاوي|
 | ARC | قوس|
 | CHART | جدول|
-| TEXT_BOX | مربع الكتابة|
+| TEXT_BOX | مربع نص|
 | BUTTON | زر|
 | PICTURE | صورة|
 | POLYGON | مضلع|
-| CHECK_BOX | خانة الاختيار|
+| CHECK_BOX | مربع الاختيار|
 | RADIO_BUTTON | زر الراديو|
 | LABEL | ملصق|
-| DIALOG_BOX | صندوق المحادثة|
+| DIALOG_BOX | مربع الحوار|
 | SPINNER | سبينر|
 | SCROLL_BAR | شريط التمرير|
-| LIST_BOX | ListBox|
+| LIST_BOX | قائمة مربعات|
 | GROUP_BOX | صندوق المجموعة|
-| COMBO_BOX | صندوق التحرير|
+| COMBO_BOX | صندوق التحرير والسرد|
 | COMMENT | تعليق|
-| OLE_OBJECT | كائن أوله|
-| CELLS_DRAWING | فقط للاحتفاظ بالكائن الرسومي في ملف القالب.|
-| UNKNOWN | فقط من أجل الحفاظ على الكائن الرسومي في ملف xlsx.|
+| OLE_OBJECT | أوليوبجيكت|
+| CELLS_DRAWING | فقط للحفاظ على كائن الرسم في ملف القالب.|
+| UNKNOWN | فقط للحفاظ على كائن الرسم في ملف xlsx.|
 | SLICER | تقطيع اللحم|
 | WEB_EXTENSION | امتداد الويب|
 | SMART_ART | الفن الذكي|
-| CUSTOM_XML | شكل xml مخصص ، مثل الحبر.|
+| CUSTOM_XML | شكل XML مخصص، مثل الحبر.|
 | TIMELINE | الجدول الزمني|
-| MODEL_3D | نموذج 3D|
+| MODEL_3D | نموذج ثلاثي الأبعاد|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

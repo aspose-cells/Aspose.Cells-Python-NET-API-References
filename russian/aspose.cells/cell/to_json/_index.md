@@ -1,14 +1,14 @@
 ---
 title: to_json метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ru/aspose.cells/cell/to_json/
 is_root: false
 ---
-##  to_json {#}
-Преобразуйте данные структуры [`Cell`](/cells/python-net/ru/aspose.cells/cell) в JSON.
+##  to_json(self) {#}
+Преобразовать структурные данные [`Cell`](/cells/python-net/ru/aspose.cells/cell) в JSON.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def to_json(self):
     ...
 ```

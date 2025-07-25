@@ -3,13 +3,13 @@ title: revision_number fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 350
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/revision_number/
 is_root: false
 ---
 ##  revision_number fastighet
 
-Hämtar eller ställer in dokumentets revisionsnummer.
+Hämtar eller anger dokumentets revisionsnummer.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def revision_number(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

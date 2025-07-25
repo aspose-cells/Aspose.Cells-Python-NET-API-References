@@ -3,13 +3,13 @@ title: is_signed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 90
+weight: 100
 url: /de/aspose.cells.vba/vbaproject/is_signed/
 is_root: false
 ---
 ##  is_signed Eigentum
 
-Gibt an, ob VBAcode signiert ist oder nicht.
+Gibt an, ob VBA-Code signiert ist oder nicht.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_signed(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProject](/cells/python-net/de/aspose.cells.vba/vbaproject)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProject`](/cells/python-net/de/aspose.cells.vba/vbaproject)

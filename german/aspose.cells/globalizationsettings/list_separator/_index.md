@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator Eigentum
 
-Ruft das Trennzeichen für Liste, Funktionsparameter usw. ab.
+Ruft das Trennzeichen für Listen, Funktionsparameter usw. ab.
 ###  Definition:
 ```python
 @property

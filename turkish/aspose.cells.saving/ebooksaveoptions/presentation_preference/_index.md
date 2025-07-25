@@ -3,13 +3,13 @@ title: presentation_preference mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 690
 url: /tr/aspose.cells.saving/ebooksaveoptions/presentation_preference/
 is_root: false
 ---
 ##  presentation_preference mülk
 
-Sunum tercihinin html mi yoksa mht dosyası mı olduğunu belirtir.
+Sunum tercihinin html veya mht dosyası olduğunu belirtir.
 Varsayılan değer false'tur.
 Daha güzel bir sunum elde etmek istiyorsanız lütfen değeri true olarak ayarlayın.
 ###  Tanım:

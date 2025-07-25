@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  save_format Eigentum
 
-Ruft den Formattyp der Ausgabedatei ab oder legt diesen fest
-Unterstützen Sie Tiff/XPS
+Ruft den Ausgabedateiformattyp ab oder legt ihn fest
+Support Tiff/XPS
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Verwenden Sie für Tiff/Svg [`ImageOrPrintOptions.image_type`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions#image_type); Verwenden Sie für XPS [`Workbook.save`](/cells/python-net/de/aspose.cells/workbook/save) mit [`XpsSaveOptions`](/cells/python-net/de/aspose.cells/xpssaveoptions).
- Diese Immobilie wird 12 Monate später seit August 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Verwenden Sie für Tiff/Svg [`ImageOrPrintOptions.image_type`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions#image_type); für XPS verwenden Sie [`Workbook.save`](/cells/python-net/de/aspose.cells/workbook/save) mit [`XpsSaveOptions`](/cells/python-net/de/aspose.cells/xpssaveoptions).
+ Diese Eigenschaft wird 12 Monate später (ab August 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop propriété
 
-Représente l’emplacement du haut du rectangle de recadrage exprimé, exprimé sous forme de rapport à la hauteur de l’image.
+Représente l'emplacement du haut du rectangle de recadrage exprimé, exprimé sous forme de rapport à la hauteur de l'image.
 ###  Définition:
 ```python
 @property

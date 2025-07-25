@@ -3,7 +3,7 @@ title: create_directory propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 130
 url: /fr/aspose.cells/htmlsaveoptions/create_directory/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Si vrai et que le répertoire n'existe pas, le répertoire sera automatiquement 
 
 ###  Remarques
 
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

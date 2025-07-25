@@ -3,13 +3,13 @@ title: row_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 500
 url: /ar/aspose.cells/range/row_height/
 is_root: false
 ---
 ##  row_height عقار
 
-يضبط أو يحصل على ارتفاع الصفوف في هذا النطاق
+تعيين أو الحصول على ارتفاع الصفوف في هذا النطاق
 ###  تعريف:
 ```python
 @property

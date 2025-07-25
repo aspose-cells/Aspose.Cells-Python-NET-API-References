@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_width fastighet
 
-Hämtar och ställer in startpilens breddtyp för linjen.
+Hämtar och anger linjens början av pilens bredd.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)

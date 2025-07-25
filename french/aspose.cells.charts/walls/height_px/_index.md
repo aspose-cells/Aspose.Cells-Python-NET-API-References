@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_px propriété
 
-Obtient la hauteur de haut en bas en pixels après avoir appelé la méthode Chart.Calculate().
+Obtient la hauteur de haut en bas en unités de pixels après avoir appelé la méthode Chart.Calculate().
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height_px(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/fr/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/fr/aspose.cells.charts/walls)

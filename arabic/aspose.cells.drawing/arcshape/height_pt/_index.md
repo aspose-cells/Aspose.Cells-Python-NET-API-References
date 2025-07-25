@@ -3,7 +3,7 @@ title: height_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 520
 url: /ar/aspose.cells.drawing/arcshape/height_pt/
 is_root: false
 ---

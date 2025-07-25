@@ -1,18 +1,19 @@
 ---
 title: set_column_width_inch метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 840
+weight: 860
 url: /ru/aspose.cells/cells/set_column_width_inch/
 is_root: false
 ---
-##  set_column_width_inch {#int-float}
-Устанавливает ширину столбца в дюймах в обычном режиме.
+##  set_column_width_inch(self, column, inches) {#int-float}
+Задает ширину столбца в дюймах в обычном режиме просмотра.
 
 
 
 ```python
+
 def set_column_width_inch(self, column, inches):
     ...
 ```
@@ -21,7 +22,7 @@ def set_column_width_inch(self, column, inches):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | column | int | Индекс столбца.|
-| inches | float |Количество дюймов.|
+| inches | float | Количество дюймов.|
 
 
 

@@ -3,13 +3,13 @@ title: is_default_row_hidden mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1060
+weight: 1090
 url: /tr/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
 ##  is_default_row_hidden mülk
 
-Satırın varsayılan olarak gizli olup olmadığını gösterir.
+Satırın varsayılan olarak gizli olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property

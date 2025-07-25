@@ -7,38 +7,42 @@ weight: 30
 url: /sv/aspose.cells/cellarea/create_cell_area/
 is_root: false
 ---
-##  create_cell_area(start_cell_name, end_cell_name) {#str-str}
+##  create_cell_area(, start_cell_namn, slut_cell_namn){#str-str}
 Skapar ett cellområde.
 
 
 ###  Returnerar
 
-Returnera ett [CellArea](/cells/python-net/sv/aspose.cells/cellarea).
+Returnera [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea).
 
 
 ```python
-def create_cell_area(self, start_cell_name, end_cell_name):
+
+@staticmethod
+def create_cell_area(start_cell_name, end_cell_name):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_cell_name | str | Den övre vänstra cellen i intervallet.|
-| end_cell_name | str | Den nedre högra cellen i intervallet.|
+| start_cell_name | str |Den övre vänstra cellen i intervallet.|
+| end_cell_name | str | Cellen längst ner till höger i intervallet.|
 
 
-##  create_cell_area(start_row, start_column, end_row, end_column) {#int-int-int-int}
+##  create_cell_area(, startrad, startkolumn, slutrad, slutkolumn){#int-int-int-int}
 Skapar ett cellområde.
 
 
 ###  Returnerar
 
-Returnera ett [CellArea](/cells/python-net/sv/aspose.cells/cellarea).
+Returnera [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea).
 
 
 ```python
-def create_cell_area(self, start_row, start_column, end_row, end_column):
+
+@staticmethod
+def create_cell_area(start_row, start_column, end_row, end_column):
     ...
 ```
 
@@ -47,11 +51,11 @@ def create_cell_area(self, start_row, start_column, end_row, end_column):
 | :- | :- | :- |
 | start_row | int | Startraden.|
 | start_column | int | Startkolumnen.|
-| end_row | int | Den sista raden.|
+| end_row | int | Slutraden.|
 | end_column | int | Slutkolumnen.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)

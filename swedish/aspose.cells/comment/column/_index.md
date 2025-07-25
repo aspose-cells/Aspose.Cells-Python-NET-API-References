@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar column index för kommentaren.
+Hämtar column-indexet för kommentaren.
 
 ###  Exempel
 

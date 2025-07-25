@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type fastighet
 
-False, Aspose.Cells kommer att ställa in DataColumns typ efter värdetypen för den första raden för prestanda.
- Sant, Aspose.Cells kommer att kontrollera om värdetypen i kolumnen är blandad innan du ställer in DataColumns typ
-Och värdetypen är blandad, DataColumns typ kommer att vara sträng.
+Falskt, Aspose.Cells kommer att ställa in DataColumn-typen efter värdetypen för den första raden för prestanda.
+ Sant, Aspose.Cells kontrollerar om värdetyperna i kolumnen är blandade innan DataColumn-typen anges.
+Och värdetyperna är blandade, DataColumns typ kommer att vara en sträng.
 ###  Definition:
 ```python
 @property

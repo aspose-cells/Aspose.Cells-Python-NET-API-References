@@ -1,18 +1,19 @@
 ---
 title: remove_at метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells.pivot/pivottablecollection/remove_at/
 is_root: false
 ---
-##  remove_at(index, keep_data) {#int-bool}
+##  remove_at(self, index, keep_data) {#int-bool}
 Удаляет сводную таблицу по указанному индексу.
 
 
 
 ```python
+
 def remove_at(self, index, keep_data):
     ...
 ```
@@ -26,5 +27,5 @@ def remove_at(self, index, keep_data):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTableCollection](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTableCollection`](/cells/python-net/ru/aspose.cells.pivot/pivottablecollection)

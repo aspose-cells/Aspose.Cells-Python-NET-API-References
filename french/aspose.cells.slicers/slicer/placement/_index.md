@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  placement propriété
 
-Représente la manière dont l'objet dessin est attaché aux cellules situées en dessous.
+Représente la manière dont l'objet de dessin est attaché aux cellules situées en dessous.
 La propriété contrôle le placement d'un objet sur une feuille de calcul.
 
 ###  Exemple
@@ -31,6 +31,6 @@ def placement(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [PlacementType](/cells/python-net/fr/aspose.cells.drawing/placementtype)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`PlacementType`](/cells/python-net/fr/aspose.cells.drawing/placementtype)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

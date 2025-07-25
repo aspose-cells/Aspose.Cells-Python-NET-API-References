@@ -1,16 +1,19 @@
 ---
-title: amount 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: amount属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.charts/errorbar/amount/
 is_root: false
 ---
-## amount 属性
+## amount属性
 
-表示误差条的 amount。
- amount 必须大于或等于零。
+代表误差线的 amount。
+
+### 注意事项
+
+amount 必须大于或等于零。
 ### 定义：
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ErrorBar](/cells/python-net/zh/aspose.cells.charts/errorbar)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ErrorBar`](/cells/python-net/zh/aspose.cells.charts/errorbar)

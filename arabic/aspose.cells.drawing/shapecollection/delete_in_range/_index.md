@@ -3,16 +3,17 @@ title: طريقة delete_in_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 430
 url: /ar/aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
-##  delete_in_range(ca) {#CellArea}
-احذف الأشكال الموجودة في النطاق. لن يتم حذف أشكال التعليقات.
+##  delete_in_range(self, ca) {#aspose.cells.CellArea}
+حذف الأشكال الموجودة في النطاق. لن يتم حذف أشكال التعليق.
 
 
 
 ```python
+
 def delete_in_range(self, ca):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_in_range(self, ca):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/ar/aspose.cells/cellarea) |النطاق: إذا كانت الأشكال موجودة في النطاق ، فسيتم إزالتها.|
+| ca | [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) |النطاق. إذا كانت الأشكال موجودة في النطاق، فسيتم إزالتها.|
 
 ###  مثال
 
@@ -44,5 +45,5 @@ shapes.delete_in_range(area3)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)

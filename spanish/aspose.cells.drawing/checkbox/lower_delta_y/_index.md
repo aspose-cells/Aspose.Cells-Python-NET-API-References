@@ -3,13 +3,13 @@ title: lower_delta_y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 780
+weight: 790
 url: /es/aspose.cells.drawing/checkbox/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y propiedad
 
-Obtiene o establece el desplazamiento vertical de la forma desde la fila de la esquina inferior derecha.
+Obtiene o establece el desplazamiento vertical de la forma desde su fila de la esquina inferior derecha.
 
 ###  Observaciones
 

@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.drawing/shapepropertycollection/clear_format_3d/
 is_root: false
 ---
-##  clear_format_3d() {#}
-يمسح خصائص الشكل ثلاثي الأبعاد للشكل.
+##  clear_format_3d(self) {#}
+مسح خصائص الشكل ثلاثي الأبعاد للشكل.
 
 
 
 ```python
+
 def clear_format_3d(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_format_3d(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

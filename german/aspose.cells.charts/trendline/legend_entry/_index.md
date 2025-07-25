@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend_entry Eigentum
 
-Ruft den Legendeneintrag gemäß dieser Trendlinie ab
+Ruft den Legendeneintrag entsprechend dieser Trendlinie ab
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [LegendEntry](/cells/python-net/de/aspose.cells.charts/legendentry)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`LegendEntry`](/cells/python-net/de/aspose.cells.charts/legendentry)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
 ##  TableStyleType uppräkning
-Representerar den inbyggda tabellstilstypen.
+Representerar den inbyggda tabellstiltypen.
 
 
 
@@ -83,4 +83,4 @@ Typen TableStyleType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.tables](..)
+* modul [`aspose.cells.tables`](..)

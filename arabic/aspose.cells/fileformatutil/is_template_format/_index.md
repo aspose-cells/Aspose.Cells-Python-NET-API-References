@@ -7,8 +7,8 @@ weight: 50
 url: /ar/aspose.cells/fileformatutil/is_template_format/
 is_root: false
 ---
-##  is_template_format(extension) {#str}
-إرجاع صحيح إذا كان الامتداد هو .xlt ، .xltX ، .xltm ، .ots.
+##  is_template_format(امتداد){#str}
+يعود صحيحًا إذا كان الامتداد هو .xlt، .xltX، .xltm،.ots.
 
 
 ###  عائدات
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def is_template_format(self, extension):
+
+@staticmethod
+def is_template_format(extension):
     ...
 ```
 
@@ -29,5 +31,5 @@ def is_template_format(self, extension):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

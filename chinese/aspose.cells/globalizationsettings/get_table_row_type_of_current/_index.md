@@ -7,17 +7,18 @@ weight: 240
 url: /zh/aspose.cells/globalizationsettings/get_table_row_type_of_current/
 is_root: false
 ---
-##  get_table_row_type_of_current {#}
-获取由引用表中的当前行组成的表行的类型名称。
-默认值为“This Row”，因此在公式中“#This Row”表示引用表中的当前行。
+##  get_table_row_type_of_current(self) {#}
+获取引用表中当前行所组成的表行的类型名称。
+默认为“This Row”，因此公式中的“#This Row”代表引用表中的当前行。
 
 
-### 退货
+### 返回
 
 表行的类型名称
 
 
 ```python
+
 def get_table_row_type_of_current(self):
     ...
 ```

@@ -8,12 +8,6 @@ url: /sv/aspose.cells.revisions/revisionquerytable/id/
 is_root: false
 ---
 ##  id fastighet
-
-Får numret på denna revision.
-
-###  Anmärkningar
-
-Noll betyder att denna version inte innehåller id.
 ###  Definition:
 ```python
 @property
@@ -22,5 +16,5 @@ def id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionQueryTable](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionQueryTable`](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)

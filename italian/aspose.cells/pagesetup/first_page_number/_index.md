@@ -1,6 +1,6 @@
 ---
 title: first_page_number proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_page_number proprietà
 
-Rappresenta il primo numero di pagina che verrà utilizzato quando questo foglio verrà stampato.
+Rappresenta il numero della prima pagina che verrà utilizzata quando questo foglio verrà stampato.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_page_number(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

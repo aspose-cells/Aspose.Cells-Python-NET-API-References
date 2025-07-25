@@ -7,8 +7,8 @@ weight: 120
 url: /ar/aspose.cells/worksheet/convert_formula_reference_style/
 is_root: false
 ---
-##  convert_formula_reference_style {#str-bool-int-int}
-تحويل النمط المرجعي للصيغة.
+##  convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column) {#str-bool-int-int}
+تحويل نمط مرجع الصيغة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column):
     ...
 ```
@@ -25,9 +26,9 @@ def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | formula | str | الصيغة المراد تحويلها.|
-| to_r1c1 | bool | النمط المرجعي المطلوب تحويل الصيغة إليه.<br/>إذا كانت الصيغة الأصلية ذات النمط المرجعي A1،<br/>ثم يجب أن تكون هذه القيمة صحيحة حتى يتم تحويل الصيغة من النمط المرجعي A1 إلى R1C1؛<br/>إذا كانت الصيغة الأصلية من النمط المرجعي R1C1،<br/> ثم يجب أن تكون هذه القيمة خاطئة حتى يتم تحويل الصيغة من النمط المرجعي R1C1 إلى النمط المرجعي A1؛|
-| base_cell_row | int | فهرس صف الخلية الأساسية.|
-| base_cell_column | int | فهرس العمود للخلية الأساسية.|
+| to_r1c1 | bool | ما هو نمط المرجع الذي يجب تحويل الصيغة إليه؟<br/>إذا كانت الصيغة الأصلية من نمط المرجع A1،<br/>ثم يجب أن تكون هذه القيمة صحيحة حتى يتم تحويل الصيغة من نمط المرجع A1 إلى نمط المرجع R1C1؛<br/>إذا كانت الصيغة الأصلية من نمط مرجعي R1C1،<br/> ثم يجب أن تكون هذه القيمة خاطئة حتى يتم تحويل الصيغة من نمط المرجع R1C1 إلى نمط المرجع A1؛|
+| base_cell_row | int | مؤشر الصف للخلية الأساسية.|
+| base_cell_column | int | مؤشر العمود للخلية الأساسية.|
 
 
 

@@ -3,16 +3,17 @@ title: méthode replace
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 250
+weight: 280
 url: /fr/aspose.cells/worksheet/replace/
 is_root: false
 ---
-##  replace {#str-str}
+##  replace(self, old_string, new_string) {#str-str}
 Remplace le texte de toutes les cellules par une nouvelle chaîne.
 
 
 
 ```python
+
 def replace(self, old_string, new_string):
     ...
 ```

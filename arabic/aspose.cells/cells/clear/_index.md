@@ -7,12 +7,13 @@ weight: 90
 url: /ar/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
-مسح جميع بيانات ورقة العمل.
+##  clear(self) {#}
+مسح كافة بيانات ورقة العمل.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

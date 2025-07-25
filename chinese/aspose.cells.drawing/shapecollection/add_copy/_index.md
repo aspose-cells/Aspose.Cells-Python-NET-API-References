@@ -1,34 +1,35 @@
 ---
 title: add_copy方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
-##  add_copy(source_shape, upper_left_row, top, upper_left_column, left) {#Shape-int-int-int-int}
-添加形状并将其复制到工作表。
+##  add_copy(self, source_shape, top_row, top, left_column, left) {#aspose.cells.drawing.Shape-int-int-int-int}
+添加并复制形状到工作表。
 
 
 ### 返回
 
-新的形状对象索引。
+新的 [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape) 对象。
 
 
 ```python
-def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
+
+def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```
 
 
 |范围|类型|描述|
 | :- | :- | :- |
-| source_shape | [Shape](/cells/python-net/zh/aspose.cells.drawing/shape) |源形状。|
-| upper_left_row | int |左上行索引。|
-| top | int |表示复选框相对于其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
-| left | int |表示文本框与其左列的水平偏移量，以像素为单位。|
+| source_shape | [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape) |源形状。|
+| top_row | int |顶行索引。|
+| top | int |表示距其顶行的垂直偏移，以像素为单位。|
+| left_column | int |左列索引。|
+| left | int |表示相对于其左列的水平偏移量，以像素为单位。|
 
 ### 例子
 
@@ -36,7 +37,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 # add a shape
 rectangle = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
-# copy
+# Adds and copies a shape.
 shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ```
@@ -44,5 +45,6 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Shape`](/cells/python-net/zh/aspose.cells.drawing/shape)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

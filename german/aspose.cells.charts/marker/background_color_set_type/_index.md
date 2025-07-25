@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color_set_type Eigentum
 
-Ruft den Farbsatztyp für die Markierungshintergrundfarbe ab oder legt diesen fest.
+Ruft den Satztyp für die Markierungshintergrundfarbe ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [FormattingType](/cells/python-net/de/aspose.cells.charts/formattingtype)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`FormattingType`](/cells/python-net/de/aspose.cells.charts/formattingtype)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

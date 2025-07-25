@@ -1,19 +1,13 @@
 ---
 title: merge_areas proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 200
 url: /it/aspose.cells/xpssaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas proprietà
-
-Indica se unire le aree di formattazione condizionale e di validazione prima di salvare il file.
-
-###  Osservazioni
-
-Il valore predefinito è falso.
 ###  Definizione:
 ```python
 @property

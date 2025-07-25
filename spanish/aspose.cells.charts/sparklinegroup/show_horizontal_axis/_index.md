@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_horizontal_axis propiedad
 
-Indica si mostrar el eje horizontal del minigráfico.
-El eje horizontal aparece si el minigráfico tiene datos que cruzan el eje cero.
+Indica si se debe mostrar el eje horizontal del minigráfico.
+El eje horizontal aparece si el gráfico de líneas tiene datos que cruzan el eje cero.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_horizontal_axis(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

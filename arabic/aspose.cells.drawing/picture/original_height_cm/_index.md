@@ -3,13 +3,13 @@ title: original_height_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 960
 url: /ar/aspose.cells.drawing/picture/original_height_cm/
 is_root: false
 ---
 ##  original_height_cm عقار
 
-الحصول على الارتفاع الأصلي للصورة بوحدة السنتيمتر.
+يحصل على الارتفاع الأصلي للصورة، بوحدة السنتيمتر.
 
 ###  مثال
 

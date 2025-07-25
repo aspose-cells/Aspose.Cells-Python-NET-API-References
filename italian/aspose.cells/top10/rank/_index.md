@@ -1,6 +1,6 @@
 ---
 title: rank proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rank proprietà
 
-Ottieni o imposta il valore di "n" in una regola di formattazione condizionale "n superiore/inferiore".
+Ottieni o imposta il valore di "n" in una regola di formattazione condizionale "top/bottom n".
 Se IsPercent è vero, il valore deve essere compreso tra 0 e 100.
 Altrimenti deve essere compreso tra 0 e 1000.
 Il valore predefinito è 10.
@@ -24,5 +24,5 @@ def rank(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Top10](/cells/python-net/it/aspose.cells/top10)
+* modulo [`aspose.cells`](../../)
+* classe [`Top10`](/cells/python-net/it/aspose.cells/top10)

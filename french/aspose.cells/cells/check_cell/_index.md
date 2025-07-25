@@ -1,5 +1,5 @@
 ---
-title: check_cell méthode
+title: méthode check_cell
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 60
 url: /fr/aspose.cells/cells/check_cell/
 is_root: false
 ---
-##  check_cell(row, column) {#int-int}
-Obtient l'élément [Cell](/cells/python-net/fr/aspose.cells/cell) ou null à l'index de ligne de cellule et à l'index de colonne spécifiés.
+##  check_cell(self, row, column) {#int-int}
+Obtient l'élément [`Cell`](/cells/python-net/fr/aspose.cells/cell) ou null à l'index de ligne de cellule et à l'index de colonne spécifiés.
 
 
 ###  Retour
@@ -18,6 +18,7 @@ Renvoie null si la cellule n'existe pas.
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```
@@ -25,12 +26,12 @@ def check_cell(self, row, column):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | int | Indice de ligne|
-| column | int | Indice de colonne|
+| row | int | Index des lignes|
+| column | int | Index des colonnes|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
-* classe [Cells](/cells/python-net/fr/aspose.cells/cells)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)
+* classe [`Cells`](/cells/python-net/fr/aspose.cells/cells)

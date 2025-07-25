@@ -1,6 +1,6 @@
 ---
 title: metadata_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def metadata_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.metadata](../../)
-* класс [MetadataOptions](/cells/python-net/ru/aspose.cells.metadata/metadataoptions)
-* класс [MetadataType](/cells/python-net/ru/aspose.cells.metadata/metadatatype)
+* модуль [`aspose.cells.metadata`](../../)
+* класс [`MetadataOptions`](/cells/python-net/ru/aspose.cells.metadata/metadataoptions)
+* класс [`MetadataType`](/cells/python-net/ru/aspose.cells.metadata/metadatatype)

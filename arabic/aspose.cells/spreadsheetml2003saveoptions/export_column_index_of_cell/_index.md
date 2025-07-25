@@ -1,15 +1,15 @@
 ---
-title: export_column_index_of_cell الملكية
+title: export_column_index_of_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 80
 url: /ar/aspose.cells/spreadsheetml2003saveoptions/export_column_index_of_cell/
 is_root: false
 ---
-##  export_column_index_of_cell الملكية
+##  export_column_index_of_cell عقار
 
-القيمة الافتراضية هي false ، وهذا يعني أنه سيتم تجاهل فهرس العمود إذا كانت الخلية مجاورة للخلية السابقة.
+القيمة الافتراضية هي false، وهذا يعني أنه سيتم تجاهل مؤشر العمود إذا كانت الخلية متجاورة مع الخلية السابقة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_column_index_of_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SpreadsheetML2003SaveOptions](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SpreadsheetML2003SaveOptions`](/cells/python-net/ar/aspose.cells/spreadsheetml2003saveoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_null mülk
 
-Boş değerin göz ardı edilip edilmediğini gösterir.
+Boş değerin göz ardı edilip edilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_null(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)

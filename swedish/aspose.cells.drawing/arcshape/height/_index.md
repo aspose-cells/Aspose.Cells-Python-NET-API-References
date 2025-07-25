@@ -3,13 +3,13 @@ title: height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 480
 url: /sv/aspose.cells.drawing/arcshape/height/
 is_root: false
 ---
 ##  height fastighet
 
-Representerar formens height, i pixelenhet.
+Representerar formen height, i pixelenhet.
 
 ###  Exempel
 

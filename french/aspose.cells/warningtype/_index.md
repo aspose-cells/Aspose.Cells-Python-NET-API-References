@@ -3,13 +3,11 @@ title: WarningType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2760
+weight: 2730
 url: /fr/aspose.cells/warningtype/
 is_root: false
 ---
 ##  WarningType énumération
-Type d'avertissement
-
 
 
 Le type WarningType expose les membres suivants :
@@ -17,17 +15,17 @@ Le type WarningType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| FONT_SUBSTITUTION | Type d'avertissement de substitution de police<br/> lorsqu'une police n'a pas été trouvée, ce type d'avertissement peut être obtenu.|
-| DUPLICATE_DEFINED_NAME | Un nom défini en double est trouvé dans le fichier.|
-| UNSUPPORTED_FILE_FORMAT | Format de fichier non pris en charge.|
-| INVALID_TEXT_OF_DEFINED_NAME | Texte invalide du nom défini.|
-| INVALID_FONT_NAME | Le nom de la police n'est pas valide.|
-| INVALID_AUTO_FILTER_RANGE | Plage de filtre automatique non valide.|
-| IO | Le fichier est corrompu.|
-| LIMITATION | Erreur de limitation hors MS Excel.|
-| INVALID_DATA | Données invalides.|
-| FORMULA | Formule invalide.|
-| INVALID_OPERATOR | Opérateur invalide.|
+| FONT_SUBSTITUTION |  |
+| DUPLICATE_DEFINED_NAME |  |
+| UNSUPPORTED_FILE_FORMAT |  |
+| INVALID_TEXT_OF_DEFINED_NAME |  |
+| INVALID_FONT_NAME |  |
+| INVALID_AUTO_FILTER_RANGE |  |
+| IO |  |
+| LIMITATION |  |
+| INVALID_DATA |  |
+| FORMULA |  |
+| INVALID_OPERATOR |  |
 
 
 

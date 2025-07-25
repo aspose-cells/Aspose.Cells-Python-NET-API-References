@@ -7,17 +7,18 @@ weight: 40
 url: /de/aspose.cells/comment/get_characters/
 is_root: false
 ---
-##  get_characters {#}
+##  get_characters(self) {#}
  Gibt alle Characters-Objekte zurück
-das einen Zeichenbereich im Kommentartext darstellt.
+das einen Zeichenbereich innerhalb des Kommentartextes darstellt.
 
 
 ###  Kehrt zurück
 
-Alle Characters-Objekte
+Alle Charaktere-Objekte
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_characters(self):
 
 ###  Bemerkungen
 
-HINWEIS: Diese Methode ist mittlerweile veraltet. Stattdessen,
+HINWEIS: Diese Methode ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode Comment.GetRichFormattings().
- Diese Methode wird 12 Monate später seit November 2023 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Methode wird 12 Monate später ab November 2023 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Beispiel
 
 ```python

@@ -3,7 +3,7 @@ title: spt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 920
+weight: 930
 url: /sv/aspose.cells.drawing/chartshape/spt/
 is_root: false
 ---

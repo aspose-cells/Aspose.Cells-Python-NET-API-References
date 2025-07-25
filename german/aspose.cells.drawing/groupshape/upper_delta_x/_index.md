@@ -3,13 +3,13 @@ title: upper_delta_x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /de/aspose.cells.drawing/groupshape/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x Eigentum
 
-Ruft den horizontalen Versatz der Form von ihrer oberen linken Eckspalte ab oder legt diesen fest.
+Ruft den horizontalen Versatz der Form von ihrer oberen linken Eckspalte ab oder legt ihn fest.
 
 ###  Bemerkungen
 

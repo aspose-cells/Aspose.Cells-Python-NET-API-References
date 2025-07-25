@@ -3,14 +3,14 @@ title: top_in_shape propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /es/aspose.cells.drawing/commentshape/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape propiedad
 
  Representa el desplazamiento vertical de la forma desde el borde superior de la forma principal.
-en unidades de 1/4000 de altura de la forma principal.
+en unidad de 1/4000 de la altura de la forma principal.
 
 ###  Observaciones
 

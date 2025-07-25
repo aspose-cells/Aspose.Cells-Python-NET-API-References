@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alert_style propriété
 
-Représente le style d’alerte de validation.
+Représente le style d'alerte de validation.
 ###  Définition:
 ```python
 @property

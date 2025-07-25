@@ -3,13 +3,13 @@ title: start_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 270
 url: /ar/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
 ##  start_cell عقار
 
-الحصول على خلية البداية وتعيينها.
+يحصل على خلية البداية ويضبطها.
 ###  تعريف:
 ```python
 @property

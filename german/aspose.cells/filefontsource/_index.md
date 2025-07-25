@@ -3,17 +3,16 @@ title: FileFontSource Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 590
 url: /de/aspose.cells/filefontsource/
 is_root: false
 ---
 ##  FileFontSource Klasse
-Stellt die einzelne TrueType-Schriftartdatei dar, die im Dateisystem gespeichert ist.
+Stellt die einzelne im Dateisystem gespeicherte TrueType-Schriftdatei dar.
 
 
 
-**Nachlass:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
-[`FontSourceBase`](/cells/python-net/de/aspose.cells/fontsourcebase)
+**Nachlass:** [`FileFontSource`](/cells/python-net/de/aspose.cells/filefontsource)
 
 
 
@@ -22,13 +21,13 @@ Der Typ FileFontSource macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/filefontsource/__init__/#str) | Ctor.|
+| [`__init__(self, file_path)`](/cells/python-net/de/aspose.cells/filefontsource/__init__/#str) | Ctor.|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [type](/cells/python-net/de/aspose.cells/filefontsource/type) | Gibt den Typ der Schriftartquelle zurück.|
+| [type](/cells/python-net/de/aspose.cells/filefontsource/type) |Gibt den Typ der Schriftartquelle zurück.|
 | [file_path](/cells/python-net/de/aspose.cells/filefontsource/file_path) | Pfad zur Schriftartdatei.|
 
 
@@ -36,4 +35,3 @@ Der Typ FileFontSource macht die folgenden Member verfügbar:
 ###  Siehe auch
 * Modul [`aspose.cells`](..)
 * Klasse [`FileFontSource`](/cells/python-net/de/aspose.cells/filefontsource)
-* Klasse [`FontSourceBase`](/cells/python-net/de/aspose.cells/fontsourcebase)

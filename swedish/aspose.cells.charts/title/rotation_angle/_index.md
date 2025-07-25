@@ -3,13 +3,13 @@ title: rotation_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 350
 url: /sv/aspose.cells.charts/title/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle fastighet
 
-Representerar textrotationsvinkel.
+Representerar textens rotationsvinkel.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Title](/cells/python-net/sv/aspose.cells.charts/title)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Title`](/cells/python-net/sv/aspose.cells.charts/title)

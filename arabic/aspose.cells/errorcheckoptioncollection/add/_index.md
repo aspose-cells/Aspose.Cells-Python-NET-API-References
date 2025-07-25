@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
-إضافة خيار التحقق من الخطأ.
+##  add(self) {#}
+إضافة خيار التحقق من الأخطاء.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ErrorCheckOptionCollection](/cells/python-net/ar/aspose.cells/errorcheckoptioncollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ErrorCheckOptionCollection`](/cells/python-net/ar/aspose.cells/errorcheckoptioncollection)

@@ -3,16 +3,16 @@ title: format_data_ignore_column_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 460
 url: /ar/aspose.cells.saving/ebooksaveoptions/format_data_ignore_column_width/
 is_root: false
 ---
 ##  format_data_ignore_column_width عقار
 
 يشير إلى ما إذا كان سيتم عرض البيانات المنسقة بالكامل للخلية عند تجاوز العمود.
-إذا كان هذا صحيحًا، فتجاهل عرض العمود وسيتم تصدير بيانات الخلية بأكملها.
-إذا كان خطأ، فسيتم تصدير البيانات مثل Excel.
-القيمة الافتراضية هي كاذبة.
+إذا كانت هذه القيمة صحيحة، فتجاهل عرض العمود وسيتم تصدير بيانات الخلية بأكملها.
+إذا كانت القيمة خاطئة، فسيتم تصدير البيانات بنفس طريقة تصدير Excel.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

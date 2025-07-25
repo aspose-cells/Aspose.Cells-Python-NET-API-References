@@ -1,18 +1,19 @@
 ---
 title: Metodo show_group_detail
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 900
+weight: 920
 url: /it/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail {#bool-int}
+##  show_group_detail(self, is_vertical, index) {#bool-int}
 Espande le righe/colonne raggruppate.
 
 
 
 ```python
+
 def show_group_detail(self, is_vertical, index):
     ...
 ```

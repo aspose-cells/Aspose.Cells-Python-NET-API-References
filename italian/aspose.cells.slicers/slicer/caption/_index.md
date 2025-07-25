@@ -1,6 +1,6 @@
 ---
 title: caption proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption proprietà
 
-Restituisce o imposta lo caption del filtro dei dati specificato.
+Restituisce o imposta il valore caption dell'affettatrice specificata.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def caption(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

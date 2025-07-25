@@ -18,6 +18,6 @@ def fill_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GradientFill](/cells/python-net/es/aspose.cells.drawing/gradientfill)
-* clase [GradientFillType](/cells/python-net/es/aspose.cells.drawing/gradientfilltype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GradientFill`](/cells/python-net/es/aspose.cells.drawing/gradientfill)
+* clase [`GradientFillType`](/cells/python-net/es/aspose.cells.drawing/gradientfilltype)

@@ -7,16 +7,17 @@ weight: 100
 url: /de/aspose.cells/settableglobalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
+##  get_error_value_string(self, err) {#str}
 Ruft den Anzeigezeichenfolgenwert für den Fehlerwert der Zelle ab
 
 
 ###  Kehrt zurück
 
-Standardmäßig wird der Fehlerwert selbst zurückgegeben
+Gibt standardmäßig den Fehlerwert selbst zurück
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| err | str | Fehlerwerte wie #VALUE!,#NAME?|
+| err | str |Fehlerwerte wie #VALUE!,#NAME?|
 
 
 

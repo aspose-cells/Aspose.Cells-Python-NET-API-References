@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  description propriété
 
-Obtenez description d'informations d'avertissement.
+Obtenez les informations d'avertissement description.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def description(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WarningInfo](/cells/python-net/fr/aspose.cells/warninginfo)
+* module [`aspose.cells`](../../)
+* classe [`WarningInfo`](/cells/python-net/fr/aspose.cells/warninginfo)

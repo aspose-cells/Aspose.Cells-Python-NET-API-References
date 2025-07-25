@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  sparkline_collection Eigentum
 
-Ruft die Auflistung des Objekts [Sparkline](/cells/python-net/de/aspose.cells.charts/sparkline) ab.
+Ruft die Sammlung des Objekts [`Sparkline`](/cells/python-net/de/aspose.cells.charts/sparkline) ab.
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Verwenden Sie stattdessen die SparklineGroup.Sparklines-Eigenschaft.
- Diese Property wird 12 Monate später seit November 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Element ist mittlerweile veraltet. Verwenden Sie stattdessen die Eigenschaft SparklineGroup.Sparklines.
+ Diese Eigenschaft wird 12 Monate später (ab November 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -24,7 +24,7 @@ def sparkline_collection(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Sparkline](/cells/python-net/de/aspose.cells.charts/sparkline)
-* Klasse [SparklineCollection](/cells/python-net/de/aspose.cells.charts/sparklinecollection)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Sparkline`](/cells/python-net/de/aspose.cells.charts/sparkline)
+* Klasse [`SparklineCollection`](/cells/python-net/de/aspose.cells.charts/sparklinecollection)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

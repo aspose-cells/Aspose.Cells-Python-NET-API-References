@@ -3,7 +3,7 @@ title: quote_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 160
 url: /es/aspose.cells/txtsaveoptions/quote_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def quote_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtSaveOptions](/cells/python-net/es/aspose.cells/txtsaveoptions)
-* clase [TxtValueQuoteType](/cells/python-net/es/aspose.cells/txtvaluequotetype)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtSaveOptions`](/cells/python-net/es/aspose.cells/txtsaveoptions)
+* clase [`TxtValueQuoteType`](/cells/python-net/es/aspose.cells/txtvaluequotetype)

@@ -3,7 +3,7 @@ title: tab_color mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 810
+weight: 830
 url: /tr/aspose.cells/worksheet/tab_color/
 is_root: false
 ---
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Notlar
 
- Bu özellik yalnızca ExcelXP(Excel2002) ve sonraki sürümlerde desteklenir.
-Dosyayı Excel97 veya Excel2000 formatında kaydederseniz atlanacaktır.
+Bu özellik yalnızca ExcelXP(Excel2002) ve sonraki sürümlerde desteklenmektedir.
+Eğer dosyayı Excel97 veya Excel2000 formatında kaydederseniz, bu dosya atlanacaktır.
 ###  Tanım:
 ```python
 @property

@@ -3,20 +3,25 @@ title: is_locked mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 620
 url: /tr/aspose.cells.drawing/rectangleshape/is_locked/
 is_root: false
 ---
 ##  is_locked mülk
 
-Nesne kilitliyse True, sayfa korunurken nesne değiştirilebiliyorsa False.
+ True, sayfa korunduğunda nesnenin değiştirilemeyeceği anlamına gelir.
+Bu değerin yalnızca çalışma sayfası veya çalışma sayfasındaki nesneler korunuyorsa anlamlı olduğunu unutmayın.
 
 ###  Örnek
 
 ```python
 
-if shape.is_locked:
+# Sets the specified shape to unlocked state
+if shape.worksheet.is_protected and shape.is_locked:
     shape.is_locked = False
+# Sets the specified shape to a locked state
+if shape.worksheet.is_protected and notshape.is_locked:
+    shape.is_locked = True
 
 ```
 ###  Tanım:

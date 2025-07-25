@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/validation/copy/
 is_root: false
 ---
-##  copy(source, copy_option) {#Validation-CopyOptions}
-التحقق من النسخ.
+##  copy(self, source, copy_option) {#aspose.cells.Validation-aspose.cells.CopyOptions}
+التحقق من صحة النسخة.
 
 
 
 ```python
+
 def copy(self, source, copy_option):
     ...
 ```
@@ -20,11 +21,11 @@ def copy(self, source, copy_option):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source | [Validation](/cells/python-net/ar/aspose.cells/validation) | التحقق من المصدر.|
-| copy_option | [CopyOptions](/cells/python-net/ar/aspose.cells/copyoptions) | خيار النسخ.|
+| source | [`Validation`](/cells/python-net/ar/aspose.cells/validation) | التحقق من المصدر.|
+| copy_option | [`CopyOptions`](/cells/python-net/ar/aspose.cells/copyoptions) | خيار النسخ.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

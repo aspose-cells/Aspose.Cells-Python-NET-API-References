@@ -21,5 +21,5 @@ def is_frozen(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtension](/cells/python-net/de/aspose.cells.webextensions/webextension)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtension`](/cells/python-net/de/aspose.cells.webextensions/webextension)

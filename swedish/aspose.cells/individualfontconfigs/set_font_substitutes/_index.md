@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells/individualfontconfigs/set_font_substitutes/
 is_root: false
 ---
-##  set_font_substitutes(original_font_name, substitute_font_names) {#str-list}
-Typsnittsersättningsnamn för det ursprungliga teckensnittsnamnet.
+##  set_font_substitutes(self, original_font_name, substitute_font_names) {#str-list}
+Ersättningsnamn för teckensnitt för givet originalteckensnitt.
 
 
 
 ```python
+
 def set_font_substitutes(self, original_font_name, substitute_font_names):
     ...
 ```
@@ -20,11 +21,11 @@ def set_font_substitutes(self, original_font_name, substitute_font_names):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| original_font_name | str | Ursprungligt teckensnittsnamn.|
-| substitute_font_names | list | Lista över teckensnittsersättningsnamn som ska användas om det ursprungliga teckensnittet inte visas.|
+| original_font_name | str | Ursprungligt typsnittsnamn.|
+| substitute_font_names | list | Lista över ersättningsnamn för teckensnitt som ska användas om originalteckensnittet inte anges.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IndividualFontConfigs](/cells/python-net/sv/aspose.cells/individualfontconfigs)
+* modul [`aspose.cells`](../../)
+* klass [`IndividualFontConfigs`](/cells/python-net/sv/aspose.cells/individualfontconfigs)

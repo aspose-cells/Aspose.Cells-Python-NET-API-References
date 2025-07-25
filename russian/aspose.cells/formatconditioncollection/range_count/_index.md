@@ -1,6 +1,6 @@
 ---
 title: range_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatConditionCollection](/cells/python-net/ru/aspose.cells/formatconditioncollection)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatConditionCollection`](/cells/python-net/ru/aspose.cells/formatconditioncollection)

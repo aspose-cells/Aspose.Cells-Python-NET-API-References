@@ -1,6 +1,6 @@
 ---
 title: center_x_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -18,5 +18,5 @@ def center_x_px(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Walls](/cells/python-net/ru/aspose.cells.charts/walls)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Walls`](/cells/python-net/ru/aspose.cells.charts/walls)

@@ -1,6 +1,6 @@
 ---
 title: category_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  category_type недвижимость
 
-Представляет тип оси категорий.
+Представляет тип оси категории.
 ###  Определение:
 ```python
 @property

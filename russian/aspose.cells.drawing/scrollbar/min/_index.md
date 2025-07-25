@@ -1,15 +1,15 @@
 ---
 title: min недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 840
+weight: 850
 url: /ru/aspose.cells.drawing/scrollbar/min/
 is_root: false
 ---
 ##  min недвижимость
 
-Получает или задает минимальное значение полосы прокрутки или диапазона счетчика.
+Возвращает или задает минимальное значение полосы прокрутки или диапазона счетчика.
 ###  Определение:
 ```python
 @property

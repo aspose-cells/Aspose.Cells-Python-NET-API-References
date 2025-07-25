@@ -8,7 +8,7 @@ url: /sv/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
 ##  DigitalSignatureCollection klass
-Tillhandahåller en samling digitala signaturer bifogade till ett dokument.
+Tillhandahåller en samling digitala signaturer som är bifogade till ett dokument.
 
 
 
@@ -17,19 +17,19 @@ Typen DigitalSignatureCollection avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |Konstruktören av DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | Konstruktören av DigitalSignatureCollection.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Lägg till en signatur till DigitalSignatureCollection.|
+| [`add(self, digital_signature)`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | Lägg till en signatur i DigitalSignatureCollection.|
 
 
 
 ###  Exempel
 
-Följande exempel visar hur man validerar digital signatur.
+Följande exempel visar hur man validerar en digital signatur.
 
 ```python
 from aspose.cells import Workbook
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Se även
-* modul [aspose.cells.digitalsignatures](..)
+* modul [`aspose.cells.digitalsignatures`](..)

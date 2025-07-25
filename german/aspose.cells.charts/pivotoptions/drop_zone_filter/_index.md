@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_zone_filter Eigentum
 
-Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Seitenachse vorhanden ist
-der Quell-PivotTable wird im Diagramm angezeigt, wenn dropZonesVisible auf „true“ gesetzt ist.
+Gibt an, ob ein Steuerelement für jedes PivotTable-Feld auf der PivotTable-Seitenachse
+der Quell-PivotTable wird im Diagramm angezeigt, wenn „dropZonesVisible“ auf „true“ gesetzt ist.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def drop_zone_filter(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [PivotOptions](/cells/python-net/de/aspose.cells.charts/pivotoptions)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`PivotOptions`](/cells/python-net/de/aspose.cells.charts/pivotoptions)

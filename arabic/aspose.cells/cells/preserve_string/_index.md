@@ -3,14 +3,14 @@ title: preserve_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1210
+weight: 1240
 url: /ar/aspose.cells/cells/preserve_string/
 is_root: false
 ---
 ##  preserve_string عقار
 
- الحصول على قيمة أو تعيينها تشير إلى ما إذا كان سيتم الاحتفاظ بجميع قيم ورقة العمل كسلاسل.
-الافتراضي خطأ.
+ يحصل على قيمة أو يعينها للإشارة إلى ما إذا كانت جميع قيم ورقة العمل محفوظة كسلاسل.
+الإفتراضي هو خطأ.
 ###  تعريف:
 ```python
 @property

@@ -3,16 +3,17 @@ title: remove_at Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells.webextensions/webextensionpropertycollection/remove_at/
 is_root: false
 ---
-##  remove_at(name) {#str}
-Entfernen Sie die Eigenschaft nach dem Namen.
+##  remove_at(self, name) {#str}
+Entfernen Sie die Eigenschaft anhand des Namens.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_at(self, name):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionPropertyCollection](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionPropertyCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)

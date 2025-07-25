@@ -1,15 +1,15 @@
 ---
 title: auto_load недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
 ##  auto_load недвижимость
 
-Указывает, должно ли ведущее приложение для внедренного объекта вызываться для загрузки.
+Указывает, будет ли вызываться хост-приложение для загрузки встроенного объекта
 данные объекта автоматически при открытии родительской книги.
 ###  Определение:
 ```python

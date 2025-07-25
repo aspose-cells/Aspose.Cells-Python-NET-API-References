@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_length propiedad
 
-Obtiene y establece el tipo de longitud de flecha inicial de la línea.
+Obtiene y establece el tipo de longitud de la flecha inicial de la línea.
 
 ###  Ejemplo
 
@@ -30,6 +30,6 @@ def begin_arrowhead_length(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
-* clase [MsoArrowheadLength](/cells/python-net/es/aspose.cells.drawing/msoarrowheadlength)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* clase [`MsoArrowheadLength`](/cells/python-net/es/aspose.cells.drawing/msoarrowheadlength)

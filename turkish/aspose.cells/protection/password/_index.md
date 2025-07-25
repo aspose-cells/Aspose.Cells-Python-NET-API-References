@@ -3,7 +3,7 @@ title: password mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 230
 url: /tr/aspose.cells/protection/password/
 is_root: false
 ---
@@ -13,7 +13,9 @@ is_root: false
 
 ###  Notlar
 
-password boş veya boş dize olarak ayarlanmışsa, password kullanmadan çalışma sayfasının veya çalışma kitabının korumasını kaldırabilirsiniz. Aksi takdirde, çalışma sayfasının veya çalışma kitabının korumasını kaldırmak için password'i belirtmeniz gerekir.
+password null veya boş bir dizeye ayarlanırsa,
+password kullanmadan çalışma sayfasının veya çalışma kitabının korumasını kaldırabilirsiniz.
+Aksi takdirde, çalışma sayfasının veya çalışma kitabının korumasını kaldırmak için password'i belirtmeniz gerekir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +27,5 @@ def password(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

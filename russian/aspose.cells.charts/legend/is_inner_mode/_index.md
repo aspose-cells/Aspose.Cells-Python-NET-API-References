@@ -1,16 +1,16 @@
 ---
 title: is_inner_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 290
 url: /ru/aspose.cells.charts/legend/is_inner_mode/
 is_root: false
 ---
 ##  is_inner_mode недвижимость
 
-Указывает, включает ли размер области графика деления и метки осей.
-Значение False указывает, что размер должен определять размер области графика, делений и меток осей.
+Указывает, включает ли размер области графика деления и подписи осей.
+Значение False указывает, что размер будет определять размер области графика, отметок и подписей осей.
 
 ###  Примечания
 

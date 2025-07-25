@@ -1,5 +1,5 @@
 ---
-title: get_consumption_quantity méthode
+title: méthode get_consumption_quantity
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -13,11 +13,13 @@ Obtient la taille du fichier de consommation
 
 ###  Retour
 
-quantité consommée
+quantité de consommation
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Metered](/cells/python-net/fr/aspose.cells/metered)
+* module [`aspose.cells`](../../)
+* classe [`Metered`](/cells/python-net/fr/aspose.cells/metered)

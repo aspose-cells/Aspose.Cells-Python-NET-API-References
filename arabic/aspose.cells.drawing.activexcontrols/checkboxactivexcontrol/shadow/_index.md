@@ -1,5 +1,5 @@
 ---
-title: shadow الملكية
+title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 260
 url: /ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/shadow/
 is_root: false
 ---
-##  shadow الملكية
-
-يشير إلى ما إذا كان سيتم إظهار shadow.
+##  shadow عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CheckBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CheckBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

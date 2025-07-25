@@ -1,15 +1,15 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 820
+weight: 830
 url: /it/aspose.cells.drawing/chartshape/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta lo name della forma.
+Ottiene e imposta il valore name della forma.
 
 ###  Esempio
 

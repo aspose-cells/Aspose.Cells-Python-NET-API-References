@@ -3,12 +3,12 @@ title: intersect Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 170
 url: /de/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect {#aspose.cells.Range}
-Gibt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt zurück, das den rechteckigen Schnittpunkt zweier Bereiche darstellt.
+##  intersect(self, range) {#aspose.cells.Range}
+Gibt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt zurück, das die rechteckige Schnittmenge zweier Bereiche darstellt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt ein [`Range`](/cells/python-net/de/aspose.cells/range)-Objekt zurück
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```

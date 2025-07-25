@@ -1,18 +1,18 @@
 ---
-title: classe ShapePathPoint
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: ShapePathPoint classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 590
+weight: 560
 url: /it/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
-##  classe ShapePathPoint
+##  ShapePathPoint classe
 Rappresenta una coordinata xy all'interno dello spazio delle coordinate del percorso.
 
 
 
-Il tipo ShapePathPoint espone i membri seguenti:
+Il tipo ShapePathPoint espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -23,4 +23,4 @@ Il tipo ShapePathPoint espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

@@ -1,6 +1,6 @@
 ---
 title: apply_excel_default_style_to_hyperlink proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def apply_excel_default_style_to_hyperlink(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OdsLoadOptions](/cells/python-net/it/aspose.cells/odsloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`OdsLoadOptions`](/cells/python-net/it/aspose.cells/odsloadoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  range fastighet
 
-Representerar range som det angivna autofiltret gäller.
+Representerar range som det angivna autofiltret gäller för.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)

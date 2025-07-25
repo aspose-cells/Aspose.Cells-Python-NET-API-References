@@ -1,5 +1,5 @@
 ---
-title: end_type الملكية
+title: end_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 140
 url: /ar/aspose.cells.charts/errorbar/end_type/
 is_root: false
 ---
-##  end_type الملكية
+##  end_type عقار
 
-يحدد رأس سهم لنهاية السطر.
+يحدد رأس السهم لنهاية السطر.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [MsoArrowheadStyle](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`MsoArrowheadStyle`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)

@@ -8,8 +8,6 @@ url: /sv/aspose.cells.pivot/pivotformatcondition/rule_type/
 is_root: false
 ---
 ##  rule_type fastighet
-
-Hämta och ställ in regeltyp för villkorsformatet för pivottabellen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def rule_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotConditionFormatRuleType](/cells/python-net/sv/aspose.cells.pivot/pivotconditionformatruletype)
-* klass [PivotFormatCondition](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotConditionFormatRuleType`](/cells/python-net/sv/aspose.cells.pivot/pivotconditionformatruletype)
+* klass [`PivotFormatCondition`](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)

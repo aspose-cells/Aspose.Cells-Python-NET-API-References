@@ -1,6 +1,6 @@
 ---
 title: page_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_count недвижимость
 
-Получает общее количество страниц книги.
+Получает общее количество страниц в рабочей книге.
 ###  Определение:
 ```python
 @property

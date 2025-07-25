@@ -1,18 +1,18 @@
 ---
-title: TableStyleType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione TableStyleType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
 url: /it/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
-##  TableStyleType enumerazione
-Rappresenta il tipo di stile di tabella predefinito.
+##  Enumerazione TableStyleType
+Rappresenta il tipo di stile tabella incorporato.
 
 
 
-Il tipo TableStyleType espone i membri seguenti:
+Il tipo TableStyleType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -83,4 +83,4 @@ Il tipo TableStyleType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](..)
+* modulo [`aspose.cells.tables`](..)

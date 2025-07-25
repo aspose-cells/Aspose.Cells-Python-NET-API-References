@@ -7,8 +7,8 @@ weight: 50
 url: /sv/aspose.cells.charts/chart/get_chart_data_range/
 is_root: false
 ---
-##  get_chart_data_range() {#}
-Hämtar datakällans intervall för diagrammet.
+##  get_chart_data_range(self) {#}
+Hämtar datakällintervallet för diagrammet.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Datakällan.
 
 
 ```python
+
 def get_chart_data_range(self):
     ...
 ```
@@ -29,5 +30,5 @@ Stöder endast räckvidd.
 
 ###  Se även
 
-* modul [aspose.cells.charts](../../)
-* klass [Chart](/cells/python-net/sv/aspose.cells.charts/chart)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Chart`](/cells/python-net/sv/aspose.cells.charts/chart)

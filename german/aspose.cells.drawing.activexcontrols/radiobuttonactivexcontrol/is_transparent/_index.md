@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_trans
 is_root: false
 ---
 ##  is_transparent Eigentum
-
-Gibt an, ob das Steuerelement transparent ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [RadioButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`RadioButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

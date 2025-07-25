@@ -3,13 +3,13 @@ title: number_group_separator عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 380
 url: /ar/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator عقار
 
-الحصول على أو تعيين الحرف الذي يفصل بين مجموعات الأرقام على يسار العلامة العشرية في القيم الرقمية. الافتراضي هو فاصل المجموعة للمنطقة الحالية.
+يُحصِل أو يُعيِّن الحرف الذي يفصل مجموعات الأرقام على يسار العلامة العشرية في القيم العددية. الافتراضي هو فاصل المجموعات للمنطقة الحالية.
 ###  تعريف:
 ```python
 @property

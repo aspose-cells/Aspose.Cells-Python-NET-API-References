@@ -3,7 +3,7 @@ title: create_directory propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells/ooxmlsaveoptions/create_directory/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [OoxmlSaveOptions](/cells/python-net/es/aspose.cells/ooxmlsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`OoxmlSaveOptions`](/cells/python-net/es/aspose.cells/ooxmlsaveoptions)

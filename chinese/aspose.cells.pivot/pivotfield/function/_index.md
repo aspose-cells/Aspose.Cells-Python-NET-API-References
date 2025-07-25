@@ -3,13 +3,13 @@ title: function属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 410
 url: /zh/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
 ## function属性
 
-代表function，用于汇总数据透视表数据字段。
+表示用于汇总数据透视表数据字段的function。
 ### 定义：
 ```python
 @property

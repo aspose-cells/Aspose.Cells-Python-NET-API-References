@@ -1,15 +1,15 @@
 ---
-title: words الملكية
+title: words عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 420
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/words/
 is_root: false
 ---
-##  words الملكية
+##  words عقار
 
-يمثل تقديرًا لعدد words في الوثيقة.
+يمثل تقديرًا لعدد words في المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def words(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

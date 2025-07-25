@@ -3,13 +3,13 @@ title: bool_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 400
+weight: 410
 url: /tr/aspose.cells/cell/bool_value/
 is_root: false
 ---
 ##  bool_value mülk
 
-Hücrenin içerdiği boole değerini alır.
+Hücrede bulunan boolean değerini alır.
 ###  Tanım:
 ```python
 @property

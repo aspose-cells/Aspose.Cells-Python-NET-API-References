@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells.pivot/pivotformatcondition/add_row_area_condition/
 is_root: false
 ---
-##  add_row_area_condition(field_name) {#str}
-Satır alanlarına PivotTable koşullu biçim sınırı ekler.
+##  add_row_area_condition(self, field_name) {#str}
+
 
 
 
 ```python
+
 def add_row_area_condition(self, field_name):
     ...
 ```
@@ -20,15 +21,16 @@ def add_row_area_condition(self, field_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_name | str | PivotField'ın adı.|
+| field_name | str |  |
 
 
-##  add_row_area_condition(row_field) {#PivotField}
-Satır alanlarına PivotTable koşullu biçim sınırı ekler.
+##  add_row_area_condition(self, row_field) {#aspose.cells.pivot.PivotField}
+
 
 
 
 ```python
+
 def add_row_area_condition(self, row_field):
     ...
 ```
@@ -36,10 +38,10 @@ def add_row_area_condition(self, row_field):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row_field | [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield) |Satır alanlarındaki PivotField.|
+| row_field | [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFormatCondition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFormatCondition`](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition)

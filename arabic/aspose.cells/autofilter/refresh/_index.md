@@ -7,16 +7,17 @@ weight: 140
 url: /ar/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
-قم بتحديث عوامل التصفية التلقائية لإخفاء الصفوف أو إظهارها.
+##  refresh(self) {#}
+قم بتحديث المرشحات التلقائية لإخفاء الصفوف أو إظهارها.
 
 
 ###  عائدات
 
-إرجاع جميع فهارس الصفوف المخفية.
+إرجاع جميع فهرس الصفوف المخفية.
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,16 +25,17 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
-يحصل على فهارس كافة الصفوف المخفية.
+##  refresh(self, hide_rows) {#bool}
+يحصل على جميع فهرس الصفوف المخفية.
 
 
 ###  عائدات
 
-إرجاع جميع فهارس الصفوف المخفية.
+إرجاع جميع مؤشرات الصفوف المخفية.
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -41,10 +43,10 @@ def refresh(self, hide_rows):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| hide_rows | bool | إذا كان صحيحًا ، قم بإخفاء الصفوف التي تمت تصفيتها.|
+| hide_rows | bool | إذا كان هذا صحيحًا، قم بإخفاء الصفوف المفلترة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

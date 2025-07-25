@@ -1,15 +1,15 @@
 ---
 title: custom_xml_parts недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 510
+weight: 530
 url: /ru/aspose.cells/workbook/custom_xml_parts/
 is_root: false
 ---
 ##  custom_xml_parts недвижимость
 
-Представляет часть хранилища настраиваемых XML-данных (настраиваемые XML-данные в пакете).
+Представляет собой часть хранилища пользовательских XML-данных (пользовательские XML-данные в пакете).
 ###  Определение:
 ```python
 @property

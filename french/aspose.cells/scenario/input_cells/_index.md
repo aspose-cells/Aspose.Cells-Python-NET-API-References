@@ -18,6 +18,6 @@ def input_cells(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Scenario](/cells/python-net/fr/aspose.cells/scenario)
-* classe [ScenarioInputCellCollection](/cells/python-net/fr/aspose.cells/scenarioinputcellcollection)
+* module [`aspose.cells`](../../)
+* classe [`Scenario`](/cells/python-net/fr/aspose.cells/scenario)
+* classe [`ScenarioInputCellCollection`](/cells/python-net/fr/aspose.cells/scenarioinputcellcollection)

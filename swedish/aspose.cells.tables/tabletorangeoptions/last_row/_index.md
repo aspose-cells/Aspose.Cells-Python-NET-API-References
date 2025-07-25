@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_row fastighet
 
-Hämtar och ställer in det sista radindexet i tabellen.
+Hämtar och ställer in tabellens sista radindex.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableToRangeOptions](/cells/python-net/sv/aspose.cells.tables/tabletorangeoptions)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableToRangeOptions`](/cells/python-net/sv/aspose.cells.tables/tabletorangeoptions)

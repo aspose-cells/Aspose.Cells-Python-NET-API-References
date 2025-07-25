@@ -10,7 +10,7 @@ is_root: false
 ##  children mülk
 
 Bu paragraftaki tüm metin çalıştırmalarını alır.
-Bu paragraf boşsa, paragrafın kendisini döndürün.
+Eğer bu paragraf boşsa paragrafın kendisini döndür.
 ###  Tanım:
 ```python
 @property
@@ -19,5 +19,5 @@ def children(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

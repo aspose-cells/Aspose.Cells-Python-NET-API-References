@@ -1,16 +1,16 @@
 ---
 title: display_right_to_left недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 470
+weight: 490
 url: /ru/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
 ##  display_right_to_left недвижимость
 
-Указывает, отображается ли указанный лист справа налево, а не слева направо.
-По умолчанию — ложь.
+Указывает, отображается ли указанный рабочий лист справа налево, а не слева направо.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

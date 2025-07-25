@@ -1,9 +1,9 @@
 ---
 title: CountryCode перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /ru/aspose.cells/countrycode/
 is_root: false
 ---
@@ -34,7 +34,7 @@ is_root: false
 | AUSTRIA | Австрия|
 | UNITED_KINGDOM | Великобритания|
 | DENMARK | Дания|
-| SWEDEN | Швеция|
+| SWEDEN |Швеция|
 | NORWAY | Норвегия|
 | POLAND | Польша|
 | GERMANY | Германия|
@@ -51,7 +51,7 @@ is_root: false
 | INDIA | Индия|
 | ALGERIA | Алжир|
 | MOROCCO | Марокко|
-| LIBYA |Ливия|
+| LIBYA | Ливия|
 | PORTUGAL | Португалия|
 | ICELAND | Исландия|
 | FINLAND | Финляндия|

@@ -3,17 +3,17 @@ title: protection属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 750
 url: /zh/aspose.cells/worksheet/protection/
 is_root: false
 ---
 ## protection属性
 
-表示可用于工作表的各种类型的 protection 选项。支持ExcelXP及以上版本的高级protection选项。
+表示工作表可用的各种类型的 protection 选项。支持 ExcelXP 及以上版本中的高级 protection 选项。
 
-### 评论
+### 注意事项
 
-该属性可以保护所有版本的Excel文件中的工作表，并支持ExcelXP及以上版本中的高级protection选项。
+此属性可以保护所有版本的Excel文件中的工作表，并支持ExcelXP及以上版本中的高级protection选项。
 ### 定义：
 ```python
 @property

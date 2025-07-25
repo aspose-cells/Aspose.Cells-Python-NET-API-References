@@ -1,18 +1,18 @@
 ---
-title: العد TextNodeType
+title: TextNodeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
-##  العد TextNodeType
+##  TextNodeType التعداد
 يمثل نوع العقدة.
 
 
 
-يكشف نوع TextNodeType الأعضاء التالية:
+يكشف النوع TextNodeType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

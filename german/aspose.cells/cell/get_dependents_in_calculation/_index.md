@@ -7,16 +7,17 @@ weight: 100
 url: /de/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
-Ruft alle Zellen ab, deren berechnetes Ergebnis von dieser Zelle abhängt.
+##  get_dependents_in_calculation(self, recursive) {#bool}
+Ruft alle Zellen ab, deren Berechnungsergebnis von dieser Zelle abhängt.
 
 
 ###  Kehrt zurück
 
-Enumerator zum Aufzählen aller abhängigen Objekte (Cell-Objekte)
+Enumerator zum Aufzählen aller abhängigen Objekte (Cell Objekte)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| recursive | bool | Ob gibt die abhängigen Elemente zurück, die nicht direkt auf diese Zelle verweisen<br/> aber Verweis auf andere Blätter dieser Zelle|
+| recursive | bool | Gibt die abhängigen Objekte zurück, die nicht direkt auf diese Zelle verweisen.<br/> aber Verweis auf andere Blätter dieser Zelle|
 ###  Bemerkungen
 
-Um diese Methode zu verwenden, stellen Sie bitte sicher, dass die Arbeitsmappe mit dem wahren Wert für festgelegt wurde
-[FormulaSettings.enable_calculation_chain](/cells/python-net/de/aspose.cells/formulasettings#enable_calculation_chain) und wurde mit dieser Einstellung vollständig berechnet.
-Wenn es keinen Formelbezug zu dieser Zelle gibt, wird null zurückgegeben.
+Um diese Methode zu verwenden, stellen Sie bitte sicher, dass die Arbeitsmappe mit dem Wert true für
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/de/aspose.cells/formulasettings#enable_calculation_chain) und wurde mit dieser Einstellung vollständig berechnet.
+Wenn kein Formelverweis auf diese Zelle vorliegt, wird Null zurückgegeben.
 ###  Beispiel
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

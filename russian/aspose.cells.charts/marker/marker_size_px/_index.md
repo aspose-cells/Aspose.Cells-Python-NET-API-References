@@ -1,6 +1,6 @@
 ---
 title: marker_size_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size_px недвижимость
 
-Представляет размер маркера в пикселях. Применяется к линейной диаграмме, точечной диаграмме или лепестковой диаграмме.
+Размер маркера в пикселях. Применяется к линейным диаграммам, диаграммам рассеяния и лепестковым диаграммам.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size_px(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Marker](/cells/python-net/ru/aspose.cells.charts/marker)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Marker`](/cells/python-net/ru/aspose.cells.charts/marker)

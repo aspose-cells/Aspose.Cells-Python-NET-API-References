@@ -1,14 +1,14 @@
 ---
 title: CalcModeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1880
+weight: 1780
 url: /ru/aspose.cells/calcmodetype/
 is_root: false
 ---
 ##  CalcModeType перечисление
-Представляет тип режима расчета формул.
+Представляет собой тип режима расчета формул.
 
 
 

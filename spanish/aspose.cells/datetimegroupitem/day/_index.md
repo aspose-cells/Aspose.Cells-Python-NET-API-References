@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  day propiedad
 
-Obtiene y establece el day de la hora de fecha agrupada.
+Obtiene y establece el day de la fecha y hora agrupadas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def day(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DateTimeGroupItem](/cells/python-net/es/aspose.cells/datetimegroupitem)
+* módulo [`aspose.cells`](../../)
+* clase [`DateTimeGroupItem`](/cells/python-net/es/aspose.cells/datetimegroupitem)

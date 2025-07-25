@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  always_export_as_json_object mülk
 
-Dosyada yalnızca bir çalışma sayfası olsa bile, Excel'in her zaman nesne olarak json'a dışa aktarılıp aktarılmayacağını gösterir.
+Dosyada sadece bir çalışma sayfası olsa bile, Excel'in her zaman nesne olarak json'a aktarılmasını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def always_export_as_json_object(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [JsonSaveOptions](/cells/python-net/tr/aspose.cells/jsonsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`JsonSaveOptions`](/cells/python-net/tr/aspose.cells/jsonsaveoptions)

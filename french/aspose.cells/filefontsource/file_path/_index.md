@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_path propriété
 
-Chemin d'accès au fichier de police.
+Chemin vers le fichier de police.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def file_path(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FileFontSource](/cells/python-net/fr/aspose.cells/filefontsource)
+* module [`aspose.cells`](../../)
+* classe [`FileFontSource`](/cells/python-net/fr/aspose.cells/filefontsource)

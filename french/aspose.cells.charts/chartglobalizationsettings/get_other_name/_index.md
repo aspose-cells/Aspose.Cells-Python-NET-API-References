@@ -1,5 +1,5 @@
 ---
-title: get_other_name méthode
+title: méthode get_other_name
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 80
 url: /fr/aspose.cells.charts/chartglobalizationsettings/get_other_name/
 is_root: false
 ---
-##  get_other_name() {#}
-Obtient le nom des étiquettes « Other » pour Chart.
+##  get_other_name(self) {#}
+Obtient le nom des étiquettes « Autres » pour le graphique.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Obtient le nom des étiquettes « Other » pour Chart.
 
 
 ```python
+
 def get_other_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_other_name(self):
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartGlobalizationSettings](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartGlobalizationSettings`](/cells/python-net/fr/aspose.cells.charts/chartglobalizationsettings)

@@ -1,18 +1,19 @@
 ---
 title: ungroup метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells.drawing/groupshape/ungroup/
 is_root: false
 ---
-##  ungroup {#}
-Разгруппирует элементы формы.
+##  ungroup(self) {#}
+Разгруппировывает элементы фигуры.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```
@@ -20,7 +21,7 @@ def ungroup(self):
 
 ###  Примечания
 
-Если фигура группы сгруппирована другой фигурой группы, ничего не будет сделано.
+Если групповая фигура сгруппирована с другой групповой фигурой, ничего не произойдет.
 
 
 ###  Смотрите также

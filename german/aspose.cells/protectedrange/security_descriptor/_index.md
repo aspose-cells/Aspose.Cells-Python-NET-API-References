@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  security_descriptor Eigentum
 
-Die Sicherheitsbeschreibung definiert Benutzerkonten, die diesen Bereich bearbeiten können, ohne ein Kennwort für den Zugriff auf den Bereich bereitzustellen.
+Der Sicherheitsdeskriptor definiert Benutzerkonten, die diesen Bereich bearbeiten können, ohne ein Kennwort für den Zugriff auf den Bereich angeben zu müssen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def security_descriptor(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

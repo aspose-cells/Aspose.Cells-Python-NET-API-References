@@ -13,7 +13,7 @@ Obtient et définit la chaîne HTML qui contient les données et certains format
 
 ###  Remarques
 
-S'il s'agit d'un commentaire filé, la note ne pourra pas être modifiée, sinon MS Excel ne pourra pas la traiter comme un commentaire filé.
+S'il s'agit d'un commentaire fileté, la note ne peut pas être modifiée, sinon MS Excel ne peut pas la traiter comme un commentaire fileté.
 
 ###  Exemple
 

@@ -3,13 +3,13 @@ title: days_preserving_history propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells.revisions/revisionlogcollection/days_preserving_history/
 is_root: false
 ---
 ##  days_preserving_history propriété
 
-Obtient et définit le nombre de jours pendant lesquels l'application de feuille de calcul conservera l'historique des modifications pour ce classeur.
+Obtient et définit le nombre de jours pendant lesquels l'application de feuille de calcul conservera l'historique des modifications de ce classeur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def days_preserving_history(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionLogCollection](/cells/python-net/fr/aspose.cells.revisions/revisionlogcollection)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionLogCollection`](/cells/python-net/fr/aspose.cells.revisions/revisionlogcollection)

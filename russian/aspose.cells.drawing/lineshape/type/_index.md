@@ -1,15 +1,15 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ru/aspose.cells.drawing/lineshape/type/
 is_root: false
 ---
 ##  type недвижимость
 
-Получает автофигуру type.
+Получает автоформу type.
 
 ###  Пример
 

@@ -1,9 +1,9 @@
 ---
 title: is_horizontal недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 610
+weight: 620
 url: /ru/aspose.cells.drawing/spinner/is_horizontal/
 is_root: false
 ---

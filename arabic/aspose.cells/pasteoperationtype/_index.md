@@ -3,7 +3,7 @@ title: PasteOperationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /ar/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لايوجد عملية.|
+| NONE | لا يوجد عملية.|
 | ADD | يضيف|
-| SUBTRACT | طرح او خصم|
-| MULTIPLY | تتضاعف|
-| DIVIDE | يقسم|
+| SUBTRACT | طرح|
+| MULTIPLY | ضاعف|
+| DIVIDE | تقسيم|
 
 
 

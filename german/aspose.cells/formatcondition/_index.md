@@ -3,12 +3,12 @@ title: FormatCondition Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 720
+weight: 700
 url: /de/aspose.cells/formatcondition/
 is_root: false
 ---
 ##  FormatCondition Klasse
-Stellt die Bedingung der bedingten Formatierung dar.
+Stellt eine Bedingung für die bedingte Formatierung dar.
 
 
 
@@ -17,34 +17,34 @@ Der Typ FormatCondition macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [formula1](/cells/python-net/de/aspose.cells/formatcondition/formula1) | Ruft den Wert oder Ausdruck ab, der der bedingten Formatierung zugeordnet ist, und legt diesen fest.|
-| [formula2](/cells/python-net/de/aspose.cells/formatcondition/formula2) | Ruft den Wert oder Ausdruck ab, der der bedingten Formatierung zugeordnet ist, und legt diesen fest.|
+| [formula1](/cells/python-net/de/aspose.cells/formatcondition/formula1) | Ruft den mit der bedingten Formatierung verknüpften Wert oder Ausdruck ab und legt ihn fest.|
+| [formula2](/cells/python-net/de/aspose.cells/formatcondition/formula2) | Ruft den mit der bedingten Formatierung verknüpften Wert oder Ausdruck ab und legt ihn fest.|
 | [operator](/cells/python-net/de/aspose.cells/formatcondition/operator) | Ruft den Operatortyp für das bedingte Format ab und legt ihn fest.|
-| [stop_if_true](/cells/python-net/de/aspose.cells/formatcondition/stop_if_true) | True, es dürfen keine Regeln mit niedrigerer Priorität gegenüber dieser Regel angewendet werden, wenn diese Regel als „true“ ausgewertet wird.<br/> Gilt nur für Excel 2007;|
-| [priority](/cells/python-net/de/aspose.cells/formatcondition/priority) | Die Priorität dieser bedingten Formatierungsregel. Dieser Wert wird verwendet, um zu bestimmen, welche<br/>Das Format sollte ausgewertet und gerendert werden. Niedrigere numerische Werte haben eine höhere Priorität als<br/> höhere numerische Werte, wobei „1“ die höchste Priorität darstellt.|
-| [style](/cells/python-net/de/aspose.cells/formatcondition/style) | Ruft den Stil bedingt formatierter Zellbereiche ab oder legt diesen fest.|
-| [type](/cells/python-net/de/aspose.cells/formatcondition/type) |Ruft den Typ des bedingten Formats ab und legt diesen fest.|
-| [icon_set](/cells/python-net/de/aspose.cells/formatcondition/icon_set) | Rufen Sie die „IconSet“-Instanz der bedingten Formatierung ab.<br/>Der IconSetType der Standardinstanz ist TrafficLights31.<br/> Nur gültig für Typ = IconSet.|
-| [data_bar](/cells/python-net/de/aspose.cells/formatcondition/data_bar) | Rufen Sie die „DataBar“-Instanz der bedingten Formatierung ab.<br/>Die Farbe der Standardinstanz ist blau.<br/> Nur gültig für den Typ „DataBar“.|
-| [color_scale](/cells/python-net/de/aspose.cells/formatcondition/color_scale) | Rufen Sie die „ColorScale“-Instanz der bedingten Formatierung ab.<br/>Die Standardinstanz ist eine „grün-gelb-rote“ 3ColorScale .<br/> Nur gültig für Typ = ColorScale.|
-| [top10](/cells/python-net/de/aspose.cells/formatcondition/top10) | Rufen Sie die „Top10“-Instanz der bedingten Formatierung ab.<br/>Die Regel der Standardinstanz hebt Zellen hervor, deren<br/>Die Werte liegen im Top-10-Bereich.<br/> Gilt nur für den Typ „Top10“.|
-| [above_average](/cells/python-net/de/aspose.cells/formatcondition/above_average) | Rufen Sie die „AboveAverage“-Instanz der bedingten Formatierung ab.<br/> Die Regel der Standardinstanz hebt Zellen hervor, die vorhanden sind<br/>über dem Durchschnitt aller Werte im Bereich liegt.<br/>Nur gültig für Typ = AboveAverage.|
-| [text](/cells/python-net/de/aspose.cells/formatcondition/text) | Der Textwert in einer bedingten Formatierungsregel „Text enthält“.<br/>Nur gültig für Typ = enthältText, notContainsText, beginntmit und endetmit.<br/> Der Standardwert ist null.|
-| [time_period](/cells/python-net/de/aspose.cells/formatcondition/time_period) | Der anwendbare Zeitraum in einer bedingten Formatierungsregel „Datum des Auftretens…“.<br/>Nur gültig für Typ = timePeriod.<br/> Der Standardwert ist TimePeriodType.Today.|
+| [stop_if_true](/cells/python-net/de/aspose.cells/formatcondition/stop_if_true) |True: Wenn diese Regel als „true“ ausgewertet wird, dürfen keine Regeln mit niedrigerer Priorität auf diese Regel angewendet werden.<br/> Gilt nur für Excel 2007;|
+| [priority](/cells/python-net/de/aspose.cells/formatcondition/priority) | Die Priorität dieser Regel zur bedingten Formatierung. Dieser Wert wird verwendet, um zu bestimmen, welche<br/>Format ausgewertet und gerendert werden soll. Niedrigere numerische Werte haben eine höhere Priorität als<br/> höhere numerische Werte, wobei „1“ die höchste Priorität hat.|
+| [style](/cells/python-net/de/aspose.cells/formatcondition/style) | Ruft den Stil bedingt formatierter Zellbereiche ab oder legt ihn fest.|
+| [type](/cells/python-net/de/aspose.cells/formatcondition/type) | Ruft ab und legt fest, ob der Typ des bedingten Formats verwendet wird.|
+| [icon_set](/cells/python-net/de/aspose.cells/formatcondition/icon_set) | Holen Sie sich die „IconSet“-Instanz der bedingten Formatierung.<br/>Der IconSetType der Standardinstanz ist TrafficLights31.<br/> Nur gültig für Typ = IconSet.|
+| [data_bar](/cells/python-net/de/aspose.cells/formatcondition/data_bar) | Holen Sie sich die „DataBar“-Instanz der bedingten Formatierung.<br/>Die Standardfarbe der Instanz ist Blau.<br/> Nur gültig für den Typ „DataBar“.|
+| [color_scale](/cells/python-net/de/aspose.cells/formatcondition/color_scale) | Holen Sie sich die „ColorScale“-Instanz der bedingten Formatierung.<br/>Die Standardinstanz ist eine „grün-gelb-rote“ 3-Farbskala.<br/> Nur gültig für Typ = Farbskala.|
+| [top10](/cells/python-net/de/aspose.cells/formatcondition/top10) | Holen Sie sich die „Top10“-Instanz der bedingten Formatierung.<br/>Die Regel der Standardinstanz hebt Zellen hervor, deren<br/>Die Werte liegen im oberen Zehntelbereich.<br/> Nur gültig für den Typ „Top10“.|
+| [above_average](/cells/python-net/de/aspose.cells/formatcondition/above_average) |Holen Sie sich die Instanz „Überdurchschnittlich“ der bedingten Formatierung.<br/> Die Regel der Standardinstanz hebt Zellen hervor, die<br/>über dem Durchschnitt aller Werte im Bereich.<br/> Nur gültig für Typ = Überdurchschnittlich.|
+| [text](/cells/python-net/de/aspose.cells/formatcondition/text) | Der Textwert in einer bedingten Formatierungsregel „Text enthält“.<br/>Nur gültig für Typ = containsText, notContainsText, beginsWith und endsWith.<br/> Der Standardwert ist null.|
+| [time_period](/cells/python-net/de/aspose.cells/formatcondition/time_period) | Der anwendbare Zeitraum in einer Regel zur bedingten Formatierung vom Typ „Datum, an dem …“<br/>Nur gültig für Typ = Zeitraum.<br/> Der Standardwert ist TimePeriodType.Today.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_formula1](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#bool-bool) | Ruft den Wert oder Ausdruck ab, der dieser Formatbedingung zugeordnet ist.|
-| [get_formula1](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | Ruft den Wert oder Ausdruck der bedingten Formatierung der Zelle ab.|
-| [get_formula1](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#int-int) | Ruft die Formel der bedingten Formatierung der Zelle ab.|
-| [get_formula2](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#bool-bool) | Ruft den Wert oder Ausdruck ab, der dieser Formatbedingung zugeordnet ist.|
-| [get_formula2](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | Ruft den Wert oder Ausdruck der bedingten Formatierung der Zelle ab.|
-| [get_formula2](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#int-int) | Ruft die Formel der bedingten Formatierung der Zelle ab.|
-| [set_formulas](/cells/python-net/de/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | Legt den Wert oder Ausdruck fest, der dieser Formatbedingung zugeordnet ist.|
-| [set_formula1](/cells/python-net/de/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | Legt den Wert oder Ausdruck fest, der dieser Formatbedingung zugeordnet ist.|
-| [set_formula2](/cells/python-net/de/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | Legt den Wert oder Ausdruck fest, der dieser Formatbedingung zugeordnet ist.|
+| [`get_formula1(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#bool-bool) | Ruft den Wert oder Ausdruck ab, der dieser Formatbedingung zugeordnet ist.|
+| [`get_formula1(self, is_r1c1, is_local, row, column)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#bool-bool-int-int) | Ruft den Wert oder Ausdruck der bedingten Formatierung der Zelle ab.|
+| [`get_formula1(self, row, column)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula1/#int-int) | Ruft die Formel der bedingten Formatierung der Zelle ab.|
+| [`get_formula2(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#bool-bool) | Ruft den Wert oder Ausdruck ab, der dieser Formatbedingung zugeordnet ist.|
+| [`get_formula2(self, is_r1c1, is_local, row, column)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | Ruft den Wert oder Ausdruck der bedingten Formatierung der Zelle ab.|
+| [`get_formula2(self, row, column)`](/cells/python-net/de/aspose.cells/formatcondition/get_formula2/#int-int) | Ruft die Formel der bedingten Formatierung der Zelle ab.|
+| [`set_formulas(self, formula1, formula2, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | Legt den Wert oder Ausdruck fest, der mit dieser Formatbedingung verknüpft ist.|
+| [`set_formula1(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | Legt den Wert oder Ausdruck fest, der mit dieser Formatbedingung verknüpft ist.|
+| [`set_formula2(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | Legt den Wert oder Ausdruck fest, der mit dieser Formatbedingung verknüpft ist.|
 
 
 

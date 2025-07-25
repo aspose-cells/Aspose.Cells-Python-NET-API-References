@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [MsoLineDashStyle](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`MsoLineDashStyle`](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)

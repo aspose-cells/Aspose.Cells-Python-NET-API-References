@@ -3,7 +3,7 @@ title: Row classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1340
+weight: 1230
 url: /fr/aspose.cells/row/
 is_root: false
 ---
@@ -19,14 +19,14 @@ Le type Row expose les membres suivants :
 | :- | :- |
 | [is_blank](/cells/python-net/fr/aspose.cells/row/is_blank) | Indique si la ligne contient des données|
 | [is_collapsed](/cells/python-net/fr/aspose.cells/row/is_collapsed) | si la ligne est réduite|
-| [height](/cells/python-net/fr/aspose.cells/row/height) | Obtient et définit la hauteur de ligne en unité de points.|
+| [height](/cells/python-net/fr/aspose.cells/row/height) | Obtient et définit la hauteur de ligne en unités de points.|
 | [is_hidden](/cells/python-net/fr/aspose.cells/row/is_hidden) | Indique si la ligne est masquée.|
 | [index](/cells/python-net/fr/aspose.cells/row/index) | Obtient l'index de cette ligne.|
 | [group_level](/cells/python-net/fr/aspose.cells/row/group_level) | Obtient le niveau de groupe de la ligne.|
-| [is_height_matched](/cells/python-net/fr/aspose.cells/row/is_height_matched) | Indique si la hauteur de ligne correspond au paramètre de police par défaut actuel du classeur.<br/>La valeur True de cette propriété indique également que la hauteur de ligne est « automatique » sans valeur de hauteur personnalisée définie par l'utilisateur.|
-| [has_custom_style](/cells/python-net/fr/aspose.cells/row/has_custom_style) | Indique si cette ligne a des paramètres de style personnalisés (différents de celui par défaut hérité du classeur).|
+| [is_height_matched](/cells/python-net/fr/aspose.cells/row/is_height_matched) | Indique si la hauteur de ligne correspond au paramètre de police par défaut actuel du classeur.<br/> La valeur de cette propriété indique également que la hauteur de ligne est « automatique » sans valeur de hauteur personnalisée définie par l'utilisateur.|
+| [has_custom_style](/cells/python-net/fr/aspose.cells/row/has_custom_style) | Indique si cette ligne possède des paramètres de style personnalisés (différents de celui par défaut hérité du classeur).|
 | [first_cell](/cells/python-net/fr/aspose.cells/row/first_cell) | Obtient le premier objet cellule de la ligne.|
-| [first_data_cell](/cells/python-net/fr/aspose.cells/row/first_data_cell) | Obtient la première cellule non vide de la ligne.|
+| [first_data_cell](/cells/python-net/fr/aspose.cells/row/first_data_cell) |Obtient la première cellule non vide de la ligne.|
 | [last_cell](/cells/python-net/fr/aspose.cells/row/last_cell) | Obtient le dernier objet cellule de la ligne.|
 | [last_data_cell](/cells/python-net/fr/aspose.cells/row/last_data_cell) | Obtient la dernière cellule non vide de la ligne.|
 
@@ -42,14 +42,14 @@ Obtient la cellule.
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [get_cell_by_index](/cells/python-net/fr/aspose.cells/row/get_cell_by_index/#int) | Obtenez la cellule par index spécifique dans la collection de cellules de cette ligne.|
-| [get_enumerator](/cells/python-net/fr/aspose.cells/row/get_enumerator/#bool-bool) | Obtient un énumérateur qui parcourt les cellules dans cette ligne.|
-| [get_cell_or_null](/cells/python-net/fr/aspose.cells/row/get_cell_or_null/#int) | Obtient la cellule ou null dans l'index spécifique.|
-| [get_style](/cells/python-net/fr/aspose.cells/row/get_style/#) | Obtient le style de cette ligne.|
-| [set_style](/cells/python-net/fr/aspose.cells/row/set_style/#aspose.cells.Style) | Définit le style de cette ligne.|
-| [copy_settings](/cells/python-net/fr/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Copiez les paramètres de la ligne, tels que le style, la hauteur, la visibilité, etc.|
-| [apply_style](/cells/python-net/fr/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Applique des formats pour une ligne entière.|
-| [equals](/cells/python-net/fr/aspose.cells/row/equals/#aspose.cells.Row) | Vérifie si cet objet fait référence à la même ligne avec un autre objet ligne.|
+| [`get_cell_by_index(self, index)`](/cells/python-net/fr/aspose.cells/row/get_cell_by_index/#int) | Obtenez la cellule par index spécifique dans la collection de cellules de cette ligne.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/fr/aspose.cells/row/get_enumerator/#bool-bool) | Obtient un énumérateur qui parcourt les cellules de cette ligne.|
+| [`get_cell_or_null(self, column)`](/cells/python-net/fr/aspose.cells/row/get_cell_or_null/#int) | Obtient la cellule ou null dans l'index spécifique.|
+| [`get_style(self)`](/cells/python-net/fr/aspose.cells/row/get_style/#) | Obtient le style de cette ligne.|
+| [`set_style(self, style)`](/cells/python-net/fr/aspose.cells/row/set_style/#aspose.cells.style) | Définit le style de cette ligne.|
+| [`copy_settings(self, source, check_style)`](/cells/python-net/fr/aspose.cells/row/copy_settings/#aspose.cells.row-bool) | Copiez les paramètres de la ligne, tels que le style, la hauteur, la visibilité, ...etc.|
+| [`apply_style(self, style, flag)`](/cells/python-net/fr/aspose.cells/row/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applique les formats pour une ligne entière.|
+| [`equals(self, row)`](/cells/python-net/fr/aspose.cells/row/equals/#aspose.cells.row) | Vérifie si cet objet fait référence à la même ligne avec un autre objet de ligne.|
 
 
 

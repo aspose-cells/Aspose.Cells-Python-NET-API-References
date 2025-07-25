@@ -1,9 +1,9 @@
 ---
 title: Row classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1340
+weight: 1230
 url: /it/aspose.cells/row/
 is_root: false
 ---
@@ -19,16 +19,16 @@ Il tipo Row espone i seguenti membri:
 | :- | :- |
 | [is_blank](/cells/python-net/it/aspose.cells/row/is_blank) | Indica se la riga contiene dati|
 | [is_collapsed](/cells/python-net/it/aspose.cells/row/is_collapsed) | se la riga è compressa|
-| [height](/cells/python-net/it/aspose.cells/row/height) | Ottiene e imposta l'altezza della riga in unità di punti.|
+| [height](/cells/python-net/it/aspose.cells/row/height) | Ottiene e imposta l'altezza della riga in punti.|
 | [is_hidden](/cells/python-net/it/aspose.cells/row/is_hidden) | Indica se la riga è nascosta.|
 | [index](/cells/python-net/it/aspose.cells/row/index) | Ottiene l'indice di questa riga.|
 | [group_level](/cells/python-net/it/aspose.cells/row/group_level) | Ottiene il livello di gruppo della riga.|
-| [is_height_matched](/cells/python-net/it/aspose.cells/row/is_height_matched) | Indica se l'altezza della riga corrisponde all'impostazione corrente del carattere predefinito della cartella di lavoro.<br/>True di questa proprietà indica anche che l'altezza della riga è "automatica" senza un valore di altezza personalizzato impostato dall'utente.|
-| [has_custom_style](/cells/python-net/it/aspose.cells/row/has_custom_style) | Indica se questa riga ha impostazioni di stile personalizzate (diverse da quella predefinita ereditata dalla cartella di lavoro).|
+| [is_height_matched](/cells/python-net/it/aspose.cells/row/is_height_matched) | Indica se l'altezza della riga corrisponde all'impostazione predefinita del carattere della cartella di lavoro.<br/> Il fatto che questa proprietà sia vera indica anche che l'altezza della riga è "automatica" senza che l'utente imposti un valore di altezza personalizzato.|
+| [has_custom_style](/cells/python-net/it/aspose.cells/row/has_custom_style) | Indica se questa riga ha impostazioni di stile personalizzate (diverse da quelle predefinite ereditate dalla cartella di lavoro).|
 | [first_cell](/cells/python-net/it/aspose.cells/row/first_cell) | Ottiene il primo oggetto cella nella riga.|
-| [first_data_cell](/cells/python-net/it/aspose.cells/row/first_data_cell) | Ottiene la prima cella non vuota della riga.|
+| [first_data_cell](/cells/python-net/it/aspose.cells/row/first_data_cell) |Ottiene la prima cella non vuota nella riga.|
 | [last_cell](/cells/python-net/it/aspose.cells/row/last_cell) | Ottiene l'ultimo oggetto cella nella riga.|
-| [last_data_cell](/cells/python-net/it/aspose.cells/row/last_data_cell) | Ottiene l'ultima cella non vuota della riga.|
+| [last_data_cell](/cells/python-net/it/aspose.cells/row/last_data_cell) | Ottiene l'ultima cella non vuota nella riga.|
 
 
 
@@ -42,14 +42,14 @@ Ottiene la cella.
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [get_cell_by_index](/cells/python-net/it/aspose.cells/row/get_cell_by_index/#int) | Ottieni la cella in base all'indice specifico nella raccolta di celle di questa riga.|
-| [get_enumerator](/cells/python-net/it/aspose.cells/row/get_enumerator/#bool-bool) | Ottiene un enumeratore che scorre le celle attraverso questa riga.|
-| [get_cell_or_null](/cells/python-net/it/aspose.cells/row/get_cell_or_null/#int) | Ottiene la cella o il valore null nell'indice specifico.|
-| [get_style](/cells/python-net/it/aspose.cells/row/get_style/#) | Ottiene lo stile di questa riga.|
-| [set_style](/cells/python-net/it/aspose.cells/row/set_style/#aspose.cells.Style) | Imposta lo stile di questa riga.|
-| [copy_settings](/cells/python-net/it/aspose.cells/row/copy_settings/#aspose.cells.Row-bool) | Copia le impostazioni della riga, come stile, altezza, visibilità, ... ecc.|
-| [apply_style](/cells/python-net/it/aspose.cells/row/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) | Applica i formati per un'intera riga.|
-| [equals](/cells/python-net/it/aspose.cells/row/equals/#aspose.cells.Row) | Controlla se questo oggetto fa riferimento alla stessa riga con un altro oggetto riga.|
+| [`get_cell_by_index(self, index)`](/cells/python-net/it/aspose.cells/row/get_cell_by_index/#int) | Ottieni la cella tramite l'indice specifico nella raccolta di celle di questa riga.|
+| [`get_enumerator(self, reversed, sync)`](/cells/python-net/it/aspose.cells/row/get_enumerator/#bool-bool) | Ottiene un enumeratore che scorre le celle attraverso questa riga.|
+| [`get_cell_or_null(self, column)`](/cells/python-net/it/aspose.cells/row/get_cell_or_null/#int) | Ottiene la cella o null nell'indice specifico.|
+| [`get_style(self)`](/cells/python-net/it/aspose.cells/row/get_style/#) | Ottiene lo stile di questa riga.|
+| [`set_style(self, style)`](/cells/python-net/it/aspose.cells/row/set_style/#aspose.cells.style) | Imposta lo stile di questa riga.|
+| [`copy_settings(self, source, check_style)`](/cells/python-net/it/aspose.cells/row/copy_settings/#aspose.cells.row-bool) | Copia le impostazioni della riga, come stile, altezza, visibilità, ecc.|
+| [`apply_style(self, style, flag)`](/cells/python-net/it/aspose.cells/row/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applica i formati per un'intera riga.|
+| [`equals(self, row)`](/cells/python-net/it/aspose.cells/row/equals/#aspose.cells.row) | Controlla se questo oggetto fa riferimento alla stessa riga di un altro oggetto riga.|
 
 
 

@@ -1,9 +1,9 @@
 ---
 title: TextEffectFormat класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 700
+weight: 680
 url: /ru/aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
@@ -12,14 +12,14 @@ is_root: false
 
 
 
-Тип TextEffectFormat предоставляет следующие члены:
+Тип TextEffectFormat предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [text](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/text) | Текст в WordArt.|
-| [font_name](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_name) | Имя шрифта, используемого в WordArt.|
-| [font_bold](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_bold) | Указывает, является ли шрифт полужирным.|
+| [font_name](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_name) | Название шрифта, используемого в WordArt.|
+| [font_bold](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_bold) | Указывает, является ли шрифт жирным.|
 | [font_italic](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_italic) | Указывает, является ли шрифт курсивом.|
 | [rotated_chars](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/rotated_chars) | Если задано значение true, символы в указанном объекте WordArt поворачиваются на 90 градусов относительно ограничивающей формы объекта WordArt.|
 | [font_size](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/font_size) | Размер (в пунктах) шрифта, используемого в WordArt.|
@@ -29,7 +29,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Устанавливает предустановленный текстовый эффект.|
+| [`set_text_effect(self, effect)`](/cells/python-net/ru/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Устанавливает предустановленный текстовый эффект.|
 
 
 
@@ -50,4 +50,4 @@ workbook.save("Book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

@@ -1,6 +1,6 @@
 ---
 title: OdsPageBackgroundGraphicPositionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -12,22 +12,22 @@ is_root: false
 
 
 
-Тип OdsPageBackgroundGraphicPositionType предоставляет следующие члены:
+Тип OdsPageBackgroundGraphicPositionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| TOP_LEFT | Верхний левый.|
-| TOP_CENTER | Верхний центр.|
-| TOP_RIGHT | В правом верхнем углу.|
-| CENTER_LEFT | Центр слева.|
+| TOP_LEFT | Вверху слева.|
+| TOP_CENTER | Вверху по центру.|
+| TOP_RIGHT | Вверху справа.|
+| CENTER_LEFT | В центре слева.|
 | CENTER_CENTER | Центр.|
-| CENTER_RIGHT | Центр справа.|
+| CENTER_RIGHT | По центру справа.|
 | BOTTOM_LEFT | Внизу слева.|
-| BOTTOM_CENTER | Нижний центр.|
+| BOTTOM_CENTER | Внизу по центру.|
 | BOTTOM_RIGHT | Внизу справа.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](..)
+* модуль [`aspose.cells.ods`](..)

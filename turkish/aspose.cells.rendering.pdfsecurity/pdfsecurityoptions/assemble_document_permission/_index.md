@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  assemble_document_permission mülk
 
- Belgenin birleştirilmesine (sayfa ekleme, döndürme veya silme ve yer imleri veya küçük resimler oluşturma) izin verilip verilmeyeceğini belirtir.
-[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) açık olsa bile.
+ Belgenin birleştirilmesine (sayfaların eklenmesine, döndürülmesine veya silinmesine ve yer imleri veya küçük resim görüntülerinin oluşturulmasına) izin verilip verilmeyeceğini belirtir.
+[`PdfSecurityOptions.modify_document_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) temiz olsa bile.
 ###  Tanım:
 ```python
 @property

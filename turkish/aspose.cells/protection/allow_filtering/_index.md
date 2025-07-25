@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_filtering mülk
 
-Kullanıcının, sayfa korunmadan önce oluşturulmuş bir Otomatik Filtreyi kullanmasına izin verilip verilmediğini temsil eder.
+Kullanıcının, sayfanın korunmasından önce oluşturulan bir Otomatik Filtreyi kullanmasına izin verilip verilmediğini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_filtering(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

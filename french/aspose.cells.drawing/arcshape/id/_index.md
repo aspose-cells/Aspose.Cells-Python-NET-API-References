@@ -3,7 +3,7 @@ title: id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 560
 url: /fr/aspose.cells.drawing/arcshape/id/
 is_root: false
 ---

@@ -3,14 +3,14 @@ title: one_page_per_sheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 200
 url: /sv/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet fastighet
 
- Om OnePagePerSheet är sant , kommer allt innehåll på ett ark endast att matas ut till en sida som resultat.
- Pappersstorleken för sidinställningarna kommer att vara ogiltig, och de andra inställningarna för sidinställningarna
+ Om OnePagePerSheet är sant kommer allt innehåll i ett ark att matas ut till endast en sida i resultatet.
+ Pappersstorleken för utskriftsformatet kommer att vara ogiltig, och de andra inställningarna för utskriftsformatet
 kommer fortfarande att träda i kraft.
 ###  Definition:
 ```python

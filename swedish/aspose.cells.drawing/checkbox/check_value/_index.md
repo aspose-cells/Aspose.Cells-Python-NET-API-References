@@ -3,7 +3,7 @@ title: check_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Hämtar eller ställer in kryssrutans värde.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen CheckBox.CheckValueType.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juni 2010.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen CheckBox.CheckValueType.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juni 2010.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

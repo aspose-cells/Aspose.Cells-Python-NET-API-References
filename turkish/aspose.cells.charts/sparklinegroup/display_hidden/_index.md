@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_hidden mülk
 
-Verilerin gizli satırlarda ve sütunlarda gösterilip gösterilmeyeceğini belirtir.
+Gizli satır ve sütunlardaki verilerin gösterilip gösterilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

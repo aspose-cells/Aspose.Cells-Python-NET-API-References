@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  icon_id propriété
 
-Représente l'ID du type de jeu d'icônes.
+Représente l'ID du type d'ensemble d'icônes.
 
 ###  Remarques
 
-N'a d'effet que lorsque [SortOnType](/cells/python-net/fr/aspose.cells/sortontype) est SortOnType.Icon.
+Ne prend effet que lorsque [`DataSorterKey.type`](/cells/python-net/fr/aspose.cells/datasorterkey#type) est [`SortOnType.ICON`](/cells/python-net/fr/aspose.cells/sortontype#ICON).
 ###  Définition:
 ```python
 @property
@@ -22,6 +22,5 @@ def icon_id(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/fr/aspose.cells/datasorterkey)
-* classe [SortOnType](/cells/python-net/fr/aspose.cells/sortontype)
+* module [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/fr/aspose.cells/datasorterkey)

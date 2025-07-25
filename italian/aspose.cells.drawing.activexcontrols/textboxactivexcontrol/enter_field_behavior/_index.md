@@ -1,6 +1,6 @@
 ---
 title: enter_field_behavior proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  enter_field_behavior proprietà
 
-Specifica il comportamento di selezione quando si accede al controllo.
- True specifica che la selezione rimane invariata dall'ultima volta che il controllo è stato attivo.
-False specifica che tutto il testo nel controllo verrà selezionato quando si entra nel controllo.
+Specifica il comportamento della selezione quando si accede al controllo.
+ True specifica che la selezione rimane invariata dall'ultima volta che il controllo era attivo.
+False specifica che tutto il testo nel controllo verrà selezionato quando si accede al controllo.
 ###  Definizione:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_field_behavior(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

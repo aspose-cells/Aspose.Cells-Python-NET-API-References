@@ -3,13 +3,13 @@ title: rotation_angle Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 330
 url: /de/aspose.cells.charts/displayunitlabel/rotation_angle/
 is_root: false
 ---
 ##  rotation_angle Eigentum
 
-Stellt den Rotationswinkel des Textes dar.
+Stellt den Textdrehwinkel dar.
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [DisplayUnitLabel](/cells/python-net/de/aspose.cells.charts/displayunitlabel)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`DisplayUnitLabel`](/cells/python-net/de/aspose.cells.charts/displayunitlabel)

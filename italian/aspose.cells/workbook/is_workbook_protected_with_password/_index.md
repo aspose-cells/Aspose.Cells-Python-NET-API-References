@@ -1,15 +1,15 @@
 ---
 title: is_workbook_protected_with_password proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 630
+weight: 660
 url: /it/aspose.cells/workbook/is_workbook_protected_with_password/
 is_root: false
 ---
 ##  is_workbook_protected_with_password proprietà
 
-Indica se la struttura o la finestra è protetta con password.
+Indica se la struttura o la finestra è protetta da password.
 ###  Definizione:
 ```python
 @property

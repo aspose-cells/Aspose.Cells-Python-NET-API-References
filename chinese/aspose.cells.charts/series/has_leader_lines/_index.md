@@ -9,7 +9,7 @@ is_root: false
 ---
 ## has_leader_lines属性
 
-如果该系列有引导线，则为真。
+如果系列有引导线，则为真。
 ### 定义：
 ```python
 @property

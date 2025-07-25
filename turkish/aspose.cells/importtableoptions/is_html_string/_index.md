@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_html_string mülk
 
-Değerin html etiketleri içerip içermediğini gösterir.
+Değerin html etiketleri içerip içermediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_html_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

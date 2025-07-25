@@ -3,12 +3,12 @@ title: BorderCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 70
 url: /es/aspose.cells/bordercollection/
 is_root: false
 ---
 ##  BorderCollection clase
-Encapsula una colección de [Border](/cells/python-net/es/aspose.cells/border) objetos.
+Encapsula una colección de [`Border`](/cells/python-net/es/aspose.cells/border) objetos.
 
 
 
@@ -17,18 +17,58 @@ El tipo BorderCollection expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [diagonal_color](/cells/python-net/es/aspose.cells/bordercollection/diagonal_color) | Obtiene o establece el Color de las líneas diagonales.|
-| [diagonal_style](/cells/python-net/es/aspose.cells/bordercollection/diagonal_style) | Obtiene o establece el estilo de las líneas Diagonal.|
+| [diagonal_color](/cells/python-net/es/aspose.cells/bordercollection/diagonal_color) | Obtiene o establece el color de las líneas diagonales.|
+| [diagonal_style](/cells/python-net/es/aspose.cells/bordercollection/diagonal_style) | Obtiene o establece el estilo de las líneas diagonales.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [set_color(color)](/cells/python-net/es/aspose.cells/bordercollection/set_color/#aspose.pydrawing.Color) | Establece el Color de todos los bordes de la colección.|
-| [set_style(style)](/cells/python-net/es/aspose.cells/bordercollection/set_style/#CellBorderType) | Establece el estilo de todos los bordes de la colección.|
+| [`get(self, border_type)`](/cells/python-net/es/aspose.cells/bordercollection/get/#aspose.cells.bordertype) | Agregue API for Python a través de .Net.ya que este [BorderType borderType] no es compatible|
+| [`set_color(self, color)`](/cells/python-net/es/aspose.cells/bordercollection/set_color/#aspose.pydrawing.color) | Establece el color de todos los bordes de la colección.|
+| [`set_style(self, style)`](/cells/python-net/es/aspose.cells/bordercollection/set_style/#aspose.cells.cellbordertype) | Establece el estilo de todos los bordes de la colección.|
 
 
+
+###  Ejemplo
+
+```python
+from aspose.cells import BorderType, CellBorderType, Workbook
+from aspose.pydrawing import Color
+
+# Instantiating a Workbook object
+workbook = Workbook()
+# Adding a new worksheet to the Excel object
+workbook.worksheets.add()
+# Obtaining the reference of the newly added worksheet by passing its sheet index
+worksheet = workbook.worksheets[0]
+# Accessing the "A1" cell from the worksheet
+cell = worksheet.cells.get("A1")
+# Adding some value to the "A1" cell
+cell.put_value("Visit Aspose!")
+style = cell.get_style()
+# Setting the line style of the top border
+style.borders.get(BorderType.TOP_BORDER).line_style = CellBorderType.THICK
+# Setting the color of the top border
+style.borders.get(BorderType.TOP_BORDER).color = Color.black
+# Setting the line style of the bottom border
+style.borders.get(BorderType.BOTTOM_BORDER).line_style = CellBorderType.THICK
+# Setting the color of the bottom border
+style.borders.get(BorderType.BOTTOM_BORDER).color = Color.black
+# Setting the line style of the left border
+style.borders.get(BorderType.LEFT_BORDER).line_style = CellBorderType.THICK
+# Setting the color of the left border
+style.borders.get(BorderType.LEFT_BORDER).color = Color.black
+# Setting the line style of the right border
+style.borders.get(BorderType.RIGHT_BORDER).line_style = CellBorderType.THICK
+# Setting the color of the right border
+style.borders.get(BorderType.RIGHT_BORDER).color = Color.black
+cell.set_style(style)
+# Saving the Excel file
+workbook.save("book1.xls")
+
+```
 
 ###  Ver también
-* módulo [aspose.cells](..)
-* clase [Border](/cells/python-net/es/aspose.cells/border)
+* módulo [`aspose.cells`](..)
+* clase [`Border`](/cells/python-net/es/aspose.cells/border)

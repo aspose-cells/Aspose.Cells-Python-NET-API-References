@@ -1,6 +1,6 @@
 ---
 title: auto_scale_font недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font недвижимость
 
-Истинно, если текст в объекте изменяет размер шрифта при изменении размера объекта. Значение по умолчанию верно.
+True, если размер шрифта текста в объекте изменяется при изменении размера объекта. Значение по умолчанию — True.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [PlotArea](/cells/python-net/ru/aspose.cells.charts/plotarea)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`PlotArea`](/cells/python-net/ru/aspose.cells.charts/plotarea)

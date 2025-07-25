@@ -1,14 +1,14 @@
 ---
 title: EmfRenderSetting перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2060
+weight: 1970
 url: /ru/aspose.cells/emfrendersetting/
 is_root: false
 ---
 ##  EmfRenderSetting перечисление
-Настройка рендеринга метафайла Emf.
+Настройка для рендеринга метафайла Emf.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| EMF_ONLY | Рендеринг только записей Emf.|
-| EMF_PLUS_PREFER | Предпочитайте рендеринг записей EmfPlus.|
+| EMF_ONLY | Только рендеринг записей ЭДС.|
+| EMF_PLUS_PREFER | Предпочитаю визуализацию записей EmfPlus.|
 
 
 

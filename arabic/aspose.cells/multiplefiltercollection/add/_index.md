@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
-##  add(filter) {#str}
-يضيف مرشح السلسلة.
+##  add(self, filter) {#str}
+إضافة مرشح السلسلة.
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```
@@ -20,10 +21,10 @@ def add(self, filter):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| filter | str | بيانات التصفية.|
+| filter | str | بيانات الفلتر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [MultipleFilterCollection](/cells/python-net/ar/aspose.cells/multiplefiltercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`MultipleFilterCollection`](/cells/python-net/ar/aspose.cells/multiplefiltercollection)

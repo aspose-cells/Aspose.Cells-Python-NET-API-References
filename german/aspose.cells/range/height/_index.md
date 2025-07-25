@@ -3,7 +3,7 @@ title: height Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 440
 url: /de/aspose.cells/range/height/
 is_root: false
 ---

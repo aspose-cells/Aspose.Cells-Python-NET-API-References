@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  time_period mülk
 
- Bir "tarih meydana geliyor..." koşullu biçimlendirme kuralında geçerli zaman aralığı.
+ "Tarih meydana geliyor…" koşullu biçimlendirme kuralında uygulanabilir zaman aralığı.
 Yalnızca type = timePeriod için geçerlidir.
 Varsayılan değer TimePeriodType.Today'dir.
 ###  Tanım:
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
-* sınıf [TimePeriodType](/cells/python-net/tr/aspose.cells/timeperiodtype)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)
+* sınıf [`TimePeriodType`](/cells/python-net/tr/aspose.cells/timeperiodtype)

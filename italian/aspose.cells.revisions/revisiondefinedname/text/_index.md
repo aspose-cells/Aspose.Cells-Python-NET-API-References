@@ -1,6 +1,6 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text proprietà
 
-Ottiene text del nome definito.
+Ottiene il text del nome definito.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def text(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionDefinedName](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionDefinedName`](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)

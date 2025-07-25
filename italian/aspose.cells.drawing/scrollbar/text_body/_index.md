@@ -1,9 +1,9 @@
 ---
 title: text_body proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /it/aspose.cells.drawing/scrollbar/text_body/
 is_root: false
 ---

@@ -3,20 +3,21 @@ title: طريقة get_cell_or_null
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 150
 url: /ar/aspose.cells/range/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null {#int-int}
-يحصل على [`Cell`](/cells/python-net/ar/aspose.cells/cell) كائنًا أو خاليًا في هذا النطاق.
+##  get_cell_or_null(self, row_offset, column_offset) {#int-int}
+يحصل على الكائن [`Cell`](/cells/python-net/ar/aspose.cells/cell) أو لا شيء في هذا النطاق.
 
 
 ###  عائدات
 
-كائن [`Cell`](/cells/python-net/ar/aspose.cells/cell).
+[`Cell`](/cells/python-net/ar/aspose.cells/cell) الكائن.
 
 
 ```python
+
 def get_cell_or_null(self, row_offset, column_offset):
     ...
 ```
@@ -24,8 +25,8 @@ def get_cell_or_null(self, row_offset, column_offset):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_offset | int | إزاحة الصف في هذا النطاق، على أساس صفر.|
-| column_offset | int | إزاحة العمود في هذا النطاق، تعتمد على الصفر.|
+| row_offset | int | إزاحة الصف في هذا النطاق، على أساس الصفر.|
+| column_offset | int | إزاحة العمود في هذا النطاق، على أساس الصفر.|
 
 
 

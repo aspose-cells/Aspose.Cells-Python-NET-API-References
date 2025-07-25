@@ -3,7 +3,7 @@ title: match_color mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells/xlssaveoptions/match_color/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def match_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XlsSaveOptions](/cells/python-net/tr/aspose.cells/xlssaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XlsSaveOptions`](/cells/python-net/tr/aspose.cells/xlssaveoptions)

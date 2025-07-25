@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale fastighet
 
-Får eller ställer in hur många bildstapeln och scale med.
+Hämtar eller anger hur många bildstacken och scale med.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)

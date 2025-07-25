@@ -3,13 +3,13 @@ title: export_comments_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 270
 url: /fr/aspose.cells/htmlsaveoptions/export_comments_type/
 is_root: false
 ---
 ##  export_comments_type propriété
 
-Représente le type d’exportation de commentaires vers des fichiers HTML.
+Représente le type d'exportation de commentaires vers des fichiers HTML.
 ###  Définition:
 ```python
 @property

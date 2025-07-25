@@ -1,6 +1,6 @@
 ---
 title: Timeline класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -9,19 +9,20 @@ is_root: false
 ---
 ##  Timeline класс
 Краткое описание Timeline Вид
-Из-за MS Excel Excel 2003 не поддерживает Timeline.
+Из-за MS Excel, Excel 2003 не поддерживает Timeline
 
 
 
-Тип Timeline предоставляет следующие члены:
+Тип Timeline предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [caption](/cells/python-net/ru/aspose.cells.timelines/timeline/caption) | Возвращает или задает заголовок указанной временной шкалы.|
-| [name](/cells/python-net/ru/aspose.cells.timelines/timeline/name) |Возвращает или задает имя указанной временной шкалы|
-| [left_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/left_pixel) | Возвращает или задает смещение формы временной шкалы по горизонтали от ее левого столбца в пикселях.|
-| [top_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/top_pixel) | Возвращает или задает вертикальное смещение формы временной шкалы от ее верхней строки в пикселях.|
+| [shape](/cells/python-net/ru/aspose.cells.timelines/timeline/shape) | Возвращает объект [`TimelineShape`](/cells/python-net/ru/aspose.cells.drawing/timelineshape), связанный с этой временной шкалой. Только для чтения.|
+| [name](/cells/python-net/ru/aspose.cells.timelines/timeline/name) | Возвращает или задает имя указанной временной шкалы|
+| [left_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/left_pixel) | Возвращает или задает горизонтальное смещение фигуры временной шкалы от ее левого столбца в пикселях.|
+| [top_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/top_pixel) | Возвращает или задает вертикальное смещение фигуры временной шкалы от ее верхней строки в пикселях.|
 | [width_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/width_pixel) | Возвращает или задает ширину указанной временной шкалы в пикселях.|
 | [height_pixel](/cells/python-net/ru/aspose.cells.timelines/timeline/height_pixel) | Возвращает или задает высоту указанной временной шкалы в пикселях.|
 
@@ -32,7 +33,7 @@ is_root: false
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.timelines](..)
+* модуль [`aspose.cells.timelines`](..)
+* класс [`TimelineShape`](/cells/python-net/ru/aspose.cells.drawing/timelineshape)

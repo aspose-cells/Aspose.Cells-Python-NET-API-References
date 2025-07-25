@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  group_by_types fastighet
 
-Hämtar typerna av gruppering efter datum och tid.
+Hämtar grupperingstyperna efter datum och tid.
 ###  Definition:
 ```python
 @property

@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.drawing/format3d/has_top_bevel_data/
 is_root: false
 ---
-##  has_top_bevel_data() {#}
+##  has_top_bevel_data(self) {#}
 Şeklin üst eğim verisine sahip olup olmadığını gösterir.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_top_bevel_data(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_top_bevel_data(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Format3D](/cells/python-net/tr/aspose.cells.drawing/format3d)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Format3D`](/cells/python-net/tr/aspose.cells.drawing/format3d)

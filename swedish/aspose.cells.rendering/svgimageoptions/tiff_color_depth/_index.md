@@ -1,0 +1,31 @@
+---
+title: tiff_color_depth fastighet
+second_title: Aspose.Cells for Python via .NET API Referenser
+description:
+type: docs
+weight: 400
+url: /sv/aspose.cells.rendering/svgimageoptions/tiff_color_depth/
+is_root: false
+---
+##  tiff_color_depth fastighet
+
+Hämtar eller ställer in bitdjup så att det endast gäller när sidor sparas i formatet `Tiff`.
+
+###  Anmärkningar
+
+Gäller endast när det sparas till TIFF.
+Om TiffCompression är inställt på CCITT3, CCITT4, kommer detta inte att träda i kraft, bitdjupet för den genererade tiff-bilden kommer alltid att vara 1.
+###  Definition:
+```python
+@property
+def tiff_color_depth(self):
+    ...
+@tiff_color_depth.setter
+def tiff_color_depth(self, value):
+    ...
+```
+
+###  Se även
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ColorDepth`](/cells/python-net/sv/aspose.cells.rendering/colordepth)
+* klass [`SvgImageOptions`](/cells/python-net/sv/aspose.cells.rendering/svgimageoptions)

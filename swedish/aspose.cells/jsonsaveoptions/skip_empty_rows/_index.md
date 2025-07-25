@@ -3,13 +3,13 @@ title: skip_empty_rows fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 220
 url: /sv/aspose.cells/jsonsaveoptions/skip_empty_rows/
 is_root: false
 ---
 ##  skip_empty_rows fastighet
 
-Anger om tomma rader hoppar över.
+Anger om tomma rader hoppas över.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def skip_empty_rows(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonSaveOptions](/cells/python-net/sv/aspose.cells/jsonsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonSaveOptions`](/cells/python-net/sv/aspose.cells/jsonsaveoptions)

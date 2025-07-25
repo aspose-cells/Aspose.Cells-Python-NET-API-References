@@ -1,6 +1,6 @@
 ---
 title: VbaModule类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
@@ -8,17 +8,18 @@ url: /zh/aspose.cells.vba/vbamodule/
 is_root: false
 ---
 ## VbaModule类
-表示 VBA 项目中的模块。
+代表 VBA 项目中的模块。
 
 
 
-VbaModule 类型公开了以下成员：
+VbaModule 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [name](/cells/python-net/zh/aspose.cells.vba/vbamodule/name) |获取和设置模块的名称。|
-| [type](/cells/python-net/zh/aspose.cells.vba/vbamodule/type) |获取模块类型。|
+| [name](/cells/python-net/zh/aspose.cells.vba/vbamodule/name) |获取并设置模块的名称。|
+| [type](/cells/python-net/zh/aspose.cells.vba/vbamodule/type) |获取模块的类型。|
+| [binary_codes](/cells/python-net/zh/aspose.cells.vba/vbamodule/binary_codes) |获取和设置模块的二进制代码。|
 | [codes](/cells/python-net/zh/aspose.cells.vba/vbamodule/codes) |获取和设置模块的代码。|
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.vba](..)
+* 模块[`aspose.cells.vba`](..)

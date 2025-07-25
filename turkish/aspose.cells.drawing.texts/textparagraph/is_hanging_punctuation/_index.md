@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hanging_punctuation mülk
 
-Noktalamanın bir metin satırına mı yoksa farklı bir metin satırına mı zorla yerleştirileceğini belirtir.
+Noktalama işaretlerinin metnin bir satırına zorla mı yerleştirileceğini yoksa metnin farklı bir satırına mı konulacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

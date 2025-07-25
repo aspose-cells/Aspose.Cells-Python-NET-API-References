@@ -1,15 +1,15 @@
 ---
 title: title недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1240
+weight: 1260
 url: /ru/aspose.cells.drawing/picture/title/
 is_root: false
 ---
 ##  title недвижимость
 
-Указывает title (заголовок) текущего объекта формы.
+Задает title (заголовок) текущего объекта формы.
 
 ###  Пример
 

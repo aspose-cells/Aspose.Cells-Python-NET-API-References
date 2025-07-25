@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
-Koruma parolasını doğrular.
+##  validate_password(self, password) {#str}
+Koruma şifresini doğrular.
 
 
 ###  İadeler
 
-Parolanın bu VBA projesinin koruma parolası olup olmadığı
+Şifre bu VBA projesinin koruma şifresi mi?
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProject](/cells/python-net/tr/aspose.cells.vba/vbaproject)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProject`](/cells/python-net/tr/aspose.cells.vba/vbaproject)

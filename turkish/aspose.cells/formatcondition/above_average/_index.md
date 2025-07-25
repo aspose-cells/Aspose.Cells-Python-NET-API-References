@@ -12,7 +12,7 @@ is_root: false
 Koşullu biçimlendirmenin "AboveAverage" örneğini alın.
  Varsayılan örneğin kuralı, şu hücreleri vurgular:
 aralıktaki tüm değerler için ortalamanın üzerinde.
-Yalnızca type = AboveAverage için geçerlidir.
+Yalnızca AboveAverage türü için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AboveAverage](/cells/python-net/tr/aspose.cells/aboveaverage)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`AboveAverage`](/cells/python-net/tr/aspose.cells/aboveaverage)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

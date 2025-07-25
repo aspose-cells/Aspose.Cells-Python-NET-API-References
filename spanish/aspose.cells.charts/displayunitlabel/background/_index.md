@@ -13,10 +13,10 @@ Obtiene y establece el modo de visualización del background
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad ChartFrame.BackgroundMode.
- Esta propiedad será eliminada 12 meses después desde ENERO 2012.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad ChartFrame.BackgroundMode.
+ Esta propiedad será eliminada 12 meses después desde ENERO DE 2012.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [BackgroundMode](/cells/python-net/es/aspose.cells.charts/backgroundmode)
-* clase [DisplayUnitLabel](/cells/python-net/es/aspose.cells.charts/displayunitlabel)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`BackgroundMode`](/cells/python-net/es/aspose.cells.charts/backgroundmode)
+* clase [`DisplayUnitLabel`](/cells/python-net/es/aspose.cells.charts/displayunitlabel)

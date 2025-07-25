@@ -3,13 +3,13 @@ title: linked_source عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 350
 url: /ar/aspose.cells.charts/legend/linked_source/
 is_root: false
 ---
 ##  linked_source عقار
 
-الحصول على مرجع إلى ورقة العمل وتعيينه.
+يحصل على مرجع إلى ورقة العمل ويعينه.
 ###  تعريف:
 ```python
 @property

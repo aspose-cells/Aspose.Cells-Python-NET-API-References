@@ -1,5 +1,5 @@
 ---
-title: build_version الملكية
+title: build_version عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/workbooksettings/build_version/
 is_root: false
 ---
-##  build_version الملكية
+##  build_version عقار
 
-يحدد الإصدار العام المتزايد للتطبيق.
+يحدد الإصدار العام التدريجي للتطبيق.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def build_version(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

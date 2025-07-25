@@ -1,6 +1,6 @@
 ---
 title: is_bold proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bold proprietà
 
-Ottiene o imposta un valore che indica se il tipo di carattere è in grassetto.
+Ottiene o imposta un valore che indica se il carattere è in grassetto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_bold(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

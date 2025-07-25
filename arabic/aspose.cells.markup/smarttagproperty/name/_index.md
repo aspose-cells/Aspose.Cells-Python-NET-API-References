@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.markup/smarttagproperty/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name للعقار وتعيينه.
+يحصل على name الخاصية ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagProperty](/cells/python-net/ar/aspose.cells.markup/smarttagproperty)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagProperty`](/cells/python-net/ar/aspose.cells.markup/smarttagproperty)

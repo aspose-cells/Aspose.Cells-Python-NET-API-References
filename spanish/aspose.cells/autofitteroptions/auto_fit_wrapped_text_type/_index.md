@@ -21,6 +21,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFitWrappedTextType](/cells/python-net/es/aspose.cells/autofitwrappedtexttype)
-* clase [AutoFitterOptions](/cells/python-net/es/aspose.cells/autofitteroptions)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFitWrappedTextType`](/cells/python-net/es/aspose.cells/autofitwrappedtexttype)
+* clase [`AutoFitterOptions`](/cells/python-net/es/aspose.cells/autofitteroptions)

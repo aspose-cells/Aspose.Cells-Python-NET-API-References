@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options mülk
 
-Grafikte görünen pivot kontrollerini belirtir
+Grafikte görünen pivot denetimlerini belirtir
 ###  Tanım:
 ```python
 @property

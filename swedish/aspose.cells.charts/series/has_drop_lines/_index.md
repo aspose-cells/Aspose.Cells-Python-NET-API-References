@@ -10,7 +10,7 @@ is_root: false
 ##  has_drop_lines fastighet
 
 Sant om diagrammet har dropplinjer.
-Gäller endast linjediagram eller områdesdiagram.
+Gäller endast linjediagram eller ytdiagram.
 ###  Definition:
 ```python
 @property

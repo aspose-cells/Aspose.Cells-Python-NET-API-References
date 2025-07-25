@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_index mülk
 
-Geçerli sayfa dizini, sıfır tabanlı.
+Güncel sayfa indeksi, sıfır tabanlı.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def page_index(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PageEndSavingArgs](/cells/python-net/tr/aspose.cells.rendering/pageendsavingargs)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PageEndSavingArgs`](/cells/python-net/tr/aspose.cells.rendering/pageendsavingargs)

@@ -7,12 +7,13 @@ weight: 90
 url: /ar/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell {#int-int}
-قم بإزالة إعدادات التحقق من الصحة في الخلية.
+##  remove_a_cell(self, row, column) {#int-int}
+إزالة إعدادات التحقق في الخلية.
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```

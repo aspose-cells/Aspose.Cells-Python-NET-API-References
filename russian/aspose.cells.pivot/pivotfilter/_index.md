@@ -1,14 +1,14 @@
 ---
 title: PivotFilter класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 140
 url: /ru/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter класс
-Представляет PivotFilter в коллекции PivotFilter.
+Представляет собой PivotFilter в коллекции PivotFilter.
 
 
 
@@ -17,15 +17,28 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [auto_filter](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/auto_filter) | Получает автофильтр сводного фильтра.|
-| [filter_type](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/filter_type) | Получает тип автофильтра сводного фильтра.|
-| [field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/field_index) | Получает индекс поля сводного фильтра.|
-| [value1](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value1) | Получает строковое значение1 фильтра сводной метки.|
-| [value2](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value2) |Получает строковое значение2 фильтра сводной метки.|
+| [use_whole_day](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/use_whole_day) | Указывает, используются ли целые дни в критериях фильтрации.|
+| [auto_filter](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/auto_filter) | Получает автофильтр опорного фильтра.|
+| [filter_type](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/filter_type) | Получает тип автофильтра для фильтра-опоры.|
+| [field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/field_index) | Возвращает индекс исходного поля, к которому применяется этот сводный фильтр.|
+| [filter_category](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/filter_category) | Получает категорию этого фильтра.|
+| [value1](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value1) | Получает строковое значение1 фильтра опорной метки.|
+| [value2](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value2) | Получает строковое значение2 фильтра опорной метки.|
 | [measure_fld_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/measure_fld_index) | Получает индекс поля меры сводного фильтра.|
+| [value_field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/value_field_index) | Получает индекс поля значения в области значений.|
+| [measure_cube_field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/measure_cube_field_index) | Указывает индекс поля куба меры.<br/>это свойство используется только фильтрами в сводных таблицах OLAP и указывает, к какой мере должен применяться фильтр значений.|
 | [member_property_field_index](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/member_property_field_index) | Получает индекс поля свойств элемента сводного фильтра.|
-| [name](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/name) | Получает имя сводного фильтра.|
-| [evaluation_order](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/evaluation_order) | Получает порядок оценки сводного фильтра.|
+| [name](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/name) | Получает имя фильтра-сводки.|
+| [evaluation_order](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/evaluation_order) | Получает порядок оценки опорного фильтра.|
+
+
+###  Методы
+| Метод| Описание|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Получает 10 лучших настроек фильтра.|
+| [`get_labels(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/get_labels/#) | Получает метки фильтра субтитров.|
+| [`get_number_values(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/get_number_values/#) | Получает значения числового фильтра.|
+| [`get_date_time_values(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Получает значения числового фильтра.|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

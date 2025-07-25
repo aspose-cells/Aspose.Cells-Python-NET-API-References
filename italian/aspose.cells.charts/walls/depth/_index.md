@@ -1,6 +1,6 @@
 ---
 title: depth proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth proprietà
 
-Ottiene depth dalla parte anteriore a quella posteriore in unità di 1/4000 della larghezza del grafico dopo aver chiamato il metodo Chart.Calculate().
+Ottiene la parte anteriore e posteriore del grafico depth in unità di 1/4000 della larghezza dopo aver chiamato il metodo Chart.Calculate().
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/it/aspose.cells.charts/walls)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/it/aspose.cells.charts/walls)

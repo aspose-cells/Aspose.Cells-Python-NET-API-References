@@ -3,7 +3,7 @@ title: checked_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 340
 url: /zh/aspose.cells.drawing/checkbox/checked_value/
 is_root: false
 ---

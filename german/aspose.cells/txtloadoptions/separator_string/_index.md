@@ -3,13 +3,13 @@ title: separator_string Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 370
 url: /de/aspose.cells/txtloadoptions/separator_string/
 is_root: false
 ---
 ##  separator_string Eigentum
 
-Ruft einen Zeichenfolgenwert als Trennzeichen ab und legt diesen fest.
+Ruft einen Zeichenfolgenwert als Trennzeichen ab und legt ihn fest.
 ###  Definition:
 ```python
 @property

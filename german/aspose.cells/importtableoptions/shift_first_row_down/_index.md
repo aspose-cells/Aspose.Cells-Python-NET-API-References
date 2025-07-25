@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shift_first_row_down Eigentum
 
-Gibt an, ob beim Einfügen von Zeilen die erste Zeile nach unten verschoben wird.
+Gibt an, ob beim Einfügen von Zeilen die erste Zeile nach unten verschoben werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shift_first_row_down(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

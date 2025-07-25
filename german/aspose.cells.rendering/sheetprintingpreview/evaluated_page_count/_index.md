@@ -13,7 +13,7 @@ Bewerten Sie die Gesamtseitenzahl dieses Arbeitsblatts
 
 ###  Beispiel
 
-Der folgende Code zeigt den schnellsten Weg, um die Seitenzahl eines Arbeitsblatts zu erhalten.
+Der folgende Code zeigt den schnellsten Weg, die Seitenanzahl eines Arbeitsblatts zu ermitteln.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [SheetPrintingPreview](/cells/python-net/de/aspose.cells.rendering/sheetprintingpreview)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`SheetPrintingPreview`](/cells/python-net/de/aspose.cells.rendering/sheetprintingpreview)

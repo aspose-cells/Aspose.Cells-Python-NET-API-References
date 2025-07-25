@@ -1,18 +1,19 @@
 ---
 title: Metodo copy
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 100
 url: /it/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Range}
-Copia dati (incluse formule), formattazione, oggetti di disegno, ecc. da un intervallo di origine.
+##  copy(self, range) {#aspose.cells.Range}
+Copia dati (incluse formule), formattazione, oggetti di disegno ecc. da un intervallo di origine.
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy(self, range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/it/aspose.cells/range) |Oggetto sorgente [`Range`](/cells/python-net/it/aspose.cells/range).|
+| range | [`Range`](/cells/python-net/it/aspose.cells/range) | Oggetto sorgente [`Range`](/cells/python-net/it/aspose.cells/range).|
 
 ###  Esempio
 
@@ -41,12 +42,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
-Copia dell'intervallo con le opzioni speciali Incolla.
+##  copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
+Copia dell'intervallo con le opzioni Incolla speciale.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -55,7 +57,7 @@ def copy(self, range, options):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | range | [`Range`](/cells/python-net/it/aspose.cells/range) | L'intervallo di origine.|
-| options | [`PasteOptions`](/cells/python-net/it/aspose.cells/pasteoptions) | Le opzioni speciali di incolla.|
+| options | [`PasteOptions`](/cells/python-net/it/aspose.cells/pasteoptions) | Le opzioni Incolla speciale.|
 
 
 

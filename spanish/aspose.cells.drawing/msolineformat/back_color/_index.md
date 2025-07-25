@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color propiedad
 
-Obtiene y establece el color de fondo de la línea del borde.
+Obtiene y establece el color posterior de la línea del borde.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineFormat](/cells/python-net/es/aspose.cells.drawing/msolineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineFormat`](/cells/python-net/es/aspose.cells.drawing/msolineformat)

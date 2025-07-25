@@ -21,6 +21,6 @@ def copy_format_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CopyFormatType](/cells/python-net/de/aspose.cells/copyformattype)
-* Klasse [InsertOptions](/cells/python-net/de/aspose.cells/insertoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CopyFormatType`](/cells/python-net/de/aspose.cells/copyformattype)
+* Klasse [`InsertOptions`](/cells/python-net/de/aspose.cells/insertoptions)

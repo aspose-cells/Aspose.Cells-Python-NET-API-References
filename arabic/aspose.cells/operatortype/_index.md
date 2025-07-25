@@ -3,12 +3,12 @@ title: OperatorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2380
+weight: 2350
 url: /ar/aspose.cells/operatortype/
 is_root: false
 ---
 ##  OperatorType التعداد
-يمثل نوع عامل التنسيق الشرطي والتحقق من صحة البيانات.
+يمثل نوع مشغل التنسيق الشرطي والتحقق من صحة البيانات.
 
 
 
@@ -18,11 +18,11 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | BETWEEN | يمثل بين مشغل التنسيق الشرطي والتحقق من صحة البيانات.|
-| EQUAL | يمثل عامل التشغيل المتساوي للتنسيق الشرطي والتحقق من صحة البيانات.|
-| GREATER_THAN | يمثل عامل التشغيل GreaterThan للتنسيق الشرطي والتحقق من صحة البيانات.|
-| GREATER_OR_EQUAL | يمثل عامل التشغيل GreaterOrEqual للتنسيق الشرطي والتحقق من صحة البيانات.|
-| LESS_THAN | يمثل عامل التشغيل LessThan للتنسيق الشرطي والتحقق من صحة البيانات.|
-| LESS_OR_EQUAL | يمثل عامل التشغيل LesOrEqual للتنسيق الشرطي والتحقق من صحة البيانات.|
+| EQUAL | يمثل عامل المساواة لتنسيق الشرط والتحقق من صحة البيانات.|
+| GREATER_THAN | يمثل عامل GreaterThan للتنسيق الشرطي والتحقق من صحة البيانات.|
+| GREATER_OR_EQUAL | يمثل عامل GreaterOrEqual للتنسيق الشرطي والتحقق من صحة البيانات.|
+| LESS_THAN | يمثل عامل LessThan لتنسيق الشرط والتحقق من صحة البيانات.|
+| LESS_OR_EQUAL | يمثل عامل LessOrEqual للتنسيق الشرطي والتحقق من صحة البيانات.|
 | NONE | لا يمثل أي مقارنة.|
 | NOT_BETWEEN | يمثل عامل NotBetween للتنسيق الشرطي والتحقق من صحة البيانات.|
 | NOT_EQUAL | يمثل عامل NotEqual للتنسيق الشرطي والتحقق من صحة البيانات.|

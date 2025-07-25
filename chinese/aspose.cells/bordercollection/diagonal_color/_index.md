@@ -1,13 +1,13 @@
 ---
-title: diagonal_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: diagonal_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 60
 url: /zh/aspose.cells/bordercollection/diagonal_color/
 is_root: false
 ---
-## diagonal_color 属性
+## diagonal_color属性
 
 获取或设置对角线的颜色。
 ### 定义：
@@ -21,5 +21,5 @@ def diagonal_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [BorderCollection](/cells/python-net/zh/aspose.cells/bordercollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`BorderCollection`](/cells/python-net/zh/aspose.cells/bordercollection)

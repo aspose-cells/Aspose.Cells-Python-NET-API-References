@@ -1,5 +1,5 @@
 ---
-title: vertical_alignment الملكية
+title: vertical_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 310
 url: /ar/aspose.cells/styleflag/vertical_alignment/
 is_root: false
 ---
-##  vertical_alignment الملكية
+##  vertical_alignment عقار
 
 سيتم تطبيق إعداد المحاذاة الرأسية.
 ###  تعريف:
@@ -21,5 +21,5 @@ def vertical_alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

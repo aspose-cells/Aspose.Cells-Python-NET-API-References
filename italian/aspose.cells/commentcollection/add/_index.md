@@ -1,22 +1,23 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Aggiunge un commento alla raccolta.
 
 
 ###  ritorna
 
-[Comment](/cells/python-net/it/aspose.cells/comment) indice oggetto.
+[`Comment`](/cells/python-net/it/aspose.cells/comment) indice oggetto.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Aggiunge un commento alla raccolta.
 
 
 ###  ritorna
 
-[Comment](/cells/python-net/it/aspose.cells/comment) indice oggetto.
+[`Comment`](/cells/python-net/it/aspose.cells/comment) indice oggetto.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -55,8 +57,8 @@ def add(self, row, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Cell indice riga.|
-| column | int | Cell indice colonna.|
+| row | int | Cell indice di riga.|
+| column | int | Cell indice della colonna.|
 
 ###  Esempio
 
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Comment](/cells/python-net/it/aspose.cells/comment)
-* classe [CommentCollection](/cells/python-net/it/aspose.cells/commentcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/it/aspose.cells/comment)
+* classe [`CommentCollection`](/cells/python-net/it/aspose.cells/commentcollection)

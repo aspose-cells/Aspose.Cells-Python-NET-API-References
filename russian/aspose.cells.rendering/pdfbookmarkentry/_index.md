@@ -1,36 +1,36 @@
 ---
 title: PdfBookmarkEntry класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 70
 url: /ru/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry класс
-PdfBookmarkEntry — запись в закладке pdf.
+PdfBookmarkEntry — это запись в закладке PDF.
 если свойство Text текущего экземпляра равно null или "",
 текущий экземпляр будет скрыт, а дочерние элементы будут вставлены на текущий уровень.
 
 
 
-Тип PdfBookmarkEntry предоставляет следующие члены:
+Тип PdfBookmarkEntry предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Создает новый экземпляр PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Создает новый экземпляр PdfBookmarkEntry|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [text](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/text) | Название закладки.|
-| [destination](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/destination) | Ячейка, на которую ссылается закладка.|
-| [destination_name](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Получает или задает имя места назначения.|
-| [sub_entry](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | SubEntry закладки.|
-| [is_open](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/is_open) |Когда это свойство имеет значение true, запись закладки будет расширяться, в противном случае она свернется.|
-| [is_collapse](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Когда это свойство имеет значение true, запись закладки свернется, в противном случае она расширится.|
+| [destination](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/destination) |Ячейка, на которую ссылается закладка.|
+| [destination_name](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Получает или задает имя пункта назначения.|
+| [sub_entry](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Подзапись закладки.|
+| [is_open](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/is_open) | Если это свойство истинно, закладка будет расширяться, в противном случае она свернется.|
+| [is_collapse](/cells/python-net/ru/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Если это свойство истинно, закладка будет свернута, в противном случае она будет расширена.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](..)
+* модуль [`aspose.cells.rendering`](..)

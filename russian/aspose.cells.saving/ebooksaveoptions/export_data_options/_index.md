@@ -1,15 +1,15 @@
 ---
 title: export_data_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 280
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options недвижимость
 
-Указание правила экспорта данных html-файла. Значение по умолчанию — «Все».
+Указание правила экспорта данных HTML-файла. Значение по умолчанию — Все.
 ###  Определение:
 ```python
 @property

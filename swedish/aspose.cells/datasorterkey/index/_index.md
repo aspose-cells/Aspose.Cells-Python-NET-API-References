@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index fastighet
 
-Hämtar den sorterade kolumnen index(absolut position, kolumn A är 0, B är 1, ...).
+Hämtar den sorterade kolumnen index (absolut position, kolumn A är 0, B är 1, ...).
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataSorterKey](/cells/python-net/sv/aspose.cells/datasorterkey)
+* modul [`aspose.cells`](../../)
+* klass [`DataSorterKey`](/cells/python-net/sv/aspose.cells/datasorterkey)

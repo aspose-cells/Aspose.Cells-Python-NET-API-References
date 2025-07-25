@@ -3,13 +3,13 @@ title: column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 410
+weight: 420
 url: /tr/aspose.cells/cell/column/
 is_root: false
 ---
 ##  column mülk
 
-Hücrenin column numarasını (sıfır tabanlı) alır.
+Hücrenin column numarasını (sıfırdan başlayarak) alır.
 ###  Tanım:
 ```python
 @property

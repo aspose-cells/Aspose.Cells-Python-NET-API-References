@@ -3,7 +3,7 @@ title: is_equation mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 540
+weight: 550
 url: /tr/aspose.cells.drawing/textbox/is_equation/
 is_root: false
 ---

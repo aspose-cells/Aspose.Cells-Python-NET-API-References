@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells/findoptions/get_range/
 is_root: false
 ---
-##  get_range() {#}
+##  get_range(self) {#}
 Aranan aralığı alır ve ayarlar.
 
 
@@ -17,6 +17,7 @@ Aranan aralığı döndürür.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_range(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FindOptions](/cells/python-net/tr/aspose.cells/findoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FindOptions`](/cells/python-net/tr/aspose.cells/findoptions)

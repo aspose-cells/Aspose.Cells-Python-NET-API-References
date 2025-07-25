@@ -11,7 +11,7 @@ is_root: false
 
 Obtenga o establezca el type de este objeto de valor de formato condicional.
  Configuración de type en FormatConditionValueType.Min o FormatConditionValueType.Max
-establecerá automáticamente "Valor" en nulo.
+Establecerá automáticamente "Valor" en nulo.
 ###  Definición:
 ```python
 @property
@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingValue](/cells/python-net/es/aspose.cells/conditionalformattingvalue)
-* clase [FormatConditionValueType](/cells/python-net/es/aspose.cells/formatconditionvaluetype)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingValue`](/cells/python-net/es/aspose.cells/conditionalformattingvalue)
+* clase [`FormatConditionValueType`](/cells/python-net/es/aspose.cells/formatconditionvaluetype)

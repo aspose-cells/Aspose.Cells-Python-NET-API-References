@@ -1,13 +1,13 @@
 ---
-title: DrawObjectEnum dénombrement
+title: DrawObjectEnum énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 180
 url: /fr/aspose.cells.rendering/drawobjectenum/
 is_root: false
 ---
-##  DrawObjectEnum dénombrement
+##  DrawObjectEnum énumération
 Indiquez Cell ou Image de DrawObject.
 
 
@@ -18,9 +18,9 @@ Le type DrawObjectEnum expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | IMAGE | Indiquer que DrawObject est une image|
-| CELL | indiquer que DrawObject est un Cell|
+| CELL |indique que DrawObject est un Cell|
 
 
 
 ###  Voir également
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

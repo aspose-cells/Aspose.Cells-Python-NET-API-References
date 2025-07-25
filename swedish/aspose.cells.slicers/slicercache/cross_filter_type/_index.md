@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  cross_filter_type fastighet
 
-Returnerar eller ställer in om en slicer deltar i korsfiltrering med andra slicers
-som delar samma slicercache och hur korsfiltrering visas. Läsa skriva
+Returnerar eller anger om en utskivare deltar i korsfiltrering med andra utskivare
+som delar samma slicer-cache och hur korsfiltrering visas. Läs/skriv
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def cross_filter_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [SlicerCache](/cells/python-net/sv/aspose.cells.slicers/slicercache)
-* klass [SlicerCacheCrossFilterType](/cells/python-net/sv/aspose.cells.slicers/slicercachecrossfiltertype)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`SlicerCache`](/cells/python-net/sv/aspose.cells.slicers/slicercache)
+* klass [`SlicerCacheCrossFilterType`](/cells/python-net/sv/aspose.cells.slicers/slicercachecrossfiltertype)

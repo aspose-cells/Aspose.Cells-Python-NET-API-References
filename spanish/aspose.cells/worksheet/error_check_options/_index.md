@@ -3,7 +3,7 @@ title: error_check_options propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 490
+weight: 510
 url: /es/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---

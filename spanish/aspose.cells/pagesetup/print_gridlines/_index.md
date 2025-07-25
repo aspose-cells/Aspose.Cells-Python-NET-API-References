@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_gridlines propiedad
 
-Representa si las líneas de cuadrícula de las celdas se imprimen en la página.
+Representa si las líneas de cuadrícula de celdas se imprimen en la página.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

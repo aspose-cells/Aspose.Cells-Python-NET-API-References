@@ -3,12 +3,12 @@ title: RenameStrategy numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2520
+weight: 2490
 url: /tr/aspose.cells/renamestrategy/
 is_root: false
 ---
 ##  RenameStrategy numaralandırma
-Sütunların yinelenen adları için strateji seçeneği.
+Sütun adlarının tekrarlanması için strateji seçeneği.
 
 
 
@@ -18,16 +18,16 @@ RenameStrategy türü aşağıdaki üyeleri ortaya çıkarır:
 | Alan| Tanım|
 | :- | :- |
 | EXCEPTION | İstisna atar.|
-| DIGIT | Rakamla isimlendirilir. Yinelenen adlar ...1, ...2 vb. olacaktır.|
-| LETTER | Harfle isimlendirilir. Tekrarlanan isimler ...A, ...B, vb. olur.|
+| DIGIT | Rakamla isimlendirilir. Tekrarlanan isimler ...1, ...2, vb. olur.|
+| LETTER | Harfle isimlendirilir.. Çift isimler ...A, ...B, vb. olur.|
 
 
 
 ###  Notlar
 
-Başlıklara sahip veriler işlenirken bazı senaryolar, başlıkların tüm sütunlar için kopyalanmamasını gerektirir.
-Örneğin, verileri bir veri tablosuna aktarırken ve başlığın veri tablosunun sütun adı olarak alınması gerektiğinde,
-başlığın yinelenen değerleri geçersizdir.
+Başlıklı veriler işlenirken bazı senaryolarda başlıkların tüm sütunlar için tekrarlanmaması gerekir.
+Örneğin, bir datatable'a veri aktarılırken ve başlığın datatable'ın sütun adı olarak alınması istendiğinde,
+başlığın tekrarlanan değerleri geçersizdir.
 Bu tür durumlarda kullanıcı bu stratejiyi belirleyerek nasıl davranacağını belirleyebilir.
 
 ###  Ayrıca bakınız

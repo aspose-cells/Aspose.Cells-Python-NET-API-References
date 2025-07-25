@@ -8,7 +8,7 @@ url: /sv/aspose.cells.vba/vbamodule/
 is_root: false
 ---
 ##  VbaModule klass
-Representerar modulen i VBA-projekt.
+Representerar modulen i VBA-projektet.
 
 
 
@@ -17,9 +17,10 @@ Typen VbaModule avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [name](/cells/python-net/sv/aspose.cells.vba/vbamodule/name) | Hämtar och ställer in namnet på modulen.|
-| [type](/cells/python-net/sv/aspose.cells.vba/vbamodule/type) | Får typ av modul.|
-| [codes](/cells/python-net/sv/aspose.cells.vba/vbamodule/codes) | Hämtar och ställer in koderna för modulen.|
+| [name](/cells/python-net/sv/aspose.cells.vba/vbamodule/name) | Hämtar och anger namnet på modulen.|
+| [type](/cells/python-net/sv/aspose.cells.vba/vbamodule/type) | Hämtar modultypen.|
+| [binary_codes](/cells/python-net/sv/aspose.cells.vba/vbamodule/binary_codes) | Hämtar och ställer in modulens binära koder.|
+| [codes](/cells/python-net/sv/aspose.cells.vba/vbamodule/codes) | Hämtar och ställer in modulens koder.|
 
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](..)
+* modul [`aspose.cells.vba`](..)

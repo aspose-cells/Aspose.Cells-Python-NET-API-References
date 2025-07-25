@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y propriété
 
-Coordonnées Y de l'élément Ticklabel dans le rapport de la hauteur du graphique.
+Coordonnées Y de l'élément Ticklabel par rapport à la hauteur du graphique.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def y(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [TickLabelItem](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)
+* module [`aspose.cells.charts`](../../)
+* classe [`TickLabelItem`](/cells/python-net/fr/aspose.cells.charts/ticklabelitem)

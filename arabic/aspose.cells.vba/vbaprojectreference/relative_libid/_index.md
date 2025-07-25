@@ -1,5 +1,5 @@
 ---
-title: relative_libid الملكية
+title: relative_libid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 70
 url: /ar/aspose.cells.vba/vbaprojectreference/relative_libid/
 is_root: false
 ---
-##  relative_libid الملكية
+##  relative_libid عقار
 
-الحصول على معرف مشروع VBA المشار إليه مع مسار نسبي وتعيينه.
+يحصل على معرف مشروع VBA المشار إليه ويقوم بتعيينه باستخدام مسار نسبي.
 
 ###  ملاحظات
 
-فقط كمرجع للمشروع.
+للمرجع المشروع فقط.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProjectReference](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProjectReference`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)

@@ -13,8 +13,8 @@ Ruft ab oder legt fest, was die Blasengröße in einem Blasendiagramm darstellt.
 
 ###  Bemerkungen
 
-BubbleSizeRepresents.SizeIsArea bedeutet, dass der Wert [Series.bubble_sizes](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) die Fläche der Blase ist.
-BubbleSizeRepresents.SizeIsWidth bedeutet, dass der Wert [Series.bubble_sizes](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) die Breite der Blase ist.
+BubbleSizeRepresents.SizeIsArea bedeutet, dass der Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) die Fläche der Blase ist.
+BubbleSizeRepresents.SizeIsWidth bedeutet, dass der Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) die Breite der Blase ist.
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def size_represents(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [BubbleSizeRepresents](/cells/python-net/de/aspose.cells.charts/bubblesizerepresents)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`BubbleSizeRepresents`](/cells/python-net/de/aspose.cells.charts/bubblesizerepresents)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

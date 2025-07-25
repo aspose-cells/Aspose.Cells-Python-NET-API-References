@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_formula_hidden mülk
 
-Çalışma sayfası korunurken formülün gizlenip gizlenmeyeceğini temsil eder.
+Çalışma sayfası korunduğunda formülün gizlenip gizlenmeyeceğini gösterir.
 ###  Tanım:
 ```python
 @property

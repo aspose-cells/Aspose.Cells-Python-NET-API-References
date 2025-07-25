@@ -1,19 +1,19 @@
 ---
 title: created_time недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells/pdfsaveoptions/created_time/
 is_root: false
 ---
 ##  created_time недвижимость
 
-Получает и задает время создания pdf-документа.
+Возвращает и задает время создания PDF-документа.
 
 ###  Примечания
 
-если он не установлен, это будет время создания pdf.
+если он не установлен, это будет время создания PDF-файла.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

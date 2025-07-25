@@ -1,6 +1,6 @@
 ---
 title: soft_edge_radius недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapePropertyCollection](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapePropertyCollection`](/cells/python-net/ru/aspose.cells.drawing/shapepropertycollection)

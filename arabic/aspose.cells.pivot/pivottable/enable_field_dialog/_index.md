@@ -1,16 +1,16 @@
 ---
-title: enable_field_dialog الملكية
+title: enable_field_dialog عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 590
 url: /ar/aspose.cells.pivot/pivottable/enable_field_dialog/
 is_root: false
 ---
-##  enable_field_dialog الملكية
+##  enable_field_dialog عقار
 
-يشير إلى ما إذا كان مربع الحوار حقل PivotTable متاحًا أم لا
-عندما ينقر المستخدم نقرًا مزدوجًا فوق حقل PivotTable.
+يشير إلى ما إذا كان مربع حوار حقل الجدول المحوري متاحًا
+عندما يقوم المستخدم بالنقر المزدوج فوق حقل PivotTable.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def enable_field_dialog(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

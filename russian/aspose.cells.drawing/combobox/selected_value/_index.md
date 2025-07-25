@@ -1,15 +1,15 @@
 ---
 title: selected_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 910
+weight: 920
 url: /ru/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---
 ##  selected_value недвижимость
 
-Получает выбранное значение поля со списком.
+Получает выбранное значение из поля со списком.
 ###  Определение:
 ```python
 @property

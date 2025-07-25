@@ -3,13 +3,13 @@ title: number_group_separator mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 380
 url: /tr/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator mülk
 
-Sayısal değerlerde ondalık sayının solundaki basamak gruplarını ayıran karakteri alır veya ayarlar. Varsayılan, geçerli Bölgenin grup ayırıcısıdır.
+Sayısal değerlerde ondalık noktasının solundaki basamak gruplarını ayıran karakteri alır veya ayarlar. Varsayılan, geçerli Bölgenin grup ayırıcısıdır.
 ###  Tanım:
 ```python
 @property

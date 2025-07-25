@@ -3,13 +3,13 @@ title: spid propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 950
 url: /es/aspose.cells.drawing/radiobutton/spid/
 is_root: false
 ---
 ##  spid propiedad
 
-Especifica una cadena opcional que una aplicación puede utilizar para identificar la forma particular.
+Especifica un identificador de cadena opcional que una aplicación puede utilizar para identificar la forma particular.
 
 ###  Ejemplo
 

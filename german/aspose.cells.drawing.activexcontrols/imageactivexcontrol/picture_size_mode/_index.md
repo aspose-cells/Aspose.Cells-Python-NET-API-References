@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_size_mode Eigentum
 
-Ruft ab und legt fest, wie das Bild angezeigt wird.
+Ruft ab und legt fest, wie das Bild angezeigt werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_size_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ControlPictureSizeMode](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
-* Klasse [ImageActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ControlPictureSizeMode`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlpicturesizemode)
+* Klasse [`ImageActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

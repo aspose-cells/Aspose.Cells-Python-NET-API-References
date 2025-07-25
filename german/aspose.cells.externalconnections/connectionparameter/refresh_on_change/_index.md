@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  refresh_on_change Eigentum
 
- Flag, das angibt, ob die Abfrage automatisch aktualisiert werden soll, wenn der Inhalt von a
- Zelle, die die Parameterwertänderungen bereitstellt. Wenn wahr, werden externe Daten aktualisiert
- Verwendung des neuen Parameterwerts bei jeder Änderung. Wenn falsch, dann externe Daten
-wird nur aktualisiert, wenn es vom Benutzer angefordert wird, oder ein anderes Ereignis löst eine Aktualisierung aus (z. B. Arbeitsmappe geöffnet).
+ Flag, das angibt, ob die Abfrage automatisch aktualisiert werden soll, wenn der Inhalt einer
+ Zelle, die die Parameterwertänderungen bereitstellt. Wenn true, werden externe Daten aktualisiert
+ mit dem neuen Parameterwert bei jeder Änderung. Wenn false, dann externe Daten
+wird nur aktualisiert, wenn dies vom Benutzer angefordert wird oder ein anderes Ereignis die Aktualisierung auslöst (z. B. wenn eine Arbeitsmappe geöffnet wird).
 ###  Definition:
 ```python
 @property
@@ -24,5 +24,5 @@ def refresh_on_change(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [ConnectionParameter](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`ConnectionParameter`](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)

@@ -1,16 +1,16 @@
 ---
 title: update_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 170
 url: /ru/aspose.cells/odssaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art недвижимость
 
-Указывает, обновляются ли настройки Smart Art.
-Значение по умолчанию неверно.
+Указывает, обновляются ли настройки смарт-арта.
+Значение по умолчанию — false.
 
 ###  Примечания
 

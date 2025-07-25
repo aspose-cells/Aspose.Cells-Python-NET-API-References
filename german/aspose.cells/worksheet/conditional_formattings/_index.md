@@ -3,13 +3,13 @@ title: conditional_formattings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 470
 url: /de/aspose.cells/worksheet/conditional_formattings/
 is_root: false
 ---
 ##  conditional_formattings Eigentum
 
-Ruft die ConditionalFormattings im Arbeitsblatt ab.
+Ruft die bedingten Formatierungen im Arbeitsblatt ab.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: show_table_style_first_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 230
 url: /sv/aspose.cells.tables/listobject/show_table_style_first_column/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_table_style_first_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObject](/cells/python-net/sv/aspose.cells.tables/listobject)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObject`](/cells/python-net/sv/aspose.cells.tables/listobject)

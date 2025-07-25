@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __i det__ {#}
-Skapar alternativen för att beräkna diagram.
+##  \_\_init\_\_(själv){#}
+Skapar alternativ för att beräkna diagram.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

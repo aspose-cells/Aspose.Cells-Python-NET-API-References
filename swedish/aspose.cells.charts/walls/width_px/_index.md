@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_px fastighet
 
-Hämtar bredden från vänster till höger i enheter av pixlar efter anrop av metoden Chart.Calculate().
+Hämtar bredden från vänster till höger i pixlar efter anrop av metoden Chart.Calculate().
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def width_px(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

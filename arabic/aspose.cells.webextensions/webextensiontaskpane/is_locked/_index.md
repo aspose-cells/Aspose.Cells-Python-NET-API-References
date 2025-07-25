@@ -1,5 +1,5 @@
 ---
-title: is_locked الملكية
+title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.webextensions/webextensiontaskpane/is_locked/
 is_root: false
 ---
-##  is_locked الملكية
+##  is_locked عقار
 
-يشير إلى ما إذا كان جزء المهام مؤمنًا على المستند في واجهة المستخدم ولا يمكن للمستخدم إغلاقه.
+يشير إلى ما إذا كانت لوحة المهام مقفلة على المستند في واجهة المستخدم ولا يمكن للمستخدم إغلاقها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionTaskPane](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpane)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionTaskPane`](/cells/python-net/ar/aspose.cells.webextensions/webextensiontaskpane)

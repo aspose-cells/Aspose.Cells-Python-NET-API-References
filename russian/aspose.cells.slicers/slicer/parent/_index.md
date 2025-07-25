@@ -1,6 +1,6 @@
 ---
 title: parent недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent недвижимость
 
-Возвращает объект Worksheet, представляющий лист, содержащий срез. Только для чтения.
+Возвращает объект [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet), содержащий этот срез. Только для чтения.
 
 ###  Пример
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [Slicer](/cells/python-net/ru/aspose.cells.slicers/slicer)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`Slicer`](/cells/python-net/ru/aspose.cells.slicers/slicer)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

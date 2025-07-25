@@ -1,15 +1,15 @@
 ---
-title: table_style_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: table_style_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 300
 url: /zh/aspose.cells.tables/listobject/table_style_type/
 is_root: false
 ---
-## table_style_type 属性
+## table_style_type属性
 
-获取和内置表格样式。
+获取并内置表格样式。
 
 ### 例子
 
@@ -36,6 +36,6 @@ def table_style_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListObject](/cells/python-net/zh/aspose.cells.tables/listobject)
-* 类 [TableStyleType](/cells/python-net/zh/aspose.cells.tables/tablestyletype)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListObject`](/cells/python-net/zh/aspose.cells.tables/listobject)
+* 类 [`TableStyleType`](/cells/python-net/zh/aspose.cells.tables/tablestyletype)

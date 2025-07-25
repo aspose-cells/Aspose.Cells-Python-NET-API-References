@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.properties/documentproperty/to_double/
 is_root: false
 ---
-##  to_double() {#}
-ترجع قيمة الخاصية كمضاعفة.
+##  to_double(self) {#}
+إرجاع قيمة الخاصية على هيئة double.
 
 
 
 ```python
+
 def to_double(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_double(self):
 
 ###  ملاحظات
 
-يطرح استثناء إذا لم يكن نوع الخاصية PropertyType.Float.
+يُلقي استثناءً إذا لم يكن نوع الخاصية PropertyType.Float.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.properties](../../)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

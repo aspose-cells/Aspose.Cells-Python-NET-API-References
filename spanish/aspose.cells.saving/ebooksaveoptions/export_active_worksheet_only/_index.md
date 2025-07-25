@@ -3,7 +3,7 @@ title: export_active_worksheet_only propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 230
 url: /es/aspose.cells.saving/ebooksaveoptions/export_active_worksheet_only/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Indica si solo se exporta la hoja de trabajo activa a un archivo html.
 Si es verdadero, solo se exportará la hoja de trabajo activa al archivo html;
-Si es falso, se exportará todo el libro a un archivo html.
+Si es falso, todo el libro de trabajo se exportará a un archivo html.
 El valor predeterminado es falso.
 ###  Definición:
 ```python

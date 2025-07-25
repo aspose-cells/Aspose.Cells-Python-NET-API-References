@@ -1,6 +1,6 @@
 ---
 title: uri proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -18,5 +18,5 @@ def uri(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](../../)
-* classe [SmartTag](/cells/python-net/it/aspose.cells.markup/smarttag)
+* modulo [`aspose.cells.markup`](../../)
+* classe [`SmartTag`](/cells/python-net/it/aspose.cells.markup/smarttag)

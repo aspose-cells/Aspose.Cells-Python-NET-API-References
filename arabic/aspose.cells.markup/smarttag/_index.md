@@ -1,5 +1,5 @@
 ---
-title: SmartTag الدرجة
+title: SmartTag صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,28 +7,28 @@ weight: 30
 url: /ar/aspose.cells.markup/smarttag/
 is_root: false
 ---
-##  SmartTag الدرجة
+##  SmartTag صف
 يمثل علامة ذكية.
 
 
 
-يكشف نوع SmartTag الأعضاء التالية:
+يكشف النوع SmartTag عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [deleted](/cells/python-net/ar/aspose.cells.markup/smarttag/deleted) | يشير إلى ما إذا تم حذف العلامة الذكية.|
-| [properties](/cells/python-net/ar/aspose.cells.markup/smarttag/properties) | الحصول على خصائص العلامة الذكية وتعيينها.|
-| [uri](/cells/python-net/ar/aspose.cells.markup/smarttag/uri) | يحصل على مساحة الاسم URI للعلامة الذكية.|
+| [deleted](/cells/python-net/ar/aspose.cells.markup/smarttag/deleted) | يشير إلى ما إذا كان سيتم حذف العلامة الذكية.|
+| [properties](/cells/python-net/ar/aspose.cells.markup/smarttag/properties) | يحصل على خصائص العلامة الذكية ويضبطها.|
+| [uri](/cells/python-net/ar/aspose.cells.markup/smarttag/uri) | يحصل على مساحة اسم URI للعلامة الذكية.|
 | [name](/cells/python-net/ar/aspose.cells.markup/smarttag/name) | يحصل على اسم العلامة الذكية.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_link(uri, name)](/cells/python-net/ar/aspose.cells.markup/smarttag/set_link/#str-str) | قم بتغيير الاسم ومساحة URI للعلامة الذكية.|
+| [`set_link(self, uri, name)`](/cells/python-net/ar/aspose.cells.markup/smarttag/set_link/#str-str) |تغيير الاسم ومساحة اسم URI للعلامة الذكية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](..)
+* الوحدة [`aspose.cells.markup`](..)

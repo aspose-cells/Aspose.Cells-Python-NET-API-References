@@ -3,16 +3,17 @@ title: طريقة set_table_formula
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 380
 url: /ar/aspose.cells/cell/set_table_formula/
 is_root: false
 ---
-##  set_table_formula {#int-int-str-str-list}
-قم بإنشاء جدول بيانات ذو متغيرين لنطاق معين بدءًا من هذه الخلية.
+##  set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values) {#int-int-str-str-list}
+قم بإنشاء جدول بيانات مكون من متغيرين للنطاق المحدد بدءًا من هذه الخلية.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values):
     ...
 ```
@@ -27,12 +28,13 @@ def set_table_formula(self, row_number, column_number, row_input_cell, column_in
 | values | list | قيم الخلايا في نطاق صيغة الجدول|
 
 
-##  set_table_formula {#int-int-str-bool-list}
-قم بإنشاء جدول بيانات ذو متغير واحد لنطاق معين بدءًا من هذه الخلية.
+##  set_table_formula(self, row_number, column_number, input_cell, is_row_input, values) {#int-int-str-bool-list}
+قم بإنشاء جدول بيانات مكون من متغير واحد للنطاق المحدد بدءًا من هذه الخلية.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, input_cell, is_row_input, values):
     ...
 ```
@@ -42,17 +44,18 @@ def set_table_formula(self, row_number, column_number, input_cell, is_row_input,
 | :- | :- | :- |
 | row_number | int | عدد الصفوف لملء الصيغة.|
 | column_number | int | عدد الأعمدة لملء الصيغة.|
-| input_cell | str | خلية الإدخال|
-| is_row_input | bool | يشير إلى ما إذا كانت خلية الإدخال هي خلية إدخال صف (صحيح) أو خلية إدخال عمود (خطأ).|
+| input_cell | str |خلية الإدخال|
+| is_row_input | bool | يشير إلى ما إذا كانت خلية الإدخال عبارة عن خلية إدخال صف (صحيح) أو خلية إدخال عمود (خطأ).|
 | values | list | قيم الخلايا في نطاق صيغة الجدول|
 
 
-##  set_table_formula {#int-int-int-int-bool-list}
-قم بإنشاء جدول بيانات ذو متغير واحد لنطاق معين بدءًا من هذه الخلية.
+##  set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values) {#int-int-int-int-bool-list}
+قم بإنشاء جدول بيانات مكون من متغير واحد للنطاق المحدد بدءًا من هذه الخلية.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_input_cell, column_index_of_input_cell, is_row_input, values):
     ...
 ```
@@ -62,18 +65,19 @@ def set_table_formula(self, row_number, column_number, row_index_of_input_cell, 
 | :- | :- | :- |
 | row_number | int | عدد الصفوف لملء الصيغة.|
 | column_number | int | عدد الأعمدة لملء الصيغة.|
-| row_index_of_input_cell | int | فهرس الصف لخلية الإدخال|
-| column_index_of_input_cell | int | فهرس العمود لخلية الإدخال|
-| is_row_input | bool | يشير إلى ما إذا كانت خلية الإدخال هي خلية إدخال صف (صحيح) أو خلية إدخال عمود (خطأ).|
+| row_index_of_input_cell | int | مؤشر الصف للخلية المدخلة|
+| column_index_of_input_cell | int | فهرس عمود خلية الإدخال|
+| is_row_input | bool | يشير إلى ما إذا كانت خلية الإدخال عبارة عن خلية إدخال صف (صحيح) أو خلية إدخال عمود (خطأ).|
 | values | list | قيم الخلايا في نطاق صيغة الجدول|
 
 
-##  set_table_formula {#int-int-int-int-int-int-list}
-قم بإنشاء جدول بيانات ذو متغيرين لنطاق معين بدءًا من هذه الخلية.
+##  set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values) {#int-int-int-int-int-int-list}
+قم بإنشاء جدول بيانات مكون من متغيرين للنطاق المحدد بدءًا من هذه الخلية.
 
 
 
 ```python
+
 def set_table_formula(self, row_number, column_number, row_index_of_row_input_cell, column_index_of_row_input_cell, row_index_of_column_input_cell, column_index_of_column_input_cell, values):
     ...
 ```
@@ -83,9 +87,9 @@ def set_table_formula(self, row_number, column_number, row_index_of_row_input_ce
 | :- | :- | :- |
 | row_number | int | عدد الصفوف لملء الصيغة.|
 | column_number | int | عدد الأعمدة لملء الصيغة.|
-| row_index_of_row_input_cell | int | فهرس الصف لخلية إدخال الصف|
-| column_index_of_row_input_cell | int | فهرس العمود لخلية إدخال الصف|
-| row_index_of_column_input_cell | int | فهرس الصف لخلية إدخال العمود|
+| row_index_of_row_input_cell | int | مؤشر الصف لخلية إدخال الصف|
+| column_index_of_row_input_cell | int | فهرس عمود خلية إدخال الصف|
+| row_index_of_column_input_cell | int | مؤشر الصف لخلية إدخال العمود|
 | column_index_of_column_input_cell | int | فهرس العمود لخلية إدخال العمود|
 | values | list | قيم الخلايا في نطاق صيغة الجدول|
 

@@ -1,15 +1,15 @@
 ---
 title: ole_objects недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 690
 url: /ru/aspose.cells/worksheet/ole_objects/
 is_root: false
 ---
 ##  ole_objects недвижимость
 
-Представляет коллекцию [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject) на листе.
+Представляет собой коллекцию [`OleObject`](/cells/python-net/ru/aspose.cells.drawing/oleobject) на рабочем листе.
 ###  Определение:
 ```python
 @property

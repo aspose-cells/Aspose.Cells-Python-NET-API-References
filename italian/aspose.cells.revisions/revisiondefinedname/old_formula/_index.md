@@ -1,6 +1,6 @@
 ---
 title: old_formula proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def old_formula(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionDefinedName](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionDefinedName`](/cells/python-net/it/aspose.cells.revisions/revisiondefinedname)

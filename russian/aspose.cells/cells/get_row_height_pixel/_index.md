@@ -1,22 +1,23 @@
 ---
 title: get_row_height_pixel метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 520
 url: /ru/aspose.cells/cells/get_row_height_pixel/
 is_root: false
 ---
-##  get_row_height_pixel {#int}
+##  get_row_height_pixel(self, row) {#int}
 Получает высоту указанной строки в пикселях.
 
 
 ###  Возврат
 
-Высота строки
+Высота ряда
 
 
 ```python
+
 def get_row_height_pixel(self, row):
     ...
 ```

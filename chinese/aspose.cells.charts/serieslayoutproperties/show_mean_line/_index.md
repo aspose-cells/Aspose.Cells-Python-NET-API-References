@@ -1,15 +1,15 @@
 ---
-title: show_mean_line 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_mean_line属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells.charts/serieslayoutproperties/show_mean_line/
 is_root: false
 ---
-## show_mean_line 属性
+## show_mean_line属性
 
-指示是否显示连接所有均值点的线。
+表示是否显示连接所有均值点的线。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def show_mean_line(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SeriesLayoutProperties](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SeriesLayoutProperties`](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)

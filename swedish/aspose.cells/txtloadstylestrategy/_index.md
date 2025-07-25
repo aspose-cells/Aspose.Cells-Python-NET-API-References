@@ -3,12 +3,12 @@ title: TxtLoadStyleStrategy uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2690
+weight: 2660
 url: /sv/aspose.cells/txtloadstylestrategy/
 is_root: false
 ---
 ##  TxtLoadStyleStrategy uppräkning
-Anger hur stil ska tillämpas för analyserade värden när strängvärden konverteras till nummer eller datum och tid.
+Anger hur stil ska tillämpas för parsade värden vid konvertering av strängvärde till tal eller datum/tid.
 
 
 
@@ -17,9 +17,9 @@ Typen TxtLoadStyleStrategy avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NONE |Ställer inte in stil för det analyserade värdet.|
-| BUILT_IN | Ställ in stilen som inbyggt nummer/datumtid när det analyserade värdet är vanliga numeriska/datumtidsvärden.|
-| EXACT_FORMAT | Ställ in det exakta anpassade formatet för det analyserade värdet för att få det formaterade värdet att vara samma som det ursprungliga inmatade värdet.|
+| NONE | Anger inte stil för det analyserade värdet.|
+| BUILT_IN | Ställ in stilen som inbyggt nummer/datum/tid när de analyserade värdet är vanliga numeriska värden/datum/tid-värden.|
+| EXACT_FORMAT | Ställ in det exakta anpassade formatet för det analyserade värdet så att det formaterade värdet blir samma som det ursprungliga inmatningsvärdet.|
 
 
 

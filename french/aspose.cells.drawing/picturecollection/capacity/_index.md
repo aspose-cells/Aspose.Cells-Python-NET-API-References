@@ -3,7 +3,7 @@ title: capacity propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells.drawing/picturecollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [PictureCollection](/cells/python-net/fr/aspose.cells.drawing/picturecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`PictureCollection`](/cells/python-net/fr/aspose.cells.drawing/picturecollection)

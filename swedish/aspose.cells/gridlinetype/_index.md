@@ -3,7 +3,7 @@ title: GridlineType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2190
+weight: 2130
 url: /sv/aspose.cells/gridlinetype/
 is_root: false
 ---
@@ -17,8 +17,8 @@ Typen GridlineType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DOTTED | Representerar en prickad linje.|
-| HAIR | Representerar hårlinje.|
+| DOTTED | Representerar streckad linje.|
+| HAIR | Representerar hårfästet.|
 
 
 

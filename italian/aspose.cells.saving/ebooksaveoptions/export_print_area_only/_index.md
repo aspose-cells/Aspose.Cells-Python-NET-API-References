@@ -1,15 +1,15 @@
 ---
 title: export_print_area_only proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 390
 url: /it/aspose.cells.saving/ebooksaveoptions/export_print_area_only/
 is_root: false
 ---
 ##  export_print_area_only proprietà
 
-Indica se si esporta solo l'area di stampa in un file html. Il valore predefinito è falso.
+Indica se si desidera esportare solo l'area di stampa in un file HTML. Il valore predefinito è "false".
 ###  Definizione:
 ```python
 @property

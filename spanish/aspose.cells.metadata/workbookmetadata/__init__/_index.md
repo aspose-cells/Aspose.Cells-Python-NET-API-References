@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.metadata/workbookmetadata/__init__/
 is_root: false
 ---
-##  WorkbookMetadata(file_name, options) {#str-MetadataOptions}
-Cree el objeto de metadatos.
+##  \_\_init\_\_(self, nombre_de_archivo, opciones){#str-aspose.cells.metadata.MetadataOptions}
+Crea el objeto de metadatos.
 
 
 
 ```python
+
 def __init__(self, file_name, options):
     ...
 ```
@@ -21,15 +22,16 @@ def __init__(self, file_name, options):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | file_name | str |  |
-| options | [MetadataOptions](/cells/python-net/es/aspose.cells.metadata/metadataoptions) |  |
+| options | [`MetadataOptions`](/cells/python-net/es/aspose.cells.metadata/metadataoptions) |  |
 
 
-##  WorkbookMetadata(stream, options) {#io.RawIOBase-MetadataOptions}
-Cree el objeto de metadatos.
+##  \_\_init\_\_(self, stream, opciones){#io.RawIOBase-aspose.cells.metadata.MetadataOptions}
+Crea el objeto de metadatos.
 
 
 
 ```python
+
 def __init__(self, stream, options):
     ...
 ```
@@ -38,10 +40,10 @@ def __init__(self, stream, options):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| options | [MetadataOptions](/cells/python-net/es/aspose.cells.metadata/metadataoptions) |  |
+| options | [`MetadataOptions`](/cells/python-net/es/aspose.cells.metadata/metadataoptions) |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.metadata](../../)
-* clase [WorkbookMetadata](/cells/python-net/es/aspose.cells.metadata/workbookmetadata)
+* módulo [`aspose.cells.metadata`](../../)
+* clase [`WorkbookMetadata`](/cells/python-net/es/aspose.cells.metadata/workbookmetadata)

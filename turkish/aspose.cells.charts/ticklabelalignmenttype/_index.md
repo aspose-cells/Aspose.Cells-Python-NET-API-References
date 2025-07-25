@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/ticklabelalignmenttype/
 is_root: false
 ---
 ##  TickLabelAlignmentType numaralandırma
-Eksendeki onay etiketleri için metin hizalama türünü temsil eder
+Eksen üzerindeki onay etiketleri için metin hizalama türünü temsil eder
 
 
 
@@ -17,9 +17,9 @@ TickLabelAlignmentType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CENTER | Metnin ortalanacağını temsil eder.|
-| LEFT | Metnin sola dayalı olması gerektiğini ifade eder.|
-| RIGHT | Metnin sağa dayalı olması gerektiğini ifade eder.|
+| CENTER | Metnin ortalanması gerektiğini belirtir.|
+| LEFT | Metnin sola dayalı olarak yazılması gerekmektedir.|
+| RIGHT | Metnin sağa dayalı olması gerektiğini belirtir.|
 
 
 

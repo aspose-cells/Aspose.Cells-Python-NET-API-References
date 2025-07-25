@@ -1,6 +1,6 @@
 ---
 title: line_weight недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_weight недвижимость
 
-Получает и задает вес линии в каждой линии спарклайна в группе спарклайнов в баллах.
+Возвращает и задает толщину линии в каждой линии спарклайна в группе спарклайнов в единицах измерения в точках.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

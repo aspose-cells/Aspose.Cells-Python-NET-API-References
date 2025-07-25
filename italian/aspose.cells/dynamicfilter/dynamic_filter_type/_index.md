@@ -1,6 +1,6 @@
 ---
 title: dynamic_filter_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def dynamic_filter_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DynamicFilter](/cells/python-net/it/aspose.cells/dynamicfilter)
-* classe [DynamicFilterType](/cells/python-net/it/aspose.cells/dynamicfiltertype)
+* modulo [`aspose.cells`](../../)
+* classe [`DynamicFilter`](/cells/python-net/it/aspose.cells/dynamicfilter)
+* classe [`DynamicFilterType`](/cells/python-net/it/aspose.cells/dynamicfiltertype)

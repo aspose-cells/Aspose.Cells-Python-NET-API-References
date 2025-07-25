@@ -1,15 +1,15 @@
 ---
-title: right_margin_pt الملكية
+title: right_margin_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt/
 is_root: false
 ---
-##  right_margin_pt الملكية
+##  right_margin_pt عقار
 
-تُرجع الهامش الأيمن بوحدة النقاط
+إرجاع الهامش الأيمن بوحدة النقاط
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

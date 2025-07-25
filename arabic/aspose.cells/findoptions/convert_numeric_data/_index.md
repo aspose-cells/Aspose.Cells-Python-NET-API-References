@@ -1,5 +1,5 @@
 ---
-title: convert_numeric_data الملكية
+title: convert_numeric_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/findoptions/convert_numeric_data/
 is_root: false
 ---
-##  convert_numeric_data الملكية
+##  convert_numeric_data عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم تحويل قيمة السلسلة التي تم البحث عنها إلى بيانات رقمية.
+يحصل على قيمة أو يعينها تشير إلى ما إذا كان يتم تحويل قيمة السلسلة التي تم البحث عنها إلى بيانات رقمية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

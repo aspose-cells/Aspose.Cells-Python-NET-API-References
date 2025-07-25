@@ -22,34 +22,34 @@ Der Typ ErrorBar macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [compound_type](/cells/python-net/de/aspose.cells.charts/errorbar/compound_type) | Gibt den Typ der zusammengesetzten Linie an|
+| [compound_type](/cells/python-net/de/aspose.cells.charts/errorbar/compound_type) | Gibt den zusammengesetzten Linientyp an|
 | [dash_type](/cells/python-net/de/aspose.cells.charts/errorbar/dash_type) | Gibt den Strichlinientyp an|
-| [cap_type](/cells/python-net/de/aspose.cells.charts/errorbar/cap_type) |Gibt die Endkappen an.|
-| [join_type](/cells/python-net/de/aspose.cells.charts/errorbar/join_type) | Gibt die Verbindungsobergrenzen an.|
-| [begin_type](/cells/python-net/de/aspose.cells.charts/errorbar/begin_type) | Gibt eine Pfeilspitze für den Anfang einer Linie an.|
-| [end_type](/cells/python-net/de/aspose.cells.charts/errorbar/end_type) | Gibt eine Pfeilspitze für das Ende einer Linie an.|
-| [begin_arrow_length](/cells/python-net/de/aspose.cells.charts/errorbar/begin_arrow_length) | Gibt die Länge der Pfeilspitze für den Anfang einer Linie an.|
+| [cap_type](/cells/python-net/de/aspose.cells.charts/errorbar/cap_type) | Gibt die Endkappen an.|
+| [join_type](/cells/python-net/de/aspose.cells.charts/errorbar/join_type) | Gibt die Verbindungskappen an.|
+| [begin_type](/cells/python-net/de/aspose.cells.charts/errorbar/begin_type) | Gibt eine Pfeilspitze für den Anfang einer Zeile an.|
+| [end_type](/cells/python-net/de/aspose.cells.charts/errorbar/end_type) | Gibt eine Pfeilspitze für das Ende einer Zeile an.|
+| [begin_arrow_length](/cells/python-net/de/aspose.cells.charts/errorbar/begin_arrow_length) | Gibt die Länge der Pfeilspitze für den Beginn einer Linie an.|
 | [end_arrow_length](/cells/python-net/de/aspose.cells.charts/errorbar/end_arrow_length) | Gibt die Länge der Pfeilspitze für das Ende einer Linie an.|
 | [begin_arrow_width](/cells/python-net/de/aspose.cells.charts/errorbar/begin_arrow_width) | Gibt die Breite der Pfeilspitze für den Anfang einer Linie an.|
 | [end_arrow_width](/cells/python-net/de/aspose.cells.charts/errorbar/end_arrow_width) | Gibt die Breite der Pfeilspitze für das Ende einer Linie an.|
 | [theme_color](/cells/python-net/de/aspose.cells.charts/errorbar/theme_color) | Ruft die Designfarbe ab und legt sie fest.|
 | [color](/cells/python-net/de/aspose.cells.charts/errorbar/color) | Stellt die Farbe der Linie dar.|
-| [transparency](/cells/python-net/de/aspose.cells.charts/errorbar/transparency) | Gibt den Grad der Transparenz der Linie als Wert von 0,0 (undurchsichtig) bis 1,0 (klar) zurück oder legt ihn fest.|
+| [transparency](/cells/python-net/de/aspose.cells.charts/errorbar/transparency) | Gibt den Transparenzgrad der Linie als Wert zwischen 0,0 (undurchsichtig) und 1,0 (transparent) zurück oder legt ihn fest.|
 | [style](/cells/python-net/de/aspose.cells.charts/errorbar/style) | Stellt den Stil der Linie dar.|
-| [weight](/cells/python-net/de/aspose.cells.charts/errorbar/weight) | Ruft die [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype) der Zeile ab oder legt diese fest.|
-| [weight_pt](/cells/python-net/de/aspose.cells.charts/errorbar/weight_pt) | Ruft die Stärke der Linie in Punkteinheiten ab oder legt diese fest.|
-| [weight_px](/cells/python-net/de/aspose.cells.charts/errorbar/weight_px) | Ruft die Stärke der Linie in Pixeleinheiten ab oder legt diese fest.|
+| [weight](/cells/python-net/de/aspose.cells.charts/errorbar/weight) | Ruft die [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype) der Zeile ab oder legt sie fest.|
+| [weight_pt](/cells/python-net/de/aspose.cells.charts/errorbar/weight_pt) |Ruft die Linienstärke in Punkten ab oder legt sie fest.|
+| [weight_px](/cells/python-net/de/aspose.cells.charts/errorbar/weight_px) | Ruft die Linienstärke in Pixeln ab oder legt sie fest.|
 | [formatting_type](/cells/python-net/de/aspose.cells.charts/errorbar/formatting_type) | Ruft den Formattyp ab oder legt ihn fest.|
-| [is_automatic_color](/cells/python-net/de/aspose.cells.charts/errorbar/is_automatic_color) | Gibt an, ob die Farbe der Linie automatisch zugewiesen wird.|
+| [is_automatic_color](/cells/python-net/de/aspose.cells.charts/errorbar/is_automatic_color) | Gibt an, ob die Linienfarbe automatisch zugewiesen wird.|
 | [is_visible](/cells/python-net/de/aspose.cells.charts/errorbar/is_visible) | Gibt an, ob die Linie sichtbar ist.|
-| [is_auto](/cells/python-net/de/aspose.cells.charts/errorbar/is_auto) |Gibt an, ob dieser Linienstil automatisch zugewiesen wird.|
+| [is_auto](/cells/python-net/de/aspose.cells.charts/errorbar/is_auto) | Gibt an, ob dieser Linienstil automatisch zugewiesen wird.|
 | [gradient_fill](/cells/python-net/de/aspose.cells.charts/errorbar/gradient_fill) | Stellt eine Verlaufsfüllung dar.|
-| [type](/cells/python-net/de/aspose.cells.charts/errorbar/type) | Stellt den Betragstyp der Fehlerleiste dar.|
-| [display_type](/cells/python-net/de/aspose.cells.charts/errorbar/display_type) | Stellt den Anzeigetyp der Fehlerleiste dar.|
-| [amount](/cells/python-net/de/aspose.cells.charts/errorbar/amount) | Stellt die Höhe des Fehlerbalkens dar.<br/> Der Betrag muss größer oder gleich Null sein.|
+| [type](/cells/python-net/de/aspose.cells.charts/errorbar/type) | Stellt den Fehlerbalkenbetragstyp dar.|
+| [display_type](/cells/python-net/de/aspose.cells.charts/errorbar/display_type) | Stellt den Anzeigetyp des Fehlerbalken dar.|
+| [amount](/cells/python-net/de/aspose.cells.charts/errorbar/amount) | Stellt die Fehlerbalkenmenge dar.|
 | [show_marker_t_top](/cells/python-net/de/aspose.cells.charts/errorbar/show_marker_t_top) | Gibt an, ob Fehlerbalken mit einem T-Top formatiert werden.|
 | [plus_value](/cells/python-net/de/aspose.cells.charts/errorbar/plus_value) | Stellt einen positiven Fehlerbetrag dar, wenn der Fehlerbalkentyp „Benutzerdefiniert“ ist.|
-| [minus_value](/cells/python-net/de/aspose.cells.charts/errorbar/minus_value) | Stellt den negativen Fehlerbetrag dar, wenn der Fehlerbalkentyp „Benutzerdefiniert“ ist.|
+| [minus_value](/cells/python-net/de/aspose.cells.charts/errorbar/minus_value) | Stellt einen negativen Fehlerbetrag dar, wenn der Fehlerbalkentyp „Benutzerdefiniert“ ist.|
 
 
 

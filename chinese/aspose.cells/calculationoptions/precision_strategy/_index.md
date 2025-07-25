@@ -3,13 +3,13 @@ title: precision_strategy属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 70
 url: /zh/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
 ## precision_strategy属性
 
-指定计算处理精度的策略。
+指定计算精度的处理策略。
 ### 定义：
 ```python
 @property

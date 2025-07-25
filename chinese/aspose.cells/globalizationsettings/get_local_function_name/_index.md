@@ -7,16 +7,17 @@ weight: 130
 url: /zh/aspose.cells/globalizationsettings/get_local_function_name/
 is_root: false
 ---
-##  get_local_function_name {#str}
-根据给定的标准函数名称获取与区域设置相关的函数名称。
+##  get_local_function_name(self, standard_name) {#str}
+根据给定的标准函数名获取与语言环境相关的函数名。
 
 
-### 退货
+### 返回
 
-与区域设置相关的函数名称。区域设置由使用此设置的工作簿指定。
+依赖于区域设置的函数名称。区域设置由使用此设置的工作簿指定。
 
 
 ```python
+
 def get_local_function_name(self, standard_name):
     ...
 ```

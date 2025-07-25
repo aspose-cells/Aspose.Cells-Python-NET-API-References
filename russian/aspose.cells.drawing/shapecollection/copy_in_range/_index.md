@@ -1,18 +1,19 @@
 ---
 title: copy_in_range метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 410
 url: /ru/aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
-##  copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained) {#ShapeCollection-CellArea-int-int-bool}
-Скопируйте фигуры из диапазона в целевой диапазон.
+##  copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
+Копировать фигуры из указанного диапазона в целевой диапазон.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| source_shapes | [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection) | Исходные формы.|
-| ca | [CellArea](/cells/python-net/ru/aspose.cells/cellarea) | Исходный диапазон.|
+| source_shapes | [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection) | Исходные формы.|
+| ca | [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea) | Исходный диапазон.|
 | dest_row | int | Индекс строки назначения диапазона назначения.|
 | dest_column | int | Столбец назначения диапазона назначения.|
-| is_contained | bool | Копировать ли только те фигуры, которые содержатся в диапазоне.<br/> Если true, копируются только фигуры в диапазоне.<br/> В противном случае он работает как MS Office.|
+| is_contained | bool | Копировать ли только те фигуры, которые содержатся в диапазоне.<br/> Если true, копирует только фигуры в диапазоне.<br/> В противном случае он работает как MS Office.|
 
 ###  Пример
 
@@ -46,5 +47,5 @@ shapes.copy_in_range(shapes, area2, 12, 1, False)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

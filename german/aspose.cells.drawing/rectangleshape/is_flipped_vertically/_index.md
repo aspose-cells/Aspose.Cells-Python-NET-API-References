@@ -3,13 +3,13 @@ title: is_flipped_vertically Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 570
 url: /de/aspose.cells.drawing/rectangleshape/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically Eigentum
 
-Ruft ab und legt fest, ob die Form vertikal gespiegelt wird.
+Ruft ab und legt fest, ob die Form vertikal gespiegelt ist.
 
 ###  Beispiel
 

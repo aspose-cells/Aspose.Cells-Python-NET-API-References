@@ -7,8 +7,8 @@ weight: 70
 url: /ar/aspose.cells/cells/check_column/
 is_root: false
 ---
-##  check_column(column_index) {#int}
-الحصول على عنصر [Column](/cells/python-net/ar/aspose.cells/column) أو قيمة خالية في فهرس العمود المحدد.
+##  check_column(self, column_index) {#int}
+يحصل على العنصر [`Column`](/cells/python-net/ar/aspose.cells/column) أو null في مؤشر العمود المحدد.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```
@@ -29,6 +30,6 @@ def check_column(self, column_index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
-* فئة [Column](/cells/python-net/ar/aspose.cells/column)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)
+* فئة [`Column`](/cells/python-net/ar/aspose.cells/column)

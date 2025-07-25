@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values Eigentum
 
-Stellt die Daten der Diagrammreihe dar.
+Stellt das Y values dieser Diagrammserie dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def values(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

@@ -7,12 +7,13 @@ weight: 190
 url: /zh/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
+##  remove_at(self, name) {#str}
 删除指定名称的元素。
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```

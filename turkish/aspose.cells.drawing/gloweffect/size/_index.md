@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size mülk
 
-Işımanın yarıçapını nokta birimi cinsinden alır ve ayarlar.
+Parıltının yarıçapını nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect)

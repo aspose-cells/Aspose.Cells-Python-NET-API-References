@@ -3,13 +3,13 @@ title: export_worksheet_css_separately عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 440
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_worksheet_css_separately/
 is_root: false
 ---
 ##  export_worksheet_css_separately عقار
 
-يشير إلى ما إذا كان سيتم تصدير ورقة العمل CSS بشكل منفصل أم لا. القيمة الافتراضية خاطئة.
+يشير إلى ما إذا كان سيتم تصدير ورقة العمل css بشكل منفصل. القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

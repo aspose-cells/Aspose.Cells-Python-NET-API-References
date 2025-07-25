@@ -3,17 +3,17 @@ title: is_display_unit_label_shown属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.charts/axis/is_display_unit_label_shown/
 is_root: false
 ---
 ## is_display_unit_label_shown属性
 
-表示显示单元标签是否显示在指定轴上。
+表示显示单位标签是否显示在指定轴上。
 
-### 评论
+### 注意事项
 
-默认值是true。
+默认值为 True。
 ### 定义：
 ```python
 @property

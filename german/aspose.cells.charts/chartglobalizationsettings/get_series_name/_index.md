@@ -7,8 +7,8 @@ weight: 90
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
-##  get_series_name() {#}
-Ruft den Namen der Reihe im Diagramm ab.
+##  get_series_name(self) {#}
+Ruft den Namen der Serie im Diagramm ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den Namen der Reihe im Diagramm ab.
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_series_name(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

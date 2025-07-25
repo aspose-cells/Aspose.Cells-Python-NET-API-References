@@ -3,13 +3,13 @@ title: allow_edit_ranges fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 380
 url: /sv/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges fastighet
 
-Hämtar samlingen tillåt redigeringsintervall i kalkylbladet.
+Hämtar samlingen "tillåt redigeringsområde" i kalkylbladet.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment mülk
 
-Bu yorumun zincirlenmiş bir yorum olup olmadığını belirtir.
+Bu yorumun bir konu başlığı altında yorumlanıp yorumlanmadığını belirtir.
 
 ###  Örnek
 

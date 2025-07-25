@@ -1,16 +1,13 @@
 ---
-title: reconnection_method_type الملكية
+title: reconnection_method_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 360
 url: /ar/aspose.cells.externalconnections/webqueryconnection/reconnection_method_type/
 is_root: false
 ---
-##  reconnection_method_type الملكية
-
-يحدد ما يجب أن يفعله تطبيق جدول البيانات عند فشل الاتصال.
-القيمة الافتراضية هي ReConnectionMethodType.Required.
+##  reconnection_method_type عقار
 ###  تعريف:
 ```python
 @property
@@ -22,6 +19,6 @@ def reconnection_method_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ReConnectionMethodType](/cells/python-net/ar/aspose.cells.externalconnections/reconnectionmethodtype)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ReConnectionMethodType`](/cells/python-net/ar/aspose.cells.externalconnections/reconnectionmethodtype)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

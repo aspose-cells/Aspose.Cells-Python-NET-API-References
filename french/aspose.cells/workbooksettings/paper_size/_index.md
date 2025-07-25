@@ -3,13 +3,13 @@ title: paper_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 390
 url: /fr/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
 ##  paper_size propriété
 
-Obtient et définit le format de papier d'impression par défaut.
+Obtient et définit la taille du papier d'impression par défaut.
 
 ###  Remarques
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bins propriété
 
-Représente bins sur un axe de graphique (histogramme/Pareto)
+Représente bins sur un axe graphique (histogramme/Pareto)
 ###  Définition:
 ```python
 @property

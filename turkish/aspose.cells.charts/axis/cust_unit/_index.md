@@ -13,10 +13,10 @@ Görüntüleme birimi için özel bir değer belirtir.
 
 ###  Notlar
 
- NOT: Bu özellik artık kullanılmıyor. Yerine,
-lütfen Axis.CustomUnit özelliğini kullanın.
- Bu mülk, Ocak 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu özellik artık kullanımdan kaldırıldı. Bunun yerine,
+Lütfen Axis.CustomUnit özelliğini kullanın.
+ Bu özellik Ocak 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: group_level proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 120
+weight: 130
 url: /it/aspose.cells/row/group_level/
 is_root: false
 ---
@@ -15,8 +15,11 @@ Ottiene il livello di gruppo della riga.
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Row](/cells/python-net/it/aspose.cells/row)
+* modulo [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/it/aspose.cells/row)

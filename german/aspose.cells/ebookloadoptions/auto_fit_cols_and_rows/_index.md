@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_cols_and_rows Eigentum
 
-Gibt an, ob Spalten und Zeilen automatisch angepasst werden. Der Standardwert ist false.
+Gibt an, ob Spalten und Zeilen automatisch angepasst werden. Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

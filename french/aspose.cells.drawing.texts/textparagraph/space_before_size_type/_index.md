@@ -21,6 +21,6 @@ def space_before_size_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [LineSpaceSizeType](/cells/python-net/fr/aspose.cells.drawing.texts/linespacesizetype)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`LineSpaceSizeType`](/cells/python-net/fr/aspose.cells.drawing.texts/linespacesizetype)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

@@ -3,7 +3,7 @@ title: comments Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 460
 url: /de/aspose.cells/worksheet/comments/
 is_root: false
 ---

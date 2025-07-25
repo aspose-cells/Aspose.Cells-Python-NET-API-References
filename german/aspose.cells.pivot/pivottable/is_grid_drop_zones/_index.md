@@ -3,7 +3,7 @@ title: is_grid_drop_zones Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 700
 url: /de/aspose.cells.pivot/pivottable/is_grid_drop_zones/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def is_grid_drop_zones(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

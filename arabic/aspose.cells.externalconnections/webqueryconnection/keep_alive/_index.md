@@ -1,17 +1,13 @@
 ---
-title: keep_alive الملكية
+title: keep_alive عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 280
 url: /ar/aspose.cells.externalconnections/webqueryconnection/keep_alive/
 is_root: false
 ---
-##  keep_alive الملكية
-
- صحيح عندما يجب أن يبذل تطبيق جدول البيانات جهودًا للحفاظ على الاتصال
-يفتح. عندما يكون خطأ ، يجب أن يغلق التطبيق الاتصال بعد استرجاع ملف
-معلومة.
+##  keep_alive عقار
 ###  تعريف:
 ```python
 @property
@@ -23,5 +19,5 @@ def keep_alive(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

@@ -1,6 +1,6 @@
 ---
 title: footer_margin_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 330
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  footer_margin_inch proprietà
 
-Rappresenta la distanza dalla parte inferiore della pagina al piè di pagina, in unità di pollici.
+Rappresenta la distanza tra il fondo della pagina e il piè di pagina, in pollici.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin_inch(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

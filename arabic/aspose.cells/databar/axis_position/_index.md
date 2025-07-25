@@ -1,5 +1,5 @@
 ---
-title: axis_position الملكية
+title: axis_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/databar/axis_position/
 is_root: false
 ---
-##  axis_position الملكية
+##  axis_position عقار
 
-الحصول على أو تعيين موضع محور أشرطة البيانات المحددة بواسطة قاعدة تنسيق شرطي.
+يحصل على موضع محور أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def axis_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBar](/cells/python-net/ar/aspose.cells/databar)
-* فئة [DataBarAxisPosition](/cells/python-net/ar/aspose.cells/databaraxisposition)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBar`](/cells/python-net/ar/aspose.cells/databar)
+* فئة [`DataBarAxisPosition`](/cells/python-net/ar/aspose.cells/databaraxisposition)

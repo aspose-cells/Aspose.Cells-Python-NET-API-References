@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tile_pic_option Eigentum
 
-Ruft die Kachelbildoption ab oder legt sie fest.
+Ruft die Option „Kachelbild“ ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tile_pic_option(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextureFill](/cells/python-net/de/aspose.cells.drawing/texturefill)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextureFill`](/cells/python-net/de/aspose.cells.drawing/texturefill)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

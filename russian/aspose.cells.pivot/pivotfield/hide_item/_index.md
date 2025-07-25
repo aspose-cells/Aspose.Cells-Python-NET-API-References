@@ -1,18 +1,19 @@
 ---
 title: hide_item метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 160
 url: /ru/aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---
-##  hide_item {#int-bool}
-Устанавливает, скрыт ли конкретный PivotItem в поле данных.
+##  hide_item(self, index, is_hidden) {#int-bool}
+Устанавливает, будет ли скрыт определенный PivotItem в поле данных.
 
 
 
 ```python
+
 def hide_item(self, index, is_hidden):
     ...
 ```
@@ -20,16 +21,17 @@ def hide_item(self, index, is_hidden):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| index | int | индекс PivotItem в PivotField.|
+| index | int | индекс pivotItem в pivotField.|
 | is_hidden | bool | скрыт ли конкретный PivotItem|
 
 
-##  hide_item {#str-bool}
-Устанавливает, скрыт ли конкретный PivotItem в поле данных.
+##  hide_item(self, item_value, is_hidden) {#str-bool}
+Устанавливает, будет ли скрыт определенный PivotItem в поле данных.
 
 
 
 ```python
+
 def hide_item(self, item_value, is_hidden):
     ...
 ```
@@ -37,7 +39,7 @@ def hide_item(self, item_value, is_hidden):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| item_value | str | значение PivotItem в PivotField.|
+| item_value | str | значение pivotItem в pivotField.|
 | is_hidden | bool | скрыт ли конкретный PivotItem|
 
 

@@ -1,15 +1,15 @@
 ---
-title: default_tab_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: default_tab_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.drawing.texts/textparagraph/default_tab_size/
 is_root: false
 ---
-## default_tab_size 属性
+## default_tab_size属性
 
-获取和设置此段落中制表符的默认大小。
+获取并设置此段落中制表符的默认大小。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [TextParagraph](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`TextParagraph`](/cells/python-net/zh/aspose.cells.drawing.texts/textparagraph)

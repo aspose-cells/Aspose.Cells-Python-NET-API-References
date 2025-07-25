@@ -3,7 +3,7 @@ title: selected_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 920
 url: /zh/aspose.cells.drawing/combobox/selected_value/
 is_root: false
 ---

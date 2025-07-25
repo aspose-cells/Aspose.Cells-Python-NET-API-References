@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_to_output propiedad
 
- Obtiene o establece un valor que indica si se debe generar la página.
-El valor por defecto es verdadero.
+ Obtiene o establece un valor que indica si se debe imprimir la página.
+El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PageStartSavingArgs](/cells/python-net/es/aspose.cells.rendering/pagestartsavingargs)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PageStartSavingArgs`](/cells/python-net/es/aspose.cells.rendering/pagestartsavingargs)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_weight Eigentum
 
-Ruft die Linienstärke in jeder Sparkline-Linie in der Sparkline-Gruppe in Punkteinheiten ab und legt sie fest.
+Ruft die Linienstärke in jeder Linien-Sparkline in der Sparkline-Gruppe ab und legt sie in der Einheit „Punkte“ fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

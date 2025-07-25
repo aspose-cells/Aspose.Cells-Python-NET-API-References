@@ -1,9 +1,9 @@
 ---
 title: legend_entries_labels proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 340
 url: /it/aspose.cells.charts/legend/legend_entries_labels/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene le etichette delle voci della legenda dopo la chiamata al metodo Chart.C
 
  NOTA: questo membro è ora obsoleto. Invece,
 si prega di utilizzare il metodo Legend.GetLegendLabels.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da novembre 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da novembre 2023.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

@@ -3,7 +3,7 @@ title: font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 200
 url: /fr/aspose.cells.charts/datalabels/font/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
+* module [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)

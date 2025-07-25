@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.drawing/shapeguidecollection/add/
 is_root: false
 ---
-##  add(name, val) {#str-float}
-Lägger till en formguide.(Viktigt: Den här funktionen är för närvarande endast tillgänglig för Excel07 och högre)
+##  add(self, name, val) {#str-float}
+Lägger till en formguide. (Viktigt: Den här funktionen är för närvarande endast tillgänglig för Excel07 och senare)
 
 
 
 ```python
+
 def add(self, name, val):
     ...
 ```
@@ -20,11 +21,11 @@ def add(self, name, val):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | namnet på justera. Det är som "adj(Används när det bara finns ett justeringsvärde)", "adj1", "adj2", "adj3" och så vidare.|
+| name | str |namnet på justera. Det är som "adj(Används när det bara finns ett justeringsvärde)", "adj1", "adj2", "adj3" och så vidare.|
 | val | float | värdet av justera|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeGuideCollection](/cells/python-net/sv/aspose.cells.drawing/shapeguidecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeGuideCollection`](/cells/python-net/sv/aspose.cells.drawing/shapeguidecollection)

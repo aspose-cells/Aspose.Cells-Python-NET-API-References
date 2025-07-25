@@ -3,7 +3,7 @@ title: min_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 340
 url: /sv/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Representerar minimivärdet på värdeaxeln.
 
 ###  Anmärkningar
 
-Endast minValue-typen kan vara dubbel eller DateTime
+Endast minValue-typen kan vara double eller DateTime
 ###  Definition:
 ```python
 @property

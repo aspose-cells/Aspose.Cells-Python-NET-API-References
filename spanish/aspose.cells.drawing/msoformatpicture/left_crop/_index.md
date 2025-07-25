@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop propiedad
 
-Representa la ubicación de la izquierda del rectángulo de recorte expresada, expresada como una proporción del ancho de la imagen.
+Representa la ubicación de la izquierda del rectángulo de recorte expresada como una proporción del ancho de la imagen.
 ###  Definición:
 ```python
 @property

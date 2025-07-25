@@ -3,13 +3,13 @@ title: border_weight fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 360
 url: /sv/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight fastighet
 
-Hämtar eller ställer in vikten för en bilds kantlinje i enheter av pt.
+Hämtar eller anger tjockleken på en bilds kantlinje i enheter av pt.
 
 ###  Exempel
 

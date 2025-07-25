@@ -3,7 +3,7 @@ title: show_tabs属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 460
+weight: 490
 url: /zh/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
@@ -11,13 +11,13 @@ is_root: false
 
 获取或设置是否显示工作簿选项卡的值。
 
-### 评论
+### 注意事项
 
-默认值是true。
+默认值为 true。
 
 ### 例子
 
-以下代码隐藏电子表格的工作表选项卡和选项卡滚动按钮。
+以下代码隐藏了电子表格的工作表选项卡和选项卡滚动按钮。
 
 ```python
 

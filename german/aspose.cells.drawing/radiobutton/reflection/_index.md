@@ -3,7 +3,7 @@ title: reflection Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 870
+weight: 880
 url: /de/aspose.cells.drawing/radiobutton/reflection/
 is_root: false
 ---

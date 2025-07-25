@@ -1,19 +1,19 @@
 ---
 title: lower_delta_y недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 760
+weight: 770
 url: /ru/aspose.cells.drawing/rectangleshape/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y недвижимость
 
-Получает или задает вертикальное смещение фигуры от ее нижнего правого угла.
+Возвращает или задает вертикальное смещение фигуры от ее нижнего правого угла.
 
 ###  Примечания
 
-Диапазон значений: от 0 до 256.
+Диапазон значений — от 0 до 256.
 
 ###  Пример
 

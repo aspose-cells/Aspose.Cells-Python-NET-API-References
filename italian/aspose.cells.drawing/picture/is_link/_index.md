@@ -1,15 +1,15 @@
 ---
 title: is_link proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 700
+weight: 720
 url: /it/aspose.cells.drawing/picture/is_link/
 is_root: false
 ---
 ##  is_link proprietà
 
-Restituisce vero se l'immagine è collegata a un file.
+Restituisce true se l'immagine è collegata a un file.
 ###  Definizione:
 ```python
 @property

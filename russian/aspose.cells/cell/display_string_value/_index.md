@@ -1,15 +1,15 @@
 ---
 title: display_string_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ru/aspose.cells/cell/display_string_value/
 is_root: false
 ---
 ##  display_string_value недвижимость
 
-Получает форматированное строковое значение этой ячейки в соответствии со стилем отображения ячейки.
+Получает отформатированное строковое значение этой ячейки по стилю отображения ячейки.
 ###  Определение:
 ```python
 @property

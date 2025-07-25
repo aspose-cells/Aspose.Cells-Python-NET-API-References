@@ -1,5 +1,5 @@
 ---
-title: year الملكية
+title: year عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells/datetimegroupitem/year/
 is_root: false
 ---
-##  year الملكية
+##  year عقار
 
-الحصول على وتعيين year لوقت التاريخ المجمع.
+يحصل على year لتاريخ الوقت المجمع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def year(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

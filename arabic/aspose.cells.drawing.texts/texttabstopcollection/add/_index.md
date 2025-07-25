@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.drawing.texts/texttabstopcollection/add/
 is_root: false
 ---
-##  add(tab_alignment, tab_position) {#TextTabAlignmentType-float}
-يضيف علامة جدولة.
+##  add(self, tab_alignment, tab_position) {#aspose.cells.drawing.texts.TextTabAlignmentType-float}
+إضافة علامة تبويب.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, tab_alignment, tab_position):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, tab_alignment, tab_position):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| tab_alignment | [TextTabAlignmentType](/cells/python-net/ar/aspose.cells.drawing.texts/texttabalignmenttype) |  |
+| tab_alignment | [`TextTabAlignmentType`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabalignmenttype) |  |
 | tab_position | float |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextTabStopCollection](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstopcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextTabStopCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstopcollection)

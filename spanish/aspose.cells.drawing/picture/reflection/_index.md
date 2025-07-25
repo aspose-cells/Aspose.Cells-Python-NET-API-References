@@ -3,7 +3,7 @@ title: reflection propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /es/aspose.cells.drawing/picture/reflection/
 is_root: false
 ---

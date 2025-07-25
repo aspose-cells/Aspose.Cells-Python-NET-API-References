@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type fastighet
 
-Hämtar och ställer in textens horisontella inriktningstyp för stycket.
+Hämtar och anger textens horisontella justeringstyp för stycket.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextAlignmentType](/cells/python-net/sv/aspose.cells/textalignmenttype)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextAlignmentType`](/cells/python-net/sv/aspose.cells/textalignmenttype)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

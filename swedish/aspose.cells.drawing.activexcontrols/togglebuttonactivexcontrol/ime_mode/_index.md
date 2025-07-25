@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/ime_mod
 is_root: false
 ---
 ##  ime_mode fastighet
-
-Hämtar och ställer in standardkörtidsläget för Input Method Editor för kontrollen när den tar emot fokus.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def ime_mode(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [InputMethodEditorMode](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`InputMethodEditorMode`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

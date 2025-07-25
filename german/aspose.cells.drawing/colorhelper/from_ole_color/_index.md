@@ -7,27 +7,29 @@ weight: 20
 url: /de/aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
-##  from_ole_color(ole_color) {#int}
+##  from_ole_color(, ole_color){#int}
 Konvertieren Sie OLE_COLOR.
 
 
 ###  Kehrt zurück
 
-Das Color-Objekt.
+Das Farbobjekt.
 
 
 ```python
-def from_ole_color(self, ole_color):
+
+@staticmethod
+def from_ole_color(ole_color):
     ...
 ```
 
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| ole_color | int |Der Wert von OLE_COLOR.|
+| ole_color | int | Der Wert von OLE_COLOR.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ColorHelper](/cells/python-net/de/aspose.cells.drawing/colorhelper)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ColorHelper`](/cells/python-net/de/aspose.cells.drawing/colorhelper)

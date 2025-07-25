@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value propriété
 
-Renvoie le texte de l'étiquette de l'élément de segment. Lecture seulement.
+Renvoie le texte de l'étiquette de l'élément du slicer. Lecture seule.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def value(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCacheItem](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCacheItem`](/cells/python-net/fr/aspose.cells.slicers/slicercacheitem)

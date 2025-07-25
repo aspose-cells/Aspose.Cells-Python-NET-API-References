@@ -3,13 +3,13 @@ title: is_in_group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ar/aspose.cells.drawing/button/is_in_group/
 is_root: false
 ---
 ##  is_in_group عقار
 
-الإشارة إلى ما إذا كان الشكل مجمعاً أم لا.
+يشير إلى ما إذا كان الشكل مجمعًا.
 ###  تعريف:
 ```python
 @property

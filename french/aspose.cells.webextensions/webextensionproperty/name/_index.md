@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionProperty](/cells/python-net/fr/aspose.cells.webextensions/webextensionproperty)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionProperty`](/cells/python-net/fr/aspose.cells.webextensions/webextensionproperty)

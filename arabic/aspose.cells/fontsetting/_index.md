@@ -3,7 +3,7 @@ title: FontSetting صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 690
 url: /ar/aspose.cells/fontsetting/
 is_root: false
 ---
@@ -17,23 +17,23 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/ar/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells/fontsetting/type) | يحصل على نوع عقدة النص.|
-| [start_index](/cells/python-net/ar/aspose.cells/fontsetting/start_index) |يحصل على فهرس البداية للأحرف.|
+| [type](/cells/python-net/ar/aspose.cells/fontsetting/type) |يحصل على نوع عقدة النص.|
+| [start_index](/cells/python-net/ar/aspose.cells/fontsetting/start_index) | يحصل على مؤشر البداية للأحرف.|
 | [length](/cells/python-net/ar/aspose.cells/fontsetting/length) | يحصل على طول الأحرف.|
-| [font](/cells/python-net/ar/aspose.cells/fontsetting/font) | إرجاع الخط لهذا الكائن.|
+| [font](/cells/python-net/ar/aspose.cells/fontsetting/font) | إرجاع الخط الخاص بهذا الكائن.|
 | [text_options](/cells/python-net/ar/aspose.cells/fontsetting/text_options) | إرجاع خيارات النص.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/ar/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | يضبط نمط WordArt المعين مسبقًا.|
+| [`set_word_art_style(self, style)`](/cells/python-net/ar/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | تعيين نمط WordArt المحدد مسبقًا.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Nesnenin görünür olup olmadığını gösterir.
+Nesnenin görünür olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoLineFormatHelper](/cells/python-net/tr/aspose.cells.drawing/msolineformathelper)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoLineFormatHelper`](/cells/python-net/tr/aspose.cells.drawing/msolineformathelper)

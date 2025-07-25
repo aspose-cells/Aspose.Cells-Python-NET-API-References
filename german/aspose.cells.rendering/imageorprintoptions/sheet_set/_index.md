@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  sheet_set Eigentum
 
-Ruft die zu rendernden Blätter ab oder legt diese fest. Standardmäßig sind alle sichtbaren Blätter in der Arbeitsmappe: [`SheetSet.visible`](/cells/python-net/de/aspose.cells.rendering/sheetset#visible).
+Ruft die zu rendernden Blätter ab oder legt sie fest. Standardmäßig werden alle sichtbaren Blätter in der Arbeitsmappe angezeigt: [`SheetSet.visible`](/cells/python-net/de/aspose.cells.rendering/sheetset#visible).
 
 ###  Bemerkungen
 
-Der Satz wird ignoriert, wenn er in [`SheetRender`](/cells/python-net/de/aspose.cells.rendering/sheetrender) verwendet wird
+Das Set wird ignoriert, wenn es in [`SheetRender`](/cells/python-net/de/aspose.cells.rendering/sheetrender) verwendet wird
 ###  Definition:
 ```python
 @property

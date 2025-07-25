@@ -1,20 +1,20 @@
 ---
 title: display_doc_title недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 190
 url: /ru/aspose.cells/pdfsaveoptions/display_doc_title/
 is_root: false
 ---
 ##  display_doc_title недвижимость
 
-Указывает, должна ли строка заголовка окна отображать заголовок документа.
+Указывает, должно ли в заголовке окна отображаться название документа.
 
 ###  Примечания
 
-Если false, вместо этого в строке заголовка должно отображаться имя файла PDF.
-Значение по умолчанию — ложь.
+Если значение равно false, в строке заголовка вместо этого должно отображаться имя файла PDF.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def display_doc_title(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

@@ -1,9 +1,9 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 570
 url: /ru/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---

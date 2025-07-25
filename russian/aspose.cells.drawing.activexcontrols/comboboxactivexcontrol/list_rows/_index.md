@@ -1,6 +1,6 @@
 ---
 title: list_rows недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_rows недвижимость
 
-Представляет максимальное количество строк, отображаемых в списке.
+Представляет максимальное количество строк для отображения в списке.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_rows(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

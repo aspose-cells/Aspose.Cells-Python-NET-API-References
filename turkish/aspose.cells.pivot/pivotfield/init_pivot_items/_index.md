@@ -3,16 +3,17 @@ title: init_pivot_items yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 180
 url: /tr/aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
-##  init_pivot_items {#}
-Pivot alanının pivot öğelerini başlatın
+##  init_pivot_items(self) {#}
+Pivot alanının pivot öğelerini başlat
 
 
 
 ```python
+
 def init_pivot_items(self):
     ...
 ```

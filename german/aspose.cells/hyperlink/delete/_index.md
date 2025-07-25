@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/hyperlink/delete/
 is_root: false
 ---
-##  delete() {#}
+##  delete(self) {#}
 Löscht diesen Hyperlink
 
 
 
 ```python
+
 def delete(self):
     ...
 ```
@@ -22,5 +23,5 @@ def delete(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)

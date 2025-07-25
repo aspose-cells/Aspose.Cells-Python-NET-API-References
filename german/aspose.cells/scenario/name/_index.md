@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Szenarios ab und legt sie fest.
+Ruft den name des Szenarios ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Scenario](/cells/python-net/de/aspose.cells/scenario)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Scenario`](/cells/python-net/de/aspose.cells/scenario)

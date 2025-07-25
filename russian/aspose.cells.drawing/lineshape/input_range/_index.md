@@ -1,15 +1,15 @@
 ---
 title: input_range недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 580
+weight: 570
 url: /ru/aspose.cells.drawing/lineshape/input_range/
 is_root: false
 ---
 ##  input_range недвижимость
 
-Получает или задает диапазон листа, используемый для заполнения указанного поля со списком.
+Возвращает или задает диапазон рабочего листа, используемый для заполнения указанного поля со списком.
 
 ###  Пример
 

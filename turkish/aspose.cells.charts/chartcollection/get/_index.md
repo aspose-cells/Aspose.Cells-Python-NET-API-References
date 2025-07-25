@@ -7,8 +7,8 @@ weight: 60
 url: /tr/aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
+##  get(self, index) {#int}
+API for Python'i .Net yoluyla ekleyin. Bu[int index] desteklenmediğinden
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ API for Python .Net yoluyla ekleyin, çünkü bu [int dizini] desteklenmiyor
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Öğenin sıfır tabanlı dizini.|
+| index | int | Elemanın sıfırdan başlayan indeksi.|
 
 
-##  get(name) {#str}
-API for Python .Net yoluyla ekleyin, çünkü bu[dize Tablosu] desteklenmiyor
+##  get(self, name) {#str}
+API for Python'i .Net yoluyla ekleyin. Bu [dize Grafik] desteklenmediğinden
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ API for Python .Net yoluyla ekleyin, çünkü bu[dize Tablosu] desteklenmiyor
 
 
 ```python
+
 def get(self, name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| name | str |Grafik adı|
+| name | str | Grafik adı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartCollection](/cells/python-net/tr/aspose.cells.charts/chartcollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartCollection`](/cells/python-net/tr/aspose.cells.charts/chartcollection)

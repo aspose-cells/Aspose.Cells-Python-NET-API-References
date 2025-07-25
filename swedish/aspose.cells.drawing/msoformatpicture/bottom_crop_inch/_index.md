@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop_inch fastighet
 
-Representerar platsen för botten av beskärningsrektangeln uttryckt, i enhet av tum.
+Representerar platsen för den nedre delen av beskärningsrektangeln uttryckt i tum.
 ###  Definition:
 ```python
 @property

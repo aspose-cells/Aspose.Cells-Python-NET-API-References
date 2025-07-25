@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_value Eigentum
 
-Holen oder setzen Sie das Flag, das angibt, ob die Werte der Zellen angezeigt werden sollen, auf die dieser Datenbalken angewendet wird.
-Der Standardwert ist wahr.
+Rufen Sie das Flag ab oder legen Sie es fest, das angibt, ob die Werte der Zellen angezeigt werden sollen, auf die dieser Datenbalken angewendet wird.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

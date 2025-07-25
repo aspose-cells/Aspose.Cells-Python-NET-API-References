@@ -1,15 +1,15 @@
 ---
 title: PivotFieldCollection indicizzatore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
 ##  PivotFieldCollection indicizzatore
 
-Ottiene l'oggetto PivotField in corrispondenza dell'indice specifico.
+Ottiene l'oggetto PivotField all'indice specifico.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |

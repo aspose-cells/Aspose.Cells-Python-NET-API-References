@@ -12,28 +12,28 @@ VBA projesinin tüm referanslarını temsil eder.
 
 
 
-VbaProjectReferenceCollection türü aşağıdaki üyeleri gösterir:
+VbaProjectReferenceCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [capacity](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/index_of/#VbaProjectReference-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/index_of/#VbaProjectReference-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#VbaProjectReference) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#VbaProjectReference-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#VbaProjectReference-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add_registered_reference(name, libid)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/#str-str) | Bir Otomasyon türü kitaplığına bir başvuru ekleyin.|
-| [add_control_refrernce(name, libid, twiddledlibid, extended_libid)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/#str-str-str-str) | Döndürülmüş bir tür kitaplığına ve onun genişletilmiş tür kitaplığına bir başvuru ekleyin.|
-| [add_project_refrernce(name, absolute_libid, relative_libid)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/#str-str-str) | Harici bir VBA projesine referans ekler.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/binary_search/#VbaProjectReference) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/index_of/#aspose.cells.vba.vbaprojectreference-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/index_of/#aspose.cells.vba.vbaprojectreference-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#aspose.cells.vba.vbaprojectreference) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#aspose.cells.vba.vbaprojectreference-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/last_index_of/#aspose.cells.vba.vbaprojectreference-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`add_registered_reference(self, name, libid)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/#str-str) | Otomasyon türü bir kütüphaneye referans ekleyin.|
+| [`add_control_refrernce(self, name, libid, twiddledlibid, extended_libid)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/#str-str-str-str) |Twiddled tip kütüphanesine ve onun genişletilmiş tip kütüphanesine bir referans ekleyin.|
+| [`add_project_refrernce(self, name, absolute_libid, relative_libid)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/#str-str-str) | Harici bir VBA projesine referans ekler.|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection/binary_search/#aspose.cells.vba.vbaprojectreference) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 
@@ -54,4 +54,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](..)
+* modül [`aspose.cells.vba`](..)

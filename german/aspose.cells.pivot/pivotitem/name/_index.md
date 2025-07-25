@@ -3,7 +3,7 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 150
 url: /de/aspose.cells.pivot/pivotitem/name/
 is_root: false
 ---
@@ -14,6 +14,9 @@ Ruft die name des Pivot-Elements ab.
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 

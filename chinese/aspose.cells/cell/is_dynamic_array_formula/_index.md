@@ -3,13 +3,13 @@ title: is_dynamic_array_formula属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 590
 url: /zh/aspose.cells/cell/is_dynamic_array_formula/
 is_root: false
 ---
 ## is_dynamic_array_formula属性
 
-指示单元格的公式是动态数组公式 (true) 还是旧数组公式 (false)。
+指示单元格的公式是动态数组公式（true）还是传统数组公式（false）。
 ### 定义：
 ```python
 @property

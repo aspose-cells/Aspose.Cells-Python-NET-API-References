@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_cm mülk
 
-Yorumun genişliğini santimetre cinsinden temsil eder.
+Yorumun genişliğini santimetre cinsinden gösterir.
 
 ###  Örnek
 

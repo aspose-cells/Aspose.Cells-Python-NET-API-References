@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture Eigentum
 
-Ruft die Daten der picture ab und setzt sie.
+Ruft die Daten des picture ab und setzt sie.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def picture(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CommandButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CommandButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

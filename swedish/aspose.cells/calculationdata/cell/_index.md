@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  cell fastighet
 
-Hämtar objektet Cell där funktionen finns.
+Hämtar Cell-objektet där funktionen finns.
 
 ###  Anmärkningar
 
-När du beräknar en formel utan att ställa in den till cell,
-till exempel via [`Worksheet.calculate_formula`](/cells/python-net/sv/aspose.cells/worksheet/calculate_formula),
+När man beräknar en formel utan att sätta den till cell,
+såsom via [`Worksheet.calculate_formula`](/cells/python-net/sv/aspose.cells/worksheet/calculate_formula),
 formeln kommer att beräknas precis som den har satts till cell A1,
 så både [`CalculationData.cell_row`](/cells/python-net/sv/aspose.cells/calculationdata#cell_row) och [`CalculationData.cell_column`](/cells/python-net/sv/aspose.cells/calculationdata#cell_column) är 0.
-cell A1 i kalkylbladet kanske inte har instansierats.
-Så för en sådan typ av situation kommer den här egenskapen att vara ogiltig.
+Det kan dock hända att cell A1 i kalkylbladet inte har instansierats.
+Så i en sådan situation kommer den här egenskapen att vara null.
 ###  Definition:
 ```python
 @property

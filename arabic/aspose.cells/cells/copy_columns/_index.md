@@ -7,12 +7,13 @@ weight: 160
 url: /ar/aspose.cells/cells/copy_columns/
 is_root: false
 ---
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number) {#Cells-int-int-int}
-ينسخ البيانات وتنسيقات العمود بأكمله.
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number) {#aspose.cells.Cells-int-int-int}
+نسخ البيانات وتنسيقات العمود بأكمله.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number):
     ...
 ```
@@ -20,18 +21,19 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/ar/aspose.cells/cells) | عنصر المصدر Cells يحتوي على بيانات وتنسيقات لنسخها.|
-| source_column_index | int | فهرس عمود المصدر.|
-| destination_column_index | int | فهرس عمود الوجهة.|
+| source_cells0 | [`Cells`](/cells/python-net/ar/aspose.cells/cells) | يحتوي الكائن المصدر Cells على بيانات وتنسيقات للنسخ.|
+| source_column_index | int | مؤشر عمود المصدر.|
+| destination_column_index | int | مؤشر عمود الوجهة.|
 | column_number | int | رقم العمود المنسوخ.|
 
 
-##  copy_columns(source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#Cells-int-int-int-PasteOptions}
-ينسخ البيانات وتنسيقات العمود بأكمله.
+##  copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions}
+نسخ البيانات وتنسيقات العمود بأكمله.
 
 
 
 ```python
+
 def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options):
     ...
 ```
@@ -39,19 +41,20 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_cells0 | [Cells](/cells/python-net/ar/aspose.cells/cells) | عنصر المصدر Cells يحتوي على بيانات وتنسيقات لنسخها.|
-| source_column_index | int | فهرس عمود المصدر.|
-| destination_column_index | int | فهرس عمود الوجهة.|
+| source_cells0 | [`Cells`](/cells/python-net/ar/aspose.cells/cells) | يحتوي الكائن المصدر Cells على بيانات وتنسيقات للنسخ.|
+| source_column_index | int | مؤشر عمود المصدر.|
+| destination_column_index | int | مؤشر عمود الوجهة.|
 | column_number | int | رقم العمود المنسوخ.|
-| paste_options | [PasteOptions](/cells/python-net/ar/aspose.cells/pasteoptions) | خيارات اللصق.|
+| paste_options | [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions) | خيارات اللصق.|
 
 
-##  copy_columns(source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#Cells-int-int-int-int}
+##  copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#aspose.cells.Cells-int-int-int-int}
 نسخ البيانات وتنسيقات الأعمدة بأكملها.
 
 
 
 ```python
+
 def copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns):
     ...
 ```
@@ -59,14 +62,14 @@ def copy_columns(self, source_cells, source_column_index, source_total_columns, 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_cells | [Cells](/cells/python-net/ar/aspose.cells/cells) | عنصر المصدر Cells يحتوي على بيانات وتنسيقات لنسخها.|
-| source_column_index | int | فهرس عمود المصدر.|
+| source_cells | [`Cells`](/cells/python-net/ar/aspose.cells/cells) | يحتوي الكائن المصدر Cells على بيانات وتنسيقات للنسخ.|
+| source_column_index | int | مؤشر عمود المصدر.|
 | source_total_columns | int | عدد أعمدة المصدر.|
-| destination_column_index | int | فهرس عمود الوجهة.|
+| destination_column_index | int | مؤشر عمود الوجهة.|
 | destination_total_columns | int | عدد أعمدة الوجهة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

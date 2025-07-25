@@ -3,30 +3,11 @@ title: sheet_set fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 320
 url: /sv/aspose.cells/pptxsaveoptions/sheet_set/
 is_root: false
 ---
 ##  sheet_set fastighet
-
-Hämtar eller ställer in arken att rendera. Standard är alla synliga ark i arbetsboken: [`SheetSet.visible`](/cells/python-net/sv/aspose.cells.rendering/sheetset#visible).
-
-###  Exempel
-
-Följande kod återger endast aktivt ark till pdf.
-
-```python
-from aspose.cells import PdfSaveOptions, Workbook
-from aspose.cells.rendering import SheetSet
-
-workbook = Workbook("Book1.xlsx")
-activeSheetIndex = workbook.worksheets.active_sheet_index
-pdfSaveOptions = PdfSaveOptions()
-# set active sheet index to sheet set.
-pdfSaveOptions.sheet_set = SheetSet([activeSheetIndex])
-workbook.save("output.pdf", pdfSaveOptions)
-
-```
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  small_change mülk
 
-Konum özelliğinin değiştiği miktarı alır ve ayarlar
+Position özelliğinin ne kadar değiştiğini alır ve ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def small_change(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ScrollBarActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ScrollBarActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

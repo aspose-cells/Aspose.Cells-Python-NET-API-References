@@ -7,12 +7,13 @@ weight: 140
 url: /tr/aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---
-##  freeze_panes {#str-int-int}
-Çalışma sayfasında belirtilen hücredeki bölmeleri dondurur.
+##  freeze_panes(self, cell_name, freezed_rows, freezed_columns) {#str-int-int}
+Çalışma sayfasındaki belirtilen hücredeki bölmeleri dondurur.
 
 
 
 ```python
+
 def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
     ...
 ```
@@ -21,19 +22,20 @@ def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | cell_name | str | Cell adı.|
-| freezed_rows | int | Üst bölmedeki görünür satırların sayısı, satır dizininden fazla değil.|
-| freezed_columns | int | Sol bölmedeki görünür sütunların sayısı, sütun dizininden fazla değil.|
+| freezed_rows | int | Üst bölmede görünen satır sayısı, satır indeksinden fazla olamaz.|
+| freezed_columns | int | Sol bölmede görünen sütun sayısı, sütun indeksinden fazla olamaz.|
 ###  Notlar
 
-Satır indeksi ve sütun indeksinin tümü sıfır olamaz. Satır sayısı ve sütun sayısı
+Satır dizini ve sütun dizini sıfır olamaz. Satır sayısı ve sütun sayısı
 ayrıca hepsi sıfır olamaz.
 
-##  freeze_panes {#int-int-int-int}
-Çalışma sayfasında belirtilen hücredeki bölmeleri dondurur.
+##  freeze_panes(self, row, column, freezed_rows, freezed_columns) {#int-int-int-int}
+Çalışma sayfasındaki belirtilen hücredeki bölmeleri dondurur.
 
 
 
 ```python
+
 def freeze_panes(self, row, column, freezed_rows, freezed_columns):
     ...
 ```
@@ -43,15 +45,15 @@ def freeze_panes(self, row, column, freezed_rows, freezed_columns):
 | :- | :- | :- |
 | row | int | Satır dizini.|
 | column | int | Sütun dizini.|
-| freezed_rows | int | Üst bölmedeki görünür satırların sayısı, satır dizininden fazla değil.|
-| freezed_columns | int | Sol bölmedeki görünür sütunların sayısı, sütun dizininden fazla değil.|
+| freezed_rows | int | Üst bölmede görünen satır sayısı, satır indeksinden fazla olamaz.|
+| freezed_columns | int | Sol bölmede görünen sütun sayısı, sütun indeksinden fazla olamaz.|
 ###  Notlar
 
-Satır indeksi ve sütun indeksinin tümü sıfır olamaz. Satır sayısı ve sütun sayısı
+Satır dizini ve sütun dizini sıfır olamaz. Satır sayısı ve sütun sayısı
 ayrıca hepsi sıfır olamaz.
 
 
-İlk iki parametre donma konumunu belirtir ve son iki parametre sol üst bölmede dondurulan alanı belirtir.
+İlk iki parametre dondurulan konumu, son iki parametre ise sol üst bölmede dondurulan alanı belirtir.
 
 
 ###  Ayrıca bakınız

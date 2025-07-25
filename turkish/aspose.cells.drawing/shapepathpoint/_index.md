@@ -3,7 +3,7 @@ title: ShapePathPoint sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 590
+weight: 560
 url: /tr/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
@@ -12,7 +12,7 @@ Yol koordinat alanı içindeki bir xy koordinatını temsil eder.
 
 
 
-ShapePathPoint türü aşağıdaki üyeleri gösterir:
+ShapePathPoint türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,4 +23,4 @@ ShapePathPoint türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

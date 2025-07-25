@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  ignore_not_printed mülk
 
-Dosya doğrudan yazdırılıyorsa yazdırılmayan verileri dikkate almayın
+Dosyayı doğrudan yazdırıyorsanız yazdırılmayan verileri yoksayın
 
 ###  Notlar
 
-Yalnızca xlsx dosyası için.
+Sadece xlsx dosyası için.
 ###  Tanım:
 ```python
 @property

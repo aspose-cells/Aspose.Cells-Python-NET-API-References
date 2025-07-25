@@ -3,13 +3,13 @@ title: treat_consecutive_delimiters_as_one fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 410
 url: /sv/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
 ##  treat_consecutive_delimiters_as_one fastighet
 
-Huruvida konsekutiva avgränsare ska behandlas som en.
+Huruvida på varandra följande avgränsare ska behandlas som en.
 ###  Definition:
 ```python
 @property

@@ -3,19 +3,19 @@ title: preserve_padding_spaces_in_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 210
 url: /ar/aspose.cells.numbers/numbersloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---
 ##  preserve_padding_spaces_in_formula عقار
 
-يشير إلى ما إذا كان سيتم الاحتفاظ بالمسافات وفواصل الأسطر المحشوة بين الرموز المميزة للصيغة
-أثناء الحصول على الصيغ وإعدادها.
-القيمة الافتراضية خاطئة.
+يشير إلى ما إذا كان سيتم الحفاظ على تلك المسافات وفواصل الأسطر المبطنة بين رموز الصيغة
+أثناء الحصول على الصيغ وتعيينها.
+القيمة الافتراضية هي false.
 
 ###  ملاحظات
 
-بعد تحميل المصنف من ملف القالب بهذا الخيار [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/ar/aspose.cells/formulasettings#preserve_padding_spaces)
+بعد تحميل المصنف من ملف القالب باستخدام هذا الخيار، [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/ar/aspose.cells/formulasettings#preserve_padding_spaces)
 سيتم تعيينها على نفس القيمة مع هذه الخاصية.
 ###  تعريف:
 ```python

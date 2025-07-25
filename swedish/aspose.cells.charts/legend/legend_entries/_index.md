@@ -3,15 +3,15 @@ title: legend_entries fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 330
 url: /sv/aspose.cells.charts/legend/legend_entries/
 is_root: false
 ---
 ##  legend_entries fastighet
 
-Får en samling av alla LegendEntry-objekt i den angivna sjökortsförklaringen.
-Det stöds inte att ställa in förklaringsposterna för ytdiagrammet.
-Så det kommer att returnera null om diagramtypen är av typen ytdiagram.
+Hämtar en samling av alla LegendEntry-objekt i den angivna diagramförklaringen.
+Det går inte att ange förklaringsposter för ytdiagrammet.
+Så den returnerar null om diagramtypen är av typen ytdiagram.
 ###  Definition:
 ```python
 @property

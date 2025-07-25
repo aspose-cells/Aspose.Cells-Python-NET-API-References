@@ -1,6 +1,6 @@
 ---
 title: fade_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def fade_direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)

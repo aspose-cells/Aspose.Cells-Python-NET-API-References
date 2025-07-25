@@ -18,5 +18,5 @@ def new_formula(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionDefinedName](/cells/python-net/fr/aspose.cells.revisions/revisiondefinedname)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionDefinedName`](/cells/python-net/fr/aspose.cells.revisions/revisiondefinedname)

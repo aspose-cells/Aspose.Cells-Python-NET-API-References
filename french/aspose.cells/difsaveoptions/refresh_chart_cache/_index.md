@@ -3,7 +3,7 @@ title: refresh_chart_cache propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 90
 url: /fr/aspose.cells/difsaveoptions/refresh_chart_cache/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DifSaveOptions](/cells/python-net/fr/aspose.cells/difsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`DifSaveOptions`](/cells/python-net/fr/aspose.cells/difsaveoptions)

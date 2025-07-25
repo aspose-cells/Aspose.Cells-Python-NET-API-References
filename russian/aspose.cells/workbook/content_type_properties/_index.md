@@ -1,15 +1,15 @@
 ---
 title: content_type_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 500
 url: /ru/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---
 ##  content_type_properties недвижимость
 
-Получает список объектов [`ContentTypeProperty`](/cells/python-net/ru/aspose.cells.properties/contenttypeproperty) в книге.
+Получает список из [`ContentTypeProperty`](/cells/python-net/ru/aspose.cells.properties/contenttypeproperty) объектов в рабочей книге.
 ###  Определение:
 ```python
 @property

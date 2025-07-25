@@ -18,5 +18,5 @@ def total_pages(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [DrawObject](/cells/python-net/es/aspose.cells.rendering/drawobject)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`DrawObject`](/cells/python-net/es/aspose.cells.rendering/drawobject)

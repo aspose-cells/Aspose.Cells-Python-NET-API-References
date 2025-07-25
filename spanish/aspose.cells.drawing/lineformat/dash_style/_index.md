@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style propiedad
 
-Especifica el tipo de línea discontinua.
+Especifica el tipo de trazo de línea.
 
 ###  Ejemplo
 
@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
-* clase [MsoLineDashStyle](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* clase [`MsoLineDashStyle`](/cells/python-net/es/aspose.cells.drawing/msolinedashstyle)

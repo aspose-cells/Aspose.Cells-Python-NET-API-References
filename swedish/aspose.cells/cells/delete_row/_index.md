@@ -7,12 +7,13 @@ weight: 250
 url: /sv/aspose.cells/cells/delete_row/
 is_root: false
 ---
-##  delete_row {#int}
+##  delete_row(self, row_index) {#int}
 Tar bort en rad.
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -23,12 +24,13 @@ def delete_row(self, row_index):
 | row_index | int | Index för raden som ska raderas.|
 
 
-##  delete_row {#int-bool}
+##  delete_row(self, row_index, update_reference) {#int-bool}
 Tar bort en rad.
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```
@@ -37,7 +39,7 @@ def delete_row(self, row_index, update_reference):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | row_index | int | Index för raden som ska raderas.|
-| update_reference | bool | Anger om uppdatering av referenser i andra kalkylblad.|
+| update_reference | bool | Anger om referenser i andra kalkylblad ska uppdateras.|
 
 
 

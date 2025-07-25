@@ -3,13 +3,13 @@ title: mso_drawing_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ar/aspose.cells.drawing/radiobutton/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type عقار
 
-يحصل على نوع الرسم MSO.
+يحصل على نوع الرسم.
 
 ###  مثال
 

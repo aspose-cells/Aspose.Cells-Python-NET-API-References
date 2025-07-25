@@ -1,6 +1,6 @@
 ---
 title: ChartArea类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
@@ -8,47 +8,59 @@ url: /zh/aspose.cells.charts/chartarea/
 is_root: false
 ---
 ## ChartArea类
-封装代表工作表中图表区域的对象。
+封装代表工作表中图表区的对象。
 
 
 
-**继承：** [ChartArea](/cells/python-net/aspose.cells.charts/chartarea) → 
-[ChartFrame](/cells/python-net/zh/aspose.cells.charts/chartframe)
+**继承：** [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) → 
+[`ChartFrame`](/cells/python-net/zh/aspose.cells.charts/chartframe)
 
 
 
-ChartArea 类型公开了以下成员：
+ChartArea 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/zh/aspose.cells.charts/chartarea/is_inner_mode) |指示绘图区域大小是否包括刻度线和轴标签。<br/> False 指定大小应确定绘图区域、刻度线和轴标签的大小。|
-| [border](/cells/python-net/zh/aspose.cells.charts/chartarea/border) |获取 [Line](/cells/python-net/zh/aspose.cells.drawing/line)。|
-| [area](/cells/python-net/zh/aspose.cells.charts/chartarea/area) |获取 [ChartFrame.area](/cells/python-net/zh/aspose.cells.charts/chartframe#area)。|
-| [text_font](/cells/python-net/zh/aspose.cells.charts/chartarea/text_font) |获取指定 ChartFrame 对象的 [ChartFrame.font](/cells/python-net/zh/aspose.cells.charts/chartframe#font) 对象。|
-| [text_options](/cells/python-net/zh/aspose.cells.charts/chartarea/text_options) |获取和设置文本的选项。|
-| [font](/cells/python-net/zh/aspose.cells.charts/chartarea/font) |获取指定图表区域对象的 [ChartArea.font](/cells/python-net/zh/aspose.cells.charts/chartarea#font) 对象。|
-| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/chartarea/auto_scale_font) |如果对象中的文本在对象大小更改时更改字体大小，则为真。默认值是true。|
-| [background_mode](/cells/python-net/zh/aspose.cells.charts/chartarea/background_mode) |获取和设置背景的显示方式|
-| [background](/cells/python-net/zh/aspose.cells.charts/chartarea/background) |获取和设置背景的显示方式|
-| [is_automatic_size](/cells/python-net/zh/aspose.cells.charts/chartarea/is_automatic_size) |指示图表框是否自动调整大小。|
-| [x](/cells/python-net/zh/aspose.cells.charts/chartarea/x) |获取或获取其左上角列的水平偏移量。|
-| [y](/cells/python-net/zh/aspose.cells.charts/chartarea/y) |获取或获取其左上角行的垂直偏移量。|
-| [height](/cells/python-net/zh/aspose.cells.charts/chartarea/height) |获取或设置与其右下角行的垂直偏移量。|
-| [width](/cells/python-net/zh/aspose.cells.charts/chartarea/width) |获取或设置与其右下角列的水平偏移量。|
-| [shadow](/cells/python-net/zh/aspose.cells.charts/chartarea/shadow) |如果框架有阴影，则为真。|
-| [shape_properties](/cells/python-net/zh/aspose.cells.charts/chartarea/shape_properties) |获取 [ChartFrame.shape_properties](/cells/python-net/zh/aspose.cells.charts/chartframe#shape_properties) 对象。|
+| [is_inner_mode](/cells/python-net/zh/aspose.cells.charts/chartarea/is_inner_mode) |指示绘图区尺寸是否包括刻度线和轴标签。<br/> False 指定大小应确定绘图区域、刻度线和轴标签的大小。|
+| [border](/cells/python-net/zh/aspose.cells.charts/chartarea/border) |获取 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)。|
+| [area](/cells/python-net/zh/aspose.cells.charts/chartarea/area) |获取 [`ChartFrame.area`](/cells/python-net/zh/aspose.cells.charts/chartframe#area)。|
+| [text_font](/cells/python-net/zh/aspose.cells.charts/chartarea/text_font) |获取指定 ChartFrame 对象的 [`ChartFrame.font`](/cells/python-net/zh/aspose.cells.charts/chartframe#font) 对象。|
+| [text_options](/cells/python-net/zh/aspose.cells.charts/chartarea/text_options) |获取并设置文本的选项。|
+| [font](/cells/python-net/zh/aspose.cells.charts/chartarea/font) |获取指定 chartarea 对象的 [`ChartArea.font`](/cells/python-net/zh/aspose.cells.charts/chartarea#font) 对象。|
+| [auto_scale_font](/cells/python-net/zh/aspose.cells.charts/chartarea/auto_scale_font) |如果对象中的文本字体大小随对象大小变化而变化，则为 True。默认值为 True。|
+| [background_mode](/cells/python-net/zh/aspose.cells.charts/chartarea/background_mode) |获取和设置背景的显示模式|
+| [background](/cells/python-net/zh/aspose.cells.charts/chartarea/background) |获取和设置背景的显示模式|
+| [is_automatic_size](/cells/python-net/zh/aspose.cells.charts/chartarea/is_automatic_size) |指示图表框架是否自动调整大小。|
+| [x](/cells/python-net/zh/aspose.cells.charts/chartarea/x) |获取或获取距离其左上角列的水平偏移量，以图表区域的 1/4000 为单位。|
+| [y](/cells/python-net/zh/aspose.cells.charts/chartarea/y) |获取或获取距离其左上角行的垂直偏移量，以图表区域的 1/4000 为单位。|
+| [height](/cells/python-net/zh/aspose.cells.charts/chartarea/height) |获取或设置距图表右下角行的垂直偏移量，以图表区域的 1/4000 为单位。|
+| [width](/cells/python-net/zh/aspose.cells.charts/chartarea/width) |获取或设置距其右下角列的水平偏移量，以图表区域的 1/4000 为单位。|
+| [shadow](/cells/python-net/zh/aspose.cells.charts/chartarea/shadow) |如果框架有阴影则为真。|
+| [shape_properties](/cells/python-net/zh/aspose.cells.charts/chartarea/shape_properties) |获取 [`ChartFrame.shape_properties`](/cells/python-net/zh/aspose.cells.charts/chartframe#shape_properties) 对象。|
 | [is_default_pos_be_set](/cells/python-net/zh/aspose.cells.charts/chartarea/is_default_pos_be_set) |指示是否设置了默认位置（DefaultX、DefaultY、DefaultWidth 和 DefaultHeight）。|
-| [default_x](/cells/python-net/zh/aspose.cells.charts/chartarea/default_x) |表示默认位置的x|
-| [default_y](/cells/python-net/zh/aspose.cells.charts/chartarea/default_y) |代表默认位置的y|
-| [default_width](/cells/python-net/zh/aspose.cells.charts/chartarea/default_width) |表示默认位置的宽度|
-| [default_height](/cells/python-net/zh/aspose.cells.charts/chartarea/default_height) |表示默认位置的高度|
+| [default_x](/cells/python-net/zh/aspose.cells.charts/chartarea/default_x) |表示图表区域的默认位置的 x ，以 1/4000 为单位。|
+| [default_y](/cells/python-net/zh/aspose.cells.charts/chartarea/default_y) |表示图表区域的默认位置的 y 轴，以 1/4000 为单位。|
+| [default_width](/cells/python-net/zh/aspose.cells.charts/chartarea/default_width) |表示图表区域的默认位置的宽度，以 1/4000 为单位。|
+| [default_height](/cells/python-net/zh/aspose.cells.charts/chartarea/default_height) |表示图表区域的默认位置的高度，以 1/4000 为单位。|
+| [default_x_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/default_x_ratio_to_chart) |表示以图表区域分数为单位的默认位置的 x。|
+| [default_y_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/default_y_ratio_to_chart) |以图表区域的分数为单位表示默认位置的 y。|
+| [default_width_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/default_width_ratio_to_chart) |表示默认位置的宽度，以图表区域的分数为单位。|
+| [default_height_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/default_height_ratio_to_chart) |表示默认位置的高度，以图表区域的分数为单位。|
+| [x_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/x_ratio_to_chart) |获取或获取距离其左上角列的水平偏移量，以图表区域的比例为单位。|
+| [y_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/y_ratio_to_chart) |获取或获取距离其左上角行的垂直偏移量，以图表区域的比例为单位。|
+| [width_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/width_ratio_to_chart) |获取或设置距其右下角列的水平偏移量，以图表区域的比例为单位。|
+| [height_ratio_to_chart](/cells/python-net/zh/aspose.cells.charts/chartarea/height_ratio_to_chart) |获取或设置距其右下角行的垂直偏移量，以图表区域的比例为单位。|
+| [x_pixel](/cells/python-net/zh/aspose.cells.charts/chartarea/x_pixel) |获取或设置左上角的 x 坐标（以像素为单位）。|
+| [y_pixel](/cells/python-net/zh/aspose.cells.charts/chartarea/y_pixel) |获取或设置左上角的 y 坐标（以像素为单位）。|
+| [width_pixel](/cells/python-net/zh/aspose.cells.charts/chartarea/width_pixel) |以像素为单位获取或设置框架的宽度。|
+| [height_pixel](/cells/python-net/zh/aspose.cells.charts/chartarea/height_pixel) |以像素为单位获取或设置框架的高度。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/zh/aspose.cells.charts/chartarea/set_position_auto/#) |将框架的位置设置为自动|
+| [`set_position_auto(self)`](/cells/python-net/zh/aspose.cells.charts/chartarea/set_position_auto/#) |将框架位置设置为自动|
 
 
 
@@ -93,7 +105,7 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
-* 类 [ChartArea](/cells/python-net/zh/aspose.cells.charts/chartarea)
-* 类 [ChartFrame](/cells/python-net/zh/aspose.cells.charts/chartframe)
-* 类 [Line](/cells/python-net/zh/aspose.cells.drawing/line)
+* 模块[`aspose.cells.charts`](..)
+* 类 [`ChartArea`](/cells/python-net/zh/aspose.cells.charts/chartarea)
+* 类 [`ChartFrame`](/cells/python-net/zh/aspose.cells.charts/chartframe)
+* 类 [`Line`](/cells/python-net/zh/aspose.cells.drawing/line)

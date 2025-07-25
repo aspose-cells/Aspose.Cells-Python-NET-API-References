@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_transparency Eigentum
 
-Ruft die Transparenz der Vordergrundfarbe ab oder legt diese fest.
+Ruft die Transparenz der Vordergrundfarbe ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PatternFill](/cells/python-net/de/aspose.cells.drawing/patternfill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PatternFill`](/cells/python-net/de/aspose.cells.drawing/patternfill)

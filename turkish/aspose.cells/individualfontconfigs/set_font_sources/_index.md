@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells/individualfontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-Yazı tipi kaynaklarını ayarlar.
+##  set_font_sources(self, sources) {#list}
+
 
 
 
 ```python
+
 def set_font_sources(self, sources):
     ...
 ```
@@ -20,10 +21,10 @@ def set_font_sources(self, sources):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sources | list | TrueType yazı tiplerini içeren bir dizi kaynak.|
+| sources | list |  |
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IndividualFontConfigs](/cells/python-net/tr/aspose.cells/individualfontconfigs)
+* modül [`aspose.cells`](../../)
+* sınıf [`IndividualFontConfigs`](/cells/python-net/tr/aspose.cells/individualfontconfigs)

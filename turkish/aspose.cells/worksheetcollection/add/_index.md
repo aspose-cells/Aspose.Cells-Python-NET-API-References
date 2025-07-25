@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Koleksiyona bir çalışma sayfası ekler.
 
 
 ###  İadeler
 
-[Worksheet](/cells/python-net/tr/aspose.cells/worksheet) nesne dizini.
+[`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) nesne dizini.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 Koleksiyona bir çalışma sayfası ekler.
 
 
 ###  İadeler
 
-[Worksheet](/cells/python-net/tr/aspose.cells/worksheet) nesne dizini.
+[`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) nesne dizini.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/tr/aspose.cells/sheettype) | Çalışma sayfası türü.|
+| type | [`SheetType`](/cells/python-net/tr/aspose.cells/sheettype) | Çalışma sayfası türü.|
 
 ###  Örnek
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 Koleksiyona bir çalışma sayfası ekler.
 
 
 ###  İadeler
 
-[Worksheet](/cells/python-net/tr/aspose.cells/worksheet) nesne.
+[`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) nesnesi.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -82,11 +85,11 @@ def add(self, sheet_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sheet_name | str | çalışma sayfası adı|
+| sheet_name | str | Çalışma sayfası adı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

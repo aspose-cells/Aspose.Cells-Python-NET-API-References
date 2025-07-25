@@ -3,13 +3,13 @@ title: auto_update Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 350
 url: /de/aspose.cells.drawing/oleobject/auto_update/
 is_root: false
 ---
 ##  auto_update Eigentum
 
-Gibt an, ob der Link zum OleObject automatisch aktualisiert wird oder nicht.
+Gibt an, ob die Verknüpfung zum OleObject automatisch aktualisiert wird oder nicht.
 ###  Definition:
 ```python
 @property

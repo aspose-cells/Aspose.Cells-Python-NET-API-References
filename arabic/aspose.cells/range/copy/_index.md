@@ -3,16 +3,17 @@ title: طريقة copy
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 100
 url: /ar/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Range}
-نسخ البيانات (بما في ذلك الصيغ)، والتنسيق، والكائنات الرسومية وما إلى ذلك من نطاق مصدر.
+##  copy(self, range) {#aspose.cells.Range}
+نسخ البيانات (بما في ذلك الصيغ)، والتنسيق، وكائنات الرسم وما إلى ذلك من نطاق المصدر.
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/ar/aspose.cells/range) |المصدر [`Range`](/cells/python-net/ar/aspose.cells/range) كائن.|
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | المصدر [`Range`](/cells/python-net/ar/aspose.cells/range) الكائن.|
 
 ###  مثال
 
@@ -41,12 +42,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
-نسخ النطاق مع لصق الخيارات الخاصة.
+##  copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
+نسخ النطاق باستخدام خيارات اللصق الخاصة.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -55,7 +57,7 @@ def copy(self, range, options):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | range | [`Range`](/cells/python-net/ar/aspose.cells/range) | نطاق المصدر.|
-| options | [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions) | لصق الخيارات الخاصة.|
+| options | [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions) | خيارات اللصق الخاصة.|
 
 
 

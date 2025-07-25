@@ -3,12 +3,12 @@ title: ErrorCheckOption clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 530
 url: /es/aspose.cells/errorcheckoption/
 is_root: false
 ---
 ##  ErrorCheckOption clase
-Configuración de verificación de errores aplicada en ciertos rangos.
+Configuración de comprobación de errores aplicada en ciertos rangos.
 
 
 
@@ -17,12 +17,12 @@ El tipo ErrorCheckOption expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [is_error_check](/cells/python-net/es/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.ErrorCheckType) | Comprueba si se comprobará el tipo de error dado.|
-| [set_error_check](/cells/python-net/es/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.ErrorCheckType-bool) | Establece si se comprobará el tipo de error dado.|
-| [get_count_of_range](/cells/python-net/es/aspose.cells/errorcheckoption/get_count_of_range/#) | Obtiene el recuento de rangos influenciados por esta configuración.|
-| [add_range](/cells/python-net/es/aspose.cells/errorcheckoption/add_range/#aspose.cells.CellArea) | Agrega un rango influenciado por esta configuración.|
-| [get_range](/cells/python-net/es/aspose.cells/errorcheckoption/get_range/#int) | Obtiene el rango influenciado de esta configuración por el índice dado.|
-| [remove_range](/cells/python-net/es/aspose.cells/errorcheckoption/remove_range/#int) | Elimina un rango por índice dado.|
+| [`is_error_check(self, error_check_type)`](/cells/python-net/es/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.errorchecktype) | Comprueba si se comprobará el tipo de error dado.|
+| [`set_error_check(self, error_check_type, is_check)`](/cells/python-net/es/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.errorchecktype-bool) | Establece si se comprobará el tipo de error dado.|
+| [`get_count_of_range(self)`](/cells/python-net/es/aspose.cells/errorcheckoption/get_count_of_range/#) | Obtiene el recuento de rangos influenciados por esta configuración.|
+| [`add_range(self, ca)`](/cells/python-net/es/aspose.cells/errorcheckoption/add_range/#aspose.cells.cellarea) | Agrega un rango influenciado por esta configuración.|
+| [`get_range(self, index)`](/cells/python-net/es/aspose.cells/errorcheckoption/get_range/#int) | Obtiene el rango influenciado de esta configuración por el índice dado.|
+| [`remove_range(self, index)`](/cells/python-net/es/aspose.cells/errorcheckoption/remove_range/#int) | Elimina un rango por índice dado.|
 
 
 

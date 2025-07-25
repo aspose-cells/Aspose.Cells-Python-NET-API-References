@@ -3,7 +3,7 @@ title: odf_strict_version fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 120
 url: /sv/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---

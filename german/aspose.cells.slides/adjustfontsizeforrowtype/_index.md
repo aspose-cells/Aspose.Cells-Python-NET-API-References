@@ -8,7 +8,7 @@ url: /de/aspose.cells.slides/adjustfontsizeforrowtype/
 is_root: false
 ---
 ##  AdjustFontSizeForRowType Aufzählung
-Stellt dar, welche Art von Zeilen angepasst werden sollen.
+Gibt an, welche Art von Zeilen angepasst werden sollen.
 
 
 
@@ -17,8 +17,8 @@ Der Typ AdjustFontSizeForRowType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| NONE | Keine Anpassung.|
-| EMPTY_ROWS | Wenn die Zeile leer ist, ändern Sie die Schriftgröße, um sie an die Zeilenhöhe anzupassen.|
+| NONE | Keine Einstellung.|
+| EMPTY_ROWS | Wenn die Zeile leer ist, ändern Sie die Schriftgröße, damit sie der Zeilenhöhe entspricht.|
 
 
 

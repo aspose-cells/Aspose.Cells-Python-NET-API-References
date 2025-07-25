@@ -3,14 +3,14 @@ title: width_scale fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /sv/aspose.cells.drawing/commentshape/width_scale/
 is_root: false
 ---
 ##  width_scale fastighet
 
-Hämtar och ställer in breddskalan, i procentenhet av den ursprungliga bildens bredd.
-Om formen inte är bild, returnerar egenskapen WidthScale endast 100;
+Hämtar och ställer in breddskalan, i procent av den ursprungliga bildens bredd.
+Om formen inte är en bild returnerar egenskapen WidthScale endast 100;
 
 ###  Exempel
 

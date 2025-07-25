@@ -1,15 +1,15 @@
 ---
 title: minor_grid_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 350
 url: /ru/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ##  minor_grid_lines недвижимость
 
-Представляет второстепенные линии сетки на оси диаграммы.
+Представляет собой второстепенные линии сетки на оси диаграммы.
 ###  Определение:
 ```python
 @property

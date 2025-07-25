@@ -1,21 +1,21 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 180
 url: /it/aspose.cells/unionrange/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene o imposta name dell'intervallo.
+Ottiene o imposta il valore name dell'intervallo.
 
 ###  Osservazioni
 
-L'intervallo denominato è supportato. Per esempio,
+Sono supportati intervalli denominati. Ad esempio,
 
-range.Name = "Foglio1!MyRange";
+range.Name = "Foglio1!IlMioIntervallo";
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

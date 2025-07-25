@@ -1,6 +1,6 @@
 ---
 title: check_all_data_for_column_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  check_all_data_for_column_type недвижимость
 
-Проверьте все данные, чтобы найти тип данных столбцов.
+Проверьте все данные, чтобы определить тип данных столбцов.
 
 ###  Примечания
 
-Значение по умолчанию — false, мы проверяем только первую строку на производительность.
+Значение по умолчанию — false, мы проверяем производительность только первой строки.
 Если это свойство имеет значение true и столбцы содержат смешанный тип значений, тип столбцов будет текстовым.
 ###  Определение:
 ```python
@@ -26,5 +26,5 @@ def check_all_data_for_column_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](../../)
-* класс [SqlScriptSaveOptions](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)
+* модуль [`aspose.cells.saving`](../../)
+* класс [`SqlScriptSaveOptions`](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)

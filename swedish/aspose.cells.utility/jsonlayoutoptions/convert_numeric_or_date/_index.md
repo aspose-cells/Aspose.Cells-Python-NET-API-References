@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_or_date fastighet
 
-Hämtar eller ställer in ett värde som indikerar om strängen i json konverteras till numerisk eller datum.
+Anger om strängen i JSON konverteras till ett numeriskt värde eller ett datumvärde.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

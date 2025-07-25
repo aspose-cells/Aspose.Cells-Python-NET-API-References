@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  start_column fastighet
 
-Hämtar eller ställer in startkolumnen för detta område.
+Hämtar eller anger startkolumnen för detta område.
+###  Definition:
+```python
+f start_column 
+```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)

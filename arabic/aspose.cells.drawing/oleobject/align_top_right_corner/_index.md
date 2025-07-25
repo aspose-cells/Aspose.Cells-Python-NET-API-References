@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.drawing/oleobject/align_top_right_corner/
 is_root: false
 ---
-##  align_top_right_corner(top_row, right_column) {#int-int}
-ينقل الصورة إلى الزاوية العلوية اليمنى.
+##  align_top_right_corner(self, top_row, right_column) {#int-int}
+نقل الصورة إلى الزاوية اليمنى العليا.
 
 
 
 ```python
+
 def align_top_right_corner(self, top_row, right_column):
     ...
 ```
@@ -20,7 +21,7 @@ def align_top_right_corner(self, top_row, right_column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| top_row | int | فهرس الصف.|
+| top_row | int | مؤشر الصف.|
 | right_column | int | فهرس العمود.|
 
 ###  مثال
@@ -34,5 +35,5 @@ shape.align_top_right_corner(2, 5)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [OleObject](/cells/python-net/ar/aspose.cells.drawing/oleobject)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`OleObject`](/cells/python-net/ar/aspose.cells.drawing/oleobject)

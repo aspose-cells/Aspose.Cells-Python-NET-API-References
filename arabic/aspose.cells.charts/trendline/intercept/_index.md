@@ -1,5 +1,5 @@
 ---
-title: intercept الملكية
+title: intercept عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 200
 url: /ar/aspose.cells.charts/trendline/intercept/
 is_root: false
 ---
-##  intercept الملكية
+##  intercept عقار
 
-إرجاع أو تعيين النقطة التي يتقاطع فيها خط الاتجاه مع محور القيمة.
+يقوم بإرجاع أو تعيين النقطة التي يتقاطع فيها خط الاتجاه مع محور القيمة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def intercept(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_to_display mülk
 
-Belirtilen köprü için görüntülenecek metni temsil eder. Varsayılan değer, köprünün adresidir.
+Belirtilen köprü metni için görüntülenecek metni temsil eder. Varsayılan değer köprü metninin adresidir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_to_display(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Hyperlink](/cells/python-net/tr/aspose.cells/hyperlink)
+* modül [`aspose.cells`](../../)
+* sınıf [`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink)

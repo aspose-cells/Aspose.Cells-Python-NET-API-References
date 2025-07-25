@@ -1,5 +1,5 @@
 ---
-title: is_line الملكية
+title: is_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/signatureline/is_line/
 is_root: false
 ---
-##  is_line الملكية
+##  is_line عقار
 
-يشير إلى ما إذا كان سطر توقيع.
+يشير إلى ما إذا كان هذا سطر توقيع.
 
 ###  مثال
 
@@ -30,5 +30,5 @@ def is_line(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

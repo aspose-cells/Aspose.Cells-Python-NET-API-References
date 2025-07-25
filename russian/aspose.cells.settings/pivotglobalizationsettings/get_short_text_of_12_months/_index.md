@@ -1,14 +1,14 @@
 ---
 title: get_short_text_of_12_months метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-Получает всю короткую форматированную строку длиной 12 месяцев.
+##  get_short_text_of_12_months(self) {#}
+Получает все короткие форматированные строки из 12 месяцев.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

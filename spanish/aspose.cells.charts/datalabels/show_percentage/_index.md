@@ -3,13 +3,13 @@ title: show_percentage propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 420
+weight: 490
 url: /es/aspose.cells.charts/datalabels/show_percentage/
 is_root: false
 ---
 ##  show_percentage propiedad
 
-Representa el comportamiento de visualización del valor porcentual de la etiqueta de datos de un gráfico especificado. Verdadero muestra el valor porcentual. Falso para ocultar.
+Representa el comportamiento de visualización del valor porcentual de la etiqueta de datos de un gráfico específico. "Verdadero" muestra el valor porcentual. "Falso" para ocultarlo.
 ###  Definición:
 ```python
 @property

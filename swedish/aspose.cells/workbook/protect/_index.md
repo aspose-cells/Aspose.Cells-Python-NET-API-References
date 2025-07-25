@@ -3,16 +3,17 @@ title: protect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 270
 url: /sv/aspose.cells/workbook/protect/
 is_root: false
 ---
-##  protect(protection_type, password) {#ProtectionType-str}
+##  protect(self, protection_type, password) {#aspose.cells.ProtectionType-str}
 Skyddar en arbetsbok.
 
 
 
 ```python
+
 def protect(self, protection_type, password):
     ...
 ```
@@ -20,11 +21,11 @@ def protect(self, protection_type, password):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| protection_type | [ProtectionType](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
+| protection_type | [`ProtectionType`](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
 | password | str | Lösenord för att skydda arbetsboken.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

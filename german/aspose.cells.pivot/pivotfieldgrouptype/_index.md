@@ -3,12 +3,12 @@ title: PivotFieldGroupType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 340
 url: /de/aspose.cells.pivot/pivotfieldgrouptype/
 is_root: false
 ---
 ##  PivotFieldGroupType Aufzählung
-Stellt den Gruppentyp des Pivotfelds dar.
+Stellt den Gruppentyp des Pivot-Felds dar.
 
 
 
@@ -18,9 +18,9 @@ Der Typ PivotFieldGroupType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | NONE | Keine Gruppe|
-| DATE_TIME_RANGE | Gruppiert nach DateTime-Bereich.|
+| DATE_TIME_RANGE | Gruppiert nach Datums-/Uhrzeitbereich.|
 | NUMBERIC_RANGE | Gruppiert nach Zahlenbereich.|
-| DISCRETE | Gruppiert nach diskreten Punkten.|
+| DISCRETE | Nach diskreten Punkten gruppiert.|
 
 
 

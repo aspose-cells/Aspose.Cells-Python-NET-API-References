@@ -1,5 +1,5 @@
 ---
-title: mid_color الملكية
+title: mid_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/colorscale/mid_color/
 is_root: false
 ---
-##  mid_color الملكية
+##  mid_color عقار
 
-احصل على أو عيّن لون التدرج للقيمة الوسطى في النطاق.
+احصل على لون التدرج أو قم بتعيينه للقيمة الوسطى في النطاق.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def mid_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ColorScale](/cells/python-net/ar/aspose.cells/colorscale)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ColorScale`](/cells/python-net/ar/aspose.cells/colorscale)

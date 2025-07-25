@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/scenariocollection/add/
 is_root: false
 ---
-##  add(name) {#str}
+##  add(self, name) {#str}
 Ajoute un scénario.
 
 
 ###  Retour
 
-Index dans la liste des scénarios.
+L'index dans la liste des scénarios.
 
 
 ```python
+
 def add(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add(self, name):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ScenarioCollection](/cells/python-net/fr/aspose.cells/scenariocollection)
+* module [`aspose.cells`](../../)
+* classe [`ScenarioCollection`](/cells/python-net/fr/aspose.cells/scenariocollection)

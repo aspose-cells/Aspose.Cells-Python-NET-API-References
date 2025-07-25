@@ -3,7 +3,7 @@ title: is_in_group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 600
 url: /de/aspose.cells.drawing/oval/is_in_group/
 is_root: false
 ---

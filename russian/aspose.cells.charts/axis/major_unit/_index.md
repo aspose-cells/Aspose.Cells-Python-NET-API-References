@@ -1,19 +1,19 @@
 ---
 title: major_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ru/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
 ##  major_unit недвижимость
 
-Представляет основные единицы оси.
+Представляет собой основные единицы оси.
 
 ###  Примечания
 
-Старшие единицы должны быть больше нуля.
+Основные единицы должны быть больше нуля.
 ###  Определение:
 ```python
 @property

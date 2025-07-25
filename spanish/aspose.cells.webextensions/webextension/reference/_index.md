@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtension](/cells/python-net/es/aspose.cells.webextensions/webextension)
-* clase [WebExtensionReference](/cells/python-net/es/aspose.cells.webextensions/webextensionreference)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtension`](/cells/python-net/es/aspose.cells.webextensions/webextension)
+* clase [`WebExtensionReference`](/cells/python-net/es/aspose.cells.webextensions/webextensionreference)

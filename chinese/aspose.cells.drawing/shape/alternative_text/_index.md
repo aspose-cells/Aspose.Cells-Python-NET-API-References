@@ -3,7 +3,7 @@ title: alternative_text属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 290
 url: /zh/aspose.cells.drawing/shape/alternative_text/
 is_root: false
 ---

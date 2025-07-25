@@ -3,16 +3,17 @@ title: set_characters metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 330
 url: /sv/aspose.cells/cell/set_characters/
 is_root: false
 ---
-##  set_characters {#list}
-Ställer in RTF-format för cellen.
+##  set_characters(self, characters) {#list}
+Ställer in cellens RTF-format.
 
 
 
 ```python
+
 def set_characters(self, characters):
     ...
 ```

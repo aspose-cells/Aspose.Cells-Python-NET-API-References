@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password fastighet
 
-Representerar arbetsboksfilkryptering password.
+Representerar kryptering av arbetsboksfiler password.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.metadata](../../)
-* klass [MetadataOptions](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)
+* modul [`aspose.cells.metadata`](../../)
+* klass [`MetadataOptions`](/cells/python-net/sv/aspose.cells.metadata/metadataoptions)

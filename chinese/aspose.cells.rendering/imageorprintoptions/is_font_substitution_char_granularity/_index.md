@@ -3,17 +3,17 @@ title: is_font_substitution_char_granularity属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
 ## is_font_substitution_char_granularity属性
 
-指示当单元格字体不兼容时是否仅替换该字符的字体。
+指示当单元格字体不兼容时是否仅替换字符的字体。
 
-### 评论
+### 注意事项
 
-默认为 false。我们将首先尝试单元格字体的 Workbook 和 PdfSaveOption/system 的默认字体。
+默认值为 false。我们将首先尝试使用 Workbook 的默认字体以及 PdfSaveOption/system 作为单元格字体。
 ### 定义：
 ```python
 @property

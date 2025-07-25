@@ -9,7 +9,7 @@ is_root: false
 ---
 ## type属性
 
-获取组 type。
+获取群type。
 ### 定义：
 ```python
 @property

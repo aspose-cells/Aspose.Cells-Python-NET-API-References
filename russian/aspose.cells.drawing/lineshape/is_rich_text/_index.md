@@ -1,9 +1,9 @@
 ---
 title: is_rich_text недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 690
+weight: 700
 url: /ru/aspose.cells.drawing/lineshape/is_rich_text/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_line عقار
 
-يحصل على مظهر المحور.
+يبدو وكأنه محور.
 ###  تعريف:
 ```python
 @property

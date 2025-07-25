@@ -15,8 +15,8 @@ Gibt an, wie das angegebene Steuerelement Nullwerte anzeigt.
 
 | Einstellung| Beschreibung|
 | :- | :- |
-| WAHR| Die Steuerung durchläuft die Zustände für Ja-, Nein- und Nullwerte. Das Steuerelement wird abgeblendet (grau) angezeigt, wenn seine Value-Eigenschaft auf Null festgelegt ist.|
-| FALSCH|(Standard) Die Steuerung durchläuft die Zustände für Ja- und Nein-Werte. Nullwerte werden so angezeigt, als wären sie keine Werte.|
+| WAHR|Das Steuerelement durchläuft die Zustände für Ja-, Nein- und Nullwerte. Das Steuerelement wird abgeblendet (grau) angezeigt, wenn die Eigenschaft „Wert“ auf „Null“ gesetzt ist.|
+| FALSCH| (Standard) Das Steuerelement durchläuft die Zustände für Ja- und Nein-Werte. Nullwerte werden wie Nein-Werte angezeigt.|
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_triple_state(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [RadioButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`RadioButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -1,6 +1,6 @@
 ---
 title: forward proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  forward proprietà
 
-Restituisce o imposta il numero di periodi (o unità su un grafico a dispersione) di estensione della linea di tendenza forward.
+Restituisce o imposta il numero di periodi (o unità in un grafico a dispersione) di cui si estende la linea di tendenza forward.
 Il numero di periodi deve essere maggiore o uguale a zero.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def forward(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/it/aspose.cells.charts/trendline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/it/aspose.cells.charts/trendline)

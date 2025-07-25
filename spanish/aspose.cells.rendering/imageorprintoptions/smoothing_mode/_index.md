@@ -10,7 +10,7 @@ is_root: false
 ##  smoothing_mode propiedad
 
 Especifica si se aplica suavizado (antialiasing) a líneas y curvas y a los bordes de áreas rellenas.
-El valor predeterminado es SmoothingMode.Ninguno
+El valor predeterminado es SmoothingMode.None
 ###  Definición:
 ```python
 @property

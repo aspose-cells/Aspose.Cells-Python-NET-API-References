@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id Eigentum
 
-Ruft den Bindungsbezeichner ab und legt ihn fest.
+Ruft die Bindungskennung ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionBinding](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionBinding`](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding)

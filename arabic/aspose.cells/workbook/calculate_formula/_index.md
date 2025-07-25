@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/workbook/calculate_formula/
 is_root: false
 ---
-##  calculate_formula {#}
+##  calculate_formula(self) {#}
 يحسب نتيجة الصيغ.
 
 
 
 ```python
+
 def calculate_formula(self):
     ...
 ```
@@ -20,15 +21,16 @@ def calculate_formula(self):
 
 ###  ملاحظات
 
-للتعرف على كافة الصيغ المدعومة، يرجى الاطلاع على القائمة على https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
+بالنسبة لجميع الصيغ المدعومة، يرجى الاطلاع على القائمة على https://docs.aspose.com/display/cellsnet/Supported+Formula+Functions
 
-##  calculate_formula {#bool}
+##  calculate_formula(self, ignore_error) {#bool}
 
 يحسب نتيجة الصيغ.
 
 
 
 ```python
+
 def calculate_formula(self, ignore_error):
     ...
 ```
@@ -36,15 +38,16 @@ def calculate_formula(self, ignore_error):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| ignore_error | bool |يشير إلى ما إذا كان إخفاء الخطأ في حساب الصيغ. قد يكون الخطأ عبارة عن وظيفة غير مدعومة، أو روابط خارجية، وما إلى ذلك.|
+| ignore_error | bool | يُشير إلى إخفاء الخطأ في حساب الصيغ. قد يكون الخطأ وظيفة غير مدعومة، أو روابط خارجية، وما إلى ذلك.|
 
 
-##  calculate_formula {#aspose.cells.CalculationOptions}
+##  calculate_formula(self, options) {#aspose.cells.CalculationOptions}
 حساب الصيغ في هذا المصنف.
 
 
 
 ```python
+
 def calculate_formula(self, options):
     ...
 ```
@@ -52,7 +55,7 @@ def calculate_formula(self, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| options | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات للحساب|
+| options | [`CalculationOptions`](/cells/python-net/ar/aspose.cells/calculationoptions) | خيارات الحساب|
 
 
 

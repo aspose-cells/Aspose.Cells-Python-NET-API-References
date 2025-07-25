@@ -3,14 +3,14 @@ title: table_css_id propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 680
+weight: 770
 url: /fr/aspose.cells/htmlsaveoptions/table_css_id/
 is_root: false
 ---
 ##  table_css_id propriété
 
- Obtient et définit le préfixe du nom CSS du type tel que tr, col, td et ainsi de suite, ils sont contenus dans l'élément table
-qui a l'attribut spécifique TableCssId. La valeur par défaut est "".
+Obtient et définit le préfixe du nom de type CSS tel que tr, col, td, etc., ils sont contenus dans l'élément de table
+qui possède l'attribut TableCssId spécifique. La valeur par défaut est « ».
 ###  Définition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: text_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/aspose.cells.drawing/combobox/text_options/
 is_root: false
 ---
 ##  text_options fastighet
 
-Representerar formens textalternativ.
+Representerar textalternativen för formen.
 
 ###  Exempel
 

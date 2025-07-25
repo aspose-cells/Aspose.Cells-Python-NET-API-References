@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
-##  add(upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream):
     ...
 ```
@@ -25,7 +26,7 @@ def add(self, upper_left_row, upper_left_column, stream):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | stream | io.RawIOBase | Stream-Objekt, das die Bilddaten enthält.|
 
 ###  Beispiel
@@ -39,16 +40,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name) {#int-int-str}
+##  add(self, upper_left_row, upper_left_column, file_name) {#int-int-str}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name):
     ...
 ```
@@ -57,7 +59,7 @@ def add(self, upper_left_row, upper_left_column, file_name):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | file_name | str | Bilddateiname.|
 
 ###  Beispiel
@@ -70,16 +72,17 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -88,7 +91,7 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | lower_right_row | int | Zeilenindex unten rechts|
 | lower_right_column | int | Spaltenindex unten rechts|
 | stream | io.RawIOBase | Stream-Objekt, das die Bilddaten enthält.|
@@ -104,16 +107,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
+##  add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name):
     ...
 ```
@@ -122,7 +126,7 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | lower_right_row | int | Zeilenindex unten rechts|
 | lower_right_column | int | Spaltenindex unten rechts|
 | file_name | str | Bilddateiname.|
@@ -137,16 +141,17 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-##  add(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -155,7 +160,7 @@ def add(self, upper_left_row, upper_left_column, stream, width_scale, height_sca
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | stream | io.RawIOBase | Stream-Objekt, das die Bilddaten enthält.|
 | width_scale | int | Maßstab der Bildbreite, ein Prozentsatz.|
 | height_scale | int | Maßstab der Bildhöhe, ein Prozentsatz.|
@@ -171,16 +176,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add(upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
+##  add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Objektindex.
 
 
 ```python
+
 def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale):
     ...
 ```
@@ -189,7 +195,7 @@ def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | file_name | str | Bilddateiname.|
 | width_scale | int | Maßstab der Bildbreite, ein Prozentsatz.|
 | height_scale | int | Maßstab der Bildhöhe, ein Prozentsatz.|
@@ -206,6 +212,6 @@ pictures.add(1, 1, "image.jpg", 50, 50)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
-* Klasse [PictureCollection](/cells/python-net/de/aspose.cells.drawing/picturecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)
+* Klasse [`PictureCollection`](/cells/python-net/de/aspose.cells.drawing/picturecollection)

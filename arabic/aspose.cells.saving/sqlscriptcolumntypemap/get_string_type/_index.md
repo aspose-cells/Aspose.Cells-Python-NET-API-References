@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
+##  get_string_type(self) {#}
 يحصل على نوع السلسلة في قاعدة البيانات.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptColumnTypeMap](/cells/python-net/ar/aspose.cells.saving/sqlscriptcolumntypemap)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptColumnTypeMap`](/cells/python-net/ar/aspose.cells.saving/sqlscriptcolumntypemap)

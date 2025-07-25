@@ -3,16 +3,17 @@ title: método copy
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 100
 url: /es/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Range}
-Copia datos (incluidas fórmulas), formateo, objetos de dibujo, etc. desde un rango de origen.
+##  copy(self, range) {#aspose.cells.Range}
+Copia datos (incluidas fórmulas), formatos, objetos de dibujo, etc. de un rango de origen.
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy(self, range):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/es/aspose.cells/range) |Fuente [`Range`](/cells/python-net/es/aspose.cells/range) objeto.|
+| range | [`Range`](/cells/python-net/es/aspose.cells/range) | Objeto fuente [`Range`](/cells/python-net/es/aspose.cells/range).|
 
 ###  Ejemplo
 
@@ -41,12 +42,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
-Copiando el rango con opciones especiales de pegado.
+##  copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
+Copiar el rango con opciones especiales de pegado.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```

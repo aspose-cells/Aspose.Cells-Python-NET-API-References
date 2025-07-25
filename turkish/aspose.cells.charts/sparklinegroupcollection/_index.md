@@ -17,23 +17,24 @@ SparklineGroupCollection türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [capacity](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.SparklineGroup-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.SparklineGroup-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.SparklineGroup-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [add](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.SparklineType-str-bool-aspose.cells.CellArea) | Koleksiyona [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup) numaralı öğeyi ekler.|
-| [clear_sparklines](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/clear_sparklines/#aspose.cells.CellArea) | Hücrelerden oluşan bir alanın içindeki mini grafikleri temizler.|
-| [clear_sparkline_groups](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/clear_sparkline_groups/#aspose.cells.CellArea) | Bir hücre alanıyla örtüşen mini grafik gruplarını temizler.|
-| [binary_search](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/binary_search/#aspose.cells.charts.SparklineGroup) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`add(self, type)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.sparklinetype) | Koleksiyona [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup) ile [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)'i ekler.|
+| [`add(self, type, data_range, is_vertical, location_range)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/add/#aspose.cells.charts.sparklinetype-str-bool-aspose.cells.cellarea) | Koleksiyona [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline) ile [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)'i ekler.|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.sparklinegroup-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/index_of/#aspose.cells.charts.sparklinegroup-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/last_index_of/#aspose.cells.charts.sparklinegroup-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`clear_sparklines(self, cell_area)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/clear_sparklines/#aspose.cells.cellarea) | Hücre alanının içindeki kıvılcım çizgilerini temizler.|
+| [`clear_sparkline_groups(self, cell_area)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/clear_sparkline_groups/#aspose.cells.cellarea) | Hücre alanlarını kaplayan kıvılcım çizgileri gruplarını temizler.|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.charts/sparklinegroupcollection/binary_search/#aspose.cells.charts.sparklinegroup) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 
@@ -55,13 +56,14 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, "A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
+idx = sheet.sparkline_groups.add(SparklineType.LINE, "A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
 book.save("output.xlsx", SaveFormat.XLSX)
 
 ```
 
 ###  Ayrıca bakınız
 * modül [`aspose.cells.charts`](..)
+* sınıf [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)
 * sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

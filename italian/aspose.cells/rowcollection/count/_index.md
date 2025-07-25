@@ -1,9 +1,9 @@
 ---
 title: count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells/rowcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [RowCollection](/cells/python-net/it/aspose.cells/rowcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`RowCollection`](/cells/python-net/it/aspose.cells/rowcollection)

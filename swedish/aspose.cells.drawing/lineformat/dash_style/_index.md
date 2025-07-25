@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dash_style fastighet
 
-Anger linjestrecktypen.
+Anger typen av streck.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def dash_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoLineDashStyle](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoLineDashStyle`](/cells/python-net/sv/aspose.cells.drawing/msolinedashstyle)

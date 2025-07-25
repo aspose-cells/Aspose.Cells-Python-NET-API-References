@@ -3,26 +3,25 @@ title: CharacterBulletValue sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 30
 url: /tr/aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
 ##  CharacterBulletValue sınıfı
-Karakter mermisini temsil eder.
+Karakter madde işaretini temsil eder.
 
 
 
-**Miras:** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)
+**Miras:** [`CharacterBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
-CharacterBulletValue türü aşağıdaki üyeleri gösterir:
+CharacterBulletValue türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Yeni bir CharacterBulletValue örneği oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | CharacterBulletValue'nin yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -34,6 +33,5 @@ CharacterBulletValue türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
-* sınıf [BulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/bulletvalue)
-* sınıf [CharacterBulletValue](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)
+* modül [`aspose.cells.drawing.texts`](..)
+* sınıf [`CharacterBulletValue`](/cells/python-net/tr/aspose.cells.drawing.texts/characterbulletvalue)

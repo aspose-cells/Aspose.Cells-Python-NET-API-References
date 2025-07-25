@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar/ställer in cellvärdet type.
+Hämtar/ställer in type för cellvärdet.
 ###  Definition:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  enter_field_behavior propriété
 
-Spécifie le comportement de sélection lors de l'entrée dans le contrôle.
- True spécifie que la sélection reste inchangée depuis la dernière fois que le contrôle a été actif.
+Spécifie le comportement de sélection lors de la saisie du contrôle.
+ True spécifie que la sélection reste inchangée depuis la dernière fois que le contrôle était actif.
 False spécifie que tout le texte du contrôle sera sélectionné lors de la saisie du contrôle.
 ###  Définition:
 ```python
@@ -23,5 +23,5 @@ def enter_field_behavior(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

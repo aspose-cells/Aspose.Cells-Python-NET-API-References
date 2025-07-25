@@ -3,7 +3,7 @@ title: paths عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ar/aspose.cells.drawing/listbox/paths/
 is_root: false
 ---

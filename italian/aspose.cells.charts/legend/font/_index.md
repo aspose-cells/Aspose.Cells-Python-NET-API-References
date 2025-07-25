@@ -1,9 +1,9 @@
 ---
 title: font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 200
 url: /it/aspose.cells.charts/legend/font/
 is_root: false
 ---

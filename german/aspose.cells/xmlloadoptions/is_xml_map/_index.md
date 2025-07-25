@@ -3,14 +3,14 @@ title: is_xml_map Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 130
+weight: 160
 url: /de/aspose.cells/xmlloadoptions/is_xml_map/
 is_root: false
 ---
 ##  is_xml_map Eigentum
 
-Gibt an, ob XML zu Excel zugeordnet wird.
-Der Standardwert ist falsch.
+Gibt an, ob XML Excel zugeordnet wird.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_xml_map(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlLoadOptions](/cells/python-net/de/aspose.cells/xmlloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlLoadOptions`](/cells/python-net/de/aspose.cells/xmlloadoptions)

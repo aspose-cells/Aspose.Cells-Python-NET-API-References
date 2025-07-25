@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* classe [ControlType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controltype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* classe [`ControlType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controltype)

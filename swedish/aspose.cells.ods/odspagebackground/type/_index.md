@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
-* klass [OdsPageBackgroundType](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundtype)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* klass [`OdsPageBackgroundType`](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundtype)

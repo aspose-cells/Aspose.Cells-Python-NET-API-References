@@ -3,7 +3,7 @@ title: MsoPresetTextEffect Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1030
+weight: 1020
 url: /de/aspose.cells.drawing/msopresettexteffect/
 is_root: false
 ---
@@ -28,7 +28,7 @@ Der Typ MsoPresetTextEffect macht die folgenden Member verfügbar:
 | TEXT_EFFECT9 | TextEffect9|
 | TEXT_EFFECT10 | TextEffect10|
 | TEXT_EFFECT11 | TextEffect11|
-| TEXT_EFFECT12 | TextEffect12|
+| TEXT_EFFECT12 |TextEffect12|
 | TEXT_EFFECT13 | TextEffect13|
 | TEXT_EFFECT14 | TextEffect14|
 | TEXT_EFFECT15 | TextEffect15|
@@ -51,4 +51,4 @@ Der Typ MsoPresetTextEffect macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

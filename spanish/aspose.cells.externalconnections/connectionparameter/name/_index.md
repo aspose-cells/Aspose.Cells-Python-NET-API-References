@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [ConnectionParameter](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`ConnectionParameter`](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)

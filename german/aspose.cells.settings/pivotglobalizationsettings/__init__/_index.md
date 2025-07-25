@@ -1,5 +1,5 @@
 ---
-title: PivotGlobalizationSettings Konstrukteur
+title: PivotGlobalizationSettings Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.settings/pivotglobalizationsettings/__init__/
 is_root: false
 ---
-##  PivotGlobalizationSettings() {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt eine neue Instanz von PivotGlobalizationSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.settings](../../)
-* Klasse [PivotGlobalizationSettings](/cells/python-net/de/aspose.cells.settings/pivotglobalizationsettings)
+* Modul [`aspose.cells.settings`](../../)
+* Klasse [`PivotGlobalizationSettings`](/cells/python-net/de/aspose.cells.settings/pivotglobalizationsettings)

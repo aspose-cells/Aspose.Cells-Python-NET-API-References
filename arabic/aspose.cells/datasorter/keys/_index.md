@@ -1,15 +1,15 @@
 ---
-title: keys الملكية
+title: keys عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ar/aspose.cells/datasorter/keys/
 is_root: false
 ---
-##  keys الملكية
+##  keys عقار
 
-يحصل على القائمة الرئيسية لفرز البيانات.
+يحصل على قائمة المفاتيح لفرز البيانات.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def keys(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
-* فئة [DataSorterKeyCollection](/cells/python-net/ar/aspose.cells/datasorterkeycollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)
+* فئة [`DataSorterKeyCollection`](/cells/python-net/ar/aspose.cells/datasorterkeycollection)

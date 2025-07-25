@@ -3,7 +3,7 @@ title: page_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取或设置要保存的第一页的从 0 开始的索引。
 
-### 评论
+### 注意事项
 
 默认值为 0。
 ### 定义：

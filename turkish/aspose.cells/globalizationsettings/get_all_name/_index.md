@@ -7,7 +7,7 @@ weight: 30
 url: /tr/aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
-##  get_all_name() {#}
+##  get_all_name(self) {#}
 PivotTable'daki "(Tümü)" etiketinin adını alır.
 
 
@@ -17,6 +17,7 @@ PivotTable'daki "(Tümü)" etiketinin adını alır.
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_all_name(self):
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen GlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
- Bu mülk, Aralık 2022'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen GlobalizationSettings.GetColumnLabelsOfPivotTable() metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

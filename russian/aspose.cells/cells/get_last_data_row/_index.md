@@ -1,14 +1,14 @@
 ---
 title: get_last_data_row метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 400
+weight: 440
 url: /ru/aspose.cells/cells/get_last_data_row/
 is_root: false
 ---
-##  get_last_data_row {#int}
-Получает индекс последней строки ячейки, содержащей данные в указанном столбце.
+##  get_last_data_row(self, column) {#int}
+Возвращает индекс последней строки ячейки, содержащей данные в указанном столбце.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_last_data_row(self, column):
     ...
 ```

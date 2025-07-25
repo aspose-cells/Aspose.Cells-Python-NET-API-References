@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_y propiedad
 
-Obtiene y establece la rotación de la forma extruida alrededor del eje Y en grados.
+Obtiene y establece la rotación de la forma extruida alrededor del eje y en grados.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_y(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

@@ -1,6 +1,6 @@
 ---
 title: DisplayUnitType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 490
@@ -8,14 +8,14 @@ url: /zh/aspose.cells.charts/displayunittype/
 is_root: false
 ---
 ## DisplayUnitType枚举
-表示显示单元的类型。
+表示图表轴的显示单位类型。
 
 
 
-DisplayUnitType 类型公开了以下成员：
+DisplayUnitType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NONE |显示单位为无。|
 | HUNDREDS |指定图表上的值应除以 100。|
@@ -27,11 +27,11 @@ DisplayUnitType 类型公开了以下成员：
 | HUNDRED_MILLIONS |指定图表上的值应除以 100,000,000。|
 | BILLIONS |指定图表上的值应除以 1,000,000,000。|
 | TRILLIONS |指定图表上的值应除以 1,000,000,000,000。|
-| PERCENTAGE |图表上的值应除以 0.01。|
-| CUST |指定显示单位的自定义值。|
-| CUSTOM |指定显示单位的自定义值。|
+| PERCENTAGE |图表上的数值应除以0.01。|
+| CUST |为显示单位指定自定义值。|
+| CUSTOM |为显示单位指定自定义值。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

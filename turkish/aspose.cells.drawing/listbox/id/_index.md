@@ -3,7 +3,7 @@ title: id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 520
 url: /tr/aspose.cells.drawing/listbox/id/
 is_root: false
 ---

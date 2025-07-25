@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.properties/customproperty/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-ارجاع أو تحديد value للخاصية المهيأة.
+إرجاع أو تعيين value للخاصية المخصصة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomProperty](/cells/python-net/ar/aspose.cells.properties/customproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomProperty`](/cells/python-net/ar/aspose.cells.properties/customproperty)

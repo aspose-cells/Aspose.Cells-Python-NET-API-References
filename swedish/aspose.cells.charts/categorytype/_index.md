@@ -17,7 +17,7 @@ Typen CategoryType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| AUTOMATIC_SCALE | AutomaticScale|
+| AUTOMATIC_SCALE | Automatisk skalning|
 | CATEGORY_SCALE | KategoriSkala|
 | TIME_SCALE | Tidsskala|
 

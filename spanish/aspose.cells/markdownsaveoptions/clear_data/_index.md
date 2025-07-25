@@ -3,7 +3,7 @@ title: clear_data propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 60
 url: /es/aspose.cells/markdownsaveoptions/clear_data/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MarkdownSaveOptions](/cells/python-net/es/aspose.cells/markdownsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`MarkdownSaveOptions`](/cells/python-net/es/aspose.cells/markdownsaveoptions)

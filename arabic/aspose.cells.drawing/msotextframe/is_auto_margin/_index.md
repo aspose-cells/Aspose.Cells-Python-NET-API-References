@@ -1,5 +1,5 @@
 ---
-title: is_auto_margin الملكية
+title: is_auto_margin عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells.drawing/msotextframe/is_auto_margin/
 is_root: false
 ---
-##  is_auto_margin الملكية
+##  is_auto_margin عقار
 
 يشير إلى ما إذا كان الهامش يتم حسابه تلقائيًا.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoTextFrame](/cells/python-net/ar/aspose.cells.drawing/msotextframe)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoTextFrame`](/cells/python-net/ar/aspose.cells.drawing/msotextframe)

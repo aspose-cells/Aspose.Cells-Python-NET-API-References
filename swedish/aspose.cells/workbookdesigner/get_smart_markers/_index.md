@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
-##  get_smart_markers() {#}
+##  get_smart_markers(self) {#}
 Returnerar en samling smarta markörer i ett kalkylblad.
 
 
@@ -17,6 +17,7 @@ En samling smarta markörer
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_smart_markers(self):
 
 ###  Anmärkningar
 
-En strängmatris skapas vid varje samtal. Arrayen sorteras och duplicerade värden tas bort.
+En strängmatris skapas vid varje anrop. Matrisen sorteras och duplicerade värden tas bort.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

@@ -3,13 +3,13 @@ title: name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 30
+weight: 60
 url: /es/aspose.cells.querytables/powerqueryformulaparameter/name/
 is_root: false
 ---
 ##  name propiedad
 
-Obtiene el name del parámetro.
+Obtiene y establece el name de la fórmula de consulta de potencia.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.querytables](../../)
-* clase [PowerQueryFormulaParameter](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparameter)
+* módulo [`aspose.cells.querytables`](../../)
+* clase [`PowerQueryFormulaParameter`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparameter)

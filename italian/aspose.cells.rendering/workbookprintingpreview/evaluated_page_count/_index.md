@@ -1,6 +1,6 @@
 ---
 title: evaluated_page_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  evaluated_page_count proprietà
 
-Valuta il conteggio totale delle pagine di questa cartella di lavoro
+Valuta il numero totale di pagine di questa cartella di lavoro
 
 ###  Esempio
 
-Il codice seguente mostra il modo più rapido per ottenere il conteggio delle pagine di una cartella di lavoro.
+Il codice seguente mostra il modo più veloce per ottenere il conteggio delle pagine di una cartella di lavoro.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [WorkbookPrintingPreview](/cells/python-net/it/aspose.cells.rendering/workbookprintingpreview)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`WorkbookPrintingPreview`](/cells/python-net/it/aspose.cells.rendering/workbookprintingpreview)

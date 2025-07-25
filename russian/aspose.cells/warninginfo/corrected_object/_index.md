@@ -1,6 +1,6 @@
 ---
 title: corrected_object недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def corrected_object(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WarningInfo](/cells/python-net/ru/aspose.cells/warninginfo)
+* модуль [`aspose.cells`](../../)
+* класс [`WarningInfo`](/cells/python-net/ru/aspose.cells/warninginfo)

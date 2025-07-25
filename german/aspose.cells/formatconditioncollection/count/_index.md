@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  count Eigentum
 
-Ruft die count von den Bedingungen ab.
+Ruft die count der Bedingungen ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)

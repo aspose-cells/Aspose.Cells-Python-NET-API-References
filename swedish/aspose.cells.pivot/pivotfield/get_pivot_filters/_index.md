@@ -3,16 +3,17 @@ title: get_pivot_filters metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 120
 url: /sv/aspose.cells.pivot/pivotfield/get_pivot_filters/
 is_root: false
 ---
-##  get_pivot_filters {#}
+##  get_pivot_filters(self) {#}
 Hämtar pivotfiltren för pivotfältet
 
 
 
 ```python
+
 def get_pivot_filters(self):
     ...
 ```
@@ -20,9 +21,9 @@ def get_pivot_filters(self):
 
 ###  Anmärkningar
 
-OBS: Denna metod är nu föråldrad. Istället,
-använd metoden PivotField.GetFilters().
- Denna metod kommer att tas bort 12 månader senare sedan november 2023.
+OBS! Den här metoden är nu föråldrad. Istället,
+Använd metoden PivotField.GetFilters().
+ Denna metod kommer att tas bort 12 månader senare från och med november 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

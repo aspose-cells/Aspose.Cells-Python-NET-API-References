@@ -1,5 +1,5 @@
 ---
-title: العد ErrorBarDisplayType
+title: ErrorBarDisplayType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 500
 url: /ar/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
-##  العد ErrorBarDisplayType
+##  ErrorBarDisplayType التعداد
 يمثل نوع عرض شريط الخطأ.
 
 
 
-يكشف نوع ErrorBarDisplayType الأعضاء التالية:
+يكشف النوع ErrorBarDisplayType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_position propriété
 
-Spécifie la position du taquet de tabulation par rapport à la marge de gauche.
+Spécifie la position du taquet de tabulation par rapport à la marge gauche.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextTabStop](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextTabStop`](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstop)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical propriété
 
-True si une ligne du fichier Workbook représente une ligne dans DataTable. False si une colonne du fichier Workbook représente une ligne dans DataTable.
+Vrai si une ligne du fichier classeur représente une ligne du DataTable. Faux si une colonne du fichier classeur représente une ligne du DataTable.
 ###  Définition:
 ```python
 @property

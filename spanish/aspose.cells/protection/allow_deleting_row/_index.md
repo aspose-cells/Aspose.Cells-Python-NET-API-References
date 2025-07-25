@@ -13,7 +13,7 @@ Representa si se permite la eliminación de filas en una hoja de cálculo proteg
 
 ###  Observaciones
 
-Las filas que contienen las celdas a eliminar deben desbloquearse cuando la hoja está protegida,
+Las filas que contienen las celdas que se van a eliminar deben estar desbloqueadas cuando la hoja esté protegida,
 y la opción "Seleccionar celdas desbloqueadas" debe estar habilitada.
 ###  Definición:
 ```python
@@ -26,5 +26,5 @@ def allow_deleting_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

@@ -3,13 +3,13 @@ title: protection_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 420
 url: /ar/aspose.cells/workbooksettings/protection_type/
 is_root: false
 ---
 ##  protection_type عقار
 
-الحصول على نوع الحماية للمصنف.
+يحصل على نوع الحماية للمصنف.
 ###  تعريف:
 ```python
 @property

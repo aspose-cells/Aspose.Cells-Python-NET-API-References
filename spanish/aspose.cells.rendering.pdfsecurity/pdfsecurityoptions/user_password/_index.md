@@ -13,17 +13,17 @@ Obtiene o establece la contraseña de usuario necesaria para abrir el documento 
 
 ###  Observaciones
 
-Se solicitará la contraseña del propietario o la contraseña del usuario para abrir un documento cifrado PDF para su visualización.
+Se requerirá la contraseña del propietario o la contraseña del usuario para abrir un documento encriptado PDF para su visualización.
 
 
-La contraseña del usuario puede ser nula o una cadena vacía, en este caso no se requerirá contraseña al usuario al abrir el documento PDF.
+La contraseña del usuario puede ser nula o una cadena vacía, en este caso no se le solicitará contraseña al usuario al abrir el documento PDF.
 
 
-Abrir el documento con la contraseña de propietario correcta permite el acceso completo al documento.
+Abrir el documento con la contraseña de propietario correcta permite acceso completo al documento.
 
 
- Abrir el documento con la contraseña de usuario correcta (o abrir un documento que no tiene contraseña de usuario)
-Permite acceso limitado según los permisos especificados.
+ Abrir el documento con la contraseña de usuario correcta (o abrir un documento que no tiene una contraseña de usuario)
+permite acceso limitado según los permisos especificados.
 ###  Definición:
 ```python
 @property

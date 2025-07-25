@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  keep_macros propriété
 
-Indique si les macros sont conservées ;
+Indique si les macros doivent être conservées ;
 
 ###  Remarques
 
-Uniquement pour copier le classeur.
+Uniquement pour la copie du classeur.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def keep_macros(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

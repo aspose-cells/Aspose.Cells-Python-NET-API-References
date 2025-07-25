@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/sparklineaxisminmaxtype/
 is_root: false
 ---
 ##  SparklineAxisMinMaxType enumeración
-Representa los tipos de valor mínimo y máximo para el eje vertical minigráfico.
+Representa los tipos de valores mínimo y máximo para el eje vertical del gráfico de líneas.
 
 
 
@@ -18,10 +18,10 @@ El tipo SparklineAxisMinMaxType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | AUTO_INDIVIDUAL | Automático para cada minigráfico.|
-| GROUP | Lo mismo para todos los minigráficos del grupo.|
+| GROUP | Lo mismo para todos los sparklines del grupo.|
 | CUSTOM | Valor personalizado para minigráfico.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

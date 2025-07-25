@@ -1,5 +1,5 @@
 ---
-title: ImageOrPrintOptions Konstrukteur
+title: ImageOrPrintOptions Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.rendering/imageorprintoptions/__init__/
 is_root: false
 ---
-##  ImageOrPrintOptions() {#}
-Erstellt eine neue Instanz von ImageOrPrintOptions
+##  \_\_init\_\_(selbst){#}
+Ctor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

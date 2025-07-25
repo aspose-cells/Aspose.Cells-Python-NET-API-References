@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)

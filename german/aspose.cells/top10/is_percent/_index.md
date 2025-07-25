@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_percent Eigentum
 
-Rufen Sie ab oder legen Sie fest, ob eine „Top/Bottom n“-Regel eine „Top/Bottom n Prozent“-Regel ist.
-Der Standardwert ist falsch.
+Ermitteln oder Festlegen, ob es sich bei einer „Oberste/Unterste n“-Regel um eine „Oberste/Unterste n Prozent“-Regel handelt.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Top10](/cells/python-net/de/aspose.cells/top10)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Top10`](/cells/python-net/de/aspose.cells/top10)

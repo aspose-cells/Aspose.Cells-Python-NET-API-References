@@ -10,7 +10,7 @@ is_root: false
 ## is_color_varied属性
 
 表示点的颜色是否变化。
-该图表必须仅包含一个系列。
+图表必须仅包含一个系列。
 ### 定义：
 ```python
 @property

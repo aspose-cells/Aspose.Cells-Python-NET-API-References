@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_italic fastighet
 
-Hämtar eller ställer in ett värde som anger om teckensnittet är kursivt.
+Hämtar eller anger ett värde som anger om teckensnittet är kursivt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_italic(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

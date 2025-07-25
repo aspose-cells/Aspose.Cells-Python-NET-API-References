@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  take_focus_on_click propiedad
 
-Indica si el control toma el foco cuando se hace clic.
+Indica si el control toma el foco al hacer clic.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def take_focus_on_click(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CommandButtonActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CommandButtonActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

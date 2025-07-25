@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionActionType](/cells/python-net/sv/aspose.cells.revisions/revisionactiontype)
-* klass [RevisionInsertDelete](/cells/python-net/sv/aspose.cells.revisions/revisioninsertdelete)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionActionType`](/cells/python-net/sv/aspose.cells.revisions/revisionactiontype)
+* klass [`RevisionInsertDelete`](/cells/python-net/sv/aspose.cells.revisions/revisioninsertdelete)

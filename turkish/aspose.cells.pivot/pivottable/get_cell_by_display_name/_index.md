@@ -7,8 +7,8 @@ weight: 130
 url: /tr/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name {#str}
-[`Cell`](/cells/python-net/tr/aspose.cells/cell) nesnesini PivotField görünen adına göre alır.
+##  get_cell_by_display_name(self, display_name) {#str}
+PivotField'ın görüntü adına göre [`Cell`](/cells/python-net/tr/aspose.cells/cell) nesnesini alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Cell nesnesi
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_cell_by_display_name(self, display_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| display_name | str | PivotField'ın Görünen Adı|
+| display_name | str | PivotField'ın DisplayName'i|
 
 
 

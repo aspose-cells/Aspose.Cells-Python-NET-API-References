@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.externalconnections/connectionparameter/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-name للمعامل.
+name للمعلمة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ConnectionParameter](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ConnectionParameter`](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)

@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionQueryTable](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)
-* klass [RevisionType](/cells/python-net/sv/aspose.cells.revisions/revisiontype)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionQueryTable`](/cells/python-net/sv/aspose.cells.revisions/revisionquerytable)
+* klass [`RevisionType`](/cells/python-net/sv/aspose.cells.revisions/revisiontype)

@@ -3,14 +3,14 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells.digitalsignatures/digitalsignature/text/
 is_root: false
 ---
 ##  text propriété
 
 Spécifie le text de la signature réelle dans la signature numérique.
-La valeur par défaut est Vide.
+La valeur par défaut est vide.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.digitalsignatures](../../)
-* classe [DigitalSignature](/cells/python-net/fr/aspose.cells.digitalsignatures/digitalsignature)
+* module [`aspose.cells.digitalsignatures`](../../)
+* classe [`DigitalSignature`](/cells/python-net/fr/aspose.cells.digitalsignatures/digitalsignature)

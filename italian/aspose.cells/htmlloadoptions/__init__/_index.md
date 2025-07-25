@@ -1,18 +1,19 @@
 ---
 title: HtmlLoadOptions costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/htmlloadoptions/__init__/
 is_root: false
 ---
-##  HtmlLoadOptions() {#}
-Crea un'opzione di caricamento del file.
+##  \_\_init\_\_(self){#}
+Crea un'opzione per il caricamento del file.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  HtmlLoadOptions(load_format) {#LoadFormat}
-Crea un'opzione di caricamento del file.
+##  \_\_init\_\_(self, load_format){#aspose.cells.LoadFormat}
+Crea un'opzione per il caricamento del file.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, load_format):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/it/aspose.cells/loadformat) | Il formato di caricamento.|
+| load_format | [`LoadFormat`](/cells/python-net/it/aspose.cells/loadformat) | Il formato di caricamento.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/it/aspose.cells/htmlloadoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/it/aspose.cells/htmlloadoptions)

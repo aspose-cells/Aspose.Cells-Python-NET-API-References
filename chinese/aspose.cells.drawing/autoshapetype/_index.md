@@ -1,9 +1,9 @@
 ---
 title: AutoShapeType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 750
 url: /zh/aspose.cells.drawing/autoshapetype/
 is_root: false
 ---
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-AutoShapeType 类型公开了以下成员：
+AutoShapeType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NOT_PRIMITIVE |  |
 | RECTANGLE |  |
@@ -153,45 +153,45 @@ AutoShapeType 类型公开了以下成员：
 | FLOW_CHART_DISPLAY |  |
 | FLOW_CHART_DELAY |  |
 | TEXT_PLAIN_TEXT |纯文本形状。|
-| TEXT_STOP |八角形的文字形状。|
+| TEXT_STOP |八角形的文本形状。|
 | TEXT_TRIANGLE |指向上方的三角形文本形状。|
 | TEXT_TRIANGLE_INVERTED |指向下方的三角形文本形状。|
 | TEXT_CHEVRON |指向上方的 V 形文字形状。|
-| TEXT_CHEVRON_INVERTED |指向下方的 V 形文字形状。|
-| TEXT_RING_INSIDE |一个圆形的文字形状，仿佛在阅读戒指内侧的铭文。|
-| TEXT_RING_OUTSIDE |一个圆形的文字形状，好像在读一个戒指外面的铭文。|
-| TEXT_ARCH_UP_CURVE |向上拱形弯曲的文本形状。|
-| TEXT_ARCH_DOWN_CURVE |向下拱形弯曲的文本形状。|
+| TEXT_CHEVRON_INVERTED |指向下方的 V 形文本形状。|
+| TEXT_RING_INSIDE |圆形的文字形状，就像阅读戒指内侧的铭文一样。|
+| TEXT_RING_OUTSIDE |圆形的文字形状，就像在读戒指外面的铭文一样。|
+| TEXT_ARCH_UP_CURVE |向上拱起的弯曲文本形状。|
+| TEXT_ARCH_DOWN_CURVE |向下拱起的弯曲文本形状。|
 | TEXT_CIRCLE_CURVE |圆形文本形状。|
 | TEXT_BUTTON_CURVE |类似于按钮的文本形状。|
-| TEXT_ARCH_UP_POUR |向上拱形的文字形状。|
-| TEXT_ARCH_DOWN_POUR |向下拱形的文本形状。|
+| TEXT_ARCH_UP_POUR |向上拱起的文本形状。|
+| TEXT_ARCH_DOWN_POUR |向下拱起的文本形状。|
 | TEXT_CIRCLE_POUR |圆形文本形状。|
 | TEXT_BUTTON_POUR |类似于按钮的文本形状。|
-| TEXT_CURVE_UP |向上弯曲的文字形状。|
-| TEXT_CURVE_DOWN |向下弯曲的文字形状。|
-| TEXT_CASCADE_UP |层叠的文本形状指向上方。|
-| TEXT_CASCADE_DOWN |层叠的文本形状指向下方。|
-| TEXT_WAVE1 |波浪形的文字形状。|
-| TEXT_WAVE2 |波浪形的文字形状。|
-| TEXT_DOUBLE_WAVE1 |波浪形的文字形状。|
-| TEXT_DOUBLE_WAVE2 |波浪形的文字形状。|
+| TEXT_CURVE_UP |向上弯曲的文本形状。|
+| TEXT_CURVE_DOWN |向下弯曲的文本形状。|
+| TEXT_CASCADE_UP |向上指向的层叠文本形状。|
+| TEXT_CASCADE_DOWN |向下指向的层叠文本形状。|
+| TEXT_WAVE1 |波浪形的文本形状。|
+| TEXT_WAVE2 |波浪形的文本形状。|
+| TEXT_DOUBLE_WAVE1 |波浪形的文本形状。|
+| TEXT_DOUBLE_WAVE2 |波浪形的文本形状。|
 | TEXT_INFLATE |在中间垂直扩展的文本形状。|
-| TEXT_DEFLATE |在中间垂直收缩的文本形状。|
-| TEXT_INFLATE_BOTTOM |在中间向下扩展的文本形状。|
-| TEXT_DEFLATE_BOTTOM |中间向上收缩的文字形状。|
-| TEXT_INFLATE_TOP |在中间向上扩展的文本形状。|
-| TEXT_DEFLATE_TOP |在中间向下收缩的文本形状。|
-| TEXT_DEFLATE_INFLATE |下面的线条向上扩展的文本形状。上面的线收缩以补偿。|
-| TEXT_DEFLATE_INFLATE_DEFLATE |一种文本形状，其中的线条在中心垂直扩展。上下线收缩以补偿。|
-| TEXT_FADE_RIGHT |在右侧垂直收缩的文本形状。|
-| TEXT_FADE_LEFT |在左侧垂直收缩的文本形状。|
-| TEXT_FADE_UP |在顶部水平收缩的文本形状。|
-| TEXT_FADE_DOWN |在底部水平收缩的文本形状。|
+| TEXT_DEFLATE |中间垂直收缩的文本形状。|
+| TEXT_INFLATE_BOTTOM |中间向下扩展的文本形状。|
+| TEXT_DEFLATE_BOTTOM |中间向上收缩的文本形状。|
+| TEXT_INFLATE_TOP |中间向上扩展的文本形状。|
+| TEXT_DEFLATE_TOP |中间向下收缩的文本形状。|
+| TEXT_DEFLATE_INFLATE |一种文本形状，下部线条向上扩展。上部线条收缩以进行补偿。|
+| TEXT_DEFLATE_INFLATE_DEFLATE |一种文本形状，其中心线垂直扩展。上下线收缩以进行补偿。|
+| TEXT_FADE_RIGHT |右侧垂直收缩的文本形状。|
+| TEXT_FADE_LEFT |左侧垂直收缩的文本形状。|
+| TEXT_FADE_UP |顶部水平收缩的文本形状。|
+| TEXT_FADE_DOWN |底部水平收缩的文本形状。|
 | TEXT_SLANT_UP |向上倾斜的文本形状。|
 | TEXT_SLANT_DOWN |向下倾斜的文本形状。|
-| TEXT_CAN_UP |一种向上弯曲的文字形状，就像在罐头的侧面阅读一样。|
-| TEXT_CAN_DOWN |一种向下弯曲的文字形状，就像在罐子的侧面阅读一样。|
+| TEXT_CAN_UP |向上弯曲的文本形状，就像在罐头侧面阅读一样。|
+| TEXT_CAN_DOWN |向下弯曲的文本形状就像在罐头侧面阅读一样。|
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
 | LINE_CALLOUT_NO_BORDER1 |  |
@@ -201,8 +201,8 @@ AutoShapeType 类型公开了以下成员：
 | LEFT_RIGHT_UP_ARROW |  |
 | SUN |  |
 | MOON |  |
-| DOUBLE_BRACKET |括在方括号中的形状。|
-| DOUBLE_BRACE |用大括号括起来的形状。|
+| DOUBLE_BRACKET |括号内的形状。|
+| DOUBLE_BRACE |用括号括起来的形状。|
 | STAR4 |  |
 | DOUBLE_WAVE |  |
 | BLANK_ACTION_BUTTON |  |
@@ -217,7 +217,7 @@ AutoShapeType 类型公开了以下成员：
 | DOCUMENT_ACTION_BUTTON |  |
 | SOUND_ACTION_BUTTON |  |
 | MOVIE_ACTION_BUTTON |  |
-| HOST_CONTROL |不应使用该值。|
+| HOST_CONTROL |不应使用此值。|
 | TEXT_BOX |  |
 | HEPTAGON |  |
 | DECAGON |  |
@@ -265,14 +265,14 @@ AutoShapeType 类型公开了以下成员：
 | CHART_PLUS |  |
 | FRAME |  |
 | MODEL_3D |  |
-| ROUND_CALLOUT | Excel中没有这样的类型|
-| TEXT_ARCH_LEFT_POUR | Excel中没有这样的类型|
-| TEXT_ARCH_RIGHT_POUR | Excel中没有这样的类型|
-| TEXT_ARCH_LEFT_CURVE | Excel中没有这样的类型|
-| TEXT_ARCH_RIGHT_CURVE | Excel中没有这样的类型|
+| ROUND_CALLOUT | Excel 中没有此类型|
+| TEXT_ARCH_LEFT_POUR | Excel 中没有此类型|
+| TEXT_ARCH_RIGHT_POUR | Excel 中没有此类型|
+| TEXT_ARCH_LEFT_CURVE | Excel 中没有此类型|
+| TEXT_ARCH_RIGHT_CURVE | Excel 中没有此类型|
 | UNKNOWN |  |
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

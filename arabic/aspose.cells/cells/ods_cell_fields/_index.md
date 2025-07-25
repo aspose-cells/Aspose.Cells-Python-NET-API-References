@@ -3,13 +3,13 @@ title: ods_cell_fields عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /ar/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---
 ##  ods_cell_fields عقار
 
-يحصل على قائمة حقول المواد المستنفدة للأوزون.
+يحصل على قائمة حقول ods.
 ###  تعريف:
 ```python
 @property

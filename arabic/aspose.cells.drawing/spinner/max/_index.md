@@ -3,13 +3,13 @@ title: max عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ar/aspose.cells.drawing/spinner/max/
 is_root: false
 ---
 ##  max عقار
 
-الحصول على أو تعيين الحد الأقصى لقيمة شريط التمرير أو نطاق القرص الدوار.
+يحصل على القيمة القصوى لشريط التمرير أو نطاق الدوار أو يعينها.
 ###  تعريف:
 ```python
 @property

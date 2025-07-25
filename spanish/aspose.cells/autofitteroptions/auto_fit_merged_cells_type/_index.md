@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_fit_merged_cells_type propiedad
 
-Obtiene y establece el tipo de altura de fila de ajuste automático de las celdas combinadas.
+Obtiene y establece el tipo de ajuste automático de la altura de fila de las celdas fusionadas.
 
 ###  Observaciones
 
-Por defecto, Excel ignora las celdas combinadas al ajustar la altura de la fila, por lo que Aspose.Cells funciona como el valor predeterminado de MS Excel.
-Establezca este tipo para cambiar la forma de ajuste automático de la altura de fila de las celdas combinadas.
+De manera predeterminada, Excel ignora las celdas combinadas al ajustar la altura de la fila, por lo que Aspose.Cells funciona como valor predeterminado de MS Excel.
+Configure este tipo para cambiar la forma de ajuste automático de la altura de fila de las celdas fusionadas.
 ###  Definición:
 ```python
 @property
@@ -26,6 +26,6 @@ def auto_fit_merged_cells_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AutoFitMergedCellsType](/cells/python-net/es/aspose.cells/autofitmergedcellstype)
-* clase [AutoFitterOptions](/cells/python-net/es/aspose.cells/autofitteroptions)
+* módulo [`aspose.cells`](../../)
+* clase [`AutoFitMergedCellsType`](/cells/python-net/es/aspose.cells/autofitmergedcellstype)
+* clase [`AutoFitterOptions`](/cells/python-net/es/aspose.cells/autofitteroptions)

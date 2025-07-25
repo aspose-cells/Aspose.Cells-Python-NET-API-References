@@ -3,7 +3,7 @@ title: ProtectionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2510
+weight: 2480
 url: /fr/aspose.cells/protectiontype/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Le type ProtectionType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| ALL | Représente pour protéger tous.|
-| CONTENTS | Représente pour protéger le contenu, utilisé dans la protection de la feuille de calcul.|
-| OBJECTS | Représente pour protéger les objets, utilisé dans la protection de la feuille de calcul.|
-| SCENARIOS | Représente des scénarios de protection, utilisés dans la protection des feuilles de calcul.|
-| STRUCTURE | Représente la structure de protection, utilisée dans la protection du classeur.|
-| WINDOWS | Représente une fenêtre de protection, utilisée dans la protection du classeur.|
-| NONE | Ne représente aucune protection. Uniquement pour la propriété Reading.|
+| ALL | Représente la protection de tous.|
+| CONTENTS | Représente la protection du contenu, utilisé dans la protection des feuilles de calcul.|
+| OBJECTS | Représente la protection des objets, utilisé dans la protection des feuilles de calcul.|
+| SCENARIOS | Représente la protection des scénarios, utilisés dans la protection des feuilles de calcul.|
+| STRUCTURE | Représente la protection de la structure, utilisée dans la protection du classeur.|
+| WINDOWS | Représente la protection de la fenêtre, utilisée dans la protection du classeur.|
+| NONE | N'offre aucune protection. Uniquement pour la propriété Reading.|
 
 
 

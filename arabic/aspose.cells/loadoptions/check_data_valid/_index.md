@@ -1,5 +1,5 @@
 ---
-title: check_data_valid الملكية
+title: check_data_valid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/loadoptions/check_data_valid/
 is_root: false
 ---
-##  check_data_valid الملكية
+##  check_data_valid عقار
 
-تحقق مما إذا كانت البيانات صالحة في ملف القالب.
+التحقق من صحة البيانات الموجودة في ملف القالب.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [LoadOptions](/cells/python-net/ar/aspose.cells/loadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`LoadOptions`](/cells/python-net/ar/aspose.cells/loadoptions)

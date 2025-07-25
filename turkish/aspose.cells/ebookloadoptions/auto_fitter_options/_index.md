@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options mülk
 
-Otomatik montaj seçeneklerini alır ve ayarlar
+Otomatik uyumlama seçeneklerini alır ve ayarlar
 
 ###  Notlar
 
-Artık yalnızca xlsx, spreadsheetML dosyası için.
+Şimdilik sadece xlsx, spreadsheetML dosyaları için.
 ###  Tanım:
 ```python
 @property

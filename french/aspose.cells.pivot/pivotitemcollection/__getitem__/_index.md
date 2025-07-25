@@ -3,7 +3,7 @@ title: PivotItemCollection indexeur
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 50
 url: /fr/aspose.cells.pivot/pivotitemcollection/__getitem__/
 is_root: false
 ---
@@ -18,5 +18,5 @@ Obtient l'objet PivotItem à l'index spécifique.
 
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotItemCollection](/cells/python-net/fr/aspose.cells.pivot/pivotitemcollection)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotItemCollection`](/cells/python-net/fr/aspose.cells.pivot/pivotitemcollection)

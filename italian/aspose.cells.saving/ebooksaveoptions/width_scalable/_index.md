@@ -1,15 +1,15 @@
 ---
 title: width_scalable proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 720
+weight: 800
 url: /it/aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---
 ##  width_scalable proprietà
 
-Indica se esportare la larghezza della colonna in unità di scala in html.
+Indica se esportare la larghezza della colonna in unità di scala in HTML.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

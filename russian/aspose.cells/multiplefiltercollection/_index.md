@@ -1,14 +1,14 @@
 ---
 title: MultipleFilterCollection класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1100
+weight: 990
 url: /ru/aspose.cells/multiplefiltercollection/
 is_root: false
 ---
 ##  MultipleFilterCollection класс
-Представляет коллекцию из нескольких фильтров.
+Представляет собой коллекцию из нескольких фильтров.
 
 
 
@@ -17,19 +17,19 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/multiplefiltercollection/__init__/#) | Создает один новый экземпляр.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/multiplefiltercollection/__init__/#) |Создает один новый экземпляр.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [match_blank](/cells/python-net/ru/aspose.cells/multiplefiltercollection/match_blank) |Указывает, следует ли фильтровать по пустому значению.|
+| [match_blank](/cells/python-net/ru/aspose.cells/multiplefiltercollection/match_blank) | Указывает, следует ли фильтровать по пробелу.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add](/cells/python-net/ru/aspose.cells/multiplefiltercollection/add/#str) | Добавляет строковый фильтр.|
+| [`add(self, filter)`](/cells/python-net/ru/aspose.cells/multiplefiltercollection/add/#str) | Добавляет строковый фильтр.|
 
 
 

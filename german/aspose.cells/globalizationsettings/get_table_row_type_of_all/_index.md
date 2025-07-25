@@ -7,17 +7,18 @@ weight: 230
 url: /de/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
-Ruft den Typnamen der Tabellenzeilen ab, der aus allen Zeilen in der referenzierten Tabelle besteht.
-Der Standardwert ist „Alle“, daher stellt „#All“ in der Formel alle Zeilen in der referenzierten Tabelle dar.
+##  get_table_row_type_of_all(self) {#}
+Ruft den Typnamen der Tabellenzeilen ab, die aus allen Zeilen in der referenzierten Tabelle bestehen.
+Der Standardwert ist „Alle“, daher stellt „#Alle“ in der Formel alle Zeilen in der referenzierten Tabelle dar.
 
 
 ###  Kehrt zurück
 
-der Typname von Tabellenzeilen
+der Typname der Tabellenzeilen
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

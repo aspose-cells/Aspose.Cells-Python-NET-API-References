@@ -8,12 +8,11 @@ url: /de/aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
 ##  RevisionMergeConflict Klasse
-Stellt einen Überarbeitungsdatensatz dar, der angibt, dass ein Zusammenführungskonflikt aufgetreten ist.
+Stellt einen Revisionsdatensatz dar, der angibt, dass ein Zusammenführungskonflikt aufgetreten ist.
 
 
 
-**Nachlass:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionMergeConflict`](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict)
 
 
 
@@ -23,12 +22,11 @@ Der Typ RevisionMergeConflict macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict/type) | Ruft den Revisionstyp ab.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionMergeConflict](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionMergeConflict`](/cells/python-net/de/aspose.cells.revisions/revisionmergeconflict)

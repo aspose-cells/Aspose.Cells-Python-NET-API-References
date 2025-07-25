@@ -3,13 +3,13 @@ title: threaded_comment_authors属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 390
 url: /zh/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ## threaded_comment_authors属性
 
-获取线索评论作者列表。
+获取主题注意事项作者列表。
 ### 定义：
 ```python
 @property

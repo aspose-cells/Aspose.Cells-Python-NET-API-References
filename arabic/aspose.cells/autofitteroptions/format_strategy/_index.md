@@ -1,19 +1,19 @@
 ---
-title: format_strategy الملكية
+title: format_strategy عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/autofitteroptions/format_strategy/
 is_root: false
 ---
-##  format_strategy الملكية
+##  format_strategy عقار
 
-الحصول على الاستراتيجية المنسقة وتعيينها.
+يحصل على الاستراتيجية المنسقة ويحددها.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي CellStyle من أجل الأداء.
+القيمة الافتراضية هي CellStyle لتحسين الأداء.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def format_strategy(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFitterOptions](/cells/python-net/ar/aspose.cells/autofitteroptions)
-* فئة [CellValueFormatStrategy](/cells/python-net/ar/aspose.cells/cellvalueformatstrategy)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFitterOptions`](/cells/python-net/ar/aspose.cells/autofitteroptions)
+* فئة [`CellValueFormatStrategy`](/cells/python-net/ar/aspose.cells/cellvalueformatstrategy)

@@ -1,6 +1,6 @@
 ---
 title: is_frozen недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_frozen недвижимость
 
-Указывает, может ли пользователь взаимодействовать с надстройкой Office или нет.
+Указывает, может ли пользователь взаимодействовать с надстройкой Office.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_frozen(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtension](/cells/python-net/ru/aspose.cells.webextensions/webextension)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtension`](/cells/python-net/ru/aspose.cells.webextensions/webextension)

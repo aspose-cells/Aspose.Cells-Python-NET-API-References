@@ -8,10 +8,6 @@ url: /tr/aspose.cells.externalconnections/dbconnection/background_refresh/
 is_root: false
 ---
 ##  background_refresh mülk
-
- Bağlantının arka planda (eşzamansız olarak) yenilenip yenilenemeyeceğini belirtir.
-true bağlantının tercih edilen kullanımı arka planda eşzamansız olarak yenilemekse;
-false bağlantının tercih edilen kullanımı ön planda eşzamanlı olarak yenilemekse.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +19,5 @@ def background_refresh(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [DBConnection](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`DBConnection`](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)

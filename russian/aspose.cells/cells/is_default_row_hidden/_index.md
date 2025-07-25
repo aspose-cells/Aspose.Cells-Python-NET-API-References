@@ -1,15 +1,15 @@
 ---
 title: is_default_row_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1060
+weight: 1090
 url: /ru/aspose.cells/cells/is_default_row_hidden/
 is_root: false
 ---
 ##  is_default_row_hidden недвижимость
 
-Указывает, является ли строка скрытой по умолчанию.
+Указывает, скрыта ли строка по умолчанию.
 ###  Определение:
 ```python
 @property

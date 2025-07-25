@@ -3,12 +3,12 @@ title: ExportObjectEvent صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 550
 url: /ar/aspose.cells/exportobjectevent/
 is_root: false
 ---
 ##  ExportObjectEvent صف
-الحدث الذي تم تشغيله عند تصدير كائن، مثل صورة.
+الحدث الذي تم تشغيله عند تصدير كائن، مثل الصورة.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_source](/cells/python-net/ar/aspose.cells/exportobjectevent/get_source/#) | الحصول على الكائن المراد تصديره.|
+| [`get_source(self)`](/cells/python-net/ar/aspose.cells/exportobjectevent/get_source/#) | يحصل على الكائن الذي سيتم تصديره.|
 
 
 

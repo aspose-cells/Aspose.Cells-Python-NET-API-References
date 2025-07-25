@@ -3,7 +3,7 @@ title: is_auto_text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 240
 url: /fr/aspose.cells.charts/legend/is_auto_text/
 is_root: false
 ---

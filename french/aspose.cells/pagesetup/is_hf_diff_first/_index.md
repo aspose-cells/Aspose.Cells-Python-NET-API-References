@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_first propriété
 
-True signifie que l'en-tête/le pied de page de la première page est différent des autres pages.
+Vrai signifie que l'en-tête/pied de page de la première page est différent de celui des autres pages.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_first(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

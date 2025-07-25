@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ReplaceOptions](/cells/python-net/fr/aspose.cells/replaceoptions)
+* module [`aspose.cells`](../../)
+* classe [`ReplaceOptions`](/cells/python-net/fr/aspose.cells/replaceoptions)

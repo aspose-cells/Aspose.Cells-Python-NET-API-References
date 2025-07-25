@@ -1,6 +1,6 @@
 ---
 title: created_time proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ThreadedComment](/cells/python-net/it/aspose.cells/threadedcomment)
+* modulo [`aspose.cells`](../../)
+* classe [`ThreadedComment`](/cells/python-net/it/aspose.cells/threadedcomment)

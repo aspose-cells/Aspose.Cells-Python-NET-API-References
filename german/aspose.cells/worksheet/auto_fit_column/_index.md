@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells/worksheet/auto_fit_column/
 is_root: false
 ---
-##  auto_fit_column(column_index) {#int}
+##  auto_fit_column(self, column_index) {#int}
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index):
     ...
 ```
@@ -25,13 +26,14 @@ def auto_fit_column(self, column_index):
 
 AutoFitColumn ist eine ungenaue Funktion.
 
-##  auto_fit_column(column_index, first_row, last_row) {#int-int-int}
+##  auto_fit_column(self, column_index, first_row, last_row) {#int-int-int}
 
 Passt die Spaltenbreite automatisch an.
 
 
 
 ```python
+
 def auto_fit_column(self, column_index, first_row, last_row):
     ...
 ```
@@ -40,14 +42,14 @@ def auto_fit_column(self, column_index, first_row, last_row):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | column_index | int | Spaltenindex.|
-| first_row | int | Index der ersten Zeile.|
+| first_row | int | Erster Zeilenindex.|
 | last_row | int | Letzter Zeilenindex.|
 ###  Bemerkungen
 
-Diese Methode passt eine Zeile basierend auf dem Inhalt in einem Bereich von Zellen innerhalb der Zeile automatisch an.
+Diese Methode passt eine Zeile automatisch an, basierend auf dem Inhalt eines Zellbereichs innerhalb der Zeile.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

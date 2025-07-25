@@ -1,19 +1,19 @@
 ---
 title: ole_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 350
 url: /ru/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
 ##  ole_size недвижимость
 
-Получает и задает отображаемый размер, когда файл книги используется в качестве объекта Ole.
+Возвращает и задает отображаемый размер, когда файл рабочей книги используется как объект Ole.
 
 ###  Примечания
 
-Значение Null означает отсутствие настройки размера ole.
+Нуль означает отсутствие настройки размера OLE.
 ###  Определение:
 ```python
 @property

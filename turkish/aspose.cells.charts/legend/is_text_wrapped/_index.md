@@ -3,13 +3,13 @@ title: is_text_wrapped mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 320
 url: /tr/aspose.cells.charts/legend/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped mülk
 
-Metnin kaydırılıp kaydırılmadığını gösteren bir değer alır veya ayarlar.
+Metnin sarılıp sarılmadığını gösteren bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

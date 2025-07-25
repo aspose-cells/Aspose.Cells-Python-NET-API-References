@@ -21,5 +21,5 @@ def back_transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PatternFill](/cells/python-net/tr/aspose.cells.drawing/patternfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PatternFill`](/cells/python-net/tr/aspose.cells.drawing/patternfill)

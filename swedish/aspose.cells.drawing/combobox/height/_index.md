@@ -3,13 +3,13 @@ title: height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 430
 url: /sv/aspose.cells.drawing/combobox/height/
 is_root: false
 ---
 ##  height fastighet
 
-Representerar formens height, i pixelenhet.
+Representerar formen height, i pixelenhet.
 
 ###  Exempel
 

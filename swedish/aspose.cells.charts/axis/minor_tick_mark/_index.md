@@ -3,13 +3,13 @@ title: minor_tick_mark fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 350
+weight: 360
 url: /sv/aspose.cells.charts/axis/minor_tick_mark/
 is_root: false
 ---
 ##  minor_tick_mark fastighet
 
-Representerar typen av mindre bock för den angivna axeln.
+Representerar typen av mindre skalstreck för den angivna axeln.
 ###  Definition:
 ```python
 @property

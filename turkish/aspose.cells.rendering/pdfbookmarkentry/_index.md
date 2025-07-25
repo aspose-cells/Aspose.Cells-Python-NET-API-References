@@ -3,34 +3,34 @@ title: PdfBookmarkEntry sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 70
 url: /tr/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry sınıfı
-PdfBookmarkEntry, pdf yer iminde bir giriştir.
-geçerli örneğin Metin özelliği boş veya "" ise,
-mevcut örnek gizlenecek ve çocuklar mevcut seviyeye eklenecektir.
+PdfBookmarkEntry pdf yer iminde bir girdidir.
+geçerli örneğin Metin özelliği null veya "" ise,
+geçerli örnek gizlenecek ve çocuklar geçerli düzeye eklenecek.
 
 
 
-PdfBookmarkEntry türü aşağıdaki üyeleri gösterir:
+PdfBookmarkEntry türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | PdfBookmarkEntry'nin yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | PdfBookmarkEntry'nin yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [text](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/text) | Bir yer iminin başlığı.|
-| [destination](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/destination) | Yer iminin bağlandığı hücre.|
+| [destination](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/destination) |Yer iminin bağlantı yaptığı hücre.|
 | [destination_name](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Hedefin adını alır veya ayarlar.|
-| [sub_entry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Bir yer iminin Alt Girişi.|
-| [is_open](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/is_open) |Bu özellik doğru olduğunda yer imi genişler, aksi halde çöker.|
-| [is_collapse](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Bu özellik doğru olduğunda, yer imi kaydı çöker, aksi halde genişler.|
+| [sub_entry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Bir yer iminin alt girişi.|
+| [is_open](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/is_open) | Bu özellik doğru olduğunda yer imleri kenti genişleyecek, aksi takdirde daralacaktır.|
+| [is_collapse](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Bu özellik doğru olduğunda yer imleri kenti çöker, aksi takdirde genişler.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](..)
+* modül [`aspose.cells.rendering`](..)

@@ -25,6 +25,6 @@ def foreground_theme_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
-* clase [ThemeColor](/cells/python-net/es/aspose.cells/themecolor)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)
+* clase [`ThemeColor`](/cells/python-net/es/aspose.cells/themecolor)

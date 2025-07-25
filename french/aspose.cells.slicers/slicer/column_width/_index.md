@@ -15,7 +15,7 @@ Renvoie ou définit la largeur, en points, de chaque colonne du segment.
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Définition:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

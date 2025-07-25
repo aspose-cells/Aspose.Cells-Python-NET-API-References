@@ -3,20 +3,20 @@ title: source_full_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /tr/aspose.cells.drawing/oleobject/source_full_name/
 is_root: false
 ---
 ##  source_full_name mülk
 
-Bağlantılı OLE nesnesinin kaynak dosyasının kaynak tam adını döndürür.
+Bağlantılı OLE nesnesi için kaynak dosyasının tam adını döndürür.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen OleObject.ObjectSourceFullName özelliğini kullanın.
- Bu mülk, Kasım 2013'ten bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen OleObject.ObjectSourceFullName özelliğini kullanın.
+ Bu özellik Kasım 2013'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

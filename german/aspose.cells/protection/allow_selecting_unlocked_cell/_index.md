@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_selecting_unlocked_cell Eigentum
 
-Stellt dar, ob der Benutzer entsperrte Zellen auf einem geschützten Arbeitsblatt auswählen darf.
+Gibt an, ob der Benutzer nicht gesperrte Zellen in einem geschützten Arbeitsblatt auswählen darf.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_selecting_unlocked_cell(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

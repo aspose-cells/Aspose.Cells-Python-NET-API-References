@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  markers_color propiedad
 
-Obtiene y establece el color de los puntos en cada minigráfico de línea en el grupo de minigráficos.
+Obtiene y establece el color de los puntos en cada minigráfico de línea del grupo de minigráficos.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def markers_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

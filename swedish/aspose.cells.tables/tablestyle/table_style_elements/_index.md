@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  table_style_elements fastighet
 
-Får alla element i bordsstilen.
+Hämtar alla element i tabellformatet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def table_style_elements(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableStyle](/cells/python-net/sv/aspose.cells.tables/tablestyle)
-* klass [TableStyleElementCollection](/cells/python-net/sv/aspose.cells.tables/tablestyleelementcollection)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableStyle`](/cells/python-net/sv/aspose.cells.tables/tablestyle)
+* klass [`TableStyleElementCollection`](/cells/python-net/sv/aspose.cells.tables/tablestyleelementcollection)

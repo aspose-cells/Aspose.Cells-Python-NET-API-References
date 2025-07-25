@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Representerar färgen på linjen.
+Representerar linjens färg.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.tables/listobject/filter/
 is_root: false
 ---
-##  filter() {#}
+##  filter(self) {#}
 تصفية الجدول.
 
 
 
 ```python
+
 def filter(self):
     ...
 ```
@@ -22,5 +23,5 @@ def filter(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

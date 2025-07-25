@@ -1,6 +1,6 @@
 ---
 title: sheet_set proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 300
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  sheet_set proprietà
 
-Ottiene o imposta i fogli di cui eseguire il rendering. Per impostazione predefinita sono tutti i fogli visibili nella cartella di lavoro: [`SheetSet.visible`](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
+Ottiene o imposta i fogli da visualizzare. L'impostazione predefinita è tutti i fogli visibili nella cartella di lavoro: [`SheetSet.visible`](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).
 
 ###  Osservazioni
 
-L'insieme viene ignorato quando viene utilizzato in [`SheetRender`](/cells/python-net/it/aspose.cells.rendering/sheetrender)
+Il set viene ignorato quando viene utilizzato in [`SheetRender`](/cells/python-net/it/aspose.cells.rendering/sheetrender)
 ###  Definizione:
 ```python
 @property

@@ -3,13 +3,13 @@ title: is_horizontal عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 620
 url: /ar/aspose.cells.drawing/scrollbar/is_horizontal/
 is_root: false
 ---
 ##  is_horizontal عقار
 
-يشير إلى ما إذا كان هذا شريط تمرير أفقيًا.
+يشير إلى ما إذا كان هذا شريط تمرير أفقي.
 ###  تعريف:
 ```python
 @property

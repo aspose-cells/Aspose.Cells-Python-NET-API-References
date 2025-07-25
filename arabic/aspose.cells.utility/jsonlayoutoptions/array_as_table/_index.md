@@ -1,5 +1,5 @@
 ---
-title: array_as_table الملكية
+title: array_as_table عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.utility/jsonlayoutoptions/array_as_table/
 is_root: false
 ---
-##  array_as_table الملكية
+##  array_as_table عقار
 
-صفيف العمليات كجدول.
+معالجة المصفوفة كجدول.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.utility](../../)
-* فئة [JsonLayoutOptions](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)
+* الوحدة [`aspose.cells.utility`](../../)
+* فئة [`JsonLayoutOptions`](/cells/python-net/ar/aspose.cells.utility/jsonlayoutoptions)

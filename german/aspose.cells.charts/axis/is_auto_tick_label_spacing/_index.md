@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing Eigentum
 
-Gibt an, ob der Abstand der Teilstrichbeschriftung automatisch erfolgt
+Gibt an, ob der Abstand der Teilstrichbeschriftung automatisch ist
 ###  Definition:
 ```python
 @property

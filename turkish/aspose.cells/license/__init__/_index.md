@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/license/__init__/
 is_root: false
 ---
-##  License() {#}
+##  \_\_init\_\_(kendi){#}
 Bu sınıfın yeni bir örneğini başlatır.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -25,8 +26,8 @@ Bu örnekte, MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacakt�
  içeren klasörde
 
 
-çağıran derlemeyi içeren klasördeki bileşen,
-giriş derlemesinin klasöründe ve ardından çağıran derlemenin katıştırılmış kaynaklarında.
+çağrıyı yapan derlemeyi içeren klasördeki bileşen,
+giriş derlemesinin klasöründe ve ardından çağıran derlemenin gömülü kaynaklarında.
 
 ```python
 from aspose.cells import License
@@ -39,5 +40,5 @@ license.set_license("MyLicense.lic")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [License](/cells/python-net/tr/aspose.cells/license)
+* modül [`aspose.cells`](../../)
+* sınıf [`License`](/cells/python-net/tr/aspose.cells/license)

@@ -10,7 +10,7 @@ is_root: false
 ## is_rectangular_cornered属性
 
 获取或设置一个值，该值指示图表区域是否为矩形角。
-默认为 true。
+默认为真。
 ### 定义：
 ```python
 @property

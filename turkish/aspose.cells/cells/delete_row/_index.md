@@ -7,12 +7,13 @@ weight: 250
 url: /tr/aspose.cells/cells/delete_row/
 is_root: false
 ---
-##  delete_row {#int}
+##  delete_row(self, row_index) {#int}
 Bir satırı siler.
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -20,15 +21,16 @@ def delete_row(self, row_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row_index | int | Silinecek satırın dizini.|
+| row_index | int | Silinecek satırın indeksi.|
 
 
-##  delete_row {#int-bool}
+##  delete_row(self, row_index, update_reference) {#int-bool}
 Bir satırı siler.
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```
@@ -36,8 +38,8 @@ def delete_row(self, row_index, update_reference):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| row_index | int | Silinecek satırın dizini.|
-| update_reference | bool | Diğer çalışma sayfalarındaki referansların güncelleştirilip güncelleştirilmediğini gösterir.|
+| row_index | int | Silinecek satırın indeksi.|
+| update_reference | bool | Diğer çalışma sayfalarındaki referansların güncellenip güncellenmeyeceğini belirtir.|
 
 
 

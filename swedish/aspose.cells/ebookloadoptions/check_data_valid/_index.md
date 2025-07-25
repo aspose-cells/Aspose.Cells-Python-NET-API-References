@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_data_valid fastighet
 
-Kontrollera om data är giltiga i mallfilen.
+Kontrollera om data i mallfilen är giltiga.
 ###  Definition:
 ```python
 @property

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  quality mülk
 
-Oluşturulan görüntülerin quality'ini belirleyen bir değer alır veya ayarlar
-yalnızca sayfaları `Jpeg` biçiminde kaydederken uygulamak için. Varsayılan değer 100'dür
+Oluşturulan görüntülerin quality değerini belirleyen bir değeri alır veya ayarlar
+yalnızca sayfalar `Jpeg` biçiminde kaydedilirken uygulanır. Varsayılan değer 100'dür
 
 ###  Notlar
 
-Yalnızca JPEG'e kaydederken etkili olur.
+Sadece JPEG'e kaydedildiğinde etkilidir.
 Değer 0 ile 100 arasında olmalıdır.
 Varsayılan değer 100'dür.
 ###  Tanım:

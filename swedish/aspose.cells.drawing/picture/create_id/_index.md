@@ -3,13 +3,13 @@ title: create_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 390
 url: /sv/aspose.cells.drawing/picture/create_id/
 is_root: false
 ---
 ##  create_id fastighet
 
-Hämtar och sätter skapa id för denna form.
+Hämtar och anger create-ID för denna form.
 ###  Definition:
 ```python
 @property

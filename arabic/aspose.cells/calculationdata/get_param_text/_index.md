@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/calculationdata/get_param_text/
 is_root: false
 ---
-##  get_param_text(index) {#int}
-الحصول على النص الحرفي للمعامل عند فهرس معين.
+##  get_param_text(self, index) {#int}
+يحصل على النص الحرفي للمعلمة في الفهرس المحدد.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_param_text(self, index):
     ...
 ```
@@ -24,10 +25,10 @@ def get_param_text(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | فهرس المعلمة (0 على أساس)|
+| index | int | مؤشر المعلمة (على أساس 0)|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CalculationData](/cells/python-net/ar/aspose.cells/calculationdata)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationData`](/cells/python-net/ar/aspose.cells/calculationdata)

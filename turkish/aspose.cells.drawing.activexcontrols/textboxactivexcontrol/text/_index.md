@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

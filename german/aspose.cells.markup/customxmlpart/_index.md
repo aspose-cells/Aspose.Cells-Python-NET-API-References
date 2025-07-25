@@ -8,7 +8,7 @@ url: /de/aspose.cells.markup/customxmlpart/
 is_root: false
 ---
 ##  CustomXmlPart Klasse
-Repräsentiert einen benutzerdefinierten XML-Datenspeicherteil (benutzerdefinierte XML-Daten innerhalb eines Pakets).
+Stellt einen benutzerdefinierten XML-Datenspeicherteil dar (benutzerdefinierte XML-Daten innerhalb eines Pakets).
 
 
 
@@ -17,11 +17,11 @@ Der Typ CustomXmlPart macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [data](/cells/python-net/de/aspose.cells.markup/customxmlpart/data) | Ruft den XML-Inhalt dieses benutzerdefinierten XML-Datenspeicherteils ab oder legt diesen fest.|
-| [schema_data](/cells/python-net/de/aspose.cells.markup/customxmlpart/schema_data) | Ruft den XML-Inhalt dieses benutzerdefinierten XML-Schemadatenspeicherteils ab oder legt diesen fest.|
-| [id](/cells/python-net/de/aspose.cells.markup/customxmlpart/id) |Ruft die ID des benutzerdefinierten XML-Teils ab und legt sie fest.|
+| [data](/cells/python-net/de/aspose.cells.markup/customxmlpart/data) | Ruft den XML-Inhalt dieses benutzerdefinierten XML-Datenspeicherteils ab oder legt ihn fest.|
+| [schema_data](/cells/python-net/de/aspose.cells.markup/customxmlpart/schema_data) |Ruft den XML-Inhalt dieses benutzerdefinierten XML-Schema-Datenspeicherteils ab oder legt ihn fest.|
+| [id](/cells/python-net/de/aspose.cells.markup/customxmlpart/id) | Ruft die ID des benutzerdefinierten XML-Teils ab und legt sie fest.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](..)
+* Modul [`aspose.cells.markup`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent fastighet
 
-Returnerar kalkylbladsobjektet som representerar arket som innehåller utsnittet. Skrivskyddad.
+Returnerar objektet [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet) som innehåller denna utsnittare. Skrivskyddad.
 
 ###  Exempel
 
@@ -26,6 +26,6 @@ def parent(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

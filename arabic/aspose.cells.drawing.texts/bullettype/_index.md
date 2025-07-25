@@ -1,5 +1,5 @@
 ---
-title: العد BulletType
+title: BulletType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,22 +7,22 @@ weight: 140
 url: /ar/aspose.cells.drawing.texts/bullettype/
 is_root: false
 ---
-##  العد BulletType
+##  BulletType التعداد
 يمثل نوع الرصاصة.
 
 
 
-يكشف نوع BulletType الأعضاء التالية:
+يكشف النوع BulletType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | لا رصاصة.|
-| CHARACTER | رمز نقطي.|
-| PICTURE | صورة نقطية.|
-| AUTO_NUMBERED | رصاصة مرقمة أوتوماتيكية.|
+| CHARACTER | رصاصة شخصية.|
+| PICTURE | صورة رصاصية.|
+| AUTO_NUMBERED | رصاصة مرقمة أوتوماتيكيًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

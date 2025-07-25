@@ -3,13 +3,13 @@ title: reading_order fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 370
 url: /sv/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---
 ##  reading_order fastighet
 
-Representerar textläsordning.
+Representerar textens läsordning.
 ###  Definition:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: blur proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur proprietà
 
-Ottiene e imposta il numero blur dell'ombra. Intervallo da 0 a 100 punti.
+Ottiene e imposta il valore blur dell'ombra. Intervallo da 0 a 100 punti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ShadowEffect](/cells/python-net/it/aspose.cells.drawing/shadoweffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ShadowEffect`](/cells/python-net/it/aspose.cells.drawing/shadoweffect)

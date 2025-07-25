@@ -3,13 +3,13 @@ title: cell_css_prefix属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells.saving/ebooksaveoptions/cell_css_prefix/
 is_root: false
 ---
 ## cell_css_prefix属性
 
-获取和设置css名称的前缀，默认值为“”。
+获取或设置css名称的前缀，默认值为“”。
 ### 定义：
 ```python
 @property

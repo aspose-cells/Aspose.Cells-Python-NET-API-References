@@ -7,16 +7,17 @@ weight: 140
 url: /tr/aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name {#}
+##  get_multiple_items_name(self) {#}
 PivotTable'daki "(Birden Çok Öğe)" etiketinin adını alır.
 
 
 ###  İadeler
 
-"(Birden Çok Öğe)" etiketinin adı
+"(Birden Fazla Öğe)" etiketinin adı
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_multiple_items_name(self):
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
- Bu mülk, Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

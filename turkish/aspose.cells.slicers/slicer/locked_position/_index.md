@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_position mülk
 
-Belirtilen dilimleyicinin kullanıcı arabirimi kullanılarak taşınabileceğini veya yeniden boyutlandırılabileceğini gösterir.
+Belirtilen dilimleyicinin kullanıcı arayüzü kullanılarak taşınıp taşınamayacağını veya yeniden boyutlandırılıp boyutlandırılamayacağını belirtir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def locked_position(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

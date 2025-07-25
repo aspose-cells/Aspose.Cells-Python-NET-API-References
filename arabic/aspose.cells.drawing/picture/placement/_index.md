@@ -3,14 +3,14 @@ title: placement عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1000
+weight: 1020
 url: /ar/aspose.cells.drawing/picture/placement/
 is_root: false
 ---
 ##  placement عقار
 
-يمثل الطريقة التي يتم بها ربط الكائن الرسومي بالخلايا الموجودة أسفله.
-تتحكم الخاصية في placement لكائن في ورقة العمل.
+يمثل الطريقة التي يتم بها ربط كائن الرسم بالخلايا الموجودة أسفله.
+تتحكم الخاصية في placement لكائن موجود في ورقة العمل.
 
 ###  مثال
 

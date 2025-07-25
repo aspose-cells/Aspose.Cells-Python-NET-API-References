@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiled fastighet
 
-Anger om bilden är sida vid sida över bakgrunden.
+Anger om bilden är kaklad över bakgrunden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ImageActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ImageActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

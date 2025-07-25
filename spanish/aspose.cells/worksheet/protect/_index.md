@@ -3,16 +3,17 @@ title: método protect
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 220
 url: /es/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect {#aspose.cells.ProtectionType}
+##  protect(self, type) {#aspose.cells.ProtectionType}
 Protege la hoja de trabajo.
 
 
 
 ```python
+
 def protect(self, type):
     ...
 ```
@@ -23,15 +24,16 @@ def protect(self, type):
 | type | [`ProtectionType`](/cells/python-net/es/aspose.cells/protectiontype) | Tipo de protección.|
 ###  Observaciones
 
-Este método protege la hoja de trabajo sin contraseña. Puede protect hoja de trabajo en todas las versiones del archivo Excel.
+Este método protege la hoja de cálculo sin contraseña. Es compatible con la hoja de cálculo protect en todas las versiones de Excel.
 
-##  protect {#aspose.cells.ProtectionType-str-str}
+##  protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
 
 Protege la hoja de trabajo.
 
 
 
 ```python
+
 def protect(self, type, password, old_password):
     ...
 ```
@@ -44,7 +46,7 @@ def protect(self, type, password, old_password):
 | old_password | str | Si la hoja de trabajo ya está protegida con una contraseña, proporcione la contraseña anterior.<br/> De lo contrario, puede establecer un valor nulo o una cadena en blanco para este parámetro.|
 ###  Observaciones
 
-Este método puede utilizar la hoja de cálculo protect en todas las versiones del archivo Excel.
+Este método puede trabajar la hoja de cálculo protect en todas las versiones del archivo Excel.
 ###  Ejemplo
 
 

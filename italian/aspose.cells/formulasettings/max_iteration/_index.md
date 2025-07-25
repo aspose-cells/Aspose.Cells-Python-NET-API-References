@@ -1,6 +1,6 @@
 ---
 title: max_iteration proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_iteration proprietà
 
-Le iterazioni massime per risolvere un riferimento circolare.
+Il numero massimo di iterazioni per risolvere un riferimento circolare.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

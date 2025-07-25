@@ -1,34 +1,32 @@
 ---
-title: classe RevisionMergeConflict
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: RevisionMergeConflict classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
 url: /it/aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
-##  classe RevisionMergeConflict
+##  RevisionMergeConflict classe
 Rappresenta un record di revisione che indica che si è verificato un conflitto di unione.
 
 
 
-**Eredità:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/it/aspose.cells.revisions/revision)
+**Eredità:** [`RevisionMergeConflict`](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict)
 
 
 
-Il tipo RevisionMergeConflict espone i membri seguenti:
+Il tipo RevisionMergeConflict espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [type](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict/type) | Ottiene il tipo di revisione.|
-| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict/worksheet) | Ottiene il foglio di lavoro.|
-| [id](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict/id) | Ottiene il numero di questa revisione.|
+| [worksheet](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](..)
-* classe [Revision](/cells/python-net/it/aspose.cells.revisions/revision)
-* classe [RevisionMergeConflict](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict)
+* modulo [`aspose.cells.revisions`](..)
+* classe [`RevisionMergeConflict`](/cells/python-net/it/aspose.cells.revisions/revisionmergeconflict)

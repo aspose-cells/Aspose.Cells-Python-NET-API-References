@@ -3,13 +3,13 @@ title: file_format属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 590
 url: /zh/aspose.cells/workbook/file_format/
 is_root: false
 ---
 ## file_format属性
 
-获取和设置文件格式。
+获取并设置文件格式。
 ### 定义：
 ```python
 @property

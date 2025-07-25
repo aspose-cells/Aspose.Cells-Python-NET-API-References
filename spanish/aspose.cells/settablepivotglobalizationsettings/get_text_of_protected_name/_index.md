@@ -3,20 +3,21 @@ title: método get_text_of_protected_name
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells/settablepivotglobalizationsettings/get_text_of_protected_name/
 is_root: false
 ---
-##  get_text_of_protected_name {#str}
+##  get_text_of_protected_name(self, protected_name) {#str}
 Obtiene el texto del nombre protegido especificado.
 
 
 ###  Devoluciones
 
-Los nombres locales protegidos de PivotTable.
+Los nombres locales protegidos de la tabla dinámica.
 
 
 ```python
+
 def get_text_of_protected_name(self, protected_name):
     ...
 ```
@@ -27,8 +28,8 @@ def get_text_of_protected_name(self, protected_name):
 | protected_name | str | El nombre protegido en la tabla dinámica.|
 ###  Observaciones
 
-En Ms Excel, algunos nombres no pueden usarse como nombre de PivotFields en PivotTable.
-Son diferentes en diferentes regiones, el usuario puede especificarlos explícitamente según la región utilizada.
+En Ms Excel, no se permite el uso de algunos nombres como nombre de campos dinámicos en tablas dinámicas.
+Son diferentes según la región, el usuario puede especificarlos explícitamente según la región utilizada.
 
 
 ###  Ver también

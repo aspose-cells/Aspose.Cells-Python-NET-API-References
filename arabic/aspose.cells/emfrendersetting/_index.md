@@ -3,12 +3,12 @@ title: EmfRenderSetting التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2060
+weight: 1970
 url: /ar/aspose.cells/emfrendersetting/
 is_root: false
 ---
 ##  EmfRenderSetting التعداد
-الإعداد لتقديم ملف التعريف Emf.
+إعداد لعرض ملف التعريف Emf.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| EMF_ONLY | تقديم سجلات Emf فقط.|
-| EMF_PLUS_PREFER | تفضل تقديم سجلات EmfPlus.|
+| EMF_ONLY | عرض سجلات Emf فقط.|
+| EMF_PLUS_PREFER | يفضل عرض سجلات EmfPlus.|
 
 
 

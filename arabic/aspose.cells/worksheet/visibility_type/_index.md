@@ -3,7 +3,7 @@ title: visibility_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 940
 url: /ar/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---

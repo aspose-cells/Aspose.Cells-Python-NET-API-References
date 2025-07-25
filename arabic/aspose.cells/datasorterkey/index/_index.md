@@ -1,5 +1,5 @@
 ---
-title: index الملكية
+title: index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/datasorterkey/index/
 is_root: false
 ---
-##  index الملكية
+##  index عقار
 
-الحصول على العمود الذي تم فرزه index (الموضع المطلق ، العمود A يساوي 0 ، B هو 1 ، ...).
+يحصل على العمود المفرز index (الموضع المطلق، العمود A هو 0، B هو 1، ...).
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorterKey](/cells/python-net/ar/aspose.cells/datasorterkey)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorterKey`](/cells/python-net/ar/aspose.cells/datasorterkey)

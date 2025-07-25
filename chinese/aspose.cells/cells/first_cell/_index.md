@@ -3,7 +3,7 @@ title: first_cell属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1040
+weight: 1060
 url: /zh/aspose.cells/cells/first_cell/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取此工作表中的第一个单元格。
 
-### 评论
+### 注意事项
 
 如果工作表中没有数据，则返回 null。
 ### 定义：

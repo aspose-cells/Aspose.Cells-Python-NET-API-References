@@ -1,13 +1,13 @@
 ---
-title: pic_format_option 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: pic_format_option属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.drawing/texturefill/pic_format_option/
 is_root: false
 ---
-## pic_format_option 属性
+## pic_format_option属性
 
 获取或设置图片格式选项。
 ### 定义：
@@ -21,6 +21,6 @@ def pic_format_option(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [PicFormatOption](/cells/python-net/zh/aspose.cells.drawing/picformatoption)
-* 类 [TextureFill](/cells/python-net/zh/aspose.cells.drawing/texturefill)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`PicFormatOption`](/cells/python-net/zh/aspose.cells.drawing/picformatoption)
+* 类 [`TextureFill`](/cells/python-net/zh/aspose.cells.drawing/texturefill)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space Eigentum
 
-Ruft die Menge an vertikalem Leerraum ab, die in einem Absatz verwendet wird, und legt diese fest.
+Ruft die Menge an vertikalem Leerraum ab, die innerhalb eines Absatzes verwendet wird, und legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_space(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

@@ -3,13 +3,13 @@ title: is_full_path_link propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 500
+weight: 580
 url: /es/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link propiedad
 
-Indicando si se utiliza el enlace de ruta completa ensheet00x.htm,filelist.xml y tabstrip.htm.
+Indica si se utiliza el vínculo de ruta completa en sheet00x.htm, filelist.xml y tabstrip.htm.
 El valor predeterminado es falso.
 ###  Definición:
 ```python

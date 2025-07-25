@@ -1,60 +1,64 @@
 ---
 title: export_range_to_json метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.utility/jsonutility/export_range_to_json/
 is_root: false
 ---
-##  export_range_to_json(range, options) {#Range-ExportRangeToJsonOptions}
-Экспорт диапазона в файл json.
+##  export_range_to_json(, диапазон, параметры){#aspose.cells.Range-aspose.cells.utility.ExportRangeToJsonOptions}
+Экспорт диапазона в JSON-файл.
 
 
-###  Возвращает
+###  Возврат
 
-Строковое значение json.
+Значение строки JSON.
 
 
 ```python
-def export_range_to_json(self, range, options):
+
+@staticmethod
+def export_range_to_json(range, options):
     ...
 ```
 
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Диапазон.|
-| options | [ExportRangeToJsonOptions](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions) | Варианты экспорта.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Ассортимент.|
+| options | [`ExportRangeToJsonOptions`](/cells/python-net/ru/aspose.cells.utility/exportrangetojsonoptions) | Возможности экспорта.|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
-используйте метод ExportRangeToJson (диапазон диапазонов, параметры JsonSaveOptions).
- Это свойство будет удалено через 6 месяцев с ноября 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+используйте метод ExportRangeToJson(Range range, JsonSaveOptions options).
+ Этот объект будет снесен через 6 месяцев с ноября 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
-##  export_range_to_json(range, options) {#Range-JsonSaveOptions}
-Экспорт диапазона в файл json.
+##  export_range_to_json(, диапазон, параметры){#aspose.cells.Range-aspose.cells.JsonSaveOptions}
+Экспорт диапазона в JSON-файл.
 
 
-###  Возвращает
+###  Возврат
 
-Строковое значение json.
+Значение строки JSON.
 
 
 ```python
-def export_range_to_json(self, range, options):
+
+@staticmethod
+def export_range_to_json(range, options):
     ...
 ```
 
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ru/aspose.cells/range) | Диапазон.|
-| options | [JsonSaveOptions](/cells/python-net/ru/aspose.cells/jsonsaveoptions) | Варианты экспорта.|
+| range | [`Range`](/cells/python-net/ru/aspose.cells/range) | Ассортимент.|
+| options | [`JsonSaveOptions`](/cells/python-net/ru/aspose.cells/jsonsaveoptions) | Возможности экспорта.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonUtility](/cells/python-net/ru/aspose.cells.utility/jsonutility)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonUtility`](/cells/python-net/ru/aspose.cells.utility/jsonutility)

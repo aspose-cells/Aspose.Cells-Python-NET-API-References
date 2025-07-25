@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes Eigentum
 
-Die indexes der Spalten/Zeilen, die exportiert werden sollen.
+Die indexes Spalten/Zeilen, die exportiert werden sollen.
 ###  Definition:
 ```python
 @property

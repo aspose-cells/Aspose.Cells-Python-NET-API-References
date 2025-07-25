@@ -1,5 +1,5 @@
 ---
-title: locked_aspect_ratio الملكية
+title: locked_aspect_ratio عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 160
 url: /ar/aspose.cells.slicers/slicer/locked_aspect_ratio/
 is_root: false
 ---
-##  locked_aspect_ratio الملكية
+##  locked_aspect_ratio عقار
 
-يشير إلى ما إذا كان قفل نسبة العرض إلى الارتفاع.
+يشير إلى ما إذا كان يتم قفل نسبة العرض إلى الارتفاع.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

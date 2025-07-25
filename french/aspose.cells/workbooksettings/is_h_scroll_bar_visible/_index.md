@@ -3,7 +3,7 @@ title: is_h_scroll_bar_visible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 270
 url: /fr/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient ou définit une valeur indiquant si la feuille de calcul générée cont
 
 ###  Remarques
 
-La valeur par défaut est vraie.
+La valeur par défaut est vrai.
 
 ###  Exemple
 

@@ -1,13 +1,13 @@
 ---
 title: verify_password方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/protection/verify_password/
 is_root: false
 ---
-##  verify_password(password) {#str}
+##  verify_password(self, password) {#str}
 验证密码。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def verify_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def verify_password(self, password):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Protection](/cells/python-net/zh/aspose.cells/protection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Protection`](/cells/python-net/zh/aspose.cells/protection)

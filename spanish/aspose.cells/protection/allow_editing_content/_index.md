@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_content propiedad
 
-Representa si el usuario puede editar el contenido de las celdas bloqueadas en una hoja de cálculo protegida.
+Representa si el usuario tiene permiso para editar el contenido de las celdas bloqueadas en una hoja de cálculo protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_content(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

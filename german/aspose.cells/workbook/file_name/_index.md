@@ -3,7 +3,7 @@ title: file_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 570
+weight: 600
 url: /de/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ruft den aktuellen Dateinamen ab und legt ihn fest.
 
 ###  Bemerkungen
 
-Wenn die Datei per Stream geöffnet wird und einige externe Formelverweise vorhanden sind,
+Wenn die Datei per Stream geöffnet wird und einige externe Formelreferenzen vorhanden sind,
 Bitte legen Sie den Dateinamen fest.
 ###  Definition:
 ```python

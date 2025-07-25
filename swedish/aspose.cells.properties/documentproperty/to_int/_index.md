@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.properties/documentproperty/to_int/
 is_root: false
 ---
-##  to_int() {#}
-Returnerar egenskapsvärdet som heltal.
+##  to_int(self) {#}
+Returnerar egenskapsvärdet som ett heltal.
 
 
 
 ```python
+
 def to_int(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_int(self):
 
 ###  Anmärkningar
 
-Kastar ett undantag om egenskapstypen inte är PropertyType.Number.
+Utlöser ett undantag om egenskapstypen inte är PropertyType.Number.
 
 
 ###  Se även
 
-* modul [aspose.cells.properties](../../)
-* klass [DocumentProperty](/cells/python-net/sv/aspose.cells.properties/documentproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`DocumentProperty`](/cells/python-net/sv/aspose.cells.properties/documentproperty)

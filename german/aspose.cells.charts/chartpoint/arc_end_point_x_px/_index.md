@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  arc_end_point_x_px Eigentum
 
-Ruft die x-Koordinate des Endpunkts für den Tortenabschnitt ab, nachdem die Chart.Calculate()-Methode aufgerufen wurde.
+Ruft die X-Koordinate des Endpunkts für den Kreisabschnitt ab, nachdem die Methode Chart.Calculate() aufgerufen wurde.
 Gilt für Kreis- und Ringdiagramme.
 ###  Definition:
 ```python
@@ -19,5 +19,5 @@ def arc_end_point_x_px(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

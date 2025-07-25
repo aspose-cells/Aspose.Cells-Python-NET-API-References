@@ -3,25 +3,25 @@ title: ControlPictureSizeMode numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 210
 url: /tr/aspose.cells.drawing.activexcontrols/controlpicturesizemode/
 is_root: false
 ---
 ##  ControlPictureSizeMode numaralandırma
-Resmin nasıl görüntüleneceğini temsil eder.
+Resmin nasıl görüntüleneceğini gösterir.
 
 
 
-ControlPictureSizeMode türü aşağıdaki üyeleri gösterir:
+ControlPictureSizeMode türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| CLIP | Resmin, denetimin sınırlarından daha büyük olan herhangi bir bölümünü kırpar.|
-| STRETCH | Resmi kontrol alanını dolduracak şekilde uzatır.<br/> Bu ayar, resmi yatay veya dikey yönde bozar.|
-| ZOOM | Resmi büyütür ancak resmi yatay veya dikey yönde bozmaz.|
+| CLIP | Resmin, kontrolün sınırlarından daha büyük olan herhangi bir bölümünü keser.|
+| STRETCH | Resmi, kontrolün alanını dolduracak şekilde gerer.<br/> Bu ayar, görüntüyü yatay veya dikey yönde bozar.|
+| ZOOM | Görüntüyü büyütür, ancak yatay veya dikey yönde görüntüyü bozmaz.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

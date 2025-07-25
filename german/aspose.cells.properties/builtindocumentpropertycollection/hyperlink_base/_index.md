@@ -3,13 +3,13 @@ title: hyperlink_base Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 210
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/hyperlink_base/
 is_root: false
 ---
 ##  hyperlink_base Eigentum
 
-Ruft die hyperlinkbase-Eigenschaft ab oder legt diese fest.
+Ruft die Hyperlinkbase-Eigenschaft ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def hyperlink_base(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

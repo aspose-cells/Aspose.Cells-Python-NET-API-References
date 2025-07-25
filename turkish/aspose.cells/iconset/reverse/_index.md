@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  reverse mülk
 
-Bu simge setindeki simgelerin varsayılan sırasının tersine çevrilip çevrilmeyeceğini gösteren bayrağı alın veya ayarlayın.
-Varsayılan değer yanlıştır.
+Bu simge setindeki simgelerin varsayılan sırasının tersine çevrilip çevrilmeyeceğini belirten bayrağı alın veya ayarlayın.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IconSet](/cells/python-net/tr/aspose.cells/iconset)
+* modül [`aspose.cells`](../../)
+* sınıf [`IconSet`](/cells/python-net/tr/aspose.cells/iconset)

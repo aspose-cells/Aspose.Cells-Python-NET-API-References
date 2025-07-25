@@ -3,21 +3,22 @@ title: método get_characters
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 90
 url: /es/aspose.cells.drawing/cellsdrawing/get_characters/
 is_root: false
 ---
-##  get_characters {#}
- Devuelve todos los objetos de personajes.
-que representa una variedad de caracteres dentro del texto.
+##  get_characters(self) {#}
+ Devuelve todos los objetos de Personajes
+que representa un rango de caracteres dentro del texto.
 
 
 ###  Devoluciones
 
-Todos los objetos de personajes
+Todos los objetos de Personajes
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,10 +26,10 @@ def get_characters(self):
 
 ###  Observaciones
 
-NOTA: Este método ahora está obsoleto. En cambio,
-utilice el método Shape.GetRichFormattings().
+NOTA: Este método ya no está disponible. En su lugar,
+Utilice el método Shape.GetRichFormattings().
  Este método se eliminará 12 meses después, a partir de noviembre de 2023.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Ejemplo
 
 ```python

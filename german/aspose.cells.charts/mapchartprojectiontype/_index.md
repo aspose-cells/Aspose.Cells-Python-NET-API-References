@@ -18,11 +18,11 @@ Der Typ MapChartProjectionType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | AUTOMATIC | Automatisch|
-| MERCATOR | Merkator|
+| MERCATOR | Mercator|
 | MILLER | Müller|
 | ALBERS | Albers|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

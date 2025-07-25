@@ -1,6 +1,6 @@
 ---
 title: variant proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def variant(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TwoColorGradient](/cells/python-net/it/aspose.cells/twocolorgradient)
+* modulo [`aspose.cells`](../../)
+* classe [`TwoColorGradient`](/cells/python-net/it/aspose.cells/twocolorgradient)

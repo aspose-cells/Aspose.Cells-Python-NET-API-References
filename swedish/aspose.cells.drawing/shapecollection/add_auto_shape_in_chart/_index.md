@@ -7,8 +7,8 @@ weight: 50
 url: /sv/aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/
 is_root: false
 ---
-##  add_auto_shape_in_chart(type, top, left, height, width) {#AutoShapeType-int-int-int-int}
-Lägger till en AutoShape i diagrammet.
+##  add_auto_shape_in_chart(self, type, top, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int}
+Lägger till en autoform i diagrammet.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Returnerar ett formobjekt.
 
 
 ```python
+
 def add_auto_shape_in_chart(self, type, top, left, height, width):
     ...
 ```
@@ -24,17 +25,17 @@ def add_auto_shape_in_chart(self, type, top, left, height, width):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/sv/aspose.cells.drawing/autoshapetype) | Automatisk formtyp.|
-| top | int | Representerar den vertikala förskjutningen av textrutan från det övre vänstra hörnet i enheter på 1/4000 av kartytan.|
-| left | int | Representerar den vertikala förskjutningen av textrutan från det övre vänstra hörnet i enheter på 1/4000 av kartytan.|
-| height | int | Representerar höjden på textrutan, i enheter på 1/4000 av kartytan.|
-| width | int | Representerar bredden på textrutan, i enheter på 1/4000 av kartytan.|
+| type | [`AutoShapeType`](/cells/python-net/sv/aspose.cells.drawing/autoshapetype) | Automatisk formtyp.|
+| top | int | Representerar textrutans vertikala förskjutning från det övre vänstra hörnet i enheter om 1/4000 av diagramområdet.|
+| left | int | Representerar textrutans vertikala förskjutning från det övre vänstra hörnet i enheter om 1/4000 av diagramområdet.|
+| height | int | Representerar textrutans höjd, i enheter om 1/4000 av diagrammets yta.|
+| width | int | Representerar textrutans bredd, i enheter om 1/4000 av diagrammets yta.|
 ###  Anmärkningar
 
-Typen kunde inte vara Chart/Comment/Picture/OleObject/Polygon/DialogBox
+Typen kunde inte vara Diagram/Kommentar/Bild/OleObjekt/Polygon/DialogBox
 
 
 ###  Se även
 
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -3,13 +3,13 @@ title: lower_delta_x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 770
+weight: 780
 url: /tr/aspose.cells.drawing/checkbox/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x mülk
 
-Şeklin yatay uzaklığını sağ alt köşe sütunundan alır veya ayarlar.
+Şeklin sağ alt köşesindeki sütundan yatay uzaklığını alır veya ayarlar.
 
 ###  Notlar
 

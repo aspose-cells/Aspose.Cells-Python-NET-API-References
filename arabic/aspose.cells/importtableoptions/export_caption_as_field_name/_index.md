@@ -1,5 +1,5 @@
 ---
-title: export_caption_as_field_name الملكية
+title: export_caption_as_field_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells/importtableoptions/export_caption_as_field_name/
 is_root: false
 ---
-##  export_caption_as_field_name الملكية
+##  export_caption_as_field_name عقار
 
-يشير إلى ما إذا كان سيتم تصدير التسمية التوضيحية كاسم حقل
+يشير إلى ما إذا كان يتم تصدير التسمية التوضيحية كاسم حقل
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

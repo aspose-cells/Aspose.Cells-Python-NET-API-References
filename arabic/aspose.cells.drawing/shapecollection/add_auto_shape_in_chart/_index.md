@@ -7,8 +7,8 @@ weight: 50
 url: /ar/aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/
 is_root: false
 ---
-##  add_auto_shape_in_chart(type, top, left, height, width) {#AutoShapeType-int-int-int-int}
-يضيف شكلاً تلقائيًا إلى المخطط.
+##  add_auto_shape_in_chart(self, type, top, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int}
+إضافة شكل تلقائي إلى الرسم البياني.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_auto_shape_in_chart(self, type, top, left, height, width):
     ...
 ```
@@ -24,17 +25,17 @@ def add_auto_shape_in_chart(self, type, top, left, height, width):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/ar/aspose.cells.drawing/autoshapetype) | نوع الشكل التلقائي.|
-| top | int | يمثل الإزاحة الرأسية لمربع النص من الزاوية اليسرى العليا بوحدات 1/4000 من منطقة الرسم البياني.|
-| left | int | يمثل الإزاحة الرأسية لمربع النص من الزاوية اليسرى العليا بوحدات 1/4000 من منطقة الرسم البياني.|
-| height | int | يمثل ارتفاع مربع النص ، بوحدات 1/4000 من منطقة الرسم البياني.|
-| width | int | يمثل عرض مربع النص بوحدات 1/4000 من مساحة الرسم البياني.|
+| type | [`AutoShapeType`](/cells/python-net/ar/aspose.cells.drawing/autoshapetype) | نوع الشكل التلقائي.|
+| top | int | يمثل الإزاحة الرأسية لمربع النص من الزاوية اليسرى العليا بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| left | int | يمثل الإزاحة الرأسية لمربع النص من الزاوية اليسرى العليا بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| height | int | يمثل ارتفاع مربع النص، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| width | int | يمثل عرض مربع النص، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
 ###  ملاحظات
 
-لا يمكن أن يكون النوع Chart / Comment / Picture / OleObject / Polygon / DialogBox
+لا يمكن أن يكون النوع Chart/Comment/Picture/OleObject/Polygon/DialogBox
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)

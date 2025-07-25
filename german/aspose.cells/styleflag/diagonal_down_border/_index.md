@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_down_border Eigentum
 
-Die Randeinstellungen für die Diagonale nach unten werden angewendet.
+Die Einstellungen für den diagonalen Rahmen nach unten werden angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_down_border(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

@@ -3,20 +3,21 @@ title: group yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 460
 url: /tr/aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
-##  group(group_items) {#list}
+##  group(self, group_items) {#list}
 Şekilleri gruplandırın.
 
 
 ###  İadeler
 
-group şeklini döndürün.
+group şeklini döndür.
 
 
 ```python
+
 def group(self, group_items):
     ...
 ```
@@ -28,7 +29,7 @@ def group(self, group_items):
 ###  Notlar
 
 groupItems içindeki şekil gruplandırılmamalıdır.
-Şekil, bu Şekiller koleksiyonunda olmalıdır.
+Şekil bu Şekiller koleksiyonunda olmalıdır.
 ###  Örnek
 
 ```python
@@ -45,5 +46,5 @@ groupShape = shapes.group(shapesArr)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

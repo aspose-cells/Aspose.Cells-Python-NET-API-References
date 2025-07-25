@@ -1,6 +1,6 @@
 ---
 title: hide_selection proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_selection proprietà
 
-Indica se il testo selezionato nel controllo appare evidenziato quando il controllo non ha lo stato attivo.
+Indica se il testo selezionato nel controllo appare evidenziato quando il controllo non è attivo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_selection(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -21,5 +21,5 @@ def column_widths(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

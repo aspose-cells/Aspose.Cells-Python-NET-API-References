@@ -3,13 +3,13 @@ title: shadow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 880
+weight: 890
 url: /sv/aspose.cells.drawing/groupbox/shadow/
 is_root: false
 ---
 ##  shadow fastighet
 
-Indikerar om gruppboxen har shadow.
+Anger om gruppboxen har shadow.
 ###  Definition:
 ```python
 @property

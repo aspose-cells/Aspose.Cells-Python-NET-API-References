@@ -1,5 +1,5 @@
 ---
-title: old_formula الملكية
+title: old_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 110
 url: /ar/aspose.cells.revisions/revisioncellchange/old_formula/
 is_root: false
 ---
-##  old_formula الملكية
+##  old_formula عقار
 
 يحصل على الصيغة القديمة.
 ###  تعريف:
@@ -18,5 +18,5 @@ def old_formula(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionCellChange](/cells/python-net/ar/aspose.cells.revisions/revisioncellchange)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionCellChange`](/cells/python-net/ar/aspose.cells.revisions/revisioncellchange)

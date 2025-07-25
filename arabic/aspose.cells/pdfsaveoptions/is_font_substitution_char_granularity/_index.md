@@ -1,19 +1,13 @@
 ---
-title: is_font_substitution_char_granularity الملكية
+title: is_font_substitution_char_granularity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 310
 url: /ar/aspose.cells/pdfsaveoptions/is_font_substitution_char_granularity/
 is_root: false
 ---
-##  is_font_substitution_char_granularity الملكية
-
-الإشارة إلى ما إذا كان سيتم استبدال خط الحرف فقط عندما لا يكون خط الخلية متوافقًا معه.
-
-###  ملاحظات
-
-الافتراضي هو خطأ. سنحاول الخط الافتراضي لـ Workbook و PdfSaveOption / system لخط الخلية أولاً.
+##  is_font_substitution_char_granularity عقار
 ###  تعريف:
 ```python
 @property
@@ -25,5 +19,5 @@ def is_font_substitution_char_granularity(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

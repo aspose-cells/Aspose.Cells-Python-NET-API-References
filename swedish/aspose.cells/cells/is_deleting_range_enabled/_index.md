@@ -3,12 +3,12 @@ title: is_deleting_range_enabled metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 770
 url: /sv/aspose.cells/cells/is_deleting_range_enabled/
 is_root: false
 ---
-##  is_deleting_range_enabled {#int-int-int-int}
-Kontrollera om intervallet kan raderas.
+##  is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+Kontrollera om intervallet kan tas bort.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Kontrollera om intervallet kan raderas.
 
 
 ```python
+
 def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -24,8 +25,8 @@ def is_deleting_range_enabled(self, start_row, start_column, total_rows, total_c
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Startradindex för intervallet.|
-| start_column | int | Startkolumnindex för intervallet.|
+| start_row | int | Indexet för startrad för intervallet.|
+| start_column | int | Startkolumnindexet för intervallet.|
 | total_rows | int | Antalet rader i intervallet.|
 | total_columns | int | Antalet kolumner i intervallet.|
 

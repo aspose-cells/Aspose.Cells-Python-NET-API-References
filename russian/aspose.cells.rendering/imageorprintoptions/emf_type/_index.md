@@ -1,6 +1,6 @@
 ---
 title: emf_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  emf_type недвижимость
 
-Получает или задает EmfType, указывающий формат метафайла.
+Возвращает или задает EmfType, который определяет формат метафайла.
 Значение по умолчанию — EmfPlusDual.
 ###  Определение:
 ```python

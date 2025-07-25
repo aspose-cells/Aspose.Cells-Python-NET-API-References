@@ -3,13 +3,13 @@ title: window_top_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 610
 url: /tr/aspose.cells/workbooksettings/window_top_inch/
 is_root: false
 ---
 ##  window_top_inch mülk
 
-İstemci alanının üst kenarından pencerenin üst kenarına kadar inç birimi cinsinden mesafe.
+Müşteri alanının üst kenarından pencerenin üst kenarına kadar olan mesafe, inç cinsinden.
 ###  Tanım:
 ```python
 @property

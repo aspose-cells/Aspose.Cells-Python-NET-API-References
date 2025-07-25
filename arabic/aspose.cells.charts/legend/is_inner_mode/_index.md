@@ -3,18 +3,18 @@ title: is_inner_mode عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 290
 url: /ar/aspose.cells.charts/legend/is_inner_mode/
 is_root: false
 ---
 ##  is_inner_mode عقار
 
-الإشارة إلى ما إذا كان حجم مساحة الرسم يتضمن علامات التجزئة وتسميات المحاور.
-يحدد False أن الحجم يجب أن يحدد حجم منطقة الرسم وعلامات التجزئة وتسميات المحاور.
+يشير إلى ما إذا كان حجم مساحة الرسم البياني يتضمن علامات التجزئة وعلامات المحور.
+يشير "خطأ" إلى أن الحجم يجب أن يحدد حجم منطقة الرسم البياني وعلامات التجزئة وعلامات المحور.
 
 ###  ملاحظات
 
-فقط لملف XLSX.
+فقط لملفات Xlsx.
 ###  تعريف:
 ```python
 @property

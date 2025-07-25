@@ -1,16 +1,16 @@
 ---
-title: auto_scale_font 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: auto_scale_font属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.charts/chartdatatable/auto_scale_font/
 is_root: false
 ---
-## auto_scale_font 属性
+## auto_scale_font属性
 
-如果对象中的文本在对象大小更改时更改字体大小，则为真。
-默认值是true。
+如果对象中的文本的字体大小随着对象大小的改变而改变，则为真。
+默认值为 True。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def auto_scale_font(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartDataTable](/cells/python-net/zh/aspose.cells.charts/chartdatatable)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartDataTable`](/cells/python-net/zh/aspose.cells.charts/chartdatatable)

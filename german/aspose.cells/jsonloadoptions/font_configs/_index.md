@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  font_configs Eigentum
 
- Ruft individuelle Schriftartkonfigurationen ab und legt sie fest.
-Funktioniert nur für die [Workbook](/cells/python-net/de/aspose.cells/workbook), die diese [LoadOptions](/cells/python-net/de/aspose.cells/loadoptions) zum Laden verwendet.
+ Ruft einzelne Schriftartkonfigurationen ab und legt sie fest.
+Funktioniert nur für [`Workbook`](/cells/python-net/de/aspose.cells/workbook), das diese [`LoadOptions`](/cells/python-net/de/aspose.cells/loadoptions) zum Laden verwendet.
 ###  Definition:
 ```python
 @property
@@ -22,8 +22,8 @@ def font_configs(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IndividualFontConfigs](/cells/python-net/de/aspose.cells/individualfontconfigs)
-* Klasse [JsonLoadOptions](/cells/python-net/de/aspose.cells/jsonloadoptions)
-* Klasse [LoadOptions](/cells/python-net/de/aspose.cells/loadoptions)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IndividualFontConfigs`](/cells/python-net/de/aspose.cells/individualfontconfigs)
+* Klasse [`JsonLoadOptions`](/cells/python-net/de/aspose.cells/jsonloadoptions)
+* Klasse [`LoadOptions`](/cells/python-net/de/aspose.cells/loadoptions)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_id propiedad
 
-Obtiene el ID del campo de tabla de consulta específico que se eliminó.
+Obtiene el ID del campo de la tabla de consulta específica que se eliminó.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def field_id(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionQueryTable](/cells/python-net/es/aspose.cells.revisions/revisionquerytable)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionQueryTable`](/cells/python-net/es/aspose.cells.revisions/revisionquerytable)

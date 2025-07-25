@@ -1,18 +1,18 @@
 ---
-title: classe TextParagraphCollection
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: TextParagraphCollection classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
 url: /it/aspose.cells.drawing.texts/textparagraphcollection/
 is_root: false
 ---
-##  classe TextParagraphCollection
-Rappresenta tutti i paragrafi di testo.
+##  TextParagraphCollection classe
+Rappresenta tutto il paragrafo di testo.
 
 
 
-Il tipo TextParagraphCollection espone i membri seguenti:
+Il tipo TextParagraphCollection espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
@@ -21,20 +21,14 @@ Il tipo TextParagraphCollection espone i membri seguenti:
 
 
 
-Ottiene l'oggetto [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph) in corrispondenza di un indice specifico.
+Ottiene l'oggetto [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph) all'indice specifico.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
 | [index] | L'indice.|
 
 
-###  Metodi
-| Metodo| Descrizione|
-| :- | :- |
-| [get_enumerator()](/cells/python-net/it/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Ottiene l'enumeratore dei paragrafi.|
-
-
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* modulo [`aspose.cells.drawing.texts`](..)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)

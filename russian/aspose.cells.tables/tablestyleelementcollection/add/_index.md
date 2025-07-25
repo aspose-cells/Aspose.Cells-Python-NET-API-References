@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.tables/tablestyleelementcollection/add/
 is_root: false
 ---
-##  add(type) {#TableStyleElementType}
+##  add(self, type) {#aspose.cells.tables.TableStyleElementType}
 Добавляет элемент.
 
 
-###  Возвращает
+###  Возврат
 
 Возвращает индекс элемента в списке.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, type):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [TableStyleElementType](/cells/python-net/ru/aspose.cells.tables/tablestyleelementtype) | Тип элемента|
+| type | [`TableStyleElementType`](/cells/python-net/ru/aspose.cells.tables/tablestyleelementtype) | Тип элемента|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [TableStyleElementCollection](/cells/python-net/ru/aspose.cells.tables/tablestyleelementcollection)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`TableStyleElementCollection`](/cells/python-net/ru/aspose.cells.tables/tablestyleelementcollection)

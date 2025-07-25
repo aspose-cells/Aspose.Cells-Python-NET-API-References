@@ -3,13 +3,13 @@ title: border_weight propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 340
+weight: 360
 url: /fr/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight propriété
 
-Obtient ou définit l'épaisseur de la bordure d'une image en unités de pt.
+Obtient ou définit le poids de la ligne de bordure d'une image en unités de pt.
 
 ###  Exemple
 

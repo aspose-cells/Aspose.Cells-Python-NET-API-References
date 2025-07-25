@@ -3,7 +3,7 @@ title: DynamicFilter sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 510
 url: /tr/aspose.cells/dynamicfilter/
 is_root: false
 ---
@@ -19,7 +19,7 @@ DynamicFilter türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | [dynamic_filter_type](/cells/python-net/tr/aspose.cells/dynamicfilter/dynamic_filter_type) | Dinamik filtre türünü alır ve ayarlar.|
 | [value](/cells/python-net/tr/aspose.cells/dynamicfilter/value) | Dinamik filtre değerini alır ve ayarlar.|
-| [max_value](/cells/python-net/tr/aspose.cells/dynamicfilter/max_value) | Dinamik filtre maksimum değerini alır ve ayarlar.|
+| [max_value](/cells/python-net/tr/aspose.cells/dynamicfilter/max_value) | Dinamik filtrenin maksimum değerini alır ve ayarlar.|
 
 
 

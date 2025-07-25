@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  wrap_text fastighet
 
-Inställningen för radbrytning kommer att tillämpas.
+Inställningen för radbrytning av text kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def wrap_text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

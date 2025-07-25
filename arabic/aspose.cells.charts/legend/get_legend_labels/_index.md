@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.charts/legend/get_legend_labels/
 is_root: false
 ---
-##  get_legend_labels {#}
-يحصل على تسميات إدخالات وسيلة الإيضاح بعد استدعاء أسلوب Chart.Calculate().
+##  get_legend_labels(self) {#}
+يحصل على تسميات إدخالات الأسطورة بعد استدعاء طريقة Chart.Calculate().
 
 
 
 ```python
+
 def get_legend_labels(self):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
 title: timelines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 840
+weight: 860
 url: /ru/aspose.cells/worksheet/timelines/
 is_root: false
 ---
 ##  timelines недвижимость
 
-Получение коллекции временной шкалы на листе
+Получить коллекцию временной шкалы на рабочем листе
 ###  Определение:
 ```python
 @property

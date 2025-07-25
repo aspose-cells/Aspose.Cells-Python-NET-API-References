@@ -3,13 +3,13 @@ title: bottom Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 320
 url: /de/aspose.cells.drawing/checkbox/bottom/
 is_root: false
 ---
 ##  bottom Eigentum
 
-Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren bottom Eckreihe in Pixeleinheiten dar.
+Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren Eckreihe bottom in Pixeln dar.
 
 ###  Beispiel
 

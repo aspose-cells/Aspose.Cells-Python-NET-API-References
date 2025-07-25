@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SolidFill](/cells/python-net/tr/aspose.cells.drawing/solidfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SolidFill`](/cells/python-net/tr/aspose.cells.drawing/solidfill)

@@ -3,13 +3,13 @@ title: enable_data_value_editing Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 570
 url: /de/aspose.cells.pivot/pivottable/enable_data_value_editing/
 is_root: false
 ---
 ##  enable_data_value_editing Eigentum
 
-Gibt einen booleschen Wert an, der angibt, ob der Benutzer berechtigt ist, die Zellen im Datenbereich der PivotTable zu bearbeiten.
+Gibt einen Booleschen Wert an, der angibt, ob der Benutzer die Zellen im Datenbereich der PivotTable bearbeiten darf.
 Aktivieren Sie die Zellenbearbeitung im Wertebereich
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def enable_data_value_editing(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

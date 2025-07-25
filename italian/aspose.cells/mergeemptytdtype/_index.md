@@ -1,14 +1,14 @@
 ---
 title: Enumerazione MergeEmptyTdType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2330
+weight: 2290
 url: /it/aspose.cells/mergeemptytdtype/
 is_root: false
 ---
 ##  Enumerazione MergeEmptyTdType
-Rappresenta il tipo di unione per l'elemento TD vuoto durante l'esportazione del file in html.
+Rappresenta il tipo di unione per l'elemento TD vuoto durante l'esportazione del file in HTML.
 
 
 
@@ -17,9 +17,9 @@ Il tipo MergeEmptyTdType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| DEFAULT | Visualizza come MS Excel.|
-| NONE | Gli elementi TD vuoti non verranno uniti durante l'esportazione del file in html.<br/> Ciò genererà un file html significativamente più grande.|
-| MERGE_FORCELY | Unione forzata dell'elemento TD vuoto durante l'esportazione del file in html.<br/>La dimensione del file html verrà ridotta in modo significativo dopo aver impostato il valore su true.<br/> Se desideri importare il file html in Excel o esportare linee di griglia perfette quando salvi il file in html,<br/> si prega di mantenere il valore predefinito.|
+| DEFAULT | Visualizzazione come MS Excel.|
+| NONE | Gli elementi TD vuoti non verranno uniti durante l'esportazione del file in HTML.<br/> Questo genererà un file HTML notevolmente più grande.|
+| MERGE_FORCELY | Unione forzata di elementi TD vuoti durante l'esportazione del file in HTML.<br/>Impostando il valore su true, la dimensione del file HTML verrà ridotta in modo significativo.<br/> Se si desidera importare il file HTML in Excel o esportare linee di griglia perfette durante il salvataggio del file in HTML,<br/> si prega di mantenere il valore predefinito.|
 
 
 

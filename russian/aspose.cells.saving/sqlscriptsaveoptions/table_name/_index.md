@@ -1,9 +1,9 @@
 ---
 title: table_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ru/aspose.cells.saving/sqlscriptsaveoptions/table_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def table_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](../../)
-* класс [SqlScriptSaveOptions](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)
+* модуль [`aspose.cells.saving`](../../)
+* класс [`SqlScriptSaveOptions`](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)

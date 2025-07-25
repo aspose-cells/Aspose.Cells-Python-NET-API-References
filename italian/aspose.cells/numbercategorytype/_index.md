@@ -1,14 +1,14 @@
 ---
 title: Enumerazione NumberCategoryType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /it/aspose.cells/numbercategorytype/
 is_root: false
 ---
 ##  Enumerazione NumberCategoryType
-Rappresenta il tipo di categoria della formattazione del numero della cella.
+Rappresenta il tipo di categoria della formattazione numerica della cella.
 
 
 
@@ -22,7 +22,7 @@ Il tipo NumberCategoryType espone i seguenti membri:
 | NUMBER | Numero|
 | DATE | Data o Data e ora|
 | TIME | Tempo|
-| FRACTION | Frazione|
+| FRACTION |Frazione|
 | SCIENTIFIC | Scientifico|
 
 

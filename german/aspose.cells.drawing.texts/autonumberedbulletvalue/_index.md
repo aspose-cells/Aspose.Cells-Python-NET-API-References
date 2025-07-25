@@ -8,12 +8,11 @@ url: /de/aspose.cells.drawing.texts/autonumberedbulletvalue/
 is_root: false
 ---
 ##  AutoNumberedBulletValue Klasse
-Stellt automatisch nummeriertes Aufzählungszeichen dar.
+Stellt einen automatisch nummerierten Aufzählungspunkt dar.
 
 
 
-**Nachlass:** [AutoNumberedBulletValue](/cells/python-net/aspose.cells.drawing.texts/autonumberedbulletvalue) → 
-[BulletValue](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)
+**Nachlass:** [`AutoNumberedBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue)
 
 
 
@@ -22,7 +21,7 @@ Der Typ AutoNumberedBulletValue macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [AutoNumberedBulletValue()](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Erstellt eine neue Instanz von AutoNumberedBulletValue|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/#) | Erstellt eine neue Instanz von AutoNumberedBulletValue|
 
 
 ###  Eigenschaften
@@ -35,6 +34,5 @@ Der Typ AutoNumberedBulletValue macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](..)
-* Klasse [AutoNumberedBulletValue](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* Klasse [BulletValue](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)
+* Modul [`aspose.cells.drawing.texts`](..)
+* Klasse [`AutoNumberedBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/autonumberedbulletvalue)

@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/fr/aspose.cells.drawing/texturefill)
-* classe [TextureType](/cells/python-net/fr/aspose.cells.drawing/texturetype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/fr/aspose.cells.drawing/texturefill)
+* classe [`TextureType`](/cells/python-net/fr/aspose.cells.drawing/texturetype)

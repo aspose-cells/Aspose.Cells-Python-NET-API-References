@@ -1,15 +1,15 @@
 ---
 title: dpi недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 250
 url: /ru/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
 ##  dpi недвижимость
 
-Получает DPI машины.
+Получает DPI устройства.
 
 ###  Примечания
 
@@ -19,8 +19,8 @@ is_root: false
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

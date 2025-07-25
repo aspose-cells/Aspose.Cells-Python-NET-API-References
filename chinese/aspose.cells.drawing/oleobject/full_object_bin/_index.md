@@ -9,7 +9,7 @@ is_root: false
 ---
 ## full_object_bin属性
 
-获取模板文件中完整嵌入的 ole 对象二进制数据。
+获取模板文件中嵌入的完整 ole 对象二进制数据。
 ### 定义：
 ```python
 @property

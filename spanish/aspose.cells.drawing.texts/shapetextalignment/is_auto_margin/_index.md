@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin propiedad
 
-Indica si el margen del cuadro de texto es automático.
+Indica si el margen del marco de texto es automático.
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [ShapeTextAlignment](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`ShapeTextAlignment`](/cells/python-net/es/aspose.cells.drawing.texts/shapetextalignment)

@@ -3,7 +3,7 @@ title: max_row_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 280
 url: /ar/aspose.cells/txtloadoptions/max_row_count/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  ملاحظات
 
-سيتم تجاهل تلك الصفوف التي تتجاوز هذا الحد
-أو ممتد إلى الورقة التالية حسب [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet).
+سيتم تجاهل الصفوف التي تتجاوز هذا الحد
+أو تم تمديدها إلى الورقة التالية وفقًا لـ [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet).
 يتضمن هذا العدد صفوف الرأس ([`TxtLoadOptions.header_rows_count`](/cells/python-net/ar/aspose.cells/txtloadoptions#header_rows_count)).
-الحد الأقصى للقيمة المسموح بها هو حد الصف لتنسيق الملف المقابل، مثل ملف xlsx رقم 1048576.
+القيمة القصوى المسموح بها هي حد الصف لتنسيق الملف المقابل، مثل ملف xlsx هو 1048576.
 إذا لم يتم تحديد هذه الخاصية أو كانت القيمة المحددة غير موجبة، فسيتم استخدام الحد الأقصى أيضًا.
 ###  تعريف:
 ```python

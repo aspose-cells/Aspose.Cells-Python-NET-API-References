@@ -3,7 +3,7 @@ title: glow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 450
 url: /de/aspose.cells.drawing/arcshape/glow/
 is_root: false
 ---

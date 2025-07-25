@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  metadata_table propriété
 
-Obtient une table contenant des métadonnées sur une liste de modifications spécifiques qui ont eu lieu
-pour ce classeur.
+Obtient un tableau contenant des métadonnées sur une liste de modifications spécifiques qui ont eu lieu
+pour ce cahier d'exercices.
 ###  Définition:
 ```python
 @property
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionHeader](/cells/python-net/fr/aspose.cells.revisions/revisionheader)
-* classe [RevisionLog](/cells/python-net/fr/aspose.cells.revisions/revisionlog)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionHeader`](/cells/python-net/fr/aspose.cells.revisions/revisionheader)
+* classe [`RevisionLog`](/cells/python-net/fr/aspose.cells.revisions/revisionlog)

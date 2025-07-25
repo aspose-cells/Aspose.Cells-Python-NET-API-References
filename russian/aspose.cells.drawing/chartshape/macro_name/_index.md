@@ -1,9 +1,9 @@
 ---
 title: macro_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ru/aspose.cells.drawing/chartshape/macro_name/
 is_root: false
 ---

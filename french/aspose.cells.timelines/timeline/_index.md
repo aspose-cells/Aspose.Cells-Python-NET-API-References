@@ -18,12 +18,13 @@ Le type Timeline expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [caption](/cells/python-net/fr/aspose.cells.timelines/timeline/caption) | Renvoie ou définit la légende du scénario spécifié.|
-| [name](/cells/python-net/fr/aspose.cells.timelines/timeline/name) |Renvoie ou définit le nom du scénario spécifié|
-| [left_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/left_pixel) | Renvoie ou définit le décalage horizontal de la forme de la chronologie par rapport à sa colonne de gauche, en pixels.|
-| [top_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/top_pixel) | Renvoie ou définit le décalage vertical de la forme de la chronologie par rapport à sa ligne supérieure, en pixels.|
+| [caption](/cells/python-net/fr/aspose.cells.timelines/timeline/caption) | Renvoie ou définit la légende de la chronologie spécifiée.|
+| [shape](/cells/python-net/fr/aspose.cells.timelines/timeline/shape) | Renvoie l'objet [`TimelineShape`](/cells/python-net/fr/aspose.cells.drawing/timelineshape) associé à cette chronologie. Lecture seule.|
+| [name](/cells/python-net/fr/aspose.cells.timelines/timeline/name) | Renvoie ou définit le nom de la chronologie spécifiée|
+| [left_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/left_pixel) | Renvoie ou définit le décalage horizontal de la forme de la chronologie à partir de sa colonne de gauche, en pixels.|
+| [top_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/top_pixel) | Renvoie ou définit le décalage vertical de la forme de la chronologie à partir de sa ligne supérieure, en pixels.|
 | [width_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/width_pixel) | Renvoie ou définit la largeur de la chronologie spécifiée, en pixels.|
-| [height_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/height_pixel) | Renvoie ou définit la hauteur du scénario spécifié, en pixels.|
+| [height_pixel](/cells/python-net/fr/aspose.cells.timelines/timeline/height_pixel) | Renvoie ou définit la hauteur de la chronologie spécifiée, en pixels.|
 
 
 
@@ -32,7 +33,7 @@ Le type Timeline expose les membres suivants :
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.timelines](..)
+* module [`aspose.cells.timelines`](..)
+* classe [`TimelineShape`](/cells/python-net/fr/aspose.cells.drawing/timelineshape)

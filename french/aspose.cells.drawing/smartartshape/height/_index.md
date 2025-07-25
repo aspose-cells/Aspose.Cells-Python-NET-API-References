@@ -3,7 +3,7 @@ title: height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 420
 url: /fr/aspose.cells.drawing/smartartshape/height/
 is_root: false
 ---

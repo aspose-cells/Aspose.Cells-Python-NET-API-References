@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/sparklinecollection/add/
 is_root: false
 ---
-##  add(data_range, row, column) {#str-int-int}
+##  add(self, data_range, row, column) {#str-int-int}
 Fügen Sie eine Sparkline hinzu.
 
 
 
 ```python
+
 def add(self, data_range, row, column):
     ...
 ```
@@ -27,5 +28,5 @@ def add(self, data_range, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [SparklineCollection](/cells/python-net/de/aspose.cells.charts/sparklinecollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`SparklineCollection`](/cells/python-net/de/aspose.cells.charts/sparklinecollection)

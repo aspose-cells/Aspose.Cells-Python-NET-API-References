@@ -7,8 +7,8 @@ weight: 100
 url: /ar/aspose.cells/style/to_json/
 is_root: false
 ---
-##  to_json() {#}
-تحويل [Style](/cells/python-net/ar/aspose.cells/style) إلى JSON بيانات هيكلية.
+##  to_json(self) {#}
+تحويل بيانات الهيكل [`Style`](/cells/python-net/ar/aspose.cells/style) إلى JSON.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def to_json(self):
     ...
 ```
@@ -26,5 +27,5 @@ def to_json(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

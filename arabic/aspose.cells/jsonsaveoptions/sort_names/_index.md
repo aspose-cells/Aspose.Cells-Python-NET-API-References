@@ -1,15 +1,15 @@
 ---
-title: sort_names الملكية
+title: sort_names عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 240
 url: /ar/aspose.cells/jsonsaveoptions/sort_names/
 is_root: false
 ---
-##  sort_names الملكية
+##  sort_names عقار
 
-يشير إلى ما إذا كان يتم فرز الأسماء المعرفة قبل حفظ الملف.
+يشير إلى ما إذا كان يتم فرز الأسماء المحددة قبل حفظ الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

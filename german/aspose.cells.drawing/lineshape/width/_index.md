@@ -3,13 +3,13 @@ title: width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /de/aspose.cells.drawing/lineshape/width/
 is_root: false
 ---
 ##  width Eigentum
 
-Stellt die width der Form in der Einheit Pixel dar.
+Stellt die width der Form in Pixeln dar.
 
 ###  Beispiel
 

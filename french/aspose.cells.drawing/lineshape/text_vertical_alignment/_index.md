@@ -3,13 +3,13 @@ title: text_vertical_alignment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/aspose.cells.drawing/lineshape/text_vertical_alignment/
 is_root: false
 ---
 ##  text_vertical_alignment propriété
 
-Obtient et définit le type d’alignement vertical du texte de la forme.
+Obtient et définit le type d'alignement vertical du texte de la forme.
 
 ###  Exemple
 

@@ -1,15 +1,15 @@
 ---
-title: keywords الملكية
+title: keywords عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/keywords/
 is_root: false
 ---
-##  keywords الملكية
+##  keywords عقار
 
-الحصول على أو تحديد الوثيقة keywords.
+يحصل على المستند keywords أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def keywords(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

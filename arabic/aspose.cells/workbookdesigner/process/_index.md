@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/workbookdesigner/process/
 is_root: false
 ---
-##  process() {#}
-يعالج العلامات الذكية ويملأ قيم مصدر البيانات.
+##  process(self) {#}
+معالجة العلامات الذكية وملء قيم مصدر البيانات.
 
 
 
 ```python
+
 def process(self):
     ...
 ```
@@ -20,12 +21,13 @@ def process(self):
 
 
 
-##  process(is_preserved) {#bool}
-يعالج العلامات الذكية ويملأ قيم مصدر البيانات.
+##  process(self, is_preserved) {#bool}
+معالجة العلامات الذكية وملء قيم مصدر البيانات.
 
 
 
 ```python
+
 def process(self, is_preserved):
     ...
 ```
@@ -33,15 +35,34 @@ def process(self, is_preserved):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| is_preserved | bool | صحيح إذا تم الاحتفاظ بالعلامة الذكية غير المعروفة.|
+| is_preserved | bool | صحيح إذا تم الحفاظ على العلامة الذكية غير المعترف بها.|
 
 
-##  process(sheet_index, is_preserved) {#int-bool}
-يعالج العلامات الذكية ويملأ قيم مصدر البيانات.
+##  process(self, range, is_preserved) {#aspose.cells.Range-bool}
+معالجة العلامات الذكية وملء قيم مصدر البيانات.
 
 
 
 ```python
+
+def process(self, range, is_preserved):
+    ...
+```
+
+
+| معامل| يكتب| وصف|
+| :- | :- | :- |
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | النطاق المراد معالجته|
+| is_preserved | bool | صحيح إذا تم الحفاظ على العلامة الذكية غير المعترف بها.|
+
+
+##  process(self, sheet_index, is_preserved) {#int-bool}
+معالجة العلامات الذكية وملء قيم مصدر البيانات.
+
+
+
+```python
+
 def process(self, sheet_index, is_preserved):
     ...
 ```
@@ -50,7 +71,7 @@ def process(self, sheet_index, is_preserved):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | sheet_index | int | فهرس ورقة العمل.|
-| is_preserved | bool | صحيح إذا تم الاحتفاظ بالعلامة الذكية غير المعروفة.|
+| is_preserved | bool | صحيح إذا تم الحفاظ على العلامة الذكية غير المعترف بها.|
 ###  ملاحظات
 
 تعمل هذه الطريقة على مستوى ورقة العمل.
@@ -58,5 +79,5 @@ def process(self, sheet_index, is_preserved):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

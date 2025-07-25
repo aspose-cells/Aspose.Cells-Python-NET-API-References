@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  is_triple_state fastighet
 
-Indikerar hur den angivna kontrollen kommer att visa nollvärden.
+Anger hur den angivna kontrollen kommer att visa null-värden.
 
 ###  Anmärkningar
 
 | Miljö| Beskrivning|
 | :- | :- |
-| Sann| Kontrollen växlar genom tillstånden för Ja, Nej och Null-värden. Kontrollen visas nedtonad (grå) när dess värdeegenskap är inställd på Null.|
-| Falsk|(Standard) Kontrollen växlar genom tillstånden för Ja- och Nej-värden. Nullvärden visas som om de vore Inga värden.|
+| Sann|Kontrollen växlar mellan tillstånden för Ja, Nej och Null-värden. Kontrollen visas nedtonad (grå) när dess Value-egenskap är inställd på Null.|
+| Falsk| (Standard) Kontrollen växlar mellan tillstånd för Ja- och Nej-värden. Nullvärden visas som om de vore Nej-värden.|
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_triple_state(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

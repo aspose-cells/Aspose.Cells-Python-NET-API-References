@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/
 is_root: false
 ---
-##  is_grouped_by {#aspose.cells.pivot.PivotGroupByType}
-Prüfen Sie, ob das Feld nach Typ gruppiert ist.
+##  is_grouped_by(self, type) {#aspose.cells.pivot.PivotGroupByType}
+Überprüfen Sie, ob das Feld nach Typ gruppiert ist.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Prüfen Sie, ob das Feld nach Typ gruppiert ist.
 
 
 ```python
+
 def is_grouped_by(self, type):
     ...
 ```

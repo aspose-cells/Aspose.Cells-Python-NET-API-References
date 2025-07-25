@@ -7,12 +7,13 @@ weight: 50
 url: /zh/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-将整个工作簿渲染为 Tiff 图像以进行流式传输。
+##  to_image(self, stream) {#io.RawIOBase}
+将整个工作簿作为 Tiff 图像呈现到流中。
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase |输出图像的流|
 
 
-##  to_image {#str}
-将整个工作簿作为 Tiff 图像渲染到文件中。
+##  to_image(self, filename) {#str}
+将整个工作簿作为 Tiff 图像呈现到文件中。
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -39,12 +41,13 @@ def to_image(self, filename):
 | filename | str |输出图像的文件名|
 
 
-##  to_image {#int-str}
-将特定页面渲染到文件中。
+##  to_image(self, page_index, file_name) {#int-str}
+将特定页面渲染到文件。
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -52,16 +55,17 @@ def to_image(self, page_index, file_name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| page_index | int |指示要转换的页面|
+| page_index | int |指示要转换哪个页面|
 | file_name | str |输出图像的文件名|
 
 
-##  to_image {#int-io.RawIOBase}
-将特定页面渲染到流。
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+将特定页面渲染到流中。
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -69,7 +73,7 @@ def to_image(self, page_index, stream):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| page_index | int |指示要转换的页面|
+| page_index | int |指示要转换哪个页面|
 | stream | io.RawIOBase |输出图像的流|
 
 

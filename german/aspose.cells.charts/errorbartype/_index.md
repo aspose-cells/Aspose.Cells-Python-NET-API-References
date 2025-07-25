@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/errorbartype/
 is_root: false
 ---
 ##  ErrorBarType Aufzählung
-Repräsentiert den Betragstyp des Fehlerbalkens.
+Stellt den Fehlerbalkenbetragstyp dar.
 
 
 
@@ -26,4 +26,4 @@ Der Typ ErrorBarType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

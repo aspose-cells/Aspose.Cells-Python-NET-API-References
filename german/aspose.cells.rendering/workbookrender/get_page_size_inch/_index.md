@@ -7,16 +7,17 @@ weight: 40
 url: /de/aspose.cells.rendering/workbookrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch {#int}
+##  get_page_size_inch(self, page_index) {#int}
 Ermitteln Sie die Seitengröße des Ausgabebilds in Zoll.
 
 
 ###  Kehrt zurück
 
-Seitengröße des Bildes, [0] für die Breite und [1] für die Höhe
+Seitengröße des Bildes, [0] für Breite und [1] für Höhe
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_page_size_inch(self, page_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| page_index | int |Der Seitenindex basiert auf Null.|
+| page_index | int | Der Seitenindex basiert auf Null.|
 
 
 

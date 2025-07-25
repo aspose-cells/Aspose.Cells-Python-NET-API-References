@@ -3,12 +3,12 @@ title: MemorySetting enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2320
+weight: 2280
 url: /es/aspose.cells/memorysetting/
 is_root: false
 ---
 ##  MemorySetting enumeración
-Opciones de uso de memoria.
+Modos de uso de memoria para el modelo de datos de celdas.
 
 
 
@@ -17,8 +17,9 @@ El tipo MemorySetting expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NORMAL | Opción predeterminada para el modelo de celdas.|
-| MEMORY_PREFERENCE | Es preferible el rendimiento de la memoria.<br/>Con esta opción, los datos se mantendrán en formato compacto, por lo que, en escenarios comunes, puede ofrecer un menor costo de memoria.<br/> Sin embargo, esta opción también puede degradar un poco el rendimiento R/W en algunos casos especiales.|
+| NORMAL | Modo predeterminado para el modelo de celdas.|
+| MEMORY_PREFERENCE | Se prefiere el rendimiento de la memoria.|
+| FILE_CACHE | Es preferible el rendimiento de la memoria y el uso de archivos en lugar de memoria.<br/> para mantener los datos de las celdas.|
 
 
 

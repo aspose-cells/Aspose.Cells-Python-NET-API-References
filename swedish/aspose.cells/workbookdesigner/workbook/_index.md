@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook fastighet
 
-Hämtar och ställer in objektet [`WorkbookDesigner.workbook`](/cells/python-net/sv/aspose.cells/workbookdesigner#workbook).
+Hämtar och anger [`WorkbookDesigner.workbook`](/cells/python-net/sv/aspose.cells/workbookdesigner#workbook)-objektet.
 ###  Definition:
 ```python
 @property

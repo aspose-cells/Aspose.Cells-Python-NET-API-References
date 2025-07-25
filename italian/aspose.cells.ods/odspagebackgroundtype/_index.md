@@ -1,18 +1,18 @@
 ---
-title: OdsPageBackgroundType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione OdsPageBackgroundType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
 url: /it/aspose.cells.ods/odspagebackgroundtype/
 is_root: false
 ---
-##  OdsPageBackgroundType enumerazione
+##  Enumerazione OdsPageBackgroundType
 Rappresenta il tipo di sfondo della pagina di ods.
 
 
 
-Il tipo OdsPageBackgroundType espone i membri seguenti:
+Il tipo OdsPageBackgroundType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo OdsPageBackgroundType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](..)
+* modulo [`aspose.cells.ods`](..)

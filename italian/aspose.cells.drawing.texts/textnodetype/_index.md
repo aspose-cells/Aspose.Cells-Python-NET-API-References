@@ -1,18 +1,18 @@
 ---
-title: TextNodeType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione TextNodeType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
-##  TextNodeType enumerazione
+##  Enumerazione TextNodeType
 Rappresenta il tipo di nodo.
 
 
 
-Il tipo TextNodeType espone i membri seguenti:
+Il tipo TextNodeType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo TextNodeType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
+* modulo [`aspose.cells.drawing.texts`](..)

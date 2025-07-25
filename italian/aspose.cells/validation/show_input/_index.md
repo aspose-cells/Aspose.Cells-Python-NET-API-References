@@ -1,6 +1,6 @@
 ---
 title: show_input proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_input proprietà
 
-Indica se il messaggio di input di convalida dei dati verrà visualizzato ogni volta che l'utente seleziona una cella nell'intervallo di convalida dei dati.
+Indica se il messaggio di input per la convalida dei dati verrà visualizzato ogni volta che l'utente seleziona una cella nell'intervallo di convalida dei dati.
 ###  Definizione:
 ```python
 @property

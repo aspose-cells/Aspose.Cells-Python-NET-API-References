@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_line fastighet
 
-Hämtar och ställer in linjekanten för formen är synlig.
+Hämtar och ställer in att linjekanten för formen är synlig.
 
 ###  Exempel
 

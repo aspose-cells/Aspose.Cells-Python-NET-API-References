@@ -3,18 +3,18 @@ title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 580
 url: /ar/aspose.cells.charts/datalabels/width/
 is_root: false
 ---
 ##  width عقار
 
-الحصول على أو تعيين width للإطار بوحدات 1/4000 من منطقة المخطط.
+يحصل على أو يضبط width للإطار بوحدات 1/4000 من مساحة الرسم البياني.
 
 ###  ملاحظات
 
- كيفية تحويل وحدات من 1/4000 إلى بكسل؟
-العرض بالبكسل = العرض * Chart.ChartObject.Height / 4000؛
+ كيفية تحويل وحدات 1/4000 إلى بكسل؟
+العرض بالبكسل = العرض * Chart.ChartObject.Height / 4000d؛
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_last_point mülk
 
-Mini grafik grubundaki verilerin son noktasının vurgulanıp vurgulanmayacağını belirtir.
+Kıvılcım grafiği grubundaki son veri noktasının vurgulanıp vurgulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_last_point(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

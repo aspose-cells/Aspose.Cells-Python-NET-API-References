@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pixel_format mülk
 
-Oluşturulan görüntüler için piksel biçimini alır veya ayarlar.
+Oluşturulan görsellerin piksel biçimini alır veya ayarlar.
 
 ###  Notlar
 

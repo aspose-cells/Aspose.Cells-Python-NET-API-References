@@ -3,7 +3,7 @@ title: PropertyType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 80
 url: /tr/aspose.cells.properties/propertytype/
 is_root: false
 ---
@@ -12,13 +12,13 @@ Bir belge özelliğinin veri türünü belirtir.
 
 
 
-PropertyType türü aşağıdaki üyeleri gösterir:
+PropertyType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| BOOLEAN | Özellik bir boole değeridir.|
-| DATE_TIME | Özellik, bir tarih saat değeridir.|
+| BOOLEAN | Özellik bir Boole değeridir.|
+| DATE_TIME | Özellik bir tarih saat değeridir.|
 | DOUBLE | Özellik kayan bir sayıdır.|
 | NUMBER | Özellik bir tam sayıdır.|
 | STRING | Özellik bir dize değeridir.|
@@ -27,4 +27,4 @@ PropertyType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](..)
+* modül [`aspose.cells.properties`](..)

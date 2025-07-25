@@ -3,7 +3,7 @@ title: License clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1020
+weight: 930
 url: /es/aspose.cells/license/
 is_root: false
 ---
@@ -17,14 +17,14 @@ El tipo License expone los siguientes miembros:
 ###  Constructores
 | Constructor| Descripción|
 | :- | :- |
-| [__init__](/cells/python-net/es/aspose.cells/license/__init__/#) | Inicializa una nueva instancia de esta clase.|
+| [`__init__(self)`](/cells/python-net/es/aspose.cells/license/__init__/#) | Inicializa una nueva instancia de esta clase.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [set_license](/cells/python-net/es/aspose.cells/license/set_license/#str) | Licencia el componente.|
-| [set_license](/cells/python-net/es/aspose.cells/license/set_license/#io.RawIOBase) | Licencia el componente.|
+| [`set_license(self, license_name)`](/cells/python-net/es/aspose.cells/license/set_license/#str) | Licencia el componente.|
+| [`set_license(self, stream)`](/cells/python-net/es/aspose.cells/license/set_license/#io.rawiobase) | Licencia el componente.|
 
 
 
@@ -34,8 +34,8 @@ En este ejemplo, se intentará encontrar un archivo de licencia llamado MyLicens
  en la carpeta que contiene
 
 
-el componente, en la carpeta que contiene el ensamblado que llama,
-en la carpeta del ensamblado de entrada y luego en los recursos integrados del ensamblado que llama.
+el componente, en la carpeta que contiene el ensamblado que lo llama,
+en la carpeta del ensamblaje de entrada y luego en los recursos integrados del ensamblaje que llama.
 
 ```python
 from aspose.cells import License

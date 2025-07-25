@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  underline mülk
 
-underline tipi yazı tipini alır veya ayarlar.
+underline yazı tipini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def underline(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FontUnderlineType](/cells/python-net/tr/aspose.cells/fontunderlinetype)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FontUnderlineType`](/cells/python-net/tr/aspose.cells/fontunderlinetype)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

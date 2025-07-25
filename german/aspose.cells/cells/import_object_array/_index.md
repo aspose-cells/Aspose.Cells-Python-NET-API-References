@@ -3,16 +3,17 @@ title: import_object_array Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 660
+weight: 680
 url: /de/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array {#list-int-int-bool}
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
 Importiert ein Datenarray in ein Arbeitsblatt.
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -23,15 +24,16 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | obj_array | list | Datenarray.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
+| is_vertical | bool | Gibt an, ob Daten vertikal oder horizontal importiert werden sollen.|
 
 
-##  import_object_array {#list-int-int-bool-int}
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
 Importiert ein Datenarray in ein Arbeitsblatt.
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical, skip):
     ...
 ```
@@ -42,8 +44,8 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 | obj_array | list | Datenarray.|
 | first_row | int | Die Zeilennummer der ersten Zelle, in die importiert werden soll.|
 | first_column | int | Die Spaltennummer der ersten Zelle, in die importiert werden soll.|
-| is_vertical | bool | Gibt an, dass Daten vertikal oder horizontal importiert werden sollen.|
-| skip | int | Anzahl der Zeilen oder Spalten übersprungen.|
+| is_vertical | bool | Gibt an, ob Daten vertikal oder horizontal importiert werden sollen.|
+| skip | int | Anzahl der übersprungenen Zeilen oder Spalten.|
 
 
 

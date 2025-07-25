@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/workbookdesigner/set_data_source/
 is_root: false
 ---
-##  set_data_source(data_source, cells_data_table) {#str-ICellsDataTable}
-Ställer in datakälla för ett [ICellsDataTable](/cells/python-net/sv/aspose.cells/icellsdatatable)-objekt.
+##  set_data_source(self, data_source, cells_data_table) {#str-ICellsDataTable}
+
 
 
 
 ```python
+
 def set_data_source(self, data_source, cells_data_table):
     ...
 ```
@@ -20,16 +21,17 @@ def set_data_source(self, data_source, cells_data_table):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| data_source | str | Namnet på datakällan.|
-| cells_data_table | [ICellsDataTable](/cells/python-net/sv/aspose.cells/icellsdatatable) | datatabell.|
+| data_source | str |  |
+| cells_data_table | ICellsDataTable |  |
 
 
-##  set_data_source(variable, data) {#str-any}
+##  set_data_source(self, variable, data) {#str-any}
 Ställer in databindning till en variabel.
 
 
 
 ```python
+
 def set_data_source(self, variable, data):
     ...
 ```
@@ -43,6 +45,5 @@ def set_data_source(self, variable, data):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ICellsDataTable](/cells/python-net/sv/aspose.cells/icellsdatatable)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

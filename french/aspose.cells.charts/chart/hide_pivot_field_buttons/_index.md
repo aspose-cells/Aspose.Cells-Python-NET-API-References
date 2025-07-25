@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_pivot_field_buttons propriété
 
-Indique si les boutons de champ du graphique croisé dynamique sont masqués uniquement lorsque le graphique est de type PivotChart.
+Indique si les boutons du champ du graphique croisé dynamique doivent être masqués uniquement lorsque le graphique est un graphique croisé dynamique.
 ###  Définition:
 ```python
 @property

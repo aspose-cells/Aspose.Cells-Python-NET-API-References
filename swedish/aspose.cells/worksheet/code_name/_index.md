@@ -3,13 +3,13 @@ title: code_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 450
 url: /sv/aspose.cells/worksheet/code_name/
 is_root: false
 ---
 ##  code_name fastighet
 
-Får kalkylbladskodnamn.
+Hämtar kalkylbladets kodnamn.
 ###  Definition:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: width_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /ru/aspose.cells.drawing/listbox/width_cm/
 is_root: false
 ---

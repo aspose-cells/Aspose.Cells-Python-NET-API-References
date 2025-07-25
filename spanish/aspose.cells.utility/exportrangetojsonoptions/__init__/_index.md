@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.utility/exportrangetojsonoptions/__init__/
 is_root: false
 ---
-##  ExportRangeToJsonOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de ExportRangeToJsonOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.utility](../../)
-* clase [ExportRangeToJsonOptions](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)
+* módulo [`aspose.cells.utility`](../../)
+* clase [`ExportRangeToJsonOptions`](/cells/python-net/es/aspose.cells.utility/exportrangetojsonoptions)

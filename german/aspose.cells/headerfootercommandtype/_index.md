@@ -3,7 +3,7 @@ title: HeaderFooterCommandType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2200
+weight: 2140
 url: /de/aspose.cells/headerfootercommandtype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Der Typ HeaderFooterCommandType macht die folgenden Member verfügbar:
 | :- | :- |
 | TEXT | Der Text.|
 | CURRENT_PAGE | Aktuelle Seitenzahl|
-| PAGECOUNT | Seitenzahl|
+| PAGECOUNT | Seitenanzahl|
 | CURRENT_DATE | Aktuelles Datum|
 | CURRENT_TIME | Aktuelle Uhrzeit|
 | SHEET_NAME | Blattname|

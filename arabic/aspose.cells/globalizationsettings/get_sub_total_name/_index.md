@@ -7,16 +7,17 @@ weight: 220
 url: /ar/aspose.cells/globalizationsettings/get_sub_total_name/
 is_root: false
 ---
-##  get_sub_total_name {#aspose.cells.pivot.PivotFieldSubtotalType}
+##  get_sub_total_name(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 يحصل على اسم النوع [`PivotFieldSubtotalType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldsubtotaltype) في PivotTable.
 
 
 ###  عائدات
 
-اسم نوع [`PivotFieldSubtotalType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldsubtotaltype)
+اسم النوع [`PivotFieldSubtotalType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldsubtotaltype)
 
 
 ```python
+
 def get_sub_total_name(self, sub_total_type):
     ...
 ```
@@ -24,13 +25,13 @@ def get_sub_total_name(self, sub_total_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | نوع [`PivotFieldSubtotalType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldsubtotaltype)|
+| sub_total_type | aspose.cells.pivot.PivotFieldSubtotalType | النوع [`PivotFieldSubtotalType`](/cells/python-net/ar/aspose.cells.pivot/pivotfieldsubtotaltype)|
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

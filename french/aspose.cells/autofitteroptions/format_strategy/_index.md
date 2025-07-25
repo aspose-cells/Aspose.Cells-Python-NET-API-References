@@ -3,7 +3,7 @@ title: format_strategy propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells/autofitteroptions/format_strategy/
 is_root: false
 ---
@@ -25,6 +25,6 @@ def format_strategy(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/fr/aspose.cells/autofitteroptions)
-* classe [CellValueFormatStrategy](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy)
+* module [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/fr/aspose.cells/autofitteroptions)
+* classe [`CellValueFormatStrategy`](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy)

@@ -3,13 +3,13 @@ title: pane_state propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 690
+weight: 720
 url: /es/aspose.cells/worksheet/pane_state/
 is_root: false
 ---
 ##  pane_state propiedad
 
-Indica si el panel tiene divisiones horizontales o verticales y si esas divisiones están congeladas.
+Indica si el panel tiene divisiones horizontales o verticales y si dichas divisiones están congeladas.
 ###  Definición:
 ```python
 @property

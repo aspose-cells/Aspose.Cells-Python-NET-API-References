@@ -7,17 +7,18 @@ weight: 270
 url: /de/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals {#}
-Ruft den Typnamen der Tabellenzeilen ab, der aus der gesamten Zeile der referenzierten Tabelle besteht.
-Der Standardwert ist „Totals“, daher stellt „#Totals“ in der Formel die Gesamtzeile der referenzierten Tabelle dar.
+##  get_table_row_type_of_totals(self) {#}
+Ruft den Typnamen der Tabellenzeilen ab, die aus der Gesamtzeile der referenzierten Tabelle bestehen.
+Der Standardwert ist „Summen“, daher stellt „#Summen“ in der Formel die Gesamtzeile der referenzierten Tabelle dar.
 
 
 ###  Kehrt zurück
 
-der Typname von Tabellenzeilen
+der Typname der Tabellenzeilen
 
 
 ```python
+
 def get_table_row_type_of_totals(self):
     ...
 ```

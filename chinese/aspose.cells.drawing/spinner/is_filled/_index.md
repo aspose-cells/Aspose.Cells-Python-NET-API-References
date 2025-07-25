@@ -3,7 +3,7 @@ title: is_filled属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 570
 url: /zh/aspose.cells.drawing/spinner/is_filled/
 is_root: false
 ---

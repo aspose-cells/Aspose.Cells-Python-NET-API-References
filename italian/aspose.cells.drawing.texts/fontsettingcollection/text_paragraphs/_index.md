@@ -1,6 +1,6 @@
 ---
 title: text_paragraphs proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -18,6 +18,6 @@ def text_paragraphs(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
-* classe [TextParagraphCollection](/cells/python-net/it/aspose.cells.drawing.texts/textparagraphcollection)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
+* classe [`TextParagraphCollection`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraphcollection)

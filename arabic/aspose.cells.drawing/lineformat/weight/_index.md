@@ -1,5 +1,5 @@
 ---
-title: weight الملكية
+title: weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 360
 url: /ar/aspose.cells.drawing/lineformat/weight/
 is_root: false
 ---
-##  weight الملكية
+##  weight عقار
 
-الحصول على او تحديد weight للخط في وحدة النقاط.
+يحصل على أو يضبط weight للخط بوحدة النقاط.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)

@@ -1,6 +1,6 @@
 ---
 title: shrink_to_fit proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit proprietà
 
-Rappresenta se il testo si riduce automaticamente per adattarsi alla larghezza della colonna disponibile.
+Indica se il testo si riduce automaticamente per adattarsi alla larghezza disponibile della colonna.
 ###  Definizione:
 ```python
 @property

@@ -3,17 +3,11 @@ title: output_blank_page_when_nothing_to_print属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 250
 url: /zh/aspose.cells/pptxsaveoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
 ## output_blank_page_when_nothing_to_print属性
-
-指示当没有任何内容可打印时是否输出空白页。
-
-### 评论
-
-默认为 true。
 ### 定义：
 ```python
 @property

@@ -3,11 +3,11 @@ title: طريقة get_text_of_hours
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_hours/
 is_root: false
 ---
-##  get_text_of_hours {#}
+##  get_text_of_hours(self) {#}
 يحصل على النص المحلي لـ "الساعات".
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_hours(self):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: update_empty_string_as_null proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_empty_string_as_null proprietà
 
-Se TRUE, verrà inserito Null se il valore è "";
+Se VERO, verrà inserito Null se il valore è "";
 ###  Definizione:
 ```python
 @property

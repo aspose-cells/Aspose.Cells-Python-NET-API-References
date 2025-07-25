@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/
 is_root: false
 ---
-##  add_control_refrernce(name, libid, twiddledlibid, extended_libid) {#str-str-str-str}
-Döndürülmüş bir tür kitaplığına ve onun genişletilmiş tür kitaplığına bir başvuru ekleyin.
+##  add_control_refrernce(self, name, libid, twiddledlibid, extended_libid) {#str-str-str-str}
+Twiddled tip kütüphanesine ve onun genişletilmiş tip kütüphanesine bir referans ekleyin.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Döndürülmüş bir tür kitaplığına ve onun genişletilmiş tür kitaplığ
 
 
 ```python
+
 def add_control_refrernce(self, name, libid, twiddledlibid, extended_libid):
     ...
 ```
@@ -24,13 +25,13 @@ def add_control_refrernce(self, name, libid, twiddledlibid, extended_libid):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| name | str | Referans adı.|
-| libid | str | Bir Otomasyon türü kitaplığının tanımlayıcısı.|
-| twiddledlibid | str | Twiddled tür kitaplığının tanımlayıcısı|
-| extended_libid | str | Genişletilmiş tür kitaplığının tanımlayıcısı|
+| name | str | Referansın adı.|
+| libid | str | Bir Otomasyon türü kütüphanesinin tanımlayıcısı.|
+| twiddledlibid | str | Twiddled tip kütüphanesinin tanımlayıcısı|
+| extended_libid | str | Genişletilmiş bir tür kitaplığının tanımlayıcısı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReferenceCollection](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReferenceCollection`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreferencecollection)

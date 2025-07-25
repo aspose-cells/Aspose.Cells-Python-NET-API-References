@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  convert_formulas_data propiedad
 
-si es verdadero, convierta la cadena en fórmula cuando el valor de la cadena comience con el carácter '=', el valor predeterminado es falso.
+si es verdadero, convierte la cadena en fórmula cuando el valor de la cadena comienza con el carácter '=', el valor predeterminado es falso.
 
 ###  Observaciones
 
  NOTA: Esta propiedad ahora está obsoleta.
 En su lugar, utilice la propiedad HtmlLoadOptions.HasFormula.
  Esta propiedad será eliminada 12 meses después desde marzo de 2023.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

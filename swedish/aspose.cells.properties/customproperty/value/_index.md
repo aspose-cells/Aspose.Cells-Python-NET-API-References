@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Returnerar eller ställer in value för den anpassade egenskapen.
+Returnerar eller anger value för den anpassade egenskapen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [CustomProperty](/cells/python-net/sv/aspose.cells.properties/customproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`CustomProperty`](/cells/python-net/sv/aspose.cells.properties/customproperty)

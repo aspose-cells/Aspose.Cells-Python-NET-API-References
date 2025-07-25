@@ -3,7 +3,7 @@ title: shadow_effect propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /fr/aspose.cells.drawing/oleobject/shadow_effect/
 is_root: false
 ---

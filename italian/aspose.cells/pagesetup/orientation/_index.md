@@ -1,6 +1,6 @@
 ---
 title: orientation proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 470
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation proprietà
 
-Rappresenta la stampa della pagina orientation.
+Rappresenta la pagina stampata orientation.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageOrientationType](/cells/python-net/it/aspose.cells/pageorientationtype)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageOrientationType`](/cells/python-net/it/aspose.cells/pageorientationtype)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

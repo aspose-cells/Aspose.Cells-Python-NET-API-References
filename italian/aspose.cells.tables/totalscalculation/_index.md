@@ -1,34 +1,34 @@
 ---
-title: TotalsCalculation enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione TotalsCalculation
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
 url: /it/aspose.cells.tables/totalscalculation/
 is_root: false
 ---
-##  TotalsCalculation enumerazione
-Determina il tipo di calcolo nella riga Totali della colonna elenco.
+##  Enumerazione TotalsCalculation
+Determina il tipo di calcolo nella riga Totali della colonna Elenco.
 
 
 
-Il tipo TotalsCalculation espone i membri seguenti:
+Il tipo TotalsCalculation espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| SUM | Rappresenta il calcolo dei totali della somma.|
+| SUM | Rappresenta il calcolo dei totali totali.|
 | COUNT | Rappresenta il calcolo dei totali del conteggio.|
-| AVERAGE |Rappresenta il calcolo dei totali medi.|
+| AVERAGE | Rappresenta il calcolo dei totali medi.|
 | MAX | Rappresenta il calcolo dei totali massimi.|
 | MIN | Rappresenta il calcolo dei totali minimi.|
 | VAR | Rappresenta il calcolo dei totali Var.|
-| COUNT_NUMS | Rappresenta il calcolo dei totali Count Nums.|
+| COUNT_NUMS | Rappresenta il calcolo dei totali di Count Nums.|
 | STD_DEV | Rappresenta il calcolo dei totali StdDev.|
-| NONE | Rappresenta Nessun calcolo dei totali.|
-| CUSTOM | Rappresenta il calcolo personalizzato.|
+| NONE | Rappresenta Nessun calcolo totale.|
+| CUSTOM | Rappresenta un calcolo personalizzato.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](..)
+* modulo [`aspose.cells.tables`](..)

@@ -3,13 +3,13 @@ title: object_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 970
 url: /de/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
 ##  object_data Eigentum
 
-Stellt eingebettete Ole-Objektdaten als Byte-Array dar.
+Stellt eingebettete OLE-Objektdaten als Byte-Array dar.
 ###  Definition:
 ```python
 @property

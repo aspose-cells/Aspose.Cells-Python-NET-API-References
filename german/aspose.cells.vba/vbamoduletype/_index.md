@@ -8,7 +8,7 @@ url: /de/aspose.cells.vba/vbamoduletype/
 is_root: false
 ---
 ##  VbaModuleType Aufzählung
-Repräsentiert den Typ des VBA-Moduls.
+Stellt den Typ des VBA-Moduls dar.
 
 
 
@@ -25,4 +25,4 @@ Der Typ VbaModuleType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](..)
+* Modul [`aspose.cells.vba`](..)

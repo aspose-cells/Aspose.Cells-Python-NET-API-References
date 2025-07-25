@@ -3,7 +3,7 @@ title: IconSet صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 850
 url: /ar/aspose.cells/iconset/
 is_root: false
 ---
@@ -21,10 +21,10 @@ is_root: false
 | :- | :- |
 | [cf_icons](/cells/python-net/ar/aspose.cells/iconset/cf_icons) | احصل على [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon) من المجموعة|
 | [cfvos](/cells/python-net/ar/aspose.cells/iconset/cfvos) | احصل على مثيل CFValueObjects.|
-| [type](/cells/python-net/ar/aspose.cells/iconset/type) | احصل على أو قم بتعيين نوع مجموعة الأيقونات المراد عرضها.<br/>سيؤدي ضبط النوع إلى التحقق تلقائيًا من وجود عدد Cfvos الحالي<br/> متوافق مع النوع الجديد . إذا لم يتم الاتفاق، سيتم تنظيف Cfvos القديم و<br/> ستتم إضافة Cfvos الافتراضية.|
-| [is_custom](/cells/python-net/ar/aspose.cells/iconset/is_custom) | يشير إلى ما إذا كانت مجموعة الأيقونات مخصصة أم لا.<br/> القيمة الافتراضية خاطئة.|
-| [show_value](/cells/python-net/ar/aspose.cells/iconset/show_value) | احصل على أو قم بتعيين العلامة التي تشير إلى ما إذا كان سيتم إظهار قيم الخلايا التي يتم تطبيق مجموعة الرموز هذه عليها.<br/> القيمة الافتراضية صحيحة.|
-| [reverse](/cells/python-net/ar/aspose.cells/iconset/reverse) | احصل على أو قم بتعيين العلامة التي تشير إلى ما إذا كان سيتم عكس الترتيب الافتراضي للأيقونات في مجموعة الرموز هذه.<br/> القيمة الافتراضية خاطئة.|
+| [type](/cells/python-net/ar/aspose.cells/iconset/type) | احصل على نوع مجموعة الأيقونات التي تريد عرضها أو قم بتعيينها.<br/>سيؤدي ضبط النوع إلى التحقق تلقائيًا مما إذا كان عدد Cfvos الحالي هو<br/> متوافق مع النوع الجديد. إذا لم يكن متوافقًا، فسيتم تنظيف Cfvos القديم و<br/> سيتم إضافة Cfvos الافتراضي.|
+| [is_custom](/cells/python-net/ar/aspose.cells/iconset/is_custom) | يشير إلى ما إذا كانت مجموعة الرموز مخصصة.<br/> القيمة الافتراضية هي false.|
+| [show_value](/cells/python-net/ar/aspose.cells/iconset/show_value) | احصل على العلم الذي يشير إلى ما إذا كان سيتم عرض قيم الخلايا التي يتم تطبيق مجموعة الرموز هذه عليها أم لا.<br/> القيمة الافتراضية هي true.|
+| [reverse](/cells/python-net/ar/aspose.cells/iconset/reverse) |احصل على العلم الذي يشير إلى ما إذا كان سيتم عكس الترتيب الافتراضي للرموز في مجموعة الرموز هذه أم لا.<br/> القيمة الافتراضية هي false.|
 
 
 

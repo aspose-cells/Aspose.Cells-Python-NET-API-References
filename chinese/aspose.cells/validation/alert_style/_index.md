@@ -9,7 +9,7 @@ is_root: false
 ---
 ## alert_style属性
 
-代表验证警报样式。
+表示验证警报样式。
 ### 定义：
 ```python
 @property

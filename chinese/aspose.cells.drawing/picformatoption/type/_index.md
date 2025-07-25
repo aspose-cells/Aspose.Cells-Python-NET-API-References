@@ -1,13 +1,13 @@
 ---
-title: type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.drawing/picformatoption/type/
 is_root: false
 ---
-## type 属性
+## type属性
 
 获取或设置图片填充type。
 ### 定义：
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FillPictureType](/cells/python-net/zh/aspose.cells.drawing/fillpicturetype)
-* 类 [PicFormatOption](/cells/python-net/zh/aspose.cells.drawing/picformatoption)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FillPictureType`](/cells/python-net/zh/aspose.cells.drawing/fillpicturetype)
+* 类 [`PicFormatOption`](/cells/python-net/zh/aspose.cells.drawing/picformatoption)

@@ -1,5 +1,5 @@
 ---
-title: set_tint_of_shape_color méthode
+title: méthode set_tint_of_shape_color
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
-##  set_tint_of_shape_color(tint) {#float}
+##  set_tint_of_shape_color(self, tint) {#float}
 Définir la teinte de la couleur de la forme
 
 
 
 ```python
+
 def set_tint_of_shape_color(self, tint):
     ...
 ```
@@ -25,5 +26,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)

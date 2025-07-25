@@ -1,18 +1,19 @@
 ---
 title: remove_duplicates метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 800
+weight: 820
 url: /ru/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates {#}
-Удаляет повторяющиеся строки на листе.
+##  remove_duplicates(self) {#}
+Удаляет дублирующиеся строки на листе.
 
 
 
 ```python
+
 def remove_duplicates(self):
     ...
 ```
@@ -20,12 +21,13 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates {#int-int-int-int}
+##  remove_duplicates(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
 Удаляет повторяющиеся значения в диапазоне.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -34,17 +36,18 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | start_row | int | Стартовый ряд.|
-| start_column | int | Начальный столбец|
+| start_column | int |Начальная колонка|
 | end_row | int | Индекс конечной строки.|
 | end_column | int | Индекс конечного столбца.|
 
 
-##  remove_duplicates {#int-int-int-int-bool-list}
-Удаляет повторяющиеся данные диапазона.
+##  remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
+Удаляет дублирующиеся данные диапазона.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets):
     ...
 ```
@@ -53,11 +56,11 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | start_row | int | Стартовый ряд.|
-| start_column | int | Начальный столбец|
+| start_column | int |Начальная колонка|
 | end_row | int | Индекс конечной строки.|
 | end_column | int | Индекс конечного столбца.|
 | has_headers | bool | Указывает, содержит ли диапазон заголовки.|
-| column_offsets | list | Столбец смещается.|
+| column_offsets | list | Смещения столбцов.|
 
 
 

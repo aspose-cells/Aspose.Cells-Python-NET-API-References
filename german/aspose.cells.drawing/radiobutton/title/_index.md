@@ -3,7 +3,7 @@ title: title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /de/aspose.cells.drawing/radiobutton/title/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: DataBar sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 390
 url: /tr/aspose.cells/databar/
 is_root: false
 ---
 ##  DataBar sınıfı
  DataBar koşullu biçimlendirme kuralını açıklayın.
-Bu koşullu biçimlendirme kuralı, derecelendirilmiş bir
+Bu koşullu biçimlendirme kuralı, derecelendirilmiş bir biçimlendirme görüntüler
 hücre aralığındaki veri çubuğu.
 
 
@@ -19,24 +19,24 @@ DataBar türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [axis_color](/cells/python-net/tr/aspose.cells/databar/axis_color) | Veri çubukları olarak koşullu biçimlendirmeye sahip hücrelerin eksen rengini alır.|
+| [axis_color](/cells/python-net/tr/aspose.cells/databar/axis_color) | Koşullu biçimlendirme uygulanmış veri çubukları için eksenin rengini alır.|
 | [axis_position](/cells/python-net/tr/aspose.cells/databar/axis_position) | Koşullu biçimlendirme kuralı tarafından belirtilen veri çubuklarının ekseninin konumunu alır veya ayarlar.|
-| [bar_fill_type](/cells/python-net/tr/aspose.cells/databar/bar_fill_type) | Veri çubuğunun renkle nasıl doldurulacağını alır veya ayarlar.|
-| [direction](/cells/python-net/tr/aspose.cells/databar/direction) |Veri çubuğunun görüntülenme yönünü alır veya ayarlar.|
-| [bar_border](/cells/python-net/tr/aspose.cells/databar/bar_border) | Veri çubuğunun kenarlığını belirten bir nesne alır.|
-| [negative_bar_format](/cells/python-net/tr/aspose.cells/databar/negative_bar_format) | Veri çubuğu koşullu biçimlendirme kuralıyla ilişkili NegativeBarFormat nesnesini alır.|
-| [min_cfvo](/cells/python-net/tr/aspose.cells/databar/min_cfvo) | Bu DataBar'ın minimum değer nesnesini alın veya ayarlayın.<br/> FormatConditionValueType.Max türüyle null veya CFValueObject öğesi ayarlanamıyor.|
-| [max_cfvo](/cells/python-net/tr/aspose.cells/databar/max_cfvo) | Bu DataBar'ın maksimum değer nesnesini alın veya ayarlayın.<br/> FormatConditionValueType.Min türüyle null veya CFValueObject ayarlanamaz.|
-| [color](/cells/python-net/tr/aspose.cells/databar/color) | Bu DataBar'ın Rengini alın veya ayarlayın.|
+| [bar_fill_type](/cells/python-net/tr/aspose.cells/databar/bar_fill_type) | Bir veri çubuğunun renkle nasıl doldurulacağını alır veya ayarlar.|
+| [direction](/cells/python-net/tr/aspose.cells/databar/direction) | Veri çubuğunun görüntülenme yönünü alır veya ayarlar.|
+| [bar_border](/cells/python-net/tr/aspose.cells/databar/bar_border) | Bir veri çubuğunun sınırını belirten bir nesne alır.|
+| [negative_bar_format](/cells/python-net/tr/aspose.cells/databar/negative_bar_format) | Bir veri çubuğu koşullu biçimlendirme kuralıyla ilişkili NegativeBarFormat nesnesini alır.|
+| [min_cfvo](/cells/python-net/tr/aspose.cells/databar/min_cfvo) | Bu DataBar'ın en düşük değer nesnesini al veya ayarla.<br/> FormatConditionValueType.Max türünde null veya CFValueObject değeri ayarlanamaz.|
+| [max_cfvo](/cells/python-net/tr/aspose.cells/databar/max_cfvo) | Bu DataBar'ın maksimum değer nesnesini al veya ayarla.<br/> FormatConditionValueType.Min türünde null veya CFValueObject değeri ayarlanamaz.|
+| [color](/cells/python-net/tr/aspose.cells/databar/color) | Bu DataBar'ın Rengini al veya ayarla.|
 | [min_length](/cells/python-net/tr/aspose.cells/databar/min_length) | Veri çubuğunun minimum uzunluğunu temsil eder.|
 | [max_length](/cells/python-net/tr/aspose.cells/databar/max_length) | Veri çubuğunun maksimum uzunluğunu temsil eder.|
-| [show_value](/cells/python-net/tr/aspose.cells/databar/show_value) | Bu veri çubuğunun uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini belirten bayrağı alın veya ayarlayın.<br/> Varsayılan değer doğrudur.|
+| [show_value](/cells/python-net/tr/aspose.cells/databar/show_value) |Bu veri çubuğunun uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini belirten bayrağı alın veya ayarlayın.<br/> Varsayılan değer doğrudur.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [to_image](/cells/python-net/tr/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Hücredeki veri çubuğunu görüntü bayt dizisine dönüştürün.|
+| [`to_image(self, cell, img_opts)`](/cells/python-net/tr/aspose.cells/databar/to_image/#aspose.cells.cell-aspose.cells.rendering.imageorprintoptions) | Hücredeki veri çubuğunu görüntü bayt dizisine dönüştür.|
 
 
 

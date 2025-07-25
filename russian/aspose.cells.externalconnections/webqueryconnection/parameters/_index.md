@@ -1,15 +1,13 @@
 ---
 title: parameters недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 320
 url: /ru/aspose.cells.externalconnections/webqueryconnection/parameters/
 is_root: false
 ---
 ##  parameters недвижимость
-
-Получает [ConnectionParameterCollection](/cells/python-net/ru/aspose.cells.externalconnections/connectionparametercollection) для ODBC или веб-запроса.
 ###  Определение:
 ```python
 @property
@@ -18,6 +16,6 @@ def parameters(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [ConnectionParameterCollection](/cells/python-net/ru/aspose.cells.externalconnections/connectionparametercollection)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`ConnectionParameterCollection`](/cells/python-net/ru/aspose.cells.externalconnections/connectionparametercollection)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

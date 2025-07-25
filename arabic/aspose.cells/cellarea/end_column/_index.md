@@ -1,5 +1,5 @@
 ---
-title: end_column الملكية
+title: end_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,14 @@ weight: 50
 url: /ar/aspose.cells/cellarea/end_column/
 is_root: false
 ---
-##  end_column الملكية
+##  end_column عقار
 
-الحصول على عمود نهاية هذه المنطقة أو تعيينه.
+يحصل على أو تعيين العمود النهائي لهذه المنطقة.
+###  تعريف:
+```python
+f end_column 
+```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)

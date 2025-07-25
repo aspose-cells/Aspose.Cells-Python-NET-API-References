@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alternative_text fastighet
 
-Returnerar eller ställer in den beskrivande (alternativa) textsträngen för Slicer-objektet.
+Returnerar eller anger den beskrivande (alternativa) textsträngen för Slicer-objektet.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def alternative_text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

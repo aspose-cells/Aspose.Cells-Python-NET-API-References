@@ -1,6 +1,6 @@
 ---
 title: pixel_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pixel_format proprietà
 
-Ottiene o imposta il formato in pixel per le immagini generate.
+Ottiene o imposta il formato pixel per le immagini generate.
 
 ###  Osservazioni
 

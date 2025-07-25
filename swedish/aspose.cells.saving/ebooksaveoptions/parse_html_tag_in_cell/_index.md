@@ -3,13 +3,13 @@ title: parse_html_tag_in_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 680
 url: /sv/aspose.cells.saving/ebooksaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
 ##  parse_html_tag_in_cell fastighet
 
-Anger om html-taggen (som `<div></div>`) i cellen ska tolkas som cellvärde eller bevaras som den är.
+Anger om html-taggen (t.ex. `<div></div>`) i cellen ska tolkas som cellvärde eller bevaras som den är.
 Standardvärdet är sant.
 ###  Definition:
 ```python

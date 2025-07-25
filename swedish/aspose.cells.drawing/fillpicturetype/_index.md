@@ -3,12 +3,12 @@ title: FillPictureType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 810
 url: /sv/aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---
 ##  FillPictureType uppräkning
-Representerar bildfyllningstypen.
+Representerar bildens fyllningstyp.
 
 
 
@@ -24,4 +24,4 @@ Typen FillPictureType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

@@ -3,16 +3,17 @@ title: protect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 220
 url: /sv/aspose.cells/worksheet/protect/
 is_root: false
 ---
-##  protect {#aspose.cells.ProtectionType}
-Skyddar kalkylblad.
+##  protect(self, type) {#aspose.cells.ProtectionType}
+Skyddar kalkylbladet.
 
 
 
 ```python
+
 def protect(self, type):
     ...
 ```
@@ -23,15 +24,16 @@ def protect(self, type):
 | type | [`ProtectionType`](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
 ###  Anmärkningar
 
-Denna metod skyddar kalkylblad utan lösenord. Det kan protect kalkylblad i alla versioner av Excel-fil.
+Den här metoden skyddar kalkylbladet utan lösenord. Det kan fungera i alla versioner av Excel-filer.
 
-##  protect {#aspose.cells.ProtectionType-str-str}
+##  protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
 
-Skyddar kalkylblad.
+Skyddar kalkylbladet.
 
 
 
 ```python
+
 def protect(self, type, password, old_password):
     ...
 ```
@@ -41,10 +43,10 @@ def protect(self, type, password, old_password):
 | :- | :- | :- |
 | type | [`ProtectionType`](/cells/python-net/sv/aspose.cells/protectiontype) | Skyddstyp.|
 | password | str | Lösenord.|
-| old_password | str | Om kalkylbladet redan är skyddat av ett lösenord, vänligen ange det gamla lösenordet.<br/> Annars kan du ställa in ett nollvärde eller tom sträng för denna parameter.|
+| old_password | str | Om arbetsbladet redan är lösenordsskyddat, vänligen ange det gamla lösenordet.<br/> Annars kan du ange ett nullvärde eller en tom sträng för den här parametern.|
 ###  Anmärkningar
 
-Denna metod kan protect kalkylblad i alla versioner av Excel-fil.
+Den här metoden kan användas med kalkylbladet protect i alla versioner av Excel-filer.
 ###  Exempel
 
 

@@ -3,20 +3,20 @@ title: begin_arrowhead_style mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells.drawing/arcshape/begin_arrowhead_style/
 is_root: false
 ---
 ##  begin_arrowhead_style mülk
 
-Çizginin başlangıç ok başı stilini alır ve ayarlar.
+Satırın başlangıç ok ucu stilini alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Line.BeginArrowheadStyle özelliğini kullanın.
- Bu mülk, Ağustos 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Line.BeginArrowheadStyle özelliğini kullanın.
+ Bu özellik Ağustos 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

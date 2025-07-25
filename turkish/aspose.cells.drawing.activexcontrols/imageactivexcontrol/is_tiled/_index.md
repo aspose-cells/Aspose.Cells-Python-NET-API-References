@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiled mülk
 
-Resmin arka plan boyunca döşenip döşenmediğini gösterir.
+Resmin arka plana döşenip döşenmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

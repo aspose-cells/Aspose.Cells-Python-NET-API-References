@@ -3,13 +3,13 @@ title: major_unit propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 310
 url: /fr/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---
 ##  major_unit propriété
 
-Représente les unités principales de l’axe.
+Représente les unités principales de l'axe.
 
 ###  Remarques
 

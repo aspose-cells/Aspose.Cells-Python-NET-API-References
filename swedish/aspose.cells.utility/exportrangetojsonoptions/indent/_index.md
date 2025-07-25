@@ -13,7 +13,7 @@ Indikerar indent.
 
 ###  Anmärkningar
 
-Om indent är null eller tom, formateras inte den exporterade json.
+Om indent är null eller tomt, är den exporterade json-filen inte formaterad.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [ExportRangeToJsonOptions](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`ExportRangeToJsonOptions`](/cells/python-net/sv/aspose.cells.utility/exportrangetojsonoptions)

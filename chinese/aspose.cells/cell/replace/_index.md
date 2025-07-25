@@ -3,16 +3,17 @@ title: replace方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 310
 url: /zh/aspose.cells/cell/replace/
 is_root: false
 ---
-##  replace {#str-str-aspose.cells.ReplaceOptions}
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 用选项替换单元格的文本。
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -20,7 +21,7 @@ def replace(self, place_holder, new_value, options):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| place_holder | str |Cell 占位符|
+| place_holder | str | Cell 占位符|
 | new_value | str |要替换的字符串值|
 | options | [`ReplaceOptions`](/cells/python-net/zh/aspose.cells/replaceoptions) |替换选项|
 

@@ -1,6 +1,6 @@
 ---
 title: is_collapsed недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapsed недвижимость
 
-свернута ли колонка
+свернут ли столбец
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Column](/cells/python-net/ru/aspose.cells/column)
+* модуль [`aspose.cells`](../../)
+* класс [`Column`](/cells/python-net/ru/aspose.cells/column)

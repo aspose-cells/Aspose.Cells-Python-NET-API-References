@@ -1,6 +1,6 @@
 ---
 title: compound_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type недвижимость
 
-Задает тип составной линии
+Указывает тип составной линии
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def compound_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [MsoLineStyle](/cells/python-net/ru/aspose.cells.drawing/msolinestyle)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`MsoLineStyle`](/cells/python-net/ru/aspose.cells.drawing/msolinestyle)

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_fit_merged_cells_type fastighet
 
-Hämtar och ställer in typen av automatisk anpassning av radhöjden för sammanslagna celler.
+Hämtar och anger typen av automatisk anpassning av radhöjd för sammanslagna celler.
 
 ###  Anmärkningar
 
-Excel ignorerar som standard sammanslagna celler när radhöjden anpassas, så Aspose.Cells fungerar som MS Excel-standard.
-Ställ in den här typen för att ändra sättet att automatiskt anpassa radhöjden för sammanslagna celler.
+Excel ignorerar som standard sammanfogade celler vid anpassning av radhöjd, så Aspose.Cells fungerar som standard i MS Excel.
+Ange den här typen för att ändra hur radhöjden för sammanslagna celler anpassas automatiskt.
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def auto_fit_merged_cells_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFitMergedCellsType](/cells/python-net/sv/aspose.cells/autofitmergedcellstype)
-* klass [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFitMergedCellsType`](/cells/python-net/sv/aspose.cells/autofitmergedcellstype)
+* klass [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions)

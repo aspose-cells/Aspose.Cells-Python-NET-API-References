@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_custom propriété
 
-Indique si le jeu d'icônes est personnalisé.
-La valeur par défaut est false.
+Indique si l'ensemble d'icônes est personnalisé.
+La valeur par défaut est faux.
 ###  Définition:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)

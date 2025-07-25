@@ -3,13 +3,13 @@ title: names mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 340
 url: /tr/aspose.cells/worksheetcollection/names/
 is_root: false
 ---
 ##  names mülk
 
-Elektronik tablodaki tüm Name nesnelerinin koleksiyonunu alır.
+E-tablodaki tüm Name nesnelerinin koleksiyonunu alır.
 ###  Tanım:
 ```python
 @property

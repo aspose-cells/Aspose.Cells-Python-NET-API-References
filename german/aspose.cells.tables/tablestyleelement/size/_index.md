@@ -10,7 +10,7 @@ is_root: false
 ##  size Eigentum
 
 Anzahl der Zeilen oder Spalten in einem einzelnen Streifenband.
-Gilt nur, wenn type firstRowStripe, secondRowStripe, firstColumnStripe oder secondColumnStripe ist.
+Gilt nur, wenn der Typ firstRowStripe, secondRowStripe, firstColumnStripe oder secondColumnStripe ist.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableStyleElement](/cells/python-net/de/aspose.cells.tables/tablestyleelement)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableStyleElement`](/cells/python-net/de/aspose.cells.tables/tablestyleelement)

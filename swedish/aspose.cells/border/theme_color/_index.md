@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color fastighet
 
-Hämtar och ställer in gränsens temafärg.
+Hämtar och anger temafärgen för kantlinjen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Border](/cells/python-net/sv/aspose.cells/border)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`Border`](/cells/python-net/sv/aspose.cells/border)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

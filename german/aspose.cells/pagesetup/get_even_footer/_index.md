@@ -7,12 +7,13 @@ weight: 60
 url: /de/aspose.cells/pagesetup/get_even_footer/
 is_root: false
 ---
-##  get_even_footer(section) {#int}
-Ruft ein Skript ab, das die gerade Fußzeile einer Excel-Datei formatiert.
+##  get_even_footer(self, section) {#int}
+Ruft ein Skript ab, das die Fußzeile einer Excel-Datei formatiert.
 
 
 
 ```python
+
 def get_even_footer(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_even_footer(self, section):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| section | int | 0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
+| section | int |0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

@@ -3,13 +3,13 @@ title: show_in_outline_form Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 680
 url: /de/aspose.cells.pivot/pivotfield/show_in_outline_form/
 is_root: false
 ---
 ##  show_in_outline_form Eigentum
 
-Gibt an, ob dieses Feld in der Pivot-Tabellenansicht in Gliederungsform angeordnet werden soll
+Gibt an, ob dieses Feld in der Pivot-Tabellenansicht in Gliederungsform dargestellt werden soll.
 ###  Definition:
 ```python
 @property

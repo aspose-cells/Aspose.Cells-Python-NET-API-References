@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PageStartSavingArgs](/cells/python-net/tr/aspose.cells.rendering/pagestartsavingargs)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PageStartSavingArgs`](/cells/python-net/tr/aspose.cells.rendering/pagestartsavingargs)

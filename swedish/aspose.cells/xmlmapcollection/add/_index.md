@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
-##  add(url) {#str}
-Lägg till ett [XmlMap](/cells/python-net/sv/aspose.cells/xmlmap) med url/sökväg till en xml/xsd-fil.
+##  add(self, url) {#str}
+Lägg till en [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap) via URL:en/sökvägen till en xml/xsd-fil.
 
 
 ###  Returnerar
 
-[XmlMap](/cells/python-net/sv/aspose.cells/xmlmap) objektindex.
+[`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap) objektindex.
 
 
 ```python
+
 def add(self, url):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, url):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| url | str | url/sökväg till en xml/xsd-fil.|
+| url | str | URL/sökväg för en xml/xsd-fil.|
 
 ###  Exempel
 
-Följande kod lägger till två XmlMaps av en xsd-fil och en xml-fil.
+Följande kod lägger till två XmlMaps med hjälp av en xsd-fil och en xml-fil.
 
 ```python
 from aspose.cells import Workbook
@@ -46,6 +47,6 @@ wb.save("twoXmlMaps.xlsx")
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlMap](/cells/python-net/sv/aspose.cells/xmlmap)
-* klass [XmlMapCollection](/cells/python-net/sv/aspose.cells/xmlmapcollection)
+* modul [`aspose.cells`](../../)
+* klass [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap)
+* klass [`XmlMapCollection`](/cells/python-net/sv/aspose.cells/xmlmapcollection)

@@ -14,10 +14,10 @@ valeur par défaut : PNG.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
-Le graphique et la forme sont toujours rendus sous forme d'éléments vectoriels (par exemple, point, ligne) pour la qualité du rendu.
- Cette propriété sera supprimée 12 mois plus tard depuis juin 2022.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ REMARQUE : Ce membre est désormais obsolète. À la place,
+Le graphique et la forme sont toujours rendus sous forme d'éléments vectoriels (par exemple, un point, une ligne) pour la qualité du rendu.
+ Cette propriété sera supprimée 12 mois plus tard soit juin 2022.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -29,5 +29,5 @@ def chart_image_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)

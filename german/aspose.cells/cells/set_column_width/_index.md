@@ -3,16 +3,17 @@ title: set_column_width Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 830
+weight: 850
 url: /de/aspose.cells/cells/set_column_width/
 is_root: false
 ---
-##  set_column_width {#int-float}
+##  set_column_width(self, column, width) {#int-float}
 Legt die Breite der angegebenen Spalte in der Normalansicht fest.
 
 
 
 ```python
+
 def set_column_width(self, column, width):
     ...
 ```
@@ -21,13 +22,13 @@ def set_column_width(self, column, width):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | column | int | Spaltenindex.|
-| width | float | Breite der Spalte. Die Spaltenbreite muss zwischen 0 und 255 liegen.|
+| width | float | Spaltenbreite in Zeichen. Die Spaltenbreite muss zwischen 0 und 255 liegen.|
 ###  Bemerkungen
 
-Um eine Spalte auszublenden, setzen Sie die Spaltenbreite auf Null.
+Bei Tabellenkalkulationen wird die Spaltenbreite als Anzahl der Zeichen gemessen
+der maximalen Ziffernbreite der Zahlen 0 bis 9, wie sie in der Schriftart des normalen Stils wiedergegeben werden.
 
 
 ###  Siehe auch
-
 * Modul [`aspose.cells`](../../)
 * Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

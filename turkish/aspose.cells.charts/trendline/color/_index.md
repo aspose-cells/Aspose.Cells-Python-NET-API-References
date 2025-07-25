@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color mülk
 
-Çizginin Rengini temsil eder.
+Çizginin rengini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_cm Eigentum
 
-Stellt die Breite des Kommentars in der Einheit Zentimeter dar.
+Stellt die Breite des Kommentars in Zentimetern dar.
 
 ###  Beispiel
 

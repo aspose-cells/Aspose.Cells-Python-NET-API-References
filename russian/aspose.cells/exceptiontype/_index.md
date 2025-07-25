@@ -1,14 +1,14 @@
 ---
 title: ExceptionType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /ru/aspose.cells/exceptiontype/
 is_root: false
 ---
 ##  ExceptionType перечисление
-Представляет код типа пользовательского исключения.
+Представляет собой пользовательский код типа исключения.
 
 
 
@@ -36,11 +36,15 @@ is_root: false
 | SHEET_TYPE | Неверный тип листа.|
 | INTERRUPTED | Процесс прерывается.|
 | IO | Файл недействителен.|
-| PERMISSION |Для открытия этого файла требуется разрешение.|
+| PERMISSION | Для открытия этого файла требуется разрешение.|
 | UNSUPPORTED_FEATURE | Неподдерживаемая функция.|
 | UNSUPPORTED_STREAM | Неподдерживаемый поток, который нужно открыть.|
 | UNDISCLOSED_INFORMATION | Файлы содержат некоторую нераскрытую информацию.|
 | FILE_CORRUPTED | Содержимое файла повреждено.|
+| DEFINED_NAME | Неверное определенное имя|
+| FONT | Неверный шрифт|
+| AUTO_FILTER | Неверная настройка автоматического фильтра.|
+| FONT_SUBSTITUTION | Тип предупреждения о замене шрифта<br/>когда шрифт не найден, можно получить этот тип предупреждения.|
 
 
 

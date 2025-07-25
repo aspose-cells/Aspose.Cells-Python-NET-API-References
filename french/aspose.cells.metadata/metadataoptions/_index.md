@@ -17,17 +17,17 @@ Le type MetadataOptions expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [MetadataOptions(metadata_type)](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/__init__/#MetadataType) | Crée une option de chargement des métadonnées.|
+| [`__init__(self, metadata_type)`](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/__init__/#aspose.cells.metadata.metadatatype) | Crée une option de chargement des métadonnées.|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
 | [metadata_type](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/metadata_type) | Obtient et définit le type de métadonnées en cours de chargement.|
-| [password](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/password) | Représente le mot de passe de chiffrement du fichier de classeur.|
-| [key_length](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/key_length) | La longueur de clé.|
+| [password](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/password) | Représente le mot de passe de cryptage du fichier du classeur.|
+| [key_length](/cells/python-net/fr/aspose.cells.metadata/metadataoptions/key_length) | La longueur de la clé.|
 
 
 
 ###  Voir également
-* module [aspose.cells.metadata](..)
+* module [`aspose.cells.metadata`](..)

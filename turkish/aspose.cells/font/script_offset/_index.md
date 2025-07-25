@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset mülk
 
-Komut dosyası ofsetini yüzde birimi cinsinden alır ve ayarlar
+Komut dosyası ofsetini yüzde biriminde alır ve ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

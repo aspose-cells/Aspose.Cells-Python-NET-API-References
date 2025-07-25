@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  update_reference Eigentum
 
-Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.
+Gibt an, ob auf die Aktualisierung in anderen Arbeitsblättern verwiesen wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DeleteOptions](/cells/python-net/de/aspose.cells/deleteoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DeleteOptions`](/cells/python-net/de/aspose.cells/deleteoptions)

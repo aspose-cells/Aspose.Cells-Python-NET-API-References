@@ -1,15 +1,15 @@
 ---
 title: alternative_text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 300
+weight: 320
 url: /it/aspose.cells.drawing/picture/alternative_text/
 is_root: false
 ---
 ##  alternative_text proprietà
 
-Restituisce o imposta la stringa di testo descrittivo (alternativa) dell'oggetto [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape).
+Restituisce o imposta la stringa di testo descrittiva (alternativa) dell'oggetto [`Shape`](/cells/python-net/it/aspose.cells.drawing/shape).
 
 ###  Esempio
 

@@ -1,9 +1,9 @@
 ---
 title: has_revisions недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 630
 url: /ru/aspose.cells/workbook/has_revisions/
 is_root: false
 ---

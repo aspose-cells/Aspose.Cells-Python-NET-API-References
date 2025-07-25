@@ -1,9 +1,9 @@
 ---
 title: file_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 570
+weight: 600
 url: /it/aspose.cells/workbook/file_name/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene e imposta il nome del file corrente.
 
 ###  Osservazioni
 
-Se il file viene aperto dallo stream e sono presenti alcuni riferimenti a formule esterne,
+Se il file viene aperto tramite flusso e sono presenti alcuni riferimenti a formule esterne,
 si prega di impostare il nome del file.
 ###  Definizione:
 ```python

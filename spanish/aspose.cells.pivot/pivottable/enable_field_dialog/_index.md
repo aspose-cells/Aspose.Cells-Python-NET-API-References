@@ -3,7 +3,7 @@ title: enable_field_dialog propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 490
+weight: 590
 url: /es/aspose.cells.pivot/pivottable/enable_field_dialog/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def enable_field_dialog(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

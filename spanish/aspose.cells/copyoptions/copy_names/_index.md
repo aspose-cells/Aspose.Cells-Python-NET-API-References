@@ -21,5 +21,5 @@ def copy_names(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CopyOptions](/cells/python-net/es/aspose.cells/copyoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions)

@@ -3,13 +3,13 @@ title: standard_height_inch属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1250
+weight: 1280
 url: /zh/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
 ## standard_height_inch属性
 
-获取或设置此工作表中的默认行高（以英寸为单位）。
+获取或设置此工作表中的默认行高，以英寸为单位。
 ### 定义：
 ```python
 @property

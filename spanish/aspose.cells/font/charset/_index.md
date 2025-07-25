@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  charset propiedad
 
-Representar el conjunto de caracteres.
+Representa el conjunto de caracteres.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

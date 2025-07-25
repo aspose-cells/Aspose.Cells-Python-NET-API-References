@@ -7,15 +7,16 @@ weight: 60
 url: /de/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
-Legt einen gemessenen öffentlichen und privaten Schlüssel fest.
- Wenn Sie eine gebührenpflichtige Lizenz erwerben, sollte beim Starten der Anwendung API aufgerufen werden. Normalerweise reicht dies aus.
- Wenn jedoch das Hochladen der Verbrauchsdaten immer fehlschlägt und 24 Stunden überschritten werden, wird die Lizenz auf den Evaluierungsstatus gesetzt.
-Um einen solchen Fall zu vermeiden, sollten Sie regelmäßig den Lizenzstatus überprüfen. Wenn es sich um einen Teststatus handelt, rufen Sie diese erneut unter API an.
+##  set_metered_key(self, public_key, private_key) {#str-str}
+Legt den gemessenen öffentlichen und privaten Schlüssel fest.
+Wenn Sie eine gebührenpflichtige Lizenz erwerben, sollte beim Starten der Anwendung diese API aufgerufen werden. Normalerweise reicht dies aus.
+ Wenn jedoch das Hochladen der Verbrauchsdaten immer fehlschlägt und 24 Stunden überschreitet, wird die Lizenz auf den Evaluierungsstatus gesetzt.
+Um solche Fälle zu vermeiden, sollten Sie den Lizenzstatus regelmäßig überprüfen. Wenn es sich um einen Evaluierungsstatus handelt, rufen Sie erneut die Nummer API an.
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```
@@ -23,8 +24,8 @@ def set_metered_key(self, public_key, private_key):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| public_key | str | Öffentlicher Schlüssel|
-| private_key | str | Privat Schlüssel|
+| public_key | str | öffentlicher Schlüssel|
+| private_key | str | privater Schlüssel|
 
 
 

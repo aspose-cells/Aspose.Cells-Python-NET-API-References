@@ -21,6 +21,6 @@ def first_point_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

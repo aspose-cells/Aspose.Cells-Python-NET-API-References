@@ -1,14 +1,14 @@
 ---
 title: Enumerazione PasteOperationType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /it/aspose.cells/pasteoperationtype/
 is_root: false
 ---
 ##  Enumerazione PasteOperationType
-Rappresenta il tipo di operazione quando si incolla l'intervallo.
+Rappresenta il tipo di operazione quando si incolla un intervallo.
 
 
 

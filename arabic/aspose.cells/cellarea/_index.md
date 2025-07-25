@@ -1,40 +1,40 @@
 ---
-title: CellArea الدرجة
+title: CellArea صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 120
 url: /ar/aspose.cells/cellarea/
 is_root: false
 ---
-##  CellArea الدرجة
+##  CellArea صف
 تمثل منطقة من الخلايا.
 
 
 
-يكشف نوع CellArea الأعضاء التالية:
+يكشف النوع CellArea عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [CellArea()](/cells/python-net/ar/aspose.cells/cellarea/__init__/#) | ينشئ مثيلاً جديدًا من CellArea|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/cellarea/__init__/#) | إنشاء مثيل جديد لـ CellArea|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [start_row](/cells/python-net/ar/aspose.cells/cellarea/start_row) | الحصول على صف البداية لهذه المنطقة أو تعيينه.|
-| [end_row](/cells/python-net/ar/aspose.cells/cellarea/end_row) | الحصول على صف نهاية هذه المنطقة أو تعيينه.|
-| [start_column](/cells/python-net/ar/aspose.cells/cellarea/start_column) |الحصول على أو تعيين عمود البداية لهذه المنطقة.|
-| [end_column](/cells/python-net/ar/aspose.cells/cellarea/end_column) | الحصول على عمود نهاية هذه المنطقة أو تعيينه.|
+| [start_row](/cells/python-net/ar/aspose.cells/cellarea/start_row) | يحصل على أو تعيين الصف الأولي لهذه المنطقة.|
+| [end_row](/cells/python-net/ar/aspose.cells/cellarea/end_row) | يحصل على أو تعيين الصف النهائي لهذه المنطقة.|
+| [start_column](/cells/python-net/ar/aspose.cells/cellarea/start_column) | يحصل على عمود البداية لهذه المنطقة أو يعينه.|
+| [end_column](/cells/python-net/ar/aspose.cells/cellarea/end_column) | يحصل على أو تعيين العمود النهائي لهذه المنطقة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [create_cell_area(start_row, start_column, end_row, end_column)](/cells/python-net/ar/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | ينشئ منطقة خلية.|
-| [create_cell_area(start_cell_name, end_cell_name)](/cells/python-net/ar/aspose.cells/cellarea/create_cell_area/#str-str) | ينشئ منطقة خلية.|
-| [compare_to(obj)](/cells/python-net/ar/aspose.cells/cellarea/compare_to/#any) | قارن بين كائنين من نوع CellArea وفقًا للزاوية العلوية اليسرى.|
+| [`create_cell_area(, start_row, start_column, end_row, end_column)`](/cells/python-net/ar/aspose.cells/cellarea/create_cell_area/#int-int-int-int) | إنشاء منطقة خلية.|
+| [`create_cell_area(, start_cell_name, end_cell_name)`](/cells/python-net/ar/aspose.cells/cellarea/create_cell_area/#str-str) | إنشاء منطقة خلية.|
+| [`compare_to(self, obj)`](/cells/python-net/ar/aspose.cells/cellarea/compare_to/#any) | قم بمقارنة كائنين من CellArea وفقًا للزاوية العلوية اليسرى.|
 
 
 
@@ -53,4 +53,4 @@ ca.end_column = 0
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](..)
+* الوحدة [`aspose.cells`](..)

@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  skip_error_value fastighet
 
-Anger om ett ogiltigt värde för kolumnen hoppar över.
- Till exempel, om kolumntypen är decimal , är värdet större än decimal.MaxValue
-och den här egenskapen är sann, vi kommer inte att kasta undantag igen.
+Anger om ett ogiltigt värde för kolumnen hoppas över.
+ Om till exempel kolumntypen är decimal är värdet större än decimal.MaxValue
+och den här egenskapen är sann, kommer vi inte att kasta undantag igen.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

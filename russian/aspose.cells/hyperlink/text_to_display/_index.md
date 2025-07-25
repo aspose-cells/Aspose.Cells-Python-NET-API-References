@@ -1,6 +1,6 @@
 ---
 title: text_to_display недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_to_display недвижимость
 
-Представляет текст, отображаемый для указанной гиперссылки. Значением по умолчанию является адрес гиперссылки.
+Представляет текст, отображаемый для указанной гиперссылки. Значение по умолчанию — адрес гиперссылки.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_to_display(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells`](../../)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

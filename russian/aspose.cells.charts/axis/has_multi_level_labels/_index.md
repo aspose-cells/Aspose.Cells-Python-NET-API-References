@@ -1,15 +1,15 @@
 ---
 title: has_multi_level_labels недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ru/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
 ##  has_multi_level_labels недвижимость
 
-Указывает, должны ли метки отображаться как многоуровневые.
+Указывает, будут ли метки отображаться как многоуровневые.
 
 ###  Примечания
 

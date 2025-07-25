@@ -3,7 +3,7 @@ title: is_deleted mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 270
 url: /tr/aspose.cells.charts/charttextframe/is_deleted/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartTextFrame](/cells/python-net/tr/aspose.cells.charts/charttextframe)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartTextFrame`](/cells/python-net/tr/aspose.cells.charts/charttextframe)

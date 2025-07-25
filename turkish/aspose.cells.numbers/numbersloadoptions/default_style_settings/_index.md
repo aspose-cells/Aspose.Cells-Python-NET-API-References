@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.numbers](../../)
-* sınıf [DefaultStyleSettings](/cells/python-net/tr/aspose.cells/defaultstylesettings)
-* sınıf [NumbersLoadOptions](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)
+* modül [`aspose.cells.numbers`](../../)
+* sınıf [`DefaultStyleSettings`](/cells/python-net/tr/aspose.cells/defaultstylesettings)
+* sınıf [`NumbersLoadOptions`](/cells/python-net/tr/aspose.cells.numbers/numbersloadoptions)

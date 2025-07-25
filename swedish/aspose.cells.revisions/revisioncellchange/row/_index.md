@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämtar row index för cellen.
+Hämtar cellens row-index.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellChange](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellChange`](/cells/python-net/sv/aspose.cells.revisions/revisioncellchange)

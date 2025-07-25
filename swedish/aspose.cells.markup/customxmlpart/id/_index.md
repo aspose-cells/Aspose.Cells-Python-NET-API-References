@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id fastighet
 
-Hämtar och ställer in id för den anpassade xml-delen.
+Hämtar och anger id för den anpassade xml-delen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [CustomXmlPart](/cells/python-net/sv/aspose.cells.markup/customxmlpart)
+* modul [`aspose.cells.markup`](../../)
+* klass [`CustomXmlPart`](/cells/python-net/sv/aspose.cells.markup/customxmlpart)

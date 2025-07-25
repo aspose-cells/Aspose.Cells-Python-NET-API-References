@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient Eigentum
 
-Gibt an, ob die Zellschattierung ein Farbverlaufsmuster ist.
+Gibt an, ob es sich bei der Zellenschattierung um ein Verlaufsmuster handelt.
 ###  Definition:
 ```python
 @property

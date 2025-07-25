@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/cellsfactory/__init__/
 is_root: false
 ---
-##  CellsFactory() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av CellsFactory
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsFactory](/cells/python-net/sv/aspose.cells/cellsfactory)
+* modul [`aspose.cells`](../../)
+* klass [`CellsFactory`](/cells/python-net/sv/aspose.cells/cellsfactory)

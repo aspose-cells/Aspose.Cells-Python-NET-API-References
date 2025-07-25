@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells.tables/listcolumn/get_custom_calculated_formula/
 is_root: false
 ---
-##  get_custom_calculated_formula(is_r1c1, is_local) {#bool-bool}
+##  get_custom_calculated_formula(self, is_r1c1, is_local) {#bool-bool}
 Hämtar formeln för den här listkolumnen.
 
 
 ###  Returnerar
 
-Formeln för denna listkolumn.
+Formeln för den här listkolumnen.
 
 
 ```python
+
 def get_custom_calculated_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -25,10 +26,10 @@ def get_custom_calculated_formula(self, is_r1c1, is_local):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | is_r1c1 | bool | Om formeln behöver formateras som R1C1.|
-| is_local | bool | Huruvida formeln behöver formateras efter språk.|
+| is_local | bool | Om formeln behöver formateras efter språkinställning.|
 
 
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListColumn](/cells/python-net/sv/aspose.cells.tables/listcolumn)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListColumn`](/cells/python-net/sv/aspose.cells.tables/listcolumn)

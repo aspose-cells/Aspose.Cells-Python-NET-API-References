@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_depth mülk
 
-3 boyutlu grafikteki veri serileri arasındaki mesafeyi işaretçi genişliğinin yüzdesi olarak alır veya ayarlar.
+3 boyutlu bir grafikte veri serileri arasındaki mesafeyi, işaretleyici genişliğinin yüzdesi olarak alır veya ayarlar.
 Bu özelliğin değeri 0 ile 500 arasında olmalıdır.
 ###  Tanım:
 ```python

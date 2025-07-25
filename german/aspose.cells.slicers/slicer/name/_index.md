@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Gibt den name des angegebenen Slicers zurück oder legt ihn fest
+Gibt den name des angegebenen Slicers zurück oder setzt ihn
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

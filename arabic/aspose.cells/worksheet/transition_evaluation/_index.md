@@ -3,13 +3,13 @@ title: transition_evaluation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 860
+weight: 880
 url: /ar/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---
 ##  transition_evaluation عقار
 
-يشير إلى ما إذا كان خيار تقييم صيغة الانتقال (توافق Lotus) ممكنًا.
+يشير إلى ما إذا كان خيار تقييم صيغة الانتقال (توافق Lotus) ممكّنًا.
 ###  تعريف:
 ```python
 @property

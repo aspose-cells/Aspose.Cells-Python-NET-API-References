@@ -1,15 +1,15 @@
 ---
-title: data_range 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: data_range属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells.tables/listobject/data_range/
 is_root: false
 ---
-## data_range 属性
+## data_range属性
 
-获取 ListObject 的数据范围。
+获取ListObject的数据范围。
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def data_range(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListObject](/cells/python-net/zh/aspose.cells.tables/listobject)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListObject`](/cells/python-net/zh/aspose.cells.tables/listobject)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

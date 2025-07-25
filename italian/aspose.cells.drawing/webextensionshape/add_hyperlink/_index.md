@@ -1,13 +1,13 @@
 ---
-title: metodo add_hyperlink
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add_hyperlink
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing/webextensionshape/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 Aggiunge un collegamento ipertestuale alla forma.
 
 
@@ -17,6 +17,7 @@ Restituisce il nuovo oggetto collegamento ipertestuale.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [WebExtensionShape](/cells/python-net/it/aspose.cells.drawing/webextensionshape)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`WebExtensionShape`](/cells/python-net/it/aspose.cells.drawing/webextensionshape)

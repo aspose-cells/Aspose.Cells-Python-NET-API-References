@@ -3,17 +3,17 @@ title: width_in_shape propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /fr/aspose.cells.drawing/radiobutton/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape propriété
 
-Représente la largeur de la forme, en unité de 1/4 000 de la forme parent.
+Représente la largeur de la forme, en unité de 1/4000 de la forme parent.
 
 ###  Remarques
 
-S'applique uniquement lorsque cette forme fait partie du groupe ou du graphique.
+S'applique uniquement lorsque cette forme se trouve dans le groupe ou le graphique.
 
 ###  Exemple
 

@@ -1,15 +1,15 @@
 ---
-title: is_same_settings الملكية
+title: is_same_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 220
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_same_settings/
 is_root: false
 ---
-##  is_same_settings الملكية
+##  is_same_settings عقار
 
-علامة تشير إلى ما إذا كان سيتم تحليل كل الجداول داخل كتلة PRE بنفس إعدادات العرض
+علم يشير إلى ما إذا كان سيتم تحليل جميع الجداول داخل كتلة PRE بنفس إعدادات العرض
 كالصف الأول.
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def is_same_settings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

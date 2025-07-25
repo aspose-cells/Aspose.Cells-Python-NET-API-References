@@ -3,7 +3,7 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /es/aspose.cells.drawing/checkbox/value/
 is_root: false
 ---

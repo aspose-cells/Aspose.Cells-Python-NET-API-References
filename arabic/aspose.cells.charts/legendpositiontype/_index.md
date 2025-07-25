@@ -1,5 +1,5 @@
 ---
-title: العد LegendPositionType
+title: LegendPositionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,24 +7,24 @@ weight: 540
 url: /ar/aspose.cells.charts/legendpositiontype/
 is_root: false
 ---
-##  العد LegendPositionType
-تعداد أنواع موضع وسيلة الإيضاح.
+##  LegendPositionType التعداد
+يقوم بإحصاء أنواع مواضع الأسطورة.
 
 
 
-يكشف نوع LegendPositionType الأعضاء التالية:
+يكشف النوع LegendPositionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| BOTTOM | يعرض وسيلة الإيضاح في الجزء السفلي من منطقة رسم المخطط.|
-| CORNER | يعرض وسيلة الإيضاح في زاوية منطقة الرسم في المخطط.|
-| LEFT | يعرض وسيلة الإيضاح إلى يسار منطقة رسم المخطط.|
-| NOT_DOCKED |يمثل أن وسيلة الإيضاح لم يتم إرساؤها.|
-| RIGHT | يعرض وسيلة الإيضاح على يمين منطقة رسم المخطط.|
-| TOP | يعرض وسيلة الإيضاح في أعلى منطقة رسم المخطط.|
+| BOTTOM | يعرض الأسطورة أسفل منطقة رسم المخطط.|
+| CORNER | يعرض الأسطورة في زاوية منطقة رسم المخطط.|
+| LEFT | يعرض الأسطورة الموجودة على يسار منطقة رسم المخطط.|
+| NOT_DOCKED | يمثل أن الأسطورة ليست مثبتة.|
+| RIGHT | يعرض الأسطورة الموجودة على يمين منطقة رسم المخطط.|
+| TOP | يعرض الأسطورة في الجزء العلوي من منطقة رسم المخطط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

@@ -3,7 +3,7 @@ title: PivotGroupByType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 380
 url: /ar/aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
@@ -17,15 +17,15 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| RANGE_OF_VALUES | المجموعة حسب الأرقام.|
-| NUMBERS | المجموعة حسب الأرقام.|
-| SECONDS | يعرض ثانية نوع المجموعة.|
-| MINUTES | يعرض دقائق المجموعة حسب النوع.|
-| HOURS |يعرض ساعات حسب نوع المجموعة.|
-| DAYS | يعرض أيام نوع المجموعة.|
-| MONTHS | يعرض أشهر المجموعة حسب النوع.|
-| QUARTERS | يعرض أرباع نوع المجموعة.|
-| YEARS | يعرض سنوات حسب نوع المجموعة.|
+| RANGE_OF_VALUES | التجميع حسب الأرقام.|
+| NUMBERS | التجميع حسب الأرقام.|
+| SECONDS | يقدم ثواني المجموعة حسب النوع.|
+| MINUTES | يقدم محاضر المجموعة حسب النوع.|
+| HOURS | يعرض ساعات المجموعة حسب النوع.|
+| DAYS | مجموعة أيام الهدايا حسب النوع.|
+| MONTHS | يقدم أشهر المجموعة حسب النوع.|
+| QUARTERS |يقدم أرباع المجموعة حسب النوع.|
+| YEARS | يقدم مجموعة سنوات حسب النوع.|
 
 
 

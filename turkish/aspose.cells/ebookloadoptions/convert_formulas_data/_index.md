@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  convert_formulas_data mülk
 
-doğruysa, dize değeri '=' karakteriyle başladığında dizeyi formüle dönüştürün, varsayılan değer false'tur.
+Eğer doğruysa, dize değeri '=' karakteriyle başladığında dizeyi formüle dönüştür, varsayılan değer false'tur.
 
 ###  Notlar
 
- NOT: Bu özellik artık kullanılmıyor.
-Bunun yerine lütfen HtmlLoadOptions.HasFormula özelliğini kullanın.
- Bu mülk, Mart 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu özellik artık geçerliliğini yitirmiştir.
+Bunun yerine HtmlLoadOptions.HasFormula özelliğini kullanın.
+ Bu özellik Mart 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

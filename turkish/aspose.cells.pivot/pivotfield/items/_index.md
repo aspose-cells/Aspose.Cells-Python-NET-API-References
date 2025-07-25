@@ -3,13 +3,13 @@ title: items mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 470
+weight: 560
 url: /tr/aspose.cells.pivot/pivotfield/items/
 is_root: false
 ---
 ##  items mülk
 
-items numaralı tüm tabanı alın;
+Bu alanda pivot items'in tüm etiketlerini alın.
 ###  Tanım:
 ```python
 @property

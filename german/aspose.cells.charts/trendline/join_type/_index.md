@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [LineJoinType](/cells/python-net/de/aspose.cells.drawing/linejointype)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`LineJoinType`](/cells/python-net/de/aspose.cells.drawing/linejointype)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

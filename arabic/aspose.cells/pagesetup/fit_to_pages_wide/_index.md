@@ -1,5 +1,5 @@
 ---
-title: fit_to_pages_wide الملكية
+title: fit_to_pages_wide عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 310
 url: /ar/aspose.cells/pagesetup/fit_to_pages_wide/
 is_root: false
 ---
-##  fit_to_pages_wide الملكية
+##  fit_to_pages_wide عقار
 
-يمثل عدد الصفحات بعرض ورقة العمل التي سيتم تحجيمها عند طباعتها.
+يمثل عدد الصفحات التي سيتم تغيير حجم ورقة العمل إليها عند طباعتها.
 القيمة الافتراضية هي 1.
 
 ###  ملاحظات
 
-يجب عليك تعيين FitToPagesTall على أنه صفر إذا كنت تريد احتواء جميع الأعمدة في صفحة واحدة.
+يتعين عليك تعيين FitToPagesTall على صفر إذا كنت تريد احتواء جميع الأعمدة في صفحة واحدة.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_wide(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

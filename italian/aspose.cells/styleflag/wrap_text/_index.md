@@ -1,6 +1,6 @@
 ---
 title: wrap_text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 320
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  wrap_text proprietà
 
-Verrà applicata l'impostazione del testo a capo.
+Verrà applicata l'impostazione di avvolgimento del testo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def wrap_text(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

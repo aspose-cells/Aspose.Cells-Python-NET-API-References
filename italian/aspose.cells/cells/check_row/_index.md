@@ -1,22 +1,23 @@
 ---
 title: Metodo check_row
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
 url: /it/aspose.cells/cells/check_row/
 is_root: false
 ---
-##  check_row {#int}
-Ottiene l'elemento [`Row`](/cells/python-net/it/aspose.cells/row) o null in corrispondenza dell'indice della riga di cella specificata.
+##  check_row(self, row) {#int}
+Ottiene l'elemento [`Row`](/cells/python-net/it/aspose.cells/row) o null nell'indice della riga della cella specificata.
 
 
 ###  ritorna
 
-Restituisce [`Row`](/cells/python-net/it/aspose.cells/row) oggetto Se l'oggetto riga esiste, altrimenti restituisce null.
+Restituisce l'oggetto [`Row`](/cells/python-net/it/aspose.cells/row) se l'oggetto riga esiste, altrimenti restituisce null.
 
 
 ```python
+
 def check_row(self, row):
     ...
 ```
@@ -24,7 +25,7 @@ def check_row(self, row):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | Indice delle righe|
+| row | int | Indice di riga|
 
 
 

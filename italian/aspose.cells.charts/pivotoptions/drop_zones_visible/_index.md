@@ -1,6 +1,6 @@
 ---
 title: drop_zones_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_zones_visible proprietà
 
-Specifica se sul grafico pivot possono essere visualizzati controlli pivot.
+Specifica se i controlli pivot possono essere visualizzati sul grafico pivot.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [PivotOptions](/cells/python-net/it/aspose.cells.charts/pivotoptions)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`PivotOptions`](/cells/python-net/it/aspose.cells.charts/pivotoptions)

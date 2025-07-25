@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale_x Eigentum
 
-Ruft die X-Skalierung für das Kachelbild ab oder legt diese fest.
+Ruft den X-Maßstab für die Kachelung des Bildes ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_x(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

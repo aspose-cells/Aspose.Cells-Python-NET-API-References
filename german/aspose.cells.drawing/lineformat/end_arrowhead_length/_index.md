@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_length Eigentum
 
-Ruft den Längentyp des Endpfeils der Linie ab und legt diesen fest.
+Ruft den Endpfeillängentyp der Linie ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -30,6 +30,6 @@ def end_arrowhead_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoArrowheadLength](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoArrowheadLength`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)

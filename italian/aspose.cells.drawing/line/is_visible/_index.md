@@ -1,6 +1,6 @@
 ---
 title: is_visible proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

@@ -3,13 +3,13 @@ title: keep_precision عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ar/aspose.cells/ebookloadoptions/keep_precision/
 is_root: false
 ---
 ##  keep_precision عقار
 
-يشير إلى ما إذا كان لا يمكن تحليل قيمة سلسلة إذا كان الطول 15.
+يشير إلى ما إذا كان سيتم تحليل قيمة السلسلة إذا كان الطول 15.
 ###  تعريف:
 ```python
 @property

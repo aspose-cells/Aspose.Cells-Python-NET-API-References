@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font Eigentum
 
-Ruft die font des Kommentars ab.
+Ruft den Kommentar font ab.
 
 ###  Beispiel
 

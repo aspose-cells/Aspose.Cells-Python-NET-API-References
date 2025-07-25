@@ -1,9 +1,9 @@
 ---
 title: CalculationData класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 90
 url: /ru/aspose.cells/calculationdata/
 is_root: false
 ---
@@ -20,19 +20,19 @@ is_root: false
 | [calculated_value](/cells/python-net/ru/aspose.cells/calculationdata/calculated_value) | Получает или задает расчетное значение для этой функции.|
 | [workbook](/cells/python-net/ru/aspose.cells/calculationdata/workbook) | Получает объект Workbook, в котором находится функция.|
 | [worksheet](/cells/python-net/ru/aspose.cells/calculationdata/worksheet) | Получает объект Worksheet, в котором находится функция.|
-| [cell_row](/cells/python-net/ru/aspose.cells/calculationdata/cell_row) | Получает индекс строки ячейки, в которой находится функция.|
-| [cell_column](/cells/python-net/ru/aspose.cells/calculationdata/cell_column) | Получает индекс столбца ячейки, в которой находится функция.|
-| [cell](/cells/python-net/ru/aspose.cells/calculationdata/cell) | Получает объект Cell, в котором находится функция.|
-| [function_name](/cells/python-net/ru/aspose.cells/calculationdata/function_name) |Получает имя функции для вычисления.|
+| [cell_row](/cells/python-net/ru/aspose.cells/calculationdata/cell_row) | Возвращает индекс строки ячейки, в которой находится функция.|
+| [cell_column](/cells/python-net/ru/aspose.cells/calculationdata/cell_column) | Возвращает индекс столбца ячейки, в которой находится функция.|
+| [cell](/cells/python-net/ru/aspose.cells/calculationdata/cell) |Получает объект Cell, в котором находится функция.|
+| [function_name](/cells/python-net/ru/aspose.cells/calculationdata/function_name) | Получает имя функции для вычисления.|
 | [param_count](/cells/python-net/ru/aspose.cells/calculationdata/param_count) | Получает количество параметров|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_param_value](/cells/python-net/ru/aspose.cells/calculationdata/get_param_value/#int) | Получает представленный объект значения параметра по заданному индексу.|
-| [get_param_value_in_array_mode](/cells/python-net/ru/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) | Получает значения параметра по заданному индексу.<br/>Если параметр представляет собой какое-то выражение, которое необходимо вычислить,<br/> тогда он будет рассчитан в режиме массива.|
-| [get_param_text](/cells/python-net/ru/aspose.cells/calculationdata/get_param_text/#int) | Получает буквальный текст параметра по заданному индексу.|
+| [`get_param_value(self, index)`](/cells/python-net/ru/aspose.cells/calculationdata/get_param_value/#int) |Получает представленный объект значения параметра по заданному индексу.|
+| [`get_param_value_in_array_mode(self, index, max_row_count, max_column_count)`](/cells/python-net/ru/aspose.cells/calculationdata/get_param_value_in_array_mode/#int-int-int) | Получает значение(я) параметра по заданному индексу.<br/>Если параметр представляет собой какое-либо выражение, которое необходимо вычислить,<br/> то он будет рассчитан в режиме массива.|
+| [`get_param_text(self, index)`](/cells/python-net/ru/aspose.cells/calculationdata/get_param_text/#int) | Получает буквальный текст параметра по заданному индексу.|
 
 
 

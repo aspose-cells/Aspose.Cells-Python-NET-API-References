@@ -1,19 +1,19 @@
 ---
-title: start_id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: start_id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 260
 url: /zh/aspose.cells.saving/sqlscriptsaveoptions/start_id/
 is_root: false
 ---
-## start_id 属性
+## start_id属性
 
-获取和设置起始 ID。
+获取并设置起始 ID。
 
-### 评论
+### 注意事项
 
-仅在设置 [SqlScriptSaveOptions.id_name](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions#id_name) 时有效。
+仅当设置了 [`SqlScriptSaveOptions.id_name`](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions#id_name) 时才有效。
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def start_id(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.saving](../../)
-* 类 [SqlScriptSaveOptions](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)
+* 模块[`aspose.cells.saving`](../../)
+* 类 [`SqlScriptSaveOptions`](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)

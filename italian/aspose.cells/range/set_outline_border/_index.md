@@ -1,18 +1,19 @@
 ---
 title: Metodo set_outline_border
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 240
 url: /it/aspose.cells/range/set_outline_border/
 is_root: false
 ---
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
-Imposta il bordo del contorno attorno a un intervallo di celle.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+Imposta il bordo attorno a un intervallo di celle.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```
@@ -25,12 +26,13 @@ def set_outline_border(self, border_edge, border_style, border_color):
 | border_color | [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor) | Colore del bordo.|
 
 
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
-Imposta il bordo del contorno attorno a un intervallo di celle.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
+Imposta il bordo attorno a un intervallo di celle.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: is_word_wrapped proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_word_wrapped proprietà
 
-Indica se il contenuto del controllo va a capo automaticamente alla fine di una riga.
+Indica se il contenuto del controllo va automaticamente a capo alla fine di una riga.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [LabelActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`LabelActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

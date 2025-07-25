@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  control_data fastighet
 
-Får kontrolldata.
+Hämtar kontrolldata.
 
 ###  Exempel
 

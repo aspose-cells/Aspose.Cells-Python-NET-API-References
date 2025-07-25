@@ -1,14 +1,14 @@
 ---
 title: IconFilter класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 930
+weight: 840
 url: /ru/aspose.cells/iconfilter/
 is_root: false
 ---
 ##  IconFilter класс
-Представляет фильтр значков.
+Представляет собой значок фильтра.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [icon_set_type](/cells/python-net/ru/aspose.cells/iconfilter/icon_set_type) | Получает и задает набор значков, используемый в критериях фильтра.|
-| [icon_id](/cells/python-net/ru/aspose.cells/iconfilter/icon_id) | Получает и задает нулевой индекс значка в наборе значков.|
+| [icon_set_type](/cells/python-net/ru/aspose.cells/iconfilter/icon_set_type) | Получает и задает, какой набор значков используется в критериях фильтра.|
+| [icon_id](/cells/python-net/ru/aspose.cells/iconfilter/icon_id) | Возвращает и задает отсчитываемый от нуля индекс значка в наборе значков.|
 
 
 

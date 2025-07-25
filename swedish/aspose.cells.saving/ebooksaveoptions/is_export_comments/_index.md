@@ -3,13 +3,13 @@ title: is_export_comments fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 490
+weight: 570
 url: /sv/aspose.cells.saving/ebooksaveoptions/is_export_comments/
 is_root: false
 ---
 ##  is_export_comments fastighet
 
-Indikerar om du exporterar kommentarer när du sparar fil till html, standardvärdet är falskt.
+Anger att om kommentarer exporteras när filen sparas till html är standardvärdet falskt.
 ###  Definition:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
-##  delete_text(index, count) {#int-int}
+##  delete_text(self, index, count) {#int-int}
 Ta bort några tecken.
 
 
 
 ```python
+
 def delete_text(self, index, count):
     ...
 ```
@@ -21,10 +22,10 @@ def delete_text(self, index, count):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | index | int | Startindexet.|
-| count | int | Antal tecken.|
+| count | int | Antalet tecken.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

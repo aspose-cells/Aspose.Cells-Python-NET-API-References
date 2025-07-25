@@ -9,7 +9,7 @@ is_root: false
 ---
 ## update_reference属性
 
-指示其他工作表中的引用是否将更新。
+指示其他工作表中的引用是否会更新。
 ### 定义：
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  second_plot_size mülk
 
- Bir pasta pasta grafiğinin veya pasta grafiğinin bir çubuk grafiğinin ikincil bölümünün boyutunu döndürür veya ayarlar,
-birincil pastanın boyutunun yüzdesi olarak.
+ Pasta grafiğinin veya pasta grafiği çubuğunun ikincil bölümünün boyutunu döndürür veya ayarlar,
+birincil pastanın büyüklüğünün yüzdesi olarak.
 5 ile 200 arasında bir değer olabilir.
 ###  Tanım:
 ```python
@@ -23,5 +23,5 @@ def second_plot_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

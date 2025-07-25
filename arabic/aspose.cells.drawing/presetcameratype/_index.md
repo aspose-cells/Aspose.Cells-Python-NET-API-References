@@ -1,18 +1,18 @@
 ---
-title: العد PresetCameraType
+title: PresetCameraType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /ar/aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
-##  العد PresetCameraType
-تمثل طرقًا خوارزمية مختلفة لتعيين جميع خصائص الكاميرا ، بما في ذلك الموضع.
+##  PresetCameraType التعداد
+تمثل طرق خوارزمية مختلفة لتعيين كافة خصائص الكاميرا، بما في ذلك الموضع.
 
 
 
-يكشف نوع PresetCameraType الأعضاء التالية:
+يكشف النوع PresetCameraType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -83,4 +83,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_line mülk
 
-Bir Eksen görünümünü alır.
+Bir Eksen görünümü alır.
 ###  Tanım:
 ```python
 @property

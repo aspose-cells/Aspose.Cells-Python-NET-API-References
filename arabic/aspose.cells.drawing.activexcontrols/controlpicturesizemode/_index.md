@@ -1,27 +1,27 @@
 ---
-title: العد ControlPictureSizeMode
+title: ControlPictureSizeMode التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 210
 url: /ar/aspose.cells.drawing.activexcontrols/controlpicturesizemode/
 is_root: false
 ---
-##  العد ControlPictureSizeMode
+##  ControlPictureSizeMode التعداد
 يمثل كيفية عرض الصورة.
 
 
 
-يكشف نوع ControlPictureSizeMode الأعضاء التالية:
+يكشف النوع ControlPictureSizeMode عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CLIP | يقطع أي جزء من الصورة أكبر من حدود عنصر التحكم.|
-| STRETCH | لتمديد الصورة لملء منطقة عنصر التحكم.<br/> هذا الإعداد يشوه الصورة إما في الاتجاه الأفقي أو الرأسي.|
-| ZOOM | يكبر الصورة ، لكنه لا يشوهها في الاتجاه الأفقي أو الرأسي.|
+| CLIP | يقوم بقص أي جزء من الصورة أكبر من حدود عنصر التحكم.|
+| STRETCH | تمديد الصورة لملء منطقة التحكم.<br/> يؤدي هذا الإعداد إلى تشويه الصورة إما في الاتجاه الأفقي أو الرأسي.|
+| ZOOM | يقوم بتكبير الصورة، ولكن لا يشوه الصورة سواء في الاتجاه الأفقي أو الرأسي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

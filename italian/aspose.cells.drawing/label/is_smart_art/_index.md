@@ -1,15 +1,15 @@
 ---
 title: is_smart_art proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 640
+weight: 650
 url: /it/aspose.cells.drawing/label/is_smart_art/
 is_root: false
 ---
 ##  is_smart_art proprietà
 
-Indica se la forma è arte intelligente.
+Indica se la forma è una smart art.
 
 ###  Osservazioni
 
@@ -19,7 +19,7 @@ Solo per file ooxml.
 
 ```python
 
-# if true,the shape is smart art.
+# if true,the shape is a smart art.
 if shape.is_smart_art:
     pass
 

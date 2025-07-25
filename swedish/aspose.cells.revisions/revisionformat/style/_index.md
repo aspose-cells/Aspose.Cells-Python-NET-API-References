@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style fastighet
 
-Får ansökt style.
+Hämtar den tillämpade style.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def style(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionFormat](/cells/python-net/sv/aspose.cells.revisions/revisionformat)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionFormat`](/cells/python-net/sv/aspose.cells.revisions/revisionformat)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

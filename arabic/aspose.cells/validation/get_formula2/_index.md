@@ -7,16 +7,17 @@ weight: 60
 url: /ar/aspose.cells/validation/get_formula2/
 is_root: false
 ---
-##  get_formula2(is_r1c1, is_local) {#bool-bool}
-الحصول على القيمة أو التعبير المرتبط بهذا التحقق من الصحة.
+##  get_formula2(self, is_r1c1, is_local) {#bool-bool}
+يحصل على القيمة أو التعبير المرتبط بهذا التحقق.
 
 
 ###  عائدات
 
-القيمة أو التعبير المرتبط بهذا التحقق من الصحة.
+القيمة أو التعبير المرتبط بهذا التحقق.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local):
     ...
 ```
@@ -25,19 +26,20 @@ def get_formula2(self, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
 
 
-##  get_formula2(is_r1c1, is_local, row, column) {#bool-bool-int-int}
-الحصول على القيمة أو التعبير المرتبط بعملية التحقق من الصحة لخلية معينة.
+##  get_formula2(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
+يحصل على القيمة أو التعبير المرتبط بهذا التحقق لخلية معينة.
 
 
 ###  عائدات
 
-القيمة أو التعبير المرتبط بهذا التحقق من الصحة.
+القيمة أو التعبير المرتبط بهذا التحقق.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -46,12 +48,12 @@ def get_formula2(self, is_r1c1, is_local, row, column):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | is_r1c1 | bool | ما إذا كانت الصيغة تحتاج إلى تنسيقها كـ R1C1.|
-| is_local | bool | ما إذا كانت الصيغة تحتاج إلى التنسيق بواسطة الإعدادات المحلية.|
-| row | int | فهرس الصف.|
+| is_local | bool | ما إذا كانت الصيغة تحتاج إلى تنسيق حسب الإعدادات المحلية.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

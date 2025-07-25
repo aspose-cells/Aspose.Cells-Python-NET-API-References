@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight propriété
 
-Obtient ou définit le [WeightType](/cells/python-net/fr/aspose.cells.drawing/weighttype) de la ligne.
+Obtient ou définit le [`WeightType`](/cells/python-net/fr/aspose.cells.drawing/weighttype) de la ligne.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
-* classe [WeightType](/cells/python-net/fr/aspose.cells.drawing/weighttype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)
+* classe [`WeightType`](/cells/python-net/fr/aspose.cells.drawing/weighttype)

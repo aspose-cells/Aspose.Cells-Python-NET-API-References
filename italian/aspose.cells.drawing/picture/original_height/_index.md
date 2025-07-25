@@ -1,9 +1,9 @@
 ---
 title: original_height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 930
+weight: 950
 url: /it/aspose.cells.drawing/picture/original_height/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dock_state mülk
 
-Bu görev panosu nesnesinin son yerleştirilmiş konumunu alır ve ayarlar.
+Bu görev bölmesi nesnesinin son yerleştirildiği konumu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def dock_state(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionTaskPane](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionTaskPane`](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)

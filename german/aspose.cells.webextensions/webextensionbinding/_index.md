@@ -17,17 +17,17 @@ Der Typ WebExtensionBinding macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [WebExtensionBinding()](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/__init__/#) | Erstellt eine neue Instanz von WebExtensionBinding|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/__init__/#) |Erstellt eine neue Instanz von WebExtensionBinding|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [id](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/id) | Ruft den Bindungsbezeichner ab und legt ihn fest.|
+| [id](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/id) | Ruft die Bindungskennung ab und legt sie fest.|
 | [type](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/type) | Ruft den Bindungstyp ab und legt ihn fest.|
-| [appref](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/appref) | Ruft den Bindungsschlüssel ab und legt diesen fest, der verwendet wird, um den Bindungseintrag in dieser Liste den gebundenen Daten im Dokument zuzuordnen.|
+| [appref](/cells/python-net/de/aspose.cells.webextensions/webextensionbinding/appref) | Ruft den Bindungsschlüssel ab und legt ihn fest, der zum Zuordnen des Bindungseintrags in dieser Liste zu den gebundenen Daten im Dokument verwendet wird.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](..)
+* Modul [`aspose.cells.webextensions`](..)

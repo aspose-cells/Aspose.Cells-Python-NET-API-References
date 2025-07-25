@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.drawing.texts/texttabstopcollection/__init__/
 is_root: false
 ---
-##  TextTabStopCollection() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de TextTabStopCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextTabStopCollection](/cells/python-net/es/aspose.cells.drawing.texts/texttabstopcollection)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextTabStopCollection`](/cells/python-net/es/aspose.cells.drawing.texts/texttabstopcollection)

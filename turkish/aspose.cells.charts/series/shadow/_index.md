@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shadow mülk
 
-Seride shadow varsa doğrudur.
+Serinin shadow olması durumunda doğrudur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

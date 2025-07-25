@@ -1,22 +1,23 @@
 ---
 title: add_picture метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ru/aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
-##  add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
-Добавляет изображение в коллекцию.
+##  add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+Добавляет картинку в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Picture](/cells/python-net/ru/aspose.cells.drawing/picture) Объект изображения.
+[`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture) Объект изображения.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -24,11 +25,11 @@ def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| upper_left_row | int | Индекс верхней левой строки.|
-| upper_left_column | int | Индекс левого верхнего столбца.|
-| lower_right_row | int | Нижний индекс правой строки|
+| upper_left_row | int | Указатель верхнего левого ряда.|
+| upper_left_column | int | Индекс верхнего левого столбца.|
+| lower_right_row | int | Индекс нижней правой строки|
 | lower_right_column | int | Индекс нижнего правого столбца|
-| stream | io.RawIOBase | Потоковый объект, содержащий данные изображения.|
+| stream | io.RawIOBase | Объект потока, содержащий данные изображения.|
 
 ###  Пример
 
@@ -41,16 +42,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
-Добавляет изображение в коллекцию.
+##  add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+Добавляет картинку в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
-[Picture](/cells/python-net/ru/aspose.cells.drawing/picture) Объект изображения.
+[`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture) Объект изображения.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -58,11 +60,11 @@ def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, he
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| upper_left_row | int | Индекс верхней левой строки.|
-| upper_left_column | int | Индекс левого верхнего столбца.|
-| stream | io.RawIOBase | Потоковый объект, содержащий данные изображения.|
-| width_scale | int | Масштаб ширины изображения в процентах.|
-| height_scale | int | Масштаб высоты изображения в процентах.|
+| upper_left_row | int | Указатель верхнего левого ряда.|
+| upper_left_column | int | Индекс верхнего левого столбца.|
+| stream | io.RawIOBase | Объект потока, содержащий данные изображения.|
+| width_scale | int | Масштаб ширины изображения, процент.|
+| height_scale | int | Масштаб высоты изображения, процент.|
 
 ###  Пример
 
@@ -77,6 +79,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Picture](/cells/python-net/ru/aspose.cells.drawing/picture)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Picture`](/cells/python-net/ru/aspose.cells.drawing/picture)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

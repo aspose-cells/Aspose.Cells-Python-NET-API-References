@@ -3,13 +3,13 @@ title: window_top Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 580
+weight: 590
 url: /de/aspose.cells/workbooksettings/window_top/
 is_root: false
 ---
 ##  window_top Eigentum
 
-Der Abstand vom oberen Rand des Clientbereichs zum oberen Rand des Fensters in Punkteinheiten.
+Der Abstand von der Oberkante des Clientbereichs zur Oberkante des Fensters in Punkteinheiten.
 ###  Definition:
 ```python
 @property

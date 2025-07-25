@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  old_length mülk
 
-Bu revizyonda eklenen yorum metninin Uzunluğunu alır.
+Bu revizyonda eklenen yorum metninin uzunluğunu alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def old_length(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellComment](/cells/python-net/tr/aspose.cells.revisions/revisioncellcomment)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellComment`](/cells/python-net/tr/aspose.cells.revisions/revisioncellcomment)

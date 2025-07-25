@@ -3,17 +3,11 @@ title: merge_areas属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 210
 url: /zh/aspose.cells/docxsaveoptions/merge_areas/
 is_root: false
 ---
 ## merge_areas属性
-
-指示在保存文件之前是否合并条件格式和验证区域。
-
-### 评论
-
-默认值为 false。
 ### 定义：
 ```python
 @property

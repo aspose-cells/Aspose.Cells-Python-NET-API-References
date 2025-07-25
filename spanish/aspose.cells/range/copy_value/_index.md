@@ -3,16 +3,17 @@ title: método copy_value
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 130
 url: /es/aspose.cells/range/copy_value/
 is_root: false
 ---
-##  copy_value {#aspose.cells.Range}
-Copia el valor de la celda de un rango de origen.
+##  copy_value(self, range) {#aspose.cells.Range}
+Copia el valor de celda de un rango de origen.
 
 
 
 ```python
+
 def copy_value(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy_value(self, range):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/es/aspose.cells/range) |Fuente [`Range`](/cells/python-net/es/aspose.cells/range) objeto.|
+| range | [`Range`](/cells/python-net/es/aspose.cells/range) | Objeto fuente [`Range`](/cells/python-net/es/aspose.cells/range).|
 
 
 

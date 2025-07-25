@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_line propriété
 
-Obtient et définit la bordure de ligne de la forme qui est visible.
+Obtient et définit la bordure de ligne de la forme visible.
 
 ###  Exemple
 

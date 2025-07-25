@@ -1,22 +1,23 @@
 ---
 title: get_text_of_protected_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/settablepivotglobalizationsettings/get_text_of_protected_name/
 is_root: false
 ---
-##  get_text_of_protected_name {#str}
+##  get_text_of_protected_name(self, protected_name) {#str}
 Получает текст для указанного защищенного имени.
 
 
 ###  Возврат
 
-Локальные проректированные имена сводной таблицы.
+Локально скорректированные имена PivotTable.
 
 
 ```python
+
 def get_text_of_protected_name(self, protected_name):
     ...
 ```
@@ -27,8 +28,8 @@ def get_text_of_protected_name(self, protected_name):
 | protected_name | str | Защищенное имя в сводной таблице.|
 ###  Примечания
 
-В MS Excel некоторые имена нельзя использовать в качестве имен сводных полей в сводной таблице.
-В разных регионах они различаются, пользователь может указать их явно в соответствии с используемым регионом.
+В MS Excel некоторые имена не разрешается использовать в качестве имен сводных полей в сводной таблице.
+Они различаются в разных регионах, пользователь может указать их явно в соответствии с используемым регионом.
 
 
 ###  Смотрите также

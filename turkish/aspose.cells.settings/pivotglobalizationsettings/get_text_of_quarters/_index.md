@@ -3,12 +3,12 @@ title: get_text_of_quarters yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_quarters/
 is_root: false
 ---
-##  get_text_of_quarters {#}
-"Çeyrekler"in yerel metnini alın.
+##  get_text_of_quarters(self) {#}
+"Quarters"ın yerel metnini edinin.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_quarters(self):
     ...
 ```

@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
-##  add(sheet) {#Worksheet}
-يضيف وحدة لورقة العمل.
+##  add(self, sheet) {#aspose.cells.Worksheet}
+إضافة وحدة إلى ورقة العمل.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, sheet):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/ar/aspose.cells/worksheet) | ورقة العمل|
+| sheet | [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) | ورقة العمل|
 
 
-##  add(type, name) {#VbaModuleType-str}
-يضيف وحدة.
+##  add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
+إضافة وحدة.
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def add(self, sheet):
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,11 +46,11 @@ def add(self, type, name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [VbaModuleType](/cells/python-net/ar/aspose.cells.vba/vbamoduletype) | نوع الوحدة.|
+| type | [`VbaModuleType`](/cells/python-net/ar/aspose.cells.vba/vbamoduletype) | نوع الوحدة.|
 | name | str | اسم الوحدة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaModuleCollection](/cells/python-net/ar/aspose.cells.vba/vbamodulecollection)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaModuleCollection`](/cells/python-net/ar/aspose.cells.vba/vbamodulecollection)

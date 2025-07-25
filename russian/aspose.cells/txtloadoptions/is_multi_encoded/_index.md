@@ -1,9 +1,9 @@
 ---
 title: is_multi_encoded недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ru/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---

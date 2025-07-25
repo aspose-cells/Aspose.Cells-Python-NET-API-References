@@ -3,20 +3,20 @@ title: custom_implementation_factory عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ar/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
 ##  custom_implementation_factory عقار
 
-الحصول على المصنع أو تعيينه لإنشاء مثيلات ذات تنفيذ خاص.
+يحصل على المصنع أو يعينه لإنشاء مثيلات ذات تنفيذ خاص.
 ###  تعريف:
 ```python
 @property
 def custom_implementation_factory(self):
     ...
-@custom_implementation_factory.setter
-def custom_implementation_factory(self, value):
+@staticmethod
+def set_custom_implementation_factory(value):
     ...
 ```
 

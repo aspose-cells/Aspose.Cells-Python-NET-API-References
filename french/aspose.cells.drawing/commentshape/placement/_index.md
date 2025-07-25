@@ -3,7 +3,7 @@ title: placement propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 840
+weight: 850
 url: /fr/aspose.cells.drawing/commentshape/placement/
 is_root: false
 ---

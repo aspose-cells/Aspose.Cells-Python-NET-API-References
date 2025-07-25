@@ -13,7 +13,7 @@ Representerar om värdeaxeln korsar kategoriaxeln mellan kategorier.
 
 ###  Anmärkningar
 
-Den här egenskapen gäller bara för kategoriaxlar och den gäller inte för 3D-diagram.
+Den här egenskapen gäller endast kategoriaxlar och inte 3D-diagram.
 ###  Definition:
 ```python
 @property

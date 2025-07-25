@@ -3,16 +3,17 @@ title: método import_object_array
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 660
+weight: 680
 url: /es/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array {#list-int-int-bool}
-Importa una serie de datos a una hoja de trabajo.
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+Importa una matriz de datos a una hoja de cálculo.
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -21,17 +22,18 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | obj_array | list | Matriz de datos.|
-| first_row | int | El número de fila de la primera celda a importar.|
-| first_column | int | El número de columna de la primera celda a importar.|
-| is_vertical | bool | Especifica importar datos vertical u horizontalmente.|
+| first_row | int | El número de fila de la primera celda que se importará.|
+| first_column | int | El número de columna de la primera celda que se importará.|
+| is_vertical | bool | Especifica si se deben importar datos vertical u horizontalmente.|
 
 
-##  import_object_array {#list-int-int-bool-int}
-Importa una serie de datos a una hoja de trabajo.
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
+Importa una matriz de datos a una hoja de cálculo.
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical, skip):
     ...
 ```
@@ -40,9 +42,9 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical, s
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | obj_array | list | Matriz de datos.|
-| first_row | int | El número de fila de la primera celda a importar.|
-| first_column | int | El número de columna de la primera celda a importar.|
-| is_vertical | bool | Especifica importar datos vertical u horizontalmente.|
+| first_row | int | El número de fila de la primera celda que se importará.|
+| first_column | int | El número de columna de la primera celda que se importará.|
+| is_vertical | bool | Especifica si se deben importar datos vertical u horizontalmente.|
 | skip | int | Número omitido de filas o columnas.|
 
 

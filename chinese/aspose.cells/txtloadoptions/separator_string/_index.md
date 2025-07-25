@@ -3,13 +3,13 @@ title: separator_string属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 370
 url: /zh/aspose.cells/txtloadoptions/separator_string/
 is_root: false
 ---
 ## separator_string属性
 
-获取和设置一个字符串值作为分隔符。
+获取并设置字符串值作为分隔符。
 ### 定义：
 ```python
 @property

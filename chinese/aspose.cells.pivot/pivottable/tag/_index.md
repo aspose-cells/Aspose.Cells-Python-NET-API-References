@@ -1,15 +1,15 @@
 ---
-title: tag 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: tag属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1030
+weight: 1180
 url: /zh/aspose.cells.pivot/pivottable/tag/
 is_root: false
 ---
-## tag 属性
+## tag属性
 
-获取与数据透视表一起保存的字符串。
+获取随数据透视表报告保存的字符串。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def tag(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

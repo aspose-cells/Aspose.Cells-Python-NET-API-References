@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/
 is_root: false
 ---
-##  get_relationship_data(rel_id) {#str}
+##  get_relationship_data(self, rel_id) {#str}
 İlgili verileri alır.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_relationship_data(self, rel_id):
     ...
 ```
@@ -24,10 +25,10 @@ def get_relationship_data(self, rel_id):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| rel_id | str | ilişki kimliği.|
+| rel_id | str | İlişki kimliği.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

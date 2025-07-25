@@ -7,12 +7,13 @@ weight: 330
 url: /zh/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
-设置列表、函数参数等的分隔符。
+##  set_list_separator(self, c) {#char}
+设置列表分隔符、函数参数等。
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```

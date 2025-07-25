@@ -3,13 +3,13 @@ title: sort_names propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 190
 url: /es/aspose.cells/markdownsaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names propiedad
 
-Indica si ordenar los nombres definidos antes de guardar el archivo.
+Indica si se deben ordenar los nombres definidos antes de guardar el archivo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MarkdownSaveOptions](/cells/python-net/es/aspose.cells/markdownsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`MarkdownSaveOptions`](/cells/python-net/es/aspose.cells/markdownsaveoptions)

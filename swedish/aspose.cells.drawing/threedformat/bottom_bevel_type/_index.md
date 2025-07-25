@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bottom_bevel_type fastighet
 
-Får och ställer in typen av bottenfas, eller hur långt in i formen den appliceras.
-I enhet av poäng.
+Hämtar och anger typen av den nedre avfasningen, eller hur djupt in i formen den appliceras.
+I enheten poäng.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def bottom_bevel_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [BevelType](/cells/python-net/sv/aspose.cells.drawing/beveltype)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`BevelType`](/cells/python-net/sv/aspose.cells.drawing/beveltype)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

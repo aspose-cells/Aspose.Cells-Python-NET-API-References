@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_date_time_data mülk
 
-Metin dosyasındaki dizenin tarih verilerine dönüştürülüp dönüştürülmediğini gösteren bir değer alır veya ayarlar.
+Metin dosyasındaki dizenin tarih verisine dönüştürülüp dönüştürülmediğini gösteren bir değeri alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_date_time_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

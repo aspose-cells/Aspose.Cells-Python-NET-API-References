@@ -3,18 +3,18 @@ title: width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 470
 url: /de/aspose.cells.charts/legend/width/
 is_root: false
 ---
 ##  width Eigentum
 
-Ruft die width des Rahmens in Einheiten von 1/4000 der Diagrammfläche ab oder legt diese fest.
+Ruft den width-Rahmen in Einheiten von 1/4000 der Diagrammfläche ab oder legt ihn fest.
 
 ###  Bemerkungen
 
- Wie konvertiere ich Einheiten von 1/4000 in Pixel?
-Breite in Pixel = Breite * Chart.ChartObject.Height / 4000;
+ Wie konvertiert man Einheiten von 1/4000 in Pixel?
+Breite in Pixeln = Breite * Chart.ChartObject.Höhe / 4000d;
 ###  Definition:
 ```python
 @property

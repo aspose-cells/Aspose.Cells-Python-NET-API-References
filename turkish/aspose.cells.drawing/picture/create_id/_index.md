@@ -3,13 +3,13 @@ title: create_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 390
 url: /tr/aspose.cells.drawing/picture/create_id/
 is_root: false
 ---
 ##  create_id mülk
 
-Bu şekil için oluşturma kimliğini alır ve ayarlar.
+Bu şeklin oluşturma kimliğini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

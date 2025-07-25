@@ -3,7 +3,7 @@ title: PageSavingArgs clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 50
 url: /es/aspose.cells.rendering/pagesavingargs/
 is_root: false
 ---
@@ -18,9 +18,9 @@ El tipo PageSavingArgs expone los siguientes miembros:
 | Propiedad| Descripción|
 | :- | :- |
 | [page_index](/cells/python-net/es/aspose.cells.rendering/pagesavingargs/page_index) | Índice de la página actual, basado en cero.|
-| [page_count](/cells/python-net/es/aspose.cells.rendering/pagesavingargs/page_count) | Recuento total de páginas.|
+| [page_count](/cells/python-net/es/aspose.cells.rendering/pagesavingargs/page_count) | Número total de páginas.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](..)
+* módulo [`aspose.cells.rendering`](..)

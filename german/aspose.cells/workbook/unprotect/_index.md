@@ -3,16 +3,17 @@ title: unprotect Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 410
 url: /de/aspose.cells/workbook/unprotect/
 is_root: false
 ---
-##  unprotect(password) {#str}
+##  unprotect(self, password) {#str}
 Hebt den Schutz einer Arbeitsmappe auf.
 
 
 
 ```python
+
 def unprotect(self, password):
     ...
 ```
@@ -25,5 +26,5 @@ def unprotect(self, password):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Workbook](/cells/python-net/de/aspose.cells/workbook)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Workbook`](/cells/python-net/de/aspose.cells/workbook)

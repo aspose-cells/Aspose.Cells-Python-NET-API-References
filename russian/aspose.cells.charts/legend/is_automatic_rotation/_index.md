@@ -1,9 +1,9 @@
 ---
 title: is_automatic_rotation недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 250
 url: /ru/aspose.cells.charts/legend/is_automatic_rotation/
 is_root: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: get_cell_area método
+title: método get_cell_area
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /es/aspose.cells/formatconditioncollection/get_cell_area/
 is_root: false
 ---
-##  get_cell_area(index) {#int}
+##  get_cell_area(self, index) {#int}
 Obtiene el rango de celdas con formato condicional por índice.
 
 
@@ -17,6 +17,7 @@ el rango de celdas con formato condicional
 
 
 ```python
+
 def get_cell_area(self, index):
     ...
 ```
@@ -29,5 +30,5 @@ def get_cell_area(self, index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatConditionCollection](/cells/python-net/es/aspose.cells/formatconditioncollection)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatConditionCollection`](/cells/python-net/es/aspose.cells/formatconditioncollection)

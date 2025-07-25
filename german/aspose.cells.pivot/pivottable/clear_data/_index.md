@@ -7,12 +7,13 @@ weight: 70
 url: /de/aspose.cells.pivot/pivottable/clear_data/
 is_root: false
 ---
-##  clear_data() {#}
-Löschen Sie die Daten und die Formatierung von PivotTable
+##  clear_data(self) {#}
+Löschen der Daten und Formatierung der PivotTable
 
 
 
 ```python
+
 def clear_data(self):
     ...
 ```
@@ -25,5 +26,5 @@ Wenn diese Methode nicht aufgerufen wird, bevor Sie PivotField hinzufügen oder 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

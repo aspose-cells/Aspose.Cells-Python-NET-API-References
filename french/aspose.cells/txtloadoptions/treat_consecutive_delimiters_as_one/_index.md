@@ -3,13 +3,13 @@ title: treat_consecutive_delimiters_as_one propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 430
+weight: 410
 url: /fr/aspose.cells/txtloadoptions/treat_consecutive_delimiters_as_one/
 is_root: false
 ---
 ##  treat_consecutive_delimiters_as_one propriété
 
-Indique si les délimiteurs consécutifs doivent être traités comme un seul.
+Si les délimiteurs consécutifs doivent être traités comme un seul.
 ###  Définition:
 ```python
 @property

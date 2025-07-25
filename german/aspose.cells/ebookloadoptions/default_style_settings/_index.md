@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings Eigentum
 
-Ruft die Standardstileinstellungen zum Initialisieren von Stilen der Arbeitsmappe ab
+Ruft die Standard-Stileinstellungen zum Initialisieren der Stile der Arbeitsmappe ab
 ###  Definition:
 ```python
 @property

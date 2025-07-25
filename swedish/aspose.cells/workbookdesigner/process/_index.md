@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/workbookdesigner/process/
 is_root: false
 ---
-##  process() {#}
+##  process(self) {#}
 Bearbetar de smarta markörerna och fyller i datakällans värden.
 
 
 
 ```python
+
 def process(self):
     ...
 ```
@@ -20,12 +21,13 @@ def process(self):
 
 
 
-##  process(is_preserved) {#bool}
+##  process(self, is_preserved) {#bool}
 Bearbetar de smarta markörerna och fyller i datakällans värden.
 
 
 
 ```python
+
 def process(self, is_preserved):
     ...
 ```
@@ -36,12 +38,31 @@ def process(self, is_preserved):
 | is_preserved | bool | Sant om den okända smarta markören bevaras.|
 
 
-##  process(sheet_index, is_preserved) {#int-bool}
+##  process(self, range, is_preserved) {#aspose.cells.Range-bool}
 Bearbetar de smarta markörerna och fyller i datakällans värden.
 
 
 
 ```python
+
+def process(self, range, is_preserved):
+    ...
+```
+
+
+| Parameter| Typ| Beskrivning|
+| :- | :- | :- |
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Det intervall som ska bearbetas|
+| is_preserved | bool | Sant om den okända smarta markören bevaras.|
+
+
+##  process(self, sheet_index, is_preserved) {#int-bool}
+Bearbetar de smarta markörerna och fyller i datakällans värden.
+
+
+
+```python
+
 def process(self, sheet_index, is_preserved):
     ...
 ```
@@ -53,10 +74,10 @@ def process(self, sheet_index, is_preserved):
 | is_preserved | bool | Sant om den okända smarta markören bevaras.|
 ###  Anmärkningar
 
-Denna metod fungerar på kalkylbladsnivå.
+Den här metoden fungerar på arbetsbladsnivå.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [WorkbookDesigner](/cells/python-net/sv/aspose.cells/workbookdesigner)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookDesigner`](/cells/python-net/sv/aspose.cells/workbookdesigner)

@@ -8,17 +8,17 @@ url: /tr/aspose.cells.revisions/revisionactiontype/
 is_root: false
 ---
 ##  RevisionActionType numaralandırma
-Düzeltme eyleminin türünü temsil eder.
+Revizyon eyleminin türünü temsil eder.
 
 
 
-RevisionActionType türü aşağıdaki üyeleri gösterir:
+RevisionActionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | ADD | Revizyon ekle.|
-| DELETE | Düzeltmeyi sil.|
+| DELETE | Revizyonu sil.|
 | DELETE_COLUMN | Sütun silme revizyonu.|
 | DELETE_ROW | Satır silme revizyonu.|
 | INSERT_COLUMN | Sütun ekleme revizyonu.|
@@ -27,4 +27,4 @@ RevisionActionType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
+* modül [`aspose.cells.revisions`](..)

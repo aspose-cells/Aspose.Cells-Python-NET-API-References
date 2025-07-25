@@ -3,13 +3,13 @@ title: is_mobile_compatible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 610
 url: /sv/aspose.cells/htmlsaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible fastighet
 
- Indikerar om utgången HTML är kompatibel med mobila enheter.
+ Anger om utgången HTML är kompatibel med mobila enheter.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

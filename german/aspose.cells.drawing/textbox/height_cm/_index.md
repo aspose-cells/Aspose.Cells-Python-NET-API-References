@@ -3,13 +3,13 @@ title: height_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 440
 url: /de/aspose.cells.drawing/textbox/height_cm/
 is_root: false
 ---
 ##  height_cm Eigentum
 
-Stellt die Höhe der Form in der Einheit Zentimeter dar.
+Stellt die Höhe der Form in Zentimetern dar.
 
 ###  Beispiel
 

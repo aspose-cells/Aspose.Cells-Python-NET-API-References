@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_multi_line mülk
 
-Kontrolün birden fazla metin satırı gösterip gösteremeyeceğini belirtir.
+Denetimin birden fazla satır metin görüntüleyip görüntüleyemeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_multi_line(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

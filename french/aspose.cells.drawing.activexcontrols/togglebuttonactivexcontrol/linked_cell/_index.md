@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/linked_
 is_root: false
 ---
 ##  linked_cell propriété
-
-Obtient et définit la cellule liée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ToggleButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ToggleButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

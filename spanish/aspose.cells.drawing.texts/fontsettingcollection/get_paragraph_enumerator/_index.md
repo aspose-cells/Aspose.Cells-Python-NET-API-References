@@ -1,5 +1,5 @@
 ---
-title: get_paragraph_enumerator método
+title: método get_paragraph_enumerator
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /es/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/
 is_root: false
 ---
-##  get_paragraph_enumerator() {#}
+##  get_paragraph_enumerator(self) {#}
 Obtiene el enumerador de los párrafos.
 
 
@@ -17,6 +17,7 @@ Obtiene el enumerador de los párrafos.
 
 
 ```python
+
 def get_paragraph_enumerator(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_paragraph_enumerator(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [FontSettingCollection](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`FontSettingCollection`](/cells/python-net/es/aspose.cells.drawing.texts/fontsettingcollection)

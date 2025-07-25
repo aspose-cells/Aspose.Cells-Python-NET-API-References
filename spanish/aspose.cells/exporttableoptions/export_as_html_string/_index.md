@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string propiedad
 
-Exporta el valor de cadena html de las celdas a DataTable.
+Exporta el valor de la cadena HTML de las celdas a DataTable.
 ###  Definición:
 ```python
 @property

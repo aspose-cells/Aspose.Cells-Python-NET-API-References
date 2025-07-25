@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Akıllı etiketin name'ini alır.
+Akıllı etiketin name numarasını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTag](/cells/python-net/tr/aspose.cells.markup/smarttag)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTag`](/cells/python-net/tr/aspose.cells.markup/smarttag)

@@ -18,5 +18,5 @@ def is_old_comment(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellComment](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellComment`](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)

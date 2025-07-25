@@ -1,15 +1,15 @@
 ---
 title: html_text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 540
 url: /it/aspose.cells.drawing/arcshape/html_text/
 is_root: false
 ---
 ##  html_text proprietà
 
-Ottiene e imposta la stringa html che contiene dati e alcuni formati in questa casella di testo.
+Ottiene e imposta la stringa HTML che contiene dati e alcuni formati in questa casella di testo.
 
 ###  Esempio
 

@@ -1,6 +1,6 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -10,8 +10,8 @@ is_root: false
 ##  text недвижимость
 
  Значение text в правиле условного форматирования «text содержит».
-Допустимо только для type = containsText, notContainsText, beginWith и EndsWith.
-Значение по умолчанию равно нулю.
+Действительно только для type = containsText, notContainsText, beginWith и endsWith.
+Значение по умолчанию — ноль.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)

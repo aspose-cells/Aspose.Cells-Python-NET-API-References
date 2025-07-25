@@ -3,13 +3,11 @@ title: clear_data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/pptxsaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data propriété
-
-Rendez le classeur vide après avoir enregistré le fichier.
 ###  Définition:
 ```python
 @property

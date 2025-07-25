@@ -1,5 +1,5 @@
 ---
-title: Bevel الدرجة
+title: Bevel صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 50
 url: /ar/aspose.cells.drawing/bevel/
 is_root: false
 ---
-##  Bevel الدرجة
-يمثل شطبة الشكل
+##  Bevel صف
+يمثل حافة الشكل
 
 
 
-يكشف نوع Bevel الأعضاء التالية:
+يكشف النوع Bevel عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [width](/cells/python-net/ar/aspose.cells.drawing/bevel/width) | الحصول على عرض الشطبة وتعيينه ، أو إلى أي مدى يتم تطبيقه على الشكل.<br/> في وحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing/bevel/height) | الحصول على ارتفاع الشطبة وتعيينه ، أو إلى أي مدى يتم تطبيقه فوق الشكل.<br/> في وحدة النقاط.|
-| [type](/cells/python-net/ar/aspose.cells.drawing/bevel/type) | الحصول على نوع الشطبة المضبوط مسبقًا وتعيينه.|
+| [width](/cells/python-net/ar/aspose.cells.drawing/bevel/width) | يحصل على عرض الشطبة ويحدده، أو إلى أي مدى يتم تطبيقها في الشكل.<br/> بوحدة النقاط.|
+| [height](/cells/python-net/ar/aspose.cells.drawing/bevel/height) |يحصل على ارتفاع الشطبة ويحدده، أو إلى أي مدى فوق الشكل يتم تطبيقه.<br/> بوحدة النقاط.|
+| [type](/cells/python-net/ar/aspose.cells.drawing/bevel/type) | يحصل على نوع الشطبة المحدد مسبقًا ويقوم بتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

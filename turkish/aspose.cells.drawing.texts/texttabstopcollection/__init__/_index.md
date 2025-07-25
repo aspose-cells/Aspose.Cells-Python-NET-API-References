@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.drawing.texts/texttabstopcollection/__init__/
 is_root: false
 ---
-##  TextTabStopCollection() {#}
+##  \_\_init\_\_(kendi){#}
 TextTabStopCollection'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextTabStopCollection](/cells/python-net/tr/aspose.cells.drawing.texts/texttabstopcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextTabStopCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/texttabstopcollection)

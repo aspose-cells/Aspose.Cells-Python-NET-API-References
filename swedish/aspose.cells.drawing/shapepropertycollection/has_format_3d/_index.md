@@ -7,8 +7,8 @@ weight: 50
 url: /sv/aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
-##  has_format_3d() {#}
-Indikerar om formen har data i 3d-format.
+##  has_format_3d(self) {#}
+Anger om formen har data i 3D-format.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Indikerar om formen har data i 3d-format.
 
 
 ```python
+
 def has_format_3d(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_format_3d(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePropertyCollection](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePropertyCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)

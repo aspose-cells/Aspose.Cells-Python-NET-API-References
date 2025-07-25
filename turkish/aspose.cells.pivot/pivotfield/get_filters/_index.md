@@ -3,16 +3,17 @@ title: get_filters yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 90
 url: /tr/aspose.cells.pivot/pivotfield/get_filters/
 is_root: false
 ---
-##  get_filters {#}
+##  get_filters(self) {#}
 Bu pivot alanının tüm pivot filtrelerini alır.
 
 
 
 ```python
+
 def get_filters(self):
     ...
 ```

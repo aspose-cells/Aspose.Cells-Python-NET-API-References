@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_column mülk
 
-Korumalı bir çalışma sayfasında sütunların eklenmesine izin verilip verilmediğini temsil eder
+Korunan bir çalışma sayfasına sütun eklenmesine izin verilip verilmediğini gösterir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

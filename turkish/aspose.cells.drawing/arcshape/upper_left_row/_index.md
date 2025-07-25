@@ -3,17 +3,17 @@ title: upper_left_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /tr/aspose.cells.drawing/arcshape/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row mülk
 
-Sol üst köşe satır dizinini temsil eder.
+En üst satırdaki indeksi temsil eder.
 
 ###  Notlar
 
-Şekil, şeklin içinde veya gruptaysa UpperLeftRow yoksayılır.
+Eğer şekil, şekil veya grupta ise UpperLeftRow yok sayılacaktır.
 
 ###  Örnek
 

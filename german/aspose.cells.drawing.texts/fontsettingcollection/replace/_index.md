@@ -7,12 +7,13 @@ weight: 110
 url: /de/aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
-##  replace(old_value, new_value) {#str-str}
+##  replace(self, old_value, new_value) {#str-str}
 Ersetzen Sie den Text.
 
 
 
 ```python
+
 def replace(self, old_value, new_value):
     ...
 ```
@@ -24,12 +25,13 @@ def replace(self, old_value, new_value):
 | new_value | str | Der neue Text.|
 
 
-##  replace(index, count, text) {#int-int-str}
+##  replace(self, index, count, text) {#int-int-str}
 Ersetzen Sie den Text.
 
 
 
 ```python
+
 def replace(self, index, count, text):
     ...
 ```
@@ -44,5 +46,5 @@ def replace(self, index, count, text):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

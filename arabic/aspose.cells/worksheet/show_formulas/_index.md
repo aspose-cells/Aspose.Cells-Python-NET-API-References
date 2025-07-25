@@ -3,13 +3,13 @@ title: show_formulas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 790
 url: /ar/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---
 ##  show_formulas عقار
 
-يشير إلى ما إذا كان سيتم إظهار الصيغ أو نتائجها.
+يشير إلى ما إذا كان سيتم عرض الصيغ أو نتائجها.
 ###  تعريف:
 ```python
 @property

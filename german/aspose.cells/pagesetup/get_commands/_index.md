@@ -7,7 +7,7 @@ weight: 50
 url: /de/aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
-##  get_commands(header_footer_script) {#str}
+##  get_commands(self, header_footer_script) {#str}
 Ruft alle Befehle der Kopf- oder Fußzeile ab.
 
 
@@ -17,6 +17,7 @@ Gibt alle Befehle der Kopf- oder Fußzeile zurück.
 
 
 ```python
+
 def get_commands(self, header_footer_script):
     ...
 ```
@@ -24,10 +25,10 @@ def get_commands(self, header_footer_script):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| header_footer_script | str | Das Kopf-/Fußzeilenskript|
+| header_footer_script | str | Das Header/Footer-Skript|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

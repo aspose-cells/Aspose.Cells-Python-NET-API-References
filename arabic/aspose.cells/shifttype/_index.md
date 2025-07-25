@@ -3,12 +3,12 @@ title: ShiftType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2560
+weight: 2530
 url: /ar/aspose.cells/shifttype/
 is_root: false
 ---
 ##  ShiftType التعداد
-تمثيل خيارات النقل عند حذف نطاق من الخلايا.
+تمثيل خيارات التحويل عند حذف نطاق من الخلايا.
 
 
 
@@ -17,11 +17,11 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DOWN | إزاحة الخلايا إلى الأسفل.|
-| LEFT | خلايا تحول اليسار.|
-| NONE | لا تحول الخلايا.|
-| RIGHT | خلايا تحول الحق.|
-| UP | إزاحة الخلايا لأعلى.|
+| DOWN | نقل الخلايا إلى الأسفل.|
+| LEFT | تحويل الخلايا إلى اليسار.|
+| NONE | لا تحرك الخلايا.|
+| RIGHT | تحريك الخلايا إلى اليمين.|
+| UP | نقل الخلايا إلى الأعلى.|
 
 
 

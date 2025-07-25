@@ -1,13 +1,13 @@
 ---
 title: get_text_of_grand_total метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.settings/pivotglobalizationsettings/get_text_of_grand_total/
 is_root: false
 ---
-##  get_text_of_grand_total {#}
+##  get_text_of_grand_total(self) {#}
 Получает текст метки «Общий итог» в сводной таблице.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_grand_total(self):
     ...
 ```

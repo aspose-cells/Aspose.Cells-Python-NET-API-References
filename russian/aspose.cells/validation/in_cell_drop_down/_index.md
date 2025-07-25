@@ -1,6 +1,6 @@
 ---
 title: in_cell_drop_down недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 220
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down недвижимость
 
-Указывает, отображает ли проверка данных раскрывающийся список, содержащий допустимые значения.
+Указывает, отображает ли проверка данных раскрывающийся список, содержащий приемлемые значения.
 ###  Определение:
 ```python
 @property

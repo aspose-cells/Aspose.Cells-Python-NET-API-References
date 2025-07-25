@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size mülk
 
-Tek bir şeritleme bandındaki satır veya sütun sayısı.
+Tek bir şeritteki satır veya sütun sayısı.
 Yalnızca tür firstRowStripe, secondRowStripe, firstColumnStripe veya secondColumnStripe olduğunda geçerlidir.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [TableStyleElement](/cells/python-net/tr/aspose.cells.tables/tablestyleelement)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`TableStyleElement`](/cells/python-net/tr/aspose.cells.tables/tablestyleelement)

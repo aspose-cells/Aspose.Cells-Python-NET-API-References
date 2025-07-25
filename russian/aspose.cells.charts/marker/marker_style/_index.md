@@ -1,6 +1,6 @@
 ---
 title: marker_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_style недвижимость
 
-Представляет стиль маркера. Применяется к линейной диаграмме, точечной диаграмме или лепестковой диаграмме.
+Представляет стиль маркера. Применяется к линейной диаграмме, диаграмме рассеяния или лепестковой диаграмме.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def marker_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartMarkerType](/cells/python-net/ru/aspose.cells.charts/chartmarkertype)
-* класс [Marker](/cells/python-net/ru/aspose.cells.charts/marker)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartMarkerType`](/cells/python-net/ru/aspose.cells.charts/chartmarkertype)
+* класс [`Marker`](/cells/python-net/ru/aspose.cells.charts/marker)

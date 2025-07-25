@@ -3,7 +3,7 @@ title: group_settings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 420
 url: /de/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---

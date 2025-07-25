@@ -8,7 +8,7 @@ url: /sv/aspose.cells.digitalsignatures/xadestype/
 is_root: false
 ---
 ##  XAdESType uppräkning
-Typ av XML Advanced Electronic Signature (XAdES).
+Typ av XML avancerad elektronisk signatur (XAdES).
 
 
 
@@ -17,10 +17,10 @@ Typen XAdESType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NONE | XAdES är avstängd.|
+| NONE | XAdES är avstängt.|
 | X_AD_ES | Grundläggande XAdES.|
 
 
 
 ###  Se även
-* modul [aspose.cells.digitalsignatures](..)
+* modul [`aspose.cells.digitalsignatures`](..)

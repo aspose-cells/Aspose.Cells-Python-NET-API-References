@@ -1,6 +1,6 @@
 ---
 title: color1 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color1 proprietà
 
-Ottiene e imposta il primo colore della sfumatura.
+Ottiene e imposta il primo colore sfumato.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def color1(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [TwoColorGradient](/cells/python-net/it/aspose.cells/twocolorgradient)
+* modulo [`aspose.cells`](../../)
+* classe [`TwoColorGradient`](/cells/python-net/it/aspose.cells/twocolorgradient)

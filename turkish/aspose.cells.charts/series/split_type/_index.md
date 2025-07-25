@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_type mülk
 
-Hangi veri noktalarının ikinci pastada veya bir pasta veya çubuktaki çubukta olduğunun nasıl belirleneceğini belirleyen bir değer döndürür veya ayarlar.
-yuvarlak diyagram.
+Bir pasta veya pasta çubuğundaki ikinci pasta veya çubukta hangi veri noktalarının bulunduğunu nasıl belirleyeceğinizi belirten bir değeri döndürür veya ayarlar
+pasta grafiği.
 ###  Tanım:
 ```python
 @property
@@ -22,6 +22,6 @@ def split_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartSplitType](/cells/python-net/tr/aspose.cells.charts/chartsplittype)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartSplitType`](/cells/python-net/tr/aspose.cells.charts/chartsplittype)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

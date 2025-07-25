@@ -7,12 +7,13 @@ weight: 80
 url: /sv/aspose.cells/validationcollection/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
-Tar bort alla valideringsinställningar i cellen.
+##  remove_a_cell(self, row, column) {#int-int}
+Tar bort alla valideringsinställningar för cellen.
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```
@@ -26,5 +27,5 @@ def remove_a_cell(self, row, column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ValidationCollection](/cells/python-net/sv/aspose.cells/validationcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ValidationCollection`](/cells/python-net/sv/aspose.cells/validationcollection)

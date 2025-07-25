@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_type propiedad
 
-Representa el tipo de espectáculo de la etiqueta inteligente.
+Representa el tipo de visualización de la etiqueta inteligente.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTagOptions](/cells/python-net/es/aspose.cells.markup/smarttagoptions)
-* clase [SmartTagShowType](/cells/python-net/es/aspose.cells.markup/smarttagshowtype)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTagOptions`](/cells/python-net/es/aspose.cells.markup/smarttagoptions)
+* clase [`SmartTagShowType`](/cells/python-net/es/aspose.cells.markup/smarttagshowtype)

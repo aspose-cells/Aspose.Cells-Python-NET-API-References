@@ -1,5 +1,5 @@
 ---
-title: password الملكية
+title: password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 80
 url: /ar/aspose.cells/protectedrange/password/
 is_root: false
 ---
-##  password الملكية
+##  password عقار
 
 يمثل password لحماية النطاق.
 ###  تعريف:
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ProtectedRange](/cells/python-net/ar/aspose.cells/protectedrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ProtectedRange`](/cells/python-net/ar/aspose.cells/protectedrange)

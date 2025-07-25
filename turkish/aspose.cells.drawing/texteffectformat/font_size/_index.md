@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextEffectFormat](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextEffectFormat`](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)

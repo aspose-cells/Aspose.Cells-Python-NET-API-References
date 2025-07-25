@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format fastighet
 
-Hämtar och ställer in formatet för datumvärdet.
+Hämtar och anger formatet för datumvärdet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption_visible fastighet
 
-Returnerar eller ställer in om rubriken som visar slicer Caption är synlig
+Returnerar eller anger om rubriken som visar utsnittets bildtext är synlig
 standardvärdet är sant
 
 ###  Exempel
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

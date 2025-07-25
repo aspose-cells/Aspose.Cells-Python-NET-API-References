@@ -3,7 +3,7 @@ title: ShapePathPoint clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 590
+weight: 560
 url: /es/aspose.cells.drawing/shapepathpoint/
 is_root: false
 ---
@@ -23,4 +23,4 @@ El tipo ShapePathPoint expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

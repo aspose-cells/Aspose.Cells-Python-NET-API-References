@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_size fastighet
 
-Representerar storleken på papperet.
+Representerar papprets storlek.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def paper_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
-* klass [PaperSizeType](/cells/python-net/sv/aspose.cells/papersizetype)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)
+* klass [`PaperSizeType`](/cells/python-net/sv/aspose.cells/papersizetype)

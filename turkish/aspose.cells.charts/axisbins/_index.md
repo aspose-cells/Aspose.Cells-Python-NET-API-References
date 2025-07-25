@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/axisbins/
 is_root: false
 ---
 ##  AxisBins sınıfı
-Eksen kutularını temsil eder
+Eksen bölmelerini temsil eder
 
 
 
@@ -18,7 +18,7 @@ AxisBins türü aşağıdaki üyeleri ortaya çıkarır:
 | Mülk| Tanım|
 | :- | :- |
 | [is_by_category](/cells/python-net/tr/aspose.cells.charts/axisbins/is_by_category) | Verilerin kategoriye göre gruplandırılıp gruplandırılmayacağını belirtir|
-| [is_automatic](/cells/python-net/tr/aspose.cells.charts/axisbins/is_automatic) | Eksen bölmelerinin otomatik olup olmadığını gösterir.|
+| [is_automatic](/cells/python-net/tr/aspose.cells.charts/axisbins/is_automatic) | Eksen bölmelerinin otomatik olup olmadığını belirtir.|
 | [width](/cells/python-net/tr/aspose.cells.charts/axisbins/width) | Eksen bölmesinin genişliğini alır veya ayarlar|
 | [count](/cells/python-net/tr/aspose.cells.charts/axisbins/count) | Eksen bölmelerinin sayısını alır veya ayarlar|
 | [overflow](/cells/python-net/tr/aspose.cells.charts/axisbins/overflow) | Eksen bölmelerinin taşmasını alır veya ayarlar|
@@ -28,8 +28,8 @@ AxisBins türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [reset_overflow](/cells/python-net/tr/aspose.cells.charts/axisbins/reset_overflow/#) | Taşmayı sıfırla|
-| [reset_underflow](/cells/python-net/tr/aspose.cells.charts/axisbins/reset_underflow/#) | Alt akışı sıfırla|
+| [`reset_overflow(self)`](/cells/python-net/tr/aspose.cells.charts/axisbins/reset_overflow/#) | Taşmayı sıfırla|
+| [`reset_underflow(self)`](/cells/python-net/tr/aspose.cells.charts/axisbins/reset_underflow/#) | Alt akışı sıfırla|
 
 
 

@@ -3,7 +3,7 @@ title: PivotFieldCollection classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 110
 url: /fr/aspose.cells.pivot/pivotfieldcollection/
 is_root: false
 ---
@@ -33,10 +33,11 @@ Obtient l'objet PivotField à l'index spécifique.
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [add_by_base_index](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Ajoute un objet PivotField au type spécifique PivotFields.|
-| [add](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.PivotField) | Ajoute un objet PivotField au type spécifique PivotFields.|
-| [clear](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/clear/#) | effacer tous les champs de PivotFieldCollection|
-| [move](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Déplace le PivotField de la position actuelle à la position de destination|
+| [`get(self, name)`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/get/#str) |Obtient l'objet PivotField du nom spécifique.|
+| [`add_by_base_index(self, base_field_index)`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/#int) | Ajoute un objet PivotField au type spécifique PivotFields.|
+| [`add(self, pivot_field)`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/add/#aspose.cells.pivot.pivotfield) | Ajoute un objet PivotField au type spécifique PivotFields.|
+| [`clear(self)`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/clear/#) | effacer tous les champs de PivotFieldCollection|
+| [`move(self, curr_pos, dest_pos)`](/cells/python-net/fr/aspose.cells.pivot/pivotfieldcollection/move/#int-int) | Déplace le champ croisé dynamique de la position actuelle à la position de destination|
 
 
 

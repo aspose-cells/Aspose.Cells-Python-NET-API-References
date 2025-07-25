@@ -3,13 +3,13 @@ title: text_options属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 560
 url: /zh/aspose.cells.charts/datalabels/text_options/
 is_root: false
 ---
 ## text_options属性
 
-获取和设置文本的选项。
+获取并设置文本的选项。
 ### 定义：
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: is_superscript недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript недвижимость
 
-Получает или задает значение, указывающее, является ли шрифт суперсценарным.
+Возвращает или задает значение, указывающее, является ли шрифт суперскриптом.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Gibt die name der Trendlinie zurück.
+Gibt den Wert name der Trendlinie zurück.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

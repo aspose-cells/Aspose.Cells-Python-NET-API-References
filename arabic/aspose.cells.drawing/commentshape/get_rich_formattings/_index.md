@@ -3,12 +3,12 @@ title: طريقة get_rich_formattings
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.drawing/commentshape/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
- إرجاع كافة كائنات الأحرف
+##  get_rich_formattings(self) {#}
+ إرجاع جميع كائنات الأحرف
 الذي يمثل مجموعة من الأحرف داخل النص.
 
 
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: is_hidden属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 280
 url: /zh/aspose.cells/workbooksettings/is_hidden/
 is_root: false
 ---

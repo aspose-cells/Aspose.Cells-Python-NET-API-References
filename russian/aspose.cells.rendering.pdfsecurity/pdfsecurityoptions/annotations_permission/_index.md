@@ -1,6 +1,6 @@
 ---
 title: annotations_permission недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  annotations_permission недвижимость
 
-Указывает, разрешить ли добавлять или изменять текстовые аннотации, заполнять поля интерактивной формы.
+Указывает, разрешить ли добавлять или изменять текстовые аннотации, заполнять поля интерактивных форм.
 
 ###  Примечания
 
-если также установлен [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), создайте или измените поля интерактивной формы (включая поля подписи).
+если также установлено [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ru/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), создайте или измените поля интерактивной формы (включая поля подписи).
 ###  Определение:
 ```python
 @property

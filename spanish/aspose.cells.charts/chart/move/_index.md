@@ -1,18 +1,19 @@
 ---
-title: move método
+title: método move
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 100
 url: /es/aspose.cells.charts/chart/move/
 is_root: false
 ---
-##  move(upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
+##  move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
 Mueve el gráfico a una ubicación específica.
 
 
 
 ```python
+
 def move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```
@@ -28,5 +29,5 @@ def move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_c
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

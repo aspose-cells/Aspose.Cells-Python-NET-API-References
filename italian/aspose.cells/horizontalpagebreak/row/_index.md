@@ -1,6 +1,6 @@
 ---
 title: row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row proprietà
 
-Ottiene l'indice row in base zero.
+Ottiene l'indice row basato su zero.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [HorizontalPageBreak](/cells/python-net/it/aspose.cells/horizontalpagebreak)
+* modulo [`aspose.cells`](../../)
+* classe [`HorizontalPageBreak`](/cells/python-net/it/aspose.cells/horizontalpagebreak)

@@ -3,11 +3,11 @@ title: add_icons metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 Lägger till svg-bild.
 
 
@@ -17,6 +17,7 @@ Lägger till svg-bild.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -24,13 +25,13 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int | Representerar den vertikala förskjutningen av formen från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| left | int | Den horisontella förskjutningen av formen från dess vänstra kolumn, i pixelenhet.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar formens vertikala förskjutning från dess vänstra rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| left | int | Formens horisontella förskjutning från dess vänstra kolumn, i pixelenhet.|
 | height | int | Formens höjd, i pixelenhet.|
-| width | int | Formens bredd, i pixelenhet.|
-| image_byte_data | bytes | Bildbytedata.|
+| width | int | Formens bredd, i pixlar.|
+| image_byte_data | bytes | Bildens bytedata.|
 | compatible_image_data | bytes | Konverterade bilddata från svg för att vara kompatibel med Excel 2016 eller lägre versioner.|
 
 ###  Exempel

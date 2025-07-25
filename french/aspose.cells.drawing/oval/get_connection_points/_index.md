@@ -1,22 +1,23 @@
 ---
-title: get_connection_points méthode
+title: méthode get_connection_points
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 100
 url: /fr/aspose.cells.drawing/oval/get_connection_points/
 is_root: false
 ---
-##  get_connection_points() {#}
-Obtenir les points de connexion
+##  get_connection_points(self) {#}
+Obtenez les points de connexion
 
 
 ###  Retour
 
-[X,Y] paires du point de connexion. Chaque élément est un tableau float[2], [0] représente x et [1] représente y.
+Paires [X, Y] du point de connexion. Chaque élément est un tableau float[2], [0] représentant x et [1] représentant y.
 
 
 ```python
+
 def get_connection_points(self):
     ...
 ```
@@ -34,5 +35,5 @@ points = shape.get_connection_points()
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Oval](/cells/python-net/fr/aspose.cells.drawing/oval)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Oval`](/cells/python-net/fr/aspose.cells.drawing/oval)

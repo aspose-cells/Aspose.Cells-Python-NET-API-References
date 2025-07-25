@@ -3,7 +3,7 @@ title: export_images_as_base64 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 360
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_images_as_base64/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-عند تعيين هذه الخاصية على بيانات الصورة الحقيقية، يتم تصديرها مباشرةً إلى ملف
+عندما يتم تعيين هذه الخاصية على true، يتم تصدير بيانات الصورة مباشرة على
 لا يتم إنشاء عناصر img وملفات منفصلة.
 ###  تعريف:
 ```python

@@ -3,7 +3,7 @@ title: load_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 150
 url: /sv/aspose.cells.numbers/numbersloadoptions/load_format/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.numbers](../../)
-* klass [LoadFormat](/cells/python-net/sv/aspose.cells/loadformat)
-* klass [NumbersLoadOptions](/cells/python-net/sv/aspose.cells.numbers/numbersloadoptions)
+* modul [`aspose.cells.numbers`](../../)
+* klass [`LoadFormat`](/cells/python-net/sv/aspose.cells/loadformat)
+* klass [`NumbersLoadOptions`](/cells/python-net/sv/aspose.cells.numbers/numbersloadoptions)

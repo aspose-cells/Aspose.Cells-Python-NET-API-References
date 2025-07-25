@@ -1,9 +1,9 @@
 ---
 title: selected_cell proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 890
+weight: 900
 url: /it/aspose.cells.drawing/combobox/selected_cell/
 is_root: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: text_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 350
 url: /it/aspose.cells.charts/plotarea/text_options/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def text_options(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [PlotArea](/cells/python-net/it/aspose.cells.charts/plotarea)
-* classe [TextOptions](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`PlotArea`](/cells/python-net/it/aspose.cells.charts/plotarea)
+* classe [`TextOptions`](/cells/python-net/it/aspose.cells.drawing.texts/textoptions)

@@ -1,15 +1,15 @@
 ---
 title: window_top_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 590
+weight: 600
 url: /it/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm proprietà
 
-La distanza dal bordo superiore dell'area client al bordo superiore della finestra, in unità di centimetro.
+Distanza tra il bordo superiore dell'area client e il bordo superiore della finestra, in centimetri.
 ###  Definizione:
 ```python
 @property

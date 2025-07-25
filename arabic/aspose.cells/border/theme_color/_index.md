@@ -1,5 +1,5 @@
 ---
-title: theme_color الملكية
+title: theme_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells/border/theme_color/
 is_root: false
 ---
-##  theme_color الملكية
+##  theme_color عقار
 
-الحصول على لون النسق للحدود وتعيينه.
+يحصل على لون موضوع الحدود ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Border](/cells/python-net/ar/aspose.cells/border)
-* فئة [ThemeColor](/cells/python-net/ar/aspose.cells/themecolor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Border`](/cells/python-net/ar/aspose.cells/border)
+* فئة [`ThemeColor`](/cells/python-net/ar/aspose.cells/themecolor)

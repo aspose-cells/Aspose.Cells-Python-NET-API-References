@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/workbook/__init__/
 is_root: false
 ---
-##  Workbook() {#}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır.
+##  \_\_init\_\_(kendi){#}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,11 +21,11 @@ def __init__(self):
 
 ###  Notlar
 
-Varsayılan dosya biçimi türü Xlsx'tir. Başka formatta dosya türü oluşturmak için lütfen Workbook(FileFormatType) kullanın.
+Varsayılan dosya biçimi türü Xlsx'tir. Başka dosya türleri oluşturmak istiyorsanız lütfen Workbook(DosyaBiçimTürü) kullanın.
 ###  Örnek
 
 
-Aşağıdaki kod, sınıfın yeni bir örneğini oluşturmak ve başlatmak için Workbook yapıcısının nasıl kullanılacağını gösterir.
+Aşağıdaki kod, sınıfın yeni bir örneğini oluşturmak ve başlatmak için Workbook oluşturucusunun nasıl kullanılacağını gösterir.
 
 ```python
 from aspose.cells import Workbook
@@ -34,12 +35,13 @@ workbook = Workbook()
 ```
 
 
-##  Workbook(file_format_type) {#FileFormatType}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır.
+##  \_\_init\_\_(self, dosya_biçim_türü){#aspose.cells.FileFormatType}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır.
 
 
 
 ```python
+
 def __init__(self, file_format_type):
     ...
 ```
@@ -47,14 +49,14 @@ def __init__(self, file_format_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| file_format_type | [FileFormatType](/cells/python-net/tr/aspose.cells/fileformattype) | Yeni dosya formatı.|
+| file_format_type | [`FileFormatType`](/cells/python-net/tr/aspose.cells/fileformattype) | Yeni dosya biçimi.|
 ###  Notlar
 
 Varsayılan dosya biçimi türü Excel97To2003'tür.
 ###  Örnek
 
 
-Aşağıdaki kod, sınıfın yeni bir örneğini oluşturmak ve başlatmak için Workbook yapıcısının nasıl kullanılacağını gösterir.
+Aşağıdaki kod, Workbook oluşturucusunun çeşitli dosya biçimi türleriyle sınıfın yeni bir örneğini oluşturmak ve başlatmak için nasıl kullanılacağını gösterir.
 
 ```python
 from aspose.cells import FileFormatType, Workbook
@@ -64,12 +66,13 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-##  Workbook(file) {#str}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir dosya açar.
+##  \_\_init\_\_(kendi, dosya){#str}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir dosya açar.
 
 
 
 ```python
+
 def __init__(self, file):
     ...
 ```
@@ -80,12 +83,13 @@ def __init__(self, file):
 | file | str | Dosya adı.|
 
 
-##  Workbook(stream) {#io.RawIOBase}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir akış açar.
+##  \_\_init\_\_(kendi, akış){#io.RawIOBase}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir akış açar.
 
 
 
 ```python
+
 def __init__(self, stream):
     ...
 ```
@@ -93,15 +97,16 @@ def __init__(self, stream):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| stream | io.RawIOBase | Akış.|
+| stream | io.RawIOBase | Dere.|
 
 
-##  Workbook(file, load_options) {#str-LoadOptions}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir dosya açar.
+##  \_\_init\_\_(self, dosya, yükleme_seçenekleri){#str-aspose.cells.LoadOptions}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve bir dosya açar.
 
 
 
 ```python
+
 def __init__(self, file, load_options):
     ...
 ```
@@ -110,15 +115,16 @@ def __init__(self, file, load_options):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | file | str | Dosya adı.|
-| load_options | [LoadOptions](/cells/python-net/tr/aspose.cells/loadoptions) | yükleme seçenekleri|
+| load_options | [`LoadOptions`](/cells/python-net/tr/aspose.cells/loadoptions) | Yükleme seçenekleri|
 
 
-##  Workbook(stream, load_options) {#io.RawIOBase-LoadOptions}
-[Workbook](/cells/python-net/tr/aspose.cells/workbook) sınıfının ve açık akışın yeni bir örneğini başlatır.
+##  \_\_init\_\_(self, akış, yükleme_seçenekleri){#io.RawIOBase-aspose.cells.LoadOptions}
+[`Workbook`](/cells/python-net/tr/aspose.cells/workbook) sınıfının yeni bir örneğini başlatır ve akışı açar.
 
 
 
 ```python
+
 def __init__(self, stream, load_options):
     ...
 ```
@@ -126,11 +132,11 @@ def __init__(self, stream, load_options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| stream | io.RawIOBase | Akış.|
-| load_options | [LoadOptions](/cells/python-net/tr/aspose.cells/loadoptions) | yükleme seçenekleri|
+| stream | io.RawIOBase | Dere.|
+| load_options | [`LoadOptions`](/cells/python-net/tr/aspose.cells/loadoptions) | Yükleme seçenekleri|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

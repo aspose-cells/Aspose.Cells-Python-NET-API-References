@@ -1,22 +1,23 @@
 ---
 title: add_hyperlink метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.drawing/combobox/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
-Добавляет гиперссылку к фигуре.
+##  add_hyperlink(self, address) {#str}
+Добавляет гиперссылку к форме.
 
 
-###  Возвращает
+###  Возврат
 
 Верните новый объект гиперссылки.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ComboBox](/cells/python-net/ru/aspose.cells.drawing/combobox)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ComboBox`](/cells/python-net/ru/aspose.cells.drawing/combobox)

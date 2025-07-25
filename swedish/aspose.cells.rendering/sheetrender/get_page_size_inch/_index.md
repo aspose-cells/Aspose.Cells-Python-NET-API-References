@@ -7,16 +7,17 @@ weight: 40
 url: /sv/aspose.cells.rendering/sheetrender/get_page_size_inch/
 is_root: false
 ---
-##  get_page_size_inch {#int}
-Få sidstorlek i tum av utdatabilden.
+##  get_page_size_inch(self, page_index) {#int}
+Hämta sidstorleken i tum för utdatabilden.
 
 
 ###  Returnerar
 
-Bildstorlek, [0] för bredd och [1] för höjd
+Bildens sidstorlek, [0] för bredd och [1] för höjd
 
 
 ```python
+
 def get_page_size_inch(self, page_index):
     ...
 ```
@@ -24,7 +25,7 @@ def get_page_size_inch(self, page_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| page_index | int |Sidindexet är baserat på noll.|
+| page_index | int | Sidindexet är baserat på noll.|
 
 
 

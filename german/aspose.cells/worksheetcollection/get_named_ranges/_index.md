@@ -7,7 +7,7 @@ weight: 100
 url: /de/aspose.cells/worksheetcollection/get_named_ranges/
 is_root: false
 ---
-##  get_named_ranges() {#}
+##  get_named_ranges(self) {#}
 Ruft alle vordefinierten benannten Bereiche in der Tabelle ab.
 
 
@@ -18,10 +18,11 @@ Wenn die Referenz des definierten Namens extern ist oder mehrere Bereiche hat, w
 
 
 
-Gibt null zurück, wenn der benannte Bereich nicht vorhanden ist.
+Gibt null zurück, wenn der benannte Bereich nicht existiert.
 
 
 ```python
+
 def get_named_ranges(self):
     ...
 ```
@@ -31,5 +32,5 @@ def get_named_ranges(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WorksheetCollection](/cells/python-net/de/aspose.cells/worksheetcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorksheetCollection`](/cells/python-net/de/aspose.cells/worksheetcollection)

@@ -1,18 +1,19 @@
 ---
-title: metodo change_palette
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo change_palette
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
-Modifica la tavolozza per il foglio di calcolo nell'indice specificato.
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
+Cambia la tavolozza del foglio di calcolo nell'indice specificato.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -21,16 +22,16 @@ def change_palette(self, color, index):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | Struttura del colore.|
-| index | int | Indice tavolozza, 0 - 55.|
+| index | int | Indice della tavolozza, 0 - 55.|
 ###  Osservazioni
 
-La tavolozza ha 56 voci, ciascuna rappresentata da un valore RGB.
+La tavolozza è composta da 56 voci, ciascuna rappresentata da un valore RGB.
 
 
-Se imposti un colore che non è nella tavolozza, non avrà effetto.
+Se si imposta un colore non presente nella tavolozza, l'impostazione non avrà effetto.
 
 
-Quindi, se vuoi impostare un colore personalizzato, cambia prima la tavolozza.
+Quindi, se vuoi impostare un colore personalizzato, per prima cosa modifica la tavolozza.
 
 
 Quella che segue è la tavolozza dei colori standard.
@@ -47,13 +48,13 @@ Quella che segue è la tavolozza dei colori standard.
 | Ciano| 0| 255| 255 |
 | Marrone| 128| 0| 0 |
 | Verde| 0| 128| 0 |
-| Marina Militare| 0| 0| 128 |
+| Marina| 0| 0| 128 |
 | Oliva| 128| 128| 0 |
 | Viola| 128| 0| 128 |
 | Verde acqua| 0| 128| 128 |
 | Argento| 192| 192| 192 |
 | Grigio| 128| 128| 128 |
-| Colore17| 153| 153| 255 |
+|Colore17| 153| 153| 255 |
 | Colore18| 153| 51| 102 |
 | Colore19| 255| 255| 204 |
 | Colore20| 204| 255| 255 |
@@ -90,12 +91,12 @@ Quella che segue è la tavolozza dei colori standard.
 | Colore51| 0| 51| 0 |
 | Colore52| 51| 51| 0 |
 | Colore53| 153| 51| 0 |
-|Colore54| 153| 51| 102 |
+| Colore54| 153| 51| 102 |
 | Colore55| 51| 51| 153 |
 | Colore56| 51| 51| 51 |
 
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

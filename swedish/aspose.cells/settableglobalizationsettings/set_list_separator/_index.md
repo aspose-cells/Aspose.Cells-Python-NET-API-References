@@ -7,12 +7,13 @@ weight: 330
 url: /sv/aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
-##  set_list_separator {#char}
-Ställer in separator för lista, funktionsparametrar, ... etc.
+##  set_list_separator(self, c) {#char}
+Ställer in separatorn för lista, funktionsparametrar, ...etc.
 
 
 
 ```python
+
 def set_list_separator(self, c):
     ...
 ```
@@ -20,7 +21,7 @@ def set_list_separator(self, c):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| c | char | den angivna avskiljaren|
+| c | char | den angivna separatorn|
 
 
 

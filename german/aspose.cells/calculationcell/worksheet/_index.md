@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationCell](/cells/python-net/de/aspose.cells/calculationcell)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationCell`](/cells/python-net/de/aspose.cells/calculationcell)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

@@ -1,18 +1,19 @@
 ---
-title: metodo remove_date_filter
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo remove_date_filter
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
 url: /it/aspose.cells/autofilter/remove_date_filter/
 is_root: false
 ---
-##  remove_date_filter(field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-DateTimeGroupingType-int-int-int-int-int-int}
+##  remove_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second) {#int-aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
 Rimuove un filtro data.
 
 
 
 ```python
+
 def remove_date_filter(self, field_index, date_time_grouping_type, year, month, day, hour, minute, second):
     ...
 ```
@@ -20,8 +21,8 @@ def remove_date_filter(self, field_index, date_time_grouping_type, year, month, 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| field_index | int | L'intero offset del campo su cui si desidera basare il filtro<br/> (da sinistra dell'elenco; il campo più a sinistra è il campo 0).|
-| date_time_grouping_type | [DateTimeGroupingType](/cells/python-net/it/aspose.cells/datetimegroupingtype) | [DateTimeGroupingType](/cells/python-net/it/aspose.cells/datetimegroupingtype) |
+| field_index | int | L'offset intero del campo su cui si desidera basare il filtro<br/> (da sinistra nell'elenco; il campo più a sinistra è il campo 0).|
+| date_time_grouping_type | [`DateTimeGroupingType`](/cells/python-net/it/aspose.cells/datetimegroupingtype) | Il tipo di raggruppamento|
 | year | int | L'anno.|
 | month | int | Il mese.|
 | day | int | Il giorno.|
@@ -31,10 +32,9 @@ def remove_date_filter(self, field_index, date_time_grouping_type, year, month, 
 ###  Osservazioni
 
 Se DateTimeGroupingType è Year, ha effetto solo il parametro year.
-Se DateTiemGroupingType è Month, ha effetto solo il parametro anno e mese.
+Se DateTiemGroupingType è Month, hanno effetto solo i parametri anno e mese.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/it/aspose.cells/autofilter)
-* classe [DateTimeGroupingType](/cells/python-net/it/aspose.cells/datetimegroupingtype)
+* modulo [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/it/aspose.cells/autofilter)

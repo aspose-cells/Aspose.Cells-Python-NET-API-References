@@ -1,6 +1,6 @@
 ---
 title: display_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_hidden недвижимость
 
-Указывает, отображать ли данные в скрытых строках и столбцах.
+Указывает, следует ли показывать данные в скрытых строках и столбцах.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_hidden(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

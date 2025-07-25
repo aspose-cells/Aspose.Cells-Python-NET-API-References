@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
-##  remove_range(index) {#int}
-Tar bort ett intervall efter givet index.
+##  remove_range(self, index) {#int}
+Tar bort ett område med givet index.
 
 
 
 ```python
+
 def remove_range(self, index):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_range(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | indexet för intervallet som ska tas bort.|
+| index | int | indexet för det intervall som ska tas bort.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ErrorCheckOption](/cells/python-net/sv/aspose.cells/errorcheckoption)
+* modul [`aspose.cells`](../../)
+* klass [`ErrorCheckOption`](/cells/python-net/sv/aspose.cells/errorcheckoption)

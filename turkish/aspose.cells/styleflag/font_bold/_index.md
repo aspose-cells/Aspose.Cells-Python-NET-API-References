@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_bold mülk
 
-Yazı tipi kalın ayarı uygulanacaktır.
+Yazı tipi kalınlaştırma ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_bold(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

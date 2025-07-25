@@ -8,20 +8,20 @@ url: /tr/aspose.cells.markup/customxmlpart/
 is_root: false
 ---
 ##  CustomXmlPart sınıfı
-Bir Özel XML Veri Depolama Bölümünü (bir paket içindeki özel XML verileri) temsil eder.
+Özel XML Veri Depolama Bölümünü (bir paket içindeki özel XML verileri) temsil eder.
 
 
 
-CustomXmlPart türü aşağıdaki üyeleri gösterir:
+CustomXmlPart türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [data](/cells/python-net/tr/aspose.cells.markup/customxmlpart/data) | Bu Özel XML Veri Depolama Bölümünün XML içeriğini alır veya ayarlar.|
-| [schema_data](/cells/python-net/tr/aspose.cells.markup/customxmlpart/schema_data) | Bu Özel XML Şeması Veri Depolama Bölümünün XML içeriğini alır veya ayarlar.|
-| [id](/cells/python-net/tr/aspose.cells.markup/customxmlpart/id) |Özel xml bölümünün kimliğini alır ve ayarlar.|
+| [data](/cells/python-net/tr/aspose.cells.markup/customxmlpart/data) | Bu Özel XML Veri Depolama Parçasının XML içeriğini alır veya ayarlar.|
+| [schema_data](/cells/python-net/tr/aspose.cells.markup/customxmlpart/schema_data) |Bu Özel XML Şeması Veri Depolama Parçasının XML içeriğini alır veya ayarlar.|
+| [id](/cells/python-net/tr/aspose.cells.markup/customxmlpart/id) | Özel xml parçasının kimliğini alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

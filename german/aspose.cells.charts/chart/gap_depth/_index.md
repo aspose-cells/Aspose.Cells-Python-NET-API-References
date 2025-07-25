@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_depth Eigentum
 
-Ruft den Abstand zwischen den Datenreihen in einem 3D-Diagramm als Prozentsatz der Markierungsbreite ab oder legt diesen fest.
+Ruft den Abstand zwischen den Datenreihen in einem 3D-Diagramm als Prozentsatz der Markierungsbreite ab oder legt ihn fest.
 Der Wert dieser Eigenschaft muss zwischen 0 und 500 liegen.
 ###  Definition:
 ```python

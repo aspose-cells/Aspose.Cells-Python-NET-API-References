@@ -3,7 +3,7 @@ title: is_hidden Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 610
 url: /de/aspose.cells.drawing/checkbox/is_hidden/
 is_root: false
 ---

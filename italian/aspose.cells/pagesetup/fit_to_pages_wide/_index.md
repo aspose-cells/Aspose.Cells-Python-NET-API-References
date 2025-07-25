@@ -1,6 +1,6 @@
 ---
 title: fit_to_pages_wide proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_wide proprietà
 
-Rappresenta il numero di pagine a cui verrà ridimensionato il foglio di lavoro quando viene stampato.
+Rappresenta il numero di pagine in cui verrà ridimensionato il foglio di lavoro quando verrà stampato.
 Il valore predefinito è 1.
 
 ###  Osservazioni
 
-Devi impostare FitToPagesTall come zero se vuoi adattare tutte le colonne su una pagina.
+Per adattare tutte le colonne a una pagina, è necessario impostare FitToPagesTall su zero.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_wide(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

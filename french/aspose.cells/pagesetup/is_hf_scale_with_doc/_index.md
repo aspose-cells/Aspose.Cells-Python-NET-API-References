@@ -10,7 +10,7 @@ is_root: false
 ##  is_hf_scale_with_doc propriété
 
 Indique si l'en-tête et le pied de page sont mis à l'échelle avec la mise à l'échelle du document.
-Ne s'applique qu'à Excel 2007.
+S'applique uniquement à Excel 2007.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_hf_scale_with_doc(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

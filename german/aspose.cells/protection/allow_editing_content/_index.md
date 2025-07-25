@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_content Eigentum
 
-Stellt dar, ob der Benutzer den Inhalt gesperrter Zellen auf einem geschützten Arbeitsblatt bearbeiten darf.
+Gibt an, ob der Benutzer den Inhalt gesperrter Zellen in einem geschützten Arbeitsblatt bearbeiten darf.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_content(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [MsoLineDashStyle](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`MsoLineDashStyle`](/cells/python-net/de/aspose.cells.drawing/msolinedashstyle)

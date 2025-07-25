@@ -1,18 +1,19 @@
 ---
-title: metodo protect
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo protect
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
-##  protect(islocked_for_viewing, password) {#bool-str}
-Protegge o rimuove la protezione di questo progetto VBA.
+##  protect(self, islocked_for_viewing, password) {#bool-str}
+Protegge o rimuove la protezione da questo progetto VBA.
 
 
 
 ```python
+
 def protect(self, islocked_for_viewing, password):
     ...
 ```
@@ -20,14 +21,14 @@ def protect(self, islocked_for_viewing, password):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| islocked_for_viewing | bool | indica se blocca il progetto per la visualizzazione.|
-| password | str | Se il valore è nullo, rimuove la protezione di questo progetto VBA, altrimenti proietta questo progetto VBA.|
+| islocked_for_viewing | bool | indica se i blocchi sono visibili.|
+| password | str | Se il valore è nullo, rimuove la protezione da questo progetto VBA, altrimenti proietta questo progetto VBA.|
 ###  Osservazioni
 
-Se islockedForViewing è vero, la password non può essere nulla.
+Se islockedForViewing è true, la password non può essere null.
 
 
 ###  Guarda anche
 
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProject](/cells/python-net/it/aspose.cells.vba/vbaproject)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProject`](/cells/python-net/it/aspose.cells.vba/vbaproject)

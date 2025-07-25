@@ -1,14 +1,14 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/rangecollection/add/
 is_root: false
 ---
-##  add(range) {#Range}
-Aggiunge un elemento [Range](/cells/python-net/it/aspose.cells/range) alla raccolta.
+##  add(self, range) {#aspose.cells.Range}
+Aggiunge un elemento [`Range`](/cells/python-net/it/aspose.cells/range) alla collezione.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Aggiunge un elemento [Range](/cells/python-net/it/aspose.cells/range) alla racco
 
 
 ```python
+
 def add(self, range):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/it/aspose.cells/range) | Oggetto intervallo|
+| range | [`Range`](/cells/python-net/it/aspose.cells/range) | Oggetto di intervallo|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
-* classe [RangeCollection](/cells/python-net/it/aspose.cells/rangecollection)
+* modulo [`aspose.cells`](../../)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)
+* classe [`RangeCollection`](/cells/python-net/it/aspose.cells/rangecollection)

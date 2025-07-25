@@ -3,18 +3,18 @@ title: parsing_formula_on_open عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 300
 url: /ar/aspose.cells/txtloadoptions/parsing_formula_on_open/
 is_root: false
 ---
 ##  parsing_formula_on_open عقار
 
-يشير إلى ما إذا كان سيتم تحليل الصيغة عند قراءة الملف.
+يشير إلى ما إذا كان يتم تحليل الصيغة عند قراءة الملف.
 
 ###  ملاحظات
 
 ينطبق فقط على ملفات Excel Xlsx وXltx وXltm وXlsm
-لأنه يتم تخزين الصيغ الموجودة في الملفات باستخدام صيغة سلسلة.
+لأن الصيغ الموجودة في الملفات يتم تخزينها بصيغة سلسلة.
 ###  تعريف:
 ```python
 @property

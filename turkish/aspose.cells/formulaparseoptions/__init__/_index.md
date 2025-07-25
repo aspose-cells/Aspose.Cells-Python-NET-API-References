@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/formulaparseoptions/__init__/
 is_root: false
 ---
-##  FormulaParseOptions() {#}
+##  \_\_init\_\_(kendi){#}
 FormulaParseOptions'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaParseOptions](/cells/python-net/tr/aspose.cells/formulaparseoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions)

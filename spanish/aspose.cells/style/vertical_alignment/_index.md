@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment propiedad
 
-Obtiene o establece el tipo de alineación vertical del texto de una celda.
+Obtiene o establece el tipo de alineación vertical del texto en una celda.
 ###  Definición:
 ```python
 @property

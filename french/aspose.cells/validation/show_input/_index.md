@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_input propriété
 
-Indique si le message d'entrée de validation des données sera affiché chaque fois que l'utilisateur sélectionne une cellule dans la plage de validation des données.
+Indique si le message de saisie de validation des données s'affiche chaque fois que l'utilisateur sélectionne une cellule dans la plage de validation des données.
 ###  Définition:
 ```python
 @property

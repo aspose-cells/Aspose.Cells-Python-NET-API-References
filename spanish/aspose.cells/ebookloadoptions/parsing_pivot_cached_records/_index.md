@@ -3,18 +3,18 @@ title: parsing_pivot_cached_records propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 310
+weight: 290
 url: /es/aspose.cells/ebookloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
 ##  parsing_pivot_cached_records propiedad
 
-Indica si se analizan los registros en caché dinámicos al cargar el archivo.
+Indica si se analizan los registros en caché del pivote al cargar el archivo.
 El valor predeterminado es falso.
 
 ###  Observaciones
 
-Sólo aplica para archivos Excel Xlsx, Xltx, Xltm, Xlsm y xlsb.
+Solo se aplica a archivos Excel Xlsx, Xltx, Xltm, Xlsm y xlsb
 ###  Definición:
 ```python
 @property

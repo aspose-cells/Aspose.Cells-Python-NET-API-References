@@ -3,16 +3,17 @@ title: طريقة update_linked_range
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells.properties/customdocumentpropertycollection/update_linked_range/
 is_root: false
 ---
-##  update_linked_range() {#}
+##  update_linked_range(self) {#}
 تحديث قيمة خاصية المستند المخصص إلى النطاق المرتبط.
 
 
 
 ```python
+
 def update_linked_range(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_linked_range(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)

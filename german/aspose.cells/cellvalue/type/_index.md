@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft den Zellwert type ab bzw. legt diesen fest.
+Ruft den type-Zellenwert ab/legt ihn fest.
 ###  Definition:
 ```python
 @property

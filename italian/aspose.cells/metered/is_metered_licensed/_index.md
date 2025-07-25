@@ -1,14 +1,14 @@
 ---
 title: Metodo is_metered_licensed
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
-Controlla se il contatore è concesso in licenza
+##  is_metered_licensed() {#}
+Controllare se il contatore è concesso in licenza
 
 
 ###  ritorna
@@ -17,7 +17,9 @@ Vero o falso
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

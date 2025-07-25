@@ -1,13 +1,13 @@
 ---
-title: skip_empty_rows 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: skip_empty_rows属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 220
 url: /zh/aspose.cells/jsonsaveoptions/skip_empty_rows/
 is_root: false
 ---
-## skip_empty_rows 属性
+## skip_empty_rows属性
 
 指示是否跳过空行。
 ### 定义：
@@ -21,5 +21,5 @@ def skip_empty_rows(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [JsonSaveOptions](/cells/python-net/zh/aspose.cells/jsonsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`JsonSaveOptions`](/cells/python-net/zh/aspose.cells/jsonsaveoptions)

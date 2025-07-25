@@ -7,16 +7,17 @@ weight: 190
 url: /ar/aspose.cells/cells/create_range/
 is_root: false
 ---
-##  create_range(address) {#str}
-لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.
+##  create_range(self, address) {#str}
+إنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.
 
 
 ###  عائدات
 
-عنصر [Range](/cells/python-net/ar/aspose.cells/range)
+كائن [`Range`](/cells/python-net/ar/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -27,16 +28,17 @@ def create_range(self, address):
 | address | str | عنوان النطاق.|
 
 
-##  create_range(upper_left_cell, lower_right_cell) {#str-str}
-لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من نطاق من الخلايا.
+##  create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+إنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من نطاق من الخلايا.
 
 
 ###  عائدات
 
-عنصر [Range](/cells/python-net/ar/aspose.cells/range)
+كائن [`Range`](/cells/python-net/ar/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -44,20 +46,21 @@ def create_range(self, upper_left_cell, lower_right_cell):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| upper_left_cell | str | اسم الخلية العلوي الأيسر.|
-| lower_right_cell | str | أسفل اسم الخلية الأيمن.|
+| upper_left_cell | str | اسم الخلية العلوية اليسرى.|
+| lower_right_cell | str | اسم الخلية في أسفل اليمين.|
 
 
-##  create_range(first_index, number, is_vertical) {#int-int-bool}
-لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من صفوف خلايا أو أعمدة خلايا.
+##  create_range(self, first_index, number, is_vertical) {#int-int-bool}
+إنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من صفوف الخلايا أو أعمدة الخلايا.
 
 
 ###  عائدات
 
-عنصر [Range](/cells/python-net/ar/aspose.cells/range).
+كائن [`Range`](/cells/python-net/ar/aspose.cells/range).
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -65,21 +68,22 @@ def create_range(self, first_index, number, is_vertical):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| first_index | int | فهرس الصف الأول أو فهرس العمود الأول ، مستند إلى الصفر.|
-| number | int | إجمالي عدد الصفوف أو الأعمدة ، على أساس واحد.|
-| is_vertical | bool | صواب - نطاق تم إنشاؤه من أعمدة الخلايا. خطأ - النطاق الذي تم إنشاؤه من صفوف الخلايا.|
+| first_index | int | فهرس الصف الأول أو فهرس العمود الأول، على أساس الصفر.|
+| number | int | العدد الإجمالي للصفوف أو الأعمدة، على أساس واحد.|
+| is_vertical | bool | صحيح - نطاق مُنشأ من أعمدة الخلايا. خطأ - نطاق مُنشأ من صفوف الخلايا.|
 
 
-##  create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من نطاق من الخلايا.
+##  create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+إنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من نطاق من الخلايا.
 
 
 ###  عائدات
 
-عنصر [Range](/cells/python-net/ar/aspose.cells/range)
+كائن [`Range`](/cells/python-net/ar/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -87,7 +91,7 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| first_row | int | الصف الأول من هذا النطاق|
+| first_row | int |الصف الأول من هذا النطاق|
 | first_column | int | العمود الأول من هذا النطاق|
 | total_rows | int | عدد الصفوف|
 | total_columns | int | عدد الأعمدة|
@@ -95,6 +99,6 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)

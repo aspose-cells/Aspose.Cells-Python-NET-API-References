@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  month propriété
 
-Obtient et définit le month de l'heure de la date groupée.
+Obtient et définit le month de la date et de l'heure groupées.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def month(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DateTimeGroupItem](/cells/python-net/fr/aspose.cells/datetimegroupitem)
+* module [`aspose.cells`](../../)
+* classe [`DateTimeGroupItem`](/cells/python-net/fr/aspose.cells/datetimegroupitem)

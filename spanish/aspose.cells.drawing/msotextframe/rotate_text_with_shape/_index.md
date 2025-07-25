@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotate_text_with_shape propiedad
 
-Indica si rota el texto con forma.
+Indica si se gira el texto con forma.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoTextFrame](/cells/python-net/es/aspose.cells.drawing/msotextframe)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoTextFrame`](/cells/python-net/es/aspose.cells.drawing/msotextframe)

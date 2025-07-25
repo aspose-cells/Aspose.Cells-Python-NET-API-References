@@ -8,14 +8,14 @@ url: /zh/aspose.cells.charts/trendlinetype/
 is_root: false
 ---
 ## TrendlineType枚举
-代表趋势线类型。
+表示趋势线类型。
 
 
 
 TrendlineType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | EXPONENTIAL |指数|
 | LINEAR |线性|

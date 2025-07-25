@@ -1,6 +1,6 @@
 ---
 title: dock_state недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dock_state недвижимость
 
-Получает и задает последнее закрепленное расположение этого объекта области задач.
+Получает и задает последнее закрепленное местоположение этого объекта области задач.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def dock_state(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionTaskPane](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionTaskPane`](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)

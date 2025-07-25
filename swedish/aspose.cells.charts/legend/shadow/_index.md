@@ -3,13 +3,13 @@ title: shadow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 390
 url: /sv/aspose.cells.charts/legend/shadow/
 is_root: false
 ---
 ##  shadow fastighet
 
-Sant om ramen har ett shadow.
+Sant om ramen har en shadow.
 ###  Definition:
 ```python
 @property

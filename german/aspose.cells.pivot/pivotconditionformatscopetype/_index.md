@@ -3,7 +3,7 @@ title: PivotConditionFormatScopeType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 250
+weight: 320
 url: /de/aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ Der Typ PivotConditionFormatScopeType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| DATA | Zeigt an, dass die bedingte Formatierung auf die ausgewählten Datenfelder angewendet wird.|
-| FIELD |Gibt an, dass die bedingte Formatierung auf die ausgewählten PivotTable-Feldschnittpunkte angewendet wird.|
-| SELECTION | Zeigt an, dass die bedingte Formatierung auf die ausgewählten Zellen angewendet wird.|
+| DATA | Gibt an, dass auf die ausgewählten Datenfelder eine bedingte Formatierung angewendet wird.|
+| FIELD | Gibt an, dass auf die ausgewählten PivotTable-Feldschnittpunkte eine bedingte Formatierung angewendet wird.|
+| SELECTION |Gibt an, dass auf die ausgewählten Zellen eine bedingte Formatierung angewendet wird.|
 
 
 

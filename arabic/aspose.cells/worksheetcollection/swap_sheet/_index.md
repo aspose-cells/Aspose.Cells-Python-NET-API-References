@@ -3,16 +3,17 @@ title: طريقة swap_sheet
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ar/aspose.cells/worksheetcollection/swap_sheet/
 is_root: false
 ---
-##  swap_sheet {#int-int}
-يستبدل الورقتين.
+##  swap_sheet(self, sheet_index1, sheet_index2) {#int-int}
+تبديل الورقتين.
 
 
 
 ```python
+
 def swap_sheet(self, sheet_index1, sheet_index2):
     ...
 ```
@@ -21,7 +22,7 @@ def swap_sheet(self, sheet_index1, sheet_index2):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | sheet_index1 | int | ورقة العمل الأولى.|
-| sheet_index2 | int | ورقة العمل الثانية .|
+| sheet_index2 | int | ورقة العمل الثانية.|
 
 
 

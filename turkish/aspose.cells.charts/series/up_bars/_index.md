@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  up_bars mülk
 
-Çizgi grafiğindeki yukarı çubukları temsil eden bir DropBars nesnesi döndürür.
-Yalnızca çizgi grafikler için geçerlidir.
+Bir çizgi grafiğindeki yukarı çubukları temsil eden bir DropBars nesnesi döndürür.
+Sadece çizgi grafikler için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def up_bars(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [DropBars](/cells/python-net/tr/aspose.cells.charts/dropbars)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`DropBars`](/cells/python-net/tr/aspose.cells.charts/dropbars)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

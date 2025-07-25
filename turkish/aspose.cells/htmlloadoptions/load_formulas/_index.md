@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_formulas mülk
 
-Orijinal html dosyası formül içeriyorsa, formüllerin içe aktarılıp aktarılmayacağını belirtir
+Orijinal HTML dosyası formüller içeriyorsa formüllerin içe aktarılıp aktarılmayacağını belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

@@ -1,15 +1,15 @@
 ---
-title: pivot_table_style_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: pivot_table_style_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 740
+weight: 850
 url: /zh/aspose.cells.pivot/pivottable/pivot_table_style_name/
 is_root: false
 ---
-## pivot_table_style_name 属性
+## pivot_table_style_name属性
 
-获取和设置数据透视表样式名称。
+获取并设置数据透视表样式名称。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def pivot_table_style_name(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

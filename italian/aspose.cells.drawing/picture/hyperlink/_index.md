@@ -1,6 +1,6 @@
 ---
 title: hyperlink proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 570
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hyperlink proprietà
 
-Ottiene lo hyperlink della forma.
+Ottiene il hyperlink della forma.
 
 ###  Esempio
 

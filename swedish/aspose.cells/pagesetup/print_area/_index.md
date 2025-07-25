@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_area fastighet
 
-Representerar intervallet som ska skrivas ut.
+Representerar det område som ska skrivas ut.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_area(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

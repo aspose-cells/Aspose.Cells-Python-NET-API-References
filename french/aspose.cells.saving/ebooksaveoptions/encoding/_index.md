@@ -3,13 +3,13 @@ title: encoding propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 200
 url: /fr/aspose.cells.saving/ebooksaveoptions/encoding/
 is_root: false
 ---
 ##  encoding propriété
 
-S’il n’est pas défini, utilisez Encoding.UTF8 comme type d’encodage par défaut.
+S'il n'est pas défini, utilisez Encoding.UTF8 comme type d'encodage par défaut.
 ###  Définition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: MergeEmptyTdType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2330
+weight: 2290
 url: /zh/aspose.cells/mergeemptytdtype/
 is_root: false
 ---
@@ -14,12 +14,12 @@ is_root: false
 
 MergeEmptyTdType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | DEFAULT |像 MS Excel 一样显示。|
-| NONE |将文件导出为 html 时，不会合并空 TD 元素。<br/>这将生成一个明显更大的 html 文件。|
-| MERGE_FORCELY |将文件导出为 html 时强制合并空 TD 元素。<br/>设置值为 true 后，html 文件的大小将显着减小。<br/>如果您想将html文件导入excel或在将文件保存为html时导出完美的网格线，<br/>请保留默认值。|
+| NONE |将文件导出为 html 时，空的 TD 元素将不会被合并。<br/>这将生成一个大得多的 html 文件。|
+| MERGE_FORCELY |将文件导出为 html 时强制合并空的 TD 元素。<br/>将值设置为 true 后，html 文件的大小将明显减小。<br/>如果您想将 html 文件导入到 excel 或在将文件保存为 html 时导出完美的网格线，<br/>请保留默认值。|
 
 
 

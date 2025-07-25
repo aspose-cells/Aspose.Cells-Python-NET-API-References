@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/externallinkcollection/add/
 is_root: false
 ---
-##  add(file_name, sheet_names) {#str-list}
-يضيف ارتباط خارجي.
+##  add(self, file_name, sheet_names) {#str-list}
+إضافة رابط خارجي.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, file_name, sheet_names):
     ...
 ```
@@ -25,11 +26,11 @@ def add(self, file_name, sheet_names):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | file_name | str | اسم الملف الخارجي.|
-| sheet_names | list | جميع أسماء أوراق الملف الخارجي.|
+| sheet_names | list | جميع أسماء الأوراق الخاصة بالملف الخارجي.|
 
 
-##  add(directory_type, file_name, sheet_names) {#DirectoryType-str-list}
-أضف ارتباطًا خارجيًا.
+##  add(self, directory_type, file_name, sheet_names) {#aspose.cells.DirectoryType-str-list}
+أضف رابط خارجي .
 
 
 ###  عائدات
@@ -38,6 +39,7 @@ def add(self, file_name, sheet_names):
 
 
 ```python
+
 def add(self, directory_type, file_name, sheet_names):
     ...
 ```
@@ -45,12 +47,12 @@ def add(self, directory_type, file_name, sheet_names):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| directory_type | [DirectoryType](/cells/python-net/ar/aspose.cells/directorytype) |نوع الدليل لاسم الملف.|
+| directory_type | [`DirectoryType`](/cells/python-net/ar/aspose.cells/directorytype) | نوع الدليل لاسم الملف.|
 | file_name | str | اسم الملف.|
-| sheet_names | list | جميع أسماء أوراق الملف الخارجي.|
+| sheet_names | list | جميع أسماء الأوراق الخاصة بالملف الخارجي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ExternalLinkCollection](/cells/python-net/ar/aspose.cells/externallinkcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ExternalLinkCollection`](/cells/python-net/ar/aspose.cells/externallinkcollection)

@@ -1,14 +1,14 @@
 ---
 title: TextCapsType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2620
+weight: 2590
 url: /ru/aspose.cells/textcapstype/
 is_root: false
 ---
 ##  TextCapsType перечисление
-Этот тип определяет типы окончания текста.
+Этот тип определяет типы заглавных букв текста.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Нет шапок|
-| ALL | Примените к тексту все заглавные буквы.|
-| SMALL | Нанесите на текст маленькие прописные буквы.|
+| NONE | Нет заглавных букв|
+| ALL | Используйте в тексте все заглавные буквы.|
+| SMALL | Используйте в тексте заглавные буквы.|
 
 
 

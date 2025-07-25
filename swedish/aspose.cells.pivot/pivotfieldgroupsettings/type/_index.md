@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar gruppen type av pivotfält.
+Hämtar gruppen type av pivotfältet.
 ###  Definition:
 ```python
 @property

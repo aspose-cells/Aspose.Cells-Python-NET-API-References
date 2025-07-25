@@ -13,7 +13,7 @@ Ob nach der Füllfarbe der Zelle gefiltert werden soll.
 
 ###  Bemerkungen
 
-True: Füllfarbe der Zelle; Falsch: Schriftfarbe der Zelle.
+True: Füllfarbe der Zelle; False: Schriftfarbe der Zelle.
 ###  Definition:
 ```python
 @property

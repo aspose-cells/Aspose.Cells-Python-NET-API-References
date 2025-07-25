@@ -3,14 +3,14 @@ title: show_legend_key عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 480
 url: /ar/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
 ##  show_legend_key عقار
 
-يمثل سلوك عرض مفتاح وسيلة إيضاح تسمية البيانات الخاصة بالمخطط المحدد.
-صحيح إذا كان مفتاح وسيلة إيضاح تسمية البيانات مرئيًا.
+يمثل سلوك عرض مفتاح تسمية بيانات الرسم البياني المحدد.
+صحيح إذا كان مفتاح أسطورة تسمية البيانات مرئيًا.
 ###  تعريف:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: sort_names proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 190
 url: /it/aspose.cells/markdownsaveoptions/sort_names/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sort_names(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [MarkdownSaveOptions](/cells/python-net/it/aspose.cells/markdownsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`MarkdownSaveOptions`](/cells/python-net/it/aspose.cells/markdownsaveoptions)

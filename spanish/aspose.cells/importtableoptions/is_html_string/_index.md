@@ -21,5 +21,5 @@ def is_html_string(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

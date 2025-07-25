@@ -1,6 +1,6 @@
 ---
 title: DigitalSignatureCollection类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
@@ -8,22 +8,22 @@ url: /zh/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
 ## DigitalSignatureCollection类
-提供附加到文档的数字签名的集合。
+提供附加到文档的数字签名集合。
 
 
 
-DigitalSignatureCollection 类型公开了以下成员：
+DigitalSignatureCollection 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |DigitalSignatureCollection 的构造函数。|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | DigitalSignatureCollection 的构造函数。|
 
 
 ### 方法
 |方法|描述|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) |向 DigitalSignatureCollection 添加一个签名。|
+| [`add(self, digital_signature)`](/cells/python-net/zh/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) |向 DigitalSignatureCollection 添加一个签名。|
 
 
 
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.digitalsignatures](..)
+* 模块[`aspose.cells.digitalsignatures`](..)

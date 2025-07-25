@@ -1,9 +1,9 @@
 ---
 title: QueryTable класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1270
+weight: 1160
 url: /ru/aspose.cells/querytable/
 is_root: false
 ---
@@ -18,8 +18,8 @@ is_root: false
 | Свойство| Описание|
 | :- | :- |
 | [connection_id](/cells/python-net/ru/aspose.cells/querytable/connection_id) | Получает идентификатор соединения таблицы запросов.|
-| [external_connection](/cells/python-net/ru/aspose.cells/querytable/external_connection) | Получает связанное внешнее соединение.|
-| [name](/cells/python-net/ru/aspose.cells/querytable/name) | Получает имя таблицы запросов.|
+| [external_connection](/cells/python-net/ru/aspose.cells/querytable/external_connection) | Получает соответствующее внешнее соединение.|
+| [name](/cells/python-net/ru/aspose.cells/querytable/name) |Получает имя таблицы запросов.|
 | [result_range](/cells/python-net/ru/aspose.cells/querytable/result_range) | Получает диапазон результата.|
 | [preserve_formatting](/cells/python-net/ru/aspose.cells/querytable/preserve_formatting) | Возвращает или задает PreserveFormatting объекта.|
 | [adjust_column_width](/cells/python-net/ru/aspose.cells/querytable/adjust_column_width) | Возвращает или задает AdjustColumnWidth объекта.|

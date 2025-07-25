@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  rotation_angle fastighet
 
-Representerar textrotationsvinkel.
+Representerar textens rotationsvinkel.
 
 ###  Anmärkningar
 
-0: Ej roterad.
+0: Inte roterad.
 
 
-255: Topp till botten.
+255: Från topp till botten.
 
 
 -90: Nedåt.
@@ -25,7 +25,7 @@ Representerar textrotationsvinkel.
 90: Uppåt.
 
 
-Du kan ställa in 255 eller ett värde från -90 till 90.
+Du kan ställa in 255 eller ett värde mellan -90 och 90.
 ###  Definition:
 ```python
 @property

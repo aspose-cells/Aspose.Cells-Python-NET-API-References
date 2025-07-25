@@ -3,7 +3,7 @@ title: is_blank propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 170
 url: /fr/aspose.cells/row/is_blank/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_blank(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Row](/cells/python-net/fr/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/fr/aspose.cells/row)

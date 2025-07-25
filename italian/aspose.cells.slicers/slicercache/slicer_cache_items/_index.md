@@ -1,6 +1,6 @@
 ---
 title: slicer_cache_items proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items proprietà
 
-Restituisce una raccolta SlicerCacheItem che contiene la raccolta di tutti gli elementi nella cache del filtro dei dati. Sola lettura
+Restituisce una raccolta SlicerCacheItem che contiene la raccolta di tutti gli elementi nella cache dello slicer. Di sola lettura
 
 ###  Esempio
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/it/aspose.cells.slicers/slicercache)
-* classe [SlicerCacheItemCollection](/cells/python-net/it/aspose.cells.slicers/slicercacheitemcollection)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/it/aspose.cells.slicers/slicercache)
+* classe [`SlicerCacheItemCollection`](/cells/python-net/it/aspose.cells.slicers/slicercacheitemcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_align_type propriété
 
-Détermine où verticalement sur une ligne de texte les mots réels sont positionnés. Cela traite
+Détermine la position verticale des mots sur une ligne de texte. Cela concerne
 avec placement vertical des caractères par rapport aux lignes de base.
 ###  Définition:
 ```python
@@ -22,6 +22,6 @@ def font_align_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextFontAlignType](/cells/python-net/fr/aspose.cells.drawing.texts/textfontaligntype)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextFontAlignType`](/cells/python-net/fr/aspose.cells.drawing.texts/textfontaligntype)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

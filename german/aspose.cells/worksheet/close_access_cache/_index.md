@@ -3,16 +3,17 @@ title: close_access_cache Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 110
 url: /de/aspose.cells/worksheet/close_access_cache/
 is_root: false
 ---
-##  close_access_cache(opts) {#AccessCacheOptions}
+##  close_access_cache(self, opts) {#aspose.cells.AccessCacheOptions}
 Schließt die Sitzung, die Caches verwendet, um auf die Daten in diesem Arbeitsblatt zuzugreifen.
 
 
 
 ```python
+
 def close_access_cache(self, opts):
     ...
 ```
@@ -20,10 +21,10 @@ def close_access_cache(self, opts):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| opts | [AccessCacheOptions](/cells/python-net/de/aspose.cells/accesscacheoptions) | Möglichkeiten des Datenzugriffs|
+| opts | [`AccessCacheOptions`](/cells/python-net/de/aspose.cells/accesscacheoptions) | Möglichkeiten des Datenzugriffs|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Worksheet](/cells/python-net/de/aspose.cells/worksheet)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

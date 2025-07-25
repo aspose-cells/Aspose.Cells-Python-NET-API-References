@@ -13,7 +13,7 @@ Obtiene y establece la cadena html que contiene datos y algunos formatos en este
 
 ###  Observaciones
 
-Si se trata de un comentario encadenado, la nota no se podrá cambiar; de lo contrario, MS Excel no podrá procesarla como un comentario encadenado.
+Si se trata de un comentario enhebrado, no se podrá modificar la nota; de lo contrario, MS Excel no podrá procesarla como un comentario enhebrado.
 
 ###  Ejemplo
 

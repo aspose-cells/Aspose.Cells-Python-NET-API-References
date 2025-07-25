@@ -3,7 +3,7 @@ title: show_formulas属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 760
+weight: 790
 url: /zh/aspose.cells/worksheet/show_formulas/
 is_root: false
 ---

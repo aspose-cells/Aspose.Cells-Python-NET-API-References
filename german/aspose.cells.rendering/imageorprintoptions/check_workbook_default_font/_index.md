@@ -10,12 +10,12 @@ is_root: false
 ##  check_workbook_default_font Eigentum
 
 Wenn Zeichen in Excel Unicode sind und nicht mit der richtigen Schriftart im Zellenstil festgelegt werden,
-Sie können als Block in PDF, Bild erscheinen.
-Setzen Sie dies auf „true“, um zu versuchen, die Standardschriftart der Arbeitsmappe zu verwenden, um diese Zeichen zuerst anzuzeigen.
+Sie können als Block in PDF oder Bild erscheinen.
+Setzen Sie dies auf „true“, um zu versuchen, diese Zeichen zuerst mit der Standardschriftart der Arbeitsmappe anzuzeigen.
 
 ###  Bemerkungen
 
-Standard ist wahr.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

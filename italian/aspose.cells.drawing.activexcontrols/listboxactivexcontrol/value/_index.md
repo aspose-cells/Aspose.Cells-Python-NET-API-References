@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 350
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  value proprietà
 
-Ottiene e imposta il numero value del controllo.
+Ottiene e imposta il valore value del controllo.
 
 ###  Osservazioni
 
-Ha effetto solo quando [ListBoxActiveXControl.selection_type](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) è SelectionType.Single;
+Ha effetto solo quando [`ListBoxActiveXControl.selection_type`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) è SelectionType.Single;
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

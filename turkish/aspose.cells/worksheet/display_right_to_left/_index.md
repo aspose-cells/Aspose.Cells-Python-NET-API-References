@@ -3,14 +3,14 @@ title: display_right_to_left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 470
+weight: 490
 url: /tr/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
 ##  display_right_to_left mülk
 
-Belirtilen çalışma sayfasının soldan sağa yerine sağdan sola görüntülenip görüntülenmediğini belirtir.
-Varsayılan yanlıştır.
+Belirtilen çalışma sayfasının soldan sağa yerine sağdan sola görüntülenip görüntülenmeyeceğini belirtir.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

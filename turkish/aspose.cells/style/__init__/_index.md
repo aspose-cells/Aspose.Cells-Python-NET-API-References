@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/style/__init__/
 is_root: false
 ---
-##  Style() {#}
-[Style](/cells/python-net/tr/aspose.cells/style) sınıfının yeni bir örneğini başlatır.
+##  \_\_init\_\_(kendi){#}
+[`Style`](/cells/python-net/tr/aspose.cells/style) sınıfının yeni bir örneğini başlatır.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,12 @@ def __init__(self):
 
 ###  Notlar
 
-NOT: Bu yapıcı artık kullanılmıyor.
-Bunun yerine lütfen CellsFactory.CreateStyle() yöntemini kullanın.
- Bu mülk, Ekim 2016'dan bu yana 6 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+NOT: Bu oluşturucu artık kullanımdan kaldırıldı.
+Bunun yerine lütfen CellsFactory.CreateStyle() metodunu kullanın.
+ Bu özellik Ekim 2016'dan itibaren 6 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

@@ -3,13 +3,13 @@ title: table_style_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 300
 url: /fr/aspose.cells.tables/listobject/table_style_type/
 is_root: false
 ---
 ##  table_style_type propriété
 
-Gets et le style de tableau intégré.
+Obtient et le style de table intégré.
 
 ###  Exemple
 
@@ -36,6 +36,6 @@ def table_style_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [ListObject](/cells/python-net/fr/aspose.cells.tables/listobject)
-* classe [TableStyleType](/cells/python-net/fr/aspose.cells.tables/tablestyletype)
+* module [`aspose.cells.tables`](../../)
+* classe [`ListObject`](/cells/python-net/fr/aspose.cells.tables/listobject)
+* classe [`TableStyleType`](/cells/python-net/fr/aspose.cells.tables/tablestyletype)

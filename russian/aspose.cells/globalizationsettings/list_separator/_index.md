@@ -1,6 +1,6 @@
 ---
 title: list_separator недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 320
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator недвижимость
 
-Получает разделитель для списка, параметров функции и т. д.
+Получает разделитель для списка, параметров функции и т. д.
 ###  Определение:
 ```python
 @property

@@ -3,13 +3,13 @@ title: line属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 830
+weight: 850
 url: /zh/aspose.cells.drawing/picture/line/
 is_root: false
 ---
 ## line属性
 
-获取line样式
+获取 line 样式
 
 ### 例子
 

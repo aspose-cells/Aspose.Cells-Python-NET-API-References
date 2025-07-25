@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin mülk
 
-Kenar boşluğunun otomatik olarak hesaplanıp hesaplanmadığını gösterir.
+Marjın otomatik hesaplanıp hesaplanmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoTextFrame](/cells/python-net/tr/aspose.cells.drawing/msotextframe)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoTextFrame`](/cells/python-net/tr/aspose.cells.drawing/msotextframe)

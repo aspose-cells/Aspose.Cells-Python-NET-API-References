@@ -1,6 +1,6 @@
 ---
 title: TableStyle класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип TableStyle предоставляет следующие члены:
+Тип TableStyle предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](..)
+* модуль [`aspose.cells.tables`](..)

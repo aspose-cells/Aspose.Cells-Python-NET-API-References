@@ -1,15 +1,15 @@
 ---
-title: comments الملكية
+title: comments عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/comments/
 is_root: false
 ---
-##  comments الملكية
+##  comments عقار
 
-الحصول على أو تحديد الوثيقة comments.
+يحصل على المستند comments أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def comments(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

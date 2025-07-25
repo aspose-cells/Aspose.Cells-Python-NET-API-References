@@ -1,18 +1,19 @@
 ---
-title: metodo intersect
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo intersect
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 40
 url: /it/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
+##  intersect(self, range) {#str}
 Interseca un altro intervallo.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -23,15 +24,16 @@ def intersect(self, range):
 | range | str | La gamma.|
 ###  Osservazioni
 
-Se i due intervalli di unione non sono intersecati, restituisce null.
+Se i due intervalli di unione non si intersecano, restituisce null.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
 Interseca un altro intervallo.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/it/aspose.cells/unionrange) | La gamma.|
+| union_range | [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange) | La gamma.|
 ###  Osservazioni
 
-Se i due intervalli di unione non sono intersecati, restituisce null.
+Se i due intervalli di unione non si intersecano, restituisce null.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
 Interseca un altro intervallo.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -61,10 +64,10 @@ def intersect(self, ranges):
 | ranges | list | La gamma.|
 ###  Osservazioni
 
-Se i due intervalli di unione non sono intersecati, restituisce null.
+Se i due intervalli di unione non si intersecano, restituisce null.
 
 
 ###  Guarda anche
 
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

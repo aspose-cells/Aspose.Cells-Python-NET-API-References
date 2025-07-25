@@ -1,13 +1,13 @@
 ---
 title: extension_to_save_format方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
-##  extension_to_save_format(extension) {#str}
+##  extension_to_save_format（分机号）{#str}
 将文件扩展名转换为 SaveFormat 值。
 
 
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 
@@ -25,12 +27,12 @@ def extension_to_save_format(self, extension):
 |范围|类型|描述|
 | :- | :- | :- |
 | extension | str |文件扩展名。可以带或不带前导点。不区分大小写。|
-### 评论
+### 注意事项
 
-如果分机无法识别，返回[SaveFormat.UNKNOWN](/cells/python-net/zh/aspose.cells/saveformat#UNKNOWN)。
+如果无法识别扩展，则返回 [`SaveFormat.UNKNOWN`](/cells/python-net/zh/aspose.cells/saveformat#UNKNOWN)。
 
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [FileFormatUtil](/cells/python-net/zh/aspose.cells/fileformatutil)
+* 模块[`aspose.cells`](../../)
+* 类 [`FileFormatUtil`](/cells/python-net/zh/aspose.cells/fileformatutil)

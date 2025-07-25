@@ -8,19 +8,19 @@ url: /zh/aspose.cells.charts/crosstype/
 is_root: false
 ---
 ## CrossType枚举
-代表轴交叉类型。
+表示轴十字类型。
 
 
 
 CrossType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | AUTOMATIC | Microsoft Excel 设置轴交叉点。|
 | MAXIMUM |轴在最大值处相交。|
 | MINIMUM |轴在最小值处相交。|
-| CUSTOM |轴在自定义值处交叉。|
+| CUSTOM |轴与自定义值相交。|
 
 
 

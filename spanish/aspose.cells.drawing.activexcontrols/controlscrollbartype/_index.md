@@ -3,7 +3,7 @@ title: ControlScrollBarType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 220
 url: /es/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ El tipo ControlScrollBarType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | No muestra barras de desplazamiento.|
+| NONE |No muestra barras de desplazamiento.|
 | HORIZONTAL | Muestra una barra de desplazamiento horizontal.|
 | BARS_VERTICAL | Muestra una barra de desplazamiento vertical.|
 | BARS_BOTH | Muestra una barra de desplazamiento horizontal y vertical.|
@@ -25,4 +25,4 @@ El tipo ControlScrollBarType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

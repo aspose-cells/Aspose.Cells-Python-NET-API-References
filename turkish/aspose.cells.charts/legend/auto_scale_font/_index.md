@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font mülk
 
-Nesne boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişirse doğrudur. Varsayılan değer Doğru'dur.
+Nesnenin boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişiyorsa True değeri geçerlidir. Varsayılan değer True'dur.
 ###  Tanım:
 ```python
 @property

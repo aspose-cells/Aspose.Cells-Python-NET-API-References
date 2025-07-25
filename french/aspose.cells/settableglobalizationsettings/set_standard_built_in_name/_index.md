@@ -7,12 +7,13 @@ weight: 370
 url: /fr/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/
 is_root: false
 ---
-##  set_standard_built_in_name {#str-str-bool}
-Définit le nom de la fonction dépendant des paramètres régionaux en fonction du nom de la fonction standard donné.
+##  set_standard_built_in_name(self, local_name, standard_name, bidirectional) {#str-str-bool}
+Définit le nom de la fonction dépendant des paramètres régionaux en fonction du nom de fonction standard donné.
 
 
 
 ```python
+
 def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
     ...
 ```
@@ -20,9 +21,9 @@ def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| local_name | str | Nom de la fonction dépendant des paramètres régionaux|
-| standard_name | str | Nom de la fonction standard (locale en-US).|
-| bidirectional | bool | Permet de mapper automatiquement le texte du nom standard au texte du nom local.<br/>Si c'est vrai, le texte du nom standard sera automatiquement mappé au texte du nom local.<br/>l'utilisateur n'a donc pas besoin d'appeler à nouveau le [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/fr/aspose.cells/settableglobalizationsettings/set_local_built_in_name)<br/> pour la même paire de noms standard et locaux|
+| local_name | str | Nom de fonction dépendant des paramètres régionaux|
+| standard_name | str | Nom de fonction standard (locale en-US).|
+| bidirectional | bool | Si le texte du nom standard doit être mappé automatiquement au texte du nom local.<br/>Si vrai, le texte du nom standard sera automatiquement mappé au texte du nom local<br/>l'utilisateur n'a donc pas besoin d'appeler à nouveau le [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/fr/aspose.cells/settableglobalizationsettings/set_local_built_in_name)<br/> pour la même paire de noms standard et locaux|
 
 
 

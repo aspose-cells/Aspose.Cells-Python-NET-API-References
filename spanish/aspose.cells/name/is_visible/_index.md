@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

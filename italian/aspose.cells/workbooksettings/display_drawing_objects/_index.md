@@ -1,15 +1,15 @@
 ---
 title: display_drawing_objects proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 190
 url: /it/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---
 ##  display_drawing_objects proprietà
 
-Indica se e come mostrare gli oggetti nella cartella di lavoro.
+Indica se e come visualizzare gli oggetti nella cartella di lavoro.
 ###  Definizione:
 ```python
 @property

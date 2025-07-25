@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator mülk
 
-Veri doğrulama için operator'i temsil eder.
+Veri doğrulaması için operator'i temsil eder.
 ###  Tanım:
 ```python
 @property

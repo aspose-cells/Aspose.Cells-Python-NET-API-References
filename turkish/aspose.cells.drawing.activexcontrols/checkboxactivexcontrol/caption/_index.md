@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption mülk
 
-Bir denetimde görünen açıklayıcı metni alır ve ayarlar.
+Bir kontrolde görünen açıklayıcı metni alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

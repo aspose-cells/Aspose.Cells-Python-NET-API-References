@@ -1,13 +1,13 @@
 ---
-title: RectangleAlignmentType dénombrement
+title: RectangleAlignmentType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1110
+weight: 1100
 url: /fr/aspose.cells.drawing/rectanglealignmenttype/
 is_root: false
 ---
-##  RectangleAlignmentType dénombrement
+##  RectangleAlignmentType énumération
 Représente comment positionner deux rectangles l'un par rapport à l'autre.
 
 
@@ -30,4 +30,4 @@ Le type RectangleAlignmentType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

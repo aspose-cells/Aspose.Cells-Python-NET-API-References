@@ -13,8 +13,8 @@ Genişletilmiş sayfalar için tekrarlanacak başlık sütunlarının sayısı.
 
 ###  Notlar
 
-Bu özellik tarafından belirtilen başlık sütunları, bu genişletilmiş sayfalar için çoğaltılacaktır.
-Bu özellik yalnızca [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/tr/aspose.cells/txtloadoptions#extend_to_next_sheet) doğru olduğunda etkili olur.
+Bu özellik tarafından belirtilen başlık sütunları, genişletilmiş sayfalar için çoğaltılacaktır.
+Bu özellik yalnızca [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/tr/aspose.cells/txtloadoptions#extend_to_next_sheet) doğru olduğunda geçerli olur.
 ###  Tanım:
 ```python
 @property

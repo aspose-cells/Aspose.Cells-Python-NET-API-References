@@ -3,13 +3,13 @@ title: dpi Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 250
 url: /de/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
 ##  dpi Eigentum
 
-Ruft die DPI des Computers ab.
+Ruft die DPI der Maschine ab.
 
 ###  Bemerkungen
 
@@ -19,8 +19,8 @@ Ruft die DPI des Computers ab.
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

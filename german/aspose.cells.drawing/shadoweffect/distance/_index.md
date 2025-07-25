@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance Eigentum
 
-Ruft die distance des Schattens ab und setzt sie. Bereich von 0 bis 200 Punkten.
+Ruft den distance des Schattens ab und legt ihn fest. Bereich von 0 bis 200 Punkten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

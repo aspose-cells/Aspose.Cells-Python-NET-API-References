@@ -3,7 +3,7 @@ title: int_value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 550
 url: /fr/aspose.cells/cell/int_value/
 is_root: false
 ---

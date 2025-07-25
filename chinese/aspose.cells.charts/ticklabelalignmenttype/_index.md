@@ -14,8 +14,8 @@ is_root: false
 
 TickLabelAlignmentType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | CENTER |表示文本应居中。|
 | LEFT |表示文本应左对齐。|

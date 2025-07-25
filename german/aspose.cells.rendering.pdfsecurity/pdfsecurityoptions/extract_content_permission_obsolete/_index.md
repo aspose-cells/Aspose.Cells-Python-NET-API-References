@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete Eigentum
 
-Die Erlaubnis zum Kopieren oder Extrahieren von Inhalten ist laut Referenz PDF veraltet.
+Berechtigung zum Kopieren oder Extrahieren von Inhalten. Veraltet gemäß Referenz PDF.
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie die ExtractContentPermission-Eigenschaft.
- Diese Immobilie wird seit September 2023 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Eigenschaft ExtractContentPermission.
+ Diese Eigenschaft wird 12 Monate später (ab September 2023) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

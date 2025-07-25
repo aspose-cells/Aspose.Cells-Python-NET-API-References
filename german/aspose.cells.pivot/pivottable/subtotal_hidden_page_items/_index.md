@@ -3,15 +3,15 @@ title: subtotal_hidden_page_items Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1000
+weight: 1150
 url: /de/aspose.cells.pivot/pivottable/subtotal_hidden_page_items/
 is_root: false
 ---
 ##  subtotal_hidden_page_items Eigentum
 
-Gibt an, ob Seitenfeldelemente im PivotTable-Bericht ausgeblendet sind
+Gibt an, ob ausgeblendete Seitenfeldelemente im PivotTable-Bericht
 sind in Zeilen- und Spaltenzwischensummen, Blocksummen und Gesamtsummen enthalten.
-Der Standardwert ist False.
+Der Standardwert ist „False“.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def subtotal_hidden_page_items(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

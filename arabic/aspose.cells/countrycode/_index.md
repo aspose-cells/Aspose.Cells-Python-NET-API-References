@@ -3,12 +3,12 @@ title: CountryCode التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /ar/aspose.cells/countrycode/
 is_root: false
 ---
 ##  CountryCode التعداد
-يمثل معرفات البلد في Excel.
+يمثل معرفات بلد Excel.
 
 
 
@@ -20,7 +20,7 @@ is_root: false
 | DEFAULT |  |
 | USA | الولايات المتحدة|
 | CANADA | كندا|
-| LATIN_AMERIC | أمريكا اللاتينية باستثناء البرازيل|
+| LATIN_AMERIC | أمريكا اللاتينية، باستثناء البرازيل|
 | RUSSIA | روسيا|
 | EGYPT | مصر|
 | GREECE | اليونان|
@@ -34,7 +34,7 @@ is_root: false
 | AUSTRIA | النمسا|
 | UNITED_KINGDOM | المملكة المتحدة|
 | DENMARK | الدنمارك|
-| SWEDEN | السويد|
+| SWEDEN |السويد|
 | NORWAY | النرويج|
 | POLAND | بولندا|
 | GERMANY | ألمانيا|
@@ -51,7 +51,7 @@ is_root: false
 | INDIA | الهند|
 | ALGERIA | الجزائر|
 | MOROCCO | المغرب|
-| LIBYA |ليبيا|
+| LIBYA | ليبيا|
 | PORTUGAL | البرتغال|
 | ICELAND | أيسلندا|
 | FINLAND | فنلندا|
@@ -65,7 +65,7 @@ is_root: false
 | SAUDI | المملكة العربية السعودية|
 | UNITED_ARAB_EMIRATES | الإمارات العربية المتحدة|
 | ISRAEL | إسرائيل|
-| QATAR | دولة قطر|
+| QATAR | قطر|
 | IRAN | إيران|
 
 

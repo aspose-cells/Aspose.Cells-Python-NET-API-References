@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data Eigentum
 
-Ruft einen Wert ab oder legt diesen fest, der angibt, ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Zeichenfolge in der Textdatei in numerische Daten konvertiert wird.
 ###  Definition:
 ```python
 @property

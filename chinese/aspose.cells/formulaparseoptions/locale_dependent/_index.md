@@ -9,7 +9,7 @@ is_root: false
 ---
 ## locale_dependent属性
 
-公式是否采用区域设置格式。默认为 false。
+公式是否采用语言环境格式。默认值为 false。
 ### 定义：
 ```python
 @property

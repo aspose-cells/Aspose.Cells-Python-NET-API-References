@@ -7,8 +7,8 @@ weight: 70
 url: /sv/aspose.cells.charts/seriescollection/get_series_by_order/
 is_root: false
 ---
-##  get_series_by_order(order) {#int}
-Hämtar elementet [Series](/cells/python-net/sv/aspose.cells.charts/series) efter beställning.
+##  get_series_by_order(self, order) {#int}
+Hämtar elementet [`Series`](/cells/python-net/sv/aspose.cells.charts/series) enligt order.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Elementserien
 
 
 ```python
+
 def get_series_by_order(self, order):
     ...
 ```
@@ -29,6 +30,6 @@ def get_series_by_order(self, order):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
-* klass [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)
+* klass [`SeriesCollection`](/cells/python-net/sv/aspose.cells.charts/seriescollection)

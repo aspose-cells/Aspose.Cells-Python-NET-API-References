@@ -1,6 +1,6 @@
 ---
 title: number_format_linked proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  number_format_linked proprietà
 
- Vero se il formato numero è collegato alle celle
-(in modo che il formato del numero cambi nelle etichette quando cambia nelle celle).
+ Vero se il formato numerico è collegato alle celle
+(in modo che il formato dei numeri cambi nelle etichette quando cambia nelle celle).
 ###  Definizione:
 ```python
 @property

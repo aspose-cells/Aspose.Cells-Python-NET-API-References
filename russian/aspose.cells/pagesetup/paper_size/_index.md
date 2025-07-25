@@ -1,6 +1,6 @@
 ---
 title: paper_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 490
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_size недвижимость
 
-Представляет размер бумаги.
+Обозначает размер бумаги.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def paper_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
-* класс [PaperSizeType](/cells/python-net/ru/aspose.cells/papersizetype)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)
+* класс [`PaperSizeType`](/cells/python-net/ru/aspose.cells/papersizetype)

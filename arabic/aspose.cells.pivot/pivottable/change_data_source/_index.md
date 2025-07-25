@@ -7,13 +7,13 @@ weight: 60
 url: /ar/aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
-##  change_data_source(source) {#list}
-تعيين مصدر البيانات المحورية.
-الورقة 1! $ A $ 1: $ C $ 3
+##  change_data_source(self, source) {#list}
+تعيين بيانات المصدر لجدول محوري.
 
 
 
 ```python
+
 def change_data_source(self, source):
     ...
 ```
@@ -26,5 +26,5 @@ def change_data_source(self, source):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

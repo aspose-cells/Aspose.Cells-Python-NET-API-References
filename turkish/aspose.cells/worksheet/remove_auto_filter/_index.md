@@ -3,16 +3,17 @@ title: remove_auto_filter yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 260
 url: /tr/aspose.cells/worksheet/remove_auto_filter/
 is_root: false
 ---
-##  remove_auto_filter {#}
+##  remove_auto_filter(self) {#}
 Çalışma sayfasının otomatik filtresini kaldırır.
 
 
 
 ```python
+
 def remove_auto_filter(self):
     ...
 ```

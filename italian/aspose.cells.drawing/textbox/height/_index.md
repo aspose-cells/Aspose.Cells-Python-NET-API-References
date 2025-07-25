@@ -1,15 +1,15 @@
 ---
 title: height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 430
 url: /it/aspose.cells.drawing/textbox/height/
 is_root: false
 ---
 ##  height proprietà
 
-Rappresenta lo height di forma, in unità di pixel.
+Rappresenta la forma height, in unità di pixel.
 
 ###  Esempio
 

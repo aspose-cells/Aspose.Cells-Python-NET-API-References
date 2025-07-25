@@ -1,5 +1,5 @@
 ---
-title: has_format_3d método
+title: método has_format_3d
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 50
 url: /es/aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
-##  has_format_3d() {#}
-Indica si la forma tiene datos de formato 3d.
+##  has_format_3d(self) {#}
+Indica si la forma tiene datos en formato 3D.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Indica si la forma tiene datos de formato 3d.
 
 
 ```python
+
 def has_format_3d(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_format_3d(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapePropertyCollection](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapePropertyCollection`](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)

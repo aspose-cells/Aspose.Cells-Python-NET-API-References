@@ -3,7 +3,7 @@ title: LineJoinType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 930
 url: /sv/aspose.cells.drawing/linejointype/
 is_root: false
 ---
@@ -17,12 +17,12 @@ Typen LineJoinType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| ROUND | Rund led|
-| BEVEL | Fasfog|
+| ROUND | Rundfog|
+| BEVEL | Avfasad fog|
 | MITER | Geringsfog|
-| NONE | Ingen led|
+| NONE | Ingen fog|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

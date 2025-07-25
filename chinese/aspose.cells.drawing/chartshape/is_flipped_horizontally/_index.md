@@ -3,13 +3,13 @@ title: is_flipped_horizontally属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 560
+weight: 570
 url: /zh/aspose.cells.drawing/chartshape/is_flipped_horizontally/
 is_root: false
 ---
 ## is_flipped_horizontally属性
 
-获取并设置形状是否水平翻转。
+获取或设置形状是否水平翻转。
 
 ### 例子
 

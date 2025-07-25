@@ -1,19 +1,19 @@
 ---
 title: show_tabs недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 460
+weight: 490
 url: /ru/aspose.cells/workbooksettings/show_tabs/
 is_root: false
 ---
 ##  show_tabs недвижимость
 
-Получает или задает значение, отображаются ли вкладки книги.
+Получить или задать значение, указывающее, отображаются ли вкладки рабочей книги.
 
 ###  Примечания
 
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 
 ###  Пример
 

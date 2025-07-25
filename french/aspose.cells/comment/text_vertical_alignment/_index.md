@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_vertical_alignment propriété
 
-Obtient et définit le type d’alignement vertical du texte du commentaire.
+Obtient et définit le type d'alignement vertical du texte du commentaire.
 
 ###  Exemple
 

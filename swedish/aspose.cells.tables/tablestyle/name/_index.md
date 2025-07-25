@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Får name av bordsstil.
+Hämtar name för tabellstil.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableStyle](/cells/python-net/sv/aspose.cells.tables/tablestyle)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableStyle`](/cells/python-net/sv/aspose.cells.tables/tablestyle)

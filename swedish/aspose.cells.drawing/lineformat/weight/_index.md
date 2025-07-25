@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight fastighet
 
-Hämtar eller ställer in linjens weight i poängenhet.
+Hämtar eller ställer in weight för linjen i enhet punkter.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

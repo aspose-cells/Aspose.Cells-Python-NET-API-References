@@ -7,11 +7,11 @@ weight: 10
 url: /de/aspose.cells.settings/
 is_root: false
 ---
- Der**Aspose.Cells.Settings** Namespace enthält Klassen, die Einstellungen für verschiedene Funktionen definieren.
+ Der**Aspose.Cells.Settings** Der Namespace enthält Klassen, die Einstellungen für verschiedene Funktionen definieren.
 
 ###  Klassen
 | Klasse| Beschreibung|
 | :- | :- |
-| [PivotGlobalizationSettings](/cells/python-net/de/aspose.cells.settings/pivotglobalizationsettings) | Stellt die Globalisierungseinstellungen für Pivot-Tabellen dar.|
+| [`PivotGlobalizationSettings`](/cells/python-net/de/aspose.cells.settings/pivotglobalizationsettings) | Stellt die Globalisierungseinstellungen für Pivot-Tabellen dar.|
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapse mülk
 
-Bu özellik doğru olduğunda, yer imi kaydı çöker, aksi halde genişler.
+Bu özellik doğru olduğunda yer imleri kenti çöker, aksi takdirde genişler.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapse(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PdfBookmarkEntry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PdfBookmarkEntry`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)

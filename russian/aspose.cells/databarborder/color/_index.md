@@ -1,6 +1,6 @@
 ---
 title: color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color недвижимость
 
-Получает или задает границы color гистограмм, заданных правилом условного форматирования.
+Возвращает или задает границу color столбцов данных, заданных правилом условного форматирования.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataBarBorder](/cells/python-net/ru/aspose.cells/databarborder)
+* модуль [`aspose.cells`](../../)
+* класс [`DataBarBorder`](/cells/python-net/ru/aspose.cells/databarborder)

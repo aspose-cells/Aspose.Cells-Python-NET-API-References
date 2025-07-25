@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_index fastighet
 
-Hämtar och ställer in kolumnoffset i intervallet.
+Hämtar och ställer in kolumnförskjutningen i intervallet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def field_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FilterColumn](/cells/python-net/sv/aspose.cells/filtercolumn)
+* modul [`aspose.cells`](../../)
+* klass [`FilterColumn`](/cells/python-net/sv/aspose.cells/filtercolumn)

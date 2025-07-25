@@ -3,13 +3,13 @@ title: error_check_options propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 490
+weight: 510
 url: /fr/aspose.cells/worksheet/error_check_options/
 is_root: false
 ---
 ##  error_check_options propriété
 
-Obtient le paramètre de vérification des erreurs appliqué à certaines plages.
+Obtient le paramètre de vérification des erreurs appliqué sur certaines plages.
 ###  Définition:
 ```python
 @property

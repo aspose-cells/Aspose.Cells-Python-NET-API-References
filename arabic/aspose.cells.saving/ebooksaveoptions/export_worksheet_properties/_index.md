@@ -3,14 +3,14 @@ title: export_worksheet_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 450
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_worksheet_properties/
 is_root: false
 ---
 ##  export_worksheet_properties عقار
 
-الإشارة إلى ما إذا كان سيتم تصدير خصائص ورقة العمل أم لا. القيمة الافتراضية صحيحة. إذا كنت تريد الاستيراد
-ملف html أو mht للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
+ يشير إلى ما إذا كان يتم تصدير خصائص ورقة العمل. القيمة الافتراضية هي true. إذا كنت تريد الاستيراد
+ملف html أو mht إلى excel، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property

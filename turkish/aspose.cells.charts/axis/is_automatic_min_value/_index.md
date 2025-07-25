@@ -3,13 +3,13 @@ title: is_automatic_min_value mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells.charts/axis/is_automatic_min_value/
 is_root: false
 ---
 ##  is_automatic_min_value mülk
 
-Min değerinin otomatik olarak atanıp atanmadığını gösterir.
+Minimum değerin otomatik olarak atanıp atanmadığını belirtir.
 ###  Tanım:
 ```python
 @property

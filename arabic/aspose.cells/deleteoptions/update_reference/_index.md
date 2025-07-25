@@ -1,5 +1,5 @@
 ---
-title: update_reference الملكية
+title: update_reference عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/deleteoptions/update_reference/
 is_root: false
 ---
-##  update_reference الملكية
+##  update_reference عقار
 
 يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.
 ###  تعريف:
@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DeleteOptions](/cells/python-net/ar/aspose.cells/deleteoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DeleteOptions`](/cells/python-net/ar/aspose.cells/deleteoptions)

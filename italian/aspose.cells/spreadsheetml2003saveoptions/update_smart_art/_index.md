@@ -1,20 +1,20 @@
 ---
 title: update_smart_art proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 160
 url: /it/aspose.cells/spreadsheetml2003saveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art proprietà
 
-Indica se aggiornare l'impostazione della grafica intelligente.
+Indica se aggiornare l'impostazione SmartArt.
 Il valore predefinito è falso.
 
 ###  Osservazioni
 
-Nel file modello esistono solo gli effetti dopo la chiamata al metodo Shape.GetResultOfSmartArt() e le forme memorizzate nella cache.
+Nel file modello sono presenti solo gli effetti successivi alla chiamata del metodo Shape.GetResultOfSmartArt() e le forme memorizzate nella cache.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def update_smart_art(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SpreadsheetML2003SaveOptions](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`SpreadsheetML2003SaveOptions`](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)

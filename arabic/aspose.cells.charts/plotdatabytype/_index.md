@@ -1,5 +1,5 @@
 ---
-title: العد PlotDataByType
+title: PlotDataByType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 580
 url: /ar/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
-##  العد PlotDataByType
-يمثل نوع مخطط البيانات حسب الصف أو العمود.
+##  PlotDataByType التعداد
+يمثل نوع رسم البيانات حسب الصف أو العمود.
 
 
 
-يكشف نوع PlotDataByType الأعضاء التالية:
+يكشف النوع PlotDataByType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ROW | بالصف.|
+| ROW | حسب الصف.|
 | COLUMN | حسب العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

@@ -1,15 +1,15 @@
 ---
 title: position недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 360
 url: /ru/aspose.cells.charts/legend/position/
 is_root: false
 ---
 ##  position недвижимость
 
-Получает или задает тип легенды position.
+Возвращает или задает тип легенды position.
 
 ###  Примечания
 

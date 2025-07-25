@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  start_row propriété
 
-Obtient ou définit la ligne de début de cette zone.
+Obtient ou définit la ligne de départ de cette zone.
+###  Définition:
+```python
+f start_row 
+```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)

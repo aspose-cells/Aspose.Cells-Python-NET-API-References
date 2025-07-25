@@ -1,9 +1,9 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 210
 url: /ru/aspose.cells.drawing.activexcontrols/unknowncontrol/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ControlType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controltype)
-* класс [UnknownControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ControlType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/controltype)
+* класс [`UnknownControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/unknowncontrol)

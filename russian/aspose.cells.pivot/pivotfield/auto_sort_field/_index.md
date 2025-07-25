@@ -1,16 +1,16 @@
 ---
 title: auto_sort_field недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 280
 url: /ru/aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
 ##  auto_sort_field недвижимость
 
- Представляет индекс поля автосортировки.
--1 означает сам PivotField, другие — положение полей данных.
+ Представляет индекс поля, которое сортируется автоматически.
+-1 означает само PivotField, остальные означают положение полей данных.
 ###  Определение:
 ```python
 @property

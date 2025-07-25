@@ -3,16 +3,17 @@ title: ungroup方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 240
 url: /zh/aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---
-##  ungroup {#}
-取消枢轴字段的分组。
+##  ungroup(self) {#}
+取消数据透视字段的分组。
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

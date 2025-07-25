@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  cross_filter_type propriété
 
-Renvoie ou définit si un segment participe au filtrage croisé avec d'autres segments
-qui partagent le même cache de trancheur et comment le filtrage croisé est affiché. Lire écrire
+Renvoie ou définit si un slicer participe au filtrage croisé avec d'autres slicers
+qui partagent le même cache de découpage et la façon dont le filtrage croisé est affiché. Lecture/écriture
 ###  Définition:
 ```python
 @property
@@ -22,6 +22,6 @@ def cross_filter_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/fr/aspose.cells.slicers/slicercache)
-* classe [SlicerCacheCrossFilterType](/cells/python-net/fr/aspose.cells.slicers/slicercachecrossfiltertype)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/fr/aspose.cells.slicers/slicercache)
+* classe [`SlicerCacheCrossFilterType`](/cells/python-net/fr/aspose.cells.slicers/slicercachecrossfiltertype)

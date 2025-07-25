@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_formula_hidden属性
 
-表示当工作表受保护时是否隐藏公式。
+表示当工作表受保护时公式是否被隐藏。
 ### 定义：
 ```python
 @property

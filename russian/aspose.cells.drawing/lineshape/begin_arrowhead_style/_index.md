@@ -1,22 +1,22 @@
 ---
 title: begin_arrowhead_style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.drawing/lineshape/begin_arrowhead_style/
 is_root: false
 ---
 ##  begin_arrowhead_style недвижимость
 
-Получает и задает стиль начала стрелки линии.
+Получает и задает стиль начальной стрелки линии.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
  используйте свойство Shape.Line.BeginArrowheadStyle.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с августа 2016 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 12 месяцев с августа 2016 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

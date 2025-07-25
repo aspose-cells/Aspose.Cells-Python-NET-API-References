@@ -1,5 +1,5 @@
 ---
-title: theme_color الملكية
+title: theme_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 280
 url: /ar/aspose.cells.drawing.texts/textoptions/theme_color/
 is_root: false
 ---
-##  theme_color الملكية
+##  theme_color عقار
 
-الحصول على لون المظهر وتعيينه.
+يحصل على لون السمة ويحدده.
 
 ###  ملاحظات
 
-إذا لم يكن لون الخط هو لون النسق ، فسيتم إرجاع NULL.
+إذا لم يكن لون الخط هو لون السمة، فسيتم إرجاع NULL.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
-* فئة [ThemeColor](/cells/python-net/ar/aspose.cells/themecolor)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* فئة [`ThemeColor`](/cells/python-net/ar/aspose.cells/themecolor)

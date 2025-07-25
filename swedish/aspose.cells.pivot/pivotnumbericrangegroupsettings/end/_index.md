@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end fastighet
 
-Får gruppens end-nummer.
+Hämtar gruppens nummer end.
 ###  Definition:
 ```python
 @property

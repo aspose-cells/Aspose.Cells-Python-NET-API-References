@@ -3,7 +3,7 @@ title: null_string propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 680
+weight: 780
 url: /fr/aspose.cells.pivot/pivottable/null_string/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def null_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

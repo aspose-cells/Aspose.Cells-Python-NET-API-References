@@ -17,11 +17,11 @@ Der Typ MapChartLabelLayout macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| BEST_FIT_ONLY | Nur beste Passform.|
-| SHOW_ALL | Zeigt alle Labels an.|
+| BEST_FIT_ONLY | Nur die beste Passform.|
+| SHOW_ALL | Zeigt alle Beschriftungen an.|
 | NONE | Keine Etiketten.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

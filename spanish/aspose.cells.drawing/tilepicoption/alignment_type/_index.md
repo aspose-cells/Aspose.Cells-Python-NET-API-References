@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type propiedad
 
-Obtiene o establece la alineación para el mosaico.
+Obtiene o establece la alineación para mosaico.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [RectangleAlignmentType](/cells/python-net/es/aspose.cells.drawing/rectanglealignmenttype)
-* clase [TilePicOption](/cells/python-net/es/aspose.cells.drawing/tilepicoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`RectangleAlignmentType`](/cells/python-net/es/aspose.cells.drawing/rectanglealignmenttype)
+* clase [`TilePicOption`](/cells/python-net/es/aspose.cells.drawing/tilepicoption)

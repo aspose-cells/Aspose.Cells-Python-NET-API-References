@@ -1,9 +1,9 @@
 ---
 title: Enumerazione CellBorderType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1900
+weight: 1800
 url: /it/aspose.cells/cellbordertype/
 is_root: false
 ---
@@ -17,20 +17,20 @@ Il tipo CellBorderType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| DASH_DOT | Rappresenta una linea tratteggiata sottile.|
-| DASH_DOT_DOT | Rappresenta una linea sottile tratteggiata-punto-punteggiata.|
-| DASHED | Rappresenta la linea tratteggiata.|
-| DOTTED | Rappresenta la linea tratteggiata.|
-| DOUBLE | Rappresenta la doppia linea.|
-| HAIR | Rappresenta la linea dei capelli.|
-| MEDIUM_DASH_DOT | Rappresenta una linea tratteggiata media.|
-| MEDIUM_DASH_DOT_DOT | Rappresenta una linea tratteggiata-punto-punteggiata media.|
+| DASH_DOT | Rappresenta una sottile linea tratteggiata e punteggiata.|
+| DASH_DOT_DOT | Rappresenta una sottile linea tratteggiata-punto-punteggiata.|
+| DASHED | Rappresenta una linea tratteggiata.|
+| DOTTED | Rappresenta una linea tratteggiata.|
+| DOUBLE |Rappresenta una linea doppia.|
+| HAIR | Rappresenta l'attaccatura dei capelli.|
+| MEDIUM_DASH_DOT | Rappresenta una linea tratteggiata e punteggiata media.|
+| MEDIUM_DASH_DOT_DOT | Rappresenta una linea media tratteggiata-punto-punteggiata.|
 | MEDIUM_DASHED | Rappresenta la linea tratteggiata media.|
 | NONE | Non rappresenta alcuna linea.|
 | MEDIUM | Rappresenta la linea media.|
-| SLANTED_DASH_DOT | Rappresenta una linea tratteggiata media obliqua.|
+| SLANTED_DASH_DOT | Rappresenta una linea tratteggiata e punteggiata media obliqua.|
 | THICK | Rappresenta una linea spessa.|
-| THIN | Rappresenta la linea sottile.|
+| THIN | Rappresenta una linea sottile.|
 
 
 

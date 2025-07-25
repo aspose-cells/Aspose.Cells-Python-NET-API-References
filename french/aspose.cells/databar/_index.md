@@ -3,13 +3,13 @@ title: DataBar classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 390
 url: /fr/aspose.cells/databar/
 is_root: false
 ---
 ##  DataBar classe
  Décrivez la règle de mise en forme conditionnelle DataBar.
-Cette règle de mise en forme conditionnelle affiche un dégradé
+Cette règle de mise en forme conditionnelle affiche une échelle graduée
 barre de données dans la plage de cellules.
 
 
@@ -19,24 +19,24 @@ Le type DataBar expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [axis_color](/cells/python-net/fr/aspose.cells/databar/axis_color) | Obtient la couleur de l'axe des cellules avec une mise en forme conditionnelle sous forme de barres de données.|
+| [axis_color](/cells/python-net/fr/aspose.cells/databar/axis_color) | Obtient la couleur de l'axe pour les cellules avec une mise en forme conditionnelle sous forme de barres de données.|
 | [axis_position](/cells/python-net/fr/aspose.cells/databar/axis_position) | Obtient ou définit la position de l'axe des barres de données spécifiées par une règle de mise en forme conditionnelle.|
-| [bar_fill_type](/cells/python-net/fr/aspose.cells/databar/bar_fill_type) | Obtient ou définit la façon dont une barre de données est remplie de couleur.|
-| [direction](/cells/python-net/fr/aspose.cells/databar/direction) |Obtient ou définit la direction dans laquelle la barre de données est affichée.|
+| [bar_fill_type](/cells/python-net/fr/aspose.cells/databar/bar_fill_type) | Obtient ou définit la manière dont une barre de données est remplie de couleur.|
+| [direction](/cells/python-net/fr/aspose.cells/databar/direction) | Obtient ou définit la direction dans laquelle la barre de données est affichée.|
 | [bar_border](/cells/python-net/fr/aspose.cells/databar/bar_border) | Obtient un objet qui spécifie la bordure d'une barre de données.|
 | [negative_bar_format](/cells/python-net/fr/aspose.cells/databar/negative_bar_format) | Obtient l'objet NegativeBarFormat associé à une règle de mise en forme conditionnelle de barre de données.|
-| [min_cfvo](/cells/python-net/fr/aspose.cells/databar/min_cfvo) | Obtenez ou définissez l'objet de valeur minimale de ce DataBar.<br/> Impossible de définir null ou CFValueObject avec le type FormatConditionValueType.Max.|
-| [max_cfvo](/cells/python-net/fr/aspose.cells/databar/max_cfvo) | Obtenez ou définissez l'objet de valeur maximale de ce DataBar.<br/> Impossible de définir null ou CFValueObject avec le type FormatConditionValueType.Min.|
-| [color](/cells/python-net/fr/aspose.cells/databar/color) | Obtenez ou définissez la couleur de cette DataBar.|
+| [min_cfvo](/cells/python-net/fr/aspose.cells/databar/min_cfvo) | Obtenez ou définissez l'objet de valeur minimale de cette DataBar.<br/> Impossible de définir null ou CFValueObject avec le type FormatConditionValueType.Max.|
+| [max_cfvo](/cells/python-net/fr/aspose.cells/databar/max_cfvo) | Obtenez ou définissez l'objet de valeur maximale de cette DataBar.<br/> Impossible de définir null ou CFValueObject avec le type FormatConditionValueType.Min.|
+| [color](/cells/python-net/fr/aspose.cells/databar/color) | Obtenir ou définir la couleur de cette DataBar.|
 | [min_length](/cells/python-net/fr/aspose.cells/databar/min_length) | Représente la longueur minimale de la barre de données.|
 | [max_length](/cells/python-net/fr/aspose.cells/databar/max_length) | Représente la longueur maximale de la barre de données.|
-| [show_value](/cells/python-net/fr/aspose.cells/databar/show_value) | Obtenez ou définissez l'indicateur indiquant s'il faut afficher les valeurs des cellules sur lesquelles cette barre de données est appliquée.<br/> La valeur par défaut est vraie.|
+| [show_value](/cells/python-net/fr/aspose.cells/databar/show_value) |Obtenir ou définir l'indicateur indiquant s'il faut afficher les valeurs des cellules sur lesquelles cette barre de données est appliquée.<br/> La valeur par défaut est vrai.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [to_image](/cells/python-net/fr/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | Rendre la barre de données dans la cellule dans un tableau d'octets d'image.|
+| [`to_image(self, cell, img_opts)`](/cells/python-net/fr/aspose.cells/databar/to_image/#aspose.cells.cell-aspose.cells.rendering.imageorprintoptions) | Rendre la barre de données dans la cellule en tableau d'octets d'image.|
 
 
 

@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ConditionalFormattingIcon](/cells/python-net/de/aspose.cells/conditionalformattingicon)
-* Klasse [IconSetType](/cells/python-net/de/aspose.cells/iconsettype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ConditionalFormattingIcon`](/cells/python-net/de/aspose.cells/conditionalformattingicon)
+* Klasse [`IconSetType`](/cells/python-net/de/aspose.cells/iconsettype)

@@ -3,7 +3,7 @@ title: Top10 classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /fr/aspose.cells/top10/
 is_root: false
 ---
@@ -19,15 +19,15 @@ Le type Top10 expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells/top10/__init__/#) | Construit une nouvelle instance de Top10|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells/top10/__init__/#) | Construit une nouvelle instance de Top10|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [is_percent](/cells/python-net/fr/aspose.cells/top10/is_percent) | Obtenez ou définissez si une règle « n supérieurs/inférieurs » est une règle « n pour cent supérieurs/inférieurs ».<br/> La valeur par défaut est fausse.|
-| [is_bottom](/cells/python-net/fr/aspose.cells/top10/is_bottom) | Obtenez ou définissez si une règle « n supérieur/inférieur » est une règle « n inférieur ».<br/> La valeur par défaut est fausse.|
-| [rank](/cells/python-net/fr/aspose.cells/top10/rank) | Obtenez ou définissez la valeur de « n » dans une règle de mise en forme conditionnelle « n supérieur/inférieur ».<br/>Si IsPercent est vrai, la valeur doit être comprise entre 0 et 100.<br/>Sinon il doit être compris entre 0 et 1000.<br/> La valeur par défaut est 10.|
+| [is_percent](/cells/python-net/fr/aspose.cells/top10/is_percent) | Obtenir ou définir si une règle « n haut/bas » est une règle « n haut/bas pour cent ».<br/> La valeur par défaut est faux.|
+| [is_bottom](/cells/python-net/fr/aspose.cells/top10/is_bottom) | Obtenir ou définir si une règle « n supérieur/inférieur » est une règle « n inférieur ».<br/> La valeur par défaut est faux.|
+| [rank](/cells/python-net/fr/aspose.cells/top10/rank) | Obtenir ou définir la valeur de « n » dans une règle de mise en forme conditionnelle « n supérieur/inférieur ».<br/>Si IsPercent est vrai, la valeur doit être comprise entre 0 et 100.<br/>Sinon, il doit être compris entre 0 et 1000.<br/> La valeur par défaut est 10.|
 
 
 

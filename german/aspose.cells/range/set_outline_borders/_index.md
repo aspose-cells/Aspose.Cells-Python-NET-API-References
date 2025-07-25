@@ -3,16 +3,17 @@ title: set_outline_borders Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 250
 url: /de/aspose.cells/range/set_outline_borders/
 is_root: false
 ---
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
-Legt die Umrissränder um einen Bereich von Zellen mit demselben Rahmenstil und derselben Farbe fest.
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
+Legt die Umrisse um einen Zellbereich mit demselben Rahmenstil und derselben Farbe fest.
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -20,16 +21,17 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| border_style | [`CellBorderType`](/cells/python-net/de/aspose.cells/cellbordertype) | Grenzstil.|
-| border_color | [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor) | Randfarbe.|
+| border_style | [`CellBorderType`](/cells/python-net/de/aspose.cells/cellbordertype) | Rahmenstil.|
+| border_color | [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor) | Rahmenfarbe.|
 
 
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
-Legt die Umrissränder um einen Bereich von Zellen mit demselben Rahmenstil und derselben Farbe fest.
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
+Legt die Umrisse um einen Zellbereich mit demselben Rahmenstil und derselben Farbe fest.
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -37,16 +39,17 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| border_style | [`CellBorderType`](/cells/python-net/de/aspose.cells/cellbordertype) | Grenzstil.|
-| border_color | aspose.pydrawing.Color | Randfarbe.|
+| border_style | [`CellBorderType`](/cells/python-net/de/aspose.cells/cellbordertype) | Rahmenstil.|
+| border_color | aspose.pydrawing.Color | Rahmenfarbe.|
 
 
-##  set_outline_borders {#list-aspose.pydrawing.Color[]}
-Legt Linienränder um einen Bereich von Zellen fest.
+##  set_outline_borders(self, border_styles, border_colors) {#list-aspose.pydrawing.Color[]}
+Legt Linienränder um einen Zellbereich fest.
 
 
 
 ```python
+
 def set_outline_borders(self, border_styles, border_colors):
     ...
 ```
@@ -54,12 +57,12 @@ def set_outline_borders(self, border_styles, border_colors):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| border_styles | list |Randstile.|
-| border_colors | aspose.pydrawing.Color[] | Randfarben.|
+| border_styles | list | Rahmenstile.|
+| border_colors | aspose.pydrawing.Color[] | Rahmenfarben.|
 ###  Bemerkungen
 
 Sowohl die Länge von borderStyles als auch von borderStyles muss 4 betragen.
-Die Reihenfolge von borderStyles und borderStyles muss oben, unten, links und rechts sein
+Die Reihenfolge der Rahmenarten und Rahmenstile muss oben, unten, links, rechts sein
 
 
 ###  Siehe auch

@@ -3,13 +3,13 @@ title: is_selected propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 720
 url: /fr/aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---
 ##  is_selected propriété
 
-Indique si le tableau croisé dynamique est sélectionné.
+Indique si ce tableau croisé dynamique est sélectionné.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

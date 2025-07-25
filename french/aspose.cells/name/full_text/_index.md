@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_text propriété
 
-Obtient le nom en texte intégral de l'objet avec le paramètre d'étendue.
+Obtient le nom du texte intégral de l'objet avec le paramètre de portée.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Name](/cells/python-net/fr/aspose.cells/name)
+* module [`aspose.cells`](../../)
+* classe [`Name`](/cells/python-net/fr/aspose.cells/name)

@@ -1,6 +1,6 @@
 ---
 title: operator недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator недвижимость
 
-Представляет operator для проверки данных.
+Представляет собой operator для проверки данных.
 ###  Определение:
 ```python
 @property

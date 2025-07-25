@@ -1,15 +1,15 @@
 ---
 title: enable_field_list proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 600
 url: /it/aspose.cells.pivot/pivottable/enable_field_list/
 is_root: false
 ---
 ##  enable_field_list proprietà
 
-Ottiene se abilitare l'elenco dei campi per la tabella pivot.
+Indica se l'elenco dei campi per la tabella pivot è disponibile nella visualizzazione di Excel.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_field_list(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

@@ -1,6 +1,6 @@
 ---
 title: weight proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight proprietà
 
-Restituisce o imposta lo weight della riga, in unità di pt.
+Restituisce o imposta il valore weight della riga, in unità di pt.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoLineFormatHelper](/cells/python-net/it/aspose.cells.drawing/msolineformathelper)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoLineFormatHelper`](/cells/python-net/it/aspose.cells.drawing/msolineformathelper)

@@ -7,12 +7,13 @@ weight: 110
 url: /ar/aspose.cells/pagesetup/get_header/
 is_root: false
 ---
-##  get_header(section) {#int}
-يحصل على برنامج نصي بتنسيق رأس ملف Excel.
+##  get_header(self, section) {#int}
+يحصل على نص برمجي لتنسيق رأس ملف Excel.
 
 
 
 ```python
+
 def get_header(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_header(self, section):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| section | int | 0: القسم الأيسر ، 1: القسم الأوسط ، 2: القسم الأيمن.|
+| section | int |0: القسم الأيسر، 1: القسم الأوسط، 2: القسم الأيمن.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

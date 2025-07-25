@@ -3,7 +3,7 @@ title: number mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 590
 url: /tr/aspose.cells.pivot/pivotfield/number/
 is_root: false
 ---

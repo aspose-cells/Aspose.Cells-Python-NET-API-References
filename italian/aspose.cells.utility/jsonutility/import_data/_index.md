@@ -1,14 +1,14 @@
 ---
-title: metodo import_data
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo import_data
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells.utility/jsonutility/import_data/
 is_root: false
 ---
-##  import_data(json, cells, row, column, option) {#str-Cells-int-int-JsonLayoutOptions}
-Importa la stringa json.
+##  import_data(, json, celle, riga, colonna, opzione){#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
+Importa la stringa JSON.
 
 
 ###  ritorna
@@ -17,21 +17,23 @@ Importa la stringa json.
 
 
 ```python
-def import_data(self, json, cells, row, column, option):
+
+@staticmethod
+def import_data(json, cells, row, column, option):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| json | str | La stringa json.|
-| cells | [Cells](/cells/python-net/it/aspose.cells/cells) | Il Cells.|
-| row | int | L'indice di riga.|
-| column | int | L'indice di colonna.|
-| option | [JsonLayoutOptions](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions) | Le opzioni di import json string.|
+| json | str | La stringa JSON.|
+| cells | [`Cells`](/cells/python-net/it/aspose.cells/cells) | Lo Cells.|
+| row | int | Indice di riga.|
+| column | int | L'indice della colonna.|
+| option | [`JsonLayoutOptions`](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions) | Opzioni di importazione della stringa JSON.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](../../)
-* classe [JsonUtility](/cells/python-net/it/aspose.cells.utility/jsonutility)
+* modulo [`aspose.cells.utility`](../../)
+* classe [`JsonUtility`](/cells/python-net/it/aspose.cells.utility/jsonutility)

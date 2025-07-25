@@ -3,13 +3,13 @@ title: base_index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 300
 url: /es/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ##  base_index propiedad
 
-Representa el índice de PivotField en los PivotFields base.
+Representa el índice PivotField en los PivotFields base.
 ###  Definición:
 ```python
 @property

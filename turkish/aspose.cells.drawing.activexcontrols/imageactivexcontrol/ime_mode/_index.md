@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol/ime_mode/
 is_root: false
 ---
 ##  ime_mode mülk
-
-Odağı alırken denetim için Giriş Yöntemi Düzenleyicisi'nin varsayılan çalışma zamanı modunu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +19,6 @@ def ime_mode(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
-* sınıf [InputMethodEditorMode](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/inputmethodeditormode)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* sınıf [`InputMethodEditorMode`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/inputmethodeditormode)

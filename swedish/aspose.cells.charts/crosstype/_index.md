@@ -17,10 +17,10 @@ Typen CrossType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| AUTOMATIC | Microsoft Excel ställer in axelns korsningspunkt.|
-| MAXIMUM | Axeln korsar vid maxvärdet.|
+| AUTOMATIC | Microsoft Excel anger axelns korsningspunkt.|
+| MAXIMUM | Axeln korsar vid det maximala värdet.|
 | MINIMUM | Axeln korsar vid minimivärdet.|
-| CUSTOM | Axeln korsar vid det anpassade värdet.|
+| CUSTOM |Axeln korsar vid det anpassade värdet.|
 
 
 

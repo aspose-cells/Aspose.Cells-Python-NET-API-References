@@ -1,15 +1,15 @@
 ---
-title: export_as_string 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_as_string属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.utility/exportrangetojsonoptions/export_as_string/
 is_root: false
 ---
-## export_as_string 属性
+## export_as_string属性
 
-将单元格的字符串值导出到 json。
+将单元格的字符串值导出为 json。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.utility](../../)
-* 类 [ExportRangeToJsonOptions](/cells/python-net/zh/aspose.cells.utility/exportrangetojsonoptions)
+* 模块[`aspose.cells.utility`](../../)
+* 类 [`ExportRangeToJsonOptions`](/cells/python-net/zh/aspose.cells.utility/exportrangetojsonoptions)

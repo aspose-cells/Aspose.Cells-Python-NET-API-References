@@ -1,9 +1,9 @@
 ---
 title: ActiveXPersistenceType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 130
 url: /ru/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип ActiveXPersistenceType предоставляет следующие члены:
+Тип ActiveXPersistenceType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| PROPERTY_BAG | Данные хранятся в виде данных xml.|
-| STORAGE | Данные хранятся в виде хранилища двоичных данных.|
-| STREAM | Данные хранятся в виде двоичных данных потока.|
+| PROPERTY_BAG | Данные хранятся в формате XML.|
+| STORAGE | Данные хранятся в виде двоичных данных хранилища.|
+| STREAM | Данные хранятся в виде потока двоичных данных.|
 | STREAM_INIT | Данные хранятся в виде двоичных данных streaminit.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

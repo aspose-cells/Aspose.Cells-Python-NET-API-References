@@ -3,7 +3,7 @@ title: FontSourceType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2150
+weight: 2090
 url: /ar/aspose.cells/fontsourcetype/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| FONT_FILE | يمثل ملف خط واحد.|
-| FONTS_FOLDER | يمثل مجلدًا يحتوي على ملفات الخطوط.|
+| FONT_FILE | يمثل ملف الخط الفردي.|
+| FONTS_FOLDER | يمثل المجلد الذي يحتوي على ملفات الخطوط.|
 | MEMORY_FONT | يمثل خطًا واحدًا في الذاكرة.|
 
 

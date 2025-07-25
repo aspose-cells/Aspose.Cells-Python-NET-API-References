@@ -8,8 +8,6 @@ url: /fr/aspose.cells/pdfsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder propriété
-
-Le dossier de fichiers mis en cache est utilisé pour stocker des données volumineuses.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

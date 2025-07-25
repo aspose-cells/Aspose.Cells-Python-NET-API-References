@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_fit_merged_cells_type Eigentum
 
-Ruft den Typ der automatischen Anpassung der Zeilenhöhe von verbundenen Zellen ab und legt ihn fest.
+Ruft den Typ der automatischen Anpassung der Zeilenhöhe verbundener Zellen ab und legt ihn fest.
 
 ###  Bemerkungen
 
-Excel ignoriert standardmäßig verbundene Zellen beim Anpassen der Zeilenhöhe, sodass Aspose.Cells als MS Excel-Standardeinstellung fungiert.
-Bitte stellen Sie diesen Typ ein, um die automatische Anpassung der Zeilenhöhe von verbundenen Zellen zu ändern.
+Standardmäßig ignoriert Excel verbundene Zellen beim Anpassen der Zeilenhöhe, daher funktioniert Aspose.Cells als MS Excel-Standard.
+Bitte legen Sie diesen Typ fest, um die Art und Weise der automatischen Anpassung der Zeilenhöhe verbundener Zellen zu ändern.
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def auto_fit_merged_cells_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFitMergedCellsType](/cells/python-net/de/aspose.cells/autofitmergedcellstype)
-* Klasse [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFitMergedCellsType`](/cells/python-net/de/aspose.cells/autofitmergedcellstype)
+* Klasse [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions)

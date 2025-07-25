@@ -1,6 +1,6 @@
 ---
 title: amount proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -10,7 +10,10 @@ is_root: false
 ##  amount proprietà
 
 Rappresenta amount della barra di errore.
- Il amount deve essere maggiore o uguale a zero.
+
+###  Osservazioni
+
+Il valore amount deve essere maggiore o uguale a zero.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)

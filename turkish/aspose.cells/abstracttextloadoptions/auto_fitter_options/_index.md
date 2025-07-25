@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options mülk
 
-Otomatik fitre seçeneklerini alır ve ayarlar
+Otomatik uyumlama seçeneklerini alır ve ayarlar
 
 ###  Notlar
 
-Şimdi sadece xlsx ,spreadsheetML dosyası için.
+Şimdilik sadece xlsx, spreadsheetML dosyaları için.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AbstractTextLoadOptions](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)
-* sınıf [AutoFitterOptions](/cells/python-net/tr/aspose.cells/autofitteroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`AbstractTextLoadOptions`](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)
+* sınıf [`AutoFitterOptions`](/cells/python-net/tr/aspose.cells/autofitteroptions)

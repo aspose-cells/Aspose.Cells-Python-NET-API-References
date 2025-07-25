@@ -3,7 +3,7 @@ title: startup_path propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 290
 url: /es/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Obtiene o establece la ruta de inicio, a la que hacen referencia algunas referen
 @property
 def startup_path(self):
     ...
-@startup_path.setter
-def startup_path(self, value):
+@staticmethod
+def set_startup_path(value):
     ...
 ```
 

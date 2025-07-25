@@ -3,16 +3,17 @@ title: método is_rich_text
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 280
 url: /es/aspose.cells/cell/is_rich_text/
 is_root: false
 ---
-##  is_rich_text {#}
-Indica si el valor de cadena de esta celda es un texto con formato enriquecido.
+##  is_rich_text(self) {#}
+Indica si el valor de la cadena de esta celda es un texto con formato enriquecido.
 
 
 
 ```python
+
 def is_rich_text(self):
     ...
 ```

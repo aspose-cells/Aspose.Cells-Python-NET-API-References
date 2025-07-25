@@ -1,6 +1,6 @@
 ---
 title: integral_height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  integral_height proprietà
 
-Indica se il controllo mostrerà solo righe di testo complete senza mostrare righe parziali.
+Indica se il controllo mostrerà solo le righe complete di testo, senza mostrare righe parziali.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

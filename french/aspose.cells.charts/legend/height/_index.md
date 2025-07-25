@@ -3,18 +3,18 @@ title: height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 210
 url: /fr/aspose.cells.charts/legend/height/
 is_root: false
 ---
 ##  height propriété
 
-Obtient ou définit le height du cadre en unités de 1/4 000 de la zone du graphique.
+Obtient ou définit le height du cadre en unités de 1/4000 de la zone du graphique.
 
 ###  Remarques
 
  Comment convertir des unités de 1/4000 en pixels ?
-Hauteur en pixels = Y * Chart.ChartObject.Height / 4000 ;
+Hauteur en pixels = Y * Chart.ChartObject.Height / 4000d ;
 ###  Définition:
 ```python
 @property

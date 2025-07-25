@@ -3,13 +3,13 @@ title: display_string_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 460
 url: /ar/aspose.cells/cell/display_string_value/
 is_root: false
 ---
 ##  display_string_value عقار
 
-الحصول على قيمة السلسلة المنسقة لهذه الخلية حسب نمط عرض الخلية.
+يحصل على قيمة السلسلة المنسقة لهذه الخلية حسب نمط عرض الخلية.
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bi_level mülk
 
-Bu resmin iki renkli siyah beyaz görüntülenip görüntülenmeyeceğini belirtir.
+Bu resmin iki renkli siyah beyaz olarak görüntülenip görüntülenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

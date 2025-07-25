@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartLineFormattingType](/cells/python-net/tr/aspose.cells.charts/chartlineformattingtype)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartLineFormattingType`](/cells/python-net/tr/aspose.cells.charts/chartlineformattingtype)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

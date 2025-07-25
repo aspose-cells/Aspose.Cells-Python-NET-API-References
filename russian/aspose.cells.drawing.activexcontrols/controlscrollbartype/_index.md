@@ -1,9 +1,9 @@
 ---
 title: ControlScrollBarType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 220
 url: /ru/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-Тип ControlScrollBarType предоставляет следующие члены:
+Тип ControlScrollBarType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Не отображает полосы прокрутки.|
+| NONE |Полосы прокрутки не отображаются.|
 | HORIZONTAL | Отображает горизонтальную полосу прокрутки.|
 | BARS_VERTICAL | Отображает вертикальную полосу прокрутки.|
 | BARS_BOTH | Отображает как горизонтальную, так и вертикальную полосу прокрутки.|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

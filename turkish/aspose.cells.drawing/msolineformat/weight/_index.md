@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight mülk
 
-Satırın weight'ini pt birimi cinsinden döndürür veya ayarlar.
+Satırın weight değerini pt cinsinden döndürür veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoLineFormat](/cells/python-net/tr/aspose.cells.drawing/msolineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoLineFormat`](/cells/python-net/tr/aspose.cells.drawing/msolineformat)

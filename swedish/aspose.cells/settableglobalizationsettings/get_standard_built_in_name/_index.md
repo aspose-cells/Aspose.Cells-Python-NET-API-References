@@ -7,16 +7,17 @@ weight: 190
 url: /sv/aspose.cells/settableglobalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name {#str}
-Hämtar standardtexten för det inbyggda namnet enligt given språkberoende text.
+##  get_standard_built_in_name(self, local_name) {#str}
+Hämtar standardtexten för det inbyggda namnet enligt den givna språkberoende texten.
 
 
 ###  Returnerar
 
-Standardtext (en-US locale).
+Standardtext (en-US språk).
 
 
 ```python
+
 def get_standard_built_in_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_built_in_name(self, local_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| local_name | str | Platsberoende text av inbyggt namn. Lokalen specificerades av arbetsboken för vilken de här inställningarna används.|
+| local_name | str | Språkberoende text för inbyggt namn. Språket angavs av arbetsboken för vilken dessa inställningar används.|
 
 
 

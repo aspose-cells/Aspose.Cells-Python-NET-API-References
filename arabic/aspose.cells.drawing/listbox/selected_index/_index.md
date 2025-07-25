@@ -3,18 +3,18 @@ title: selected_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 930
+weight: 940
 url: /ar/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
 ##  selected_index عقار
 
-الحصول على رقم الفهرس للعنصر المحدد حاليًا أو تعيينه في مربع القائمة أو مربع التحرير والسرد.
+يحصل على رقم الفهرس للعنصر المحدد حاليًا في مربع القائمة أو المربع المنسدل أو يعينه.
 على أساس الصفر.
 
 ###  ملاحظات
 
--1 يعرض عدم تحديد أي عنصر.
+-1 لا يوجد عنصر محدد.
 ###  تعريف:
 ```python
 @property

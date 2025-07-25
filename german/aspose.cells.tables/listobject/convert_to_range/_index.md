@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.tables/listobject/convert_to_range/
 is_root: false
 ---
-##  convert_to_range() {#}
-Wandeln Sie die Tabelle in einen Bereich um.
+##  convert_to_range(self) {#}
+Konvertieren Sie die Tabelle in einen Bereich.
 
 
 
 ```python
+
 def convert_to_range(self):
     ...
 ```
@@ -20,12 +21,13 @@ def convert_to_range(self):
 
 
 
-##  convert_to_range(options) {#TableToRangeOptions}
-Wandeln Sie die Tabelle in einen Bereich um.
+##  convert_to_range(self, options) {#aspose.cells.tables.TableToRangeOptions}
+Konvertieren Sie die Tabelle in einen Bereich.
 
 
 
 ```python
+
 def convert_to_range(self, options):
     ...
 ```
@@ -33,10 +35,10 @@ def convert_to_range(self, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| options | [TableToRangeOptions](/cells/python-net/de/aspose.cells.tables/tabletorangeoptions) | die Optionen beim Konvertieren von Tabelle in Bereich.|
+| options | [`TableToRangeOptions`](/cells/python-net/de/aspose.cells.tables/tabletorangeoptions) | die Optionen beim Konvertieren einer Tabelle in einen Bereich.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

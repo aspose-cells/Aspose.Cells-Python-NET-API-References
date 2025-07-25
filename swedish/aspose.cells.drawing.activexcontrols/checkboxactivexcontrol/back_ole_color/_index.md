@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/back_ole_co
 is_root: false
 ---
 ##  back_ole_color fastighet
-
-Hämtar och ställer in ole-färgen på bakgrunden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

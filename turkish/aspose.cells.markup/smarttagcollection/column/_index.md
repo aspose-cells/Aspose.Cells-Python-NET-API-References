@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column mülk
 
-Hücre akıllı etiketlerinin column'ini alır.
+Hücresel akıllı etiketlerin column'ini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)

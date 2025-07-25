@@ -9,7 +9,7 @@ is_root: false
 ---
 ## filtered_n_series属性
 
-获取表示图表中筛选的数据系列的 [`SeriesCollection`](/cells/python-net/zh/aspose.cells.charts/seriescollection) 集合。
+获取一个 [`SeriesCollection`](/cells/python-net/zh/aspose.cells.charts/seriescollection) 集合，表示图表中过滤的数据系列。
 ### 定义：
 ```python
 @property

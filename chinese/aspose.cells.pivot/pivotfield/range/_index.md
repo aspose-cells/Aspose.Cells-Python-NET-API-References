@@ -3,20 +3,20 @@ title: range属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 550
+weight: 640
 url: /zh/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ## range属性
 
-获取主元字段的组range
+获取数据透视字段的组 range
 
-### 评论
+### 注意事项
 
-注意：此方法现已过时。反而，
+注意：此方法现已过时。取而代之的是
 请使用 PivotField.GroupSettings 属性。
-该方法将于2023年10月起12个月后删除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+该方法将于 2023 年 10 月起 12 个月后取消。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property

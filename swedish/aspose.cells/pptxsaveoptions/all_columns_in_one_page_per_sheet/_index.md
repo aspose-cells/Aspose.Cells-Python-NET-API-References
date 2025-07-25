@@ -8,10 +8,6 @@ url: /sv/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet fastighet
-
- Om AllColumnsInOnePagePerSheet är sant , kommer allt kolumninnehåll i ett ark att matas ut till endast en sida i resultat.
- Bredden på pappersstorleken för sidinställningarna ignoreras, och de andra inställningarna för sidinställningarna
-kommer fortfarande att träda i kraft.
 ###  Definition:
 ```python
 @property

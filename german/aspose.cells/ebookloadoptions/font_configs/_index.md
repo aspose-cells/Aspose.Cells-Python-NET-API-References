@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  font_configs Eigentum
 
- Ruft einzelne Schriftartkonfigurationen ab und legt diese fest.
-Funktioniert nur für die [`Workbook`](/cells/python-net/de/aspose.cells/workbook), die diese [`LoadOptions`](/cells/python-net/de/aspose.cells/loadoptions) zum Laden verwendet.
+ Ruft einzelne Schriftartkonfigurationen ab und legt sie fest.
+Funktioniert nur für [`Workbook`](/cells/python-net/de/aspose.cells/workbook), das diese [`LoadOptions`](/cells/python-net/de/aspose.cells/loadoptions) zum Laden verwendet.
 ###  Definition:
 ```python
 @property

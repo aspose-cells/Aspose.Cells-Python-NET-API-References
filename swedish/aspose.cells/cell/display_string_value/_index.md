@@ -3,13 +3,13 @@ title: display_string_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 460
 url: /sv/aspose.cells/cell/display_string_value/
 is_root: false
 ---
 ##  display_string_value fastighet
 
-Hämtar det formaterade strängvärdet för denna cell efter cells visningsstil.
+Hämtar det formaterade strängvärdet för den här cellen efter cellens visningsstil.
 ###  Definition:
 ```python
 @property

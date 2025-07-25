@@ -3,13 +3,13 @@ title: row_height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 500
 url: /sv/aspose.cells/range/row_height/
 is_root: false
 ---
 ##  row_height fastighet
 
-Ställer in eller hämtar höjden på rader i detta intervall
+Anger eller hämtar höjden på raderna i detta intervall
 ###  Definition:
 ```python
 @property

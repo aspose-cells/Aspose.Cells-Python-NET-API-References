@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_format mülk
 
-Algılanan yükleme biçimini alır.
+Algılanan yükleme formatını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatInfo](/cells/python-net/tr/aspose.cells/fileformatinfo)
-* sınıf [LoadFormat](/cells/python-net/tr/aspose.cells/loadformat)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatInfo`](/cells/python-net/tr/aspose.cells/fileformatinfo)
+* sınıf [`LoadFormat`](/cells/python-net/tr/aspose.cells/loadformat)

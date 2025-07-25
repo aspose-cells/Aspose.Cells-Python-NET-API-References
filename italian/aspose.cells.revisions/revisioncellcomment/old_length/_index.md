@@ -1,6 +1,6 @@
 ---
 title: old_length proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -18,5 +18,5 @@ def old_length(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/it/aspose.cells.revisions/revisioncellcomment)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/it/aspose.cells.revisions/revisioncellcomment)

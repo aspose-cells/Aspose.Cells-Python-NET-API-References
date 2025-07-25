@@ -1,15 +1,15 @@
 ---
 title: export_column_index_of_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 80
 url: /ru/aspose.cells/spreadsheetml2003saveoptions/export_column_index_of_cell/
 is_root: false
 ---
 ##  export_column_index_of_cell недвижимость
 
-Значение по умолчанию — false, это означает, что индекс столбца будет игнорироваться, если ячейка граничит с предыдущей ячейкой.
+Значение по умолчанию — false, это означает, что индекс столбца будет игнорироваться, если ячейка смежна с предыдущей ячейкой.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_column_index_of_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [SpreadsheetML2003SaveOptions](/cells/python-net/ru/aspose.cells/spreadsheetml2003saveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`SpreadsheetML2003SaveOptions`](/cells/python-net/ru/aspose.cells/spreadsheetml2003saveoptions)

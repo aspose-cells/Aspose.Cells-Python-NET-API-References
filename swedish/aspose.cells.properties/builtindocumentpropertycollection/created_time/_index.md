@@ -3,13 +3,13 @@ title: created_time fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/created_time/
 is_root: false
 ---
 ##  created_time fastighet
 
-Hämtar eller ställer in datum då dokumentet skapades i lokal tidszon.
+Hämtar eller ställer in datumet för dokumentets skapande i lokal tidszon.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

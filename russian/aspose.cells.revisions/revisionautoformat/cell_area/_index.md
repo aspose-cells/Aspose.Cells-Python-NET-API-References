@@ -1,6 +1,6 @@
 ---
 title: cell_area недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area недвижимость
 
-Получает расположение, в котором было применено форматирование.
+Возвращает место, где было применено форматирование.
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [CellArea](/cells/python-net/ru/aspose.cells/cellarea)
-* класс [RevisionAutoFormat](/cells/python-net/ru/aspose.cells.revisions/revisionautoformat)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea)
+* класс [`RevisionAutoFormat`](/cells/python-net/ru/aspose.cells.revisions/revisionautoformat)

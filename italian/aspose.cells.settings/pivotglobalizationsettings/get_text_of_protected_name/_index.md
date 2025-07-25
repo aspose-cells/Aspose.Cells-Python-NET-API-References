@@ -1,13 +1,13 @@
 ---
 title: Metodo get_text_of_protected_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 150
 url: /it/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protected_name/
 is_root: false
 ---
-##  get_text_of_protected_name {#str}
+##  get_text_of_protected_name(self, protected_name) {#str}
 Ottiene il testo per il nome protetto specificato.
 
 
@@ -17,6 +17,7 @@ I nomi protetti locali della tabella pivot.
 
 
 ```python
+
 def get_text_of_protected_name(self, protected_name):
     ...
 ```
@@ -27,8 +28,8 @@ def get_text_of_protected_name(self, protected_name):
 | protected_name | str | Il nome protetto nella tabella pivot.|
 ###  Osservazioni
 
-In Ms Excel, alcuni nomi non possono essere utilizzati come nome dei campi pivot nella tabella pivot.
-Sono diversi nelle diverse regioni, l'utente può specificarli esplicitamente in base alla regione utilizzata.
+In Ms Excel alcuni nomi non possono essere utilizzati come nomi di campi pivot in una tabella pivot.
+Sono diversi a seconda della regione, l'utente può specificarli esplicitamente in base alla regione utilizzata.
 
 
 ###  Guarda anche

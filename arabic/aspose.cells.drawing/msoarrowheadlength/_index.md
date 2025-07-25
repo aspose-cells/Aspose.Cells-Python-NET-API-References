@@ -1,27 +1,27 @@
 ---
-title: العد MsoArrowheadLength
+title: MsoArrowheadLength التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 970
+weight: 960
 url: /ar/aspose.cells.drawing/msoarrowheadlength/
 is_root: false
 ---
-##  العد MsoArrowheadLength
-تعداد عرض نهاية الخط لخط حدود الشكل.
+##  MsoArrowheadLength التعداد
+يقوم بإحصاء عرض نهاية خط حدود الشكل.
 
 
 
-يكشف نوع MsoArrowheadLength الأعضاء التالية:
+يكشف النوع MsoArrowheadLength عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | SHORT | طول نهاية الخط القصير|
-| MEDIUM |طول خط النهاية المتوسط|
+| MEDIUM | طول نهاية الخط المتوسط|
 | LONG | طول نهاية الخط الطويل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

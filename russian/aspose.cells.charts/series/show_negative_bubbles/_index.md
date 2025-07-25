@@ -1,6 +1,6 @@
 ---
 title: show_negative_bubbles недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 420
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_bubbles недвижимость
 
-Значение true, если для группы диаграммы отображаются отрицательные кружки. Действительно только для пузырьковых диаграмм.
+True, если для группы диаграмм отображаются отрицательные пузырьки. Действительно только для пузырьковых диаграмм.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_bubbles(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

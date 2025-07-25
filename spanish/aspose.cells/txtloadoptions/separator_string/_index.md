@@ -3,7 +3,7 @@ title: separator_string propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 370
 url: /es/aspose.cells/txtloadoptions/separator_string/
 is_root: false
 ---

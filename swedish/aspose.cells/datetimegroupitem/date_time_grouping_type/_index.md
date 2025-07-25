@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_time_grouping_type fastighet
 
-Hämtar och ställer in grupptyp.
+Hämtar och anger grupptypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def date_time_grouping_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
-* klass [DateTimeGroupingType](/cells/python-net/sv/aspose.cells/datetimegroupingtype)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* klass [`DateTimeGroupingType`](/cells/python-net/sv/aspose.cells/datetimegroupingtype)

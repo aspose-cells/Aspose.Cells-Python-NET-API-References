@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  first_slice_angle propiedad
 
- Obtiene o establece el ángulo del primer gráfico circular o de anillos, en grados (en el sentido de las agujas del reloj desde la vertical).
-Se aplica solo a gráficos circulares, circulares 3D y de anillos, de 0 a 360.
+ Obtiene o establece el ángulo de la primera porción del gráfico circular o del gráfico de anillos, en grados (en el sentido de las agujas del reloj desde la vertical).
+Se aplica únicamente a gráficos circulares, circulares 3D y de anillos, de 0 a 360.
 ###  Definición:
 ```python
 @property

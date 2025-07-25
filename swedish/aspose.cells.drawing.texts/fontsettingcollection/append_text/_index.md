@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.drawing.texts/fontsettingcollection/append_text/
 is_root: false
 ---
-##  append_text(text) {#str}
+##  append_text(self, text) {#str}
 Lägger till texten.
 
 
 
 ```python
+
 def append_text(self, text):
     ...
 ```
@@ -25,5 +26,5 @@ def append_text(self, text):
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)

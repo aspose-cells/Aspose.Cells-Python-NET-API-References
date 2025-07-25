@@ -3,7 +3,7 @@ title: LightRigType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 920
+weight: 910
 url: /de/aspose.cells.drawing/lightrigtype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Der Typ LightRigType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | BALANCED | Ausgewogen|
-| BRIGHT_ROOM | Heller Raum|
+| BRIGHT_ROOM | Helles Zimmer|
 | CHILLY | Kühl|
 | CONTRASTING | Kontrastierend|
 | FLAT | Wohnung|
@@ -32,21 +32,21 @@ Der Typ LightRigType macht die folgenden Member verfügbar:
 | LEGACY_FLAT4 | LegacyFlat4|
 | LEGACY_HARSH1 | LegacyHarsh1|
 | LEGACY_HARSH2 | LegacyHarsh2|
-| LEGACY_HARSH3 | VermächtnisHarsh3|
-| LEGACY_HARSH4 | VermächtnisHarsh4|
-| LEGACY_NORMAL1 | VermächtnisNormal1|
-| LEGACY_NORMAL2 | VermächtnisNormal2|
-| LEGACY_NORMAL3 | VermächtnisNormal3|
-| LEGACY_NORMAL4 | VermächtnisNormal4|
+| LEGACY_HARSH3 | LegacyHarsh3|
+| LEGACY_HARSH4 | LegacyHarsh4|
+| LEGACY_NORMAL1 | LegacyNormal1|
+| LEGACY_NORMAL2 | LegacyNormal2|
+| LEGACY_NORMAL3 | LegacyNormal3|
+| LEGACY_NORMAL4 | LegacyNormal4|
 | MORNING | Morgen|
 | SOFT | Weich|
 | SUNRISE | Sonnenaufgang|
 | SUNSET | Sonnenuntergang|
-| THREE_POINT | Drei Punkt|
-| TWO_POINT | Zwei Punkt|
-| NONE | Kein leichtes Rig.|
+| THREE_POINT | Drei Punkte|
+| TWO_POINT | Zwei Punkte|
+| NONE | Keine Lichtanlage.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

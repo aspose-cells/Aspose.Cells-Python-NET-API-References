@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar eller ställer in stilens name.
+Hämtar eller anger name för stilen.
 ###  Definition:
 ```python
 @property

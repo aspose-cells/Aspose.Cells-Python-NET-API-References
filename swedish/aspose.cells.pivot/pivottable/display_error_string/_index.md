@@ -3,13 +3,13 @@ title: display_error_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 540
 url: /sv/aspose.cells.pivot/pivottable/display_error_string/
 is_root: false
 ---
 ##  display_error_string fastighet
 
-Anger om pivottabellsrapporten visar en anpassad sträng i celler som innehåller fel.
+Anger om pivottabellrapporten visar en anpassad sträng i celler som innehåller fel.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_error_string(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

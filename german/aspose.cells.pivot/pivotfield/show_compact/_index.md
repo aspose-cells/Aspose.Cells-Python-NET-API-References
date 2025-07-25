@@ -3,13 +3,13 @@ title: show_compact Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 570
+weight: 670
 url: /de/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact Eigentum
 
-Gibt an, ob Beschriftungen aus dem nächsten Feld in derselben Spalte in der Pivot-Tabellenansicht angezeigt werden
+Gibt an, ob Beschriftungen aus dem nächsten Feld in der gleichen Spalte in der PivotTable-Ansicht angezeigt werden sollen.
 ###  Definition:
 ```python
 @property

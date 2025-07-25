@@ -8,54 +8,54 @@ url: /tr/aspose.cells.charts/sparklinepresetstyletype/
 is_root: false
 ---
 ##  SparklinePresetStyleType numaralandırma
-Mini grafik için önceden ayarlanmış stil türlerini temsil eder.
+Kıvılcım çizelgesi için önceden ayarlanmış stil türlerini temsil eder.
 
 
 
-SparklinePresetStyleType türü aşağıdaki üyeleri gösterir:
+SparklinePresetStyleType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| STYLE1 | stil 1|
-| STYLE2 | stil 2|
+| STYLE1 | Stil 1|
+| STYLE2 | Stil 2|
 | STYLE3 | Stil 3|
 | STYLE4 | Stil 4|
 | STYLE5 | Stil 5|
-| STYLE6 | stil 6|
-| STYLE7 | stil 7|
-| STYLE8 | stil 8|
-| STYLE9 | stil 9|
-| STYLE10 | stil 10|
-| STYLE11 | stil 11|
-| STYLE12 |Stil 12|
-| STYLE13 | stil 13|
-| STYLE14 | stil 14|
-| STYLE15 | stil 15|
+| STYLE6 | Stil 6|
+| STYLE7 | Stil 7|
+| STYLE8 | Stil 8|
+| STYLE9 | Stil 9|
+| STYLE10 | Stil 10|
+| STYLE11 | Stil 11|
+| STYLE12 | Stil 12|
+| STYLE13 | Stil 13|
+| STYLE14 | Stil 14|
+| STYLE15 | Stil 15|
 | STYLE16 | Stil 16|
-| STYLE17 | stil 17|
+| STYLE17 | Stil 17|
 | STYLE18 | Stil 18|
-| STYLE19 | stil 19|
-| STYLE20 | stil 20|
-| STYLE21 | stil 21|
-| STYLE22 | stil 22|
-| STYLE23 | stil 23|
-| STYLE24 | stil 24|
-| STYLE25 | stil 25|
-| STYLE26 | stil 26|
-| STYLE27 | stil 27|
-| STYLE28 | stil 28|
-| STYLE29 | stil 29|
-| STYLE30 | stil 30|
-| STYLE31 | stil 31|
-| STYLE32 | stil 32|
-| STYLE33 | stil 33|
+| STYLE19 | Stil 19|
+| STYLE20 | Stil 20|
+| STYLE21 | Stil 21|
+| STYLE22 | Stil 22|
+| STYLE23 | Stil 23|
+| STYLE24 | Stil 24|
+| STYLE25 | Stil 25|
+| STYLE26 | Stil 26|
+| STYLE27 | Stil 27|
+| STYLE28 | Stil 28|
+| STYLE29 |Stil 29|
+| STYLE30 | Stil 30|
+| STYLE31 | Stil 31|
+| STYLE32 | Stil 32|
+| STYLE33 | Stil 33|
 | STYLE34 | Stil 34|
-| STYLE35 | stil 35|
+| STYLE35 | Stil 35|
 | STYLE36 | Stil 36|
-| CUSTOM | Önceden ayarlanmış stil yok.|
+| CUSTOM | Önceden belirlenmiş bir stil yok.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

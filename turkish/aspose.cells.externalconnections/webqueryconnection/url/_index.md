@@ -3,7 +3,7 @@ title: url mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 460
 url: /tr/aspose.cells.externalconnections/webqueryconnection/url/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def url(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [WebQueryConnection](/cells/python-net/tr/aspose.cells.externalconnections/webqueryconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`WebQueryConnection`](/cells/python-net/tr/aspose.cells.externalconnections/webqueryconnection)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  print_with_status_dialog propiedad
 
-Si PrintWithStatusDialog = true, habrá un cuadro de diálogo que muestra el estado de impresión actual.
-de lo contrario, no se mostrará ningún cuadro de diálogo de este tipo.
+Si PrintWithStatusDialog = true, habrá un cuadro de diálogo que mostrará el estado de impresión actual.
+De lo contrario, no se mostrará dicho diálogo.
 ###  Definición:
 ```python
 @property

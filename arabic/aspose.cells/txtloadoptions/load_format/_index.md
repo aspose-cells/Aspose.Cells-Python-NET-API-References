@@ -3,7 +3,7 @@ title: load_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 250
 url: /ar/aspose.cells/txtloadoptions/load_format/
 is_root: false
 ---

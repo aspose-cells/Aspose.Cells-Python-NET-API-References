@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  black_and_white mülk
 
-Belgenin öğelerinin siyah beyaz yazdırılıp yazdırılmayacağını temsil eder.
+Belgenin öğelerinin siyah beyaz olarak yazdırılıp yazdırılmayacağını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def black_and_white(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

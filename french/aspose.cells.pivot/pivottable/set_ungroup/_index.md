@@ -3,16 +3,17 @@ title: méthode set_ungroup
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 280
 url: /fr/aspose.cells.pivot/pivottable/set_ungroup/
 is_root: false
 ---
-##  set_ungroup {#int}
-Définit le dissociation par le tableau croisé dynamique
+##  set_ungroup(self, base_field_index) {#int}
+Ensembles dégroupés par le tableau croisé dynamique
 
 
 
 ```python
+
 def set_ungroup(self, base_field_index):
     ...
 ```
@@ -20,20 +21,21 @@ def set_ungroup(self, base_field_index):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| base_field_index | int | L'index des champs de ligne ou de colonne dans les champs de base|
+| base_field_index | int | L'index du champ de ligne ou de colonne dans les champs de base|
 ###  Remarques
 
-REMARQUE : Cette méthode est désormais obsolète. Plutôt,
+REMARQUE : Cette méthode est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotField.Ungroup().
- Cette méthode sera supprimée 12 mois plus tard depuis octobre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette méthode sera supprimée 12 mois plus tard soit en octobre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
-##  set_ungroup {#aspose.cells.pivot.PivotField}
-Définit le dissociation par le tableau croisé dynamique
+##  set_ungroup(self, pivot_field) {#aspose.cells.pivot.PivotField}
+Ensembles dégroupés par le tableau croisé dynamique
 
 
 
 ```python
+
 def set_ungroup(self, pivot_field):
     ...
 ```
@@ -44,10 +46,10 @@ def set_ungroup(self, pivot_field):
 | pivot_field | [`PivotField`](/cells/python-net/fr/aspose.cells.pivot/pivotfield) | Le champ de ligne ou de colonne dans les champs de base|
 ###  Remarques
 
-REMARQUE : Cette méthode est désormais obsolète. Plutôt,
+REMARQUE : Cette méthode est désormais obsolète. À la place,
 veuillez utiliser la méthode PivotField.Ungroup().
- Cette méthode sera supprimée 12 mois plus tard depuis octobre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette méthode sera supprimée 12 mois plus tard soit en octobre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 
 
 ###  Voir également

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_leader_lines propriété
 
-Vrai si la série comporte des lignes de repère.
+Vrai si la série a des lignes de repère.
 ###  Définition:
 ```python
 @property

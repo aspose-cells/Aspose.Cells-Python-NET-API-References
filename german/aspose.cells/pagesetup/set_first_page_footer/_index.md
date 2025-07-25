@@ -7,12 +7,13 @@ weight: 150
 url: /de/aspose.cells/pagesetup/set_first_page_footer/
 is_root: false
 ---
-##  set_first_page_footer(section, footer_script) {#int-str}
+##  set_first_page_footer(self, section, footer_script) {#int-str}
 Legt ein Skript fest, das die Fußzeile der ersten Seite einer Excel-Datei formatiert.
 
 
 
 ```python
+
 def set_first_page_footer(self, section, footer_script):
     ...
 ```
@@ -20,11 +21,11 @@ def set_first_page_footer(self, section, footer_script):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| section | int | 0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
-| footer_script | str | Skript für das Fußzeilenformat.|
+| section | int |0: Linker Abschnitt, 1: Mittlerer Abschnitt, 2: Rechter Abschnitt.|
+| footer_script | str | Skript zum Fußzeilenformat.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

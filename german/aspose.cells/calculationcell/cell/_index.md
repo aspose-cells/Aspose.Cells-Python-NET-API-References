@@ -18,6 +18,6 @@ def cell(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CalculationCell](/cells/python-net/de/aspose.cells/calculationcell)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationCell`](/cells/python-net/de/aspose.cells/calculationcell)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

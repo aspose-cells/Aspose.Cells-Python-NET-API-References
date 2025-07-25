@@ -1,15 +1,15 @@
 ---
-title: start_angle الملكية
+title: start_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 410
 url: /ar/aspose.cells.charts/chartpoint/start_angle/
 is_root: false
 ---
-##  start_angle الملكية
+##  start_angle عقار
 
-الحصول على زاوية البداية للقسم الدائري ، مقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني بعد استدعاء طريقة Chart.Calculate ().
+يحصل على زاوية البداية لقسم الفطيرة، والتي يتم قياسها بالدرجات في اتجاه عقارب الساعة من المحور x بعد استدعاء طريقة Chart.Calculate().
 ينطبق على الرسم البياني الدائري.
 ###  تعريف:
 ```python
@@ -19,5 +19,5 @@ def start_angle(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

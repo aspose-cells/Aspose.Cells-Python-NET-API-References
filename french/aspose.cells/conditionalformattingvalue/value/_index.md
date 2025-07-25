@@ -10,11 +10,11 @@ is_root: false
 ##  value propriété
 
 Obtenez ou définissez le value de cet objet de mise en forme conditionnelle value.
-Il doit être utilisé conjointement avec Type.
+Il doit être utilisé en conjonction avec Type.
 
 ###  Remarques
 
-Si le value est une chaîne et commence par "=", il sera traité comme une formule,
+Si le value est une chaîne et commence par « = », il sera traité comme une formule,
 sinon nous le traiterons comme un simple value.
 ###  Définition:
 ```python
@@ -27,5 +27,5 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingValue](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingValue`](/cells/python-net/fr/aspose.cells/conditionalformattingvalue)

@@ -3,7 +3,7 @@ title: pivot_tables属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 710
+weight: 740
 url: /zh/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---

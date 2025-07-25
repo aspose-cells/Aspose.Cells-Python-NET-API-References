@@ -7,12 +7,13 @@ weight: 80
 url: /sv/aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
-##  get_conditional_formatting_result() {#}
-Få resultatet av den villkorliga formateringen.
+##  get_conditional_formatting_result(self) {#}
+Hämta resultatet av den villkorliga formateringen.
 
 
 
 ```python
+
 def get_conditional_formatting_result(self):
     ...
 ```
@@ -20,10 +21,10 @@ def get_conditional_formatting_result(self):
 
 ###  Anmärkningar
 
-Returnerar null om ingen villkorlig formatering tillämpas på den här cellen,
+Returnerar null om ingen villkorsstyrd formatering tillämpas på den här cellen,
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

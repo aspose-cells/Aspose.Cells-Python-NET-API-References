@@ -3,12 +3,12 @@ title: NumberCategoryType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /sv/aspose.cells/numbercategorytype/
 is_root: false
 ---
 ##  NumberCategoryType uppräkning
-Representerar kategorityp av cells nummerformatering.
+Representerar kategoritypen för cellens talformatering.
 
 
 
@@ -19,10 +19,10 @@ Typen NumberCategoryType avslöjar följande medlemmar:
 | :- | :- |
 | GENERAL | Allmän|
 | TEXT | Text|
-| NUMBER | siffra|
-| DATE | Datum eller Datum och tid|
+| NUMBER | Antal|
+| DATE | Datum eller datum och tid|
 | TIME | Tid|
-| FRACTION | Fraktion|
+| FRACTION |Fraktion|
 | SCIENTIFIC | Vetenskaplig|
 
 

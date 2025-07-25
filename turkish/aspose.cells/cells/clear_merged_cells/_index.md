@@ -7,12 +7,13 @@ weight: 120
 url: /tr/aspose.cells/cells/clear_merged_cells/
 is_root: false
 ---
-##  clear_merged_cells() {#}
-Tüm birleştirilmiş aralıkları temizler.
+##  clear_merged_cells(self) {#}
+Birleştirilmiş tüm aralıkları temizler.
 
 
 
 ```python
+
 def clear_merged_cells(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_merged_cells(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Cells](/cells/python-net/tr/aspose.cells/cells)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cells`](/cells/python-net/tr/aspose.cells/cells)

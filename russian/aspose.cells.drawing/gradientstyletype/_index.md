@@ -1,31 +1,31 @@
 ---
 title: GradientStyleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 890
+weight: 880
 url: /ru/aspose.cells.drawing/gradientstyletype/
 is_root: false
 ---
 ##  GradientStyleType перечисление
-Представляет стиль градиентного затенения.
+Представляет стиль градиентной заливки.
 
 
 
-Тип GradientStyleType предоставляет следующие члены:
+Тип GradientStyleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DIAGONAL_DOWN | Диагональный стиль затенения вниз|
-| DIAGONAL_UP | Диагональный стиль затенения вверх|
+| DIAGONAL_DOWN | Стиль диагональной штриховки вниз|
+| DIAGONAL_UP | Стиль диагональной заливки снизу вверх|
 | FROM_CENTER | Стиль затенения от центра|
-| FROM_CORNER | От углового стиля затенения|
-| HORIZONTAL | Горизонтальный стиль затенения|
-| VERTICAL | Вертикальный стиль затенения|
-| UNKNOWN |Неизвестный стиль затенения. Только для стиля затенения (который не относится ни к одному члену GradientStyleType) в файле шаблона.|
+| FROM_CORNER | Из стиля угловой штриховки|
+| HORIZONTAL | Стиль горизонтальной штриховки|
+| VERTICAL | Стиль вертикальной штриховки|
+| UNKNOWN | Неизвестный стиль штриховки. Только для стиля штриховки (который не относится ни к одному элементу GradientStyleType) в файле шаблона.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

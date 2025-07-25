@@ -11,15 +11,15 @@ is_root: false
 
 Ruft die kulturabhängige Musterzeichenfolge für das Zahlenformat ab und legt sie fest.
 Wenn für dieses Objekt kein Zahlenformat festgelegt wurde, wird null zurückgegeben.
-Wenn das Zahlenformat eingebaut ist, wird die Musterzeichenfolge zurückgegeben, die der eingebauten Zahl entspricht.
+Wenn das Zahlenformat integriert ist, wird die Musterzeichenfolge zurückgegeben, die der integrierten Zahl entspricht.
 
 ###  Bemerkungen
 
-Für das integrierte Zahlenformat sind sowohl der Musterinhalt (z. B. ein integriertes Datumsformat ist „m/d/y“ für einige Gebietsschemata,
-aber für einige andere Gebietsschemas wird es "d/m/y") und der Formatbezeichner (wie z.
-einige Gebietsschemas verwenden andere Zeichen als „y“, um den Jahresteil für die Datumsformatierung darzustellen)
+Für das integrierte Zahlenformat ist sowohl der Musterinhalt (z. B. ist ein integriertes Datumsformat für einige Gebietsschemas "m/d/y",
+aber für einige andere Gebietsschemas wird es zu "d/m/y") und der Formatbezeichner(wie etwa
+einige Gebietsschemas verwenden ein anderes Zeichen als „y“, um den Jahresteil für die Datumsformatierung darzustellen)
 sind kulturabhängig;
-Für vom Benutzer angegebene benutzerdefinierte Formate werden nur Formatbezeichner entsprechend der Kultur geändert,
+Für benutzerdefinierte Formate werden nur die Formatbezeichner entsprechend der Kultur geändert.
 andere Teile des Formatierungsmusters werden nicht geändert.
 ###  Definition:
 ```python
@@ -32,5 +32,5 @@ def culture_custom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

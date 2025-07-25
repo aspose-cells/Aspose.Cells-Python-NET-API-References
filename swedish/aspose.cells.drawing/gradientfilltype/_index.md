@@ -3,7 +3,7 @@ title: GradientFillType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 870
+weight: 860
 url: /sv/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen GradientFillType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

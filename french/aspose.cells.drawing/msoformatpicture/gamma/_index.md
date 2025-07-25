@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gamma propriété
 
-Représente gamma de la photo.
+Représente le gamma de l'image.
 ###  Définition:
 ```python
 @property

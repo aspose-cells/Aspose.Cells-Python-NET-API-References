@@ -3,13 +3,13 @@ title: globalization_settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 230
 url: /ar/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---
 ##  globalization_settings عقار
 
-الحصول على إعدادات العولمة وتعيينها.
+يحصل على إعدادات العولمة ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property

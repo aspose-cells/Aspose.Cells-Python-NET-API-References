@@ -3,13 +3,13 @@ title: pivot_table_style_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 850
 url: /tr/aspose.cells.pivot/pivottable/pivot_table_style_name/
 is_root: false
 ---
 ##  pivot_table_style_name mülk
 
-Pivot tablo stili adını alır ve ayarlar.
+Pivottable stil adını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def pivot_table_style_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

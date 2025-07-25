@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells/rangecollection/add/
 is_root: false
 ---
-##  add(range) {#Range}
-Lägger till ett [Range](/cells/python-net/sv/aspose.cells/range) föremål till samlingen.
+##  add(self, range) {#aspose.cells.Range}
+Lägger till en [`Range`](/cells/python-net/sv/aspose.cells/range)-artikel i samlingen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägger till ett [Range](/cells/python-net/sv/aspose.cells/range) föremål till
 
 
 ```python
+
 def add(self, range):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/sv/aspose.cells/range) | Räckviddsobjekt|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Range-objekt|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
-* klass [RangeCollection](/cells/python-net/sv/aspose.cells/rangecollection)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)
+* klass [`RangeCollection`](/cells/python-net/sv/aspose.cells/rangecollection)

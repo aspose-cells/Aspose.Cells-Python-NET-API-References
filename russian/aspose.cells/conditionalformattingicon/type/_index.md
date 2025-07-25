@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ConditionalFormattingIcon](/cells/python-net/ru/aspose.cells/conditionalformattingicon)
-* класс [IconSetType](/cells/python-net/ru/aspose.cells/iconsettype)
+* модуль [`aspose.cells`](../../)
+* класс [`ConditionalFormattingIcon`](/cells/python-net/ru/aspose.cells/conditionalformattingicon)
+* класс [`IconSetType`](/cells/python-net/ru/aspose.cells/iconsettype)

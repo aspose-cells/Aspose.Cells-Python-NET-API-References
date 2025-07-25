@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Mini grafiğin row dizinini alır.
+Sparkline'ın row indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Sparkline](/cells/python-net/tr/aspose.cells.charts/sparkline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)

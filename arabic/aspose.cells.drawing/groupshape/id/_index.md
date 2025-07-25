@@ -3,7 +3,7 @@ title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 530
+weight: 520
 url: /ar/aspose.cells.drawing/groupshape/id/
 is_root: false
 ---

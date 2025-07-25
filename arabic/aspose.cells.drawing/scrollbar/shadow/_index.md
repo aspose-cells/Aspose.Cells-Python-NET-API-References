@@ -3,13 +3,13 @@ title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ar/aspose.cells.drawing/scrollbar/shadow/
 is_root: false
 ---
 ##  shadow عقار
 
-الإشارة إلى ما إذا كان الشكل يحتوي على تظليل ثلاثي الأبعاد.
+يشير إلى ما إذا كان الشكل يحتوي على تظليل ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property

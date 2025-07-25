@@ -3,7 +3,7 @@ title: clear_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 120
 url: /sv/aspose.cells/htmlsaveoptions/clear_data/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: upper_left_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /tr/aspose.cells.drawing/scrollbar/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column mülk
 
-Sol üst köşe sütun dizinini temsil eder.
+Sol üst köşedeki sütun indeksini temsil eder.
 
 ###  Örnek
 

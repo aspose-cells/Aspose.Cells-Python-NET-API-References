@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  custom_path fastighet
 
-Användarens anpassade sökväg (URL) sparad i genererad html-fil för den refererade källan. Om det inte är definierat av användaren kommer DefaultPath att användas.
-Till exempel kommer arkdata att sparas av användaren till d:/sheet001.htm, webbadressen som används i huvud-html-filen ska vara "d:/sheet001.htm" eller annan giltig relativ sökväg som kan nås av huvud-html fil.
+Användarens anpassade sökväg (URL) sparas i den genererade HTML-filen för den refererade källan. Om den inte definieras av användaren kommer DefaultPath att användas.
+Till exempel, om arkdatan sparas av användaren till d:/sheet001.htm, bör URL:en som används i den huvudsakliga html-filen vara "d:/sheet001.htm" eller annan giltig relativ sökväg som kan nås från den huvudsakliga html-filen.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def custom_path(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StreamProviderOptions](/cells/python-net/sv/aspose.cells/streamprovideroptions)
+* modul [`aspose.cells`](../../)
+* klass [`StreamProviderOptions`](/cells/python-net/sv/aspose.cells/streamprovideroptions)

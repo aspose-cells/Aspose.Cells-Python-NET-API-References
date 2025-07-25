@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /fr/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Ajoute une cellule d'entrée.
 
 
@@ -17,6 +17,7 @@ Ajoute une cellule d'entrée.
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, row, column, value):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| row | int | Index de ligne de la cellule d'entrée.|
-| column | int | Index de colonne de la cellule d'entrée.|
+| row | int | L'index de ligne de la cellule d'entrée.|
+| column | int | L'index de colonne de la cellule d'entrée.|
 | value | str | La valeur de la cellule d'entrée.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ScenarioInputCellCollection](/cells/python-net/fr/aspose.cells/scenarioinputcellcollection)
+* module [`aspose.cells`](../../)
+* classe [`ScenarioInputCellCollection`](/cells/python-net/fr/aspose.cells/scenarioinputcellcollection)

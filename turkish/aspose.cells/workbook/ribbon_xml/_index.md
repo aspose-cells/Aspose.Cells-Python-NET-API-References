@@ -3,7 +3,7 @@ title: ribbon_xml mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 670
 url: /tr/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---

@@ -3,12 +3,12 @@ title: CalcModeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1880
+weight: 1780
 url: /tr/aspose.cells/calcmodetype/
 is_root: false
 ---
 ##  CalcModeType numaralandırma
-Hesaplama formüllerinin mod türünü temsil eder.
+Formüllerin hesaplanma modunu temsil eder.
 
 
 
@@ -25,7 +25,7 @@ CalcModeType türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Notlar
 
-Yalnızca MS Excel için ayarlar.
+Sadece MS Excel için geçerlidir.
 
 ###  Ayrıca bakınız
 * modül [`aspose.cells`](..)

@@ -3,13 +3,13 @@ title: top_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/aspose.cells.drawing/spinner/top_cm/
 is_root: false
 ---
 ##  top_cm mülk
 
-Şeklin üst satırından dikey uzaklığını santimetre cinsinden temsil eder.
+Şeklin üst sırasından dikey uzaklığını santimetre cinsinden gösterir.
 
 ###  Örnek
 

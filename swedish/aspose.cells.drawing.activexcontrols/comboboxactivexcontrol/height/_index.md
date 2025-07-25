@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/height/
 is_root: false
 ---
 ##  height fastighet
-
-Hämtar och ställer in height för kontrollen i poängenhet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

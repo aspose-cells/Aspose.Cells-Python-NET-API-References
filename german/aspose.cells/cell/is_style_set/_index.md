@@ -3,7 +3,7 @@ title: is_style_set Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 640
+weight: 670
 url: /de/aspose.cells/cell/is_style_set/
 is_root: false
 ---

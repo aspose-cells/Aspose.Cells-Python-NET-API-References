@@ -3,13 +3,13 @@ title: show_compact fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 670
 url: /sv/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact fastighet
 
-Anger om etiketter från nästa fält i samma kolumn visas i pivottabellvyn
+Anger om etiketter från nästa fält i samma kolumn ska visas i pivottabellvyn
 ###  Definition:
 ```python
 @property

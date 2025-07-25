@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_selecting_locked_cell propiedad
 
-Representa si el usuario puede seleccionar celdas bloqueadas en una hoja de cálculo protegida.
+Representa si al usuario se le permite seleccionar celdas bloqueadas en una hoja de cálculo protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_selecting_locked_cell(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

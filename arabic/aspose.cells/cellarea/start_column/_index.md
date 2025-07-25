@@ -1,5 +1,5 @@
 ---
-title: start_column الملكية
+title: start_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,14 @@ weight: 70
 url: /ar/aspose.cells/cellarea/start_column/
 is_root: false
 ---
-##  start_column الملكية
+##  start_column عقار
 
-الحصول على أو تعيين عمود البداية لهذه المنطقة.
+يحصل على عمود البداية لهذه المنطقة أو يعينه.
+###  تعريف:
+```python
+f start_column 
+```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)

@@ -3,13 +3,13 @@ title: standard_height_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1250
+weight: 1280
 url: /de/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
 ##  standard_height_inch Eigentum
 
-Ruft die Standardzeilenhöhe in diesem Arbeitsblatt in der Einheit Zoll ab oder legt diese fest.
+Ruft die Standardzeilenhöhe in diesem Arbeitsblatt in Zoll ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

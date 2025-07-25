@@ -1,22 +1,23 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Aggiunge un foglio di lavoro alla raccolta.
 
 
 ###  ritorna
 
-[Worksheet](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
+[`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
+##  add(self, type) {#aspose.cells.SheetType}
 Aggiunge un foglio di lavoro alla raccolta.
 
 
 ###  ritorna
 
-[Worksheet](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
+[`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) indice oggetto.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/it/aspose.cells/sheettype) | Tipo di foglio di lavoro.|
+| type | [`SheetType`](/cells/python-net/it/aspose.cells/sheettype) | Tipo di foglio di lavoro.|
 
 ###  Esempio
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
+##  add(self, sheet_name) {#str}
 Aggiunge un foglio di lavoro alla raccolta.
 
 
 ###  ritorna
 
-[Worksheet](/cells/python-net/it/aspose.cells/worksheet) oggetto.
+[`Worksheet`](/cells/python-net/it/aspose.cells/worksheet) oggetto.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -87,6 +90,6 @@ def add(self, sheet_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

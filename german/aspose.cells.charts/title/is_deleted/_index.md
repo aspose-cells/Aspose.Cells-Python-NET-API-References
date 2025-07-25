@@ -3,7 +3,7 @@ title: is_deleted Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 270
 url: /de/aspose.cells.charts/title/is_deleted/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Title](/cells/python-net/de/aspose.cells.charts/title)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Title`](/cells/python-net/de/aspose.cells.charts/title)

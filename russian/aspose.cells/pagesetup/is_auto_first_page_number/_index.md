@@ -1,6 +1,6 @@
 ---
 title: is_auto_first_page_number недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_first_page_number недвижимость
 
-Указывает, присваивается ли автоматически номер первой страницы.
+Указывает, будет ли автоматически присваиваться номер первой страницы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_first_page_number(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

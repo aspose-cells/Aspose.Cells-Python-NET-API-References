@@ -8,21 +8,21 @@ url: /tr/aspose.cells.drawing/weighttype/
 is_root: false
 ---
 ##  WeightType numaralandırma
-Resim kenarlığı veya grafik çizgisi için ağırlık türlerini numaralandırır.
+Bir resim kenarlığı veya grafik çizgisi için ağırlık türlerini sıralar.
 
 
 
-WeightType türü aşağıdaki üyeleri gösterir:
+WeightType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | HAIR_LINE | Saç çizgisinin ağırlığını temsil eder.|
 | MEDIUM_LINE | Orta çizginin ağırlığını temsil eder.|
 | SINGLE_LINE | Tek satırın ağırlığını temsil eder.|
-| WIDE_LINE | Geniş çizginin ağırlığını temsil eder.|
+| WIDE_LINE |Geniş çizginin ağırlığını temsil eder.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

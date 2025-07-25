@@ -17,17 +17,17 @@ Le type WebExtensionBinding expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [WebExtensionBinding()](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/__init__/#) | Construit une nouvelle instance de WebExtensionBinding|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/__init__/#) |Construit une nouvelle instance de WebExtensionBinding|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [id](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/id) | Obtient et définit l'identificateur de liaison.|
+| [id](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/id) | Obtient et définit l'identifiant de liaison.|
 | [type](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/type) | Obtient et définit le type de liaison.|
 | [appref](/cells/python-net/fr/aspose.cells.webextensions/webextensionbinding/appref) | Obtient et définit la clé de liaison utilisée pour mapper l'entrée de liaison dans cette liste avec les données liées dans le document.|
 
 
 
 ###  Voir également
-* module [aspose.cells.webextensions](..)
+* module [`aspose.cells.webextensions`](..)

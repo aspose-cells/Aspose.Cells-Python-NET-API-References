@@ -3,7 +3,7 @@ title: linked_cell propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 770
+weight: 780
 url: /fr/aspose.cells.drawing/spinner/linked_cell/
 is_root: false
 ---

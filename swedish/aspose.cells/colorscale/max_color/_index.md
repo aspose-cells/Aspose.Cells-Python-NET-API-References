@@ -21,5 +21,5 @@ def max_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ColorScale](/cells/python-net/sv/aspose.cells/colorscale)
+* modul [`aspose.cells`](../../)
+* klass [`ColorScale`](/cells/python-net/sv/aspose.cells/colorscale)

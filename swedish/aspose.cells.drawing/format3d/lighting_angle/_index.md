@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_angle fastighet
 
-Hämtar och ställer in belysningsvinkeln. Spänning från 0 till 359,9 grader.
+Hämtar och ställer in ljusvinkeln. Intervall från 0 till 359,9 grader.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def lighting_angle(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Format3D](/cells/python-net/sv/aspose.cells.drawing/format3d)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Format3D`](/cells/python-net/sv/aspose.cells.drawing/format3d)

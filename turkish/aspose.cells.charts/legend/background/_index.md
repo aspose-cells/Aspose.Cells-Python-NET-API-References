@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  background mülk
 
-background'in görüntü modunu alır ve ayarlar
+background'in görüntüleme modunu alır ve ayarlar
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen ChartFrame.BackgroundMode özelliğini kullanın.
- Bu mülk OCAK 2012'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen ChartFrame.BackgroundMode özelliğini kullanın.
+ Bu özellik OCAK 2012'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

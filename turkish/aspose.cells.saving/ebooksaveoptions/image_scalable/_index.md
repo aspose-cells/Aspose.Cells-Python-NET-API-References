@@ -3,14 +3,14 @@ title: image_scalable mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 470
+weight: 540
 url: /tr/aspose.cells.saving/ebooksaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable mülk
 
-Görüntü genişliğini tanımlamak için ölçeklenebilir birimin kullanılıp kullanılmayacağını belirtir
-sütun genişliğini tanımlamak için ölçeklenebilir birim kullanıldığında.
+Görüntü genişliğini tanımlamak için ölçeklenebilir bir birim kullanılıp kullanılmayacağını belirtir
+Sütun genişliğini tanımlamak için ölçeklenebilir birim kullanıldığında.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python

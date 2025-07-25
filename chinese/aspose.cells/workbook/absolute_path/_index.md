@@ -3,15 +3,15 @@ title: absolute_path属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 460
 url: /zh/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
 ## absolute_path属性
 
-获取和设置文件的绝对路径。
+获取并设置文件的绝对路径。
 
-### 评论
+### 注意事项
 
 仅用于外部链接。
 ### 定义：

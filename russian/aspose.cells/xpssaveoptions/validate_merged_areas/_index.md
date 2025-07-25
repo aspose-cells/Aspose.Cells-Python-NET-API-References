@@ -1,19 +1,13 @@
 ---
 title: validate_merged_areas недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 340
 url: /ru/aspose.cells/xpssaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas недвижимость
-
-Указывает, следует ли проверять объединенные ячейки перед сохранением файла.
-
-###  Примечания
-
-Значение по умолчанию неверно.
 ###  Определение:
 ```python
 @property

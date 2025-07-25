@@ -3,7 +3,7 @@ title: height fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 440
 url: /sv/aspose.cells/range/height/
 is_root: false
 ---

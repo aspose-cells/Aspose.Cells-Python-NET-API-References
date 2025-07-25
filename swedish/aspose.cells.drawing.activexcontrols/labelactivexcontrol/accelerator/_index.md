@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  accelerator fastighet
 
-Hämtar och ställer in accelerator-nyckeln för kontrollen.
+Hämtar och ställer in nyckeln accelerator för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def accelerator(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [LabelActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`LabelActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

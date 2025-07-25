@@ -3,7 +3,7 @@ title: shadow propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 340
 url: /es/aspose.cells.charts/charttextframe/shadow/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartTextFrame](/cells/python-net/es/aspose.cells.charts/charttextframe)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartTextFrame`](/cells/python-net/es/aspose.cells.charts/charttextframe)

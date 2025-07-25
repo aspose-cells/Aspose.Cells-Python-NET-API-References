@@ -1,18 +1,19 @@
 ---
 title: CustomPiovtFieldGroupItem costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __dentro__ {#str-list}
-Il costruttore dell'elemento del gruppo personalizzato del campo pivot.
+##  \_\_init\_\_(self, nome, indici_elemento){#str-list}
+Costruttore dell'elemento di gruppo personalizzato del campo pivot.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions propiedad
 
-Obtiene y establece el texto que se muestra al usuario en el momento de la firma.
+Obtiene o establece el texto que se muestra al usuario en el momento de firmar.
 
 ###  Ejemplo
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

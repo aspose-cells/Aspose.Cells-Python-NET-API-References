@@ -3,7 +3,7 @@ title: BevelType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 780
+weight: 770
 url: /es/aspose.cells.drawing/beveltype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo BevelType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | sin bisel|
+| NONE | Sin bisel|
 | ANGLE | Ángulo|
-| ART_DECO | Arte deco|
+| ART_DECO | Art déco|
 | CIRCLE | Círculo|
 | CONVEX | Convexo|
 | COOL_SLANT | Inclinación fresca|
@@ -27,11 +27,11 @@ El tipo BevelType expone los siguientes miembros:
 | DIVOT | Chuleta|
 | HARD_EDGE | Borde duro|
 | RELAXED_INSET | Recuadro relajado|
-| RIBLET | costillar|
+| RIBLET | Riblet|
 | SLOPE | Pendiente|
 | SOFT_ROUND | Redondo suave|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

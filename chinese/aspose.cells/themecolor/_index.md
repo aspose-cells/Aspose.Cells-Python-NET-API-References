@@ -3,12 +3,12 @@ title: ThemeColor类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1500
+weight: 1400
 url: /zh/aspose.cells/themecolor/
 is_root: false
 ---
 ## ThemeColor类
-代表一种主题颜色。
+代表主题颜色。
 
 
 
@@ -17,14 +17,14 @@ ThemeColor 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
+| [`__init__(self, type, tint)`](/cells/python-net/zh/aspose.cells/themecolor/__init__/#aspose.cells.themecolortype-float) |  |
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [color_type](/cells/python-net/zh/aspose.cells/themecolor/color_type) |获取和设置主题类型。|
-| [tint](/cells/python-net/zh/aspose.cells/themecolor/tint) |获取和设置色调值。|
+| [color_type](/cells/python-net/zh/aspose.cells/themecolor/color_type) |获取并设置主题类型。|
+| [tint](/cells/python-net/zh/aspose.cells/themecolor/tint) |获取并设置色调值。|
 
 
 

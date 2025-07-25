@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contour_width propiedad
 
-Obtiene y establece el ancho del contorno de la forma, en unidades de puntos.
+Obtiene y establece el ancho del contorno en la forma, en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def contour_width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

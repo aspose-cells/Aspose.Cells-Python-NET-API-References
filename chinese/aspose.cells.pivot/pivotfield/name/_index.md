@@ -3,13 +3,13 @@ title: name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 570
 url: /zh/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---
 ## name属性
 
-代表PivotField的name。
+代表 PivotField 的 name。
 ### 定义：
 ```python
 @property

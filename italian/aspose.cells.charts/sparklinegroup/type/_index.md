@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 270
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
-* classe [SparklineType](/cells/python-net/it/aspose.cells.charts/sparklinetype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* classe [`SparklineType`](/cells/python-net/it/aspose.cells.charts/sparklinetype)

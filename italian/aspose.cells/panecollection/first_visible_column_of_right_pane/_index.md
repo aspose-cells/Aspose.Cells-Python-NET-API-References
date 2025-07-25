@@ -1,6 +1,6 @@
 ---
 title: first_visible_column_of_right_pane proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def first_visible_column_of_right_pane(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PaneCollection](/cells/python-net/it/aspose.cells/panecollection)
+* modulo [`aspose.cells`](../../)
+* classe [`PaneCollection`](/cells/python-net/it/aspose.cells/panecollection)

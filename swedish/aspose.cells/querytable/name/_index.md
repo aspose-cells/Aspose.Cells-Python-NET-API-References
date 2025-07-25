@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar frågetabellens name.
+Hämtar name från frågetabellen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [QueryTable](/cells/python-net/sv/aspose.cells/querytable)
+* modul [`aspose.cells`](../../)
+* klass [`QueryTable`](/cells/python-net/sv/aspose.cells/querytable)

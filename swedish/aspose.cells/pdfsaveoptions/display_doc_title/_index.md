@@ -3,17 +3,17 @@ title: display_doc_title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 190
 url: /sv/aspose.cells/pdfsaveoptions/display_doc_title/
 is_root: false
 ---
 ##  display_doc_title fastighet
 
-Indikerar om fönstrets namnlist ska visa dokumentets titel.
+Anger om fönstrets titelrad ska visa dokumentets titel.
 
 ###  Anmärkningar
 
-Om det är falskt ska namnlisten istället visa namnet på filen PDF.
+Om det är falskt, bör titelfältet istället visa namnet på filen PDF.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -26,5 +26,5 @@ def display_doc_title(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

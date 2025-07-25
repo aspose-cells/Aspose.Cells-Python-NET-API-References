@@ -3,7 +3,7 @@ title: MsoLineFormatHelper klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 350
 url: /sv/aspose.cells.drawing/msolineformathelper/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Typen MsoLineFormatHelper avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [is_visible](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/is_visible) | Indikerar om objektet är synligt.|
-| [style](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/style) | Returnerar ett Style-objekt som representerar stilen för det angivna intervallet.|
-| [fore_color](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/fore_color) | Hämtar och ställer in gränslinjens framfärg.|
-| [back_color](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/back_color) | Hämtar och ställer in gränslinjens bakfärg.|
-| [dash_style](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/dash_style) | Hämtar eller ställer in bindestreckstilen för den angivna raden.|
-| [transparency](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/transparency) | Returnerar eller ställer in graden av transparens för den angivna fyllningen som ett värde från 0,0 (opak) till 1,0 (ren).|
-| [weight](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/weight) | Returnerar eller ställer in linjens vikt, i enheter av pt.|
+| [is_visible](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/is_visible) | Anger om objektet är synligt.|
+| [style](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/style) | Returnerar ett Style-objekt som representerar stilen för det angivna området.|
+| [fore_color](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/fore_color) | Hämtar och anger kantlinjens förfärg.|
+| [back_color](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/back_color) | Hämtar och ställer in kantlinjens bakfärg.|
+| [dash_style](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/dash_style) | Hämtar eller ställer in streckstilen för den angivna linjen.|
+| [transparency](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/transparency) | Returnerar eller anger graden av genomskinlighet för den angivna fyllningen som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
+| [weight](/cells/python-net/sv/aspose.cells.drawing/msolineformathelper/weight) | Returnerar eller anger linjens vikt i enheter av pt.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

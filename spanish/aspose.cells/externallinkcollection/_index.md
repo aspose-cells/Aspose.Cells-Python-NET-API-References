@@ -3,12 +3,12 @@ title: ExternalLinkCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 580
 url: /es/aspose.cells/externallinkcollection/
 is_root: false
 ---
 ##  ExternalLinkCollection clase
-Representa una colección de enlaces externos en un libro de trabajo.
+Representa la colección de enlaces externos en un libro de trabajo.
 
 
 
@@ -17,26 +17,26 @@ El tipo ExternalLinkCollection expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [count](/cells/python-net/es/aspose.cells/externallinkcollection/count) | Obtiene el número de elementos que realmente contiene la colección.|
+| [count](/cells/python-net/es/aspose.cells/externallinkcollection/count) | Obtiene el número de elementos realmente contenidos en la colección.|
 
 
 
 Obtiene el elemento [`ExternalLink`](/cells/python-net/es/aspose.cells/externallink) en el índice especificado.
-###  indexador
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
-| [index] | El índice de base cero del elemento.|
+| [index] | El índice basado en cero del elemento.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add](/cells/python-net/es/aspose.cells/externallinkcollection/add/#str-list) | Agrega un enlace externo.|
-| [add](/cells/python-net/es/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Añade un enlace externo.|
-| [clear](/cells/python-net/es/aspose.cells/externallinkcollection/clear/#) | Elimina todos los enlaces externos.|
-| [clear](/cells/python-net/es/aspose.cells/externallinkcollection/clear/#bool) | Elimina todos los enlaces externos.|
-| [remove_at](/cells/python-net/es/aspose.cells/externallinkcollection/remove_at/#int) | Elimina el enlace externo especificado del libro de trabajo.|
-| [remove_at](/cells/python-net/es/aspose.cells/externallinkcollection/remove_at/#int-bool) | Elimina el enlace externo especificado del libro de trabajo.|
+| [`add(self, file_name, sheet_names)`](/cells/python-net/es/aspose.cells/externallinkcollection/add/#str-list) | Agrega un enlace externo.|
+| [`add(self, directory_type, file_name, sheet_names)`](/cells/python-net/es/aspose.cells/externallinkcollection/add/#aspose.cells.directorytype-str-list) | Añadir un enlace externo .|
+| [`clear(self)`](/cells/python-net/es/aspose.cells/externallinkcollection/clear/#) | Elimina todos los enlaces externos.|
+| [`clear(self, update_references_as_local)`](/cells/python-net/es/aspose.cells/externallinkcollection/clear/#bool) | Elimina todos los enlaces externos.|
+| [`remove_at(self, index)`](/cells/python-net/es/aspose.cells/externallinkcollection/remove_at/#int) | Elimina el enlace externo especificado del libro de trabajo.|
+| [`remove_at(self, index, update_references_as_local)`](/cells/python-net/es/aspose.cells/externallinkcollection/remove_at/#int-bool) | Elimina el enlace externo especificado del libro de trabajo.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_type Eigentum
 
-Gibt eine Pfeilspitze für das Ende einer Linie an.
+Gibt eine Pfeilspitze für das Ende einer Zeile an.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [MsoArrowheadStyle](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`MsoArrowheadStyle`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadstyle)

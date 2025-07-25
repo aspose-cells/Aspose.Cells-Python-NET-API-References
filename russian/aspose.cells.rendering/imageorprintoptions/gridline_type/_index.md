@@ -1,9 +1,9 @@
 ---
 title: gridline_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells.rendering/imageorprintoptions/gridline_type/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-По умолчанию используется пунктирный тип.
+По умолчанию используется точечный тип.
 ###  Определение:
 ```python
 @property

@@ -3,13 +3,13 @@ title: dpi fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 250
 url: /sv/aspose.cells/cellshelper/dpi/
 is_root: false
 ---
 ##  dpi fastighet
 
-Får maskinens DPI.
+Hämtar maskinens DPI.
 
 ###  Anmärkningar
 
@@ -19,8 +19,8 @@ Får maskinens DPI.
 @property
 def dpi(self):
     ...
-@dpi.setter
-def dpi(self, value):
+@staticmethod
+def set_dpi(value):
     ...
 ```
 

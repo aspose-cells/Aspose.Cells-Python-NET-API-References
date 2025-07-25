@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  type mülk
 
-Bu koşullu biçimlendirme değeri nesnesinin type'ini alın veya ayarlayın.
+Bu koşullu biçimlendirme değer nesnesinin type değerini alın veya ayarlayın.
  type'i FormatConditionValueType.Min veya FormatConditionValueType.Max olarak ayarlama
-"Değer"i otomatik olarak null olarak ayarlayacaktır.
+"Değer" otomatik olarak null değerine ayarlanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
-* sınıf [FormatConditionValueType](/cells/python-net/tr/aspose.cells/formatconditionvaluetype)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* sınıf [`FormatConditionValueType`](/cells/python-net/tr/aspose.cells/formatconditionvaluetype)

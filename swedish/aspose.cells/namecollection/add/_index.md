@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/namecollection/add/
 is_root: false
 ---
-##  add(text) {#str}
+##  add(self, text) {#str}
 Definierar ett nytt namn.
 
 
 ###  Returnerar
 
-[Name](/cells/python-net/sv/aspose.cells/name) objektindex.
+[`Name`](/cells/python-net/sv/aspose.cells/name) objektindex.
 
 
 ```python
+
 def add(self, text):
     ...
 ```
@@ -27,11 +28,11 @@ def add(self, text):
 | text | str | Texten som ska användas som namn.|
 ###  Anmärkningar
 
-Namn får inte innehålla mellanslag och kan inte se ut som cellreferenser.
+Namnet får inte innehålla mellanslag och får inte se ut som cellreferenser.
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
-* klass [NameCollection](/cells/python-net/sv/aspose.cells/namecollection)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)
+* klass [`NameCollection`](/cells/python-net/sv/aspose.cells/namecollection)

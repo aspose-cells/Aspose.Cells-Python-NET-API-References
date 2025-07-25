@@ -1,15 +1,15 @@
 ---
-title: scroll_bars 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: scroll_bars属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 330
 url: /zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/scroll_bars/
 is_root: false
 ---
-## scroll_bars 属性
+## scroll_bars属性
 
-指示指定控件是否有垂直滚动条、水平滚动条、两者都有，或者两者都没有。
+指示指定控件是否有垂直滚动条、水平滚动条、两者都有还是都没有。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def scroll_bars(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ControlScrollBarType](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/controlscrollbartype)
-* 类 [TextBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ControlScrollBarType`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/controlscrollbartype)
+* 类 [`TextBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

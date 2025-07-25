@@ -3,7 +3,7 @@ title: language mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/language/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def language(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

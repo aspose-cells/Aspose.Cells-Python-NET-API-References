@@ -1,5 +1,5 @@
 ---
-title: set_range méthode
+title: méthode set_range
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 30
 url: /fr/aspose.cells/findoptions/set_range/
 is_root: false
 ---
-##  set_range(ca) {#CellArea}
+##  set_range(self, ca) {#aspose.cells.CellArea}
 Définit la plage recherchée.
 
 
 
 ```python
+
 def set_range(self, ca):
     ...
 ```
@@ -20,10 +21,10 @@ def set_range(self, ca):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | la plage recherchée.|
+| ca | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | la plage recherchée.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/fr/aspose.cells/findoptions)
+* module [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/fr/aspose.cells/findoptions)

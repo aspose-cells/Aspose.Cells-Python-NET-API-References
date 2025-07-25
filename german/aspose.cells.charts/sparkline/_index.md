@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline Klasse
-Eine Sparkline stellt ein kleines Diagramm oder eine kleine Grafik in einer Arbeitsblattzelle dar, die eine visuelle Darstellung von Daten bietet.
+Eine Sparkline stellt ein kleines Diagramm oder eine Grafik in einer Arbeitsblattzelle dar, die eine visuelle Darstellung von Daten bietet.
 
 
 
@@ -25,8 +25,8 @@ Der Typ Sparkline macht die folgenden Member verfügbar:
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [to_image](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
-| [to_image](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Konvertiert eine Sparkline in ein Bild.|
+| [`to_image(self, file_name, options)`](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Wandelt eine Sparkline in ein Bild um.|
+| [`to_image(self, stream, options)`](/cells/python-net/de/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Wandelt eine Sparkline in ein Bild um.|
 
 
 
@@ -49,10 +49,10 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-idx = group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
-line = group.sparkline_collection[idx]
+idx = sheet.sparkline_groups.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+idx = group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+line = group.sparklines[idx]
 print("Saprkline data range: "  + line.data_range + ", row: "  + str(line.row) + ", column: "  + str(line.column))
 line.to_image("output.png", ImageOrPrintOptions())
 

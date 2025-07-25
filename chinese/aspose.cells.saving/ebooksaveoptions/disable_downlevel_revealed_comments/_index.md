@@ -3,13 +3,13 @@ title: disable_downlevel_revealed_comments属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 170
 url: /zh/aspose.cells.saving/ebooksaveoptions/disable_downlevel_revealed_comments/
 is_root: false
 ---
 ## disable_downlevel_revealed_comments属性
 
-指示将文件导出为 html 时是否禁用下层显示的条件注释，默认值为 false。
+表示在导出文件为 html 时是否禁用 Downlevel-revealed 条件注释，默认值为 false。
 ### 定义：
 ```python
 @property

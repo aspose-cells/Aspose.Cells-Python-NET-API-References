@@ -1,5 +1,5 @@
 ---
-title: extrusion_height الملكية
+title: extrusion_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.drawing/threedformat/extrusion_height/
 is_root: false
 ---
-##  extrusion_height الملكية
+##  extrusion_height عقار
 
-الحصول على وتعيين ارتفاع البثق للشكل المطبق على وحدة النقاط.
+يحصل على ارتفاع البثق المطبق على الشكل ويحدده، بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def extrusion_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

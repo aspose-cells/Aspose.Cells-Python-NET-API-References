@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_object_bin mülk
 
-Şablon dosyasındaki tam katıştırılmış ole nesnesi ikili verilerini alır.
+Şablon dosyasındaki gömülü ole nesnesinin tam ikili verilerini alır.
 ###  Tanım:
 ```python
 @property

@@ -7,7 +7,7 @@ weight: 10
 url: /sv/aspose.cells.rendering.pdfsecurity/
 is_root: false
 ---
- De**Aspose.Cells.Rendering.PdfSecurity** namnutrymme ger klasssäkerhetsalternativ för rendering av pdf.
+ De**Aspose.Cells.Rendering.PdfSecurity** namnrymden tillhandahåller säkerhetsalternativ för klasser för rendering av PDF.
 
 ###  Klasser
 | Klass| Beskrivning|

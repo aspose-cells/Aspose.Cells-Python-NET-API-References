@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape Eigentum
 
-Rufen Sie ein Shape-Objekt ab, das die an den angegebenen Kommentar angehängte Form darstellt.
+Rufen Sie ein Shape-Objekt ab, das die Form darstellt, die dem angegebenen Kommentar zugeordnet ist.
 
 ###  Beispiel
 

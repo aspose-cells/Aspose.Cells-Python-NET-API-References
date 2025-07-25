@@ -1,9 +1,9 @@
 ---
 title: PivotTableFormat класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 260
 url: /ru/aspose.cells.pivot/pivottableformat/
 is_root: false
 ---
@@ -17,14 +17,14 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [pivot_area](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/pivot_area) | Получает область поворота.|
+| [pivot_area](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/pivot_area) | Получает опорную область.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_style](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/get_style/#) | Получает форматированный стиль.|
-| [set_style](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.Style) | Устанавливает стиль области поворота.|
+| [`get_style(self)`](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/get_style/#) |Получает отформатированный стиль.|
+| [`set_style(self, style)`](/cells/python-net/ru/aspose.cells.pivot/pivottableformat/set_style/#aspose.cells.style) | Задает стиль области вращения.|
 
 
 

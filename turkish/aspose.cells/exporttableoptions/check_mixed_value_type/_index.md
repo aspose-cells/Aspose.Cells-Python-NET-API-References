@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type mülk
 
-Yanlış, Aspose.Cells, performans için DataColumn'un türünü ilk satırın değer türüne göre ayarlayacaktır.
- Doğru, Aspose.Cells, DataColumn'un türünü ayarlamadan önce sütundaki değer türünün karıştırılıp karıştırılmadığını kontrol edecektir.
-Ve değer türü karışıktır, DataColumn'un türü string olacaktır.
+False, Aspose.Cells performans açısından DataColumn'un türünü ilk satırın değer türüne göre ayarlayacaktır.
+ Doğru, Aspose.Cells, DataColumn'un türünü ayarlamadan önce sütundaki değer türlerinin karışık olup olmadığını kontrol edecektir
+Ve değer türleri karışıktır, DataColumn'un türü string olacaktır.
 ###  Tanım:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: title proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells.drawing/signatureline/title/
 is_root: false
 ---
 ##  title proprietà
 
-Ottiene e imposta lo title del cantante.
+Ottiene o imposta il valore title del cantante.
 
 ###  Esempio
 
@@ -32,5 +32,5 @@ def title(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [SignatureLine](/cells/python-net/it/aspose.cells.drawing/signatureline)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`SignatureLine`](/cells/python-net/it/aspose.cells.drawing/signatureline)

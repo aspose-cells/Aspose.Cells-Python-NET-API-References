@@ -1,15 +1,15 @@
 ---
-title: cells_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: cells_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/solidfill/cells_color/
 is_root: false
 ---
-## cells_color 属性
+## cells_color属性
 
-获取和设置 [SolidFill.cells_color](/cells/python-net/zh/aspose.cells.drawing/solidfill#cells_color) 对象。
+获取并设置 [`SolidFill.cells_color`](/cells/python-net/zh/aspose.cells.drawing/solidfill#cells_color) 对象。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def cells_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CellsColor](/cells/python-net/zh/aspose.cells/cellscolor)
-* 类 [SolidFill](/cells/python-net/zh/aspose.cells.drawing/solidfill)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CellsColor`](/cells/python-net/zh/aspose.cells/cellscolor)
+* 类 [`SolidFill`](/cells/python-net/zh/aspose.cells.drawing/solidfill)

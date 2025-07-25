@@ -3,20 +3,21 @@ title: add_picture Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 230
 url: /de/aspose.cells.drawing/shapecollection/add_picture/
 is_root: false
 ---
-##  add_picture(upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+##  add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Bildobjekt.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Bildobjekt.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
     ...
 ```
@@ -25,7 +26,7 @@ def add_picture(self, upper_left_row, upper_left_column, lower_right_row, lower_
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | lower_right_row | int | Zeilenindex unten rechts|
 | lower_right_column | int | Spaltenindex unten rechts|
 | stream | io.RawIOBase | Stream-Objekt, das die Bilddaten enthält.|
@@ -41,16 +42,17 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-##  add_picture(upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+##  add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 Fügt der Sammlung ein Bild hinzu.
 
 
 ###  Kehrt zurück
 
-[Picture](/cells/python-net/de/aspose.cells.drawing/picture) Bildobjekt.
+[`Picture`](/cells/python-net/de/aspose.cells.drawing/picture) Bildobjekt.
 
 
 ```python
+
 def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
     ...
 ```
@@ -59,7 +61,7 @@ def add_picture(self, upper_left_row, upper_left_column, stream, width_scale, he
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | stream | io.RawIOBase | Stream-Objekt, das die Bilddaten enthält.|
 | width_scale | int | Maßstab der Bildbreite, ein Prozentsatz.|
 | height_scale | int | Maßstab der Bildhöhe, ein Prozentsatz.|
@@ -77,6 +79,6 @@ with open("image.jpg", "rb") as fs:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Picture](/cells/python-net/de/aspose.cells.drawing/picture)
-* Klasse [ShapeCollection](/cells/python-net/de/aspose.cells.drawing/shapecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Picture`](/cells/python-net/de/aspose.cells.drawing/picture)
+* Klasse [`ShapeCollection`](/cells/python-net/de/aspose.cells.drawing/shapecollection)

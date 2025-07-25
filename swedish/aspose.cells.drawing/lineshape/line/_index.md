@@ -3,13 +3,13 @@ title: line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 780
+weight: 790
 url: /sv/aspose.cells.drawing/lineshape/line/
 is_root: false
 ---
 ##  line fastighet
 
-Får line stil
+Får line-stil
 
 ###  Exempel
 

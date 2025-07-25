@@ -1,9 +1,9 @@
 ---
 title: is_ascend_show недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 440
 url: /ru/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---

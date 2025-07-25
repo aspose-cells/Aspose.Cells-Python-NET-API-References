@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/sparklinecollection/add/
 is_root: false
 ---
-##  add(data_range, row, column) {#str-int-int}
-أضف خط مؤشر.
+##  add(self, data_range, row, column) {#str-int-int}
+أضف شريطًا شريرًا.
 
 
 
 ```python
+
 def add(self, data_range, row, column):
     ...
 ```
@@ -20,12 +21,12 @@ def add(self, data_range, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| data_range | str | يحدد نطاق البيانات الجديد لخط المؤشر.|
-| row | int | فهرس صف الموقع.|
-| column | int | فهرس عمود الموقع.|
+| data_range | str | يحدد نطاق البيانات الجديد للمخطط البياني.|
+| row | int | مؤشر الصف للموقع.|
+| column | int | مؤشر العمود للموقع.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SparklineCollection](/cells/python-net/ar/aspose.cells.charts/sparklinecollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SparklineCollection`](/cells/python-net/ar/aspose.cells.charts/sparklinecollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area mülk
 
-Köprü aralığını alır.
+Hiperlink aralığını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
-* sınıf [Hyperlink](/cells/python-net/tr/aspose.cells/hyperlink)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)
+* sınıf [`Hyperlink`](/cells/python-net/tr/aspose.cells/hyperlink)

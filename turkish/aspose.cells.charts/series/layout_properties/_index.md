@@ -18,6 +18,6 @@ def layout_properties(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
-* sınıf [SeriesLayoutProperties](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)
+* sınıf [`SeriesLayoutProperties`](/cells/python-net/tr/aspose.cells.charts/serieslayoutproperties)

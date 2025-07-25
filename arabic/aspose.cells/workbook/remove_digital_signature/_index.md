@@ -3,16 +3,17 @@ title: طريقة remove_digital_signature
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 300
 url: /ar/aspose.cells/workbook/remove_digital_signature/
 is_root: false
 ---
-##  remove_digital_signature() {#}
-يزيل التوقيع الرقمي من جدول البيانات هذا.
+##  remove_digital_signature(self) {#}
+إزالة التوقيع الرقمي من جدول البيانات هذا.
 
 
 
 ```python
+
 def remove_digital_signature(self):
     ...
 ```
@@ -22,5 +23,5 @@ def remove_digital_signature(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

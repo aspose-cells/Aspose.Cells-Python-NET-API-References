@@ -1,5 +1,5 @@
 ---
-title: count الملكية
+title: count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.charts/axisbins/count/
 is_root: false
 ---
-##  count الملكية
+##  count عقار
 
-الحصول على أو تعيين count لحاويات المحور
+يحصل على أو يضبط count من صناديق المحور
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def count(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [AxisBins](/cells/python-net/ar/aspose.cells.charts/axisbins)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`AxisBins`](/cells/python-net/ar/aspose.cells.charts/axisbins)

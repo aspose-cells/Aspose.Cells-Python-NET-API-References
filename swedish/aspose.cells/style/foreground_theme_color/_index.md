@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  foreground_theme_color fastighet
 
-Hämtar och ställer in förgrundstemafärgen.
+Hämtar och ställer in förgrundstemaets färg.
 
 ###  Anmärkningar
 
-Om förgrundsfärgen inte är en temafärg kommer NULL att returneras.
+Om förgrundsfärgen inte är en temafärg returneras NULL.
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def foreground_theme_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
-* klass [ThemeColor](/cells/python-net/sv/aspose.cells/themecolor)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)
+* klass [`ThemeColor`](/cells/python-net/sv/aspose.cells/themecolor)

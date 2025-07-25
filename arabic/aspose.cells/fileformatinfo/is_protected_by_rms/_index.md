@@ -1,5 +1,5 @@
 ---
-title: is_protected_by_rms الملكية
+title: is_protected_by_rms عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/fileformatinfo/is_protected_by_rms/
 is_root: false
 ---
-##  is_protected_by_rms الملكية
+##  is_protected_by_rms عقار
 
-الحصول على ما إذا كان الملف محميًا بواسطة Microsoft Rights Management Server.
+يحصل على ما إذا كان الملف محميًا بواسطة خادم إدارة الحقوق Microsoft.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_protected_by_rms(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatInfo](/cells/python-net/ar/aspose.cells/fileformatinfo)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatInfo`](/cells/python-net/ar/aspose.cells/fileformatinfo)

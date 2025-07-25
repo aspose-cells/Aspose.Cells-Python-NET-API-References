@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_data propiedad
 
-Datos de fuentes binarias.
+Datos de fuente binaria.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def font_data(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MemoryFontSource](/cells/python-net/es/aspose.cells/memoryfontsource)
+* módulo [`aspose.cells`](../../)
+* clase [`MemoryFontSource`](/cells/python-net/es/aspose.cells/memoryfontsource)

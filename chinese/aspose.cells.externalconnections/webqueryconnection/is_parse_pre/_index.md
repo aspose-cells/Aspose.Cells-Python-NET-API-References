@@ -1,16 +1,16 @@
 ---
-title: is_parse_pre 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_parse_pre属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 210
 url: /zh/aspose.cells.externalconnections/webqueryconnection/is_parse_pre/
 is_root: false
 ---
-## is_parse_pre 属性
+## is_parse_pre属性
 
-标志表示网页中 HTML PRE 标签中包含的数据是否是
-将页面导入查询表时解析为列。
+指示网页中 HTML PRE 标签内包含的数据是否
+当您将页面导入查询表时，解析为列。
 ### 定义：
 ```python
 @property
@@ -22,5 +22,5 @@ def is_parse_pre(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [WebQueryConnection](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`WebQueryConnection`](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)

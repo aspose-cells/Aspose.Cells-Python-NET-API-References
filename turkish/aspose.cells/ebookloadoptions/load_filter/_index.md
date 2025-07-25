@@ -3,13 +3,13 @@ title: load_filter mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 230
 url: /tr/aspose.cells/ebookloadoptions/load_filter/
 is_root: false
 ---
 ##  load_filter mülk
 
-Verilerin nasıl yükleneceğini gösteren filtre.
+Verilerin nasıl yükleneceğini belirten filtre.
 ###  Tanım:
 ```python
 @property

@@ -3,7 +3,7 @@ title: text_orientation_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1190
+weight: 1210
 url: /es/aspose.cells.drawing/picture/text_orientation_type/
 is_root: false
 ---

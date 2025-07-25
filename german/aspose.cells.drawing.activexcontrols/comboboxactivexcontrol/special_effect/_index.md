@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  special_effect Eigentum
 
-Ruft den Spezialeffekt des Steuerelements ab und legt diesen fest.
+Ruft den Spezialeffekt des Steuerelements ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* Klasse [ControlSpecialEffectType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Klasse [`ControlSpecialEffectType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)

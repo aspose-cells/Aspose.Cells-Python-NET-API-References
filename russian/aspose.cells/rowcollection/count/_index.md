@@ -1,9 +1,9 @@
 ---
 title: count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells/rowcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [RowCollection](/cells/python-net/ru/aspose.cells/rowcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`RowCollection`](/cells/python-net/ru/aspose.cells/rowcollection)

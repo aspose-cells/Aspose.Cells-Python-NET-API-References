@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type propriété
 
-Spécifie le type composé de ligne.
+Spécifie le type de composé de ligne.
 
 ###  Exemple
 
@@ -30,6 +30,6 @@ def compound_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
-* classe [MsoLineStyle](/cells/python-net/fr/aspose.cells.drawing/msolinestyle)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* classe [`MsoLineStyle`](/cells/python-net/fr/aspose.cells.drawing/msolinestyle)

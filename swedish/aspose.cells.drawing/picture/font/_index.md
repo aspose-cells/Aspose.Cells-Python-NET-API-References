@@ -3,13 +3,13 @@ title: font fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 440
 url: /sv/aspose.cells.drawing/picture/font/
 is_root: false
 ---
 ##  font fastighet
 
-Representerar formens font.
+Representerar formen font.
 
 ###  Exempel
 

@@ -1,6 +1,6 @@
 ---
 title: row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row недвижимость
 
-Получить и установить индекс ячейки row.
+Получает и задает индекс ячейки row.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsCellField](/cells/python-net/ru/aspose.cells.ods/odscellfield)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsCellField`](/cells/python-net/ru/aspose.cells.ods/odscellfield)

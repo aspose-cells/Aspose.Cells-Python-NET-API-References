@@ -3,7 +3,7 @@ title: is_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 270
 url: /de/aspose.cells.charts/axis/is_visible/
 is_root: false
 ---

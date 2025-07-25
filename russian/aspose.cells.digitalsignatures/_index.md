@@ -1,24 +1,24 @@
 ---
 title: aspose.cells.digitalsignatures
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells.digitalsignatures/
 is_root: false
 ---
-**Aspose.Cells.DigitalSignatures** namespace предоставляет классы для подписи документов и проверки подписей.
+**Aspose.Cells.DigitalSignatures** Пространство имен предоставляет классы для подписи документов и проверки подписей.
 
 ###  Классы
 | Сорт| Описание|
 | :- | :- |
-| [DigitalSignature](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature) | Подпись в файле.|
-| [DigitalSignatureCollection](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection) | Предоставляет набор цифровых подписей, прикрепленных к документу.|
+| [`DigitalSignature`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature) | Подпись в деле.|
+| [`DigitalSignatureCollection`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignaturecollection) | Предоставляет коллекцию цифровых подписей, прикрепленных к документу.|
 
 
 ###  Перечисления
-|перечисление| Описание|
+| Перечисление| Описание|
 | :- | :- |
-| [XAdESType](/cells/python-net/ru/aspose.cells.digitalsignatures/xadestype) | Тип расширенной электронной подписи XML (XAdES).|
+| [`XAdESType`](/cells/python-net/ru/aspose.cells.digitalsignatures/xadestype) | Тип XML-расширенной электронной подписи (XAdES).|
 
 

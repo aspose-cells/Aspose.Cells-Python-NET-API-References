@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene el comando de encabezado/pie de página type .
+Obtiene el comando de encabezado/pie de página type.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HeaderFooterCommand](/cells/python-net/es/aspose.cells/headerfootercommand)
-* clase [HeaderFooterCommandType](/cells/python-net/es/aspose.cells/headerfootercommandtype)
+* módulo [`aspose.cells`](../../)
+* clase [`HeaderFooterCommand`](/cells/python-net/es/aspose.cells/headerfootercommand)
+* clase [`HeaderFooterCommandType`](/cells/python-net/es/aspose.cells/headerfootercommandtype)

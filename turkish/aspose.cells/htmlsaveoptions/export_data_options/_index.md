@@ -3,13 +3,13 @@ title: export_data_options mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 280
 url: /tr/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options mülk
 
-Html dosyası verilerini dışa aktarma kuralını belirtir. Varsayılan değer Tümü'dür.
+Html dosya verilerinin dışa aktarılması kuralını belirtir. Varsayılan değer All'dur.
 ###  Tanım:
 ```python
 @property

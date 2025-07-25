@@ -3,7 +3,7 @@ title: start_cell propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 270
 url: /fr/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---

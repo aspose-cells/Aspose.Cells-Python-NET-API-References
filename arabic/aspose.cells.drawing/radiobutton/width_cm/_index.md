@@ -3,7 +3,7 @@ title: width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /ar/aspose.cells.drawing/radiobutton/width_cm/
 is_root: false
 ---

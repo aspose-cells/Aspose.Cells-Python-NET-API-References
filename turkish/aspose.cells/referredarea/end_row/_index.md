@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row mülk
 
-Alanın son satırı.
+Alanın son sırası.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

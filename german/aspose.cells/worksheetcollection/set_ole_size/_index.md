@@ -3,16 +3,17 @@ title: set_ole_size Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 220
 url: /de/aspose.cells/worksheetcollection/set_ole_size/
 is_root: false
 ---
-##  set_ole_size {#int-int-int-int}
-Legt die angezeigte Größe fest, wenn die Arbeitsmappendatei als Ole-Objekt verwendet wird.
+##  set_ole_size(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
+Legt die angezeigte Größe fest, wenn die Arbeitsmappendatei als OLE-Objekt verwendet wird.
 
 
 
 ```python
+
 def set_ole_size(self, start_row, end_row, start_column, end_column):
     ...
 ```
@@ -22,11 +23,11 @@ def set_ole_size(self, start_row, end_row, start_column, end_column):
 | :- | :- | :- |
 | start_row | int | Zeilenindex starten.|
 | end_row | int | Zeilenindex beenden.|
-| start_column | int | Spaltenindex starten.|
-| end_column | int | Endspaltenindex.|
+| start_column | int |Spaltenindex starten.|
+| end_column | int | Index der Endspalte.|
 ###  Bemerkungen
 
-Diese Methode wird im Allgemeinen verwendet, um die Anzeigegröße in einer PPT-Datei oder einer Dokumentdatei anzupassen.
+Diese Methode wird im Allgemeinen verwendet, um die Anzeigegröße in PPT- oder DOC-Dateien anzupassen.
 
 
 ###  Siehe auch

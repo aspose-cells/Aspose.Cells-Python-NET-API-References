@@ -1,6 +1,6 @@
 ---
 title: transparency proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency proprietà
 
-Restituisce o imposta il grado di transparency della linea come valore compreso tra 0,0 (opaco) e 1,0 (chiaro).
+Restituisce o imposta il grado transparency della linea come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

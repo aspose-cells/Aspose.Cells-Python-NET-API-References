@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_name propiedad
 
-Obtiene y establece la instancia del mercado donde se almacena el complemento de Office. .
+Obtiene y establece la instancia del marketplace donde se almacena el complemento de Office.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionReference](/cells/python-net/es/aspose.cells.webextensions/webextensionreference)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionReference`](/cells/python-net/es/aspose.cells.webextensions/webextensionreference)

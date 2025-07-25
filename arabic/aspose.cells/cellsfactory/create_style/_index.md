@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/cellsfactory/create_style/
 is_root: false
 ---
-##  create_style() {#}
-يخلق اسلوب جديد.
+##  create_style(self) {#}
+إنشاء نمط جديد.
 
 
 ###  عائدات
 
-إرجاع كائن نمط.
+إرجاع كائن النمط.
 
 
 ```python
+
 def create_style(self):
     ...
 ```
@@ -26,5 +27,5 @@ def create_style(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsFactory](/cells/python-net/ar/aspose.cells/cellsfactory)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsFactory`](/cells/python-net/ar/aspose.cells/cellsfactory)

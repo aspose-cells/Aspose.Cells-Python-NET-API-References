@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/xmlloadoptions/__init__/
 is_root: false
 ---
-##  XmlLoadOptions() {#}
-Xml dosyasını yükleme seçeneklerini temsil eder.
+##  \_\_init\_\_(kendi){#}
+Xml dosyasının yüklenme seçeneklerini temsil eder.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XmlLoadOptions(type) {#LoadFormat}
-Xml dosyasını yükleme seçeneklerini temsil eder.
+##  \_\_init\_\_(kendi, tür){#aspose.cells.LoadFormat}
+Xml dosyasının yüklenme seçeneklerini temsil eder.
 
 
 
 ```python
+
 def __init__(self, type):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [LoadFormat](/cells/python-net/tr/aspose.cells/loadformat) | Yükleme biçimi türü.|
+| type | [`LoadFormat`](/cells/python-net/tr/aspose.cells/loadformat) | Yükleme biçimi türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlLoadOptions](/cells/python-net/tr/aspose.cells/xmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlLoadOptions`](/cells/python-net/tr/aspose.cells/xmlloadoptions)

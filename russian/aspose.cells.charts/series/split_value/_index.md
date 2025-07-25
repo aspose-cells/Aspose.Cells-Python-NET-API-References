@@ -1,6 +1,6 @@
 ---
 title: split_value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 460
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_value недвижимость
 
-Возвращает или задает значение, которое должно использоваться для определения того, какие точки данных находятся на втором круге или столбце на
-круговая диаграмма или полоса круговой диаграммы.
+Возвращает или задает значение, которое будет использоваться для определения того, какие точки данных находятся во второй круговой или столбчатой диаграмме.
+круговая диаграмма или столбчатая круговая диаграмма.
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

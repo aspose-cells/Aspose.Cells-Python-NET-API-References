@@ -8,32 +8,33 @@ url: /tr/aspose.cells.revisions/revisionlogcollection/
 is_root: false
 ---
 ##  RevisionLogCollection sınıfı
-Tüm revizyon günlüklerini temsil eder.
+Tüm revizyon kayıtlarını temsil eder.
 
 
 
-RevisionLogCollection türü aşağıdaki üyeleri gösterir:
+RevisionLogCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [days_preserving_history](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/days_preserving_history) |Elektronik tablo uygulamasının bu çalışma kitabı için değişiklik geçmişini tutacağı gün sayısını alır ve ayarlar.|
-| [capacity](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [days_preserving_history](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/days_preserving_history) | Elektronik tablo uygulamasının bu çalışma kitabına ait değişiklik geçmişini saklayacağı gün sayısını alır ve ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/copy_to/#int-list-int-int) |Dizi listesindeki bir dizi öğeyi, hedef dizi listesinin belirtilen dizininden başlayarak uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of(item, index)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/index_of/#RevisionLog-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of(item, index, count)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/index_of/#RevisionLog-int-int) | Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of(item, index, count)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#RevisionLog-int-int) |Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [binary_search(item)](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/binary_search/#RevisionLog) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/index_of/#aspose.cells.revisions.revisionlog-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/index_of/#aspose.cells.revisions.revisionlog-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/last_index_of/#aspose.cells.revisions.revisionlog-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`highlight_changes(self, options)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/highlight_changes/#aspose.cells.revisions.highlightchangesoptions) | Paylaşılan çalışma kitabındaki değişiklikleri vurgular.|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.revisions/revisionlogcollection/binary_search/#aspose.cells.revisions.revisionlog) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
+* modül [`aspose.cells.revisions`](..)

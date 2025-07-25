@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_width mülk
 
-Genişliği nokta birimi cinsinden alır ve ayarlar.
+Genişliği nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ComboBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ComboBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

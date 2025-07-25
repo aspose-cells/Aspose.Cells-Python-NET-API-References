@@ -1,6 +1,6 @@
 ---
 title: print_title_rows недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 600
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_rows недвижимость
 
-Представляет строки, содержащие ячейки, которые должны повторяться в верхней части каждой страницы.
+Представляет строки, содержащие ячейки, которые будут повторяться в верхней части каждой страницы.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def print_title_rows(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

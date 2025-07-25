@@ -1,13 +1,13 @@
 ---
-title: clear_data الملكية
+title: clear_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells.saving/sqlscriptsaveoptions/clear_data/
 is_root: false
 ---
-##  clear_data الملكية
+##  clear_data عقار
 
 اجعل المصنف فارغًا بعد حفظ الملف.
 ###  تعريف:
@@ -21,5 +21,5 @@ def clear_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptSaveOptions](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptSaveOptions`](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)

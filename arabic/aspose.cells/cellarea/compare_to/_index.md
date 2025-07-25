@@ -7,17 +7,18 @@ weight: 20
 url: /ar/aspose.cells/cellarea/compare_to/
 is_root: false
 ---
-##  compare_to(obj) {#any}
-قارن بين كائنين من نوع CellArea وفقًا للزاوية العلوية اليسرى.
+##  compare_to(self, obj) {#any}
+قم بمقارنة كائنين من CellArea وفقًا للزاوية العلوية اليسرى.
 
 
 ###  عائدات
 
-إذا كان هناك ركنان في صفوف مختلفة ، فقم بمقارنة فهرس الصف الخاص بهم. خلاف ذلك مقارنة فهرس العمود الخاص بهم.
-إذا كانت زاويتان متماثلتان ، فسيتم إرجاع 0.
+إذا كانت زاويتان في صفين مختلفين، فقارن مؤشر الصف. وإلا، فقارن مؤشر العمود.
+إذا كانت الزاويتان متماثلتين، فسيتم إرجاع 0.
 
 
 ```python
+
 def compare_to(self, obj):
     ...
 ```
@@ -30,5 +31,5 @@ def compare_to(self, obj):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellArea](/cells/python-net/ar/aspose.cells/cellarea)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea)

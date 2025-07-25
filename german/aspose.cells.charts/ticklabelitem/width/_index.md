@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width Eigentum
 
-Breite des Ticklabel-Elements im Verhältnis von Diagramm width.
+Breite des Ticklabel-Elements im Verhältnis des Diagramms width.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TickLabelItem](/cells/python-net/de/aspose.cells.charts/ticklabelitem)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TickLabelItem`](/cells/python-net/de/aspose.cells.charts/ticklabelitem)

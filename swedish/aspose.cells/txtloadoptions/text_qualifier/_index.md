@@ -3,17 +3,17 @@ title: text_qualifier fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 400
 url: /sv/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ##  text_qualifier fastighet
 
-Anger textkvalificeraren för cellvärden. Standardkvalificeraren är '''.
+Anger textkvalificeraren för cellvärden. Standardkvalificeraren är '"'.
 
 ###  Anmärkningar
 
-När du ställer in den här egenskapen blir [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/sv/aspose.cells/txtloadoptions#has_text_qualifier) sann automatiskt.
+När den här egenskapen anges blir [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/sv/aspose.cells/txtloadoptions#has_text_qualifier) automatiskt sant.
 ###  Definition:
 ```python
 @property

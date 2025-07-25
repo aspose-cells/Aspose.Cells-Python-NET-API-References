@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_margin mülk
 
-Üst kenar boşluğunun boyutunu santimetre cinsinden temsil eder.
+Üst kenar boşluğunun santimetre cinsinden boyutunu gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def top_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

@@ -1,15 +1,15 @@
 ---
 title: fill proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells.drawing/picture/fill/
 is_root: false
 ---
 ##  fill proprietà
 
-Restituisce un oggetto [`Shape.fill_format`](/cells/python-net/it/aspose.cells.drawing/shape#fill_format) che contiene le proprietà di formattazione fill per la forma specificata.
+Restituisce un oggetto [`Shape.fill_format`](/cells/python-net/it/aspose.cells.drawing/shape#fill_format) che contiene fill proprietà di formattazione per la forma specificata.
 
 ###  Esempio
 

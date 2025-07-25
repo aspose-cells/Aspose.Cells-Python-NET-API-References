@@ -3,16 +3,17 @@ title: set_linked_cell metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 210
 url: /sv/aspose.cells.drawing/dialogbox/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
-Ställer in intervallet kopplat till kontrollens värde.
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Anger intervallet som är kopplat till kontrollens värde.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -20,9 +21,9 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| formula | str | Området kopplat till kontrollens värde.|
+| formula | str | Intervallet som är kopplat till kontrollens värde.|
 | is_r1c1 | bool | Om formeln behöver formateras som R1C1.|
-| is_local | bool | Huruvida formeln behöver formateras efter språk.|
+| is_local | bool | Om formeln behöver formateras efter språkinställning.|
 
 ###  Exempel
 

@@ -1,15 +1,15 @@
 ---
-title: is_xml_source_data الملكية
+title: is_xml_source_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 270
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_xml_source_data/
 is_root: false
 ---
-##  is_xml_source_data الملكية
+##  is_xml_source_data عقار
 
-إشارة تشير إلى أنه يجب استقبال بيانات مصدر XML بدلاً من جدول HTML نفسه.
+علم يشير إلى أنه يجب استيراد بيانات مصدر XML بدلاً من الجدول HTML نفسه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml_source_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  spacing propriété
 
-Spécifie le spacing entre les caractères dans une séquence de texte.
+Spécifie le spacing entre les caractères d'une séquence de texte.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def spacing(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)

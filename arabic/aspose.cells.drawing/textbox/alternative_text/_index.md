@@ -3,13 +3,13 @@ title: alternative_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ar/aspose.cells.drawing/textbox/alternative_text/
 is_root: false
 ---
 ##  alternative_text عقار
 
-إرجاع أو تعيين السلسلة النصية الوصفية (البديلة) للكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).
+يقوم بإرجاع أو تعيين سلسلة النص الوصفي (البديل) للكائن [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).
 
 ###  مثال
 

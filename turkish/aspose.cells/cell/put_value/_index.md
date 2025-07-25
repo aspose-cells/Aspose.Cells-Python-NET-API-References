@@ -3,16 +3,17 @@ title: put_value yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 290
 url: /tr/aspose.cells/cell/put_value/
 is_root: false
 ---
-##  put_value {#bool}
-Hücreye bir boole değeri koyar.
+##  put_value(self, bool_value) {#bool}
+Hücreye bir Boole değeri koyar.
 
 
 
 ```python
+
 def put_value(self, bool_value):
     ...
 ```
@@ -23,12 +24,13 @@ def put_value(self, bool_value):
 | bool_value | bool |  |
 
 
-##  put_value {#int}
-Hücreye bir tam sayı değeri koyar.
+##  put_value(self, int_value) {#int}
+Hücreye tam sayı değeri koyar.
 
 
 
 ```python
+
 def put_value(self, int_value):
     ...
 ```
@@ -36,15 +38,16 @@ def put_value(self, int_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| int_value | int | Girdi değeri|
+| int_value | int | Giriş değeri|
 
 
-##  put_value {#float}
+##  put_value(self, double_value) {#float}
 Hücreye çift değer koyar.
 
 
 
 ```python
+
 def put_value(self, double_value):
     ...
 ```
@@ -52,15 +55,16 @@ def put_value(self, double_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| double_value | float | Girdi değeri|
+| double_value | float | Giriş değeri|
 
 
-##  put_value {#str}
+##  put_value(self, string_value) {#str}
 Hücreye bir dize değeri koyar.
 
 
 
 ```python
+
 def put_value(self, string_value):
     ...
 ```
@@ -68,15 +72,16 @@ def put_value(self, string_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| string_value | str | Girdi değeri|
+| string_value | str | Giriş değeri|
 
 
-##  put_value {#DateTime}
+##  put_value(self, date_time) {#DateTime}
 Hücreye bir DateTime değeri koyar.
 
 
 
 ```python
+
 def put_value(self, date_time):
     ...
 ```
@@ -84,17 +89,17 @@ def put_value(self, date_time):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| date_time | DateTime | Girdi değeri|
+| date_time | DateTime | Giriş değeri|
 ###  Notlar
 
-Bir hücre dozu için DateTime değerinin ayarlanması, hücrenin otomatik olarak tarih saat olarak biçimlendirileceği anlamına gelmez.
-DateTime değeri hem ms excel'in hem de Aspose.Cells'in veri modelinde sayısal değer olarak tutuldu.
-Sayısal değerin sayısal değer olarak mı yoksa tarih saat olarak mı alınacağı
-bu hücreye uygulanan sayı biçimine bağlıdır. Bu hücre tarih saat olarak biçimlendirilmemişse,
-girdiğiniz şey DateTime olsa bile sayısal bir değer olarak görüntülenecektir.
+Bir hücreye DateTime değeri ayarlamak, hücrenin otomatik olarak tarih saat olarak biçimlendirileceği anlamına gelmez.
+DateTime değeri hem ms excel hem de Aspose.Cells veri modelinde sayısal değer olarak korundu.
+Sayısal değerin sayısal değerin kendisi mi yoksa tarih saat olarak mı alınacağı
+Bu hücreye uygulanan sayı biçimine bağlıdır. Bu hücre tarih saat olarak biçimlendirilmemişse,
+Girdiğiniz değer DateTime olsa bile sayısal bir değer olarak gösterilecektir.
 ###  Örnek
 
-Bu örnek, DateTime değerinin bir hücreye nasıl ayarlanacağını ve bunun tarih saat olarak görüntülenmesini nasıl sağlayacağınızı gösterir.
+Bu örnekte bir hücreye DateTime değerinin nasıl ayarlanacağı ve tarih saat olarak nasıl gösterileceği gösterilmektedir.
 
 ```python
 from aspose.cells import Workbook
@@ -112,12 +117,13 @@ cell.set_style(style)
 ```
 
 
-##  put_value {#any}
+##  put_value(self, object_value) {#any}
 Hücreye bir nesne değeri koyar.
 
 
 
 ```python
+
 def put_value(self, object_value):
     ...
 ```
@@ -125,15 +131,16 @@ def put_value(self, object_value):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| object_value | any | Girdi değeri|
+| object_value | any | giriş değeri|
 
 
-##  put_value {#str-bool}
-Hücreye bir dize değeri koyar ve uygunsa değeri diğer veri türüne dönüştürür.
+##  put_value(self, string_value, is_converted) {#str-bool}
+Hücreye bir dize değeri koyar ve uygunsa değeri başka bir veri türüne dönüştürür.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted):
     ...
 ```
@@ -141,16 +148,17 @@ def put_value(self, string_value, is_converted):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| string_value | str | Girdi değeri|
-| is_converted | bool | Doğru: uygunsa diğer veri türüne dönüştürülür.|
+| string_value | str | Giriş değeri|
+| is_converted | bool | Doğru: Uygunsa diğer veri türüne dönüştürülür.|
 
 
-##  put_value {#str-bool-bool}
-Hücreye bir değer koyar, uygunsa değer başka bir veri tipine dönüştürülür ve hücrenin sayı formatı sıfırlanır.
+##  put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+Hücreye bir değer koyar, uygunsa değer başka bir veri türüne dönüştürülür ve hücrenin sayı biçimi sıfırlanır.
 
 
 
 ```python
+
 def put_value(self, string_value, is_converted, set_style):
     ...
 ```
@@ -158,9 +166,9 @@ def put_value(self, string_value, is_converted, set_style):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| string_value | str | Girdi değeri|
-| is_converted | bool | Doğru: uygunsa diğer veri türüne dönüştürülür.|
-| set_style | bool | Doğru: diğer veri türlerine dönüştürürken sayı biçimini hücrenin stiline göre ayarlayın|
+| string_value | str | Giriş değeri|
+| is_converted | bool | Doğru: Uygunsa diğer veri türüne dönüştürülür.|
+| set_style | bool | Doğru: Diğer veri türüne dönüştürürken sayı biçimini hücrenin stiline ayarlayın|
 
 
 

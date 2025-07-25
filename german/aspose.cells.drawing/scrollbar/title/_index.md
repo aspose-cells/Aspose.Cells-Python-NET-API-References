@@ -3,7 +3,7 @@ title: title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /de/aspose.cells.drawing/scrollbar/title/
 is_root: false
 ---

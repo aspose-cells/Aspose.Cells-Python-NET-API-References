@@ -7,12 +7,13 @@ weight: 450
 url: /de/aspose.cells/settableglobalizationsettings/set_total_name/
 is_root: false
 ---
-##  set_total_name {#aspose.cells.ConsolidationFunction-str}
-Legt den Gesamtnamen einer bestimmten Funktion fest.
+##  set_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-str}
+Legt den vollständigen Namen einer bestimmten Funktion fest.
 
 
 
 ```python
+
 def set_total_name(self, function_type, name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_total_name(self, function_type, name):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | function_type | [`ConsolidationFunction`](/cells/python-net/de/aspose.cells/consolidationfunction) | Der Funktionstyp.|
-| name | str | Der Gesamtname der Funktion.|
+| name | str | Der vollständige Name der Funktion.|
 
 
 

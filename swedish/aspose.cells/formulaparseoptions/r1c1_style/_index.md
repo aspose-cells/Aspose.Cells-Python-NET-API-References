@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_style fastighet
 
-Om formeln är R1C1-referensstil. Standard är falskt.
+Om formeln är av referensstilen R1C1. Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

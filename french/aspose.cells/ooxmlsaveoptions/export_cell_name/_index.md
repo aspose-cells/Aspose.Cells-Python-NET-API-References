@@ -3,16 +3,16 @@ title: export_cell_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 110
 url: /fr/aspose.cells/ooxmlsaveoptions/export_cell_name/
 is_root: false
 ---
 ##  export_cell_name propriété
 
- Indique si le nom de la cellule est exporté vers un fichier Excel2007 .xlsx (.xlsm, .xltx, .xltm).
-Si le fichier de sortie est accessible par SQL Server DTS, cette valeur doit être true.
+ Indique si le nom de la cellule doit être exporté vers le fichier Excel2007 .xlsx (.xlsm, .xltx, .xltm).
+Si le fichier de sortie est accessible par SQL Server DTS, cette valeur doit être vraie.
 Définir la valeur sur false augmentera considérablement les performances et réduira la taille du fichier lors de la création d'un fichier volumineux.
-La valeur par défaut est true.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -24,5 +24,5 @@ def export_cell_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OoxmlSaveOptions](/cells/python-net/fr/aspose.cells/ooxmlsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`OoxmlSaveOptions`](/cells/python-net/fr/aspose.cells/ooxmlsaveoptions)

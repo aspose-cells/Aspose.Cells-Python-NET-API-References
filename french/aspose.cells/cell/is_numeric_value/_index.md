@@ -3,7 +3,7 @@ title: is_numeric_value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 620
+weight: 650
 url: /fr/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---

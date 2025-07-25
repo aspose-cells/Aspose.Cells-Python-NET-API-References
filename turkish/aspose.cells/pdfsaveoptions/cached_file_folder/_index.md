@@ -8,8 +8,6 @@ url: /tr/aspose.cells/pdfsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder mülk
-
-Önbelleğe alınmış dosya klasörü, bazı büyük verileri depolamak için kullanılır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

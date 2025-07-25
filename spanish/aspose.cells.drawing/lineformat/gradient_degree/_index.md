@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  gradient_degree propiedad
 
-Devuelve el grado de degradado del relleno especificado.
-Solo aplica para Excel 2007.
+Devuelve el grado de degradado para el relleno especificado.
+Sólo se aplica para Excel 2007.
 
 ###  Observaciones
 
-Solo puede ser un valor de 0,0 (oscuro) a 1,0 (claro).
+Sólo puede ser un valor entre 0,0 (oscuro) y 1,0 (claro).
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def gradient_degree(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LineFormat](/cells/python-net/es/aspose.cells.drawing/lineformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LineFormat`](/cells/python-net/es/aspose.cells.drawing/lineformat)

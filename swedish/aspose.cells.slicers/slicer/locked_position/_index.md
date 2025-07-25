@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_position fastighet
 
-Indikerar om den angivna skivaren kan flyttas eller storleksändras med hjälp av användargränssnittet.
+Anger om den angivna utsnittet kan flyttas eller ändras i storlek med hjälp av användargränssnittet.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def locked_position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

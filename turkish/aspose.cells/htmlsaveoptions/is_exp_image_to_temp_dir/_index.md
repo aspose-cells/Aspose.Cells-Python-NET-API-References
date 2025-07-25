@@ -3,14 +3,14 @@ title: is_exp_image_to_temp_dir mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 560
 url: /tr/aspose.cells/htmlsaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---
 ##  is_exp_image_to_temp_dir mülk
 
-Görüntü dosyalarının geçici dizine aktarılıp aktarılmayacağını belirtir.
-Yalnızca html akışına kaydetmek için.
+Resim dosyalarının geçici dizine aktarılıp aktarılmayacağını belirtir.
+Sadece html akışına kaydetmek için.
 ###  Tanım:
 ```python
 @property

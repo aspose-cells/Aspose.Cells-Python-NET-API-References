@@ -1,9 +1,9 @@
 ---
 title: id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 520
+weight: 510
 url: /it/aspose.cells.drawing/scrollbar/id/
 is_root: false
 ---

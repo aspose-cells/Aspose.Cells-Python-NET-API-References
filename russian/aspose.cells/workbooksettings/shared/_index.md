@@ -1,19 +1,19 @@
 ---
 title: shared недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 440
+weight: 470
 url: /ru/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
 ##  shared недвижимость
 
-Получает или задает значение, указывающее, имеет ли книга номер shared.
+Возвращает или задает значение, указывающее, является ли рабочая книга shared.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

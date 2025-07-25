@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hanging_punctuation propriété
 
-Spécifie si la ponctuation doit être disposée avec force sur une ligne de texte ou placée sur une autre ligne de texte.
+Spécifie si la ponctuation doit être disposée de manière forcée sur une ligne de texte ou placée sur une autre ligne de texte.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

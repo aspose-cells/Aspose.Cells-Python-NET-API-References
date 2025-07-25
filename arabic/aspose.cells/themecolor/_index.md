@@ -3,7 +3,7 @@ title: ThemeColor صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1500
+weight: 1400
 url: /ar/aspose.cells/themecolor/
 is_root: false
 ---
@@ -17,14 +17,14 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/themecolor/__init__/#aspose.cells.ThemeColorType-float) |  |
+| [`__init__(self, type, tint)`](/cells/python-net/ar/aspose.cells/themecolor/__init__/#aspose.cells.themecolortype-float) |  |
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [color_type](/cells/python-net/ar/aspose.cells/themecolor/color_type) | الحصول على نوع السمة وتعيينها.|
-| [tint](/cells/python-net/ar/aspose.cells/themecolor/tint) | الحصول على قيمة الصبغة وتعيينها.|
+| [color_type](/cells/python-net/ar/aspose.cells/themecolor/color_type) | يحصل على نوع السمة ويحدده.|
+| [tint](/cells/python-net/ar/aspose.cells/themecolor/tint) | يحصل على قيمة الصبغة ويحددها.|
 
 
 

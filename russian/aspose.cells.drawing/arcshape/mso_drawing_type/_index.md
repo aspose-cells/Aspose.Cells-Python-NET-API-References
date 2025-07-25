@@ -1,15 +1,15 @@
 ---
 title: mso_drawing_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ru/aspose.cells.drawing/arcshape/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type недвижимость
 
-Получает тип чертежа MSO.
+Получает тип чертежа.
 
 ###  Пример
 

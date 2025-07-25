@@ -1,9 +1,9 @@
 ---
 title: WorkbookPrintingPreview类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 140
 url: /zh/aspose.cells.rendering/workbookprintingpreview/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-WorkbookPrintingPreview 类型公开了以下成员：
+WorkbookPrintingPreview 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [WorkbookPrintingPreview(workbook, options)](/cells/python-net/zh/aspose.cells.rendering/workbookprintingpreview/__init__/#Workbook-ImageOrPrintOptions) | WorkbookPrintingPreview 的构造|
+| [`__init__(self, workbook, options)`](/cells/python-net/zh/aspose.cells.rendering/workbookprintingpreview/__init__/#aspose.cells.workbook-aspose.cells.rendering.imageorprintoptions) | WorkbookPrintingPreview 的构造|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [evaluated_page_count](/cells/python-net/zh/aspose.cells.rendering/workbookprintingpreview/evaluated_page_count) |评估此工作簿的总页数|
@@ -28,4 +28,4 @@ WorkbookPrintingPreview 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

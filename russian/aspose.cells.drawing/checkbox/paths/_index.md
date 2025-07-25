@@ -1,15 +1,15 @@
 ---
 title: paths недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 840
+weight: 850
 url: /ru/aspose.cells.drawing/checkbox/paths/
 is_root: false
 ---
 ##  paths недвижимость
 
-Получает paths пользовательской геометрической формы.
+Получает paths пользовательской геометрической фигуры.
 
 ###  Пример
 

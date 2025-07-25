@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_value Eigentum
 
-Gibt einen Wert zurück oder setzt ihn, der verwendet werden soll, um zu bestimmen, welche Datenpunkte sich im zweiten Kreis oder Balken befinden
-ein Tortendiagramm oder ein Tortendiagramm.
+Gibt einen Wert zurück oder legt ihn fest, der verwendet werden soll, um zu bestimmen, welche Datenpunkte sich im zweiten Kreis- oder Balkendiagramm befinden.
+ein Kreis- oder Balkendiagramm.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

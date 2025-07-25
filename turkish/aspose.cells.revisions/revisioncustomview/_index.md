@@ -8,29 +8,27 @@ url: /tr/aspose.cells.revisions/revisioncustomview/
 is_root: false
 ---
 ##  RevisionCustomView sınıfı
-Çalışma kitabına özel bir görünüm eklemeye veya kaldırmaya ilişkin bir revizyon kaydını temsil eder
+Çalışma kitabına özel bir görünüm ekleme veya kaldırma işleminin revizyon kaydını temsil eder
 
 
 
-**Miras:** [RevisionCustomView](/cells/python-net/aspose.cells.revisions/revisioncustomview) → 
-[Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
+**Miras:** [`RevisionCustomView`](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)
 
 
 
-RevisionCustomView türü aşağıdaki üyeleri gösterir:
+RevisionCustomView türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [type](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/type) | Revizyon türünü alır.|
-| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/worksheet) | Çalışma sayfasını alır.|
-| [id](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/id) | Bu revizyonun numarasını alır.|
-| [action_type](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/action_type) | Eylem türünü alır.|
-| [guid](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/guid) | Özel görünümün genel olarak benzersiz tanımlayıcısını alır.|
+| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/worksheet) |  |
+| [id](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/id) |  |
+| [action_type](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/action_type) | Eylemin türünü alır.|
+| [guid](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview/guid) | Özel görünümün küresel olarak benzersiz tanımlayıcısını alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
-* sınıf [Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
-* sınıf [RevisionCustomView](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)
+* modül [`aspose.cells.revisions`](..)
+* sınıf [`RevisionCustomView`](/cells/python-net/tr/aspose.cells.revisions/revisioncustomview)

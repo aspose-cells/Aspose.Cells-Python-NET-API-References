@@ -3,16 +3,17 @@ title: insert_rows Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 720
+weight: 740
 url: /de/aspose.cells/cells/insert_rows/
 is_root: false
 ---
-##  insert_rows {#int-int}
+##  insert_rows(self, row_index, total_rows) {#int-int}
 Fügt mehrere Zeilen in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows):
     ...
 ```
@@ -24,12 +25,13 @@ def insert_rows(self, row_index, total_rows):
 | total_rows | int | Anzahl der einzufügenden Zeilen.|
 
 
-##  insert_rows {#int-int-bool}
+##  insert_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 Fügt mehrere Zeilen in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -42,12 +44,13 @@ def insert_rows(self, row_index, total_rows, update_reference):
 | update_reference | bool | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
 
 
-##  insert_rows {#int-int-aspose.cells.InsertOptions}
+##  insert_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.InsertOptions}
 Fügt mehrere Zeilen in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_rows(self, row_index, total_rows, options):
     ...
 ```
@@ -57,7 +60,7 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Zeilenindex.|
 | total_rows | int | Anzahl der einzufügenden Zeilen.|
-| options | [`InsertOptions`](/cells/python-net/de/aspose.cells/insertoptions) | Gibt an, ob Verweise in anderen Arbeitsblättern aktualisiert werden.|
+| options | [`InsertOptions`](/cells/python-net/de/aspose.cells/insertoptions) | Optionen für den Einfügevorgang.|
 
 
 

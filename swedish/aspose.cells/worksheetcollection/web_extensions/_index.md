@@ -3,13 +3,13 @@ title: web_extensions fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 410
 url: /sv/aspose.cells/worksheetcollection/web_extensions/
 is_root: false
 ---
 ##  web_extensions fastighet
 
-Hämtar listan med uppgiftsrutor.
+Hämtar listan över åtgärdsfönster.
 ###  Definition:
 ```python
 @property

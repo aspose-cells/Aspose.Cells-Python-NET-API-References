@@ -3,12 +3,12 @@ title: ParameterType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2430
+weight: 2400
 url: /tr/aspose.cells/parametertype/
 is_root: false
 ---
 ##  ParameterType numaralandırma
-Tüm parametrelerin türünü veya işlevin dönüş değeri türünü temsil eder.
+Fonksiyonun tüm parametrelerinin türünü veya dönüş değeri türünü temsil eder.
 
 
 

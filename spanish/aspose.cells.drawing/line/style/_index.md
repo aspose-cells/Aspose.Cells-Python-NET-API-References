@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [LineType](/cells/python-net/es/aspose.cells.drawing/linetype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`LineType`](/cells/python-net/es/aspose.cells.drawing/linetype)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propiedad
 
-Obtiene o establece el name del [Font](/cells/python-net/es/aspose.cells/font).
+Obtiene o establece el name del [`Font`](/cells/python-net/es/aspose.cells/font).
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

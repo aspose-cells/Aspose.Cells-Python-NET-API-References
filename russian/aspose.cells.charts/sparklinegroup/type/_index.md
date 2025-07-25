@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type недвижимость
 
-Указывает спарклайн type группы спарклайнов.
+Указывает на спарклайн type группы спарклайнов.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
-* класс [SparklineType](/cells/python-net/ru/aspose.cells.charts/sparklinetype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* класс [`SparklineType`](/cells/python-net/ru/aspose.cells.charts/sparklinetype)

@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  emf_render_setting mülk
 
-Emf meta dosyasını işlemeye yönelik ayar.
+Kaynak dosyada Emf meta dosyalarının oluşturulması için ayar.
 
 ###  Notlar
 
- "EMF+ Dual" olarak tanımlanan EMF meta dosyaları hem EMF+ kayıt hem de EMF kayıt içerebilir.
+ "EMF+ Dual" olarak tanımlanan EMF meta dosyaları hem EMF+ kayıtlarını hem de EMF kayıtlarını içerebilir.
 Görüntüyü oluşturmak için her iki kayıt türü de kullanılabilir; yalnızca EMF+ kayıt veya yalnızca EMF kayıt.
-[`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/tr/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) ayarlandığında, görüntüye dönüştürülürken EMF+ kayıt ayrıştırılır, aksi takdirde yalnızca EMF kayıt ayrıştırılır.
+[`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/tr/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) ayarlandığında, görüntüye dönüştürülürken EMF+ kayıtlar ayrıştırılacak, aksi takdirde yalnızca EMF kayıt ayrıştırılacaktır.
 Varsayılan değer [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/tr/aspose.cells/emfrendersetting#EMF_ONLY)'dir.
-.Net System.Drawing.Common'a bağlı çerçeveler için bu ayar dikkate alınmaz.
+.Net System.Drawing.Common'a bağımlı çerçeveler için bu ayar göz ardı edilir.
 ###  Tanım:
 ```python
 @property

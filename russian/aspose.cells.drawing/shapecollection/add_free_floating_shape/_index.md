@@ -1,22 +1,23 @@
 ---
 title: add_free_floating_shape метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.drawing/shapecollection/add_free_floating_shape/
 is_root: false
 ---
-##  add_free_floating_shape(type, top, left, height, width, image_data, is_original_size) {#MsoDrawingType-int-int-int-int-bytes-bool}
-Добавляет на лист свободно плавающую фигуру. Применяется только для формы линии/изображения.
+##  add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-bytes-bool}
+Добавляет на рабочий лист свободно перемещаемую фигуру. Применяется только к фигурам линии/изображения.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size):
     ...
 ```
@@ -24,19 +25,21 @@ def add_free_floating_shape(self, type, top, left, height, width, image_data, is
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| type | [MsoDrawingType](/cells/python-net/ru/aspose.cells.drawing/msodrawingtype) | Тип формы.|
-| top | int | Представляет вертикальное смещение фигуры от верхней строки рабочего листа в единицах пикселя.|
-| left | int |Представляет горизонтальное смещение фигуры от левого столбца рабочего листа в пикселях.|
+| type | [`MsoDrawingType`](/cells/python-net/ru/aspose.cells.drawing/msodrawingtype) | Тип фигуры.|
+| top | int | Представляет собой вертикальное смещение фигуры от верхней строки листа в пикселях.|
+| left | int | Представляет горизонтальное смещение фигуры относительно левого столбца рабочего листа в пикселях.|
 | height | int | Представляет высоту LineShape в пикселях.|
-| width | int | Представляет ширину LineShape в пикселях.|
-| image_data | bytes | Данные изображения относятся только к изображению.|
-| is_original_size | bool | Использует ли фигура исходный размер, если фигура является изображением.|
+| width | int |Представляет ширину LineShape в пикселях.|
+| image_data | bytes | Данные изображения применимы только к картинке.|
+| is_original_size | bool | Использовать ли оригинальный размер формы, если форма является изображением.|
 
 ###  Пример
 
 ```python
 from aspose import pycore
 from aspose.cells.drawing import MsoDrawingType
+import bytearray
+import int
 
 # add a line
 floatingShape_Line = shapes.add_free_floating_shape(MsoDrawingType.LINE, 100, 100, 100, 50, None, False)
@@ -53,5 +56,5 @@ floatingShape_Picture = shapes.add_free_floating_shape(MsoDrawingType.PICTURE, 2
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

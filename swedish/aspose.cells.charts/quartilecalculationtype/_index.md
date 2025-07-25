@@ -18,9 +18,9 @@ Typen QuartileCalculationType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | EXCLUSIVE | Kvartilberäkningen inkluderar medianen när datasetet delas upp i kvartiler.|
-| INCLUSIVE | Kvartilberäkningen exkluderar medianen när datasetet delas upp i kvartiler.|
+| INCLUSIVE | Kvartilberäkningen exkluderar medianen när datamängden delas upp i kvartiler.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

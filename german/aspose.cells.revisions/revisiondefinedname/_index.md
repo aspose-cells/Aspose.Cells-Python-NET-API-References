@@ -12,8 +12,7 @@ Stellt einen Revisionsdatensatz einer definierten Namensänderung dar.
 
 
 
-**Nachlass:** [RevisionDefinedName](/cells/python-net/aspose.cells.revisions/revisiondefinedname) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionDefinedName`](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname)
 
 
 
@@ -23,8 +22,8 @@ Der Typ RevisionDefinedName macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/type) | Stellt den Revisionstyp dar.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/id) |  |
 | [text](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/text) | Ruft den Text des definierten Namens ab.|
 | [old_formula](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/old_formula) | Ruft die alte Formel ab.|
 | [new_formula](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname/new_formula) | Ruft die Formel ab.|
@@ -32,6 +31,5 @@ Der Typ RevisionDefinedName macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionDefinedName](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionDefinedName`](/cells/python-net/de/aspose.cells.revisions/revisiondefinedname)

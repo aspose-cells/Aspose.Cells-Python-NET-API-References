@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string عقار
 
-تصدير قيمة سلسلة html للخلايا إلى DataTable.
+يقوم بتصدير قيمة سلسلة HTML الخاصة بالخلايا إلى جدول البيانات.
 ###  تعريف:
 ```python
 @property

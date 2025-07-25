@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color_transparency fastighet
 
-Returnerar eller ställer in graden av förfärg för den angivna fyllningen som ett värde från 0,0 (opak) till 1,0 (rensar).
+Returnerar eller anger graden av förfärg för den angivna fyllningen som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color_transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)

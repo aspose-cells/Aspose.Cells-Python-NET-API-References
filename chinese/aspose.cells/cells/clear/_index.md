@@ -7,12 +7,13 @@ weight: 90
 url: /zh/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
+##  clear(self) {#}
 清除工作表的所有数据。
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

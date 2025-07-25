@@ -3,17 +3,17 @@ title: zoom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 960
 url: /ar/aspose.cells/worksheet/zoom/
 is_root: false
 ---
 ##  zoom عقار
 
-يمثل عامل التحجيم بالنسبة المئوية. يجب أن يكون بين 10 و 400.
+يُمثل عامل القياس كنسبة مئوية. يجب أن يكون بين ١٠ و٤٠٠.
 
 ###  ملاحظات
 
-الرجاء ضبط نوع العرض أولاً.
+يرجى تحديد نوع العرض أولاً.
 ###  تعريف:
 ```python
 @property

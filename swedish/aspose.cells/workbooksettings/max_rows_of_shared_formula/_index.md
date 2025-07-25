@@ -3,17 +3,17 @@ title: max_rows_of_shared_formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 350
 url: /sv/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
 ##  max_rows_of_shared_formula fastighet
 
-Hämtar och ställer in det maximala radnumret för delad formel.
+Hämtar och anger det maximala radnumret för den delade formeln.
 
 ###  Anmärkningar
 
-Om antalet är för stort fungerar autofiltret mycket långsamt i MS Excel 2013.
+Om talet är för stort fungerar autofiltret mycket långsamt i MS Excel 2013.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_row fastighet
 
-Representerar om infogning av rader är tillåten på ett skyddat kalkylblad
+Representerar om insättning av rader är tillåten i ett skyddat kalkylblad
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

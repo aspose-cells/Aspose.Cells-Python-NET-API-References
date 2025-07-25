@@ -3,17 +3,17 @@ title: protection عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 720
+weight: 750
 url: /ar/aspose.cells/worksheet/protection/
 is_root: false
 ---
 ##  protection عقار
 
-يمثل الأنواع المختلفة من خيارات protection المتاحة لورقة العمل. يدعم خيارات protection المتقدمة في ExcelXP والإصدارات الأحدث.
+يُمثل أنواع خيارات protection المختلفة المتاحة لورقة العمل. يدعم خيارات protection المتقدمة في إصدار ExcelXP والإصدارات الأحدث.
 
 ###  ملاحظات
 
-يمكن لهذه الخاصية حماية ورقة العمل في جميع إصدارات ملف Excel ودعم خيارات protection المتقدمة في ExcelXP والإصدارات الأحدث.
+يمكن لهذه الخاصية حماية ورقة العمل في جميع إصدارات ملف Excel ودعم الخيارات المتقدمة protection في ExcelXP والإصدارات الأحدث.
 ###  تعريف:
 ```python
 @property

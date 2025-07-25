@@ -1,6 +1,6 @@
 ---
 title: is_text_no_fill proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def is_text_no_fill(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [LegendEntry](/cells/python-net/it/aspose.cells.charts/legendentry)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`LegendEntry`](/cells/python-net/it/aspose.cells.charts/legendentry)

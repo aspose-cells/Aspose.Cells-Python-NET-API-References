@@ -3,12 +3,12 @@ title: ControlPictureAlignmentType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 190
 url: /de/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
 ##  ControlPictureAlignmentType Aufzählung
-Stellt die Ausrichtung des Bildes innerhalb des Formulars oder Bilds dar.
+Stellt die Ausrichtung des Bildes innerhalb des Formulars oder Bildes dar.
 
 
 
@@ -26,4 +26,4 @@ Der Typ ControlPictureAlignmentType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)

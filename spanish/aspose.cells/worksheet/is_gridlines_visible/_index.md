@@ -3,13 +3,13 @@ title: is_gridlines_visible propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 590
 url: /es/aspose.cells/worksheet/is_gridlines_visible/
 is_root: false
 ---
 ##  is_gridlines_visible propiedad
 
-Obtiene o establece un valor que indica si las líneas de la cuadrícula son visibles. El valor predeterminado es verdadero.
+Obtiene o establece un valor que indica si las líneas de cuadrícula son visibles. El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property

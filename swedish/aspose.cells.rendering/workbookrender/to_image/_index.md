@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
-Gör hela arbetsboken som Tiff-bild för att streama.
+##  to_image(self, stream) {#io.RawIOBase}
+Rendera hela arbetsboken som en Tiff-bild för att strömma.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase | strömmen av utdatabilden|
 
 
-##  to_image {#str}
-Rendera hela arbetsboken som Tiff-bild till en fil.
+##  to_image(self, filename) {#str}
+Rendera hela arbetsboken som en Tiff-bild till en fil.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -39,12 +41,13 @@ def to_image(self, filename):
 | filename | str | filnamnet på utdatabilden|
 
 
-##  to_image {#int-str}
-Gör en viss sida till en fil.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendera en viss sida till en fil.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -56,12 +59,13 @@ def to_image(self, page_index, file_name):
 | file_name | str | filnamnet på utdatabilden|
 
 
-##  to_image {#int-io.RawIOBase}
-Gör en viss sida till en stream.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendera en viss sida till en ström.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

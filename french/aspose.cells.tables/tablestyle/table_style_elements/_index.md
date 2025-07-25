@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  table_style_elements propriété
 
-Obtient tous les éléments du style de tableau.
+Obtient tous les éléments du style du tableau.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def table_style_elements(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [TableStyle](/cells/python-net/fr/aspose.cells.tables/tablestyle)
-* classe [TableStyleElementCollection](/cells/python-net/fr/aspose.cells.tables/tablestyleelementcollection)
+* module [`aspose.cells.tables`](../../)
+* classe [`TableStyle`](/cells/python-net/fr/aspose.cells.tables/tablestyle)
+* classe [`TableStyleElementCollection`](/cells/python-net/fr/aspose.cells.tables/tablestyleelementcollection)

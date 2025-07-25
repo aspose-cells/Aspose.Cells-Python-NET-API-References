@@ -1,9 +1,9 @@
 ---
 title: Enumerazione VisibilityType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2750
+weight: 2720
 url: /it/aspose.cells/visibilitytype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ Il tipo VisibilityType espone i seguenti membri:
 | :- | :- |
 | VISIBLE | Indica che il foglio è visibile.|
 | HIDDEN | Indica che il foglio è nascosto, ma può essere visualizzato dall'utente tramite l'interfaccia utente.|
-| VERY_HIDDEN | Indica che il foglio è nascosto e non può essere visualizzato nell'interfaccia utente (UI).<br/> Questo stato è disponibile solo a livello di codice.|
+| VERY_HIDDEN | Indica che il foglio è nascosto e non può essere visualizzato nell'interfaccia utente (IU).<br/> Questo stato è disponibile solo a livello di programmazione.|
 
 
 

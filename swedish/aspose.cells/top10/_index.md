@@ -3,14 +3,14 @@ title: Top10 klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1550
+weight: 1460
 url: /sv/aspose.cells/top10/
 is_root: false
 ---
 ##  Top10 klass
- Beskriv Top10 villkorlig formateringsregel.
+ Beskriv regeln för villkorlig formatering Top10.
 Denna regel för villkorlig formatering markerar celler vars
-värden hamnar i den övre N- eller nedre N-parentesen, som specificerats.
+värden faller inom den övre N- eller nedre N-parentesen, enligt anvisningarna.
 
 
 
@@ -19,15 +19,15 @@ Typen Top10 avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/top10/__init__/#) | Konstruerar en ny instans av Top10|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/top10/__init__/#) | Konstruerar en ny instans av Top10|
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [is_percent](/cells/python-net/sv/aspose.cells/top10/is_percent) | Hämta eller ställ in om en "topp/botten n"-regel är en "topp/botten n procent"-regel.<br/> Standardvärdet är falskt.|
-| [is_bottom](/cells/python-net/sv/aspose.cells/top10/is_bottom) | Hämta eller ställ in om en "top/bottom n"-regel är en "bottom n"-regel.<br/> Standardvärdet är falskt.|
-| [rank](/cells/python-net/sv/aspose.cells/top10/rank) | Hämta eller ställ in värdet på "n" i en "top/bottom n" villkorlig formateringsregel.<br/>Om IsPercent är sant måste värdet mellan 0 och 100.<br/>Annars måste den vara mellan 0 och 1000.<br/> Standardvärdet är 10.|
+| [is_percent](/cells/python-net/sv/aspose.cells/top10/is_percent) | Hämta eller ange om en "topp/botten n"-regel är en "topp/botten n procent"-regel.<br/> Standardvärdet är falskt.|
+| [is_bottom](/cells/python-net/sv/aspose.cells/top10/is_bottom) | Hämta eller ange om en "topp/botten n"-regel är en "botten n"-regel.<br/> Standardvärdet är falskt.|
+| [rank](/cells/python-net/sv/aspose.cells/top10/rank) | Hämta eller ange värdet för "n" i en villkorsstyrd formateringsregel för "övre/nedre n".<br/>Om IsPercent är sant måste värdet vara mellan 0 och 100.<br/>Annars måste det vara mellan 0 och 1000.<br/> Standardvärdet är 10.|
 
 
 

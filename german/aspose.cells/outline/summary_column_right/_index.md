@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right Eigentum
 
-Gibt an, ob die Zusammenfassungsspalte rechts neben den Detailspalten in der Gliederung positioniert wird.
+Gibt an, ob die Zusammenfassungsspalte in der Gliederung rechts neben den Detailspalten positioniert wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Outline](/cells/python-net/de/aspose.cells/outline)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Outline`](/cells/python-net/de/aspose.cells/outline)

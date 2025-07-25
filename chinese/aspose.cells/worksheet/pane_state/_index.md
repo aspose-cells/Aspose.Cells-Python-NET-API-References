@@ -3,13 +3,13 @@ title: pane_state属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 720
 url: /zh/aspose.cells/worksheet/pane_state/
 is_root: false
 ---
 ## pane_state属性
 
-指示窗格是否具有水平或垂直分割，以及这些分割是否被冻结。
+指示窗格是否有水平或垂直分割，以及这些分割是否被冻结。
 ### 定义：
 ```python
 @property

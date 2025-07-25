@@ -3,13 +3,13 @@ title: has_line propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 440
+weight: 430
 url: /es/aspose.cells.drawing/checkbox/has_line/
 is_root: false
 ---
 ##  has_line propiedad
 
-Obtiene y establece que el borde de la línea de la forma sea visible.
+Obtiene y establece el borde de la línea de la forma que es visible.
 
 ###  Ejemplo
 

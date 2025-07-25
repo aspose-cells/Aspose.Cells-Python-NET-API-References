@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data/
 is_root: false
 ---
 ##  data propriété
-
-Obtient et définit le binaire data du contrôle.
 ###  Définition:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [SpinButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

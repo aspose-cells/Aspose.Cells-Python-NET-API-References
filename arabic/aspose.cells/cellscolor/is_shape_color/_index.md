@@ -1,5 +1,5 @@
 ---
-title: is_shape_color الملكية
+title: is_shape_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 70
 url: /ar/aspose.cells/cellscolor/is_shape_color/
 is_root: false
 ---
-##  is_shape_color الملكية
+##  is_shape_color عقار
 
-الحصول على اللون الذي يجب تطبيقه على الخلية أو الشكل وتعيينه.
+يحصل على اللون الذي يجب تطبيقه على الخلية أو الشكل ويحدده.
 
 ###  ملاحظات
 
-يختلف التعبير عن لون الخلية والشكل.
-على سبيل المثال: لون النسق الذي له نفس قيمة الصبغة لن يكون هو نفسه في الخلية والشكل.
+يختلف تعبير لون الخلية وشكلها.
+على سبيل المثال: لون السمة بقيمة الصبغة نفسها لن يكون هو نفسه في الخلية والشكل.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_shape_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)

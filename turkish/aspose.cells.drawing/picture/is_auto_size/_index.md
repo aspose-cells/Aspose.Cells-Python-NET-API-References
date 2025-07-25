@@ -3,14 +3,14 @@ title: is_auto_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 620
 url: /tr/aspose.cells.drawing/picture/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size mülk
 
-True, ole nesnesinin boyutunun, gömülü içeriğin anlık görüntüsünün boyutuna göre otomatik olarak değiştirileceğini belirtir.
-ole nesnesi etkinleştirildiğinde.
+True, ole nesnesinin boyutunun gömülü içeriğin anlık görüntüsünün boyutuyla otomatik olarak değiştirileceğini belirtir
+ole nesnesi aktifleştirildiğinde.
 ###  Tanım:
 ```python
 @property

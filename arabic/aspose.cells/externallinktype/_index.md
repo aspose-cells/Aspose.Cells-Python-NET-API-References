@@ -3,12 +3,12 @@ title: ExternalLinkType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2100
+weight: 2020
 url: /ar/aspose.cells/externallinktype/
 is_root: false
 ---
 ##  ExternalLinkType التعداد
-يمثل نوع الارتباط الخارجي.
+يمثل نوع الرابط الخارجي.
 
 
 
@@ -18,7 +18,7 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | DDE_LINK | يمثل رابط DDE.|
-| EXTERNAL | يمثل الارتباط الخارجي.|
+| EXTERNAL | يمثل رابط خارجي.|
 
 
 

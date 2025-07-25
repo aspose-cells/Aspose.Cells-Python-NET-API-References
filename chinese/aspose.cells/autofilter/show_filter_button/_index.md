@@ -1,13 +1,13 @@
 ---
-title: show_filter_button 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_filter_button属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 220
 url: /zh/aspose.cells/autofilter/show_filter_button/
 is_root: false
 ---
-## show_filter_button 属性
+## show_filter_button属性
 
 指示此列的自动筛选按钮是否可见。
 ### 定义：
@@ -21,5 +21,5 @@ def show_filter_button(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [AutoFilter](/cells/python-net/zh/aspose.cells/autofilter)
+* 模块[`aspose.cells`](../../)
+* 类 [`AutoFilter`](/cells/python-net/zh/aspose.cells/autofilter)

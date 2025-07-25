@@ -1,6 +1,6 @@
 ---
 title: max_length proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length proprietà
 
-Rappresenta la lunghezza massima della barra dei dati.
+Rappresenta la lunghezza massima della barra dati.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)

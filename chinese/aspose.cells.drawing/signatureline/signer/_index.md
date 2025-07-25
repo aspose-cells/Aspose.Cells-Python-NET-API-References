@@ -1,15 +1,15 @@
 ---
-title: signer 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: signer属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 110
 url: /zh/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
-## signer 属性
+## signer属性
 
-获取和设置 signer。
+获取或设置 signer。
 
 ### 例子
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

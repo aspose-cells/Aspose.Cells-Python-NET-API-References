@@ -1,34 +1,32 @@
 ---
-title: SolidFill الدرجة
+title: SolidFill صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 640
 url: /ar/aspose.cells.drawing/solidfill/
 is_root: false
 ---
-##  SolidFill الدرجة
-لتغليف الكائن الذي يمثل تنسيق تعبئة خالصًا
+##  SolidFill صف
+يغلف الكائن الذي يمثل تنسيق التعبئة الصلبة
 
 
 
-**ميراث:** [SolidFill](/cells/python-net/aspose.cells.drawing/solidfill) → 
-[Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
+**الميراث:** [`SolidFill`](/cells/python-net/ar/aspose.cells.drawing/solidfill)
 
 
 
-يكشف نوع SolidFill الأعضاء التالية:
+يكشف النوع SolidFill عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [color](/cells/python-net/ar/aspose.cells.drawing/solidfill/color) | يحصل أو يحدد اللون.|
-| [cells_color](/cells/python-net/ar/aspose.cells.drawing/solidfill/cells_color) |الحصول على العنصر [SolidFill.cells_color](/cells/python-net/ar/aspose.cells.drawing/solidfill#cells_color) وتعيينه.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/solidfill/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [color](/cells/python-net/ar/aspose.cells.drawing/solidfill/color) | يحصل على اللون أو يعينه.|
+| [cells_color](/cells/python-net/ar/aspose.cells.drawing/solidfill/cells_color) | يحصل على الكائن [`SolidFill.cells_color`](/cells/python-net/ar/aspose.cells.drawing/solidfill#cells_color) ويقوم بتعيينه.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/solidfill/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [Fill](/cells/python-net/ar/aspose.cells.drawing/fill)
-* فئة [SolidFill](/cells/python-net/ar/aspose.cells.drawing/solidfill)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`SolidFill`](/cells/python-net/ar/aspose.cells.drawing/solidfill)

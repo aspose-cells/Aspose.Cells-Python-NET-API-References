@@ -3,13 +3,13 @@ title: page_setup fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 710
 url: /sv/aspose.cells/worksheet/page_setup/
 is_root: false
 ---
 ##  page_setup fastighet
 
-Representerar beskrivningen av sidinställningarna i det här bladet.
+Representerar beskrivningen av sidinställningarna i det här arket.
 ###  Definition:
 ```python
 @property

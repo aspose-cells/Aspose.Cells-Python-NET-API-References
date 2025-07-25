@@ -1,15 +1,15 @@
 ---
 title: allow_edit_ranges недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 380
 url: /ru/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges недвижимость
 
-Получает коллекцию разрешенных диапазонов редактирования на листе.
+Получает коллекцию разрешенных диапазонов редактирования на рабочем листе.
 ###  Определение:
 ```python
 @property

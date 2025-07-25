@@ -18,5 +18,5 @@ def is_encrypted(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FileFormatInfo](/cells/python-net/es/aspose.cells/fileformatinfo)
+* módulo [`aspose.cells`](../../)
+* clase [`FileFormatInfo`](/cells/python-net/es/aspose.cells/fileformatinfo)

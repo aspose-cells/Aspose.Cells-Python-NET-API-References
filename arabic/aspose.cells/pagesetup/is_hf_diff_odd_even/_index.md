@@ -1,5 +1,5 @@
 ---
-title: is_hf_diff_odd_even الملكية
+title: is_hf_diff_odd_even عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 400
 url: /ar/aspose.cells/pagesetup/is_hf_diff_odd_even/
 is_root: false
 ---
-##  is_hf_diff_odd_even الملكية
+##  is_hf_diff_odd_even عقار
 
-تعني صواب أن رأس / تذييل الصفحات الفردية يختلف عن الصفحات الفردية.
+صحيح يعني أن رأس/تذييل الصفحات الفردية يختلف مع الصفحات الفردية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

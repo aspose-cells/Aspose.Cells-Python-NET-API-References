@@ -3,7 +3,7 @@ title: merge_areas mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 630
 url: /tr/aspose.cells.saving/ebooksaveoptions/merge_areas/
 is_root: false
 ---

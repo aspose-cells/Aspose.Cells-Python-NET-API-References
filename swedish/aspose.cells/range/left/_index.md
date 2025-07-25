@@ -3,13 +3,13 @@ title: left fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 460
 url: /sv/aspose.cells/range/left/
 is_root: false
 ---
 ##  left fastighet
 
-Hämtar avståndet, i poäng, från left-kanten av kolumn A till left-kanten av intervallet.
+Hämtar avståndet, i punkter, från left-kanten i kolumn A till left-kanten i intervallet.
 ###  Definition:
 ```python
 @property

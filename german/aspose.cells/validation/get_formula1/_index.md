@@ -7,16 +7,17 @@ weight: 50
 url: /de/aspose.cells/validation/get_formula1/
 is_root: false
 ---
-##  get_formula1(is_r1c1, is_local) {#bool-bool}
-Ruft den Wert oder Ausdruck ab, der dieser Validierung zugeordnet ist.
+##  get_formula1(self, is_r1c1, is_local) {#bool-bool}
+Ruft den mit dieser Validierung verknüpften Wert oder Ausdruck ab.
 
 
 ###  Kehrt zurück
 
-Der Wert oder Ausdruck, der dieser Validierung zugeordnet ist.
+Der mit dieser Validierung verknüpfte Wert oder Ausdruck.
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local):
     ...
 ```
@@ -28,16 +29,17 @@ def get_formula1(self, is_r1c1, is_local):
 | is_local | bool | Ob die Formel nach Gebietsschema formatiert werden muss.|
 
 
-##  get_formula1(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+##  get_formula1(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 Ruft den Wert oder Ausdruck ab, der dieser Validierung für eine bestimmte Zelle zugeordnet ist.
 
 
 ###  Kehrt zurück
 
-Der Wert oder Ausdruck, der dieser Validierung zugeordnet ist.
+Der mit dieser Validierung verknüpfte Wert oder Ausdruck.
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -53,5 +55,5 @@ def get_formula1(self, is_r1c1, is_local, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Validation](/cells/python-net/de/aspose.cells/validation)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Validation`](/cells/python-net/de/aspose.cells/validation)

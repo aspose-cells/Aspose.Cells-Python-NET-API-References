@@ -21,5 +21,5 @@ def accelerator(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [LabelActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`LabelActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

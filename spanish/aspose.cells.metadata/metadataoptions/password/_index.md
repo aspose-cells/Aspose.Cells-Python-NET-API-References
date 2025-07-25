@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password propiedad
 
-Representa el cifrado de archivos del libro de trabajo password.
+Representa el cifrado de archivo del libro de trabajo password.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.metadata](../../)
-* clase [MetadataOptions](/cells/python-net/es/aspose.cells.metadata/metadataoptions)
+* módulo [`aspose.cells.metadata`](../../)
+* clase [`MetadataOptions`](/cells/python-net/es/aspose.cells.metadata/metadataoptions)

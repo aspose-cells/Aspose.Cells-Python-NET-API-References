@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_filter Eigentum
 
-Gibt an, ob die Daten beim Laden der Dateien automatisch gefiltert werden.
+Gibt an, ob beim Laden der Dateien eine automatische Filterung der Daten erfolgen soll.
 
 ###  Bemerkungen
 
-Manchmal wird, obwohl Autofilter gesetzt ist, die entsprechende Zeile nicht in der Datei ausgeblendet.
+Manchmal werden die entsprechenden Zeilen in der Datei nicht ausgeblendet, obwohl der Autofilter aktiviert ist.
 Funktioniert jetzt nur für SpreadSheetML-Dateien.
 ###  Definition:
 ```python
@@ -26,5 +26,5 @@ def auto_filter(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.numbers](../../)
-* Klasse [NumbersLoadOptions](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)
+* Modul [`aspose.cells.numbers`](../../)
+* Klasse [`NumbersLoadOptions`](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)

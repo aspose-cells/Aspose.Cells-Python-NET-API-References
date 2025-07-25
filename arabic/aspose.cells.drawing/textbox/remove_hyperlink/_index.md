@@ -3,16 +3,17 @@ title: طريقة remove_hyperlink
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.drawing/textbox/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
-إزالة الارتباط التشعبي للشكل.
+##  remove_hyperlink(self) {#}
+إزالة الارتباط التشعبي الخاص بالشكل.
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

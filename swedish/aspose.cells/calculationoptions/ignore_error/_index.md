@@ -3,14 +3,14 @@ title: ignore_error fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 50
 url: /sv/aspose.cells/calculationoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error fastighet
 
 Anger om fel som uppstår vid beräkning av formler ska ignoreras.
-Felet kan vara en funktion som inte stöds, externa länkar, etc.
+Felet kan vara en funktion som inte stöds, externa länkar etc.
 Standardvärdet är sant.
 ###  Definition:
 ```python

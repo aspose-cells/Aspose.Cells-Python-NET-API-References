@@ -1,6 +1,6 @@
 ---
 title: stop_if_true недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  stop_if_true недвижимость
 
-Правда, никакие правила с более низким приоритетом не могут быть применены к этому правилу, когда это правило оценивается как истинное.
-Применяется только для Excel 2007;
+Правда, никакие правила с более низким приоритетом не могут быть применены к данному правилу, если это правило оценивается как истинное.
+Применимо только к Excel 2007;
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)

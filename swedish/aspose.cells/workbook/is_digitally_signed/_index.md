@@ -3,7 +3,7 @@ title: is_digitally_signed fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 640
 url: /sv/aspose.cells/workbook/is_digitally_signed/
 is_root: false
 ---

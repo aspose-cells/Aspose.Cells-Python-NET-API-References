@@ -3,12 +3,12 @@ title: OoxmlCompliance uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2360
+weight: 2330
 url: /sv/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
 ##  OoxmlCompliance uppräkning
-Tillåter att ange vilken OOXML-specifikation som ska användas när du sparar i Xlsx-formatet.
+Gör det möjligt att ange vilken OOXML-specifikation som ska användas vid sparning i Xlsx-format.
 
 
 

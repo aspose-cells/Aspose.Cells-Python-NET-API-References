@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook عقار
 
-الحصول على الكائن [`WorkbookDesigner.workbook`](/cells/python-net/ar/aspose.cells/workbookdesigner#workbook) وتعيينه.
+يحصل على الكائن [`WorkbookDesigner.workbook`](/cells/python-net/ar/aspose.cells/workbookdesigner#workbook) ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

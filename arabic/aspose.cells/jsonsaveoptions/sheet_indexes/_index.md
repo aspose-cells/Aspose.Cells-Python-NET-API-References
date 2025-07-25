@@ -1,15 +1,15 @@
 ---
-title: sheet_indexes الملكية
+title: sheet_indexes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 210
 url: /ar/aspose.cells/jsonsaveoptions/sheet_indexes/
 is_root: false
 ---
-##  sheet_indexes الملكية
+##  sheet_indexes عقار
 
-يمثل فهارس الأوراق المصدرة.
+يمثل مؤشرات الأوراق المصدرة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def sheet_indexes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

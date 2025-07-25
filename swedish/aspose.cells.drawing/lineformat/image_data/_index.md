@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  image_data fastighet
 
-Hämtar och ställer in bildbildsdata.
+Hämtar och ställer in bilddata.
 
 ###  Anmärkningar
 
-Om fyllningsformatet inte är anpassat texturformat, returneras null.
+Om fyllningsformatet inte är ett anpassat texturformat returneras null.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

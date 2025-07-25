@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.rendering/workbookrender/dispose/
 is_root: false
 ---
-##  dispose {#}
-يطلق الموارد التي تم إنشاؤها واستخدامها للعرض.
+##  dispose(self) {#}
+إصدار الموارد التي تم إنشاؤها واستخدامها للرسم.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

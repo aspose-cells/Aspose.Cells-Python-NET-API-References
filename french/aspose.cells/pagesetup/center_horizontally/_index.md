@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_horizontally propriété
 
-Représente si la feuille est imprimée centrée horizontalement.
+Indique si la feuille est imprimée centrée horizontalement.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_horizontally(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width mülk
 
-Eğimin width değerini veya şeklin ne kadar içine uygulandığını alır ve ayarlar.
+Eğimin width değerini veya şeklin içine ne kadar uygulandığını alır ve ayarlar.
 Puan biriminde.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Bevel](/cells/python-net/tr/aspose.cells.drawing/bevel)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Bevel`](/cells/python-net/tr/aspose.cells.drawing/bevel)

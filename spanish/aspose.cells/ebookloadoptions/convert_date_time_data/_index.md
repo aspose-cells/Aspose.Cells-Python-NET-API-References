@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_date_time_data propiedad
 
-Obtiene o establece un valor que indica si la cadena del archivo de texto se convierte en datos de fecha.
+Obtiene o establece un valor que indica si la cadena en el archivo de texto se convierte a datos de fecha.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_right_to_left propiedad
 
-Indica si los datos del trazado son de derecha a izquierda.
+Indica si los datos de la gráfica son de derecha a izquierda.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_right_to_left(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

@@ -8,7 +8,7 @@ url: /de/aspose.cells.slicers/slicercollection/
 is_root: false
 ---
 ##  SlicerCollection Klasse
-Gibt die Auflistung aller Slicer-Objekte auf dem angegebenen Arbeitsblatt an.
+Gibt die Auflistung aller Slicer-Objekte im angegebenen Arbeitsblatt an.
 
 
 
@@ -17,29 +17,30 @@ Der Typ SlicerCollection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [capacity](/cells/python-net/de/aspose.cells.slicers/slicercollection/capacity) | Ruft die Anzahl der Elemente ab, die die Arrayliste enthalten kann, oder legt diese fest.|
+| [capacity](/cells/python-net/de/aspose.cells.slicers/slicercollection/capacity) | Ruft die Anzahl der Elemente ab, die die Array-Liste enthalten kann, oder legt diese fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(pivot, row, column, base_field)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu|
-| [add(table, index, dest_cell_name)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu|
-| [add(table, list_column, row, column)](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu|
-| [copy_to(array)](/cells/python-net/de/aspose.cells.slicers/slicercollection/copy_to/#list) | Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/de/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |Kopiert eine Reihe von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
-| [index_of(item, index)](/cells/python-net/de/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
-| [index_of(item, index, count)](/cells/python-net/de/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
-| [last_index_of(item)](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens in der gesamten Array-Liste zurück.|
-| [last_index_of(item, index)](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
-| [last_index_of(item, index, count)](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
-| [binary_search(item)](/cells/python-net/de/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichs nach einem Element und gibt den nullbasierten Index des Elements zurück.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet|
+| [`copy_to(self, array)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/copy_to/#list) |Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
+| [`index_of(self, item, index)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
+| [`index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
+| [`last_index_of(self, item)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb der gesamten Arrayliste zurück.|
+| [`last_index_of(self, item, index)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
+| [`get(self, name)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/get/#str) | Ruft den Slicer anhand des Slicernamens ab.|
+| [`binary_search(self, item)`](/cells/python-net/de/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichers nach einem Element und gibt den nullbasierten Index des Elements zurück.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](..)
+* Modul [`aspose.cells.slicers`](..)

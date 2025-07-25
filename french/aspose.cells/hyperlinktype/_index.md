@@ -3,12 +3,12 @@ title: HyperlinkType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /fr/aspose.cells/hyperlinktype/
 is_root: false
 ---
 ##  HyperlinkType énumération
-Représente le type de lien hypertexte.
+Représente le type d'hyperlien.
 
 
 
@@ -19,7 +19,7 @@ Le type HyperlinkType expose les membres suivants :
 | :- | :- |
 | URL | URL |
 | FILE | Lien vers un fichier externe.|
-| CELL | Liez la cellule du classeur.|
+| CELL | Lier la cellule du classeur.|
 | UNKNOWN | Type inconnu.|
 
 

@@ -3,7 +3,7 @@ title: is_selected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 650
 url: /ar/aspose.cells/worksheet/is_selected/
 is_root: false
 ---

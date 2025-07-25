@@ -3,7 +3,7 @@ title: is_filled propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 600
+weight: 610
 url: /fr/aspose.cells.drawing/lineshape/is_filled/
 is_root: false
 ---

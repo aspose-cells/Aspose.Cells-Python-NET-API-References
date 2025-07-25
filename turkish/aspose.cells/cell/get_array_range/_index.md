@@ -7,7 +7,7 @@ weight: 60
 url: /tr/aspose.cells/cell/get_array_range/
 is_root: false
 ---
-##  get_array_range() {#}
+##  get_array_range(self) {#}
 Hücrenin formülü bir dizi formülü ise dizi aralığını alır.
 
 
@@ -17,6 +17,7 @@ Dizi aralığı.
 
 
 ```python
+
 def get_array_range(self):
     ...
 ```
@@ -29,5 +30,5 @@ Yalnızca hücrenin formülü bir dizi formülü olduğunda geçerlidir
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

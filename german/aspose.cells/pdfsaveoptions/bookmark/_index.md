@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bookmark Eigentum
 
-Ruft das Objekt [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry) ab und legt es fest.
+Ruft das Objekt [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry) ab und legt es fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def bookmark(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfBookmarkEntry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfBookmarkEntry`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

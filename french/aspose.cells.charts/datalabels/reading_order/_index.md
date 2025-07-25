@@ -3,7 +3,7 @@ title: reading_order propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 380
 url: /fr/aspose.cells.charts/datalabels/reading_order/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def reading_order(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/fr/aspose.cells.charts/datalabels)
-* classe [TextDirectionType](/cells/python-net/fr/aspose.cells/textdirectiontype)
+* module [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/fr/aspose.cells.charts/datalabels)
+* classe [`TextDirectionType`](/cells/python-net/fr/aspose.cells/textdirectiontype)

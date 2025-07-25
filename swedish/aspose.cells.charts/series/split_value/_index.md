@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_value fastighet
 
-Returnerar eller ställer in ett värde som ska användas för att bestämma vilka datapunkter som finns i den andra cirkeln eller stapeln
-en paj eller ett stapeldiagram.
+Returnerar eller anger ett värde som ska användas för att avgöra vilka datapunkter som finns i den andra cirkeln eller stapeln på
+ett cirkeldiagram eller ett stapeldiagram.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

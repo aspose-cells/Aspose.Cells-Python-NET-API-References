@@ -1,18 +1,19 @@
 ---
-title: export_xml método
+title: método export_xml
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 140
+weight: 150
 url: /es/aspose.cells/workbook/export_xml/
 is_root: false
 ---
-##  export_xml(map_name, path) {#str-str}
+##  export_xml(self, map_name, path) {#str-str}
 Exportar datos XML vinculados por el mapa XML especificado.
 
 
 
 ```python
+
 def export_xml(self, map_name, path):
     ...
 ```
@@ -20,7 +21,7 @@ def export_xml(self, map_name, path):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| map_name | str | nombre del mapa XML que necesita ser exportado|
+| map_name | str | nombre del mapa XML que se necesita exportar|
 | path | str | la ruta de exportación|
 
 ###  Ejemplo
@@ -38,12 +39,13 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-##  export_xml(map_name, stream) {#str-io.RawIOBase}
+##  export_xml(self, map_name, stream) {#str-io.RawIOBase}
 Exportar datos XML.
 
 
 
 ```python
+
 def export_xml(self, map_name, stream):
     ...
 ```
@@ -51,11 +53,11 @@ def export_xml(self, map_name, stream):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| map_name | str | nombre del mapa XML que necesita ser exportado|
+| map_name | str | nombre del mapa XML que se necesita exportar|
 | stream | io.RawIOBase | el flujo de exportación|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

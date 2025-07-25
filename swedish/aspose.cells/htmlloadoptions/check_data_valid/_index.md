@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  check_data_valid fastighet
 
-Kontrollera om data är giltiga i mallfilen.
+Kontrollera om data i mallfilen är giltiga.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

@@ -1,18 +1,19 @@
 ---
 title: remove_at метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
 url: /ru/aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
-##  remove_at {#str}
+##  remove_at(self, name) {#str}
 Удаляет элемент с указанным именем.
 
 
 
 ```python
+
 def remove_at(self, name):
     ...
 ```

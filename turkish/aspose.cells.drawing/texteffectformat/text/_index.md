@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text mülk
 
-WordArt'ta text.
+WordArt'taki text.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextEffectFormat](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextEffectFormat`](/cells/python-net/tr/aspose.cells.drawing/texteffectformat)

@@ -3,7 +3,7 @@ title: active_x_control Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 270
 url: /de/aspose.cells.drawing/scrollbar/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  Siehe auch
 * Modul [`aspose.cells.drawing`](../../)
-* Klasse [`ActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/activexcontrol)
 * Klasse [`ScrollBar`](/cells/python-net/de/aspose.cells.drawing/scrollbar)

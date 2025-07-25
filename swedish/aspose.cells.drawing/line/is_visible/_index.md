@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)

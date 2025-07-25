@@ -1,9 +1,9 @@
 ---
 title: formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 500
 url: /ru/aspose.cells/cell/formula/
 is_root: false
 ---
@@ -14,7 +14,7 @@ is_root: false
 ###  Примечания
 
  Строка formula всегда начинается со знака равенства (=).
-И пожалуйста, всегда используйте запятую (,) в качестве разделителя параметров, например «=SUM(A1, E1, H2)».
+И, пожалуйста, всегда используйте запятую (,) в качестве разделителя параметров, например «=SUM(A1, E1, H2)».
 
 ###  Пример
 

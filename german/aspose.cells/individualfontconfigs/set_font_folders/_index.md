@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 Legt die Schriftartenordner fest
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -26,5 +27,5 @@ def set_font_folders(self, font_folders, recursive):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IndividualFontConfigs](/cells/python-net/de/aspose.cells/individualfontconfigs)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IndividualFontConfigs`](/cells/python-net/de/aspose.cells/individualfontconfigs)

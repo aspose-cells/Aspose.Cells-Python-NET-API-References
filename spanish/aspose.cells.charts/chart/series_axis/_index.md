@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  series_axis propiedad
 
-Obtiene el eje de la serie del gráfico.
+Obtiene el eje de series del gráfico.
 ###  Definición:
 ```python
 @property

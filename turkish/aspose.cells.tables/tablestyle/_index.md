@@ -12,13 +12,13 @@ Tablo stilini temsil eder.
 
 
 
-TableStyle türü aşağıdaki üyeleri gösterir:
+TableStyle türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [name](/cells/python-net/tr/aspose.cells.tables/tablestyle/name) | Tablo stilinin adını alır.|
-| [table_style_elements](/cells/python-net/tr/aspose.cells.tables/tablestyle/table_style_elements) | Tablo stilinin tüm öğelerini alır.|
+| [table_style_elements](/cells/python-net/tr/aspose.cells.tables/tablestyle/table_style_elements) | Tablo stilinin tüm elemanlarını alır.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](..)
+* modül [`aspose.cells.tables`](..)

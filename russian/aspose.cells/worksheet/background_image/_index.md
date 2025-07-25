@@ -1,15 +1,15 @@
 ---
 title: background_image недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 400
 url: /ru/aspose.cells/worksheet/background_image/
 is_root: false
 ---
 ##  background_image недвижимость
 
-Получает и устанавливает фоновое изображение листа.
+Получает и задает фоновое изображение рабочего листа.
 ###  Определение:
 ```python
 @property

@@ -3,13 +3,13 @@ title: text_direction Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 950
+weight: 970
 url: /de/aspose.cells.drawing/commentshape/text_direction/
 is_root: false
 ---
 ##  text_direction Eigentum
 
-Ruft die Richtung des Textflusses für dieses Objekt ab bzw. legt sie fest.
+Ruft die Richtung des Textflusses für dieses Objekt ab/legt sie fest.
 
 ###  Beispiel
 

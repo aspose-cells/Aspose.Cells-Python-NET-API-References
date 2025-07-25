@@ -3,13 +3,13 @@ title: is_dynamic_data_exchange fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 640
 url: /sv/aspose.cells.drawing/picture/is_dynamic_data_exchange/
 is_root: false
 ---
 ##  is_dynamic_data_exchange fastighet
 
-Hämtar eller ställer in om dynamiskt datautbyte
+Hämtar eller anger om dynamiskt datautbyte
 ###  Definition:
 ```python
 @property

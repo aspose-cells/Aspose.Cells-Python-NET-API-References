@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_points mülk
 
-Mini grafik grubundaki negatif değerlerin farklı bir renk veya işaretleyici ile vurgulanıp vurgulanmayacağını belirtir.
+Kıvılcım çizgisi grubundaki negatif değerlerin farklı bir renk veya işaretleyici ile vurgulanıp vurgulanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_points(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

@@ -3,7 +3,7 @@ title: height_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 510
 url: /ar/aspose.cells.drawing/lineshape/height_inch/
 is_root: false
 ---

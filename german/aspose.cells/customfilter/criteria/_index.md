@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  criteria Eigentum
 
-Ruft die criteria ab und setzt sie.
+Ruft criteria ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CustomFilter](/cells/python-net/de/aspose.cells/customfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CustomFilter`](/cells/python-net/de/aspose.cells/customfilter)

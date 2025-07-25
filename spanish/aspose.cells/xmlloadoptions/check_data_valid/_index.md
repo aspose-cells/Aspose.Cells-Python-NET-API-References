@@ -21,5 +21,5 @@ def check_data_valid(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlLoadOptions](/cells/python-net/es/aspose.cells/xmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlLoadOptions`](/cells/python-net/es/aspose.cells/xmlloadoptions)

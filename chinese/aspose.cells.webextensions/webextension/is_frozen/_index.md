@@ -1,13 +1,13 @@
 ---
-title: is_frozen 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_frozen属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells.webextensions/webextension/is_frozen/
 is_root: false
 ---
-## is_frozen 属性
+## is_frozen属性
 
 指示用户是否可以与 Office 加载项交互。
 ### 定义：
@@ -21,5 +21,5 @@ def is_frozen(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.webextensions](../../)
-* 类 [WebExtension](/cells/python-net/zh/aspose.cells.webextensions/webextension)
+* 模块[`aspose.cells.webextensions`](../../)
+* 类 [`WebExtension`](/cells/python-net/zh/aspose.cells.webextensions/webextension)

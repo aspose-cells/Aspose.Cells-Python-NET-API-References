@@ -1,6 +1,6 @@
 ---
 title: has_up_down_bars proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 240
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_up_down_bars proprietà
 
-Vero se un grafico a linee presenta barre su e giù.
-Si applica solo ai grafici a linee.
+Vero se un grafico a linee presenta barre ascendenti e discendenti.
+Si applica solo ai grafici lineari.
 ###  Definizione:
 ```python
 @property

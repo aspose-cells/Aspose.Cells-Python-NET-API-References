@@ -3,13 +3,13 @@ title: format_picture عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 450
 url: /ar/aspose.cells.drawing/picture/format_picture/
 is_root: false
 ---
 ##  format_picture عقار
 
-الحصول على خيارات تنسيق الصورة وتعيينها.
+يحصل على خيارات تنسيق الصورة ويقوم بتعيينها.
 
 ###  مثال
 

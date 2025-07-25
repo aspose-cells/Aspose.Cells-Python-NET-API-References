@@ -1,14 +1,14 @@
 ---
-title: metodo get_sheet_by_code_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_sheet_by_code_name
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
 url: /it/aspose.cells/worksheetcollection/get_sheet_by_code_name/
 is_root: false
 ---
-##  get_sheet_by_code_name(code_name) {#str}
-Ottiene il foglio di lavoro in base al nome in codice.
+##  get_sheet_by_code_name(self, code_name) {#str}
+Ottiene il foglio di lavoro tramite il nome in codice.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ L'elemento con il nome in codice specificato.
 
 
 ```python
+
 def get_sheet_by_code_name(self, code_name):
     ...
 ```
@@ -29,5 +30,5 @@ def get_sheet_by_code_name(self, code_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

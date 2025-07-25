@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  keep_precision Eigentum
 
-Gibt an, ob ein Zeichenfolgenwert bei einer Länge von 15 nicht analysiert wird.
+Gibt an, ob ein Zeichenfolgenwert analysiert wird, wenn die Länge 15 beträgt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def keep_precision(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AbstractTextLoadOptions](/cells/python-net/de/aspose.cells/abstracttextloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AbstractTextLoadOptions`](/cells/python-net/de/aspose.cells/abstracttextloadoptions)

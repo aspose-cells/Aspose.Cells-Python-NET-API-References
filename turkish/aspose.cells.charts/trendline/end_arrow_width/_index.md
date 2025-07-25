@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrow_width mülk
 
-Bir satırın sonu için ok ucunun genişliğini belirtir.
+Bir satırın sonundaki ok ucunun genişliğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_arrow_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [MsoArrowheadWidth](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`MsoArrowheadWidth`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

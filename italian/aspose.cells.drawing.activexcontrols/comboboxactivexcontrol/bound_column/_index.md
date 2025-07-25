@@ -1,6 +1,6 @@
 ---
 title: bound_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bound_column proprietà
 
-Rappresenta il modo in cui viene determinata la proprietà Value per un oggetto ComboBox o ListBox
+Rappresenta come viene determinata la proprietà Valore per un controllo ComboBox o ListBox
 quando il valore delle proprietà MultiSelect (fmMultiSelectSingle).
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gamma mülk
 
-Resmin gamma'ini temsil eder.
+Resmin gamma'ini temsil ediyor.
 ###  Tanım:
 ```python
 @property

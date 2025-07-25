@@ -1,15 +1,15 @@
 ---
-title: generator_type الملكية
+title: generator_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 80
 url: /ar/aspose.cells/odssaveoptions/generator_type/
 is_root: false
 ---
-##  generator_type الملكية
+##  generator_type عقار
 
-الحصول على وتعيين منشئ ملف ods.
+يحصل على مولد ملف ods ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def generator_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OdsGeneratorType](/cells/python-net/ar/aspose.cells.ods/odsgeneratortype)
-* فئة [OdsSaveOptions](/cells/python-net/ar/aspose.cells/odssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OdsGeneratorType`](/cells/python-net/ar/aspose.cells.ods/odsgeneratortype)
+* فئة [`OdsSaveOptions`](/cells/python-net/ar/aspose.cells/odssaveoptions)

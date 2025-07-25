@@ -3,7 +3,7 @@ title: range mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 640
 url: /tr/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Pivot alanının range grubunu alır
 
 ###  Notlar
 
- NOT: Bu yöntem artık geçerliliğini yitirmiştir. Yerine,
-lütfen PivotField.GroupSettings özelliğini kullanın.
- Bu yöntem Ekim 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotField.GroupSettings özelliğini kullanın.
+ Bu yöntem 12 ay sonra, Ekim 2023'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

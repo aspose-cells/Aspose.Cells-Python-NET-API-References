@@ -1,9 +1,9 @@
 ---
 title: built_in_document_properties proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 470
 url: /it/aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Restituisce una raccolta [`DocumentProperty`](/cells/python-net/it/aspose.cells.
 
 ###  Osservazioni
 
-Non è possibile aggiungere una nuova proprietà all'elenco delle proprietà del documento integrato. Puoi solo ottenere una proprietà integrata e modificarne il valore.
-Quello che segue è l'elenco dei nomi delle proprietà integrate:
+Non è possibile aggiungere una nuova proprietà all'elenco delle proprietà predefinite del documento. È possibile solo ottenere una proprietà predefinita e modificarne il valore.
+Di seguito è riportato l'elenco dei nomi delle proprietà predefinite:
 
 Titolo
 
@@ -34,7 +34,7 @@ Commenti
 Modello
 
 
-Ultimo Autore
+Ultimo autore
 
 
 Numero di revisione
@@ -82,7 +82,7 @@ Azienda
 Numero di byte
 
 
-Numero di righe
+Numero di linee
 
 
 Numero di paragrafi
@@ -98,6 +98,17 @@ Numero di diapositive nascoste
 
 
 Numero di clip multimediali
+
+###  Esempio
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ###  Definizione:
 ```python
 @property

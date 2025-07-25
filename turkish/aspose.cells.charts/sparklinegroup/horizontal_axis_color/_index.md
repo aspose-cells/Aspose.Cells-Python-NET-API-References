@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_color mülk
 
-Mini grafik grubundaki yatay eksenin rengini alır ve ayarlar.
+Kıvılcım çizgisi grubundaki yatay eksenin rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def horizontal_axis_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

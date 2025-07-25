@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_type mülk
 
-Gölgenin ön ayarlı gölge türünü alır ve ayarlar.
+Gölgenin önceden ayarlanmış gölge türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PresetShadowType](/cells/python-net/tr/aspose.cells.drawing/presetshadowtype)
-* sınıf [ShadowEffect](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PresetShadowType`](/cells/python-net/tr/aspose.cells.drawing/presetshadowtype)
+* sınıf [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)

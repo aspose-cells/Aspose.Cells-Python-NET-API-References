@@ -7,12 +7,13 @@ weight: 130
 url: /ar/aspose.cells/autofilter/match_non_blanks/
 is_root: false
 ---
-##  match_non_blanks(field_index) {#int}
-تطابق جميع الخلايا غير الفارغة في القائمة.
+##  match_non_blanks(self, field_index) {#int}
+قم بمطابقة جميع الخلايا غير الفارغة في القائمة.
 
 
 
 ```python
+
 def match_non_blanks(self, field_index):
     ...
 ```
@@ -20,10 +21,10 @@ def match_non_blanks(self, field_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

@@ -1,6 +1,6 @@
 ---
 title: SlicerCache类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
@@ -8,20 +8,20 @@ url: /zh/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ## SlicerCache类
-切片器缓存的简要说明
+表示切片器缓存的概要描述
 
 
 
-SlicerCache 类型公开了以下成员：
+SlicerCache 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/zh/aspose.cells.slicers/slicercache/cross_filter_type) |返回或设置切片器是否参与与其他切片器的交叉过滤<br/>共享相同的切片器缓存，以及如何显示交叉过滤。读/写|
+| [cross_filter_type](/cells/python-net/zh/aspose.cells.slicers/slicercache/cross_filter_type) |返回或设置切片器是否参与与其他切片器的交叉过滤<br/>共享同一切片器缓存的切片器，以及如何显示交叉筛选。读/写|
 | [list](/cells/python-net/zh/aspose.cells.slicers/slicercache/list) |返回与指定切片器缓存关联的切片器是否基于非 OLAP 数据源。只读|
-| [slicer_cache_items](/cells/python-net/zh/aspose.cells.slicers/slicercache/slicer_cache_items) |返回一个 SlicerCacheItem 集合，其中包含切片器缓存中所有项目的集合。只读|
+| [slicer_cache_items](/cells/python-net/zh/aspose.cells.slicers/slicercache/slicer_cache_items) |返回一个 SlicerCacheItem 集合，该集合包含切片器缓存中所有项目的集合。只读|
 | [name](/cells/python-net/zh/aspose.cells.slicers/slicercache/name) |返回切片器缓存的名称。|
-| [source_name](/cells/python-net/zh/aspose.cells.slicers/slicercache/source_name) |返回缓存字段的名称|
+| [source_name](/cells/python-net/zh/aspose.cells.slicers/slicercache/source_name) |返回此切片器缓存的名称。|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](..)
+* 模块[`aspose.cells.slicers`](..)

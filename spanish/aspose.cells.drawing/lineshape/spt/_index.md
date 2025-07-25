@@ -3,7 +3,7 @@ title: spt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 970
+weight: 980
 url: /es/aspose.cells.drawing/lineshape/spt/
 is_root: false
 ---

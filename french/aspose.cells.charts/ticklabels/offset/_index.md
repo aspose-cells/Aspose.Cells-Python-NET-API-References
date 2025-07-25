@@ -9,12 +9,13 @@ is_root: false
 ---
 ##  offset propriété
 
-Obtient et définit la distance des étiquettes par rapport à l'axe.
+ Obtient et définit la distance des étiquettes par rapport à l'axe des catégories.
+Uniquement pour l'axe des catégories (x).
 
 ###  Remarques
 
-La distance par défaut est de 100 pour cent, ce qui représente l'espacement par défaut entre les étiquettes des axes et la ligne de l'axe.
-La valeur peut être un pourcentage entier compris entre 0 et 1 000, par rapport à la taille de police de l'étiquette de l'axe.
+La distance par défaut est de 100 %, ce qui représente l’espacement par défaut entre les étiquettes des axes et la ligne des axes.
+La valeur peut être un pourcentage entier compris entre 0 et 1 000, par rapport à la taille de police de l'étiquette de l'axe.
 ###  Définition:
 ```python
 @property

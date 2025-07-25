@@ -10,7 +10,7 @@ is_root: false
 ##  sub_title propiedad
 
 Obtiene el subtítulo del gráfico.
-Sólo para archivos con formato ODS.
+Sólo para archivos de formato ODS.
 ###  Definición:
 ```python
 @property

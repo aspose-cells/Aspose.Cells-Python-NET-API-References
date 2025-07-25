@@ -13,7 +13,7 @@ Bu çalışma kitabının toplam sayfa sayısını değerlendirin
 
 ###  Örnek
 
-Aşağıdaki kod, bir çalışma kitabının sayfa sayısını almanın en hızlı yolunu gösterir.
+Aşağıdaki kod bir çalışma kitabının sayfa sayısını almanın en hızlı yolunu göstermektedir.
 
 ```python
 from aspose.cells import Workbook
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [WorkbookPrintingPreview](/cells/python-net/tr/aspose.cells.rendering/workbookprintingpreview)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`WorkbookPrintingPreview`](/cells/python-net/tr/aspose.cells.rendering/workbookprintingpreview)

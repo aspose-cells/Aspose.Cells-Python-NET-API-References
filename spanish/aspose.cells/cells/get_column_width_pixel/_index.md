@@ -3,20 +3,21 @@ title: método get_column_width_pixel
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 380
 url: /es/aspose.cells/cells/get_column_width_pixel/
 is_root: false
 ---
-##  get_column_width_pixel {#int}
+##  get_column_width_pixel(self, column) {#int}
 Obtiene el ancho de la columna especificada en la vista normal, en unidades de píxeles.
 
 
 ###  Devoluciones
 
-Ancho de columna en vista normal.
+Ancho de la columna en la vista normal.
 
 
 ```python
+
 def get_column_width_pixel(self, column):
     ...
 ```
@@ -27,16 +28,17 @@ def get_column_width_pixel(self, column):
 | column | int | Índice de columnas|
 
 
-##  get_column_width_pixel {#int-bool}
+##  get_column_width_pixel(self, column, original) {#int-bool}
 Obtiene el ancho de la columna especificada en la vista normal, en unidades de píxeles.
 
 
 ###  Devoluciones
 
-Ancho de columna en vista normal.
+Ancho de la columna en la vista normal.
 
 
 ```python
+
 def get_column_width_pixel(self, column, original):
     ...
 ```
@@ -46,7 +48,12 @@ def get_column_width_pixel(self, column, original):
 | :- | :- | :- |
 | column | int | Índice de columnas|
 | original | bool | Indica si se devuelve el ancho original incluso cuando la columna está oculta|
+###  Observaciones
 
+NOTA: Este método ya no está disponible. En su lugar,
+Utilice el método Cells.GetColumnWidth(int, bool, CellsUnitType).
+Este método se eliminará 12 meses después, a partir de abril de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también

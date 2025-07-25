@@ -7,12 +7,13 @@ weight: 140
 url: /de/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value {#}
-Konvertiert nach Möglichkeit alle Zeichenfolgendaten im Arbeitsblatt in einen numerischen Wert.
+##  convert_string_to_numeric_value(self) {#}
+Konvertiert alle Zeichenfolgendaten im Arbeitsblatt, sofern möglich, in numerische Werte.
 
 
 
 ```python
+
 def convert_string_to_numeric_value(self):
     ...
 ```

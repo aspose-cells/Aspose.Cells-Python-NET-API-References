@@ -3,13 +3,13 @@ title: original_width fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 960
+weight: 980
 url: /sv/aspose.cells.drawing/picture/original_width/
 is_root: false
 ---
 ##  original_width fastighet
 
-Får bildens ursprungliga bredd.
+Hämtar bildens ursprungliga bredd.
 
 ###  Exempel
 

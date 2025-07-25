@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
-Hämtar etiketterna för axeln efter anropet Chart.Calculate()-metoden.
+##  get_axis_texts(self) {#}
+Hämtar axelns etiketter efter anrop av metoden Chart.Calculate().
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

@@ -7,8 +7,8 @@ weight: 40
 url: /ar/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---
-##  add_registered_reference(name, libid) {#str-str}
-قم بإضافة مرجع إلى مكتبة نوع التنفيذ.
+##  add_registered_reference(self, name, libid) {#str-str}
+أضف مرجعًا إلى مكتبة نوع الأتمتة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_registered_reference(self, name, libid):
     ...
 ```
@@ -25,10 +26,10 @@ def add_registered_reference(self, name, libid):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | name | str | اسم المرجع.|
-| libid | str | معرف مكتبة نوع التنفيذ.|
+| libid | str | معرف مكتبة نوع الأتمتة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProjectReferenceCollection](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencecollection)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProjectReferenceCollection`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencecollection)

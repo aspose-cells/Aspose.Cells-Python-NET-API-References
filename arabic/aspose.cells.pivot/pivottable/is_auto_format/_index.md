@@ -1,17 +1,16 @@
 ---
-title: is_auto_format الملكية
+title: is_auto_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 680
 url: /ar/aspose.cells.pivot/pivottable/is_auto_format/
 is_root: false
 ---
-##  is_auto_format الملكية
+##  is_auto_format عقار
 
-الإشارة إلى ما إذا كان تقرير PivotTable قد تم تنسيقه تلقائيًا.
-حدد خانة الاختيار "جدول التنسيق التلقائي" الموجود في الخيار المحوري لبرنامج Excel 2003
-خانة الاختيار "احتواء تلقائي لعرض العمود عند التحديث" الموجود في خيارات الجدول المحوري: تنسيق التخطيط لبرنامج Excel 2007
+يشير إلى ما إذا كان يتم تنسيق تقرير PivotTable تلقائيًا.
+مربع الاختيار "تنسيق الجدول تلقائيًا" الموجود في خيار Pivottable لبرنامج Excel 2003
 ###  تعريف:
 ```python
 @property
@@ -23,5 +22,5 @@ def is_auto_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

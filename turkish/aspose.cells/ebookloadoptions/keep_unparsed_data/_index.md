@@ -3,18 +3,18 @@ title: keep_unparsed_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 210
 url: /tr/aspose.cells/ebookloadoptions/keep_unparsed_data/
 is_root: false
 ---
 ##  keep_unparsed_data mülk
 
-Şablon dosyasından yüklendiğinde Çalışma Kitabının ayrıştırılmamış verilerinin bellekte tutulup tutulmayacağı. Varsayılan doğrudur.
+Çalışma kitabı şablon dosyasından yüklendiğinde ayrıştırılmamış verilerin bellekte tutulup tutulmayacağı. Varsayılan değer true'dur.
 
 ###  Notlar
 
-Kullanıcının şablon dosyasından yalnızca bazı içerikleri okuması gereken ve çalışma kitabını geri kaydetmesine gerek olmayan senaryolar için,
-bu özelliği false olarak ayarlamak, özellikle bir tür LoadFilter ile birlikte kullanıldığında performansı artırabilir,
+Kullanıcının yalnızca şablon dosyasından bazı içerikleri okuması gereken ve çalışma kitabını geri kaydetmesi gerekmeyen senaryolar için,
+Bu özelliği false olarak ayarlamak, özellikle bir tür LoadFilter ile birlikte kullanıldığında performansı artırabilir.
 ###  Tanım:
 ```python
 @property

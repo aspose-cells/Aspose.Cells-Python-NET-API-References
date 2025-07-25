@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)

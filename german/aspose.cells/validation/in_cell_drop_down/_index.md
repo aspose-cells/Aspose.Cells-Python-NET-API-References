@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  in_cell_drop_down Eigentum
 
-Gibt an, ob bei der Datenvalidierung eine Dropdown-Liste angezeigt wird, die akzeptable Werte enthält.
+Gibt an, ob bei der Datenüberprüfung eine Dropdownliste mit zulässigen Werten angezeigt wird.
 ###  Definition:
 ```python
 @property

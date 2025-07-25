@@ -3,7 +3,7 @@ title: capacity fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 140
 url: /sv/aspose.cells.vba/vbamodulecollection/capacity/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle mülk
 
-Metin döndürme açısını saat yönünde temsil eder.
+Metnin saat yönünde dönüş açısını gösterir.
 
 ###  Notlar
 

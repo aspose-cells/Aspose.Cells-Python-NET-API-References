@@ -3,7 +3,7 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 840
+weight: 850
 url: /tr/aspose.cells.drawing/listbox/name/
 is_root: false
 ---

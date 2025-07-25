@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_change propriété
 
-Le changement maximum pour résoudre une référence circulaire.
+Le changement maximal pour résoudre une référence circulaire.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_change(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/fr/aspose.cells/formulasettings)
+* module [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/fr/aspose.cells/formulasettings)

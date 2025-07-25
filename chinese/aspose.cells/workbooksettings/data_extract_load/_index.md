@@ -9,7 +9,7 @@ is_root: false
 ---
 ## data_extract_load属性
 
-指示应用程序上次是否打开工作簿进行数据恢复。
+指示应用程序是否最后打开工作簿进行数据恢复。
 ### 定义：
 ```python
 @property

@@ -3,7 +3,7 @@ title: FindOptions sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 660
+weight: 640
 url: /tr/aspose.cells/findoptions/
 is_root: false
 ---
@@ -17,7 +17,7 @@ FindOptions türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/findoptions/__init__/#) |FindOptions'ın yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells/findoptions/__init__/#) | FindOptions'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -25,23 +25,24 @@ FindOptions türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | [is_case_sensitive](/cells/python-net/tr/aspose.cells/findoptions/is_case_sensitive) | Aranan dizenin büyük/küçük harfe duyarlı olup olmadığını gösterir.|
 | [case_sensitive](/cells/python-net/tr/aspose.cells/findoptions/case_sensitive) | Aranan dizenin büyük/küçük harfe duyarlı olup olmadığını gösterir.|
-| [look_at_type](/cells/python-net/tr/aspose.cells/findoptions/look_at_type) | Tipe bakın.|
+| [look_at_type](/cells/python-net/tr/aspose.cells/findoptions/look_at_type) | Tipine bak.|
 | [is_range_set](/cells/python-net/tr/aspose.cells/findoptions/is_range_set) | Aranan aralığın ayarlanıp ayarlanmadığını gösterir.|
-| [search_next](/cells/python-net/tr/aspose.cells/findoptions/search_next) | Arama sırası. Doğru: sonraki aramayı yapın. Yanlış: öncekini ara.|
-| [search_backward](/cells/python-net/tr/aspose.cells/findoptions/search_backward) | Hücreler için geriye doğru arama yapılıp yapılmayacağı.|
-| [seach_order_by_rows](/cells/python-net/tr/aspose.cells/findoptions/seach_order_by_rows) | Arama sırasının satırlara göre mi yoksa sütunlara göre mi olduğunu belirtir.|
-| [look_in_type](/cells/python-net/tr/aspose.cells/findoptions/look_in_type) | Tip olarak bakın.|
-| [regex_key](/cells/python-net/tr/aspose.cells/findoptions/regex_key) | Aranan anahtarın normal ifade olup olmadığını gösterir.<br/> Doğruysa aranan anahtar normal ifade olarak alınacak ve ayrıştırılacaktır. Aksi halde anahtar ms excel'deki kurallara göre ayrıştırılacaktır.|
-| [value_type_sensitive](/cells/python-net/tr/aspose.cells/findoptions/value_type_sensitive) | Aranan hücre değer türünün aranan anahtarla aynı olup olmayacağını belirtir.|
+| [search_next](/cells/python-net/tr/aspose.cells/findoptions/search_next) |Arama sırası. Doğru: sonrakini ara. Yanlış: öncekini ara.|
+| [search_backward](/cells/python-net/tr/aspose.cells/findoptions/search_backward) | Hücreler için geriye doğru arama yapın.|
+| [seach_order_by_rows](/cells/python-net/tr/aspose.cells/findoptions/seach_order_by_rows) | Aramanın satırlara mı yoksa sütunlara mı göre sıralanacağını belirtir.|
+| [search_order_by_rows](/cells/python-net/tr/aspose.cells/findoptions/search_order_by_rows) | Aramanın satırlara mı yoksa sütunlara mı göre sıralanacağını belirtir.|
+| [look_in_type](/cells/python-net/tr/aspose.cells/findoptions/look_in_type) | Yazılışına bak.|
+| [regex_key](/cells/python-net/tr/aspose.cells/findoptions/regex_key) | Aranan anahtarın regex olup olmadığını belirtir.<br/>Eğer doğruysa aranan anahtar regex olarak alınacak ve ayrıştırılacaktır.<br/> Aksi takdirde anahtar ms excel'deki kurallara göre ayrıştırılacaktır.|
+| [value_type_sensitive](/cells/python-net/tr/aspose.cells/findoptions/value_type_sensitive) | Aranan hücre değer tipinin aranan anahtarla aynı olup olmadığını belirtir.|
 | [style](/cells/python-net/tr/aspose.cells/findoptions/style) | Aranacak format.|
-| [convert_numeric_data](/cells/python-net/tr/aspose.cells/findoptions/convert_numeric_data) | Aranan dize değerinin sayısal verilere dönüştürülüp dönüştürülmediğini gösteren bir değer alır veya ayarlar.|
+| [convert_numeric_data](/cells/python-net/tr/aspose.cells/findoptions/convert_numeric_data) | Aranan dize değerinin sayısal verilere dönüştürülüp dönüştürülmeyeceğini belirten bir değeri alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_range](/cells/python-net/tr/aspose.cells/findoptions/get_range/#) | Aranan aralığı alır ve ayarlar.|
-| [set_range](/cells/python-net/tr/aspose.cells/findoptions/set_range/#aspose.cells.CellArea) | Aranan aralığı ayarlar.|
+| [`get_range(self)`](/cells/python-net/tr/aspose.cells/findoptions/get_range/#) | Aranan aralığı alır ve ayarlar.|
+| [`set_range(self, ca)`](/cells/python-net/tr/aspose.cells/findoptions/set_range/#aspose.cells.cellarea) | Aranan aralığı ayarlar.|
 
 
 

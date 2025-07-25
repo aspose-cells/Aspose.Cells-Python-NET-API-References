@@ -1,6 +1,6 @@
 ---
 title: font_settings proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings proprietà
 
-Le impostazioni con formattazione avanzata per il testo sostituito.
+Impostazioni di formattazione avanzata per il testo sostituito.
 ###  Definizione:
 ```python
 @property

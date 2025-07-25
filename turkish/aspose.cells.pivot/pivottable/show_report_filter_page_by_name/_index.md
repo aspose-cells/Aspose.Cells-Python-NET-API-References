@@ -3,16 +3,17 @@ title: show_report_filter_page_by_name yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 350
 url: /tr/aspose.cells.pivot/pivottable/show_report_filter_page_by_name/
 is_root: false
 ---
-##  show_report_filter_page_by_name(field_name) {#str}
-Tüm rapor filtre sayfalarını PivotField'ın adına göre göster, PivotField'ın PageFields içinde bulunması gerekir.
+##  show_report_filter_page_by_name(self, field_name) {#str}
+PivotField ismine göre tüm rapor filtre sayfalarını göster, PivotField PageFields'da bulunmalıdır.
 
 
 
 ```python
+
 def show_report_filter_page_by_name(self, field_name):
     ...
 ```
@@ -25,5 +26,5 @@ def show_report_filter_page_by_name(self, field_name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

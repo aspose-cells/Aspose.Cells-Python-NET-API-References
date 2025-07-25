@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/style/get_two_color_gradient_setting/
 is_root: false
 ---
-##  get_two_color_gradient_setting() {#}
-احصل على إعداد التدرج ثنائي اللون.
+##  get_two_color_gradient_setting(self) {#}
+احصل على إعداد التدرج اللوني ثنائي اللون.
 
 
 
 ```python
+
 def get_two_color_gradient_setting(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_two_color_gradient_setting(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_cm propiedad
 
-Representa el ancho del comentario, en unidades de centímetros.
+Representa el ancho del comentario, en unidad de centímetros.
 
 ###  Ejemplo
 

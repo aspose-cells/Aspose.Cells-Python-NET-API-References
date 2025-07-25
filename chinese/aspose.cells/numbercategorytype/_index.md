@@ -3,7 +3,7 @@ title: NumberCategoryType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /zh/aspose.cells/numbercategorytype/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 
 NumberCategoryType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | GENERAL |一般的|
 | TEXT |文本|
@@ -23,7 +23,7 @@ NumberCategoryType 类型公开以下成员：
 | DATE |日期或日期和时间|
 | TIME |时间|
 | FRACTION |分数|
-| SCIENTIFIC |科学的|
+| SCIENTIFIC |科学|
 
 
 

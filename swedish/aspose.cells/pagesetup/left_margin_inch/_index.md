@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_inch fastighet
 
-Representerar storleken på den vänstra marginalen, i enhet av tum.
+Representerar storleken på vänstermarginalen, i tum.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_inch(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

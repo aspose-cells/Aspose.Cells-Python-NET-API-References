@@ -1,18 +1,19 @@
 ---
-title: remove_at método
+title: método remove_at
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 90
+weight: 100
 url: /es/aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
-##  remove_at(cell_name) {#str}
+##  remove_at(self, cell_name) {#str}
 Elimina el comentario de la celda específica.
 
 
 
 ```python
+
 def remove_at(self, cell_name):
     ...
 ```
@@ -31,12 +32,13 @@ comments.remove_at("B2")
 ```
 
 
-##  remove_at(row, column) {#int-int}
+##  remove_at(self, row, column) {#int-int}
 Elimina el comentario de la celda específica.
 
 
 
 ```python
+
 def remove_at(self, row, column):
     ...
 ```
@@ -58,5 +60,5 @@ comments.remove_at(1, 1)
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CommentCollection](/cells/python-net/es/aspose.cells/commentcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`CommentCollection`](/cells/python-net/es/aspose.cells/commentcollection)

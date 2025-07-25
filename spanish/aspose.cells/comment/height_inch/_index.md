@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_inch propiedad
 
-Representa la altura del comentario, en unidades de pulgadas.
+Representa la altura del comentario, en unidad de pulgadas.
 
 ###  Ejemplo
 

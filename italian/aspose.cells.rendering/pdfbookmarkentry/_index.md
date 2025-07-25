@@ -1,36 +1,36 @@
 ---
-title: classe PdfBookmarkEntry
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: PdfBookmarkEntry classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 70
 url: /it/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
-##  classe PdfBookmarkEntry
+##  PdfBookmarkEntry classe
 PdfBookmarkEntry è una voce nel segnalibro pdf.
-se la proprietà Text dell'istanza corrente è nulla o "",
-l'istanza corrente verrà nascosta e i figli verranno inseriti al livello corrente.
+se la proprietà Testo dell'istanza corrente è null o "",
+l'istanza corrente verrà nascosta e gli elementi figlio verranno inseriti al livello corrente.
 
 
 
-Il tipo PdfBookmarkEntry espone i membri seguenti:
+Il tipo PdfBookmarkEntry espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Costruisce una nuova istanza di PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Crea una nuova istanza di PdfBookmarkEntry|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [text](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/text) | Titolo di un segnalibro.|
-| [destination](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/destination) | La cella a cui si collega il segnalibro.|
+| [destination](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/destination) |La cella a cui è collegato il segnalibro.|
 | [destination_name](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Ottiene o imposta il nome della destinazione.|
-| [sub_entry](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Sottovoce di un segnalibro.|
-| [is_open](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/is_open) |Quando questa proprietà è vera, il bookmarkentry si espanderà, altrimenti collasserà.|
-| [is_collapse](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Quando questa proprietà è vera, il bookmarkentry collasserà, altrimenti si espanderà.|
+| [sub_entry](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Voce secondaria di un segnalibro.|
+| [is_open](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/is_open) | Quando questa proprietà è vera, la voce del bookmark si espande, altrimenti si contrae.|
+| [is_collapse](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Quando questa proprietà è vera, la voce del bookmark si comprime, altrimenti si espande.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](..)
+* modulo [`aspose.cells.rendering`](..)

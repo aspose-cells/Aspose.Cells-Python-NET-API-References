@@ -19,10 +19,10 @@ Le type DataLabelsSeparatorType expose les membres suivants :
 | :- | :- |
 | AUTO | Représente le séparateur automatique|
 | SPACE | Représente l'espace(" ")|
-| COMMA | Représente une virgule(",")|
-| SEMICOLON | Représente un point-virgule(";")|
+| COMMA | Représente la virgule(",")|
+| SEMICOLON | Représente un point-virgule (« ; »)|
 | PERIOD | Représente le point(".")|
-| NEW_LINE | Représente une nouvelle ligne("\n")|
+| NEW_LINE | Représente une nouvelle ligne ("\n")|
 | CUSTOM | Représente un séparateur personnalisé|
 
 

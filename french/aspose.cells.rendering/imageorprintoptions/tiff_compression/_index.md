@@ -3,17 +3,17 @@ title: tiff_compression propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 380
 url: /fr/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
 ##  tiff_compression propriété
 
-Obtient ou définit le type de compression à appliquer uniquement lors de l'enregistrement des pages au format `Tiff`.
+Obtient ou définit le type de compression à appliquer uniquement lors de l'enregistrement de pages au format `Tiff`.
 
 ###  Remarques
 
-N'a d'effet que lors de l'enregistrement au TIFF.
+N'a d'effet que lors de l'enregistrement dans TIFF.
 La valeur par défaut est Lzw.
 ###  Définition:
 ```python

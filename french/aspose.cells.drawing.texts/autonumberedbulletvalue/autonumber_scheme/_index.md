@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  autonumber_scheme propriété
 
-Représente le schéma de numérotation automatique.
+Représente le schéma du numéro automatique.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def autonumber_scheme(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [AutoNumberedBulletValue](/cells/python-net/fr/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* classe [TextAutonumberScheme](/cells/python-net/fr/aspose.cells.drawing.texts/textautonumberscheme)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`AutoNumberedBulletValue`](/cells/python-net/fr/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* classe [`TextAutonumberScheme`](/cells/python-net/fr/aspose.cells.drawing.texts/textautonumberscheme)

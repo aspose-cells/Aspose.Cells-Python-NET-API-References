@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  std_dev propiedad
 
-Obtener o establecer el número de desviaciones estándar para incluir por encima o por debajo del promedio en el
+Obtenga o establezca el número de desviaciones estándar que se incluirán por encima o por debajo del promedio en el
  regla de formato condicional.
- El valor de entrada debe estar entre 0 y 3 (incluye 0 y 3).
-Establecer este valor en 0 significa que stdDev no está establecido.
+ El valor de entrada debe estar entre 0 y 3 (incluya 0 y 3).
+Establecer este valor en 0 significa que stdDev no está configurado.
 El valor predeterminado es 0.
 ###  Definición:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AboveAverage](/cells/python-net/es/aspose.cells/aboveaverage)
+* módulo [`aspose.cells`](../../)
+* clase [`AboveAverage`](/cells/python-net/es/aspose.cells/aboveaverage)

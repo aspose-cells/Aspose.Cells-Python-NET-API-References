@@ -7,16 +7,17 @@ weight: 230
 url: /sv/aspose.cells/settableglobalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
-Hämtar typnamnet på tabellrader som består av alla rader i den refererade tabellen.
+##  get_table_row_type_of_all(self) {#}
+Hämtar typnamnet för tabellrader som består av alla rader i den refererade tabellen.
 
 
 ###  Returnerar
 
-typnamnet på tabellrader
+typnamnet för tabellrader
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

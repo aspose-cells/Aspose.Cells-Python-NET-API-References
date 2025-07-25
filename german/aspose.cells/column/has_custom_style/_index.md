@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_custom_style Eigentum
 
-Gibt an, ob diese Spalte über benutzerdefinierte Stileinstellungen verfügt (anders als die von der Arbeitsmappe geerbte Standardeinstellung).
+Gibt an, ob diese Spalte benutzerdefinierte Stileinstellungen hat (anders als die aus der Arbeitsmappe übernommenen Standardeinstellungen).
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_custom_style(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Column](/cells/python-net/de/aspose.cells/column)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Column`](/cells/python-net/de/aspose.cells/column)

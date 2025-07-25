@@ -1,6 +1,6 @@
 ---
 title: graphic_position_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def graphic_position_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.ods](../../)
-* classe [OdsPageBackground](/cells/python-net/it/aspose.cells.ods/odspagebackground)
-* classe [OdsPageBackgroundGraphicPositionType](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphicpositiontype)
+* modulo [`aspose.cells.ods`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/it/aspose.cells.ods/odspagebackground)
+* classe [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/it/aspose.cells.ods/odspagebackgroundgraphicpositiontype)

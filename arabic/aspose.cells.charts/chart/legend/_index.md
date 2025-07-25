@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend عقار
 
-يحصل على المخطط legend.
+يحصل على الرسم البياني legend.
 ###  تعريف:
 ```python
 @property

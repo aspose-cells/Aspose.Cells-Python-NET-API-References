@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_vertical_alignment Eigentum
 
-Ruft den vertikalen Textausrichtungstyp des Kommentars ab und legt diesen fest.
+Ruft den Typ der vertikalen Textausrichtung des Kommentars ab und legt ihn fest.
 
 ###  Beispiel
 

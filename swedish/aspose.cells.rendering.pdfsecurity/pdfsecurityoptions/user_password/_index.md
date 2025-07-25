@@ -9,21 +9,21 @@ is_root: false
 ---
 ##  user_password fastighet
 
-Hämtar eller ställer in användarlösenordet som krävs för att öppna det krypterade PDF-dokumentet.
+Hämtar eller ställer in användarlösenordet som krävs för att öppna det krypterade dokumentet PDF.
 
 ###  Anmärkningar
 
-Ägarlösenordet eller användarlösenordet kommer att krävas för att öppna ett krypterat PDF-dokument för visning.
+Ägarlösenordet eller användarlösenordet krävs för att öppna ett krypterat PDF-dokument för visning.
 
 
-Användarlösenordet kan vara null eller tom sträng, i detta fall kommer inget lösenord att krävas av användaren när PDF-dokumentet öppnas.
+Användarlösenordet kan vara null eller en tom sträng. I det här fallet krävs inget lösenord från användaren när dokumentet PDF öppnas.
 
 
-Att öppna dokumentet med rätt ägarlösenord ger full åtkomst till dokumentet.
+Att öppna dokumentet med rätt ägarlösenord ger fullständig åtkomst till dokumentet.
 
 
  Öppna dokumentet med rätt användarlösenord (eller öppna ett dokument som inte har ett användarlösenord)
-tillåter begränsad åtkomst som de behörigheter som anges.
+tillåter begränsad åtkomst enligt angivna behörigheter.
 ###  Definition:
 ```python
 @property

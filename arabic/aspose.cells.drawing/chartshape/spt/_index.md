@@ -3,13 +3,13 @@ title: spt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ar/aspose.cells.drawing/chartshape/spt/
 is_root: false
 ---
 ##  spt عقار
 
-يحدد رقمًا اختياريًا يمكن أن يستخدمه التطبيق لربط شكل معين بنوع شكل محدد.
+يقوم بتحديد رقم اختياري يمكن للتطبيق استخدامه لربط الشكل المحدد بنوع الشكل المحدد.
 
 ###  مثال
 

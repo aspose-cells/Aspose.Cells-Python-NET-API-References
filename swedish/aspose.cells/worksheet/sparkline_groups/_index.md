@@ -3,13 +3,13 @@ title: sparkline_groups fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 800
+weight: 820
 url: /sv/aspose.cells/worksheet/sparkline_groups/
 is_root: false
 ---
 ##  sparkline_groups fastighet
 
-Får sparkline-grupperna i arbetsbladet.
+Hämtar miniatyrdiagramgrupperna i kalkylbladet.
 ###  Definition:
 ```python
 @property

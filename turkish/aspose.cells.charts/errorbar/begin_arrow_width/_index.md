@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_width mülk
 
-Bir satırın başlangıcı için ok ucunun genişliğini belirtir.
+Bir çizginin başlangıcındaki ok ucunun genişliğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [MsoArrowheadWidth](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`MsoArrowheadWidth`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)

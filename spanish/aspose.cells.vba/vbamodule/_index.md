@@ -17,8 +17,9 @@ El tipo VbaModule expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [name](/cells/python-net/es/aspose.cells.vba/vbamodule/name) | Obtiene y establece el nombre de Module.|
+| [name](/cells/python-net/es/aspose.cells.vba/vbamodule/name) | Obtiene y establece el nombre del módulo.|
 | [type](/cells/python-net/es/aspose.cells.vba/vbamodule/type) | Obtiene el tipo de módulo.|
+| [binary_codes](/cells/python-net/es/aspose.cells.vba/vbamodule/binary_codes) | Obtiene y establece los códigos binarios del módulo.|
 | [codes](/cells/python-net/es/aspose.cells.vba/vbamodule/codes) | Obtiene y establece los códigos del módulo.|
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](..)
+* módulo [`aspose.cells.vba`](..)

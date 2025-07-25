@@ -3,7 +3,7 @@ title: colors Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 490
 url: /de/aspose.cells/workbook/colors/
 is_root: false
 ---

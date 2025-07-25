@@ -3,7 +3,7 @@ title: text_options属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /zh/aspose.cells.drawing/combobox/text_options/
 is_root: false
 ---

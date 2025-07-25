@@ -3,7 +3,7 @@ title: line mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 750
+weight: 760
 url: /tr/aspose.cells.drawing/radiobutton/line/
 is_root: false
 ---

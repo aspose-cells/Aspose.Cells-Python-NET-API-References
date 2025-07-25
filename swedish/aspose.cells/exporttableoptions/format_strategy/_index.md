@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_strategy fastighet
 
-Hämtar och ställer in formatstrategin när värdet exporteras som strängvärde.
+Hämtar och anger formatstrategin vid export av värdet som strängvärde.
 ###  Definition:
 ```python
 @property

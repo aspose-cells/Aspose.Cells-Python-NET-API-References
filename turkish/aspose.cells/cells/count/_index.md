@@ -3,7 +3,7 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1020
+weight: 1040
 url: /tr/aspose.cells/cells/count/
 is_root: false
 ---

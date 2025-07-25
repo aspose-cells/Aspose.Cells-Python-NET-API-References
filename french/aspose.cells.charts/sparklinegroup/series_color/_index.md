@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  series_color propriété
 
-Obtient et définit la couleur des graphiques sparkline dans le groupe de graphiques sparkline.
+Obtient et définit la couleur des sparklines dans le groupe sparklines.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def series_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

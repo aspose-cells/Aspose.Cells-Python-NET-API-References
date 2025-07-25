@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_separator_of_formula_array propriété
 
-Obtient le séparateur des éléments des données de ligne du tableau dans la formule.
+Obtient le séparateur pour les éléments dans les données de ligne du tableau dans la formule.
 ###  Définition:
 ```python
 @property

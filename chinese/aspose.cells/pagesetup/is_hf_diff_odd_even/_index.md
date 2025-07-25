@@ -1,13 +1,13 @@
 ---
-title: is_hf_diff_odd_even 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_hf_diff_odd_even属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 400
 url: /zh/aspose.cells/pagesetup/is_hf_diff_odd_even/
 is_root: false
 ---
-## is_hf_diff_odd_even 属性
+## is_hf_diff_odd_even属性
 
 True 表示奇数页的页眉/页脚与奇数页不同。
 ### 定义：
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PageSetup](/cells/python-net/zh/aspose.cells/pagesetup)
+* 模块[`aspose.cells`](../../)
+* 类 [`PageSetup`](/cells/python-net/zh/aspose.cells/pagesetup)

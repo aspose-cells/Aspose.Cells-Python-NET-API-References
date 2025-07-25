@@ -8,10 +8,6 @@ url: /tr/aspose.cells/pdfsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet mülk
-
- AllColumnsInOnePagePerSheet true olursa, bir sayfanın tüm sütun içeriği sonuçta yalnızca bir sayfaya çıkar.
- pagesetup'ın kağıt boyutunun genişliği dikkate alınmaz ve pagesetup'ın diğer ayarları dikkate alınmaz.
-yine de geçerli olacaktır.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +19,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PdfSaveOptions](/cells/python-net/tr/aspose.cells/pdfsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`PdfSaveOptions`](/cells/python-net/tr/aspose.cells/pdfsaveoptions)

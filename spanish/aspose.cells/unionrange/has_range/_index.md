@@ -3,7 +3,7 @@ title: has_range propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 170
+weight: 160
 url: /es/aspose.cells/unionrange/has_range/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def has_range(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [UnionRange](/cells/python-net/es/aspose.cells/unionrange)
+* módulo [`aspose.cells`](../../)
+* clase [`UnionRange`](/cells/python-net/es/aspose.cells/unionrange)

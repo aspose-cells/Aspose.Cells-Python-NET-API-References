@@ -3,13 +3,13 @@ title: is_automatic_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 290
 url: /sv/aspose.cells.charts/plotarea/is_automatic_size/
 is_root: false
 ---
 ##  is_automatic_size fastighet
 
-Indikerar om tomtområdet är automatiskt dimensionerat.
+Anger om ritningsområdet dimensioneras automatiskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_automatic_size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [PlotArea](/cells/python-net/sv/aspose.cells.charts/plotarea)
+* modul [`aspose.cells.charts`](../../)
+* klass [`PlotArea`](/cells/python-net/sv/aspose.cells.charts/plotarea)

@@ -3,16 +3,17 @@ title: set_input_range Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 200
 url: /de/aspose.cells.drawing/shape/set_input_range/
 is_root: false
 ---
-##  set_input_range {#str-bool-bool}
+##  set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Legt den Bereich fest, der zum Füllen des Steuerelements verwendet wird.
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -20,9 +21,9 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| formula | str | Der Bereich, der zum Füllen des Steuerelements verwendet wird.|
+| formula | str | Der zum Füllen des Steuerelements verwendete Bereich.|
 | is_r1c1 | bool | Ob die Formel als R1C1 formatiert werden muss.|
-| is_local | bool | Ob die Formel je nach Gebietsschema formatiert werden muss.|
+| is_local | bool | Ob die Formel nach Gebietsschema formatiert werden muss.|
 
 ###  Beispiel
 

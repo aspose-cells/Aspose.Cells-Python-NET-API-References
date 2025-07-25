@@ -8,12 +8,6 @@ url: /sv/aspose.cells.revisions/revisiondefinedname/id/
 is_root: false
 ---
 ##  id fastighet
-
-Får numret på denna revision.
-
-###  Anmärkningar
-
-Noll betyder att denna version inte innehåller id.
 ###  Definition:
 ```python
 @property
@@ -22,5 +16,5 @@ def id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionDefinedName](/cells/python-net/sv/aspose.cells.revisions/revisiondefinedname)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionDefinedName`](/cells/python-net/sv/aspose.cells.revisions/revisiondefinedname)

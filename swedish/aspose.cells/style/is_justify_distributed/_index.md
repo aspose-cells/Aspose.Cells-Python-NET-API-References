@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_justify_distributed fastighet
 
-Anger om cellerna justerad eller distribuerad justering ska användas på den sista textraden.
+Anger om cellerna ska vara justerade eller distribuerade på den sista textraden.
 
 ###  Anmärkningar
 
-Detta är typiskt för östasiatiska linjer men inte typiskt i andra sammanhang.
+Detta är typiskt för östasiatiska allianser men inte typiskt i andra sammanhang.
 ###  Definition:
 ```python
 @property

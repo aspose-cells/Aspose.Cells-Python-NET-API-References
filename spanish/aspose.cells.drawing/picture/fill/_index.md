@@ -3,7 +3,7 @@ title: fill propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 420
 url: /es/aspose.cells.drawing/picture/fill/
 is_root: false
 ---

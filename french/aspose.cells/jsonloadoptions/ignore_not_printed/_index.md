@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_not_printed propriété
 
-Ignorer les données qui ne sont pas imprimées en cas d'impression directe du fichier
+Ignorer les données qui ne sont pas imprimées si vous imprimez directement le fichier
 
 ###  Remarques
 
@@ -25,5 +25,5 @@ def ignore_not_printed(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonLoadOptions](/cells/python-net/fr/aspose.cells/jsonloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonLoadOptions`](/cells/python-net/fr/aspose.cells/jsonloadoptions)

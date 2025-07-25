@@ -1,5 +1,5 @@
 ---
-title: IndividualFontConfigs المنشئ
+title: IndividualFontConfigs منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/individualfontconfigs/__init__/
 is_root: false
 ---
-##  IndividualFontConfigs() {#}
-Ctor.
+##  \_\_init\_\_(الذات){#}
+ممرضة
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IndividualFontConfigs](/cells/python-net/ar/aspose.cells/individualfontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IndividualFontConfigs`](/cells/python-net/ar/aspose.cells/individualfontconfigs)

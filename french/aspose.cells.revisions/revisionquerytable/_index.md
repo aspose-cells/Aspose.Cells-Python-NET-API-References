@@ -12,8 +12,7 @@ Représente une révision d'une modification de champ de table de requête.
 
 
 
-**Héritage:** [RevisionQueryTable](/cells/python-net/aspose.cells.revisions/revisionquerytable) → 
-[Revision](/cells/python-net/fr/aspose.cells.revisions/revision)
+**Héritage:** [`RevisionQueryTable`](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable)
 
 
 
@@ -22,15 +21,14 @@ Le type RevisionQueryTable expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [type](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/type) | Représente le type de la révision.|
-| [worksheet](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/worksheet) | Obtient la feuille de calcul.|
-| [id](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/id) | Obtient le numéro de cette révision.|
+| [type](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/type) | Représente le type de révision.|
+| [worksheet](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/worksheet) |  |
+| [id](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/id) |  |
 | [cell_area](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/cell_area) | Obtient l'emplacement de la table de requête affectée.|
 | [field_id](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable/field_id) | Obtient l'ID du champ de table de requête spécifique qui a été supprimé.|
 
 
 
 ###  Voir également
-* module [aspose.cells.revisions](..)
-* classe [Revision](/cells/python-net/fr/aspose.cells.revisions/revision)
-* classe [RevisionQueryTable](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable)
+* module [`aspose.cells.revisions`](..)
+* classe [`RevisionQueryTable`](/cells/python-net/fr/aspose.cells.revisions/revisionquerytable)

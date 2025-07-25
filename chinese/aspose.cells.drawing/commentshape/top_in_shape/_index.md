@@ -3,16 +3,16 @@ title: top_in_shape属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /zh/aspose.cells.drawing/commentshape/top_in_shape/
 is_root: false
 ---
 ## top_in_shape属性
 
-表示形状相对于父形状上边框的垂直偏移量，
-以父形状高度的 1/4000 为单位。
+表示形状与父形状顶部边框的垂直偏移量，
+以父图形高度的 1/4000 为单位。
 
-### 评论
+### 注意事项
 
 仅当此形状位于组或图表中时适用。
 

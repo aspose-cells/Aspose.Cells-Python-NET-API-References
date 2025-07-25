@@ -1,15 +1,15 @@
 ---
-title: quote_type الملكية
+title: quote_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells/txtsaveoptions/quote_type/
 is_root: false
 ---
-##  quote_type الملكية
+##  quote_type عقار
 
-الحصول على أو تحديد كيفية اقتباس القيم في الملف النصي المُصدَّر.
+يحصل على أو يحدد كيفية اقتباس القيم في ملف النص المُصدَّر.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def quote_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtSaveOptions](/cells/python-net/ar/aspose.cells/txtsaveoptions)
-* فئة [TxtValueQuoteType](/cells/python-net/ar/aspose.cells/txtvaluequotetype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtSaveOptions`](/cells/python-net/ar/aspose.cells/txtsaveoptions)
+* فئة [`TxtValueQuoteType`](/cells/python-net/ar/aspose.cells/txtvaluequotetype)

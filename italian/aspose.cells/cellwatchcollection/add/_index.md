@@ -1,14 +1,14 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Aggiunge [CellWatch](/cells/python-net/it/aspose.cells/cellwatch) con il nome del cell.
+##  add(self, cell_name) {#str}
+Aggiunge [`CellWatch`](/cells/python-net/it/aspose.cells/cellwatch) con il nome della cella.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Aggiunge [CellWatch](/cells/python-net/it/aspose.cells/cellwatch) con il nome de
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str | Il nome della cella.|
 
 
-##  add(row, column) {#int-int}
-Aggiunge [CellWatch](/cells/python-net/it/aspose.cells/cellwatch) con riga e colonna.
+##  add(self, row, column) {#int-int}
+Somma [`CellWatch`](/cells/python-net/it/aspose.cells/cellwatch) con riga e colonna.
 
 
 ###  ritorna
@@ -37,6 +38,7 @@ Restituisce la posizione di questo elemento nella raccolta.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -44,12 +46,12 @@ def add(self, row, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | L'indice di riga.|
-| column | int | L'indice di colonna.|
+| row | int | Indice di riga.|
+| column | int | L'indice della colonna.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellWatch](/cells/python-net/it/aspose.cells/cellwatch)
-* classe [CellWatchCollection](/cells/python-net/it/aspose.cells/cellwatchcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`CellWatch`](/cells/python-net/it/aspose.cells/cellwatch)
+* classe [`CellWatchCollection`](/cells/python-net/it/aspose.cells/cellwatchcollection)

@@ -1,15 +1,15 @@
 ---
 title: chart_object недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 230
 url: /ru/aspose.cells.charts/chart/chart_object/
 is_root: false
 ---
 ##  chart_object недвижимость
 
-Представляет диаграммуShape;
+Представляет форму диаграммы;
 ###  Определение:
 ```python
 @property
@@ -18,6 +18,6 @@ def chart_object(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
-* класс [ChartShape](/cells/python-net/ru/aspose.cells.drawing/chartshape)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)
+* класс [`ChartShape`](/cells/python-net/ru/aspose.cells.drawing/chartshape)

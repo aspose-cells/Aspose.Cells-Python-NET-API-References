@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/seriescollection/
 is_root: false
 ---
 ##  SeriesCollection صف
-يغلف مجموعة من [`Series`](/cells/python-net/ar/aspose.cells.charts/series) كائن.
+يقوم بتغليف مجموعة من الكائنات [`Series`](/cells/python-net/ar/aspose.cells.charts/series).
 
 
 
@@ -17,29 +17,30 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [category_data](/cells/python-net/ar/aspose.cells.charts/seriescollection/category_data) | الحصول على نطاق قيم محور الفئة أو تعيينه.<br/> يمكن أن يكون نطاقًا من الخلايا (مثل "d1:e10")،<br/> أو سلسلة من القيم (مثل،"{2,6,8,10}").|
-| [second_category_data](/cells/python-net/ar/aspose.cells.charts/seriescollection/second_category_data) | الحصول على نطاق قيم محور الفئة الثانية أو تعيينه.<br/> يمكن أن يكون نطاقًا من الخلايا (مثل "d1:e10")،<br/> أو سلسلة من القيم (مثل،"{2,6,8,10}").<br/> تؤثر فقط عندما ترسم بعض ASeries على المحور الثاني.|
-| [is_color_varied](/cells/python-net/ar/aspose.cells.charts/seriescollection/is_color_varied) |يمثل إذا كان لون النقاط متنوعًا.|
-| [capacity](/cells/python-net/ar/aspose.cells.charts/seriescollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
+| [category_data](/cells/python-net/ar/aspose.cells.charts/seriescollection/category_data) | يحصل على نطاق قيم محور الفئة أو يعينها.<br/> يمكن أن يكون نطاقًا من الخلايا (مثل "d1:e10")،<br/> أو سلسلة من القيم (مثل، "{2،6،8،10}").|
+| [second_category_data](/cells/python-net/ar/aspose.cells.charts/seriescollection/second_category_data) | يحصل على نطاق قيم المحور للفئة الثانية أو يعينها.<br/> يمكن أن يكون نطاقًا من الخلايا (مثل "d1:e10")،<br/> أو سلسلة من القيم (مثل، "{2،6،8،10}").<br/> التأثيرات فقط عندما يتم رسم بعض ASeries على المحور الثاني.|
+| [is_color_varied](/cells/python-net/ar/aspose.cells.charts/seriescollection/is_color_varied) | يمثل ما إذا كان لون النقاط متنوعًا.|
+| [capacity](/cells/python-net/ar/aspose.cells.charts/seriescollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add](/cells/python-net/ar/aspose.cells.charts/seriescollection/add/#str-bool) | إضافة مجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى المخطط.|
-| [add](/cells/python-net/ar/aspose.cells.charts/seriescollection/add/#str-bool-bool) | إضافة مجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى المخطط.|
-| [copy_to](/cells/python-net/ar/aspose.cells.charts/seriescollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to](/cells/python-net/ar/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
-| [index_of](/cells/python-net/ar/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of](/cells/python-net/ar/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.Series-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.Series-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
-| [get_series_by_order](/cells/python-net/ar/aspose.cells.charts/seriescollection/get_series_by_order/#int) | يحصل على العنصر [`Series`](/cells/python-net/ar/aspose.cells.charts/series) بالترتيب.|
-| [change_series_order](/cells/python-net/ar/aspose.cells.charts/seriescollection/change_series_order/#int-int) | يغير مباشرة أوامر السلسلتين.|
-| [set_series_names](/cells/python-net/ar/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | لتعيين اسم كافة السلاسل في المخطط.|
-| [add_r1c1](/cells/python-net/ar/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | إضافة مجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى المخطط.|
-| [binary_search](/cells/python-net/ar/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.Series) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
+| [`add(self, area, is_vertical)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/add/#str-bool) | إضافة المجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى الرسم البياني.|
+| [`add(self, area, is_vertical, check_labels)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/add/#str-bool-bool) | إضافة المجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى الرسم البياني.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.series-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/index_of/#aspose.cells.charts.series-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.series) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.series-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/last_index_of/#aspose.cells.charts.series-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`get_series_by_order(self, order)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/get_series_by_order/#int) | يحصل على العنصر [`Series`](/cells/python-net/ar/aspose.cells.charts/series) حسب الطلب.|
+| [`change_series_order(self, source_index, dest_index)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/change_series_order/#int-int) | يغير ترتيب السلسلتين بشكل مباشر.|
+| [`swap_series(self, source_index, dest_index)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/swap_series/#int-int) | يغير ترتيب السلسلتين بشكل مباشر.|
+| [`set_series_names(self, start_index, area, is_vertical)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/set_series_names/#int-str-bool) | تعيين اسم جميع السلاسل في الرسم البياني.|
+| [`add_r1c1(self, area, is_vertical)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/add_r1c1/#str-bool) | إضافة المجموعة [`Series`](/cells/python-net/ar/aspose.cells.charts/series) إلى الرسم البياني.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.series) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 

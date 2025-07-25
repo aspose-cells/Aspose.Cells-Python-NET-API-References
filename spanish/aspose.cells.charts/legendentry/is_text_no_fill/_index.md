@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_no_fill propiedad
 
-Obtiene o establece ningún relleno del texto.
+Obtiene o establece que no hay relleno en el texto.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_no_fill(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [LegendEntry](/cells/python-net/es/aspose.cells.charts/legendentry)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`LegendEntry`](/cells/python-net/es/aspose.cells.charts/legendentry)

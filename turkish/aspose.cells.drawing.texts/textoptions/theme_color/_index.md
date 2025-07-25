@@ -13,7 +13,7 @@ Tema rengini alır ve ayarlar.
 
 ###  Notlar
 
-Yazı tipi rengi bir tema rengi değilse, NULL döndürülür.
+Eğer yazı rengi tema rengi değilse NULL döndürülecektir.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

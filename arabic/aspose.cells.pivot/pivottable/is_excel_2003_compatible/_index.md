@@ -1,18 +1,18 @@
 ---
-title: is_excel_2003_compatible الملكية
+title: is_excel_2003_compatible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 690
 url: /ar/aspose.cells.pivot/pivottable/is_excel_2003_compatible/
 is_root: false
 ---
-##  is_excel_2003_compatible الملكية
+##  is_excel_2003_compatible عقار
 
-يحدد ما إذا كان PivotTable متوافقًا مع Excel2003 عند تحديث PivotTable ،
-إذا كان هذا صحيحًا ، يجب أن تكون السلسلة أقل من أو تساوي 255 حرفًا ، لذلك إذا كانت السلسلة أكبر من 255 حرفًا ،
-سيتم اقتطاعه. إذا كانت خاطئة ، فلن يكون للسلسلة القيود المذكورة أعلاه.
-القيمة الافتراضية هي الحقيقية.
+يحدد ما إذا كان الجدول المحوري متوافقًا مع Excel2003 عند تحديث الجدول المحوري،
+إذا كانت القيمة صحيحة، فيجب أن يكون طول السلسلة أقل من أو يساوي 255 حرفًا، لذا إذا كانت السلسلة أكبر من 255 حرفًا،
+سيتم اقتطاعه. إذا كان false، فلن يكون للسلسلة القيد المذكور أعلاه.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property
@@ -24,5 +24,5 @@ def is_excel_2003_compatible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

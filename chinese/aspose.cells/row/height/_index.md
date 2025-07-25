@@ -1,15 +1,15 @@
 ---
-title: height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 150
 url: /zh/aspose.cells/row/height/
 is_root: false
 ---
-## height 属性
+## height属性
 
-以Points为单位获取和设置行height。
+以 Points 为单位获取并设置行 height。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Row](/cells/python-net/zh/aspose.cells/row)
+* 模块[`aspose.cells`](../../)
+* 类 [`Row`](/cells/python-net/zh/aspose.cells/row)

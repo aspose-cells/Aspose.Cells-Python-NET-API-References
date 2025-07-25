@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  perspective mülk
 
-boyutlu harita görünümü için perspective'i döndürür veya ayarlar. 0 ile 100 arasında olmalıdır.
-RightAngleAxes özelliği True ise bu özellik yoksayılır.
+3 boyutlu grafik görünümü için perspective değerini döndürür veya ayarlar. 0 ile 100 arasında olmalıdır.
+RightAngleAxes özelliği True ise bu özellik göz ardı edilir.
 ###  Tanım:
 ```python
 @property

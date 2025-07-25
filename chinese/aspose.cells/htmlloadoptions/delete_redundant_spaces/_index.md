@@ -9,7 +9,7 @@ is_root: false
 ---
 ## delete_redundant_spaces属性
 
-指示文本使用`<br>`标签换行时是否删除多余空格。
+使用`<br>`标签表示文本换行时是否删除多余的空格。
 默认值为 false。
 ### 定义：
 ```python

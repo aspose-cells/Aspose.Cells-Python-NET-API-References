@@ -1,18 +1,19 @@
 ---
 title: accept_all_revisions方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
-##  accept_all_revisions() {#}
+##  accept_all_revisions(self) {#}
 接受工作簿中的所有修订。
 
 
 
 ```python
+
 def accept_all_revisions(self):
     ...
 ```
@@ -22,5 +23,5 @@ def accept_all_revisions(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

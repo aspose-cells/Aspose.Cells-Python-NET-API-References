@@ -1,6 +1,6 @@
 ---
 title: link_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -18,6 +18,6 @@ def link_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
-* класс [TargetModeType](/cells/python-net/ru/aspose.cells/targetmodetype)
+* модуль [`aspose.cells`](../../)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)
+* класс [`TargetModeType`](/cells/python-net/ru/aspose.cells/targetmodetype)

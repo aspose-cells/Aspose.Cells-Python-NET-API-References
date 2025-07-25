@@ -3,7 +3,7 @@ title: indent propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 160
 url: /es/aspose.cells/jsonsaveoptions/indent/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Indica el indent.
 
 ###  Observaciones
 
-Si el indent es nulo o está vacío, el json exportado no tiene formato.
+Si indent es nulo o está vacío, el json exportado no está formateado.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def indent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [JsonSaveOptions](/cells/python-net/es/aspose.cells/jsonsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`JsonSaveOptions`](/cells/python-net/es/aspose.cells/jsonsaveoptions)

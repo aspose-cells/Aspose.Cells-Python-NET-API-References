@@ -1,6 +1,6 @@
 ---
 title: print_comments proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 520
@@ -21,6 +21,6 @@ def print_comments(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
-* classe [PrintCommentsType](/cells/python-net/it/aspose.cells/printcommentstype)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)
+* classe [`PrintCommentsType`](/cells/python-net/it/aspose.cells/printcommentstype)

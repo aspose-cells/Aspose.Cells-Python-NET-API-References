@@ -1,6 +1,6 @@
 ---
 title: show_error proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 260
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error proprietà
 
-Indica se il messaggio di errore di convalida dei dati verrà visualizzato ogni volta che l'utente inserisce dati non validi.
+Indica se verrà visualizzato un messaggio di errore di convalida dei dati ogni volta che l'utente immette dati non validi.
 ###  Definizione:
 ```python
 @property

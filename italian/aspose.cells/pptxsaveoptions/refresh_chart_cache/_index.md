@@ -1,15 +1,13 @@
 ---
 title: refresh_chart_cache proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 300
 url: /it/aspose.cells/pptxsaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache proprietà
-
-Indica se aggiornare i dati della cache del grafico
 ###  Definizione:
 ```python
 @property

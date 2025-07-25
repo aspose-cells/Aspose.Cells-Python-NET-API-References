@@ -1,18 +1,19 @@
 ---
 title: set_column_width_pixel метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 850
+weight: 870
 url: /ru/aspose.cells/cells/set_column_width_pixel/
 is_root: false
 ---
-##  set_column_width_pixel {#int-int}
-Устанавливает ширину столбца в пикселях в обычном режиме.
+##  set_column_width_pixel(self, column, pixels) {#int-int}
+Задает ширину столбца в пикселях в обычном режиме просмотра.
 
 
 
 ```python
+
 def set_column_width_pixel(self, column, pixels):
     ...
 ```

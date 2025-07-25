@@ -1,6 +1,6 @@
 ---
 title: fore_ole_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -8,12 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/fore_ole_
 is_root: false
 ---
 ##  fore_ole_color недвижимость
-
-Получает и задает основной цвет переднего плана.
-
-###  Примечания
-
-Не относится к управлению изображением.
 ###  Определение:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [SpinButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`SpinButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

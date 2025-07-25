@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  number_format propiedad
 
-Se aplicará la configuración de formato de número.
+Se aplicará la configuración del formato de número.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

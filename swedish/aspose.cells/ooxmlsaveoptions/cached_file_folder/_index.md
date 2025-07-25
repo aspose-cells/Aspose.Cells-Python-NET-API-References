@@ -9,7 +9,14 @@ is_root: false
 ---
 ##  cached_file_folder fastighet
 
-Den cachade filmappen används för att lagra en del stora data.
+Mappen för tillfälliga filer som kan användas som datacache.
+
+###  Anmärkningar
+
+Om mappen inte har angetts,
+Standardvärdet för det är [`CellsHelper.get_cache_folder`](/cells/python-net/sv/aspose.cells/cellshelper/get_cache_folder).
+Om standardvärdet är null eller tomt, eller har angetts som null eller tomt,
+då kommer ingen cachefil att användas när arbetsboken sparas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +28,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlSaveOptions](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlSaveOptions`](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)

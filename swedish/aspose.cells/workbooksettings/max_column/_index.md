@@ -3,13 +3,13 @@ title: max_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 330
 url: /sv/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column fastighet
 
-Hämtar max kolumnindex, nollbaserat.
+Hämtar det maximala kolumnindexet, nollbaserat.
 
 ###  Anmärkningar
 

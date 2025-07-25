@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_last_point propriété
 
-Indique s'il faut mettre en surbrillance le dernier point de données dans le groupe de graphiques sparkline.
+Indique s'il faut mettre en évidence le dernier point de données dans le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_last_point(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

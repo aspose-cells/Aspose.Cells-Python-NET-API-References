@@ -3,17 +3,17 @@ title: height_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 440
 url: /sv/aspose.cells.drawing/customxmlshape/height_in_shape/
 is_root: false
 ---
 ##  height_in_shape fastighet
 
-Representerar den vertikala förskjutningen av formen från den övre kanten av den överordnade formen, i enhet av 1/4000 av höjden på den överordnade formen.
+Representerar formens vertikala förskjutning från den överordnade formens övre kant, i enheten 1/4000 av den överordnade formens höjd.
 
 ###  Anmärkningar
 
-Gäller endast när denna form i gruppen eller diagrammet.
+Gäller endast när den här formen finns i gruppen eller diagrammet.
 
 ###  Exempel
 

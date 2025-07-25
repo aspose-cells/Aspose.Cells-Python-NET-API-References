@@ -3,13 +3,13 @@ title: paragraphs mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 330
+weight: 340
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/paragraphs/
 is_root: false
 ---
 ##  paragraphs mülk
 
-Belgedeki tahmini paragraphs sayısını temsil eder.
+Belgedeki paragraphs sayısının tahmini değerini temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def paragraphs(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

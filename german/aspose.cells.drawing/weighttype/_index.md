@@ -8,7 +8,7 @@ url: /de/aspose.cells.drawing/weighttype/
 is_root: false
 ---
 ##  WeightType Aufzählung
-Listet die Gewichtungstypen für einen Bildrahmen oder eine Diagrammlinie auf.
+Listet die Gewichtstypen für einen Bildrahmen oder eine Diagrammlinie auf.
 
 
 
@@ -17,12 +17,12 @@ Der Typ WeightType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| HAIR_LINE | Repräsentiert das Gewicht des Haaransatzes.|
-| MEDIUM_LINE | Repräsentiert das Gewicht der mittleren Linie.|
-| SINGLE_LINE | Repräsentiert das Gewicht einer einzelnen Linie.|
-| WIDE_LINE | Repräsentiert das Gewicht der breiten Linie.|
+| HAIR_LINE | Stellt das Gewicht des Haaransatzes dar.|
+| MEDIUM_LINE | Stellt das Gewicht der mittleren Linie dar.|
+| SINGLE_LINE | Stellt das Gewicht einer einzelnen Linie dar.|
+| WIDE_LINE |Stellt die Stärke der breiten Linie dar.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

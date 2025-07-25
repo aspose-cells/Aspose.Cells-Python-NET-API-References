@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GradientStop](/cells/python-net/de/aspose.cells.drawing/gradientstop)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GradientStop`](/cells/python-net/de/aspose.cells.drawing/gradientstop)

@@ -1,15 +1,15 @@
 ---
 title: font_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 30
 url: /ru/aspose.cells.drawing.texts/bullet/font_name/
 is_root: false
 ---
 ##  font_name недвижимость
 
-Получить и установить имя шрифта.
+Получает и задает имя шрифта.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [Bullet](/cells/python-net/ru/aspose.cells.drawing.texts/bullet)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`Bullet`](/cells/python-net/ru/aspose.cells.drawing.texts/bullet)

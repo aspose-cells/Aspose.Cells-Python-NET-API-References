@@ -1,6 +1,6 @@
 ---
 title: FormatConditionCollection indicizzatore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  FormatConditionCollection indicizzatore
 
-Ottiene la condizione di formattazione per indice.
+Ottiene la condizione di formattazione tramite indice.
 ###  Indicizzatore
 | Nome| Descrizione|
 | :- | :- |
@@ -22,5 +22,5 @@ Ottiene la condizione di formattazione per indice.
 la condizione di formattazione
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatConditionCollection](/cells/python-net/it/aspose.cells/formatconditioncollection)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatConditionCollection`](/cells/python-net/it/aspose.cells/formatconditioncollection)

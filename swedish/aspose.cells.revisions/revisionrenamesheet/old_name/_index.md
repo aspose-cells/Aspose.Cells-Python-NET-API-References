@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  old_name fastighet
 
-Får det gamla namnet på arbetsbladet.
+Hämtar det gamla namnet på kalkylbladet.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def old_name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionRenameSheet](/cells/python-net/sv/aspose.cells.revisions/revisionrenamesheet)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionRenameSheet`](/cells/python-net/sv/aspose.cells.revisions/revisionrenamesheet)

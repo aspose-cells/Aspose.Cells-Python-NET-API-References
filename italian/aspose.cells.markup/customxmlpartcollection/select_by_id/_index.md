@@ -1,14 +1,14 @@
 ---
-title: metodo select_by_id
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo select_by_id
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
 url: /it/aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
-##  select_by_id(id) {#str}
-Ottiene un elemento per ID.
+##  select_by_id(self, id) {#str}
+Ottiene un elemento tramite id.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Ottiene un elemento per ID.
 
 
 ```python
+
 def select_by_id(self, id):
     ...
 ```
@@ -29,5 +30,5 @@ def select_by_id(self, id):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](../../)
-* classe [CustomXmlPartCollection](/cells/python-net/it/aspose.cells.markup/customxmlpartcollection)
+* modulo [`aspose.cells.markup`](../../)
+* classe [`CustomXmlPartCollection`](/cells/python-net/it/aspose.cells.markup/customxmlpartcollection)

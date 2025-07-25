@@ -9,7 +9,7 @@ is_root: false
 ---
 ## font_configs属性
 
-获取和设置单独的字体配置。
+获取并设置单独的字体配置。
 仅适用于使用此 [`LoadOptions`](/cells/python-net/zh/aspose.cells/loadoptions) 加载的 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)。
 ### 定义：
 ```python

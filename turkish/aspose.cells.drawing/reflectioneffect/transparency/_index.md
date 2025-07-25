@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency mülk
 
-transparency başlangıç yansımasının derecesini 0,0 (opak) ila 1,0 (berrak) arasında bir değer olarak alır ve ayarlar.
+Başlangıç yansımasının transparency derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ReflectionEffect](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)

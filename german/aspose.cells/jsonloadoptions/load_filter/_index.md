@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_filter Eigentum
 
-Der Filter, der angibt, wie Daten geladen werden.
+Der Filter gibt an, wie Daten geladen werden.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [JsonLoadOptions](/cells/python-net/de/aspose.cells/jsonloadoptions)
-* Klasse [LoadFilter](/cells/python-net/de/aspose.cells/loadfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`JsonLoadOptions`](/cells/python-net/de/aspose.cells/jsonloadoptions)
+* Klasse [`LoadFilter`](/cells/python-net/de/aspose.cells/loadfilter)

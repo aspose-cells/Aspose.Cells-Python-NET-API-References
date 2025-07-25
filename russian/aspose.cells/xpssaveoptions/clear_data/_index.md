@@ -1,15 +1,13 @@
 ---
 title: clear_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ru/aspose.cells/xpssaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data недвижимость
-
-Сделайте рабочую книгу пустой после сохранения файла.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def clear_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XpsSaveOptions](/cells/python-net/ru/aspose.cells/xpssaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XpsSaveOptions`](/cells/python-net/ru/aspose.cells/xpssaveoptions)

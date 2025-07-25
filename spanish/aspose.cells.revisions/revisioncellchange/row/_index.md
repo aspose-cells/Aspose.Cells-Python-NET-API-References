@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionCellChange](/cells/python-net/es/aspose.cells.revisions/revisioncellchange)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionCellChange`](/cells/python-net/es/aspose.cells.revisions/revisioncellchange)

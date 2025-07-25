@@ -3,7 +3,7 @@ title: significant_digits Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 280
 url: /de/aspose.cells/cellshelper/significant_digits/
 is_root: false
 ---
@@ -14,14 +14,14 @@ Der Standardwert ist 17.
 
 ###  Bemerkungen
 
-Jetzt könnten es nur noch 15 oder 17 sein.
+Könnte jetzt erst 15 oder 17 sein.
 ###  Definition:
 ```python
 @property
 def significant_digits(self):
     ...
-@significant_digits.setter
-def significant_digits(self, value):
+@staticmethod
+def set_significant_digits(value):
     ...
 ```
 

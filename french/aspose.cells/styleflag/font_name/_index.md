@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_name propriété
 
-Le réglage du nom de la police sera appliqué.
+Le paramètre de nom de police sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

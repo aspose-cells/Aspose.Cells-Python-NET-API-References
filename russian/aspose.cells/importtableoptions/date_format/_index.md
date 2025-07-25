@@ -1,6 +1,6 @@
 ---
 title: date_format недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format недвижимость
 
-Получает или задает строку формата даты для ячеек с импортированными значениями даты и времени.
+Возвращает или задает строку формата даты для ячеек с импортированными значениями даты и времени.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

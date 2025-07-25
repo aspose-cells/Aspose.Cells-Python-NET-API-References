@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines fastighet
 
-Returnerar ett [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)-objekt som representerar dropplinjerna för en serie på linjediagrammet eller ytdiagrammet.
-Gäller endast linjediagram eller områdesdiagram.
+Returnerar ett [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)-objekt som representerar neddragningslinjerna för en serie i linjediagrammet eller ytdiagrammet.
+Gäller endast linjediagram eller ytdiagram.
 ###  Definition:
 ```python
 @property

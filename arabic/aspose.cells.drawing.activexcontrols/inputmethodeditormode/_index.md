@@ -1,37 +1,37 @@
 ---
-title: العد InputMethodEditorMode
+title: InputMethodEditorMode التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 270
 url: /ar/aspose.cells.drawing.activexcontrols/inputmethodeditormode/
 is_root: false
 ---
-##  العد InputMethodEditorMode
-يمثل وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال.
+##  InputMethodEditorMode التعداد
+يمثل وضع التشغيل الافتراضي لمحرر طريقة الإدخال.
 
 
 
-يكشف نوع InputMethodEditorMode الأعضاء التالية:
+يكشف النوع InputMethodEditorMode عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NO_CONTROL |لا يتحكم في محرر أسلوب الإدخال.|
-| ON | محرر أسلوب الإدخال قيد التشغيل.|
-| OFF | IME متوقف. وضع اللغة الإنجليزية.|
-| DISABLE | تم إيقاف IME. لا يمكن للمستخدم تشغيل IME بواسطة لوحة المفاتيح.|
-| HIRAGANA | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع هيراغانا كامل العرض.|
-| KATAKANA | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع katakana كامل العرض.|
-| KATAKANA_HALF | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع كاتاكانا بنصف العرض.|
-| ALPHA_FULL | محرر أسلوب الإدخال (IME) قيد التشغيل مع الوضع الأبجدي الرقمي بعرض كامل.|
-| ALPHA | محرر أسلوب الإدخال (IME) قيد التشغيل مع الوضع الأبجدي الرقمي بنصف العرض.|
-| HANGUL_FULL | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع Hangul بالعرض الكامل.|
-| HANGUL | IME قيد التشغيل مع وضع Hangul نصف العرض.|
-| HANZI_FULL | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع hanzi كامل العرض.|
-| HANZI | محرر أسلوب الإدخال (IME) قيد التشغيل مع وضع hanzi بنصف العرض.|
+| NO_CONTROL | لا يتحكم في IME.|
+| ON | IME قيد التشغيل.|
+| OFF | تم إيقاف تشغيل IME. الوضع باللغة الإنجليزية.|
+| DISABLE | تم إيقاف تشغيل IME. لا يمكن للمستخدم تشغيل IME باستخدام لوحة المفاتيح.|
+| HIRAGANA | تم تشغيل IME مع وضع الهيراجانا بعرض كامل.|
+| KATAKANA | تم تشغيل IME مع وضع الكاتاكانا بعرض كامل.|
+| KATAKANA_HALF | تم تشغيل IME مع وضع الكاتكانا بنصف العرض.|
+| ALPHA_FULL | تم تشغيل IME مع وضع الأبجدية الرقمية بعرض كامل.|
+| ALPHA | تم تشغيل IME مع وضع الأبجدي الرقمي بنصف العرض.|
+| HANGUL_FULL | تم تشغيل IME مع وضع الهانغول بعرض كامل.|
+| HANGUL |تم تشغيل IME مع وضع الهانغول بنصف العرض.|
+| HANZI_FULL | تم تشغيل IME مع وضع hanzi بعرض كامل.|
+| HANZI | تم تشغيل IME مع وضع هانزي بنصف العرض.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

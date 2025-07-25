@@ -1,15 +1,15 @@
 ---
-title: case_sensitive الملكية
+title: case_sensitive عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells/datasorter/case_sensitive/
 is_root: false
 ---
-##  case_sensitive الملكية
+##  case_sensitive عقار
 
-الحصول على وتحديد ما إذا كانت حساسة لحالة الأحرف عند مقارنة السلسلة.
+يحصل على ويحدد ما إذا كان حساسًا لحالة الأحرف عند مقارنة السلسلة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)

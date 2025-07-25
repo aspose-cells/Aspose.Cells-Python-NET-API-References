@@ -3,16 +3,17 @@ title: remove_active_x_control Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells.drawing/textbox/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control {#}
-Entfernen Sie das ActiveX-Steuerelement.
+##  remove_active_x_control(self) {#}
+ActiveX-Steuerelement entfernen.
 
 
 
 ```python
+
 def remove_active_x_control(self):
     ...
 ```

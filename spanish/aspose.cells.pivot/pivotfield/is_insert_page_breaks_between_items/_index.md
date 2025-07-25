@@ -3,14 +3,13 @@ title: is_insert_page_breaks_between_items propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 430
+weight: 510
 url: /es/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---
 ##  is_insert_page_breaks_between_items propiedad
 
-indica si el campo puede insertar saltos de página entre elementos
-insertar salto de página después de cada elemento
+Indica si se insertarán saltos de página después de cada elemento.
 El valor predeterminado es falso.
 ###  Definición:
 ```python

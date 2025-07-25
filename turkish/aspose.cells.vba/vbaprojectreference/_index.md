@@ -12,23 +12,23 @@ VBA projesinin referansını temsil eder.
 
 
 
-VbaProjectReference türü aşağıdaki üyeleri gösterir:
+VbaProjectReference türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/type) | Bu başvurunun türünü alır.|
-| [name](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/name) | Başvurunun adını alır ve ayarlar.|
+| [type](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/type) |Bu referansın türünü alır.|
+| [name](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/name) | Referansın adını alır ve ayarlar.|
 | [libid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/libid) | Referansın Libid'ini alır ve ayarlar.|
-| [twiddledlibid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Referansın karışık Libid'ini alır ve ayarlar.|
+| [twiddledlibid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Referansın çevrilmiş Libid'ini alır ve ayarlar.|
 | [extended_libid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/extended_libid) | Referansın genişletilmiş Libid'ini alır ve ayarlar.|
-| [relative_libid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/relative_libid) | Başvurulan VBA projesinin tanımlayıcısını göreli bir yolla alır ve ayarlar.|
+| [relative_libid](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/relative_libid) | Başvurulan VBA projesinin tanımlayıcısını göreceli bir yol ile alır ve ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [copy(source)](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [`copy(self, source)`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.vbaprojectreference) |  |
 
 
 
@@ -49,4 +49,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](..)
+* modül [`aspose.cells.vba`](..)

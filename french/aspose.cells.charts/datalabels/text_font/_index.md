@@ -3,7 +3,7 @@ title: text_font propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 470
+weight: 540
 url: /fr/aspose.cells.charts/datalabels/text_font/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Obtient un objet [`ChartFrame.font`](/cells/python-net/fr/aspose.cells.charts/ch
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
-veuillez utiliser la propriété ChartFrame.Font.
- Ce bien sera supprimé 12 mois plus tard depuis JANVIER 2012.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ REMARQUE : Ce membre est désormais obsolète. À la place,
+ veuillez utiliser la propriété ChartFrame.Font.
+ Cette propriété sera supprimée 12 mois plus tard soit JANVIER 2012.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

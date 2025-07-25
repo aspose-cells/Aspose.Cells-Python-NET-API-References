@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_gridlines Eigentum
 
-Stellt dar, ob Zellenrasterlinien auf der Seite gedruckt werden.
+Gibt an, ob Zellgitternetzlinien auf der Seite gedruckt werden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

@@ -1,15 +1,15 @@
 ---
 title: show_compact недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 670
 url: /ru/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact недвижимость
 
-Указывает, отображаются ли метки из следующего поля в том же столбце в представлении сводной таблицы.
+Указывает, отображать ли метки из следующего поля в том же столбце в представлении сводной таблицы.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: is_group недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 600
 url: /ru/aspose.cells.drawing/scrollbar/is_group/
 is_root: false
 ---
 ##  is_group недвижимость
 
-Указывает, является ли фигура группой.
+Указывает, является ли данная фигура групповой фигурой.
 
 ###  Пример
 

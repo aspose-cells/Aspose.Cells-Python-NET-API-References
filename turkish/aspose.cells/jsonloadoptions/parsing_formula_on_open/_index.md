@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  parsing_formula_on_open mülk
 
-Dosyayı okurken formülün ayrıştırılıp ayrıştırılmadığını gösterir.
+Dosya okunurken formülün ayrıştırılıp ayrıştırılmayacağını belirtir.
 
 ###  Notlar
 
-Yalnızca Excel Xlsx, Xltx, Xltm ve Xlsm dosyası için geçerlidir
-çünkü dosyalardaki formüller bir dizi formülü ile depolanır.
+Sadece Excel Xlsx, Xltx, Xltm ve Xlsm dosyaları için geçerlidir
+çünkü dosyalardaki formüller string formülü ile saklanıyor.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_formula_on_open(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [JsonLoadOptions](/cells/python-net/tr/aspose.cells/jsonloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`JsonLoadOptions`](/cells/python-net/tr/aspose.cells/jsonloadoptions)

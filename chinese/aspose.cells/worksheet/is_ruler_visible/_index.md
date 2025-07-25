@@ -3,13 +3,13 @@ title: is_ruler_visible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 610
+weight: 640
 url: /zh/aspose.cells/worksheet/is_ruler_visible/
 is_root: false
 ---
 ## is_ruler_visible属性
 
-指示标尺是否可见。该属性仅适用于分页预览。
+指示标尺是否可见。此属性仅适用于分页预览。
 ### 定义：
 ```python
 @property

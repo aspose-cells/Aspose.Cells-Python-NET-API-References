@@ -1,22 +1,13 @@
 ---
 title: credentials недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 110
 url: /ru/aspose.cells.externalconnections/webqueryconnection/credentials/
 is_root: false
 ---
 ##  credentials недвижимость
-
-Указывает метод проверки подлинности, который будет использоваться при установлении (или повторном установлении) соединения.
-
-###  Примечания
-
- ПРИМЕЧАНИЕ. Это свойство устарело. Вместо,
-используйте свойство ExternalConnection.CredentialsMethodType.
- Этот ресурс будет удален через 12 месяцев, начиная с октября 2017 года.
-Aspose приносит извинения за возможные неудобства.
 ###  Определение:
 ```python
 @property
@@ -28,6 +19,6 @@ def credentials(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [CredentialsMethodType](/cells/python-net/ru/aspose.cells.externalconnections/credentialsmethodtype)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`CredentialsMethodType`](/cells/python-net/ru/aspose.cells.externalconnections/credentialsmethodtype)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

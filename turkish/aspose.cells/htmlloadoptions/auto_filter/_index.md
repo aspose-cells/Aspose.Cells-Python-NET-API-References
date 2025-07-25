@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_filter mülk
 
-Dosyaları yüklerken verilerin otomatik olarak filtrelenip filtrelenmediğini gösterir.
+Dosyalar yüklenirken verilerin otomatik olarak filtrelenip filtrelenmeyeceğini belirtir.
 
 ###  Notlar
 
-Bazen otomatik filtreleme ayarlanmış olmasına rağmen, ilgili satırlar dosyada gizlenmez.
-Artık yalnızca SpreadSheetML dosyası için çalışır.
+Bazen otomatik filtre ayarlanmış olmasına rağmen dosyada ilgili satırlar gizlenmiyor.
+Artık sadece SpreadSheetML dosyası için çalışıyor.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def auto_filter(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)

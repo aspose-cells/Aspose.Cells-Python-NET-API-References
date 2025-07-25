@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow propiedad
-
-Indica si mostrar un shadow.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

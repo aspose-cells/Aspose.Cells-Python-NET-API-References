@@ -3,13 +3,13 @@ title: html_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 510
+weight: 500
 url: /ar/aspose.cells.drawing/checkbox/html_text/
 is_root: false
 ---
 ##  html_text عقار
 
-الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في مربع النص هذا وتعيينها.
+يحصل على سلسلة HTML التي تحتوي على البيانات وبعض التنسيقات في مربع النص هذا ويقوم بتعيينها.
 
 ###  مثال
 

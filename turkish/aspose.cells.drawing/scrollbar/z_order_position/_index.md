@@ -3,13 +3,13 @@ title: z_order_position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1320
+weight: 1330
 url: /tr/aspose.cells.drawing/scrollbar/z_order_position/
 is_root: false
 ---
 ##  z_order_position mülk
 
-Bir şeklin z sırasına göre konumunu döndürür.
+Bir şeklin z-sırasındaki konumunu döndürür.
 
 ###  Örnek
 

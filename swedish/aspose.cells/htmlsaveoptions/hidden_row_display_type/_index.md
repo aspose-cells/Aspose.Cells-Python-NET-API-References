@@ -3,15 +3,15 @@ title: hidden_row_display_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 430
+weight: 480
 url: /sv/aspose.cells/htmlsaveoptions/hidden_row_display_type/
 is_root: false
 ---
 ##  hidden_row_display_type fastighet
 
-Dold rad (höjden på denna rad är 0) i excel, innan du sparar den i html-format,
-om HtmlHiddenRowDisplayType är "Remove", skulle den dolda raden inte matas ut,
-om värdet är "Dold", skulle raden matas ut, men var dold, standardvärdet är "Dold"
+Dold rad (höjden på denna rad är 0) i Excel, innan den sparas i HTML-format,
+Om HtmlHiddenRowDisplayType är "Remove", kommer den dolda raden inte att matas ut.
+Om värdet är "Dold" skulle raden matas ut, men var dold. Standardvärdet är "Dold".
 ###  Definition:
 ```python
 @property

@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells/row/equals/
 is_root: false
 ---
-##  equals(row) {#Row}
-للتحقق مما إذا كان هذا الكائن يشير إلى نفس الصف مع كائن صف آخر.
+##  equals(self, row) {#aspose.cells.Row}
+التحقق مما إذا كان هذا الكائن يشير إلى نفس الصف مع كائن صف آخر.
 
 
 ###  عائدات
 
-صواب إذا كان كائنان صف يشيران إلى نفس الصف.
+صحيح إذا كان هناك صفين من الكائنات يشيران إلى نفس الصف.
 
 
 ```python
+
 def equals(self, row):
     ...
 ```
@@ -24,10 +25,10 @@ def equals(self, row):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | [Row](/cells/python-net/ar/aspose.cells/row) | كائن صف آخر|
+| row | [`Row`](/cells/python-net/ar/aspose.cells/row) | كائن صف آخر|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

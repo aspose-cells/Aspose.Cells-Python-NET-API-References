@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/fr/aspose.cells/findoptions)
-* classe [LookInType](/cells/python-net/fr/aspose.cells/lookintype)
+* module [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/fr/aspose.cells/findoptions)
+* classe [`LookInType`](/cells/python-net/fr/aspose.cells/lookintype)

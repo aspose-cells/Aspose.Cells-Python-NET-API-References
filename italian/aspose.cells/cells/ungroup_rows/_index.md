@@ -1,18 +1,19 @@
 ---
 title: Metodo ungroup_rows
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 950
+weight: 970
 url: /it/aspose.cells/cells/ungroup_rows/
 is_root: false
 ---
-##  ungroup_rows {#int-int}
+##  ungroup_rows(self, first_index, last_index) {#int-int}
 Separa le righe.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index):
     ...
 ```
@@ -20,19 +21,20 @@ def ungroup_rows(self, first_index, last_index):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| first_index | int | L'indice della prima riga da separare.|
-| last_index | int | L'indice dell'ultima riga da separare.|
+| first_index | int | Indice della prima riga da separare.|
+| last_index | int | L'ultimo indice di riga da separare.|
 ###  Osservazioni
 
-Rimuove solo le informazioni sul gruppo esterno.
+Rimuove solo le informazioni del gruppo esterno.
 
-##  ungroup_rows {#int-int-bool}
+##  ungroup_rows(self, first_index, last_index, is_all) {#int-int-bool}
 
 Separa le righe.
 
 
 
 ```python
+
 def ungroup_rows(self, first_index, last_index, is_all):
     ...
 ```
@@ -40,9 +42,9 @@ def ungroup_rows(self, first_index, last_index, is_all):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| first_index | int | L'indice della prima riga da separare.|
-| last_index | int | L'indice dell'ultima riga da separare.|
-| is_all | bool |Vero, rimuove tutte le informazioni raggruppate. In caso contrario, rimuove le informazioni del gruppo esterno.|
+| first_index | int | Indice della prima riga da separare.|
+| last_index | int | L'ultimo indice di riga da separare.|
+| is_all | bool | Vero, rimuove tutte le informazioni raggruppate. In caso contrario, rimuove le informazioni del gruppo esterno.|
 
 
 

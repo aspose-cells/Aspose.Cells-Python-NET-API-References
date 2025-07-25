@@ -3,11 +3,11 @@ title: método get_last_data_row
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 440
 url: /es/aspose.cells/cells/get_last_data_row/
 is_root: false
 ---
-##  get_last_data_row {#int}
+##  get_last_data_row(self, column) {#int}
 Obtiene el índice de la última fila de la celda que contiene datos en la columna especificada.
 
 
@@ -17,6 +17,7 @@ Obtiene el índice de la última fila de la celda que contiene datos en la colum
 
 
 ```python
+
 def get_last_data_row(self, column):
     ...
 ```
@@ -24,7 +25,7 @@ def get_last_data_row(self, column):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| column | int | Índice de columnas.|
+| column | int | Índice de columna.|
 
 
 

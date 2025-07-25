@@ -1,21 +1,13 @@
 ---
-title: check_workbook_default_font الملكية
+title: check_workbook_default_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells/xpssaveoptions/check_workbook_default_font/
 is_root: false
 ---
-##  check_workbook_default_font الملكية
-
-عندما تكون الأحرف في Excel Unicode ولا يتم تعيينها بالخط الصحيح في نمط الخلية ،
-قد تظهر على شكل كتلة في صورة pdf.
-اضبط هذا على صواب لمحاولة استخدام الخط الافتراضي للمصنف لإظهار هذه الأحرف أولاً.
-
-###  ملاحظات
-
-الافتراضي هو الصحيح.
+##  check_workbook_default_font عقار
 ###  تعريف:
 ```python
 @property
@@ -27,5 +19,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XpsSaveOptions](/cells/python-net/ar/aspose.cells/xpssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions)

@@ -3,13 +3,13 @@ title: visibility_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 920
+weight: 940
 url: /de/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---
 ##  visibility_type Eigentum
 
-Gibt den sichtbaren Status für dieses Blatt an.
+Gibt den Sichtbarkeitsstatus für dieses Blatt an.
 ###  Definition:
 ```python
 @property

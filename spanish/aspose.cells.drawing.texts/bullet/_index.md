@@ -8,7 +8,7 @@ url: /es/aspose.cells.drawing.texts/bullet/
 is_root: false
 ---
 ##  Bullet clase
-Representa las viñetas que se deben aplicar a un párrafo.
+Representa las viñetas que deben aplicarse a un párrafo.
 
 
 
@@ -17,8 +17,7 @@ El tipo Bullet expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [bullet_value](/cells/python-net/es/aspose.cells.drawing.texts/bullet/bullet_value) | Obtiene el valor de la bala.|
-| [type](/cells/python-net/es/aspose.cells.drawing.texts/bullet/type) | Obtiene y establece el tipo de viñeta.|
+| [type](/cells/python-net/es/aspose.cells.drawing.texts/bullet/type) | Obtiene y establece el tipo de bala.|
 | [font_name](/cells/python-net/es/aspose.cells.drawing.texts/bullet/font_name) | Obtiene y establece el nombre de la fuente.|
 
 

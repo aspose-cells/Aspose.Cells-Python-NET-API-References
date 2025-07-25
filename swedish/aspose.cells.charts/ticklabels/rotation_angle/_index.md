@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle fastighet
 
-Representerar textrotationsvinkel medurs.
+Representerar textens rotationsvinkel medurs.
 
 ###  Anmärkningar
 

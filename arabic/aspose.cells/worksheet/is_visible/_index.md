@@ -3,7 +3,7 @@ title: is_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 630
+weight: 660
 url: /ar/aspose.cells/worksheet/is_visible/
 is_root: false
 ---

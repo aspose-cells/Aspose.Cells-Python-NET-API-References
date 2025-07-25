@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_character_width propiedad
 
-Indica si se copia el ancho de columna en unidad de caracteres.
+Indica si se copia el ancho de la columna en unidades de caracteres.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_character_width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CopyOptions](/cells/python-net/es/aspose.cells/copyoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions)

@@ -3,13 +3,13 @@ title: html_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 540
 url: /ar/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string عقار
 
-الحصول على سلسلة html التي تحتوي على البيانات وبعض التنسيقات في هذه الخلية وتعيينها.
+يحصل على سلسلة HTML التي تحتوي على البيانات وبعض التنسيقات في هذه الخلية ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property

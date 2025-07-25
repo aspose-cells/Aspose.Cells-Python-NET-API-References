@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Column](/cells/python-net/es/aspose.cells/column)
+* módulo [`aspose.cells`](../../)
+* clase [`Column`](/cells/python-net/es/aspose.cells/column)

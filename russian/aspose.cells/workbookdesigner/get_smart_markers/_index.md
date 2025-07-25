@@ -1,22 +1,23 @@
 ---
 title: get_smart_markers метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
-##  get_smart_markers() {#}
-Возвращает набор интеллектуальных маркеров в электронной таблице.
+##  get_smart_markers(self) {#}
+Возвращает коллекцию смарт-маркеров в электронной таблице.
 
 
-###  Возвращает
+###  Возврат
 
 Коллекция умных маркеров
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_smart_markers(self):
 
 ###  Примечания
 
-Строковый массив создается при каждом вызове. Массив сортируется и повторяющиеся значения удаляются.
+При каждом вызове создаётся массив строк. Массив сортируется, и дублирующиеся значения удаляются.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [WorkbookDesigner](/cells/python-net/ru/aspose.cells/workbookdesigner)
+* модуль [`aspose.cells`](../../)
+* класс [`WorkbookDesigner`](/cells/python-net/ru/aspose.cells/workbookdesigner)

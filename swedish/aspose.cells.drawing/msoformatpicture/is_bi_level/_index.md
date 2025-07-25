@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bi_level fastighet
 
-Indikerar om denna bild ska visas i tvåfärgad svartvitt.
+Anger om den här bilden ska visas i tvåfärgat svartvitt.
 ###  Definition:
 ```python
 @property

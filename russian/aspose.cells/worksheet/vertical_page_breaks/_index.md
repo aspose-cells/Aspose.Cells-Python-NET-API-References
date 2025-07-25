@@ -1,9 +1,9 @@
 ---
 title: vertical_page_breaks недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 900
+weight: 920
 url: /ru/aspose.cells/worksheet/vertical_page_breaks/
 is_root: false
 ---

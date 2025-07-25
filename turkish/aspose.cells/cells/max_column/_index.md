@@ -3,18 +3,18 @@ title: max_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1080
+weight: 1110
 url: /tr/aspose.cells/cells/max_column/
 is_root: false
 ---
 ##  max_column mülk
 
-Koleksiyonda başlatılan hücrelerin maksimum sütun dizini (sütun dahil değildir)
-stilin tüm sütun için tanımlandığı ancak içinde hiçbir hücrenin başlatılmadığı yer).
+Koleksiyonda örneklenen hücrelerin maksimum sütun indeksi (sütun dahil değildir)
+(Sütunun tamamı için stil tanımlanmış ancak içinde hiçbir hücre örneklenmemiş).
 
 ###  Notlar
 
-Hücre yoksa -1 değerini döndürün.
+Eğer herhangi bir hücre örneği oluşturulmamışsa -1 döndür.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: is_deleted mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 280
 url: /tr/aspose.cells.charts/legend/is_deleted/
 is_root: false
 ---
 ##  is_deleted mülk
 
-Bu veri etiketlerinin silinip silinmediğini belirtir.
+Bu veri etiketlerinin silinip silinmediğini gösterir.
 ###  Tanım:
 ```python
 @property

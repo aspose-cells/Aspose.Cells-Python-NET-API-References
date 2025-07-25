@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.revisions/revisionheader/__init__/
 is_root: false
 ---
-##  RevisionHeader() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de RevisionHeader
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionHeader](/cells/python-net/es/aspose.cells.revisions/revisionheader)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionHeader`](/cells/python-net/es/aspose.cells.revisions/revisionheader)

@@ -1,5 +1,5 @@
 ---
-title: bottom_crop الملكية
+title: bottom_crop عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/msoformatpicture/bottom_crop/
 is_root: false
 ---
-##  bottom_crop الملكية
+##  bottom_crop عقار
 
-يمثل موقع الجزء السفلي من مستطيل الاقتصاص معبرًا عنه كنسبة من ارتفاع الصورة.
+يمثل موقع الجزء السفلي من مستطيل القطع معبرًا عنه كنسبة من ارتفاع الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoFormatPicture](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoFormatPicture`](/cells/python-net/ar/aspose.cells.drawing/msoformatpicture)

@@ -3,7 +3,7 @@ title: export_document_structure propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 250
 url: /fr/aspose.cells/pdfsaveoptions/export_document_structure/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def export_document_structure(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

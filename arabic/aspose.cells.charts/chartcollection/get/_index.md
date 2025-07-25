@@ -7,8 +7,8 @@ weight: 60
 url: /ar/aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-أضف API for Python عبر .Net. لأن هذا [الفهرس] غير مدعوم
+##  get(self, index) {#int}
+أضف API for Python عبر .Net. نظرًا لأن هذا [int index] غير مدعوم
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | الفهرس الصفري للعنصر.|
+| index | int | مؤشر العنصر المبني على الصفر.|
 
 
-##  get(name) {#str}
-أضف API for Python عبر .Net. نظرًا لأن [مخطط السلسلة] هذا غير مدعوم
+##  get(self, name) {#str}
+أضف API for Python عبر .Net. نظرًا لأن هذا [سلسلة الرسم البياني] غير مدعوم
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def get(self, index):
 
 
 ```python
+
 def get(self, name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| name | str |اسم الرسم البياني|
+| name | str | اسم الرسم البياني|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartCollection](/cells/python-net/ar/aspose.cells.charts/chartcollection)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartCollection`](/cells/python-net/ar/aspose.cells.charts/chartcollection)

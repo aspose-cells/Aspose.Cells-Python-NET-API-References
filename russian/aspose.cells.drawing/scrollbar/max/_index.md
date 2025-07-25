@@ -1,15 +1,15 @@
 ---
 title: max недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 830
+weight: 840
 url: /ru/aspose.cells.drawing/scrollbar/max/
 is_root: false
 ---
 ##  max недвижимость
 
-Получает или задает максимальное значение полосы прокрутки или диапазона счетчика.
+Возвращает или задает максимальное значение диапазона полосы прокрутки или счетчика.
 ###  Определение:
 ```python
 @property

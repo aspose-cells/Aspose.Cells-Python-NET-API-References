@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar och ställer in om det villkorliga formatet Typ.
+Hämtar och anger om det villkorliga formatet är av typen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [FormatConditionType](/cells/python-net/sv/aspose.cells/formatconditiontype)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`FormatConditionType`](/cells/python-net/sv/aspose.cells/formatconditiontype)

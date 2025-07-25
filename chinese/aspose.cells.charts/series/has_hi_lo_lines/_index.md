@@ -9,7 +9,7 @@ is_root: false
 ---
 ## has_hi_lo_lines属性
 
-如果折线图具有高低线，则为 true。
+如果折线图有高低线，则为真。
 仅适用于折线图。
 ### 定义：
 ```python

@@ -1,5 +1,5 @@
 ---
-title: provider_id الملكية
+title: provider_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 80
 url: /ar/aspose.cells.drawing/signatureline/provider_id/
 is_root: false
 ---
-##  provider_id الملكية
+##  provider_id عقار
 
-الحصول على معرف موفر التوقيع وتعيينه.
+يحصل على معرف مزود التوقيع أو يعينه.
 
 ###  ملاحظات
 
-عادةً ما يكون هو CLSID الخاص بالوظيفة الإضافية الخاصة بالموفر.
+إنه عادةً CLSID للوظيفة الإضافية لمزود الخدمة.
 
 ###  مثال
 
@@ -23,7 +23,7 @@ from uuid import uuid4
 
 #  Create signature line object
 s2 = SignatureLine()
-s2.provider_id = uuid4()
+s2.provider_id = uuid4("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx")
 
 ```
 ###  تعريف:
@@ -37,5 +37,5 @@ def provider_id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

@@ -1,27 +1,27 @@
 ---
-title: العد CheckValueType
+title: CheckValueType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 780
 url: /ar/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
-##  العد CheckValueType
-يمثل نوع قيمة الاختيار لخانة الاختيار.
+##  CheckValueType التعداد
+يمثل نوع قيمة الاختيار لمربع الاختيار.
 
 
 
-يكشف نوع CheckValueType الأعضاء التالية:
+يكشف النوع CheckValueType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| UN_CHECKED | لم يتم التحقق منه|
-| CHECKED | التحقق|
+| UN_CHECKED | غير محدد|
+| CHECKED | تم فحصه|
 | MIXED | مختلط|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

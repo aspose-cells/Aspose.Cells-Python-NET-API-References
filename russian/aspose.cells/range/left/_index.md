@@ -1,15 +1,15 @@
 ---
 title: left недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 460
 url: /ru/aspose.cells/range/left/
 is_root: false
 ---
 ##  left недвижимость
 
-Получает расстояние в пунктах от края left столбца A до края left диапазона.
+Получает расстояние в точках от края left столбца A до края left диапазона.
 ###  Определение:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
-Gör hela kalkylbladet som Tiff-bild för att streama.
+##  to_tiff(self, stream) {#io.RawIOBase}
+Rendera hela kalkylbladet som en Tiff-bild för att strömma.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | strömmen av utdatabilden|
 
 
-##  to_tiff {#str}
-Gör hela kalkylbladet som Tiff-bild till en fil.
+##  to_tiff(self, filename) {#str}
+Rendera hela kalkylbladet som en Tiff-bild till en fil.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -40,7 +42,7 @@ def to_tiff(self, filename):
 
 ###  Exempel
 
-Följande kod matar ut alla sidorna i det första arket till Tiff-bild.
+Följande kod matar ut alla sidor i det första arket till en TIFF-bild.
 
 ```python
 from aspose.cells import SaveFormat, Workbook

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  show_horizontal_axis fastighet
 
-Indikerar om sparklinjens horisontella axel ska visas.
-Den horisontella axeln visas om gnistlinjen har data som korsar nollaxeln.
+Anger om den horisontella axeln för miniatyrdiagrammet ska visas.
+Den horisontella axeln visas om miniatyrdiagrammet innehåller data som korsar nollaxeln.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def show_horizontal_axis(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

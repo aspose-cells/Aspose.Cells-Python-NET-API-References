@@ -3,7 +3,7 @@ title: export_hidden_worksheet Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 350
 url: /de/aspose.cells.saving/ebooksaveoptions/export_hidden_worksheet/
 is_root: false
 ---

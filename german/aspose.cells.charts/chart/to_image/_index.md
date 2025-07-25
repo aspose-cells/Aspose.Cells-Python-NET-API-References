@@ -3,17 +3,18 @@ title: to_image Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 140
 url: /de/aspose.cells.charts/chart/to_image/
 is_root: false
 ---
-##  to_image(image_file) {#str}
+##  to_image(self, image_file) {#str}
 Erstellt das Diagrammbild und speichert es in einer Datei.
 Die Erweiterung des Dateinamens bestimmt das Format des Bildes.
 
 
 
 ```python
+
 def to_image(self, image_file):
     ...
 ```
@@ -25,19 +26,20 @@ def to_image(self, image_file):
 ###  Bemerkungen
 
 Das Format des Bildes wird durch die Erweiterung des Dateinamens angegeben.
-Wenn Sie beispielsweise „myfile.png“ angeben, wird das Bild gespeichert
- im Format PNG. Die folgenden Dateierweiterungen werden erkannt:
+Wenn Sie beispielsweise "myfile.png" angeben, wird das Bild gespeichert
+ im Format PNG. Folgende Dateierweiterungen werden erkannt:
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
 
-##  to_image(image_file, image_type) {#str-aspose.cells.drawing.ImageType}
+##  to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
 Erstellt das Diagrammbild und speichert es in einer Datei im angegebenen Bildtyp.
 
 
 
 ```python
+
 def to_image(self, image_file, image_type):
     ...
 ```
@@ -49,19 +51,20 @@ def to_image(self, image_file, image_type):
 | image_type | aspose.cells.drawing.ImageType | Der Bildtyp, in dem das Bild gespeichert werden soll.|
 ###  Bemerkungen
 
-Der Typ des Bildes wird mit `imageType` angegeben.
+Der Bildtyp wird mit `imageType` angegeben.
  Die folgenden Typen werden unterstützt:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
 
-##  to_image(image_file, jpeg_quality) {#str-int}
+##  to_image(self, image_file, jpeg_quality) {#str-int}
 Erstellt das Diagrammbild und speichert es in einer Datei im JPEG-Format.
 
 
 
 ```python
+
 def to_image(self, image_file, jpeg_quality):
     ...
 ```
@@ -73,15 +76,19 @@ def to_image(self, image_file, jpeg_quality):
 | jpeg_quality | int | JPEG-Qualität.|
 ###  Bemerkungen
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
+ HINWEIS: Diese Methode ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Methode ToImage(string,ImageOrPrintOptions) mit der angegebenen Qualität.
+ Diese Methode wird ab März 2025 12 Monate später entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
-##  to_image(stream, jpeg_quality) {#io.RawIOBase-int}
-
+##  to_image(self, stream, jpeg_quality) {#io.RawIOBase-int}
 Erstellt das Diagrammbild und speichert es in einem Stream im JPEG-Format.
 
 
 
 ```python
+
 def to_image(self, stream, jpeg_quality):
     ...
 ```
@@ -89,19 +96,20 @@ def to_image(self, stream, jpeg_quality):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Der Ausgangsstrom.|
+| stream | io.RawIOBase | Der Ausgabestream.|
 | jpeg_quality | int | JPEG-Qualität.|
 ###  Bemerkungen
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
 
-##  to_image(stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Erstellt das Diagrammbild und speichert es im angegebenen Format in einem Stream.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -109,24 +117,25 @@ def to_image(self, stream, image_type):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Der Ausgangsstrom.|
+| stream | io.RawIOBase | Der Ausgabestream.|
 | image_type | aspose.cells.drawing.ImageType | Der Bildtyp, in dem das Bild gespeichert werden soll.|
 ###  Bemerkungen
 
-Der Typ des Bildes wird mit `imageType` angegeben.
+Der Bildtyp wird mit `imageType` angegeben.
  Die folgenden Typen werden unterstützt:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Erstellt das Diagrammbild und speichert es in einer Datei.
 Die Erweiterung des Dateinamens bestimmt das Format des Bildes.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -135,17 +144,17 @@ def to_image(self, image_file, options):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | image_file | str | Der Bilddateiname mit vollständigem Pfad.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | Zusätzliche Bilderzeugungsoptionen|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Zusätzliche Optionen zur Bilderstellung|
 ###  Bemerkungen
 
 Das Format des Bildes wird durch die Erweiterung des Dateinamens angegeben.
-Wenn Sie beispielsweise „myfile.png“ angeben, wird das Bild gespeichert
- im Format PNG. Die folgenden Dateierweiterungen werden erkannt:
+Wenn Sie beispielsweise "myfile.png" angeben, wird das Bild gespeichert
+ im Format PNG. Folgende Dateierweiterungen werden erkannt:
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
- Bitte beziehen Sie sich auf[Liste der unterstützten Diagramme](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)für mehr Details.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
+ Bitte beachten Sie[Liste der unterstützten Diagramme](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) für weitere Details.
 ###  Beispiel
 
 Speichert im Tiff-Format mit 300 dpi und CCITT4-Komprimierung.
@@ -164,7 +173,7 @@ book.worksheets[0].charts[0].to_image(r"chart.Tiff", options)
 ```
 
 
-Speichert als JPEG mit 300 dpi und 80 Bildqualität.
+Speichert im JPEG-Format mit 300 dpi und 80 Bildqualität.
 
 ```python
 from aspose.cells import Workbook
@@ -180,12 +189,13 @@ book.worksheets[0].charts[0].to_image(r"chart.Jpeg", options)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Erstellt das Diagrammbild und speichert es im angegebenen Format in einem Stream.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -193,19 +203,19 @@ def to_image(self, stream, options):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| stream | io.RawIOBase | Der Ausgangsstrom.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | Zusätzliche Bilderzeugungsoptionen|
+| stream | io.RawIOBase | Der Ausgabestream.|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Zusätzliche Optionen zur Bilderstellung|
 ###  Bemerkungen
 
-Der Typ des Bildes wird mit `options.ImageType` angegeben.
- Folgende Formate werden unterstützt:
+Der Bildtyp wird mit `options.ImageType` angegeben.
+ Die folgenden Formate werden unterstützt:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, wird diese Methode nichts bewirken.
- Bitte beziehen Sie sich auf[Liste der unterstützten Diagramme](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)für mehr Details.
+Wenn die Breite oder Höhe Null ist oder das Diagramm gemäß der Liste der unterstützten Diagramme nicht unterstützt wird, führt diese Methode nichts aus.
+ Bitte beachten Sie[Liste der unterstützten Diagramme](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) für weitere Details.
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

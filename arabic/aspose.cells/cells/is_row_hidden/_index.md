@@ -3,12 +3,12 @@ title: طريقة is_row_hidden
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 760
+weight: 780
 url: /ar/aspose.cells/cells/is_row_hidden/
 is_root: false
 ---
-##  is_row_hidden {#int}
-التحقق مما إذا كان الصف الموجود في الفهرس المحدد مخفيًا.
+##  is_row_hidden(self, row_index) {#int}
+التحقق مما إذا كان الصف الموجود عند الفهرس المحدد مخفيًا.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_row_hidden(self, row_index):
     ...
 ```

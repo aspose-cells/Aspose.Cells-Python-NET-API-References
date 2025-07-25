@@ -1,6 +1,6 @@
 ---
 title: z недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 220
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  z недвижимость
 
-Определяет расстояние от земли для 3D-формы.
+Определяет расстояние от земли для 3D-фигуры.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def z(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

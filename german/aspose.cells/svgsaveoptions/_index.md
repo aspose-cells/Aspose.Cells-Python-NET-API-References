@@ -3,7 +3,7 @@ title: SvgSaveOptions Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1490
+weight: 1380
 url: /de/aspose.cells/svgsaveoptions/
 is_root: false
 ---
@@ -21,26 +21,26 @@ Der Typ SvgSaveOptions macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/svgsaveoptions/__init__/#) | Erstellt die Optionen zum Speichern der Bilddatei.|
-| [__init__](/cells/python-net/de/aspose.cells/svgsaveoptions/__init__/#aspose.cells.SaveFormat) | Erstellt die Optionen zum Speichern der Bilddatei.|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells/svgsaveoptions/__init__/#) | Erstellt die Optionen zum Speichern der Bilddatei.|
+| [`__init__(self, save_format)`](/cells/python-net/de/aspose.cells/svgsaveoptions/__init__/#aspose.cells.saveformat) | Erstellt die Optionen zum Speichern der Bilddatei.|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [save_format](/cells/python-net/de/aspose.cells/svgsaveoptions/save_format) | Ruft das Speicherdateiformat ab.|
-| [clear_data](/cells/python-net/de/aspose.cells/svgsaveoptions/clear_data) | Machen Sie die Arbeitsmappe leer, nachdem Sie die Datei gespeichert haben.|
-| [cached_file_folder](/cells/python-net/de/aspose.cells/svgsaveoptions/cached_file_folder) | Der zwischengespeicherte Dateiordner wird zum Speichern großer Datenmengen verwendet.|
-| [validate_merged_areas](/cells/python-net/de/aspose.cells/svgsaveoptions/validate_merged_areas) | Gibt an, ob zusammengeführte Zellen vor dem Speichern der Datei validiert werden.|
-| [merge_areas](/cells/python-net/de/aspose.cells/svgsaveoptions/merge_areas) | Gibt an, ob die Bereiche der bedingten Formatierung und Validierung vor dem Speichern der Datei zusammengeführt werden.|
-| [create_directory](/cells/python-net/de/aspose.cells/svgsaveoptions/create_directory) | Wenn „true“ und das Verzeichnis nicht existiert, wird das Verzeichnis automatisch erstellt, bevor die Datei gespeichert wird.|
-| [sort_names](/cells/python-net/de/aspose.cells/svgsaveoptions/sort_names) | Gibt an, ob definierte Namen vor dem Speichern der Datei sortiert werden sollen.|
+| [save_format](/cells/python-net/de/aspose.cells/svgsaveoptions/save_format) | Ruft das Format der gespeicherten Datei ab.|
+| [clear_data](/cells/python-net/de/aspose.cells/svgsaveoptions/clear_data) | Leeren Sie die Arbeitsmappe, nachdem Sie die Datei gespeichert haben.|
+| [cached_file_folder](/cells/python-net/de/aspose.cells/svgsaveoptions/cached_file_folder) | Der Ordner für temporäre Dateien, die als Datencache verwendet werden können.|
+| [validate_merged_areas](/cells/python-net/de/aspose.cells/svgsaveoptions/validate_merged_areas) | Gibt an, ob zusammengeführte Zellen vor dem Speichern der Datei validiert werden sollen.|
+| [merge_areas](/cells/python-net/de/aspose.cells/svgsaveoptions/merge_areas) | Gibt an, ob die Bereiche der bedingten Formatierung und Validierung vor dem Speichern der Datei zusammengeführt werden sollen.|
+| [create_directory](/cells/python-net/de/aspose.cells/svgsaveoptions/create_directory) | Wenn der Wert auf „true“ gesetzt ist und das Verzeichnis nicht existiert, wird das Verzeichnis vor dem Speichern der Datei automatisch erstellt.|
+| [sort_names](/cells/python-net/de/aspose.cells/svgsaveoptions/sort_names) |Gibt an, ob vor dem Speichern der Datei die definierten Namen sortiert werden sollen.|
 | [sort_external_names](/cells/python-net/de/aspose.cells/svgsaveoptions/sort_external_names) | Gibt an, ob extern definierte Namen vor dem Speichern der Datei sortiert werden sollen.|
-| [refresh_chart_cache](/cells/python-net/de/aspose.cells/svgsaveoptions/refresh_chart_cache) | Gibt an, ob Diagramm-Cache-Daten aktualisiert werden|
-| [warning_callback](/cells/python-net/de/aspose.cells/svgsaveoptions/warning_callback) | Ruft einen Warnrückruf ab oder legt diesen fest.|
-| [update_smart_art](/cells/python-net/de/aspose.cells/svgsaveoptions/update_smart_art) | Gibt an, ob die Smart-Art-Einstellung aktualisiert wird.<br/> Der Standardwert ist false.|
-| [image_or_print_options](/cells/python-net/de/aspose.cells/svgsaveoptions/image_or_print_options) | Zusätzliche Optionen zur Bilderstellung.|
-| [stream_provider](/cells/python-net/de/aspose.cells/svgsaveoptions/stream_provider) | Ruft den IStreamProvider zum Exportieren von Objekten ab oder legt diesen fest.|
+| [refresh_chart_cache](/cells/python-net/de/aspose.cells/svgsaveoptions/refresh_chart_cache) | Gibt an, ob die Aktualisierung der Diagramm-Cache-Daten|
+| [check_excel_restriction](/cells/python-net/de/aspose.cells/svgsaveoptions/check_excel_restriction) | Ob die Einschränkung der Excel-Datei überprüft wird, wenn der Benutzer zellenbezogene Objekte ändert.<br/>Beispielsweise erlaubt Excel nicht die Eingabe von Zeichenfolgenwerten, die länger als 32 KB sind.<br/> Wenn Sie einen Wert eingeben, der länger als 32 KB ist, wird er abgeschnitten.|
+| [update_smart_art](/cells/python-net/de/aspose.cells/svgsaveoptions/update_smart_art) | Gibt an, ob die SmartArt-Einstellung aktualisiert wird.<br/> Der Standardwert ist „false“.|
+| [encrypt_document_properties](/cells/python-net/de/aspose.cells/svgsaveoptions/encrypt_document_properties) | Gibt an, ob Dokumenteigenschaften beim Speichern als XLS-Datei verschlüsselt werden sollen.<br/> Der Standardwert ist „true“.|
+| [image_or_print_options](/cells/python-net/de/aspose.cells/svgsaveoptions/image_or_print_options) | Zusätzliche Optionen zur Bilderzeugung.|
 | [sheet_index](/cells/python-net/de/aspose.cells/svgsaveoptions/sheet_index) |  |
 
 

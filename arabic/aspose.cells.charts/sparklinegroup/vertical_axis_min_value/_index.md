@@ -1,5 +1,5 @@
 ---
-title: vertical_axis_min_value الملكية
+title: vertical_axis_min_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 300
 url: /ar/aspose.cells.charts/sparklinegroup/vertical_axis_min_value/
 is_root: false
 ---
-##  vertical_axis_min_value الملكية
+##  vertical_axis_min_value عقار
 
-الحصول على القيمة الدنيا المخصصة للمحور العمودي وتعيينها.
+يحصل على الحد الأدنى للقيمة المخصصة للمحور الرأسي ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def vertical_axis_min_value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SparklineGroup](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SparklineGroup`](/cells/python-net/ar/aspose.cells.charts/sparklinegroup)

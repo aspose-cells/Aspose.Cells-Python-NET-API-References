@@ -3,13 +3,13 @@ title: standard_height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1240
+weight: 1270
 url: /tr/aspose.cells/cells/standard_height/
 is_root: false
 ---
 ##  standard_height mülk
 
-Bu çalışma sayfasındaki varsayılan satır yüksekliğini nokta birimi cinsinden alır veya ayarlar.
+Bu çalışma sayfasındaki varsayılan satır yüksekliğini nokta biriminde alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

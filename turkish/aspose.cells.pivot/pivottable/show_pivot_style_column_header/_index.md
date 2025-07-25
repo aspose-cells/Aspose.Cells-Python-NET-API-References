@@ -3,7 +3,7 @@ title: show_pivot_style_column_header mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 1060
 url: /tr/aspose.cells.pivot/pivottable/show_pivot_style_column_header/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_pivot_style_column_header(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

@@ -1,6 +1,6 @@
 ---
 title: fill_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 380
@@ -15,8 +15,8 @@ Restituisce un oggetto MsoFillFormat che contiene le proprietà di formattazione
 
  NOTA: questo membro è ora obsoleto. Invece,
  si prega di utilizzare la proprietà Shape.Fill.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da luglio 2016.
-Aspose si scusa per eventuali disagi riscontrati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da luglio 2016.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

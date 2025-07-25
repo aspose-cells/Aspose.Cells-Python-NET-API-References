@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propiedad
 
-Obtiene el name de la hoja de cálculo.
+Obtiene el name de la hoja de trabajo.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionInsertSheet](/cells/python-net/es/aspose.cells.revisions/revisioninsertsheet)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionInsertSheet`](/cells/python-net/es/aspose.cells.revisions/revisioninsertsheet)

@@ -3,14 +3,14 @@ title: export_frame_scripts_and_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 320
 url: /tr/aspose.cells/htmlsaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---
 ##  export_frame_scripts_and_properties mülk
 
-Çerçeve komut dosyalarının ve belge özelliklerinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer true'dur. Html veya mht dosyasını içe aktarmak istiyorsanız
-excel için lütfen varsayılan değeri koruyun.
+Çerçeve betiklerinin ve belge özelliklerinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer true'dur. HTML veya mht dosyasını içe aktarmak istiyorsanız
+Excel'de başarılı olmak için lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property

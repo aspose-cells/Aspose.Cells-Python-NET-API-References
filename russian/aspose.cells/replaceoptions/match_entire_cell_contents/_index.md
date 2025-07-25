@@ -1,6 +1,6 @@
 ---
 title: match_entire_cell_contents недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -10,6 +10,10 @@ is_root: false
 ##  match_entire_cell_contents недвижимость
 
 Указывает, следует ли сопоставлять содержимое всех ячеек
+
+###  Примечания
+
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

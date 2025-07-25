@@ -3,13 +3,13 @@ title: is_text_wrapped fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 660
+weight: 670
 url: /sv/aspose.cells.drawing/textbox/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped fastighet
 
-Hämtar och ställer in texttypen för formen som innehåller text.
+Hämtar och anger textomslagstypen för formen som innehåller text.
 
 ###  Exempel
 

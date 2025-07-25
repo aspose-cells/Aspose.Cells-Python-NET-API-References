@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/
 is_root: false
 ---
-##  get_numberic_type() {#}
-Får numerisk typ i databasen.
+##  get_numberic_type(self) {#}
+Hämtar numerisk typ i databasen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får numerisk typ i databasen.
 
 
 ```python
+
 def get_numberic_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_numberic_type(self):
 
 
 ###  Se även
-* modul [aspose.cells.saving](../../)
-* klass [SqlScriptColumnTypeMap](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)
+* modul [`aspose.cells.saving`](../../)
+* klass [`SqlScriptColumnTypeMap`](/cells/python-net/sv/aspose.cells.saving/sqlscriptcolumntypemap)

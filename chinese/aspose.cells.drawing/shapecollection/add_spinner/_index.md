@@ -1,22 +1,23 @@
 ---
 title: add_spinner方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 320
 url: /zh/aspose.cells.drawing/shapecollection/add_spinner/
 is_root: false
 ---
-##  add_spinner(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
-将微调器添加到工作表。
+##  add_spinner(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+向工作表添加一个 Spinner。
 
 
 ### 返回
 
-微调器对象。
+Spinner 对象。
 
 
 ```python
+
 def add_spinner(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -26,10 +27,10 @@ def add_spinner(self, upper_left_row, top, upper_left_column, left, height, widt
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
 | top | int |表示 Spinner 相对于其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
+| upper_left_column | int |左上角的列索引。|
 | left | int |表示 Spinner 相对于其左列的水平偏移量，以像素为单位。|
-| height | int |表示 Spinner 的高度，以像素为单位。|
-| width | int |表示 Spinner 的宽度，以像素为单位。|
+| height | int |表示Spinner的高度，单位为像素。|
+| width | int |表示Spinner的宽度，单位为像素。|
 
 ### 例子
 
@@ -43,5 +44,5 @@ spinner = shapes.add_spinner(1, 0, 1, 0, 100, 50)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

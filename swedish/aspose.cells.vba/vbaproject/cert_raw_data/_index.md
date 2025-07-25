@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cert_raw_data fastighet
 
-Får certifikatrådata om detta VBA-projekt är signerat.
+Hämtar rådata för certifikat om detta VBA-projekt är signerat.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def cert_raw_data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProject](/cells/python-net/sv/aspose.cells.vba/vbaproject)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProject`](/cells/python-net/sv/aspose.cells.vba/vbaproject)

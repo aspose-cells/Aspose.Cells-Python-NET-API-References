@@ -7,12 +7,13 @@ weight: 140
 url: /sv/aspose.cells/cells/convert_string_to_numeric_value/
 is_root: false
 ---
-##  convert_string_to_numeric_value {#}
-Konverterar alla strängdata i kalkylbladet till numeriska värden om möjligt.
+##  convert_string_to_numeric_value(self) {#}
+Konverterar all strängdata i kalkylbladet till numeriska värden om möjligt.
 
 
 
 ```python
+
 def convert_string_to_numeric_value(self):
     ...
 ```

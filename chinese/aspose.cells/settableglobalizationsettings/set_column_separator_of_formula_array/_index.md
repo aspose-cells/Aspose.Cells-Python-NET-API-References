@@ -7,12 +7,13 @@ weight: 300
 url: /zh/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/
 is_root: false
 ---
-##  set_column_separator_of_formula_array {#char}
-设置公式中数组行数据中项目的分隔符。
+##  set_column_separator_of_formula_array(self, c) {#char}
+设置公式中数组行数据项的分隔符。
 
 
 
 ```python
+
 def set_column_separator_of_formula_array(self, c):
     ...
 ```

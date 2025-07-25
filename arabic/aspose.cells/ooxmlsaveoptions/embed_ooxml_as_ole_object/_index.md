@@ -1,19 +1,19 @@
 ---
-title: embed_ooxml_as_ole_object الملكية
+title: embed_ooxml_as_ole_object عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object/
 is_root: false
 ---
-##  embed_ooxml_as_ole_object الملكية
+##  embed_ooxml_as_ole_object عقار
 
-الإشارة إلى ما إذا كان يتم تضمين ملفات Ooxml في OleObject ككائن أولي.
+يشير إلى ما إذا كان يتم تضمين ملفات Ooxml الخاصة بـ OleObject ككائن ole.
 
 ###  ملاحظات
 
-فقط من أجل OleObject.
+مخصص لـ OleObject فقط.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def embed_ooxml_as_ole_object(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [OoxmlSaveOptions](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`OoxmlSaveOptions`](/cells/python-net/ar/aspose.cells/ooxmlsaveoptions)

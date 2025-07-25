@@ -3,13 +3,20 @@ title: is_lock_aspect_ratio mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 600
+weight: 610
 url: /tr/aspose.cells.drawing/button/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio mülk
 
-Doğru, en boy oranında değişikliğe izin verilmediği anlamına gelir.
+Doğru, şeklin en boy oranının kilitlendiği anlamına gelir.
+
+###  Notlar
+
+Sadece resimler ve Ole objeleri için.
+ NOT: Bu üye artık kullanım dışıdır. Bunun yerine lütfen Shape.IsAspectRatioLocked özelliğini kullanın.
+ Bu özellik Temmuz 2024'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 ###  Örnek
 

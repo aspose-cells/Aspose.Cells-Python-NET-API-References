@@ -1,15 +1,15 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 60
 url: /ar/aspose.cells.charts/chartdatatable/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
-الحصول على عنصر [ChartDataTable.font](/cells/python-net/ar/aspose.cells.charts/chartdatatable#font) يمثل الإعداد font لجدول بيانات المخطط المحدد.
+يحصل على الكائن [`ChartDataTable.font`](/cells/python-net/ar/aspose.cells.charts/chartdatatable#font) الذي يمثل الإعداد font لجدول بيانات الرسم البياني المحدد.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartDataTable](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartDataTable`](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)

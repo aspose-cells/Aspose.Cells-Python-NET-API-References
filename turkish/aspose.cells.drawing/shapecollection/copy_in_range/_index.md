@@ -3,16 +3,17 @@ title: copy_in_range yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 410
 url: /tr/aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
-##  copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained) {#ShapeCollection-CellArea-int-int-bool}
-Aralıktaki şekilleri hedef aralığa kopyalayın.
+##  copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
+Aralıktaki şekilleri hedef aralığa kopyala.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| source_shapes | [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection) | Kaynak şekiller.|
-| ca | [CellArea](/cells/python-net/tr/aspose.cells/cellarea) | Kaynak aralığı.|
-| dest_row | int | Hedef aralığın hedef satır dizini.|
-| dest_column | int | Hedef aralığın hedef sütunu.|
-| is_contained | bool | Yalnızca aralıkta bulunan şekillerin kopyalanıp kopyalanmadığı.<br/> Doğruysa, yalnızca aralıktaki şekilleri kopyalar.<br/> Aksi takdirde, MS Office olarak çalışır.|
+| source_shapes | [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection) | Kaynak şekiller.|
+| ca | [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea) | Kaynak aralığı.|
+| dest_row | int | Hedef aralığının hedef satır indeksi.|
+| dest_column | int | Hedef aralığının hedef sütunu.|
+| is_contained | bool | Sadece aralıkta bulunan şekillerin kopyalanması.<br/> Doğruysa, yalnızca aralıktaki şekilleri kopyalar.<br/> Aksi takdirde MS Office olarak çalışır.|
 
 ###  Örnek
 
@@ -46,5 +47,5 @@ shapes.copy_in_range(shapes, area2, 12, 1, False)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

@@ -3,7 +3,7 @@ title: refresh_pivot_tables Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 230
 url: /de/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---

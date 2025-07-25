@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value Eigentum
 
-Nicht ganzzahlig numerisch value, Ganzzahl value, Zeichenfolge value oder Boolesch value
-als Abfrageparameter verwenden. Wird nur verwendet, wenn parameterType value ist.
+Nicht ganzzahlige Zahlen value, Ganzzahl value, Zeichenfolge value oder Boolescher Wert value
+zur Verwendung als Abfrageparameter. Wird nur verwendet, wenn der Parametertyp value ist.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [ConnectionParameter](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`ConnectionParameter`](/cells/python-net/de/aspose.cells.externalconnections/connectionparameter)

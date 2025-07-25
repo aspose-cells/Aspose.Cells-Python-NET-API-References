@@ -3,7 +3,7 @@ title: window_top عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 590
 url: /ar/aspose.cells/workbooksettings/window_top/
 is_root: false
 ---

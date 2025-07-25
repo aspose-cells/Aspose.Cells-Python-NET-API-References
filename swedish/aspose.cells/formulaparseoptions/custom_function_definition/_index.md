@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  custom_function_definition fastighet
 
-Definition för att analysera anpassade funktioner.
+Definition för parsning av anpassade funktioner.
 
 ###  Anmärkningar
 
 För vissa speciella krav, till exempel vid beräkning av anpassad funktion i användarens anpassade motor,
-vissa parametrar av den måste beräknas i array-läge, med den här egenskapen kan dessa parametrar markeras
-som matrisläge när formeln analyseras. Annars måste användaren uppdatera dessa anpassade funktioner senare
+vissa parametrar måste beräknas i arrayläge, med hjälp av den här egenskapen kan dessa parametrar markeras
+som arrayläge vid parsning av formeln. Annars måste användaren uppdatera dessa anpassade funktioner senare genom att
 [`Workbook.update_custom_function_definition`](/cells/python-net/sv/aspose.cells/workbook/update_custom_function_definition) för att få samma resultat.
 ###  Definition:
 ```python

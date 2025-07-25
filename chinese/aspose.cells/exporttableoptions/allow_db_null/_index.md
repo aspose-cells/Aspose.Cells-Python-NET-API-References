@@ -9,7 +9,7 @@ is_root: false
 ---
 ## allow_db_null属性
 
-该值指示该表中是否允许 DBNull。
+该值指示此表是否允许 DBNulls。
 ### 定义：
 ```python
 @property

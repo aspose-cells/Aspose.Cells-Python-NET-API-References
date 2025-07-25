@@ -3,13 +3,13 @@ title: height_pt propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 540
 url: /es/aspose.cells.drawing/oleobject/height_pt/
 is_root: false
 ---
 ##  height_pt propiedad
 
-Representa la altura de la forma, en unidades de puntos.
+Representa la altura de la forma, en unidad de puntos.
 
 ###  Ejemplo
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_pt Eigentum
 
-Stellt die Höhe der Form in Punkteinheiten dar.
+Stellt die Höhe der Form in Punkten dar.
 
 ###  Beispiel
 

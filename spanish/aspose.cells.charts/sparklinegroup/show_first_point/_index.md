@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_first_point propiedad
 
-Indica si resaltar el primer punto de datos en el grupo minigráfico.
+Indica si se debe resaltar el primer punto de datos en el grupo de minigráficos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_first_point(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

@@ -1,13 +1,13 @@
 ---
-title: paper_size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: paper_size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 490
 url: /zh/aspose.cells/pagesetup/paper_size/
 is_root: false
 ---
-## paper_size 属性
+## paper_size属性
 
 表示纸张的大小。
 ### 定义：
@@ -21,6 +21,6 @@ def paper_size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PageSetup](/cells/python-net/zh/aspose.cells/pagesetup)
-* 类 [PaperSizeType](/cells/python-net/zh/aspose.cells/papersizetype)
+* 模块[`aspose.cells`](../../)
+* 类 [`PageSetup`](/cells/python-net/zh/aspose.cells/pagesetup)
+* 类 [`PaperSizeType`](/cells/python-net/zh/aspose.cells/papersizetype)

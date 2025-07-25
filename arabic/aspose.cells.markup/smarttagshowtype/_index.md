@@ -1,5 +1,5 @@
 ---
-title: العد SmartTagShowType
+title: SmartTagShowType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 90
 url: /ar/aspose.cells.markup/smarttagshowtype/
 is_root: false
 ---
-##  العد SmartTagShowType
-يمثل نوع العرض الخاص بالعلامة الذكية.
+##  SmartTagShowType التعداد
+يمثل نوع العرض للعلامة الذكية.
 
 
 
-يكشف نوع SmartTagShowType الأعضاء التالية:
+يكشف النوع SmartTagShowType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ALL | يشير إلى أنه تم تمكين وعرض العلامات الذكية|
-| NO_SMART_TAG_INDICATOR | يشير إلى أنه تم تمكين العلامات الذكية ولكن المؤشر لا يظهر.|
-| NONE | يشير إلى تعطيل العلامات الذكية وعدم عرضها.|
+| ALL | يشير إلى أن العلامات الذكية ممكّنة ومعروضة|
+| NO_SMART_TAG_INDICATOR |يشير إلى أن العلامات الذكية ممكّنة ولكن المؤشر غير معروض.|
+| NONE | يشير إلى أن العلامات الذكية معطلة ولا يتم عرضها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](..)
+* الوحدة [`aspose.cells.markup`](..)

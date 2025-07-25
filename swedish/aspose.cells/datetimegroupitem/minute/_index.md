@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  minute fastighet
 
-Hämtar och ställer in minute för den grupperade datumtiden.
+Hämtar och ställer in minute för det grupperade datumet och tiden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def minute(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)

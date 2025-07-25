@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_color_varied propiedad
 
- Representa si se varía el color de los puntos.
+ Representa si el color de los puntos es variado.
 El gráfico debe contener sólo una serie.
 ###  Definición:
 ```python

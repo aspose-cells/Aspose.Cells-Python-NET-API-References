@@ -1,6 +1,6 @@
 ---
 title: end_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [VerticalPageBreak](/cells/python-net/ru/aspose.cells/verticalpagebreak)
+* модуль [`aspose.cells`](../../)
+* класс [`VerticalPageBreak`](/cells/python-net/ru/aspose.cells/verticalpagebreak)

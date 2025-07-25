@@ -1,19 +1,20 @@
 ---
 title: to_image метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 140
 url: /ru/aspose.cells.charts/chart/to_image/
 is_root: false
 ---
-##  to_image(image_file) {#str}
+##  to_image(self, image_file) {#str}
 Создает изображение диаграммы и сохраняет его в файл.
 Расширение имени файла определяет формат изображения.
 
 
 
 ```python
+
 def to_image(self, image_file):
     ...
 ```
@@ -32,12 +33,13 @@ def to_image(self, image_file):
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
 
-##  to_image(image_file, image_type) {#str-aspose.cells.drawing.ImageType}
-Создает изображение диаграммы и сохраняет его в файл с указанным типом изображения.
+##  to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
+Создает изображение диаграммы и сохраняет его в файле указанного типа изображения.
 
 
 
 ```python
+
 def to_image(self, image_file, image_type):
     ...
 ```
@@ -46,22 +48,23 @@ def to_image(self, image_file, image_type):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | image_file | str | Имя файла изображения с полным путем.|
-| image_type | aspose.cells.drawing.ImageType | Тип изображения, в котором нужно сохранить изображение.|
+| image_type | aspose.cells.drawing.ImageType | Тип изображения, в котором будет сохранено изображение.|
 ###  Примечания
 
 Тип изображения указывается с помощью `imageType`.
  Поддерживаются следующие типы:
-ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
+Тип изображения.Bmp, Тип изображения.Gif, Тип изображения.Png, Тип изображения.Jpeg, Тип изображения.Tiff, Тип изображения.Emf.
 
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
 
-##  to_image(image_file, jpeg_quality) {#str-int}
-Создает изображение диаграммы и сохраняет его в файл в формате Jpeg.
+##  to_image(self, image_file, jpeg_quality) {#str-int}
+Создает изображение диаграммы и сохраняет его в файле в формате Jpeg.
 
 
 
 ```python
+
 def to_image(self, image_file, jpeg_quality):
     ...
 ```
@@ -74,14 +77,18 @@ def to_image(self, image_file, jpeg_quality):
 ###  Примечания
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
+ ПРИМЕЧАНИЕ: Этот метод уже устарел. Вместо этого
+используйте метод ToImage(string,ImageOrPrintOptions) с указанным качеством.
+ Этот метод будет удален через 12 месяцев, с марта 2025 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
-##  to_image(stream, jpeg_quality) {#io.RawIOBase-int}
-
-Создает изображение диаграммы и сохраняет его в поток в формате Jpeg.
+##  to_image(self, stream, jpeg_quality) {#io.RawIOBase-int}
+Создает изображение диаграммы и сохраняет его в потоке в формате Jpeg.
 
 
 
 ```python
+
 def to_image(self, stream, jpeg_quality):
     ...
 ```
@@ -95,13 +102,14 @@ def to_image(self, stream, jpeg_quality):
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
 
-##  to_image(stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
 Создает изображение диаграммы и сохраняет его в потоке в указанном формате.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -110,23 +118,24 @@ def to_image(self, stream, image_type):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | stream | io.RawIOBase | Выходной поток.|
-| image_type | aspose.cells.drawing.ImageType | Тип изображения, в котором нужно сохранить изображение.|
+| image_type | aspose.cells.drawing.ImageType | Тип изображения, в котором будет сохранено изображение.|
 ###  Примечания
 
 Тип изображения указывается с помощью `imageType`.
  Поддерживаются следующие типы:
-ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
+Тип изображения.Bmp, Тип изображения.Gif, Тип изображения.Png, Тип изображения.Jpeg, Тип изображения.Tiff, Тип изображения.Emf.
 
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Создает изображение диаграммы и сохраняет его в файл.
 Расширение имени файла определяет формат изображения.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -135,7 +144,7 @@ def to_image(self, image_file, options):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | image_file | str | Имя файла изображения с полным путем.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | Дополнительные возможности создания образа|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Дополнительные возможности создания изображений|
 ###  Примечания
 
 Формат изображения указывается с помощью расширения имени файла.
@@ -145,10 +154,10 @@ def to_image(self, image_file, options):
 
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
- Пожалуйста, обратитесь к[Список поддерживаемых диаграмм](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)Больше подробностей.
+ Пожалуйста, обратитесь к[Список поддерживаемых диаграмм](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) для более подробной информации.
 ###  Пример
 
-Сохраняет в Tiff с разрешением 300 dpi и сжатием CCITT4.
+Сохраняет в формате Tiff с разрешением 300 точек на дюйм и сжатием CCITT4.
 
 ```python
 from aspose.cells import Workbook
@@ -164,7 +173,7 @@ book.worksheets[0].charts[0].to_image(r"chart.Tiff", options)
 ```
 
 
-Сохраняет в Jpeg с разрешением 300 dpi и качеством изображения 80.
+Сохраняет в формате Jpeg с разрешением 300 точек на дюйм и качеством изображения 80.
 
 ```python
 from aspose.cells import Workbook
@@ -180,12 +189,13 @@ book.worksheets[0].charts[0].to_image(r"chart.Jpeg", options)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Создает изображение диаграммы и сохраняет его в потоке в указанном формате.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -194,18 +204,18 @@ def to_image(self, stream, options):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | stream | io.RawIOBase | Выходной поток.|
-| options | aspose.cells.rendering.ImageOrPrintOptions | Дополнительные возможности создания образа|
+| options | aspose.cells.rendering.ImageOrPrintOptions | Дополнительные возможности создания изображений|
 ###  Примечания
 
 Тип изображения указывается с помощью `options.ImageType`.
  Поддерживаются следующие форматы:
-ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
+Тип изображения.Bmp, Тип изображения.Gif, Тип изображения.Png, Тип изображения.Jpeg, Тип изображения.Tiff, Тип изображения.Emf.
 
 
 Если ширина или высота равны нулю или диаграмма не поддерживается в соответствии со списком поддерживаемых диаграмм, этот метод ничего не сделает.
- Пожалуйста, обратитесь к[Список поддерживаемых диаграмм](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)Больше подробностей.
+ Пожалуйста, обратитесь к[Список поддерживаемых диаграмм](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) для более подробной информации.
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

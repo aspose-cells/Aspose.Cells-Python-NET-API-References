@@ -3,13 +3,13 @@ title: formula fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 90
 url: /sv/aspose.cells.tables/listcolumn/formula/
 is_root: false
 ---
 ##  formula fastighet
 
-Hämtar och ställer in formula för listkolumnen.
+Hämtar och anger formula för listkolumnen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def formula(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListColumn](/cells/python-net/sv/aspose.cells.tables/listcolumn)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListColumn`](/cells/python-net/sv/aspose.cells.tables/listcolumn)

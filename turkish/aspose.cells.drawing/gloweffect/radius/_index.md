@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  radius mülk
 
-Parıltının radius'ini puan birimi cinsinden alır ve ayarlar.
+Parıltının radius değerini nokta biriminde alır ve ayarlar.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen GlowEffect.Size özelliğini kullanın.
- Bu mülk, Eylül 2016'dan bu yana 6 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen GlowEffect.Size özelliğini kullanın.
+ Bu özellik Eylül 2016'dan itibaren 6 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -28,5 +28,5 @@ def radius(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GlowEffect](/cells/python-net/tr/aspose.cells.drawing/gloweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GlowEffect`](/cells/python-net/tr/aspose.cells.drawing/gloweffect)

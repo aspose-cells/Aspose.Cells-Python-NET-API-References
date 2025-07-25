@@ -1,5 +1,5 @@
 ---
-title: width الملكية
+title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.charts/axisbins/width/
 is_root: false
 ---
-##  width الملكية
+##  width عقار
 
-الحصول على أو تحديد width من حاوية المحور
+يحصل على أو يعين width من سلة المحور
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [AxisBins](/cells/python-net/ar/aspose.cells.charts/axisbins)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`AxisBins`](/cells/python-net/ar/aspose.cells.charts/axisbins)

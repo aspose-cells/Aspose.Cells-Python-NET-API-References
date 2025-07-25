@@ -1,18 +1,18 @@
 ---
-title: is_xl2000 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_xl2000属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 240
 url: /zh/aspose.cells.externalconnections/webqueryconnection/is_xl2000/
 is_root: false
 ---
-## is_xl2000 属性
+## is_xl2000属性
 
-此标志的存在是为了向后兼容旧的现有电子表格文件，并已设置
-如果此 Web 查询在更新或等于的电子表格应用程序中刷新，则为真
+此标志是为了向后兼容旧的现有电子表格文件而存在的，并且设置为
+如果此 Web 查询在电子表格应用程序中刷新的时间大于或等于
 至 Microsoft Excel 2000。
-这是一个可以忽略的可选属性。
+这是一个可选属性，可以忽略。
 ### 定义：
 ```python
 @property
@@ -24,5 +24,5 @@ def is_xl2000(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [WebQueryConnection](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`WebQueryConnection`](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)

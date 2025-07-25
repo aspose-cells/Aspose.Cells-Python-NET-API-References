@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred fastighet
 
-Anger om detta namn refereras av andra formler.
+Anger om detta namn hänvisas till av andra formler.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

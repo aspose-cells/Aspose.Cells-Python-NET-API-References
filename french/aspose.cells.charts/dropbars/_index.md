@@ -17,7 +17,7 @@ Le type DropBars expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [border](/cells/python-net/fr/aspose.cells.charts/dropbars/border) | Obtient la frontière [`Line`](/cells/python-net/fr/aspose.cells.drawing/line).|
+| [border](/cells/python-net/fr/aspose.cells.charts/dropbars/border) | Obtient la bordure [`Line`](/cells/python-net/fr/aspose.cells.drawing/line).|
 | [area](/cells/python-net/fr/aspose.cells.charts/dropbars/area) | Obtient le [`DropBars.area`](/cells/python-net/fr/aspose.cells.charts/dropbars#area).|
 
 

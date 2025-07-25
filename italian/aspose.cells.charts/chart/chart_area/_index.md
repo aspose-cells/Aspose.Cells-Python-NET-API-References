@@ -1,9 +1,9 @@
 ---
 title: chart_area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 210
 url: /it/aspose.cells.charts/chart/chart_area/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def chart_area(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/it/aspose.cells.charts/chart)
-* classe [ChartArea](/cells/python-net/it/aspose.cells.charts/chartarea)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/it/aspose.cells.charts/chart)
+* classe [`ChartArea`](/cells/python-net/it/aspose.cells.charts/chartarea)

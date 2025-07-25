@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.markup/customxmlpartcollection/add/
 is_root: false
 ---
-##  add(data, shema_data) {#bytes-bytes}
-يضيف عنصرًا إلى المجموعة.
+##  add(self, data, shema_data) {#bytes-bytes}
+إضافة عنصر إلى المجموعة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, data, shema_data):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, data, shema_data):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| data | bytes | محتوى XML لجزء تخزين بيانات XML المخصص هذا.|
-| shema_data | bytes | مجموعة مخططات XML المقترنة بجزء XML المخصص هذا.|
+| data | bytes | محتوى XML الخاص بجزء تخزين بيانات XML المخصص هذا.|
+| shema_data | bytes | مجموعة مخططات XML المرتبطة بهذا الجزء المخصص من XML.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [CustomXmlPartCollection](/cells/python-net/ar/aspose.cells.markup/customxmlpartcollection)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`CustomXmlPartCollection`](/cells/python-net/ar/aspose.cells.markup/customxmlpartcollection)

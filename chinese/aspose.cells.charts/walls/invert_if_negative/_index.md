@@ -1,16 +1,16 @@
 ---
-title: invert_if_negative 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: invert_if_negative属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 190
 url: /zh/aspose.cells.charts/walls/invert_if_negative/
 is_root: false
 ---
-## invert_if_negative 属性
+## invert_if_negative属性
 
-如果该属性为真且图表点的值为负数，
-前景色和背景色将交换。
+如果该属性为真，且图表点的值为负数，
+前景色和背景色将会交换。
 
 ### 例子
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Walls](/cells/python-net/zh/aspose.cells.charts/walls)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Walls`](/cells/python-net/zh/aspose.cells.charts/walls)

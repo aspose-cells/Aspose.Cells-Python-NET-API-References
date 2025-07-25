@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRangeCollection](/cells/python-net/de/aspose.cells/protectedrangecollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRangeCollection`](/cells/python-net/de/aspose.cells/protectedrangecollection)

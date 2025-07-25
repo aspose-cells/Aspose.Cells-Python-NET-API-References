@@ -1,6 +1,6 @@
 ---
 title: indent_level недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 250
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  indent_level недвижимость
 
-Представляет уровень отступа для ячейки или диапазона. Может быть только целым числом от 0 до 250.
+Уровень отступа ячейки или диапазона. Может быть целым числом от 0 до 250.
 
 ###  Примечания
 
-Если для типа горизонтального выравнивания текста задано значение, отличное от левого или правого, уровень отступа будет
-обнуляться.
+Если тип горизонтального выравнивания текста установлен на значение, отличное от левого или правого, уровень отступа будет
+быть сброшен на ноль.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def indent_level(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Style](/cells/python-net/ru/aspose.cells/style)
+* модуль [`aspose.cells`](../../)
+* класс [`Style`](/cells/python-net/ru/aspose.cells/style)

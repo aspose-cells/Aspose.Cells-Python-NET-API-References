@@ -18,6 +18,6 @@ def conditional_style(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingResult](/cells/python-net/tr/aspose.cells/conditionalformattingresult)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingResult`](/cells/python-net/tr/aspose.cells/conditionalformattingresult)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

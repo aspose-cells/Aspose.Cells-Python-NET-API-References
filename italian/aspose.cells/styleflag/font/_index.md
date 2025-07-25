@@ -1,6 +1,6 @@
 ---
 title: font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font proprietà
 
-Verranno applicate le impostazioni dei caratteri.
+Verranno applicate le impostazioni del carattere.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def font(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

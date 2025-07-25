@@ -9,7 +9,7 @@ is_root: false
 ---
 ## control_data属性
 
-获取控制数据。
+获取控件的数据。
 
 ### 例子
 

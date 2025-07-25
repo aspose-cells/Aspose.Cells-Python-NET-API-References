@@ -3,7 +3,7 @@ title: line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 740
+weight: 750
 url: /fr/aspose.cells.drawing/checkbox/line/
 is_root: false
 ---

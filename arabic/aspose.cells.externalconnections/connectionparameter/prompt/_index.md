@@ -1,5 +1,5 @@
 ---
-title: prompt الملكية
+title: prompt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,11 +7,11 @@ weight: 50
 url: /ar/aspose.cells.externalconnections/connectionparameter/prompt/
 is_root: false
 ---
-##  prompt الملكية
+##  prompt عقار
 
- سلسلة مطالبة للمعلمة. يتم تقديمها إلى مستخدم جدول البيانات مع واجهة مستخدم الإدخال
- لتجميع قيمة المعلمة قبل تحديث البيانات الخارجية. تستخدم فقط عندما
-نوع المعلمة = prompt.
+ سلسلة مطالبات للمعلمة. تُعرض على مستخدم جدول البيانات مع واجهة المستخدم المُدخلة.
+ لجمع قيمة المعلمة قبل تحديث البيانات الخارجية. يُستخدم فقط عند
+المعلمة النوع = prompt.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def prompt(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ConnectionParameter](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ConnectionParameter`](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)

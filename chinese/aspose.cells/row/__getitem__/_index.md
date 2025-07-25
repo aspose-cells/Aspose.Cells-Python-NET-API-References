@@ -1,9 +1,9 @@
 ---
 title: Row 索引器
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 100
 url: /zh/aspose.cells/row/__getitem__/
 is_root: false
 ---
@@ -22,5 +22,5 @@ is_root: false
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Row](/cells/python-net/zh/aspose.cells/row)
+* 模块[`aspose.cells`](../../)
+* 类 [`Row`](/cells/python-net/zh/aspose.cells/row)

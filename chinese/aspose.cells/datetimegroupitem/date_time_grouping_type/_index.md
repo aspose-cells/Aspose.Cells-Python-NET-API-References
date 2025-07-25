@@ -1,15 +1,15 @@
 ---
-title: date_time_grouping_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: date_time_grouping_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/datetimegroupitem/date_time_grouping_type/
 is_root: false
 ---
-## date_time_grouping_type 属性
+## date_time_grouping_type属性
 
-获取和设置组类型。
+获取并设置组类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def date_time_grouping_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DateTimeGroupItem](/cells/python-net/zh/aspose.cells/datetimegroupitem)
-* 类 [DateTimeGroupingType](/cells/python-net/zh/aspose.cells/datetimegroupingtype)
+* 模块[`aspose.cells`](../../)
+* 类 [`DateTimeGroupItem`](/cells/python-net/zh/aspose.cells/datetimegroupitem)
+* 类 [`DateTimeGroupingType`](/cells/python-net/zh/aspose.cells/datetimegroupingtype)

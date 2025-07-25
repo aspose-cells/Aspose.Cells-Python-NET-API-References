@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border_ole_color mülk
 
-Arka planın ole rengini alır ve ayarlar.
+Arkaplanın ole rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def border_ole_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

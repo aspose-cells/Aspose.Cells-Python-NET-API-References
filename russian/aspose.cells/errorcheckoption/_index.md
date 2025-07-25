@@ -1,14 +1,14 @@
 ---
 title: ErrorCheckOption класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 530
 url: /ru/aspose.cells/errorcheckoption/
 is_root: false
 ---
 ##  ErrorCheckOption класс
-Настройка проверки ошибок применяется к определенным диапазонам.
+Настройка проверки ошибок применена к определенным диапазонам.
 
 
 
@@ -17,12 +17,12 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [is_error_check](/cells/python-net/ru/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.ErrorCheckType) | Проверяет, будет ли проверяться данный тип ошибки.|
-| [set_error_check](/cells/python-net/ru/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.ErrorCheckType-bool) | Устанавливает, будет ли проверяться данный тип ошибки.|
-| [get_count_of_range](/cells/python-net/ru/aspose.cells/errorcheckoption/get_count_of_range/#) | Получает количество диапазонов, на которые влияет этот параметр.|
-| [add_range](/cells/python-net/ru/aspose.cells/errorcheckoption/add_range/#aspose.cells.CellArea) | Добавляет один диапазон, на который влияет эта настройка.|
-| [get_range](/cells/python-net/ru/aspose.cells/errorcheckoption/get_range/#int) | Получает диапазон влияния этого параметра по заданному индексу.|
-| [remove_range](/cells/python-net/ru/aspose.cells/errorcheckoption/remove_range/#int) | Удаляет один диапазон по заданному индексу.|
+| [`is_error_check(self, error_check_type)`](/cells/python-net/ru/aspose.cells/errorcheckoption/is_error_check/#aspose.cells.errorchecktype) | Проверяет, будет ли проверяться заданный тип ошибки.|
+| [`set_error_check(self, error_check_type, is_check)`](/cells/python-net/ru/aspose.cells/errorcheckoption/set_error_check/#aspose.cells.errorchecktype-bool) | Устанавливает, будет ли проверяться заданный тип ошибки.|
+| [`get_count_of_range(self)`](/cells/python-net/ru/aspose.cells/errorcheckoption/get_count_of_range/#) | Возвращает количество диапазонов, на которые влияет этот параметр.|
+| [`add_range(self, ca)`](/cells/python-net/ru/aspose.cells/errorcheckoption/add_range/#aspose.cells.cellarea) | Добавляет один диапазон, на который влияет эта настройка.|
+| [`get_range(self, index)`](/cells/python-net/ru/aspose.cells/errorcheckoption/get_range/#int) | Получает диапазон влияния этого параметра по заданному индексу.|
+| [`remove_range(self, index)`](/cells/python-net/ru/aspose.cells/errorcheckoption/remove_range/#int) | Удаляет один диапазон по указанному индексу.|
 
 
 

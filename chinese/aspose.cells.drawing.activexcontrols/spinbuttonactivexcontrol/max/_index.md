@@ -1,15 +1,15 @@
 ---
-title: max 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: max属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 160
 url: /zh/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/max/
 is_root: false
 ---
-## max 属性
+## max属性
 
-获取和设置最大可接受值。
+获取并设置最大可接受值。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [SpinButtonActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`SpinButtonActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

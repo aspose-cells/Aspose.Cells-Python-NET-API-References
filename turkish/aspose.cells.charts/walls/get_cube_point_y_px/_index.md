@@ -7,13 +7,14 @@ weight: 40
 url: /tr/aspose.cells.charts/walls/get_cube_point_y_px/
 is_root: false
 ---
-##  get_cube_point_y_px(index) {#int}
-Chart.Calculate() yöntemi çağrıldıktan sonra walls küpünün tepe noktasının y koordinatını alır.
+##  get_cube_point_y_px(self, index) {#int}
+Chart.Calculate() metodunu çağırdıktan sonra duvar küpünün tepe noktasının y koordinatını alır.
 Duvar küpünün tepe noktası sayısı sekizdir.
 
 
 
 ```python
+
 def get_cube_point_y_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_cube_point_y_px(self, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

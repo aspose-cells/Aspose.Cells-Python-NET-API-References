@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/protection/copy/
 is_root: false
 ---
-##  copy(source) {#Protection}
+##  copy(self, source) {#aspose.cells.Protection}
 Information om kopieringsskydd.
 
 
 
 ```python
+
 def copy(self, source):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, source):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| source | [Protection](/cells/python-net/sv/aspose.cells/protection) |  |
+| source | [`Protection`](/cells/python-net/sv/aspose.cells/protection) |  |
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

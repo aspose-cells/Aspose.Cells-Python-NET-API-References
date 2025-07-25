@@ -17,23 +17,22 @@ Typen ChartPointCollection avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [count](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/count) | Får räkningen av diagrampunkten.|
+| [count](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/count) | Hämtar antalet diagrampunkter.|
 
 
 
 Hämtar elementet [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint) vid det angivna indexet i serien.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
-| [index] | Indexet för diagrampunkten i serien.|
+| [index] | Index för diagrampunkten i serien.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_enumerator](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Returnerar en uppräkning för hela [`ChartPointCollection`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection).|
-| [clear](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/clear/#) | Ta bort all inställning av diagrampunkterna.|
-| [remove_at](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/remove_at/#int) | Tar bort punkt på indexet för serien..|
+| [`clear(self)`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/clear/#) | Ta bort alla inställningar för diagrampunkterna.|
+| [`remove_at(self, index)`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection/remove_at/#int) | Tar bort punkten vid seriens index.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Se även
 * modul [`aspose.cells.charts`](..)
 * klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)
-* klass [`ChartPointCollection`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection)

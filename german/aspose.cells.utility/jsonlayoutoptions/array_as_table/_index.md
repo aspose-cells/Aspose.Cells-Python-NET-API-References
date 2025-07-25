@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  array_as_table Eigentum
 
-Verarbeitet Array als Tabelle.
+Verarbeitet Arrays als Tabelle.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  built_in_document_properties mülk
 
-Elektronik tablonun tüm yerleşik belge özelliklerini temsil eden bir [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
+E-tablonun tüm yerleşik belge özelliklerini temsil eden [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
 ###  Tanım:
 ```python
 @property
@@ -18,7 +18,7 @@ def built_in_document_properties(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.metadata](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
-* sınıf [WorkbookMetadata](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata)
+* modül [`aspose.cells.metadata`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* sınıf [`WorkbookMetadata`](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata)

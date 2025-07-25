@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  web_extension propriété
 
-Obtient et définit le composant d'extension Web associé à l'instance du volet des tâches
+Obtient et définit la partie d'extension Web associée à l'instance du volet des tâches
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def web_extension(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/fr/aspose.cells.webextensions/webextension)
-* classe [WebExtensionTaskPane](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/fr/aspose.cells.webextensions/webextension)
+* classe [`WebExtensionTaskPane`](/cells/python-net/fr/aspose.cells.webextensions/webextensiontaskpane)

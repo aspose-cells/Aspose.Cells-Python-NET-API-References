@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell mülk
 
-İşleme sırasında Cell nesnesini belirtir.
+İşleme sırasında Cell nesnesini gösterir.
 cell'in tüm özelliklerine erişilebilir.
 ###  Tanım:
 ```python
@@ -19,6 +19,6 @@ def cell(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
-* sınıf [DrawObject](/cells/python-net/tr/aspose.cells.rendering/drawobject)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)
+* sınıf [`DrawObject`](/cells/python-net/tr/aspose.cells.rendering/drawobject)

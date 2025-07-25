@@ -3,16 +3,17 @@ title: hide_column yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 550
+weight: 590
 url: /tr/aspose.cells/cells/hide_column/
 is_root: false
 ---
-##  hide_column {#int}
+##  hide_column(self, column) {#int}
 Bir sütunu gizler.
 
 
 
 ```python
+
 def hide_column(self, column):
     ...
 ```

@@ -3,13 +3,11 @@ title: sort_names mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 300
+weight: 340
 url: /tr/aspose.cells/pptxsaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names mülk
-
-Dosyayı kaydetmeden önce tanımlı adların sıralanıp sıralanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property

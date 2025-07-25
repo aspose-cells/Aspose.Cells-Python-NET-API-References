@@ -1,6 +1,6 @@
 ---
 title: legend_entry proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 320
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [LegendEntry](/cells/python-net/it/aspose.cells.charts/legendentry)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`LegendEntry`](/cells/python-net/it/aspose.cells.charts/legendentry)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

@@ -1,15 +1,15 @@
 ---
-title: show_drill الملكية
+title: show_drill عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 1020
 url: /ar/aspose.cells.pivot/pivottable/show_drill/
 is_root: false
 ---
-##  show_drill الملكية
+##  show_drill عقار
 
-الحصول على ما إذا كان سيتم عرض أزرار التوسيع / الطي.
+يحصل ويحدد ما إذا كان سيتم عرض أزرار التوسيع/الطي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_drill(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

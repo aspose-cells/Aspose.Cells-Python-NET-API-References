@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  refer_to_destination_sheet propriété
 
-Lors de la copie de la plage dans le même fichier et que le graphique se réfère à la feuille source,
-False signifie que la source de données du graphique copié ne sera pas modifiée.
-True signifie que la source de données du graphique copié fait référence à la feuille de destination.
+Lors de la copie de la plage dans le même fichier et que le graphique fait référence à la feuille source,
+Faux signifie que la source de données du graphique copié ne sera pas modifiée.
+Vrai signifie que la source de données du graphique copié fait référence à la feuille de destination.
 
 ###  Remarques
 
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

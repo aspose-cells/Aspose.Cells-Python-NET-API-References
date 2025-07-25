@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding mülk
 
-Varsayılan encoding'i alır ve ayarlar. Yalnızca csv dosyası için geçerlidir.
+Varsayılan encoding değerini alır ve ayarlar. Sadece csv dosyası için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

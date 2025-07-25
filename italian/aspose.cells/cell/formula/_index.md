@@ -1,20 +1,20 @@
 ---
 title: formula proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 490
+weight: 500
 url: /it/aspose.cells/cell/formula/
 is_root: false
 ---
 ##  formula proprietà
 
-Ottiene o imposta formula tra [`Cell`](/cells/python-net/it/aspose.cells/cell).
+Ottiene o imposta formula di [`Cell`](/cells/python-net/it/aspose.cells/cell).
 
 ###  Osservazioni
 
- Una stringa formula inizia sempre con un segno uguale (=).
-E per favore usa sempre la virgola(,) come delimitatore dei parametri, come "=SUM(A1, E1, H2)".
+ Una stringa formula inizia sempre con un segno di uguale (=).
+E si prega di utilizzare sempre la virgola (,) come delimitatore dei parametri, ad esempio "=SOMMA(A1, E1, H2)".
 
 ###  Esempio
 

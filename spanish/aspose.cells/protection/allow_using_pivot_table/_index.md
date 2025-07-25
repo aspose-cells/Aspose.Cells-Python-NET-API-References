@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_using_pivot_table propiedad
 
-Representa si el usuario puede manipular tablas dinámicas en una hoja de trabajo protegida.
+Representa si al usuario se le permite manipular tablas dinámicas en una hoja de trabajo protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

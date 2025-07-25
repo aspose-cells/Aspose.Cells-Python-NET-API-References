@@ -1,6 +1,6 @@
 ---
 title: fore_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color недвижимость
 
-Получает и задает передний цвет линии границы.
+Получает и задает цвет передней линии границы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoLineFormat](/cells/python-net/ru/aspose.cells.drawing/msolineformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoLineFormat`](/cells/python-net/ru/aspose.cells.drawing/msolineformat)

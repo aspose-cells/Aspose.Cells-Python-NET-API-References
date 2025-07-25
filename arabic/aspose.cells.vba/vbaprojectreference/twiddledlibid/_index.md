@@ -1,5 +1,5 @@
 ---
-title: twiddledlibid الملكية
+title: twiddledlibid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 80
 url: /ar/aspose.cells.vba/vbaprojectreference/twiddledlibid/
 is_root: false
 ---
-##  twiddledlibid الملكية
+##  twiddledlibid عقار
 
-الحصول على وتعيين الفهرس الملتوي للمرجع.
+يحصل على Libid المتغير للمرجع ويقوم بتعيينه.
 
 ###  ملاحظات
 
-فقط لمرجع التحكم.
+للمرجع التحكم فقط.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProjectReference](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProjectReference`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)

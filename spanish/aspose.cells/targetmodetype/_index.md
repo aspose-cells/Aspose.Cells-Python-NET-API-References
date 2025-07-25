@@ -3,12 +3,12 @@ title: TargetModeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2600
+weight: 2570
 url: /es/aspose.cells/targetmodetype/
 is_root: false
 ---
 ##  TargetModeType enumeración
-Representa el tipo de modo de destino.
+Representa el tipo de modo objetivo.
 
 
 

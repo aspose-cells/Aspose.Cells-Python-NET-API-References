@@ -1,15 +1,15 @@
 ---
-title: position الملكية
+title: position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 370
 url: /ar/aspose.cells.charts/datalabels/position/
 is_root: false
 ---
-##  position الملكية
+##  position عقار
 
-يمثل position لتسمية البيانات.
+يمثل position من ملصق البيانات.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
-* فئة [LabelPositionType](/cells/python-net/ar/aspose.cells.charts/labelpositiontype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* فئة [`LabelPositionType`](/cells/python-net/ar/aspose.cells.charts/labelpositiontype)

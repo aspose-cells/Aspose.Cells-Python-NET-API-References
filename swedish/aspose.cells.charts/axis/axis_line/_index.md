@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_line fastighet
 
-Får utseendet av en Axis.
+Får utseendet av en Axe.
 ###  Definition:
 ```python
 @property

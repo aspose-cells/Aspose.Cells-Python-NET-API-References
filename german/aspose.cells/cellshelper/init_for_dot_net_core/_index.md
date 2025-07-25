@@ -3,7 +3,7 @@ title: init_for_dot_net_core Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 160
 url: /de/aspose.cells/cellshelper/init_for_dot_net_core/
 is_root: false
 ---
@@ -17,7 +17,9 @@ Arbeitsmappe wb = neue Arbeitsmappe();
 
 
 ```python
-def init_for_dot_net_core(self):
+
+@staticmethod
+def init_for_dot_net_core():
     ...
 ```
 
@@ -26,5 +28,5 @@ def init_for_dot_net_core(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsHelper](/cells/python-net/de/aspose.cells/cellshelper)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsHelper`](/cells/python-net/de/aspose.cells/cellshelper)

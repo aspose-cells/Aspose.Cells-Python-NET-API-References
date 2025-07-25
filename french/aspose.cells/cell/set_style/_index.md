@@ -3,16 +3,17 @@ title: méthode set_style
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells/cell/set_style/
 is_root: false
 ---
-##  set_style {#aspose.cells.Style}
+##  set_style(self, style) {#aspose.cells.Style}
 Définit le style de cellule.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -23,15 +24,16 @@ def set_style(self, style):
 | style | [`Style`](/cells/python-net/fr/aspose.cells/style) | Le style de cellule.|
 ###  Remarques
 
-Si les paramètres de bordure sont modifiés, la bordure des cellules d'ajustement sera également mise à jour.
+Si les paramètres de bordure sont modifiés, la bordure des cellules ajustées sera également mise à jour.
 
-##  set_style {#aspose.cells.Style-bool}
+##  set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
 
-Appliquez la propriété modifiée de style à la cellule.
+Appliquez la propriété modifiée du style à la cellule.
 
 
 
 ```python
+
 def set_style(self, style, explicit_flag):
     ...
 ```
@@ -40,15 +42,16 @@ def set_style(self, style, explicit_flag):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | style | [`Style`](/cells/python-net/fr/aspose.cells/style) | Le style de cellule.|
-| explicit_flag | bool | Certes, il s'agit uniquement d'écraser le formatage explicitement défini.|
+| explicit_flag | bool | C'est vrai, il ne s'agit que d'écraser le formatage qui est explicitement défini.|
 
 
-##  set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
-Appliquez le style de cellule en fonction des indicateurs.
+##  set_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+Appliquer le style de cellule en fonction des indicateurs.
 
 
 
 ```python
+
 def set_style(self, style, flag):
     ...
 ```

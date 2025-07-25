@@ -3,7 +3,7 @@ title: font_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 30
 url: /fr/aspose.cells.drawing.texts/bullet/font_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [Bullet](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`Bullet`](/cells/python-net/fr/aspose.cells.drawing.texts/bullet)

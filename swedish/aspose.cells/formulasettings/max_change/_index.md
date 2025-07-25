@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_change fastighet
 
-Den maximala ändringen för att lösa en cirkulär referens.
+Den maximala förändringen för att lösa en cirkulär referens.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_change(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormulaSettings](/cells/python-net/sv/aspose.cells/formulasettings)
+* modul [`aspose.cells`](../../)
+* klass [`FormulaSettings`](/cells/python-net/sv/aspose.cells/formulasettings)

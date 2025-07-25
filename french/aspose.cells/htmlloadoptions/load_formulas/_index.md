@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_formulas propriété
 
-Indique si les formules sont importées si le fichier html d'origine contient des formules
+Indique si l'importation de formules si le fichier HTML d'origine contient des formules
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)

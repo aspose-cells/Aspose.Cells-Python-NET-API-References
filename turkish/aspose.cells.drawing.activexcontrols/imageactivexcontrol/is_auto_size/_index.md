@@ -21,5 +21,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

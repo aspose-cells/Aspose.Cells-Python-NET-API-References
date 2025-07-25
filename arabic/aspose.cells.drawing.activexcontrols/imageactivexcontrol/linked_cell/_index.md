@@ -1,5 +1,5 @@
 ---
-title: linked_cell الملكية
+title: linked_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 170
 url: /ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/linked_cell/
 is_root: false
 ---
-##  linked_cell الملكية
-
-الحصول على الخلية المرتبطة وتعيينها.
+##  linked_cell عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ImageActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ImageActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

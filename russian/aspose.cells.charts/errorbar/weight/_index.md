@@ -1,6 +1,6 @@
 ---
 title: weight недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight недвижимость
 
-Получает или задает [WeightType](/cells/python-net/ru/aspose.cells.drawing/weighttype) строки.
+Возвращает или задает [`WeightType`](/cells/python-net/ru/aspose.cells.drawing/weighttype) строки.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [WeightType](/cells/python-net/ru/aspose.cells.drawing/weighttype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`WeightType`](/cells/python-net/ru/aspose.cells.drawing/weighttype)

@@ -1,15 +1,15 @@
 ---
 title: window_left недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 560
 url: /ru/aspose.cells/workbooksettings/window_left/
 is_root: false
 ---
 ##  window_left недвижимость
 
-Расстояние от левого края клиентской области до левого края окна в точках.
+Расстояние от левого края клиентской области до левого края окна, в пунктах.
 ###  Определение:
 ```python
 @property

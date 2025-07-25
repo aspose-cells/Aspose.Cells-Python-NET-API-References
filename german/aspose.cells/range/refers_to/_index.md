@@ -3,13 +3,13 @@ title: refers_to Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 380
+weight: 480
 url: /de/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to Eigentum
 
-Ruft die Referenzen des Bereichs ab.
+Ruft den Bereich ab, auf den sich der Bereich bezieht.
 ###  Definition:
 ```python
 @property

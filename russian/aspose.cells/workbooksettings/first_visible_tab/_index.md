@@ -1,15 +1,15 @@
 ---
 title: first_visible_tab недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 210
 url: /ru/aspose.cells/workbooksettings/first_visible_tab/
 is_root: false
 ---
 ##  first_visible_tab недвижимость
 
-Получает или задает первую видимую вкладку листа.
+Возвращает или задает первую видимую вкладку рабочего листа.
 ###  Определение:
 ```python
 @property

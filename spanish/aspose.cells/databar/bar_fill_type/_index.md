@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_fill_type propiedad
 
-Obtiene o establece cómo se llena de color una barra de datos.
+Obtiene o establece cómo se rellena una barra de datos con color.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_fill_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataBar](/cells/python-net/es/aspose.cells/databar)
-* clase [DataBarFillType](/cells/python-net/es/aspose.cells/databarfilltype)
+* módulo [`aspose.cells`](../../)
+* clase [`DataBar`](/cells/python-net/es/aspose.cells/databar)
+* clase [`DataBarFillType`](/cells/python-net/es/aspose.cells/databarfilltype)

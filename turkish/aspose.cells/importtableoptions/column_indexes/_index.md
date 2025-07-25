@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

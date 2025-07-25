@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  first_visible_column_of_right_pane fastighet
 
-Hämtar och ställer in den första synliga kolumnen i den högra rutan.
+Hämtar och anger den första synliga kolumnen i den högra rutan.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def first_visible_column_of_right_pane(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PaneCollection](/cells/python-net/sv/aspose.cells/panecollection)
+* modul [`aspose.cells`](../../)
+* klass [`PaneCollection`](/cells/python-net/sv/aspose.cells/panecollection)

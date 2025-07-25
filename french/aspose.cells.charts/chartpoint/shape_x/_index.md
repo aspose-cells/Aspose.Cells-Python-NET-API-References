@@ -3,7 +3,7 @@ title: shape_x propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells.charts/chartpoint/shape_x/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def shape_x(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/fr/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/chartpoint)

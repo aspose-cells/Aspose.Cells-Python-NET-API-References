@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id Eigentum
 
-Ruft die id des benutzerdefinierten XML-Teils ab und legt sie fest.
+Ruft id des benutzerdefinierten XML-Teils ab und legt es fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [CustomXmlPart](/cells/python-net/de/aspose.cells.markup/customxmlpart)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`CustomXmlPart`](/cells/python-net/de/aspose.cells.markup/customxmlpart)

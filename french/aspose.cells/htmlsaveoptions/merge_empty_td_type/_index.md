@@ -3,13 +3,13 @@ title: merge_empty_td_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 570
+weight: 650
 url: /fr/aspose.cells/htmlsaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type propriété
 
-Indique si l'élément TD vide sera fusionné de la même manière que MS Excel lors de l'enregistrement d'un fichier Excel au format HTML.
+L'option permettant de fusionner des cellules vides contiguës (éléments td vides)
 La valeur par défaut est MergeEmptyTdType.Default.
 ###  Définition:
 ```python

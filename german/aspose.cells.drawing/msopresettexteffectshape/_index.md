@@ -3,7 +3,7 @@ title: MsoPresetTextEffectShape Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1040
+weight: 1030
 url: /de/aspose.cells.drawing/msopresettexteffectshape/
 is_root: false
 ---
@@ -19,38 +19,38 @@ Der Typ MsoPresetTextEffectShape macht die folgenden Member verfügbar:
 | :- | :- |
 | PLAIN_TEXT | Klartext|
 | STOP | Stoppen|
-| TRIANGLE_UP | DreieckUp|
-| TRIANGLE_DOWN | DreieckUnten|
+| TRIANGLE_UP | Dreieck nach oben|
+| TRIANGLE_DOWN | DreieckNachUnten|
 | CHEVRON_UP | ChevronUp|
 | CHEVRON_DOWN | ChevronDown|
 | RING_INSIDE | RingInside|
-| RING_OUTSIDE | RingOutside|
-| ARCH_UP_CURVE | ArchUpKurve|
-| ARCH_DOWN_CURVE |ArchDownCurve|
+| RING_OUTSIDE | RingAußen|
+| ARCH_UP_CURVE | BogenAufwärtsKurve|
+| ARCH_DOWN_CURVE | BogenAbwärtsKurve|
 | CIRCLE_CURVE | KreisKurve|
-| BUTTON_CURVE | ButtonKurve|
+| BUTTON_CURVE | ButtonCurve|
 | ARCH_UP_POUR | ArchUpPour|
 | ARCH_DOWN_POUR | ArchDownPour|
-| CIRCLE_POUR | Kreisgießen|
-| BUTTON_POUR | KnopfGießen|
-| CURVE_UP | Kurve nach oben|
-| CURVE_DOWN | KurveUnten|
+| CIRCLE_POUR | CirclePour|
+| BUTTON_POUR | ButtonPour|
+| CURVE_UP | CurveUp|
+| CURVE_DOWN | CurveDown|
 | CAN_UP | CanUp|
 | CAN_DOWN | CanDown|
-| WAVE1 | Welle1|
-| WAVE2 | Welle2|
+| WAVE1 | Welle 1|
+| WAVE2 | Welle 2|
 | DOUBLE_WAVE1 | DoubleWave1|
 | DOUBLE_WAVE2 | DoubleWave2|
 | INFLATE | Aufblasen|
 | DEFLATE | Luft ablassen|
-| INFLATE_BOTTOM | AufblasenUnten|
-| DEFLATE_BOTTOM | Unten entleeren|
-| INFLATE_TOP | Oben aufblasen|
-| DEFLATE_TOP | DeflationTop|
-| DEFLATE_INFLATE | DeflationInflate|
-| DEFLATE_INFLATE_DEFLATE | DeflationInflateDeflation|
+| INFLATE_BOTTOM | Boden aufblasen|
+| DEFLATE_BOTTOM | DeflateBottom|
+| INFLATE_TOP | AufblasenTop|
+| DEFLATE_TOP | DeflateTop|
+| DEFLATE_INFLATE |EntleerenAufblasen|
+| DEFLATE_INFLATE_DEFLATE | Luft ablassenAufblasenLuft ablassen|
 | FADE_RIGHT | FadeRight|
-| FADE_LEFT | VerblassenLinks|
+| FADE_LEFT | FadeLeft|
 | FADE_UP | FadeUp|
 | FADE_DOWN | FadeDown|
 | SLANT_UP | Schräg nach oben|
@@ -62,4 +62,4 @@ Der Typ MsoPresetTextEffectShape macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

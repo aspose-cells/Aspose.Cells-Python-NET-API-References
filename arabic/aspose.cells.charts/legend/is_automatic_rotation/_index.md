@@ -3,13 +3,13 @@ title: is_automatic_rotation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 250
 url: /ar/aspose.cells.charts/legend/is_automatic_rotation/
 is_root: false
 ---
 ##  is_automatic_rotation عقار
 
-يشير إلى ما إذا كان سيتم تدوير نص المخطط تلقائيًا.
+يشير إلى ما إذا كان يتم تدوير نص الرسم البياني تلقائيًا.
 ###  تعريف:
 ```python
 @property

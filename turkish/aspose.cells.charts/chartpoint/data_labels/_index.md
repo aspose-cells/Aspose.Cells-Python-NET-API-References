@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_labels mülk
 
-Noktayla ilişkili veri etiketini temsil eden bir DataLabels nesnesi döndürür.
+Bu grafik noktasıyla ilişkili veri etiketini temsil eden [`ChartPoint.data_labels`](/cells/python-net/tr/aspose.cells.charts/chartpoint#data_labels) nesnesini döndürür.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_labels(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
-* sınıf [DataLabels](/cells/python-net/tr/aspose.cells.charts/datalabels)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* sınıf [`DataLabels`](/cells/python-net/tr/aspose.cells.charts/datalabels)

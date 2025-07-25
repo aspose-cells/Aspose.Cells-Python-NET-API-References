@@ -1,5 +1,5 @@
 ---
-title: end_arrowhead_width الملكية
+title: end_arrowhead_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 140
 url: /ar/aspose.cells.drawing/lineformat/end_arrowhead_width/
 is_root: false
 ---
-##  end_arrowhead_width الملكية
+##  end_arrowhead_width عقار
 
-الحصول على نوع عرض سهم النهاية للخط وتعيينه.
+يحصل على نوع عرض السهم النهائي للخط ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [MsoArrowheadWidth](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`MsoArrowheadWidth`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)

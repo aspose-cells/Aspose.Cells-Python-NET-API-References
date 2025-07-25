@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.drawing/format3d/has_top_bevel_data/
 is_root: false
 ---
-##  has_top_bevel_data() {#}
-الإشارة إلى ما إذا كان الشكل يحتوي على بيانات شطبة عليا.
+##  has_top_bevel_data(self) {#}
+يشير إلى ما إذا كان الشكل يحتوي على بيانات الحافة العلوية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_top_bevel_data(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_top_bevel_data(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Format3D](/cells/python-net/ar/aspose.cells.drawing/format3d)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Format3D`](/cells/python-net/ar/aspose.cells.drawing/format3d)

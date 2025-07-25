@@ -1,6 +1,6 @@
 ---
 title: indent_level proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  indent_level proprietà
 
-Rappresenta il livello di rientro per la cella o l'intervallo. Può essere solo un numero intero compreso tra 0 e 250.
+Rappresenta il livello di rientro per la cella o l'intervallo. Può essere un numero intero compreso tra 0 e 250.
 
 ###  Osservazioni
 
-Se il tipo di allineamento orizzontale del testo è impostato su un valore diverso da sinistra o destra, il livello di rientro lo farà
+Se il tipo di allineamento orizzontale del testo è impostato su un valore diverso da sinistra o destra, il livello di rientro verrà
 essere azzerato.
 ###  Definizione:
 ```python
@@ -26,5 +26,5 @@ def indent_level(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

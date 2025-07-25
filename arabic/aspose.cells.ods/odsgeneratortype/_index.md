@@ -1,5 +1,5 @@
 ---
-title: العد OdsGeneratorType
+title: OdsGeneratorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 50
 url: /ar/aspose.cells.ods/odsgeneratortype/
 is_root: false
 ---
-##  العد OdsGeneratorType
-يمثل نوع المولدات من نوع ODS.
+##  OdsGeneratorType التعداد
+يمثل نوع المولد ODS.
 
 
 
-يكشف نوع OdsGeneratorType الأعضاء التالية:
+يكشف النوع OdsGeneratorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| LIBRE_OFFICE | مكتب ليبر|
-| OPEN_OFFICE | مكتب مفتوح|
+| LIBRE_OFFICE | ليبر أوفيس|
+| OPEN_OFFICE | أوبن أوفيس|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](..)
+* الوحدة [`aspose.cells.ods`](..)

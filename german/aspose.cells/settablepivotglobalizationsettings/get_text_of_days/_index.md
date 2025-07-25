@@ -3,11 +3,11 @@ title: get_text_of_days Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells/settablepivotglobalizationsettings/get_text_of_days/
 is_root: false
 ---
-##  get_text_of_days {#}
+##  get_text_of_days(self) {#}
 Ruft den lokalen Text von „Days“ ab.
 
 
@@ -17,6 +17,7 @@ Ruft den lokalen Text von „Days“ ab.
 
 
 ```python
+
 def get_text_of_days(self):
     ...
 ```

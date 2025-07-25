@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  string_value fastighet
 
-Returnerar eller ställer in värdet på den anpassade egenskapen.
+Returnerar eller anger värdet för den anpassade egenskapen.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egendomen CustomProperty.Value.
- Den här egenskapen kommer att tas bort 12 månader senare sedan juni 2010.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen CustomProperty.Value.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med juni 2010.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -28,5 +28,5 @@ def string_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [CustomProperty](/cells/python-net/sv/aspose.cells.properties/customproperty)
+* modul [`aspose.cells.properties`](../../)
+* klass [`CustomProperty`](/cells/python-net/sv/aspose.cells.properties/customproperty)

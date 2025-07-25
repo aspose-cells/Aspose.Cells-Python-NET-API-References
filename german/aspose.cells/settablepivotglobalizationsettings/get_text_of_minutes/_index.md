@@ -3,11 +3,11 @@ title: get_text_of_minutes Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 120
 url: /de/aspose.cells/settablepivotglobalizationsettings/get_text_of_minutes/
 is_root: false
 ---
-##  get_text_of_minutes {#}
+##  get_text_of_minutes(self) {#}
 Ruft den lokalen Text von „Minutes“ ab.
 
 
@@ -17,6 +17,7 @@ Ruft den lokalen Text von „Minutes“ ab.
 
 
 ```python
+
 def get_text_of_minutes(self):
     ...
 ```

@@ -3,7 +3,7 @@ title: tab_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 840
 url: /ar/aspose.cells/worksheet/tab_id/
 is_root: false
 ---

@@ -1,28 +1,28 @@
 ---
-title: العد GradientColorType
+title: GradientColorType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 840
 url: /ar/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
-##  العد GradientColorType
+##  GradientColorType التعداد
 يمثل نوع لون التدرج للتعبئة المحددة.
 
 
 
-يكشف نوع GradientColorType الأعضاء التالية:
+يكشف النوع GradientColorType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا يوجد لون متدرج|
-| ONE_COLOR | لون واحد متدرج|
-| PRESET_COLORS | ألوان متدرجة محددة مسبقًا|
-| TWO_COLORS | لونان متدرجان|
+| NONE | لا يوجد تدرج لوني|
+| ONE_COLOR | لون متدرج واحد|
+| PRESET_COLORS | ألوان التدرج المحددة مسبقًا|
+| TWO_COLORS | لونين متدرجين|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

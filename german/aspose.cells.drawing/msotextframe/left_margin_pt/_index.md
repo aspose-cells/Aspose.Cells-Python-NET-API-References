@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt Eigentum
 
-Gibt den linken Rand in Punkteinheiten zurück
+Gibt den linken Rand in der Einheit Punkte zurück
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoTextFrame](/cells/python-net/de/aspose.cells.drawing/msotextframe)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoTextFrame`](/cells/python-net/de/aspose.cells.drawing/msotextframe)

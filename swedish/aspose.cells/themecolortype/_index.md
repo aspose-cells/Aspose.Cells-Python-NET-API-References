@@ -3,12 +3,12 @@ title: ThemeColorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2670
+weight: 2640
 url: /sv/aspose.cells/themecolortype/
 is_root: false
 ---
 ##  ThemeColorType uppräkning
-Räknar upp temafärgstyperna.
+Räknar upp temafärgtyperna.
 
 
 
@@ -29,7 +29,7 @@ Typen ThemeColorType avslöjar följande medlemmar:
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR | Inre använd.<br/> En färg som används i temadefinitioner vilket betyder att använda stilens färg.|
+| STYLE_COLOR | Invändigt begagnat.<br/> En färg som används i temadefinitioner, vilket innebär att stilens färg ska användas.|
 
 
 

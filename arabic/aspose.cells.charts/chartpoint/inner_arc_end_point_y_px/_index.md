@@ -1,16 +1,16 @@
 ---
-title: inner_arc_end_point_y_px الملكية
+title: inner_arc_end_point_y_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px/
 is_root: false
 ---
-##  inner_arc_end_point_y_px الملكية
+##  inner_arc_end_point_y_px عقار
 
-الحصول على احداثي y لنقطة النهاية للقسم الدائري بعد استدعاء طريقة Chart.Calculate ().
-ينطبق على الرسم البياني الدائري المجوف.
+يحصل على إحداثيات y لنقطة النهاية لقسم الفطيرة بعد استدعاء طريقة Chart.Calculate().
+ينطبق على مخطط الكعكة.
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def inner_arc_end_point_y_px(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

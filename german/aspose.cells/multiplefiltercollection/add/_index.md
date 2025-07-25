@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
-##  add(filter) {#str}
+##  add(self, filter) {#str}
 Fügt einen Zeichenfolgenfilter hinzu.
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```
@@ -25,5 +26,5 @@ def add(self, filter):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [MultipleFilterCollection](/cells/python-net/de/aspose.cells/multiplefiltercollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`MultipleFilterCollection`](/cells/python-net/de/aspose.cells/multiplefiltercollection)

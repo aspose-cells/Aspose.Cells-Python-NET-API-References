@@ -1,6 +1,6 @@
 ---
 title: image_bytes недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_bytes недвижимость
 
-Указывает байты изображения визуализируемой диаграммы, формы при рендеринге.
+Указывает байты изображения визуализированной диаграммы, формы при визуализации.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_bytes(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [DrawObject](/cells/python-net/ru/aspose.cells.rendering/drawobject)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`DrawObject`](/cells/python-net/ru/aspose.cells.rendering/drawobject)

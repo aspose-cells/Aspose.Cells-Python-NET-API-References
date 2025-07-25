@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/sparklineaxisminmaxtype/
 is_root: false
 ---
 ##  SparklineAxisMinMaxType Aufzählung
-Stellt die Minimal- und Maximalwerttypen für die vertikale Sparkline-Achse dar.
+Stellt die minimalen und maximalen Werttypen für die vertikale Sparkline-Achse dar.
 
 
 
@@ -18,10 +18,10 @@ Der Typ SparklineAxisMinMaxType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | AUTO_INDIVIDUAL | Automatisch für jede Sparkline.|
-| GROUP | Gleiches gilt für alle Sparklines in der Gruppe.|
+| GROUP | Dasselbe gilt für alle Sparklines in der Gruppe.|
 | CUSTOM | Benutzerdefinierter Wert für Sparkline.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

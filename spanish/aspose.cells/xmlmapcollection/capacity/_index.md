@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlMapCollection](/cells/python-net/es/aspose.cells/xmlmapcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlMapCollection`](/cells/python-net/es/aspose.cells/xmlmapcollection)

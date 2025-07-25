@@ -1,6 +1,6 @@
 ---
 title: time_period proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 190
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period proprietà
 
- Il periodo di tempo applicabile in una regola di formattazione condizionale "data in cui si verifica...".
-Valido solo per type = timePeriod.
+ Periodo di tempo applicabile in una regola di formattazione condizionale "data di ricorrenza...".
+Valido solo per tipo = timePeriod.
 Il valore predefinito è TimePeriodType.Today.
 ###  Definizione:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
-* classe [TimePeriodType](/cells/python-net/it/aspose.cells/timeperiodtype)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)
+* classe [`TimePeriodType`](/cells/python-net/it/aspose.cells/timeperiodtype)

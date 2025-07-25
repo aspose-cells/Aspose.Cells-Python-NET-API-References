@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_checked mülk
 
-Radyo düğmesinin işaretlenip işaretlenmediğini gösterir.
+Radyo düğmesinin işaretli olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

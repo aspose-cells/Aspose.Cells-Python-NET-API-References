@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/fr/aspose.cells.drawing/gloweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/fr/aspose.cells.drawing/gloweffect)

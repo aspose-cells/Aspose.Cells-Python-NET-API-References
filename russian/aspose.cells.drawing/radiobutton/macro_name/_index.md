@@ -1,9 +1,9 @@
 ---
 title: macro_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ru/aspose.cells.drawing/radiobutton/macro_name/
 is_root: false
 ---

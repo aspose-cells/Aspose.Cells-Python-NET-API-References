@@ -3,12 +3,12 @@ title: TxtValueQuoteType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2700
+weight: 2670
 url: /tr/aspose.cells/txtvaluequotetype/
 is_root: false
 ---
 ##  TxtValueQuoteType numaralandırma
-Metin biçimindeki dosyalardaki değerler için tırnak işaretlerinin kullanılma türünü belirtir.
+Metin biçimli dosyalardaki değerler için tırnak işareti kullanma türünü belirtir.
 
 
 
@@ -17,10 +17,10 @@ TxtValueQuoteType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NORMAL | Tırnak işareti, ayırıcı karakter gibi özel karakterler içeren tüm değerler tırnak içine alınacaktır.<br/> Metin dosyasını dışa aktarmak için ms excel'in davranışıyla aynı.|
+| NORMAL | Tırnak işareti, ayırıcı karakter gibi özel karakter içeren tüm değerler tırnak içinde gösterilecektir.<br/>Aynı durum ms excel'in metin dosyasını dışa aktarma davranışı için de geçerlidir.|
 | ALWAYS | Tüm değerler her zaman alıntılanacaktır.|
-| MINIMUM | Yalnızca gerektiğinde değerleri alıntılayın. Örneğin bir değer tırnak işareti içeriyorsa ancak tırnak işareti bu değerin başında değilse bu değer tırnak içine alınmayacaktır.|
-| NEVER |Tüm değerler alıntılanmayacaktır. Bu türde dışa aktarılan metin dosyası, gerekli tırnak işaretlerinin bulunmaması nedeniyle doğru şekilde okunamayabilir.|
+| MINIMUM | Değerleri yalnızca gerektiğinde tırnak içine alın. Örneğin, bir değer tırnak işareti içeriyorsa ancak tırnak işareti bu değerin başında değilse, bu değer tırnak içine alınmayacaktır.|
+| NEVER | Tüm değerler tırnak içine alınmayacaktır. Bu türdeki dışa aktarılan metin dosyası, gerekli tırnak işaretlerinin bulunmaması nedeniyle doğru şekilde geri okunamayabilir.|
 
 
 

@@ -15,8 +15,8 @@ Indique comment le contrôle spécifié affichera les valeurs Null.
 
 | Paramètre| Description|
 | :- | :- |
-| Vrai| Le contrôle passera par les états pour les valeurs Oui, Non et Null. Le contrôle apparaît estompé (grisé) lorsque sa propriété Value est définie sur Null.|
-| FAUX|(Par défaut) La commande passera par les états pour les valeurs Oui et Non. Les valeurs nulles s'affichent comme si elles n'étaient pas des valeurs.|
+| Vrai|Le contrôle affiche les états Oui, Non et Null. Il apparaît grisé lorsque sa propriété Valeur est définie sur Null.|
+| FAUX| (Par défaut) Le contrôle alterne entre les états Oui et Non. Les valeurs nulles s'affichent comme si elles étaient des valeurs Non.|
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_triple_state(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ToggleButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ToggleButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

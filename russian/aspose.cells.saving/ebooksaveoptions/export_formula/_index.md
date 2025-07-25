@@ -1,16 +1,16 @@
 ---
 title: export_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 310
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_formula/
 is_root: false
 ---
 ##  export_formula недвижимость
 
-Указывает, экспортируется ли формула при сохранении файла в формате html. Значение по умолчанию верно.
-Если вы хотите импортировать выходной HTML-код в Excel, сохраните значение по умолчанию.
+Указывает, экспортируется ли формула при сохранении файла в формате HTML. Значение по умолчанию — true.
+Если вы хотите импортировать выходной HTML-код в Excel, оставьте значение по умолчанию.
 ###  Определение:
 ```python
 @property

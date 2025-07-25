@@ -3,7 +3,7 @@ title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 570
 url: /ar/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---

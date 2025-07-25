@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/twocolorgradient/__init__/
 is_root: false
 ---
-##  TwoColorGradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+##  \_\_init\_\_(self, renk1, renk2, degrade_stil_türü, değişken){#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
 
 
 
 
 ```python
+
 def __init__(self, color1, color2, gradient_style_type, variant):
     ...
 ```
@@ -28,5 +29,5 @@ def __init__(self, color1, color2, gradient_style_type, variant):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TwoColorGradient](/cells/python-net/tr/aspose.cells/twocolorgradient)
+* modül [`aspose.cells`](../../)
+* sınıf [`TwoColorGradient`](/cells/python-net/tr/aspose.cells/twocolorgradient)

@@ -1,27 +1,27 @@
 ---
-title: SelectionType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione SelectionType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /it/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
-##  SelectionType enumerazione
-Il tipo di selezione della casella di riepilogo.
+##  Enumerazione SelectionType
+Tipo di selezione della casella di riepilogo.
 
 
 
-Il tipo SelectionType espone i membri seguenti:
+Il tipo SelectionType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | SINGLE | Tipo di selezione singola.|
-| MULTI |Tipo di selezione multipla.|
+| MULTI | Tipo di selezione multipla.|
 | EXTEND | Estendi il tipo di selezione.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

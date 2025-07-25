@@ -7,12 +7,13 @@ weight: 290
 url: /zh/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
+##  set_boolean_value_string(self, bv, name) {#bool-str}
 设置单元格布尔值的显示字符串值
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```

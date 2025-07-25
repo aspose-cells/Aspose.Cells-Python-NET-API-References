@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sub_entry mülk
 
-Bir yer iminin Alt Girişi.
+Bir yer iminin alt girişi.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def sub_entry(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PdfBookmarkEntry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PdfBookmarkEntry`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)

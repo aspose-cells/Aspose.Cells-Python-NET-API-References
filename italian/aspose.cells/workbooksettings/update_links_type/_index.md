@@ -1,15 +1,15 @@
 ---
 title: update_links_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 520
 url: /it/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ##  update_links_type proprietà
 
-Ottiene e imposta la modalità di aggiornamento dei collegamenti esterni all'apertura della cartella di lavoro.
+Ottiene e imposta il modo in cui aggiorna i collegamenti esterni quando la cartella di lavoro viene aperta.
 ###  Definizione:
 ```python
 @property

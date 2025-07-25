@@ -3,7 +3,7 @@ title: capacity mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells.querytables/powerqueryformulaitemcollection/capacity/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.querytables](../../)
-* sınıf [PowerQueryFormulaItemCollection](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaitemcollection)
+* modül [`aspose.cells.querytables`](../../)
+* sınıf [`PowerQueryFormulaItemCollection`](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaitemcollection)

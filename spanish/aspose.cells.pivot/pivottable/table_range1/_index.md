@@ -3,13 +3,13 @@ title: table_range1 propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1010
+weight: 1160
 url: /es/aspose.cells.pivot/pivottable/table_range1/
 is_root: false
 ---
 ##  table_range1 propiedad
 
-Devuelve un objeto CellArea que representa el rango que contiene todo el informe de tabla dinámica,
+Devuelve un objeto CellArea que representa el rango que contiene todo el informe de tabla dinámica.
 pero no incluye campos de página. Solo lectura.
 ###  Definición:
 ```python
@@ -19,6 +19,6 @@ def table_range1(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

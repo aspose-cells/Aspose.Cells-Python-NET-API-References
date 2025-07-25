@@ -3,12 +3,12 @@ title: BuiltinStyleType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1870
+weight: 1770
 url: /es/aspose.cells/builtinstyletype/
 is_root: false
 ---
 ##  BuiltinStyleType enumeración
-Representa todos los tipos de estilos integrados.
+Representa todos los tipos de estilos incorporados.
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_position_type fastighet
 
-Hämtar och ställer in bakgrundens grafiska position.
+Hämtar och anger bakgrundsgrafikens position.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_position_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsPageBackground](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
-* klass [OdsPageBackgroundGraphicPositionType](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundgraphicpositiontype)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsPageBackground`](/cells/python-net/sv/aspose.cells.ods/odspagebackground)
+* klass [`OdsPageBackgroundGraphicPositionType`](/cells/python-net/sv/aspose.cells.ods/odspagebackgroundgraphicpositiontype)

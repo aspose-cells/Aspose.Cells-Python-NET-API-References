@@ -3,13 +3,13 @@ title: font fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 200
 url: /sv/aspose.cells.charts/legend/font/
 is_root: false
 ---
 ##  font fastighet
 
-Hämtar ett [`ChartFrame.font`](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt av det angivna ChartFrame-objektet.
+Hämtar ett [`ChartFrame.font`](/cells/python-net/sv/aspose.cells.charts/chartframe#font)-objekt från det angivna ChartFrame-objektet.
 ###  Definition:
 ```python
 @property

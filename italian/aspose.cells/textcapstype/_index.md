@@ -1,14 +1,14 @@
 ---
 title: Enumerazione TextCapsType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2620
+weight: 2590
 url: /it/aspose.cells/textcapstype/
 is_root: false
 ---
 ##  Enumerazione TextCapsType
-Questo tipo specifica i tipi di maiuscolo del testo.
+Questo tipo specifica i tipi di maiuscole del testo.
 
 
 
@@ -17,8 +17,8 @@ Il tipo TextCapsType espone i seguenti membri:
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| NONE | Nessuno maiuscolo|
-| ALL | Applica tutto maiuscolo sul testo.|
+| NONE | Nessuna maiuscola|
+| ALL | Scrivi tutto in maiuscolo sul testo.|
 | SMALL | Applicare il maiuscoletto al testo.|
 
 

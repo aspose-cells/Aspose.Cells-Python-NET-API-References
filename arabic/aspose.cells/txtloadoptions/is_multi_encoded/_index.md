@@ -3,13 +3,13 @@ title: is_multi_encoded عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ar/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---
 ##  is_multi_encoded عقار
 
-صحيح يعني أن الملف يحتوي على عدة ترميز.
+صحيح يعني أن الملف يحتوي على عدة ترميزات.
 ###  تعريف:
 ```python
 @property

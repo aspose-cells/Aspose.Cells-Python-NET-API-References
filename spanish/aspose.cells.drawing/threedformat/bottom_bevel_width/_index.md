@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_bevel_width propiedad
 
-Obtiene y establece el ancho del bisel inferior o hasta qué punto se aplica en la forma.
+Obtiene y establece el ancho del bisel inferior, o qué tan lejos en la forma se aplica.
 En unidad de Puntos.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def bottom_bevel_width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  default_edit_language fastighet
 
-Hämtar eller ställer in standardspråk för redigering.
+Hämtar eller ställer in standardredigeringsspråk.
 
 ###  Anmärkningar
 
-Det kan visa/rendera olika layouter för textstycke när olika redigeringsspråk är inställda.
-Standard är [DefaultEditLanguage.AUTO](/cells/python-net/sv/aspose.cells/defaulteditlanguage#AUTO).
+Den kan visa/rendera olika layouter för textstycken när olika redigeringsspråk är inställda.
+Standardvärdet är [`DefaultEditLanguage.AUTO`](/cells/python-net/sv/aspose.cells/defaulteditlanguage#AUTO).
 ###  Definition:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions)
-* klass [DefaultEditLanguage](/cells/python-net/sv/aspose.cells/defaulteditlanguage)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions)
+* klass [`DefaultEditLanguage`](/cells/python-net/sv/aspose.cells/defaulteditlanguage)

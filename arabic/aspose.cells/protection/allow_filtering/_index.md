@@ -1,5 +1,5 @@
 ---
-title: allow_filtering الملكية
+title: allow_filtering عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 110
 url: /ar/aspose.cells/protection/allow_filtering/
 is_root: false
 ---
-##  allow_filtering الملكية
+##  allow_filtering عقار
 
-يمثل ما إذا كان يُسمح للمستخدم باستخدام عامل التصفية التلقائي الذي تم إنشاؤه قبل حماية الورقة.
+يمثل ما إذا كان يُسمح للمستخدم بالاستفادة من مرشح تلقائي تم إنشاؤه قبل حماية الورقة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_filtering(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

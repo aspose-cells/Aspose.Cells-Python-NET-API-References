@@ -1,5 +1,5 @@
 ---
-title: transparency الملكية
+title: transparency عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells/cellscolor/transparency/
 is_root: false
 ---
-##  transparency الملكية
+##  transparency عقار
 
-الحصول على transparency وتحديده كقيمة من 0.0 (معتم) إلى 1.0 (مسح).
+يحصل على transparency ويعينه كقيمة من 0.0 (غير شفاف) إلى 1.0 (واضح).
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)

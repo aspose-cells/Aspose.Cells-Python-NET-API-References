@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/scenariocollection/add/
 is_root: false
 ---
-##  add(name) {#str}
+##  add(self, name) {#str}
 Lägger till ett scenario.
 
 
@@ -17,6 +17,7 @@ Indexet i listan över scenarier.
 
 
 ```python
+
 def add(self, name):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Namnet på scenariot.|
+| name | str | Scenariots namn.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioCollection](/cells/python-net/sv/aspose.cells/scenariocollection)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioCollection`](/cells/python-net/sv/aspose.cells/scenariocollection)

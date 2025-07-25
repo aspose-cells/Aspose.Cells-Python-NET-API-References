@@ -3,7 +3,7 @@ title: TextStrikeType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2660
+weight: 2630
 url: /es/aspose.cells/textstriketype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo TextStrikeType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| SINGLE | Un solo tachado aplicado al texto.|
-| DOUBLE | Un doble tachado aplicado al texto.|
-| NONE | No se aplica ninguna tacha al texto.|
+| SINGLE | Un solo tachado aplicado sobre el texto.|
+| DOUBLE | Un doble tachado aplicado sobre el texto.<br/> Sólo funciona para el texto de las formas o gráficos.|
+| NONE | No se aplica ninguna tachadura al texto.|
 
 
 

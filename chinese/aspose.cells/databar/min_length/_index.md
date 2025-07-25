@@ -1,13 +1,13 @@
 ---
-title: min_length 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: min_length属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 130
 url: /zh/aspose.cells/databar/min_length/
 is_root: false
 ---
-## min_length 属性
+## min_length属性
 
 表示数据条的最小长度。
 ### 定义：
@@ -21,5 +21,5 @@ def min_length(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DataBar](/cells/python-net/zh/aspose.cells/databar)
+* 模块[`aspose.cells`](../../)
+* 类 [`DataBar`](/cells/python-net/zh/aspose.cells/databar)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_vertically fastighet
 
-Representerar om arket skrivs ut centrerat vertikalt.
+Representerar om arket är utskrivet centrerat vertikalt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_vertically(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

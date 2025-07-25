@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_id mülk
 
-Bir simge kümesindeki bir simgenin Sıfır tabanlı dizinini alır ve ayarlar.
+Bir simge kümesindeki simgenin sıfır tabanlı dizinini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def icon_id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IconFilter](/cells/python-net/tr/aspose.cells/iconfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`IconFilter`](/cells/python-net/tr/aspose.cells/iconfilter)

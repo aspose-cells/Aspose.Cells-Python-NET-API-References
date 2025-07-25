@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Fügt der Sammlung einen Kommentar hinzu.
 
 
 ###  Kehrt zurück
 
-[Comment](/cells/python-net/de/aspose.cells/comment) Objektindex.
+[`Comment`](/cells/python-net/de/aspose.cells/comment) Objektindex.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Fügt der Sammlung einen Kommentar hinzu.
 
 
 ###  Kehrt zurück
 
-[Comment](/cells/python-net/de/aspose.cells/comment) Objektindex.
+[`Comment`](/cells/python-net/de/aspose.cells/comment) Objektindex.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Comment](/cells/python-net/de/aspose.cells/comment)
-* Klasse [CommentCollection](/cells/python-net/de/aspose.cells/commentcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Comment`](/cells/python-net/de/aspose.cells/comment)
+* Klasse [`CommentCollection`](/cells/python-net/de/aspose.cells/commentcollection)

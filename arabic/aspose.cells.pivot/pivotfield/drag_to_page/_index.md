@@ -3,14 +3,14 @@ title: drag_to_page عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 390
 url: /ar/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---
 ##  drag_to_page عقار
 
-يشير إلى ما إذا كان يمكن سحب الحقل المحدد إلى موضع الصفحة.
-القيمة الافتراضية هي الحقيقية.
+يشير إلى ما إذا كان من الممكن سحب الحقل المحدد إلى موضع الصفحة.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  position mülk
 
-Durağın position numarası.
+Durağın position'i.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GradientStop](/cells/python-net/tr/aspose.cells.drawing/gradientstop)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GradientStop`](/cells/python-net/tr/aspose.cells.drawing/gradientstop)

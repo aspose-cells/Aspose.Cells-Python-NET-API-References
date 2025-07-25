@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_reference propiedad
 
-Cell referencia que indica qué valor de celda usar para el parámetro de consulta. Se usa solo cuando el tipo de parámetro es celda.
+Referencia Cell que indica el valor de la celda que se usará para el parámetro de consulta. Solo se usa cuando el parámetroType es celda.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_reference(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [ConnectionParameter](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`ConnectionParameter`](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)

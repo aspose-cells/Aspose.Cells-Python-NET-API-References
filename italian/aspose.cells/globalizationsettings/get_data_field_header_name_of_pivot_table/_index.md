@@ -1,22 +1,23 @@
 ---
-title: metodo get_data_field_header_name_of_pivot_table
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_data_field_header_name_of_pivot_table
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
 url: /it/aspose.cells/globalizationsettings/get_data_field_header_name_of_pivot_table/
 is_root: false
 ---
-##  get_data_field_header_name_of_pivot_table() {#}
-Ottiene il nome dell'intestazione del campo dell'area del valore nella tabella pivot.
+##  get_data_field_header_name_of_pivot_table(self) {#}
+Ottiene il nome dell'intestazione del campo dell'area valore nella tabella pivot.
 
 
 ###  ritorna
 
-Il nome del nome dell'intestazione del campo dati
+Nome dell'intestazione del campo dati
 
 
 ```python
+
 def get_data_field_header_name_of_pivot_table(self):
     ...
 ```
@@ -25,11 +26,11 @@ def get_data_field_header_name_of_pivot_table(self):
 ###  Osservazioni
 
 NOTA: questo membro è ora obsoleto. Invece,
-utilizzare il metodo GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Questa proprietà verrà rimossa 12 mesi dopo da dicembre 2022.
-Aspose si scusa per gli eventuali disagi causati.
+si prega di utilizzare il metodo PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da dicembre 2022.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [GlobalizationSettings](/cells/python-net/it/aspose.cells/globalizationsettings)
+* modulo [`aspose.cells`](../../)
+* classe [`GlobalizationSettings`](/cells/python-net/it/aspose.cells/globalizationsettings)

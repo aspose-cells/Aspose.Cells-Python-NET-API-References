@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  subtotal_function fastighet
 
-Subtotalfunktionen.
+Delsummefunktionen.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def subtotal_function(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConsolidationFunction](/cells/python-net/sv/aspose.cells/consolidationfunction)
-* klass [SubtotalSetting](/cells/python-net/sv/aspose.cells/subtotalsetting)
+* modul [`aspose.cells`](../../)
+* klass [`ConsolidationFunction`](/cells/python-net/sv/aspose.cells/consolidationfunction)
+* klass [`SubtotalSetting`](/cells/python-net/sv/aspose.cells/subtotalsetting)

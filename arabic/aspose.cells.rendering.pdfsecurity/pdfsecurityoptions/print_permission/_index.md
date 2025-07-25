@@ -14,7 +14,7 @@ is_root: false
 ###  ملاحظات
 
  ربما ليس على أعلى مستوى من الجودة،
-اعتمادًا على ما إذا تم تعيين [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) أيضًا.
+اعتمادًا على ما إذا كان تم تعيين [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission) أيضًا.
 ###  تعريف:
 ```python
 @property

@@ -1,14 +1,14 @@
 ---
-title: add_word_art méthode
+title: méthode add_word_art
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 380
 url: /fr/aspose.cells.drawing/shapecollection/add_word_art/
 is_root: false
 ---
-##  add_word_art(style, text, upper_left_row, top, upper_left_column, left, height, width) {#PresetWordArtStyle-str-int-int-int-int-int-int}
-Ajoute un WordArt prédéfini depuis Excel 2007.s
+##  add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.PresetWordArtStyle-str-int-int-int-int-int-int}
+Ajoute des éléments WordArt prédéfinis depuis Excel 2007.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajoute un WordArt prédéfini depuis Excel 2007.s
 
 
 ```python
+
 def add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,11 +25,11 @@ def add_word_art(self, style, text, upper_left_row, top, upper_left_column, left
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| style | [PresetWordArtStyle](/cells/python-net/fr/aspose.cells.drawing/presetwordartstyle) | Le style WordArt prédéfini.|
+| style | [`PresetWordArtStyle`](/cells/python-net/fr/aspose.cells.drawing/presetwordartstyle) | Le style WordArt prédéfini.|
 | text | str | Le texte.|
-| upper_left_row | int | Index de ligne en haut à gauche.|
-| top | int | Représente le décalage vertical de la forme par rapport à sa ligne de gauche, en unité de pixel.|
-| upper_left_column | int | Index de la colonne en haut à gauche.|
+| upper_left_row | int | Index de la rangée supérieure gauche.|
+| top | int | Représente le décalage vertical de la forme par rapport à sa rangée de gauche, en unité de pixel.|
+| upper_left_column | int | Index de la colonne supérieure gauche.|
 | left | int |Représente le décalage horizontal de la forme par rapport à sa colonne de gauche, en unité de pixel.|
 | height | int | Représente la hauteur de la forme, en unité de pixel.|
 | width | int | Représente la largeur de la forme, en unité de pixel.|
@@ -46,5 +47,5 @@ wordArt2 = shapes.add_word_art(PresetWordArtStyle.WORD_ART_STYLE1, "WordArt", 3,
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

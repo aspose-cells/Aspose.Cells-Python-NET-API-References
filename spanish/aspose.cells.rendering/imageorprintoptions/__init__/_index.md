@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.rendering/imageorprintoptions/__init__/
 is_root: false
 ---
-##  ImageOrPrintOptions() {#}
-Construye una nueva instancia de ImageOrPrintOptions
+##  \_\_init\_\_(yo mismo){#}
+Director.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [ImageOrPrintOptions](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`ImageOrPrintOptions`](/cells/python-net/es/aspose.cells.rendering/imageorprintoptions)

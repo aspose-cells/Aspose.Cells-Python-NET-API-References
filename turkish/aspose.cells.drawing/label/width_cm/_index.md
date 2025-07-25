@@ -3,13 +3,13 @@ title: width_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /tr/aspose.cells.drawing/label/width_cm/
 is_root: false
 ---
 ##  width_cm mülk
 
-Şeklin genişliğini santimetre cinsinden temsil eder.
+Şeklin genişliğini santimetre cinsinden gösterir.
 
 ###  Örnek
 

@@ -1,6 +1,6 @@
 ---
 title: is_checked недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 550
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_checked недвижимость
 
-Указывает, установлен ли переключатель или нет.
+Указывает, отмечен ли переключатель или нет.
 ###  Определение:
 ```python
 @property

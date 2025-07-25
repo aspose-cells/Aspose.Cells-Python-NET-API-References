@@ -13,10 +13,10 @@ Obtiene el tipo de conjunto de formato de relleno.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice la propiedad FillFormat.FillType en su lugar.
- Esta propiedad se eliminará 12 meses después desde julio de 2016.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad FillFormat.FillType en su lugar.
+ Esta propiedad será eliminada 12 meses después desde julio de 2016.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
-* clase [FormatSetType](/cells/python-net/es/aspose.cells.drawing/formatsettype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* clase [`FormatSetType`](/cells/python-net/es/aspose.cells.drawing/formatsettype)

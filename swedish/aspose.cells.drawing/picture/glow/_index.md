@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  glow fastighet
 
-Representerar ett [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekt för diagramelementet eller formen.
+Representerar ett [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)-objekt som anger glow-effekten för diagramelementet eller formen.
 
 ###  Exempel
 

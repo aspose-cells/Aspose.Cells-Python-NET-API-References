@@ -13,7 +13,7 @@ Bir stilin ön plan rengini alır veya ayarlar.
 
 ###  Notlar
 
-Color.Empty döndürülürse, renk ayarı olmadığı anlamına gelir.
+Color.Empty döndürülürse renk ayarı yapılmamış demektir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def foreground_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

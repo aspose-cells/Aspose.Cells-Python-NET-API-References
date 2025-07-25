@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width Eigentum
 
-Ruft den Standardwert width für diese Aufgabenbereichsinstanz ab und legt ihn fest.
+Ruft den Standardwert width für diese Taskpane-Instanz ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionTaskPane](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionTaskPane`](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)

@@ -1,6 +1,6 @@
 ---
 title: dash_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [MsoLineDashStyle](/cells/python-net/it/aspose.cells.drawing/msolinedashstyle)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`MsoLineDashStyle`](/cells/python-net/it/aspose.cells.drawing/msolinedashstyle)

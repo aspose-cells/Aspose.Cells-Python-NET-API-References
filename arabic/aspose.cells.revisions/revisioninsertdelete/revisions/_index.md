@@ -1,5 +1,5 @@
 ---
-title: revisions الملكية
+title: revisions عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 60
 url: /ar/aspose.cells.revisions/revisioninsertdelete/revisions/
 is_root: false
 ---
-##  revisions الملكية
+##  revisions عقار
 
 يحصل على قائمة المراجعة من خلال هذه العملية.
 ###  تعريف:
@@ -18,6 +18,6 @@ def revisions(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionCollection](/cells/python-net/ar/aspose.cells.revisions/revisioncollection)
-* فئة [RevisionInsertDelete](/cells/python-net/ar/aspose.cells.revisions/revisioninsertdelete)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionCollection`](/cells/python-net/ar/aspose.cells.revisions/revisioncollection)
+* فئة [`RevisionInsertDelete`](/cells/python-net/ar/aspose.cells.revisions/revisioninsertdelete)

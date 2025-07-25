@@ -3,16 +3,17 @@ title: méthode set_text_of_row_labels
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 310
 url: /fr/aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/
 is_root: false
 ---
-##  set_text_of_row_labels {#str}
+##  set_text_of_row_labels(self, text) {#str}
 Définit le texte de l'étiquette « Étiquettes de ligne » dans le tableau croisé dynamique.
 
 
 
 ```python
+
 def set_text_of_row_labels(self, text):
     ...
 ```

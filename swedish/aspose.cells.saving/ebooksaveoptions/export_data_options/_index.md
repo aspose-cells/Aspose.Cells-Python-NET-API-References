@@ -3,13 +3,13 @@ title: export_data_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 280
 url: /sv/aspose.cells.saving/ebooksaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options fastighet
 
-Indikerar regeln för export av html-fildata. Standardvärdet är Alla.
+Anger regeln för export av html-fildata. Standardvärdet är Alla.
 ###  Definition:
 ```python
 @property

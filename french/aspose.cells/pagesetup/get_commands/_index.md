@@ -1,5 +1,5 @@
 ---
-title: get_commands méthode
+title: méthode get_commands
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /fr/aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
-##  get_commands(header_footer_script) {#str}
+##  get_commands(self, header_footer_script) {#str}
 Obtient toutes les commandes d'en-tête ou de pied de page.
 
 
@@ -17,6 +17,7 @@ Renvoie toutes les commandes d'en-tête ou de pied de page.
 
 
 ```python
+
 def get_commands(self, header_footer_script):
     ...
 ```
@@ -29,5 +30,5 @@ def get_commands(self, header_footer_script):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

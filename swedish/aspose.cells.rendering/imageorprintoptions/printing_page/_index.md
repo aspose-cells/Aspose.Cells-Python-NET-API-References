@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  printing_page fastighet
 
-Indikerar vilka sidor som inte kommer att skrivas ut.
+Anger vilka sidor som inte kommer att skrivas ut.
 ###  Definition:
 ```python
 @property

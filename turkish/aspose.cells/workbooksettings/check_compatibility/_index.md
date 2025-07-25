@@ -14,7 +14,7 @@ is_root: false
 ###  Notlar
 
 Varsayılan değer doğrudur.
-Yalnızca Excel97-2003 xls veya xlt dosyaları için.
+Sadece Excel97-2003 xls veya xlt dosyaları için.
 ###  Tanım:
 ```python
 @property

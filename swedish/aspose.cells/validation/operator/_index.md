@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator fastighet
 
-Representerar operator för datavalidering.
+Representerar operator för datavalideringen.
 ###  Definition:
 ```python
 @property

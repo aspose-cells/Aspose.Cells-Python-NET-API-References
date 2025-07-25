@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked Eigentum
 
-Gibt an, ob die Slicer-Form gesperrt ist.
+Gibt an, ob die Slicerform gesperrt ist.
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

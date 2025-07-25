@@ -3,18 +3,18 @@ title: object_source_full_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 980
 url: /zh/aspose.cells.drawing/oleobject/object_source_full_name/
 is_root: false
 ---
 ## object_source_full_name属性
 
-返回链接 OLE 对象的源文件的源全名。
+返回链接的 OLE 对象的源文件的源全名。
 
-### 评论
+### 注意事项
 
-仅当文件类型为OleFileType.Unknown时支持设置源全名。
-如wav文件，avi文件..等。
+仅支持在文件类型为OleFileType.Unknown时设置源全名。
+例如 wav 文件、avi 文件等。
 ### 定义：
 ```python
 @property

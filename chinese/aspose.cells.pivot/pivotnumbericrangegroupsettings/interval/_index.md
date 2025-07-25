@@ -9,7 +9,7 @@ is_root: false
 ---
 ## interval属性
 
-获取群组的interval。
+获取该组的 interval。
 ### 定义：
 ```python
 @property

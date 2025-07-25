@@ -1,6 +1,6 @@
 ---
 title: update_all_points proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  update_all_points proprietà
 
- Indica se aggiornare tutti i punti dati durante l'esecuzione del calcolo del grafico. Predefinito: falso.
-Quando desideri ottenere il valore specifico per ciascun punto dati nel grafico, impostalo su true.
-Se questo parametro è impostato su True, i nuovi punti dati potrebbero essere generati quando viene calcolato il grafico. Ciò potrebbe rendere il file Excel più grande.
+ Aggiornare tutti i punti dati durante il calcolo del grafico. Predefinito: Falso.
+Per ottenere il valore specifico di ogni punto dati nel grafico, impostarlo su true.
+Se questo parametro è impostato su Vero, i nuovi punti dati potrebbero essere generati durante il calcolo del grafico. Questo potrebbe aumentare le dimensioni del file Excel.
 ###  Definizione:
 ```python
 @property

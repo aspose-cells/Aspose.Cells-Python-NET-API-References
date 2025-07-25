@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  backward propiedad
 
- Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que la línea de tendencia se extiende backward.
+ Devuelve o establece el número de períodos (o unidades en un gráfico de dispersión) que extiende la línea de tendencia backward.
 El número de periodos debe ser mayor o igual a cero.
-Si el tipo de gráfico es columna, el número de períodos debe estar entre 0 y 0,5
+Si el tipo de gráfico es de columna, el número de períodos debe estar entre 0 y 0,5
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def backward(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

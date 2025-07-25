@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_axis_unit_name/
 is_root: false
 ---
-##  get_axis_unit_name(type) {#DisplayUnitType}
+##  get_axis_unit_name(self, type) {#aspose.cells.charts.DisplayUnitType}
 Ruft den Namen der Achseneinheit ab.
 
 
@@ -17,6 +17,7 @@ Ruft den Namen der Achseneinheit ab.
 
 
 ```python
+
 def get_axis_unit_name(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_axis_unit_name(self, type):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [DisplayUnitType](/cells/python-net/de/aspose.cells.charts/displayunittype) |  |
+| type | [`DisplayUnitType`](/cells/python-net/de/aspose.cells.charts/displayunittype) |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

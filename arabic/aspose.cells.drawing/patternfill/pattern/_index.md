@@ -1,5 +1,5 @@
 ---
-title: pattern الملكية
+title: pattern عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.drawing/patternfill/pattern/
 is_root: false
 ---
-##  pattern الملكية
+##  pattern عقار
 
-الحصول على او تحديد نوع التعبئة pattern
+يحصل على نوع التعبئة pattern أو يعينه
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillPattern](/cells/python-net/ar/aspose.cells.drawing/fillpattern)
-* فئة [PatternFill](/cells/python-net/ar/aspose.cells.drawing/patternfill)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillPattern`](/cells/python-net/ar/aspose.cells.drawing/fillpattern)
+* فئة [`PatternFill`](/cells/python-net/ar/aspose.cells.drawing/patternfill)

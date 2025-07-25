@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern mülk
 
-Bir alanın görüntüsünü temsil eder pattern.
+Bir alanın ekranını temsil eder pattern.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
-* sınıf [FillPattern](/cells/python-net/tr/aspose.cells.drawing/fillpattern)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* sınıf [`FillPattern`](/cells/python-net/tr/aspose.cells.drawing/fillpattern)

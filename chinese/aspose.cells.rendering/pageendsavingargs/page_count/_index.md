@@ -1,13 +1,13 @@
 ---
-title: page_count 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: page_count属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.rendering/pageendsavingargs/page_count/
 is_root: false
 ---
-## page_count 属性
+## page_count属性
 
 总页数。
 ### 定义：
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [PageEndSavingArgs](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`PageEndSavingArgs`](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs)

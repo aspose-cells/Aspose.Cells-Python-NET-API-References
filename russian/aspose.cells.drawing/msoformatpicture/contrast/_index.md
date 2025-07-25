@@ -1,6 +1,6 @@
 ---
 title: contrast недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  contrast недвижимость
 
-Представляет модификацию contrast для единицы измерения Picture.in в процентах.
+Представляет собой модификацию contrast для изображения в процентах.
 
 ###  Примечания
 
-Оно находится между -100% и 100%. Он работает так же, как версия Excel 2007 или более поздней версии.
+Диапазон составляет от -100% до 100%. Работает так же, как в Excel 2007 и более поздних версиях.
 ###  Определение:
 ```python
 @property

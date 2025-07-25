@@ -3,12 +3,12 @@ title: ImageType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 890
 url: /sv/aspose.cells.drawing/imagetype/
 is_root: false
 ---
 ##  ImageType uppräkning
-Anger typen (format) för en bild.
+Anger bildens typ (format).
 
 
 
@@ -23,16 +23,16 @@ Typen ImageType avslöjar följande medlemmar:
 | PICT | Macintosh PICT.|
 | JPEG | JPEG JFIF.|
 | PNG | Bärbar nätverksgrafik.|
-| BMP | Windows Bitmap|
+| BMP | Windows Bitmapp|
 | GIF | Gif|
 | TIFF | Tiff|
 | SVG | Svg|
 | SVM | Svm|
 | GLTF | glTF|
 | OFFICE_COMPATIBLE_EMF | Windows Förbättrad metafil som är mer kompatibel med Office.|
-| WEB_P |Weppy bildformat|
+| WEB_P | Weppy-bildformat|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

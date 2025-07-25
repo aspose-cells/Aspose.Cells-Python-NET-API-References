@@ -1,6 +1,6 @@
 ---
 title: priority недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -10,8 +10,8 @@ is_root: false
 ##  priority недвижимость
 
 priority этого правила условного форматирования. Это значение используется для определения того, какой
-формат должен быть оценен и отрендерен. Меньшие числовые значения выше priority, чем
-более высокие числовые значения, где «1» — самый высокий priority.
+Формат должен быть оценен и преобразован. Меньшие числовые значения выше priority, чем
+более высокие числовые значения, где «1» — самое большое priority.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def priority(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)

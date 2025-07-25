@@ -1,15 +1,15 @@
 ---
 title: is_xml недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 260
 url: /ru/aspose.cells.externalconnections/webqueryconnection/is_xml/
 is_root: false
 ---
 ##  is_xml недвижимость
 
-Значение true, если источником веб-запроса является XML (по сравнению с HTML), в противном случае — значение false.
+true, если источником веб-запроса является XML (в отличие от HTML), в противном случае false.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [WebQueryConnection](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`WebQueryConnection`](/cells/python-net/ru/aspose.cells.externalconnections/webqueryconnection)

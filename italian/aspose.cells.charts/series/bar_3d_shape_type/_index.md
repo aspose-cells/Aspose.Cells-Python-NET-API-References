@@ -1,6 +1,6 @@
 ---
 title: bar_3d_shape_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def bar_3d_shape_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Bar3DShapeType](/cells/python-net/it/aspose.cells.charts/bar3dshapetype)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Bar3DShapeType`](/cells/python-net/it/aspose.cells.charts/bar3dshapetype)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

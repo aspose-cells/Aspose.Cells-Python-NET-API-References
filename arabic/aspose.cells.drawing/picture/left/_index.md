@@ -3,13 +3,13 @@ title: left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 780
+weight: 800
 url: /ar/aspose.cells.drawing/picture/left/
 is_root: false
 ---
 ##  left عقار
 
-يمثل الإزاحة الأفقية للشكل من عموده left، بوحدة البكسل.
+يمثل الإزاحة الأفقية للشكل من العمود left، بوحدة البكسل.
 
 ###  مثال
 

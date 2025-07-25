@@ -7,16 +7,17 @@ weight: 70
 url: /de/aspose.cells.charts/seriescollection/get_series_by_order/
 is_root: false
 ---
-##  get_series_by_order(order) {#int}
-Ruft das [Series](/cells/python-net/de/aspose.cells.charts/series)-Element auf Bestellung ab.
+##  get_series_by_order(self, order) {#int}
+Ruft das Element [`Series`](/cells/python-net/de/aspose.cells.charts/series) nach Reihenfolge ab.
 
 
 ###  Kehrt zurück
 
-Die Elementserie
+Die Element-Serie
 
 
 ```python
+
 def get_series_by_order(self, order):
     ...
 ```
@@ -29,6 +30,6 @@ def get_series_by_order(self, order):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
-* Klasse [SeriesCollection](/cells/python-net/de/aspose.cells.charts/seriescollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)
+* Klasse [`SeriesCollection`](/cells/python-net/de/aspose.cells.charts/seriescollection)

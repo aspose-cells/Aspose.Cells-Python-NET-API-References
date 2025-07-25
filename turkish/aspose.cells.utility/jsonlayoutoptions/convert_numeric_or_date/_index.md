@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_or_date mülk
 
-Json'daki dizenin sayısala mı yoksa tarihe mi dönüştürüldüğünü gösteren bir değer alır veya ayarlar.
+Json'daki string'in sayısal veya tarih değerine dönüştürülüp dönüştürülmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions)

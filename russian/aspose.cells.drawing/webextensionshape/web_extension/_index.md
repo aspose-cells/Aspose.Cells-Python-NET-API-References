@@ -1,9 +1,9 @@
 ---
 title: web_extension недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /ru/aspose.cells.drawing/webextensionshape/web_extension/
 is_root: false
 ---

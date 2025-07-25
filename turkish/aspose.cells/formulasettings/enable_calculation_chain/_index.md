@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  enable_calculation_chain mülk
 
-Formüller için hesaplama zincirini etkinleştirip etkinleştirmeyeceği. Varsayılan yanlıştır.
+Formüller için hesaplama zinciri etkinleştirilsin mi? Varsayılan değer false'tur.
 
 ###  Notlar
 
 Çalışma kitabında çok sayıda formül olduğunda ve kullanıcının bunları tekrar tekrar hesaplaması gerektiğinde
-sadece küçük bir kısmını değiştirerek, hesaplama zincirini etkinleştirmek performans için yararlı olabilir.
-Öte yandan, zincir etkinleştirilirse, zincir modelinin sürdürülmesi fazladan bellek gerektirir,
-ve ayrıca hücrenin değerini veya formüllerini değiştirmek gibi diğer bazı işlemler için biraz daha fazla işlemci zamanı gerektirir.
-Bu özelliği yanlıştan doğruya değiştirdikten sonra, hesaplama zinciri analiz edilecek ve oluşturulacaktır.
-çalışma kitabı için ilk hesaplama zamanında, yani ilk hesaplama için gereken süre
-zincirsiz normal hesaplamadan daha fazla olabilir.
+Bunlardan sadece küçük bir kısmını değiştirerek hesaplama zincirini etkinleştirmek performans açısından faydalı olabilir.
+Öte yandan, zincir etkinleştirilirse, zincir modelinin sürdürülmesi ekstra bellek gerektirir,
+ve ayrıca hücre değerini veya formülleri değiştirmek gibi bazı diğer işlemler için biraz daha fazla CPU zamanı gerektirir.
+Bu özelliği false'dan true'ya değiştirdikten sonra, hesaplama zinciri analiz edilecek ve oluşturulacaktır
+çalışma kitabı için ilk hesaplama anında, yani ilk hesaplama için gereken süre
+zincir olmadan normal hesaplamadan daha fazla olabilir.
 ###  Tanım:
 ```python
 @property
@@ -31,5 +31,5 @@ def enable_calculation_chain(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

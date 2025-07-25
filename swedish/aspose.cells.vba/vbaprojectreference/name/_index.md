@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in referensens name.
+Hämtar och anger name för referensen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProjectReference](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProjectReference`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)

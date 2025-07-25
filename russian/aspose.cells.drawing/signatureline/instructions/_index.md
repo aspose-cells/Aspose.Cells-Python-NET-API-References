@@ -1,6 +1,6 @@
 ---
 title: instructions недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  instructions недвижимость
 
-Получает и задает текст, отображаемый пользователю во время подписания.
+Получает или задает текст, отображаемый пользователю во время подписания.
 
 ###  Пример
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SignatureLine](/cells/python-net/ru/aspose.cells.drawing/signatureline)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SignatureLine`](/cells/python-net/ru/aspose.cells.drawing/signatureline)

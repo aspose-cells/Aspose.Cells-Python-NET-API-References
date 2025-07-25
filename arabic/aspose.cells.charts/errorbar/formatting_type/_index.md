@@ -1,5 +1,5 @@
 ---
-title: formatting_type الملكية
+title: formatting_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells.charts/errorbar/formatting_type/
 is_root: false
 ---
-##  formatting_type الملكية
+##  formatting_type عقار
 
-الحصول على نوع التنسيق أو تعيينه.
+يحصل على نوع التنسيق أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartLineFormattingType](/cells/python-net/ar/aspose.cells.charts/chartlineformattingtype)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartLineFormattingType`](/cells/python-net/ar/aspose.cells.charts/chartlineformattingtype)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)

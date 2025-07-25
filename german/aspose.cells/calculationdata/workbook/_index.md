@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook Eigentum
 
-Ruft das Workbook-Objekt ab, in dem sich die Funktion befindet.
+Ruft das Arbeitsmappenobjekt ab, in dem sich die Funktion befindet.
 ###  Definition:
 ```python
 @property

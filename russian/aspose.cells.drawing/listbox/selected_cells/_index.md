@@ -1,16 +1,16 @@
 ---
 title: selected_cells недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ru/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---
 ##  selected_cells недвижимость
 
 Получает выбранные ячейки.
-Возвращает значение NULL, если диапазон ввода не установлен или элемент не выбран.
+Возвращает значение null, если диапазон ввода не задан или не выбран ни один элемент.
 ###  Определение:
 ```python
 @property

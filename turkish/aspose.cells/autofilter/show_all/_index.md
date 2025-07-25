@@ -7,12 +7,13 @@ weight: 180
 url: /tr/aspose.cells/autofilter/show_all/
 is_root: false
 ---
-##  show_all() {#}
+##  show_all(self) {#}
 Tüm satırları göster.
 
 
 
 ```python
+
 def show_all(self):
     ...
 ```
@@ -22,5 +23,5 @@ def show_all(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFilter](/cells/python-net/tr/aspose.cells/autofilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFilter`](/cells/python-net/tr/aspose.cells/autofilter)

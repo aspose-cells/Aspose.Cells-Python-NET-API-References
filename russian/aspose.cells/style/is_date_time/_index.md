@@ -1,6 +1,6 @@
 ---
 title: is_date_time недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 290
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_date_time недвижимость
 
-Указывает, является ли числовой формат форматом даты.
+Указывает, является ли формат числа форматом даты.
 ###  Определение:
 ```python
 @property

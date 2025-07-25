@@ -3,13 +3,13 @@ title: ole_objects mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 660
+weight: 690
 url: /tr/aspose.cells/worksheet/ole_objects/
 is_root: false
 ---
 ##  ole_objects mülk
 
-Bir çalışma sayfasındaki [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject) koleksiyonunu temsil eder.
+Bir çalışma sayfasında [`OleObject`](/cells/python-net/tr/aspose.cells.drawing/oleobject) koleksiyonunu temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -7,8 +7,8 @@ weight: 300
 url: /tr/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Bu[string cellName] desteklenmediğinden API for Python'i .Net.üzerinden ekleyin
+##  get(self, cell_name) {#str}
+API for Python'i .Net.since aracılığıyla ekleyin, bu[dize hücreAdı] desteklenmiyor
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bu[string cellName] desteklenmediğinden API for Python'i .Net.üzerinden ekleyi
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, cell_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| cell_name | str | Cell adı, sütun harfi ve satır numarası dahil, örneğin A5.|
+| cell_name | str | Cell adını, sütun harfi ve satır numarası dahil, örneğin A5.|
 
 
-##  get {#int-int}
-Bu[int satır, int sütun] desteklenmediğinden .Net. yoluyla API for Python ekleyin
+##  get(self, row, column) {#int-int}
+API for Python'i .Net.since aracılığıyla ekleyin, bu[int satır, int sütun] desteklenmiyor
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ Bu[int satır, int sütun] desteklenmediğinden .Net. yoluyla API for Python ekl
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript Eigentum
 
-Ruft einen Wert ab, der angibt, ob es sich bei der Schriftart um Superskript handelt, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Schriftart hochgestellt ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)

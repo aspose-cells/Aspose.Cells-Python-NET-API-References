@@ -3,13 +3,13 @@ title: macro_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 790
+weight: 800
 url: /ar/aspose.cells.drawing/groupbox/macro_name/
 is_root: false
 ---
 ##  macro_name عقار
 
-الحصول على اسم الماكرو وتعيينه.
+يحصل على اسم الماكرو ويحدده.
 
 ###  مثال
 

@@ -3,16 +3,17 @@ title: move方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells.drawing/picture/move/
 is_root: false
 ---
-##  move {#int-int}
+##  move(self, upper_left_row, upper_left_column) {#int-int}
 将图片移动到指定位置。
 
 
 
 ```python
+
 def move(self, upper_left_row, upper_left_column):
     ...
 ```
@@ -21,7 +22,7 @@ def move(self, upper_left_row, upper_left_column):
 |范围|类型|描述|
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
-| upper_left_column | int |左上列索引。|
+| upper_left_column | int |左上角的列索引。|
 
 ### 例子
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent propiedad
 
-Obtenga o establezca si una regla de "n superior/inferior" es una regla de "n porcentaje superior/inferior".
+Obtenga o establezca si una regla "n superior/inferior" es una regla "n porcentaje superior/inferior".
 El valor predeterminado es falso.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Top10](/cells/python-net/es/aspose.cells/top10)
+* módulo [`aspose.cells`](../../)
+* clase [`Top10`](/cells/python-net/es/aspose.cells/top10)

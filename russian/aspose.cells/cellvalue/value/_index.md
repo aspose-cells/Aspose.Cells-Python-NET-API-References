@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,19 +9,19 @@ is_root: false
 ---
 ##  value недвижимость
 
-Получает/устанавливает ячейку value.
+Получает/задает ячейку value.
 
 ###  Примечания
 
-value должен относиться к правильному типу объекта, соответствующему [`CellValue.type`](/cells/python-net/ru/aspose.cells/cellvalue#type):
+value должен иметь правильный тип объекта, соответствующий [`CellValue.type`](/cells/python-net/ru/aspose.cells/cellvalue#type):
 | Тип| Ценить|
 | :- | :- |
-| null, любой другой объект будет игнорироваться|
+| null, любой другой объект будет проигнорирован|
 | double |
 | ДатаВремя|
 | нить|
-| логическое значение|
-| строка ошибки, например «#ЗНАЧ!», «#ИМЯ?», ...|
+| бул|
+| строка ошибки, например "#VALUE!", "#NAME?", ...|
 ###  Определение:
 ```python
 @property

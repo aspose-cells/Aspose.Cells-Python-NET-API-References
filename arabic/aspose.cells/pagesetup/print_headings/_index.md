@@ -1,5 +1,5 @@
 ---
-title: print_headings الملكية
+title: print_headings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 570
 url: /ar/aspose.cells/pagesetup/print_headings/
 is_root: false
 ---
-##  print_headings الملكية
+##  print_headings عقار
 
-يمثل حالة طباعة عناوين الصفوف والأعمدة بهذه الصفحة.
+يمثل ما إذا كانت عناوين الصفوف والأعمدة مطبوعة بهذه الصفحة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_headings(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

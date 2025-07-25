@@ -1,18 +1,19 @@
 ---
 title: Metodo clear
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
 url: /it/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
+##  clear(self) {#}
 Cancella tutti i dati del foglio di lavoro.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
-title: paste_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: paste_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 60
 url: /zh/aspose.cells/pasteoptions/paste_type/
 is_root: false
 ---
-## paste_type 属性
+## paste_type属性
 
-粘贴特殊类型。
+粘贴专用型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def paste_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PasteOptions](/cells/python-net/zh/aspose.cells/pasteoptions)
-* 类 [PasteType](/cells/python-net/zh/aspose.cells/pastetype)
+* 模块[`aspose.cells`](../../)
+* 类 [`PasteOptions`](/cells/python-net/zh/aspose.cells/pasteoptions)
+* 类 [`PasteType`](/cells/python-net/zh/aspose.cells/pastetype)

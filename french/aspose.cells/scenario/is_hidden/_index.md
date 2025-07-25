@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Scenario](/cells/python-net/fr/aspose.cells/scenario)
+* module [`aspose.cells`](../../)
+* classe [`Scenario`](/cells/python-net/fr/aspose.cells/scenario)

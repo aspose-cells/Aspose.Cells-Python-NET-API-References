@@ -3,7 +3,7 @@ title: current_page_item属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 330
 url: /zh/aspose.cells.pivot/pivotfield/current_page_item/
 is_root: false
 ---

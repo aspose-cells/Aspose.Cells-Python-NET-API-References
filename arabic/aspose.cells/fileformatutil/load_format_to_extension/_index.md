@@ -7,30 +7,32 @@ weight: 60
 url: /ar/aspose.cells/fileformatutil/load_format_to_extension/
 is_root: false
 ---
-##  load_format_to_extension(load_format) {#LoadFormat}
-يحول قيمة تعداد تنسيق التحميل إلى امتداد ملف.
+##  load_format_to_extension(, تنسيق التحميل){#aspose.cells.LoadFormat}
+يقوم بتحويل قيمة محددة بتنسيق التحميل إلى امتداد ملف.
 
 
 ###  عائدات
 
-الامتداد الناتج عبارة عن سلسلة أحرف صغيرة بنقطة بادئة.
+الامتداد المرتجع هو سلسلة أحرف صغيرة مع نقطة بادئة.
 
 
 ```python
-def load_format_to_extension(self, load_format):
+
+@staticmethod
+def load_format_to_extension(load_format):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/ar/aspose.cells/loadformat) | تنسيق الملف الذي تم تحميله.|
+| load_format | [`LoadFormat`](/cells/python-net/ar/aspose.cells/loadformat) | تنسيق الملف المحمّل.|
 ###  ملاحظات
 
-إذا كان لا يمكن تحويله ، يتم إرجاعه فارغًا.
+إذا لم يكن من الممكن تحويله، يتم إرجاع null.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

@@ -1,17 +1,17 @@
 ---
 title: presentation_preference недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 600
+weight: 690
 url: /ru/aspose.cells/htmlsaveoptions/presentation_preference/
 is_root: false
 ---
 ##  presentation_preference недвижимость
 
-Указывает, является ли файл html или mht предпочтительным для представления.
-Значение по умолчанию неверно.
-если вы хотите получить более красивую презентацию, установите значение true.
+Указывает, какой файл (html или mht) является предпочтительным для представления.
+Значение по умолчанию — false.
+если вы хотите получить более красивое представление, установите значение true.
 ###  Определение:
 ```python
 @property

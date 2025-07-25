@@ -1,5 +1,5 @@
 ---
-title: bar_3d_shape_type الملكية
+title: bar_3d_shape_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.charts/series/bar_3d_shape_type/
 is_root: false
 ---
-##  bar_3d_shape_type الملكية
+##  bar_3d_shape_type عقار
 
-الحصول على أو تعيين نوع الشكل الثلاثي الأبعاد المستخدم مع المخطط الشريطي أو العمودي ثلاثي الأبعاد.
+يحصل على نوع الشكل ثلاثي الأبعاد المستخدم مع مخطط الشريط أو العمود ثلاثي الأبعاد أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_3d_shape_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Bar3DShapeType](/cells/python-net/ar/aspose.cells.charts/bar3dshapetype)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Bar3DShapeType`](/cells/python-net/ar/aspose.cells.charts/bar3dshapetype)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

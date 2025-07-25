@@ -3,13 +3,13 @@ title: has_header_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 100
 url: /tr/aspose.cells/xmlsaveoptions/has_header_row/
 is_root: false
 ---
 ##  has_header_row mülk
 
-Aralığın başlık satırı içerip içermediğini gösterir.
+Aralığın başlık satırı içerip içermediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlSaveOptions](/cells/python-net/tr/aspose.cells/xmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlSaveOptions`](/cells/python-net/tr/aspose.cells/xmlsaveoptions)

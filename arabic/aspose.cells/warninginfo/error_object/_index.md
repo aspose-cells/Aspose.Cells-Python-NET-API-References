@@ -1,5 +1,5 @@
 ---
-title: error_object الملكية
+title: error_object عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells/warninginfo/error_object/
 is_root: false
 ---
-##  error_object الملكية
+##  error_object عقار
 
 كائن الخطأ.
 ###  تعريف:
@@ -18,5 +18,5 @@ def error_object(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WarningInfo](/cells/python-net/ar/aspose.cells/warninginfo)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WarningInfo`](/cells/python-net/ar/aspose.cells/warninginfo)

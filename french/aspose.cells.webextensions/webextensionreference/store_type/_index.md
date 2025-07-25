@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type propriété
 
-Obtient et définit le type de marché identifié par l'attribut de magasin.
+Obtient et définit le type de marché identifié par l'attribut store.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionReference](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)
-* classe [WebExtensionStoreType](/cells/python-net/fr/aspose.cells.webextensions/webextensionstoretype)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionReference`](/cells/python-net/fr/aspose.cells.webextensions/webextensionreference)
+* classe [`WebExtensionStoreType`](/cells/python-net/fr/aspose.cells.webextensions/webextensionstoretype)

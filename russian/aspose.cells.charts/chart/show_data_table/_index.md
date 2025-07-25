@@ -1,6 +1,6 @@
 ---
 title: show_data_table недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 570
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_data_table недвижимость
 
-Получает или задает значение, указывающее, отображается ли на диаграмме таблица данных.
+Возвращает или задает значение, указывающее, отображает ли диаграмма таблицу данных.
 ###  Определение:
 ```python
 @property

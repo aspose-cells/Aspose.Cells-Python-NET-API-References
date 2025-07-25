@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur Eigentum
 
-Ruft den Radius blur in Punkteinheiten ab und legt ihn fest.
+Ruft den Radius blur in Punkten ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ReflectionEffect](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)

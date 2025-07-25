@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id fastighet
 
-Hämtar och ställer in den bindande identifieraren.
+Hämtar och anger bindningsidentifieraren.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionBinding](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionBinding`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)

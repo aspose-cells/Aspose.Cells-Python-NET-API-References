@@ -8,7 +8,7 @@ url: /de/aspose.cells.drawing.texts/bullettype/
 is_root: false
 ---
 ##  BulletType Aufzählung
-Repräsentiert den Typ des Geschosses.
+Stellt den Typ des Aufzählungszeichens dar.
 
 
 
@@ -18,11 +18,11 @@ Der Typ BulletType macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | NONE | Keine Kugel.|
-| CHARACTER | Zeichenkugel.|
-| PICTURE | Bild Kugel.|
-| AUTO_NUMBERED | Automatisch nummeriertes Aufzählungszeichen.|
+| CHARACTER | Zeichenaufzählungszeichen.|
+| PICTURE | Bildaufzählungszeichen.|
+| AUTO_NUMBERED | Automatisches nummeriertes Aufzählungszeichen.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](..)
+* Modul [`aspose.cells.drawing.texts`](..)

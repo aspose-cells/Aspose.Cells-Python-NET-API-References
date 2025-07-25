@@ -1,18 +1,19 @@
 ---
 title: change_palette方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
-更改指定索引中电子表格的调色板。
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
+更改指定索引中的电子表格的调色板。
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -20,17 +21,17 @@ def change_palette(self, color, index):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| color | aspose.pydrawing.Color |色彩结构。|
-| index | int |调色板索引，0 - 55。|
-### 评论
+| color | aspose.pydrawing.Color |颜色结构。|
+| index | int |调色板索引，0-55。|
+### 注意事项
 
 调色板有 56 个条目，每个条目由一个 RGB 值表示。
 
 
-如果您设置的颜色不在调色板中，则不会生效。
+如果您设置了调色板中没有的颜色，它将不会生效。
 
 
-因此，如果您想设置自定义颜色，请先更改调色板。
+因此，如果您想设置自定义颜色，请首先更改调色板。
 
 
 以下是标准调色板。
@@ -60,7 +61,7 @@ def change_palette(self, color, index):
 |颜色21| 102| 0| 102 |
 |颜色22| 255| 128| 128 |
 |颜色23| 0| 102| 204 |
-|颜色24| 204| 204| 255 |
+| Color24| 204| 204| 255 |
 |颜色25| 0| 0| 128 |
 |颜色26| 255| 0| 255 |
 |颜色27| 255| 255| 0 |
@@ -97,5 +98,5 @@ def change_palette(self, color, index):
 
 ### 也可以看看
 
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

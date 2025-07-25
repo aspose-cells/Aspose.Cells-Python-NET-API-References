@@ -1,15 +1,15 @@
 ---
-title: foreground_argb_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: foreground_argb_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 200
 url: /zh/aspose.cells/style/foreground_argb_color/
 is_root: false
 ---
-## foreground_argb_color 属性
+## foreground_argb_color属性
 
-获取和设置具有 32 位 ARGB 值的前景色。
+获取并设置具有 32 位 ARGB 值的前景色。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_argb_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

@@ -1,6 +1,6 @@
 ---
 title: row_separator_of_formula_array недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 340
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row_separator_of_formula_array недвижимость
 
-Получает разделитель строк данных массива в формуле.
+Получает разделитель строк в массиве данных в формуле.
 ###  Определение:
 ```python
 @property

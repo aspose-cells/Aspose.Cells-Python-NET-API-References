@@ -3,17 +3,17 @@ title: upper_delta_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /ar/aspose.cells.drawing/lineshape/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x عقار
 
-الحصول على الإزاحة الأفقية للشكل أو تعيينها من عمود الزاوية اليسرى العليا.
+يحصل على أو يعين الإزاحة الأفقية للشكل من عمود الزاوية اليسرى العلوية.
 
 ###  ملاحظات
 
-نطاق القيمة هو 0 إلى 1024.
+نطاق القيمة هو من 0 إلى 1024.
 
 ###  مثال
 

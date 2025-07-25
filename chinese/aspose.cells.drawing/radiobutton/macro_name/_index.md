@@ -3,13 +3,13 @@ title: macro_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 820
+weight: 830
 url: /zh/aspose.cells.drawing/radiobutton/macro_name/
 is_root: false
 ---
 ## macro_name属性
 
-获取和设置宏的名称。
+获取并设置宏的名称。
 
 ### 例子
 

@@ -1,9 +1,9 @@
 ---
 title: data_sorter недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 540
+weight: 570
 url: /ru/aspose.cells/workbook/data_sorter/
 is_root: false
 ---

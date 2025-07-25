@@ -1,6 +1,6 @@
 ---
 title: is_gradient proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 330
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient proprietà
 
-Indica se l'ombreggiatura della cella è un modello sfumato.
+Indica se l'ombreggiatura della cella è un motivo sfumato.
 ###  Definizione:
 ```python
 @property

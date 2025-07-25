@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlBorderType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlbordertype)
-* classe [ListBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlBorderType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlbordertype)
+* classe [`ListBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

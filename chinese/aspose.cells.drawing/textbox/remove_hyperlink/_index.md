@@ -3,16 +3,17 @@ title: remove_hyperlink方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 190
+weight: 200
 url: /zh/aspose.cells.drawing/textbox/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
+##  remove_hyperlink(self) {#}
 删除形状的超链接。
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

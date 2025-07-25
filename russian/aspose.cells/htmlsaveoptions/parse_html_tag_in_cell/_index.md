@@ -1,16 +1,16 @@
 ---
 title: parse_html_tag_in_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 680
 url: /ru/aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
 ##  parse_html_tag_in_cell недвижимость
 
-Указывает, должен ли HTML-тег (например, `<div></div>`) в ячейке анализироваться как значение ячейки или сохраняться как есть.
-Значение по умолчанию верно.
+Указывает, следует ли анализировать HTML-тег (например, `<div></div>`) в ячейке как значение ячейки или сохранять как есть.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

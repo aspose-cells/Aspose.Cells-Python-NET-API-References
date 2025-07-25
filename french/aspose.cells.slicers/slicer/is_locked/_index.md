@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked propriété
 
-Indique si la forme du segment est verrouillée.
+Indique si la forme du slicer est verrouillée.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

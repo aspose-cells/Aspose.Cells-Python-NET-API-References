@@ -3,13 +3,13 @@ title: index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 80
 url: /fr/aspose.cells.pivot/pivotitem/index/
 is_root: false
 ---
 ##  index propriété
 
-Obtient le index de l'élément pivot dans le champ pivot
+Obtient le index de l'élément pivot dans le champ de cache.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotItem](/cells/python-net/fr/aspose.cells.pivot/pivotitem)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotItem`](/cells/python-net/fr/aspose.cells.pivot/pivotitem)

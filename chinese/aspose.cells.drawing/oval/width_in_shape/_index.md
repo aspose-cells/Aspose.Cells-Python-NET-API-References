@@ -3,15 +3,15 @@ title: width_in_shape属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /zh/aspose.cells.drawing/oval/width_in_shape/
 is_root: false
 ---
 ## width_in_shape属性
 
-表示形状的宽度，单位为父形状的 1/4000。
+表示形状的宽度，以父形状的 1/4000 为单位。
 
-### 评论
+### 注意事项
 
 仅当此形状位于组或图表中时适用。
 

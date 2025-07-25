@@ -1,13 +1,13 @@
 ---
-title: font_bold 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font_bold属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/texteffectformat/font_bold/
 is_root: false
 ---
-## font_bold 属性
+## font_bold属性
 
 指示字体是否为粗体。
 ### 定义：
@@ -21,5 +21,5 @@ def font_bold(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [TextEffectFormat](/cells/python-net/zh/aspose.cells.drawing/texteffectformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`TextEffectFormat`](/cells/python-net/zh/aspose.cells.drawing/texteffectformat)

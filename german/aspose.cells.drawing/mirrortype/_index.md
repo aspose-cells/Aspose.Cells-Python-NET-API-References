@@ -3,12 +3,12 @@ title: MirrorType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 960
+weight: 950
 url: /de/aspose.cells.drawing/mirrortype/
 is_root: false
 ---
 ##  MirrorType Aufzählung
-Repräsentiert den Spiegeltyp der Texturfüllung
+Stellt den Spiegeltyp der Texturfüllung dar
 
 
 
@@ -25,4 +25,4 @@ Der Typ MirrorType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

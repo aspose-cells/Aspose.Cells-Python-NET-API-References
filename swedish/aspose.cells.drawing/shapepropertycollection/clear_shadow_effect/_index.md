@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/
 is_root: false
 ---
-##  clear_shadow_effect() {#}
-Rensar skuggeffekten för diagramelementet eller formen.
+##  clear_shadow_effect(self) {#}
+Rensar skuggeffekten från diagramelementet eller formen.
 
 
 
 ```python
+
 def clear_shadow_effect(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_shadow_effect(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePropertyCollection](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePropertyCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepropertycollection)

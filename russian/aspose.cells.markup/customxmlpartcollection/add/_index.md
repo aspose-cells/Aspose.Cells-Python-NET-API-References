@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.markup/customxmlpartcollection/add/
 is_root: false
 ---
-##  add(data, shema_data) {#bytes-bytes}
+##  add(self, data, shema_data) {#bytes-bytes}
 Добавляет элемент в коллекцию.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def add(self, data, shema_data):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, data, shema_data):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| data | bytes | XML-содержимое этой пользовательской части хранилища данных XML.|
-| shema_data | bytes | Набор схем XML, связанных с этой настраиваемой частью XML.|
+| data | bytes | XML-содержимое этой пользовательской части хранилища XML-данных.|
+| shema_data | bytes | Набор XML-схем, связанных с этой пользовательской частью XML.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [CustomXmlPartCollection](/cells/python-net/ru/aspose.cells.markup/customxmlpartcollection)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`CustomXmlPartCollection`](/cells/python-net/ru/aspose.cells.markup/customxmlpartcollection)

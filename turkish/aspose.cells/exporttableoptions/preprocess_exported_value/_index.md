@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/exporttableoptions/preprocess_exported_value/
 is_root: false
 ---
-##  preprocess_exported_value {#int-int-aspose.cells.CellValue}
-Dışa aktarılacak mevcut hücrenin değerini önceden işleyin.
+##  preprocess_exported_value(self, cell_row, cell_column, value) {#int-int-aspose.cells.CellValue}
+Dışa aktarılacak geçerli hücrenin değerini önceden işleyin.
 
 
 ###  İadeler
 
-Geçerli hücrenin farklı tür ve/veya değerle değiştirilip değiştirilmediği.
+Mevcut hücrenin farklı bir tür ve/veya değerle değiştirilip değiştirilmediği.
 
 
 ```python
+
 def preprocess_exported_value(self, cell_row, cell_column, value):
     ...
 ```
@@ -29,11 +30,11 @@ def preprocess_exported_value(self, cell_row, cell_column, value):
 | value | [`CellValue`](/cells/python-net/tr/aspose.cells/cellvalue) | geçerli hücrenin değeri ve türü|
 ###  Notlar
 
-Satır ve sütun dizini, dışa aktarılan tablodaki dizin değil, çalışma sayfasındaki hücrenin mutlak dizinidir.
-Kullanıcı bu yöntemin geçersiz kılma uygulamasında mevcut hücrenin değerini kontrol edebilir,
+Satır ve sütun dizini, çalışma sayfasındaki hücrenin mutlak dizinidir, dışa aktarılan tablodaki dizin değildir.
+Kullanıcı bu yöntemin geçersiz kılma uygulamasında geçerli hücrenin değerini kontrol edebilir,
 mevcut hücrenin başka tür ve değerle değiştirilmesi gerekiyorsa,
-burada uygulama beklenen türü ve değeri CellValue nesnesine ayarlamalı ve true değerini döndürmelidir.
-Varsayılan olarak bu yöntem hiçbir şey yapmaz ve false değerini döndürür.
+Burada uygulama, CellValue nesnesine beklenen türü ve değeri ayarlamalı ve true döndürmelidir.
+Varsayılan olarak bu yöntem hiçbir şey yapmaz ve false döndürür.
 
 
 ###  Ayrıca bakınız

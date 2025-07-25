@@ -1,16 +1,16 @@
 ---
 title: window_left_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 580
 url: /ru/aspose.cells/workbooksettings/window_left_inch/
 is_root: false
 ---
 ##  window_left_inch недвижимость
 
 Расстояние от левого края клиентской области до левого края окна.
-В единицах дюймов.
+В дюймах.
 ###  Определение:
 ```python
 @property

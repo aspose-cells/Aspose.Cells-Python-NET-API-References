@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Obtiene o establece el Color de la fuente.
+Obtiene o establece el color de la fuente.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

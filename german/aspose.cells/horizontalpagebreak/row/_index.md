@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row Eigentum
 
-Ruft den nullbasierten row-Index ab.
+Ruft den nullbasierten Index row ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak)

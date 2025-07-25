@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hidden fastighet
 
-Indikerar om kolumnen är dold.
+Anger om kolumnen är dold.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Column](/cells/python-net/sv/aspose.cells/column)
+* modul [`aspose.cells`](../../)
+* klass [`Column`](/cells/python-net/sv/aspose.cells/column)

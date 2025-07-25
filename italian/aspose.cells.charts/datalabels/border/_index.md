@@ -1,15 +1,15 @@
 ---
 title: border proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells.charts/datalabels/border/
 is_root: false
 ---
 ##  border proprietà
 
-Ottiene lo [Line](/cells/python-net/it/aspose.cells.drawing/line).
+Ottiene [`Line`](/cells/python-net/it/aspose.cells.drawing/line).
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def border(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [DataLabels](/cells/python-net/it/aspose.cells.charts/datalabels)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`DataLabels`](/cells/python-net/it/aspose.cells.charts/datalabels)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

@@ -3,7 +3,7 @@ title: password propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 230
 url: /fr/aspose.cells/protection/password/
 is_root: false
 ---
@@ -13,7 +13,9 @@ Représente le password pour protéger la feuille de calcul.
 
 ###  Remarques
 
-Si password est défini sur une chaîne nulle ou vide, vous pouvez déprotéger la feuille de calcul ou le classeur sans utiliser de password. Sinon, vous devez spécifier le password pour déprotéger la feuille de calcul ou le classeur.
+Si password est défini sur une chaîne nulle ou vide,
+vous pouvez déprotéger la feuille de calcul ou le classeur sans utiliser de password.
+Sinon, vous devez spécifier le password pour déprotéger la feuille de calcul ou le classeur.
 ###  Définition:
 ```python
 @property
@@ -25,5 +27,5 @@ def password(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [ShapeTextAlignment](/cells/python-net/de/aspose.cells.drawing.texts/shapetextalignment)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`ShapeTextAlignment`](/cells/python-net/de/aspose.cells.drawing.texts/shapetextalignment)

@@ -3,16 +3,17 @@ title: ungroup yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 260
 url: /tr/aspose.cells.drawing/groupshape/ungroup/
 is_root: false
 ---
-##  ungroup {#}
-Şekil öğelerinin grubunu çözer.
+##  ungroup(self) {#}
+Şekil öğelerini gruplandırmayı kaldırır.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```
@@ -20,7 +21,7 @@ def ungroup(self):
 
 ###  Notlar
 
-Grup şekli başka bir grup şekline göre gruplandırılmışsa hiçbir şey yapılmayacaktır.
+Eğer grup şekli başka bir grup şekli tarafından gruplandırılırsa hiçbir şey yapılmayacaktır.
 
 
 ###  Ayrıca bakınız

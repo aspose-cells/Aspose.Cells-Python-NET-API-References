@@ -1,6 +1,6 @@
 ---
 title: row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row недвижимость
 
-Получает индекс row объекта, содержащего комментарий.
+Получает индекс row, содержащий комментарий.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionCellComment](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionCellComment`](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)

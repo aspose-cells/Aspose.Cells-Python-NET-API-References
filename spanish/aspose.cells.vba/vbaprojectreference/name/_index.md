@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProjectReference](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProjectReference`](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)

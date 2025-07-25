@@ -3,14 +3,14 @@ title: is_mobile_compatible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 530
+weight: 610
 url: /fr/aspose.cells/htmlsaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible propriété
 
  Indique si la sortie HTML est compatible avec les appareils mobiles.
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: file_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 590
 url: /de/aspose.cells/workbook/file_format/
 is_root: false
 ---

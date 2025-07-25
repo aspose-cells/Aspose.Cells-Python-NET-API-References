@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  emf_type mülk
 
-Meta dosyasının biçimini belirten bir EmfType alır veya ayarlar.
+Metafile'ın biçimini belirten bir EmfType alır veya ayarlar.
 Varsayılan değer EmfPlusDual'dır.
 ###  Tanım:
 ```python

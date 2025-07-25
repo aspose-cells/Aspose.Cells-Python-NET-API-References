@@ -1,5 +1,5 @@
 ---
-title: CopyOptions Konstrukteur
+title: CopyOptions Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/copyoptions/__init__/
 is_root: false
 ---
-##  CopyOptions() {#}
-CopyOptions Konstrukteur.
+##  \_\_init\_\_(selbst){#}
+CopyOptions Konstruktor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CopyOptions](/cells/python-net/de/aspose.cells/copyoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CopyOptions`](/cells/python-net/de/aspose.cells/copyoptions)

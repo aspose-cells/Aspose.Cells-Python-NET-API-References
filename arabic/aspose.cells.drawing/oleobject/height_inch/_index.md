@@ -3,7 +3,7 @@ title: height_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 530
 url: /ar/aspose.cells.drawing/oleobject/height_inch/
 is_root: false
 ---

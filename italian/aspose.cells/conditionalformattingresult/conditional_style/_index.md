@@ -1,6 +1,6 @@
 ---
 title: conditional_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -18,6 +18,6 @@ def conditional_style(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ConditionalFormattingResult](/cells/python-net/it/aspose.cells/conditionalformattingresult)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`ConditionalFormattingResult`](/cells/python-net/it/aspose.cells/conditionalformattingresult)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

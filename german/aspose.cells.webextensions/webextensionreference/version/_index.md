@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  version Eigentum
 
-Ruft die version ab und setzt sie.
+Ruft version ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def version(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionReference](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionReference`](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)

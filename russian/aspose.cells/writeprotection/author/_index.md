@@ -1,6 +1,6 @@
 ---
 title: author недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [WriteProtection](/cells/python-net/ru/aspose.cells/writeprotection)
+* модуль [`aspose.cells`](../../)
+* класс [`WriteProtection`](/cells/python-net/ru/aspose.cells/writeprotection)

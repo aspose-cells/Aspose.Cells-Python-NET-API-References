@@ -1,9 +1,9 @@
 ---
 title: is_smart_art недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 670
+weight: 680
 url: /ru/aspose.cells.drawing/scrollbar/is_smart_art/
 is_root: false
 ---
@@ -19,7 +19,7 @@ is_root: false
 
 ```python
 
-# if true,the shape is smart art.
+# if true,the shape is a smart art.
 if shape.is_smart_art:
     pass
 

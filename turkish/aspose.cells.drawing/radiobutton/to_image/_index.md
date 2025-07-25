@@ -3,16 +3,17 @@ title: to_image yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.drawing/radiobutton/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
-Şekil görüntüsünü oluşturur ve onu belirtilen formatta bir akışa kaydeder.
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+Şekil görüntüsünü oluşturur ve belirtilen formatta bir akışa kaydeder.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -38,12 +39,13 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Şekli bir dosyaya kaydeder.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -65,12 +67,13 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Şekli bir akışa kaydeder.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

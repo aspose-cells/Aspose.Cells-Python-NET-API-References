@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption fastighet
 
-Hämtar och ställer in den beskrivande texten som visas på en kontroll.
+Hämtar och anger den beskrivande texten som visas på en kontroll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CheckBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CheckBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

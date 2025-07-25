@@ -3,7 +3,7 @@ title: CopyFormatType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1950
+weight: 1860
 url: /ar/aspose.cells/copyformattype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SAME_AS_ABOVE | التنسيقات نفس الصف أعلاه.|
+| SAME_AS_ABOVE | التنسيقات نفسها كما في الصف أعلاه.|
 | SAME_AS_BELOW | التنسيقات نفسها كما في الصف أدناه.|
-| CLEAR | يمسح التنسيق.|
+| CLEAR | مسح التنسيق.|
 
 
 

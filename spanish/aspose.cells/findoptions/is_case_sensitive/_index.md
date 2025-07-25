@@ -13,10 +13,10 @@ Indica si la cadena buscada distingue entre mayúsculas y minúsculas.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad FindOptions.CaseSensitive.
- Esta propiedad se eliminará 12 meses después desde junio de 2010.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad FindOptions.CaseSensitive.
+ Esta propiedad será eliminada 12 meses después desde junio de 2010.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -28,5 +28,5 @@ def is_case_sensitive(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FindOptions](/cells/python-net/es/aspose.cells/findoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`FindOptions`](/cells/python-net/es/aspose.cells/findoptions)

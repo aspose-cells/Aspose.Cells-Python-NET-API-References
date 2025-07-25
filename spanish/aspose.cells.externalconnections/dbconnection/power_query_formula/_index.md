@@ -3,7 +3,7 @@ title: power_query_formula propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 220
 url: /es/aspose.cells.externalconnections/dbconnection/power_query_formula/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def power_query_formula(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [DBConnection](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)
-* clase [PowerQueryFormula](/cells/python-net/es/aspose.cells.querytables/powerqueryformula)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`DBConnection`](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)
+* clase [`PowerQueryFormula`](/cells/python-net/es/aspose.cells.querytables/powerqueryformula)

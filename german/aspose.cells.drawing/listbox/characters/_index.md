@@ -7,8 +7,8 @@ weight: 50
 url: /de/aspose.cells.drawing/listbox/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Gibt ein Characters-Objekt zurück, das einen Bereich von characters im Text darstellt.
+##  characters(self, start_index, length) {#int-int}
+Gibt ein Zeichenobjekt zurück, das einen Bereich von characters innerhalb des Textes darstellt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Zeichenobjekt.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -41,5 +42,5 @@ fontSetting = shape.characters(0, 4)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ListBox](/cells/python-net/de/aspose.cells.drawing/listbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ListBox`](/cells/python-net/de/aspose.cells.drawing/listbox)

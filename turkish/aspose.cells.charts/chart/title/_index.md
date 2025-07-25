@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  title mülk
 
-Grafiğin title'ini alır.
+Tablonun title'ini alır.
 ###  Tanım:
 ```python
 @property

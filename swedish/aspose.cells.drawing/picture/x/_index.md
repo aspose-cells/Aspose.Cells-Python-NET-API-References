@@ -3,13 +3,13 @@ title: x fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1420
+weight: 1440
 url: /sv/aspose.cells.drawing/picture/x/
 is_root: false
 ---
 ##  x fastighet
 
-Hämtar och ställer in den horisontella förskjutningen av formen från kalkylbladets vänstra kant, i pixelenhet.
+Hämtar och ställer in den horisontella förskjutningen av formen från kalkylbladets vänstra kant, i pixlar.
 
 ###  Exempel
 

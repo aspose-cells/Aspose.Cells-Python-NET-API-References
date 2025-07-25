@@ -1,14 +1,14 @@
 ---
 title: TextStrikeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2660
+weight: 2630
 url: /ru/aspose.cells/textstriketype/
 is_root: false
 ---
 ##  TextStrikeType перечисление
-Этот тип определяет тип удара.
+Этот тип определяет тип забастовки.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| SINGLE | К тексту применено одинарное зачеркивание.|
-| DOUBLE | К тексту применено двойное зачеркивание.|
-| NONE | К тексту не применяется ударение.|
+| SINGLE | В тексте применено одно зачеркивание.|
+| DOUBLE | В тексте применено двойное зачеркивание.<br/> Работает только для текста фигур или диаграмм.|
+| NONE | Зачеркивание текста не применяется.|
 
 
 

@@ -3,7 +3,7 @@ title: text_boxes propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 850
 url: /es/aspose.cells/worksheet/text_boxes/
 is_root: false
 ---

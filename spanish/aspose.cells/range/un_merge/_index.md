@@ -3,16 +3,17 @@ title: método un_merge
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 310
 url: /es/aspose.cells/range/un_merge/
 is_root: false
 ---
-##  un_merge {#}
-Desintegra las celdas fusionadas de este rango.
+##  un_merge(self) {#}
+Desfusiona las celdas fusionadas de este rango.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```

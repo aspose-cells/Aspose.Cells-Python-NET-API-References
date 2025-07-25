@@ -1,6 +1,6 @@
 ---
 title: plot_area недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 450
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area недвижимость
 
-Получает область графика диаграммы, включающую метки делений оси.
+Получает область построения диаграммы, включающую метки делений осей.
 
 ###  Примечания
 

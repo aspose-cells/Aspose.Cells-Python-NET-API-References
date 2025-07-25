@@ -12,12 +12,12 @@ is_root: false
 ###  Clases
 | Clase| Descripción|
 | :- | :- |
-| [NumbersLoadOptions](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions) | Representa las opciones de carga de archivos Apple Numbers.|
+| [`NumbersLoadOptions`](/cells/python-net/es/aspose.cells.numbers/numbersloadoptions) | Representa las opciones de carga de archivos Apple Numbers.|
 
 
-###  enumeraciones
-|Enumeración| Descripción|
+###  Enumeraciones
+| Enumeración| Descripción|
 | :- | :- |
-| [LoadNumbersTableType](/cells/python-net/es/aspose.cells.numbers/loadnumberstabletype) |Indica tipo de tablas de carga cuando algunas tablas están en una hoja.|
+| [`LoadNumbersTableType`](/cells/python-net/es/aspose.cells.numbers/loadnumberstabletype) | Indica el tipo de carga de tablas cuando hay algunas tablas en una hoja.|
 
 

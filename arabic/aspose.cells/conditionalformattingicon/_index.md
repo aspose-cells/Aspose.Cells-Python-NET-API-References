@@ -3,7 +3,7 @@ title: ConditionalFormattingIcon صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 290
 url: /ar/aspose.cells/conditionalformattingicon/
 is_root: false
 ---
@@ -17,16 +17,16 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [image_data](/cells/python-net/ar/aspose.cells/conditionalformattingicon/image_data) | يحصل على بيانات مجموعة الرموز.|
-| [type](/cells/python-net/ar/aspose.cells/conditionalformattingicon/type) | الحصول على نوع مجموعة الأيقونات وتعيينها.|
-| [index](/cells/python-net/ar/aspose.cells/conditionalformattingicon/index) | الحصول على فهرس الأيقونة وتعيينه في مجموعة الأيقونة.|
+| [image_data](/cells/python-net/ar/aspose.cells/conditionalformattingicon/image_data) | يحصل على بيانات مجموعة الأيقونات.|
+| [type](/cells/python-net/ar/aspose.cells/conditionalformattingicon/type) | يحصل على نوع مجموعة الأيقونات ويقوم بتعيينه.|
+| [index](/cells/python-net/ar/aspose.cells/conditionalformattingicon/index) | يحصل على فهرس الرمز في مجموعة الرموز ويقوم بتعيينه.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_icon_image_data](/cells/python-net/ar/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.IconSetType-int) | احصل على بيانات مجموعة الأيقونة|
-| [get_image_data](/cells/python-net/ar/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.Cell) | يحصل على بيانات الصورة مع إعداد الخلية.|
+| [`get_icon_image_data(, type, index)`](/cells/python-net/ar/aspose.cells/conditionalformattingicon/get_icon_image_data/#aspose.cells.iconsettype-int) | احصل على بيانات مجموعة الأيقونات|
+| [`get_image_data(self, cell)`](/cells/python-net/ar/aspose.cells/conditionalformattingicon/get_image_data/#aspose.cells.cell) | يحصل على بيانات الصورة مع إعداد الخلية.|
 
 
 

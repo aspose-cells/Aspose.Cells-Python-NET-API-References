@@ -1,21 +1,21 @@
 ---
 title: custom_properties proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 460
+weight: 480
 url: /it/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
 ##  custom_properties proprietà
 
  Ottiene un oggetto che rappresenta
-le informazioni sull'identificatore associate a un foglio di lavoro.
+le informazioni identificative associate a un foglio di lavoro.
 
 ###  Osservazioni
 
- Worksheet.CustomProperties fornisce un meccanismo preferito per l'archiviazione di dati arbitrari.
-Supporta componenti di documenti legacy di terze parti, nonché quelle situazioni che hanno una rigorosa necessità di parti binarie.
+Worksheet.CustomProperties fornisce un meccanismo preferito per l'archiviazione di dati arbitrari.
+Supporta componenti di documenti di terze parti legacy, nonché quelle situazioni in cui è strettamente necessario utilizzare parti binarie.
 ###  Definizione:
 ```python
 @property

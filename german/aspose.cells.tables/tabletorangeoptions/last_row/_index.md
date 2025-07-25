@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableToRangeOptions](/cells/python-net/de/aspose.cells.tables/tabletorangeoptions)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableToRangeOptions`](/cells/python-net/de/aspose.cells.tables/tabletorangeoptions)

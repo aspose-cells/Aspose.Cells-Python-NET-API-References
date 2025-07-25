@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel propriété
 
-Obtient ou définit la largeur en pixels pour chaque colonne du segment.
+Obtient ou définit la largeur de chaque colonne dans le segment, en unités de pixels.
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/fr/aspose.cells.slicers/slicer)
+* module [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/fr/aspose.cells.slicers/slicer)

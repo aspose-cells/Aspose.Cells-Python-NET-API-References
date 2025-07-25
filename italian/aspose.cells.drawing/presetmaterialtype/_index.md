@@ -1,29 +1,29 @@
 ---
-title: PresetMaterialType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione PresetMaterialType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1070
+weight: 1060
 url: /it/aspose.cells.drawing/presetmaterialtype/
 is_root: false
 ---
-##  PresetMaterialType enumerazione
-Descrive l'aspetto della superficie di una forma.
+##  Enumerazione PresetMaterialType
+Descrive l'aspetto superficiale di una forma.
 
 
 
-Il tipo PresetMaterialType espone i membri seguenti:
+Il tipo PresetMaterialType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | CLEAR | Chiaro|
-| DARK_EDGE | Bordo scuro|
+| DARK_EDGE | bordo scuro|
 | FLAT | Piatto|
 | LEGACY_MATTE | Legacy opaco|
-| LEGACY_METAL | Metallo antico|
-| LEGACY_PLASTIC | Plastica preesistente|
-| LEGACY_WIREFRAME | Wireframe precedente|
+| LEGACY_METAL | Metallo ereditario|
+| LEGACY_PLASTIC | Plastica legacy|
+| LEGACY_WIREFRAME |Wireframe legacy|
 | MATTE | Opaco|
 | METAL | Metallo|
 | PLASTIC | Plastica|
@@ -36,4 +36,4 @@ Il tipo PresetMaterialType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

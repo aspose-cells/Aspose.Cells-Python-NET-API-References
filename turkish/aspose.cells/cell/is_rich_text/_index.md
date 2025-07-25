@@ -3,16 +3,17 @@ title: is_rich_text yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells/cell/is_rich_text/
 is_root: false
 ---
-##  is_rich_text {#}
-Bu hücrenin dize değerinin zengin biçimlendirilmiş bir metin olup olmadığını belirtir.
+##  is_rich_text(self) {#}
+Bu hücrenin dize değerinin zengin biçimlendirilmiş metin olup olmadığını gösterir.
 
 
 
 ```python
+
 def is_rich_text(self):
     ...
 ```

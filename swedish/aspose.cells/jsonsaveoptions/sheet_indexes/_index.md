@@ -3,7 +3,7 @@ title: sheet_indexes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 210
 url: /sv/aspose.cells/jsonsaveoptions/sheet_indexes/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sheet_indexes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonSaveOptions](/cells/python-net/sv/aspose.cells/jsonsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonSaveOptions`](/cells/python-net/sv/aspose.cells/jsonsaveoptions)

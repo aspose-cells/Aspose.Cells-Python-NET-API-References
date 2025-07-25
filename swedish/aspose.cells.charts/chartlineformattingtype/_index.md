@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
 ##  ChartLineFormattingType uppräkning
-Representerar linjeformattyp av diagramlinje.
+Representerar linjeformattypen för diagramlinjen.
 
 
 
@@ -19,7 +19,7 @@ Typen ChartLineFormattingType avslöjar följande medlemmar:
 | :- | :- |
 | AUTOMATIC | Representerar automatisk formateringstyp.|
 | SOLID | Representerar solid formateringstyp.|
-| NONE |Representerar ingen formateringstyp.|
+| NONE | Representerar ingen formateringstyp.|
 | GRADIENT | Lutning|
 
 

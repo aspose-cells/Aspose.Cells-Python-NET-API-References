@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.rendering/sheetrender/dispose/
 is_root: false
 ---
-##  dispose {#}
-Frigör resurser som skapats och används för rendering.
+##  dispose(self) {#}
+Frigör resurser som skapats och använts för rendering.
 
 
 
 ```python
+
 def dispose(self):
     ...
 ```

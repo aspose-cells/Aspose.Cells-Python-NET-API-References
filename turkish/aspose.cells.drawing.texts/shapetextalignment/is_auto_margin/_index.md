@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin mülk
 
-Metin çerçevesinin kenar boşluğunun otomatik olup olmadığını gösterir.
+Metin çerçevesinin kenar boşluğunun otomatik olup olmadığını belirtir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

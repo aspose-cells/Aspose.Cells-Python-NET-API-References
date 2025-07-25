@@ -3,16 +3,16 @@ title: css_styles mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 140
 url: /tr/aspose.cells/htmlsaveoptions/css_styles/
 is_root: false
 ---
 ##  css_styles mülk
 
 Biçimlendirici için ek CSS stillerini alır veya ayarlar.
-Yalnızca [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/tr/aspose.cells/htmlsaveoptions#save_as_single_file) Doğru olduğunda çalışır.
+Sadece [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/tr/aspose.cells/htmlsaveoptions#save_as_single_file) True olduğunda çalışır.
 
-CssStyles = "gövde { dolgu: 5 piksel }";
+CssStyles="body { dolgu: 5px }";
 ###  Tanım:
 ```python
 @property

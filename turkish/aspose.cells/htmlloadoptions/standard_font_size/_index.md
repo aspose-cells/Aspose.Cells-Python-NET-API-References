@@ -3,7 +3,7 @@ title: standard_font_size mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 350
 url: /tr/aspose.cells/htmlloadoptions/standard_font_size/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Varsayılan standart yazı tipi boyutunu ayarlar.
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Bunun yerine lütfen DefaultStyleSettings'i kullanın.
- Bu mülk, Mart 2022'den 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık kullanım dışıdır. Lütfen bunun yerine DefaultStyleSettings kullanın.
+ Bu özellik Mart 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

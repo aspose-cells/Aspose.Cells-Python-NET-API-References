@@ -3,13 +3,13 @@ title: is_protected propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 270
+weight: 300
 url: /fr/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---
 ##  is_protected propriété
 
-Obtient une valeur qui indique si la structure ou la fenêtre du Workbook est protégée.
+Obtient une valeur qui indique si la structure ou la fenêtre du classeur est protégée.
 ###  Définition:
 ```python
 @property

@@ -1,9 +1,9 @@
 ---
 title: write_protection недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 640
+weight: 650
 url: /ru/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---

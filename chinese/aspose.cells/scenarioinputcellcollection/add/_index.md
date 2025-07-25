@@ -1,14 +1,14 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
-添加一个输入单元格。
+##  add(self, row, column, value) {#int-int-str}
+添加输入单元。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -31,5 +32,5 @@ def add(self, row, column, value):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ScenarioInputCellCollection](/cells/python-net/zh/aspose.cells/scenarioinputcellcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ScenarioInputCellCollection`](/cells/python-net/zh/aspose.cells/scenarioinputcellcollection)

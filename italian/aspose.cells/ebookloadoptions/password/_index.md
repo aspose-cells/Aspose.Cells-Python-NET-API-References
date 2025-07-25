@@ -1,15 +1,15 @@
 ---
 title: password proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 300
 url: /it/aspose.cells/ebookloadoptions/password/
 is_root: false
 ---
 ##  password proprietà
 
-Ottiene e imposta lo password della cartella di lavoro.
+Ottiene e imposta il valore password della cartella di lavoro.
 ###  Definizione:
 ```python
 @property

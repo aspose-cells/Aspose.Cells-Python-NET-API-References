@@ -1,5 +1,5 @@
 ---
-title: font_size الملكية
+title: font_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.drawing/texteffectformat/font_size/
 is_root: false
 ---
-##  font_size الملكية
+##  font_size عقار
 
 حجم الخط (بالنقاط) المستخدم في WordArt.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

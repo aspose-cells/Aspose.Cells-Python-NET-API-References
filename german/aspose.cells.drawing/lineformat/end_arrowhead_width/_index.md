@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_width Eigentum
 
-Ruft den Breitentyp des Endpfeils der Linie ab und legt diesen fest.
+Ruft den Endpfeilbreitentyp der Linie ab und legt ihn fest.
 
 ###  Beispiel
 
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [LineFormat](/cells/python-net/de/aspose.cells.drawing/lineformat)
-* Klasse [MsoArrowheadWidth](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`LineFormat`](/cells/python-net/de/aspose.cells.drawing/lineformat)
+* Klasse [`MsoArrowheadWidth`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadwidth)

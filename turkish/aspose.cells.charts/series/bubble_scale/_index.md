@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  bubble_scale mülk
 
- Belirtilen grafik grubundaki kabarcıklar için ölçek faktörünü alır veya ayarlar.
- 0 (sıfır) ile 300 arasında bir tamsayı değeri olabilir,
+ Belirtilen grafik grubundaki baloncuklar için ölçek faktörünü alır veya ayarlar.
+ 0 (sıfır) ile 300 arasında bir tam sayı değeri olabilir,
 varsayılan boyutun bir yüzdesine karşılık gelir.
-Yalnızca kabarcık grafikleri için geçerlidir.
+Sadece balon grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property

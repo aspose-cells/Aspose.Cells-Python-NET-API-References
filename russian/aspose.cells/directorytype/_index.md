@@ -1,9 +1,9 @@
 ---
 title: DirectoryType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2030
+weight: 1940
 url: /ru/aspose.cells/directorytype/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| VOLUME | Представляет букву диска MS-DOS. За ним следует буква диска.<br/>Или имена файлов UNC, например \\server\share\myfile.xls.|
-| SAME_VOLUME | Указывает, что исходная книга находится на том же диске, что и зависимая книга (буква диска опущена).|
+| VOLUME | Обозначает букву диска MS-DOS. За ней следует буква диска.<br/> Или имена файлов UNC, например \\server\share\myfile.xls|
+| SAME_VOLUME | Указывает, что исходная книга находится на том же диске, что и зависимая книга (буква диска не указывается)|
 | DOWN_DIRECTORY | Указывает, что исходная книга находится в подкаталоге текущего каталога.|
 | UP_DIRECTORY | Указывает, что исходная книга находится в родительском каталоге текущего каталога.|
 

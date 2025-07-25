@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paper_width propriété
 
-Obtient la largeur du papier en pouces, en tenant compte de l'orientation de la page.
+Obtient la largeur du papier en pouces, compte tenu de l'orientation de la page.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def paper_width(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

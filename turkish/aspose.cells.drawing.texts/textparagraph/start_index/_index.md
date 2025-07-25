@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_index mülk
 
-Karakterlerin başlangıç dizinini alır.
+Karakterlerin başlangıç indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_index(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

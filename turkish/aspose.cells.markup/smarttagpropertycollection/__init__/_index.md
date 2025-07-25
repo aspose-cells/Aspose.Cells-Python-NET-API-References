@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.markup/smarttagpropertycollection/__init__/
 is_root: false
 ---
-##  SmartTagPropertyCollection() {#}
+##  \_\_init\_\_(kendi){#}
 SmartTagPropertyCollection'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagPropertyCollection](/cells/python-net/tr/aspose.cells.markup/smarttagpropertycollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagPropertyCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagpropertycollection)

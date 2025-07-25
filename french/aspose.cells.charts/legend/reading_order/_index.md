@@ -3,13 +3,13 @@ title: reading_order propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 370
 url: /fr/aspose.cells.charts/legend/reading_order/
 is_root: false
 ---
 ##  reading_order propriété
 
-Représente l’ordre de lecture du texte.
+Représente l'ordre de lecture du texte.
 ###  Définition:
 ```python
 @property

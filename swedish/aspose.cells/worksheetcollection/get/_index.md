@@ -7,8 +7,8 @@ weight: 90
 url: /sv/aspose.cells/worksheetcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
+##  get(self, index) {#int}
+Lägg till API for Python Via .Net. eftersom detta[int index] inte stöds.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, index):
 | index | int | Elementets nollbaserade index.|
 
 
-##  get(sheet_name) {#str}
-Lägg till API for Python Via .Net.eftersom detta [strängarknamn] inte stöds
+##  get(self, sheet_name) {#str}
+Lägg till API for Python Via .Net. eftersom detta [sträng sheetName] inte stöds.
 
 
 ###  Returnerar
@@ -37,6 +38,7 @@ Lägg till API for Python Via .Net.eftersom detta [strängarknamn] inte stöds
 
 
 ```python
+
 def get(self, sheet_name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, sheet_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| sheet_name | str | Arbetsbladsnamn|
+| sheet_name | str | Arbetsbladets namn|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

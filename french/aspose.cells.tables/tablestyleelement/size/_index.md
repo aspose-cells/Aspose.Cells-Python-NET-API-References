@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [TableStyleElement](/cells/python-net/fr/aspose.cells.tables/tablestyleelement)
+* module [`aspose.cells.tables`](../../)
+* classe [`TableStyleElement`](/cells/python-net/fr/aspose.cells.tables/tablestyleelement)

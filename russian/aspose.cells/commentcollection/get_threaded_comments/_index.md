@@ -1,22 +1,23 @@
 ---
 title: get_threaded_comments метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Получает цепочку комментариев по имени ячейки.
+##  get_threaded_comments(self, cell_name) {#str}
+Получает связанные комментарии по имени ячейки.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_threaded_comments(self, cell_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| cell_name | str | Имя ячейки.|
+| cell_name | str | Название ячейки.|
 
 ###  Пример
 
@@ -38,16 +39,17 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Получает цепочку комментариев по индексу строки и столбца.
+##  get_threaded_comments(self, row, column) {#int-int}
+Получает связанные комментарии по индексу строки и столбца.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CommentCollection](/cells/python-net/ru/aspose.cells/commentcollection)
+* модуль [`aspose.cells`](../../)
+* класс [`CommentCollection`](/cells/python-net/ru/aspose.cells/commentcollection)

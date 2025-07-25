@@ -3,12 +3,12 @@ title: FontSetting klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 700
+weight: 690
 url: /sv/aspose.cells/fontsetting/
 is_root: false
 ---
 ##  FontSetting klass
-Representerar ett teckenintervall i celltexten.
+Representerar ett teckenintervall inom celltexten.
 
 
 
@@ -17,15 +17,15 @@ Typen FontSetting avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.WorksheetCollection) |  |
+| [`__init__(self, start_index, length, sheets)`](/cells/python-net/sv/aspose.cells/fontsetting/__init__/#int-int-aspose.cells.worksheetcollection) |  |
 
 
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells/fontsetting/type) | Hämtar typen av textnod.|
-| [start_index](/cells/python-net/sv/aspose.cells/fontsetting/start_index) |Hämtar startindex för tecknen.|
-| [length](/cells/python-net/sv/aspose.cells/fontsetting/length) | Får längden på karaktärerna.|
+| [type](/cells/python-net/sv/aspose.cells/fontsetting/type) |Hämtar typen av textnod.|
+| [start_index](/cells/python-net/sv/aspose.cells/fontsetting/start_index) | Hämtar startindexet för tecknen.|
+| [length](/cells/python-net/sv/aspose.cells/fontsetting/length) | Hämtar längden på tecknen.|
 | [font](/cells/python-net/sv/aspose.cells/fontsetting/font) | Returnerar teckensnittet för detta objekt.|
 | [text_options](/cells/python-net/sv/aspose.cells/fontsetting/text_options) | Returnerar textalternativen.|
 
@@ -33,7 +33,7 @@ Typen FontSetting avslöjar följande medlemmar:
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_word_art_style](/cells/python-net/sv/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.PresetWordArtStyle) | Ställer in den förinställda WordArt-stilen.|
+| [`set_word_art_style(self, style)`](/cells/python-net/sv/aspose.cells/fontsetting/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) | Ställer in den förinställda WordArt-stilen.|
 
 
 

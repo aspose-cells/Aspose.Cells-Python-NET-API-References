@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete propiedad
 
-Permiso para copiar o extraer contenido Obsoleto según referencia PDF.
+Permiso para copiar o extraer contenido Obsoleto según la referencia PDF.
 
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice la propiedad ExtractContentPermission.
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad ExtractContentPermission.
  Esta propiedad será eliminada 12 meses después desde septiembre de 2023.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

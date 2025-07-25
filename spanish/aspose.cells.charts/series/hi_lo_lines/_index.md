@@ -10,7 +10,7 @@ is_root: false
 ##  hi_lo_lines propiedad
 
 Devuelve un objeto HiLoLines que representa las líneas altas y bajas de una serie en un gráfico de líneas.
-Se aplica solo a gráficos de líneas.
+Se aplica sólo a gráficos de líneas.
 ###  Definición:
 ```python
 @property

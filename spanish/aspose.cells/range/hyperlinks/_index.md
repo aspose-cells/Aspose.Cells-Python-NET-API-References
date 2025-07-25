@@ -3,13 +3,13 @@ title: hyperlinks propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 450
 url: /es/aspose.cells/range/hyperlinks/
 is_root: false
 ---
 ##  hyperlinks propiedad
 
-Obtiene todos los hipervínculos del rango.
+Obtiene todos los hipervínculos en el rango.
 ###  Definición:
 ```python
 @property

@@ -3,13 +3,13 @@ title: image_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 610
 url: /es/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
 ##  image_type propiedad
 
-Obtiene el formato de imagen del objeto antiguo.
+Obtiene el formato de imagen del objeto ole.
 ###  Definición:
 ```python
 @property

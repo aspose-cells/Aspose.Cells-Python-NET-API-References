@@ -1,0 +1,25 @@
+---
+title: width_pixel mülk
+second_title: Aspose.Cells for Python via .NET API Referanslar
+description:
+type: docs
+weight: 450
+url: /tr/aspose.cells.charts/title/width_pixel/
+is_root: false
+---
+##  width_pixel mülk
+
+Çerçevenin genişliğini Piksel cinsinden alır veya ayarlar.
+###  Tanım:
+```python
+@property
+def width_pixel(self):
+    ...
+@width_pixel.setter
+def width_pixel(self, value):
+    ...
+```
+
+###  Ayrıca bakınız
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Title`](/cells/python-net/tr/aspose.cells.charts/title)

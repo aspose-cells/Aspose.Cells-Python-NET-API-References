@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/rowcollection/clear/
 is_root: false
 ---
-##  clear() {#}
-امسح كل الصفوف والخلايا.
+##  clear(self) {#}
+مسح كافة الصفوف والخلايا.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [RowCollection](/cells/python-net/ar/aspose.cells/rowcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`RowCollection`](/cells/python-net/ar/aspose.cells/rowcollection)

@@ -3,17 +3,17 @@ title: merge_areas Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 550
+weight: 630
 url: /de/aspose.cells/htmlsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas Eigentum
 
-Gibt an, ob die Bereiche der bedingten Formatierung und Validierung vor dem Speichern der Datei zusammengeführt werden.
+Gibt an, ob die Bereiche der bedingten Formatierung und Validierung vor dem Speichern der Datei zusammengeführt werden sollen.
 
 ###  Bemerkungen
 
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

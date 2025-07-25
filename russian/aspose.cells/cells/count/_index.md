@@ -1,15 +1,15 @@
 ---
 title: count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1020
+weight: 1040
 url: /ru/aspose.cells/cells/count/
 is_root: false
 ---
 ##  count недвижимость
 
-Получает общее количество count экземпляров Cell объектов.
+Получает общее количество созданных объектов: count.
 ###  Определение:
 ```python
 @property

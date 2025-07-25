@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells/databar/to_image/
 is_root: false
 ---
-##  to_image(cell, img_opts) {#Cell-aspose.cells.rendering.ImageOrPrintOptions}
-Rendern Sie den Datenbalken in der Zelle in ein Bild-Byte-Array.
+##  to_image(self, cell, img_opts) {#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions}
+Rendern Sie den Datenbalken in der Zelle in ein Bildbyte-Array.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Rendern Sie den Datenbalken in der Zelle in ein Bild-Byte-Array.
 
 
 ```python
+
 def to_image(self, cell, img_opts):
     ...
 ```
@@ -24,11 +25,11 @@ def to_image(self, cell, img_opts):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/de/aspose.cells/cell) | Geben Sie die Datenleiste an, in der die Zelle gerendert werden soll|
+| cell | [`Cell`](/cells/python-net/de/aspose.cells/cell) |Geben Sie den Datenbalken an, in dem die Zelle gerendert werden soll|
 | img_opts | aspose.cells.rendering.ImageOrPrintOptions | ImageOrPrintOptions enthält einige Eigenschaften des Ausgabebildes|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataBar](/cells/python-net/de/aspose.cells/databar)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataBar`](/cells/python-net/de/aspose.cells/databar)

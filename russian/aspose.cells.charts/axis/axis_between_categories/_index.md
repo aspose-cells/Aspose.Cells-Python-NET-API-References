@@ -1,6 +1,6 @@
 ---
 title: axis_between_categories недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_between_categories недвижимость
 
-Указывает, пересекает ли ось значений ось категорий между категориями.
+Показывает, пересекает ли ось значений ось категорий между категориями.
 
 ###  Примечания
 

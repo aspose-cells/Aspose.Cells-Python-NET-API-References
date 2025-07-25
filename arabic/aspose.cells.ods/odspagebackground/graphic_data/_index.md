@@ -1,5 +1,5 @@
 ---
-title: graphic_data الملكية
+title: graphic_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.ods/odspagebackground/graphic_data/
 is_root: false
 ---
-##  graphic_data الملكية
+##  graphic_data عقار
 
-الحصول على البيانات الرسومية وتعيينها.
+يحصل على البيانات الرسومية ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def graphic_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsPageBackground](/cells/python-net/ar/aspose.cells.ods/odspagebackground)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsPageBackground`](/cells/python-net/ar/aspose.cells.ods/odspagebackground)

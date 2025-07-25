@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Adın görünür olup olmadığını gösterir.
+İsmin görünür olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

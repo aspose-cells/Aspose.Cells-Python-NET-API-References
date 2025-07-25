@@ -3,13 +3,13 @@ title: password عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 300
 url: /ar/aspose.cells/ebookloadoptions/password/
 is_root: false
 ---
 ##  password عقار
 
-الحصول على الرقم password من المصنف وتعيينه.
+يحصل على password من المصنف ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

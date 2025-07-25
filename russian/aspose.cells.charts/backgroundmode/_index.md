@@ -1,6 +1,6 @@
 ---
 title: BackgroundMode перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 380
@@ -17,7 +17,7 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC |Автоматический|
+| AUTOMATIC | Автоматический|
 | OPAQUE | Непрозрачный|
 | TRANSPARENT | Прозрачный|
 

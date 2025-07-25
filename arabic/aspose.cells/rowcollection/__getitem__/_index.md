@@ -1,16 +1,16 @@
 ---
-title: RowCollection مفهرس
+title: RowCollection فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/rowcollection/__getitem__/
 is_root: false
 ---
-##  RowCollection مفهرس
+##  RowCollection فهرس
 
-يحصل على عنصر [Row](/cells/python-net/ar/aspose.cells/row) من خلال فهرس الصف المحدد. سيتم إنشاء كائن الصف لفهرس الصف المحدد إذا لم يكن موجودًا من قبل.
-###  مفهرس
+يحصل على الكائن [`Row`](/cells/python-net/ar/aspose.cells/row) بمؤشر الصف المُعطى. سيتم إنشاء كائن الصف بمؤشر الصف المُعطى إذا لم يكن موجودًا من قبل.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index |  |
@@ -18,6 +18,6 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
-* فئة [RowCollection](/cells/python-net/ar/aspose.cells/rowcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)
+* فئة [`RowCollection`](/cells/python-net/ar/aspose.cells/rowcollection)

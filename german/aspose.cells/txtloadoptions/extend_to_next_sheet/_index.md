@@ -10,13 +10,13 @@ is_root: false
 ##  extend_to_next_sheet Eigentum
 
 Ob die Daten auf das nächste Blatt erweitert werden, wenn die Datenzeilen oder -spalten den Grenzwert überschreiten.
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
 Wenn diese Eigenschaft wahr ist, werden zusätzliche Daten in das nächste Blatt hinter dem aktuellen eingefügt
-(Wenn das aktuelle Blatt das letzte ist, wird das neue Blatt an die aktuelle Arbeitsmappe angehängt).
-Wenn diese Eigenschaft falsch ist, werden die Daten, die den Grenzwert überschreiten, ignoriert.
+(Wenn das aktuelle Blatt das letzte ist, wird das neue Blatt an die aktuelle Arbeitsmappe angehängt.)
+Wenn diese Eigenschaft falsch ist, werden die Daten, die das Limit überschreiten, ignoriert.
 ###  Definition:
 ```python
 @property

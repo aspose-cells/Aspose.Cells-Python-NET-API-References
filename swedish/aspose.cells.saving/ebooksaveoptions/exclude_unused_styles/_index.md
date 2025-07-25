@@ -3,17 +3,17 @@ title: exclude_unused_styles fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 220
 url: /sv/aspose.cells.saving/ebooksaveoptions/exclude_unused_styles/
 is_root: false
 ---
 ##  exclude_unused_styles fastighet
 
-Anger om oanvända stilar utesluts.
-För de genererade html-filerna kan filstorleken bli mindre om du utesluter oanvända formatmallar
-utan att påverka de visuella effekterna. Så standardvärdet för den här egenskapen är sant.
-Om användaren behöver behålla alla stilar i arbetsboken för den genererade HTML-koden (som scenariot för den användaren
-behöver återställa arbetsboken från den genererade HTML-koden senare), vänligen ställ in den här egenskapen som falsk.
+Anger om oanvända stilar ska exkluderas.
+För de genererade html-filerna kan exkludering av oanvända stilar göra filstorleken mindre
+utan att påverka de visuella effekterna. Standardvärdet för den här egenskapen är alltså sant.
+Om användaren behöver behålla alla stilar i arbetsboken för den genererade html-koden (t.ex. i det scenario som användaren
+behöver återställa arbetsboken från den genererade html-filen senare), vänligen ange den här egenskapen som falsk.
 ###  Definition:
 ```python
 @property

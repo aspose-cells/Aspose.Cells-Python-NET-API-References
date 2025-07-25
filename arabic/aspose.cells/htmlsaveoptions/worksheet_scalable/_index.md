@@ -3,13 +3,13 @@ title: worksheet_scalable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 810
 url: /ar/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
 ##  worksheet_scalable عقار
 
-يشير إلى ما إذا كان تكبير أو تصغير html عبر مستوى تكبير ورقة العمل عند حفظ الملف إلى html، فإن القيمة الافتراضية خاطئة.
+يشير إلى ما إذا كان يتم تكبير أو تصغير HTML عبر مستوى تكبير ورقة العمل عند حفظ الملف في HTML، والقيمة الافتراضية هي False.
 ###  تعريف:
 ```python
 @property

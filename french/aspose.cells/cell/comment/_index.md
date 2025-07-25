@@ -3,7 +3,7 @@ title: comment propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 430
 url: /fr/aspose.cells/cell/comment/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient le comment de cette cellule.
 
 ###  Remarques
 
-S'il n'y a pas de comment appliqué à la cellule, renvoie null.
+S'il n'y a pas de comment s'applique à la cellule, renvoie null.
 ###  Définition:
 ```python
 @property

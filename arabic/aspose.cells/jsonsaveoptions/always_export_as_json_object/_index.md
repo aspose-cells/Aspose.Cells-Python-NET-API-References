@@ -1,5 +1,5 @@
 ---
-title: always_export_as_json_object الملكية
+title: always_export_as_json_object عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/jsonsaveoptions/always_export_as_json_object/
 is_root: false
 ---
-##  always_export_as_json_object الملكية
+##  always_export_as_json_object عقار
 
-يشير إلى ما إذا كان يتم دائمًا تصدير Excel إلى json ككائن ، حتى لو كانت هناك ورقة عمل فقط في الملف.
+يشير إلى ما إذا كان سيتم دائمًا تصدير Excel إلى json ككائن، حتى لو كانت هناك ورقة عمل فقط في الملف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def always_export_as_json_object(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [JsonSaveOptions](/cells/python-net/ar/aspose.cells/jsonsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`JsonSaveOptions`](/cells/python-net/ar/aspose.cells/jsonsaveoptions)

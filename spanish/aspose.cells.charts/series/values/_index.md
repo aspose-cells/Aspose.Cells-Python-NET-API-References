@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values propiedad
 
-Representa los datos de la serie del gráfico.
+Representa el Y values de esta serie de cartas.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def values(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

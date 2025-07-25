@@ -3,7 +3,7 @@ title: first_visible_tab mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 210
 url: /tr/aspose.cells/workbooksettings/first_visible_tab/
 is_root: false
 ---

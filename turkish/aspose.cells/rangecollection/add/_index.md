@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/rangecollection/add/
 is_root: false
 ---
-##  add(range) {#Range}
-Koleksiyona bir [Range](/cells/python-net/tr/aspose.cells/range) öğe ekler.
+##  add(self, range) {#aspose.cells.Range}
+Koleksiyona [`Range`](/cells/python-net/tr/aspose.cells/range) numaralı ürünü ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Koleksiyona bir [Range](/cells/python-net/tr/aspose.cells/range) öğe ekler.
 
 
 ```python
+
 def add(self, range):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/tr/aspose.cells/range) | Menzil nesnesi|
+| range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Aralık nesnesi|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
-* sınıf [RangeCollection](/cells/python-net/tr/aspose.cells/rangecollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)
+* sınıf [`RangeCollection`](/cells/python-net/tr/aspose.cells/rangecollection)

@@ -3,12 +3,12 @@ title: CheckValueType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 780
 url: /sv/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
 ##  CheckValueType uppräkning
-Representerar typen av kontrollvärde för kryssrutan.
+Representerar kryssrutans kontrollvärdestyp.
 
 
 
@@ -24,4 +24,4 @@ Typen CheckValueType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

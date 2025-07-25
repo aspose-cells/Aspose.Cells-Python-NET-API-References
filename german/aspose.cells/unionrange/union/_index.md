@@ -3,12 +3,12 @@ title: union Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 110
+weight: 100
 url: /de/aspose.cells/unionrange/union/
 is_root: false
 ---
-##  union(range) {#str}
-Vereinen Sie einen anderen Bereich.
+##  union(self, range) {#str}
+Union ein weiterer Bereich.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Vereinen Sie einen anderen Bereich.
 
 
 ```python
+
 def union(self, range):
     ...
 ```
@@ -27,8 +28,8 @@ def union(self, range):
 | range | str | Die Reichweite.|
 
 
-##  union(union_range) {#UnionRange}
-Vereinen Sie einen anderen Bereich.
+##  union(self, union_range) {#aspose.cells.UnionRange}
+Union ein weiterer Bereich.
 
 
 ###  Kehrt zurück
@@ -37,6 +38,7 @@ Vereinen Sie einen anderen Bereich.
 
 
 ```python
+
 def union(self, union_range):
     ...
 ```
@@ -44,11 +46,11 @@ def union(self, union_range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/de/aspose.cells/unionrange) | Die Reichweite.|
+| union_range | [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange) | Die Reichweite.|
 
 
-##  union(ranges) {#list}
-Vereinen Sie die Bereiche.
+##  union(self, ranges) {#list}
+Vereinigen Sie die Bereiche.
 
 
 ###  Kehrt zurück
@@ -57,6 +59,7 @@ Vereinen Sie die Bereiche.
 
 
 ```python
+
 def union(self, ranges):
     ...
 ```
@@ -64,10 +67,10 @@ def union(self, ranges):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| ranges | list | Die Reichweiten.|
+| ranges | list | Die Bereiche.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

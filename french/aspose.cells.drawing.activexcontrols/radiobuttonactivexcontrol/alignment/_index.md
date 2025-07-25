@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment propriété
 
-Obtient et définit la position de Caption par rapport au contrôle.
+Obtient et définit la position de la légende par rapport au contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlCaptionAlignmentType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
-* classe [RadioButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlCaptionAlignmentType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

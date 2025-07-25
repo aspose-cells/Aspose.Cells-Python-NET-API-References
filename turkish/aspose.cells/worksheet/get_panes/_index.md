@@ -3,16 +3,17 @@ title: get_panes yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes {#}
-Pencere bölmelerini alır.
+##  get_panes(self) {#}
+Pencere camlarını alır.
 
 
 
 ```python
+
 def get_panes(self):
     ...
 ```
@@ -20,7 +21,7 @@ def get_panes(self):
 
 ###  Notlar
 
-Pencere bölünmemiş veya dondurulmamışsa.
+Eğer pencere bölünmemiş veya donmamışsa.
 
 
 ###  Ayrıca bakınız

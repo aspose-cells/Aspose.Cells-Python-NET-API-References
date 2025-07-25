@@ -1,5 +1,5 @@
 ---
-title: center_y الملكية
+title: center_y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 100
 url: /ar/aspose.cells.charts/walls/center_y/
 is_root: false
 ---
-##  center_y الملكية
+##  center_y عقار
 
-الحصول على إحداثي y للركن السفلي الأيسر من Wall center بوحدات 1/4000 من ارتفاع الرسم البياني بعد استدعاء طريقة Chart.Calculate ().
+يحصل على إحداثيات y للزاوية اليسرى السفلية من مركز الحائط بوحدات 1/4000 من ارتفاع الرسم البياني بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Walls](/cells/python-net/ar/aspose.cells.charts/walls)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Walls`](/cells/python-net/ar/aspose.cells.charts/walls)

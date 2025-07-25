@@ -3,13 +3,13 @@ title: is_automatic_min_value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 220
 url: /fr/aspose.cells.charts/axis/is_automatic_min_value/
 is_root: false
 ---
 ##  is_automatic_min_value propriété
 
-Indique si la valeur min est automatiquement attribuée.
+Indique si la valeur minimale est attribuée automatiquement.
 ###  Définition:
 ```python
 @property

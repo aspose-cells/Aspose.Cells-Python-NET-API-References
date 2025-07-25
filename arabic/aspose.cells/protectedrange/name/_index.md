@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells/protectedrange/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-يحصل على عنوان النطاق. يتم استخدام هذا كواصف ، وليس كتعريف نطاق مسمى.
+يحصل على عنوان النطاق. يُستخدم هذا كوصف، وليس كتعريف نطاق مُسمّى.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ProtectedRange](/cells/python-net/ar/aspose.cells/protectedrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ProtectedRange`](/cells/python-net/ar/aspose.cells/protectedrange)

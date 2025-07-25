@@ -1,16 +1,16 @@
 ---
 title: page_title proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 580
+weight: 670
 url: /it/aspose.cells.saving/ebooksaveoptions/page_title/
 is_root: false
 ---
 ##  page_title proprietà
 
-Il titolo della pagina html.
-Solo per il salvataggio nel flusso html.
+Il titolo della pagina HTML.
+Solo per il salvataggio nel flusso HTML.
 ###  Definizione:
 ```python
 @property

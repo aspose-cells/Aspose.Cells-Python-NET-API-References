@@ -1,6 +1,6 @@
 ---
 title: last_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [TableToRangeOptions](/cells/python-net/ru/aspose.cells.tables/tabletorangeoptions)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`TableToRangeOptions`](/cells/python-net/ru/aspose.cells.tables/tabletorangeoptions)

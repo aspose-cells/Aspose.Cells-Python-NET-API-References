@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells.slicers/slicercollection/add/
 is_root: false
 ---
-##  add(pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_name):
     ...
 ```
@@ -24,9 +25,9 @@ def add(self, pivot, dest_cell_name, base_field_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | dest_cell_name | str | Die Zelle in der oberen linken Ecke des Slicer-Bereichs.|
-| base_field_name | str | Der Name von PivotField in PivotTable.BaseFields|
+| base_field_name | str | Der Name des PivotFields in PivotTable.BaseFields|
 
 ###  Beispiel
 
@@ -37,16 +38,17 @@ slicers.add(pivot, "E3", "fruit")
 ```
 
 
-##  add(pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field_index):
     ...
 ```
@@ -54,7 +56,7 @@ def add(self, pivot, dest_cell_name, base_field_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | dest_cell_name | str | Die Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | base_field_index | int | Der Index von PivotField in PivotTable.BaseFields|
 
@@ -67,16 +69,17 @@ slicers.add(pivot, "E20", 0)
 ```
 
 
-##  add(pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, dest_cell_name, base_field):
     ...
 ```
@@ -84,7 +87,7 @@ def add(self, pivot, dest_cell_name, base_field):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | dest_cell_name | str | Die Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | base_field | aspose.cells.pivot.PivotField | Das PivotField in PivotTable.BaseFields|
 
@@ -97,16 +100,17 @@ slicers.add(pivot, "I3", pivot.base_fields[0])
 ```
 
 
-##  add(table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
-Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu
+##  add(self, table, index, dest_cell_name) {#aspose.cells.tables.ListObject-int-str}
+Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, table, index, dest_cell_name):
     ...
 ```
@@ -127,16 +131,17 @@ slicers.add(table, 1, "E38")
 ```
 
 
-##  add(table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
-Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu
+##  add(self, table, list_column, dest_cell_name) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str}
+Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, table, list_column, dest_cell_name):
     ...
 ```
@@ -157,16 +162,17 @@ slicers.add(table, table.list_columns[1], "I38")
 ```
 
 
-##  add(pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_name):
     ...
 ```
@@ -174,10 +180,10 @@ def add(self, pivot, row, column, base_field_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | row | int | Zeilenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | column | int | Spaltenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
-| base_field_name | str | Der Name von PivotField in PivotTable.BaseFields|
+| base_field_name | str | Der Name des PivotFields in PivotTable.BaseFields|
 
 ###  Beispiel
 
@@ -188,16 +194,17 @@ slicers.add(pivot, 20, 12, "fruit")
 ```
 
 
-##  add(pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, row, column, base_field_index) {#aspose.cells.pivot.PivotTable-int-int-int}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, row, column, base_field_index):
     ...
 ```
@@ -205,7 +212,7 @@ def add(self, pivot, row, column, base_field_index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | row | int | Zeilenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | column | int | Spaltenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | base_field_index | int | Der Index von PivotField in PivotTable.BaseFields|
@@ -219,16 +226,17 @@ slicers.add(pivot, 20, 8, 0)
 ```
 
 
-##  add(pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
-Fügen Sie einen neuen Slicer mit PivotTable als Datenquelle hinzu
+##  add(self, pivot, row, column, base_field) {#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField}
+Fügen Sie einen neuen Slicer hinzu, der PivotTable als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, pivot, row, column, base_field):
     ...
 ```
@@ -236,7 +244,7 @@ def add(self, pivot, row, column, base_field):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| pivot | aspose.cells.pivot.PivotTable |PivotTable-Objekt|
+| pivot | aspose.cells.pivot.PivotTable | PivotTable-Objekt|
 | row | int | Zeilenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | column | int | Spaltenindex der Zelle in der oberen linken Ecke des Slicer-Bereichs.|
 | base_field | aspose.cells.pivot.PivotField | Das PivotField in PivotTable.BaseFields|
@@ -250,16 +258,17 @@ slicers.add(pivot, 3, 12, pivot.base_fields[0])
 ```
 
 
-##  add(table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
-Fügen Sie einen neuen Slicer mit ListObjet als Datenquelle hinzu
+##  add(self, table, list_column, row, column) {#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int}
+Fügen Sie einen neuen Slicer hinzu, der ListObjet als Datenquelle verwendet
 
 
 ###  Kehrt zurück
 
-Der neue add Slicer Index
+Der neue Slicer-Index add
 
 
 ```python
+
 def add(self, table, list_column, row, column):
     ...
 ```
@@ -283,5 +292,5 @@ slicers.add(table, table.list_columns[1], 38, 12)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [SlicerCollection](/cells/python-net/de/aspose.cells.slicers/slicercollection)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`SlicerCollection`](/cells/python-net/de/aspose.cells.slicers/slicercollection)

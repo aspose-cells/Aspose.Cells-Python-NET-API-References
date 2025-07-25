@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/name/set_refers_to/
 is_root: false
 ---
-##  set_refers_to(refers_to, is_r1c1, is_local) {#str-bool-bool}
+##  set_refers_to(self, refers_to, is_r1c1, is_local) {#str-bool-bool}
 Ange referensen för detta namn.
 
 
 
 ```python
+
 def set_refers_to(self, refers_to, is_r1c1, is_local):
     ...
 ```
@@ -21,11 +22,11 @@ def set_refers_to(self, refers_to, is_r1c1, is_local):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | refers_to | str | Referensen.|
-| is_r1c1 | bool |Om referensen är R1C1-format.|
+| is_r1c1 | bool | Om referensen är i R1C1-format.|
 | is_local | bool | Om referensen är språkformaterad.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

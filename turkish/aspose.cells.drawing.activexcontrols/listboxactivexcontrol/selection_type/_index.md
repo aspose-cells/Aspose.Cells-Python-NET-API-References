@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selection_type mülk
 
-Kontrolün çoklu seçime izin verip vermediğini gösterir.
+Kontrolün birden fazla seçime izin verip vermediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* sınıf [SelectionType](/cells/python-net/tr/aspose.cells.drawing/selectiontype)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* sınıf [`SelectionType`](/cells/python-net/tr/aspose.cells.drawing/selectiontype)

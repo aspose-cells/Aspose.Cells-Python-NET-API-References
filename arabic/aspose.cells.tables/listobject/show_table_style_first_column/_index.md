@@ -1,13 +1,13 @@
 ---
-title: show_table_style_first_column الملكية
+title: show_table_style_first_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells.tables/listobject/show_table_style_first_column/
 is_root: false
 ---
-##  show_table_style_first_column الملكية
+##  show_table_style_first_column عقار
 
 يشير إلى ما إذا كان يجب تطبيق النمط على العمود الأول في الجدول.
 ###  تعريف:
@@ -21,5 +21,5 @@ def show_table_style_first_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

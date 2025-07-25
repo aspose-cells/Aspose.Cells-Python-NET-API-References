@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
+##  get_string_type(self) {#}
 Ruft den Zeichenfolgentyp in der Datenbank ab.
 
 
@@ -17,6 +17,7 @@ Ruft den Zeichenfolgentyp in der Datenbank ab.
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](../../)
-* Klasse [SqlScriptColumnTypeMap](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap)
+* Modul [`aspose.cells.saving`](../../)
+* Klasse [`SqlScriptColumnTypeMap`](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap)

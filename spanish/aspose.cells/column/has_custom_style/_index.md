@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_custom_style propiedad
 
-Indica si esta columna tiene una configuración de estilo personalizada (diferente a la predeterminada heredada del libro de trabajo).
+Indica si esta columna tiene configuraciones de estilo personalizadas (diferentes de la predeterminada heredada del libro de trabajo).
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_custom_style(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Column](/cells/python-net/es/aspose.cells/column)
+* módulo [`aspose.cells`](../../)
+* clase [`Column`](/cells/python-net/es/aspose.cells/column)

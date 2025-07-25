@@ -1,15 +1,15 @@
 ---
-title: blur 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: blur属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/shadoweffect/blur/
 is_root: false
 ---
-## blur 属性
+## blur属性
 
-获取和设置影子的 blur。范围从 0 到 100 分。
+获取并设置阴影的 blur。范围从 0 到 100 点。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShadowEffect](/cells/python-net/zh/aspose.cells.drawing/shadoweffect)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShadowEffect`](/cells/python-net/zh/aspose.cells.drawing/shadoweffect)

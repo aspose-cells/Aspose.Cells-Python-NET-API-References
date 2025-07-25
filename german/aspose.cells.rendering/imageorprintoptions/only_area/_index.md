@@ -3,13 +3,13 @@ title: only_area Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 210
 url: /de/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
 ##  only_area Eigentum
 
-Wenn diese Eigenschaft true ist, wird eine Fläche ausgegeben und es wird keine Skalierung wirksam.
+Wenn diese Eigenschaft true ist, wird ein Bereich ausgegeben und es wird kein Maßstab wirksam.
 ###  Definition:
 ```python
 @property

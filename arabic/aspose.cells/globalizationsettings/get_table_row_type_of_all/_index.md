@@ -7,9 +7,9 @@ weight: 230
 url: /ar/aspose.cells/globalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
+##  get_table_row_type_of_all(self) {#}
 يحصل على اسم نوع صفوف الجدول الذي يتكون من جميع الصفوف في الجدول المشار إليه.
-الافتراضي هو "الكل"، لذا في الصيغة "#All" يمثل كافة الصفوف في الجدول المشار إليه.
+الإعداد الافتراضي هو "الكل"، لذلك في الصيغة "#الكل" يمثل جميع الصفوف في الجدول المشار إليه.
 
 
 ###  عائدات
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

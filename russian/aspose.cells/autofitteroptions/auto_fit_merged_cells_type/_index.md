@@ -1,6 +1,6 @@
 ---
 title: auto_fit_merged_cells_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Примечания
 
-По умолчанию Excel игнорирует объединенные ячейки при подборе высоты строки, поэтому Aspose.Cells работает по умолчанию в MS Excel.
-Установите этот тип, чтобы изменить способ автоматического подбора высоты строки объединенных ячеек.
+По умолчанию Excel игнорирует объединенные ячейки при подгонке высоты строки, поэтому Aspose.Cells используется в качестве значения по умолчанию в MS Excel.
+Установите этот тип, чтобы изменить способ автоматической подгонки высоты строк объединенных ячеек.
 ###  Определение:
 ```python
 @property
@@ -26,6 +26,6 @@ def auto_fit_merged_cells_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AutoFitMergedCellsType](/cells/python-net/ru/aspose.cells/autofitmergedcellstype)
-* класс [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AutoFitMergedCellsType`](/cells/python-net/ru/aspose.cells/autofitmergedcellstype)
+* класс [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions)

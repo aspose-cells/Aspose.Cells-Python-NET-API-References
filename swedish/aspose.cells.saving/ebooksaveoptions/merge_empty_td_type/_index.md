@@ -3,13 +3,13 @@ title: merge_empty_td_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 650
 url: /sv/aspose.cells.saving/ebooksaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type fastighet
 
-Indikerar om tomt TD-element kommer att slås samman på samma sätt som MS Excel när en Excel-fil sparas i html-format.
+Möjligheten att sammanfoga sammanhängande tomma celler (tomma td-element)
 Standardvärdet är MergeEmptyTdType.Default.
 ###  Definition:
 ```python

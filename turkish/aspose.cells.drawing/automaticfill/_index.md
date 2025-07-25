@@ -12,15 +12,13 @@ otomatik doldurmayı temsil eder.
 
 
 
-**Miras:** [AutomaticFill](/cells/python-net/aspose.cells.drawing/automaticfill) → 
-[Fill](/cells/python-net/tr/aspose.cells.drawing/fill)
+**Miras:** [`AutomaticFill`](/cells/python-net/tr/aspose.cells.drawing/automaticfill)
 
 
 
-AutomaticFill türü aşağıdaki üyeleri gösterir:
+AutomaticFill türü aşağıdaki üyeleri ortaya çıkarır:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
-* sınıf [AutomaticFill](/cells/python-net/tr/aspose.cells.drawing/automaticfill)
-* sınıf [Fill](/cells/python-net/tr/aspose.cells.drawing/fill)
+* modül [`aspose.cells.drawing`](..)
+* sınıf [`AutomaticFill`](/cells/python-net/tr/aspose.cells.drawing/automaticfill)

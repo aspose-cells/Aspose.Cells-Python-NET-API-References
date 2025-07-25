@@ -12,7 +12,7 @@ Tüm metin paragrafını temsil eder.
 
 
 
-TextParagraphCollection türü aşağıdaki üyeleri gösterir:
+TextParagraphCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -21,20 +21,14 @@ TextParagraphCollection türü aşağıdaki üyeleri gösterir:
 
 
 
-[TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph) nesnesini belirli bir dizinde alır.
-###  İndeksleyici
+Belirli bir indeksteki [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph) nesnesini alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| [index] | İçerik.|
-
-
-###  Yöntemler
-| Yöntem| Tanım|
-| :- | :- |
-| [get_enumerator()](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Paragrafların numaralandırıcısını alır.|
+| [index] | Endeks.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
-* sınıf [TextParagraph](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)
+* modül [`aspose.cells.drawing.texts`](..)
+* sınıf [`TextParagraph`](/cells/python-net/tr/aspose.cells.drawing.texts/textparagraph)

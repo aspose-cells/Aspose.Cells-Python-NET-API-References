@@ -7,16 +7,17 @@ weight: 180
 url: /zh/aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
-##  register_add_in_function {#int-str}
-将插件功能添加到工作簿中
+##  register_add_in_function(self, id, function_name) {#int-str}
+在工作簿中添加插件功能
 
 
-### 退货
+### 返回
 
-包含插件函数的插件文件的 URL
+包含插件函数的插件文件的URL
 
 
 ```python
+
 def register_add_in_function(self, id, function_name):
     ...
 ```
@@ -28,16 +29,17 @@ def register_add_in_function(self, id, function_name):
 | function_name | str |插件函数名称|
 
 
-##  register_add_in_function {#str-str-bool}
-将插件功能添加到工作簿中
+##  register_add_in_function(self, add_in_file, function_name, lib) {#str-str-bool}
+在工作簿中添加插件功能
 
 
-### 退货
+### 返回
 
-包含给定插件函数的数据的 ID
+包含指定插件函数的数据ID
 
 
 ```python
+
 def register_add_in_function(self, add_in_file, function_name, lib):
     ...
 ```
@@ -47,7 +49,7 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 | :- | :- | :- |
 | add_in_file | str |该文件包含插件函数|
 | function_name | str |插件函数名称|
-| lib | bool |给定的加载项文件是否位于工作簿加载项库的目录或子目录中。<br/>当给定的 addInFile 是相对路径时，此标志生效并产生影响：<br/> true 表示路径相对于加载项库，false 表示路径相对于此工作簿。|
+| lib | bool |给定的插件文件是否位于 Workbook 插件库的目录或子目录中。<br/>当给定的 addInFile 为相对路径时，此标志生效并产生差异：<br/> true 表示该路径与加载项库相关，false 表示该路径与此工作簿相关。|
 
 
 

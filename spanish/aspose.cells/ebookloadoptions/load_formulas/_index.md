@@ -3,7 +3,7 @@ title: load_formulas propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 270
+weight: 250
 url: /es/aspose.cells/ebookloadoptions/load_formulas/
 is_root: false
 ---

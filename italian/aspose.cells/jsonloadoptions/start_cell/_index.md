@@ -1,9 +1,9 @@
 ---
 title: start_cell proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 270
 url: /it/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---

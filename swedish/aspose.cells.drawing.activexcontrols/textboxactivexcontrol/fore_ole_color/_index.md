@@ -8,12 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/fore_ole_col
 is_root: false
 ---
 ##  fore_ole_color fastighet
-
-Får och ställer in olefärgen på förgrunden.
-
-###  Anmärkningar
-
-Gäller inte bildkontroll.
 ###  Definition:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

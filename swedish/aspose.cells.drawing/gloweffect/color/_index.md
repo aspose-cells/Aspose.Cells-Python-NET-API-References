@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Får color för glödeffekten.
+Hämtar color för glödeffekten.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [GlowEffect](/cells/python-net/sv/aspose.cells.drawing/gloweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`GlowEffect`](/cells/python-net/sv/aspose.cells.drawing/gloweffect)

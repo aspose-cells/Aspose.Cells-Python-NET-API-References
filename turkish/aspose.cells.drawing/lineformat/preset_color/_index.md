@@ -18,6 +18,6 @@ def preset_color(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GradientPresetType](/cells/python-net/tr/aspose.cells.drawing/gradientpresettype)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GradientPresetType`](/cells/python-net/tr/aspose.cells.drawing/gradientpresettype)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)

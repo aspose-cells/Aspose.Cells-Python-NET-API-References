@@ -10,7 +10,7 @@ is_root: false
 ##  metadata_table mülk
 
 Gerçekleşen belirli değişikliklerin bir listesi hakkında meta verileri içeren tabloyu alır
-bu çalışma kitabı için
+Bu çalışma kitabı için.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionHeader](/cells/python-net/tr/aspose.cells.revisions/revisionheader)
-* sınıf [RevisionLog](/cells/python-net/tr/aspose.cells.revisions/revisionlog)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionHeader`](/cells/python-net/tr/aspose.cells.revisions/revisionheader)
+* sınıf [`RevisionLog`](/cells/python-net/tr/aspose.cells.revisions/revisionlog)

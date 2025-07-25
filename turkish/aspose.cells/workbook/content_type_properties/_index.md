@@ -3,7 +3,7 @@ title: content_type_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 480
+weight: 500
 url: /tr/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---

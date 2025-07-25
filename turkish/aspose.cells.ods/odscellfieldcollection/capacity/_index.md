@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellFieldCollection](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellFieldCollection`](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)

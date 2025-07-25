@@ -1,6 +1,6 @@
 ---
 title: export_empty_cells proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def export_empty_cells(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](../../)
-* classe [ExportRangeToJsonOptions](/cells/python-net/it/aspose.cells.utility/exportrangetojsonoptions)
+* modulo [`aspose.cells.utility`](../../)
+* classe [`ExportRangeToJsonOptions`](/cells/python-net/it/aspose.cells.utility/exportrangetojsonoptions)

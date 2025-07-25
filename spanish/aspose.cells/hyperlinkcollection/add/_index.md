@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells/hyperlinkcollection/add/
 is_root: false
 ---
-##  add(cell_name, total_rows, total_columns, address) {#str-int-int-str}
+##  add(self, cell_name, total_rows, total_columns, address) {#str-int-int-str}
 Agrega un hipervínculo a una celda específica o a un rango de celdas.
 
 
 ###  Devoluciones
 
-[Hyperlink](/cells/python-net/es/aspose.cells/hyperlink) índice de objetos.
+Índice de objeto [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink).
 
 
 ```python
+
 def add(self, cell_name, total_rows, total_columns, address):
     ...
 ```
@@ -26,20 +27,21 @@ def add(self, cell_name, total_rows, total_columns, address):
 | :- | :- | :- |
 | cell_name | str | Cell nombre.|
 | total_rows | int | Número de filas en este rango de hipervínculo.|
-| total_columns | int | Número de columnas de este rango de hipervínculo.|
+| total_columns | int |Número de columnas de este rango de hipervínculo.|
 | address | str | Dirección del hipervínculo.|
 
 
-##  add(first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
+##  add(self, first_row, first_column, total_rows, total_columns, address) {#int-int-int-int-str}
 Agrega un hipervínculo a una celda específica o a un rango de celdas.
 
 
 ###  Devoluciones
 
-[Hyperlink](/cells/python-net/es/aspose.cells/hyperlink) índice de objetos.
+Índice de objeto [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink).
 
 
 ```python
+
 def add(self, first_row, first_column, total_rows, total_columns, address):
     ...
 ```
@@ -47,10 +49,10 @@ def add(self, first_row, first_column, total_rows, total_columns, address):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_row | int | Primera fila del rango del hipervínculo.|
-| first_column | int | Primera columna del rango del hipervínculo.|
+| first_row | int | Primera fila del rango de hipervínculos.|
+| first_column | int | Primera columna del rango de hipervínculos.|
 | total_rows | int | Número de filas en este rango de hipervínculo.|
-| total_columns | int | Número de columnas de este rango de hipervínculo.|
+| total_columns | int |Número de columnas de este rango de hipervínculo.|
 | address | str | Dirección del hipervínculo.|
 
 ###  Ejemplo
@@ -67,16 +69,17 @@ worksheet.hyperlinks.add("A5", 1, 1, "c:\\book1.xls")
 ```
 
 
-##  add(start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
+##  add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip) {#str-str-str-str-str}
 Agrega un hipervínculo a una celda específica o a un rango de celdas.
 
 
 ###  Devoluciones
 
-[Hyperlink](/cells/python-net/es/aspose.cells/hyperlink) índice de objetos.
+Índice de objeto [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink).
 
 
 ```python
+
 def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip):
     ...
 ```
@@ -84,15 +87,15 @@ def add(self, start_cell_name, end_cell_name, address, text_to_display, screen_t
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| start_cell_name | str | La celda superior izquierda del rango.|
+| start_cell_name | str |La celda superior izquierda del rango.|
 | end_cell_name | str | La celda inferior derecha del rango.|
 | address | str | Dirección del hipervínculo.|
 | text_to_display | str | El texto que se mostrará para el hipervínculo especificado.|
-| screen_tip | str |El texto de la información en pantalla para el hipervínculo especificado.|
+| screen_tip | str | El texto de información en pantalla para el hipervínculo especificado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Hyperlink](/cells/python-net/es/aspose.cells/hyperlink)
-* clase [HyperlinkCollection](/cells/python-net/es/aspose.cells/hyperlinkcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink)
+* clase [`HyperlinkCollection`](/cells/python-net/es/aspose.cells/hyperlinkcollection)

@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  is_gte propiedad
 
- Obtenga o establezca el indicador Mayor que o igual.
- Usar solo para conjuntos de íconos, determina si este valor de umbral usa
- el operador mayor o igual que.
-falso' indica que se usa 'mayor que' en lugar de 'mayor que o igual a'.
+ Obtenga o establezca la bandera Mayor o igual que.
+ Usar solo para conjuntos de iconos, determina si se utiliza este valor de umbral
+ El operador mayor o igual a.
+'falso' indica que se utiliza 'mayor que' en lugar de 'mayor o igual que'.
 El valor predeterminado es verdadero.
 ###  Definición:
 ```python
@@ -25,5 +25,5 @@ def is_gte(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingValue](/cells/python-net/es/aspose.cells/conditionalformattingvalue)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingValue`](/cells/python-net/es/aspose.cells/conditionalformattingvalue)

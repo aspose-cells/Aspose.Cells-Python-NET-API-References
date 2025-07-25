@@ -3,13 +3,13 @@ title: background_image属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 400
 url: /zh/aspose.cells/worksheet/background_image/
 is_root: false
 ---
 ## background_image属性
 
-获取和设置工作表背景图像。
+获取并设置工作表背景图像。
 ### 定义：
 ```python
 @property

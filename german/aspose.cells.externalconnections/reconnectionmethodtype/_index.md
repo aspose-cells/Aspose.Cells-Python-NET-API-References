@@ -17,11 +17,11 @@ Der Typ ReConnectionMethodType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| REQUIRED | Verwenden Sie beim Aktualisieren die vorhandenen Verbindungsinformationen und falls diese ungültig werden<br/> erhalten Sie dann aktualisierte Verbindungsinformationen, sofern verfügbar, aus der externen Verbindungsdatei.|
-| ALWAYS | Erhalten Sie bei jeder Aktualisierung aktualisierte Verbindungsinformationen aus der externen Verbindungsdatei,<br/> falls verfügbar, und verwenden Sie diese anstelle der vorhandenen Verbindungsinformationen.<br/> In diesem Fall schlägt die Datenaktualisierung fehl, wenn die externe Verbindungsdatei nicht verfügbar ist.|
-| NEVER | Erhalten Sie niemals aktualisierte Verbindungsinformationen aus der externen Verbindungsdatei<br/> auch wenn es verfügbar ist und selbst wenn die vorhandenen Verbindungsinformationen ungültig sind|
+| REQUIRED | Beim Aktualisieren werden die vorhandenen Verbindungsinformationen verwendet. Wenn diese ungültig sind,<br/> Rufen Sie dann aktualisierte Verbindungsinformationen ab, sofern diese aus der externen Verbindungsdatei verfügbar sind.|
+| ALWAYS | Bei jeder Aktualisierung werden die Verbindungsinformationen aus der externen Verbindungsdatei aktualisiert.<br/> falls verfügbar, und verwenden Sie diese anstelle der vorhandenen Verbindungsinformationen.<br/>In diesem Fall schlägt die Datenaktualisierung fehl, wenn die externe Verbindungsdatei nicht verfügbar ist.|
+| NEVER | Holen Sie sich niemals aktualisierte Verbindungsinformationen aus der externen Verbindungsdatei<br/> auch wenn es verfügbar ist und auch wenn die vorhandenen Verbindungsinformationen ungültig sind|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](..)
+* Modul [`aspose.cells.externalconnections`](..)

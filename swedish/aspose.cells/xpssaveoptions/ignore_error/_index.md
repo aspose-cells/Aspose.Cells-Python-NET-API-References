@@ -3,14 +3,11 @@ title: ignore_error fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 180
 url: /sv/aspose.cells/xpssaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error fastighet
-
-Indikerar om du behöver dölja felet under renderingen.
-Felet kan vara fel i form, bild, diagramrendering, etc.
 ###  Definition:
 ```python
 @property

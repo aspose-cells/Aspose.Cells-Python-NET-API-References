@@ -17,10 +17,10 @@ ChartTextDirectionType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| HORIZONTAL | Yatay yön türü.|
-| VERTICAL | Dikey yön türü.|
-| ROTATE90 | 90 açıyla döndürün.|
-| ROTATE270 | 270 açıyla döndürün.|
+| HORIZONTAL | Yatay yön tipi.|
+| VERTICAL | Dikey yön tipi.|
+| ROTATE90 | 90 derece döndürün.|
+| ROTATE270 | 270 derece döndürün.|
 | STACKED | Yığılmış metin.|
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_data_filter_options mülk
 
-Hangi verilerin yüklenmesi gerektiğini gösteren filtre seçenekleri.
+Hangi verilerin yükleneceğini belirtmek için kullanılan filtre seçenekleri.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_data_filter_options(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [LoadDataFilterOptions](/cells/python-net/tr/aspose.cells/loaddatafilteroptions)
-* sınıf [LoadFilter](/cells/python-net/tr/aspose.cells/loadfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`LoadDataFilterOptions`](/cells/python-net/tr/aspose.cells/loaddatafilteroptions)
+* sınıf [`LoadFilter`](/cells/python-net/tr/aspose.cells/loadfilter)

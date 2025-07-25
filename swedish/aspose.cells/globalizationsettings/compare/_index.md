@@ -7,16 +7,17 @@ weight: 20
 url: /sv/aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
-##  compare(v1, v2, ignore_case) {#str-str-bool}
+##  compare(self, v1, v2, ignore_case) {#str-str-bool}
 Jämför två strängvärden enligt vissa sorteringsregler.
 
 
 ###  Returnerar
 
-Heltal som indikerar det lexikala förhållandet mellan de två komparanderna
+Heltal som anger det lexikala förhållandet mellan de två jämförelsevärdena
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```
@@ -26,10 +27,10 @@ def compare(self, v1, v2, ignore_case):
 | :- | :- | :- |
 | v1 | str | den första strängen|
 | v2 | str | den andra strängen|
-| ignore_case | bool | om ignorera skiftläge när du jämför värden|
+| ignore_case | bool | om man ignorerar gemener och versaler vid jämförelse av värden|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

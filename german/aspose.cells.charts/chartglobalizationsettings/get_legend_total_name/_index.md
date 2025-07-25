@@ -7,8 +7,8 @@ weight: 70
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_legend_total_name/
 is_root: false
 ---
-##  get_legend_total_name() {#}
-Ruft den Namen von Total for Legend ab.
+##  get_legend_total_name(self) {#}
+Ruft den Namen von Total für die Legende ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den Namen von Total for Legend ab.
 
 
 ```python
+
 def get_legend_total_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_total_name(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

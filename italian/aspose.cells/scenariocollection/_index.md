@@ -1,9 +1,9 @@
 ---
 title: ScenarioCollection classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1380
+weight: 1270
 url: /it/aspose.cells/scenariocollection/
 is_root: false
 ---
@@ -19,21 +19,21 @@ Il tipo ScenarioCollection espone i seguenti membri:
 | :- | :- |
 | [active_index](/cells/python-net/it/aspose.cells/scenariocollection/active_index) | Ottiene e imposta lo scenario selezionato.|
 | [last_selected](/cells/python-net/it/aspose.cells/scenariocollection/last_selected) | Indica quale scenario è stato selezionato per ultimo dall'utente per essere eseguito/mostrato.|
-| [capacity](/cells/python-net/it/aspose.cells/scenariocollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco di matrici può contenere.|
+| [capacity](/cells/python-net/it/aspose.cells/scenariocollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco dell'array può contenere.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [copy_to](/cells/python-net/it/aspose.cells/scenariocollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionali compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to](/cells/python-net/it/aspose.cells/scenariocollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionali compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of](/cells/python-net/it/aspose.cells/scenariocollection/index_of/#aspose.cells.Scenario-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of](/cells/python-net/it/aspose.cells/scenariocollection/index_of/#aspose.cells.Scenario-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che inizia in corrispondenza dell'indice specificato e contiene il numero di elementi specificato.|
-| [last_index_of](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.Scenario) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.Scenario-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dal primo elemento all'indice specificato.|
-| [last_index_of](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.Scenario-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che contiene il numero di elementi specificato e termina con l'indice specificato.|
-| [add](/cells/python-net/it/aspose.cells/scenariocollection/add/#str) | Aggiunge uno scenario.|
-| [binary_search](/cells/python-net/it/aspose.cells/scenariocollection/binary_search/#aspose.cells.Scenario) | Cerca un elemento nell'intero elenco di array ordinato utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [`copy_to(self, array)`](/cells/python-net/it/aspose.cells/scenariocollection/copy_to/#list) |Copia l'intero elenco di array in un elenco di array unidimensionale compatibile, iniziando dall'inizio dell'elenco di array di destinazione.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/it/aspose.cells/scenariocollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di array a un elenco di array unidimensionale compatibile, a partire dall'indice specificato dell'elenco di array di destinazione.|
+| [`index_of(self, item, index)`](/cells/python-net/it/aspose.cells/scenariocollection/index_of/#aspose.cells.scenario-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dall'indice specificato all'ultimo elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells/scenariocollection/index_of/#aspose.cells.scenario-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che inizia dall'indice specificato e contiene il numero specificato di elementi.|
+| [`last_index_of(self, item)`](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intero elenco di array.|
+| [`last_index_of(self, item, index)`](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario-int) |Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dal primo elemento all'indice specificato.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che contiene il numero specificato di elementi e termina all'indice specificato.|
+| [`add(self, name)`](/cells/python-net/it/aspose.cells/scenariocollection/add/#str) | Aggiunge uno scenario.|
+| [`binary_search(self, item)`](/cells/python-net/it/aspose.cells/scenariocollection/binary_search/#aspose.cells.scenario) | Cerca un elemento nell'intero elenco dell'array ordinato utilizzando il comparatore predefinito e restituisce l'indice basato su zero dell'elemento.|
 
 
 

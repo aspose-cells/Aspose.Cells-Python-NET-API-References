@@ -1,15 +1,13 @@
 ---
 title: save_password proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 280
 url: /it/aspose.cells.externalconnections/dbconnection/save_password/
 is_root: false
 ---
 ##  save_password proprietà
-
-True se la password deve essere salvata come parte della stringa di connessione; altrimenti Falso.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +19,5 @@ def save_password(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [DBConnection](/cells/python-net/it/aspose.cells.externalconnections/dbconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`DBConnection`](/cells/python-net/it/aspose.cells.externalconnections/dbconnection)

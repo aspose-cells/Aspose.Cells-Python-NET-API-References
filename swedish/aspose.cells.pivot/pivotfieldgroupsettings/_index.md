@@ -3,7 +3,7 @@ title: PivotFieldGroupSettings klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 120
 url: /sv/aspose.cells.pivot/pivotfieldgroupsettings/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen PivotFieldGroupSettings avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells.pivot/pivotfieldgroupsettings/__init__/#) | Konstruerar en ny instans av PivotFieldGroupSettings|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldgroupsettings/__init__/#) | Skapar en ny instans av PivotFieldGroupSettings|
 
 
 ###  Egenskaper

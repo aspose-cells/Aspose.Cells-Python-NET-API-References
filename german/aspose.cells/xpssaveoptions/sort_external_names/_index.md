@@ -3,13 +3,11 @@ title: sort_external_names Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 300
 url: /de/aspose.cells/xpssaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names Eigentum
-
-Gibt an, ob extern definierte Namen vor dem Speichern der Datei sortiert werden sollen.
 ###  Definition:
 ```python
 @property

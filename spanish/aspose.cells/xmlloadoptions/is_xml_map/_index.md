@@ -3,13 +3,13 @@ title: is_xml_map propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 160
 url: /es/aspose.cells/xmlloadoptions/is_xml_map/
 is_root: false
 ---
 ##  is_xml_map propiedad
 
-Indica si mapear xml a Excel.
+Indica si se debe asignar xml a Excel.
 El valor predeterminado es falso.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def is_xml_map(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlLoadOptions](/cells/python-net/es/aspose.cells/xmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlLoadOptions`](/cells/python-net/es/aspose.cells/xmlloadoptions)

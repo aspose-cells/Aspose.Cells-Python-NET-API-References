@@ -3,7 +3,7 @@ title: is_hidden mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells/row/is_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](../../)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

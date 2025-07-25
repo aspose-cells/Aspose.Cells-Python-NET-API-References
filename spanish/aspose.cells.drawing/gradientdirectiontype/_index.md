@@ -3,7 +3,7 @@ title: GradientDirectionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 860
+weight: 850
 url: /es/aspose.cells.drawing/gradientdirectiontype/
 is_root: false
 ---
@@ -19,12 +19,12 @@ El tipo GradientDirectionType expone los siguientes miembros:
 | :- | :- |
 | FROM_UPPER_LEFT_CORNER | Desde la esquina superior izquierda|
 | FROM_UPPER_RIGHT_CORNER | Desde la esquina superior derecha|
-| FROM_LOWER_LEFT_CORNER | DesdeEsquinaInferiorIzquierda|
-| FROM_LOWER_RIGHT_CORNER | DesdeEsquinaInferiorDerecha|
-| FROM_CENTER | DesdeCentro|
+| FROM_LOWER_LEFT_CORNER | Desde la esquina inferior izquierda|
+| FROM_LOWER_RIGHT_CORNER | Desde la esquina inferior derecha|
+| FROM_CENTER | Desde el centro|
 | UNKNOWN | Desconocido|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

@@ -1,15 +1,15 @@
 ---
 title: standard_height_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1250
+weight: 1280
 url: /it/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
 ##  standard_height_inch proprietà
 
-Ottiene o imposta l'altezza della riga predefinita in questo foglio di lavoro, in unità di pollici.
+Ottiene o imposta l'altezza predefinita della riga in questo foglio di lavoro, in pollici.
 ###  Definizione:
 ```python
 @property

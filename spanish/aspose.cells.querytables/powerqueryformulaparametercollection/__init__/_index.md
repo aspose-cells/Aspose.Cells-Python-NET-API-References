@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.querytables/powerqueryformulaparametercollection/__init__/
 is_root: false
 ---
-##  PowerQueryFormulaParameterCollection() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de PowerQueryFormulaParameterCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.querytables](../../)
-* clase [PowerQueryFormulaParameterCollection](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparametercollection)
+* módulo [`aspose.cells.querytables`](../../)
+* clase [`PowerQueryFormulaParameterCollection`](/cells/python-net/es/aspose.cells.querytables/powerqueryformulaparametercollection)

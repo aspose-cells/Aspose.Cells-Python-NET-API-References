@@ -3,13 +3,13 @@ title: default_pivot_style_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells.tables/tablestylecollection/default_pivot_style_name/
 is_root: false
 ---
 ## default_pivot_style_name属性
 
-获取和设置数据透视表的默认样式名称。
+获取或设置数据透视表的默认样式名称。
 ### 定义：
 ```python
 @property

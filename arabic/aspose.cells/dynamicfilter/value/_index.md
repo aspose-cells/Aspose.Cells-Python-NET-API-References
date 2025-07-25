@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/dynamicfilter/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-الحصول على وتعيين المرشح الديناميكي value.
+يحصل على الفلتر الديناميكي value ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DynamicFilter](/cells/python-net/ar/aspose.cells/dynamicfilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DynamicFilter`](/cells/python-net/ar/aspose.cells/dynamicfilter)

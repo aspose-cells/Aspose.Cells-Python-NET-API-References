@@ -3,7 +3,7 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 190
+weight: 180
 url: /sv/aspose.cells/unionrange/name/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Hämtar eller ställer in name i intervallet.
 
 ###  Anmärkningar
 
-Namngivna intervall stöds. Till exempel,
+Namngivet område stöds. Till exempel,
 
-range.Name = "Sheet1!MyRange";
+range.Name = "Ark1!MittOmråde";
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [UnionRange](/cells/python-net/sv/aspose.cells/unionrange)
+* modul [`aspose.cells`](../../)
+* klass [`UnionRange`](/cells/python-net/sv/aspose.cells/unionrange)

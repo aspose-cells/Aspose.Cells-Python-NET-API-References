@@ -1,6 +1,6 @@
 ---
 title: special_effect proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlSpecialEffectType](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
-* classe [ListBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlSpecialEffectType`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* classe [`ListBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

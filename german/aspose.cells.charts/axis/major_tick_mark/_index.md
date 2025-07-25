@@ -3,13 +3,13 @@ title: major_tick_mark Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 300
 url: /de/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---
 ##  major_tick_mark Eigentum
 
-Stellt den Typ des Hauptteilstrichs für die angegebene Achse dar.
+Stellt den Typ der Hauptmarkierung für die angegebene Achse dar.
 ###  Definition:
 ```python
 @property

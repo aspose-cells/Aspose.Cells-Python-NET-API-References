@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_formatting_cell Eigentum
 
-Stellt dar, ob die Formatierung von Zellen auf einem geschützten Arbeitsblatt zulässig ist.
+Gibt an, ob die Formatierung von Zellen in einem geschützten Arbeitsblatt zulässig ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_formatting_cell(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

@@ -3,15 +3,15 @@ title: create_directory属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 130
 url: /zh/aspose.cells.saving/ebooksaveoptions/create_directory/
 is_root: false
 ---
 ## create_directory属性
 
-如果为 true 并且该目录不存在，则在保存文件之前将自动创建该目录。
+如果为 true 并且目录不存在，则在保存文件之前会自动创建目录。
 
-### 评论
+### 注意事项
 
 默认值为 false。
 ### 定义：

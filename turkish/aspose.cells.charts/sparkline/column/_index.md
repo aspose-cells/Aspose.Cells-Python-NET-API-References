@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column mülk
 
-Mini grafiğin column dizinini alır.
+Sparkline'ın column indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Sparkline](/cells/python-net/tr/aspose.cells.charts/sparkline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)

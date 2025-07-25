@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_italic propriété
 
-Le réglage de la police en italique sera appliqué.
+Le paramètre de police italique sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_italic(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  extend_to_next_sheet propiedad
 
-Si se extienden los datos a la siguiente hoja cuando las filas o columnas de datos exceden el límite.
+Si extiende los datos a la siguiente hoja cuando las filas o columnas de datos exceden el límite.
 El valor predeterminado es falso.
 
 ###  Observaciones
 
-Si esta propiedad es verdadera, los datos adicionales se colocarán en la hoja siguiente detrás de la actual.
-(si la hoja actual es la última, se agregará una nueva hoja al libro de trabajo actual).
+Si esta propiedad es verdadera, se colocarán datos adicionales en la siguiente hoja detrás de la actual.
+(Si la hoja actual es la última, se agregará una nueva hoja al libro de trabajo actual).
 Si esta propiedad es falsa, se ignorarán los datos que excedan el límite.
 ###  Definición:
 ```python

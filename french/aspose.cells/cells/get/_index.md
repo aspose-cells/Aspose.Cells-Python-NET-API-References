@@ -7,8 +7,8 @@ weight: 300
 url: /fr/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-Ajoutez API for Python via .Net. puisque cette [string cellName] n'est pas prise en charge
+##  get(self, cell_name) {#str}
+Ajoutez API for Python via .Net. puisque cette [chaîne cellName] n'est pas prise en charge
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Un objet [`Cell`](/cells/python-net/fr/aspose.cells/cell)
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, cell_name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| cell_name | str | Nom Cell, y compris sa lettre de colonne et son numéro de ligne, par exemple A5.|
+| cell_name | str | Cell nom, y compris sa lettre de colonne et son numéro de ligne, par exemple A5.|
 
 
-##  get {#int-int}
-Ajoutez API for Python via .Net. puisque cette [ligne int, colonne int] n'est pas prise en charge
+##  get(self, row, column) {#int-int}
+Ajoutez API for Python via .Net. puisque ceci [int row, int column] n'est pas pris en charge
 
 
 ###  Retour
@@ -37,6 +38,7 @@ L'objet [`Cell`](/cells/python-net/fr/aspose.cells/cell).
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```
@@ -45,7 +47,7 @@ def get(self, row, column):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | row | int | Index de ligne.|
-| column | int | Index de colonne.|
+| column | int | Index des colonnes.|
 
 
 

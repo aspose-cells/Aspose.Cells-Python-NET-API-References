@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style Eigentum
 
-Stellt die style der Leitung dar.
+Stellt die style der Zeile dar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [LineType](/cells/python-net/de/aspose.cells.drawing/linetype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`LineType`](/cells/python-net/de/aspose.cells.drawing/linetype)

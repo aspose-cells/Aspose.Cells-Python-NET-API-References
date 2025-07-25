@@ -7,12 +7,13 @@ weight: 100
 url: /tr/aspose.cells/pagesetup/get_footer/
 is_root: false
 ---
-##  get_footer(section) {#int}
-Bir Excel dosyasının altbilgisini biçimlendiren bir komut dosyası alır.
+##  get_footer(self, section) {#int}
+Bir Excel dosyasının alt bilgisini biçimlendiren bir betik alır.
 
 
 
 ```python
+
 def get_footer(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_footer(self, section):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

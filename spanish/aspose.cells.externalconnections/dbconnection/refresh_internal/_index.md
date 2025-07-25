@@ -3,13 +3,11 @@ title: refresh_internal propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 250
 url: /es/aspose.cells.externalconnections/dbconnection/refresh_internal/
 is_root: false
 ---
 ##  refresh_internal propiedad
-
-Especifica la cantidad de minutos entre actualizaciones automáticas de la conexión.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def refresh_internal(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [DBConnection](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`DBConnection`](/cells/python-net/es/aspose.cells.externalconnections/dbconnection)

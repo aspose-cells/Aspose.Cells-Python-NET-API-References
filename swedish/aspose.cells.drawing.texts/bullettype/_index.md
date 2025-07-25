@@ -8,7 +8,7 @@ url: /sv/aspose.cells.drawing.texts/bullettype/
 is_root: false
 ---
 ##  BulletType uppräkning
-Representerar typen av kula.
+Representerar kulans typ.
 
 
 
@@ -18,11 +18,11 @@ Typen BulletType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NONE | Ingen kula.|
-| CHARACTER | Karaktär kula.|
-| PICTURE | Bildkula.|
-| AUTO_NUMBERED | Automatisk numrerad kula.|
+| CHARACTER | Teckenpunkt.|
+| PICTURE | Bildpunkt.|
+| AUTO_NUMBERED | Automatisk numrerad punkt.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](..)
+* modul [`aspose.cells.drawing.texts`](..)

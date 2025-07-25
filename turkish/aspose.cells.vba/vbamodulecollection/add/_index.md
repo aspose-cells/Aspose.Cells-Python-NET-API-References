@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
-##  add(sheet) {#Worksheet}
-Bir çalışma sayfası için modül ekler.
+##  add(self, sheet) {#aspose.cells.Worksheet}
+Çalışma sayfasına modül ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bir çalışma sayfası için modül ekler.
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, sheet):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/tr/aspose.cells/worksheet) | çalışma sayfası|
+| sheet | [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) | Çalışma sayfası|
 
 
-##  add(type, name) {#VbaModuleType-str}
+##  add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
 Modül ekler.
 
 
@@ -37,6 +38,7 @@ Modül ekler.
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,11 +46,11 @@ def add(self, type, name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [VbaModuleType](/cells/python-net/tr/aspose.cells.vba/vbamoduletype) | Modül türü.|
+| type | [`VbaModuleType`](/cells/python-net/tr/aspose.cells.vba/vbamoduletype) | Modül tipi.|
 | name | str | Modülün adı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaModuleCollection](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaModuleCollection`](/cells/python-net/tr/aspose.cells.vba/vbamodulecollection)

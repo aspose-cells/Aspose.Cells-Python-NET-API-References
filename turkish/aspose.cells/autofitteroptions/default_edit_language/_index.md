@@ -13,8 +13,8 @@ Varsayılan düzenleme dilini alır veya ayarlar.
 
 ###  Notlar
 
-Farklı düzenleme dilleri ayarlandığında, metin paragrafı için farklı düzenler görüntüleyebilir/işleyebilir.
-Varsayılan [DefaultEditLanguage.AUTO](/cells/python-net/tr/aspose.cells/defaulteditlanguage#AUTO)'dir.
+Farklı düzenleme dilleri ayarlandığında metin paragrafı için farklı düzenler görüntülenebilir/oluşturulabilir.
+Varsayılan [`DefaultEditLanguage.AUTO`](/cells/python-net/tr/aspose.cells/defaulteditlanguage#AUTO)'dir.
 ###  Tanım:
 ```python
 @property
@@ -26,6 +26,6 @@ def default_edit_language(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFitterOptions](/cells/python-net/tr/aspose.cells/autofitteroptions)
-* sınıf [DefaultEditLanguage](/cells/python-net/tr/aspose.cells/defaulteditlanguage)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFitterOptions`](/cells/python-net/tr/aspose.cells/autofitteroptions)
+* sınıf [`DefaultEditLanguage`](/cells/python-net/tr/aspose.cells/defaulteditlanguage)

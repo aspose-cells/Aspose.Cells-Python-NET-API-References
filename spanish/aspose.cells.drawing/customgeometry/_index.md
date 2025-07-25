@@ -12,8 +12,7 @@ Representa una forma geométrica personalizada.
 
 
 
-**Herencia:** [CustomGeometry](/cells/python-net/aspose.cells.drawing/customgeometry) → 
-[Geometry](/cells/python-net/es/aspose.cells.drawing/geometry)
+**Herencia:** [`CustomGeometry`](/cells/python-net/es/aspose.cells.drawing/customgeometry)
 
 
 
@@ -22,12 +21,11 @@ El tipo CustomGeometry expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [shape_adjust_values](/cells/python-net/es/aspose.cells.drawing/customgeometry/shape_adjust_values) | Obtiene una colección de valor de ajuste de forma|
-| [paths](/cells/python-net/es/aspose.cells.drawing/customgeometry/paths) | Obtiene información de recopilación de ruta cuando la forma es una forma automática NotPrimitive|
+| [shape_adjust_values](/cells/python-net/es/aspose.cells.drawing/customgeometry/shape_adjust_values) |  |
+| [paths](/cells/python-net/es/aspose.cells.drawing/customgeometry/paths) | Obtiene información de recopilación de rutas cuando la forma es una autoforma NotPrimitive|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
-* clase [CustomGeometry](/cells/python-net/es/aspose.cells.drawing/customgeometry)
-* clase [Geometry](/cells/python-net/es/aspose.cells.drawing/geometry)
+* módulo [`aspose.cells.drawing`](..)
+* clase [`CustomGeometry`](/cells/python-net/es/aspose.cells.drawing/customgeometry)

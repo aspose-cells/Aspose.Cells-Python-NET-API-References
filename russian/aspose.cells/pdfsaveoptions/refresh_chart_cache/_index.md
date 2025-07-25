@@ -1,15 +1,13 @@
 ---
 title: refresh_chart_cache недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 420
 url: /ru/aspose.cells/pdfsaveoptions/refresh_chart_cache/
 is_root: false
 ---
 ##  refresh_chart_cache недвижимость
-
-Указывает, обновляются ли данные кэша диаграммы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def refresh_chart_cache(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PdfSaveOptions](/cells/python-net/ru/aspose.cells/pdfsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`PdfSaveOptions`](/cells/python-net/ru/aspose.cells/pdfsaveoptions)

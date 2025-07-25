@@ -1,17 +1,17 @@
 ---
-title: export_nested_structure 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_nested_structure属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 130
 url: /zh/aspose.cells/jsonsaveoptions/export_nested_structure/
 is_root: false
 ---
-## export_nested_structure 属性
+## export_nested_structure属性
 
-导出为父子层次 Json 结构。
+导出为父子层次Json结构。
 
-### 评论
+### 注意事项
 
 
 ### 定义：
@@ -25,5 +25,5 @@ def export_nested_structure(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [JsonSaveOptions](/cells/python-net/zh/aspose.cells/jsonsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`JsonSaveOptions`](/cells/python-net/zh/aspose.cells/jsonsaveoptions)

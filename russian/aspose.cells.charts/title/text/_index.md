@@ -1,15 +1,15 @@
 ---
 title: text недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 380
 url: /ru/aspose.cells.charts/title/text/
 is_root: false
 ---
 ##  text недвижимость
 
-Получает или задает text метки единицы отображения.
+Возвращает или задает text метки отображаемого блока.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Title](/cells/python-net/ru/aspose.cells.charts/title)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Title`](/cells/python-net/ru/aspose.cells.charts/title)

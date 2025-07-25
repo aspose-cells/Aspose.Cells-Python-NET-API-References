@@ -3,12 +3,12 @@ title: get_dependents metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 390
 url: /sv/aspose.cells/cells/get_dependents/
 is_root: false
 ---
-##  get_dependents {#bool-int-int}
-Få alla celler som refererar till den specifika cellen.
+##  get_dependents(self, is_all, row, column) {#bool-int-int}
+Hämta alla celler som refererar till den specifika cellen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Få alla celler som refererar till den specifika cellen.
 
 
 ```python
+
 def get_dependents(self, is_all, row, column):
     ...
 ```
@@ -24,9 +25,9 @@ def get_dependents(self, is_all, row, column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| is_all | bool | Anger om kontrollera andra kalkylblad|
-| row | int | Radindex.|
-| column | int | Kolumnindex.|
+| is_all | bool | Anger om man vill kontrollera andra arbetsblad|
+| row | int | Radindexet.|
+| column | int | Kolumnindexet.|
 
 
 

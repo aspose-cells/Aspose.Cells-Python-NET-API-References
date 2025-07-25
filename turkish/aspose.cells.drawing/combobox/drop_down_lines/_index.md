@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_down_lines mülk
 
-Birleşik giriş kutusunun açılır bölümünde görüntülenen liste satırı sayısını alır veya ayarlar.
+Bir açılır menü kutusunda görüntülenen liste satırı sayısını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

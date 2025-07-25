@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type mülk
 
-Birleştirme büyük harflerini belirtir.
+Birleştirme kapaklarını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
-* sınıf [LineJoinType](/cells/python-net/tr/aspose.cells.drawing/linejointype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* sınıf [`LineJoinType`](/cells/python-net/tr/aspose.cells.drawing/linejointype)

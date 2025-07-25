@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting propiedad
 
-Obtiene y establece el tipo de equipo ligero.
+Obtiene y establece el tipo de plataforma de iluminación.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LightRigType](/cells/python-net/es/aspose.cells.drawing/lightrigtype)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LightRigType`](/cells/python-net/es/aspose.cells.drawing/lightrigtype)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

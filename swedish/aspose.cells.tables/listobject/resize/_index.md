@@ -3,16 +3,17 @@ title: resize metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.tables/listobject/resize/
 is_root: false
 ---
-##  resize(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
-Ändra storlek på intervallet för listobjektet.
+##  resize(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+Ändra storlek på listobjektets område.
 
 
 
 ```python
+
 def resize(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```
@@ -20,14 +21,14 @@ def resize(self, start_row, start_column, end_row, end_column, has_headers):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Startradindex för det nya intervallet.|
-| start_column | int | Startkolumnindex för det nya intervallet.|
-| end_row | int | Slutradens index för det nya intervallet.|
-| end_column | int | Slutkolumnindex för det nya intervallet.|
-| has_headers | bool | Om ListObject har rubriker.|
+| start_row | int | Startradsindexet för det nya intervallet.|
+| start_column | int | Startkolumnindexet för det nya intervallet.|
+| end_row | int | Indexet för slutrad för det nya intervallet.|
+| end_column | int | Indexet för den nya intervallets slutkolumn.|
+| has_headers | bool | Om den här tabellen har rubriker.|
 
 
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObject](/cells/python-net/sv/aspose.cells.tables/listobject)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObject`](/cells/python-net/sv/aspose.cells.tables/listobject)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  print_with_status_dialog Eigentum
 
-Wenn PrintWithStatusDialog = true ist, wird ein Dialog angezeigt, der den aktuellen Druckstatus anzeigt.
-Andernfalls wird kein solcher Dialog angezeigt.
+Wenn PrintWithStatusDialog = true ist, wird ein Dialogfeld angezeigt, das den aktuellen Druckstatus anzeigt.
+andernfalls wird kein solcher Dialog angezeigt.
 ###  Definition:
 ```python
 @property

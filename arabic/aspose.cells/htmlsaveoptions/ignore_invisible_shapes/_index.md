@@ -3,17 +3,17 @@ title: ignore_invisible_shapes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 520
 url: /ar/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
 ##  ignore_invisible_shapes عقار
 
-حدد ما إذا كان سيتم تصدير تلك الأشكال غير المرئية
+أشر إلى ما إذا كان يتم تصدير تلك الأشكال غير المرئية
 
 ###  ملاحظات
 
-القيم الافتراضية خاطئة.
+القيم الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

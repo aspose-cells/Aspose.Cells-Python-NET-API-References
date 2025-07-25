@@ -1,5 +1,5 @@
 ---
-title: cell_shading الملكية
+title: cell_shading عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells/styleflag/cell_shading/
 is_root: false
 ---
-##  cell_shading الملكية
+##  cell_shading عقار
 
 سيتم تطبيق إعداد التظليل Cell.
 ###  تعريف:
@@ -21,5 +21,5 @@ def cell_shading(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.rendering/pdfbookmarkentry/__init__/
 is_root: false
 ---
-##  PdfBookmarkEntry() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av PdfBookmarkEntry
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [PdfBookmarkEntry](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`PdfBookmarkEntry`](/cells/python-net/sv/aspose.cells.rendering/pdfbookmarkentry)

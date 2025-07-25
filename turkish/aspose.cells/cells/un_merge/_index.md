@@ -3,16 +3,17 @@ title: un_merge yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 950
 url: /tr/aspose.cells/cells/un_merge/
 is_root: false
 ---
-##  un_merge {#int-int-int-int}
-Belirtilen bir birleştirilmiş hücre aralığını ayırır.
+##  un_merge(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+Birleştirilmiş hücrelerin belirtilen aralığını ayırır.
 
 
 
 ```python
+
 def un_merge(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -22,7 +23,7 @@ def un_merge(self, first_row, first_column, total_rows, total_columns):
 | :- | :- | :- |
 | first_row | int | Bu aralığın ilk satırı (sıfır tabanlı)|
 | first_column | int | Bu aralığın ilk sütunu (sıfır tabanlı)|
-| total_rows | int | Satır sayısı (bir tabanlı)|
+| total_rows | int |Satır sayısı (bir tabanlı)|
 | total_columns | int | Sütun sayısı (bir tabanlı)|
 
 

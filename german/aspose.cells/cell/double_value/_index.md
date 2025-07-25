@@ -3,7 +3,7 @@ title: double_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 470
 url: /de/aspose.cells/cell/double_value/
 is_root: false
 ---

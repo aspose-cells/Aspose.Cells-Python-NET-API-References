@@ -1,36 +1,36 @@
 ---
-title: classe MsoFillFormatHelper
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: MsoFillFormatHelper classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 320
 url: /it/aspose.cells.drawing/msofillformathelper/
 is_root: false
 ---
-##  classe MsoFillFormatHelper
-Rappresenta la formattazione del riempimento per una forma.
+##  MsoFillFormatHelper classe
+Rappresenta la formattazione di riempimento per una forma.
 
 
 
-Il tipo MsoFillFormatHelper espone i membri seguenti:
+Il tipo MsoFillFormatHelper espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
 | [fore_color](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/fore_color) | Ottiene e imposta il colore di riempimento in primo piano.|
-| [fore_color_transparency](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/fore_color_transparency) | Restituisce o imposta il grado di colore di primo piano del riempimento specificato come valore compreso tra 0,0 (opaco) e 1,0 (chiaro).|
-| [back_color](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/back_color) | Ottiene e imposta il colore del file.|
-| [image_data](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/image_data) | Ottiene e imposta i dati di riempimento Texture e Picture.|
-| [texture](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/texture) | Ottiene il tipo di riempimento trama.|
+| [fore_color_transparency](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/fore_color_transparency) | Restituisce o imposta il grado di colore di primo piano del riempimento specificato come valore compreso tra 0,0 (opaco) e 1,0 (trasparente).|
+| [back_color](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/back_color) | Ottiene e imposta il colore di sfondo del file.|
+| [image_data](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/image_data) | Ottiene e imposta i dati di riempimento della trama e dell'immagine.|
+| [texture](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/texture) | Ottiene il tipo di riempimento della texture.|
 | [is_visible](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/is_visible) | Indica se c'è riempimento.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Imposta il riempimento specificato su una sfumatura monocolore.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/it/aspose.cells.drawing/msofillformathelper/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Imposta il riempimento specificato su un gradiente di un solo colore.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

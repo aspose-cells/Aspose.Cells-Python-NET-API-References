@@ -3,7 +3,7 @@ title: is_v_scroll_bar_visible属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 280
+weight: 310
 url: /zh/aspose.cells/workbooksettings/is_v_scroll_bar_visible/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 获取或设置一个值，该值指示生成的电子表格是否包含垂直滚动条。
 
-### 评论
+### 注意事项
 
-默认值是true。
+默认值为 true。
 
 ### 例子
 

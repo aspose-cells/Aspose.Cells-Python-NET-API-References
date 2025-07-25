@@ -3,17 +3,17 @@ title: security_options propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 440
 url: /fr/aspose.cells/pdfsaveoptions/security_options/
 is_root: false
 ---
 ##  security_options propriété
 
-Définissez ces options, lorsque la sécurité est nécessaire dans le résultat xls2pdf.
+Définissez ces options lorsque la sécurité est nécessaire dans le résultat xls2pdf.
 
 ###  Exemple
 
-Le code suivant définit l'autorisation d'impression haute résolution pour le pdf de sortie.
+Le code suivant définit l'autorisation d'impression haute résolution pour le PDF de sortie.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -46,6 +46,6 @@ def security_options(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
-* classe [PdfSecurityOptions](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* classe [`PdfSecurityOptions`](/cells/python-net/fr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

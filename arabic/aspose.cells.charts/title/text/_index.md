@@ -1,15 +1,15 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 380
 url: /ar/aspose.cells.charts/title/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-الحصول على أو تحديد text الخاص بتسمية وحدة العرض.
+يحصل على أو يعين text من تسمية وحدة العرض.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

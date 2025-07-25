@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_word_wrapped Eigentum
 
-Gibt an, ob der Inhalt des Steuerelements am Ende einer Zeile automatisch umgebrochen wird.
+Gibt an, ob der Inhalt des Steuerelements am Ende einer Zeile automatisch umbrochen wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [LabelActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`LabelActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

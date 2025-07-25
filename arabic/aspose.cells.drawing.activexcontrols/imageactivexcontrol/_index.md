@@ -1,60 +1,56 @@
 ---
-title: ImageActiveXControl الدرجة
+title: ImageActiveXControl صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 40
 url: /ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/
 is_root: false
 ---
-##  ImageActiveXControl الدرجة
-يمثل التحكم في الصورة.
+##  ImageActiveXControl صف
+يمثل عنصر التحكم في الصورة.
 
 
 
-**ميراث:** [ImageActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/imageactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**الميراث:** [`ImageActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
 
 
 
-يكشف نوع ImageActiveXControl الأعضاء التالية:
+يكشف النوع ImageActiveXControl عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/workbook) | الحصول على كائن [ActiveXControlBase.workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
-| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/type) | يحصل على نوع عنصر تحكم ActiveX.|
-| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/width) |الحصول على عرض عنصر التحكم وتعيينه بوحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/height) | الحصول على ارتفاع عنصر التحكم وتعيينه بوحدة النقاط.|
-| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_icon) | الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.|
-| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_pointer) | الحصول على نوع الرمز المعروض كمؤشر الماوس لعنصر التحكم وتعيينه.|
-| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/fore_ole_color) | الحصول على لون الأولي للمقدمة وتعيينه.|
-| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/back_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_visible) | يشير إلى ما إذا كان عنصر التحكم هذا مرئيًا أم لا.|
-| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/shadow) | يشير إلى ما إذا كان سيتم إظهار ظل أم لا.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/linked_cell) | الحصول على الخلية المرتبطة وتعيينها.|
-| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/list_fill_range) | الحصول على نطاق تعبئة القائمة وتعيينه.|
-| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/data) | الحصول على البيانات الثنائية لعنصر التحكم وتعيينها.|
-| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_enabled) | يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_locked) | يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.|
-| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_transparent) | يشير إلى ما إذا كان عنصر التحكم شفافًا أم لا.|
-| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_auto_size) | الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
-| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/ime_mode) |الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.|
-| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/font) | يمثل خط عنصر التحكم.|
-| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/text_align) | يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.|
-| [border_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/border_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [border_style](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/border_style) | يحصل ويضبط نوع الحدود المستخدمة بواسطة عنصر التحكم.|
-| [picture_size_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture_size_mode) | يحصل ويضبط كيفية عرض الصورة.|
-| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/special_effect) | الحصول على التأثير الخاص لعنصر التحكم وتعيينه.|
-| [picture](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture) | الحصول على بيانات الصورة وتعيينها.|
-| [picture_alignment](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture_alignment) | الحصول على محاذاة الصورة وتعيينها داخل النموذج أو الصورة.|
-| [is_tiled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_tiled) | يشير إلى ما إذا كانت الصورة مقسمة عبر الخلفية.|
+| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/workbook) |  |
+| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/type) | يحصل على نوع عنصر التحكم ActiveX.|
+| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/width) |  |
+| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_auto_size) | يشير إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
+| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/text_align) |  |
+| [border_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/border_ole_color) | يحصل على اللون الأصلي للخلفية ويحدده.|
+| [border_style](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/border_style) | يحصل على نوع الحدود التي يستخدمها عنصر التحكم ويقوم بتعيينه.|
+| [picture_size_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture_size_mode) | يحصل على كيفية عرض الصورة ويحددها.|
+| [special_effect](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/special_effect) | يحصل على التأثير الخاص لعنصر التحكم ويقوم بتعيينه.|
+| [picture](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture) | يحصل على بيانات الصورة ويضبطها.|
+| [picture_alignment](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/picture_alignment) | يحصل على محاذاة الصورة داخل النموذج أو الصورة ويقوم بتعيينها.|
+| [is_tiled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_tiled) | يشير إلى ما إذا كانت الصورة مبلطة عبر الخلفية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* فئة [ImageActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)
+* فئة [`ImageActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

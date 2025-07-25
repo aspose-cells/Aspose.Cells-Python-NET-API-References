@@ -14,8 +14,8 @@ is_root: false
 
 SlideViewType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | VIEW |导出为 MS Excel 中的视图。|
 | PRINT |导出为打印。|

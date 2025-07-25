@@ -3,12 +3,12 @@ title: InputMethodEditorMode uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 270
 url: /sv/aspose.cells.drawing.activexcontrols/inputmethodeditormode/
 is_root: false
 ---
 ##  InputMethodEditorMode uppräkning
-Representerar standardkörtidsläget för Input Method Editor.
+Representerar standardkörningsläget för inmatningsmetodredigeraren.
 
 
 
@@ -17,21 +17,21 @@ Typen InputMethodEditorMode avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NO_CONTROL |Styr inte IME.|
+| NO_CONTROL | Kontrollerar inte IME.|
 | ON | IME på.|
-| OFF | IME av. Engelskt läge.|
-| DISABLE | IME av. Användaren kan inte slå på IME med tangentbordet.|
-| HIRAGANA | IME på med full-width hiragana-läge.|
-| KATAKANA | IME på med full-width katakana-läge.|
-| KATAKANA_HALF | IME på med halvbredds katakana-läge.|
+| OFF | IME avstängt. Engelskt läge.|
+| DISABLE | IME avstängt. Användaren kan inte aktivera IME med tangentbordet.|
+| HIRAGANA | IME på med hiragana-läge i full bredd.|
+| KATAKANA | IME på med katakana-läge i full bredd.|
+| KATAKANA_HALF | IME på med katakana-läge med halv bredd.|
 | ALPHA_FULL | IME på med alfanumeriskt läge i full bredd.|
-| ALPHA | IME på med halvbredds alfanumeriskt läge.|
-| HANGUL_FULL | IME på med full-width hangul-läge.|
-| HANGUL | IME på med halvbreddshangulläge.|
+| ALPHA | IME på med alfanumeriskt läge med halv bredd.|
+| HANGUL_FULL | IME på med hangul-läge i full bredd.|
+| HANGUL |IME på med hangul-läge med halv bredd.|
 | HANZI_FULL | IME på med hanzi-läge i full bredd.|
-| HANZI | IME på med halvbredds hanzi-läge.|
+| HANZI | IME på med hanzi-läge med halv bredd.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

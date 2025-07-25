@@ -17,10 +17,10 @@ El tipo ColorHelper expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [from_ole_color(ole_color)](/cells/python-net/es/aspose.cells.drawing/colorhelper/from_ole_color/#int) | Convertir OLE_COLOR.|
-| [to_ole_color(color, workbook)](/cells/python-net/es/aspose.cells.drawing/colorhelper/to_ole_color/#aspose.pydrawing.Color-Workbook) | Convertir color a OLE_COLOR|
+| [`from_ole_color(, ole_color)`](/cells/python-net/es/aspose.cells.drawing/colorhelper/from_ole_color/#int) | Convertir OLE_COLOR.|
+| [`to_ole_color(, color, workbook)`](/cells/python-net/es/aspose.cells.drawing/colorhelper/to_ole_color/#aspose.pydrawing.color-aspose.cells.workbook) | Convertir color a OLE_COLOR|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

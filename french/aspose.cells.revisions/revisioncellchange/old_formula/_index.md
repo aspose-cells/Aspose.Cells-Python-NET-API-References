@@ -18,5 +18,5 @@ def old_formula(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellChange](/cells/python-net/fr/aspose.cells.revisions/revisioncellchange)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellChange`](/cells/python-net/fr/aspose.cells.revisions/revisioncellchange)

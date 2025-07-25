@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Özelliğin type'ini alır ve ayarlar.
+Özelliğin type değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [ContentTypeProperty](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`ContentTypeProperty`](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty)

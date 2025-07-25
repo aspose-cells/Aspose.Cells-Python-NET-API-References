@@ -3,7 +3,7 @@ title: worksheet عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1410
+weight: 1430
 url: /ar/aspose.cells.drawing/picture/worksheet/
 is_root: false
 ---

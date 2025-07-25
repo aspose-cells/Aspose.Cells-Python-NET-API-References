@@ -1,13 +1,13 @@
 ---
-title: is_editable 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_editable属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 200
 url: /zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_editable/
 is_root: false
 ---
-## is_editable 属性
+## is_editable属性
 
 指示用户是否可以在控件中键入内容。
 ### 定义：
@@ -21,5 +21,5 @@ def is_editable(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ComboBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ComboBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

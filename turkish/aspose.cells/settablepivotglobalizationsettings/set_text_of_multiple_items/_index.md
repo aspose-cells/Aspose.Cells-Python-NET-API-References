@@ -3,16 +3,17 @@ title: set_text_of_multiple_items yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 290
 url: /tr/aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items/
 is_root: false
 ---
-##  set_text_of_multiple_items {#str}
+##  set_text_of_multiple_items(self, text) {#str}
 PivotTable'daki "(Birden Çok Öğe)" etiketinin metnini ayarlar.
 
 
 
 ```python
+
 def set_text_of_multiple_items(self, text):
     ...
 ```

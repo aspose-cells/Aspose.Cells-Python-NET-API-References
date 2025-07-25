@@ -8,8 +8,6 @@ url: /fr/aspose.cells.revisions/revisionmergeconflict/worksheet/
 is_root: false
 ---
 ##  worksheet propriété
-
-Obtient le worksheet.
 ###  Définition:
 ```python
 @property
@@ -18,6 +16,6 @@ def worksheet(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionMergeConflict](/cells/python-net/fr/aspose.cells.revisions/revisionmergeconflict)
-* classe [Worksheet](/cells/python-net/fr/aspose.cells/worksheet)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionMergeConflict`](/cells/python-net/fr/aspose.cells.revisions/revisionmergeconflict)
+* classe [`Worksheet`](/cells/python-net/fr/aspose.cells/worksheet)

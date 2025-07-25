@@ -1,9 +1,9 @@
 ---
 title: width_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ru/aspose.cells.drawing/label/width_pt/
 is_root: false
 ---

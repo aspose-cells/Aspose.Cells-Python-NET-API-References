@@ -3,18 +3,18 @@ title: parsing_pivot_cached_records Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 290
 url: /de/aspose.cells/ebookloadoptions/parsing_pivot_cached_records/
 is_root: false
 ---
 ##  parsing_pivot_cached_records Eigentum
 
-Gibt an, ob zwischengespeicherte Pivot-Datensätze beim Laden der Datei analysiert werden.
-Der Standardwert ist false.
+Gibt an, ob beim Laden der Datei die zwischengespeicherten Pivot-Datensätze analysiert werden.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
-Gilt nur für Excel Xlsx-, Xltx-, Xltm-, Xlsm- und xlsb-Dateien
+Gilt nur für Excel-Dateien Xlsx, Xltx, Xltm, Xlsm und xlsb
 ###  Definition:
 ```python
 @property

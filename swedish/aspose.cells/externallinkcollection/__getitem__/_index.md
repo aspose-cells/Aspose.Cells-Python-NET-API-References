@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  ExternalLinkCollection indexerare
 
-Hämtar elementet [ExternalLink](/cells/python-net/sv/aspose.cells/externallink) vid det angivna indexet.
+Hämtar elementet [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink) vid det angivna indexet.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
 | index | Elementets nollbaserade index.|
 
@@ -22,6 +22,6 @@ Hämtar elementet [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
 Elementet vid det angivna indexet.
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
-* klass [ExternalLinkCollection](/cells/python-net/sv/aspose.cells/externallinkcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink)
+* klass [`ExternalLinkCollection`](/cells/python-net/sv/aspose.cells/externallinkcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_settings propriété
 
-Obtient ou définit les paramètres de globalisation du tableau croisé dynamique.
+Obtient ou définit les paramètres de globalisation pour le tableau croisé dynamique.
 ###  Définition:
 ```python
 @property

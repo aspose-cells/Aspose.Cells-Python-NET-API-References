@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/threadedcommentauthorcollection/__init__/
 is_root: false
 ---
-##  ThreadedCommentAuthorCollection() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de ThreadedCommentAuthorCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ThreadedCommentAuthorCollection](/cells/python-net/fr/aspose.cells/threadedcommentauthorcollection)
+* module [`aspose.cells`](../../)
+* classe [`ThreadedCommentAuthorCollection`](/cells/python-net/fr/aspose.cells/threadedcommentauthorcollection)

@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/text_a
 is_root: false
 ---
 ##  text_align propriété
-
-Représente comment aligner le texte utilisé par le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CommandButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
-* classe [TextAlignmentType](/cells/python-net/fr/aspose.cells/textalignmenttype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CommandButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* classe [`TextAlignmentType`](/cells/python-net/fr/aspose.cells/textalignmenttype)

@@ -1,5 +1,5 @@
 ---
-title: set_calculated_value método
+title: método set_calculated_value
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
-##  set_calculated_value(v) {#any}
+##  set_calculated_value(self, v) {#any}
 Establece el valor calculado para la celda.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```
@@ -28,5 +29,5 @@ El usuario puede configurar el resultado calculado por este método para ignorar
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [CalculationCell](/cells/python-net/es/aspose.cells/calculationcell)
+* módulo [`aspose.cells`](../../)
+* clase [`CalculationCell`](/cells/python-net/es/aspose.cells/calculationcell)

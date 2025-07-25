@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
-Ruft den vom Gebietsschema abhängigen Kommentartitelnamen gemäß dem Kommentartiteltyp ab.
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
+Ruft den länderabhängigen Kommentartitelnamen entsprechend dem Kommentartiteltyp ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den vom Gebietsschema abhängigen Kommentartitelnamen gemäß dem Kommentar
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

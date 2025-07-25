@@ -3,7 +3,7 @@ title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /ar/aspose.cells.drawing/lineshape/type/
 is_root: false
 ---

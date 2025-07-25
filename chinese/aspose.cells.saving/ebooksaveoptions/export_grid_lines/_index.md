@@ -3,13 +3,13 @@ title: export_grid_lines属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 330
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_grid_lines/
 is_root: false
 ---
 ## export_grid_lines属性
 
-是否导出网格线，默认为false。
+是否导出网格线。默认为false。
 ### 定义：
 ```python
 @property

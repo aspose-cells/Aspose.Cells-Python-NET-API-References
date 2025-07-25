@@ -3,13 +3,13 @@ title: odf_strict_version属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 120
 url: /zh/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---
 ## odf_strict_version属性
 
-获取和设置ODF版本。
+获取并设置 ODF 版本。
 ### 定义：
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_percent mülk
 
-"Üst/alt n" kuralının "yüzde üst/alt n" kuralı olup olmadığını alın veya ayarlayın.
-Varsayılan değer yanlıştır.
+"En üst/en alt n" kuralının "en üst/en alt yüzde n" kuralı olup olmadığını alın veya ayarlayın.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_percent(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Top10](/cells/python-net/tr/aspose.cells/top10)
+* modül [`aspose.cells`](../../)
+* sınıf [`Top10`](/cells/python-net/tr/aspose.cells/top10)

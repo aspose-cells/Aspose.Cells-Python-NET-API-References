@@ -1,6 +1,6 @@
 ---
 title: vertical_alignment недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 480
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment недвижимость
 
-Получает или задает тип вертикального выравнивания текста в ячейке.
+Возвращает или задает тип вертикального выравнивания текста в ячейке.
 ###  Определение:
 ```python
 @property

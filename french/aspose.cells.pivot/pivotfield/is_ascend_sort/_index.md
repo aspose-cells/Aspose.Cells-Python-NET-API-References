@@ -3,7 +3,7 @@ title: is_ascend_sort propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 450
 url: /fr/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---

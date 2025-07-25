@@ -19,9 +19,9 @@ El tipo PlotEmptyCellsType expone los siguientes miembros:
 | :- | :- |
 | NOT_PLOTTED | No trazado (dejar espacio)|
 | ZERO | Cero|
-| INTERPOLATED | interpolado|
+| INTERPOLATED | Interpolado|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

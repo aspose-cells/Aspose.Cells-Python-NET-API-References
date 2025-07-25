@@ -3,13 +3,13 @@ title: row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 690
+weight: 720
 url: /tr/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row mülk
 
-Hücrenin row numarasını (sıfır tabanlı) alır.
+Hücrenin row numarasını (sıfırdan başlayarak) alır.
 ###  Tanım:
 ```python
 @property

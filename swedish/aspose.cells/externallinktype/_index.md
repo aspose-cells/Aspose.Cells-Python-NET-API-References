@@ -3,7 +3,7 @@ title: ExternalLinkType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2100
+weight: 2020
 url: /sv/aspose.cells/externallinktype/
 is_root: false
 ---

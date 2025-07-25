@@ -1,6 +1,6 @@
 ---
 title: stop_if_true proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stop_if_true proprietà
 
-True, nessuna regola con priorità inferiore può essere applicata a questa regola, quando questa regola restituisce true.
+Vero, nessuna regola con priorità inferiore può essere applicata a questa regola, quando questa regola viene valutata come vera.
 Si applica solo a Excel 2007;
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)

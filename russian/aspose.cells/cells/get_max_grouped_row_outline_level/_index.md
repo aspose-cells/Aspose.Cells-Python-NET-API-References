@@ -1,22 +1,23 @@
 ---
 title: get_max_grouped_row_outline_level метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 460
 url: /ru/aspose.cells/cells/get_max_grouped_row_outline_level/
 is_root: false
 ---
-##  get_max_grouped_row_outline_level {#}
-Получает максимальный уровень структуры сгруппированных строк (отсчет от нуля).
+##  get_max_grouped_row_outline_level(self) {#}
+Возвращает максимальный уровень структуры сгруппированных строк (начиная с нуля).
 
 
 ###  Возврат
 
-Максимальный уровень структуры сгруппированных строк (отсчет от нуля).
+Максимальный уровень структуры сгруппированных строк (отсчитывается от нуля)
 
 
 ```python
+
 def get_max_grouped_row_outline_level(self):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_font_applied propriété
 
-Indiquez si le formatage de la police doit être appliqué.
+Indiquez si la mise en forme de la police doit être appliquée.
 
 ###  Remarques
 

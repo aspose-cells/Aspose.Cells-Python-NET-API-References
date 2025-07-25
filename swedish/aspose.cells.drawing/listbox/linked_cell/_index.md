@@ -3,13 +3,13 @@ title: linked_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 770
+weight: 780
 url: /sv/aspose.cells.drawing/listbox/linked_cell/
 is_root: false
 ---
 ##  linked_cell fastighet
 
-Hämtar eller ställer in kalkylbladsintervallet kopplat till kontrollens värde.
+Hämtar eller anger kalkylbladsintervallet som är länkat till kontrollens värde.
 
 ###  Exempel
 

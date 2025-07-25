@@ -3,7 +3,7 @@ title: start_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 140
 url: /tr/aspose.cells/referredarea/start_column/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

@@ -1,22 +1,22 @@
 ---
-title: text_direction الملكية
+title: text_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 370
 url: /ar/aspose.cells.charts/displayunitlabel/text_direction/
 is_root: false
 ---
-##  text_direction الملكية
+##  text_direction عقار
 
 يمثل ترتيب قراءة النص.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
- الرجاء استخدام خاصية ChartTextFrame.ReadingOrder.
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ مارس 2020.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام الخاصية ChartTextFrame.ReadingOrder.
+سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ مارس 2020.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -28,6 +28,6 @@ def text_direction(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
-* فئة [TextDirectionType](/cells/python-net/ar/aspose.cells/textdirectiontype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* فئة [`TextDirectionType`](/cells/python-net/ar/aspose.cells/textdirectiontype)

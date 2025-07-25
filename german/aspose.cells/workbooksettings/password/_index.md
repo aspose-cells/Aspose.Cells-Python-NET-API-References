@@ -3,13 +3,13 @@ title: password Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 400
 url: /de/aspose.cells/workbooksettings/password/
 is_root: false
 ---
 ##  password Eigentum
 
-Stellt die Verschlüsselung der Arbeitsmappendatei password dar.
+Stellt die Arbeitsmappendateiverschlüsselung password dar.
 ###  Definition:
 ```python
 @property

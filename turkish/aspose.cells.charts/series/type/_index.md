@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Bir veri serisini alır veya ayarlar' type.
+type veri serisini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartType](/cells/python-net/tr/aspose.cells.charts/charttype)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartType`](/cells/python-net/tr/aspose.cells.charts/charttype)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

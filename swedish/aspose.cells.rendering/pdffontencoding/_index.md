@@ -3,12 +3,12 @@ title: PdfFontEncoding uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 230
 url: /sv/aspose.cells.rendering/pdffontencoding/
 is_root: false
 ---
 ##  PdfFontEncoding uppräkning
-Representerar pdf-inbäddad teckensnittskodning.
+Representerar kodning av inbäddade teckensnitt i PDF-format.
 
 
 
@@ -17,10 +17,10 @@ Typen PdfFontEncoding avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| IDENTITY | Representerar användning av Identity-H-kodning för alla inbäddade teckensnitt i pdf.|
-| ANSI_PREFER | Representerar föredrar att använda WinAnsiEncoding för TrueType-teckensnitt med tecken 32-127,<br/> annars kommer Identity-H-kodning att användas för inbäddade teckensnitt i pdf.|
+| IDENTITY | Representerar användning av Identity-H-kodning för alla inbäddade teckensnitt i PDF-filen.|
+| ANSI_PREFER | Representerar att föredra att använda WinAnsiEncoding för TrueType-teckensnitt med tecknen 32–127,<br/> annars kommer Identity-H-kodning att användas för inbäddade teckensnitt i PDF-filen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.rendering](..)
+* modul [`aspose.cells.rendering`](..)

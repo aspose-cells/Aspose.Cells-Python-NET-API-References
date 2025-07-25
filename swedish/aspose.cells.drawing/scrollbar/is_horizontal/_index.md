@@ -3,13 +3,13 @@ title: is_horizontal fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 620
 url: /sv/aspose.cells.drawing/scrollbar/is_horizontal/
 is_root: false
 ---
 ##  is_horizontal fastighet
 
-Indikerar om detta är en horisontell rullningslist.
+Anger om detta är en horisontell rullningslist.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name ab und setzt sie.
+Ruft name ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ThreadedCommentAuthor](/cells/python-net/de/aspose.cells/threadedcommentauthor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ThreadedCommentAuthor`](/cells/python-net/de/aspose.cells/threadedcommentauthor)

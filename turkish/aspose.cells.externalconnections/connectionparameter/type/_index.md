@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  type mülk
 
-Kullanılan parametre türü.
- parameterType=value ise, boolean, double, integer'dan gelen değer,
- veya dize kullanılacaktır. Bu durumda, yalnızca birinin olması beklenir.
+Kullanılan parametrenin türü.
+ Eğer parameterType=value ise, boolean, double, integer değerlerinden biri
+ veya dizesi kullanılacaktır. Bu durumda, yalnızca birinin kullanılması beklenir.
 {boolean, double, integer veya string} belirtilecektir.
 ###  Tanım:
 ```python
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameter](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
-* sınıf [ConnectionParameterType](/cells/python-net/tr/aspose.cells.externalconnections/connectionparametertype)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameter`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
+* sınıf [`ConnectionParameterType`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparametertype)

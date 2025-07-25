@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction_type mülk
 
-Gradyan yön tipini alır.
+Gradyan yön türünü alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def direction_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [GradientDirectionType](/cells/python-net/tr/aspose.cells.drawing/gradientdirectiontype)
-* sınıf [GradientFill](/cells/python-net/tr/aspose.cells.drawing/gradientfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`GradientDirectionType`](/cells/python-net/tr/aspose.cells.drawing/gradientdirectiontype)
+* sınıf [`GradientFill`](/cells/python-net/tr/aspose.cells.drawing/gradientfill)

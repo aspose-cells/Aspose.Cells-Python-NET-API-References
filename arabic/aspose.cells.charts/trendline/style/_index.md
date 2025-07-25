@@ -1,5 +1,5 @@
 ---
-title: style الملكية
+title: style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 300
 url: /ar/aspose.cells.charts/trendline/style/
 is_root: false
 ---
-##  style الملكية
+##  style عقار
 
-يمثل style للخط.
+يمثل style من الخط.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [LineType](/cells/python-net/ar/aspose.cells.drawing/linetype)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`LineType`](/cells/python-net/ar/aspose.cells.drawing/linetype)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

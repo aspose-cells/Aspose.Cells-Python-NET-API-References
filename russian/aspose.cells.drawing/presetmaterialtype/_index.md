@@ -1,9 +1,9 @@
 ---
 title: PresetMaterialType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1070
+weight: 1060
 url: /ru/aspose.cells.drawing/presetmaterialtype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип PresetMaterialType предоставляет следующие члены:
+Тип PresetMaterialType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -20,20 +20,20 @@ is_root: false
 | CLEAR | Прозрачный|
 | DARK_EDGE | Темный край|
 | FLAT | Плоский|
-| LEGACY_MATTE | Устаревший матовый|
-| LEGACY_METAL | Устаревший металл|
+| LEGACY_MATTE | Матовый Legacy|
+| LEGACY_METAL | Легаси-метал|
 | LEGACY_PLASTIC | Устаревший пластик|
-| LEGACY_WIREFRAME | Устаревший каркас|
-| MATTE | матовый|
+| LEGACY_WIREFRAME |Устаревший каркас|
+| MATTE | Матовый|
 | METAL | Металл|
 | PLASTIC | Пластик|
 | POWDER | Пудра|
 | SOFT_EDGE | Мягкий край|
 | SOFT_METAL | Мягкий металл|
-| TRANSLUCENT_POWDER | Полупрозрачная пудра|
+| TRANSLUCENT_POWDER | Прозрачная пудра|
 | WARM_MATTE | Теплый матовый|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern mülk
 
-pattern dolgu tipini alır veya ayarlar
+pattern dolgu türünü alır veya ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillPattern](/cells/python-net/tr/aspose.cells.drawing/fillpattern)
-* sınıf [PatternFill](/cells/python-net/tr/aspose.cells.drawing/patternfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillPattern`](/cells/python-net/tr/aspose.cells.drawing/fillpattern)
+* sınıf [`PatternFill`](/cells/python-net/tr/aspose.cells.drawing/patternfill)

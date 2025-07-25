@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style_type mülk
 
-Degrade gölgeleme stilini alır ve ayarlar.
+Degrade gölgelendirme stilini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GradientStyleType](/cells/python-net/tr/aspose.cells.drawing/gradientstyletype)
-* sınıf [TwoColorGradient](/cells/python-net/tr/aspose.cells/twocolorgradient)
+* modül [`aspose.cells`](../../)
+* sınıf [`GradientStyleType`](/cells/python-net/tr/aspose.cells.drawing/gradientstyletype)
+* sınıf [`TwoColorGradient`](/cells/python-net/tr/aspose.cells/twocolorgradient)

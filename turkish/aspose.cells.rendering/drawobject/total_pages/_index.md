@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_pages mülk
 
-Geçerli işlemedeki toplam sayfaları gösterir.
+Mevcut işlemedeki toplam sayfa sayısını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_pages(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [DrawObject](/cells/python-net/tr/aspose.cells.rendering/drawobject)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`DrawObject`](/cells/python-net/tr/aspose.cells.rendering/drawobject)

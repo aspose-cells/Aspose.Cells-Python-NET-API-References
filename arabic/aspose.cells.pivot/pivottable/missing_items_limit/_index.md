@@ -1,15 +1,15 @@
 ---
-title: missing_items_limit الملكية
+title: missing_items_limit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 760
 url: /ar/aspose.cells.pivot/pivottable/missing_items_limit/
 is_root: false
 ---
-##  missing_items_limit الملكية
+##  missing_items_limit عقار
 
-تحدد قيمة منطقية تشير إلى ما إذا كان يمكن تعيين عوامل تصفية متعددة على حقول PivotTable.
+يحدد قيمة منطقية تشير إلى ما إذا كان من الممكن تعيين عدة مرشحات على حقول جدول محوري.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def missing_items_limit(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotMissingItemLimitType](/cells/python-net/ar/aspose.cells.pivot/pivotmissingitemlimittype)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotMissingItemLimitType`](/cells/python-net/ar/aspose.cells.pivot/pivotmissingitemlimittype)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

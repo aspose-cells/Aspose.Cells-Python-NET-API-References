@@ -1,15 +1,15 @@
 ---
 title: show_in_outline_form недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 580
+weight: 680
 url: /ru/aspose.cells.pivot/pivotfield/show_in_outline_form/
 is_root: false
 ---
 ##  show_in_outline_form недвижимость
 
-Указывает, будет ли это поле отображаться в виде схемы в представлении сводной таблицы.
+Указывает, следует ли отображать это поле в виде структуры в представлении сводной таблицы.
 ###  Определение:
 ```python
 @property

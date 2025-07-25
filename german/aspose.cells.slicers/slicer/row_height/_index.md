@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  row_height Eigentum
 
-Gibt die Höhe jeder Zeile im angegebenen Slicer in Punkt zurück oder legt sie fest.
+Gibt die Höhe jeder Zeile im angegebenen Slicer in Punkten zurück oder legt sie fest.
 
 ###  Beispiel
 
 ```python
 
-slicer.row_height = 20
+slicer.row_height = 20.0
 
 ```
 ###  Definition:
@@ -29,5 +29,5 @@ def row_height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

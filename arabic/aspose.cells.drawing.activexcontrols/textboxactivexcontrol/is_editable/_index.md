@@ -1,5 +1,5 @@
 ---
-title: is_editable الملكية
+title: is_editable عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 200
 url: /ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/is_editable/
 is_root: false
 ---
-##  is_editable الملكية
+##  is_editable عقار
 
-يشير إلى ما إذا كان يمكن للمستخدم الكتابة في عنصر التحكم.
+يشير إلى ما إذا كان المستخدم قادرًا على الكتابة في عنصر التحكم.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_editable(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [TextBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`TextBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

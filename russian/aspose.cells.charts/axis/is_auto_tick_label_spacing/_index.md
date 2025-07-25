@@ -1,15 +1,15 @@
 ---
 title: is_auto_tick_label_spacing недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ru/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing недвижимость
 
-Указывает, является ли интервал между метками автоматическим.
+Указывает, является ли интервал между метками автоматическим
 ###  Определение:
 ```python
 @property

@@ -3,7 +3,7 @@ title: PaneStateType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2410
+weight: 2380
 url: /de/aspose.cells/panestatetype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ Der Typ PaneStateType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| FROZEN | Scheiben sind eingefroren, waren es aber vor dem Einfrieren nicht.|
-| FROZEN_SPLIT | Scheiben sind eingefroren und wurden vor dem Einfrieren geteilt.|
-| SPLIT |Scheiben sind geteilt, aber nicht eingefroren.|
-| NORMAL | Scheiben werden nicht eingefroren und nicht geteilt.|
+| FROZEN | Die Scheiben sind gefroren, waren es aber vor dem Einfrieren nicht.|
+| FROZEN_SPLIT | Die Scheiben sind gefroren und wurden vor dem Einfrieren gespalten.|
+| SPLIT | Die Scheiben sind gespalten, aber nicht eingefroren.|
+| NORMAL | Die Scheiben werden nicht eingefroren und nicht gespalten.|
 
 
 

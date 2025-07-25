@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height propiedad
 
-Obtiene y establece el height del bisel, o qué tan arriba de la forma se aplica.
+Obtiene y establece el height del bisel, o qué tan por encima de la forma se aplica.
 En unidad de Puntos.
 ###  Definición:
 ```python
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Bevel](/cells/python-net/es/aspose.cells.drawing/bevel)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Bevel`](/cells/python-net/es/aspose.cells.drawing/bevel)

@@ -1,6 +1,6 @@
 ---
 title: convert_numeric_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data недвижимость
 
-Получает или задает значение, указывающее, следует ли преобразовать строковое значение в числовое значение или значение даты.
+Возвращает или задает значение, указывающее, следует ли преобразовать строковое значение в числовое значение или значение даты.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ImportTableOptions](/cells/python-net/ru/aspose.cells/importtableoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ImportTableOptions`](/cells/python-net/ru/aspose.cells/importtableoptions)

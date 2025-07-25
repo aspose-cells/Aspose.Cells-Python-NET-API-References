@@ -3,11 +3,11 @@ title: union_rang Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 330
 url: /de/aspose.cells/range/union_rang/
 is_root: false
 ---
-##  union_rang {#aspose.cells.Range}
+##  union_rang(self, range) {#aspose.cells.Range}
 Gibt das Vereinigungsergebnis zweier Bereiche zurück.
 
 
@@ -17,6 +17,7 @@ Die Vereinigung zweier Bereiche.
 
 
 ```python
+
 def union_rang(self, range):
     ...
 ```
@@ -24,8 +25,13 @@ def union_rang(self, range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/de/aspose.cells/range) | Die Reichweite|
+| range | [`Range`](/cells/python-net/de/aspose.cells/range) | Das Sortiment|
+###  Bemerkungen
 
+HINWEIS: Diese Methode ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Methode Range.UnionRanges().
+ Diese Methode wird ab Mai 2024 12 Monate später entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

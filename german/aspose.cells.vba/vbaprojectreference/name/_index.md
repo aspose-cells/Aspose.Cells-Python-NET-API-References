@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name der Referenz ab und setzt sie.
+Ruft die name der Referenz ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProjectReference](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProjectReference`](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)

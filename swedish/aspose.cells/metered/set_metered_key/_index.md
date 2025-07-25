@@ -7,15 +7,16 @@ weight: 60
 url: /sv/aspose.cells/metered/set_metered_key/
 is_root: false
 ---
-##  set_metered_key {#str-str}
-Ställer in mätt offentlig och privat nyckel.
- Om du köper mätlicens, när du startar ansökan, bör denna API kallas, normalt räcker detta.
- Om dock alltid misslyckas med att ladda upp förbrukningsdata och överskrider 24 timmar, kommer licensen att ställas in på utvärderingsstatus,
-för att undvika sådana fall bör du regelbundet kontrollera licensstatusen, om det är utvärderingsstatus, ring detta API igen.
+##  set_metered_key(self, public_key, private_key) {#str-str}
+Ställer in uppmätta offentliga och privata nycklar.
+Om du köper en mätlicens bör API ringas när du startar ansökan, normalt räcker detta.
+ Om det dock alltid misslyckas med att ladda upp förbrukningsdata och det tar mer än 24 timmar, kommer licensen att ställas in på utvärderingsstatus.
+För att undvika ett sådant fall bör du regelbundet kontrollera licensstatusen. Om det är utvärderingsstatus, ring API igen.
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```

@@ -3,13 +3,13 @@ title: refresh_pivot_tables fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 230
 url: /sv/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---
 ##  refresh_pivot_tables fastighet
 
-Anger om pivottabeller uppdateras när filen laddas.
+Anger om pivottabeller ska uppdateras när filen laddas.
 ###  Definition:
 ```python
 @property

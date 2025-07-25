@@ -1,6 +1,6 @@
 ---
 title: extend_to_adjacent_range недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если это правда, только расширяет диапазон гиперссылки, не добавляя новую гиперссылку при копировании гиперссылок в соседние строки.
+Если значение равно true, то только расширяется диапазон гиперссылки, а не добавляется новая гиперссылка при копировании гиперссылок в соседние строки.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def extend_to_adjacent_range(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CopyOptions](/cells/python-net/ru/aspose.cells/copyoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CopyOptions`](/cells/python-net/ru/aspose.cells/copyoptions)

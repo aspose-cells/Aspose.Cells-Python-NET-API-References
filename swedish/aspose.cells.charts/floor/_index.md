@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/floor/
 is_root: false
 ---
 ##  Floor klass
-Kapslar in objektet som representerar golvet i ett 3D-diagram.
+Inkapslar objektet som representerar golvet i ett 3D-diagram.
 
 
 
@@ -22,13 +22,13 @@ Typen Floor avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [background_color](/cells/python-net/sv/aspose.cells.charts/floor/background_color) | Hämtar eller ställer in bakgrundsfärgen för [`Area`](/cells/python-net/sv/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/sv/aspose.cells.charts/floor/foreground_color) | Får eller ställer in förgrundsfärgen.|
+| [background_color](/cells/python-net/sv/aspose.cells.charts/floor/background_color) | Hämtar eller anger bakgrundsfärgen för [`Area`](/cells/python-net/sv/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/sv/aspose.cells.charts/floor/foreground_color) | Hämtar eller ställer in förgrundsfärgen.|
 | [formatting](/cells/python-net/sv/aspose.cells.charts/floor/formatting) | Representerar formateringen av området.|
-| [invert_if_negative](/cells/python-net/sv/aspose.cells.charts/floor/invert_if_negative) | Om egenskapen är sann och värdet på diagrampunkten är ett negativt tal,<br/> förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.|
-| [fill_format](/cells/python-net/sv/aspose.cells.charts/floor/fill_format) | Representerar ett [`Area.fill_format`](/cells/python-net/sv/aspose.cells.drawing/area#fill_format)-objekt som innehåller fyllningsformateringsegenskaper för det angivna diagrammet eller formen.|
-| [transparency](/cells/python-net/sv/aspose.cells.charts/floor/transparency) |Returnerar eller ställer in graden av transparens för området som ett värde från 0,0 (opak) till 1,0 (ren).|
-| [border](/cells/python-net/sv/aspose.cells.charts/floor/border) | Hämtar eller sätter gränsen [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).|
+| [invert_if_negative](/cells/python-net/sv/aspose.cells.charts/floor/invert_if_negative) | Om egenskapen är sann och värdet för diagrampunkten är ett negativt tal,<br/> Förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.|
+| [fill_format](/cells/python-net/sv/aspose.cells.charts/floor/fill_format) | Representerar ett [`Area.fill_format`](/cells/python-net/sv/aspose.cells.drawing/area#fill_format)-objekt som innehåller egenskaper för fyllningsformatering för det angivna diagrammet eller den angivna formen.|
+| [transparency](/cells/python-net/sv/aspose.cells.charts/floor/transparency) |Returnerar eller anger områdets genomskinlighetsgrad som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
+| [border](/cells/python-net/sv/aspose.cells.charts/floor/border) | Hämtar eller anger gränsen [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).|
 
 
 

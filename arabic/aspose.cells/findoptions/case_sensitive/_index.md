@@ -1,5 +1,5 @@
 ---
-title: case_sensitive الملكية
+title: case_sensitive عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 50
 url: /ar/aspose.cells/findoptions/case_sensitive/
 is_root: false
 ---
-##  case_sensitive الملكية
+##  case_sensitive عقار
 
 يشير إلى ما إذا كانت السلسلة التي تم البحث عنها حساسة لحالة الأحرف.
 ###  تعريف:
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FindOptions](/cells/python-net/ar/aspose.cells/findoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FindOptions`](/cells/python-net/ar/aspose.cells/findoptions)

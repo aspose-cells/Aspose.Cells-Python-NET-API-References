@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells/cellshelper/cell_index_to_name/
 is_root: false
 ---
-##  cell_index_to_name(row, column) {#int-int}
+##  cell_index_to_name(, rad, kolumn){#int-int}
 Hämtar cellnamn enligt dess rad- och kolumnindex.
 
 
@@ -17,7 +17,9 @@ Cellens namn.
 
 
 ```python
-def cell_index_to_name(self, row, column):
+
+@staticmethod
+def cell_index_to_name(row, column):
     ...
 ```
 
@@ -30,5 +32,5 @@ def cell_index_to_name(self, row, column):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

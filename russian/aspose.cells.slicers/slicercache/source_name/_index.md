@@ -1,6 +1,6 @@
 ---
 title: source_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  source_name недвижимость
 
-Возвращает имя поля кеша
+Возвращает имя этого кэша слайсера.
 
 ###  Пример
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```
@@ -27,5 +27,5 @@ def source_name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](../../)
-* класс [SlicerCache](/cells/python-net/ru/aspose.cells.slicers/slicercache)
+* модуль [`aspose.cells.slicers`](../../)
+* класс [`SlicerCache`](/cells/python-net/ru/aspose.cells.slicers/slicercache)

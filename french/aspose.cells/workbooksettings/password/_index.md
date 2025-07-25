@@ -3,13 +3,13 @@ title: password propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 400
 url: /fr/aspose.cells/workbooksettings/password/
 is_root: false
 ---
 ##  password propriété
 
-Représente le cryptage du fichier Workbook password.
+Représente le cryptage du fichier de classeur password.
 ###  Définition:
 ```python
 @property

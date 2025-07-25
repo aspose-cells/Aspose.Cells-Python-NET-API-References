@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_above_average Eigentum
 
- Holen oder setzen Sie das Flag, das angibt, ob die Regel eine "überdurchschnittliche" Regel ist.
-wahr“ zeigt „überdurchschnittlich“ an.
-Der Standardwert ist wahr.
+ Rufen Sie das Flag ab oder legen Sie es fest, das angibt, ob es sich bei der Regel um eine „überdurchschnittliche“ Regel handelt.
+„true“ bedeutet „überdurchschnittlich“.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_above_average(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AboveAverage](/cells/python-net/de/aspose.cells/aboveaverage)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AboveAverage`](/cells/python-net/de/aspose.cells/aboveaverage)

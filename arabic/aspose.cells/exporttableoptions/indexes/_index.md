@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes عقار
 
-indexes من الأعمدة/الصفوف التي يجب تصديرها للخارج.
+indexes من الأعمدة/الصفوف التي يجب تصديرها.
 ###  تعريف:
 ```python
 @property

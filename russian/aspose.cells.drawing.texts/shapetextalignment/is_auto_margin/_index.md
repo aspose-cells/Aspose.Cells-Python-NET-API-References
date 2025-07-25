@@ -1,6 +1,6 @@
 ---
 title: is_auto_margin недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin недвижимость
 
-Указывает, является ли поле текстового фрейма автоматическим.
+Указывает, являются ли поля текстовой рамки автоматическими.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)

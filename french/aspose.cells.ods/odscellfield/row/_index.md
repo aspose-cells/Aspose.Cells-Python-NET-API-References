@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient et définit l'index row de la cellule.
+Obtenir et définir l'index row de la cellule.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.ods](../../)
-* classe [OdsCellField](/cells/python-net/fr/aspose.cells.ods/odscellfield)
+* module [`aspose.cells.ods`](../../)
+* classe [`OdsCellField`](/cells/python-net/fr/aspose.cells.ods/odscellfield)

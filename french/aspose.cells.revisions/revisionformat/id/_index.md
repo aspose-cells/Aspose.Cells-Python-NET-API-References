@@ -8,12 +8,6 @@ url: /fr/aspose.cells.revisions/revisionformat/id/
 is_root: false
 ---
 ##  id propriété
-
-Obtient le numéro de cette révision.
-
-###  Remarques
-
-Zéro signifie que cette révision ne contient pas id.
 ###  Définition:
 ```python
 @property
@@ -22,5 +16,5 @@ def id(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionFormat](/cells/python-net/fr/aspose.cells.revisions/revisionformat)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionFormat`](/cells/python-net/fr/aspose.cells.revisions/revisionformat)

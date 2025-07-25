@@ -1,6 +1,6 @@
 ---
 title: store_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_name недвижимость
 
-Получает и задает экземпляр рынка, в котором хранится надстройка Office. .
+Возвращает и задает экземпляр магазина, в котором хранится надстройка Office.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionReference](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionReference`](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)

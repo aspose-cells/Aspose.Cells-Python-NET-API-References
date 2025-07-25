@@ -8,7 +8,7 @@ url: /sv/aspose.cells.drawing/area/
 is_root: false
 ---
 ##  Area klass
-Kapslar in objektet som representerar ett områdesformat.
+Inkapslar objektet som representerar ett areaformat.
 
 
 
@@ -17,12 +17,12 @@ Typen Area avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [background_color](/cells/python-net/sv/aspose.cells.drawing/area/background_color) | Hämtar eller ställer in bakgrundsfärgen för [Area](/cells/python-net/sv/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/sv/aspose.cells.drawing/area/foreground_color) | Får eller ställer in förgrundsfärgen.|
+| [background_color](/cells/python-net/sv/aspose.cells.drawing/area/background_color) | Hämtar eller anger bakgrundsfärgen för [`Area`](/cells/python-net/sv/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/sv/aspose.cells.drawing/area/foreground_color) | Hämtar eller ställer in förgrundsfärgen.|
 | [formatting](/cells/python-net/sv/aspose.cells.drawing/area/formatting) | Representerar formateringen av området.|
-| [invert_if_negative](/cells/python-net/sv/aspose.cells.drawing/area/invert_if_negative) | Om egenskapen är sann och värdet på diagrampunkten är ett negativt tal,<br/> förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.|
-| [fill_format](/cells/python-net/sv/aspose.cells.drawing/area/fill_format) | Representerar ett [Area.fill_format](/cells/python-net/sv/aspose.cells.drawing/area#fill_format)-objekt som innehåller fyllningsformateringsegenskaper för det angivna diagrammet eller formen.|
-| [transparency](/cells/python-net/sv/aspose.cells.drawing/area/transparency) | Returnerar eller ställer in graden av transparens för området som ett värde från 0,0 (opak) till 1,0 (ren).|
+| [invert_if_negative](/cells/python-net/sv/aspose.cells.drawing/area/invert_if_negative) | Om egenskapen är sann och värdet för diagrampunkten är ett negativt tal,<br/> Förgrundsfärgen och bakgrundsfärgen kommer att bytas ut.|
+| [fill_format](/cells/python-net/sv/aspose.cells.drawing/area/fill_format) | Representerar ett [`Area.fill_format`](/cells/python-net/sv/aspose.cells.drawing/area#fill_format)-objekt som innehåller egenskaper för fyllningsformatering för det angivna diagrammet eller den angivna formen.|
+| [transparency](/cells/python-net/sv/aspose.cells.drawing/area/transparency) |Returnerar eller anger områdets genomskinlighetsgrad som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
-* klass [Area](/cells/python-net/sv/aspose.cells.drawing/area)
+* modul [`aspose.cells.drawing`](..)
+* klass [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)

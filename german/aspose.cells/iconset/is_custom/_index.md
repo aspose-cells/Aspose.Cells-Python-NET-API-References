@@ -10,7 +10,7 @@ is_root: false
 ##  is_custom Eigentum
 
 Gibt an, ob der Symbolsatz benutzerdefiniert ist.
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -19,5 +19,5 @@ def is_custom(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IconSet](/cells/python-net/de/aspose.cells/iconset)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IconSet`](/cells/python-net/de/aspose.cells/iconset)

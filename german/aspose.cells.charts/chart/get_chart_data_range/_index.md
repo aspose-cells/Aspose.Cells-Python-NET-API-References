@@ -7,7 +7,7 @@ weight: 50
 url: /de/aspose.cells.charts/chart/get_chart_data_range/
 is_root: false
 ---
-##  get_chart_data_range() {#}
+##  get_chart_data_range(self) {#}
 Ruft den Datenquellenbereich des Diagramms ab.
 
 
@@ -17,6 +17,7 @@ Die Datenquelle.
 
 
 ```python
+
 def get_chart_data_range(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_chart_data_range(self):
 
 ###  Bemerkungen
 
-Unterstützt nur die Reichweite.
+Unterstützt nur Reichweite.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.charts](../../)
-* Klasse [Chart](/cells/python-net/de/aspose.cells.charts/chart)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Chart`](/cells/python-net/de/aspose.cells.charts/chart)

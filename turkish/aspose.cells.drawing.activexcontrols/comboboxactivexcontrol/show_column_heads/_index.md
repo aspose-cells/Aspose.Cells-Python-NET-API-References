@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_column_heads mülk
 
-Sütun başlıklarının görüntülenip görüntülenmediğini belirtir.
+Sütun başlıklarının görüntülenip görüntülenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_column_heads(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ComboBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ComboBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

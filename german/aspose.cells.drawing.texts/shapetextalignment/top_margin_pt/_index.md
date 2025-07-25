@@ -3,13 +3,13 @@ title: top_margin_pt Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
 ##  top_margin_pt Eigentum
 
-Gibt den oberen Rand in Punkteinheiten zurück
+Gibt den oberen Rand in der Einheit Punkte zurück
 
 ###  Beispiel
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [ShapeTextAlignment](/cells/python-net/de/aspose.cells.drawing.texts/shapetextalignment)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`ShapeTextAlignment`](/cells/python-net/de/aspose.cells.drawing.texts/shapetextalignment)

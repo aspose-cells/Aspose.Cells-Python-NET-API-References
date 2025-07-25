@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_first Eigentum
 
-True bedeutet, dass sich die Kopf-/Fußzeile der ersten Seite von anderen Seiten unterscheidet.
+„True“ bedeutet, dass sich die Kopf-/Fußzeile der ersten Seite von denen anderer Seiten unterscheidet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_first(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

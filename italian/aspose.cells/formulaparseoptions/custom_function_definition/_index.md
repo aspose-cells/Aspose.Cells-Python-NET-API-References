@@ -1,6 +1,6 @@
 ---
 title: custom_function_definition proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -13,9 +13,9 @@ Definizione per l'analisi delle funzioni personalizzate.
 
 ###  Osservazioni
 
-Per alcuni requisiti speciali, come quando si calcola la funzione personalizzata nel motore personalizzato dell'utente,
+Per alcuni requisiti speciali, come ad esempio quando si calcola una funzione personalizzata nel motore personalizzato dell'utente,
 alcuni parametri devono essere calcolati in modalità array, utilizzando questa proprietà è possibile contrassegnare tali parametri
-come modalità array durante l'analisi della formula. Altrimenti l'utente dovrà aggiornare le funzioni personalizzate in un secondo momento
+in modalità array durante l'analisi della formula. In caso contrario, l'utente deve aggiornare le funzioni personalizzate in un secondo momento
 [`Workbook.update_custom_function_definition`](/cells/python-net/it/aspose.cells/workbook/update_custom_function_definition) per ottenere lo stesso risultato.
 ###  Definizione:
 ```python

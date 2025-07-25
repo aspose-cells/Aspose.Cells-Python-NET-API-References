@@ -7,8 +7,8 @@ weight: 80
 url: /ar/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
-احصل على قيمة التحقق من الصحة في الخلية المحددة.
+##  get_value(self, row, column, is_value1) {#int-int-bool}
+احصل على قيمة التحقق من صحة الخلية المحددة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -26,7 +27,7 @@ def get_value(self, row, column, is_value1):
 | :- | :- | :- |
 | row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
-| is_value1 | bool |يشير إلى ما إذا كان الحصول على القيمة الأولى.|
+| is_value1 | bool | يشير إلى ما إذا كان سيتم الحصول على القيمة الأولى.|
 
 
 

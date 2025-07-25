@@ -1,16 +1,15 @@
 ---
 title: show_values_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 990
+weight: 1130
 url: /ru/aspose.cells.pivot/pivottable/show_values_row/
 is_root: false
 ---
 ##  show_values_row недвижимость
 
-Задает логическое значение, указывающее, следует ли отображать строку значений.
-показать строку значений
+Указывает, отображать ли строку значений.
 ###  Определение:
 ```python
 @property
@@ -22,5 +21,5 @@ def show_values_row(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

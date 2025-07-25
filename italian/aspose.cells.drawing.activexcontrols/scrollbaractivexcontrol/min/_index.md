@@ -1,6 +1,6 @@
 ---
 title: min proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -21,5 +21,5 @@ def min(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

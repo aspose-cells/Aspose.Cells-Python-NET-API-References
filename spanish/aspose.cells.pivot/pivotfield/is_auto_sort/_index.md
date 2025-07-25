@@ -3,7 +3,7 @@ title: is_auto_sort propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 390
+weight: 470
 url: /es/aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---

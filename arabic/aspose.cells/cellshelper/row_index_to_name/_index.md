@@ -3,12 +3,12 @@ title: طريقة row_index_to_name
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells/cellshelper/row_index_to_name/
 is_root: false
 ---
-##  row_index_to_name {#int}
-يحصل على اسم الصف وفقا لفهرس الصف.
+## row_index_to_name(، الصف){#int}
+يحصل على اسم الصف وفقًا لمؤشر الصف.
 
 
 ###  عائدات
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def row_index_to_name(self, row):
+
+@staticmethod
+def row_index_to_name(row):
     ...
 ```
 

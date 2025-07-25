@@ -3,13 +3,13 @@ title: upper_delta_y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /de/aspose.cells.drawing/webextensionshape/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y Eigentum
 
-Ruft den vertikalen Versatz der Form von ihrer oberen linken Eckreihe ab oder legt diesen fest.
+Ruft den vertikalen Versatz der Form von ihrer oberen linken Eckreihe ab oder legt ihn fest.
 
 ###  Bemerkungen
 

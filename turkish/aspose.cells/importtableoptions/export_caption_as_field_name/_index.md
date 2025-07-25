@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  export_caption_as_field_name mülk
 
-Resim yazısının alan adı olarak dışa aktarılıp aktarılmayacağını belirtir
+Başlığın alan adı olarak dışa aktarılıp aktarılmayacağını belirtir
 
 ###  Notlar
 
-Yalnızca DataTable için çalışır.
+Sadece DataTable için çalışır.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

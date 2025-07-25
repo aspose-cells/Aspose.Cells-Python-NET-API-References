@@ -3,14 +3,14 @@ title: export_worksheet_properties Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 450
 url: /de/aspose.cells.saving/ebooksaveoptions/export_worksheet_properties/
 is_root: false
 ---
 ##  export_worksheet_properties Eigentum
 
-Gibt an, ob Arbeitsblatteigenschaften exportiert werden. Der Standardwert ist true. Wenn Sie importieren möchten
-Wenn Sie die HTML- oder MHT-Datei in Excel kopieren möchten, behalten Sie bitte den Standardwert bei.
+ Gibt an, ob Arbeitsblatteigenschaften exportiert werden. Der Standardwert ist true. Wenn Sie importieren möchten
+Wenn Sie die HTML- oder MHT-Datei nach Excel konvertieren möchten, behalten Sie bitte den Standardwert bei.
 ###  Definition:
 ```python
 @property

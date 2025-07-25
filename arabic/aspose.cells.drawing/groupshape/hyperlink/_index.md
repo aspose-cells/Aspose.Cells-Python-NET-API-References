@@ -3,7 +3,7 @@ title: hyperlink عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 510
 url: /ar/aspose.cells.drawing/groupshape/hyperlink/
 is_root: false
 ---

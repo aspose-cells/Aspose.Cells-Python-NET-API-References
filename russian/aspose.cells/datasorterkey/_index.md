@@ -1,14 +1,14 @@
 ---
 title: DataSorterKey класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 420
 url: /ru/aspose.cells/datasorterkey/
 is_root: false
 ---
 ##  DataSorterKey класс
-Представляет ключ сортировщика данных.
+Представляет собой ключ сортировщика данных.
 
 
 
@@ -18,7 +18,7 @@ is_root: false
 | Свойство| Описание|
 | :- | :- |
 | [order](/cells/python-net/ru/aspose.cells/datasorterkey/order) | Указывает порядок сортировки.|
-| [index](/cells/python-net/ru/aspose.cells/datasorterkey/index) | Получает индекс отсортированного столбца (абсолютное положение, столбец A — 0, B — 1,...).|
+| [index](/cells/python-net/ru/aspose.cells/datasorterkey/index) |Возвращает отсортированный индекс столбца (абсолютная позиция, столбец A равен 0, B равен 1, ...).|
 | [type](/cells/python-net/ru/aspose.cells/datasorterkey/type) | Представляет тип сортировки.|
 | [icon_set_type](/cells/python-net/ru/aspose.cells/datasorterkey/icon_set_type) | Представляет тип набора значков.|
 | [icon_id](/cells/python-net/ru/aspose.cells/datasorterkey/icon_id) | Представляет идентификатор типа набора значков.|

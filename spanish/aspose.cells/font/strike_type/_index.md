@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  strike_type propiedad
 
-Obtiene el tipo de aviso del texto.
+Obtiene el tipo de golpe del texto.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
-* clase [TextStrikeType](/cells/python-net/es/aspose.cells/textstriketype)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)
+* clase [`TextStrikeType`](/cells/python-net/es/aspose.cells/textstriketype)

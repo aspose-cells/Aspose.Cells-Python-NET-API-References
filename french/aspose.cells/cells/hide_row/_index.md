@@ -3,16 +3,17 @@ title: méthode hide_row
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 620
 url: /fr/aspose.cells/cells/hide_row/
 is_root: false
 ---
-##  hide_row {#int}
+##  hide_row(self, row) {#int}
 Masque une ligne.
 
 
 
 ```python
+
 def hide_row(self, row):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: right_crop proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop proprietà
 
-Rappresenta la posizione della parte destra del rettangolo di ritaglio espressa, espressa come rapporto tra la larghezza dell'immagine.
+Rappresenta la posizione del lato destro del rettangolo di ritaglio, espressa come rapporto della larghezza dell'immagine.
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: input_title недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 240
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_title недвижимость
 
-Представляет заголовок диалогового окна ввода данных для проверки данных.
+Представляет заголовок диалогового окна ввода проверки данных.
 ###  Определение:
 ```python
 @property

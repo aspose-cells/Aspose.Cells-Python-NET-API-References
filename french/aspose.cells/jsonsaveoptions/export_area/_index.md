@@ -3,7 +3,7 @@ title: export_area propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 70
+weight: 90
 url: /fr/aspose.cells/jsonsaveoptions/export_area/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def export_area(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

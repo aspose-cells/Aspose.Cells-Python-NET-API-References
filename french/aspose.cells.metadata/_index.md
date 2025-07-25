@@ -12,13 +12,13 @@ is_root: false
 ###  Des classes
 | Classe| Description|
 | :- | :- |
-| [MetadataOptions](/cells/python-net/fr/aspose.cells.metadata/metadataoptions) | Représente les options de chargement des métadonnées du fichier.|
-| [WorkbookMetadata](/cells/python-net/fr/aspose.cells.metadata/workbookmetadata) | Représente les métadonnées.|
+| [`MetadataOptions`](/cells/python-net/fr/aspose.cells.metadata/metadataoptions) | Représente les options de chargement des métadonnées du fichier.|
+| [`WorkbookMetadata`](/cells/python-net/fr/aspose.cells.metadata/workbookmetadata) |Représente les métadonnées.|
 
 
 ###  Énumérations
-|Énumération| Description|
+| Énumération| Description|
 | :- | :- |
-| [MetadataType](/cells/python-net/fr/aspose.cells.metadata/metadatatype) | Représente le type de métadonnées.|
+| [`MetadataType`](/cells/python-net/fr/aspose.cells.metadata/metadatatype) | Représente le type de métadonnées.|
 
 

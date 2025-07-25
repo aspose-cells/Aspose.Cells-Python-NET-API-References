@@ -1,5 +1,5 @@
 ---
-title: set_data_source método
+title: método set_data_source
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 50
 url: /es/aspose.cells/workbookdesigner/set_data_source/
 is_root: false
 ---
-##  set_data_source(data_source, cells_data_table) {#str-ICellsDataTable}
-Establece la fuente de datos de un objeto [ICellsDataTable](/cells/python-net/es/aspose.cells/icellsdatatable).
+##  set_data_source(self, data_source, cells_data_table) {#str-ICellsDataTable}
+
 
 
 
 ```python
+
 def set_data_source(self, data_source, cells_data_table):
     ...
 ```
@@ -20,16 +21,17 @@ def set_data_source(self, data_source, cells_data_table):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| data_source | str | El nombre de la fuente de datos.|
-| cells_data_table | [ICellsDataTable](/cells/python-net/es/aspose.cells/icellsdatatable) | tabla de datos.|
+| data_source | str |  |
+| cells_data_table | ICellsDataTable |  |
 
 
-##  set_data_source(variable, data) {#str-any}
+##  set_data_source(self, variable, data) {#str-any}
 Establece el enlace de datos a una variable.
 
 
 
 ```python
+
 def set_data_source(self, variable, data):
     ...
 ```
@@ -37,12 +39,11 @@ def set_data_source(self, variable, data):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| variable | str | Nombre de variable creado con marcador inteligente.|
-| data | any | Datos fuente.|
+| variable | str | Nombre de variable creado usando marcador inteligente.|
+| data | any | Datos de origen.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ICellsDataTable](/cells/python-net/es/aspose.cells/icellsdatatable)
-* clase [WorkbookDesigner](/cells/python-net/es/aspose.cells/workbookdesigner)
+* módulo [`aspose.cells`](../../)
+* clase [`WorkbookDesigner`](/cells/python-net/es/aspose.cells/workbookdesigner)

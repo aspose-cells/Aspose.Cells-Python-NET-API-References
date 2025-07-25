@@ -13,11 +13,13 @@ Får konsumtionskredit
 
 ###  Returnerar
 
-konsumtionsmängd
+förbrukningsmängd
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Metered](/cells/python-net/sv/aspose.cells/metered)
+* modul [`aspose.cells`](../../)
+* klass [`Metered`](/cells/python-net/sv/aspose.cells/metered)

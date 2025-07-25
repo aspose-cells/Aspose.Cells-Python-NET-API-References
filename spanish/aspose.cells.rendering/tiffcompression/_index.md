@@ -3,7 +3,7 @@ title: TiffCompression enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 260
 url: /es/aspose.cells.rendering/tiffcompression/
 is_root: false
 ---
@@ -20,10 +20,10 @@ El tipo TiffCompression expone los siguientes miembros:
 | COMPRESSION_NONE | No especifica compresión.|
 | COMPRESSION_RLE | Especifica el esquema de compresión RLE.|
 | COMPRESSION_LZW | Especifica el esquema de compresión LZW.|
-| COMPRESSION_CCITT3 |Especifica el esquema de compresión CCITT3.|
+| COMPRESSION_CCITT3 | Especifica el esquema de compresión CCITT3.|
 | COMPRESSION_CCITT4 | Especifica el esquema de compresión CCITT4.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.rendering](..)
+* módulo [`aspose.cells.rendering`](..)

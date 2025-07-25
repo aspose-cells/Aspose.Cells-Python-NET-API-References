@@ -3,13 +3,13 @@ title: load_style_strategy Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 260
 url: /de/aspose.cells/txtloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy Eigentum
 
-Gibt die Strategie zum Anwenden des Stils auf analysierte Werte an, wenn ein Zeichenfolgewert in eine Zahl oder eine Datums-/Uhrzeitkonvertierung umgewandelt wird.
+Gibt die Strategie zum Anwenden des Stils auf analysierte Werte an, wenn Zeichenfolgenwerte in Zahlen oder Datums-/Uhrzeitwerte konvertiert werden.
 ###  Definition:
 ```python
 @property

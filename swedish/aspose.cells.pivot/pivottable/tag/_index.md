@@ -3,13 +3,13 @@ title: tag fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1030
+weight: 1180
 url: /sv/aspose.cells.pivot/pivottable/tag/
 is_root: false
 ---
 ##  tag fastighet
 
-Hämtar en sträng som sparas med pivottabellsrapporten.
+Hämtar en sträng som sparats med pivottabellrapporten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def tag(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

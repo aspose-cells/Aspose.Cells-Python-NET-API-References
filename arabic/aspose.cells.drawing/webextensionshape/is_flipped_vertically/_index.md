@@ -3,13 +3,13 @@ title: is_flipped_vertically عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ar/aspose.cells.drawing/webextensionshape/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically عقار
 
-الحصول على وتحديد ما إذا كان الشكل مقلوبًا رأسيًا.
+يحصل ويحدد ما إذا كان الشكل مقلوبًا رأسيًا أم لا.
 
 ###  مثال
 

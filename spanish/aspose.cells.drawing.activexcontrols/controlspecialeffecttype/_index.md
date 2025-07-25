@@ -3,7 +3,7 @@ title: ControlSpecialEffectType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 240
 url: /es/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
@@ -20,10 +20,10 @@ El tipo ControlSpecialEffectType expone los siguientes miembros:
 | FLAT | Departamento|
 | RAISED | Aumentó|
 | SUNKEN | Hundido|
-| ETCHED | grabado|
+| ETCHED | Grabado|
 | BUMP | Bulto|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

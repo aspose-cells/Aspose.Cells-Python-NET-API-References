@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/sparklinetype/
 is_root: false
 ---
 ##  SparklineType enumeración
-Representa los tipos de minigráfico.
+Representa los tipos de minigráficos.
 
 
 
@@ -17,11 +17,11 @@ El tipo SparklineType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| LINE | Chispazo de línea.|
+| LINE | Línea de minigráfico.|
 | COLUMN | Minigráfico de columna.|
-| STACKED | Sparkline de victorias/pérdidas.|
+| STACKED | Minigráfico de ganancias y pérdidas.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

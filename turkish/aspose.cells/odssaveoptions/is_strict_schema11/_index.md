@@ -3,20 +3,20 @@ title: is_strict_schema11 mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 100
 url: /tr/aspose.cells/odssaveoptions/is_strict_schema11/
 is_root: false
 ---
 ##  is_strict_schema11 mülk
 
-Ods dosyasının ODF formatı sürüm 1.1 olarak kaydedilip kaydedilmeyeceğini belirtir. Varsayılan yanlıştır.
+ODS dosyasının ODF format sürüm 1.1 olarak kaydedilip kaydedilmeyeceğini belirtir. Varsayılan değer false'tur.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen OdsSaveOptions.OdfStrictVersion özelliğini kullanın.
- Bu yöntem Şubat 2024'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen OdsSaveOptions.OdfStrictVersion özelliğini kullanın.
+ Bu yöntem 12 ay sonra, Şubat 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

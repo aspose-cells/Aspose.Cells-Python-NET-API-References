@@ -7,12 +7,13 @@ weight: 10
 url: /zh/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __在里面__ {#}
-创建用于计算图表的选项。
+##  \_\_init\_\_（自身）{#}
+创建计算图表的选项。
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

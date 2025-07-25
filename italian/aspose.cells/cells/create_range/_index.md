@@ -1,22 +1,23 @@
 ---
-title: metodo create_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo create_range
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 190
 url: /it/aspose.cells/cells/create_range/
 is_root: false
 ---
-##  create_range(address) {#str}
-Crea un oggetto [Range](/cells/python-net/it/aspose.cells/range) da un indirizzo dell'intervallo.
+##  create_range(self, address) {#str}
+Crea un oggetto [`Range`](/cells/python-net/it/aspose.cells/range) da un indirizzo compreso nell'intervallo.
 
 
 ###  ritorna
 
-Un oggetto [Range](/cells/python-net/it/aspose.cells/range)
+Un oggetto [`Range`](/cells/python-net/it/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -27,16 +28,17 @@ def create_range(self, address):
 | address | str | L'indirizzo dell'intervallo.|
 
 
-##  create_range(upper_left_cell, lower_right_cell) {#str-str}
-Crea un oggetto [Range](/cells/python-net/it/aspose.cells/range) da un intervallo di celle.
+##  create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+Crea un oggetto [`Range`](/cells/python-net/it/aspose.cells/range) da un intervallo di celle.
 
 
 ###  ritorna
 
-Un oggetto [Range](/cells/python-net/it/aspose.cells/range)
+Un oggetto [`Range`](/cells/python-net/it/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -48,16 +50,17 @@ def create_range(self, upper_left_cell, lower_right_cell):
 | lower_right_cell | str | Nome della cella in basso a destra.|
 
 
-##  create_range(first_index, number, is_vertical) {#int-int-bool}
-Crea un oggetto [Range](/cells/python-net/it/aspose.cells/range) da righe di celle o colonne di celle.
+##  create_range(self, first_index, number, is_vertical) {#int-int-bool}
+Crea un oggetto [`Range`](/cells/python-net/it/aspose.cells/range) da righe di celle o colonne di celle.
 
 
 ###  ritorna
 
-Un oggetto [Range](/cells/python-net/it/aspose.cells/range).
+Un oggetto [`Range`](/cells/python-net/it/aspose.cells/range).
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -65,21 +68,22 @@ def create_range(self, first_index, number, is_vertical):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| first_index | int | Indice della prima riga o indice della prima colonna, in base zero.|
-| number | int | Numero totale di righe o colonne, una basata.|
-| is_vertical | bool | True: intervallo creato da colonne di celle. Falso: intervallo creato da righe di celle.|
+| first_index | int | Indice della prima riga o indice della prima colonna, a partire da zero.|
+| number | int | Numero totale di righe o colonne, in base uno.|
+| is_vertical | bool | Vero - Intervallo creato da colonne di celle. Falso - Intervallo creato da righe di celle.|
 
 
-##  create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-Crea un oggetto [Range](/cells/python-net/it/aspose.cells/range) da un intervallo di celle.
+##  create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+Crea un oggetto [`Range`](/cells/python-net/it/aspose.cells/range) da un intervallo di celle.
 
 
 ###  ritorna
 
-Un oggetto [Range](/cells/python-net/it/aspose.cells/range)
+Un oggetto [`Range`](/cells/python-net/it/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -87,7 +91,7 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| first_row | int | Prima fila di questa gamma|
+| first_row | int |Prima riga di questa gamma|
 | first_column | int | Prima colonna di questo intervallo|
 | total_rows | int | Numero di righe|
 | total_columns | int | Numero di colonne|
@@ -95,6 +99,6 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cells](/cells/python-net/it/aspose.cells/cells)
-* classe [Range](/cells/python-net/it/aspose.cells/range)
+* modulo [`aspose.cells`](../../)
+* classe [`Cells`](/cells/python-net/it/aspose.cells/cells)
+* classe [`Range`](/cells/python-net/it/aspose.cells/range)

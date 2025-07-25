@@ -1,16 +1,16 @@
 ---
 title: width_scalable недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 720
+weight: 800
 url: /ru/aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---
 ##  width_scalable недвижимость
 
-Указывает, экспортируется ли ширина столбца в единицах масштаба в HTML.
-Значение по умолчанию неверно.
+Указывает, экспортировать ли ширину столбца в единицах масштаба в HTML.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

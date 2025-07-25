@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space_size_type propriété
 
-Obtient et définit la quantité d'espace blanc vertical qui sera utilisée dans un paragraphe.
+Obtient et définit la quantité d'espace blanc vertical qui sera utilisé dans un paragraphe.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def line_space_size_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [LineSpaceSizeType](/cells/python-net/fr/aspose.cells.drawing.texts/linespacesizetype)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`LineSpaceSizeType`](/cells/python-net/fr/aspose.cells.drawing.texts/linespacesizetype)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

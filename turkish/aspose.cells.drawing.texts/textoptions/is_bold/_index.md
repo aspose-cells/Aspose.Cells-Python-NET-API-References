@@ -21,5 +21,5 @@ def is_bold(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

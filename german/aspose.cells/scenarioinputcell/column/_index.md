@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ScenarioInputCell](/cells/python-net/de/aspose.cells/scenarioinputcell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ScenarioInputCell`](/cells/python-net/de/aspose.cells/scenarioinputcell)

@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  overlap propiedad
 
-Especifica cómo se colocan las barras y las columnas.
- Puede ser un valor entre – 100 y 100.
-Solo se aplica a gráficos de barras 2D y columnas 2D.
+Especifica cómo se posicionan las barras y columnas.
+Puede ser un valor entre – 100 y 100.
+Se aplica únicamente a gráficos de barras 2D y de columnas 2D.
 ###  Definición:
 ```python
 @property
@@ -23,5 +23,5 @@ def overlap(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

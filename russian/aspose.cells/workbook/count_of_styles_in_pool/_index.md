@@ -1,15 +1,15 @@
 ---
 title: count_of_styles_in_pool недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 510
 url: /ru/aspose.cells/workbook/count_of_styles_in_pool/
 is_root: false
 ---
 ##  count_of_styles_in_pool недвижимость
 
-Получает количество стилей в пуле стилей.
+Возвращает количество стилей в пуле стилей.
 ###  Определение:
 ```python
 @property

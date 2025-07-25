@@ -3,13 +3,13 @@ title: export_bogus_row_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 250
 url: /ar/aspose.cells/htmlsaveoptions/export_bogus_row_data/
 is_root: false
 ---
 ##  export_bogus_row_data عقار
 
-الإشارة إلى ما إذا كان يتم تصدير بيانات الصف السفلي الزائفة. القيمة الافتراضية هي true.إذا كنت تريد استيراد ملف html أو mht
+يُشير إلى ما إذا كان يتم تصدير بيانات الصف السفلي غير صحيحة. القيمة الافتراضية هي "صحيح". إذا كنت ترغب في استيراد ملف HTML أو MHT،
 للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python

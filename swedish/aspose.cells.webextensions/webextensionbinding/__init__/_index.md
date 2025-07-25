@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.webextensions/webextensionbinding/__init__/
 is_root: false
 ---
-##  WebExtensionBinding() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av WebExtensionBinding
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionBinding](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionBinding`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbinding)

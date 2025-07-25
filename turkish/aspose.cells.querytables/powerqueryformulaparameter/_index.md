@@ -8,26 +8,32 @@ url: /tr/aspose.cells.querytables/powerqueryformulaparameter/
 is_root: false
 ---
 ##  PowerQueryFormulaParameter sınıfı
-Güç sorgu formülünün parametresini temsil eder.
+Güç sorgusu formülünün parametresini temsil eder.
 
 
 
-PowerQueryFormulaParameter türü aşağıdaki üyeleri gösterir:
+**Miras:** [`PowerQueryFormulaParameter`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparameter) → 
+[`PowerQueryFormula`](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula)
 
-###  İnşaatçılar
-| Yapıcı| Tanım|
-| :- | :- |
-| [PowerQueryFormulaParameter()](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/__init__/#) | Yeni bir PowerQueryFormulaParameter örneği oluşturur|
 
+
+PowerQueryFormulaParameter türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/name) | Parametre adını alır.|
+| [type](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/type) | Güç sorgusu formülünün türünü alır.|
+| [group_name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/group_name) | Bu güç sorgusu formülünü içeren grubun adını alır.|
+| [formula_definition](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/formula_definition) | Parametrenin tanımını alır.|
+| [name](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/name) | Güç sorgusu formülünün adını alır ve ayarlar.|
+| [description](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/description) |Güç sorgusu formülünün açıklamasını alır ve ayarlar.|
+| [power_query_formula_items](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/power_query_formula_items) | Güç sorgusu formülünün tüm öğelerini alır.|
 | [value](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/value) | Parametrenin değerini alır.|
 | [parameter_definition](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter/parameter_definition) | Parametrenin tanımını alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.querytables](..)
+* modül [`aspose.cells.querytables`](..)
+* sınıf [`PowerQueryFormula`](/cells/python-net/tr/aspose.cells.querytables/powerqueryformula)
+* sınıf [`PowerQueryFormulaParameter`](/cells/python-net/tr/aspose.cells.querytables/powerqueryformulaparameter)

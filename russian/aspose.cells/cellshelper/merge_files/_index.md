@@ -1,19 +1,21 @@
 ---
 title: merge_files метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/cellshelper/merge_files/
 is_root: false
 ---
-##  merge_files(files, cached_file, dest_file) {#list-str-str}
-Объединяет несколько больших файлов xls в файл xls.
+##  merge_files(, файлы, кэшированный_файл, целевой_файл){#list-str-str}
+Объединяет несколько больших xls-файлов в один xls-файл.
 
 
 
 ```python
-def merge_files(self, files, cached_file, dest_file):
+
+@staticmethod
+def merge_files(files, cached_file, dest_file):
     ...
 ```
 
@@ -30,5 +32,5 @@ def merge_files(self, files, cached_file, dest_file):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

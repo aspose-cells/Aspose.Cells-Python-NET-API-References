@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/
 is_root: false
 ---
-##  get_on_category_axis_point_count() {#}
-Ruft die Anzahl der Punkte auf der Kategorieachse ab, nachdem die Methode Chart.Calculate() aufgerufen wurde. Gilt nur für Flächendiagramme.
+##  get_on_category_axis_point_count(self) {#}
+Ruft die Anzahl der Punkte auf der Kategorieachse nach dem Aufruf der Methode Chart.Calculate() ab. Gilt nur für Flächendiagramme.
 
 
 
 ```python
+
 def get_on_category_axis_point_count(self):
     ...
 ```
@@ -20,10 +21,10 @@ def get_on_category_axis_point_count(self):
 
 ###  Bemerkungen
 
-Bereich 2D-Diagramm zurück 1
-3D-Flächenkarte zurück 2.
+Flächen-2D-Diagramm zurück 1
+Flächen-3D-Diagrammrückgabe 2.
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

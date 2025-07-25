@@ -3,14 +3,14 @@ title: auto_load mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 320
+weight: 330
 url: /tr/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
 ##  auto_load mülk
 
-Katıştırılmış nesneye ilişkin ana bilgisayar uygulamasının yüklenmek üzere çağrılıp çağrılmayacağını belirtir
-ana çalışma kitabı açıldığında nesne verileri otomatik olarak.
+Gömülü nesne için ana uygulamanın yükleme için çağrılıp çağrılmayacağını belirtir
+Üst çalışma kitabı açıldığında nesne verileri otomatik olarak.
 ###  Tanım:
 ```python
 @property

@@ -3,13 +3,13 @@ title: timelines Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 840
+weight: 860
 url: /de/aspose.cells/worksheet/timelines/
 is_root: false
 ---
 ##  timelines Eigentum
 
-Rufen Sie die Timeline-Sammlung im Arbeitsblatt ab
+Holen Sie sich die Timeline-Sammlung im Arbeitsblatt
 ###  Definition:
 ```python
 @property

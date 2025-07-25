@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel mülk
 
-Dilimleyicinin her sütunu için genişliği piksel birimi cinsinden alır veya ayarlar.
+Dilimleyicideki her sütunun genişliğini piksel cinsinden alır veya ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

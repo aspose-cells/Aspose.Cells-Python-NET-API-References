@@ -3,13 +3,13 @@ title: is_word_art propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 660
+weight: 670
 url: /fr/aspose.cells.drawing/groupbox/is_word_art/
 is_root: false
 ---
 ##  is_word_art propriété
 
-Indique si cette forme est un word art.
+Indique si cette forme est un mot artistique.
 
 ###  Remarques
 

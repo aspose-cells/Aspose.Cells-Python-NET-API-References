@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_key_behavior mülk
 
-Denetim metninde sekme karakterlerine izin verilip verilmediğini gösterir.
+Denetimin metninde sekme karakterlerine izin verilip verilmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_key_behavior(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

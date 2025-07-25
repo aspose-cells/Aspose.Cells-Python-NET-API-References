@@ -1,9 +1,9 @@
 ---
 title: PageOrientationType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2400
+weight: 2370
 url: /ru/aspose.cells/pageorientationtype/
 is_root: false
 ---

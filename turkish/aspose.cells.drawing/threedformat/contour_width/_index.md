@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contour_width mülk
 
-Şekildeki kontur genişliğini nokta birimi cinsinden alır ve ayarlar.
+Şekil üzerindeki kontur genişliğini nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def contour_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

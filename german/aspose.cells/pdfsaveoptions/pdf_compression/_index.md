@@ -3,7 +3,7 @@ title: pdf_compression Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 390
 url: /de/aspose.cells/pdfsaveoptions/pdf_compression/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def pdf_compression(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfCompressionCore](/cells/python-net/de/aspose.cells.rendering/pdfcompressioncore)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfCompressionCore`](/cells/python-net/de/aspose.cells.rendering/pdfcompressioncore)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

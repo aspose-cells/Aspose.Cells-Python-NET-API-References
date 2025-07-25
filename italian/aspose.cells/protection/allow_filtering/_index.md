@@ -1,6 +1,6 @@
 ---
 title: allow_filtering proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_filtering proprietà
 
-Indica se l'utente può utilizzare un filtro automatico creato prima della protezione del foglio.
+Indica se all'utente è consentito utilizzare un filtro automatico creato prima che il foglio fosse protetto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_filtering(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

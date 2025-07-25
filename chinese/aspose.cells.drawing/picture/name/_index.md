@@ -3,13 +3,13 @@ title: name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 940
 url: /zh/aspose.cells.drawing/picture/name/
 is_root: false
 ---
 ## name属性
 
-获取并设置形状的name。
+获取并设置形状的 name。
 
 ### 例子
 

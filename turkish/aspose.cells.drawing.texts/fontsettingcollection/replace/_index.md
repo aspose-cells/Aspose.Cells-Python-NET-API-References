@@ -7,12 +7,13 @@ weight: 110
 url: /tr/aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
-##  replace(old_value, new_value) {#str-str}
+##  replace(self, old_value, new_value) {#str-str}
 Metni değiştirin.
 
 
 
 ```python
+
 def replace(self, old_value, new_value):
     ...
 ```
@@ -24,12 +25,13 @@ def replace(self, old_value, new_value):
 | new_value | str | Yeni metin.|
 
 
-##  replace(index, count, text) {#int-int-str}
+##  replace(self, index, count, text) {#int-int-str}
 Metni değiştirin.
 
 
 
 ```python
+
 def replace(self, index, count, text):
     ...
 ```
@@ -37,12 +39,12 @@ def replace(self, index, count, text):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | Başlangıç dizini.|
+| index | int | Başlangıç indeksi.|
 | count | int | Karakter sayısı.|
 | text | str | Metin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [FontSettingCollection](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`FontSettingCollection`](/cells/python-net/tr/aspose.cells.drawing.texts/fontsettingcollection)

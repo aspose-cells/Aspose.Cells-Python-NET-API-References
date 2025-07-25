@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  deleted propriété
 
-Indique si la balise active est deleted.
+Indique si la balise intelligente est deleted.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def deleted(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTag](/cells/python-net/fr/aspose.cells.markup/smarttag)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTag`](/cells/python-net/fr/aspose.cells.markup/smarttag)

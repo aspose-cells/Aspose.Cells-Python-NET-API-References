@@ -11,9 +11,9 @@ is_root: false
 
 是否按单元格的填充颜色进行过滤。
 
-### 评论
+### 注意事项
 
-True：单元格的填充颜色； False：单元格的字体颜色。
+True：单元格的填充颜色；False：单元格的字体颜色。
 ### 定义：
 ```python
 @property

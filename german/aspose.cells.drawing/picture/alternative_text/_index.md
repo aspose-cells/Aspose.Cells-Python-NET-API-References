@@ -3,13 +3,13 @@ title: alternative_text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 320
 url: /de/aspose.cells.drawing/picture/alternative_text/
 is_root: false
 ---
 ##  alternative_text Eigentum
 
-Gibt die beschreibende (alternative) Textzeichenfolge des [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)-Objekts zurück oder legt sie fest.
+Gibt die beschreibende (alternative) Textzeichenfolge des Objekts [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape) zurück oder legt sie fest.
 
 ###  Beispiel
 

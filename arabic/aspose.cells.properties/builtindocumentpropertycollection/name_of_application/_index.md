@@ -1,15 +1,15 @@
 ---
-title: name_of_application الملكية
+title: name_of_application عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/name_of_application/
 is_root: false
 ---
-##  name_of_application الملكية
+##  name_of_application عقار
 
-الحصول على أو تحديد اسم التطبيق.
+يحصل على اسم التطبيق أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name_of_application(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

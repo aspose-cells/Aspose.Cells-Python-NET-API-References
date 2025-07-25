@@ -1,18 +1,18 @@
 ---
 title: export_cell_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 110
 url: /ru/aspose.cells/ooxmlsaveoptions/export_cell_name/
 is_root: false
 ---
 ##  export_cell_name недвижимость
 
  Указывает, следует ли экспортировать имя ячейки в файл Excel2007 .xlsx (.xlsm, .xltx, .xltm).
-Если к выходному файлу может обращаться SQL Server DTS, это значение должно быть истинным.
-Установка значения false значительно повысит производительность и уменьшит размер файла при создании большого файла.
-Значение по умолчанию — истина.
+Если к выходному файлу может получить доступ SQL Server DTS, это значение должно быть истинным.
+Установка значения false значительно увеличит производительность и уменьшит размер файла при создании больших файлов.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property
@@ -24,5 +24,5 @@ def export_cell_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [OoxmlSaveOptions](/cells/python-net/ru/aspose.cells/ooxmlsaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`OoxmlSaveOptions`](/cells/python-net/ru/aspose.cells/ooxmlsaveoptions)

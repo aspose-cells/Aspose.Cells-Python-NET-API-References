@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective propriété
 
-Renvoie ou définit le perspective pour la vue graphique 3D. Doit être compris entre 0 et 100.
+Renvoie ou définit la valeur perspective pour la vue graphique 3D. Doit être compris entre 0 et 100.
 Cette propriété est ignorée si la propriété RightAngleAxes est True.
 ###  Définition:
 ```python

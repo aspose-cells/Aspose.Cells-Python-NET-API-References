@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_settings Eigentum
 
-Ruft die Globalisierungseinstellungen für die Pivot-Tabelle ab oder legt diese fest.
+Ruft die Globalisierungseinstellungen für die Pivot-Tabelle ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

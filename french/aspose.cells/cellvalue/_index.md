@@ -3,7 +3,7 @@ title: CellValue classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 160
+weight: 130
 url: /fr/aspose.cells/cellvalue/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Le type CellValue expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells/cellvalue/__init__/#) | Construit une nouvelle instance de CellValue|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells/cellvalue/__init__/#) | Construit une nouvelle instance de CellValue|
 
 
 ###  Propriétés

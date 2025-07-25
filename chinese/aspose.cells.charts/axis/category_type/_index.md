@@ -9,7 +9,7 @@ is_root: false
 ---
 ## category_type属性
 
-代表类别轴类型。
+表示分类轴类型。
 ### 定义：
 ```python
 @property

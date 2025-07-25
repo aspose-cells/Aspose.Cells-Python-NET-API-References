@@ -3,7 +3,7 @@ title: row_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 490
 url: /sv/aspose.cells/range/row_count/
 is_root: false
 ---

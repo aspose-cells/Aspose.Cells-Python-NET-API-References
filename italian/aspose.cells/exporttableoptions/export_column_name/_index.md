@@ -1,6 +1,6 @@
 ---
 title: export_column_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_column_name proprietà
 
-Indica se i dati nella prima riga vengono esportati nel nome della colonna di DataTable.
+Indica se i dati nella prima riga vengono esportati nel nome della colonna della tabella dati.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

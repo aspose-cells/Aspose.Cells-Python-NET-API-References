@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency fastighet
 
-Hämtar och ställer in transparency som ett värde från 0,0 (ogenomskinlig) till 1,0 (ren).
+Hämtar och anger transparency som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
+* modul [`aspose.cells`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)

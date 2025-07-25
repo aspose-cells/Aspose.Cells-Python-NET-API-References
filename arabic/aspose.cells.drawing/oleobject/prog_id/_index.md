@@ -3,13 +3,13 @@ title: prog_id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1000
+weight: 1010
 url: /ar/aspose.cells.drawing/oleobject/prog_id/
 is_root: false
 ---
 ##  prog_id عقار
 
-الحصول على ProgID لكائن OLE أو تعيينه.
+يحصل على ProgID الخاص بكائن OLE أو يقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

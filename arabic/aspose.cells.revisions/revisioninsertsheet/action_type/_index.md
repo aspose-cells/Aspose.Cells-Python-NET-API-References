@@ -1,5 +1,5 @@
 ---
-title: action_type الملكية
+title: action_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.revisions/revisioninsertsheet/action_type/
 is_root: false
 ---
-##  action_type الملكية
+##  action_type عقار
 
-يحصل على نوع عمل المراجعة.
+يحصل على نوع الإجراء للمراجعة.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionActionType](/cells/python-net/ar/aspose.cells.revisions/revisionactiontype)
-* فئة [RevisionInsertSheet](/cells/python-net/ar/aspose.cells.revisions/revisioninsertsheet)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionActionType`](/cells/python-net/ar/aspose.cells.revisions/revisionactiontype)
+* فئة [`RevisionInsertSheet`](/cells/python-net/ar/aspose.cells.revisions/revisioninsertsheet)

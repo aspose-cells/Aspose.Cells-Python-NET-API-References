@@ -1,6 +1,6 @@
 ---
 title: MapChartProjectionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 560
@@ -8,16 +8,16 @@ url: /ru/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
 ##  MapChartProjectionType перечисление
-Представляет тип проекции диаграммы карты.
+Представляет собой тип проекции картографической диаграммы.
 
 
 
-Тип MapChartProjectionType предоставляет следующие члены:
+Тип MapChartProjectionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | автоматический|
+| AUTOMATIC | Автоматический|
 | MERCATOR | Меркатор|
 | MILLER | Миллер|
 | ALBERS | Альберс|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

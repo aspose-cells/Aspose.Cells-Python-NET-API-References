@@ -7,12 +7,13 @@ weight: 130
 url: /zh/aspose.cells/validation/set_formula2/
 is_root: false
 ---
-##  set_formula2 {#str-bool-bool}
-设置与此验证关联的值或表达式。
+##  set_formula2(self, formula, is_r1c1, is_local) {#str-bool-bool}
+设置与此验证相关的值或表达式。
 
 
 
 ```python
+
 def set_formula2(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -20,8 +21,8 @@ def set_formula2(self, formula, is_r1c1, is_local):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| formula | str |与此格式条件关联的值或表达式。|
-| is_r1c1 | bool |式子是否为R1C1式子。|
+| formula | str |与此格式条件相关的值或表达式。|
+| is_r1c1 | bool |公式是否为R1C1公式。|
 | is_local | bool |公式是否采用区域设置格式。|
 
 

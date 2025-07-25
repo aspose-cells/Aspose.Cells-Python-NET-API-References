@@ -1,9 +1,9 @@
 ---
 title: auto_show_field недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 270
 url: /ru/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---

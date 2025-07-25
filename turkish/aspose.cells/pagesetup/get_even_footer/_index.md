@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells/pagesetup/get_even_footer/
 is_root: false
 ---
-##  get_even_footer(section) {#int}
-Bir Excel dosyasının çift altbilgisini biçimlendiren bir betik alır.
+##  get_even_footer(self, section) {#int}
+Excel dosyasının çift alt bilgisini biçimlendiren bir betik alır.
 
 
 
 ```python
+
 def get_even_footer(self, section):
     ...
 ```
@@ -20,10 +21,10 @@ def get_even_footer(self, section):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| section | int | 0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
+| section | int |0: Sol Bölüm, 1: Orta Bölüm, 2: Sağ Bölüm.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

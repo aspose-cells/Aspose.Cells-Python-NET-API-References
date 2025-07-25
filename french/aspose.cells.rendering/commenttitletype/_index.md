@@ -18,9 +18,9 @@ Le type CommentTitleType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | CELL | Représente la cellule de titre du commentaire.|
-| COMMENT | Représente le commentaire du titre du commentaire.|
-| NOTE | Représente la note du titre du commentaire.|
-| REPLY | Représente la réponse au titre du commentaire.|
+| COMMENT | Représente le titre du commentaire.|
+| NOTE | Représente le titre du commentaire.|
+| REPLY | Représente le titre du commentaire et la réponse.|
 
 
 

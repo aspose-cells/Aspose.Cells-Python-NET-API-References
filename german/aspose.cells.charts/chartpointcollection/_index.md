@@ -17,7 +17,7 @@ Der Typ ChartPointCollection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [count](/cells/python-net/de/aspose.cells.charts/chartpointcollection/count) | Ruft die Anzahl des Diagrammpunkts ab.|
+| [count](/cells/python-net/de/aspose.cells.charts/chartpointcollection/count) | Ruft die Anzahl der Diagrammpunkte ab.|
 
 
 
@@ -25,15 +25,14 @@ Ruft das Element [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpo
 ###  Indexer
 | Name| Beschreibung|
 | :- | :- |
-| [index] | Der Index des Diagrammpunkts in der Serie.|
+| [index] | Der Index des Diagrammpunkts in der Reihe.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_enumerator](/cells/python-net/de/aspose.cells.charts/chartpointcollection/get_enumerator/#) | Gibt einen Enumerator für die gesamte [`ChartPointCollection`](/cells/python-net/de/aspose.cells.charts/chartpointcollection) zurück.|
-| [clear](/cells/python-net/de/aspose.cells.charts/chartpointcollection/clear/#) | Entfernen Sie alle Einstellungen der Kartenpunkte.|
-| [remove_at](/cells/python-net/de/aspose.cells.charts/chartpointcollection/remove_at/#int) | Entfernt den Punkt am Index der Reihe.|
+| [`clear(self)`](/cells/python-net/de/aspose.cells.charts/chartpointcollection/clear/#) | Entfernen Sie alle Einstellungen der Diagrammpunkte.|
+| [`remove_at(self, index)`](/cells/python-net/de/aspose.cells.charts/chartpointcollection/remove_at/#int) | Entfernt den Punkt am Index der Reihe.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  Siehe auch
 * Modul [`aspose.cells.charts`](..)
 * Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)
-* Klasse [`ChartPointCollection`](/cells/python-net/de/aspose.cells.charts/chartpointcollection)

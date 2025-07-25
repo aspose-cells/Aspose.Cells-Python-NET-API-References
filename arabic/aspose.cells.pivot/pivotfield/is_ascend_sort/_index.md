@@ -3,13 +3,13 @@ title: is_ascend_sort عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 370
+weight: 450
 url: /ar/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort عقار
 
-الإشارة إلى ما إذا كان حقل PivotTable المحدد قد تم فرزه تلقائياً تصاعدياً.
+يشير إلى ما إذا كان حقل الجدول المحوري المحدد يتم فرزه تلقائيًا تصاعديًا.
 ###  تعريف:
 ```python
 @property

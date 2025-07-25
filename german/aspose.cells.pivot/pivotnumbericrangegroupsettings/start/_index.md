@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start Eigentum
 
-Ruft die start-Nummer der Gruppe ab.
+Ruft die Nummer start der Gruppe ab.
 ###  Definition:
 ```python
 @property

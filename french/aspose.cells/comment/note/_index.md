@@ -13,7 +13,7 @@ Représente le contenu du commentaire.
 
 ###  Remarques
 
-S'il s'agit d'un commentaire filé, le note ne peut pas être modifié, sinon MS Excel ne pourrait pas le traiter comme un commentaire filé.
+S'il s'agit d'un commentaire fileté, le note n'a pas pu être modifié, sinon MS Excel ne pourrait pas le traiter comme un commentaire fileté.
 
 ###  Exemple
 

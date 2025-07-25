@@ -3,13 +3,13 @@ title: lower_delta_x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 770
+weight: 780
 url: /de/aspose.cells.drawing/groupshape/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x Eigentum
 
-Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt diesen fest.
+Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt ihn fest.
 
 ###  Bemerkungen
 

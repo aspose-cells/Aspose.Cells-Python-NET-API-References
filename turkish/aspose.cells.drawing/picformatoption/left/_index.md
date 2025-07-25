@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left mülk
 
-Resmi uzatmak için left ofsetini alır veya ayarlar.
+Resmin gerilmesi için left ofsetini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PicFormatOption](/cells/python-net/tr/aspose.cells.drawing/picformatoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PicFormatOption`](/cells/python-net/tr/aspose.cells.drawing/picformatoption)

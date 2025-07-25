@@ -7,16 +7,17 @@ weight: 40
 url: /ar/aspose.cells/globalizationsettings/get_boolean_value_string/
 is_root: false
 ---
-##  get_boolean_value_string(bv) {#bool}
-الحصول على قيمة سلسلة العرض للقيمة المنطقية للخلية
+##  get_boolean_value_string(self, bv) {#bool}
+يحصل على قيمة سلسلة العرض للقيمة المنطقية للخلية
 
 
 ###  عائدات
 
-إرجاع الافتراضي "TRUE" للقيمة الحقيقية و "FALSE" لقيمة خاطئة.
+بشكل افتراضي، يتم إرجاع "TRUE" للقيمة الصحيحة و"FALSE" للقيمة الخاطئة.
 
 
 ```python
+
 def get_boolean_value_string(self, bv):
     ...
 ```
@@ -29,5 +30,5 @@ def get_boolean_value_string(self, bv):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

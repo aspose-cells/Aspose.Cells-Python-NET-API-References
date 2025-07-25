@@ -1,5 +1,5 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/signatureline/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-الحصول على أو تعيين معرف لسطر التوقيع هذا.
+يحصل على معرف أو يعينه لسطر التوقيع هذا.
 
 ###  مثال
 
@@ -33,5 +33,5 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

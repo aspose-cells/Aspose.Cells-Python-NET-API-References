@@ -1,5 +1,5 @@
 ---
-title: get_cell_or_null méthode
+title: méthode get_cell_or_null
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 60
 url: /fr/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
+##  get_cell_or_null(self, column) {#int}
 Obtient la cellule ou null dans l'index spécifique.
 
 
@@ -18,6 +18,7 @@ Ou renvoie null si l'objet cellule n'existe pas.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -25,10 +26,10 @@ def get_cell_or_null(self, column):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| column | int | L'indice de colonne|
+| column | int | L'index des colonnes|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Row](/cells/python-net/fr/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/fr/aspose.cells/row)

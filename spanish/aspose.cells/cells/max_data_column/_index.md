@@ -3,7 +3,7 @@ title: max_data_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1090
+weight: 1120
 url: /es/aspose.cells/cells/max_data_column/
 is_root: false
 ---
@@ -14,8 +14,9 @@ is_root: false
 ###  Observaciones
 
 Se devolverá -1 si no hay ninguna celda que contenga datos.
-Esta propiedad necesita iterar y verificar todas las celdas de una hoja de trabajo,
-por lo que es un progreso que requiere mucho tiempo y no debe invocarse repetidamente.
+Esta propiedad necesita iterar y verificar todas las celdas de una hoja de cálculo de forma dinámica.
+Por lo tanto, es un proceso que requiere tiempo y no debe invocarse repetidamente.
+como usarlo directamente como condición en un bucle.
 ###  Definición:
 ```python
 @property

@@ -1,14 +1,14 @@
 ---
 title: get_value метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
 url: /ru/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
-Получите значение проверки для конкретной ячейки.
+##  get_value(self, row, column, is_value1) {#int-int-bool}
+Получить значение проверки для конкретной ячейки.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -26,7 +27,7 @@ def get_value(self, row, column, is_value1):
 | :- | :- | :- |
 | row | int | Индекс строки.|
 | column | int | Индекс столбца.|
-| is_value1 | bool |Указывает, получено ли первое значение.|
+| is_value1 | bool | Указывает, получено ли первое значение.|
 
 
 

@@ -3,7 +3,7 @@ title: tiff_binarization_method propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 360
 url: /fr/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method/
 is_root: false
 ---

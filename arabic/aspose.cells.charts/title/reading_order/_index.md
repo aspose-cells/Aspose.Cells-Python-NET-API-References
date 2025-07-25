@@ -1,13 +1,13 @@
 ---
-title: reading_order الملكية
+title: reading_order عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 340
 url: /ar/aspose.cells.charts/title/reading_order/
 is_root: false
 ---
-##  reading_order الملكية
+##  reading_order عقار
 
 يمثل ترتيب قراءة النص.
 ###  تعريف:
@@ -21,6 +21,6 @@ def reading_order(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TextDirectionType](/cells/python-net/ar/aspose.cells/textdirectiontype)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TextDirectionType`](/cells/python-net/ar/aspose.cells/textdirectiontype)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

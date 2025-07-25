@@ -3,13 +3,13 @@ title: shadow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 240
 url: /tr/aspose.cells.charts/chartarea/shadow/
 is_root: false
 ---
 ##  shadow mülk
 
-Çerçevede shadow varsa doğrudur.
+Çerçeve shadow ise doğrudur.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartArea](/cells/python-net/tr/aspose.cells.charts/chartarea)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartArea`](/cells/python-net/tr/aspose.cells.charts/chartarea)

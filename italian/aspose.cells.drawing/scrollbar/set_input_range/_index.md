@@ -1,18 +1,19 @@
 ---
 title: Metodo set_input_range
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 200
 url: /it/aspose.cells.drawing/scrollbar/set_input_range/
 is_root: false
 ---
-##  set_input_range {#str-bool-bool}
+##  set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Imposta l'intervallo utilizzato per riempire il controllo.
 
 
 
 ```python
+
 def set_input_range(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_input_range(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str | L'intervallo utilizzato per riempire il controllo.|
 | is_r1c1 | bool | Se la formula deve essere formattata come R1C1.|
-| is_local | bool | Indica se la formula deve essere formattata in base alle impostazioni locali.|
+| is_local | bool | Se la formula deve essere formattata in base alle impostazioni locali.|
 
 ###  Esempio
 

@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
 ##  PlotEmptyCellsType Aufzählung
-Stellt alle Diagrammtypen mit leeren Zellen dar.
+Stellt alle leeren Zellen eines Diagramms dar.
 
 
 
@@ -24,4 +24,4 @@ Der Typ PlotEmptyCellsType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

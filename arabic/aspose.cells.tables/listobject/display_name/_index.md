@@ -1,15 +1,15 @@
 ---
-title: display_name الملكية
+title: display_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.tables/listobject/display_name/
 is_root: false
 ---
-##  display_name الملكية
+##  display_name عقار
 
-الحصول على اسم العرض وتعيينه.
+يحصل على اسم العرض ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

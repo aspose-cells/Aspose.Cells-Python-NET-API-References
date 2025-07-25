@@ -21,6 +21,6 @@ def end_arrow_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [MsoArrowheadWidth](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`MsoArrowheadWidth`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadwidth)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

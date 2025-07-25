@@ -7,16 +7,17 @@ weight: 20
 url: /zh/aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
-##  add {#str-bool}
-将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。
+##  add(self, area, is_vertical) {#str-bool}
+将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表。
 
 
-### 退货
+### 返回
 
-返回添加的 ASeries 在 NSeries 中的第一个索引。
+返回 NSeries 中添加的 ASeries 的第一个索引。
 
 
 ```python
+
 def add(self, area, is_vertical):
     ...
 ```
@@ -25,22 +26,23 @@ def add(self, area, is_vertical):
 |范围|类型|描述|
 | :- | :- | :- |
 | area | str |指定绘制数据系列的值|
-| is_vertical | bool |指定是按行还是按列绘制一系列单元格值的序列。|
-### 评论
+| is_vertical | bool |指定是否按行或按列绘制单元格值范围的序列。|
+### 注意事项
 
 
 
-##  add {#str-bool-bool}
+##  add(self, area, is_vertical, check_labels) {#str-bool-bool}
 
-将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表中。
+将 [`Series`](/cells/python-net/zh/aspose.cells.charts/series) 集合添加到图表。
 
 
-### 退货
+### 返回
 
-返回添加的 ASeries 在 NSeries 中的第一个索引。
+返回 NSeries 中添加的 ASeries 的第一个索引。
 
 
 ```python
+
 def add(self, area, is_vertical, check_labels):
     ...
 ```
@@ -49,9 +51,9 @@ def add(self, area, is_vertical, check_labels):
 |范围|类型|描述|
 | :- | :- | :- |
 | area | str |指定绘制数据系列的值|
-| is_vertical | bool |指定是按行还是按列绘制一系列单元格值的序列。|
+| is_vertical | bool |指定是否按行或按列绘制单元格值范围的序列。|
 | check_labels | bool |指示范围是否包含系列名称|
-### 评论
+### 注意事项
 
 
 

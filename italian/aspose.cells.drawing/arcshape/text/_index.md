@@ -1,15 +1,15 @@
 ---
 title: text proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 980
+weight: 990
 url: /it/aspose.cells.drawing/arcshape/text/
 is_root: false
 ---
 ##  text proprietà
 
-Rappresenta la stringa in questo oggetto TextBox.
+Ottiene e imposta il text di questa forma.
 
 ###  Esempio
 

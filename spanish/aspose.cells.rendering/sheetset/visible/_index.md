@@ -3,7 +3,7 @@ title: visible propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 40
+weight: 50
 url: /es/aspose.cells.rendering/sheetset/visible/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def visible(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [SheetSet](/cells/python-net/es/aspose.cells.rendering/sheetset)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`SheetSet`](/cells/python-net/es/aspose.cells.rendering/sheetset)

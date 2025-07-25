@@ -3,7 +3,7 @@ title: placement propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 850
+weight: 860
 url: /fr/aspose.cells.drawing/checkbox/placement/
 is_root: false
 ---

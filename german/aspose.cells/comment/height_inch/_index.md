@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_inch Eigentum
 
-Stellt die Höhe des Kommentars in der Einheit Zoll dar.
+Stellt die Höhe des Kommentars in Zoll dar.
 
 ###  Beispiel
 

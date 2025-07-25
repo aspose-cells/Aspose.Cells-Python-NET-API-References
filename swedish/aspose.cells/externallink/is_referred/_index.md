@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred fastighet
 
-Anger om denna externa länk refereras av andra.
+Anger om denna externa länk refereras till av andra.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExternalLink](/cells/python-net/sv/aspose.cells/externallink)
+* modul [`aspose.cells`](../../)
+* klass [`ExternalLink`](/cells/python-net/sv/aspose.cells/externallink)

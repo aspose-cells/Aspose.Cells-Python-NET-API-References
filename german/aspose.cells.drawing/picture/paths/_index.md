@@ -3,7 +3,7 @@ title: paths Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /de/aspose.cells.drawing/picture/paths/
 is_root: false
 ---

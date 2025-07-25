@@ -3,13 +3,13 @@ title: window_top_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 600
 url: /de/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---
 ##  window_top_cm Eigentum
 
-Der Abstand von der Oberkante des Kundenbereichs zur Oberkante des Fensters, in der Einheit Zentimeter.
+Der Abstand von der Oberkante des Clientbereichs zur Oberkante des Fensters in Zentimetern.
 ###  Definition:
 ```python
 @property

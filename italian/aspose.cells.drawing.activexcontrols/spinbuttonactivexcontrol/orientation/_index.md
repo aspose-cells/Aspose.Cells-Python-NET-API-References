@@ -1,6 +1,6 @@
 ---
 title: orientation proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation proprietà
 
-Ottiene e imposta se SpinButton o ScrollBar è orientato verticalmente o orizzontalmente.
+Ottiene e imposta se SpinButton o ScrollBar sono orientati verticalmente o orizzontalmente.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlScrollOrientation](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlscrollorientation)
-* classe [SpinButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlScrollOrientation`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlscrollorientation)
+* classe [`SpinButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

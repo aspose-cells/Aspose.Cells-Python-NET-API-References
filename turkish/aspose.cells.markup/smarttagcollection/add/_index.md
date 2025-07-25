@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
-##  add(uri, name) {#str-str}
-Bir akıllı etiket ekler.
+##  add(self, uri, name) {#str-str}
+Akıllı etiket ekler.
 
 
 ###  İadeler
 
-Listedeki akıllı etiketin dizini.
+Akıllı etiketin listedeki dizini.
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, uri, name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)

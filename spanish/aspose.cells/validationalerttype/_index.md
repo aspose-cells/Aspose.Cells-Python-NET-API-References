@@ -3,7 +3,7 @@ title: ValidationAlertType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2720
+weight: 2690
 url: /es/aspose.cells/validationalerttype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ El tipo ValidationAlertType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | INFORMATION | Estilo de alerta de información.|
-| STOP | Detener el estilo de alerta.|
+| STOP | Estilo de alerta de parada.|
 | WARNING | Estilo de alerta de advertencia.|
 
 

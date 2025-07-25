@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_hf_scale_with_doc fastighet
 
-Indikerar om sidhuvud och sidfot skalas med dokumentskalning.
-Gäller endast Excel 2007.
+Anger om sidhuvud och sidfot skalas med dokumentskalning.
+Gäller endast för Excel 2007.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_hf_scale_with_doc(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

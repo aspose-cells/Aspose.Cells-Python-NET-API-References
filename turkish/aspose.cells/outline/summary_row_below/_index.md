@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_row_below mülk
 
-Özet satırının, anahattaki ayrıntı satırlarının altına yerleştirilip yerleştirilmeyeceğini belirtir.
+Özet satırının anahattaki ayrıntı satırlarının altında konumlandırılıp konumlandırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Outline](/cells/python-net/tr/aspose.cells/outline)
+* modül [`aspose.cells`](../../)
+* sınıf [`Outline`](/cells/python-net/tr/aspose.cells/outline)

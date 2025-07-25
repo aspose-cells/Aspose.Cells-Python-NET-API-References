@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  metadata_table Eigentum
 
-Ruft eine Tabelle ab, die Metadaten zu einer Liste bestimmter vorgenommener Änderungen enthält
-für dieses Arbeitsheft.
+Ruft eine Tabelle ab, die Metadaten zu einer Liste bestimmter vorgenommener Änderungen enthält.
+für diese Arbeitsmappe.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionHeader](/cells/python-net/de/aspose.cells.revisions/revisionheader)
-* Klasse [RevisionLog](/cells/python-net/de/aspose.cells.revisions/revisionlog)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionHeader`](/cells/python-net/de/aspose.cells.revisions/revisionheader)
+* Klasse [`RevisionLog`](/cells/python-net/de/aspose.cells.revisions/revisionlog)

@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  check_excel_restriction mülk
 
-Kullanıcı hücrelerle ilgili nesneleri değiştirdiğinde excel dosyasının kısıtlamasının kontrol edilip edilmeyeceği.
-Örneğin, excel 32K'dan daha uzun bir dizi değeri girilmesine izin vermez.
-Cell.PutValue(string) gibi 32K'dan uzun bir değer girdiğinizde, bu özellik doğruysa, bir İstisna alırsınız.
+Kullanıcı hücrelerle ilgili nesneleri değiştirdiğinde Excel dosyasının kısıtlamasını kontrol edin.
+Örneğin, Excel 32K'dan uzun dize değerlerinin girilmesine izin vermez.
+Cell.PutValue(string) gibi 32K'dan uzun bir değer girdiğinizde, bu özellik true ise bir Exception alırsınız.
 Bu özellik yanlışsa, giriş dizesi değerinizi hücrenin değeri olarak kabul edeceğiz, böylece daha sonra
-CSV gibi diğer dosya formatları için tam dizi değerinin çıktısını alabilirsiniz.
-Ancak excel dosya formatı için geçersiz olan bir değer belirlediyseniz,
-çalışma kitabını daha sonra excel dosya formatında kaydetmemelisiniz. Aksi halde oluşturulan excel dosyasında beklenmeyen bir hata olabilir.
+CSV gibi diğer dosya biçimleri için tam dize değerini çıktı olarak alabilirsiniz.
+Ancak, Excel dosya biçimi için geçersiz olan bu tür bir değer ayarladıysanız,
+Çalışma kitabını daha sonra Excel dosya formatında kaydetmemelisiniz. Aksi takdirde, oluşturulan Excel dosyasında beklenmedik hatalar oluşabilir.
 ###  Tanım:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_excel_restriction(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AbstractTextLoadOptions](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`AbstractTextLoadOptions`](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)

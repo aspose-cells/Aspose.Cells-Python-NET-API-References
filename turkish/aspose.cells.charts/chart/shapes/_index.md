@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shapes mülk
 
-Bu grafikteki shapes numaralı çizimin tamamını döndürür.
+Bu grafikteki shapes numaralı tüm çizimleri döndürür.
 ###  Tanım:
 ```python
 @property

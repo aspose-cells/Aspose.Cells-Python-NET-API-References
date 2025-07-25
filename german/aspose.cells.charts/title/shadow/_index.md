@@ -3,13 +3,13 @@ title: shadow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 360
 url: /de/aspose.cells.charts/title/shadow/
 is_root: false
 ---
 ##  shadow Eigentum
 
-True, wenn der Rahmen eine shadow hat.
+Wahr, wenn der Frame eine shadow hat.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Title](/cells/python-net/de/aspose.cells.charts/title)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Title`](/cells/python-net/de/aspose.cells.charts/title)

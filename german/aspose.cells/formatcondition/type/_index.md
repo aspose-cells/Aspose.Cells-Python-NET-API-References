@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Ruft ab und legt fest, ob das bedingte Format Type.
+Ruft ab und legt fest, ob der Typ des bedingten Formats verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [FormatConditionType](/cells/python-net/de/aspose.cells/formatconditiontype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`FormatConditionType`](/cells/python-net/de/aspose.cells/formatconditiontype)

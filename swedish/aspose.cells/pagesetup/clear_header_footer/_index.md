@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/pagesetup/clear_header_footer/
 is_root: false
 ---
-##  clear_header_footer() {#}
-Rensar sidhuvud och sidfotsinställning.
+##  clear_header_footer(self) {#}
+Rensar inställningarna för sidhuvud och sidfot.
 
 
 
 ```python
+
 def clear_header_footer(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_header_footer(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

@@ -1,5 +1,5 @@
 ---
-title: size الملكية
+title: size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/gloweffect/size/
 is_root: false
 ---
-##  size الملكية
+##  size عقار
 
-الحصول على نصف قطر التوهج وتعيينه بوحدة النقاط.
+يحصل على نصف قطر التوهج ويحدده بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GlowEffect](/cells/python-net/ar/aspose.cells.drawing/gloweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect)

@@ -3,17 +3,17 @@ title: is_default_encrypted propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 250
 url: /fr/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted propriété
 
-Indique si le chiffrement du classeur avec le mot de passe par défaut si Structure et Windows du classeur sont verrouillés.
+Indique si le chiffrement du classeur avec le mot de passe par défaut est nécessaire si la structure et le Windows du classeur sont verrouillés.
 
 ###  Remarques
 
-La valeur par défaut est désormais false. C'est la même chose que MS Excel 2013.
+La valeur par défaut est désormais « faux ». C'est la même chose que dans MS Excel 2013.
 ###  Définition:
 ```python
 @property

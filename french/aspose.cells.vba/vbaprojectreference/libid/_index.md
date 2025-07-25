@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  libid propriété
 
-Obtient et définit la Libid de la référence.
+Obtient et définit le Libid de la référence.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def libid(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)

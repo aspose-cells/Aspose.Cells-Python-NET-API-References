@@ -3,13 +3,13 @@ title: show_cell_range Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 400
+weight: 470
 url: /de/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
 ##  show_cell_range Eigentum
 
-Gibt an, ob der Zellbereich als Datenbeschriftung angezeigt wird.
+Gibt an, ob Zellbereiche als Datenbeschriftungen angezeigt werden.
 ###  Definition:
 ```python
 @property

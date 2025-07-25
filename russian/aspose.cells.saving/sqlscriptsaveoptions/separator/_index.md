@@ -1,19 +1,19 @@
 ---
 title: separator недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ru/aspose.cells.saving/sqlscriptsaveoptions/separator/
 is_root: false
 ---
 ##  separator недвижимость
 
-Получает и устанавливает символ separator сценария sql.
+Получает и задает символ separator скрипта SQL.
 
 ###  Примечания
 
-Только может быть ' ' или '\n'.
+Может быть только ' ' или '\n'.
 Если
 ###  Определение:
 ```python
@@ -26,5 +26,5 @@ def separator(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.saving](../../)
-* класс [SqlScriptSaveOptions](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)
+* модуль [`aspose.cells.saving`](../../)
+* класс [`SqlScriptSaveOptions`](/cells/python-net/ru/aspose.cells.saving/sqlscriptsaveoptions)

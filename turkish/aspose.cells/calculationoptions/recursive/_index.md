@@ -3,13 +3,13 @@ title: recursive mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 80
 url: /tr/aspose.cells/calculationoptions/recursive/
 is_root: false
 ---
 ##  recursive mülk
 
-Bir hücre hesaplanırken bağımlı hücrelerin yinelemeli olarak hesaplanıp hesaplanmayacağını ve bunun diğer hücrelere bağlı olup olmadığını belirtir.
+Bir hücre hesaplanırken bağımlı hücrelerin yinelemeli olarak hesaplanıp hesaplanmayacağını ve diğer hücrelere bağlı olup olmayacağını belirtir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python

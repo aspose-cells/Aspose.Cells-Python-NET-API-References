@@ -21,5 +21,5 @@ def underflow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [AxisBins](/cells/python-net/tr/aspose.cells.charts/axisbins)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`AxisBins`](/cells/python-net/tr/aspose.cells.charts/axisbins)

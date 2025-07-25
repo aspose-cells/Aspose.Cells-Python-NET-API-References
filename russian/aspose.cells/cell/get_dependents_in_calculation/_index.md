@@ -1,22 +1,23 @@
 ---
 title: get_dependents_in_calculation метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
 url: /ru/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
-Получает все ячейки, результат вычислений которых зависит от этой ячейки.
+##  get_dependents_in_calculation(self, recursive) {#bool}
+Получает все ячейки, вычисленный результат которых зависит от этой ячейки.
 
 
-###  Возвращает
+###  Возврат
 
-Перечислитель для перечисления всех иждивенцев (Cell объектов)
+Перечислитель для перечисления всех зависимых объектов (Cell объектов)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| recursive | bool | Возвращает ли те иждивенцы, которые не ссылаются на эту ячейку напрямую<br/> но ссылка на другие листы этой ячейки|
+| recursive | bool | Возвращает ли те зависимые элементы, которые не ссылаются на эту ячейку напрямую<br/> но ссылка на другие листы этой ячейки|
 ###  Примечания
 
-Чтобы использовать этот метод, убедитесь, что в рабочей книге задано истинное значение для
-[FormulaSettings.enable_calculation_chain](/cells/python-net/ru/aspose.cells/formulasettings#enable_calculation_chain) и был полностью рассчитан с этой настройкой.
-Если в этой ячейке нет ссылки на формулу, будет возвращено значение NULL.
+Чтобы использовать этот метод, убедитесь, что для рабочей книги установлено значение true
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/ru/aspose.cells/formulasettings#enable_calculation_chain) и был полностью рассчитан с этой настройкой.
+Если на эту ячейку не ссылается формула, будет возвращено значение null.
 ###  Пример
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)

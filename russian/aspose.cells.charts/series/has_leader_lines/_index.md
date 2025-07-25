@@ -1,6 +1,6 @@
 ---
 title: has_leader_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_leader_lines недвижимость
 
-Верно, если в ряду есть линии-выноски.
+Истина, если в серии имеются направляющие линии.
 ###  Определение:
 ```python
 @property

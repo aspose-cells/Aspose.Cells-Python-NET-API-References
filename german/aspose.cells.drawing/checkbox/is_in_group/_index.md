@@ -3,7 +3,7 @@ title: is_in_group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 620
 url: /de/aspose.cells.drawing/checkbox/is_in_group/
 is_root: false
 ---

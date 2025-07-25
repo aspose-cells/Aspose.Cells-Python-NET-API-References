@@ -3,7 +3,7 @@ title: PivotFilter صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 140
 url: /ar/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -17,15 +17,28 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [auto_filter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/auto_filter) | يحصل على التصفية التلقائية للمرشح المحوري.|
-| [filter_type](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/filter_type) | يحصل على نوع التصفية التلقائية للمرشح المحوري.|
-| [field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/field_index) | يحصل على فهرس الحقل للمرشح المحوري.|
-| [value1](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value1) | يحصل على قيمة السلسلة 1 للمرشح المحوري للتسمية.|
-| [value2](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value2) |يحصل على قيمة السلسلة 2 للمرشح المحوري للتسمية.|
-| [measure_fld_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/measure_fld_index) | يحصل على مؤشر مجال القياس للمرشح المحوري.|
-| [member_property_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/member_property_field_index) | يحصل على فهرس حقل خاصية العضو للمرشح المحوري.|
-| [name](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/name) | يحصل على اسم عامل التصفية المحوري.|
-| [evaluation_order](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/evaluation_order) | الحصول على ترتيب تقييم عامل التصفية المحوري.|
+| [use_whole_day](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/use_whole_day) | يشير إلى ما إذا كان يتم استخدام أيام كاملة في معايير التصفية الخاصة به.|
+| [auto_filter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/auto_filter) | يحصل على المرشح التلقائي لمرشح المحور.|
+| [filter_type](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/filter_type) | يحصل على نوع التصفية التلقائية لمرشح المحور.|
+| [field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/field_index) | يحصل على مؤشر حقل المصدر الذي تم تطبيق مرشح المحور هذا عليه.|
+| [filter_category](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/filter_category) | يحصل على فئة هذا الفلتر.|
+| [value1](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value1) | يحصل على قيمة السلسلة 1 لمرشح محور التسمية.|
+| [value2](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value2) | يحصل على قيمة السلسلة 2 لمرشح محور التسمية.|
+| [measure_fld_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/measure_fld_index) | يحصل على مؤشر حقل القياس لمرشح المحور.|
+| [value_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/value_field_index) | يحصل على مؤشر حقل القيمة في منطقة القيمة.|
+| [measure_cube_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/measure_cube_field_index) | يحدد مؤشر حقل مكعب القياس.<br/>يتم استخدام هذه الخاصية فقط بواسطة المرشحات في محاور OLAP وتحدد المقياس الذي يجب أن ينطبق عليه مرشح القيمة.|
+| [member_property_field_index](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/member_property_field_index) | يحصل على فهرس حقل خاصية العضو لمرشح المحور.|
+| [name](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/name) | يحصل على اسم مرشح المحور.|
+| [evaluation_order](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/evaluation_order) | يحصل على ترتيب التقييم لمرشح المحور.|
+
+
+###  طُرق
+| طريقة| وصف|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | يحصل على أفضل 10 إعدادات للمرشح.|
+| [`get_labels(self)`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/get_labels/#) | يحصل على تسميات مرشح التسمية التوضيحية.|
+| [`get_number_values(self)`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/get_number_values/#) | يحصل على قيم مرشح الأرقام.|
+| [`get_date_time_values(self)`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | يحصل على قيم مرشح الأرقام.|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

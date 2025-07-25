@@ -1,6 +1,6 @@
 ---
 title: is_subscript недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_subscript недвижимость
 
-Получает или задает значение, указывающее, является ли шрифт подстрочным.
+Возвращает или задает значение, указывающее, является ли шрифт подстрочным.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_subscript(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)

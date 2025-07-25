@@ -3,11 +3,11 @@ title: add_text_effect_in_chart yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 370
 url: /tr/aspose.cells.drawing/shapecollection/add_text_effect_in_chart/
 is_root: false
 ---
-##  add_text_effect_in_chart(effect, text, font_name, size, font_bold, font_italic, top, left, height, width) {#MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int}
+##  add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, font_italic, top, left, height, width) {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int}
 Grafiğe bir WordArt nesnesi ekler
 
 
@@ -17,6 +17,7 @@ Yeni WordArt nesnesini temsil eden bir Shape nesnesi döndürür.
 
 
 ```python
+
 def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, font_italic, top, left, height, width):
     ...
 ```
@@ -24,19 +25,19 @@ def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, fon
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/tr/aspose.cells.drawing/msopresettexteffect) | mso hazır metin efekti türü.|
+| effect | [`MsoPresetTextEffect`](/cells/python-net/tr/aspose.cells.drawing/msopresettexteffect) | Mso ön ayarlı metin efekti türü.|
 | text | str | WordArt metni.|
 | font_name | str | Yazı tipi adı.|
 | size | int | Yazı tipi boyutu|
 | font_bold | bool | Yazı tipinin kalın olup olmadığını gösterir.|
-| font_italic | bool | Yazı tipinin italik olup olmadığını gösterir.|
-| top | int |Grafik alanının 1/4000'lik birimlerinde sol üst köşeden şeklin dikey sapmasını temsil eder.|
-| left | int |Grafik alanının 1/4000'lik birimlerinde sol üst köşeden şeklin dikey sapmasını temsil eder.|
-| height | int | Grafik alanının 1/4000'lik birimlerinde şeklin yüksekliğini temsil eder.|
-| width | int | Grafik alanının 1/4000'lik birimlerinde şeklin genişliğini temsil eder.|
+| font_italic | bool | Yazı tipinin italik olup olmadığını belirtir.|
+| top | int | Şeklin grafik alanının sol üst köşesinden dikey uzaklığını 1/4000 birim cinsinden gösterir.|
+| left | int | Şeklin grafik alanının sol üst köşesinden dikey uzaklığını 1/4000 birim cinsinden gösterir.|
+| height | int | Şeklin yüksekliğini, grafik alanının 1/4000'i cinsinden gösterir.|
+| width | int | Şeklin genişliğini, grafik alanının 1/4000'i cinsinden gösterir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

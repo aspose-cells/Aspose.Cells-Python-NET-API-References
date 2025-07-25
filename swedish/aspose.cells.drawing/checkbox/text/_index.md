@@ -3,13 +3,13 @@ title: text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 960
 url: /sv/aspose.cells.drawing/checkbox/text/
 is_root: false
 ---
 ##  text fastighet
 
-Representerar strängen i detta TextBox-objekt.
+Hämtar och ställer in text för denna form.
 
 ###  Exempel
 

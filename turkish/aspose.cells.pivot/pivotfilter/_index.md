@@ -3,12 +3,12 @@ title: PivotFilter sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 140
 url: /tr/aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
 ##  PivotFilter sınıfı
-PivotFilter Koleksiyonundaki PivotFilter'i temsil eder.
+PivotFilter Koleksiyonunda PivotFilter'i temsil eder.
 
 
 
@@ -17,15 +17,28 @@ PivotFilter türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [auto_filter](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/auto_filter) | Pivot filtresinin otomatik filtresini alır.|
+| [use_whole_day](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/use_whole_day) | Filtreleme kriterinde tüm günlerin kullanılıp kullanılmadığını belirtir.|
+| [auto_filter](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/auto_filter) | Pivot filtrenin otomatik filtresini alır.|
 | [filter_type](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/filter_type) | Pivot filtresinin otomatik filtre türünü alır.|
-| [field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/field_index) | Pivot filtresinin alan dizinini alır.|
-| [value1](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value1) | Etiket pivot filtresinin dize değeri1'i alır.|
-| [value2](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value2) |Etiket pivot filtresinin dize değerini2 alır.|
-| [measure_fld_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Pivot filtresinin ölçüm alanı dizinini alır.|
-| [member_property_field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/member_property_field_index) | Pivot filtresinin üye özelliği alan dizinini alır.|
+| [field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/field_index) | Bu pivot filtrenin uygulandığı kaynak alanının indeksini alır.|
+| [filter_category](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/filter_category) | Bu filtrenin kategorisini alır.|
+| [value1](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value1) | Etiket pivot filtresinin string value1 değerini alır.|
+| [value2](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value2) | Etiket pivot filtresinin string value2'sini alır.|
+| [measure_fld_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/measure_fld_index) | Pivot filtrenin ölçüm alanı indeksini alır.|
+| [value_field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/value_field_index) | Değer bölgesindeki değer alanının indeksini alır.|
+| [measure_cube_field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/measure_cube_field_index) | Ölçü küpü alanının dizinini belirtir.<br/>Bu özellik yalnızca OLAP pivotlarındaki filtreler tarafından kullanılır ve bir değer filtresinin hangi ölçüye uygulanacağını belirtir.|
+| [member_property_field_index](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/member_property_field_index) | Pivot filtresinin üye özellik alanı indeksini alır.|
 | [name](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/name) | Pivot filtresinin adını alır.|
-| [evaluation_order](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/evaluation_order) | Pivot filtresinin Değerlendirme Sırasını alır.|
+| [evaluation_order](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/evaluation_order) | Pivot filtrenin Değerlendirme Sırasını alır.|
+
+
+###  Yöntemler
+| Yöntem| Tanım|
+| :- | :- |
+| [`get_top_10_value(self)`](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/get_top_10_value/#) | Filtrenin en iyi 10 ayarını alır.|
+| [`get_labels(self)`](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/get_labels/#) | Başlık filtresinin etiketlerini alır.|
+| [`get_number_values(self)`](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/get_number_values/#) | Sayı filtresinin değerlerini alır.|
+| [`get_date_time_values(self)`](/cells/python-net/tr/aspose.cells.pivot/pivotfilter/get_date_time_values/#) | Sayı filtresinin değerlerini alır.|
 
 
 
@@ -72,10 +85,8 @@ pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+# Add top 10 filter
+pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
 pivot.refresh_data()
 pivot.calculate_data()
 # do your business

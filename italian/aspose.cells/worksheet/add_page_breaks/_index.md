@@ -1,18 +1,19 @@
 ---
-title: metodo add_page_breaks
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add_page_breaks
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
-##  add_page_breaks(cell_name) {#str}
+##  add_page_breaks(self, cell_name) {#str}
 Aggiunge un'interruzione di pagina.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_breaks(self, cell_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Worksheet](/cells/python-net/it/aspose.cells/worksheet)
+* modulo [`aspose.cells`](../../)
+* classe [`Worksheet`](/cells/python-net/it/aspose.cells/worksheet)

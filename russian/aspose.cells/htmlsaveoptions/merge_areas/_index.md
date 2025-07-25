@@ -1,19 +1,19 @@
 ---
 title: merge_areas недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 630
 url: /ru/aspose.cells/htmlsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas недвижимость
 
-Указывает, нужно ли объединять области условного форматирования и проверки перед сохранением файла.
+Указывает, следует ли объединять области условного форматирования и проверки перед сохранением файла.
 
 ###  Примечания
 
-Значение по умолчанию неверно.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

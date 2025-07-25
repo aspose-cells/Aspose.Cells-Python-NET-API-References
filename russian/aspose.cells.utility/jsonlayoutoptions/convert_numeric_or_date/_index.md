@@ -1,6 +1,6 @@
 ---
 title: convert_numeric_or_date недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_or_date недвижимость
 
-Получает или задает значение, указывающее, преобразуется ли строка в json в числовое значение или в дату.
+Указывает, преобразовывается ли строка в формате JSON в числовое значение или значение даты.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_numeric_or_date(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* модуль [`aspose.cells.utility`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)

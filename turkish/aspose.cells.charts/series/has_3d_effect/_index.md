@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_3d_effect mülk
 
- Serinin üç boyutlu bir görünümü varsa doğrudur.
-Yalnızca kabarcık grafikleri için geçerlidir.
+ Dizi üç boyutlu bir görünüme sahipse doğrudur.
+Sadece balon grafikleri için geçerlidir.
 ###  Tanım:
 ```python
 @property

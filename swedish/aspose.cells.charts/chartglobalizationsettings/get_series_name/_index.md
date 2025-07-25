@@ -7,8 +7,8 @@ weight: 90
 url: /sv/aspose.cells.charts/chartglobalizationsettings/get_series_name/
 is_root: false
 ---
-##  get_series_name() {#}
-Får namnet på serien i diagrammet.
+##  get_series_name(self) {#}
+Hämtar namnet på serien i diagrammet.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får namnet på serien i diagrammet.
 
 
 ```python
+
 def get_series_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_series_name(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartGlobalizationSettings](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartGlobalizationSettings`](/cells/python-net/sv/aspose.cells.charts/chartglobalizationsettings)

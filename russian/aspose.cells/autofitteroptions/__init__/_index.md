@@ -1,18 +1,19 @@
 ---
 title: AutoFitterOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/autofitteroptions/__init__/
 is_root: false
 ---
-##  AutoFitterOptions() {#}
-Создает новый экземпляр AutoFitterOptions
+##  \_\_init\_\_(self){#}
+Создает новый экземпляр AutoFitterOptions.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions)
+* модуль [`aspose.cells`](../../)
+* класс [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions)

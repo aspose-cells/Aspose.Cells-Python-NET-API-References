@@ -25,4 +25,4 @@ Typen VbaModuleType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.vba](..)
+* modul [`aspose.cells.vba`](..)

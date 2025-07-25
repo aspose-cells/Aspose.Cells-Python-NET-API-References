@@ -1,6 +1,6 @@
 ---
 title: is_filtered proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_filtered proprietà
 
-Indica se la serie è selezionata o filtrata.True indica che questa serie è filtrata e non verrà visualizzata nel grafico.
+Indica se la serie è selezionata o filtrata. True indica che la serie è filtrata e non verrà visualizzata sul grafico.
 ###  Definizione:
 ```python
 @property

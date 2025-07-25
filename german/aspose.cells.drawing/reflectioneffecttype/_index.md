@@ -3,12 +3,12 @@ title: ReflectionEffectType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1120
+weight: 1110
 url: /de/aspose.cells.drawing/reflectioneffecttype/
 is_root: false
 ---
 ##  ReflectionEffectType Aufzählung
-Repräsentiert den Effekttyp der Reflexion.
+Stellt den Effekttyp der Reflexion dar.
 
 
 
@@ -20,16 +20,16 @@ Der Typ ReflectionEffectType macht die folgenden Member verfügbar:
 | NONE | Kein Reflexionseffekt.|
 | CUSTOM | Benutzerdefinierter Reflexionseffekt.|
 | TIGHT_REFLECTION_TOUCHING | Enge Reflexion, berührend.|
-| HALF_REFLECTION_TOUCHING | Halbreflexion, berührend.|
+| HALF_REFLECTION_TOUCHING |Halbe Spiegelung, berührend.|
 | FULL_REFLECTION_TOUCHING | Volle Reflexion, berührend.|
 | TIGHT_REFLECTION_4_PT_OFFSET | Enge Reflexion, 4 pt Versatz.|
-| HALF_REFLECTION_4_PT_OFFSET | Halbreflexion, 4 pt versetzt.|
-| FULL_REFLECTION_4_PT_OFFSET | Volle Reflexion, 4 pt Offset.|
+| HALF_REFLECTION_4_PT_OFFSET | Halbe Reflexion, 4 pt Versatz.|
+| FULL_REFLECTION_4_PT_OFFSET | Vollständige Reflexion, 4 pt Versatz.|
 | TIGHT_REFLECTION_8_PT_OFFSET | Enge Reflexion, 8 pt Versatz.|
-| HALF_REFLECTION_8_PT_OFFSET | Halbreflexion, 8 pt versetzt.|
-| FULL_REFLECTION_8_PT_OFFSET |Vollständige Reflexion, 8 pt Offset.|
+| HALF_REFLECTION_8_PT_OFFSET | Halbe Reflexion, 8 pt Versatz.|
+| FULL_REFLECTION_8_PT_OFFSET | Vollständige Reflexion, 8 pt Versatz.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

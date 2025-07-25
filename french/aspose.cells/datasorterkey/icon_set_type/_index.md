@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  icon_set_type propriété
 
-Représente le type de jeu d'icônes.
+Représente le type d'ensemble d'icônes.
 
 ###  Remarques
 
-N'a d'effet que lorsque [SortOnType](/cells/python-net/fr/aspose.cells/sortontype) est SortOnType.Icon.
+Ne prend effet que lorsque [`DataSorterKey.type`](/cells/python-net/fr/aspose.cells/datasorterkey#type) est [`SortOnType.ICON`](/cells/python-net/fr/aspose.cells/sortontype#ICON).
 ###  Définition:
 ```python
 @property
@@ -22,7 +22,6 @@ def icon_set_type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/fr/aspose.cells/datasorterkey)
-* classe [IconSetType](/cells/python-net/fr/aspose.cells/iconsettype)
-* classe [SortOnType](/cells/python-net/fr/aspose.cells/sortontype)
+* module [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/fr/aspose.cells/datasorterkey)
+* classe [`IconSetType`](/cells/python-net/fr/aspose.cells/iconsettype)

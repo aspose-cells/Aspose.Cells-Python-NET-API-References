@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_column mülk
 
-Bu yatay sayfa sonunun başlangıç sütun dizinini alır.
+Bu yatay sayfa sonu için başlangıç sütun dizinini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HorizontalPageBreak](/cells/python-net/tr/aspose.cells/horizontalpagebreak)
+* modül [`aspose.cells`](../../)
+* sınıf [`HorizontalPageBreak`](/cells/python-net/tr/aspose.cells/horizontalpagebreak)

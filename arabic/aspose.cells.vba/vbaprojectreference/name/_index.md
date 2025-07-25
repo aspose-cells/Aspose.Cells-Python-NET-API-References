@@ -1,5 +1,5 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.vba/vbaprojectreference/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-الحصول على name للمرجع وتعيينه.
+يحصل على name للمرجع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProjectReference](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProjectReference`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)

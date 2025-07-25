@@ -1,13 +1,13 @@
 ---
 title: get_color метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/colorfilter/get_color/
 is_root: false
 ---
-##  get_color {#aspose.cells.WorksheetCollection}
+##  get_color(self, sheets) {#aspose.cells.WorksheetCollection}
 Получает цвет этого фильтра.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_color(self, sheets):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle propriété
 
-Représente l’angle de rotation du texte dans le sens des aiguilles d’une montre.
+Représente l'angle de rotation du texte dans le sens des aiguilles d'une montre.
 
 ###  Remarques
 

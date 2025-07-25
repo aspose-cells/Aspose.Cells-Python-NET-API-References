@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  axis_labels propriété
 
-Obtient les étiquettes de l’axe après avoir appelé la méthode Chart.Calculate().
+Obtient les étiquettes de l'axe après l'appel de la méthode Chart.Calculate().
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode Axis.GetAxisTexts.
- Ce bien sera supprimé 12 mois plus tard depuis novembre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit novembre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

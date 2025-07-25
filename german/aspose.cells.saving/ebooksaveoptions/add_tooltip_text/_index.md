@@ -3,14 +3,14 @@ title: add_tooltip_text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells.saving/ebooksaveoptions/add_tooltip_text/
 is_root: false
 ---
 ##  add_tooltip_text Eigentum
 
-Gibt an, ob QuickInfo-Text hinzugefügt wird, wenn die Daten nicht vollständig angezeigt werden können.
-Der Standardwert ist false.
+Gibt an, ob Tooltip-Text hinzugefügt werden soll, wenn die Daten nicht vollständig angezeigt werden können.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

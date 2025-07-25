@@ -3,7 +3,7 @@ title: start_angle fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 410
 url: /sv/aspose.cells.charts/chartpoint/start_angle/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def start_angle(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

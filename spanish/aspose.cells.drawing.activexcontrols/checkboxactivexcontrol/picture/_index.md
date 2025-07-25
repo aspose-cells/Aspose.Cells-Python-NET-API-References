@@ -21,5 +21,5 @@ def picture(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CheckBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CheckBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

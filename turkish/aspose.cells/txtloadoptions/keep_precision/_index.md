@@ -3,13 +3,13 @@ title: keep_precision mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 210
 url: /tr/aspose.cells/txtloadoptions/keep_precision/
 is_root: false
 ---
 ##  keep_precision mülk
 
-Uzunluk 15 ise bir dize değerinin ayrıştırılıp ayrıştırılmayacağını belirtir.
+Uzunluğu 15 olan bir dize değerinin ayrıştırılıp ayrıştırılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property

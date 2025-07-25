@@ -3,16 +3,17 @@ title: insert_row Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 710
+weight: 730
 url: /de/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row {#int}
+##  insert_row(self, row_index) {#int}
 Fügt eine neue Zeile in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_row(self, row_index):
     ...
 ```

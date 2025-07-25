@@ -3,7 +3,7 @@ title: lower_delta_y fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 820
+weight: 830
 url: /sv/aspose.cells.drawing/arcshape/lower_delta_y/
 is_root: false
 ---

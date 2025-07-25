@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionHeader](/cells/python-net/es/aspose.cells.revisions/revisionheader)
-* clase [RevisionLog](/cells/python-net/es/aspose.cells.revisions/revisionlog)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionHeader`](/cells/python-net/es/aspose.cells.revisions/revisionheader)
+* clase [`RevisionLog`](/cells/python-net/es/aspose.cells.revisions/revisionlog)

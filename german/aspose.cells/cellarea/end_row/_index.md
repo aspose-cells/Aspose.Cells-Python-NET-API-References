@@ -10,7 +10,11 @@ is_root: false
 ##  end_row Eigentum
 
 Ruft die Endzeile dieses Bereichs ab oder legt sie fest.
+###  Definition:
+```python
+f end_row 
+```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellArea](/cells/python-net/de/aspose.cells/cellarea)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellArea`](/cells/python-net/de/aspose.cells/cellarea)

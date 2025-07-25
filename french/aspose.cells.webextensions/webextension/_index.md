@@ -17,14 +17,14 @@ Le type WebExtension expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [id](/cells/python-net/fr/aspose.cells.webextensions/webextension/id) | Obtient et définit l'identifiant unique de l'instance du complément Office dans le document actif.|
-| [is_frozen](/cells/python-net/fr/aspose.cells.webextensions/webextension/is_frozen) | Indique si l'utilisateur peut ou non interagir avec le complément Office.|
-| [reference](/cells/python-net/fr/aspose.cells.webextensions/webextension/reference) | Obtenez la référence principale à un complément Office.|
-| [alter_references](/cells/python-net/fr/aspose.cells.webextensions/webextension/alter_references) | Obtient une liste de références alter.|
+| [id](/cells/python-net/fr/aspose.cells.webextensions/webextension/id) | Obtient et définit de manière unique l'instance du complément Office dans le document actuel.|
+| [is_frozen](/cells/python-net/fr/aspose.cells.webextensions/webextension/is_frozen) | Indique si l’utilisateur peut interagir avec le complément Office ou non.|
+| [reference](/cells/python-net/fr/aspose.cells.webextensions/webextension/reference) | Obtenez la référence principale d’un complément Office.|
+| [alter_references](/cells/python-net/fr/aspose.cells.webextensions/webextension/alter_references) | Obtient une liste de références modifiées.|
 | [properties](/cells/python-net/fr/aspose.cells.webextensions/webextension/properties) | Obtient toutes les propriétés de l'extension Web.|
-| [bindings](/cells/python-net/fr/aspose.cells.webextensions/webextension/bindings) |Obtient toutes les relations de liaison entre un complément Office et les données du document.|
+| [bindings](/cells/python-net/fr/aspose.cells.webextensions/webextension/bindings) | Obtient toutes les relations de liaison entre un complément Office et les données du document.|
 
 
 
 ###  Voir également
-* module [aspose.cells.webextensions](..)
+* module [`aspose.cells.webextensions`](..)

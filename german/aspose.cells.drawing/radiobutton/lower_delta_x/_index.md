@@ -3,13 +3,13 @@ title: lower_delta_x Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 780
+weight: 790
 url: /de/aspose.cells.drawing/radiobutton/lower_delta_x/
 is_root: false
 ---
 ##  lower_delta_x Eigentum
 
-Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt diesen fest.
+Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt ihn fest.
 
 ###  Bemerkungen
 

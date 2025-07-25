@@ -1,5 +1,5 @@
 ---
-title: criteria الملكية
+title: criteria عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/top10filter/criteria/
 is_root: false
 ---
-##  criteria الملكية
+##  criteria عقار
 
 
 ###  تعريف:
@@ -21,5 +21,5 @@ def criteria(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Top10Filter](/cells/python-net/ar/aspose.cells/top10filter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Top10Filter`](/cells/python-net/ar/aspose.cells/top10filter)

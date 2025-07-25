@@ -3,7 +3,7 @@ title: int_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 530
+weight: 550
 url: /sv/aspose.cells/cell/int_value/
 is_root: false
 ---

@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 310
 url: /ru/aspose.cells.charts/chartpoint/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Истинно, если точка диаграммы имеет shadow.
+Истина, если точка карты имеет значение shadow.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

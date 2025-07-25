@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/charttextdirectiontype/
 is_root: false
 ---
 ##  ChartTextDirectionType uppräkning
-Representerar textriktningstypen för diagrammet.
+Representerar diagrammets textriktningstyp.
 
 
 
@@ -17,10 +17,10 @@ Typen ChartTextDirectionType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| HORIZONTAL | Typ horisontell riktning.|
+| HORIZONTAL | Horisontell riktningstyp.|
 | VERTICAL | Vertikal riktningstyp.|
-| ROTATE90 | Vrid 90 vinkel.|
-| ROTATE270 | Vrid 270 vinkel.|
+| ROTATE90 | Rotera 90 graders vinkel.|
+| ROTATE270 | Rotera 270 graders vinkel.|
 | STACKED | Staplad text.|
 
 

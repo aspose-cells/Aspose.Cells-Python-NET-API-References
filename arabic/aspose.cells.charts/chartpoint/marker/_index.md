@@ -1,15 +1,15 @@
 ---
-title: marker الملكية
+title: marker عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ar/aspose.cells.charts/chartpoint/marker/
 is_root: false
 ---
-##  marker الملكية
+##  marker عقار
 
-يحصل على [ChartPoint.marker](/cells/python-net/ar/aspose.cells.charts/chartpoint#marker).
+يحصل على [`ChartPoint.marker`](/cells/python-net/ar/aspose.cells.charts/chartpoint#marker).
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def marker(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
-* فئة [Marker](/cells/python-net/ar/aspose.cells.charts/marker)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* فئة [`Marker`](/cells/python-net/ar/aspose.cells.charts/marker)

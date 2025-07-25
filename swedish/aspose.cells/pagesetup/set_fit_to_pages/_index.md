@@ -7,12 +7,13 @@ weight: 170
 url: /sv/aspose.cells/pagesetup/set_fit_to_pages/
 is_root: false
 ---
-##  set_fit_to_pages(wide, tall) {#int-int}
-Ställer in antalet sidor som kalkylbladet skalas till när det skrivs ut.
+##  set_fit_to_pages(self, wide, tall) {#int-int}
+Anger antalet sidor som kalkylbladet ska skalas till när det skrivs ut.
 
 
 
 ```python
+
 def set_fit_to_pages(self, wide, tall):
     ...
 ```
@@ -20,11 +21,11 @@ def set_fit_to_pages(self, wide, tall):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| wide | int | Sidorna breda.|
-| tall | int | Höga sidor.|
+| wide | int | Sidor breda.|
+| tall | int | Sidorna är höga.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

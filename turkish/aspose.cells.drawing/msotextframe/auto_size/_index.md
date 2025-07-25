@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_size mülk
 
-Şeklin boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını gösterir.
+Şeklin boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoTextFrame](/cells/python-net/tr/aspose.cells.drawing/msotextframe)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoTextFrame`](/cells/python-net/tr/aspose.cells.drawing/msotextframe)

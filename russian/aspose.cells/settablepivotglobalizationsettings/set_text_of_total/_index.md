@@ -1,18 +1,19 @@
 ---
 title: set_text_of_total метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/
 is_root: false
 ---
-##  set_text_of_total {#str}
+##  set_text_of_total(self, text) {#str}
 Задает текст метки «Итого» в сводной таблице.
 
 
 
 ```python
+
 def set_text_of_total(self, text):
     ...
 ```

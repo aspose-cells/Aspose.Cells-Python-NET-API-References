@@ -3,13 +3,13 @@ title: only_area عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 210
 url: /ar/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
 ##  only_area عقار
 
-إذا كانت هذه الخاصية صحيحة، فسيتم إخراج منطقة واحدة، ولن يتم تفعيل أي مقياس.
+إذا كانت هذه الخاصية صحيحة، فسيتم إخراج منطقة واحدة، ولن يتم تطبيق أي مقياس.
 ###  تعريف:
 ```python
 @property

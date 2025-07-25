@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cf_icons mülk
 
-Koleksiyondan [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)'i edinin
+[`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)'i koleksiyondan alın
 ###  Tanım:
 ```python
 @property
@@ -18,7 +18,7 @@ def cf_icons(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)
-* sınıf [ConditionalFormattingIconCollection](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection)
-* sınıf [IconSet](/cells/python-net/tr/aspose.cells/iconset)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)
+* sınıf [`ConditionalFormattingIconCollection`](/cells/python-net/tr/aspose.cells/conditionalformattingiconcollection)
+* sınıf [`IconSet`](/cells/python-net/tr/aspose.cells/iconset)

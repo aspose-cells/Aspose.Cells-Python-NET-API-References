@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color_set_type mülk
 
-İşaretçi ön plan renk kümesi türünü alır veya ayarlar.
+İşaretleyici ön plan renk kümesi türünü alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def foreground_color_set_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [FormattingType](/cells/python-net/tr/aspose.cells.charts/formattingtype)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`FormattingType`](/cells/python-net/tr/aspose.cells.charts/formattingtype)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)

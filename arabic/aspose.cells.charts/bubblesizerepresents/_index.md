@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/bubblesizerepresents/
 is_root: false
 ---
 ##  BubbleSizeRepresents التعداد
-يمثل ما يمثله حجم الفقاعة على المخطط الفقاعي.
+يمثل ما يمثله حجم الفقاعة على مخطط الفقاعات.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SIZE_IS_AREA | تمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) مساحة الفقاعة.|
-| SIZE_IS_WIDTH | تمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) عرض الفقاعة.|
+| SIZE_IS_AREA | يمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) هي مساحة الفقاعة.|
+| SIZE_IS_WIDTH | يمثل قيمة [`Series.bubble_sizes`](/cells/python-net/ar/aspose.cells.charts/series#bubble_sizes) هو عرض الفقاعة.|
 
 
 

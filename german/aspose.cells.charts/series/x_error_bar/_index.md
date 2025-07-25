@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x_error_bar Eigentum
 
-Stellt den X-Richtungsfehlerbalken der Serie dar.
+Stellt den Fehlerbalken der Reihe in X-Richtung dar.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def x_error_bar(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

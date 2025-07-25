@@ -3,11 +3,11 @@ title: get_style yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells/cell/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 Hücre stilini alır.
 
 
@@ -17,6 +17,7 @@ Stil nesnesi.
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -24,11 +25,11 @@ def get_style(self):
 
 ###  Notlar
 
-Hücrenin stilini değiştirmek için, stili değiştirdikten sonra lütfen Cell.SetStyle() yöntemini çağırın.
+Hücrenin stilini değiştirmek için, döndürülen stil nesnesini değiştirdikten sonra Cell.SetStyle() metodunu çağırın.
+Bu yöntem [`Cell.get_style`](/cells/python-net/tr/aspose.cells/cell/get_style) parametresi için true değeri ile aynıdır.
 
-##  get_style(check_borders) {#bool}
-
-CheckBorders doğruysa, diğer hücrelerin kenarlıklarının bu hücrenin stilini etkileyip etkilemediğini kontrol edin.
+##  get_style(self, check_borders) {#bool}
+checkBorders true ise, diğer hücrelerin kenarlıklarının bu hücrenin stilini etkileyip etkilemeyeceğini kontrol edin.
 
 
 ###  İadeler
@@ -37,6 +38,7 @@ Stil nesnesi.
 
 
 ```python
+
 def get_style(self, check_borders):
     ...
 ```
@@ -44,7 +46,7 @@ def get_style(self, check_borders):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| check_borders | bool | Diğer hücrelerin kenarlıklarını kontrol edin|
+| check_borders | bool | Diğer hücrelerin sınırlarını kontrol edin|
 ###  Notlar
 
 
@@ -52,5 +54,5 @@ def get_style(self, check_borders):
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
+* modül [`aspose.cells`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)

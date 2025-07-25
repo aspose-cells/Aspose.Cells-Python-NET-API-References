@@ -18,5 +18,5 @@ def user(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Scenario](/cells/python-net/tr/aspose.cells/scenario)
+* modül [`aspose.cells`](../../)
+* sınıf [`Scenario`](/cells/python-net/tr/aspose.cells/scenario)

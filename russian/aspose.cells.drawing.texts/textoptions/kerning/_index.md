@@ -1,6 +1,6 @@
 ---
 title: kerning недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  kerning недвижимость
 
-Указывает минимальный размер шрифта, при котором символ kerning будет встречаться в этом текстовом фрагменте.
+Указывает минимальный размер шрифта, при котором символ kerning будет встречаться в данном текстовом фрагменте.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def kerning(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

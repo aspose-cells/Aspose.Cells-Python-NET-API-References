@@ -21,6 +21,6 @@ def begin_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [MsoArrowheadStyle](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`MsoArrowheadStyle`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadstyle)

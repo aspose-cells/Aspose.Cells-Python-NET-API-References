@@ -1,15 +1,15 @@
 ---
 title: tick_label_spacing недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ru/aspose.cells.charts/axis/tick_label_spacing/
 is_root: false
 ---
 ##  tick_label_spacing недвижимость
 
-Представляет количество категорий или серий между метками делений. Применяется только к осям категорий и серий.
+Показывает количество категорий или серий между метками. Применимо только к осям категорий и серий.
 
 ###  Примечания
 

@@ -7,7 +7,7 @@ weight: 40
 url: /sv/aspose.cells.drawing/cellsdrawing/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
+##  calculate_text_size(self) {#}
 Beräkna om textområdet
 
 
@@ -17,6 +17,7 @@ Textens storlek i en array (bredd och höjd).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsDrawing](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsDrawing`](/cells/python-net/sv/aspose.cells.drawing/cellsdrawing)

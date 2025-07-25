@@ -3,16 +3,17 @@ title: طريقة set_color
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ar/aspose.cells/bordercollection/set_color/
 is_root: false
 ---
-##  set_color(color) {#aspose.pydrawing.Color}
-يضبط لون كل الحدود في المجموعة.
+##  set_color(self, color) {#aspose.pydrawing.Color}
+تعيين لون جميع الحدود في المجموعة.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```
@@ -25,5 +26,5 @@ def set_color(self, color):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [BorderCollection](/cells/python-net/ar/aspose.cells/bordercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`BorderCollection`](/cells/python-net/ar/aspose.cells/bordercollection)

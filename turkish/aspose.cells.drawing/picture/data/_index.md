@@ -3,13 +3,13 @@ title: data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 400
 url: /tr/aspose.cells.drawing/picture/data/
 is_root: false
 ---
 ##  data mülk
 
-Resmin data’ini alır.
+Resmin data'ini alır.
 
 ###  Örnek
 

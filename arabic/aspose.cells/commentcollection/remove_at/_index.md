@@ -3,16 +3,17 @@ title: طريقة remove_at
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
-##  remove_at(cell_name) {#str}
-يزيل تعليق الخلية المحددة.
+##  remove_at(self, cell_name) {#str}
+إزالة تعليق الخلية المحددة.
 
 
 
 ```python
+
 def remove_at(self, cell_name):
     ...
 ```
@@ -31,12 +32,13 @@ comments.remove_at("B2")
 ```
 
 
-##  remove_at(row, column) {#int-int}
-يزيل تعليق الخلية المحددة.
+##  remove_at(self, row, column) {#int-int}
+إزالة تعليق الخلية المحددة.
 
 
 
 ```python
+
 def remove_at(self, row, column):
     ...
 ```
@@ -44,7 +46,7 @@ def remove_at(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 
 ###  مثال
@@ -58,5 +60,5 @@ comments.remove_at(1, 1)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CommentCollection](/cells/python-net/ar/aspose.cells/commentcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CommentCollection`](/cells/python-net/ar/aspose.cells/commentcollection)

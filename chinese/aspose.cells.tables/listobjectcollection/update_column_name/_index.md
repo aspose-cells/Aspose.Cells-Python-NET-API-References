@@ -1,18 +1,19 @@
 ---
 title: update_column_name方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 80
 url: /zh/aspose.cells.tables/listobjectcollection/update_column_name/
 is_root: false
 ---
-##  update_column_name() {#}
+##  update_column_name(self) {#}
 更新表的所有列名。
 
 
 
 ```python
+
 def update_column_name(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_column_name(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListObjectCollection](/cells/python-net/zh/aspose.cells.tables/listobjectcollection)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListObjectCollection`](/cells/python-net/zh/aspose.cells.tables/listobjectcollection)

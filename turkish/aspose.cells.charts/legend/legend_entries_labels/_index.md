@@ -3,20 +3,20 @@ title: legend_entries_labels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 280
+weight: 340
 url: /tr/aspose.cells.charts/legend/legend_entries_labels/
 is_root: false
 ---
 ##  legend_entries_labels mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra açıklama girişlerinin etiketlerini alır.
+Chart.Calculate() metodu çağrıldıktan sonra efsane girişlerinin etiketlerini alır.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen Legend.GetLegendLabels yöntemini kullanın.
- Bu mülk, Kasım 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen Legend.GetLegendLabels metodunu kullanın.
+ Bu özellik Kasım 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

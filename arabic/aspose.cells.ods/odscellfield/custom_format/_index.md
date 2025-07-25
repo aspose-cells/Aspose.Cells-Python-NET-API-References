@@ -1,5 +1,5 @@
 ---
-title: custom_format الملكية
+title: custom_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.ods/odscellfield/custom_format/
 is_root: false
 ---
-##  custom_format الملكية
+##  custom_format عقار
 
 يمثل التنسيق المخصص لقيمة الحقل.
 ###  تعريف:
@@ -21,5 +21,5 @@ def custom_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsCellField](/cells/python-net/ar/aspose.cells.ods/odscellfield)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsCellField`](/cells/python-net/ar/aspose.cells.ods/odscellfield)

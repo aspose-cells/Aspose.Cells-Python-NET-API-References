@@ -18,5 +18,5 @@ def index(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorterKey](/cells/python-net/de/aspose.cells/datasorterkey)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorterKey`](/cells/python-net/de/aspose.cells/datasorterkey)

@@ -3,13 +3,13 @@ title: original_width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /tr/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
 ##  original_width_inch mülk
 
-Resmin orijinal genişliğini inç birimi cinsinden alır.
+Resmin orijinal genişliğini inç cinsinden alır.
 
 ###  Örnek
 

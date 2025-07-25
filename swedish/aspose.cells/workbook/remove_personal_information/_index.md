@@ -3,16 +3,17 @@ title: remove_personal_information metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 330
 url: /sv/aspose.cells/workbook/remove_personal_information/
 is_root: false
 ---
-##  remove_personal_information() {#}
+##  remove_personal_information(self) {#}
 Tar bort personlig information.
 
 
 
 ```python
+
 def remove_personal_information(self):
     ...
 ```
@@ -22,5 +23,5 @@ def remove_personal_information(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

@@ -3,13 +3,13 @@ title: text_body Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /de/aspose.cells.drawing/arcshape/text_body/
 is_root: false
 ---
 ##  text_body Eigentum
 
-Ruft die Einstellung des Texts der Form ab und legt diese fest.
+Ruft die Einstellung des Formtextes ab und legt sie fest.
 
 ###  Beispiel
 

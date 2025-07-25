@@ -9,7 +9,7 @@ is_root: false
 ---
 ## threaded_comments属性
 
-获取线索评论列表；
+获取主题注意事项列表；
 
 ### 例子
 

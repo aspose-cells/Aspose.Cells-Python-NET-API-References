@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction_type عقار
 
-يحصل على ويحدد اتجاه النص.
+يحصل على اتجاه النص ويحدده.
 ###  تعريف:
 ```python
 @property

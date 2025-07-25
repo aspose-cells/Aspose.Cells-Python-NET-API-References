@@ -3,13 +3,13 @@ title: pivot_tables propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 710
+weight: 740
 url: /es/aspose.cells/worksheet/pivot_tables/
 is_root: false
 ---
 ##  pivot_tables propiedad
 
-Obtiene todas las tablas dinámicas de esta hoja de trabajo.
+Obtiene todas las tablas dinámicas en esta hoja de cálculo.
 ###  Definición:
 ```python
 @property

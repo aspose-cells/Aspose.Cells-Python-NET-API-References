@@ -3,14 +3,14 @@ title: drag_to_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 370
 url: /ar/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
 ##  drag_to_data عقار
 
-يشير إلى ما إذا كان يمكن سحب الحقل المحدد إلى موضع البيانات.
-القيمة الافتراضية هي الحقيقية.
+يشير إلى ما إذا كان من الممكن سحب الحقل المحدد إلى موضع البيانات.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property

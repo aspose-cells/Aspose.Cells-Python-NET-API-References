@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
+##  remove_at(self, index) {#int}
 Tar bort den angivna externa länken från arbetsboken.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -23,15 +24,16 @@ def remove_at(self, index):
 | index | int | indexet för den externa länken som ska tas bort.|
 ###  Anmärkningar
 
-När du tar bort den externa länken kommer alla formler som refererar till den att tas bort också eftersom
+När du tar bort den externa länken kommer även alla formler som refererar till den att tas bort eftersom
 referenserna blir ogiltiga.
 
-##  remove_at(index, update_references_as_local) {#int-bool}
+##  remove_at(self, index, update_references_as_local) {#int-bool}
 Tar bort den angivna externa länken från arbetsboken.
 
 
 
 ```python
+
 def remove_at(self, index, update_references_as_local):
     ...
 ```
@@ -40,17 +42,10 @@ def remove_at(self, index, update_references_as_local):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | index | int | indexet för den externa länken som ska tas bort.|
-| update_references_as_local | bool | Om du uppdaterar alla referenser för given extern länk till referens till den aktuella arbetsboken själv.|
-###  Anmärkningar
+| update_references_as_local | bool | Om alla referenser till den givna externa länken ska uppdateras till referensen till den aktuella arbetsboken.<br/> Kontrollera [`ExternalLinkCollection.clear`](/cells/python-net/sv/aspose.cells/externallinkcollection/clear) för mer information om den här parametern.|
 
-Om referenser måste uppdateras kommer referenser till externa länkar i formler att ändras till aktuell arbetsbok.
-Till exempel är den externa länken som ska tas bort "externalsource.xlam" och den definierar en anpassad funktion "customfunction()",
-en cells ursprungliga formel är "='externalsource.xlam'!customfunction()",
-efter att ha tagit bort formeln blir "=customfunction()".
-Om referensen inte behöver uppdateras, alla formler med hänvisning till denna externa länk
-kommer också att tas bort eftersom dessa referenser blir ogiltiga.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExternalLinkCollection](/cells/python-net/sv/aspose.cells/externallinkcollection)
+* modul [`aspose.cells`](../../)
+* klass [`ExternalLinkCollection`](/cells/python-net/sv/aspose.cells/externallinkcollection)

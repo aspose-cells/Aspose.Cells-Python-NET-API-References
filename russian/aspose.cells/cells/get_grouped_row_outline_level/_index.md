@@ -1,22 +1,23 @@
 ---
 title: get_grouped_row_outline_level метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 430
 url: /ru/aspose.cells/cells/get_grouped_row_outline_level/
 is_root: false
 ---
-##  get_grouped_row_outline_level {#int}
-Получает уровень структуры (отсчитываемый от нуля) строки.
+##  get_grouped_row_outline_level(self, row_index) {#int}
+Возвращает уровень структуры строки (отсчитывается от нуля).
 
 
 ###  Возврат
 
-Уровень структуры (отсчет от нуля) строки.
+Уровень структуры строки (отсчитывается от нуля).
 
 
 ```python
+
 def get_grouped_row_outline_level(self, row_index):
     ...
 ```
@@ -27,7 +28,7 @@ def get_grouped_row_outline_level(self, row_index):
 | row_index | int | Индекс строки.|
 ###  Примечания
 
-Если строка не сгруппирована, возвращается ноль.
+Если строка не сгруппирована, возвращает ноль.
 
 
 ###  Смотрите также

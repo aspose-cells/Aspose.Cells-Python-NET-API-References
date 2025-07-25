@@ -1,6 +1,6 @@
 ---
 title: plus_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 220
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plus_value proprietà
 
-Rappresenta l'importo dell'errore positivo quando il tipo di barra di errore è Personalizzato.
+Rappresenta un importo di errore positivo quando il tipo di barra di errore è Personalizzato.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def plus_value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items Eigentum
 
-Gibt eine SlicerCacheItem-Auflistung zurück, die die Auflistung aller Elemente im Slicer-Cache enthält. Schreibgeschützt
+Gibt eine SlicerCacheItem-Sammlung zurück, die die Sammlung aller Elemente im Slicer-Cache enthält. Schreibgeschützt
 
 ###  Beispiel
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [SlicerCache](/cells/python-net/de/aspose.cells.slicers/slicercache)
-* Klasse [SlicerCacheItemCollection](/cells/python-net/de/aspose.cells.slicers/slicercacheitemcollection)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`SlicerCache`](/cells/python-net/de/aspose.cells.slicers/slicercache)
+* Klasse [`SlicerCacheItemCollection`](/cells/python-net/de/aspose.cells.slicers/slicercacheitemcollection)

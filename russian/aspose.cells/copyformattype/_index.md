@@ -1,9 +1,9 @@
 ---
 title: CopyFormatType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1950
+weight: 1860
 url: /ru/aspose.cells/copyformattype/
 is_root: false
 ---

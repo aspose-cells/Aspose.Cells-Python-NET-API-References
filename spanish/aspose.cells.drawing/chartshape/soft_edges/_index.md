@@ -3,7 +3,7 @@ title: soft_edges propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 900
+weight: 910
 url: /es/aspose.cells.drawing/chartshape/soft_edges/
 is_root: false
 ---

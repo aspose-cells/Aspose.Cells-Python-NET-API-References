@@ -3,20 +3,21 @@ title: get_locked_property metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 110
+weight: 130
 url: /sv/aspose.cells.drawing/arcshape/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
-Får värdet av låst egendom.
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
+Hämtar värdet på låst egendom.
 
 
 ###  Returnerar
 
-Returnerar värdet på låst egendom.
+Returnerar värdet av den låsta egenskapen.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/sv/aspose.cells.drawing/shapelocktype) | Typen av formlåst egenskap.|
+| type | [`ShapeLockType`](/cells/python-net/sv/aspose.cells.drawing/shapelocktype) | Typen av egenskapen för formlåsning.|
 
 ###  Exempel
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ArcShape](/cells/python-net/sv/aspose.cells.drawing/arcshape)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ArcShape`](/cells/python-net/sv/aspose.cells.drawing/arcshape)

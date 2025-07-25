@@ -3,13 +3,19 @@ title: min_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1180
+weight: 1210
 url: /tr/aspose.cells/cells/min_row/
 is_root: false
 ---
 ##  min_row mülk
 
 Veri veya stil içeren hücrenin minimum satır dizini.
+
+###  Notlar
+
+Bu özelliğin hücreleri ve satırları dinamik olarak yinelemesi ve kontrol etmesi gerekir.
+bu nedenle zaman alıcı bir ilerlemedir ve tekrar tekrar gündeme getirilmemelidir,
+örneğin bir döngüde doğrudan koşul olarak kullanmak gibi.
 ###  Tanım:
 ```python
 @property

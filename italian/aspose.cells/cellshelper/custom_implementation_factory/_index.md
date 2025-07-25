@@ -1,9 +1,9 @@
 ---
 title: custom_implementation_factory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 240
 url: /it/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Ottiene o imposta la factory per la creazione di istanze con implementazione spe
 @property
 def custom_implementation_factory(self):
     ...
-@custom_implementation_factory.setter
-def custom_implementation_factory(self, value):
+@staticmethod
+def set_custom_implementation_factory(value):
     ...
 ```
 

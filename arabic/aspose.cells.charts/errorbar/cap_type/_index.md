@@ -1,5 +1,5 @@
 ---
-title: cap_type الملكية
+title: cap_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.charts/errorbar/cap_type/
 is_root: false
 ---
-##  cap_type الملكية
+##  cap_type عقار
 
-يحدد قبعات النهاية.
+يحدد الأحرف الكبيرة النهائية.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def cap_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [LineCapType](/cells/python-net/ar/aspose.cells.drawing/linecaptype)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`LineCapType`](/cells/python-net/ar/aspose.cells.drawing/linecaptype)

@@ -8,8 +8,8 @@ url: /de/aspose.cells.timelines/timelinecollection/
 is_root: false
 ---
 ##  TimelineCollection Klasse
-Gibt die Auflistung aller Timeline-Objekte auf dem angegebenen Arbeitsblatt an.
-Aufgrund von MS Excel unterstützt Excel 2003 Timeline nicht.
+Gibt die Auflistung aller Timeline-Objekte im angegebenen Arbeitsblatt an.
+Aufgrund von MS Excel unterstützt Excel 2003 die Zeitleiste nicht.
 
 
 
@@ -18,26 +18,27 @@ Der Typ TimelineCollection macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [capacity](/cells/python-net/de/aspose.cells.timelines/timelinecollection/capacity) | Ruft die Anzahl der Elemente ab, die die Arrayliste enthalten kann, oder legt diese fest.|
+| [capacity](/cells/python-net/de/aspose.cells.timelines/timelinecollection/capacity) | Ruft die Anzahl der Elemente ab, die die Array-Liste enthalten kann, oder legt diese fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add(pivot, row, column, base_field_name)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-int) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [add(pivot, row, column, base_field)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Fügen Sie eine neue Zeitachse mit PivotTable als Datenquelle hinzu|
-| [copy_to(array)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/copy_to/#list) | Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) |Kopiert eine Reihe von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
-| [index_of(item, index)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
-| [index_of(item, index, count)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/index_of/#Timeline-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
-| [last_index_of(item)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens in der gesamten Array-Liste zurück.|
-| [last_index_of(item, index)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
-| [last_index_of(item, index, count)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#Timeline-int-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Bereichs von Elementen in der Arrayliste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
-| [binary_search(item)](/cells/python-net/de/aspose.cells.timelines/timelinecollection/binary_search/#Timeline) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichs nach einem Element und gibt den nullbasierten Index des Elements zurück.|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-str) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-int) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Fügen Sie eine neue Zeitleiste hinzu, indem Sie PivotTable als Datenquelle verwenden|
+| [`copy_to(self, array)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/copy_to/#list) |Kopiert die gesamte Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am Anfang der Ziel-Array-Liste.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/copy_to/#int-list-int-int) | Kopiert einen Bereich von Elementen aus der Array-Liste in eine kompatible eindimensionale Array-Liste, beginnend am angegebenen Index der Ziel-Array-Liste.|
+| [`index_of(self, item, index)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom angegebenen Index bis zum letzten Element erstreckt.|
+| [`index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/index_of/#aspose.cells.timelines.timeline-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des ersten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der am angegebenen Index beginnt und die angegebene Anzahl von Elementen enthält.|
+| [`last_index_of(self, item)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb der gesamten Arrayliste zurück.|
+| [`last_index_of(self, item, index)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int) |Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der sich vom ersten Element bis zum angegebenen Index erstreckt.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/last_index_of/#aspose.cells.timelines.timeline-int-int) | Sucht nach dem angegebenen Objekt und gibt den nullbasierten Index des letzten Vorkommens innerhalb des Elementbereichs in der Array-Liste zurück, der die angegebene Anzahl von Elementen enthält und am angegebenen Index endet.|
+| [`get(self, name)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/get/#str) | Ruft die Zeitleiste anhand des Zeitleistennamens ab.|
+| [`binary_search(self, item)`](/cells/python-net/de/aspose.cells.timelines/timelinecollection/binary_search/#aspose.cells.timelines.timeline) | Durchsucht die gesamte sortierte Array-Liste mithilfe des Standardvergleichers nach einem Element und gibt den nullbasierten Index des Elements zurück.|
 
 
 
@@ -46,7 +47,7 @@ Der Typ TimelineCollection macht die folgenden Member verfügbar:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -91,4 +92,4 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.timelines](..)
+* Modul [`aspose.cells.timelines`](..)

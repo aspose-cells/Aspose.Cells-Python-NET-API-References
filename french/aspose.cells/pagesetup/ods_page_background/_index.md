@@ -18,6 +18,6 @@ def ods_page_background(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [OdsPageBackground](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`OdsPageBackground`](/cells/python-net/fr/aspose.cells.ods/odspagebackground)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

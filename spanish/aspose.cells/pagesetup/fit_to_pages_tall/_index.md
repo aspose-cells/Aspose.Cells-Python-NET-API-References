@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_tall propiedad
 
-Representa el número de páginas de altura a las que se escalará la hoja de cálculo cuando se imprima.
+Representa la cantidad de páginas de alto a las que se escalará la hoja de trabajo cuando se imprima.
 El valor predeterminado es 1.
 
 ###  Observaciones
 
-Debe configurar FitToPagesWide como cero si desea ajustar todas las filas en una página.
+Debes establecer FitToPagesWide como cero si deseas que todas las filas quepan en una página.
 ###  Definición:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_tall(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

@@ -1,15 +1,15 @@
 ---
-title: top_margin_pt 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: top_margin_pt属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 170
 url: /zh/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
-## top_margin_pt 属性
+## top_margin_pt属性
 
-以点为单位返回顶部边距
+返回以点为单位的上边距
 
 ### 例子
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [ShapeTextAlignment](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`ShapeTextAlignment`](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)

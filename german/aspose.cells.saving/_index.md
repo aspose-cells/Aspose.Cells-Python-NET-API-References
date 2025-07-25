@@ -12,14 +12,15 @@ is_root: false
 ###  Klassen
 | Klasse| Beschreibung|
 | :- | :- |
-| [`EbookSaveOptions`](/cells/python-net/de/aspose.cells.saving/ebooksaveoptions) | Stellt die Optionen zum Speichern einer E-Book-Datei dar.|
-| [`SqlScriptColumnTypeMap`](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap) | Stellt eine Spaltentypzuordnung dar.|
-| [`SqlScriptSaveOptions`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions) | Stellt die Optionen zum Speichern von SQL dar.|
+| [`DbfSaveOptions`](/cells/python-net/de/aspose.cells.saving/dbfsaveoptions) | Stellt die Optionen zum Speichern der DBF-Datei dar|
+| [`EbookSaveOptions`](/cells/python-net/de/aspose.cells.saving/ebooksaveoptions) | Stellt die Optionen zum Speichern der E-Book-Datei dar.|
+| [`SqlScriptColumnTypeMap`](/cells/python-net/de/aspose.cells.saving/sqlscriptcolumntypemap) | Stellt die Spaltentypzuordnung dar.|
+| [`SqlScriptSaveOptions`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions) |Stellt die Optionen zum Speichern von SQL dar.|
 
 
 ###  Aufzählungen
-|Aufzählung| Beschreibung|
+| Aufzählung| Beschreibung|
 | :- | :- |
-| [`SqlScriptOperatorType`](/cells/python-net/de/aspose.cells.saving/sqlscriptoperatortype) | Stellt die Art der Betriebsdaten dar.|
+| [`SqlScriptOperatorType`](/cells/python-net/de/aspose.cells.saving/sqlscriptoperatortype) | Stellt den Typ der Betriebsdaten dar.|
 
 

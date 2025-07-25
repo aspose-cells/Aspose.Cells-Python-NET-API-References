@@ -3,13 +3,13 @@ title: tick_labels propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 410
 url: /es/aspose.cells.charts/axis/tick_labels/
 is_root: false
 ---
 ##  tick_labels propiedad
 
-Devuelve un objeto [`Axis.tick_labels`](/cells/python-net/es/aspose.cells.charts/axis#tick_labels) que representa las etiquetas de marca para el eje especificado.
+Devuelve un objeto [`Axis.tick_labels`](/cells/python-net/es/aspose.cells.charts/axis#tick_labels) que representa las etiquetas de marca de verificación para el eje especificado.
 ###  Definición:
 ```python
 @property

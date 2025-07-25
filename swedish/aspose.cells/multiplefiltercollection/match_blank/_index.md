@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_blank fastighet
 
-Indikerar om det ska filtreras efter blankt.
+Anger om filtrering ska ske efter tomrum.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MultipleFilterCollection](/cells/python-net/sv/aspose.cells/multiplefiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`MultipleFilterCollection`](/cells/python-net/sv/aspose.cells/multiplefiltercollection)

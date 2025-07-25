@@ -13,7 +13,7 @@ Referansın genişletilmiş Libid'ini alır ve ayarlar.
 
 ###  Notlar
 
-Sadece kontrol referansı için.
+Sadece kontrol referansı içindir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def extended_libid(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)

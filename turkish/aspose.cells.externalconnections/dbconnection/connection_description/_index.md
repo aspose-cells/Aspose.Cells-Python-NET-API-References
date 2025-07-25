@@ -3,13 +3,11 @@ title: connection_description mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells.externalconnections/dbconnection/connection_description/
 is_root: false
 ---
 ##  connection_description mülk
-
-Bu bağlantı için kullanıcı açıklamasını belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def connection_description(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [DBConnection](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`DBConnection`](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)

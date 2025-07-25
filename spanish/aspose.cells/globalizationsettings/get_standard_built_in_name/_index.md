@@ -7,16 +7,17 @@ weight: 190
 url: /es/aspose.cells/globalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name {#str}
-Obtiene el texto estándar del nombre integrado según el texto dependiente de la configuración regional determinada.
+##  get_standard_built_in_name(self, local_name) {#str}
+Obtiene el texto estándar del nombre incorporado de acuerdo con el texto dependiente de la configuración regional dada.
 
 
 ###  Devoluciones
 
-Texto estándar (localización en EE. UU.).
+Texto estándar (configuración regional en-US).
 
 
 ```python
+
 def get_standard_built_in_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_built_in_name(self, local_name):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| local_name | str | Texto dependiente de la configuración regional del nombre integrado. La configuración regional fue especificada por el libro de trabajo para el cual se utiliza esta configuración.|
+| local_name | str | Texto dependiente de la configuración regional del nombre integrado. La configuración regional fue especificada por el libro de trabajo para el que se utiliza esta configuración.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  build_version mülk
 
-Uygulamanın artımlı genel yayınını belirtir.
+Uygulamanın artımlı genel sürümünü belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def build_version(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

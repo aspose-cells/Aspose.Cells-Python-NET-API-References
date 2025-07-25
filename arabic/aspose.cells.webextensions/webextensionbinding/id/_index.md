@@ -1,5 +1,5 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.webextensions/webextensionbinding/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-الحصول على معرف الربط وتعيينه.
+يحصل على معرف الربط ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionBinding](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionBinding`](/cells/python-net/ar/aspose.cells.webextensions/webextensionbinding)

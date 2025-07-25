@@ -1,9 +1,9 @@
 ---
 title: is_blank недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/row/is_blank/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_blank(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

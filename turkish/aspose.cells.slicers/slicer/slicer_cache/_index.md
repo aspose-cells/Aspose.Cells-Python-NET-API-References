@@ -3,13 +3,13 @@ title: slicer_cache mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.slicers/slicer/slicer_cache/
 is_root: false
 ---
 ##  slicer_cache mülk
 
-Dilimleyiciyle ilişkili SlicerCache nesnesini döndürür. Sadece oku.
+Dilimleyiciyle ilişkili SlicerCache nesnesini döndürür. Salt okunur.
 
 ###  Örnek
 
@@ -26,6 +26,6 @@ def slicer_cache(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
-* sınıf [SlicerCache](/cells/python-net/tr/aspose.cells.slicers/slicercache)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* sınıf [`SlicerCache`](/cells/python-net/tr/aspose.cells.slicers/slicercache)

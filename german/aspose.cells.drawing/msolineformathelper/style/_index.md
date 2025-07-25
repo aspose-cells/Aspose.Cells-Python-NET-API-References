@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style Eigentum
 
-Gibt ein Style-Objekt zurück, das die style des angegebenen Bereichs darstellt.
+Gibt ein Style-Objekt zurück, das style des angegebenen Bereichs darstellt.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoLineFormatHelper](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)
-* Klasse [MsoLineStyle](/cells/python-net/de/aspose.cells.drawing/msolinestyle)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoLineFormatHelper`](/cells/python-net/de/aspose.cells.drawing/msolineformathelper)
+* Klasse [`MsoLineStyle`](/cells/python-net/de/aspose.cells.drawing/msolinestyle)

@@ -1,9 +1,9 @@
 ---
 title: direction_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 190
 url: /ru/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---

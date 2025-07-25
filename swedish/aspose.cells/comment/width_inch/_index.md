@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_inch fastighet
 
-Representerar bredden på kommentaren, i enhet av tum.
+Representerar kommentarens bredd, i tum.
 
 ###  Exempel
 

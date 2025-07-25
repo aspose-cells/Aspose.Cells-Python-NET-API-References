@@ -1,9 +1,9 @@
 ---
 title: PaneCollection classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1200
+weight: 1080
 url: /it/aspose.cells/panecollection/
 is_root: false
 ---

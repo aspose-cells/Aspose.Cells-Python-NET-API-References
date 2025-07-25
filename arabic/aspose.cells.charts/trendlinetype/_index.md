@@ -17,7 +17,7 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| EXPONENTIAL | متسارع|
+| EXPONENTIAL | أسي|
 | LINEAR | خطي|
 | LOGARITHMIC | لوغاريتمي|
 | MOVING_AVERAGE | المتوسط المتحرك|

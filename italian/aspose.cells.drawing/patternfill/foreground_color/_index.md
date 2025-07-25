@@ -1,6 +1,6 @@
 ---
 title: foreground_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color proprietà
 
-Ottiene o imposta il Color in primo piano.
+Ottiene o imposta il colore di primo piano.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [PatternFill](/cells/python-net/it/aspose.cells.drawing/patternfill)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`PatternFill`](/cells/python-net/it/aspose.cells.drawing/patternfill)

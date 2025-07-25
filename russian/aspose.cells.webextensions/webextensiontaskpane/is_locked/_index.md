@@ -1,6 +1,6 @@
 ---
 title: is_locked недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked недвижимость
 
-Указывает, заблокирована ли область задач для документа в пользовательском интерфейсе и не может быть закрыта пользователем.
+Указывает, заблокирована ли область задач для документа в пользовательском интерфейсе и не может ли пользователь ее закрыть.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionTaskPane](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionTaskPane`](/cells/python-net/ru/aspose.cells.webextensions/webextensiontaskpane)

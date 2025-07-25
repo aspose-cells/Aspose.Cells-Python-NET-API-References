@@ -1,15 +1,15 @@
 ---
-title: category الملكية
+title: category عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/category/
 is_root: false
 ---
-##  category الملكية
+##  category عقار
 
-الحصول على أو تحديد category الخاص بالوثيقة.
+يحصل على أو يعين category من المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def category(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

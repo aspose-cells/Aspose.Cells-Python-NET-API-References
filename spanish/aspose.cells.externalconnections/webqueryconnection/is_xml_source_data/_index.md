@@ -3,13 +3,13 @@ title: is_xml_source_data propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 220
+weight: 270
 url: /es/aspose.cells.externalconnections/webqueryconnection/is_xml_source_data/
 is_root: false
 ---
 ##  is_xml_source_data propiedad
 
-Indicador que indica que los datos de origen XML deben importarse en lugar de la propia tabla HTML.
+Bandera que indica que se deben importar los datos de origen XML en lugar de la tabla HTML en sí.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml_source_data(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [WebQueryConnection](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`WebQueryConnection`](/cells/python-net/es/aspose.cells.externalconnections/webqueryconnection)

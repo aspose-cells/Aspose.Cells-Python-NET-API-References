@@ -14,11 +14,11 @@ is_root: false
 
 TimeUnit 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | DAYS |天|
-| MONTHS |几个月|
+| MONTHS |月份|
 | YEARS |年|
 
 

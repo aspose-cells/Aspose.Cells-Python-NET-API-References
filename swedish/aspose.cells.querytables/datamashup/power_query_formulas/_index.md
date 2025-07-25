@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  power_query_formulas fastighet
 
-Hämtar alla power-frågeformler.
+Hämtar alla Power Query-formler.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def power_query_formulas(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.querytables](../../)
-* klass [DataMashup](/cells/python-net/sv/aspose.cells.querytables/datamashup)
-* klass [PowerQueryFormulaCollection](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulacollection)
+* modul [`aspose.cells.querytables`](../../)
+* klass [`DataMashup`](/cells/python-net/sv/aspose.cells.querytables/datamashup)
+* klass [`PowerQueryFormulaCollection`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformulacollection)

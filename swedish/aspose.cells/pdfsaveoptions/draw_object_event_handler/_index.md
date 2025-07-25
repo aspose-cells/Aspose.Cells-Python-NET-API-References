@@ -3,13 +3,11 @@ title: draw_object_event_handler fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 200
 url: /sv/aspose.cells/pdfsaveoptions/draw_object_event_handler/
 is_root: false
 ---
 ##  draw_object_event_handler fastighet
-
-Implementerar detta gränssnitt för att få DrawObject och Bound vid rendering.
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,5 @@ def draw_object_event_handler(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DrawObjectEventHandler](/cells/python-net/sv/aspose.cells.rendering/drawobjecteventhandler)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

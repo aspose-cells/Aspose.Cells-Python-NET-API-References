@@ -1,5 +1,5 @@
 ---
-title: top_margin_inch الملكية
+title: top_margin_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 650
 url: /ar/aspose.cells/pagesetup/top_margin_inch/
 is_root: false
 ---
-##  top_margin_inch الملكية
+##  top_margin_inch عقار
 
 يمثل حجم الهامش العلوي بوحدة البوصة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def top_margin_inch(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

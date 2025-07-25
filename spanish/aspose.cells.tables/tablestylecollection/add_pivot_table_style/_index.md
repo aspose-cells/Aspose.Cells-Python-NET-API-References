@@ -1,5 +1,5 @@
 ---
-title: add_pivot_table_style método
+title: método add_pivot_table_style
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
-##  add_pivot_table_style(name) {#str}
+##  add_pivot_table_style(self, name) {#str}
 Agrega un estilo de tabla dinámica personalizado.
 
 
 ###  Devoluciones
 
-El índice del estilo de la tabla dinámica.
+El índice del estilo de tabla dinámica.
 
 
 ```python
+
 def add_pivot_table_style(self, name):
     ...
 ```
@@ -24,10 +25,10 @@ def add_pivot_table_style(self, name):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| name | str |El nombre del estilo de la tabla dinámica.|
+| name | str | El nombre del estilo de la tabla dinámica.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [TableStyleCollection](/cells/python-net/es/aspose.cells.tables/tablestylecollection)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`TableStyleCollection`](/cells/python-net/es/aspose.cells.tables/tablestylecollection)

@@ -1,9 +1,9 @@
 ---
 title: NoneBulletValue类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 50
 url: /zh/aspose.cells.drawing.texts/nonebulletvalue/
 is_root: false
 ---
@@ -12,27 +12,25 @@ is_root: false
 
 
 
-**继承：** [NoneBulletValue](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
-[BulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/bulletvalue)
+**继承：** [`NoneBulletValue`](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue)
 
 
 
-NoneBulletValue 类型公开了以下成员：
+NoneBulletValue 类型公开以下成员：
 
-### 构造器
-|构造器|描述|
+### 构造函数
+|构造函数|描述|
 | :- | :- |
-| [NoneBulletValue()](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) |构造 NoneBulletValue 的新实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) |构造一个新的 NoneBulletValue 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [type](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue/type) |获取项目符号值的类型。|
+| [type](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue/type) |获取子弹值的类型。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](..)
-* 类 [BulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/bulletvalue)
-* 类 [NoneBulletValue](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue)
+* 模块[`aspose.cells.drawing.texts`](..)
+* 类 [`NoneBulletValue`](/cells/python-net/zh/aspose.cells.drawing.texts/nonebulletvalue)

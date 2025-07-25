@@ -3,13 +3,13 @@ title: title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /tr/aspose.cells.drawing/groupshape/title/
 is_root: false
 ---
 ##  title mülk
 
-Geçerli şekil nesnesinin title'ini (başlık) belirtir.
+Geçerli şekil nesnesinin title (başlık) değerini belirtir.
 
 ###  Örnek
 

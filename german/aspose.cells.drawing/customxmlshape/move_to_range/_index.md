@@ -3,16 +3,17 @@ title: move_to_range Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 160
+weight: 170
 url: /de/aspose.cells.drawing/customxmlshape/move_to_range/
 is_root: false
 ---
-##  move_to_range {#int-int-int-int}
+##  move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
 Verschiebt die Form in einen angegebenen Bereich.
 
 
 
 ```python
+
 def move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```
@@ -21,9 +22,9 @@ def move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lowe
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| upper_left_column | int | Spaltenindex oben links.|
-| lower_right_row | int | Index der unteren rechten Zeile|
-| lower_right_column | int | Index der unteren rechten Spalte|
+| upper_left_column | int | Index der oberen linken Spalte.|
+| lower_right_row | int | Zeilenindex unten rechts|
+| lower_right_column | int | Spaltenindex unten rechts|
 
 ###  Beispiel
 

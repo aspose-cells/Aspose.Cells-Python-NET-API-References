@@ -1,6 +1,6 @@
 ---
 title: display_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_name недвижимость
 
-Получает имя серии, которое отображается на графике диаграммы.
+Получает название серии, отображаемое на графике диаграммы.
 ###  Определение:
 ```python
 @property

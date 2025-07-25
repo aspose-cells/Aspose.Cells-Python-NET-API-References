@@ -1,23 +1,23 @@
 ---
-title: classe CustomProperty
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: CustomProperty classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells.properties/customproperty/
 is_root: false
 ---
-##  classe CustomProperty
-Rappresenta le informazioni sull'identificatore.
+##  CustomProperty classe
+Rappresenta le informazioni identificative.
 
 
 
-Il tipo CustomProperty espone i membri seguenti:
+Il tipo CustomProperty espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/it/aspose.cells.properties/customproperty/__init__/#) | Costruisce una nuova istanza di CustomProperty|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.properties/customproperty/__init__/#) | Costruisce una nuova istanza di CustomProperty|
 
 
 ###  Proprietà
@@ -30,4 +30,4 @@ Il tipo CustomProperty espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](..)
+* modulo [`aspose.cells.properties`](..)

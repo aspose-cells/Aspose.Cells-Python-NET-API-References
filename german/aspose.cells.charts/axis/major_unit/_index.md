@@ -3,7 +3,7 @@ title: major_unit Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 310
 url: /de/aspose.cells.charts/axis/major_unit/
 is_root: false
 ---

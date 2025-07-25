@@ -1,15 +1,15 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 90
 url: /it/aspose.cells.pivot/pivotfieldcollection/type/
 is_root: false
 ---
 ##  type proprietà
 
-Ottiene i campi pivot type.
+Ottiene i PivotFields type.
 ###  Definizione:
 ```python
 @property

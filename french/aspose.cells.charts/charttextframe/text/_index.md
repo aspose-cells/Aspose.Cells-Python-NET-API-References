@@ -3,13 +3,13 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 360
 url: /fr/aspose.cells.charts/charttextframe/text/
 is_root: false
 ---
 ##  text propriété
 
-Obtient ou définit le text du titre d'une image.
+Obtient ou définit le text du titre d'un cadre.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartTextFrame](/cells/python-net/fr/aspose.cells.charts/charttextframe)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartTextFrame`](/cells/python-net/fr/aspose.cells.charts/charttextframe)

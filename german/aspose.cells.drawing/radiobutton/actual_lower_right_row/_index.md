@@ -3,13 +3,13 @@ title: actual_lower_right_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 290
 url: /de/aspose.cells.drawing/radiobutton/actual_lower_right_row/
 is_root: false
 ---
 ##  actual_lower_right_row Eigentum
 
-Holen Sie sich die tatsächliche untere Reihe.
+Holen Sie sich die tatsächliche unterste Reihe.
 
 ###  Beispiel
 

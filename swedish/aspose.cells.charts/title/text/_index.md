@@ -3,13 +3,13 @@ title: text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 380
 url: /sv/aspose.cells.charts/title/text/
 is_root: false
 ---
 ##  text fastighet
 
-Hämtar eller ställer in etiketten text för displayenhet.
+Hämtar eller ställer in text för displayenhetens etikett.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Title](/cells/python-net/sv/aspose.cells.charts/title)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Title`](/cells/python-net/sv/aspose.cells.charts/title)

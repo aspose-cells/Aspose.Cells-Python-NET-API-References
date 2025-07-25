@@ -1,6 +1,6 @@
 ---
 title: pic_format_option недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,6 +21,6 @@ def pic_format_option(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [PicFormatOption](/cells/python-net/ru/aspose.cells.drawing/picformatoption)
-* класс [TextureFill](/cells/python-net/ru/aspose.cells.drawing/texturefill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`PicFormatOption`](/cells/python-net/ru/aspose.cells.drawing/picformatoption)
+* класс [`TextureFill`](/cells/python-net/ru/aspose.cells.drawing/texturefill)

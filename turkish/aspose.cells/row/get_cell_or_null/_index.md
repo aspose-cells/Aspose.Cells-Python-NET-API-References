@@ -7,17 +7,18 @@ weight: 60
 url: /tr/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
-Belirli dizindeki hücreyi veya boş değeri alır.
+##  get_cell_or_null(self, column) {#int}
+Belirli indeksteki hücreyi veya null değerini alır.
 
 
 ###  İadeler
 
-Hücre varsa hücre nesnesini döndürür.
+Hücre mevcutsa hücre nesnesini döndürür.
 Veya hücre nesnesi yoksa null değerini döndürür.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -25,10 +26,10 @@ def get_cell_or_null(self, column):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| column | int | sütun dizini|
+| column | int | Sütun dizini|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](../../)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

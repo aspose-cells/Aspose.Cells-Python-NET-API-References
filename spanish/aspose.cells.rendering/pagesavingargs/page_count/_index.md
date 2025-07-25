@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_count propiedad
 
-Recuento total de páginas.
+Número total de páginas.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PageSavingArgs](/cells/python-net/es/aspose.cells.rendering/pagesavingargs)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PageSavingArgs`](/cells/python-net/es/aspose.cells.rendering/pagesavingargs)

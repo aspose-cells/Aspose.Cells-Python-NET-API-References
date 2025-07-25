@@ -7,8 +7,8 @@ weight: 50
 url: /sv/aspose.cells/fileformatutil/is_template_format/
 is_root: false
 ---
-##  is_template_format(extension) {#str}
-Returnerar sant om tillägget är .xlt, .xltX, .xltm,.ots.
+##  is_template_format(, anknytning){#str}
+Returnerar sant om filändelsen är .xlt, .xltX, .xltm, .ots.
 
 
 ###  Returnerar
@@ -17,7 +17,9 @@ Returnerar sant om tillägget är .xlt, .xltX, .xltm,.ots.
 
 
 ```python
-def is_template_format(self, extension):
+
+@staticmethod
+def is_template_format(extension):
     ...
 ```
 
@@ -29,5 +31,5 @@ def is_template_format(self, extension):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFormatUtil](/cells/python-net/sv/aspose.cells/fileformatutil)
+* modul [`aspose.cells`](../../)
+* klass [`FileFormatUtil`](/cells/python-net/sv/aspose.cells/fileformatutil)

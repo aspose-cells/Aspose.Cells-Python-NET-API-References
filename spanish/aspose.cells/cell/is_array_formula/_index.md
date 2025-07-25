@@ -3,13 +3,13 @@ title: is_array_formula propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 540
+weight: 560
 url: /es/aspose.cells/cell/is_array_formula/
 is_root: false
 ---
 ##  is_array_formula propiedad
 
-Indica si la fórmula de la celda es una fórmula matricial.
+Indica si la fórmula de celda es una fórmula de matriz.
 ###  Definición:
 ```python
 @property

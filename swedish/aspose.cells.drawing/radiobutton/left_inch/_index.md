@@ -3,13 +3,13 @@ title: left_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 740
 url: /sv/aspose.cells.drawing/radiobutton/left_inch/
 is_root: false
 ---
 ##  left_inch fastighet
 
-Representerar den horisontella förskjutningen av formen från dess vänstra kolumn, i enhet av tum.
+Representerar den horisontella förskjutningen av formen från dess vänstra kolumn, i enheten tum.
 
 ###  Exempel
 

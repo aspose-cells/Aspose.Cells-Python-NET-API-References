@@ -7,16 +7,17 @@ weight: 90
 url: /sv/aspose.cells/settableglobalizationsettings/get_empty_data_name/
 is_root: false
 ---
-##  get_empty_data_name {#}
+##  get_empty_data_name(self) {#}
 Hämtar namnet på etiketten "(tom)" i pivottabellen.
 
 
 ###  Returnerar
 
-Namnet på tomma data
+Namnet på tom data
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_empty_data_name(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

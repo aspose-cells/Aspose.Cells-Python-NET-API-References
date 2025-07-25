@@ -3,13 +3,13 @@ title: transition_entry عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 870
 url: /ar/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ##  transition_entry عقار
 
-يشير إلى ما إذا كان خيار إدخال صيغة النقل (توافق Lotus) ممكنًا.
+يشير إلى ما إذا كان خيار إدخال صيغة الانتقال (توافق Lotus) ممكّنًا.
 ###  تعريف:
 ```python
 @property

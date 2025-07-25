@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.ods/odscellfieldcollection/add/
 is_root: false
 ---
-##  add(row, column, field_type, format) {#int-int-OdsCellFieldType-str}
+##  add(self, row, column, field_type, format) {#int-int-aspose.cells.ods.OdsCellFieldType-str}
 添加一个字段。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, row, column, field_type, format):
     ...
 ```
@@ -26,11 +27,11 @@ def add(self, row, column, field_type, format):
 | :- | :- | :- |
 | row | int |行索引。|
 | column | int |列索引。|
-| field_type | [OdsCellFieldType](/cells/python-net/zh/aspose.cells.ods/odscellfieldtype) |字段的类型。|
+| field_type | [`OdsCellFieldType`](/cells/python-net/zh/aspose.cells.ods/odscellfieldtype) |字段的类型。|
 | format | str |字段的数字格式。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.ods](../../)
-* 类 [OdsCellFieldCollection](/cells/python-net/zh/aspose.cells.ods/odscellfieldcollection)
+* 模块[`aspose.cells.ods`](../../)
+* 类 [`OdsCellFieldCollection`](/cells/python-net/zh/aspose.cells.ods/odscellfieldcollection)

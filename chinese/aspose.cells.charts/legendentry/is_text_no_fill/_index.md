@@ -1,15 +1,15 @@
 ---
-title: is_text_no_fill 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_text_no_fill属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.charts/legendentry/is_text_no_fill/
 is_root: false
 ---
-## is_text_no_fill 属性
+## is_text_no_fill属性
 
-获取或设置不填充文本。
+获取或设置无填充文本。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_no_fill(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [LegendEntry](/cells/python-net/zh/aspose.cells.charts/legendentry)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`LegendEntry`](/cells/python-net/zh/aspose.cells.charts/legendentry)

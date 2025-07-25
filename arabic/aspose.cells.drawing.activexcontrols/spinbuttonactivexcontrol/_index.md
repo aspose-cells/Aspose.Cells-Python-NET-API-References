@@ -1,53 +1,51 @@
 ---
-title: SpinButtonActiveXControl الدرجة
+title: SpinButtonActiveXControl صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 90
 url: /ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/
 is_root: false
 ---
-##  SpinButtonActiveXControl الدرجة
+##  SpinButtonActiveXControl صف
 يمثل عنصر التحكم SpinButton.
 
 
 
-**ميراث:** [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**الميراث:** [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
 
 
 
-يكشف نوع SpinButtonActiveXControl الأعضاء التالية:
+يكشف النوع SpinButtonActiveXControl عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) | الحصول على كائن [ActiveXControlBase.workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
-| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/type) | يحصل على نوع عنصر تحكم ActiveX.|
-| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width) |الحصول على عرض عنصر التحكم وتعيينه بوحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/height) | الحصول على ارتفاع عنصر التحكم وتعيينه بوحدة النقاط.|
-| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_icon) | الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.|
-| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_pointer) | الحصول على نوع الرمز المعروض كمؤشر الماوس لعنصر التحكم وتعيينه.|
-| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/fore_ole_color) | الحصول على لون الأولي للمقدمة وتعيينه.|
-| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/back_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_visible) | يشير إلى ما إذا كان عنصر التحكم هذا مرئيًا أم لا.|
-| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/shadow) | يشير إلى ما إذا كان سيتم إظهار ظل أم لا.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_cell) | الحصول على الخلية المرتبطة وتعيينها.|
-| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/list_fill_range) | الحصول على نطاق تعبئة القائمة وتعيينه.|
-| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data) | الحصول على البيانات الثنائية لعنصر التحكم وتعيينها.|
-| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_enabled) | يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_locked) | يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.|
-| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_transparent) | يشير إلى ما إذا كان عنصر التحكم شفافًا أم لا.|
-| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_auto_size) | الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
-| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/ime_mode) |الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.|
-| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/font) | يمثل خط عنصر التحكم.|
-| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_align) | يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.|
-| [min](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/min) | الحصول على الحد الأدنى للقيمة المقبولة وتعيينها.|
-| [max](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/max) | الحصول على الحد الأقصى للقيمة المقبولة وتعيينها.|
-| [position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/position) | الحصول على القيمة وتعيينها.|
-| [small_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/small_change) | الحصول على وتعيين المقدار الذي تتغير به خاصية الموضع|
-| [orientation](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/orientation) | الحصول على وتعيين ما إذا كان SpinButton أو ScrollBar موجهًا رأسيًا أو أفقيًا.|
+| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) |  |
+| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/type) | يحصل على نوع عنصر التحكم ActiveX.|
+| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_align) |  |
+| [min](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/min) | يحصل على الحد الأدنى للقيمة المقبولة ويحددها.|
+| [max](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/max) | يحصل على الحد الأقصى للقيمة المقبولة ويحددها.|
+| [position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/position) | يحصل على القيمة ويحددها.|
+| [small_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/small_change) | يحصل على المبلغ الذي تتغير به خاصية الموضع ويحدده|
+| [orientation](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/orientation) | يحصل ويحدد ما إذا كان SpinButton أو ScrollBar موجهًا عموديًا أو أفقيًا.|
 
 
 
@@ -70,7 +68,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* فئة [SpinButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)
+* فئة [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

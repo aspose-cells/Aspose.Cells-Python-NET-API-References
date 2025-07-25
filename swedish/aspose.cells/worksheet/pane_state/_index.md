@@ -3,13 +3,13 @@ title: pane_state fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 720
 url: /sv/aspose.cells/worksheet/pane_state/
 is_root: false
 ---
 ##  pane_state fastighet
 
-Indikerar om rutan har horisontella eller vertikala delar, och om dessa delar är frusna.
+Anger om rutan har horisontella eller vertikala delningar, och om dessa delningar är frysta.
 ###  Definition:
 ```python
 @property

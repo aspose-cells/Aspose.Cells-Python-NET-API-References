@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/is_enabled/
 is_root: false
 ---
 ##  is_enabled fastighet
-
-Indikerar om kontrollen kan ta emot fokus och svara på användargenererade händelser.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_enabled(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

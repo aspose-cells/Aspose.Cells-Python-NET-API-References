@@ -7,16 +7,17 @@ weight: 60
 url: /ar/aspose.cells/scenariocollection/last_index_of/
 is_root: false
 ---
-##  last_index_of(item) {#Scenario}
-البحث عن الكائن المحدد وإرجاع الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.
+##  last_index_of(self, item) {#aspose.cells.Scenario}
+يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.
 
 
 ###  عائدات
 
-الفهرس الصفري لآخر تواجد للقيمة داخل قائمة الصفيف بأكملها ، إذا تم العثور عليه ؛ خلاف ذلك ، -1.
+الفهرس المبني على الصفر لآخر ظهور للقيمة ضمن قائمة المصفوفة بأكملها، إذا تم العثور عليها؛ وإلا، -1.
 
 
 ```python
+
 def last_index_of(self, item):
     ...
 ```
@@ -24,19 +25,20 @@ def last_index_of(self, item):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [Scenario](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة الصفيف. يمكن أن تكون القيمة فارغة.|
+| item | [`Scenario`](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة المصفوفة. يمكن أن تكون القيمة فارغة.|
 
 
-##  last_index_of(item, index) {#Scenario-int}
-يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى الفهرس المحدد.
+##  last_index_of(self, item, index) {#aspose.cells.Scenario-int}
+يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.
 
 
 ###  عائدات
 
-الفهرس الصفري لآخر تواجد للقيمة داخل نطاق العناصر في قائمة الصفيف الذي يمتد من العنصر الأول إلى startIndex ، إذا تم العثور عليه ؛ خلاف ذلك ، -1.
+الفهرس الذي يبدأ من الصفر لآخر ظهور للقيمة ضمن نطاق العناصر في قائمة المصفوفة والذي يمتد من العنصر الأول إلى startIndex، إذا تم العثور عليه؛ وإلا، -1.
 
 
 ```python
+
 def last_index_of(self, item, index):
     ...
 ```
@@ -44,20 +46,21 @@ def last_index_of(self, item, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [Scenario](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة الصفيف. يمكن أن تكون القيمة فارغة.|
-| index | int | فهرس البداية الصفري للبحث المتخلف.|
+| item | [`Scenario`](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة المصفوفة. يمكن أن تكون القيمة فارغة.|
+| index | int | مؤشر البداية المبني على الصفر للبحث العكسي.|
 
 
-##  last_index_of(item, index, count) {#Scenario-int-int}
-يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة الصفيف التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.
+##  last_index_of(self, item, index, count) {#aspose.cells.Scenario-int-int}
+يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.
 
 
 ###  عائدات
 
-الفهرس الصفري لآخر تواجد للقيمة ضمن نطاق العناصر في مجموعات النظام. قائمة الصفيف التي تحتوي على عدد العناصر وتنتهي في startIndex ، إذا وجدت ؛ خلاف ذلك ، -1.
+مؤشر الصفر لآخر قيمة ضمن نطاق عناصر System.Collections. قائمة مصفوفات تحتوي على عدد العناصر وتنتهي عند startIndex، إن وُجدت؛ وإلا، -1.
 
 
 ```python
+
 def last_index_of(self, item, index, count):
     ...
 ```
@@ -65,12 +68,12 @@ def last_index_of(self, item, index, count):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [Scenario](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة الصفيف. يمكن أن تكون القيمة فارغة.|
-| index | int | فهرس البداية الصفري للبحث المتخلف.|
-| count | int | عدد العناصر في القسم للبحث.|
+| item | [`Scenario`](/cells/python-net/ar/aspose.cells/scenario) | الكائن المطلوب تحديد موقعه في قائمة المصفوفة. يمكن أن تكون القيمة فارغة.|
+| index | int | مؤشر البداية المبني على الصفر للبحث العكسي.|
+| count | int | عدد العناصر في القسم المراد البحث فيه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioCollection](/cells/python-net/ar/aspose.cells/scenariocollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioCollection`](/cells/python-net/ar/aspose.cells/scenariocollection)

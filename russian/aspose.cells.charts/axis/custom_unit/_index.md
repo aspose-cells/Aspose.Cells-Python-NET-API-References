@@ -1,15 +1,22 @@
 ---
 title: custom_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells.charts/axis/custom_unit/
 is_root: false
 ---
 ##  custom_unit недвижимость
 
 Задает пользовательское значение для единицы отображения.
+
+###  Примечания
+
+ ПРИМЕЧАНИЕ: Это свойство устарело. Вместо этого
+используйте свойство Axis.CustomDisplayUnit.
+ Эта недвижимость будет снесена через 12 месяцев с февраля 2025 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

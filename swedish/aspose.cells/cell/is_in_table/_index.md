@@ -3,19 +3,19 @@ title: is_in_table fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 630
 url: /sv/aspose.cells/cell/is_in_table/
 is_root: false
 ---
 ##  is_in_table fastighet
 
-Anger om denna cell är en del av tabellformeln.
+Anger om den här cellen är en del av tabellformeln.
 
 ###  Anmärkningar
 
-OBS: Denna klass är nu föråldrad. Istället,
-använd Cell.IsTableFormula för att kontrollera om cellformeln är en del av tabellformeln.
-Den här egenskapen kommer att tas bort 12 månader senare sedan maj 2018.
+ OBS: Den här klassen är nu föråldrad. Istället,
+Använd Cell.IsTableFormula för att kontrollera om cellformeln är en del av tabellformeln.
+Den här egenskapen kommer att tas bort 12 månader senare från och med maj 2018.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

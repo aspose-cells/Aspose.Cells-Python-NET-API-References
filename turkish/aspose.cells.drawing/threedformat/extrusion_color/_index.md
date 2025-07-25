@@ -21,6 +21,6 @@ def extrusion_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

@@ -3,13 +3,13 @@ title: show_header_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 200
+weight: 210
 url: /de/aspose.cells.tables/listobject/show_header_row/
 is_root: false
 ---
 ##  show_header_row Eigentum
 
-Ruft ab und legt fest, ob dieses ListObject eine Kopfzeile anzeigt.
+Ruft ab und legt fest, ob dieses ListObject die Kopfzeile anzeigt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_header_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObject](/cells/python-net/de/aspose.cells.tables/listobject)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObject`](/cells/python-net/de/aspose.cells.tables/listobject)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency propriété
 
-Obtient et définit transparency comme une valeur comprise entre 0,0 (opaque) et 1,0 (transparent).
+Obtient et définit transparency comme une valeur de 0,0 (opaque) à 1,0 (clair).
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
+* module [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)

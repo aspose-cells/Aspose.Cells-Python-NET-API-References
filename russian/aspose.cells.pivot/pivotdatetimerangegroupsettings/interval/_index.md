@@ -1,6 +1,6 @@
 ---
 title: interval недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval недвижимость
 
-Получает внутреннюю информацию о группе.
+Получает внутреннюю часть группы.
 ###  Определение:
 ```python
 @property

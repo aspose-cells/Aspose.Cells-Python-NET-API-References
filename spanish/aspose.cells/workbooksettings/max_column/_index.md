@@ -3,13 +3,13 @@ title: max_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 300
+weight: 330
 url: /es/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column propiedad
 
-Obtiene el índice máximo de columna, de base cero.
+Obtiene el índice de columna máximo, basado en cero.
 
 ###  Observaciones
 

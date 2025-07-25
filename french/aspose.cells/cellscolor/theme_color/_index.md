@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color propriété
 
-Obtient la couleur du thème. S'applique uniquement au type de couleur de thème.
+Obtient la couleur du thème. S'applique uniquement au type de couleur du thème.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [ThemeColor](/cells/python-net/fr/aspose.cells/themecolor)
+* module [`aspose.cells`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`ThemeColor`](/cells/python-net/fr/aspose.cells/themecolor)

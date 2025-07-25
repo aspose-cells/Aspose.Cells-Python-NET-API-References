@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_percent propriété
 
-Renvoie ou définit la hauteur d'un graphique 3D sous forme de pourcentage de la largeur du graphique (entre 5 et 500 pour cent).
+Renvoie ou définit la hauteur d'un graphique 3D en pourcentage de la largeur du graphique (entre 5 et 500 pour cent).
 ###  Définition:
 ```python
 @property

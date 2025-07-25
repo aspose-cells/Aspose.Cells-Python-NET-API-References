@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
-##  calculate_range() {#}
-Berechnet die Reichweite von Pivottables.
+##  calculate_range(self) {#}
+Berechnet den Bereich der Pivottabelle.
 
 
 
 ```python
+
 def calculate_range(self):
     ...
 ```
@@ -20,10 +21,10 @@ def calculate_range(self):
 
 ###  Bemerkungen
 
-Wenn diese Methode nicht aufgerufen wird, wird möglicherweise der schwenkbare Bereich nicht korrigiert.
+Wenn diese Methode nicht aufgerufen wird, wird der PivotTable-Bereich möglicherweise nicht korrigiert.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

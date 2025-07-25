@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_word_wrapped fastighet
 
-Indikerar om innehållet i kontrollen automatiskt lindas i slutet av en rad.
+Anger om innehållet i kontrollen automatiskt radbryts i slutet av en rad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [LabelActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`LabelActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

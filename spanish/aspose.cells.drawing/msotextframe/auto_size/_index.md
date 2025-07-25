@@ -21,5 +21,5 @@ def auto_size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoTextFrame](/cells/python-net/es/aspose.cells.drawing/msotextframe)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoTextFrame`](/cells/python-net/es/aspose.cells.drawing/msotextframe)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical Eigentum
 
-True, wenn eine Zeile in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt. Falsch, wenn eine Spalte in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt.
+„True“, wenn eine Zeile in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt. „False“, wenn eine Spalte in der Arbeitsmappendatei eine Zeile in der Datentabelle darstellt.
 ###  Definition:
 ```python
 @property

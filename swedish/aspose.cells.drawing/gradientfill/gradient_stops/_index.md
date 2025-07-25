@@ -18,6 +18,6 @@ def gradient_stops(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GradientFill](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
-* klass [GradientStopCollection](/cells/python-net/sv/aspose.cells.drawing/gradientstopcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GradientFill`](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
+* klass [`GradientStopCollection`](/cells/python-net/sv/aspose.cells.drawing/gradientstopcollection)

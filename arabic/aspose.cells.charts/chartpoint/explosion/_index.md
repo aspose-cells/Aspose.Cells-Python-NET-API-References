@@ -1,15 +1,15 @@
 ---
-title: explosion الملكية
+title: explosion عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.charts/chartpoint/explosion/
 is_root: false
 ---
-##  explosion الملكية
+##  explosion عقار
 
-يتم التعبير عن مسافة الشريحة المفتوحة من مركز المخطط الدائري كنسبة مئوية من قطر الدائرة.
+يتم التعبير عن مسافة شريحة الفطيرة المفتوحة من مركز الرسم البياني الفطيرة كنسبة مئوية من قطر الفطيرة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

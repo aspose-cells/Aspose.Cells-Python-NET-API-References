@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  minus_value propiedad
 
-Representa la cantidad de error negativa cuando el tipo de barra de error es Personalizado.
+Representa una cantidad de error negativa cuando el tipo de barra de error es Personalizado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def minus_value(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)

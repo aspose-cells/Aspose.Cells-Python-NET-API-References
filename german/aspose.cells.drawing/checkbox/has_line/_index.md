@@ -3,13 +3,13 @@ title: has_line Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 430
 url: /de/aspose.cells.drawing/checkbox/has_line/
 is_root: false
 ---
 ##  has_line Eigentum
 
-Ruft ab und legt fest, dass der Linienrand der Form sichtbar ist.
+Ruft ab und legt fest, ob die Linienbegrenzung der Form sichtbar ist.
 
 ###  Beispiel
 

@@ -20,35 +20,36 @@ Der Typ Slicer macht die folgenden Member verfügbar:
 | [title](/cells/python-net/de/aspose.cells.slicers/slicer/title) | Gibt den Titel des aktuellen Slicer-Objekts an.|
 | [alternative_text](/cells/python-net/de/aspose.cells.slicers/slicer/alternative_text) | Gibt die beschreibende (alternative) Textzeichenfolge des Slicer-Objekts zurück oder legt sie fest.|
 | [is_printable](/cells/python-net/de/aspose.cells.slicers/slicer/is_printable) | Gibt an, ob das Slicer-Objekt druckbar ist.|
-| [is_locked](/cells/python-net/de/aspose.cells.slicers/slicer/is_locked) | Gibt an, ob die Slicer-Form gesperrt ist.|
-| [placement](/cells/python-net/de/aspose.cells.slicers/slicer/placement) | Stellt die Art und Weise dar, wie das Zeichnungsobjekt an die darunter liegenden Zellen angehängt ist.<br/> Die Eigenschaft steuert die Platzierung eines Objekts auf einem Arbeitsblatt.|
-| [locked_aspect_ratio](/cells/python-net/de/aspose.cells.slicers/slicer/locked_aspect_ratio) | Gibt an, ob das Seitenverhältnis gesperrt wird.|
-| [locked_position](/cells/python-net/de/aspose.cells.slicers/slicer/locked_position) | Gibt an, ob der angegebene Slicer mithilfe der Benutzeroberfläche verschoben oder in der Größe geändert werden kann.|
-| [slicer_cache](/cells/python-net/de/aspose.cells.slicers/slicer/slicer_cache) |Gibt das dem Slicer zugeordnete SlicerCache-Objekt zurück. Schreibgeschützt.|
-| [parent](/cells/python-net/de/aspose.cells.slicers/slicer/parent) | Gibt das Worksheet-Objekt zurück, das das Blatt darstellt, das den Slicer enthält. Schreibgeschützt.|
+| [is_locked](/cells/python-net/de/aspose.cells.slicers/slicer/is_locked) | Gibt an, ob die Slicerform gesperrt ist.|
+| [placement](/cells/python-net/de/aspose.cells.slicers/slicer/placement) | Stellt die Art und Weise dar, wie das Zeichenobjekt mit den darunterliegenden Zellen verbunden ist.<br/> Die Eigenschaft steuert die Platzierung eines Objekts auf einem Arbeitsblatt.|
+| [locked_aspect_ratio](/cells/python-net/de/aspose.cells.slicers/slicer/locked_aspect_ratio) | Gibt an, ob das Seitenverhältnis gesperrt werden soll.|
+| [locked_position](/cells/python-net/de/aspose.cells.slicers/slicer/locked_position) |Gibt an, ob der angegebene Slicer mithilfe der Benutzeroberfläche verschoben oder in der Größe geändert werden kann.|
+| [shape](/cells/python-net/de/aspose.cells.slicers/slicer/shape) | Gibt das Shape-Objekt zurück, das dem angegebenen Slicer zugeordnet ist. Schreibgeschützt.|
+| [slicer_cache](/cells/python-net/de/aspose.cells.slicers/slicer/slicer_cache) | Gibt das mit dem Slicer verknüpfte SlicerCache-Objekt zurück. Schreibgeschützt.|
+| [parent](/cells/python-net/de/aspose.cells.slicers/slicer/parent) | Gibt das Objekt [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet) zurück, das diesen Slicer enthält. Schreibgeschützt.|
 | [style_type](/cells/python-net/de/aspose.cells.slicers/slicer/style_type) | Geben Sie den Typ des integrierten Slicer-Stils an<br/> der Standardtyp ist SlicerStyleLight1|
-| [name](/cells/python-net/de/aspose.cells.slicers/slicer/name) | Gibt den Namen des angegebenen Slicers zurück oder legt ihn fest|
-| [caption](/cells/python-net/de/aspose.cells.slicers/slicer/caption) | Gibt die Beschriftung des angegebenen Datenschnitts zurück oder legt sie fest.|
-| [caption_visible](/cells/python-net/de/aspose.cells.slicers/slicer/caption_visible) | Gibt zurück oder legt fest, ob die Kopfzeile, die die Slicer-Beschriftung anzeigt, sichtbar ist<br/> der Standardwert ist wahr|
+| [name](/cells/python-net/de/aspose.cells.slicers/slicer/name) | Gibt den Namen des angegebenen Slicers zurück oder setzt ihn|
+| [caption](/cells/python-net/de/aspose.cells.slicers/slicer/caption) | Gibt die Beschriftung des angegebenen Slicers zurück oder legt sie fest.|
+| [caption_visible](/cells/python-net/de/aspose.cells.slicers/slicer/caption_visible) | Gibt zurück oder legt fest, ob die Kopfzeile, die die Slicer-Beschriftung anzeigt, sichtbar ist<br/> der Standardwert ist true|
 | [number_of_columns](/cells/python-net/de/aspose.cells.slicers/slicer/number_of_columns) | Gibt die Anzahl der Spalten im angegebenen Slicer zurück oder legt sie fest.|
-| [left_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/left_pixel) | Gibt den horizontalen Versatz der Slicer-Form von der linken Spalte in Pixel zurück oder legt ihn fest.|
-| [top_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/top_pixel) | Gibt den vertikalen Versatz der Slicer-Form von der obersten Zeile in Pixel zurück oder legt ihn fest.|
-| [width](/cells/python-net/de/aspose.cells.slicers/slicer/width) | Gibt die Breite des angegebenen Slicers in Punkt zurück oder legt sie fest.|
-| [width_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/width_pixel) | Gibt die Breite des angegebenen Slicers in Pixel zurück oder legt sie fest.|
-| [height](/cells/python-net/de/aspose.cells.slicers/slicer/height) | Gibt die Höhe des angegebenen Slicers in Punkt zurück oder legt sie fest.|
-| [height_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/height_pixel) |Gibt die Höhe des angegebenen Datenschnitts in Pixel zurück oder legt sie fest.|
-| [column_width_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/column_width_pixel) | Ruft die Breite in Pixeleinheiten für jede Spalte des Datenschnitts ab oder legt diese fest.|
-| [column_width](/cells/python-net/de/aspose.cells.slicers/slicer/column_width) | Gibt die Breite jeder Spalte im Slicer in Punkt zurück oder legt sie fest.|
+| [left_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/left_pixel) | Gibt den horizontalen Versatz der Slicer-Form von ihrer linken Spalte in Pixeln zurück oder legt ihn fest.|
+| [top_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/top_pixel) | Gibt den vertikalen Versatz der Slicer-Form von ihrer obersten Zeile in Pixeln zurück oder legt ihn fest.|
+| [width](/cells/python-net/de/aspose.cells.slicers/slicer/width) | Gibt die Breite des angegebenen Slicers in Punkten zurück oder legt sie fest.|
+| [width_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/width_pixel) |Gibt die Breite des angegebenen Slicers in Pixeln zurück oder legt sie fest.|
+| [height](/cells/python-net/de/aspose.cells.slicers/slicer/height) | Gibt die Höhe des angegebenen Slicers in Punkten zurück oder legt sie fest.|
+| [height_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/height_pixel) | Gibt die Höhe des angegebenen Slicers in Pixeln zurück oder legt sie fest.|
+| [column_width_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/column_width_pixel) | Ruft die Breite jeder Spalte im Slicer in Pixeln ab oder legt sie fest.|
+| [column_width](/cells/python-net/de/aspose.cells.slicers/slicer/column_width) | Gibt die Breite jeder Spalte im Slicer in Punkten zurück oder legt sie fest.|
 | [row_height_pixel](/cells/python-net/de/aspose.cells.slicers/slicer/row_height_pixel) | Gibt die Höhe jeder Zeile im angegebenen Slicer in Pixel zurück oder legt sie fest.|
-| [row_height](/cells/python-net/de/aspose.cells.slicers/slicer/row_height) | Gibt die Höhe jeder Zeile im angegebenen Slicer in Punkt zurück oder legt sie fest.|
+| [row_height](/cells/python-net/de/aspose.cells.slicers/slicer/row_height) | Gibt die Höhe jeder Zeile im angegebenen Slicer in Punkten zurück oder legt sie fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_pivot_connection(pivot)](/cells/python-net/de/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | PivotTable-Verbindung hinzugefügt.|
-| [remove_pivot_connection(pivot)](/cells/python-net/de/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | Entfernt die PivotTable-Verbindung.|
-| [refresh()](/cells/python-net/de/aspose.cells.slicers/slicer/refresh/#) | Aktualisieren des Slicers. In der Zwischenzeit Aktualisieren und Berechnen relativer PivotTables.|
+| [`add_pivot_connection(self, pivot)`](/cells/python-net/de/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | Fügt eine PivotTable-Verbindung hinzu.|
+| [`remove_pivot_connection(self, pivot)`](/cells/python-net/de/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | Entfernt die PivotTable-Verbindung.|
+| [`refresh(self)`](/cells/python-net/de/aspose.cells.slicers/slicer/refresh/#) | Aktualisieren des Slicers. In der Zwischenzeit werden relative PivotTables aktualisiert und berechnet.|
 
 
 
@@ -111,4 +112,5 @@ book.save("out.xlsx")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](..)
+* Modul [`aspose.cells.slicers`](..)
+* Klasse [`Worksheet`](/cells/python-net/de/aspose.cells/worksheet)

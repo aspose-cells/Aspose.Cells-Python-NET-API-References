@@ -1,5 +1,5 @@
 ---
-title: capacity الملكية
+title: capacity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells/dxfcollection/capacity/
 is_root: false
 ---
-##  capacity الملكية
+##  capacity عقار
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DxfCollection](/cells/python-net/ar/aspose.cells/dxfcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DxfCollection`](/cells/python-net/ar/aspose.cells/dxfcollection)

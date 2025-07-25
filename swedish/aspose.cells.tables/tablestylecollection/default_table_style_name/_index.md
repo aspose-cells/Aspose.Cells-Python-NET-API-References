@@ -3,13 +3,13 @@ title: default_table_style_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 130
 url: /sv/aspose.cells.tables/tablestylecollection/default_table_style_name/
 is_root: false
 ---
 ##  default_table_style_name fastighet
 
-Hämtar och ställer in standardformatnamnet för tabellen.
+Hämtar och anger standardstilnamnet för tabellen.
 ###  Definition:
 ```python
 @property

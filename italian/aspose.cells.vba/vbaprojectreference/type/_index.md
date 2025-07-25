@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene il numero type di questo riferimento.
+Ottiene il type di questo riferimento.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)
-* classe [VbaProjectReferenceType](/cells/python-net/it/aspose.cells.vba/vbaprojectreferencetype)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)
+* classe [`VbaProjectReferenceType`](/cells/python-net/it/aspose.cells.vba/vbaprojectreferencetype)

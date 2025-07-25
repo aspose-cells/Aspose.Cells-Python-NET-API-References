@@ -3,7 +3,7 @@ title: paths Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 830
+weight: 840
 url: /de/aspose.cells.drawing/commentshape/paths/
 is_root: false
 ---

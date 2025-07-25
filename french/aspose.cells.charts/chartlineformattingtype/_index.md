@@ -18,8 +18,8 @@ Le type ChartLineFormattingType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | AUTOMATIC | Représente le type de formatage automatique.|
-| SOLID | Représente le type de mise en forme solide.|
-| NONE |Ne représente aucun type de formatage.|
+| SOLID | Représente un type de formatage solide.|
+| NONE | Représente un type sans formatage.|
 | GRADIENT | Pente|
 
 

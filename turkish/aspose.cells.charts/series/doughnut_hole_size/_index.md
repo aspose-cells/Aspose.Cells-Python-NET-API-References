@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  doughnut_hole_size mülk
 
- Halka grafik grubundaki deliğin boyutunu döndürür veya ayarlar.
-Delik boyutu, grafik boyutunun yüzde 10 ila 90'ı arasındaki bir yüzdesi olarak ifade edilir.
+ Bir halka grafik grubundaki deliğin boyutunu döndürür veya ayarlar.
+Delik boyutu, grafik boyutunun yüzde 10 ile 90 arasında bir yüzdesi olarak ifade edilir.
 ###  Tanım:
 ```python
 @property

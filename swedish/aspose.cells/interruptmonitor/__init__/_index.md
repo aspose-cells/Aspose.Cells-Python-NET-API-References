@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/interruptmonitor/__init__/
 is_root: false
 ---
-##  InterruptMonitor() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av InterruptMonitor
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [InterruptMonitor](/cells/python-net/sv/aspose.cells/interruptmonitor)
+* modul [`aspose.cells`](../../)
+* klass [`InterruptMonitor`](/cells/python-net/sv/aspose.cells/interruptmonitor)

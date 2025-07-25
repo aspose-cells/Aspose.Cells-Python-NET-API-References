@@ -1,6 +1,6 @@
 ---
 title: look_in_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  look_in_type proprietà
 
-Cerca nel tipo.
+Guarda nel tipo.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def look_in_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/it/aspose.cells/findoptions)
-* classe [LookInType](/cells/python-net/it/aspose.cells/lookintype)
+* modulo [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/it/aspose.cells/findoptions)
+* classe [`LookInType`](/cells/python-net/it/aspose.cells/lookintype)

@@ -3,12 +3,12 @@ title: get_locked_property yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells.drawing/smartartshape/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
-Lock özelliğinin değerini alır.
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
+Kilitli mülkün değerini alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Kilitli özelliğin değerini döndürür.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/tr/aspose.cells.drawing/shapelocktype) | Şekil kilitli özelliğinin türü.|
+| type | [`ShapeLockType`](/cells/python-net/tr/aspose.cells.drawing/shapelocktype) | Şekil kilitli özelliğinin türü.|
 
 ###  Örnek
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SmartArtShape](/cells/python-net/tr/aspose.cells.drawing/smartartshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SmartArtShape`](/cells/python-net/tr/aspose.cells.drawing/smartartshape)

@@ -3,7 +3,7 @@ title: major_unit_scale mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 320
 url: /tr/aspose.cells.charts/axis/major_unit_scale/
 is_root: false
 ---

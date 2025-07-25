@@ -1,5 +1,5 @@
 ---
-title: width الملكية
+title: width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.charts/ticklabelitem/width/
 is_root: false
 ---
-##  width الملكية
+##  width عقار
 
-عرض بند Ticklabel بالنسبة للرسم البياني width.
+عرض عنصر Ticklabel بنسبة الرسم البياني width.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def width(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TickLabelItem](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TickLabelItem`](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)

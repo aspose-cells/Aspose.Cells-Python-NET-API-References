@@ -3,20 +3,21 @@ title: is_selected yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells.drawing/listbox/is_selected/
 is_root: false
 ---
-##  is_selected {#int}
-Öğenin seçilip seçilmediğini gösterir.
+##  is_selected(self, item_index) {#int}
+Öğenin seçili olup olmadığını gösterir.
 
 
 ###  İadeler
 
-öğenin seçilip seçilmediği.
+öğenin seçili olup olmadığı.
 
 
 ```python
+
 def is_selected(self, item_index):
     ...
 ```

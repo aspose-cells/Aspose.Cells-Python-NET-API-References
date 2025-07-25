@@ -1,6 +1,6 @@
 ---
 title: MapChartProjectionType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 560
@@ -8,14 +8,14 @@ url: /zh/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
 ## MapChartProjectionType枚举
-表示地图图表的投影类型。
+表示地图的投影类型。
 
 
 
-MapChartProjectionType 类型公开了以下成员：
+MapChartProjectionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | AUTOMATIC |自动的|
 | MERCATOR |墨卡托|
@@ -25,4 +25,4 @@ MapChartProjectionType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

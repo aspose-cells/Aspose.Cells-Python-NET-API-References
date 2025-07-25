@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_using_pivot_table fastighet
 
-Representerar om användaren tillåts manipulera pivottabeller på ett skyddat kalkylblad.
+Representerar om användaren har tillstånd att manipulera pivottabeller i ett skyddat kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

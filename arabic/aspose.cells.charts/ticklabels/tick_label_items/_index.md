@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items عقار
 
-يحصل على معلومات المحور الخاصة بكل عنصر من عناصر علامة التجزئة.
+يحصل على علامات عرض المحور.
 
 ###  ملاحظات
 
-متاح فقط بعد الاتصال بطريقة [`Chart.calculate`](/cells/python-net/ar/aspose.cells.charts/chart/calculate).
+متاح فقط بعد الاتصال على الرقم [`Chart.calculate`](/cells/python-net/ar/aspose.cells.charts/chart/calculate).
 ###  تعريف:
 ```python
 @property

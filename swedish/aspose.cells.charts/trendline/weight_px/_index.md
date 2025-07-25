@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_px fastighet
 
-Hämtar eller ställer in linjens vikt i pixelenhet.
+Hämtar eller anger linjens vikt i pixlar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

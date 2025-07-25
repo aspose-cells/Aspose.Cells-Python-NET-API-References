@@ -1,15 +1,15 @@
 ---
-title: comment الملكية
+title: comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells.tables/listobject/comment/
 is_root: false
 ---
-##  comment الملكية
+##  comment عقار
 
-الحصول على comment الخاص بالجدول وتعيينه.
+يحصل على comment من الجدول ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def comment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

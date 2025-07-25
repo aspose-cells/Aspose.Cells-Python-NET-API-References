@@ -3,7 +3,7 @@ title: ThemeColorType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2670
+weight: 2640
 url: /zh/aspose.cells/themecolortype/
 is_root: false
 ---
@@ -14,8 +14,8 @@ is_root: false
 
 ThemeColorType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | BACKGROUND1 |  |
 | TEXT1 |  |
@@ -29,7 +29,7 @@ ThemeColorType 类型公开以下成员：
 | ACCENT6 |  |
 | HYPERLINK |  |
 | FOLLOWED_HYPERLINK |  |
-| STYLE_COLOR |内用。<br/>主题定义中使用的颜色，表示使用样式的颜色。|
+| STYLE_COLOR |內部使用。<br/>主题定义中使用的颜色，表示使用样式的颜色。|
 
 
 

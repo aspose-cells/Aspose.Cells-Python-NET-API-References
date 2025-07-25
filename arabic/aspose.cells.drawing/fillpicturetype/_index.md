@@ -1,27 +1,27 @@
 ---
-title: العد FillPictureType
+title: FillPictureType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 810
 url: /ar/aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---
-##  العد FillPictureType
+##  FillPictureType التعداد
 يمثل نوع تعبئة الصورة.
 
 
 
-يكشف نوع FillPictureType الأعضاء التالية:
+يكشف النوع FillPictureType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| STRETCH | تمتد|
+| STRETCH | تمدد|
 | STACK | كومة|
-| STACK_AND_SCALE | StackAndScale|
+| STACK_AND_SCALE | مكدس ومقياس|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  index fastighet
 
-Hämtar och ställer in ikonens index i ikonuppsättningen.
+Hämtar och anger ikonens index i ikonuppsättningen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon)

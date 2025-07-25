@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data fastighet
 
-Hämtar och ställer in kontrollens binära data.
+Hämtar och ställer in binärkoden data för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [UnknownControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`UnknownControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/unknowncontrol)

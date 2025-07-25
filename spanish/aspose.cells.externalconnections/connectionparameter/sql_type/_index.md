@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sql_type propiedad
 
-Tipo de datos SQL del parámetro. Sólo válido para fuentes ODBC.
+Tipo de dato SQL del parámetro. Válido solo para orígenes ODBC.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def sql_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.externalconnections](../../)
-* clase [ConnectionParameter](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)
-* clase [SqlDataType](/cells/python-net/es/aspose.cells.externalconnections/sqldatatype)
+* módulo [`aspose.cells.externalconnections`](../../)
+* clase [`ConnectionParameter`](/cells/python-net/es/aspose.cells.externalconnections/connectionparameter)
+* clase [`SqlDataType`](/cells/python-net/es/aspose.cells.externalconnections/sqldatatype)

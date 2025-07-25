@@ -3,7 +3,7 @@ title: left_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 720
+weight: 730
 url: /es/aspose.cells.drawing/groupshape/left_inch/
 is_root: false
 ---

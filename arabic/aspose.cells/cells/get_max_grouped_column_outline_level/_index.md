@@ -3,20 +3,21 @@ title: طريقة get_max_grouped_column_outline_level
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 450
 url: /ar/aspose.cells/cells/get_max_grouped_column_outline_level/
 is_root: false
 ---
-##  get_max_grouped_column_outline_level {#}
-الحصول على الحد الأقصى لمستوى المخطط التفصيلي للأعمدة المجمعة (يعتمد على الصفر).
+##  get_max_grouped_column_outline_level(self) {#}
+يحصل على الحد الأقصى لمستوى مخطط العمود المجمع (على أساس الصفر).
 
 
 ###  عائدات
 
-الحد الأقصى لمستوى مخطط العمود المجمع (يعتمد على الصفر)
+الحد الأقصى لمستوى مخطط العمود المجمع (على أساس الصفر)
 
 
 ```python
+
 def get_max_grouped_column_outline_level(self):
     ...
 ```

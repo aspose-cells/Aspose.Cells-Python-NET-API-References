@@ -3,13 +3,13 @@ title: right_margin_pt propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt/
 is_root: false
 ---
 ##  right_margin_pt propriété
 
-Renvoie la marge de droite en unité de Points
+Renvoie la marge de droite en unités de points
 
 ###  Exemple
 
@@ -29,5 +29,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [ShapeTextAlignment](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`ShapeTextAlignment`](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)

@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ProtectedRange](/cells/python-net/it/aspose.cells/protectedrange)
+* modulo [`aspose.cells`](../../)
+* classe [`ProtectedRange`](/cells/python-net/it/aspose.cells/protectedrange)

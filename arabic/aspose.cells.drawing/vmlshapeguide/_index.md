@@ -1,28 +1,28 @@
 ---
-title: VmlShapeGuide الدرجة
+title: VmlShapeGuide صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 730
 url: /ar/aspose.cells.drawing/vmlshapeguide/
 is_root: false
 ---
-##  VmlShapeGuide الدرجة
-فقط من أجل vml
- تغليف دليل الشكل يحدد وجود الشكل
-الدليل الذي سيتم استخدامه للتحكم في هندسة الشكل المحدد
+##  VmlShapeGuide صف
+فقط لـ vml
+ يغلف دليل الشكل ويحدد وجود الشكل
+دليل سيتم استخدامه للتحكم في هندسة الشكل المحدد
 
 
 
-**ميراث:** [VmlShapeGuide](/cells/python-net/aspose.cells.drawing/vmlshapeguide) → 
-[BaseShapeGuide](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
+**الميراث:** [`VmlShapeGuide`](/cells/python-net/aspose.cells.drawing/vmlshapeguide) → 
+[`BaseShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
 
 
 
-يكشف نوع VmlShapeGuide الأعضاء التالية:
+يكشف النوع VmlShapeGuide عن الأعضاء التاليين:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [BaseShapeGuide](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
-* فئة [VmlShapeGuide](/cells/python-net/ar/aspose.cells.drawing/vmlshapeguide)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`BaseShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
+* فئة [`VmlShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/vmlshapeguide)

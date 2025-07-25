@@ -3,13 +3,13 @@ title: is_ruler_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 640
 url: /ar/aspose.cells/worksheet/is_ruler_visible/
 is_root: false
 ---
 ##  is_ruler_visible عقار
 
-يشير إلى ما إذا كانت المسطرة مرئية أم لا. يتم تطبيق هذه الخاصية فقط على معاينة فاصل الصفحات.
+يشير إلى ما إذا كانت المسطرة مرئية. تُطبّق هذه الخاصية فقط لمعاينة فواصل الصفحات.
 ###  تعريف:
 ```python
 @property

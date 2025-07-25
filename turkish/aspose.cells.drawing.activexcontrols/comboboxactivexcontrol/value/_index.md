@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value mülk
 
-Denetimin value değerini alır ve ayarlar.
+Kontrolün value'ini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ComboBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ComboBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -3,13 +3,13 @@ title: linked_source fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 310
 url: /sv/aspose.cells.charts/displayunitlabel/linked_source/
 is_root: false
 ---
 ##  linked_source fastighet
 
-Hämtar och ställer in en referens till arbetsbladet.
+Hämtar och anger en referens till kalkylbladet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def linked_source(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DisplayUnitLabel](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DisplayUnitLabel`](/cells/python-net/sv/aspose.cells.charts/displayunitlabel)

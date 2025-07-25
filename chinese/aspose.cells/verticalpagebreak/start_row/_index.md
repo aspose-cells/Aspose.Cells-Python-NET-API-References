@@ -1,13 +1,13 @@
 ---
-title: start_row 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: start_row属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells/verticalpagebreak/start_row/
 is_root: false
 ---
-## start_row 属性
+## start_row属性
 
 获取垂直分页符的起始行索引。
 ### 定义：
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [VerticalPageBreak](/cells/python-net/zh/aspose.cells/verticalpagebreak)
+* 模块[`aspose.cells`](../../)
+* 类 [`VerticalPageBreak`](/cells/python-net/zh/aspose.cells/verticalpagebreak)

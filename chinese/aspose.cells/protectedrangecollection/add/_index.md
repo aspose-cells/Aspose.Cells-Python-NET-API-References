@@ -1,14 +1,14 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/protectedrangecollection/add/
 is_root: false
 ---
-##  add(name, start_row, start_column, end_row, end_column) {#str-int-int-int-int}
-将 [ProtectedRange](/cells/python-net/zh/aspose.cells/protectedrange) 项目添加到集合中。
+##  add(self, name, start_row, start_column, end_row, end_column) {#str-int-int-int-int}
+将 [`ProtectedRange`](/cells/python-net/zh/aspose.cells/protectedrange) 项目添加到集合中。
 
 
 ### 返回
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -33,6 +34,6 @@ def add(self, name, start_row, start_column, end_row, end_column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ProtectedRange](/cells/python-net/zh/aspose.cells/protectedrange)
-* 类 [ProtectedRangeCollection](/cells/python-net/zh/aspose.cells/protectedrangecollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ProtectedRange`](/cells/python-net/zh/aspose.cells/protectedrange)
+* 类 [`ProtectedRangeCollection`](/cells/python-net/zh/aspose.cells/protectedrangecollection)

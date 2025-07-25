@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gap_width propiedad
 
-Devuelve o establece el espacio entre grupos de barras o columnas, como porcentaje del ancho de la barra o columna.
+Devuelve o establece el espacio entre grupos de barras o columnas, como un porcentaje del ancho de la barra o columna.
 El valor de esta propiedad debe estar entre 0 y 500.
 ###  Definición:
 ```python

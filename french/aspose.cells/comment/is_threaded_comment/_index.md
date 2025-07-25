@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment propriété
 
-Indique si ce commentaire est un commentaire filé.
+Indique si ce commentaire est un commentaire fileté.
 
 ###  Exemple
 

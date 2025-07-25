@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/back_ole_col
 is_root: false
 ---
 ##  back_ole_color fastighet
-
-Hämtar och ställer in ole-färgen på bakgrunden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

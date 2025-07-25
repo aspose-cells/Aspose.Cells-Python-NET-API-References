@@ -3,13 +3,13 @@ title: tiff_compression Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 370
+weight: 380
 url: /de/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
 ##  tiff_compression Eigentum
 
-Ruft den Komprimierungstyp ab, der nur beim Speichern von Seiten im Format `Tiff` angewendet werden soll, oder legt diesen fest.
+Ruft den Komprimierungstyp ab oder legt ihn fest, der nur beim Speichern von Seiten im Format `Tiff` angewendet werden soll.
 
 ###  Bemerkungen
 

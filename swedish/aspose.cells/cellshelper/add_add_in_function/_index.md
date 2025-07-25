@@ -7,13 +7,15 @@ weight: 20
 url: /sv/aspose.cells/cellshelper/add_add_in_function/
 is_root: false
 ---
-##  add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type) {#str-int-int-list-ParameterType}
+##  add_add_in_function(, funktion, min_antal_parametrar, max_antal_parametrar, parametertyp, funktionsvärdetyp){#str-int-int-list-aspose.cells.ParameterType}
 Lägg till tilläggsfunktion.
 
 
 
 ```python
-def add_add_in_function(self, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
+
+@staticmethod
+def add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
     ...
 ```
 
@@ -23,16 +25,16 @@ def add_add_in_function(self, function, min_count_of_parameters, max_count_of_pa
 | function | str | Funktionens namn.|
 | min_count_of_parameters | int | Minsta antal parametrar som denna funktion kräver|
 | max_count_of_parameters | int | Maximalt antal parametrar som denna funktion tillåter.|
-| paramers_type | list | Funktionens typ av undantagna parametrar|
-| function_value_type | [ParameterType](/cells/python-net/sv/aspose.cells/parametertype) | Funktionens värdetyp.|
+| paramers_type | list | Funktionens undantagna parametertyp|
+| function_value_type | [`ParameterType`](/cells/python-net/sv/aspose.cells/parametertype) | Funktionsvärdestypen.|
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd WorksheetCollection.RegisterAddInFunction() metoder.
- Denna metod kommer att tas bort 12 månader senare sedan januari 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoderna WorksheetCollection.RegisterAddInFunction().
+ Denna metod kommer att tas bort 12 månader senare från och med januari 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsHelper](/cells/python-net/sv/aspose.cells/cellshelper)
+* modul [`aspose.cells`](../../)
+* klass [`CellsHelper`](/cells/python-net/sv/aspose.cells/cellshelper)

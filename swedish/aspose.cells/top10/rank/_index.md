@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  rank fastighet
 
-Hämta eller ställ in värdet på "n" i en "top/bottom n" villkorlig formateringsregel.
-Om IsPercent är sant måste värdet mellan 0 och 100.
-Annars måste den vara mellan 0 och 1000.
+Hämta eller ange värdet för "n" i en villkorsstyrd formateringsregel för "övre/nedre n".
+Om IsPercent är sant måste värdet vara mellan 0 och 100.
+Annars måste det vara mellan 0 och 1000.
 Standardvärdet är 10.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def rank(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10](/cells/python-net/sv/aspose.cells/top10)
+* modul [`aspose.cells`](../../)
+* klass [`Top10`](/cells/python-net/sv/aspose.cells/top10)

@@ -3,7 +3,7 @@ title: lower_right_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 780
+weight: 790
 url: /de/aspose.cells.drawing/oval/lower_right_row/
 is_root: false
 ---

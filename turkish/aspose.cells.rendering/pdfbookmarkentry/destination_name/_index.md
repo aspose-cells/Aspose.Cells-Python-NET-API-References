@@ -13,7 +13,7 @@ Hedefin adını alır veya ayarlar.
 
 ###  Notlar
 
-Hedef adı ayarlanırsa, hedef bu ada sahip adlandırılmış bir hedef olarak tanımlanacaktır.
+Hedef adı ayarlanırsa hedef, bu adla adlandırılmış bir hedef olarak tanımlanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PdfBookmarkEntry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PdfBookmarkEntry`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)

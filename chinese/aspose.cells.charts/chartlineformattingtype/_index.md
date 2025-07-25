@@ -8,16 +8,16 @@ url: /zh/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
 ## ChartLineFormattingType枚举
-表示图表线条的线条格式类型。
+表示图表线的线格式类型。
 
 
 
 ChartLineFormattingType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| AUTOMATIC |代表自动格式化类型。|
+| AUTOMATIC |表示自动格式化类型。|
 | SOLID |代表实体格式类型。|
 | NONE |代表无格式类型。|
 | GRADIENT |坡度|

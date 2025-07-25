@@ -9,7 +9,7 @@ is_root: false
 ---
 ## shapes属性
 
-返回此图表中的所有绘图 shapes。
+返回此图表中的所有图纸 shapes。
 ### 定义：
 ```python
 @property

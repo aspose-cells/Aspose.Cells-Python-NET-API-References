@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/errorbartype/
 is_root: false
 ---
 ##  ErrorBarType uppräkning
-Representerar felstapelmängdstyp.
+Representerar felstapelns beloppstyp.
 
 
 
@@ -17,13 +17,13 @@ Typen ErrorBarType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| CUSTOM | InnerCustom värdetyp.|
-| FIXED_VALUE | Typ av fast värde.|
-| PERCENT | Procenttyp|
-| ST_DEV | Standardavvikelse typ.|
+| CUSTOM | InnerCustom-värdetyp.|
+| FIXED_VALUE | Fastvärdetyp.|
+| PERCENT | Procentuell typ|
+| ST_DEV | Standardavvikelsetyp.|
 | ST_ERROR | Standardfeltyp.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

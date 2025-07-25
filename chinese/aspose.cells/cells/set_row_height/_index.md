@@ -3,16 +3,17 @@ title: set_row_height方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 860
+weight: 880
 url: /zh/aspose.cells/cells/set_row_height/
 is_root: false
 ---
-##  set_row_height {#int-float}
+##  set_row_height(self, row, height) {#int-float}
 设置指定行的高度。
 
 
 
 ```python
+
 def set_row_height(self, row, height):
     ...
 ```
@@ -21,7 +22,7 @@ def set_row_height(self, row, height):
 |范围|类型|描述|
 | :- | :- | :- |
 | row | int |行索引。|
-| height | float |行高。以点为单位 应介于 0 到 409.5 之间。|
+| height | float |行高，以点为单位，取值范围为0~409.5之间。|
 
 
 

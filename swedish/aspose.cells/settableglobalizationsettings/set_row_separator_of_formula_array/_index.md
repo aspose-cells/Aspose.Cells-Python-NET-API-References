@@ -7,12 +7,13 @@ weight: 360
 url: /sv/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/
 is_root: false
 ---
-##  set_row_separator_of_formula_array {#char}
-Ställer in avgränsaren för rader i matrisdata i formel.
+##  set_row_separator_of_formula_array(self, c) {#char}
+Anger avgränsaren för rader i arraydata i formeln.
 
 
 
 ```python
+
 def set_row_separator_of_formula_array(self, c):
     ...
 ```
@@ -20,7 +21,7 @@ def set_row_separator_of_formula_array(self, c):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| c | char | den angivna avskiljaren|
+| c | char | den angivna separatorn|
 
 
 

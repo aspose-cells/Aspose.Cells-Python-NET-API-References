@@ -1,15 +1,15 @@
 ---
-title: scheme_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: scheme_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 160
 url: /zh/aspose.cells/font/scheme_type/
 is_root: false
 ---
-## scheme_type 属性
+## scheme_type属性
 
-获取和设置字体的方案类型。
+获取并设置字体的方案类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def scheme_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Font](/cells/python-net/zh/aspose.cells/font)
-* 类 [FontSchemeType](/cells/python-net/zh/aspose.cells/fontschemetype)
+* 模块[`aspose.cells`](../../)
+* 类 [`Font`](/cells/python-net/zh/aspose.cells/font)
+* 类 [`FontSchemeType`](/cells/python-net/zh/aspose.cells/fontschemetype)

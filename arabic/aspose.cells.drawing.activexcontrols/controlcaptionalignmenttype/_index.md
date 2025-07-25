@@ -1,18 +1,18 @@
 ---
-title: العد ControlCaptionAlignmentType
+title: ControlCaptionAlignmentType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 150
 url: /ar/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype/
 is_root: false
 ---
-##  العد ControlCaptionAlignmentType
+##  ControlCaptionAlignmentType التعداد
 يمثل موضع التسمية التوضيحية بالنسبة لعنصر التحكم.
 
 
 
-يكشف نوع ControlCaptionAlignmentType الأعضاء التالية:
+يكشف النوع ControlCaptionAlignmentType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

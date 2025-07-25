@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  auto_filter fastighet
 
-Indikerar om data filtreras automatiskt när filerna laddas.
+Anger om data ska filtreras automatiskt när filerna laddas.
 
 ###  Anmärkningar
 
 Ibland, även om autofilter är inställt, döljs inte motsvarande rader i filen.
-Fungerar nu bara för SpreadSheetML-fil.
+Fungerar nu bara för SpreadSheetML-filer.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def auto_filter(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

@@ -3,12 +3,12 @@ title: ExceptionType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /sv/aspose.cells/exceptiontype/
 is_root: false
 ---
 ##  ExceptionType uppräkning
-Representerar anpassad undantagstypkod.
+Representerar kod för anpassad undantagstyp.
 
 
 
@@ -36,11 +36,15 @@ Typen ExceptionType avslöjar följande medlemmar:
 | SHEET_TYPE | Ogiltig kalkylbladstyp.|
 | INTERRUPTED | Processen avbryts.|
 | IO | Filen är ogiltig.|
-| PERMISSION |Tillstånd krävs för att öppna den här filen.|
+| PERMISSION | Tillstånd krävs för att öppna den här filen.|
 | UNSUPPORTED_FEATURE | Funktionen stöds inte.|
 | UNSUPPORTED_STREAM | Ström som inte stöds ska öppnas.|
 | UNDISCLOSED_INFORMATION | Filer innehåller en del hemlig information.|
 | FILE_CORRUPTED | Filinnehållet är skadat.|
+| DEFINED_NAME | Ogiltigt definierat namn|
+| FONT | Ogiltigt teckensnitt|
+| AUTO_FILTER | Ogiltig inställning för automatisk filterering.|
+| FONT_SUBSTITUTION | Varningstyp för teckensnittsersättning<br/>När ett teckensnitt inte har hittats kan den här varningstypen hämtas.|
 
 
 

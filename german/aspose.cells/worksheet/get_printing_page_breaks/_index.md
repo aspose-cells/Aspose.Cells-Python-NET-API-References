@@ -3,20 +3,21 @@ title: get_printing_page_breaks Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 180
 url: /de/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
-Ruft automatische Seitenumbrüche ab.
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
+Erstellt automatische Seitenumbrüche.
 
 
 ###  Kehrt zurück
 
-Die automatischen Seitenumbrüche bereichern.
+Die automatischen Seitenumbruchbereiche.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```

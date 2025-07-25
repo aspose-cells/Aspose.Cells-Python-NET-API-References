@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  embed_smart_tags propriété
 
-Indique si les balises actives sont enregistrées avec le classeur.
+Indique si les balises intelligentes doivent être enregistrées avec le classeur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.markup](../../)
-* classe [SmartTagOptions](/cells/python-net/fr/aspose.cells.markup/smarttagoptions)
+* module [`aspose.cells.markup`](../../)
+* classe [`SmartTagOptions`](/cells/python-net/fr/aspose.cells.markup/smarttagoptions)

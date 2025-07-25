@@ -3,13 +3,13 @@ title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ar/aspose.cells.drawing/groupshape/text/
 is_root: false
 ---
 ##  text عقار
 
-يمثل السلسلة الموجودة في كائن TextBox هذا.
+يحصل على text لهذا الشكل ويضبطه.
 
 ###  مثال
 

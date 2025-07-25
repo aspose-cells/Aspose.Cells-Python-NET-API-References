@@ -9,7 +9,7 @@ is_root: false
 ---
 ## plot_by属性
 
-获取和设置是否按行或列绘制。
+获取并设置是否按行或列绘图。
 ### 定义：
 ```python
 @property

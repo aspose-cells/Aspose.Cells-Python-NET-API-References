@@ -1,6 +1,6 @@
 ---
 title: preset_camera_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_camera_type proprietà
 
-Ottiene e imposta il tipo di videocamera preimpostato di estrusione.
+Ottiene e imposta il tipo di telecamera preimpostata per l'estrusione.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_camera_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [PresetCameraType](/cells/python-net/it/aspose.cells.drawing/presetcameratype)
-* classe [ThreeDFormat](/cells/python-net/it/aspose.cells.drawing/threedformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`PresetCameraType`](/cells/python-net/it/aspose.cells.drawing/presetcameratype)
+* classe [`ThreeDFormat`](/cells/python-net/it/aspose.cells.drawing/threedformat)

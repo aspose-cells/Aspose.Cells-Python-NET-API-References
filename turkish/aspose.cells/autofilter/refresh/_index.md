@@ -7,16 +7,17 @@ weight: 140
 url: /tr/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
+##  refresh(self) {#}
 Satırları gizlemek veya göstermek için otomatik filtreleri yenileyin.
 
 
 ###  İadeler
 
-Tüm gizli satırların dizinlerini döndürür.
+Tüm gizli satırların indekslerini döndürür.
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,16 +25,17 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
-Tüm gizli satırların dizinlerini alır.
+##  refresh(self, hide_rows) {#bool}
+Tüm gizli satırların indekslerini alır.
 
 
 ###  İadeler
 
-Tüm gizli satır dizinlerini döndürür.
+Tüm gizli satırların indekslerini döndürür.
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -41,10 +43,10 @@ def refresh(self, hide_rows):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| hide_rows | bool | Doğruysa, filtrelenmiş satırları gizleyin.|
+| hide_rows | bool | Doğruysa filtrelenen satırları gizle.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFilter](/cells/python-net/tr/aspose.cells/autofilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFilter`](/cells/python-net/tr/aspose.cells/autofilter)

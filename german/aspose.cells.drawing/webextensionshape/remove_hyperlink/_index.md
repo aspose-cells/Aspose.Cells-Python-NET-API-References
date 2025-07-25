@@ -3,16 +3,17 @@ title: remove_hyperlink Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells.drawing/webextensionshape/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
-Entfernen Sie den Hyperlink der Form.
+##  remove_hyperlink(self) {#}
+Entfernt den Hyperlink der Form.
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

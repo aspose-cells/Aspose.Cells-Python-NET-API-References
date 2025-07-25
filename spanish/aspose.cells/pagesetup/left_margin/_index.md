@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin propiedad
 
-Representa el tamaño del margen izquierdo, en unidades de centímetros.
+Representa el tamaño del margen izquierdo, en unidad de centímetros.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

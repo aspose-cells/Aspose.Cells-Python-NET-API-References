@@ -3,16 +3,17 @@ title: copy_data metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 110
 url: /sv/aspose.cells/range/copy_data/
 is_root: false
 ---
-##  copy_data {#aspose.cells.Range}
-Kopierar celldata (inklusive formler) från ett källintervall.
+##  copy_data(self, range) {#aspose.cells.Range}
+Kopierar celldata (inklusive formler) från ett källområde.
 
 
 
 ```python
+
 def copy_data(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy_data(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/sv/aspose.cells/range) |Källa [`Range`](/cells/python-net/sv/aspose.cells/range) objekt.|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Källa [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt.|
 
 
 

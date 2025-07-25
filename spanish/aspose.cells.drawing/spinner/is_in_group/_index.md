@@ -3,7 +3,7 @@ title: is_in_group propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 620
+weight: 630
 url: /es/aspose.cells.drawing/spinner/is_in_group/
 is_root: false
 ---

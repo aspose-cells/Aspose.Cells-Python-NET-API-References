@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CheckBoxCollection](/cells/python-net/tr/aspose.cells.drawing/checkboxcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CheckBoxCollection`](/cells/python-net/tr/aspose.cells.drawing/checkboxcollection)

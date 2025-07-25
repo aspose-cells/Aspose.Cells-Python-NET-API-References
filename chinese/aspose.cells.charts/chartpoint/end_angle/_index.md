@@ -1,15 +1,15 @@
 ---
-title: end_angle 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: end_angle属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 210
 url: /zh/aspose.cells.charts/chartpoint/end_angle/
 is_root: false
 ---
-## end_angle 属性
+## end_angle属性
 
-获取饼图部分的结束角度，在调用 Chart.Calculate() 方法后从 x 轴顺时针测量角度。
+调用 Chart.Calculate() 方法后，获取饼图部分的结束角度，以 x 轴顺时针方向的度数测量。
 适用于饼图。
 ### 定义：
 ```python
@@ -19,5 +19,5 @@ def end_angle(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

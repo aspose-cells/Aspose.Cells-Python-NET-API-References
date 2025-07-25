@@ -3,13 +3,13 @@ title: show_subtotal_at_top fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 690
 url: /sv/aspose.cells.pivot/pivotfield/show_subtotal_at_top/
 is_root: false
 ---
 ##  show_subtotal_at_top fastighet
 
-när ShowInOutlineForm är sant, visa sedan delsummor överst i listan över objekt istället för längst ned
+När ShowInOutlineForm är sant, visas delsummor högst upp i listan över objekt istället för längst ner
 
 ###  Anmärkningar
 

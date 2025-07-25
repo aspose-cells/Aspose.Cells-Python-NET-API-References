@@ -1,15 +1,15 @@
 ---
 title: text_body недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ru/aspose.cells.drawing/groupshape/text_body/
 is_root: false
 ---
 ##  text_body недвижимость
 
-Получает и задает настройку текста фигуры.
+Получает и задает настройки текста фигуры.
 
 ###  Пример
 

@@ -1,19 +1,19 @@
 ---
-title: metodo change_data_source
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo change_data_source
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
 url: /it/aspose.cells.pivot/pivottable/change_data_source/
 is_root: false
 ---
-##  change_data_source(source) {#list}
-Imposta i dati di origine di pivottable.
-Foglio1!$A$1:$C$3
+##  change_data_source(self, source) {#list}
+Imposta i dati sorgente della tabella pivot.
 
 
 
 ```python
+
 def change_data_source(self, source):
     ...
 ```
@@ -26,5 +26,5 @@ def change_data_source(self, source):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

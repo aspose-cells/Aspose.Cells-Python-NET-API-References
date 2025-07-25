@@ -1,15 +1,15 @@
 ---
-title: ranges الملكية
+title: ranges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 200
 url: /ar/aspose.cells/unionrange/ranges/
 is_root: false
 ---
-##  ranges الملكية
+##  ranges عقار
 
-يحصل على كل الاتحاد ranges.
+يحصل على جميع الاتحادات ranges.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def ranges(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

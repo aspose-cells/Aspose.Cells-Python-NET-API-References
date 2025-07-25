@@ -1,18 +1,19 @@
 ---
 title: get_panes метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ru/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes {#}
-Получает оконные панели.
+##  get_panes(self) {#}
+Получает оконные стекла.
 
 
 
 ```python
+
 def get_panes(self):
     ...
 ```
@@ -20,7 +21,7 @@ def get_panes(self):
 
 ###  Примечания
 
-Если окно не разбито и не заморожено.
+Если окно не разделено и не заморожено.
 
 
 ###  Смотрите также

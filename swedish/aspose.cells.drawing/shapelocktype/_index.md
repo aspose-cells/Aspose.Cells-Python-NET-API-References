@@ -3,12 +3,12 @@ title: ShapeLockType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /sv/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
 ##  ShapeLockType uppräkning
-Representerar typen av fastighet som ska låsas.
+Representerar typen av egendom som ska låsas.
 
 
 
@@ -18,20 +18,20 @@ Typen ShapeLockType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | GROUP | Grupp|
-| ADJUST_HANDLES | Justera Handtag|
+| ADJUST_HANDLES | Justera handtag|
 | TEXT | Text|
 | POINTS | Poäng|
-| CROP |Beskära|
+| CROP | Beskära|
 | SELECTION | Urval|
 | MOVE | Flytta|
 | ASPECT_RATIO | Bildförhållande|
 | ROTATION | Rotation|
-| UNGROUP | Dela upp gruppen|
+| UNGROUP | Dela upp grupperingen|
 | RESIZE | Ändra storlek|
-| SHAPE_TYPE | ShapeType|
+| SHAPE_TYPE | Formtyp|
 | ARROWHEAD | Pilspets|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

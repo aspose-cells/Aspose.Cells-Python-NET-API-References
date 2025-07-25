@@ -1,39 +1,37 @@
 ---
-title: PictureBulletValue الدرجة
+title: PictureBulletValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 60
 url: /ar/aspose.cells.drawing.texts/picturebulletvalue/
 is_root: false
 ---
-##  PictureBulletValue الدرجة
-يمثل قيمة الصورة النقطية.
+##  PictureBulletValue صف
+يمثل قيمة صورة الرصاصة.
 
 
 
-**ميراث:** [PictureBulletValue](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
-[BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
+**الميراث:** [`PictureBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue)
 
 
 
-يكشف نوع PictureBulletValue الأعضاء التالية:
+يكشف النوع PictureBulletValue عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [PictureBulletValue()](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | إنشاء مثيل جديد لـ PictureBulletValue|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | إنشاء مثيل جديد لـ PictureBulletValue|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/type) | الحصول على نوع قيمة الرمز النقطي.|
-| [image_data](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/image_data) | الحصول على بيانات الصورة للرصاصة وتعيينها.|
+| [type](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/type) | يحصل على نوع قيمة الرصاصة.|
+| [image_data](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue/image_data) | يحصل على بيانات الصورة الخاصة بالرصاصة ويقوم بتعيينها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
-* فئة [PictureBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`PictureBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/picturebulletvalue)

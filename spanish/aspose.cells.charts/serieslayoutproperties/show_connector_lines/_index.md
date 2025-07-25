@@ -3,7 +3,7 @@ title: show_connector_lines propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells.charts/serieslayoutproperties/show_connector_lines/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def show_connector_lines(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SeriesLayoutProperties](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SeriesLayoutProperties`](/cells/python-net/es/aspose.cells.charts/serieslayoutproperties)

@@ -1,9 +1,9 @@
 ---
 title: depth_percent недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ru/aspose.cells.charts/chart/depth_percent/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def depth_percent(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Chart](/cells/python-net/ru/aspose.cells.charts/chart)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Chart`](/cells/python-net/ru/aspose.cells.charts/chart)

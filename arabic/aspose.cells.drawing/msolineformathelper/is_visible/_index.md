@@ -1,5 +1,5 @@
 ---
-title: is_visible الملكية
+title: is_visible عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/msolineformathelper/is_visible/
 is_root: false
 ---
-##  is_visible الملكية
+##  is_visible عقار
 
-يشير إلى ما إذا كان الكائن مرئيًا أم لا.
+يشير إلى ما إذا كان الكائن مرئيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoLineFormatHelper](/cells/python-net/ar/aspose.cells.drawing/msolineformathelper)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoLineFormatHelper`](/cells/python-net/ar/aspose.cells.drawing/msolineformathelper)

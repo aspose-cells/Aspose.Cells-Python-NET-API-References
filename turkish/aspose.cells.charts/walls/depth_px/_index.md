@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  depth_px mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra önden arkaya derinliği piksel birimleri cinsinden alır.
+Chart.Calculate() metodunu çağırdıktan sonra önden arkaya derinliği piksel cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def depth_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

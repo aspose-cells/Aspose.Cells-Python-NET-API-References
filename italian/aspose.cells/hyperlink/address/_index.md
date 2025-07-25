@@ -1,6 +1,6 @@
 ---
 title: address proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  address proprietà
 
-Rappresenta lo address di un collegamento ipertestuale.
+Rappresenta il address di un collegamento ipertestuale.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def address(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
+* modulo [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)

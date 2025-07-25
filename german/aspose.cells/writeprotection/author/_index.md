@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  author Eigentum
 
-Ruft die author ab und setzt sie.
+Ruft author ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def author(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [WriteProtection](/cells/python-net/de/aspose.cells/writeprotection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WriteProtection`](/cells/python-net/de/aspose.cells/writeprotection)

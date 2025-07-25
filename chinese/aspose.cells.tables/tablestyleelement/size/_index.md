@@ -1,15 +1,15 @@
 ---
-title: size 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: size属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.tables/tablestyleelement/size/
 is_root: false
 ---
-## size 属性
+## size属性
 
-单个条带中的行数或列数。
+单个条纹带中的行数或列数。
 仅当类型为 firstRowStripe、secondRowStripe、firstColumnStripe 或 secondColumnStripe 时适用。
 ### 定义：
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [TableStyleElement](/cells/python-net/zh/aspose.cells.tables/tablestyleelement)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`TableStyleElement`](/cells/python-net/zh/aspose.cells.tables/tablestyleelement)

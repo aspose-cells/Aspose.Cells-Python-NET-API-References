@@ -3,7 +3,7 @@ title: NumberCategoryType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /ar/aspose.cells/numbercategorytype/
 is_root: false
 ---
@@ -22,7 +22,7 @@ is_root: false
 | NUMBER | رقم|
 | DATE | التاريخ أو التاريخ والوقت|
 | TIME | وقت|
-| FRACTION | جزء|
+| FRACTION |جزء|
 | SCIENTIFIC | علمي|
 
 

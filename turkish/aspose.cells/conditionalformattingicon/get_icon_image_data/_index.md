@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/conditionalformattingicon/get_icon_image_data/
 is_root: false
 ---
-##  get_icon_image_data(type, index) {#IconSetType-int}
-Simge seti verilerini al
+##  get_icon_image_data(, tür, dizin){#aspose.cells.IconSetType-int}
+Simge seti verilerini alın
 
 
 ###  İadeler
@@ -17,18 +17,20 @@ Simge seti verilerini al
 
 
 ```python
-def get_icon_image_data(self, type, index):
+
+@staticmethod
+def get_icon_image_data(type, index):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/tr/aspose.cells/iconsettype) | simgenin türü|
-| index | int | simge dizini|
+| type | [`IconSetType`](/cells/python-net/tr/aspose.cells/iconsettype) | simgenin türü|
+| index | int | ikon dizini|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingIcon](/cells/python-net/tr/aspose.cells/conditionalformattingicon)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingIcon`](/cells/python-net/tr/aspose.cells/conditionalformattingicon)

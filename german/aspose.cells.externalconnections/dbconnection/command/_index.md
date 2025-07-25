@@ -3,14 +3,14 @@ title: command Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 50
 url: /de/aspose.cells.externalconnections/dbconnection/command/
 is_root: false
 ---
 ##  command Eigentum
 
- Die Zeichenfolge, die die Datenbank command enthält, wird an den Datenanbieter API übergeben
-mit der externen Quelle interagieren, um Daten abzurufen
+ Die Zeichenfolge mit der Datenbank command, die an den Datenanbieter API übergeben wird, der
+Interagieren Sie mit der externen Quelle, um Daten abzurufen
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def command(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

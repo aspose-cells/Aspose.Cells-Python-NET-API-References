@@ -3,12 +3,12 @@ title: LightRigType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 920
+weight: 910
 url: /es/aspose.cells.drawing/lightrigtype/
 is_root: false
 ---
 ##  LightRigType enumeración
-Representa un derecho de luz preestablecido que se puede aplicar a una forma
+Representa una luz preestablecida que se puede aplicar a una forma.
 
 
 
@@ -18,9 +18,9 @@ El tipo LightRigType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | BALANCED | Equilibrado|
-| BRIGHT_ROOM | Cuarto brillante|
+| BRIGHT_ROOM | Habitación luminosa|
 | CHILLY | Frío|
-| CONTRASTING | contrastando|
+| CONTRASTING | Contrastando|
 | FLAT | Departamento|
 | FLOOD | Inundación|
 | FREEZING | Congelación|
@@ -30,23 +30,23 @@ El tipo LightRigType expone los siguientes miembros:
 | LEGACY_FLAT2 | LegacyFlat2|
 | LEGACY_FLAT3 | LegacyFlat3|
 | LEGACY_FLAT4 | LegacyFlat4|
-| LEGACY_HARSH1 | LegadoHarsh1|
-| LEGACY_HARSH2 | LegadoHarsh2|
-| LEGACY_HARSH3 | LegadoHarsh3|
-| LEGACY_HARSH4 | LegadoHarsh4|
-| LEGACY_NORMAL1 | LegadoNormal1|
-| LEGACY_NORMAL2 | LegadoNormal2|
-| LEGACY_NORMAL3 | LegadoNormal3|
-| LEGACY_NORMAL4 | LegadoNormal4|
+| LEGACY_HARSH1 | LegacyHarsh1|
+| LEGACY_HARSH2 | LegacyHarsh2|
+| LEGACY_HARSH3 | LegacyHarsh3|
+| LEGACY_HARSH4 | LegacyHarsh4|
+| LEGACY_NORMAL1 | Legado Normal1|
+| LEGACY_NORMAL2 | Legado Normal2|
+| LEGACY_NORMAL3 | Legado Normal3|
+| LEGACY_NORMAL4 | Legado Normal4|
 | MORNING | Mañana|
 | SOFT | Suave|
 | SUNRISE | Amanecer|
 | SUNSET | Atardecer|
 | THREE_POINT | Tres puntos|
 | TWO_POINT | Dos puntos|
-| NONE | Sin equipo ligero.|
+| NONE | Sin equipo de iluminación.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

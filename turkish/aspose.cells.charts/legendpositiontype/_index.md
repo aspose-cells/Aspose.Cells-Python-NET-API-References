@@ -8,23 +8,23 @@ url: /tr/aspose.cells.charts/legendpositiontype/
 is_root: false
 ---
 ##  LegendPositionType numaralandırma
-Açıklama konumu türlerini numaralandırır.
+Efsane pozisyon tiplerini sıralar.
 
 
 
-LegendPositionType türü aşağıdaki üyeleri gösterir:
+LegendPositionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| BOTTOM | Göstergeyi grafiğin çizim alanının altında görüntüler.|
-| CORNER | Göstergeyi grafiğin çizim alanının köşesinde görüntüler.|
+| BOTTOM | Göstergeyi grafiğin çizim alanının en altına görüntüler.|
+| CORNER | Göstergeyi grafiğin çizim alanının köşesine görüntüler.|
 | LEFT | Göstergeyi grafiğin çizim alanının solunda görüntüler.|
-| NOT_DOCKED |Göstergenin sabitlenmediğini temsil eder.|
+| NOT_DOCKED | Efsanenin yerleştirilmediğini gösterir.|
 | RIGHT | Göstergeyi grafiğin çizim alanının sağında görüntüler.|
-| TOP | Göstergeyi grafiğin çizim alanının üst kısmında görüntüler.|
+| TOP | Göstergeyi grafiğin çizim alanının en üstüne görüntüler.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

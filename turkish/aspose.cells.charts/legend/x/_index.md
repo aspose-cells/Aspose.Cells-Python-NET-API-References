@@ -3,18 +3,18 @@ title: x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 500
 url: /tr/aspose.cells.charts/legend/x/
 is_root: false
 ---
 ##  x mülk
 
-Grafik alanının 1/4000'lik birimlerinde sol üst köşenin x koordinatını alır veya ayarlar.
+Grafik alanının sol üst köşesinin x koordinatını 1/4000'lik birimlerle alır veya ayarlar.
 
 ###  Notlar
 
  1/4000 birimleri piksele nasıl dönüştürülür?
-Piksel Olarak X = X * Chart.ChartObject.Width / 4000;
+Piksel = X * Chart.ChartObject.Width / 4000d;
 ###  Tanım:
 ```python
 @property

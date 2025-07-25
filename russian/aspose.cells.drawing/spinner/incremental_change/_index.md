@@ -1,15 +1,15 @@
 ---
 title: incremental_change недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 520
 url: /ru/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
 ##  incremental_change недвижимость
 
-Получает или задает величину, на которую увеличивается полоса прокрутки или счетчик при прокрутке строки.
+Возвращает или задает величину, на которую увеличивается полоса прокрутки или счетчик при прокрутке строки.
 ###  Определение:
 ```python
 @property

@@ -3,13 +3,13 @@ title: standard_width_pixels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1290
+weight: 1320
 url: /ar/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---
 ##  standard_width_pixels عقار
 
-الحصول على عرض العمود الافتراضي في ورقة العمل أو تعيينه بوحدة البكسل.
+يحصل على عرض العمود الافتراضي في ورقة العمل أو يعينه، بوحدة البكسل.
 ###  تعريف:
 ```python
 @property

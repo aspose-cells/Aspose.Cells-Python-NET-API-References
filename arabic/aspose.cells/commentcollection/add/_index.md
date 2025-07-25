@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 يضيف تعليقًا إلى المجموعة.
 
 
 ###  عائدات
 
-[Comment](/cells/python-net/ar/aspose.cells/comment) فهرس العنصر.
+[`Comment`](/cells/python-net/ar/aspose.cells/comment) فهرس الكائن.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 يضيف تعليقًا إلى المجموعة.
 
 
 ###  عائدات
 
-[Comment](/cells/python-net/ar/aspose.cells/comment) فهرس العنصر.
+[`Comment`](/cells/python-net/ar/aspose.cells/comment) فهرس الكائن.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
-* فئة [CommentCollection](/cells/python-net/ar/aspose.cells/commentcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)
+* فئة [`CommentCollection`](/cells/python-net/ar/aspose.cells/commentcollection)

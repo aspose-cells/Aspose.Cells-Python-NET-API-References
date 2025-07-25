@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_path fastighet
 
-Sökväg till teckensnittsfil.
+Sökväg till teckensnittsfilen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def file_path(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FileFontSource](/cells/python-net/sv/aspose.cells/filefontsource)
+* modul [`aspose.cells`](../../)
+* klass [`FileFontSource`](/cells/python-net/sv/aspose.cells/filefontsource)

@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  number mülk
 
-Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimlendirme desenleri farklı bölgeler için farklıdır.
+Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimlendirme kalıpları bölgelere göre farklılık gösterir.
 
 ###  Notlar
 
-Örneğin, en_US bölgesi için sayılarla temsil edilen biçimlendirme kalıpları:
-| Değer| Tip| Dizeyi Biçimlendir|
+Örneğin, en_US bölgesi için sayılarla temsil edilen biçimlendirme desenleri:
+| Değer| Tip| Biçim Dizesi|
 | :- | :- | :- |
 | 0| Genel|
-| 1|Ondalık|
-| 2|Ondalık|
-| 3|Ondalık|
-| 4|Ondalık|
+| 1| Ondalık|
+| 2| Ondalık|
+| 3| Ondalık|
+| 4| Ondalık|
 | 5| Para birimi|
 | 6| Para birimi|
 | 7| Para birimi|
@@ -28,8 +28,8 @@ Sayıların ve tarihlerin görüntülenme biçimini alır veya ayarlar. Biçimle
 | 9| Yüzde|
 | 10| Yüzde|
 | 11| İlmi|
-| 12| Kesir|
-| 13| Kesir|
+| 12|Kesir|
+| 13|Kesir|
 | 14| Tarih|
 | 15| Tarih|
 | 16| Tarih|

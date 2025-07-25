@@ -1,6 +1,6 @@
 ---
 title: direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction недвижимость
 
-Получает и задает direction градиента альфа-канала относительно самой фигуры.
+Получает и задает direction градиента альфа относительно самой фигуры.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ReflectionEffect](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ReflectionEffect`](/cells/python-net/ru/aspose.cells.drawing/reflectioneffect)

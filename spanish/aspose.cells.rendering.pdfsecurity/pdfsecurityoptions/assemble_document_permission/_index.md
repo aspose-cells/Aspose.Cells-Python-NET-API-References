@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  assemble_document_permission propiedad
 
- Indica si se permite ensamblar el documento (insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura),
+ Indica si se debe permitir ensamblar el documento (insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura),
 incluso si [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) está claro.
 ###  Definición:
 ```python

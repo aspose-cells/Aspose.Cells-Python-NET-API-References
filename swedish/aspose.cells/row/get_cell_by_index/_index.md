@@ -7,16 +7,17 @@ weight: 50
 url: /sv/aspose.cells/row/get_cell_by_index/
 is_root: false
 ---
-##  get_cell_by_index {#int}
-Hämta cellen efter specifikt index i cellsamlingen på den här raden.
+##  get_cell_by_index(self, index) {#int}
+Hämta cellen efter specifikt index i cellsamlingen för den här raden.
 
 
 ###  Returnerar
 
-Cell-objektet vid given position.
+Objektet Cell vid given position.
 
 
 ```python
+
 def get_cell_by_index(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get_cell_by_index(self, index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | Index(position) för cellen i cellsamlingen för denna rad.|
+| index | int | Indexet (positionen) för cellen i cellsamlingen för den här raden.|
 ###  Anmärkningar
 
-För att passera alla celler i sekvens utan modifiering,
-att använda [`Row.get_enumerator`](/cells/python-net/sv/aspose.cells/row/get_enumerator) ger bättre prestanda än att använda den här metoden för att få cell en efter en.
+För att gå igenom alla celler i sekvens utan modifiering,
+Att använda [`Row.get_enumerator`](/cells/python-net/sv/aspose.cells/row/get_enumerator) ger bättre prestanda än att använda den här metoden för att hämta cellerna en i taget.
 
 
 ###  Se även

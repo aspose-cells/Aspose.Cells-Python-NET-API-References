@@ -3,13 +3,13 @@ title: active_cell عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ar/aspose.cells/worksheet/active_cell/
 is_root: false
 ---
 ##  active_cell عقار
 
-الحصول على الخلية النشطة أو تعيينها في ورقة العمل.
+يحصل على الخلية النشطة في ورقة العمل أو يعينها.
 ###  تعريف:
 ```python
 @property

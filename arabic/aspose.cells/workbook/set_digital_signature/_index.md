@@ -3,16 +3,17 @@ title: طريقة set_digital_signature
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 350
+weight: 370
 url: /ar/aspose.cells/workbook/set_digital_signature/
 is_root: false
 ---
-##  set_digital_signature(digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
-يضبط التوقيع الرقمي على ملف جدول بيانات (Excel2007 وما بعده).
+##  set_digital_signature(self, digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+تعيين التوقيع الرقمي لملف جدول بيانات (Excel2007 والإصدارات الأحدث).
 
 
 
 ```python
+
 def set_digital_signature(self, digital_signature_collection):
     ...
 ```
@@ -23,10 +24,10 @@ def set_digital_signature(self, digital_signature_collection):
 | digital_signature_collection | aspose.cells.digitalsignatures.DigitalSignatureCollection |  |
 ###  ملاحظات
 
-دعم فقط إضافة Xmldsig Digital Signature
+يدعم فقط إضافة التوقيع الرقمي Xmldsig
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

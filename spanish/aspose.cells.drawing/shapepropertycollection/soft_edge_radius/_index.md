@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  soft_edge_radius propiedad
 
-Obtiene y establece el radio de desenfoque que se aplica a los bordes, en unidades de puntos.
+Obtiene y establece el radio de desenfoque que se aplicará a los bordes, en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapePropertyCollection](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapePropertyCollection`](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)

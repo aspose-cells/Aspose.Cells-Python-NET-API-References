@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_wide mülk
 
-Çalışma sayfasının yazdırıldığında ölçekleneceği genişlikteki sayfa sayısını temsil eder.
+Çalışma sayfası yazdırıldığında ölçeklendirilecek sayfa genişliğinin sayısını temsil eder.
 Varsayılan değer 1'dir.
 
 ###  Notlar
 
-Tüm sütunları bir sayfaya sığdırmak istiyorsanız FitToPagesTall'ı sıfır olarak ayarlamanız gerekir.
+Tüm sütunları tek bir sayfaya sığdırmak istiyorsanız FitToPagesTall değerini sıfır olarak ayarlamanız gerekir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_wide(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

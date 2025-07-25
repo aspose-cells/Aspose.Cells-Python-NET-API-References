@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Obtiene o establece el Color.
+Obtiene o establece el color.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SolidFill](/cells/python-net/es/aspose.cells.drawing/solidfill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SolidFill`](/cells/python-net/es/aspose.cells.drawing/solidfill)

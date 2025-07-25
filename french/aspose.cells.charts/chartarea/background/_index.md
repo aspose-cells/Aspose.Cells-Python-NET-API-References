@@ -13,10 +13,10 @@ Obtient et définit le mode d'affichage du background
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
- veuillez utiliser la propriété ChartFrame.BackgroundMode.
- Cette propriété sera supprimée 12 mois plus tard depuis JANVIER 2012.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ REMARQUE : Ce membre est désormais obsolète. À la place,
+veuillez utiliser la propriété ChartFrame.BackgroundMode.
+ Cette propriété sera supprimée 12 mois plus tard soit JANVIER 2012.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,6 +28,6 @@ def background(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [BackgroundMode](/cells/python-net/fr/aspose.cells.charts/backgroundmode)
-* classe [ChartArea](/cells/python-net/fr/aspose.cells.charts/chartarea)
+* module [`aspose.cells.charts`](../../)
+* classe [`BackgroundMode`](/cells/python-net/fr/aspose.cells.charts/backgroundmode)
+* classe [`ChartArea`](/cells/python-net/fr/aspose.cells.charts/chartarea)

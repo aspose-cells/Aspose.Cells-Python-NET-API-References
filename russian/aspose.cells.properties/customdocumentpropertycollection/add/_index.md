@@ -1,22 +1,23 @@
 ---
 title: add метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
- Создает новое пользовательское свойство документа**Тип свойства.String** тип данных.
+##  add(self, name, value) {#str-str}
+ Создает новое пользовательское свойство документа**PropertyType.String** тип данных.
 
 
-###  Возвращает
+###  Возврат
 
-Недавно созданный объект свойства.
+Вновь созданный объект недвижимости.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -24,20 +25,21 @@ def add(self, name, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| name | str | Имя свойства.|
+| name | str | Название объекта недвижимости.|
 | value | str | Стоимость имущества.|
 
 
-##  add(name, value) {#str-int}
+##  add(self, name, value) {#str-int}
  Создает новое пользовательское свойство документа**PropertyType.Number** тип данных.
 
 
-###  Возвращает
+###  Возврат
 
-Недавно созданный объект свойства.
+Вновь созданный объект недвижимости.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -45,20 +47,21 @@ def add(self, name, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| name | str | Имя свойства.|
+| name | str | Название объекта недвижимости.|
 | value | int | Стоимость имущества.|
 
 
-##  add(name, value) {#str-DateTime}
+##  add(self, name, value) {#str-DateTime}
  Создает новое пользовательское свойство документа**PropertyType.DateTime** тип данных.
 
 
-###  Возвращает
+###  Возврат
 
-Недавно созданный объект свойства.
+Вновь созданный объект недвижимости.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -66,20 +69,21 @@ def add(self, name, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| name | str | Имя свойства.|
+| name | str | Название объекта недвижимости.|
 | value | DateTime | Стоимость имущества.|
 
 
-##  add(name, value) {#str-bool}
+##  add(self, name, value) {#str-bool}
  Создает новое пользовательское свойство документа**PropertyType.Boolean** тип данных.
 
 
-###  Возвращает
+###  Возврат
 
-Недавно созданный объект свойства.
+Вновь созданный объект недвижимости.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -87,20 +91,21 @@ def add(self, name, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| name | str | Имя свойства.|
+| name | str | Название объекта недвижимости.|
 | value | bool | Стоимость имущества.|
 
 
-##  add(name, value) {#str-float}
+##  add(self, name, value) {#str-float}
  Создает новое пользовательское свойство документа**PropertyType.Float** тип данных.
 
 
-###  Возвращает
+###  Возврат
 
-Недавно созданный объект свойства.
+Вновь созданный объект недвижимости.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -108,11 +113,11 @@ def add(self, name, value):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| name | str | Имя свойства.|
+| name | str | Название объекта недвижимости.|
 | value | float | Стоимость имущества.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [CustomDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`CustomDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/customdocumentpropertycollection)

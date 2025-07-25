@@ -18,5 +18,5 @@ def sheet_index(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [DrawObject](/cells/python-net/tr/aspose.cells.rendering/drawobject)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`DrawObject`](/cells/python-net/tr/aspose.cells.rendering/drawobject)

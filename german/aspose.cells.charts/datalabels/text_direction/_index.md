@@ -3,7 +3,7 @@ title: text_direction Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 460
+weight: 530
 url: /de/aspose.cells.charts/datalabels/text_direction/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Stellt die Lesereihenfolge des Textes dar.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
  Bitte verwenden Sie die Eigenschaft ChartTextFrame.ReadingOrder.
- Diese Immobilie wird seit März 2020 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+Diese Eigenschaft wird 12 Monate später (ab März 2020) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

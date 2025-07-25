@@ -3,14 +3,14 @@ title: image_scalable fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 470
+weight: 540
 url: /sv/aspose.cells.saving/ebooksaveoptions/image_scalable/
 is_root: false
 ---
 ##  image_scalable fastighet
 
-Anger om skalbar enhet används för att beskriva bildens bredd
-när du använder skalbar enhet för att beskriva kolumnbredden.
+Anger om en skalbar enhet används för att beskriva bildens bredd
+när man använder en skalbar enhet för att beskriva kolumnbredden.
 Standardvärdet är sant.
 ###  Definition:
 ```python

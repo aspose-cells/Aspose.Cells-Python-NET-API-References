@@ -1,22 +1,23 @@
 ---
 title: create_range方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 190
 url: /zh/aspose.cells/cells/create_range/
 is_root: false
 ---
-##  create_range(address) {#str}
-从范围地址创建一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象。
+##  create_range(self, address) {#str}
+从范围的地址创建一个 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。
 
 
 ### 返回
 
-一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象
+[`Range`](/cells/python-net/zh/aspose.cells/range) 对象
 
 
 ```python
+
 def create_range(self, address):
     ...
 ```
@@ -27,16 +28,17 @@ def create_range(self, address):
 | address | str |范围的地址。|
 
 
-##  create_range(upper_left_cell, lower_right_cell) {#str-str}
-从一系列单元格创建一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象。
+##  create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+从一系列单元格创建一个 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。
 
 
 ### 返回
 
-一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象
+[`Range`](/cells/python-net/zh/aspose.cells/range) 对象
 
 
 ```python
+
 def create_range(self, upper_left_cell, lower_right_cell):
     ...
 ```
@@ -45,19 +47,20 @@ def create_range(self, upper_left_cell, lower_right_cell):
 |范围|类型|描述|
 | :- | :- | :- |
 | upper_left_cell | str |左上角的单元格名称。|
-| lower_right_cell | str |右下单元格名称。|
+| lower_right_cell | str |右下角单元格名称。|
 
 
-##  create_range(first_index, number, is_vertical) {#int-int-bool}
-从单元格行或单元格列创建一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象。
+##  create_range(self, first_index, number, is_vertical) {#int-int-bool}
+从单元格行或单元格列创建 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。
 
 
 ### 返回
 
-一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象。
+[`Range`](/cells/python-net/zh/aspose.cells/range) 对象。
 
 
 ```python
+
 def create_range(self, first_index, number, is_vertical):
     ...
 ```
@@ -67,19 +70,20 @@ def create_range(self, first_index, number, is_vertical):
 | :- | :- | :- |
 | first_index | int |第一行索引或第一列索引，从零开始。|
 | number | int |总行数或列数，以一为基础。|
-| is_vertical | bool | True - 从单元格列创建的范围。 False - 从单元格行创建的范围。|
+| is_vertical | bool | True - 由单元格列创建的范围。False - 由单元格行创建的范围。|
 
 
-##  create_range(first_row, first_column, total_rows, total_columns) {#int-int-int-int}
-从一系列单元格创建一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象。
+##  create_range(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
+从一系列单元格创建一个 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。
 
 
 ### 返回
 
-一个 [Range](/cells/python-net/zh/aspose.cells/range) 对象
+[`Range`](/cells/python-net/zh/aspose.cells/range) 对象
 
 
 ```python
+
 def create_range(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -95,6 +99,6 @@ def create_range(self, first_row, first_column, total_rows, total_columns):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
-* 类 [Range](/cells/python-net/zh/aspose.cells/range)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)
+* 类 [`Range`](/cells/python-net/zh/aspose.cells/range)

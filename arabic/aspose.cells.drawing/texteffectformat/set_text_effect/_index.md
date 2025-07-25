@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.drawing/texteffectformat/set_text_effect/
 is_root: false
 ---
-##  set_text_effect(effect) {#MsoPresetTextEffect}
-يضبط تأثير النص المعين مسبقًا.
+##  set_text_effect(self, effect) {#aspose.cells.drawing.MsoPresetTextEffect}
+تعيين تأثير النص المحدد مسبقًا.
 
 
 
 ```python
+
 def set_text_effect(self, effect):
     ...
 ```
@@ -20,10 +21,10 @@ def set_text_effect(self, effect):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/ar/aspose.cells.drawing/msopresettexteffect) | تأثير النص المحدد مسبقًا.|
+| effect | [`MsoPresetTextEffect`](/cells/python-net/ar/aspose.cells.drawing/msopresettexteffect) | تأثير النص المحدد مسبقًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

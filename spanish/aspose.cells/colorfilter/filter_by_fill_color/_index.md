@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_by_fill_color propiedad
 
-Ya sea para filtrar por el color de relleno de la celda.
+Si filtrar por el color de relleno de la celda.
 
 ###  Observaciones
 

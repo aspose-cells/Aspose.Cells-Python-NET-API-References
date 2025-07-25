@@ -13,10 +13,10 @@ Das Verzeichnis, in dem die angehängten Dateien gespeichert werden.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Bitte verwenden Sie die HtmlLoadOptions.StreamProvider-Eigenschaft.
- Diese Property wird 12 Monate später seit Dezember 2014 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Eigenschaft HtmlLoadOptions.StreamProvider.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2014) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -28,5 +28,5 @@ def attached_files_directory(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HtmlLoadOptions](/cells/python-net/de/aspose.cells/htmlloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HtmlLoadOptions`](/cells/python-net/de/aspose.cells/htmlloadoptions)

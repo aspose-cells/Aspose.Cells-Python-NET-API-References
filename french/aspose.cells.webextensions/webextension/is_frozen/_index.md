@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_frozen propriété
 
-Indique si l'utilisateur peut ou non interagir avec le complément Office.
+Indique si l’utilisateur peut interagir avec le complément Office ou non.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_frozen(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtension](/cells/python-net/fr/aspose.cells.webextensions/webextension)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtension`](/cells/python-net/fr/aspose.cells.webextensions/webextension)

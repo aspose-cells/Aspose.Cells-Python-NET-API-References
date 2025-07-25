@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/name/get_range/
 is_root: false
 ---
-##  get_range() {#}
+##  get_range(self) {#}
 يحصل على النطاق إذا كان هذا الاسم يشير إلى نطاق.
 
 
 ###  عائدات
 
-النطاق.
+المدى.
 
 
 ```python
+
 def get_range(self):
     ...
 ```
@@ -24,16 +25,17 @@ def get_range(self):
 
 
 
-##  get_range(recalculate) {#bool}
+##  get_range(self, recalculate) {#bool}
 يحصل على النطاق إذا كان هذا الاسم يشير إلى نطاق
 
 
 ###  عائدات
 
-النطاق.
+المدى.
 
 
 ```python
+
 def get_range(self, recalculate):
     ...
 ```
@@ -41,20 +43,21 @@ def get_range(self, recalculate):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| recalculate | bool | سواء إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
+| recalculate | bool | هل يجب إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
 
 
-##  get_range(sheet_index, row, column) {#int-int-int}
+##  get_range(self, sheet_index, row, column) {#int-int-int}
 يحصل على النطاق إذا كان هذا الاسم يشير إلى نطاق.
-إذا لم يكن مرجع هذا الاسم مطلقًا ، فقد يكون النطاق مختلفًا لخلية مختلفة.
+إذا لم يكن مرجع هذا الاسم مطلقًا، فقد يختلف النطاق بالنسبة للخلية المختلفة.
 
 
 ###  عائدات
 
-النطاق.
+المدى.
 
 
 ```python
+
 def get_range(self, sheet_index, row, column):
     ...
 ```
@@ -62,12 +65,12 @@ def get_range(self, sheet_index, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| sheet_index | int | فهرس الورقة المطابقة.|
-| row | int | فهرس الصفوف.|
-| column | int | الفهرس حسب العمود|
+| sheet_index | int | فهرس الورقة وفقا لذلك.|
+| row | int | مؤشر الصف وفقا لذلك.|
+| column | int | مؤشر العمود وفقًا لذلك|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämtar eller ställer in value i denna guide
+Hämtar eller anger value i den här guiden
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeGuide](/cells/python-net/sv/aspose.cells.drawing/shapeguide)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeGuide`](/cells/python-net/sv/aspose.cells.drawing/shapeguide)

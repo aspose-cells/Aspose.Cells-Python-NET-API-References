@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Representa la cantidad de barra de error type.
+Representa el importe de la barra de error type.
 
 ###  Ejemplo
 
@@ -37,6 +37,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
-* clase [ErrorBarType](/cells/python-net/es/aspose.cells.charts/errorbartype)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)
+* clase [`ErrorBarType`](/cells/python-net/es/aspose.cells.charts/errorbartype)

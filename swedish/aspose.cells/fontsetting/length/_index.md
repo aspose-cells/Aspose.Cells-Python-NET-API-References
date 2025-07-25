@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  length fastighet
 
-Får length av tecknen.
+Hämtar length för tecknen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FontSetting](/cells/python-net/sv/aspose.cells/fontsetting)
+* modul [`aspose.cells`](../../)
+* klass [`FontSetting`](/cells/python-net/sv/aspose.cells/fontsetting)

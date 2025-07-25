@@ -3,12 +3,12 @@ title: CustomFunctionDefinition صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 400
+weight: 370
 url: /ar/aspose.cells/customfunctiondefinition/
 is_root: false
 ---
 ##  CustomFunctionDefinition صف
-تعريف الوظيفة المخصصة للحساب باستخدام المحرك المخصص للمستخدم.
+تعريف وظيفة مخصصة للحساب باستخدام محرك المستخدم المخصص.
 
 
 
@@ -17,13 +17,13 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/customfunctiondefinition/__init__/#) | إنشاء مثيل جديد لـ CustomFunctionDefinition|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/customfunctiondefinition/__init__/#) | إنشاء مثيل جديد لـ CustomFunctionDefinition|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_array_mode_parameters](/cells/python-net/ar/aspose.cells/customfunctiondefinition/get_array_mode_parameters/#str) | الحصول على مؤشرات معلمات الوظيفة المخصصة المحددة التي يجب حسابها في وضع الصفيف.|
+| [`get_array_mode_parameters(self, function_name)`](/cells/python-net/ar/aspose.cells/customfunctiondefinition/get_array_mode_parameters/#str) | يحصل على مؤشرات معلمات الوظيفة المخصصة المحددة التي يجب حسابها في وضع المصفوفة.|
 
 
 

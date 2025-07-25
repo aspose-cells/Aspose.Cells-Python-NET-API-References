@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  floor عقار
 
-تقوم بإرجاع كائن [`Chart.floor`](/cells/python-net/ar/aspose.cells.charts/chart#floor) الذي يمثل جدران مخطط ثلاثي الأبعاد.
+يقوم بإرجاع الكائن [`Chart.floor`](/cells/python-net/ar/aspose.cells.charts/chart#floor) الذي يمثل جدران مخطط ثلاثي الأبعاد.
 
 ###  ملاحظات
 

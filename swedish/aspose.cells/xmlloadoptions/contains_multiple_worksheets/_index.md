@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contains_multiple_worksheets fastighet
 
-Anger om xml importeras som flera kalkylblad.
+Anger om xml ska importeras som flera kalkylblad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def contains_multiple_worksheets(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlLoadOptions](/cells/python-net/sv/aspose.cells/xmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XmlLoadOptions`](/cells/python-net/sv/aspose.cells/xmlloadoptions)

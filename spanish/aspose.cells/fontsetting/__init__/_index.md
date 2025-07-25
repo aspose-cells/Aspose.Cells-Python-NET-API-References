@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/fontsetting/__init__/
 is_root: false
 ---
-##  FontSetting(start_index, length, sheets) {#int-int-WorksheetCollection}
+##  \_\_init\_\_(self, índice_inicial, longitud, hojas){#int-int-aspose.cells.WorksheetCollection}
 
 
 
 
 ```python
+
 def __init__(self, start_index, length, sheets):
     ...
 ```
@@ -22,10 +23,10 @@ def __init__(self, start_index, length, sheets):
 | :- | :- | :- |
 | start_index | int |  |
 | length | int |  |
-| sheets | [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection) |  |
+| sheets | [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection) |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FontSetting](/cells/python-net/es/aspose.cells/fontsetting)
+* módulo [`aspose.cells`](../../)
+* clase [`FontSetting`](/cells/python-net/es/aspose.cells/fontsetting)

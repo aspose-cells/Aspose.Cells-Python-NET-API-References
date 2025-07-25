@@ -1,19 +1,18 @@
 ---
 title: FolderFontSource classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 670
+weight: 650
 url: /it/aspose.cells/folderfontsource/
 is_root: false
 ---
 ##  FolderFontSource classe
-Rappresenta la cartella che contiene i file dei caratteri TrueType.
+Rappresenta la cartella che contiene i file dei font TrueType.
 
 
 
-**Eredità:** [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) → 
-[`FontSourceBase`](/cells/python-net/it/aspose.cells/fontsourcebase)
+**Eredità:** [`FolderFontSource`](/cells/python-net/it/aspose.cells/folderfontsource)
 
 
 
@@ -22,19 +21,18 @@ Il tipo FolderFontSource espone i seguenti membri:
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [__init__](/cells/python-net/it/aspose.cells/folderfontsource/__init__/#str-bool) | Direttore.|
+| [`__init__(self, folder_path, scan_subfolders)`](/cells/python-net/it/aspose.cells/folderfontsource/__init__/#str-bool) | Cttore.|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells/folderfontsource/type) | Restituisce il tipo dell'origine del carattere.|
-| [folder_path](/cells/python-net/it/aspose.cells/folderfontsource/folder_path) | Percorso della cartella dei caratteri.|
-| [scan_sub_folders](/cells/python-net/it/aspose.cells/folderfontsource/scan_sub_folders) | Determina se eseguire o meno la scansione delle sottocartelle.|
+| [type](/cells/python-net/it/aspose.cells/folderfontsource/type) |Restituisce il tipo di origine del font.|
+| [folder_path](/cells/python-net/it/aspose.cells/folderfontsource/folder_path) | Percorso alla cartella dei caratteri.|
+| [scan_sub_folders](/cells/python-net/it/aspose.cells/folderfontsource/scan_sub_folders) | Determina se analizzare o meno le sottocartelle.|
 
 
 
 ###  Guarda anche
 * modulo [`aspose.cells`](..)
 * classe [`FolderFontSource`](/cells/python-net/it/aspose.cells/folderfontsource)
-* classe [`FontSourceBase`](/cells/python-net/it/aspose.cells/fontsourcebase)

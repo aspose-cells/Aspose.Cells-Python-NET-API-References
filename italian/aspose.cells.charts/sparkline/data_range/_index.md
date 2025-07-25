@@ -1,6 +1,6 @@
 ---
 title: data_range proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_range proprietà
 
-Rappresenta l'intervallo di dati del grafico sparkline.
+Rappresenta l'intervallo di dati dello sparkline.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_range(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Sparkline](/cells/python-net/it/aspose.cells.charts/sparkline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Sparkline`](/cells/python-net/it/aspose.cells.charts/sparkline)

@@ -3,13 +3,13 @@ title: relative_to_original_picture_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 850
+weight: 860
 url: /fr/aspose.cells.drawing/rectangleshape/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size propriété
 
-Indique si la forme est relative à la taille d'origine de l'image.
+Indique si la forme est relative à la taille de l'image d'origine.
 
 ###  Exemple
 

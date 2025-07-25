@@ -9,7 +9,7 @@ is_root: false
 ---
 ## page_setup属性
 
-表示此图表中的页面设置描述。
+代表此图表中的页面设置描述。
 ### 定义：
 ```python
 @property

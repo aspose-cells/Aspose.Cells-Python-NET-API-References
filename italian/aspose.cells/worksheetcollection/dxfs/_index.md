@@ -1,15 +1,15 @@
 ---
 title: dxfs proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 290
+weight: 310
 url: /it/aspose.cells/worksheetcollection/dxfs/
 is_root: false
 ---
 ##  dxfs proprietà
 
-Ottiene i record di formattazione differenziale principali.
+Ottiene i record di formattazione differenziale master.
 ###  Definizione:
 ```python
 @property

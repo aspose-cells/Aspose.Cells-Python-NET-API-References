@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_range mülk
 
-Mini grafiğin veri aralığını temsil eder.
+Kıvılcım çizgisinin veri aralığını temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def data_range(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Sparkline](/cells/python-net/tr/aspose.cells.charts/sparkline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Sparkline`](/cells/python-net/tr/aspose.cells.charts/sparkline)

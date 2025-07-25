@@ -3,13 +3,13 @@ title: text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1110
+weight: 1130
 url: /sv/aspose.cells.drawing/picture/text/
 is_root: false
 ---
 ##  text fastighet
 
-Representerar strängen i detta TextBox-objekt.
+Hämtar och ställer in text för denna form.
 
 ###  Exempel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  side_wall عقار
 
-تقوم بإرجاع كائن [`Chart.walls`](/cells/python-net/ar/aspose.cells.charts/chart#walls) الذي يمثل الجدار الجانبي لمخطط ثلاثي الأبعاد.
+يقوم بإرجاع الكائن [`Chart.walls`](/cells/python-net/ar/aspose.cells.charts/chart#walls) الذي يمثل الجدار الجانبي لمخطط ثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property

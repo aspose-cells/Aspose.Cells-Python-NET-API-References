@@ -1,41 +1,19 @@
 ---
-title: metodo format_characters
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo format_characters
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 60
+weight: 70
 url: /it/aspose.cells.drawing/combobox/format_characters/
 is_root: false
 ---
-##  format_characters(start_index, length, font) {#int-int-Font}
-Formatta alcuni caratteri con l'impostazione del carattere.
+##  format_characters(self, start_index, length, font, flag) {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
+Formatta alcuni caratteri con l'impostazione del font.
 
 
 
 ```python
-def format_characters(self, start_index, length, font):
-    ...
-```
 
-
-| Parametro| Tipo| Descrizione|
-| :- | :- | :- |
-| start_index | int | L'indice di partenza.|
-| length | int | La lunghezza.|
-| font | [Font](/cells/python-net/it/aspose.cells/font) | L'impostazione del carattere.|
-###  Osservazioni
-
-NOTA: questo membro è ora obsoleto. Invece,
-utilizzare il metodo Shape.FormatCharacters(int startIndex, int length, Font font, StyleFlag flag).
- Questa proprietà verrà rimossa 12 mesi dopo da marzo 2016.
-Aspose si scusa per gli eventuali disagi causati.
-
-##  format_characters(start_index, length, font, flag) {#int-int-Font-StyleFlag}
-Formatta alcuni caratteri con l'impostazione del carattere.
-
-
-
-```python
 def format_characters(self, start_index, length, font, flag):
     ...
 ```
@@ -45,11 +23,11 @@ def format_characters(self, start_index, length, font, flag):
 | :- | :- | :- |
 | start_index | int | L'indice di partenza.|
 | length | int | La lunghezza.|
-| font | [Font](/cells/python-net/it/aspose.cells/font) | L'impostazione del carattere.|
-| flag | [StyleFlag](/cells/python-net/it/aspose.cells/styleflag) | La bandiera dell'impostazione del carattere.|
+| font | [`Font`](/cells/python-net/it/aspose.cells/font) | Impostazione del carattere.|
+| flag | [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag) | Flag dell'impostazione del font.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ComboBox](/cells/python-net/it/aspose.cells.drawing/combobox)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ComboBox`](/cells/python-net/it/aspose.cells.drawing/combobox)

@@ -3,13 +3,13 @@ title: is_repeat_item_labels fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 530
 url: /sv/aspose.cells.pivot/pivotfield/is_repeat_item_labels/
 is_root: false
 ---
 ##  is_repeat_item_labels fastighet
 
-anger om fältet kan upprepa objektetiketter
+Anger om upprepade etiketter för fältet i regionen.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

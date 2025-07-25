@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells.webextensions/webextensionbindingcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Agrega una relación vinculante entre un complemento de Office y los datos del documento.
 
 
@@ -17,6 +17,7 @@ Agrega una relación vinculante entre un complemento de Office y los datos del d
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionBindingCollection](/cells/python-net/es/aspose.cells.webextensions/webextensionbindingcollection)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionBindingCollection`](/cells/python-net/es/aspose.cells.webextensions/webextensionbindingcollection)

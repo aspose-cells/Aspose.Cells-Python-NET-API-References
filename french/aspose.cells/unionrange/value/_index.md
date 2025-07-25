@@ -3,7 +3,7 @@ title: value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 230
 url: /fr/aspose.cells/unionrange/value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/fr/aspose.cells/unionrange)
+* module [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/fr/aspose.cells/unionrange)

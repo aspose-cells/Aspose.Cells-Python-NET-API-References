@@ -3,12 +3,12 @@ title: need_quote_in_formula yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
-##  need_quote_in_formula {#str}
-Sayfa adının tek tırnak içine alınması gerekip gerekmediğini belirtir
+##  need_quote_in_formula(, sayfa_adı){#str}
+Sayfanın adının tek tırnak içine alınıp alınmayacağını belirtir
 
 
 ###  İadeler
@@ -17,7 +17,9 @@ Sayfa adının tek tırnak içine alınması gerekip gerekmediğini belirtir
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 

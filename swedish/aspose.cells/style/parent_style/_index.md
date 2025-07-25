@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  parent_style fastighet
 
-Får moderstilen för denna stil.
+Hämtar den överordnade stilen för den här stilen.
 ###  Definition:
 ```python
 @property

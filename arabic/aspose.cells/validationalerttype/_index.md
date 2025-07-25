@@ -3,7 +3,7 @@ title: ValidationAlertType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2720
+weight: 2690
 url: /ar/aspose.cells/validationalerttype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| INFORMATION | أسلوب تنبيه المعلومات.|
-| STOP | توقف عن أسلوب التنبيه.|
-| WARNING | أسلوب التنبيه التحذيري.|
+| INFORMATION | نمط تنبيه المعلومات.|
+| STOP | إيقاف نمط التنبيه.|
+| WARNING | نمط تنبيه التحذير.|
 
 
 

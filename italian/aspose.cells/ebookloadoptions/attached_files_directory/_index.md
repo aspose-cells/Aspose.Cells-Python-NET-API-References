@@ -1,6 +1,6 @@
 ---
 title: attached_files_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -14,9 +14,9 @@ La directory in cui verranno salvati i file allegati.
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
-utilizzare la proprietà HtmlLoadOptions.StreamProvider.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da dicembre 2014.
-Aspose si scusa per eventuali disagi riscontrati.
+si prega di utilizzare la proprietà HtmlLoadOptions.StreamProvider.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da dicembre 2014.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

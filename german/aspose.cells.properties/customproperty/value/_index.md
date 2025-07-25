@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value Eigentum
 
-Gibt den Wert value der benutzerdefinierten Eigenschaft zurück oder legt ihn fest.
+Gibt den value der benutzerdefinierten Eigenschaft zurück oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [CustomProperty](/cells/python-net/de/aspose.cells.properties/customproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`CustomProperty`](/cells/python-net/de/aspose.cells.properties/customproperty)

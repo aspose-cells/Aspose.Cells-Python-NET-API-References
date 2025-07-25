@@ -1,13 +1,13 @@
 ---
-title: is_auto_text الملكية
+title: is_auto_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 230
 url: /ar/aspose.cells.charts/charttextframe/is_auto_text/
 is_root: false
 ---
-##  is_auto_text الملكية
+##  is_auto_text عقار
 
 يشير إلى أن النص تم إنشاؤه تلقائيًا.
 ###  تعريف:
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartTextFrame](/cells/python-net/ar/aspose.cells.charts/charttextframe)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartTextFrame`](/cells/python-net/ar/aspose.cells.charts/charttextframe)

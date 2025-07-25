@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto mülk
 
-Bu çizgi stilinin otomatik olarak atanıp atanmadığını gösterir.
+Bu çizgi stilinin otomatik olarak atanıp atanmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

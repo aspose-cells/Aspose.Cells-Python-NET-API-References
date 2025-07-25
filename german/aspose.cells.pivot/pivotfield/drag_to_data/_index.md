@@ -3,14 +3,14 @@ title: drag_to_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 370
 url: /de/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
 ##  drag_to_data Eigentum
 
 Gibt an, ob das angegebene Feld an die Datenposition gezogen werden kann.
-Der Standardwert ist wahr.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

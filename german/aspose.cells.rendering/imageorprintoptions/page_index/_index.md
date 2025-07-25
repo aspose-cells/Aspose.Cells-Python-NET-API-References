@@ -3,13 +3,13 @@ title: page_index Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---
 ##  page_index Eigentum
 
-Ruft den 0-basierten Index der ersten zu speichernden Seite ab oder legt diesen fest.
+Ruft den 0-basierten Index der ersten zu speichernden Seite ab oder legt ihn fest.
 
 ###  Bemerkungen
 

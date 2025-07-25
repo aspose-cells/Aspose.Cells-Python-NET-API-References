@@ -1,6 +1,6 @@
 ---
 title: weight_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_px недвижимость
 
-Получает или задает вес линии в пикселях.
+Возвращает или задает вес линии в пикселях.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)

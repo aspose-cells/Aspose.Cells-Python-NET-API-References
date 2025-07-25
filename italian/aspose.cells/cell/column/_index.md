@@ -1,15 +1,15 @@
 ---
 title: column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells/cell/column/
 is_root: false
 ---
 ##  column proprietà
 
-Ottiene il numero column (in base zero) della cella.
+Ottiene column il numero (a partire da zero) della cella.
 ###  Definizione:
 ```python
 @property

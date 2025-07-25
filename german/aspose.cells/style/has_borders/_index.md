@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_borders Eigentum
 
-Überprüft, ob für den Stil Rahmen gesetzt wurden.
+Überprüft, ob für den Stil Rahmen festgelegt wurden.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_borders(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

@@ -3,13 +3,13 @@ title: is_minimized fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 290
 url: /sv/aspose.cells/workbooksettings/is_minimized/
 is_root: false
 ---
 ##  is_minimized fastighet
 
-Representerar om det genererade kalkylarket kommer att öppnas Minimerat.
+Representerar om det genererade kalkylbladet kommer att öppnas minimerat.
 ###  Definition:
 ```python
 @property

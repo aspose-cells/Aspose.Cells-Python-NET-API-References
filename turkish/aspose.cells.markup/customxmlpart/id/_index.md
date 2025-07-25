@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id mülk
 
-Özel xml bölümünün id'ini alır ve ayarlar.
+Özel xml parçasının id'ini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def id(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [CustomXmlPart](/cells/python-net/tr/aspose.cells.markup/customxmlpart)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`CustomXmlPart`](/cells/python-net/tr/aspose.cells.markup/customxmlpart)

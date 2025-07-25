@@ -3,7 +3,7 @@ title: MsoPresetTextEffect uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1030
+weight: 1020
 url: /sv/aspose.cells.drawing/msopresettexteffect/
 is_root: false
 ---
@@ -19,16 +19,16 @@ Typen MsoPresetTextEffect avslöjar följande medlemmar:
 | :- | :- |
 | TEXT_EFFECT1 | TextEffekt1|
 | TEXT_EFFECT2 | TextEffekt2|
-| TEXT_EFFECT3 | TextEffect3|
-| TEXT_EFFECT4 | TextEffect4|
-| TEXT_EFFECT5 | TextEffect5|
-| TEXT_EFFECT6 | TextEffect6|
+| TEXT_EFFECT3 | TextEffekt3|
+| TEXT_EFFECT4 | TextEffekt4|
+| TEXT_EFFECT5 | TextEffekt5|
+| TEXT_EFFECT6 | TextEffekt6|
 | TEXT_EFFECT7 | TextEffekt7|
-| TEXT_EFFECT8 | TextEffect8|
-| TEXT_EFFECT9 | TextEffect9|
+| TEXT_EFFECT8 | TextEffekt8|
+| TEXT_EFFECT9 | TextEffekt9|
 | TEXT_EFFECT10 | TextEffekt10|
 | TEXT_EFFECT11 | TextEffekt11|
-| TEXT_EFFECT12 | TextEffekt12|
+| TEXT_EFFECT12 |TextEffekt12|
 | TEXT_EFFECT13 | TextEffekt13|
 | TEXT_EFFECT14 | TextEffekt14|
 | TEXT_EFFECT15 | TextEffekt15|
@@ -46,9 +46,9 @@ Typen MsoPresetTextEffect avslöjar följande medlemmar:
 | TEXT_EFFECT27 | TextEffekt27|
 | TEXT_EFFECT28 | TextEffekt28|
 | TEXT_EFFECT29 | TextEffekt29|
-| TEXT_EFFECT30 | TextEffect30|
+| TEXT_EFFECT30 | TextEffekt30|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

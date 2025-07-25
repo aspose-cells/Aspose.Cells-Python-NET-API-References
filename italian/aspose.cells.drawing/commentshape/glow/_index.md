@@ -1,9 +1,9 @@
 ---
 title: glow proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 400
 url: /it/aspose.cells.drawing/commentshape/glow/
 is_root: false
 ---

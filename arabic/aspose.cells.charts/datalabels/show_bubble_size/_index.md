@@ -3,13 +3,13 @@ title: show_bubble_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 450
 url: /ar/aspose.cells.charts/datalabels/show_bubble_size/
 is_root: false
 ---
 ##  show_bubble_size عقار
 
-يمثل سلوك عرض قيمة النسبة المئوية لتسمية البيانات الخاصة بالمخطط المحدد. يعرض True قيمة النسبة المئوية. كذبة للاختباء.
+يُمثل سلوك عرض قيمة النسبة المئوية لعلامة بيانات مخطط مُحدد. يُظهر "صحيح" قيمة النسبة المئوية. يُخفي "خطأ".
 ###  تعريف:
 ```python
 @property

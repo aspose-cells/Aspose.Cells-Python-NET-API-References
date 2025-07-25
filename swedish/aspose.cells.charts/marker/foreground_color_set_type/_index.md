@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color_set_type fastighet
 
-Hämtar eller ställer in markörens förgrundsfärgsuppsättningstyp.
+Hämtar eller anger markörens förgrundsfärgsuppsättningstyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def foreground_color_set_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [FormattingType](/cells/python-net/sv/aspose.cells.charts/formattingtype)
-* klass [Marker](/cells/python-net/sv/aspose.cells.charts/marker)
+* modul [`aspose.cells.charts`](../../)
+* klass [`FormattingType`](/cells/python-net/sv/aspose.cells.charts/formattingtype)
+* klass [`Marker`](/cells/python-net/sv/aspose.cells.charts/marker)

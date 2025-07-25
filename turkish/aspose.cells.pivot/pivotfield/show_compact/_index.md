@@ -3,13 +3,13 @@ title: show_compact mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 670
 url: /tr/aspose.cells.pivot/pivotfield/show_compact/
 is_root: false
 ---
 ##  show_compact mülk
 
-Pivot Tablo görünümünde aynı sütundaki sonraki alandaki etiketlerin görüntülenip görüntülenmeyeceğini belirtir
+Pivot Tablo görünümünde aynı sütundaki bir sonraki alandaki etiketlerin görüntülenip görüntülenmeyeceğini belirtir
 ###  Tanım:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: fill_forms_permission proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  fill_forms_permission proprietà
 
- Indica se consentire la compilazione dei campi del modulo interattivo esistente (compresi i campi della firma),
-anche se [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) è chiaro.
+ Indica se consentire la compilazione dei campi del modulo interattivo esistente (inclusi i campi della firma),
+anche se [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) è libero.
 ###  Definizione:
 ```python
 @property

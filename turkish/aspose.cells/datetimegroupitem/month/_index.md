@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  month mülk
 
-Gruplandırılmış tarih saatinin month'ini alır ve ayarlar.
+Gruplanmış tarih ve saatin month değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def month(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DateTimeGroupItem](/cells/python-net/tr/aspose.cells/datetimegroupitem)
+* modül [`aspose.cells`](../../)
+* sınıf [`DateTimeGroupItem`](/cells/python-net/tr/aspose.cells/datetimegroupitem)

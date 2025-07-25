@@ -1,20 +1,20 @@
 ---
-title: command_type الملكية
+title: command_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.externalconnections/dbconnection/command_type/
 is_root: false
 ---
-##  command_type الملكية
+##  command_type عقار
 
- تحدد نوع أمر OLE DB.
-1. يحدد الاستعلام اسم مكعب
-2. الاستعلام يحدد جملة SQL
-3. يحدد الاستعلام اسم جدول
-4. يحدد الاستعلام أن المعلومات الافتراضية قد تم تقديمها ، والأمر متروك للمزود في كيفية تفسيره.
-5. الاستعلام ضد مزود بيانات القائمة على شبكة الإنترنت.
+ يحدد نوع أمر OLE DB.
+1. الاستعلام يحدد اسم المكعب
+2. يحدد الاستعلام عبارة SQL
+3. يحدد الاستعلام اسم الجدول
+4. يشير الاستعلام إلى أنه تم تقديم معلومات افتراضية، ويرجع الأمر إلى المزود في كيفية تفسيرها.
+5. الاستعلام ضد مزود بيانات القائمة على الويب.
 ###  تعريف:
 ```python
 @property
@@ -26,6 +26,6 @@ def command_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [DBConnection](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)
-* فئة [OLEDBCommandType](/cells/python-net/ar/aspose.cells.externalconnections/oledbcommandtype)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`DBConnection`](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)
+* فئة [`OLEDBCommandType`](/cells/python-net/ar/aspose.cells.externalconnections/oledbcommandtype)

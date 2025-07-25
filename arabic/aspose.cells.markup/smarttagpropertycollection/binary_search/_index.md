@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells.markup/smarttagpropertycollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#SmartTagProperty}
-يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.
+##  binary_search(self, item) {#aspose.cells.markup.SmartTagProperty}
+يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.
 
 
 ###  عائدات
 
-فهرس القيمة الصفري في قائمة الصفيف التي تم فرزها ، إذا تم العثور على العنصر ؛ خلاف ذلك ، رقم سالب ، وهو تكملة البتات لفهرس العنصر التالي الأكبر من القيمة ، أو إذا لم يكن هناك عنصر أكبر ، فإن تكملة البت لقائمة الصفيف العدد.
+مؤشر القيمة المبدئي من الصفر في قائمة المصفوفة المفرزة، إذا تم العثور على العنصر؛ وإلا، فهو رقم سلبي، وهو المكمل البتّي لمؤشر العنصر التالي الأكبر من القيمة أو، إذا لم يكن هناك عنصر أكبر، المكمل البتّي لقائمة المصفوفة Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [SmartTagProperty](/cells/python-net/ar/aspose.cells.markup/smarttagproperty) | System.Object لتحديد موقع. يمكن أن تكون القيمة فارغة.|
+| item | [`SmartTagProperty`](/cells/python-net/ar/aspose.cells.markup/smarttagproperty) | كائن النظام المطلوب تحديد موقعه. يمكن أن تكون القيمة فارغة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTagPropertyCollection](/cells/python-net/ar/aspose.cells.markup/smarttagpropertycollection)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTagPropertyCollection`](/cells/python-net/ar/aspose.cells.markup/smarttagpropertycollection)

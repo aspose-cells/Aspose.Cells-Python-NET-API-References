@@ -9,7 +9,7 @@ is_root: false
 ---
 ## column属性
 
-获取评论的column索引。
+获取注意事项的索引 column。
 
 ### 例子
 

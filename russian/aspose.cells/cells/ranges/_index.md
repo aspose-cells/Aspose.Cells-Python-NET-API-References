@@ -1,9 +1,9 @@
 ---
 title: ranges недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1220
+weight: 1250
 url: /ru/aspose.cells/cells/ranges/
 is_root: false
 ---

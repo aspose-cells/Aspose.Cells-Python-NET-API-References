@@ -7,16 +7,17 @@ weight: 50
 url: /de/aspose.cells.drawing/shapecollection/add_auto_shape_in_chart/
 is_root: false
 ---
-##  add_auto_shape_in_chart(type, top, left, height, width) {#AutoShapeType-int-int-int-int}
+##  add_auto_shape_in_chart(self, type, top, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int}
 Fügt dem Diagramm eine AutoForm hinzu.
 
 
 ###  Kehrt zurück
 
-Gibt ein Shape-Objekt zurück.
+Gibt ein Formobjekt zurück.
 
 
 ```python
+
 def add_auto_shape_in_chart(self, type, top, left, height, width):
     ...
 ```
@@ -24,17 +25,17 @@ def add_auto_shape_in_chart(self, type, top, left, height, width):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/de/aspose.cells.drawing/autoshapetype) | Automatischer Formtyp.|
-| top | int | Repräsentiert den vertikalen Versatz des Textfelds von der oberen linken Ecke in Einheiten von 1/4000 des Diagrammbereichs.|
-| left | int | Repräsentiert den vertikalen Versatz des Textfelds von der oberen linken Ecke in Einheiten von 1/4000 des Diagrammbereichs.|
-| height | int | Stellt die Höhe des Textfelds in Einheiten von 1/4000 des Diagrammbereichs dar.|
-| width | int | Stellt die Breite des Textfelds in Einheiten von 1/4000 des Diagrammbereichs dar.|
+| type | [`AutoShapeType`](/cells/python-net/de/aspose.cells.drawing/autoshapetype) | Automatischer Formtyp.|
+| top | int | Stellt den vertikalen Versatz des Textfelds von der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche dar.|
+| left | int | Stellt den vertikalen Versatz des Textfelds von der oberen linken Ecke in Einheiten von 1/4000 der Diagrammfläche dar.|
+| height | int | Stellt die Höhe des Textfelds in Einheiten von 1/4000 der Diagrammfläche dar.|
+| width | int | Stellt die Breite des Textfelds in Einheiten von 1/4000 der Diagrammfläche dar.|
 ###  Bemerkungen
 
-Der Typ konnte nicht Chart/Comment/Picture/OleObject/Polygon/DialogBox sein
+Der Typ kann nicht Chart/Comment/Picture/OleObject/Polygon/DialogBox sein.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeCollection](/cells/python-net/de/aspose.cells.drawing/shapecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapeCollection`](/cells/python-net/de/aspose.cells.drawing/shapecollection)

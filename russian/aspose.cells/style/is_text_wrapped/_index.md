@@ -1,6 +1,6 @@
 ---
 title: is_text_wrapped недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 390
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_wrapped недвижимость
 
-Получает или задает значение, указывающее, переносится ли текст внутри ячейки.
+Возвращает или задает значение, указывающее, переносится ли текст внутри ячейки.
 ###  Определение:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  dock_state Eigentum
 
-Ruft den zuletzt angedockten Speicherort dieses Taskpane-Objekts ab und legt diesen fest.
+Ruft die zuletzt angedockte Position dieses Taskpane-Objekts ab und legt diese fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def dock_state(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionTaskPane](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionTaskPane`](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)

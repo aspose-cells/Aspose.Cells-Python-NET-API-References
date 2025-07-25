@@ -3,13 +3,13 @@ title: image_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.rendering/imageorprintoptions/image_type/
 is_root: false
 ---
 ##  image_type عقار
 
-الحصول على أو تعيين تنسيق الصور التي تم إنشاؤها.
+يحصل على تنسيق الصور المولدة أو يعينه.
 القيمة الافتراضية: PNG.
 ###  تعريف:
 ```python

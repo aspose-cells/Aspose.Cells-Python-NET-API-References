@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_column fastighet
 
-Hämtar kolumnindex för cellen.
+Hämtar cellens kolumnindex.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationCell](/cells/python-net/sv/aspose.cells/calculationcell)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationCell`](/cells/python-net/sv/aspose.cells/calculationcell)

@@ -7,16 +7,17 @@ weight: 40
 url: /de/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
-Ruft den Text der Bezeichnung „(Alle)“ in der PivotTable ab.
+##  get_text_of_all(self) {#}
+Ruft den Text der Beschriftung „(Alle)“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Text der Beschriftung „(Alle)“.
+Der Text des Labels „(Alle)“
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: field_index proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_index proprietà
 
-Ottiene e imposta l'offset di colonna nell'intervallo.
+Ottiene e imposta l'offset della colonna nell'intervallo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def field_index(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FilterColumn](/cells/python-net/it/aspose.cells/filtercolumn)
+* modulo [`aspose.cells`](../../)
+* classe [`FilterColumn`](/cells/python-net/it/aspose.cells/filtercolumn)

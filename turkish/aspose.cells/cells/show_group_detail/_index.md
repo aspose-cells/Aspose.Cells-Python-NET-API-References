@@ -3,16 +3,17 @@ title: show_group_detail yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 920
 url: /tr/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail {#bool-int}
-Gruplandırılmış satırları/sütunları genişletir.
+##  show_group_detail(self, is_vertical, index) {#bool-int}
+Gruplanmış satırları/sütunları genişletir.
 
 
 
 ```python
+
 def show_group_detail(self, is_vertical, index):
     ...
 ```
@@ -20,7 +21,7 @@ def show_group_detail(self, is_vertical, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| is_vertical | bool | Doğru, gruplandırılmış satırları genişletir.|
+| is_vertical | bool | Doğru, gruplanmış satırları genişletir.|
 | index | int | Satır/sütun dizini|
 
 

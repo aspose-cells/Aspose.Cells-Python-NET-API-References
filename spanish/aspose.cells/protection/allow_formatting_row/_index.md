@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_formatting_row propiedad
 
-Representa si se permite el formato de filas en una hoja de trabajo protegida
+Representa si se permite el formato de filas en una hoja de cálculo protegida
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_formatting_row(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

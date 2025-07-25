@@ -3,13 +3,13 @@ title: base_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 300
 url: /zh/aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
 ## base_index属性
 
-表示基本数据透视字段中的数据透视字段索引。
+表示基础数据透视字段中的数据透视字段索引。
 ### 定义：
 ```python
 @property

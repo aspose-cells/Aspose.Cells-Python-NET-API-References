@@ -1,9 +1,9 @@
 ---
 title: GradientFillType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 870
+weight: 860
 url: /zh/aspose.cells.drawing/gradientfilltype/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-GradientFillType 类型公开了以下成员：
+GradientFillType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| LINEAR |线性的|
+| LINEAR |线性|
 | RADIAL |径向|
 | RECTANGLE |长方形|
 | PATH |小路|
@@ -25,4 +25,4 @@ GradientFillType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

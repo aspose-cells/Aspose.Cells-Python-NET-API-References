@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  sheet_index mülk
 
-Bu adın Çalışma Kitabı veya Çalışma Sayfasına ait olduğunu gösterir.
-0 = Genel ad, aksi takdirde dizinden sayfaya (tek tabanlı)
+Bu ismin Çalışma Kitabı veya Çalışma Sayfası'na ait olduğunu gösterir.
+0 = Genel ad, aksi takdirde sayfaya endekslenir (bir tabanlı)
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

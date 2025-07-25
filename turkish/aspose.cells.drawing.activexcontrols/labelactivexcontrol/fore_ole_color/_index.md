@@ -8,12 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol/fore_ole_color
 is_root: false
 ---
 ##  fore_ole_color mülk
-
-Ön planın ole rengini alır ve ayarlar.
-
-###  Notlar
-
-Görüntü kontrolü için geçerli değildir.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [LabelActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`LabelActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

@@ -1,15 +1,13 @@
 ---
-title: draw_object_event_handler الملكية
+title: draw_object_event_handler عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 200
 url: /ar/aspose.cells/pdfsaveoptions/draw_object_event_handler/
 is_root: false
 ---
-##  draw_object_event_handler الملكية
-
-تنفذ هذه الواجهة للحصول على DrawObject و Bound عند العرض.
+##  draw_object_event_handler عقار
 ###  تعريف:
 ```python
 @property
@@ -21,6 +19,5 @@ def draw_object_event_handler(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DrawObjectEventHandler](/cells/python-net/ar/aspose.cells.rendering/drawobjecteventhandler)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

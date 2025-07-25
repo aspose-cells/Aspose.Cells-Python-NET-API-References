@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cf_icons fastighet
 
-Få [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från samlingen
+Hämta [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från kollektionen
 ###  Definition:
 ```python
 @property
@@ -18,7 +18,7 @@ def cf_icons(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
-* klass [ConditionalFormattingIconCollection](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
+* klass [`ConditionalFormattingIconCollection`](/cells/python-net/sv/aspose.cells/conditionalformattingiconcollection)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)

@@ -1,6 +1,6 @@
 ---
 title: gradient_fill proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GradientFill](/cells/python-net/it/aspose.cells.drawing/gradientfill)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GradientFill`](/cells/python-net/it/aspose.cells.drawing/gradientfill)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

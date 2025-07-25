@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  worksheet fastighet
 
-Hämtar Worksheet-objektet där funktionen finns i.
+Hämtar arbetsbladsobjektet där funktionen finns.
 ###  Definition:
 ```python
 @property

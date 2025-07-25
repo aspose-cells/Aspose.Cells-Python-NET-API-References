@@ -3,12 +3,12 @@ title: UpdateLinksType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2710
+weight: 2680
 url: /es/aspose.cells/updatelinkstype/
 is_root: false
 ---
 ##  UpdateLinksType enumeración
-Representa cómo actualizar vínculos a otros libros cuando se abre el libro.
+Representa cómo actualizar enlaces a otros libros de trabajo cuando se abre el libro de trabajo.
 
 
 
@@ -18,8 +18,8 @@ El tipo UpdateLinksType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | USER_SET | Solicitar al usuario que actualice.|
-| NEVER | No actualice ni avise al usuario.|
-| ALWAYS | Actualiza siempre.|
+| NEVER | No actualice ni solicite información al usuario.|
+| ALWAYS | Actualizar siempre.|
 
 
 

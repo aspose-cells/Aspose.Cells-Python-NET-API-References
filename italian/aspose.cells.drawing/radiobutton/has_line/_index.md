@@ -1,15 +1,15 @@
 ---
 title: has_line proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 430
 url: /it/aspose.cells.drawing/radiobutton/has_line/
 is_root: false
 ---
 ##  has_line proprietà
 
-Ottiene e imposta il bordo della linea della forma visibile.
+Ottiene e imposta il bordo della linea visibile della forma.
 
 ###  Esempio
 

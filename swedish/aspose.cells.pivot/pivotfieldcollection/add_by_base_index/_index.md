@@ -7,7 +7,7 @@ weight: 30
 url: /sv/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/
 is_root: false
 ---
-##  add_by_base_index(base_field_index) {#int}
+##  add_by_base_index(self, base_field_index) {#int}
 Lägger till ett PivotField-objekt till den specifika typen PivotFields.
 
 
@@ -17,6 +17,7 @@ indexet för PivotField-objektet i detta PivotFields.
 
 
 ```python
+
 def add_by_base_index(self, base_field_index):
     ...
 ```
@@ -24,10 +25,10 @@ def add_by_base_index(self, base_field_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| base_field_index | int | fältindex i baspivotfälten.|
+| base_field_index | int | fältindex i bas-PivotFields.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFieldCollection](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFieldCollection`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)

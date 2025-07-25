@@ -3,20 +3,20 @@ title: legend_entries_labels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 340
 url: /fr/aspose.cells.charts/legend/legend_entries_labels/
 is_root: false
 ---
 ##  legend_entries_labels propriété
 
-Obtient les étiquettes des entrées de légende après avoir appelé la méthode Chart.Calculate().
+Obtient les étiquettes des entrées de légende après l'appel de la méthode Chart.Calculate().
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
 veuillez utiliser la méthode Legend.GetLegendLabels.
- Ce bien sera supprimé 12 mois plus tard depuis novembre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit novembre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

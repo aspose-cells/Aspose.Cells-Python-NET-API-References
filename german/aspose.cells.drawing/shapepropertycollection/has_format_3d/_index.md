@@ -7,8 +7,8 @@ weight: 50
 url: /de/aspose.cells.drawing/shapepropertycollection/has_format_3d/
 is_root: false
 ---
-##  has_format_3d() {#}
-Gibt an, ob die Form Daten im 3D-Format enthält.
+##  has_format_3d(self) {#}
+Gibt an, ob die Form Daten im 3D-Format hat.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt an, ob die Form Daten im 3D-Format enthält.
 
 
 ```python
+
 def has_format_3d(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_format_3d(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

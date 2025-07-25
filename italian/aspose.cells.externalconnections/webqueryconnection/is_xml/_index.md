@@ -1,15 +1,15 @@
 ---
 title: is_xml proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 260
 url: /it/aspose.cells.externalconnections/webqueryconnection/is_xml/
 is_root: false
 ---
 ##  is_xml proprietà
 
-true se l'origine della query Web è XML (invece di HTML), altrimenti false.
+true se la sorgente della query web è XML (anziché HTML), altrimenti false.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

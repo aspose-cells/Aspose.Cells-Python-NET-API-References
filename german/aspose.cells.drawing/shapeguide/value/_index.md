@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value Eigentum
 
-Ruft value dieses Handbuchs ab oder legt es fest
+Ruft value dieses Handbuchs ab oder legt diese fest
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeGuide](/cells/python-net/de/aspose.cells.drawing/shapeguide)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapeGuide`](/cells/python-net/de/aspose.cells.drawing/shapeguide)

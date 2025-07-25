@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_columns propiedad
 
-Solo exporta columnas visibles.
+Sólo exporta columnas visibles.
 ###  Definición:
 ```python
 @property

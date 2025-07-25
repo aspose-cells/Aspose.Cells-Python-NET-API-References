@@ -1,18 +1,19 @@
 ---
 title: Metodo set_text_of_data_field_header
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 250
+weight: 260
 url: /it/aspose.cells/settablepivotglobalizationsettings/set_text_of_data_field_header/
 is_root: false
 ---
-##  set_text_of_data_field_header {#str}
-Imposta il testo dell'intestazione del campo dell'area valori nella tabella pivot.
+##  set_text_of_data_field_header(self, text) {#str}
+Imposta il testo dell'intestazione del campo dell'area valore nella tabella pivot.
 
 
 
 ```python
+
 def set_text_of_data_field_header(self, text):
     ...
 ```

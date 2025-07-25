@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency propriété
 
-Obtient et définit le degré de transparency de l'effet de lueur. Plage de 0,0 (opaque) à 1,0 (transparent).
+Obtient et définit le degré de l'effet de lueur transparency. Plage de valeurs : 0,0 (opaque) à 1,0 (transparent).
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/fr/aspose.cells.drawing/gloweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/fr/aspose.cells.drawing/gloweffect)

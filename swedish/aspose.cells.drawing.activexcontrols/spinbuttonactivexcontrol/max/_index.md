@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max fastighet
 
-Får och ställer in det högsta acceptabla värdet.
+Hämtar och ställer in det maximala acceptabla värdet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [SpinButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`SpinButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

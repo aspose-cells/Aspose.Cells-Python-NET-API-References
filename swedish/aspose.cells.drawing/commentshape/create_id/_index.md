@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  create_id fastighet
 
-Hämtar och sätter skapa id för denna form.
+Hämtar och anger create-ID för denna form.
 ###  Definition:
 ```python
 @property

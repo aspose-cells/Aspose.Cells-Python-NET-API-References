@@ -1,9 +1,9 @@
 ---
 title: embed_ooxml_as_ole_object proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 70
+weight: 80
 url: /it/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def embed_ooxml_as_ole_object(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [OoxmlSaveOptions](/cells/python-net/it/aspose.cells/ooxmlsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`OoxmlSaveOptions`](/cells/python-net/it/aspose.cells/ooxmlsaveoptions)

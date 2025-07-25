@@ -1,18 +1,19 @@
 ---
-title: FolderFontSource 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: FolderFontSource 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/folderfontsource/__init__/
 is_root: false
 ---
-##  FolderFontSource(folder_path, scan_subfolders) {#str-bool}
-Ctor。
+##  \_\_init\_\_（自身，folder_path，scan_subfolders）{#str-bool}
+导演。
 
 
 
 ```python
+
 def __init__(self, folder_path, scan_subfolders):
     ...
 ```
@@ -26,5 +27,5 @@ def __init__(self, folder_path, scan_subfolders):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FolderFontSource](/cells/python-net/zh/aspose.cells/folderfontsource)
+* 模块[`aspose.cells`](../../)
+* 类 [`FolderFontSource`](/cells/python-net/zh/aspose.cells/folderfontsource)

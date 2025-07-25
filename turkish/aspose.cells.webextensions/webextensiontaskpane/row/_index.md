@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Bu görev bölmesinin, aynı varsayılan konuma sabitlenmiş diğer kalıcı görev bölmeleri arasında, dışarıdan içeriye doğru sıralanan dizini alır ve ayarlar.
+Aynı varsayılan konuma yerleştirilmiş diğer kalıcı görev bölmeleri arasında, bu görev bölmesinin dışarıdan içeriye doğru numaralandırılan dizinini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionTaskPane](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionTaskPane`](/cells/python-net/tr/aspose.cells.webextensions/webextensiontaskpane)

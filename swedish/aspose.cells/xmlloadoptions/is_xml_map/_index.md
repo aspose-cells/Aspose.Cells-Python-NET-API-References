@@ -3,13 +3,13 @@ title: is_xml_map fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 160
 url: /sv/aspose.cells/xmlloadoptions/is_xml_map/
 is_root: false
 ---
 ##  is_xml_map fastighet
 
-Anger om xml mappas till Excel.
+Anger om mappning av XML till Excel ska ske.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def is_xml_map(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlLoadOptions](/cells/python-net/sv/aspose.cells/xmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XmlLoadOptions`](/cells/python-net/sv/aspose.cells/xmlloadoptions)

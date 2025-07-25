@@ -1,27 +1,27 @@
 ---
-title: ReConnectionMethodType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ReConnectionMethodType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
 url: /it/aspose.cells.externalconnections/reconnectionmethodtype/
 is_root: false
 ---
-##  ReConnectionMethodType enumerazione
+##  Enumerazione ReConnectionMethodType
 Specifica cosa deve fare l'applicazione del foglio di calcolo quando una connessione fallisce.
 
 
 
-Il tipo ReConnectionMethodType espone i membri seguenti:
+Il tipo ReConnectionMethodType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| REQUIRED | All'aggiornamento utilizzare le informazioni di connessione esistenti e se finiscono per non essere valide<br/> quindi ottenere le informazioni di connessione aggiornate, se disponibili dal file di connessione esterno.|
-| ALWAYS | Ad ogni aggiornamento ottenere informazioni di connessione aggiornate dal file di connessione esterno,<br/> se disponibile, e usalo al posto delle informazioni di connessione esistenti.<br/> In questo caso l'aggiornamento dei dati fallirà se il file di connessione esterno non è disponibile.|
-| NEVER | Non ottenere mai informazioni di connessione aggiornate dal file di connessione esterno<br/> anche se è disponibile e anche se le informazioni sulla connessione esistente non sono valide|
+| REQUIRED | Durante l'aggiornamento, utilizzare le informazioni di connessione esistenti e se risultano non valide<br/> quindi ottenere informazioni di connessione aggiornate, se disponibili dal file di connessione esterno.|
+| ALWAYS | Ad ogni aggiornamento ottieni informazioni di connessione aggiornate dal file di connessione esterno,<br/> se disponibile e utilizzarlo al posto delle informazioni di connessione esistenti.<br/>In questo caso l'aggiornamento dei dati fallirà se il file di connessione esterno non è disponibile.|
+| NEVER | Non ricevere mai informazioni di connessione aggiornate dal file di connessione esterno<br/> anche se è disponibile e anche se le informazioni di connessione esistenti non sono valide|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](..)
+* modulo [`aspose.cells.externalconnections`](..)

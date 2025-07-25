@@ -7,8 +7,8 @@ weight: 80
 url: /sv/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
-Få värdet av validering på den specifika cellen.
+##  get_value(self, row, column, is_value1) {#int-int-bool}
+Hämta valideringsvärdet för den specifika cellen.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Få värdet av validering på den specifika cellen.
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```
@@ -24,9 +25,9 @@ def get_value(self, row, column, is_value1):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| row | int | Radindex.|
-| column | int | Kolumnindex.|
-| is_value1 | bool |Anger om det första värdet erhålls.|
+| row | int | Radindexet.|
+| column | int | Kolumnindexet.|
+| is_value1 | bool | Anger om det första värdet hämtas.|
 
 
 

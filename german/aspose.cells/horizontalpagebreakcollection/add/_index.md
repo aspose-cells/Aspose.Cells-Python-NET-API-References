@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
-##  add(row) {#int}
-Fügt der Auflistung einen horizontalen Seitenumbruch hinzu.
+##  add(self, row) {#int}
+Fügt der Sammlung einen horizontalen Seitenumbruch hinzu.
 
 
 ###  Kehrt zurück
 
-[HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
+[`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
 
 
 ```python
+
 def add(self, row):
     ...
 ```
@@ -28,18 +29,19 @@ def add(self, row):
 ###  Bemerkungen
 
 Der Seitenumbruch wird oben links in der Zelle hinzugefügt.
-Bitte legen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch fest.
+Bitte setzen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch.
 
-##  add(cell_name) {#str}
-Fügt der Auflistung einen horizontalen Seitenumbruch hinzu.
+##  add(self, cell_name) {#str}
+Fügt der Sammlung einen horizontalen Seitenumbruch hinzu.
 
 
 ###  Kehrt zurück
 
-[HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
+[`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -51,18 +53,19 @@ def add(self, cell_name):
 ###  Bemerkungen
 
 Der Seitenumbruch wird oben links in der Zelle hinzugefügt.
-Bitte legen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch fest.
+Bitte setzen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch.
 
-##  add(row, column) {#int-int}
-Fügt der Auflistung einen horizontalen Seitenumbruch hinzu.
+##  add(self, row, column) {#int-int}
+Fügt der Sammlung einen horizontalen Seitenumbruch hinzu.
 
 
 ###  Kehrt zurück
 
-[HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
+[`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -75,18 +78,19 @@ def add(self, row, column):
 ###  Bemerkungen
 
 Der Seitenumbruch wird oben links in der Zelle hinzugefügt.
-Bitte legen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch fest.
+Bitte setzen Sie gleichzeitig einen horizontalen und einen vertikalen Seitenumbruch.
 
-##  add(row, start_column, end_column) {#int-int-int}
-Fügt der Auflistung einen horizontalen Seitenumbruch hinzu.
+##  add(self, row, start_column, end_column) {#int-int-int}
+Fügt der Sammlung einen horizontalen Seitenumbruch hinzu.
 
 
 ###  Kehrt zurück
 
-[HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
+[`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak) Objektindex.
 
 
 ```python
+
 def add(self, row, start_column, end_column):
     ...
 ```
@@ -99,11 +103,11 @@ def add(self, row, start_column, end_column):
 | end_column | int | Endspaltenindex, nullbasiert.|
 ###  Bemerkungen
 
-Diese Methode wird verwendet, um innerhalb eines Druckbereichs einen horizontalen Seitenumbruch add durchzuführen.
+Mit dieser Methode wird ein horizontaler Seitenumbruch innerhalb eines Druckbereichs add durchgeführt.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak)
-* Klasse [HorizontalPageBreakCollection](/cells/python-net/de/aspose.cells/horizontalpagebreakcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak)
+* Klasse [`HorizontalPageBreakCollection`](/cells/python-net/de/aspose.cells/horizontalpagebreakcollection)

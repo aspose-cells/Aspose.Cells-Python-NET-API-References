@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_alignment mülk
 
-Hücredeki metnin dikey hizalama türünü alır veya ayarlar.
+Bir hücredeki metnin dikey hizalama türünü alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

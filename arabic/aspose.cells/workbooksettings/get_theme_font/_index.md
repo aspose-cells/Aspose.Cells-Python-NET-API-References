@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/workbooksettings/get_theme_font/
 is_root: false
 ---
-##  get_theme_font(type) {#FontSchemeType}
-يحصل على اسم خط النسق الافتراضي.
+##  get_theme_font(self, type) {#aspose.cells.FontSchemeType}
+يحصل على اسم الخط الافتراضي للموضوع.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_theme_font(self, type):
     ...
 ```
@@ -24,10 +25,10 @@ def get_theme_font(self, type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [FontSchemeType](/cells/python-net/ar/aspose.cells/fontschemetype) | نوع نظام الخط.|
+| type | [`FontSchemeType`](/cells/python-net/ar/aspose.cells/fontschemetype) | نوع مخطط الخط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WorkbookSettings](/cells/python-net/ar/aspose.cells/workbooksettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookSettings`](/cells/python-net/ar/aspose.cells/workbooksettings)

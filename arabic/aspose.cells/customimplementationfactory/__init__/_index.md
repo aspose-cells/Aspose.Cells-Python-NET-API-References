@@ -1,5 +1,5 @@
 ---
-title: CustomImplementationFactory المنشئ
+title: CustomImplementationFactory منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells/customimplementationfactory/__init__/
 is_root: false
 ---
-##  CustomImplementationFactory() {#}
-بناء نسخة جديدة من CustomImplementationFactory
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ CustomImplementationFactory
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CustomImplementationFactory](/cells/python-net/ar/aspose.cells/customimplementationfactory)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CustomImplementationFactory`](/cells/python-net/ar/aspose.cells/customimplementationfactory)

@@ -1,16 +1,16 @@
 ---
 title: export_similar_border_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 350
+weight: 410
 url: /it/aspose.cells.saving/ebooksaveoptions/export_similar_border_style/
 is_root: false
 ---
 ##  export_similar_border_style proprietà
 
-Indica se esportare lo stile del bordo simile quando lo stile del bordo non è supportato dai browser.
-Se desideri importare il file html o mht in Excel, mantieni il valore predefinito.
+Indica se esportare uno stile di bordo simile quando lo stile del bordo non è supportato dai browser.
+Se vuoi importare il file html o mht in excel, mantieni il valore predefinito.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

@@ -1,15 +1,15 @@
 ---
-title: show_member_property_tips الملكية
+title: show_member_property_tips عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 1050
 url: /ar/aspose.cells.pivot/pivottable/show_member_property_tips/
 is_root: false
 ---
-##  show_member_property_tips الملكية
+##  show_member_property_tips عقار
 
-تحدد قيمة منطقية تشير إلى ما إذا كان يجب حذف معلومات خصائص العضو من تلميحات أدوات PivotTable.
+يحدد قيمة منطقية تشير إلى ما إذا كان ينبغي حذف معلومات خصائص العضو من تلميحات أدوات PivotTable.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_member_property_tips(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

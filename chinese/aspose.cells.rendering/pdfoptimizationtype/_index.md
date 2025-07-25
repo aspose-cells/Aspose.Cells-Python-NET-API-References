@@ -1,21 +1,21 @@
 ---
 title: PdfOptimizationType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 240
 url: /zh/aspose.cells.rendering/pdfoptimizationtype/
 is_root: false
 ---
 ## PdfOptimizationType枚举
-指定一种优化类型。
+指定优化类型。
 
 
 
-PdfOptimizationType 类型公开了以下成员：
+PdfOptimizationType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | STANDARD |高打印质量|
 | MINIMUM_SIZE |文件大小比打印质量更重要|
@@ -23,4 +23,4 @@ PdfOptimizationType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

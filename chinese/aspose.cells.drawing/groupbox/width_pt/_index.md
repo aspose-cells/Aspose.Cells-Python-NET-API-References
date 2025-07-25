@@ -3,7 +3,7 @@ title: width_pt属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /zh/aspose.cells.drawing/groupbox/width_pt/
 is_root: false
 ---

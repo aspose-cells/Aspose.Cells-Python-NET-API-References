@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caps_type fastighet
 
-Hämtar och ställer in typ av textkapslar.
+Hämtar och ställer in versaler för text.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def caps_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextCapsType](/cells/python-net/sv/aspose.cells/textcapstype)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextCapsType`](/cells/python-net/sv/aspose.cells/textcapstype)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

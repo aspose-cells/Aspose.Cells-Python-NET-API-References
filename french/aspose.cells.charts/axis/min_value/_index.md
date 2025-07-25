@@ -3,13 +3,13 @@ title: min_value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 330
+weight: 340
 url: /fr/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
 ##  min_value propriété
 
-Représente la valeur minimale sur l’axe des valeurs.
+Représente la valeur minimale sur l'axe des valeurs.
 
 ###  Remarques
 

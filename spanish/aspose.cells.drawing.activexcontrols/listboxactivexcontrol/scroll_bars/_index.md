@@ -21,6 +21,6 @@ def scroll_bars(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ControlScrollBarType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlscrollbartype)
-* clase [ListBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ControlScrollBarType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/controlscrollbartype)
+* clase [`ListBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

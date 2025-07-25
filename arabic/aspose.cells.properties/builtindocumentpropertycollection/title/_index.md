@@ -1,15 +1,15 @@
 ---
-title: title الملكية
+title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 380
+weight: 390
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/title/
 is_root: false
 ---
-##  title الملكية
+##  title عقار
 
-الحصول على أو تحديد title الخاص بالوثيقة.
+يحصل على أو يعين title من المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def title(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

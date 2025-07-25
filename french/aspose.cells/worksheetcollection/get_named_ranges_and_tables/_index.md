@@ -1,5 +1,5 @@
 ---
-title: get_named_ranges_and_tables méthode
+title: méthode get_named_ranges_and_tables
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 110
 url: /fr/aspose.cells/worksheetcollection/get_named_ranges_and_tables/
 is_root: false
 ---
-##  get_named_ranges_and_tables() {#}
+##  get_named_ranges_and_tables(self) {#}
 Obtient toutes les plages nommées prédéfinies dans la feuille de calcul.
 
 
@@ -20,6 +20,7 @@ Renvoie null si la plage nommée n'existe pas.
 
 
 ```python
+
 def get_named_ranges_and_tables(self):
     ...
 ```
@@ -29,5 +30,5 @@ def get_named_ranges_and_tables(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/fr/aspose.cells/worksheetcollection)
+* module [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/fr/aspose.cells/worksheetcollection)

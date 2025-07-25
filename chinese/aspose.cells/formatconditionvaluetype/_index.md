@@ -3,7 +3,7 @@ title: FormatConditionValueType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2180
+weight: 2120
 url: /zh/aspose.cells/formatconditionvaluetype/
 is_root: false
 ---
@@ -14,17 +14,17 @@ is_root: false
 
 FormatConditionValueType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | FORMULA |的最小值/中点/最大值<br/>梯度由公式确定。|
 | MAX |表示范围内的最大值应为<br/>用作梯度的最大值。|
 | MIN |表示范围内的最小值应为<br/>用作梯度的最小值。|
 | NUMBER |表示最小值/中点/最大值<br/>梯度值由常数指定<br/>数值。|
-| PERCENT |值表示最小值之间的百分比<br/>和范围内的最大值应用作<br/>梯度的最小值/中点/最大值。|
-| PERCENTILE |值表示该范围内的百分位数排名<br/>用作最小值/中点/最大值<br/>为梯度。|
+| PERCENT |值表示最小值与<br/>范围内的最大值应作为<br/>梯度的最小值/中点/最大值。|
+| PERCENTILE |值表示范围内的百分位排名应<br/>用作最小值/中点/最大值<br/>用于渐变。|
 | AUTOMATIC_MAX |表示范围内的自动最大值应为<br/>用作梯度的自动最大值。|
-| AUTOMATIC_MIN |表示范围内的自动最小值应为<br/>用作梯度的自动最小值。|
+| AUTOMATIC_MIN |表示范围内的自动最小值应为<br/>用作渐变的自动最小值。|
 
 
 

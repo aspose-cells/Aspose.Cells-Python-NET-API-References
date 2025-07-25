@@ -1,14 +1,14 @@
 ---
 title: ThreadedCommentAuthor класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1520
+weight: 1430
 url: /ru/aspose.cells/threadedcommentauthor/
 is_root: false
 ---
 ##  ThreadedCommentAuthor класс
-Представляет человека, создающего цепочки комментариев;
+Представляет человека, который создает связанные комментарии;
 
 
 
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | [name](/cells/python-net/ru/aspose.cells/threadedcommentauthor/name) | Получает и задает имя.|
 | [user_id](/cells/python-net/ru/aspose.cells/threadedcommentauthor/user_id) | Получает и задает идентификатор пользователя.|
-| [provider_id](/cells/python-net/ru/aspose.cells/threadedcommentauthor/provider_id) | Получает идентификатор поставщика.|
+| [provider_id](/cells/python-net/ru/aspose.cells/threadedcommentauthor/provider_id) | Получает идентификатор провайдера.|
 
 
 

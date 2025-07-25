@@ -1,6 +1,6 @@
 ---
 title: TickLabelPositionType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 650
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/ticklabelpositiontype/
 is_root: false
 ---
 ##  TickLabelPositionType перечисление
-Представляет тип положения меток делений на указанной оси.
+Представляет собой тип положения меток делений на указанной оси.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| HIGH | Тип позиции высокий.|
-| LOW | Тип позиции низкий.|
+| HIGH | Тип позиции – высокий.|
+| LOW | Тип позиции — низкий.|
 | NEXT_TO_AXIS | Тип позиции — рядом с осью.|
-| NONE | Тип позиции – нет.|
+| NONE | Тип позиции — нет.|
 
 
 

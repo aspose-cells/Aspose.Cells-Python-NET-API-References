@@ -3,13 +3,13 @@ title: export_hidden_worksheet fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 350
 url: /sv/aspose.cells/htmlsaveoptions/export_hidden_worksheet/
 is_root: false
 ---
 ##  export_hidden_worksheet fastighet
 
-Indikerar om det dolda kalkylbladets innehåll exporteras. Standardvärdet är sant.
+Anger om det dolda kalkylbladets innehåll exporteras. Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

@@ -1,19 +1,19 @@
 ---
-title: version 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: version属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 410
 url: /zh/aspose.cells.properties/builtindocumentpropertycollection/version/
 is_root: false
 ---
-## version 属性
+## version属性
 
-表示创建文档的应用程序的 version 编号。
+代表创建该文档的应用程序的编号 version。
 
-### 评论
+### 注意事项
 
-它的格式是“00.0000”，例如：12.0000
+格式为“00.0000”，例如：12.0000
 ### 定义：
 ```python
 @property
@@ -25,5 +25,5 @@ def version(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [BuiltInDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`BuiltInDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/builtindocumentpropertycollection)

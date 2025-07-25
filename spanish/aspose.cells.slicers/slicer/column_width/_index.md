@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  column_width propiedad
 
-Devuelve o establece el ancho, en puntos, de cada columna en la segmentación.
+Devuelve o establece el ancho, en puntos, de cada columna en la segmentación de datos.
 
 ###  Ejemplo
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Definición:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

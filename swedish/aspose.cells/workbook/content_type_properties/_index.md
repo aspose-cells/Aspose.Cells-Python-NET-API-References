@@ -3,13 +3,13 @@ title: content_type_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 480
+weight: 500
 url: /sv/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---
 ##  content_type_properties fastighet
 
-Hämtar listan med [`ContentTypeProperty`](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty) objekt i arbetsboken.
+Hämtar listan över [`ContentTypeProperty`](/cells/python-net/sv/aspose.cells.properties/contenttypeproperty)-objekt i arbetsboken.
 ###  Definition:
 ```python
 @property

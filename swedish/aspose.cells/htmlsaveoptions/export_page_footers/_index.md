@@ -3,17 +3,17 @@ title: export_page_footers fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 370
 url: /sv/aspose.cells/htmlsaveoptions/export_page_footers/
 is_root: false
 ---
 ##  export_page_footers fastighet
 
-Anger om sidhuvuden exporteras.
+Anger om sidhuvuden ska exporteras.
 
 ###  Anmärkningar
 
-Fungerar bara när [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/sv/aspose.cells/htmlsaveoptions#save_as_single_file) är sant.
+Fungerar bara när [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/sv/aspose.cells/htmlsaveoptions#save_as_single_file) är True.
 ###  Definition:
 ```python
 @property

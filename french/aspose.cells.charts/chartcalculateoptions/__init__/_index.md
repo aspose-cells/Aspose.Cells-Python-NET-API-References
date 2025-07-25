@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __initialisation__ {#}
+##  \_\_init\_\_(self){#}
 Crée les options de calcul du graphique.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

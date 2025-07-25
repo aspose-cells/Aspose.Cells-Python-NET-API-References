@@ -3,13 +3,13 @@ title: text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 950
 url: /es/aspose.cells.drawing/groupshape/text/
 is_root: false
 ---
 ##  text propiedad
 
-Representa la cadena en este objeto TextBox.
+Obtiene y establece el text de esta forma.
 
 ###  Ejemplo
 

@@ -3,7 +3,7 @@ title: window_top_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 590
+weight: 600
 url: /es/aspose.cells/workbooksettings/window_top_cm/
 is_root: false
 ---

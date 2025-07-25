@@ -3,7 +3,7 @@ title: merged_cells fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1140
+weight: 1170
 url: /sv/aspose.cells/cells/merged_cells/
 is_root: false
 ---

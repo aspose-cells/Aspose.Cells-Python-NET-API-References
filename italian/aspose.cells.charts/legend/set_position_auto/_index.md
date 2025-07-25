@@ -1,18 +1,19 @@
 ---
 title: Metodo set_position_auto
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto {#}
-Imposta la posizione del telaio su automatico
+##  set_position_auto(self) {#}
+Imposta la posizione del frame su automatico
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

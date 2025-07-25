@@ -1,14 +1,14 @@
 ---
-title: PresetCameraType dénombrement
+title: PresetCameraType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /fr/aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
-##  PresetCameraType dénombrement
-Représenter différentes méthodes algorithmiques pour définir toutes les propriétés de la caméra, y compris la position.
+##  PresetCameraType énumération
+Représente différentes méthodes algorithmiques pour définir toutes les propriétés de la caméra, y compris la position.
 
 
 
@@ -83,4 +83,4 @@ Le type PresetCameraType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

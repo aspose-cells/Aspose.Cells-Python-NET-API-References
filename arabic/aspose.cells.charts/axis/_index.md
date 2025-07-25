@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/axis/
 is_root: false
 ---
 ##  Axis صف
-يقوم بتغليف الكائن الذي يمثل محور المخطط.
+يقوم بتغليف الكائن الذي يمثل محور الرسم البياني.
 
 
 
@@ -18,56 +18,57 @@ is_root: false
 | ملكية| وصف|
 | :- | :- |
 | [area](/cells/python-net/ar/aspose.cells.charts/axis/area) | يحصل على [`Axis.area`](/cells/python-net/ar/aspose.cells.charts/axis#area).|
-| [is_automatic_min_value](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_min_value) | يشير إلى ما إذا تم تعيين القيمة الدنيا تلقائيًا.|
+| [is_automatic_min_value](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_min_value) | يشير إلى ما إذا كان يتم تعيين الحد الأدنى للقيمة تلقائيًا.|
 | [min_value](/cells/python-net/ar/aspose.cells.charts/axis/min_value) | يمثل الحد الأدنى للقيمة على محور القيمة.|
-| [is_automatic_max_value](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_max_value) | يشير إلى ما إذا تم تعيين القيمة القصوى تلقائيًا.|
-| [max_value](/cells/python-net/ar/aspose.cells.charts/axis/max_value) |يمثل الحد الأقصى للقيمة على محور القيمة.|
-| [is_automatic_major_unit](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_major_unit) | يشير إلى ما إذا كان سيتم تعيين الوحدة الرئيسية للمحور تلقائيًا.|
+| [is_automatic_max_value](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_max_value) | يشير إلى ما إذا كان يتم تعيين القيمة القصوى تلقائيًا.|
+| [max_value](/cells/python-net/ar/aspose.cells.charts/axis/max_value) | يمثل الحد الأقصى للقيمة على محور القيمة.|
+| [is_automatic_major_unit](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_major_unit) | يشير إلى ما إذا كانت الوحدة الرئيسية للمحور معينة تلقائيًا.|
 | [major_unit](/cells/python-net/ar/aspose.cells.charts/axis/major_unit) | يمثل الوحدات الرئيسية للمحور.|
-| [is_automatic_minor_unit](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_minor_unit) | يشير إلى ما إذا كان سيتم تعيين الوحدة الثانوية للمحور تلقائيًا.|
+| [is_automatic_minor_unit](/cells/python-net/ar/aspose.cells.charts/axis/is_automatic_minor_unit) | يشير إلى ما إذا كانت الوحدة الثانوية للمحور يتم تعيينها تلقائيًا.|
 | [minor_unit](/cells/python-net/ar/aspose.cells.charts/axis/minor_unit) | يمثل الوحدات الثانوية للمحور.|
-| [axis_line](/cells/python-net/ar/aspose.cells.charts/axis/axis_line) | يحصل على مظهر المحور.|
-| [major_tick_mark](/cells/python-net/ar/aspose.cells.charts/axis/major_tick_mark) | يمثل نوع علامة التجزئة الرئيسية للمحور المحدد.|
+| [axis_line](/cells/python-net/ar/aspose.cells.charts/axis/axis_line) | يبدو وكأنه محور.|
+| [major_tick_mark](/cells/python-net/ar/aspose.cells.charts/axis/major_tick_mark) |يمثل نوع علامة التجزئة الرئيسية للمحور المحدد.|
 | [minor_tick_mark](/cells/python-net/ar/aspose.cells.charts/axis/minor_tick_mark) | يمثل نوع علامة التجزئة الثانوية للمحور المحدد.|
-| [tick_label_position](/cells/python-net/ar/aspose.cells.charts/axis/tick_label_position) | يمثل موضع تسميات علامات التجزئة على المحور المحدد.|
-| [cross_at](/cells/python-net/ar/aspose.cells.charts/axis/cross_at) | يمثل النقطة الموجودة على محور القيمة حيث يتقاطع معها محور الفئة.|
+| [tick_label_position](/cells/python-net/ar/aspose.cells.charts/axis/tick_label_position) | يمثل موضع علامات التجزئة على المحور المحدد.|
+| [cross_at](/cells/python-net/ar/aspose.cells.charts/axis/cross_at) | يمثل النقطة على محور القيمة حيث يتقاطع محور الفئة معها.|
 | [cross_type](/cells/python-net/ar/aspose.cells.charts/axis/cross_type) | يمثل [`Axis.cross_type`](/cells/python-net/ar/aspose.cells.charts/axis#cross_type) على المحور المحدد حيث يتقاطع المحور الآخر.|
-| [log_base](/cells/python-net/ar/aspose.cells.charts/axis/log_base) | يمثل القاعدة اللوغاريتمية. القيمة الافتراضية هي 10. تنطبق فقط على Excel2007.|
+| [log_base](/cells/python-net/ar/aspose.cells.charts/axis/log_base) | يُمثل الأساس اللوغاريتمي. القيمة الافتراضية هي ١٠. ينطبق فقط على Excel ٢٠٠٧.|
 | [is_logarithmic](/cells/python-net/ar/aspose.cells.charts/axis/is_logarithmic) | يمثل ما إذا كان نوع مقياس محور القيمة لوغاريتميًا أم لا.|
-| [is_plot_order_reversed](/cells/python-net/ar/aspose.cells.charts/axis/is_plot_order_reversed) | يمثل ما إذا كان Microsoft Excel يرسم نقاط البيانات من الأخير إلى الأول.|
-| [axis_between_categories](/cells/python-net/ar/aspose.cells.charts/axis/axis_between_categories) |يمثل ما إذا كان محور القيمة يتقاطع مع محور الفئة بين الفئات.|
-| [tick_labels](/cells/python-net/ar/aspose.cells.charts/axis/tick_labels) | تقوم بإرجاع كائن [`Axis.tick_labels`](/cells/python-net/ar/aspose.cells.charts/axis#tick_labels) الذي يمثل تسميات علامات التجزئة للمحور المحدد.|
-| [tick_label_spacing](/cells/python-net/ar/aspose.cells.charts/axis/tick_label_spacing) | يمثل عدد الفئات أو السلاسل بين تسميات علامات التجزئة. ينطبق فقط على محاور الفئة والسلسلة.|
-| [is_auto_tick_label_spacing](/cells/python-net/ar/aspose.cells.charts/axis/is_auto_tick_label_spacing) | يشير إلى ما إذا كان التباعد بين علامات التجزئة تلقائيًا|
-| [tick_mark_spacing](/cells/python-net/ar/aspose.cells.charts/axis/tick_mark_spacing) | إرجاع أو تعيين عدد الفئات أو السلاسل بين علامات التجزئة. ينطبق فقط على محاور الفئة والسلسلة.|
+| [is_plot_order_reversed](/cells/python-net/ar/aspose.cells.charts/axis/is_plot_order_reversed) | يمثل Microsoft Excel يرسم نقاط البيانات من الأخير إلى الأول.|
+| [axis_between_categories](/cells/python-net/ar/aspose.cells.charts/axis/axis_between_categories) | يمثل ما إذا كان محور القيمة يعبر محور الفئة بين الفئات.|
+| [tick_labels](/cells/python-net/ar/aspose.cells.charts/axis/tick_labels) | يقوم بإرجاع الكائن [`Axis.tick_labels`](/cells/python-net/ar/aspose.cells.charts/axis#tick_labels) الذي يمثل علامات التجزئة للمحور المحدد.|
+| [tick_label_spacing](/cells/python-net/ar/aspose.cells.charts/axis/tick_label_spacing) | يُمثل عدد الفئات أو السلاسل بين علامات التجزئة. ينطبق فقط على محاور الفئات والسلاسل.|
+| [is_auto_tick_label_spacing](/cells/python-net/ar/aspose.cells.charts/axis/is_auto_tick_label_spacing) | يشير إلى ما إذا كانت المسافة بين علامات التجزئة تلقائية|
+| [tick_mark_spacing](/cells/python-net/ar/aspose.cells.charts/axis/tick_mark_spacing) |يُرجع أو يُحدد عدد الفئات أو السلاسل بين علامتي التجزئة. يُطبق فقط على محاور الفئات والسلاسل.|
 | [display_unit](/cells/python-net/ar/aspose.cells.charts/axis/display_unit) | يمثل تسمية الوحدة للمحور المحدد.|
 | [cust_unit](/cells/python-net/ar/aspose.cells.charts/axis/cust_unit) | يحدد قيمة مخصصة لوحدة العرض.|
 | [custom_unit](/cells/python-net/ar/aspose.cells.charts/axis/custom_unit) | يحدد قيمة مخصصة لوحدة العرض.|
-| [display_unit_label](/cells/python-net/ar/aspose.cells.charts/axis/display_unit_label) | يمثل تسمية وحدة على محور في المخطط المحدد.<br/> تعتبر تسميات الوحدات مفيدة لتخطيط القيم الكبيرة، على سبيل المثال، بالملايين أو المليارات.|
-| [is_display_unit_label_shown](/cells/python-net/ar/aspose.cells.charts/axis/is_display_unit_label_shown) | يمثل ما إذا كانت تسمية وحدة العرض معروضة على المحور المحدد.|
+| [custom_display_unit](/cells/python-net/ar/aspose.cells.charts/axis/custom_display_unit) | يحدد قيمة مخصصة لوحدة العرض.|
+| [display_unit_label](/cells/python-net/ar/aspose.cells.charts/axis/display_unit_label) | يمثل تسمية الوحدة على محور في الرسم البياني المحدد.<br/> تُعد تسميات الوحدات مفيدة لرسم القيم الكبيرة - على سبيل المثال، بالملايين أو المليارات.|
+| [is_display_unit_label_shown](/cells/python-net/ar/aspose.cells.charts/axis/is_display_unit_label_shown) | يمثل ما إذا كان يتم عرض تسمية وحدة العرض على المحور المحدد.|
 | [title](/cells/python-net/ar/aspose.cells.charts/axis/title) | يحصل على عنوان المحور.|
 | [category_type](/cells/python-net/ar/aspose.cells.charts/axis/category_type) | يمثل نوع محور الفئة.|
 | [base_unit_scale](/cells/python-net/ar/aspose.cells.charts/axis/base_unit_scale) | يمثل مقياس الوحدة الأساسية لمحور الفئة.|
-| [major_unit_scale](/cells/python-net/ar/aspose.cells.charts/axis/major_unit_scale) |يمثل مقياس الوحدة الرئيسية لمحور الفئة.|
-| [minor_unit_scale](/cells/python-net/ar/aspose.cells.charts/axis/minor_unit_scale) |يمثل مقياس الوحدة الرئيسية لمحور الفئة.|
-| [is_visible](/cells/python-net/ar/aspose.cells.charts/axis/is_visible) | يمثل ما إذا كان المحور مرئيا.|
-| [major_grid_lines](/cells/python-net/ar/aspose.cells.charts/axis/major_grid_lines) | يمثل خطوط الشبكة الرئيسية على محور المخطط.|
-| [minor_grid_lines](/cells/python-net/ar/aspose.cells.charts/axis/minor_grid_lines) | يمثل خطوط الشبكة الثانوية على محور المخطط.|
-| [has_multi_level_labels](/cells/python-net/ar/aspose.cells.charts/axis/has_multi_level_labels) | يشير إلى ما إذا كان سيتم عرض التسميات على أنها متعددة المستويات.|
-| [axis_labels](/cells/python-net/ar/aspose.cells.charts/axis/axis_labels) | يحصل على تسميات المحور بعد استدعاء الأسلوب Chart.Calculate().|
-| [bins](/cells/python-net/ar/aspose.cells.charts/axis/bins) | يمثل الصناديق على محور الرسم البياني (الرسم البياني/باريتو).|
+| [major_unit_scale](/cells/python-net/ar/aspose.cells.charts/axis/major_unit_scale) | يمثل مقياس الوحدة الرئيسي لمحور الفئة.|
+| [minor_unit_scale](/cells/python-net/ar/aspose.cells.charts/axis/minor_unit_scale) | يمثل مقياس الوحدة الرئيسي لمحور الفئة.|
+| [is_visible](/cells/python-net/ar/aspose.cells.charts/axis/is_visible) | يمثل ما إذا كان المحور مرئيًا.|
+| [major_grid_lines](/cells/python-net/ar/aspose.cells.charts/axis/major_grid_lines) | يمثل خطوط الشبكة الرئيسية على محور الرسم البياني.|
+| [minor_grid_lines](/cells/python-net/ar/aspose.cells.charts/axis/minor_grid_lines) | يمثل خطوط الشبكة الثانوية على محور الرسم البياني.|
+| [has_multi_level_labels](/cells/python-net/ar/aspose.cells.charts/axis/has_multi_level_labels) | يشير إلى ما إذا كان سيتم عرض العلامات على مستويات متعددة.|
+| [axis_labels](/cells/python-net/ar/aspose.cells.charts/axis/axis_labels) | يحصل على تسميات المحور بعد استدعاء طريقة Chart.Calculate().|
+| [bins](/cells/python-net/ar/aspose.cells.charts/axis/bins) | يمثل الصناديق على محور الرسم البياني (المدرج التكراري/باريتو)|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_axis_texts](/cells/python-net/ar/aspose.cells.charts/axis/get_axis_texts/#) | يحصل على تسميات المحور بعد استدعاء الأسلوب Chart.Calculate().|
+| [`get_axis_texts(self)`](/cells/python-net/ar/aspose.cells.charts/axis/get_axis_texts/#) | يحصل على تسميات المحور بعد استدعاء طريقة Chart.Calculate().|
 
 
 
 ###  مثال
 
-ومن خلال الرموز التالية يمكنك التعرف على كيفية ضبط الوحدة والحد الأقصى والأدنى لقيمة Axis.
+من خلال الرموز التالية، يمكنك معرفة كيفية تعيين الوحدة والقيمة القصوى والدنيا لـ Axis.
 
 ```python
 from aspose.cells import Workbook

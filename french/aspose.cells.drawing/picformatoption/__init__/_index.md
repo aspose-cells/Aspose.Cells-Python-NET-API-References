@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.drawing/picformatoption/__init__/
 is_root: false
 ---
-##  PicFormatOption() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de PicFormatOption
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [PicFormatOption](/cells/python-net/fr/aspose.cells.drawing/picformatoption)
+* module [`aspose.cells.drawing`](../../)
+* classe [`PicFormatOption`](/cells/python-net/fr/aspose.cells.drawing/picformatoption)

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.tables/listcolumn/get_custom_calculated_formula/
 is_root: false
 ---
-##  get_custom_calculated_formula(is_r1c1, is_local) {#bool-bool}
+##  get_custom_calculated_formula(self, is_r1c1, is_local) {#bool-bool}
 Ruft die Formel dieser Listenspalte ab.
 
 
@@ -17,6 +17,7 @@ Die Formel dieser Listenspalte.
 
 
 ```python
+
 def get_custom_calculated_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_custom_calculated_formula(self, is_r1c1, is_local):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListColumn](/cells/python-net/de/aspose.cells.tables/listcolumn)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListColumn`](/cells/python-net/de/aspose.cells.tables/listcolumn)

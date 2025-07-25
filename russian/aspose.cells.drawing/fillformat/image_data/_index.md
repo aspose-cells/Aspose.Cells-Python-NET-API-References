@@ -1,6 +1,6 @@
 ---
 title: image_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если формат заливки не является пользовательским форматом текстуры, возвращает значение null.
+Если формат заполнения не является пользовательским форматом текстуры, возвращает null.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [FillFormat](/cells/python-net/ru/aspose.cells.drawing/fillformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`FillFormat`](/cells/python-net/ru/aspose.cells.drawing/fillformat)

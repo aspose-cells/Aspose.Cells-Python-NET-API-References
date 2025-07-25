@@ -3,13 +3,13 @@ title: height_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 460
+weight: 450
 url: /tr/aspose.cells.drawing/spinner/height_in_shape/
 is_root: false
 ---
 ##  height_in_shape mülk
 
-Üst şeklin yüksekliğinin 1/4000'i biriminde, şeklin üst kenarlığından dikey uzaklığını temsil eder.
+Ana şeklin üst sınırından şeklin dikey uzaklığını, ana şeklin yüksekliğinin 1/4000'i biriminde temsil eder.
 
 ###  Notlar
 

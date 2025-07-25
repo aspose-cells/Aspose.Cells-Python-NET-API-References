@@ -8,7 +8,7 @@ url: /sv/aspose.cells.tables/totalscalculation/
 is_root: false
 ---
 ##  TotalsCalculation uppräkning
-Bestämmer typen av beräkning i raden Totals i listkolumnen.
+Bestämmer beräkningstypen på raden Totaler i listkolumnen.
 
 
 
@@ -17,18 +17,18 @@ Typen TotalsCalculation avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| SUM | Representerar beräkning av summasummor.|
-| COUNT | Representerar beräkning av totalsummor.|
-| AVERAGE |Representerar beräkning av genomsnittlig totalsumma.|
-| MAX | Representerar beräkning av maxtotal.|
-| MIN | Representerar min totalberäkning.|
-| VAR | Representerar var totalberäkning.|
-| COUNT_NUMS | Representerar Count Nums totalberäkning.|
-| STD_DEV | Representerar beräkning av StdDev-total.|
+| SUM | Representerar beräkningen av summor.|
+| COUNT | Representerar beräkningen av totalsummor.|
+| AVERAGE | Representerar beräkningen av genomsnittliga totalbelopp.|
+| MAX | Representerar beräkningen av maxtotaler.|
+| MIN | Representerar beräkningen av min-totaler.|
+| VAR | Representerar beräkningen av Var-totaler.|
+| COUNT_NUMS | Representerar beräkningen av totalsummorna för antal.|
+| STD_DEV | Representerar beräkningen av StdDev-totaler.|
 | NONE | Representerar ingen totalberäkning.|
 | CUSTOM | Representerar anpassad beräkning.|
 
 
 
 ###  Se även
-* modul [aspose.cells.tables](..)
+* modul [`aspose.cells.tables`](..)

@@ -1,5 +1,5 @@
 ---
-title: العد SparklineType
+title: SparklineType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 630
 url: /ar/aspose.cells.charts/sparklinetype/
 is_root: false
 ---
-##  العد SparklineType
-يمثل أنواع خط المؤشر.
+##  SparklineType التعداد
+يمثل أنواع المخططات الشريطية.
 
 
 
-يكشف نوع SparklineType الأعضاء التالية:
+يكشف النوع SparklineType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| LINE | خط مؤشر.|
-| COLUMN | خط مؤشر العمود.|
-| STACKED | خط مؤشر الفوز / الخسارة.|
+| LINE | خط متعرج.|
+| COLUMN | شريط عمودي.|
+| STACKED | مخطط بياني للفوز/الخسارة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

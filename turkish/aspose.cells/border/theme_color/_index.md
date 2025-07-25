@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color mülk
 
-Kenarlığın tema rengini alır ve ayarlar.
+Sınırın tema rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Border](/cells/python-net/tr/aspose.cells/border)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`Border`](/cells/python-net/tr/aspose.cells/border)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

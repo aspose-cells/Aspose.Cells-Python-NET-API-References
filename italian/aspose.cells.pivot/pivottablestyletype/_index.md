@@ -1,9 +1,9 @@
 ---
 title: Enumerazione PivotTableStyleType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 470
 url: /it/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---

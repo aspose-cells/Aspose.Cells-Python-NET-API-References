@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  value fastighet
 
-Hämtar och ställer in value för kontrollen.
+Hämtar och ställer in kontrollens value.
 
 ###  Anmärkningar
 
-Effekter endast när [ListBoxActiveXControl.selection_type](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) är SelectionType.Single;
+Gäller endast när [`ListBoxActiveXControl.selection_type`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol#selection_type) är SelectionType.Single;
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

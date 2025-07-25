@@ -1,6 +1,6 @@
 ---
 title: hide_pivot_field_buttons proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 330
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_pivot_field_buttons proprietà
 
-Indica se nascondere i pulsanti del campo del grafico pivot solo quando il grafico è grafico pivot.
+Indica se nascondere i pulsanti dei campi del grafico pivot solo quando il grafico è PivotChart.
 ###  Definizione:
 ```python
 @property

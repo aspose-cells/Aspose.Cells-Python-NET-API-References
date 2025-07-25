@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_row propriété
 
-Obtient et définit le dernier index de ligne de la table.
+Obtient et définit l'index de la dernière ligne de la table.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [TableToRangeOptions](/cells/python-net/fr/aspose.cells.tables/tabletorangeoptions)
+* module [`aspose.cells.tables`](../../)
+* classe [`TableToRangeOptions`](/cells/python-net/fr/aspose.cells.tables/tabletorangeoptions)

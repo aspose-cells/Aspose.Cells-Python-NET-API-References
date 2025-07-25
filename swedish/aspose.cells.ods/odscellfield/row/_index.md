@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämta och ställer in row index för cellen.
+Hämta och anger row-indexet för cellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsCellField](/cells/python-net/sv/aspose.cells.ods/odscellfield)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsCellField`](/cells/python-net/sv/aspose.cells.ods/odscellfield)

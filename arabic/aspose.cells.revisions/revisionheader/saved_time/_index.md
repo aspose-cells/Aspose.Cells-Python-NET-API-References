@@ -1,5 +1,5 @@
 ---
-title: saved_time الملكية
+title: saved_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.revisions/revisionheader/saved_time/
 is_root: false
 ---
-##  saved_time الملكية
+##  saved_time عقار
 
-الحصول على وتعيين التاريخ والوقت عندما تم حفظ هذه المجموعة من المراجعات.
+يحصل على التاريخ والوقت اللذين تم فيهما حفظ مجموعة المراجعات هذه ويقوم بتعيينهما.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def saved_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionHeader](/cells/python-net/ar/aspose.cells.revisions/revisionheader)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionHeader`](/cells/python-net/ar/aspose.cells.revisions/revisionheader)

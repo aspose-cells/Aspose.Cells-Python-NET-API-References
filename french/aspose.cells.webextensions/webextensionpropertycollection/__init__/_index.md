@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.webextensions/webextensionpropertycollection/__init__/
 is_root: false
 ---
-##  WebExtensionPropertyCollection() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de WebExtensionPropertyCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.webextensions](../../)
-* classe [WebExtensionPropertyCollection](/cells/python-net/fr/aspose.cells.webextensions/webextensionpropertycollection)
+* module [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionPropertyCollection`](/cells/python-net/fr/aspose.cells.webextensions/webextensionpropertycollection)

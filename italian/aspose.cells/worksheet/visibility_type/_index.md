@@ -1,15 +1,15 @@
 ---
 title: visibility_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 920
+weight: 940
 url: /it/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---
 ##  visibility_type proprietà
 
-Indica lo stato visibile per questo foglio.
+Indica lo stato visibile di questo foglio.
 ###  Definizione:
 ```python
 @property

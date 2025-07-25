@@ -3,7 +3,7 @@ title: group عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 490
+weight: 480
 url: /ar/aspose.cells.drawing/oleobject/group/
 is_root: false
 ---

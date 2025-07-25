@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  force_full_calculation Eigentum
 
-Gibt an, ob jedes Mal, wenn eine Berechnung ausgelöst wird, alle Formeln berechnet werden.
+Gibt an, ob alle Formeln jedes Mal berechnet werden, wenn eine Berechnung ausgelöst wird.
 
 ###  Bemerkungen
 
 Diese Eigenschaft dient nur zum Speichern der Einstellungen in der resultierenden Tabellenkalkulationsdatei
-damit andere Anwendungen (z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend handeln können.
-Aus Leistungsgründen für die Anwendungen der meisten Benutzer berechnen wir keine Formeln in der Arbeitsmappe automatisch.
+damit andere Anwendungen (wie z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend reagieren können.
+Aus Leistungsgründen berechnen wir für die meisten Benutzeranwendungen keine Formeln in der Arbeitsmappe automatisch.
 unabhängig davon, welcher Wert für diese Eigenschaft festgelegt wurde.
 ###  Definition:
 ```python
@@ -28,5 +28,5 @@ def force_full_calculation(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

@@ -3,7 +3,7 @@ title: text_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 540
 url: /ar/aspose.cells.charts/datalabels/text_font/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام خاصية ChartFrame.Font.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ يناير 2012.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية ChartFrame.Font.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ يناير 2012.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

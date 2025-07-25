@@ -1,15 +1,15 @@
 ---
 title: left_to_corner proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 820
+weight: 840
 url: /it/aspose.cells.drawing/picture/left_to_corner/
 is_root: false
 ---
 ##  left_to_corner proprietà
 
-Ottiene e imposta l'offset orizzontale della forma dal bordo sinistro del foglio di lavoro.
+Ottiene e imposta lo scostamento orizzontale della forma dal bordo sinistro del foglio di lavoro.
 
 ###  Esempio
 

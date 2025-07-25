@@ -3,16 +3,17 @@ title: método set_linked_cell
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells.drawing/oleobject/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Establece el rango vinculado al valor del control.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str | El rango vinculado al valor del control.|
 | is_r1c1 | bool | Si la fórmula debe formatearse como R1C1.|
-| is_local | bool | Si la fórmula debe formatearse según la configuración regional.|
+| is_local | bool | Si la fórmula necesita formatearse según la configuración regional.|
 
 ###  Ejemplo
 

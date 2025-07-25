@@ -1,5 +1,5 @@
 ---
-title: font_size الملكية
+title: font_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 160
 url: /ar/aspose.cells/styleflag/font_size/
 is_root: false
 ---
-##  font_size الملكية
+##  font_size عقار
 
 سيتم تطبيق إعداد حجم الخط.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

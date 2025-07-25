@@ -1,9 +1,9 @@
 ---
 title: first_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 430
 url: /it/aspose.cells/range/first_row/
 is_root: false
 ---

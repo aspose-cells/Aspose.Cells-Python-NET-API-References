@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/
 is_root: false
 ---
-##  add_data_area_condition(field_name) {#str}
-Fügt das bedingte PivotTable-Formatlimit in den Datenfeldern hinzu.
+##  add_data_area_condition(self, field_name) {#str}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, field_name):
     ...
 ```
@@ -20,15 +21,16 @@ def add_data_area_condition(self, field_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_name | str | Der Name von PivotField.|
+| field_name | str |  |
 
 
-##  add_data_area_condition(data_field) {#PivotField}
-Fügt das bedingte PivotTable-Formatlimit in den Datenfeldern hinzu.
+##  add_data_area_condition(self, data_field) {#aspose.cells.pivot.PivotField}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, data_field):
     ...
 ```
@@ -36,10 +38,10 @@ def add_data_area_condition(self, data_field):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| data_field | [PivotField](/cells/python-net/de/aspose.cells.pivot/pivotfield) | Das PivotField in den Datenfeldern.|
+| data_field | [`PivotField`](/cells/python-net/de/aspose.cells.pivot/pivotfield) |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotFormatCondition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotFormatCondition`](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)

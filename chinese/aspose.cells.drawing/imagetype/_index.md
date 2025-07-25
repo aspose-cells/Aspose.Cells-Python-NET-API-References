@@ -1,9 +1,9 @@
 ---
 title: ImageType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 900
+weight: 890
 url: /zh/aspose.cells.drawing/imagetype/
 is_root: false
 ---
@@ -12,27 +12,27 @@ is_root: false
 
 
 
-ImageType 类型公开了以下成员：
+ImageType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| UNKNOWN |未知图像类型。|
-| EMF | Windows 增强图元文件。|
-| WMF | Windows 图元文件。|
-| PICT | Macintosh 图片。|
+| UNKNOWN |未知的图像类型。|
+| EMF | Windows 增强元文件。|
+| WMF | Windows 元文件。|
+| PICT |麦金塔 PICT。|
 | JPEG | JPEG JFIF。|
 | PNG |便携式网络图形。|
 | BMP | Windows 位图|
 | GIF |动图|
-| TIFF |时间差|
+| TIFF |蒂芙|
 | SVG |SVG|
 | SVM |支持向量机|
 | GLTF |glTF|
-| OFFICE_COMPATIBLE_EMF | Windows 增强图元文件，与 Office 更兼容。|
-| WEB_P |湿漉漉的图像格式|
+| OFFICE_COMPATIBLE_EMF | Windows 增强的图元文件与 Office 更加兼容。|
+| WEB_P | Weppy 图像格式|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

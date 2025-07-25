@@ -1,15 +1,15 @@
 ---
 title: enable_drilldown proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 480
+weight: 580
 url: /it/aspose.cells.pivot/pivottable/enable_drilldown/
 is_root: false
 ---
 ##  enable_drilldown proprietà
 
-Ottiene se il drill-down è abilitato.
+Indica se il drilldown è abilitato.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_drilldown(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

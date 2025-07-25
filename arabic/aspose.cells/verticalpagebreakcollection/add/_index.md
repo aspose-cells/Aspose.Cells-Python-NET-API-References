@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/verticalpagebreakcollection/add/
 is_root: false
 ---
-##  add(column) {#int}
-يضيف فاصل صفحات عمودي إلى المجموعة.
+##  add(self, column) {#int}
+إضافة فاصل صفحة عمودي للمجموعة.
 
 
 ###  عائدات
 
-[VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس العنصر.
+[`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, column):
     ...
 ```
@@ -24,22 +25,23 @@ def add(self, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column | int | Cell عمود فهرس ، قائم على الصفر.|
+| column | int | Cell فهرس العمود، يعتمد على الصفر.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(cell_name) {#str}
-يضيف فاصل صفحات عمودي إلى المجموعة.
+##  add(self, cell_name) {#str}
+إضافة فاصل صفحة عمودي للمجموعة.
 
 
 ###  عائدات
 
-[VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس العنصر.
+[`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -50,19 +52,20 @@ def add(self, cell_name):
 | cell_name | str | Cell الاسم.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(row, column) {#int-int}
-يضيف فاصل صفحات عمودي إلى المجموعة.
+##  add(self, row, column) {#int-int}
+إضافة فاصل صفحة عمودي للمجموعة.
 
 
 ###  عائدات
 
-[VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس العنصر.
+[`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -70,23 +73,24 @@ def add(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | Cell صف فهرس ، على أساس الصفر.|
-| column | int | Cell عمود فهرس ، قائم على الصفر.|
+| row | int | Cell مؤشر الصف، يعتمد على الصفر.|
+| column | int | Cell فهرس العمود، يعتمد على الصفر.|
 ###  ملاحظات
 
-تتم إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
-يرجى تعيين فاصل صفحة أفقي وفاصل صفحة عمودي في نفس الوقت.
+تمت إضافة فاصل الصفحة في الجزء العلوي الأيسر من الخلية.
+يرجى تعيين فاصل الصفحة الأفقي وفاصل الصفحة الرأسي في نفس الوقت.
 
-##  add(start_row, end_row, column) {#int-int-int}
-يضيف فاصل صفحات عمودي إلى المجموعة.
+##  add(self, start_row, end_row, column) {#int-int-int}
+إضافة فاصل صفحة عمودي للمجموعة.
 
 
 ###  عائدات
 
-[VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس العنصر.
+[`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak) فهرس الكائن.
 
 
 ```python
+
 def add(self, start_row, end_row, column):
     ...
 ```
@@ -94,16 +98,16 @@ def add(self, start_row, end_row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_row | int | فهرس صف البداية ، قائم على الصفر.|
-| end_row | int |مؤشر صف النهاية ، على أساس الصفر.|
-| column | int | مؤشر العمود ، على أساس الصفر.|
+| start_row | int | مؤشر الصف الأولي، على أساس الصفر.|
+| end_row | int | مؤشر الصف النهائي، يعتمد على الصفر.|
+| column | int | فهرس العمود، يعتمد على الصفر.|
 ###  ملاحظات
 
-تستخدم هذه الطريقة في add فاصل صفحة عمودي داخل منطقة الطباعة.
+يتم استخدام هذه الطريقة لإنشاء كسر عمودي للصفحة ضمن منطقة الطباعة.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak)
-* فئة [VerticalPageBreakCollection](/cells/python-net/ar/aspose.cells/verticalpagebreakcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak)
+* فئة [`VerticalPageBreakCollection`](/cells/python-net/ar/aspose.cells/verticalpagebreakcollection)

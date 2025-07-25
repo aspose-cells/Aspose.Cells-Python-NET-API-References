@@ -3,13 +3,13 @@ title: max Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 830
+weight: 840
 url: /de/aspose.cells.drawing/spinner/max/
 is_root: false
 ---
 ##  max Eigentum
 
-Ruft den Maximalwert einer Bildlaufleiste oder eines Spinnerbereichs ab oder legt diesen fest.
+Ruft den Maximalwert eines Bildlaufleisten- oder Spinnerbereichs ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

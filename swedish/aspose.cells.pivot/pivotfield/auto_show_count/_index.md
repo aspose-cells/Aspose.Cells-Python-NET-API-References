@@ -3,14 +3,14 @@ title: auto_show_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 260
 url: /sv/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
 ##  auto_show_count fastighet
 
-Representera antalet topp- eller bottenobjekt
-som automatiskt visas i det angivna pivottabellfältet.
+Representerar antalet objekt överst eller underst
+som visas automatiskt i det angivna pivottabellfältet.
 ###  Definition:
 ```python
 @property

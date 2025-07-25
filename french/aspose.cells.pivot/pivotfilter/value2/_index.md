@@ -3,13 +3,13 @@ title: value2 propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 180
 url: /fr/aspose.cells.pivot/pivotfilter/value2/
 is_root: false
 ---
 ##  value2 propriété
 
-Obtient la chaîne value2 du filtre de pivot d'étiquette.
+Obtient la chaîne value2 du filtre pivot d'étiquette.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def value2(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotFilter](/cells/python-net/fr/aspose.cells.pivot/pivotfilter)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotFilter`](/cells/python-net/fr/aspose.cells.pivot/pivotfilter)

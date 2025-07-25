@@ -3,13 +3,13 @@ title: compression_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 60
 url: /de/aspose.cells/ooxmlsaveoptions/compression_type/
 is_root: false
 ---
 ##  compression_type Eigentum
 
-Ruft den Komprimierungstyp für die Ooxml-Datei ab und legt ihn fest.
+Ruft den Komprimierungstyp für die OOXML-Datei ab und legt ihn fest.
 
 ###  Bemerkungen
 
@@ -25,6 +25,6 @@ def compression_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [OoxmlCompressionType](/cells/python-net/de/aspose.cells/ooxmlcompressiontype)
-* Klasse [OoxmlSaveOptions](/cells/python-net/de/aspose.cells/ooxmlsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`OoxmlCompressionType`](/cells/python-net/de/aspose.cells/ooxmlcompressiontype)
+* Klasse [`OoxmlSaveOptions`](/cells/python-net/de/aspose.cells/ooxmlsaveoptions)

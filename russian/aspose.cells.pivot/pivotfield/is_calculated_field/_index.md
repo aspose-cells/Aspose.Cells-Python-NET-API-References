@@ -1,9 +1,9 @@
 ---
 title: is_calculated_field недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 490
 url: /ru/aspose.cells.pivot/pivotfield/is_calculated_field/
 is_root: false
 ---

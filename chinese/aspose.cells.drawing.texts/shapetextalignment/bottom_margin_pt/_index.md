@@ -1,15 +1,15 @@
 ---
-title: bottom_margin_pt 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: bottom_margin_pt属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing.texts/shapetextalignment/bottom_margin_pt/
 is_root: false
 ---
-## bottom_margin_pt 属性
+## bottom_margin_pt属性
 
-以点为单位返回底部边距
+返回以点为单位的底部边距
 
 ### 例子
 
@@ -29,5 +29,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [ShapeTextAlignment](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`ShapeTextAlignment`](/cells/python-net/zh/aspose.cells.drawing.texts/shapetextalignment)

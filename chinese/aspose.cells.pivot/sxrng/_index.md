@@ -3,7 +3,7 @@ title: SxRng类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 290
 url: /zh/aspose.cells.pivot/sxrng/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 SxRng 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [is_auto_start](/cells/python-net/zh/aspose.cells.pivot/sxrng/is_auto_start) |  |

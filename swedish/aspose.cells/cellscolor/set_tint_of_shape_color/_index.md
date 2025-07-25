@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
-##  set_tint_of_shape_color(tint) {#float}
-Ställ in nyansen på formens färg
+##  set_tint_of_shape_color(self, tint) {#float}
+Ställ in nyansen på formfärgen
 
 
 
 ```python
+
 def set_tint_of_shape_color(self, tint):
     ...
 ```
@@ -25,5 +26,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
+* modul [`aspose.cells`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)

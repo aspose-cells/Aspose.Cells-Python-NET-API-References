@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list Eigentum
 
-Gibt zurück, ob der Slicer, der dem angegebenen Slicer-Cache zugeordnet ist, auf einer Nicht-OLAP-Datenquelle basiert. Schreibgeschützt
+Gibt zurück, ob der mit dem angegebenen Slicer-Cache verknüpfte Slicer auf einer Nicht-OLAP-Datenquelle basiert. Schreibgeschützt
 
 ###  Beispiel
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [SlicerCache](/cells/python-net/de/aspose.cells.slicers/slicercache)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`SlicerCache`](/cells/python-net/de/aspose.cells.slicers/slicercache)

@@ -1,5 +1,5 @@
 ---
-title: texture الملكية
+title: texture عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 320
 url: /ar/aspose.cells.drawing/lineformat/texture/
 is_root: false
 ---
-##  texture الملكية
+##  texture عقار
 
 يمثل النوع texture للتعبئة المحددة.
 ###  تعريف:
@@ -21,6 +21,6 @@ def texture(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [TextureType](/cells/python-net/ar/aspose.cells.drawing/texturetype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`TextureType`](/cells/python-net/ar/aspose.cells.drawing/texturetype)

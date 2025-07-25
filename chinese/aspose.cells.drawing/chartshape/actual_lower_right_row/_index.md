@@ -3,7 +3,7 @@ title: actual_lower_right_row属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells.drawing/chartshape/actual_lower_right_row/
 is_root: false
 ---

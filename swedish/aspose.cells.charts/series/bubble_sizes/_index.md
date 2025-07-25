@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bubble_sizes fastighet
 
-Hämtar eller ställer in bubbelstorlekarna för diagramserien.
+Hämtar eller ställer in bubbelstorleksvärdena för diagramserien.
 ###  Definition:
 ```python
 @property

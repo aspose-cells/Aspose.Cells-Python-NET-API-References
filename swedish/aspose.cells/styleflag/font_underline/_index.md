@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_underline fastighet
 
-Inställningen för teckensnittsunderstrykning kommer att tillämpas.
+Inställningen för understrykning av teckensnitt kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_underline(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

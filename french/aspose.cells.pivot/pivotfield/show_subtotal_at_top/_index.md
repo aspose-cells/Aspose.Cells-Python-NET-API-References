@@ -3,13 +3,13 @@ title: show_subtotal_at_top propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 590
+weight: 690
 url: /fr/aspose.cells.pivot/pivotfield/show_subtotal_at_top/
 is_root: false
 ---
 ##  show_subtotal_at_top propriété
 
-lorsque ShowInOutlineForm est vrai, affichez les sous-totaux en haut de la liste des éléments plutôt qu'en bas
+lorsque ShowInOutlineForm est vrai, affichez les sous-totaux en haut de la liste des éléments au lieu d'en bas
 
 ###  Remarques
 

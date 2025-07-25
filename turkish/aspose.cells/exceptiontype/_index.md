@@ -3,7 +3,7 @@ title: ExceptionType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /tr/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -36,11 +36,15 @@ ExceptionType türü aşağıdaki üyeleri ortaya çıkarır:
 | SHEET_TYPE | Geçersiz çalışma sayfası türü.|
 | INTERRUPTED | Süreç kesintiye uğrar.|
 | IO | Dosya geçersiz.|
-| PERMISSION |Bu dosyayı açmak için izin gerekiyor.|
+| PERMISSION | Bu dosyayı açmak için izin gerekiyor.|
 | UNSUPPORTED_FEATURE | Desteklenmeyen özellik.|
 | UNSUPPORTED_STREAM | Desteklenmeyen akış açılacak.|
 | UNDISCLOSED_INFORMATION | Dosyalar bazı açıklanmayan bilgiler içeriyor.|
 | FILE_CORRUPTED | Dosya içeriği bozuk.|
+| DEFINED_NAME | Geçersiz tanımlanmış ad|
+| FONT | Geçersiz yazı tipi|
+| AUTO_FILTER | Geçersiz otomatik filtre ayarı.|
+| FONT_SUBSTITUTION | Yazı tipi değiştirme uyarı türü<br/>Bir font bulunamadığında bu uyarı türü alınabilir.|
 
 
 

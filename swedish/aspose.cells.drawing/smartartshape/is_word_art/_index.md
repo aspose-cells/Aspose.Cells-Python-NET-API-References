@@ -3,13 +3,13 @@ title: is_word_art fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 660
+weight: 670
 url: /sv/aspose.cells.drawing/smartartshape/is_word_art/
 is_root: false
 ---
 ##  is_word_art fastighet
 
-Anger om denna form är en ordkonst.
+Anger om den här formen är en ordkonst.
 
 ###  Anmärkningar
 

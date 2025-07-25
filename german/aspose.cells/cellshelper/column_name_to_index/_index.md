@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
-##  column_name_to_index(column_name) {#str}
-Ruft den Spaltenindex gemäß dem Spaltennamen ab.
+##  column_name_to_index(, Spaltenname){#str}
+Ruft den Spaltenindex entsprechend dem Spaltennamen ab.
 
 
 ###  Kehrt zurück
@@ -17,7 +17,9 @@ Spaltenindex.
 
 
 ```python
-def column_name_to_index(self, column_name):
+
+@staticmethod
+def column_name_to_index(column_name):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_name_to_index(self, column_name):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsHelper](/cells/python-net/de/aspose.cells/cellshelper)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsHelper`](/cells/python-net/de/aspose.cells/cellshelper)

@@ -1,15 +1,15 @@
 ---
 title: left недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 700
+weight: 710
 url: /ru/aspose.cells.drawing/listbox/left/
 is_root: false
 ---
 ##  left недвижимость
 
-Представляет горизонтальное смещение фигуры от столбца left в пикселях.
+Представляет горизонтальное смещение фигуры относительно ее столбца left в пикселях.
 
 ###  Пример
 

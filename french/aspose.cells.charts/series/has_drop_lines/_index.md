@@ -10,7 +10,7 @@ is_root: false
 ##  has_drop_lines propriété
 
 Vrai si le graphique comporte des lignes de chute.
-S'applique uniquement aux graphiques en courbes ou en aires.
+S'applique uniquement aux graphiques linéaires ou aux graphiques en aires.
 ###  Définition:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
-title: grand_total_name الملكية
+title: grand_total_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 650
 url: /ar/aspose.cells.pivot/pivottable/grand_total_name/
 is_root: false
 ---
-##  grand_total_name الملكية
+##  grand_total_name عقار
 
-تُرجع تسمية السلسلة النصية المعروضة في عمود الإجمالي الكلي أو عنوان الصف.
+إرجاع الملصق الذي يتم عرضه في عنوان عمود الإجمالي الكلي أو الصف.
 القيمة الافتراضية هي السلسلة "الإجمالي الكلي".
 ###  تعريف:
 ```python
@@ -22,5 +22,5 @@ def grand_total_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

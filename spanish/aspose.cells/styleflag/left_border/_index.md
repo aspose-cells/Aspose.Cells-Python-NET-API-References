@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_border propiedad
 
-Se aplicará la configuración del borde izquierdo.
+Se aplicarán los ajustes del borde izquierdo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_border(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

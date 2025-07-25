@@ -3,13 +3,13 @@ title: language_code propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 320
 url: /fr/aspose.cells/workbooksettings/language_code/
 is_root: false
 ---
 ##  language_code propriété
 
-Obtient ou définit la langue de l'interface utilisateur de la version du Workbook en fonction du CountryCode qui a enregistré le fichier.
+Obtient ou définit la langue de l'interface utilisateur de la version du classeur en fonction du CountryCode qui a enregistré le fichier.
 ###  Définition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: only_area propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 200
+weight: 210
 url: /es/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
 ##  only_area propiedad
 
-Si esta propiedad es verdadera, se generará un Área y no se aplicará ninguna escala.
+Si esta propiedad es verdadera, se generará un área y no tendrá efecto ninguna escala.
 ###  Definición:
 ```python
 @property

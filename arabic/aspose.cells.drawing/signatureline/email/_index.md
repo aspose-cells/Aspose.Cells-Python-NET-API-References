@@ -1,5 +1,5 @@
 ---
-title: email الملكية
+title: email عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing/signatureline/email/
 is_root: false
 ---
-##  email الملكية
+##  email عقار
 
-يحصل ويضع email للمغني.
+يحصل أو يضبط email للمغني.
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def email(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

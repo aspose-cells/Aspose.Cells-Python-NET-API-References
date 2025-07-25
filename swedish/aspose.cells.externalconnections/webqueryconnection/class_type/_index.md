@@ -1,0 +1,23 @@
+---
+title: class_type fastighet
+second_title: Aspose.Cells for Python via .NET API Referenser
+description:
+type: docs
+weight: 40
+url: /sv/aspose.cells.externalconnections/webqueryconnection/class_type/
+is_root: false
+---
+##  class_type fastighet
+
+Hämtar typen för detta ExternalConnection-objekt.
+###  Definition:
+```python
+@property
+def class_type(self):
+    ...
+```
+
+###  Se även
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`ExternalConnectionClassType`](/cells/python-net/sv/aspose.cells.externalconnections/externalconnectionclasstype)
+* klass [`WebQueryConnection`](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)

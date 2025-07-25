@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type fastighet
 
-Får eller ställer in justeringen för plattsättning.
+Hämtar eller ställer in justeringen för kakelsättning.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [RectangleAlignmentType](/cells/python-net/sv/aspose.cells.drawing/rectanglealignmenttype)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`RectangleAlignmentType`](/cells/python-net/sv/aspose.cells.drawing/rectanglealignmenttype)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

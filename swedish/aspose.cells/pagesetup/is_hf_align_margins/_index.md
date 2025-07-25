@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_hf_align_margins fastighet
 
-Anger om marginalerna för sidhuvud och sidfot är justerade med sidmarginalerna.
-Om den här egenskapen är sann kommer den vänstra sidhuvudet och sidfoten att justeras med den vänstra marginalen,
+Anger om sidhuvud- och sidfotsmarginalerna är justerade med sidmarginalerna.
+Om den här egenskapen är sann kommer vänster sidhuvud och sidfot att justeras med vänstermarginalen,
 och höger sidhuvud och sidfot kommer att justeras med högermarginalen.
 Det här alternativet är aktiverat som standard.
 ###  Definition:
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

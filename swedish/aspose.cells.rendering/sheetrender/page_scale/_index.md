@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  page_scale fastighet
 
-Får beräknad sidskala på arket.
-Returnerar den inställda skalan om [`PageSetup.zoom`](/cells/python-net/sv/aspose.cells/pagesetup#zoom) är inställd. I annat fall returnerar den beräknade skalan enligt [`PageSetup.fit_to_pages_wide`](/cells/python-net/sv/aspose.cells/pagesetup#fit_to_pages_wide) och [`PageSetup.fit_to_pages_tall`](/cells/python-net/sv/aspose.cells/pagesetup#fit_to_pages_tall).
+Hämtar beräknad sidskala för arket.
+Returnerar den inställda skalan om [`PageSetup.zoom`](/cells/python-net/sv/aspose.cells/pagesetup#zoom) är satt. Annars returneras den beräknade skalan enligt [`PageSetup.fit_to_pages_wide`](/cells/python-net/sv/aspose.cells/pagesetup#fit_to_pages_wide) och [`PageSetup.fit_to_pages_tall`](/cells/python-net/sv/aspose.cells/pagesetup#fit_to_pages_tall).
 
 ###  Exempel
 

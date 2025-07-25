@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells.webextensions/webextensioncollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف امتداد الويب.
+##  add(self) {#}
+إضافة ملحق الويب.
 
 
 ###  عائدات
 
-مؤشر.
+الفهرس.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionCollection](/cells/python-net/ar/aspose.cells.webextensions/webextensioncollection)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionCollection`](/cells/python-net/ar/aspose.cells.webextensions/webextensioncollection)

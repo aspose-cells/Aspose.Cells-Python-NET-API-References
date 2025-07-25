@@ -3,13 +3,13 @@ title: height属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 500
 url: /zh/aspose.cells.drawing/oleobject/height/
 is_root: false
 ---
 ## height属性
 
-代表形状的height，以像素为单位。
+表示形状的height，以像素为单位。
 
 ### 例子
 

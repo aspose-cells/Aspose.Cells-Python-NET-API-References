@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  created_time mülk
 
-Bu dizili yorumun oluşturulma zamanını alır ve ayarlar.
+Bu iş parçacığı yorumunun oluşturulma zamanını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedComment](/cells/python-net/tr/aspose.cells/threadedcomment)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedComment`](/cells/python-net/tr/aspose.cells/threadedcomment)

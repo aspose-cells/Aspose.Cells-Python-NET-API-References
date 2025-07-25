@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_equal_average propiedad
 
- Obtener o establecer el indicador que indica si los criterios 'por encima del promedio' y 'por debajo del promedio'
- es inclusivo del promedio mismo, o exclusivo de ese valor.
-true' indica incluir el valor medio en los criterios.
+ Obtenga o establezca el indicador que indica si se cumplen los criterios 'por encima del promedio' y 'por debajo del promedio'
+ incluye el promedio en sí o excluye ese valor.
+'true' indica incluir el valor promedio en los criterios.
 El valor predeterminado es falso.
 ###  Definición:
 ```python
@@ -24,5 +24,5 @@ def is_equal_average(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [AboveAverage](/cells/python-net/es/aspose.cells/aboveaverage)
+* módulo [`aspose.cells`](../../)
+* clase [`AboveAverage`](/cells/python-net/es/aspose.cells/aboveaverage)

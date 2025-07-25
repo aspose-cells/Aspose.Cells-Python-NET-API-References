@@ -3,18 +3,11 @@ title: update_smart_art propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 360
 url: /es/aspose.cells/docxsaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art propiedad
-
-Indica si se actualiza la configuración de arte inteligente.
-El valor predeterminado es falso.
-
-###  Observaciones
-
-Solo los efectos después de llamar al método Shape.GetResultOfSmartArt() y las formas almacenadas en caché existen en el archivo de plantilla.
 ###  Definición:
 ```python
 @property

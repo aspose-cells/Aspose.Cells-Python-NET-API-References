@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit mülk
 
-Metnin mevcut sütun genişliğine sığacak şekilde otomatik olarak küçülüp küçülmediğini temsil eder.
+Metnin mevcut sütun genişliğine sığacak şekilde otomatik olarak küçülüp küçülmediğini gösterir.
 ###  Tanım:
 ```python
 @property

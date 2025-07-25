@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_numeric_data fastighet
 
-Hämtar eller ställer in ett värde som indikerar om strängen i textfilen konverteras till numerisk data.
+Hämtar eller anger ett värde som anger om strängen i textfilen konverteras till numeriska data.
 ###  Definition:
 ```python
 @property

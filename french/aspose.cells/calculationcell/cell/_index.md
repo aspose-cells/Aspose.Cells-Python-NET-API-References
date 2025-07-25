@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell propriété
 
-Obtient l'objet Cell en cours de calcul.
+Obtient l'objet Cell qui est en cours de calcul.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CalculationCell](/cells/python-net/fr/aspose.cells/calculationcell)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`CalculationCell`](/cells/python-net/fr/aspose.cells/calculationcell)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

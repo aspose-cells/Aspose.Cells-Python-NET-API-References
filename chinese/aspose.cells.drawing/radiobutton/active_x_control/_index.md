@@ -3,7 +3,7 @@ title: active_x_control属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 270
+weight: 280
 url: /zh/aspose.cells.drawing/radiobutton/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ### 也可以看看
 * 模块[`aspose.cells.drawing`](../../)
-* 类 [`ActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/activexcontrol)
 * 类 [`RadioButton`](/cells/python-net/zh/aspose.cells.drawing/radiobutton)

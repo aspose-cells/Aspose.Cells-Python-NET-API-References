@@ -3,13 +3,13 @@ title: paths属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 870
+weight: 880
 url: /zh/aspose.cells.drawing/spinner/paths/
 is_root: false
 ---
 ## paths属性
 
-获取自定义几何形状的paths。
+获取自定义几何形状的 paths。
 
 ### 例子
 

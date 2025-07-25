@@ -3,15 +3,15 @@ title: html_cross_string_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 500
 url: /de/aspose.cells.saving/ebooksaveoptions/html_cross_string_type/
 is_root: false
 ---
 ##  html_cross_string_type Eigentum
 
-Gibt an, ob beim Speichern einer Excel-Datei im HTML-Format eine zellenübergreifende Zeichenfolge auf die gleiche Weise wie in MS Excel angezeigt wird.
-Standardmäßig ist der Wert „Default“, sodass es bei zellenübergreifenden Zeichenfolgen kaum einen Unterschied zwischen den von Aspose.Cells und MS Excel erstellten HTML-Dateien gibt.
-Die Leistung beim Erstellen großer HTML-Dateien ist jedoch um ein Vielfaches höher, wenn der Wert auf „Cross“ gesetzt wird, als wenn man ihn auf „Standard“ oder „Fit2Cell“ setzt.
+Gibt an, ob eine zellenübergreifende Zeichenfolge beim Speichern einer Excel-Datei im HTML-Format auf dieselbe Weise wie in MS Excel angezeigt wird.
+Der Standardwert ist „Default“, sodass es bei zellenübergreifenden Zeichenfolgen kaum einen Unterschied zwischen den von Aspose.Cells und MS Excel erstellten HTML-Dateien gibt.
+Beim Erstellen großer HTML-Dateien wäre die Leistung jedoch um ein Vielfaches höher, wenn der Wert auf „Cross“ gesetzt würde, als wenn er auf „Default“ oder „Fit2Cell“ gesetzt würde.
 ###  Definition:
 ```python
 @property

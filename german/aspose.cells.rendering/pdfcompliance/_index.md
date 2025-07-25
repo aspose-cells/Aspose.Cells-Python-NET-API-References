@@ -8,7 +8,7 @@ url: /de/aspose.cells.rendering/pdfcompliance/
 is_root: false
 ---
 ##  PdfCompliance Aufzählung
-Ermöglicht dem Benutzer, die Kompatibilität der PDF-Konvertierung festzulegen
+Ermöglicht dem Benutzer, die Kompatibilität der Konvertierung PDF festzulegen
 
 
 
@@ -29,7 +29,7 @@ Der Typ PdfCompliance macht die folgenden Member verfügbar:
 | PDF_A2A | PDF-Format kompatibel mit PDF/A-2a (ISO 19005-2)|
 | PDF_A3B | PDF-Format kompatibel mit PDF/A-3b (ISO 19005-3)|
 | PDF_A3U | PDF-Format kompatibel mit PDF/A-3u (ISO 19005-3)|
-| PDF_A3A | PDF-Format kompatibel mit PDF/A-3a (ISO 19005-3)|
+| PDF_A3A |PDF-Format kompatibel mit PDF/A-3a (ISO 19005-3)|
 
 
 

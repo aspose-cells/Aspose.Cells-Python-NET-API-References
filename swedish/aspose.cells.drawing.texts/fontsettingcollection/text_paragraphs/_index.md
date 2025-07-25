@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_paragraphs fastighet
 
-Får alla stycken.
+Hämtar alla stycken.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def text_paragraphs(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FontSettingCollection](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
-* klass [TextParagraphCollection](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraphcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FontSettingCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/fontsettingcollection)
+* klass [`TextParagraphCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraphcollection)

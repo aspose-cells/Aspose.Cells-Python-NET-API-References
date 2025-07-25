@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_y mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra Duvar merkezinin sol alt köşesinin y koordinatını grafiğin yüksekliğinin 1/4000'i cinsinden alır.
+Chart.Calculate() metodunu çağırdıktan sonra, duvarın merkezinin sol alt köşesinin y koordinatını, grafiğin yüksekliğinin 1/4000'i cinsinden alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

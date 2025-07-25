@@ -3,19 +3,19 @@ title: legend_entries_labels fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 340
 url: /sv/aspose.cells.charts/legend/legend_entries_labels/
 is_root: false
 ---
 ##  legend_entries_labels fastighet
 
-Hämtar etiketterna för förklaringsposterna efter anropet Chart.Calculate()-metoden.
+Hämtar etiketterna för förklaringsposterna efter anrop av metoden Chart.Calculate().
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden Legend.GetLegendLabels.
- Den här egenskapen kommer att tas bort 12 månader senare sedan november 2023.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd Legend.GetLegendLabels-metoden.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med november 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

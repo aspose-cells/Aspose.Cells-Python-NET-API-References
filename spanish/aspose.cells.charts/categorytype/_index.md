@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/categorytype/
 is_root: false
 ---
 ##  CategoryType enumeración
-Representa el tipo de eje de categorías.
+Representa el tipo de eje de categoría.
 
 
 
@@ -18,7 +18,7 @@ El tipo CategoryType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | AUTOMATIC_SCALE | Escala automática|
-| CATEGORY_SCALE | CategoríaEscala|
+| CATEGORY_SCALE | Escala de categorías|
 | TIME_SCALE | Escala de tiempo|
 
 

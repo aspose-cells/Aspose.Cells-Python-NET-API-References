@@ -3,7 +3,7 @@ title: max_display_range mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1110
+weight: 1140
 url: /tr/aspose.cells/cells/max_display_range/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Verileri, birleştirilmiş hücreleri ve şekilleri içeren maksimum aralığı 
 
 ###  Notlar
 
-Çalışma sayfası Aspose.Cells 21.5.2'den beri boşsa null değerini döndürür.
+Aspose.Cells 21.5.2'den beri çalışma sayfası boşsa Reutrns null olur.
 ###  Tanım:
 ```python
 @property

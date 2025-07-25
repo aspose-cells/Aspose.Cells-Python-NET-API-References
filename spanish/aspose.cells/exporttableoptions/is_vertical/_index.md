@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical propiedad
 
-Verdadero si una fila del archivo de libro de trabajo representa una fila de DataTable. Falso si una columna en el archivo del Libro de trabajo representa una fila en la Tabla de datos.
+Verdadero si una fila del libro de trabajo representa una fila de la tabla de datos. Falso si una columna del libro de trabajo representa una fila de la tabla de datos.
 ###  Definición:
 ```python
 @property

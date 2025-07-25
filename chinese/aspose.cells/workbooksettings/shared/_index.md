@@ -3,7 +3,7 @@ title: shared属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 470
 url: /zh/aspose.cells/workbooksettings/shared/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 获取或设置一个值，该值指示工作簿是否为 shared。
 
-### 评论
+### 注意事项
 
 默认值为 false。
 ### 定义：

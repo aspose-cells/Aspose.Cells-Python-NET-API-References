@@ -3,7 +3,7 @@ title: is_multi_encoded propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 200
 url: /es/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---

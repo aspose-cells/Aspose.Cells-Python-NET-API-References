@@ -3,13 +3,13 @@ title: upper_left_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /ar/aspose.cells.drawing/spinner/upper_left_row/
 is_root: false
 ---
 ##  upper_left_row عقار
 
-يمثل فهرس صف الزاوية اليسرى العليا.
+يمثل مؤشر الصف العلوي.
 
 ###  ملاحظات
 

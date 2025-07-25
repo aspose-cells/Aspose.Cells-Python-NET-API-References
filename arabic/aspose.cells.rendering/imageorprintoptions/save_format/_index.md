@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  save_format عقار
 
-الحصول على أو تعيين نوع تنسيق ملف الإخراج
-دعم تيف/XPS
+يحصل على نوع تنسيق ملف الإخراج أو يعينه
+دعم Tiff/XPS
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
-بالنسبة إلى Tiff/Svg، استخدم [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type)؛ بالنسبة لـXps، استخدم [`Workbook.save`](/cells/python-net/ar/aspose.cells/workbook/save) مع [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions).
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+بالنسبة لـ Tiff/Svg، استخدم [`ImageOrPrintOptions.image_type`](/cells/python-net/ar/aspose.cells.rendering/imageorprintoptions#image_type)؛ بالنسبة لـ Xps، استخدم [`Workbook.save`](/cells/python-net/ar/aspose.cells/workbook/save) مع [`XpsSaveOptions`](/cells/python-net/ar/aspose.cells/xpssaveoptions).
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ أغسطس 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

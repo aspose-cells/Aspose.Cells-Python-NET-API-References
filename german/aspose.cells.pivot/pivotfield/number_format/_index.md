@@ -3,13 +3,13 @@ title: number_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 510
+weight: 600
 url: /de/aspose.cells.pivot/pivotfield/number_format/
 is_root: false
 ---
 ##  number_format Eigentum
 
-Stellt das benutzerdefinierte Anzeigeformat von Zahlen und Datumsangaben dar.
+Stellt das benutzerdefinierte Anzeigeformat für Zahlen und Datumsangaben dar.
 ###  Definition:
 ```python
 @property

@@ -1,13 +1,13 @@
 ---
-title: get_linked_cell méthode
+title: méthode get_linked_cell
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 100
+weight: 120
 url: /fr/aspose.cells.drawing/shape/get_linked_cell/
 is_root: false
 ---
-##  get_linked_cell(is_r1c1, is_local) {#bool-bool}
+##  get_linked_cell(self, is_r1c1, is_local) {#bool-bool}
 Obtient la plage liée à la valeur du contrôle.
 
 
@@ -17,6 +17,7 @@ La plage liée à la valeur du contrôle.
 
 
 ```python
+
 def get_linked_cell(self, is_r1c1, is_local):
     ...
 ```
@@ -24,8 +25,8 @@ def get_linked_cell(self, is_r1c1, is_local):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| is_r1c1 | bool | Indique si la formule doit être formatée en tant que R1C1.|
-| is_local | bool | Indique si la formule doit être formatée par les paramètres régionaux.|
+| is_r1c1 | bool | Si la formule doit être formatée comme R1C1.|
+| is_local | bool | Si la formule doit être formatée par les paramètres régionaux.|
 
 ###  Exemple
 
@@ -39,5 +40,5 @@ link = shape.get_linked_cell(False, False)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Shape](/cells/python-net/fr/aspose.cells.drawing/shape)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Shape`](/cells/python-net/fr/aspose.cells.drawing/shape)

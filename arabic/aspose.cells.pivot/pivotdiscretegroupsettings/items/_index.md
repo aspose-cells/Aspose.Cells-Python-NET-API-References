@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items عقار
 
-يحصل على items المنفصلة.
+يحصل على items المنفصل.
 ###  تعريف:
 ```python
 @property

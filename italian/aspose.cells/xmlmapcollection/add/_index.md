@@ -1,22 +1,23 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
-##  add(url) {#str}
-Aggiungere un [XmlMap](/cells/python-net/it/aspose.cells/xmlmap) dall'URL/percorso di un file xml/xsd.
+##  add(self, url) {#str}
+Aggiungere [`XmlMap`](/cells/python-net/it/aspose.cells/xmlmap) tramite l'URL/percorso di un file xml/xsd.
 
 
 ###  ritorna
 
-[XmlMap](/cells/python-net/it/aspose.cells/xmlmap) indice oggetto.
+[`XmlMap`](/cells/python-net/it/aspose.cells/xmlmap) indice oggetto.
 
 
 ```python
+
 def add(self, url):
     ...
 ```
@@ -46,6 +47,6 @@ wb.save("twoXmlMaps.xlsx")
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [XmlMap](/cells/python-net/it/aspose.cells/xmlmap)
-* classe [XmlMapCollection](/cells/python-net/it/aspose.cells/xmlmapcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`XmlMap`](/cells/python-net/it/aspose.cells/xmlmap)
+* classe [`XmlMapCollection`](/cells/python-net/it/aspose.cells/xmlmapcollection)

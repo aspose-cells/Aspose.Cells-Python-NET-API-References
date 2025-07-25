@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_rows fastighet
 
-Representerar raderna som innehåller cellerna som ska upprepas överst på varje sida.
+Representerar raderna som innehåller cellerna som ska upprepas högst upp på varje sida.
 
 ###  Exempel
 
@@ -30,5 +30,5 @@ def print_title_rows(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

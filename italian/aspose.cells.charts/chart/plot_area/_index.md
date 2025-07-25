@@ -1,6 +1,6 @@
 ---
 title: plot_area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 450
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area proprietà
 
-Ottiene l'area del tracciato del grafico che include le etichette dei segni di graduazione degli assi.
+Ottiene l'area del grafico che include le etichette dei segni di graduazione degli assi.
 
 ###  Osservazioni
 

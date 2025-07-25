@@ -8,8 +8,6 @@ url: /tr/aspose.cells.pivot/pivotformatcondition/rule_type/
 is_root: false
 ---
 ##  rule_type mülk
-
-Pivot tablo koşul biçimi için kural türünü alın ve ayarlayın.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +19,6 @@ def rule_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotConditionFormatRuleType](/cells/python-net/tr/aspose.cells.pivot/pivotconditionformatruletype)
-* sınıf [PivotFormatCondition](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotConditionFormatRuleType`](/cells/python-net/tr/aspose.cells.pivot/pivotconditionformatruletype)
+* sınıf [`PivotFormatCondition`](/cells/python-net/tr/aspose.cells.pivot/pivotformatcondition)

@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.charts/legend/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Metin içinde characters aralığını temsil eden bir Characters nesnesi döndürür.
+##  characters(self, start_index, length) {#int-int}
+Metin içerisinde characters aralığını temsil eden bir Characters nesnesi döndürür.
 
 
 ###  İadeler
 
-Karakterler nesnesi.
+Karakter nesnesi.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Karakterin başlangıç dizini.|
+| start_index | int | Karakterin başlangıcının indeksi.|
 | length | int | Karakter sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Legend](/cells/python-net/tr/aspose.cells.charts/legend)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Legend`](/cells/python-net/tr/aspose.cells.charts/legend)

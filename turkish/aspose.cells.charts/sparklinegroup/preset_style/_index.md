@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_style mülk
 
-Mini grafik grubunun önceden ayarlanmış stil türünü alır ve ayarlar.
+Kıvılcım çizgisi grubunun önceden ayarlanmış stil türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
-* sınıf [SparklinePresetStyleType](/cells/python-net/tr/aspose.cells.charts/sparklinepresetstyletype)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* sınıf [`SparklinePresetStyleType`](/cells/python-net/tr/aspose.cells.charts/sparklinepresetstyletype)

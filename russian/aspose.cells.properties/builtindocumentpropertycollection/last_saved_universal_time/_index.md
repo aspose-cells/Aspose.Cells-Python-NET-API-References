@@ -1,9 +1,9 @@
 ---
 title: last_saved_universal_time недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.properties/builtindocumentpropertycollection/last_saved_universal_time/
 is_root: false
 ---
@@ -25,5 +25,5 @@ def last_saved_universal_time(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [BuiltInDocumentPropertyCollection](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`BuiltInDocumentPropertyCollection`](/cells/python-net/ru/aspose.cells.properties/builtindocumentpropertycollection)

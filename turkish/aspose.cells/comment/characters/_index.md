@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/comment/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Açıklama metni içinde characters aralığını temsil eden bir Characters nesnesi döndürür.
+##  characters(self, start_index, length) {#int-int}
+Yorum metni içinde characters aralığını temsil eden bir Characters nesnesi döndürür.
 
 
 ###  İadeler
 
-Karakterler nesnesi.
+Karakter nesnesi.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,7 +25,7 @@ def characters(self, start_index, length):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Karakterin başlangıç dizini.|
+| start_index | int | Karakterin başlangıcının indeksi.|
 | length | int | Karakter sayısı.|
 
 ###  Örnek
@@ -38,5 +39,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

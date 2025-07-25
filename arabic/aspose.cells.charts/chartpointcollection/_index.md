@@ -17,12 +17,12 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/count) | الحصول على عدد نقاط الرسم البياني.|
+| [count](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/count) | يحصل على عدد نقاط الرسم البياني.|
 
 
 
-يحصل على العنصر [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint) في الفهرس المحدد في السلسلة.
-###  مفهرس
+يحصل على العنصر [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint) عند الفهرس المحدد في السلسلة.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | [index] | مؤشر نقطة الرسم البياني في السلسلة.|
@@ -31,9 +31,8 @@ is_root: false
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get_enumerator](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/get_enumerator/#) | إرجاع عداد لكامل [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection).|
-| [clear](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/clear/#) | قم بإزالة كافة إعدادات نقاط الرسم البياني.|
-| [remove_at](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/remove_at/#int) | يزيل النقطة الموجودة في فهرس السلسلة.|
+| [`clear(self)`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/clear/#) | إزالة كافة إعدادات نقاط الرسم البياني.|
+| [`remove_at(self, index)`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection/remove_at/#int) | يزيل النقطة في فهرس السلسلة.|
 
 
 
@@ -84,4 +83,3 @@ workbook.save("book1.xls")
 ###  أنظر أيضا
 * الوحدة [`aspose.cells.charts`](..)
 * فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)
-* فئة [`ChartPointCollection`](/cells/python-net/ar/aspose.cells.charts/chartpointcollection)

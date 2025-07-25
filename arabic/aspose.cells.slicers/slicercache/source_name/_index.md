@@ -1,5 +1,5 @@
 ---
-title: source_name الملكية
+title: source_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,15 +7,15 @@ weight: 70
 url: /ar/aspose.cells.slicers/slicercache/source_name/
 is_root: false
 ---
-##  source_name الملكية
+##  source_name عقار
 
-يُرجع اسم حقل ذاكرة التخزين المؤقت
+إرجاع اسم ذاكرة التخزين المؤقت لهذه الشريحة.
 
 ###  مثال
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```
@@ -27,5 +27,5 @@ def source_name(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCache](/cells/python-net/ar/aspose.cells.slicers/slicercache)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCache`](/cells/python-net/ar/aspose.cells.slicers/slicercache)

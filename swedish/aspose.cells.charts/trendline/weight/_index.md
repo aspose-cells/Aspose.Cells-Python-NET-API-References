@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight fastighet
 
-Hämtar eller ställer in linjens [WeightType](/cells/python-net/sv/aspose.cells.drawing/weighttype).
+Hämtar eller ställer in [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype) för raden.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
-* klass [WeightType](/cells/python-net/sv/aspose.cells.drawing/weighttype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)
+* klass [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype)

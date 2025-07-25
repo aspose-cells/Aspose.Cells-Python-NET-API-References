@@ -1,14 +1,14 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.webextensions/webextensionreferencecollection/add/
 is_root: false
 ---
-##  add() {#}
-Aggiunge un riferimento vuoto dell'estensione web.
+##  add(self) {#}
+Aggiunge un riferimento vuoto all'estensione web.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Aggiunge un riferimento vuoto dell'estensione web.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionReferenceCollection](/cells/python-net/it/aspose.cells.webextensions/webextensionreferencecollection)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionReferenceCollection`](/cells/python-net/it/aspose.cells.webextensions/webextensionreferencecollection)

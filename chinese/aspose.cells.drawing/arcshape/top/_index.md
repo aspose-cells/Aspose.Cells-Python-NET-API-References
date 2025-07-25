@@ -3,17 +3,17 @@ title: top属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1120
+weight: 1130
 url: /zh/aspose.cells.drawing/arcshape/top/
 is_root: false
 ---
 ## top属性
 
-表示形状相对于 top 行的垂直偏移，以像素为单位。
+表示形状与其 top 行的垂直偏移量，以像素为单位。
 
-### 评论
+### 注意事项
 
-如果形状位于图表中，则表示形状相对于其 top 边框的垂直偏移。
+如果形状在图表中，则表示形状与其 top 边框的垂直偏移。
 
 ### 例子
 

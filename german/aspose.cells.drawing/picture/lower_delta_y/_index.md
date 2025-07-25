@@ -3,13 +3,13 @@ title: lower_delta_y Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 870
+weight: 890
 url: /de/aspose.cells.drawing/picture/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y Eigentum
 
-Ruft den vertikalen Versatz der Form von der unteren rechten Eckreihe ab oder legt diesen fest.
+Ruft den vertikalen Versatz der Form von ihrer unteren rechten Eckreihe ab oder legt ihn fest.
 
 ###  Bemerkungen
 

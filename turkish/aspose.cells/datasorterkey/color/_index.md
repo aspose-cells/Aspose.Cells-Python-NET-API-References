@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  color mülk
 
-Sıralanan color'i alır.
+Sıralamayı alır color.
 
 ###  Notlar
 
-Yalnızca [SortOnType](/cells/python-net/tr/aspose.cells/sortontype), SortOnType.CellColor veya SortOnType.FontColor olduğunda etkiler.
+Sadece [`DataSorterKey.type`](/cells/python-net/tr/aspose.cells/datasorterkey#type), [`SortOnType.CELL_COLOR`](/cells/python-net/tr/aspose.cells/sortontype#CELL_COLOR) veya [`SortOnType.FONT_COLOR`](/cells/python-net/tr/aspose.cells/sortontype#FONT_COLOR) olduğunda geçerli olur.
 ###  Tanım:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataSorterKey](/cells/python-net/tr/aspose.cells/datasorterkey)
-* sınıf [SortOnType](/cells/python-net/tr/aspose.cells/sortontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataSorterKey`](/cells/python-net/tr/aspose.cells/datasorterkey)

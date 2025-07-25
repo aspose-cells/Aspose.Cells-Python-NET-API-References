@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sheet_set عقار
 
-الحصول على الأوراق المراد عرضها أو تعيينها. الافتراضي هو كافة الأوراق المرئية في المصنف: [`SheetSet.visible`](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).
+يُعرِّف أو يُعيِّن الأوراق المراد عرضها. الإعداد الافتراضي هو جميع الأوراق المرئية في المصنف: [`SheetSet.visible`](/cells/python-net/ar/aspose.cells.rendering/sheetset#visible).
 
 ###  ملاحظات
 

@@ -1,5 +1,5 @@
 ---
-title: locked_position الملكية
+title: locked_position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells.slicers/slicer/locked_position/
 is_root: false
 ---
-##  locked_position الملكية
+##  locked_position عقار
 
-يشير إلى ما إذا كان يمكن نقل مقسم الشرائح المحدد أو تغيير حجمه باستخدام واجهة المستخدم.
+يشير إلى ما إذا كان من الممكن نقل المقطع المحدد أو تغيير حجمه باستخدام واجهة المستخدم.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def locked_position(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

@@ -12,9 +12,9 @@ Harita grafiğinin bölge türünü temsil eder.
 
 
 
-MapChartRegionType türü aşağıdaki üyeleri gösterir:
+MapChartRegionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | AUTOMATIC | Otomatik|
@@ -25,4 +25,4 @@ MapChartRegionType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

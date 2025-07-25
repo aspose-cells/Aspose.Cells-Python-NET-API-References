@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_operator_type mülk
 
-Filtre işleç türünü alır ve ayarlar.
+Filtre operatörü türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CustomFilter](/cells/python-net/tr/aspose.cells/customfilter)
-* sınıf [FilterOperatorType](/cells/python-net/tr/aspose.cells/filteroperatortype)
+* modül [`aspose.cells`](../../)
+* sınıf [`CustomFilter`](/cells/python-net/tr/aspose.cells/customfilter)
+* sınıf [`FilterOperatorType`](/cells/python-net/tr/aspose.cells/filteroperatortype)

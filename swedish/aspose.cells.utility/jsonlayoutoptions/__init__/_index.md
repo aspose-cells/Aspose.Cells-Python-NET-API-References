@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.utility/jsonlayoutoptions/__init__/
 is_root: false
 ---
-##  JsonLayoutOptions() {#}
-Konstruerar en ny instans av JsonLayoutOptions
+##  \_\_init\_\_(själv){#}
+Konstruktor för att ladda JSON layoutalternativ.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

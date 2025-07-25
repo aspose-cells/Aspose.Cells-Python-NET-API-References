@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [PivotOptions](/cells/python-net/fr/aspose.cells.charts/pivotoptions)
+* module [`aspose.cells.charts`](../../)
+* classe [`PivotOptions`](/cells/python-net/fr/aspose.cells.charts/pivotoptions)

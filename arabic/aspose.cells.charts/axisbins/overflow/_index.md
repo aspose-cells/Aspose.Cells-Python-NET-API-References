@@ -1,5 +1,5 @@
 ---
-title: overflow الملكية
+title: overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.charts/axisbins/overflow/
 is_root: false
 ---
-##  overflow الملكية
+##  overflow عقار
 
-الحصول على أو تعيين overflow لحاويات المحور
+يحصل على أو يضبط overflow من صناديق المحور
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def overflow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [AxisBins](/cells/python-net/ar/aspose.cells.charts/axisbins)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`AxisBins`](/cells/python-net/ar/aspose.cells.charts/axisbins)

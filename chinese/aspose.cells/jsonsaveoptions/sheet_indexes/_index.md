@@ -1,13 +1,13 @@
 ---
-title: sheet_indexes 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: sheet_indexes属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 210
 url: /zh/aspose.cells/jsonsaveoptions/sheet_indexes/
 is_root: false
 ---
-## sheet_indexes 属性
+## sheet_indexes属性
 
 表示导出工作表的索引。
 ### 定义：
@@ -21,5 +21,5 @@ def sheet_indexes(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [JsonSaveOptions](/cells/python-net/zh/aspose.cells/jsonsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`JsonSaveOptions`](/cells/python-net/zh/aspose.cells/jsonsaveoptions)

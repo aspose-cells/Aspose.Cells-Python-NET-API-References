@@ -1,13 +1,13 @@
 ---
-title: get_locked_property méthode
+title: méthode get_locked_property
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 130
 url: /fr/aspose.cells.drawing/checkbox/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
 Obtient la valeur de la propriété verrouillée.
 
 
@@ -17,6 +17,7 @@ Renvoie la valeur de la propriété verrouillée.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/fr/aspose.cells.drawing/shapelocktype) | Le type de la propriété verrouillée de la forme.|
+| type | [`ShapeLockType`](/cells/python-net/fr/aspose.cells.drawing/shapelocktype) | Le type de propriété de forme verrouillée.|
 
 ###  Exemple
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [CheckBox](/cells/python-net/fr/aspose.cells.drawing/checkbox)
+* module [`aspose.cells.drawing`](../../)
+* classe [`CheckBox`](/cells/python-net/fr/aspose.cells.drawing/checkbox)

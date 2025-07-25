@@ -3,13 +3,13 @@ title: is_visible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 260
+weight: 270
 url: /fr/aspose.cells.charts/axis/is_visible/
 is_root: false
 ---
 ##  is_visible propriété
 
-Représente si l’axe est visible.
+Indique si l'axe est visible.
 ###  Définition:
 ```python
 @property

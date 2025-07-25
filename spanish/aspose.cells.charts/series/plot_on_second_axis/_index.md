@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_on_second_axis propiedad
 
-Indica si esta serie se traza en el segundo eje de valores.
+Indica si esta serie está graficada en el segundo eje de valores.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_on_second_axis(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

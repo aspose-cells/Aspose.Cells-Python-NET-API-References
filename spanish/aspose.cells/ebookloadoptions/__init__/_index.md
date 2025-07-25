@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __en eso__ {#}
-Crea opciones para cargar el archivo del libro electrónico.
+##  \_\_init\_\_(yo mismo){#}
+Crea una opción para cargar el archivo de libro electrónico.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __en eso__ {#aspose.cells.LoadFormat}
-Crea opciones para cargar el archivo del libro electrónico.
+##  \_\_init\_\_(self, formato_de_carga){#aspose.cells.LoadFormat}
+Crea una opción para cargar el archivo de libro electrónico.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

@@ -3,13 +3,13 @@ title: PdfBookmarkEntry classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 70
 url: /fr/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry classe
 PdfBookmarkEntry est une entrée dans le signet pdf.
-si la propriété Text de l'instance actuelle est nulle ou "",
+si la propriété Texte de l'instance actuelle est nulle ou "",
 l'instance actuelle sera masquée et les enfants seront insérés au niveau actuel.
 
 
@@ -19,18 +19,18 @@ Le type PdfBookmarkEntry expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Construit une nouvelle instance de PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Construit une nouvelle instance de PdfBookmarkEntry|
 
 
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
 | [text](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/text) | Titre d'un signet.|
-| [destination](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/destination) | La cellule à laquelle le signet est lié.|
+| [destination](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/destination) |La cellule à laquelle le lien du signet est lié.|
 | [destination_name](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Obtient ou définit le nom de la destination.|
-| [sub_entry](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | SubEntry d'un signet.|
-| [is_open](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/is_open) |Lorsque cette propriété est vraie, l'entrée de signet se développera, sinon elle se réduira.|
-| [is_collapse](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Lorsque cette propriété est vraie, l'entrée de signet s'effondrera, sinon elle se développera.|
+| [sub_entry](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Sous-entrée d'un signet.|
+| [is_open](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/is_open) | Lorsque cette propriété est vraie, l'entrée du signet s'étendra, sinon elle se réduira.|
+| [is_collapse](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Lorsque cette propriété est vraie, l'entrée du signet se réduira, sinon elle se développera.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

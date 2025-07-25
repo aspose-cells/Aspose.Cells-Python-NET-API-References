@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/aboveaverage/__init__/
 is_root: false
 ---
-##  AboveAverage() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de AboveAverage
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AboveAverage](/cells/python-net/fr/aspose.cells/aboveaverage)
+* module [`aspose.cells`](../../)
+* classe [`AboveAverage`](/cells/python-net/fr/aspose.cells/aboveaverage)

@@ -3,12 +3,12 @@ title: DropButtonStyle enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 260
 url: /es/aspose.cells.drawing.activexcontrols/dropbuttonstyle/
 is_root: false
 ---
 ##  DropButtonStyle enumeración
-Representa el símbolo que se muestra en el botón desplegable.
+Representa el símbolo que se muestra en el botón de soltar.
 
 
 
@@ -25,4 +25,4 @@ El tipo DropButtonStyle expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](..)
+* módulo [`aspose.cells.drawing.activexcontrols`](..)

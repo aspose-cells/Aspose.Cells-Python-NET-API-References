@@ -3,12 +3,12 @@ title: FontUnderlineType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2160
+weight: 2100
 url: /ar/aspose.cells/fontunderlinetype/
 is_root: false
 ---
 ##  FontUnderlineType التعداد
-تعداد أنواع التسطير الخط.
+يقوم بإحصاء أنواع الخطوط المسطرة.
 
 
 
@@ -17,26 +17,26 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا يمثل أي تسطير.|
-| SINGLE | يمثل تسطيرًا واحدًا.|
-| DOUBLE | يمثل تسطير مزدوج.|
-| ACCOUNTING | يمثل تسطير محاسبة واحد.|
-| DOUBLE_ACCOUNTING | يمثل تسطير المحاسبة المزدوجة.|
-| DASH | يمثل تسطير متقطع|
-| DASH_DOT_DOT_HEAVY | يمثل خطًا سميكًا من Dash-Dot-Dot|
-| DASH_DOT_HEAVY | يمثل تسطيرًا سميكًا بشرطة ونقطة|
-| DASHED_HEAVY | يمثل تسطيرًا متقطعًا سميكًا|
-| DASH_LONG | يمثل تسطيرًا متقطعًا طويلًا|
-| DASH_LONG_HEAVY | يمثل تسطيرًا سميكًا طويلًا متقطعًا|
-| DOT_DASH | يمثل تسطير نقطة شرطة|
-| DOT_DOT_DASH |يمثل شرطة-نقطة-نقطة تسطير|
-| DOTTED | يمثل تسطير منقط|
-| DOTTED_HEAVY | يمثل تسطير منقط سميك|
-| HEAVY | يمثل تسطير سميك|
-| WAVE | يمثل تسطير الموجة|
-| WAVY_DOUBLE | يمثل تسطير موجة مزدوجة|
-| WAVY_HEAVY | يمثل تسطير الموجة الثقيلة|
-| WORDS | يمثل تسطير الأحرف غير الفضائية فقط|
+| NONE | لا يمثل أي خط سفلي.|
+| SINGLE | يمثل خطًا واحدًا.|
+| DOUBLE | يمثل خطًا مزدوجًا.|
+| ACCOUNTING | يمثل خط المحاسبة الفردي.|
+| DOUBLE_ACCOUNTING | يمثل خط المحاسبة المزدوج.|
+| DASH | يمثل خطًا متقطعًا|
+| DASH_DOT_DOT_HEAVY | يمثل خطًا سميكًا من النقاط والشرطات والنقاط|
+| DASH_DOT_HEAVY | يمثل خطًا سفليًا سميكًا من النقاط المتقطعة|
+| DASHED_HEAVY | يمثل خطًا متقطعًا سميكًا|
+| DASH_LONG | يمثل خطًا سفليًا متقطعًا طويلًا|
+| DASH_LONG_HEAVY | يمثل خطًا سفليًا سميكًا طويلًا متقطعًا|
+| DOT_DASH | يمثل خطًا سفليًا من Dash-Dot|
+| DOT_DOT_DASH |يمثل خطًا تحتيًا من علامة Dash-Dot-Dot|
+| DOTTED | يمثل خطًا منقطًا|
+| DOTTED_HEAVY | يمثل خطًا منقطًا سميكًا|
+| HEAVY | يمثل خطًا سفليًا سميكًا|
+| WAVE | يمثل خط الموجة|
+| WAVY_DOUBLE | يمثل خط الموجة المزدوجة|
+| WAVY_HEAVY | يمثل خط الموجة الثقيلة|
+| WORDS | يمثل الأحرف المسطرة غير الفراغية فقط|
 
 
 

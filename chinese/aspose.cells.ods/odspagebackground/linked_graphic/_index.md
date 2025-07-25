@@ -1,13 +1,13 @@
 ---
-title: linked_graphic 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: linked_graphic属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells.ods/odspagebackground/linked_graphic/
 is_root: false
 ---
-## linked_graphic 属性
+## linked_graphic属性
 
 获取和设置链接的图形路径。
 ### 定义：
@@ -21,5 +21,5 @@ def linked_graphic(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.ods](../../)
-* 类 [OdsPageBackground](/cells/python-net/zh/aspose.cells.ods/odspagebackground)
+* 模块[`aspose.cells.ods`](../../)
+* 类 [`OdsPageBackground`](/cells/python-net/zh/aspose.cells.ods/odspagebackground)

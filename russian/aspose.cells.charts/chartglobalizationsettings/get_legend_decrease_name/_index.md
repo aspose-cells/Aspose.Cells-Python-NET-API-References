@@ -1,22 +1,23 @@
 ---
 title: get_legend_decrease_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells.charts/chartglobalizationsettings/get_legend_decrease_name/
 is_root: false
 ---
-##  get_legend_decrease_name() {#}
-Получает имя Decrease for Legend.
+##  get_legend_decrease_name(self) {#}
+Получает имя Уменьшения для Легенды.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
+
 def get_legend_decrease_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_legend_decrease_name(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartGlobalizationSettings](/cells/python-net/ru/aspose.cells.charts/chartglobalizationsettings)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartGlobalizationSettings`](/cells/python-net/ru/aspose.cells.charts/chartglobalizationsettings)

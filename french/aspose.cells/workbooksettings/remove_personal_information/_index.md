@@ -3,13 +3,13 @@ title: remove_personal_information propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 410
+weight: 450
 url: /fr/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
 ##  remove_personal_information propriété
 
-True si les informations personnelles peuvent être supprimées du classeur spécifié.
+Vrai si les informations personnelles peuvent être supprimées du classeur spécifié.
 
 ###  Remarques
 

@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells.tables/listobject/filter/
 is_root: false
 ---
-##  filter() {#}
+##  filter(self) {#}
 Tabloyu filtreleyin.
 
 
 
 ```python
+
 def filter(self):
     ...
 ```
@@ -22,5 +23,5 @@ def filter(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObject](/cells/python-net/tr/aspose.cells.tables/listobject)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObject`](/cells/python-net/tr/aspose.cells.tables/listobject)

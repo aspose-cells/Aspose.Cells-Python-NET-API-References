@@ -1,6 +1,6 @@
 ---
 title: print_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 500
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_size недвижимость
 
-Получает и задает размер печатаемой диаграммы.
+Получает и задает размер печатной диаграммы.
 ###  Определение:
 ```python
 @property

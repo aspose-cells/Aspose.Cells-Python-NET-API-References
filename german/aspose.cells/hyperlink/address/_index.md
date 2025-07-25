@@ -21,5 +21,5 @@ def address(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)

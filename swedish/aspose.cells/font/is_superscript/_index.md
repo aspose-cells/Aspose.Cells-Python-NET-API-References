@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript fastighet
 
-Hämtar eller ställer in ett värde som anger om teckensnittet är superskript.
+Hämtar eller anger ett värde som anger om teckensnittet är upphöjd skrift.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

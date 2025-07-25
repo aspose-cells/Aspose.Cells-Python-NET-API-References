@@ -3,13 +3,13 @@ title: load_style_strategy mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 200
 url: /tr/aspose.cells/abstracttextloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy mülk
 
-Dize değerini sayıya veya tarih saatine dönüştürürken ayrıştırılmış değerler için stil uygulama stratejisini gösterir.
+Dize değerini sayıya veya tarih/saat değerine dönüştürürken ayrıştırılmış değerlere uygulanacak stil stratejisini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_style_strategy(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AbstractTextLoadOptions](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)
-* sınıf [TxtLoadStyleStrategy](/cells/python-net/tr/aspose.cells/txtloadstylestrategy)
+* modül [`aspose.cells`](../../)
+* sınıf [`AbstractTextLoadOptions`](/cells/python-net/tr/aspose.cells/abstracttextloadoptions)
+* sınıf [`TxtLoadStyleStrategy`](/cells/python-net/tr/aspose.cells/txtloadstylestrategy)

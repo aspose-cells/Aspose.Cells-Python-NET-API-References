@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_object Eigentum
 
-Stellt dar, ob der Benutzer Zeichnungsobjekte auf einem geschützten Arbeitsblatt bearbeiten darf.
+Gibt an, ob der Benutzer Zeichenobjekte auf einem geschützten Arbeitsblatt bearbeiten darf.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_object(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

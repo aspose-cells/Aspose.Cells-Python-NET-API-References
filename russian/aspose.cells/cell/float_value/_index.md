@@ -1,15 +1,15 @@
 ---
 title: float_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 490
 url: /ru/aspose.cells/cell/float_value/
 is_root: false
 ---
 ##  float_value недвижимость
 
-Получает значение с плавающей запятой, содержащееся в ячейке.
+Возвращает плавающее значение, содержащееся в ячейке.
 ###  Определение:
 ```python
 @property

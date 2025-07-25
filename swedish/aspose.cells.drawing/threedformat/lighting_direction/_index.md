@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_direction fastighet
 
-Får och ställer in från vilken riktning ljusriggen är orienterad i förhållande till scenen.
+Hämtar och anger riktningen från vilken ljusriggen är orienterad i förhållande till scenen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LightRigDirectionType](/cells/python-net/sv/aspose.cells.drawing/lightrigdirectiontype)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LightRigDirectionType`](/cells/python-net/sv/aspose.cells.drawing/lightrigdirectiontype)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

@@ -1,75 +1,75 @@
 ---
-title: العد FillPattern
+title: FillPattern التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 810
+weight: 800
 url: /ar/aspose.cells.drawing/fillpattern/
 is_root: false
 ---
-##  العد FillPattern
-تعداد أنواع نماذج تعبئة الشكل.
+##  FillPattern التعداد
+يقوم بإحصاء أنواع أنماط تعبئة الشكل.
 
 
 
-يكشف نوع FillPattern الأعضاء التالية:
+يكشف النوع FillPattern عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | NONE | لا يمثل أي خلفية.|
-| SOLID | يمثل نمط صلب.|
-| GRAY5 |يمثل 5٪ نمط رمادي.|
-| GRAY10 | يمثل 10٪ نمط رمادي.|
-| GRAY20 | يمثل 20٪ نمط رمادي.|
-| GRAY30 | يمثل 30٪ نمط رمادي.|
-| GRAY40 | يمثل 40٪ نمط رمادي.|
-| GRAY50 | يمثل 50٪ نمط رمادي.|
-| GRAY60 | يمثل 60٪ نمط رمادي.|
-| GRAY70 | يمثل 70٪ نمط رمادي.|
-| GRAY75 | يمثل 75٪ نمط رمادي.|
-| GRAY80 | يمثل 80٪ نمط رمادي.|
-| GRAY90 | يمثل 90٪ نمط رمادي.|
-| GRAY25 | يمثل 25٪ نمط رمادي.|
-| LIGHT_DOWNWARD_DIAGONAL | يمثل نمط قطري خفيف إلى أسفل.|
-| LIGHT_UPWARD_DIAGONAL | يمثل نمط قطري صاعد خفيف.|
-| DARK_DOWNWARD_DIAGONAL | يمثل نمط قطري داكن داكن.|
-| DARK_UPWARD_DIAGONAL | يمثل نمط قطري صاعد داكن.|
-| WIDE_DOWNWARD_DIAGONAL | يمثل نمط قطري عريض للأسفل.|
-| WIDE_UPWARD_DIAGONAL | يمثل نمط قطري عريض صاعد.|
-| LIGHT_VERTICAL | يمثل نمطًا عموديًا خفيفًا.|
-| LIGHT_HORIZONTAL | يمثل نمط أفقي فاتح.|
-| NARROW_VERTICAL | يمثل نمطًا رأسيًا ضيقًا.|
-| NARROW_HORIZONTAL | يمثل نمط أفقي ضيق.|
-| DARK_VERTICAL | يمثل نمطًا عموديًا داكنًا.|
-| DARK_HORIZONTAL | يمثل نمط أفقي داكن.|
-| DASHED_DOWNWARD_DIAGONAL | يمثل نمط قطري متقطع للأسفل.|
-| DASHED_UPWARD_DIAGONAL | يمثل نمط قطري متقطع للأعلى.|
-| DASHED_VERTICAL |يمثل نمطًا رأسيًا متقطعًا.|
+| SOLID |يمثل نمطًا صلبًا.|
+| GRAY5 | يمثل نمطًا رماديًا بنسبة 5%.|
+| GRAY10 | يمثل نمطًا رماديًا بنسبة 10%.|
+| GRAY20 | يمثل نمطًا رماديًا بنسبة 20%.|
+| GRAY30 | يمثل نمطًا رماديًا بنسبة 30%.|
+| GRAY40 | يمثل نمطًا رماديًا بنسبة 40%.|
+| GRAY50 | يمثل نمطًا رماديًا بنسبة 50%.|
+| GRAY60 | يمثل نمطًا رماديًا بنسبة 60%.|
+| GRAY70 | يمثل نمطًا رماديًا بنسبة 70%.|
+| GRAY75 | يمثل نمطًا رماديًا بنسبة 75%.|
+| GRAY80 | يمثل نمطًا رماديًا بنسبة 80%.|
+| GRAY90 |يمثل نمطًا رماديًا بنسبة 90%.|
+| GRAY25 | يمثل نمطًا رماديًا بنسبة 25%.|
+| LIGHT_DOWNWARD_DIAGONAL | يمثل نمطًا قطريًا خفيفًا متجهًا للأسفل.|
+| LIGHT_UPWARD_DIAGONAL | يمثل نمطًا قطريًا خفيفًا متجهًا للأعلى.|
+| DARK_DOWNWARD_DIAGONAL | يمثل نمطًا قطريًا داكنًا متجهًا للأسفل.|
+| DARK_UPWARD_DIAGONAL | يمثل نمطًا قطريًا داكنًا متجهًا للأعلى.|
+| WIDE_DOWNWARD_DIAGONAL | يمثل نمطًا قطريًا واسعًا متجهًا للأسفل.|
+| WIDE_UPWARD_DIAGONAL | يمثل نمطًا قطريًا واسعًا متجهًا للأعلى.|
+| LIGHT_VERTICAL | يمثل نمطًا رأسيًا خفيفًا.|
+| LIGHT_HORIZONTAL | يمثل نمطًا أفقيًا خفيفًا.|
+| NARROW_VERTICAL | يمثل نمطًا عموديًا ضيقًا.|
+| NARROW_HORIZONTAL | يمثل نمطًا أفقيًا ضيقًا.|
+| DARK_VERTICAL | يمثل نمط عمودي داكن.|
+| DARK_HORIZONTAL | يمثل نمطًا أفقيًا داكنًا.|
+| DASHED_DOWNWARD_DIAGONAL | يمثل نمطًا قطريًا متقطعًا متجهًا للأسفل.|
+| DASHED_UPWARD_DIAGONAL | يمثل نمطًا قطريًا متقطعًا متجهًا للأعلى.|
+| DASHED_VERTICAL | يمثل نمط عمودي متقطع.|
 | DASHED_HORIZONTAL | يمثل نمطًا أفقيًا متقطعًا.|
-| SMALL_CONFETTI | يمثل نمط قصاصات صغيرة.|
-| LARGE_CONFETTI | يمثل نمط قصاصات ورق كبيرة.|
+| SMALL_CONFETTI | يمثل نمط قصاصات الورق الصغيرة.|
+| LARGE_CONFETTI | يمثل نمطًا كبيرًا من القصاصات الورقية.|
 | ZIG_ZAG | يمثل نمط متعرج.|
 | WAVE | يمثل نمط الموجة.|
-| DIAGONAL_BRICK | يمثل نمط القرميد المائل.|
-| HORIZONTAL_BRICK | يمثل نمط الطوب الأفقي.|
-| WEAVE | يمثل نمط نسج.|
-| PLAID | يمثل نمط منقوش.|
-| DIVOT | يمثل نمط القسمة.|
+| DIAGONAL_BRICK | يمثل نمط الطوب القطري.|
+| HORIZONTAL_BRICK |يمثل نمط الطوب الأفقي.|
+| WEAVE | يمثل نمط النسيج.|
+| PLAID | يمثل نمطًا منقوشًا.|
+| DIVOT | يمثل نمط الحفر.|
 | DOTTED_GRID | يمثل نمط الشبكة المنقط.|
 | DOTTED_DIAMOND | يمثل نمط الماس المنقط.|
-| SHINGLE | يمثل نمط لوحة خشبية.|
+| SHINGLE | يمثل نمط القوباء المنطقية.|
 | TRELLIS | يمثل نمط التعريشة.|
-| SPHERE | يمثل نمط المجال.|
-| SMALL_GRID | يمثل نمط شبكة صغير.|
-| LARGE_GRID | يمثل نمط شبكة كبير.|
-| SMALL_CHECKER_BOARD | يمثل نمط رقعة صغيرة.|
-| LARGE_CHECKER_BOARD | يمثل نمط رقعة كبيرة.|
+| SPHERE | يمثل نمط الكرة.|
+| SMALL_GRID | يمثل نمط الشبكة الصغيرة.|
+| LARGE_GRID | يمثل نمط الشبكة الكبيرة.|
+| SMALL_CHECKER_BOARD | يمثل نمط رقعة الشطرنج الصغيرة.|
+| LARGE_CHECKER_BOARD | يمثل نمط رقعة الشطرنج الكبيرة.|
 | OUTLINED_DIAMOND | يمثل نمط الماس المحدد.|
 | SOLID_DIAMOND | يمثل نمط الماس الصلب.|
-| UNKNOWN | يمثل نمط غير معروف.|
+| UNKNOWN | يمثل نمطًا غير معروف.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

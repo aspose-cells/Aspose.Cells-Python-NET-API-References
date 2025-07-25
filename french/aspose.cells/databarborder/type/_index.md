@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient ou définit la bordure type des barres de données spécifiée par une règle de mise en forme conditionnelle.
+Obtient ou définit les type barres de données de la bordure spécifiées par une règle de mise en forme conditionnelle.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBarBorder](/cells/python-net/fr/aspose.cells/databarborder)
-* classe [DataBarBorderType](/cells/python-net/fr/aspose.cells/databarbordertype)
+* module [`aspose.cells`](../../)
+* classe [`DataBarBorder`](/cells/python-net/fr/aspose.cells/databarborder)
+* classe [`DataBarBorderType`](/cells/python-net/fr/aspose.cells/databarbordertype)

@@ -1,5 +1,5 @@
 ---
-title: type الملكية
+title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 90
 url: /ar/aspose.cells.vba/vbaprojectreference/type/
 is_root: false
 ---
-##  type الملكية
+##  type عقار
 
 يحصل على type من هذا المرجع.
 ###  تعريف:
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](../../)
-* فئة [VbaProjectReference](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)
-* فئة [VbaProjectReferenceType](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencetype)
+* الوحدة [`aspose.cells.vba`](../../)
+* فئة [`VbaProjectReference`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreference)
+* فئة [`VbaProjectReferenceType`](/cells/python-net/ar/aspose.cells.vba/vbaprojectreferencetype)

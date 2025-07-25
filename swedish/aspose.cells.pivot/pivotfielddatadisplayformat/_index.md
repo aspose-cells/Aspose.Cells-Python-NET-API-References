@@ -3,12 +3,12 @@ title: PivotFieldDataDisplayFormat uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 330
 url: /sv/aspose.cells.pivot/pivotfielddatadisplayformat/
 is_root: false
 ---
 ##  PivotFieldDataDisplayFormat uppräkning
-Representerar datavisningsformat i pivottabelldatafältet.
+Representerar datavisningsformatet i pivottabellens datafält.
 
 
 
@@ -18,19 +18,19 @@ Typen PivotFieldDataDisplayFormat avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NORMAL | Representerar normalt visningsformat.|
-| DIFFERENCE_FROM | Representerar skillnad från visningsformat.|
-| PERCENTAGE_OF | Representerar procentandelen av visningsformatet.|
-| PERCENTAGE_DIFFERENCE_FROM | Representerar procentuell skillnad från visningsformat.|
-| RUNNING_TOTAL_IN | Representerar löpande total i visningsformat.|
-| PERCENTAGE_OF_ROW |Representerar procentandelen av radvisningsformat.|
-| PERCENTAGE_OF_COLUMN | Representerar procentandelen av kolumnvisningsformatet.|
-| PERCENTAGE_OF_TOTAL | Representerar procent av det totala visningsformatet.|
+| DIFFERENCE_FROM | Representerar skillnaden från visningsformatet.|
+| PERCENTAGE_OF | Representerar procentandel av visningsformatet.|
+| PERCENTAGE_DIFFERENCE_FROM | Representerar procentuell skillnad från visningsformatet.|
+| RUNNING_TOTAL_IN | Representerar löpande totalsumma i visningsformat.|
+| PERCENTAGE_OF_ROW | Representerar procentandelen av radvisningsformatet.|
+| PERCENTAGE_OF_COLUMN | Representerar procentandelen av kolumnens visningsformat.|
+| PERCENTAGE_OF_TOTAL | Representerar procentandel av det totala visningsformatet.|
 | INDEX | Representerar indexvisningsformat.|
-| PERCENTAGE_OF_PARENT_ROW_TOTAL | Representerar procentandelen av det totala visningsformatet för överordnad rad.|
-| PERCENTAGE_OF_PARENT_COLUMN_TOTAL | Representerar procentandelen av det totala visningsformatet för överordnad kolumn.|
-| PERCENTAGE_OF_PARENT_TOTAL | Representerar procentandelen av överordnats totala visningsformat.|
-| PERCENTAGE_OF_RUNNING_TOTAL_IN | Representerar procentandelen av löpande totalsumma i visningsformat.|
-| RANK_SMALLEST_TO_LARGEST | Representerar minsta till största visningsformat.|
+| PERCENTAGE_OF_PARENT_ROW_TOTAL | Representerar procentandelen av den överordnade radens totala visningsformat.|
+| PERCENTAGE_OF_PARENT_COLUMN_TOTAL | Representerar procentandelen av den överordnade kolumnens totala visningsformat.|
+| PERCENTAGE_OF_PARENT_TOTAL | Representerar procentandel av det överordnade totala visningsformatet.|
+| PERCENTAGE_OF_RUNNING_TOTAL_IN |Representerar procentandel av löpande totalsumma i visningsformat.|
+| RANK_SMALLEST_TO_LARGEST | Representerar visningsformat från minsta till största.|
 | RANK_LARGEST_TO_SMALLEST | Representerar största till minsta visningsformat.|
 
 

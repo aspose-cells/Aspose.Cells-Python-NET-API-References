@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.vba/vbamodulecollection/add/
 is_root: false
 ---
-##  add(sheet) {#Worksheet}
+##  add(self, sheet) {#aspose.cells.Worksheet}
 Lägger till modul för ett kalkylblad.
 
 
@@ -17,6 +17,7 @@ Lägger till modul för ett kalkylblad.
 
 
 ```python
+
 def add(self, sheet):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, sheet):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| sheet | [Worksheet](/cells/python-net/sv/aspose.cells/worksheet) | Arbetsbladet|
+| sheet | [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet) | Arbetsbladet|
 
 
-##  add(type, name) {#VbaModuleType-str}
+##  add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
 Lägger till modul.
 
 
@@ -37,6 +38,7 @@ Lägger till modul.
 
 
 ```python
+
 def add(self, type, name):
     ...
 ```
@@ -44,11 +46,11 @@ def add(self, type, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [VbaModuleType](/cells/python-net/sv/aspose.cells.vba/vbamoduletype) | Typen av modul.|
-| name | str | Namnet på modulen.|
+| type | [`VbaModuleType`](/cells/python-net/sv/aspose.cells.vba/vbamoduletype) | Modultypen.|
+| name | str | Modulens namn.|
 
 
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaModuleCollection](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModuleCollection`](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)

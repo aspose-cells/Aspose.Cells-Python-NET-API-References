@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_gradient propriété
 
-Indique si l’ombrage des cellules est un motif dégradé.
+Indique si l'ombrage des cellules est un motif dégradé.
 ###  Définition:
 ```python
 @property

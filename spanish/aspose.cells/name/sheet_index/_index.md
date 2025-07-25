@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  sheet_index propiedad
 
-Indica que este nombre pertenece a Workbook o Worksheet.
-0 = Nombre global; de lo contrario, índice a la hoja (basado en uno)
+Indica que este nombre pertenece al libro de trabajo o a la hoja de trabajo.
+0 = Nombre global, de lo contrario índice a hoja (basado en uno)
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def sheet_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

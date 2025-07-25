@@ -24,4 +24,4 @@ Der Typ JsonExportHyperlinkType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.json](..)
+* Modul [`aspose.cells.json`](..)

@@ -3,20 +3,21 @@ title: get_printing_page_breaks yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
-Otomatik sayfa sonlarını alır.
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
+Otomatik sayfa sonları alır.
 
 
 ###  İadeler
 
-Otomatik sayfa alanları böler.
+Otomatik sayfa sonu alanları.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```
@@ -27,7 +28,7 @@ def get_printing_page_breaks(self, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Yazdırma seçenekleri|
 ###  Notlar
 
-Her hücre alanı bir kağıdı temsil eder.
+Her hücre alanı bir kağıdı temsil ediyor.
 
 
 ###  Ayrıca bakınız

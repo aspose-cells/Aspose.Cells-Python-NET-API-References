@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left Eigentum
 
-Ruft den left-Offset zum Strecken des Bilds ab oder legt ihn fest.
+Ruft den Offset left zum Strecken des Bildes ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def left(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PicFormatOption](/cells/python-net/de/aspose.cells.drawing/picformatoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PicFormatOption`](/cells/python-net/de/aspose.cells.drawing/picformatoption)

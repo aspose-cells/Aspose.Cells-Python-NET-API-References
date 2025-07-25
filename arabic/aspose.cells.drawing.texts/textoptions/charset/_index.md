@@ -1,5 +1,5 @@
 ---
-title: charset الملكية
+title: charset عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing.texts/textoptions/charset/
 is_root: false
 ---
-##  charset الملكية
+##  charset عقار
 
-تمثيل مجموعة الأحرف.
+تمثل مجموعة الأحرف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def charset(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

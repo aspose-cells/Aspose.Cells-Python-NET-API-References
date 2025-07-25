@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  destination propriété
 
-La cellule à laquelle le signet est lié.
+La cellule à laquelle le lien du signet est lié.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def destination(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
-* classe [PdfBookmarkEntry](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)
+* module [`aspose.cells.rendering`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)
+* classe [`PdfBookmarkEntry`](/cells/python-net/fr/aspose.cells.rendering/pdfbookmarkentry)

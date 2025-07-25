@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells/formatcondition/get_formula1/
 is_root: false
 ---
-##  get_formula1(is_r1c1, is_local) {#bool-bool}
+##  get_formula1(self, is_r1c1, is_local) {#bool-bool}
 Ruft den Wert oder Ausdruck ab, der dieser Formatbedingung zugeordnet ist.
 
 
 ###  Kehrt zurück
 
-Der Wert oder Ausdruck, der dieser Formatbedingung zugeordnet ist.
+Der mit dieser Formatbedingung verknüpfte Wert oder Ausdruck.
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local):
     ...
 ```
@@ -28,7 +29,7 @@ def get_formula1(self, is_r1c1, is_local):
 | is_local | bool | Ob die Formel nach Gebietsschema formatiert werden muss.|
 
 
-##  get_formula1(row, column) {#int-int}
+##  get_formula1(self, row, column) {#int-int}
 Ruft die Formel der bedingten Formatierung der Zelle ab.
 
 
@@ -38,6 +39,7 @@ Die Formel.
 
 
 ```python
+
 def get_formula1(self, row, column):
     ...
 ```
@@ -49,16 +51,17 @@ def get_formula1(self, row, column):
 | column | int | Der Spaltenindex.|
 
 
-##  get_formula1(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+##  get_formula1(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 Ruft den Wert oder Ausdruck der bedingten Formatierung der Zelle ab.
 
 
 ###  Kehrt zurück
 
-Der Wert oder Ausdruck, der der bedingten Formatierung der Zelle zugeordnet ist.
+Der Wert oder Ausdruck, der mit der bedingten Formatierung der Zelle verknüpft ist.
 
 
 ```python
+
 def get_formula1(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -77,5 +80,5 @@ Die angegebene Zelle muss in dieser bedingten Formatierung enthalten sein, ander
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

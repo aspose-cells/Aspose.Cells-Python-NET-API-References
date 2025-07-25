@@ -1,6 +1,6 @@
 ---
 title: total_pages proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_pages proprietà
 
-Indica le pagine totali nel rendering corrente.
+Indica il numero totale di pagine nel rendering corrente.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def total_pages(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [DrawObject](/cells/python-net/it/aspose.cells.rendering/drawobject)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`DrawObject`](/cells/python-net/it/aspose.cells.rendering/drawobject)

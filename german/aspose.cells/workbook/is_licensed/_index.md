@@ -3,7 +3,7 @@ title: is_licensed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 620
+weight: 650
 url: /de/aspose.cells/workbook/is_licensed/
 is_root: false
 ---

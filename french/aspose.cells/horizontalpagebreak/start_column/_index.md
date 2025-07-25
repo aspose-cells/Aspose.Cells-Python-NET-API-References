@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_column propriété
 
-Obtient l'index de colonne de début de ce saut de page horizontal.
+Obtient l'index de la colonne de début de ce saut de page horizontal.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HorizontalPageBreak](/cells/python-net/fr/aspose.cells/horizontalpagebreak)
+* module [`aspose.cells`](../../)
+* classe [`HorizontalPageBreak`](/cells/python-net/fr/aspose.cells/horizontalpagebreak)

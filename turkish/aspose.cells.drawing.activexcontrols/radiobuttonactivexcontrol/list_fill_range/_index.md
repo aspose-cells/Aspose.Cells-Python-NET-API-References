@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/list_fil
 is_root: false
 ---
 ##  list_fill_range mülk
-
-Liste doldurma aralığını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [RadioButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`RadioButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

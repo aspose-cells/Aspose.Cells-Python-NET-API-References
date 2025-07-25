@@ -1,9 +1,9 @@
 ---
 title: layout_options недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells/jsonloadoptions/layout_options/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def layout_options(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [JsonLayoutOptions](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
-* класс [JsonLoadOptions](/cells/python-net/ru/aspose.cells/jsonloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`JsonLayoutOptions`](/cells/python-net/ru/aspose.cells.utility/jsonlayoutoptions)
+* класс [`JsonLoadOptions`](/cells/python-net/ru/aspose.cells/jsonloadoptions)

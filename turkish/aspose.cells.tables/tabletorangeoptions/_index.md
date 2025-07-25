@@ -12,20 +12,20 @@ Tabloyu aralığa dönüştürürken seçenekleri temsil eder.
 
 
 
-TableToRangeOptions türü aşağıdaki üyeleri gösterir:
+TableToRangeOptions türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [TableToRangeOptions()](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions/__init__/#) | Yeni bir TableToRangeOptions örneği oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions/__init__/#) | TableToRangeOptions'ın yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [last_row](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions/last_row) | Tablonun son satır indeksini alır ve ayarlar.|
+| [last_row](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions/last_row) |Tablonun son satır indeksini alır ve ayarlar.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](..)
+* modül [`aspose.cells.tables`](..)

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete mülk
 
-İçeriği kopyalama veya çıkarma izni PDF referansına göre geçersizdir.
+İçeriğin kopyalanması veya çıkarılmasına izin verilmiştir. PDF referansı uyarınca geçersizdir.
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen ExtractContentPermission özelliğini kullanın.
- Bu mülk, Eylül 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen ExtractContentPermission özelliğini kullanın.
+ Bu özellik Eylül 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

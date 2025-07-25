@@ -21,6 +21,6 @@ def fill_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
-* sınıf [FillType](/cells/python-net/tr/aspose.cells.drawing/filltype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* sınıf [`FillType`](/cells/python-net/tr/aspose.cells.drawing/filltype)

@@ -3,12 +3,12 @@ title: PageLayoutAlignmentType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2390
+weight: 2360
 url: /tr/aspose.cells/pagelayoutalignmenttype/
 is_root: false
 ---
 ##  PageLayoutAlignmentType numaralandırma
-Sayfa düzeni hizalama türlerini numaralandırır.
+Sayfa düzeni hizalama türlerini sıralar.
 
 
 
@@ -17,11 +17,11 @@ PageLayoutAlignmentType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| BOTTOM | Alt sayfa düzeni hizalamasını temsil eder.|
-| CENTER | Orta sayfa düzeni hizalamasını temsil eder.|
+| BOTTOM | Alt sayfa düzeninin hizalanmasını temsil eder.|
+| CENTER | Sayfanın orta hizalamasını temsil eder.|
 | LEFT | Sol sayfa düzeni hizalamasını temsil eder.|
-| RIGHT | Sağ sayfa düzeni hizalamasını temsil eder.|
-| TOP | Üst sayfa düzeni hizalamasını temsil eder.|
+| RIGHT | Sayfa düzeninin doğru hizalanmasını temsil eder.|
+| TOP | Sayfanın üst düzeninin hizalanmasını temsil eder.|
 
 
 

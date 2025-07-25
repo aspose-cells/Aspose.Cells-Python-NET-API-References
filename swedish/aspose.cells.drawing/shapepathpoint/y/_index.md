@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y fastighet
 
-Får y koordinat för denna positionskoordinat.
+Hämtar koordinaten y för denna positionskoordinat.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePathPoint](/cells/python-net/sv/aspose.cells.drawing/shapepathpoint)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePathPoint`](/cells/python-net/sv/aspose.cells.drawing/shapepathpoint)

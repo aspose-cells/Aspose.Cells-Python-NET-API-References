@@ -3,16 +3,17 @@ title: método move_to_range
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 160
+weight: 170
 url: /es/aspose.cells.drawing/spinner/move_to_range/
 is_root: false
 ---
-##  move_to_range {#int-int-int-int}
-Mueve la forma a un rango específico.
+##  move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column) {#int-int-int-int}
+Mueve la forma a un rango especificado.
 
 
 
 ```python
+
 def move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column):
     ...
 ```

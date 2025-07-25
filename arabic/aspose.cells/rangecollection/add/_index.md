@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/rangecollection/add/
 is_root: false
 ---
-##  add(range) {#Range}
-لاضافة عنصر [Range](/cells/python-net/ar/aspose.cells/range) للمجموعة.
+##  add(self, range) {#aspose.cells.Range}
+يضيف عنصر [`Range`](/cells/python-net/ar/aspose.cells/range) إلى المجموعة.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, range):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, range):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| range | [Range](/cells/python-net/ar/aspose.cells/range) | كائن النطاق|
+| range | [`Range`](/cells/python-net/ar/aspose.cells/range) | كائن النطاق|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [RangeCollection](/cells/python-net/ar/aspose.cells/rangecollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`RangeCollection`](/cells/python-net/ar/aspose.cells/rangecollection)

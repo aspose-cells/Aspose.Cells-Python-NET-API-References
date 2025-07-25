@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
+##  add(self, name, value) {#str-str}
 创建一个新的自定义文档属性**属性类型.String**数据类型。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -28,8 +29,8 @@ def add(self, name, value):
 | value | str |属性的价值。|
 
 
-##  add(name, value) {#str-int}
-创建一个新的自定义文档属性**属性类型.编号**数据类型。
+##  add(self, name, value) {#str-int}
+创建一个新的自定义文档属性**属性类型.数字**数据类型。
 
 
 ### 返回
@@ -38,6 +39,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -49,7 +51,7 @@ def add(self, name, value):
 | value | int |属性的价值。|
 
 
-##  add(name, value) {#str-DateTime}
+##  add(self, name, value) {#str-DateTime}
 创建一个新的自定义文档属性**属性类型.日期时间**数据类型。
 
 
@@ -59,6 +61,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -70,8 +73,8 @@ def add(self, name, value):
 | value | DateTime |属性的价值。|
 
 
-##  add(name, value) {#str-bool}
-创建一个新的自定义文档属性**PropertyType.布尔值**数据类型。
+##  add(self, name, value) {#str-bool}
+创建一个新的自定义文档属性**属性类型.布尔值**数据类型。
 
 
 ### 返回
@@ -80,6 +83,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -91,7 +95,7 @@ def add(self, name, value):
 | value | bool |属性的价值。|
 
 
-##  add(name, value) {#str-float}
+##  add(self, name, value) {#str-float}
 创建一个新的自定义文档属性**属性类型.Float**数据类型。
 
 
@@ -101,6 +105,7 @@ def add(self, name, value):
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -114,5 +119,5 @@ def add(self, name, value):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.properties](../../)
-* 类 [CustomDocumentPropertyCollection](/cells/python-net/zh/aspose.cells.properties/customdocumentpropertycollection)
+* 模块[`aspose.cells.properties`](../../)
+* 类 [`CustomDocumentPropertyCollection`](/cells/python-net/zh/aspose.cells.properties/customdocumentpropertycollection)

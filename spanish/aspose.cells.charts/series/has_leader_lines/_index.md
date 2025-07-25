@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_leader_lines propiedad
 
-Verdadero si la serie tiene líneas guía.
+Verdadero si la serie tiene líneas líderes.
 ###  Definición:
 ```python
 @property

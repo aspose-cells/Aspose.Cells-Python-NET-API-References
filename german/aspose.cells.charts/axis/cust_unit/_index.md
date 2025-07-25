@@ -13,10 +13,10 @@ Gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.
 
 ###  Bemerkungen
 
- HINWEIS: Diese Eigenschaft ist jetzt veraltet. Stattdessen,
+ HINWEIS: Diese Eigenschaft ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Eigenschaft Axis.CustomUnit.
- Diese Eigenschaft wird seit Januar 2023 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Januar 2023) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

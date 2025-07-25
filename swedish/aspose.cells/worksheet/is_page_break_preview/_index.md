@@ -3,13 +3,13 @@ title: is_page_break_preview fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 610
 url: /sv/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
 ##  is_page_break_preview fastighet
 
-Anger om det angivna kalkylbladet visas i normal vy eller förhandsvisning av sidbrytning.
+Anger om det angivna kalkylbladet visas i normalvy eller förhandsgranskning av sidbrytning.
 ###  Definition:
 ```python
 @property

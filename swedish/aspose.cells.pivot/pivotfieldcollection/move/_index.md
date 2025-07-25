@@ -3,16 +3,17 @@ title: move metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 60
 url: /sv/aspose.cells.pivot/pivotfieldcollection/move/
 is_root: false
 ---
-##  move {#int-int}
-Flyttar pivotfältet från nuvarande position till destinationsposition
+##  move(self, curr_pos, dest_pos) {#int-int}
+Flyttar pivotfältet från aktuell position till destinationspositionen
 
 
 
 ```python
+
 def move(self, curr_pos, dest_pos):
     ...
 ```

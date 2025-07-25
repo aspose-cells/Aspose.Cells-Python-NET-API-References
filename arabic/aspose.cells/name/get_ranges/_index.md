@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells/name/get_ranges/
 is_root: false
 ---
-##  get_ranges() {#}
+##  get_ranges(self) {#}
 يحصل على جميع النطاقات المشار إليها بهذا الاسم.
 
 
 ###  عائدات
 
-كل النطاقات.
+جميع النطاقات.
 
 
 ```python
+
 def get_ranges(self):
     ...
 ```
@@ -24,16 +25,17 @@ def get_ranges(self):
 
 
 
-##  get_ranges(recalculate) {#bool}
+##  get_ranges(self, recalculate) {#bool}
 يحصل على جميع النطاقات المشار إليها بهذا الاسم.
 
 
 ###  عائدات
 
-كل النطاقات.
+جميع النطاقات.
 
 
 ```python
+
 def get_ranges(self, recalculate):
     ...
 ```
@@ -41,10 +43,10 @@ def get_ranges(self, recalculate):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| recalculate | bool | سواء إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
+| recalculate | bool | هل يجب إعادة حسابه إذا تم حساب هذا الاسم قبل هذا الاستدعاء.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

@@ -1,15 +1,15 @@
 ---
 title: spid недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/aspose.cells.drawing/oleobject/spid/
 is_root: false
 ---
 ##  spid недвижимость
 
-Указывает необязательную строку, которую приложение может использовать для идентификации конкретной фигуры.
+Указывает необязательный строковый идентификатор, который приложение может использовать для идентификации конкретной фигуры.
 
 ###  Пример
 

@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow propriété
-
-Indique s'il faut afficher un shadow.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](..)
+* module [`aspose.cells.properties`](..)

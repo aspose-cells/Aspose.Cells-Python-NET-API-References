@@ -10,7 +10,7 @@ is_root: false
 ##  export_column_name Eigentum
 
 Gibt an, ob die Daten in der ersten Zeile in den Spaltennamen der DataTable exportiert werden.
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

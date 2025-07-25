@@ -1,22 +1,23 @@
 ---
 title: Metodo get_printing_page_breaks
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 170
+weight: 180
 url: /it/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
 Ottiene interruzioni di pagina automatiche.
 
 
 ###  ritorna
 
-La pagina automatica interrompe le aree.
+Aree di interruzione di pagina automatiche.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```
@@ -27,7 +28,7 @@ def get_printing_page_breaks(self, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Le opzioni di stampa|
 ###  Osservazioni
 
-Ogni area della cella rappresenta un foglio.
+Ogni area di cella rappresenta un foglio di carta.
 
 
 ###  Guarda anche

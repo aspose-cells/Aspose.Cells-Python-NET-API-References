@@ -1,5 +1,5 @@
 ---
-title: is_collapse الملكية
+title: is_collapse عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.rendering/pdfbookmarkentry/is_collapse/
 is_root: false
 ---
-##  is_collapse الملكية
+##  is_collapse عقار
 
-عندما تكون هذه الخاصية صحيحة ، ستنهار نقطة الإشارة المرجعية ، وإلا فإنها ستتوسع.
+عندما تكون هذه الخاصية صحيحة، سوف ينهار إدخال العلامة المرجعية، وإلا فسوف يتوسع.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapse(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PdfBookmarkEntry](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PdfBookmarkEntry`](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)

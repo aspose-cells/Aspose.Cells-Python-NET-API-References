@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-Belirli bir sayfayı bir dosyaya dönüştürün.
+##  to_image(self, page_index, file_name) {#int-str}
+Belirli bir sayfayı bir dosyaya dönüştür.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -25,7 +26,7 @@ def to_image(self, page_index, file_name):
 
 ###  Örnek
 
-Aşağıdaki kod, ilk sayfanın ilk sayfasını png görüntüsüne çıkarır.
+Aşağıdaki kod, ilk sayfanın ilk sayfasını png görüntüsüne dönüştürür.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-Belirli bir sayfayı bir akışa dönüştürün.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Belirli bir sayfayı akışa dönüştür.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

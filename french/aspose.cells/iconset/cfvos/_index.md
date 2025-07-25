@@ -18,6 +18,6 @@ def cfvos(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingValueCollection](/cells/python-net/fr/aspose.cells/conditionalformattingvaluecollection)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingValueCollection`](/cells/python-net/fr/aspose.cells/conditionalformattingvaluecollection)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)

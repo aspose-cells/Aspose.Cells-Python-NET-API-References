@@ -1,9 +1,9 @@
 ---
 title: column_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 370
 url: /it/aspose.cells/range/column_count/
 is_root: false
 ---

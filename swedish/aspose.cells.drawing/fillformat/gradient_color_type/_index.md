@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_color_type fastighet
 
-Returnerar gradientfärgtypen för den angivna fyllningen.
+Returnerar övertoningsfärgtypen för den angivna fyllningen.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_color_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [GradientColorType](/cells/python-net/sv/aspose.cells.drawing/gradientcolortype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`GradientColorType`](/cells/python-net/sv/aspose.cells.drawing/gradientcolortype)

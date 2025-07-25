@@ -1,15 +1,15 @@
 ---
-title: cell_count الملكية
+title: cell_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 120
 url: /ar/aspose.cells/unionrange/cell_count/
 is_root: false
 ---
-##  cell_count الملكية
+##  cell_count عقار
 
-الحصول على كل عدد الخلايا في النطاق.
+يحصل على عدد الخلايا كلها في النطاق.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

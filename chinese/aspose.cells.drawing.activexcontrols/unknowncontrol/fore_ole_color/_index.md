@@ -1,19 +1,13 @@
 ---
-title: fore_ole_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: fore_ole_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.drawing.activexcontrols/unknowncontrol/fore_ole_color/
 is_root: false
 ---
-## fore_ole_color 属性
-
-获取和设置前景的 ole 颜色。
-
-### 评论
-
-不适用于图像控件。
+## fore_ole_color属性
 ### 定义：
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [UnknownControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`UnknownControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/unknowncontrol)

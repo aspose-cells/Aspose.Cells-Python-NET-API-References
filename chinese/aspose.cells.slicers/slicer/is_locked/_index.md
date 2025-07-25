@@ -1,15 +1,15 @@
 ---
-title: is_locked 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_locked属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 130
 url: /zh/aspose.cells.slicers/slicer/is_locked/
 is_root: false
 ---
-## is_locked 属性
+## is_locked属性
 
-指示切片器形状是否已锁定。
+指示切片器形状是否被锁定。
 
 ### 例子
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

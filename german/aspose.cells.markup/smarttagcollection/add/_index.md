@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
-##  add(uri, name) {#str-str}
+##  add(self, uri, name) {#str-str}
 Fügt ein Smarttag hinzu.
 
 
@@ -17,6 +17,7 @@ Der Index des Smarttags in der Liste.
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, uri, name):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [SmartTagCollection](/cells/python-net/de/aspose.cells.markup/smarttagcollection)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)

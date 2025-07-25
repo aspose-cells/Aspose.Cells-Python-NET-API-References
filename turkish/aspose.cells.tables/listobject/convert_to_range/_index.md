@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.tables/listobject/convert_to_range/
 is_root: false
 ---
-##  convert_to_range() {#}
-Tabloyu aralığa dönüştürün.
+##  convert_to_range(self) {#}
+Tabloyu aralığa dönüştür.
 
 
 
 ```python
+
 def convert_to_range(self):
     ...
 ```
@@ -20,12 +21,13 @@ def convert_to_range(self):
 
 
 
-##  convert_to_range(options) {#TableToRangeOptions}
-Tabloyu aralığa dönüştürün.
+##  convert_to_range(self, options) {#aspose.cells.tables.TableToRangeOptions}
+Tabloyu aralığa dönüştür.
 
 
 
 ```python
+
 def convert_to_range(self, options):
     ...
 ```
@@ -33,10 +35,10 @@ def convert_to_range(self, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| options | [TableToRangeOptions](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions) | tabloyu aralığa dönüştürürken seçenekler.|
+| options | [`TableToRangeOptions`](/cells/python-net/tr/aspose.cells.tables/tabletorangeoptions) | Tabloyu aralığa dönüştürürken seçenekler.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObject](/cells/python-net/tr/aspose.cells.tables/listobject)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObject`](/cells/python-net/tr/aspose.cells.tables/listobject)

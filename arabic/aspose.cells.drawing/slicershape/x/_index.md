@@ -1,0 +1,34 @@
+---
+title: x عقار
+second_title: Aspose.Cells for Python via .NET API المراجع
+description:
+type: docs
+weight: 1240
+url: /ar/aspose.cells.drawing/slicershape/x/
+is_root: false
+---
+##  x عقار
+
+يحصل على الإزاحة الأفقية للشكل من الحد الأيسر لورقة العمل، ويحددها بوحدة البكسل.
+
+###  مثال
+
+```python
+
+if shape.x == 3:
+    shape.x = 1
+
+```
+###  تعريف:
+```python
+@property
+def x(self):
+    ...
+@x.setter
+def x(self, value):
+    ...
+```
+
+###  أنظر أيضا
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SlicerShape`](/cells/python-net/ar/aspose.cells.drawing/slicershape)

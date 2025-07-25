@@ -8,7 +8,7 @@ url: /fr/aspose.cells.charts/crosstype/
 is_root: false
 ---
 ##  CrossType énumération
-Représente le type de croix d’axe.
+Représente le type de croix d'axe.
 
 
 
@@ -17,10 +17,10 @@ Le type CrossType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| AUTOMATIC | Microsoft Excel définit le point de croisement de l'axe.|
-| MAXIMUM | L'axe se croise à la valeur maximale.|
-| MINIMUM | L'axe se croise à la valeur minimale.|
-| CUSTOM | L'axe se croise à la valeur personnalisée.|
+| AUTOMATIC | Microsoft Excel définit le point de croisement des axes.|
+| MAXIMUM | L'axe croise à la valeur maximale.|
+| MINIMUM | L'axe croise à la valeur minimale.|
+| CUSTOM |L'axe croise la valeur personnalisée.|
 
 
 

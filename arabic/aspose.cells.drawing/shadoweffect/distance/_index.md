@@ -1,5 +1,5 @@
 ---
-title: distance الملكية
+title: distance عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/shadoweffect/distance/
 is_root: false
 ---
-##  distance الملكية
+##  distance عقار
 
-الحصول على distance الظل وتعيينه. تتراوح من 0 إلى 200 نقطة.
+يحصل على قيمة الظل ٠٧٦١٠٣٤٨١ ويضبطها. نطاق من ٠ إلى ٢٠٠ نقطة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShadowEffect](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect)

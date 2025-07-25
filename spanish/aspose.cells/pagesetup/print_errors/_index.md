@@ -21,6 +21,6 @@ def print_errors(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
-* clase [PrintErrorsType](/cells/python-net/es/aspose.cells/printerrorstype)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)
+* clase [`PrintErrorsType`](/cells/python-net/es/aspose.cells/printerrorstype)

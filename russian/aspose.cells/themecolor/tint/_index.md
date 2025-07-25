@@ -1,6 +1,6 @@
 ---
 title: tint недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -13,8 +13,8 @@ is_root: false
 
 ###  Примечания
 
- Значение tint хранится как двойное значение от -1,0 до 1,0, где -1,0 означает затемнение на 100 %.
-а 1.0 означает 100% осветление. Кроме того, 0.0 означает отсутствие изменений.
+ Значение tint хранится как число двойной точности в диапазоне от -1,0 до 1,0, где -1,0 означает 100% затемнение.
+1,0 означает осветление на 100%. 0,0 означает отсутствие изменений.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def tint(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ThemeColor](/cells/python-net/ru/aspose.cells/themecolor)
+* модуль [`aspose.cells`](../../)
+* класс [`ThemeColor`](/cells/python-net/ru/aspose.cells/themecolor)

@@ -7,8 +7,8 @@ weight: 70
 url: /tr/aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
-##  select_by_id(id) {#str}
-Kimliğe göre bir öğe alır.
+##  select_by_id(self, id) {#str}
+Bir öğeyi kimliğine göre alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Kimliğe göre bir öğe alır.
 
 
 ```python
+
 def select_by_id(self, id):
     ...
 ```
@@ -24,10 +25,10 @@ def select_by_id(self, id):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| id | str | Özel XML bölümü için GUID'i içerir.|
+| id | str | Özel XML parçası için GUID'yi içerir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [CustomXmlPartCollection](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`CustomXmlPartCollection`](/cells/python-net/tr/aspose.cells.markup/customxmlpartcollection)

@@ -3,16 +3,17 @@ title: طريقة clear_filter
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 80
 url: /ar/aspose.cells.pivot/pivotfiltercollection/clear_filter/
 is_root: false
 ---
-##  clear_filter(field_index) {#int}
-امسح PivotFilter من PivotField المحدد
+##  clear_filter(self, field_index) {#int}
+مسح PivotFilter من PivotField المحدد
 
 
 
 ```python
+
 def clear_filter(self, field_index):
     ...
 ```
@@ -20,10 +21,10 @@ def clear_filter(self, field_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | فهرس PivotField|
+| field_index | int | مؤشر PivotField|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilterCollection](/cells/python-net/ar/aspose.cells.pivot/pivotfiltercollection)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilterCollection`](/cells/python-net/ar/aspose.cells.pivot/pivotfiltercollection)

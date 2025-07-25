@@ -1,5 +1,5 @@
 ---
-title: hide_formula الملكية
+title: hide_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 190
 url: /ar/aspose.cells/styleflag/hide_formula/
 is_root: false
 ---
-##  hide_formula الملكية
+##  hide_formula عقار
 
 سيتم تطبيق إعداد إخفاء الصيغة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def hide_formula(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

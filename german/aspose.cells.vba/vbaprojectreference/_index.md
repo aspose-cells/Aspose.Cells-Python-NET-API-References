@@ -17,18 +17,18 @@ Der Typ VbaProjectReference macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [type](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/type) | Ruft den Typ dieses Verweises ab.|
+| [type](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/type) |Ruft den Typ dieser Referenz ab.|
 | [name](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/name) | Ruft den Namen der Referenz ab und legt ihn fest.|
 | [libid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/libid) | Ruft die Libid der Referenz ab und legt sie fest.|
-| [twiddledlibid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Ruft die veränderte Libid der Referenz ab und legt sie fest.|
+| [twiddledlibid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Ruft die verdrehte Libid der Referenz ab und legt sie fest.|
 | [extended_libid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/extended_libid) | Ruft die erweiterte Libid der Referenz ab und legt sie fest.|
-| [relative_libid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/relative_libid) | Ruft den Bezeichner des referenzierten VBA-Projekts mit einem relativen Pfad ab und legt ihn fest.|
+| [relative_libid](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/relative_libid) | Ruft die Kennung des referenzierten VBA-Projekts mit einem relativen Pfad ab und legt sie fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [copy(source)](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [`copy(self, source)`](/cells/python-net/de/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.vbaprojectreference) |  |
 
 
 
@@ -49,4 +49,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](..)
+* Modul [`aspose.cells.vba`](..)

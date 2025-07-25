@@ -1,28 +1,28 @@
 ---
-title: العد LineJoinType
+title: LineJoinType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 930
 url: /ar/aspose.cells.drawing/linejointype/
 is_root: false
 ---
-##  العد LineJoinType
-يمثل أنماط الربط لخط.
+##  LineJoinType التعداد
+يمثل أنماط الانضمام للخط.
 
 
 
-يكشف نوع LineJoinType الأعضاء التالية:
+يكشف النوع LineJoinType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ROUND | مفصل دائري|
-| BEVEL | مفصل شطبة|
-| MITER | مفصل ميتري|
-| NONE | لا يوجد مشترك|
+| ROUND | المفصل المستدير|
+| BEVEL | مفصل مشطوف|
+| MITER | وصلة ميتري|
+| NONE | لا يوجد مفصل|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

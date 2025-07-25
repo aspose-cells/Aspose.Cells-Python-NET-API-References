@@ -3,17 +3,17 @@ title: protection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 750
 url: /sv/aspose.cells/worksheet/protection/
 is_root: false
 ---
 ##  protection fastighet
 
-Representerar de olika typerna av protection-alternativ som är tillgängliga för ett kalkylblad. Stöder avancerade protection-alternativ i ExcelXP och högre version.
+Representerar de olika typerna av protection-alternativ som är tillgängliga för ett kalkylblad. Stöder avancerade protection-alternativ i ExcelXP och senare versioner.
 
 ###  Anmärkningar
 
-Den här egenskapen kan skydda kalkylblad i alla versioner av Excel-filen och stödja avancerade protection-alternativ i ExcelXP och senare versioner.
+Den här egenskapen kan skydda kalkylblad i alla versioner av Excel-filer och stöder avancerade protection-alternativ i ExcelXP och senare versioner.
 ###  Definition:
 ```python
 @property

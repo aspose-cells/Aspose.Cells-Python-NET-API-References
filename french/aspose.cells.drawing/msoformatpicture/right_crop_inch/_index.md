@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop_inch propriété
 
-Représente l’emplacement de la droite du rectangle de recadrage exprimé en pouces.
+Représente l'emplacement de la droite du rectangle de recadrage exprimé, en unité de pouces.
 ###  Définition:
 ```python
 @property

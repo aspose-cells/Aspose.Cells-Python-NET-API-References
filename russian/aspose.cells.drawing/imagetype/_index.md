@@ -1,9 +1,9 @@
 ---
 title: ImageType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 900
+weight: 890
 url: /ru/aspose.cells.drawing/imagetype/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 
-Тип ImageType предоставляет следующие члены:
+Тип ImageType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -20,19 +20,19 @@ is_root: false
 | UNKNOWN | Неизвестный тип изображения.|
 | EMF | Windows Расширенный метафайл.|
 | WMF | Windows Метафайл.|
-| PICT | Макинтош ИЗОБРАЖЕНИЕ.|
-| JPEG | JPEG ЖФИФ.|
-| PNG | Портативная сетевая графика.|
+| PICT | Macintosh PICT.|
+| JPEG | JPEG ЙФИФ.|
+| PNG | Переносимая сетевая графика.|
 | BMP | Windows Растровое изображение|
-| GIF | гифка|
-| TIFF | размолвка|
-| SVG | Свг|
+| GIF | Гифка|
+| TIFF | Тифф|
+| SVG | SVG|
 | SVM | Свм|
-| GLTF | глтф|
-| OFFICE_COMPATIBLE_EMF | Windows Расширенный метафайл, более совместимый с Office.|
-| WEB_P |Weppy формат изображения|
+| GLTF | glTF|
+| OFFICE_COMPATIBLE_EMF | Windows Улучшенный метафайл, который более совместим с Office.|
+| WEB_P | Формат изображения Weppy|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

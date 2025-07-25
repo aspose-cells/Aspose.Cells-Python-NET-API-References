@@ -1,6 +1,6 @@
 ---
 title: end_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_type proprietà
 
-Specifica una freccia per la fine di una riga.
+Specifica una punta di freccia per la fine di una riga.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
-* classe [MsoArrowheadStyle](/cells/python-net/it/aspose.cells.drawing/msoarrowheadstyle)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)
+* classe [`MsoArrowheadStyle`](/cells/python-net/it/aspose.cells.drawing/msoarrowheadstyle)

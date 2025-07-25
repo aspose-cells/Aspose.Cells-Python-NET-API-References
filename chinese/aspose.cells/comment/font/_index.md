@@ -9,7 +9,7 @@ is_root: false
 ---
 ## font属性
 
-获取评论font。
+得到font的注意事项。
 
 ### 例子
 

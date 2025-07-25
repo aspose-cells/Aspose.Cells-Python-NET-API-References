@@ -1,17 +1,16 @@
 ---
 title: is_insert_page_breaks_between_items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 510
 url: /ru/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---
 ##  is_insert_page_breaks_between_items недвижимость
 
-указывает, может ли поле вставлять разрывы страниц между элементами
-вставлять разрыв страницы после каждого элемента
-Значение по умолчанию неверно.
+Указывает, будет ли вставка разрыва страницы после каждого элемента.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

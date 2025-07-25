@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  skip_error_value propiedad
 
-Indica si se omite un valor no válido para la columna.
+Indica si se debe omitir un valor no válido para la columna.
  Por ejemplo, si el tipo de columna es decimal, el valor es mayor que decimal.MaxValue
-y esta propiedad es verdadera, no volveremos a lanzar una excepción.
+y esta propiedad es verdadera, no lanzaremos otra excepción nuevamente.
 El valor predeterminado es falso.
 ###  Definición:
 ```python

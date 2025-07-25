@@ -1,5 +1,5 @@
 ---
-title: العد HtmlFormatHandlingType
+title: HtmlFormatHandlingType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 110
 url: /ar/aspose.cells.externalconnections/htmlformathandlingtype/
 is_root: false
 ---
-##  العد HtmlFormatHandlingType
-يحدد كيفية معالجة التنسيق من المصدر HTML
+##  HtmlFormatHandlingType التعداد
+يحدد كيفية التعامل مع التنسيق من المصدر HTML
 
 
 
-يكشف نوع HtmlFormatHandlingType الأعضاء التالية:
+يكشف النوع HtmlFormatHandlingType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| ALL | انقل جميع تنسيقات HTML إلى ورقة العمل مع البيانات.|
-| NONE | إحضار البيانات كنص غير منسق (لا يزال يحدث تعيين أنواع البيانات).|
-| RTF | ترجمة HTML التنسيق إلى تنسيق نص منسق على البيانات التي تم إحضارها في ورقة العمل.|
+| ALL | نقل كافة التنسيقات HTML إلى ورقة العمل مع البيانات.|
+| NONE | إحضار البيانات كنص غير منسق (لا يزال يتم تعيين أنواع البيانات).|
+| RTF |ترجمة تنسيق HTML إلى تنسيق النص الغني على البيانات الموجودة في ورقة العمل.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](..)
+* الوحدة [`aspose.cells.externalconnections`](..)

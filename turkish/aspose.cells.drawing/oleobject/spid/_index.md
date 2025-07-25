@@ -3,13 +3,13 @@ title: spid mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /tr/aspose.cells.drawing/oleobject/spid/
 is_root: false
 ---
 ##  spid mülk
 
-Bir uygulamanın belirli bir şekli tanımlamak için kullanabileceği isteğe bağlı bir dize belirtir.
+Bir uygulamanın belirli bir şekli tanımlamak için kullanabileceği isteğe bağlı bir dize tanımlayıcısını belirtir.
 
 ###  Örnek
 

@@ -1,14 +1,14 @@
 ---
 title: Metered класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1090
+weight: 980
 url: /ru/aspose.cells/metered/
 is_root: false
 ---
 ##  Metered класс
-Предоставляет методы для установки дозированного ключа.
+Предоставляет методы установки измеренного ключа.
 
 
 
@@ -17,23 +17,23 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/metered/__init__/#) | Инициализирует новый экземпляр этого класса.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/metered/__init__/#) | Инициализирует новый экземпляр этого класса.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_metered_key](/cells/python-net/ru/aspose.cells/metered/set_metered_key/#str-str) | Устанавливает измеренный открытый и закрытый ключ.<br/> Если вы приобретаете лимитную лицензию, при запуске приложения следует позвонить по этому номеру API, обычно этого достаточно.<br/> Однако, если данные о потреблении не загружаются и превышают 24 часа, лицензия будет переведена в оценочный статус.<br/> Чтобы избежать такого случая, вам следует регулярно проверять статус лицензии. Если это оценочный статус, позвоните еще раз по этому номеру API.|
-| [get_consumption_quantity](/cells/python-net/ru/aspose.cells/metered/get_consumption_quantity/#) | Получает размер файла потребления|
-| [get_consumption_credit](/cells/python-net/ru/aspose.cells/metered/get_consumption_credit/#) | Получает потребительский кредит|
-| [get_product_name](/cells/python-net/ru/aspose.cells/metered/get_product_name/#) | Получает название продукта|
-| [is_metered_licensed](/cells/python-net/ru/aspose.cells/metered/is_metered_licensed/#) | Проверьте, лицензирован ли счетчик|
+| [`set_metered_key(self, public_key, private_key)`](/cells/python-net/ru/aspose.cells/metered/set_metered_key/#str-str) | Устанавливает контролируемые открытый и закрытый ключ.<br/>Если вы приобретаете лимитированную лицензию, то при запуске приложения необходимо вызвать API, обычно этого достаточно.<br/> Однако, если данные о потреблении не будут загружены и продолжительность загрузки превысит 24 часа, лицензия будет переведена в статус оценочной.<br/> Чтобы избежать подобных случаев, необходимо регулярно проверять статус лицензии. Если это статус оценки, позвоните по номеру API еще раз.|
+| [`get_consumption_quantity()`](/cells/python-net/ru/aspose.cells/metered/get_consumption_quantity/#) | Получает размер файла потребления|
+| [`get_consumption_credit()`](/cells/python-net/ru/aspose.cells/metered/get_consumption_credit/#) | Получает потребительский кредит|
+| [`get_product_name(self)`](/cells/python-net/ru/aspose.cells/metered/get_product_name/#) | Получает название продукта|
+| [`is_metered_licensed()`](/cells/python-net/ru/aspose.cells/metered/is_metered_licensed/#) | Проверьте, есть ли лицензия на счетчик|
 
 
 
 ###  Пример
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключи.
+В этом примере будет сделана попытка установить измеренный открытый и закрытый ключ.
 
 
 ```python

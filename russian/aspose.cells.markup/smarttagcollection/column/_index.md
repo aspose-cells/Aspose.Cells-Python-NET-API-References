@@ -1,6 +1,6 @@
 ---
 title: column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [SmartTagCollection](/cells/python-net/ru/aspose.cells.markup/smarttagcollection)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection)

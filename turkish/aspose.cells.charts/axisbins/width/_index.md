@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width mülk
 
-Eksen bölmesinin width'ini alır veya ayarlar
+Eksen bin'inin width'ini alır veya ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [AxisBins](/cells/python-net/tr/aspose.cells.charts/axisbins)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`AxisBins`](/cells/python-net/tr/aspose.cells.charts/axisbins)

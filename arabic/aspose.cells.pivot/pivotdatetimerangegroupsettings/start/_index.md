@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start عقار
 
-يحصل على start تاريخ ووقت المجموعة.
+يحصل على تاريخ ووقت المجموعة start.
 ###  تعريف:
 ```python
 @property

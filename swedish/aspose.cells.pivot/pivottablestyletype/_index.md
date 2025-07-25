@@ -3,12 +3,12 @@ title: PivotTableStyleType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 470
 url: /sv/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---
 ##  PivotTableStyleType uppräkning
-Representerar stiltypen för pivottabellen.
+Representerar pivottabellens stiltyp.
 
 
 

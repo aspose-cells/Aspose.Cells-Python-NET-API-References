@@ -1,9 +1,9 @@
 ---
 title: display_unit недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ru/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---

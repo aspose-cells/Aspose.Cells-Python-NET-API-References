@@ -9,8 +9,11 @@ is_root: false
 ---
 ##  amount fastighet
 
-Representerar amount för felfältet.
- amount måste vara större än eller lika med noll.
+Representerar amount i felfältet.
+
+###  Anmärkningar
+
+amount måste vara större än eller lika med noll.
 ###  Definition:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)

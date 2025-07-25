@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [ConnectionParameter](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`ConnectionParameter`](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)

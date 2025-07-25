@@ -1,9 +1,9 @@
 ---
 title: lower_right_column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 830
+weight: 840
 url: /it/aspose.cells.drawing/lineshape/lower_right_column/
 is_root: false
 ---

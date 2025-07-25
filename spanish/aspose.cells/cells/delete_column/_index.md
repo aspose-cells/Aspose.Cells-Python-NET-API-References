@@ -7,12 +7,13 @@ weight: 220
 url: /es/aspose.cells/cells/delete_column/
 is_root: false
 ---
-##  delete_column {#int}
+##  delete_column(self, column_index) {#int}
 Elimina una columna.
 
 
 
 ```python
+
 def delete_column(self, column_index):
     ...
 ```
@@ -20,15 +21,16 @@ def delete_column(self, column_index):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| column_index | int | Índice de la columna que se va a eliminar.|
+| column_index | int | Índice de la columna a eliminar.|
 
 
-##  delete_column {#int-bool}
+##  delete_column(self, column_index, update_reference) {#int-bool}
 Elimina una columna.
 
 
 
 ```python
+
 def delete_column(self, column_index, update_reference):
     ...
 ```
@@ -36,8 +38,8 @@ def delete_column(self, column_index, update_reference):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| column_index | int | Índice de la columna que se va a eliminar.|
-| update_reference | bool | Indica si se actualizan las referencias en otras hojas de trabajo.|
+| column_index | int | Índice de la columna a eliminar.|
+| update_reference | bool | Indica si se deben actualizar referencias en otras hojas de trabajo.|
 
 
 

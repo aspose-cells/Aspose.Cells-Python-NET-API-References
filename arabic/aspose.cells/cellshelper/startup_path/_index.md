@@ -3,20 +3,20 @@ title: startup_path عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 290
 url: /ar/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
 ##  startup_path عقار
 
-الحصول على مسار بدء التشغيل أو تعيينه، والذي تتم الإشارة إليه بواسطة بعض مراجع الصيغ الخارجية.
+يحصل على مسار بدء التشغيل أو يعينه، والذي تتم الإشارة إليه بواسطة بعض مراجع الصيغ الخارجية.
 ###  تعريف:
 ```python
 @property
 def startup_path(self):
     ...
-@startup_path.setter
-def startup_path(self, value):
+@staticmethod
+def set_startup_path(value):
     ...
 ```
 

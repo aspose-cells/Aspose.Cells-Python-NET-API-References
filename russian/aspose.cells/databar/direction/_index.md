@@ -1,6 +1,6 @@
 ---
 title: direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction недвижимость
 
-Получает или задает direction отображаемую панель данных.
+Возвращает или задает direction, на котором отображается панель данных.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataBar](/cells/python-net/ru/aspose.cells/databar)
-* класс [TextDirectionType](/cells/python-net/ru/aspose.cells/textdirectiontype)
+* модуль [`aspose.cells`](../../)
+* класс [`DataBar`](/cells/python-net/ru/aspose.cells/databar)
+* класс [`TextDirectionType`](/cells/python-net/ru/aspose.cells/textdirectiontype)

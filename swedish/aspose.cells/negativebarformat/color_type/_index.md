@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_type fastighet
 
-Hämtar eller ställer in om samma fyllningsfärg som positiva datafält ska användas.
+Hämtar eller anger om samma fyllningsfärg ska användas som positiva datastaplar.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def color_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBarNegativeColorType](/cells/python-net/sv/aspose.cells/databarnegativecolortype)
-* klass [NegativeBarFormat](/cells/python-net/sv/aspose.cells/negativebarformat)
+* modul [`aspose.cells`](../../)
+* klass [`DataBarNegativeColorType`](/cells/python-net/sv/aspose.cells/databarnegativecolortype)
+* klass [`NegativeBarFormat`](/cells/python-net/sv/aspose.cells/negativebarformat)

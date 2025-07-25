@@ -3,17 +3,17 @@ title: security_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 440
 url: /sv/aspose.cells/pdfsaveoptions/security_options/
 is_root: false
 ---
 ##  security_options fastighet
 
-Ställ in detta alternativ när säkerhet behövs i xls2pdf-resultat.
+Ställ in dessa alternativ när säkerhet behövs i xls2pdf-resultatet.
 
 ###  Exempel
 
-Följande kod anger utskriftstillstånd för hög upplösning för utdata-pdf.
+Följande kod anger utskriftsbehörighet med hög upplösning för den utgående pdf-filen.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -46,6 +46,6 @@ def security_options(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
-* klass [PdfSecurityOptions](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* klass [`PdfSecurityOptions`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

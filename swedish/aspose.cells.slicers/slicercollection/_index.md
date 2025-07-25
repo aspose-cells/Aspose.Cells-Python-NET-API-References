@@ -17,29 +17,30 @@ Typen SlicerCollection avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [capacity](/cells/python-net/sv/aspose.cells.slicers/slicercollection/capacity) | Hämtar eller ställer in antalet element som arraylistan kan innehålla.|
+| [capacity](/cells/python-net/sv/aspose.cells.slicers/slicercollection/capacity) | Hämtar eller anger antalet element som arraylistan kan innehålla.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add(pivot, dest_cell_name, base_field_name)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-str) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(pivot, row, column, base_field_name)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(pivot, row, column, base_field_index)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-int) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(pivot, dest_cell_name, base_field_index)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-int) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(pivot, row, column, base_field)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-int-int-aspose.cells.pivot.PivotField) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(pivot, dest_cell_name, base_field)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField) | Lägg till en ny Slicer med pivottabell som datakälla|
-| [add(table, index, dest_cell_name)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-int-str) | Lägg till en ny Slicer med ListObjet som datakälla|
-| [add(table, list_column, dest_cell_name)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-str) | Lägg till en ny Slicer med ListObjet som datakälla|
-| [add(table, list_column, row, column)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.ListObject-aspose.cells.tables.ListColumn-int-int) | Lägg till en ny Slicer med ListObjet som datakälla|
-| [copy_to(array)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/copy_to/#list) | Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) |Kopierar ett intervall av element från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
-| [index_of(item, index)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/index_of/#Slicer-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
-| [index_of(item, index, count)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/index_of/#Slicer-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
-| [last_index_of(item)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#Slicer) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
-| [last_index_of(item, index)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
-| [last_index_of(item, index, count)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#Slicer-int-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
-| [binary_search(item)](/cells/python-net/sv/aspose.cells.slicers/slicercollection/binary_search/#Slicer) | Söker i hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, row, column, base_field)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Lägg till en ny utskärare med hjälp av pivottabell som datakälla|
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Lägg till en ny utskärare med ListObjet som datakälla|
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Lägg till en ny utskärare med ListObjet som datakälla|
+| [`add(self, table, list_column, row, column)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Lägg till en ny utskärare med ListObjet som datakälla|
+| [`copy_to(self, array)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/copy_to/#list) |Kopierar hela arraylistan till en kompatibel endimensionell arraylista, med början i början av målarraylistan.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Kopierar ett elementområde från arraylistan till en kompatibel endimensionell arraylista, med början vid det angivna indexet för målarraylistan.|
+| [`index_of(self, item, index)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom intervallet av element i arraylistan som sträcker sig från det angivna indexet till det sista elementet.|
+| [`index_of(self, item, index, count)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/index_of/#aspose.cells.slicers.slicer-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den första förekomsten inom elementintervallet i arraylistan som börjar vid det angivna indexet och innehåller det angivna antalet element.|
+| [`last_index_of(self, item)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom hela arraylistan.|
+| [`last_index_of(self, item, index)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) |Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom intervallet av element i arraylistan som sträcker sig från det första elementet till det angivna indexet.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Söker efter det angivna objektet och returnerar det nollbaserade indexet för den senaste förekomsten inom elementintervallet i arraylistan som innehåller det angivna antalet element och slutar vid det angivna indexet.|
+| [`get(self, name)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/get/#str) | Hämtar utsnittet efter utsnittarens namn.|
+| [`binary_search(self, item)`](/cells/python-net/sv/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Söker igenom hela den sorterade arraylistan efter ett element med hjälp av standardjämföraren och returnerar elementets nollbaserade index.|
 
 
 
@@ -97,4 +98,4 @@ book.save("out.xlsx")
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](..)
+* modul [`aspose.cells.slicers`](..)

@@ -1,9 +1,9 @@
 ---
 title: export_page_headers proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 380
 url: /it/aspose.cells/htmlsaveoptions/export_page_headers/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Indica se esportare le intestazioni di pagina.
 
 ###  Osservazioni
 
-Funziona solo quando [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/it/aspose.cells/htmlsaveoptions#save_as_single_file) è Vero.
+Funziona solo se [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/it/aspose.cells/htmlsaveoptions#save_as_single_file) è Vero.
 ###  Definizione:
 ```python
 @property

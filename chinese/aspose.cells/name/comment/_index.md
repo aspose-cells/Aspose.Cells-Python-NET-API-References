@@ -9,7 +9,7 @@ is_root: false
 ---
 ## comment属性
 
-获取和设置名称的 comment。
+获取并设置名称的 comment。
 仅适用于 Excel 2007 或更高版本。
 ### 定义：
 ```python

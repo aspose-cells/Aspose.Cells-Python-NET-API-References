@@ -1,15 +1,15 @@
 ---
-title: shape_height_px الملكية
+title: shape_height_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.charts/chartpoint/shape_height_px/
 is_root: false
 ---
-##  shape_height_px الملكية
+##  shape_height_px عقار
 
-الحصول على الارتفاع بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().
+يحصل على الارتفاع بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_height_px(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

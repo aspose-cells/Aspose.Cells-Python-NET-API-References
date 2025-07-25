@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color1 mülk
 
-İlk gradyan rengini alır ve ayarlar.
+İlk degrade rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def color1(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TwoColorGradient](/cells/python-net/tr/aspose.cells/twocolorgradient)
+* modül [`aspose.cells`](../../)
+* sınıf [`TwoColorGradient`](/cells/python-net/tr/aspose.cells/twocolorgradient)

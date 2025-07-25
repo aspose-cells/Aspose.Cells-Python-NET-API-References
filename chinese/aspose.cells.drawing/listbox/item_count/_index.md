@@ -3,7 +3,7 @@ title: item_count属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 700
 url: /zh/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---

@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  extend_to_next_sheet mülk
 
-Veri satırları veya sütunları sınırı aştığında verilerin bir sonraki sayfaya genişletilip genişletilmeyeceği.
-Varsayılan yanlıştır.
+Veri satırları veya sütunları sınırı aştığında verileri bir sonraki sayfaya genişletir.
+Varsayılan değer false'tur.
 
 ###  Notlar
 
-Bu özellik doğruysa, fazladan veriler mevcut sayfanın arkasındaki sonraki sayfaya konulacaktır.
-(geçerli sayfa son sayfa ise, yeni sayfa geçerli çalışma kitabına eklenecektir).
-Bu özellik false ise sınırı aşan veriler dikkate alınmaz.
+Bu özellik doğruysa, ek veriler mevcut sayfanın arkasındaki bir sonraki sayfaya konulacaktır
+(Eğer mevcut sayfa son sayfa ise, yeni sayfa mevcut çalışma kitabına eklenecektir).
+Bu özellik false ise, limiti aşan veriler göz ardı edilecektir.
 ###  Tanım:
 ```python
 @property

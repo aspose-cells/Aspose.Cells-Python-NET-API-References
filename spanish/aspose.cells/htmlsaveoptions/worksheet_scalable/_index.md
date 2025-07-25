@@ -3,13 +3,13 @@ title: worksheet_scalable propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 730
+weight: 810
 url: /es/aspose.cells/htmlsaveoptions/worksheet_scalable/
 is_root: false
 ---
 ##  worksheet_scalable propiedad
 
-Indica si acercar o alejar el html a través del nivel de zoom de la hoja de trabajo al guardar el archivo en html, el valor predeterminado es falso.
+Indica si se debe acercar o alejar el HTML a través del nivel de zoom de la hoja de cálculo al guardar el archivo en HTML, el valor predeterminado es falso.
 ###  Definición:
 ```python
 @property

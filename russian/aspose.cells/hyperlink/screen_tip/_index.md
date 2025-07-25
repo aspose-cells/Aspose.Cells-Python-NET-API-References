@@ -1,6 +1,6 @@
 ---
 title: screen_tip недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  screen_tip недвижимость
 
-Возвращает или задает текст всплывающей подсказки для указанной гиперссылки.
+Возвращает или задает текст подсказки для указанной гиперссылки.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def screen_tip(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells`](../../)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

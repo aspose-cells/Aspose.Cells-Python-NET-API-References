@@ -1,9 +1,9 @@
 ---
 title: Enumerazione HyperlinkType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /it/aspose.cells/hyperlinktype/
 is_root: false
 ---

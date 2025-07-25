@@ -3,7 +3,7 @@ title: scenarios mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 740
+weight: 770
 url: /tr/aspose.cells/worksheet/scenarios/
 is_root: false
 ---

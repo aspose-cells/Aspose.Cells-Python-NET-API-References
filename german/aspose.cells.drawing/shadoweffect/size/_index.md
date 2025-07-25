@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size Eigentum
 
- Ruft die size des Schattens ab und setzt sie. Bereich von 0 bis 2,0.
+ Ruft den size des Schattens ab und legt ihn fest. Bereich von 0 bis 2,0.
 Bedeutungslos im inneren Schatten.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

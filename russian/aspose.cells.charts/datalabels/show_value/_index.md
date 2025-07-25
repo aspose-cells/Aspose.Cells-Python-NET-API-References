@@ -1,15 +1,15 @@
 ---
 title: show_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 440
+weight: 510
 url: /ru/aspose.cells.charts/datalabels/show_value/
 is_root: false
 ---
 ##  show_value недвижимость
 
-Представляет поведение отображения значений меток данных указанной диаграммы. True отображает значения. Ложь, чтобы скрыть.
+Определяет поведение отображения значений меток данных указанной диаграммы. Значение True отображает значения. Значение False скрывает значения.
 ###  Определение:
 ```python
 @property

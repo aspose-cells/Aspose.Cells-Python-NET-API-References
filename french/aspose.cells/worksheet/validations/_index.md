@@ -3,7 +3,7 @@ title: validations propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 890
+weight: 910
 url: /fr/aspose.cells/worksheet/validations/
 is_root: false
 ---

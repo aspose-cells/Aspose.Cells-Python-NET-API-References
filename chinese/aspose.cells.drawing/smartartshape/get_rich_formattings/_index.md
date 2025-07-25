@@ -3,21 +3,22 @@ title: get_rich_formattings方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 150
 url: /zh/aspose.cells.drawing/smartartshape/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
-返回所有字符对象
-表示文本中的一系列字符。
+##  get_rich_formattings(self) {#}
+返回所有 Characters 对象
+代表文本中的字符范围。
 
 
-### 退货
+### 返回
 
-所有角色对象
+所有 Characters 对象
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

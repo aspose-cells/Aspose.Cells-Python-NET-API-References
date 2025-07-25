@@ -3,11 +3,11 @@ title: is_blank metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 180
 url: /sv/aspose.cells/range/is_blank/
 is_root: false
 ---
-##  is_blank {#}
+##  is_blank(self) {#}
 Anger om intervallet innehåller värden.
 
 
@@ -17,6 +17,7 @@ Anger om intervallet innehåller värden.
 
 
 ```python
+
 def is_blank(self):
     ...
 ```

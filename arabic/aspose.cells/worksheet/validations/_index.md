@@ -3,13 +3,13 @@ title: validations عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 910
 url: /ar/aspose.cells/worksheet/validations/
 is_root: false
 ---
 ##  validations عقار
 
-الحصول على مجموعة إعدادات التحقق من صحة البيانات في ورقة العمل.
+يحصل على مجموعة إعدادات التحقق من صحة البيانات في ورقة العمل.
 ###  تعريف:
 ```python
 @property

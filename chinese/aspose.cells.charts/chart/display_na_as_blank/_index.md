@@ -1,15 +1,15 @@
 ---
-title: display_na_as_blank 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: display_na_as_blank属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 250
 url: /zh/aspose.cells.charts/chart/display_na_as_blank/
 is_root: false
 ---
-## display_na_as_blank 属性
+## display_na_as_blank属性
 
-指示是否将#N/A 显示为空白值。
+指示是否将#N/A显示为空白值。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def display_na_as_blank(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Chart](/cells/python-net/zh/aspose.cells.charts/chart)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)

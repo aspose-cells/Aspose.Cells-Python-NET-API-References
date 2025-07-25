@@ -3,7 +3,7 @@ title: MsoPresetTextEffectShape numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1040
+weight: 1030
 url: /tr/aspose.cells.drawing/msopresettexteffectshape/
 is_root: false
 ---
@@ -12,54 +12,54 @@ WordArt'ın önceden ayarlanmış metin efekti şekil türünü temsil eder.
 
 
 
-MsoPresetTextEffectShape türü aşağıdaki üyeleri gösterir:
+MsoPresetTextEffectShape türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | PLAIN_TEXT | Düz Metin|
 | STOP | Durmak|
 | TRIANGLE_UP | ÜçgenYukarı|
 | TRIANGLE_DOWN | ÜçgenAşağı|
-| CHEVRON_UP | ChevronYukarı|
-| CHEVRON_DOWN | ChevronAşağı|
+| CHEVRON_UP | ChevronUp|
+| CHEVRON_DOWN | ChevronDown|
 | RING_INSIDE | RingInside|
-| RING_OUTSIDE | HalkaDışarıda|
-| ARCH_UP_CURVE | ArchUpEğrisi|
-| ARCH_DOWN_CURVE |ArchDownCurve|
-| CIRCLE_CURVE | Daire Eğrisi|
+| RING_OUTSIDE | RingOutside|
+| ARCH_UP_CURVE | ArchUpCurve|
+| ARCH_DOWN_CURVE | ArchDownCurve|
+| CIRCLE_CURVE | DaireEğrisi|
 | BUTTON_CURVE | Düğme Eğrisi|
 | ARCH_UP_POUR | ArchUpPour|
 | ARCH_DOWN_POUR | ArchDownPour|
-| CIRCLE_POUR | daire dökmek|
-| BUTTON_POUR | DüğmePour|
-| CURVE_UP | Eğri Yukarı|
-| CURVE_DOWN | EğriAşağı|
+| CIRCLE_POUR | CirclePour|
+| BUTTON_POUR | DüğmeDökümü|
+| CURVE_UP | EğriYukarı|
+| CURVE_DOWN | Eğri Aşağı|
 | CAN_UP | CanUp|
 | CAN_DOWN | CanDown|
-| WAVE1 | Dalga1|
+| WAVE1 | Dalga 1|
 | WAVE2 | Dalga2|
-| DOUBLE_WAVE1 | Çift Dalga1|
-| DOUBLE_WAVE2 | Çift Dalga2|
+| DOUBLE_WAVE1 | DoubleWave1|
+| DOUBLE_WAVE2 | DoubleWave2|
 | INFLATE | Şişirmek|
-| DEFLATE | Söndür|
-| INFLATE_BOTTOM | Alt Şişirmek|
-| DEFLATE_BOTTOM | Tabanı Söndür|
-| INFLATE_TOP | Şişirmek|
-| DEFLATE_TOP | DeflateTop|
-| DEFLATE_INFLATE | SöndürŞişir|
-| DEFLATE_INFLATE_DEFLATE | SöndürŞişirSöndürSöndür|
-| FADE_RIGHT | FadeRight|
-| FADE_LEFT | FadeLeft|
+| DEFLATE | Söndürmek|
+| INFLATE_BOTTOM | Şişirilmiş Taban|
+| DEFLATE_BOTTOM | Alt Kısımını Söndür|
+| INFLATE_TOP | Şişir Üst|
+| DEFLATE_TOP | SöndürÜst|
+| DEFLATE_INFLATE |SöndürŞişir|
+| DEFLATE_INFLATE_DEFLATE | SöndürŞişirSöndür|
+| FADE_RIGHT | SolmaSağ|
+| FADE_LEFT | Sol Sol|
 | FADE_UP | FadeUp|
-| FADE_DOWN | Kararma|
-| SLANT_UP | Eğimli|
-| SLANT_DOWN | Aşağı Eğimli|
-| CASCADE_UP | Basamaklı|
-| CASCADE_DOWN | Basamaklı Aşağı|
+| FADE_DOWN | Azaltma|
+| SLANT_UP | Eğimli Yukarı|
+| SLANT_DOWN | Eğimli Aşağı|
+| CASCADE_UP | CascadeUp|
+| CASCADE_DOWN | CascadeDown|
 | MIXED | Karışık|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

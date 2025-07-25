@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  range_count fastighet
 
-Hämtar antalet villkorligt formaterade intervall.
+Hämtar antal villkorligt formaterade områden.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

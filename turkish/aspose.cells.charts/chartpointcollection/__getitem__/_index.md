@@ -3,17 +3,17 @@ title: ChartPointCollection indeksleyici
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 40
 url: /tr/aspose.cells.charts/chartpointcollection/__getitem__/
 is_root: false
 ---
 ##  ChartPointCollection indeksleyici
 
-Dizide belirtilen dizindeki [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint) öğesini alır.
-###  İndeksleyici
+Serideki belirtilen indeksteki [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint) elemanını alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| index | Dizideki grafik noktasının dizini.|
+| index | Serideki grafik noktasının indeksi.|
 
 
 
@@ -22,6 +22,6 @@ Dizide belirtilen dizindeki [ChartPoint](/cells/python-net/tr/aspose.cells.chart
 ChartPoint nesnesi.
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
-* sınıf [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)

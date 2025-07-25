@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.drawing/commentshape/align_top_right_corner/
 is_root: false
 ---
-##  align_top_right_corner(top_row, right_column) {#int-int}
+##  align_top_right_corner(self, top_row, right_column) {#int-int}
 Verschiebt das Bild in die obere rechte Ecke.
 
 
 
 ```python
+
 def align_top_right_corner(self, top_row, right_column):
     ...
 ```
@@ -34,5 +35,5 @@ shape.align_top_right_corner(2, 5)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CommentShape](/cells/python-net/de/aspose.cells.drawing/commentshape)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CommentShape`](/cells/python-net/de/aspose.cells.drawing/commentshape)

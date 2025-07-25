@@ -1,6 +1,6 @@
 ---
 title: is_interruption_requested proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_interruption_requested proprietà
 
-Contrassegnare il monitor come richiedente interruzione
+Contrassegna il monitor come richiedente interruzione
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_interruption_requested(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [InterruptMonitor](/cells/python-net/it/aspose.cells/interruptmonitor)
+* modulo [`aspose.cells`](../../)
+* classe [`InterruptMonitor`](/cells/python-net/it/aspose.cells/interruptmonitor)

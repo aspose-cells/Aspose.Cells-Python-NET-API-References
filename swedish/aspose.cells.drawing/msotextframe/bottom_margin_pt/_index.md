@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin_pt fastighet
 
-Returnerar bottenmarginalen i poängenhet
+Returnerar den nedre marginalen i enheten poäng
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)

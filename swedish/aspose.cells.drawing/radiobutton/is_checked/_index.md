@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_checked fastighet
 
-Indikerar om radioknappen är markerad eller inte.
+Anger om radioknappen är markerad eller inte.
 ###  Definition:
 ```python
 @property

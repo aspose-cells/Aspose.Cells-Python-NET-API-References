@@ -3,16 +3,17 @@ title: set_outline_borders yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 250
 url: /tr/aspose.cells/range/set_outline_borders/
 is_root: false
 ---
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
-Aynı kenarlık stiline ve rengine sahip bir hücre aralığının etrafındaki anahat kenarlıklarını ayarlar.
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
+Aynı kenarlık stili ve rengine sahip bir dizi hücrenin etrafına dış kenarlıklar ayarlar.
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -21,15 +22,16 @@ def set_outline_borders(self, border_style, border_color):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | border_style | [`CellBorderType`](/cells/python-net/tr/aspose.cells/cellbordertype) | Sınır stili.|
-| border_color | [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor) | Sınır rengi.|
+| border_color | [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor) | Kenarlık rengi.|
 
 
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
-Aynı kenarlık stiline ve rengine sahip bir hücre aralığının etrafındaki anahat kenarlıklarını ayarlar.
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
+Aynı kenarlık stili ve rengine sahip bir dizi hücrenin etrafına dış kenarlıklar ayarlar.
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -38,15 +40,16 @@ def set_outline_borders(self, border_style, border_color):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | border_style | [`CellBorderType`](/cells/python-net/tr/aspose.cells/cellbordertype) | Sınır stili.|
-| border_color | aspose.pydrawing.Color | Sınır rengi.|
+| border_color | aspose.pydrawing.Color | Kenarlık rengi.|
 
 
-##  set_outline_borders {#list-aspose.pydrawing.Color[]}
-Bir hücre aralığının etrafındaki çizgi kenarlıklarını belirler.
+##  set_outline_borders(self, border_styles, border_colors) {#list-aspose.pydrawing.Color[]}
+Bir dizi hücrenin etrafına çizgi kenarlıkları koyar.
 
 
 
 ```python
+
 def set_outline_borders(self, border_styles, border_colors):
     ...
 ```
@@ -54,12 +57,12 @@ def set_outline_borders(self, border_styles, border_colors):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| border_styles | list |Kenarlık stilleri.|
-| border_colors | aspose.pydrawing.Color[] | Kenar renkleri.|
+| border_styles | list | Sınır stilleri.|
+| border_colors | aspose.pydrawing.Color[] | Kenarlık renkleri.|
 ###  Notlar
 
-BorderStyles'ın ve borderStyles'ın uzunluğu 4 olmalıdır.
-borderStyles ve borderStyles'ın sırası üst, alt, sol, sağ olmalıdır
+Hem borderStyles'ın hem de borderStyles'ın uzunluğu 4 olmalıdır.
+BorderStyles ve borderStyles'ın sıralaması üst, alt, sol, sağ şeklinde olmalıdır
 
 
 ###  Ayrıca bakınız

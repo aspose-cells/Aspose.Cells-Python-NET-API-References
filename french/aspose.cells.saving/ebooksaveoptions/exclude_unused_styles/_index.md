@@ -3,17 +3,17 @@ title: exclude_unused_styles propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 150
+weight: 220
 url: /fr/aspose.cells.saving/ebooksaveoptions/exclude_unused_styles/
 is_root: false
 ---
 ##  exclude_unused_styles propriété
 
 Indique si les styles inutilisés sont exclus.
-Pour les fichiers HTML générés, l'exclusion des styles inutilisés peut réduire la taille du fichier.
-sans affecter les effets visuels. La valeur par défaut de cette propriété est donc vraie.
-Si l'utilisateur doit conserver tous les styles dans le classeur pour le code HTML généré (comme le scénario dans lequel l'utilisateur
-doit restaurer le classeur à partir du code HTML généré ultérieurement), veuillez définir cette propriété sur false.
+Pour les fichiers HTML générés, l'exclusion des styles inutilisés peut réduire la taille du fichier
+sans affecter les effets visuels. La valeur par défaut de cette propriété est donc « true ».
+Si l'utilisateur doit conserver tous les styles du classeur pour le code HTML généré (comme dans le cas où l'utilisateur
+(vous devez restaurer le classeur à partir du code HTML généré ultérieurement), veuillez définir cette propriété sur false.
 ###  Définition:
 ```python
 @property

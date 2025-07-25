@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow propriété
-
-Indique s'il faut afficher un shadow.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

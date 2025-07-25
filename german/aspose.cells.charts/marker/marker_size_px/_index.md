@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker_size_px Eigentum
 
-Repräsentiert die Markierungsgröße in Pixeleinheiten. Gilt für Liniendiagramme, Streudiagramme oder Netzdiagramme.
+Stellt die Markierungsgröße in Pixeln dar. Gilt für Liniendiagramme, Streudiagramme und Netzdiagramme.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def marker_size_px(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Marker](/cells/python-net/de/aspose.cells.charts/marker)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Marker`](/cells/python-net/de/aspose.cells.charts/marker)

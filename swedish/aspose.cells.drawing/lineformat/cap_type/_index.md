@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cap_type fastighet
 
-Anger slutbeteckningarna.
+Anger slutkapslarna.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def cap_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineCapType](/cells/python-net/sv/aspose.cells.drawing/linecaptype)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineCapType`](/cells/python-net/sv/aspose.cells.drawing/linecaptype)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

@@ -13,7 +13,7 @@ Ruft die Bilddaten ab und legt sie fest.
 
 ###  Bemerkungen
 
-Wenn das Füllformat kein benutzerdefiniertes Texturformat ist, wird null zurückgegeben.
+Wenn das Füllformat kein benutzerdefiniertes Texturformat ist, wird Null zurückgegeben.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillFormat](/cells/python-net/de/aspose.cells.drawing/fillformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillFormat`](/cells/python-net/de/aspose.cells.drawing/fillformat)

@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.charts/legend/get_legend_labels/
 is_root: false
 ---
-##  get_legend_labels {#}
-Hämtar etiketterna för förklaringsposterna efter anropet Chart.Calculate()-metoden.
+##  get_legend_labels(self) {#}
+Hämtar etiketterna för förklaringsposterna efter anrop av metoden Chart.Calculate().
 
 
 
 ```python
+
 def get_legend_labels(self):
     ...
 ```

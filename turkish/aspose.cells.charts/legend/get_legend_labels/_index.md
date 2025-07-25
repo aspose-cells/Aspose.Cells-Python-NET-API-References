@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.charts/legend/get_legend_labels/
 is_root: false
 ---
-##  get_legend_labels {#}
-Chart.Calculate() yöntemi çağrıldıktan sonra açıklama girişlerinin etiketlerini alır.
+##  get_legend_labels(self) {#}
+Chart.Calculate() metodu çağrıldıktan sonra efsane girişlerinin etiketlerini alır.
 
 
 
 ```python
+
 def get_legend_labels(self):
     ...
 ```

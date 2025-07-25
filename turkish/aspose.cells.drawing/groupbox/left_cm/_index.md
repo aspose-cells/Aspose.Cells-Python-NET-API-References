@@ -3,13 +3,13 @@ title: left_cm mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 690
 url: /tr/aspose.cells.drawing/groupbox/left_cm/
 is_root: false
 ---
 ##  left_cm mülk
 
-Şeklin sol sütunundan yatay uzaklığını santimetre cinsinden temsil eder.
+Şeklin sol sütundan yatay uzaklığını santimetre cinsinden gösterir.
 
 ###  Örnek
 

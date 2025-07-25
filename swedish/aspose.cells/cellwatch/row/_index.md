@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row fastighet
 
-Hämtar och ställer in row för cellen.
+Hämtar och anger row för cellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellWatch](/cells/python-net/sv/aspose.cells/cellwatch)
+* modul [`aspose.cells`](../../)
+* klass [`CellWatch`](/cells/python-net/sv/aspose.cells/cellwatch)

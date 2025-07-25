@@ -7,28 +7,29 @@ weight: 90
 url: /de/aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
-##  add_copy(source_shape, upper_left_row, top, upper_left_column, left) {#Shape-int-int-int-int}
-Fügt eine Form zum Arbeitsblatt hinzu und kopiert sie.
+##  add_copy(self, source_shape, top_row, top, left_column, left) {#aspose.cells.drawing.Shape-int-int-int-int}
+Fügt dem Arbeitsblatt eine Form hinzu und kopiert sie.
 
 
 ###  Kehrt zurück
 
-Der neue Formobjektindex.
+Das neue Objekt [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape).
 
 
 ```python
-def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
+
+def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```
 
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| source_shape | [Shape](/cells/python-net/de/aspose.cells.drawing/shape) | Quellform.|
-| upper_left_row | int | Zeilenindex oben links.|
-| top | int |Repräsentiert den vertikalen Versatz des Kontrollkästchens von seiner linken Zeile in Pixeleinheiten.|
-| upper_left_column | int | Spaltenindex oben links.|
-| left | int | Repräsentiert den horizontalen Versatz des Textfelds von seiner linken Spalte in Pixeleinheiten.|
+| source_shape | [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape) | Quellform.|
+| top_row | int |Der Index der obersten Zeile.|
+| top | int | Stellt den vertikalen Versatz von der obersten Zeile in Pixeleinheiten dar.|
+| left_column | int | Der Index der linken Spalte.|
+| left | int | Stellt den horizontalen Versatz von der linken Spalte in Pixeleinheiten dar.|
 
 ###  Beispiel
 
@@ -36,7 +37,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 # add a shape
 rectangle = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
-# copy
+# Adds and copies a shape.
 shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ```
@@ -44,5 +45,6 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeCollection](/cells/python-net/de/aspose.cells.drawing/shapecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)
+* Klasse [`ShapeCollection`](/cells/python-net/de/aspose.cells.drawing/shapecollection)

@@ -3,13 +3,13 @@ title: ignore_invisible_shapes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 450
+weight: 520
 url: /sv/aspose.cells.saving/ebooksaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
 ##  ignore_invisible_shapes fastighet
 
-Ange om du exporterar de osynliga formerna
+Ange om de formerna som inte syns ska exporteras
 
 ###  Anmärkningar
 

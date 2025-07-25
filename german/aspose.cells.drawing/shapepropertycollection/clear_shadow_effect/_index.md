@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells.drawing/shapepropertycollection/clear_shadow_effect/
 is_root: false
 ---
-##  clear_shadow_effect() {#}
-Hebt den Schatteneffekt des Diagrammelements oder der Form auf.
+##  clear_shadow_effect(self) {#}
+Löscht den Schatteneffekt des Diagrammelements oder der Form.
 
 
 
 ```python
+
 def clear_shadow_effect(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_shadow_effect(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

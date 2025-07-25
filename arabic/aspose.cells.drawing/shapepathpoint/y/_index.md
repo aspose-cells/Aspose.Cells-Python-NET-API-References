@@ -1,5 +1,5 @@
 ---
-title: y الملكية
+title: y عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing/shapepathpoint/y/
 is_root: false
 ---
-##  y الملكية
+##  y عقار
 
-يحصل على إحداثيات y لإحداثيات هذا الموضع.
+يحصل على إحداثيات y لهذا الموضع.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def y(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePathPoint](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePathPoint`](/cells/python-net/ar/aspose.cells.drawing/shapepathpoint)

@@ -1,15 +1,15 @@
 ---
 title: right недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 860
+weight: 870
 url: /ru/aspose.cells.drawing/button/right/
 is_root: false
 ---
 ##  right недвижимость
 
-Представляет ширину горизонтального смещения фигуры от ее нижнего углового столбца right в единицах пикселей.
+Представляет ширину горизонтального смещения фигуры от ее нижнего углового столбца right в пикселях.
 
 ###  Пример
 

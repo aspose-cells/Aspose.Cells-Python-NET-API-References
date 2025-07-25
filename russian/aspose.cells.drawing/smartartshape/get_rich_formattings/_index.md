@@ -1,23 +1,24 @@
 ---
 title: get_rich_formattings метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ru/aspose.cells.drawing/smartartshape/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
- Возвращает все объекты символов
+##  get_rich_formattings(self) {#}
+ Возвращает все объекты Characters
 который представляет собой диапазон символов в тексте.
 
 
 ###  Возврат
 
-Все объекты Персонажи
+Все объекты персонажей
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

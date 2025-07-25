@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_strategy Eigentum
 
-Ruft die Formatstrategie beim Exportieren des Werts als Zeichenfolgenwert ab und legt diese fest.
+Ruft die Formatierungsstrategie beim Exportieren des Werts als Zeichenfolgenwert ab und legt sie fest.
 ###  Definition:
 ```python
 @property

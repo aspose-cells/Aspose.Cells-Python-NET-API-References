@@ -1,14 +1,14 @@
 ---
 title: is_metered_licensed метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
 url: /ru/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
-Проверьте, лицензирован ли счетчик
+##  is_metered_licensed() {#}
+Проверьте, есть ли лицензия на счетчик
 
 
 ###  Возврат
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

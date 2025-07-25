@@ -7,27 +7,28 @@ weight: 90
 url: /zh/aspose.cells/settableglobalizationsettings/get_empty_data_name/
 is_root: false
 ---
-##  get_empty_data_name {#}
+##  get_empty_data_name(self) {#}
 获取数据透视表中“（空白）”标签的名称。
 
 
-### 退货
+### 返回
 
-空数据名称
+空数据的名称
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。相反，
 请使用 PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() 方法。
-该房产将于 2022 年 12 月起 12 个月后被移除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+该房产将于 2022 年 12 月起 12 个月后拆除。
+Aspose 对于您所遇到的不便深表歉意。
 
 
 ### 也可以看看

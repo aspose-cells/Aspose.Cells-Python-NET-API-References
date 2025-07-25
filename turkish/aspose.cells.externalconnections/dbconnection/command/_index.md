@@ -3,14 +3,14 @@ title: command mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells.externalconnections/dbconnection/command/
 is_root: false
 ---
 ##  command mülk
 
- Veri sağlayıcısı API'e iletilecek command veritabanını içeren dize
-veri almak için dış kaynakla etkileşim
+ command veritabanını içeren ve API veri sağlayıcısına iletilecek dize
+verileri almak için harici kaynakla etkileşim kurun
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def command(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [DBConnection](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`DBConnection`](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)

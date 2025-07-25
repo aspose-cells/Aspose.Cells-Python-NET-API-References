@@ -3,16 +3,17 @@ title: طريقة clear
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells/datasorter/clear/
 is_root: false
 ---
-##  clear() {#}
-امسح كل الإعدادات.
+##  clear(self) {#}
+مسح كافة الإعدادات.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)

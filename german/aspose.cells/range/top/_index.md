@@ -3,13 +3,13 @@ title: top Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 510
 url: /de/aspose.cells/range/top/
 is_root: false
 ---
 ##  top Eigentum
 
-Ruft den Abstand in Punkten vom Rand top der Zeile 1 zum Rand top des Bereichs ab.
+Ruft den Abstand in Punkten von der Kante top der Zeile 1 zur Kante top des Bereichs ab.
 ###  Definition:
 ```python
 @property

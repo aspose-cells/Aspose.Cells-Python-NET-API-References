@@ -3,14 +3,14 @@ title: is_auto_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 620
 url: /sv/aspose.cells.drawing/picture/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size fastighet
 
-True indikerar att storleken på ole-objektet kommer att ändras automatiskt som storleken på ögonblicksbilden av det inbäddade innehållet
-när ole-objektet är aktiverat.
+True indikerar att storleken på ole-objektet automatiskt kommer att ändras i takt med storleken på ögonblicksbilden av det inbäddade innehållet.
+när ole-objektet aktiveras.
 ###  Definition:
 ```python
 @property

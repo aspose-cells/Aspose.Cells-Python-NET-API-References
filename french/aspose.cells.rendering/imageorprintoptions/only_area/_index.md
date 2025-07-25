@@ -3,13 +3,13 @@ title: only_area propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 210
 url: /fr/aspose.cells.rendering/imageorprintoptions/only_area/
 is_root: false
 ---
 ##  only_area propriété
 
-Si cette propriété est true , une zone sera affichée et aucune échelle ne prendra effet.
+Si cette propriété est vraie, une zone sera générée et aucune échelle ne prendra effet.
 ###  Définition:
 ```python
 @property

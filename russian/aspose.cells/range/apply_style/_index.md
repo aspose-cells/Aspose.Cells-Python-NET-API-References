@@ -1,18 +1,19 @@
 ---
 title: apply_style метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/range/apply_style/
 is_root: false
 ---
-##  apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
 Применяет форматы для всего диапазона.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -25,7 +26,7 @@ def apply_style(self, style, flag):
 ###  Примечания
 
 Каждая ячейка в этом диапазоне будет содержать объект [`Style`](/cells/python-net/ru/aspose.cells/style).
-Так что это метод, потребляющий много памяти. Пожалуйста, используйте его осторожно.
+Так что этот метод требует много памяти. Пожалуйста, используйте его осторожно.
 
 
 ###  Смотрите также

@@ -3,7 +3,7 @@ title: text_body propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 950
+weight: 960
 url: /es/aspose.cells.drawing/groupshape/text_body/
 is_root: false
 ---

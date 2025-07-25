@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta la trama type
+Ottiene e imposta la texture type
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/it/aspose.cells.drawing/texturefill)
-* classe [TextureType](/cells/python-net/it/aspose.cells.drawing/texturetype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/it/aspose.cells.drawing/texturefill)
+* classe [`TextureType`](/cells/python-net/it/aspose.cells.drawing/texturetype)

@@ -3,13 +3,13 @@ title: position Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 360
 url: /de/aspose.cells.charts/legend/position/
 is_root: false
 ---
 ##  position Eigentum
 
-Ruft den Legendentyp position ab oder legt diesen fest.
+Ruft den Legendentyp position ab oder legt ihn fest.
 
 ###  Bemerkungen
 

@@ -1,21 +1,21 @@
 ---
-title: elevation الملكية
+title: elevation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells.charts/chart/elevation/
 is_root: false
 ---
-##  elevation الملكية
+##  elevation عقار
 
-يمثل elevation لعرض المخطط ثلاثي الأبعاد بالدرجات.
+يمثل elevation من عرض الرسم البياني ثلاثي الأبعاد، بالدرجات.
 
 ###  ملاحظات
 
- الرسم البياني elevation هو الارتفاع الذي تشاهد المخطط عنده بالدرجات.
- الافتراضي هو 15 لمعظم أنواع المخططات.
-يجب أن تتراوح قيمة هذه الخاصية بين -90 و 90 ، باستثناء المخططات الشريطية ثلاثية الأبعاد ، حيث يجب أن تكون بين 0 و 44.
+ الرسم البياني elevation هو الارتفاع الذي تشاهد فيه الرسم البياني، بالدرجات.
+ الإعداد الافتراضي هو 15 لمعظم أنواع المخططات.
+يجب أن تكون قيمة هذه الخاصية بين -90 و90، باستثناء مخططات الأشرطة ثلاثية الأبعاد، حيث يجب أن تكون بين 0 و44.
 ###  تعريف:
 ```python
 @property
@@ -27,5 +27,5 @@ def elevation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

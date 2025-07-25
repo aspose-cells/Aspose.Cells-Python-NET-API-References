@@ -1,18 +1,19 @@
 ---
 title: Metodo remove_a_cell
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
 url: /it/aspose.cells/validation/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell {#int-int}
+##  remove_a_cell(self, row, column) {#int-int}
 Rimuovere le impostazioni di convalida nella cella.
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_a_cell(self, row, column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| row | int | L'indice delle righe.|
+| row | int | Indice di riga.|
 | column | int | L'indice della colonna.|
 
 

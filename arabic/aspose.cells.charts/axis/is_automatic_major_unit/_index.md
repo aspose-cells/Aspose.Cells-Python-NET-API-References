@@ -3,13 +3,13 @@ title: is_automatic_major_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells.charts/axis/is_automatic_major_unit/
 is_root: false
 ---
 ##  is_automatic_major_unit عقار
 
-يشير إلى ما إذا كان سيتم تعيين الوحدة الرئيسية للمحور تلقائيًا.
+يشير إلى ما إذا كانت الوحدة الرئيسية للمحور معينة تلقائيًا.
 ###  تعريف:
 ```python
 @property

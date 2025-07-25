@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/globalizationsettings/__init__/
 is_root: false
 ---
-##  GlobalizationSettings() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de GlobalizationSettings
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [GlobalizationSettings](/cells/python-net/es/aspose.cells/globalizationsettings)
+* módulo [`aspose.cells`](../../)
+* clase [`GlobalizationSettings`](/cells/python-net/es/aspose.cells/globalizationsettings)

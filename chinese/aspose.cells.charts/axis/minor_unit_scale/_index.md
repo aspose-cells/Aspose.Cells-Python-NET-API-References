@@ -3,13 +3,13 @@ title: minor_unit_scale属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 380
 url: /zh/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ## minor_unit_scale属性
 
-表示类别轴的主要单位比例。
+表示类别轴的主要单位尺度。
 
 ### 例子
 

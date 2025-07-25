@@ -1,35 +1,35 @@
 ---
-title: classe TextEffectFormat
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: TextEffectFormat classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 700
+weight: 680
 url: /it/aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
-##  classe TextEffectFormat
+##  TextEffectFormat classe
 Contiene proprietà e metodi che si applicano agli oggetti WordArt.
 
 
 
-Il tipo TextEffectFormat espone i membri seguenti:
+Il tipo TextEffectFormat espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [text](/cells/python-net/it/aspose.cells.drawing/texteffectformat/text) | Il testo nel WordArt.|
-| [font_name](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_name) | Il nome del carattere utilizzato nell'oggetto WordArt.|
+| [text](/cells/python-net/it/aspose.cells.drawing/texteffectformat/text) | Il testo in WordArt.|
+| [font_name](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_name) | Il nome del font utilizzato in WordArt.|
 | [font_bold](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_bold) | Indica se il carattere è in grassetto.|
 | [font_italic](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_italic) | Indica se il carattere è corsivo.|
-| [rotated_chars](/cells/python-net/it/aspose.cells.drawing/texteffectformat/rotated_chars) | Se true, i caratteri nell'oggetto WordArt specificato vengono ruotati di 90 gradi rispetto alla forma di delimitazione dell'oggetto WordArt.|
-| [font_size](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_size) | La dimensione (in punti) del carattere utilizzato nell'oggetto WordArt.|
+| [rotated_chars](/cells/python-net/it/aspose.cells.drawing/texteffectformat/rotated_chars) | Se è vero, i caratteri nella WordArt specificata vengono ruotati di 90 gradi rispetto alla forma di delimitazione della WordArt.|
+| [font_size](/cells/python-net/it/aspose.cells.drawing/texteffectformat/font_size) | La dimensione (in punti) del font utilizzato in WordArt.|
 | [preset_shape](/cells/python-net/it/aspose.cells.drawing/texteffectformat/preset_shape) | Ottiene e imposta il tipo di forma preimpostato.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/it/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Imposta l'effetto di testo preimpostato.|
+| [`set_text_effect(self, effect)`](/cells/python-net/it/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Imposta l'effetto di testo preimpostato.|
 
 
 
@@ -50,4 +50,4 @@ workbook.save("Book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

@@ -8,20 +8,20 @@ url: /tr/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
 ##  PlotEmptyCellsType numaralandırma
-Bir grafiğin tüm çizim boş hücre türünü temsil eder.
+Bir grafiğin tüm boş hücre türlerini temsil eder.
 
 
 
-PlotEmptyCellsType türü aşağıdaki üyeleri gösterir:
+PlotEmptyCellsType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NOT_PLOTTED | Çizilmemiş (boşluk bırak)|
+| NOT_PLOTTED | Çizilmemiş (boşluk bırakın)|
 | ZERO | Sıfır|
-| INTERPOLATED | enterpolasyonlu|
+| INTERPOLATED | Ara değerlemeli|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](..)
+* modül [`aspose.cells.charts`](..)

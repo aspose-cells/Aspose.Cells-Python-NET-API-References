@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
-يضيف خلية إدخال.
+##  add(self, row, column, value) {#int-int-str}
+إضافة خلية إدخال.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -24,12 +25,12 @@ def add(self, row, column, value):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس صف خلية الإدخال.|
-| column | int | فهرس العمود لخلية الإدخال.|
-| value | str | قيمة خلية الإدخال.|
+| row | int | مؤشر الصف للخلية المدخلة.|
+| column | int | مؤشر العمود للخلية المدخلة.|
+| value | str | قيمة الخلية المدخلة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ScenarioInputCellCollection](/cells/python-net/ar/aspose.cells/scenarioinputcellcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ScenarioInputCellCollection`](/cells/python-net/ar/aspose.cells/scenarioinputcellcollection)

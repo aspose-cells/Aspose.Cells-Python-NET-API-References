@@ -1,5 +1,5 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 100
 url: /ar/aspose.cells/styleflag/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
 سيتم تطبيق إعدادات الخط.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

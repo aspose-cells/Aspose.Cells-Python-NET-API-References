@@ -1,19 +1,22 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 150
 url: /ru/aspose.cells.pivot/pivotitem/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает name элемента сводной таблицы.
+Получает name опорного элемента.
 ###  Определение:
 ```python
 @property
 def name(self):
+    ...
+@name.setter
+def name(self, value):
     ...
 ```
 

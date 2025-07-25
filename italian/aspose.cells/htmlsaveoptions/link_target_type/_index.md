@@ -1,15 +1,15 @@
 ---
 title: link_target_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 540
+weight: 620
 url: /it/aspose.cells/htmlsaveoptions/link_target_type/
 is_root: false
 ---
 ##  link_target_type proprietà
 
-Indicando il tipo di attributo target nel collegamento `<a>`. Il valore predefinito è HtmlLinkTargetType.Parent.
+Indica il tipo di attributo di destinazione nel collegamento `<a>`. Il valore predefinito è HtmlLinkTargetType.Parent.
 ###  Definizione:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: SparklineAxisMinMaxType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 610
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-SparklineAxisMinMaxType 类型公开了以下成员：
+SparklineAxisMinMaxType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| AUTO_INDIVIDUAL |自动为每个迷你图。|
-| GROUP |组中的所有迷你图都相同。|
+| AUTO_INDIVIDUAL |自动为每个迷你图创建。|
+| GROUP |组内的所有迷你图均相同。|
 | CUSTOM |迷你图的自定义值。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](..)
+* 模块[`aspose.cells.charts`](..)

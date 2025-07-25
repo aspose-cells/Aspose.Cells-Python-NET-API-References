@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency fastighet
 
-Hämtar och ställer in graden av transparency för skuggan. Spänner från 0,0 (opak) till 1,0 (klar).
+Hämtar och ställer in skuggans grad transparency. Intervall från 0,0 (ogenomskinlig) till 1,0 (klar).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShadowEffect](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShadowEffect`](/cells/python-net/sv/aspose.cells.drawing/shadoweffect)

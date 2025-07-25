@@ -1,13 +1,13 @@
 ---
-title: text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 360
 url: /zh/aspose.cells.charts/charttextframe/text/
 is_root: false
 ---
-## text 属性
+## text属性
 
 获取或设置框架标题的 text。
 ### 定义：
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartTextFrame](/cells/python-net/zh/aspose.cells.charts/charttextframe)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartTextFrame`](/cells/python-net/zh/aspose.cells.charts/charttextframe)

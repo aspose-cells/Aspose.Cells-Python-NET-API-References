@@ -3,20 +3,20 @@ title: preferred_parsers属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 350
+weight: 330
 url: /zh/aspose.cells/txtloadoptions/preferred_parsers/
 is_root: false
 ---
 ## preferred_parsers属性
 
-获取和设置用于加载文本文件的首选值解析器。
+获取并设置用于加载文本文件的首选值解析器。
 
-### 评论
+### 注意事项
 
-parsers[0] 是将用于文本模板文件中第一列的解析器，
-parsers[1] 是将用于第二列的解析器，...等。
+parsers[0] 是用于文本模板文件第一列的解析器，
+parsers[1] 是用于第二列的解析器，...等等。
 最后一个（parsers[parsers.length-1]）将用于从 parsers.length-1 开始的所有其他列。
-如果其中一项为空，则对应的列将由默认解析器 Aspose.Cells 解析。
+如果一项为空，则相应列将由 Aspose.Cells 的默认解析器进行解析。
 ### 定义：
 ```python
 @property

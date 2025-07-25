@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/customimplementationfactory/__init__/
 is_root: false
 ---
-##  CustomImplementationFactory() {#}
+##  \_\_init\_\_(kendi){#}
 CustomImplementationFactory'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CustomImplementationFactory](/cells/python-net/tr/aspose.cells/customimplementationfactory)
+* modül [`aspose.cells`](../../)
+* sınıf [`CustomImplementationFactory`](/cells/python-net/tr/aspose.cells/customimplementationfactory)

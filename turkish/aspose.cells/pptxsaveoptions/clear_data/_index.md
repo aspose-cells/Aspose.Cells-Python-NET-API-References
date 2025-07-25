@@ -3,13 +3,11 @@ title: clear_data mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 90
 url: /tr/aspose.cells/pptxsaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data mülk
-
-Dosyayı kaydettikten sonra çalışma kitabını boşaltın.
 ###  Tanım:
 ```python
 @property

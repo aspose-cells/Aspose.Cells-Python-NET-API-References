@@ -1,21 +1,21 @@
 ---
 title: standard_font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 250
 url: /it/aspose.cells/odsloadoptions/standard_font/
 is_root: false
 ---
 ##  standard_font proprietà
 
-Imposta il nome del carattere standard predefinito
+Imposta il nome del font standard predefinito
 
 ###  Osservazioni
 
-NOTA: questo membro è ora obsoleto. Utilizzare invece DefaultStyleSettings.
+NOTA: questo membro è ora obsoleto. In alternativa, utilizzare DefaultStyleSettings.
  Questa proprietà verrà rimossa 12 mesi dopo, a partire da marzo 2022.
-Aspose si scusa per eventuali disagi riscontrati.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

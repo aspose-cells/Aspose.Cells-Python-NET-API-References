@@ -11,7 +11,7 @@ is_root: false
 
 表示类别轴的基本单位比例。
 
-### 评论
+### 注意事项
 
 仅当 CategoryType 属性设置为 TimeScale 时，设置此属性才会生效。
 ### 定义：

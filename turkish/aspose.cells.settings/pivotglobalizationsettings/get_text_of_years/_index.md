@@ -3,11 +3,11 @@ title: get_text_of_years yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 230
 url: /tr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_years/
 is_root: false
 ---
-##  get_text_of_years {#}
+##  get_text_of_years(self) {#}
 "Yıllar"ın yerel metnini alır.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_years(self):
     ...
 ```

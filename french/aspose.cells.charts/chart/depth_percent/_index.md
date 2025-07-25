@@ -3,13 +3,13 @@ title: depth_percent propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 240
 url: /fr/aspose.cells.charts/chart/depth_percent/
 is_root: false
 ---
 ##  depth_percent propriété
 
-Représente la profondeur d'un graphique 3D sous forme de pourcentage de la largeur du graphique (entre 20 et 2 000 %).
+Représente la profondeur d'un graphique 3D en pourcentage de la largeur du graphique (entre 20 et 2 000 %).
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def depth_percent(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Chart](/cells/python-net/fr/aspose.cells.charts/chart)
+* module [`aspose.cells.charts`](../../)
+* classe [`Chart`](/cells/python-net/fr/aspose.cells.charts/chart)

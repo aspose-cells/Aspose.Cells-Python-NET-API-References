@@ -3,7 +3,7 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 90
 url: /de/aspose.cells.pivot/pivotfieldcollection/type/
 is_root: false
 ---

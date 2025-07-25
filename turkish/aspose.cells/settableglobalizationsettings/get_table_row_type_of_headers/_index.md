@@ -7,7 +7,7 @@ weight: 260
 url: /tr/aspose.cells/settableglobalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
+##  get_table_row_type_of_headers(self) {#}
 Tablo başlığından oluşan tablo satırlarının tür adını alır.
 Varsayılan "Başlıklar"dır, dolayısıyla formülde "#Başlıklar" tablo başlığını temsil eder.
 
@@ -18,6 +18,7 @@ tablo satırlarının tür adı
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

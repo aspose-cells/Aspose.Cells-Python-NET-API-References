@@ -3,13 +3,13 @@ title: insert_blank_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 350
+weight: 430
 url: /de/aspose.cells.pivot/pivotfield/insert_blank_row/
 is_root: false
 ---
 ##  insert_blank_row Eigentum
 
-Gibt an, ob nach jedem Element eine Leerzeile eingefügt wird.
+Gibt an, ob nach jedem Element eine Leerzeile eingefügt werden soll.
 ###  Definition:
 ```python
 @property

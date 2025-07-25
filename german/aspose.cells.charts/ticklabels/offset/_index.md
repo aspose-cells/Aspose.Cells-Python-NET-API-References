@@ -9,12 +9,13 @@ is_root: false
 ---
 ##  offset Eigentum
 
-Ruft den Abstand der Beschriftungen von der Achse ab und legt diesen fest.
+ Ruft den Abstand der Beschriftungen von der Kategorieachse ab und legt ihn fest.
+Nur für die Kategorieachse (x).
 
 ###  Bemerkungen
 
-Der Standardabstand beträgt 100 Prozent, was den Standardabstand zwischen den Achsenbeschriftungen und der Achsenlinie darstellt.
-Der Wert kann ein ganzzahliger Prozentsatz von 0 bis 1000 sein, relativ zur Schriftgröße der Achsenbeschriftung.
+Der Standardabstand beträgt 100 Prozent und stellt den Standardabstand zwischen den Achsenbeschriftungen und der Achsenlinie dar.
+Der Wert kann ein ganzzahliger Prozentsatz zwischen 0 und 1000 sein, relativ zur Schriftgröße der Achsenbeschriftung.
 ###  Definition:
 ```python
 @property

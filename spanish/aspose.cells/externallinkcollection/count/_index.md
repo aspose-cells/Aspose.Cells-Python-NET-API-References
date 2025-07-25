@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ExternalLinkCollection](/cells/python-net/es/aspose.cells/externallinkcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ExternalLinkCollection`](/cells/python-net/es/aspose.cells/externallinkcollection)

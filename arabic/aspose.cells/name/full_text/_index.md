@@ -1,5 +1,5 @@
 ---
-title: full_text الملكية
+title: full_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells/name/full_text/
 is_root: false
 ---
-##  full_text الملكية
+##  full_text عقار
 
-الحصول على اسم النص الكامل للكائن مع إعداد النطاق.
+يحصل على اسم النص الكامل للكائن مع إعداد النطاق.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

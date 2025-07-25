@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  take_focus_on_click mülk
 
-Kontrolün tıklandığında odağı alıp almadığını gösterir.
+Kontrolün tıklandığında odak alıp almayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def take_focus_on_click(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CommandButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CommandButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

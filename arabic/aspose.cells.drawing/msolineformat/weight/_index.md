@@ -1,5 +1,5 @@
 ---
-title: weight الملكية
+title: weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.drawing/msolineformat/weight/
 is_root: false
 ---
-##  weight الملكية
+##  weight عقار
 
-إرجاع أو تعيين weight من السطر بوحدات من pt.
+يقوم بإرجاع أو تعيين weight للسطر، بوحدات pt.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoLineFormat](/cells/python-net/ar/aspose.cells.drawing/msolineformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoLineFormat`](/cells/python-net/ar/aspose.cells.drawing/msolineformat)

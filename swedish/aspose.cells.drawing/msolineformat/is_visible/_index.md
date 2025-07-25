@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible fastighet
 
-Indikerar om objektet är synligt.
+Anger om objektet är synligt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineFormat](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineFormat`](/cells/python-net/sv/aspose.cells.drawing/msolineformat)

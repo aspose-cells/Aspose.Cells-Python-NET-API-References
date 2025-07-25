@@ -8,7 +8,7 @@ url: /de/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
 ##  DigitalSignatureCollection Klasse
-Stellt eine Sammlung digitaler Signaturen bereit, die an ein Dokument angehängt sind.
+Bietet eine Sammlung digitaler Signaturen, die an ein Dokument angehängt sind.
 
 
 
@@ -17,19 +17,19 @@ Der Typ DigitalSignatureCollection macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |Der Konstruktor von DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | Der Konstruktor von DigitalSignatureCollection.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Fügen Sie DigitalSignatureCollection eine Signatur hinzu.|
+| [`add(self, digital_signature)`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | Fügen Sie der DigitalSignatureCollection eine Signatur hinzu.|
 
 
 
 ###  Beispiel
 
-Das folgende Beispiel zeigt, wie die digitale Signatur validiert wird.
+Das folgende Beispiel zeigt, wie eine digitale Signatur validiert wird.
 
 ```python
 from aspose.cells import Workbook
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.digitalsignatures](..)
+* Modul [`aspose.cells.digitalsignatures`](..)

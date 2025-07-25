@@ -3,12 +3,12 @@ title: CalcModeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1880
+weight: 1780
 url: /sv/aspose.cells/calcmodetype/
 is_root: false
 ---
 ##  CalcModeType uppräkning
-Representerar lägestypen för beräkningsformler.
+Representerar lägestypen för att beräkna formler.
 
 
 

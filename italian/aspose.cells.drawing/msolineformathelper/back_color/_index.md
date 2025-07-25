@@ -1,6 +1,6 @@
 ---
 title: back_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color proprietà
 
-Ottiene e imposta il colore posteriore della linea di confine.
+Ottiene e imposta il colore posteriore della linea del bordo.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [MsoLineFormatHelper](/cells/python-net/it/aspose.cells.drawing/msolineformathelper)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`MsoLineFormatHelper`](/cells/python-net/it/aspose.cells.drawing/msolineformathelper)

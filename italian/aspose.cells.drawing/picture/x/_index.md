@@ -1,15 +1,15 @@
 ---
 title: x proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1420
+weight: 1440
 url: /it/aspose.cells.drawing/picture/x/
 is_root: false
 ---
 ##  x proprietà
 
-Ottiene e imposta l'offset orizzontale della forma dal bordo sinistro del foglio di lavoro, in unità di pixel.
+Ottiene e imposta lo scostamento orizzontale della forma dal bordo sinistro del foglio di lavoro, in pixel.
 
 ###  Esempio
 

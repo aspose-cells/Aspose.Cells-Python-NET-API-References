@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_bytes propiedad
 
-Indica bytes de imagen del gráfico renderizado, forma al renderizar.
+Indica los bytes de la imagen del gráfico y la forma renderizados durante la renderización.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_bytes(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [DrawObject](/cells/python-net/es/aspose.cells.rendering/drawobject)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`DrawObject`](/cells/python-net/es/aspose.cells.rendering/drawobject)

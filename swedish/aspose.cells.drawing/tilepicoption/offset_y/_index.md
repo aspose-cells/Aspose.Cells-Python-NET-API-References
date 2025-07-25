@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  offset_y fastighet
 
-Hämtar eller ställer in Y-offset för sida vid sida.
+Hämtar eller ställer in Y-förskjutningen för att kakla bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def offset_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [TilePicOption](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`TilePicOption`](/cells/python-net/sv/aspose.cells.drawing/tilepicoption)

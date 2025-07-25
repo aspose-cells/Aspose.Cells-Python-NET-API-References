@@ -1,5 +1,5 @@
 ---
-title: font_name الملكية
+title: font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 60
 url: /ar/aspose.cells.drawing/texteffectformat/font_name/
 is_root: false
 ---
-##  font_name الملكية
+##  font_name عقار
 
 اسم الخط المستخدم في WordArt.
 ###  تعريف:
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

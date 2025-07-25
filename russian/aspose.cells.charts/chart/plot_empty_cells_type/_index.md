@@ -1,6 +1,6 @@
 ---
 title: plot_empty_cells_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 470
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_empty_cells_type недвижимость
 
-Получает и задает способ построения пустых ячеек.
+Получает и задает способ отображения пустых ячеек.
 ###  Определение:
 ```python
 @property

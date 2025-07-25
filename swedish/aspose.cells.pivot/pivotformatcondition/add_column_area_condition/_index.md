@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.pivot/pivotformatcondition/add_column_area_condition/
 is_root: false
 ---
-##  add_column_area_condition(field_name) {#str}
-Lägger till PivotTable-villkorlig formatgräns i kolumnfälten.
+##  add_column_area_condition(self, field_name) {#str}
+
 
 
 
 ```python
+
 def add_column_area_condition(self, field_name):
     ...
 ```
@@ -20,15 +21,16 @@ def add_column_area_condition(self, field_name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| field_name | str | Namnet på PivotField.|
+| field_name | str |  |
 
 
-##  add_column_area_condition(column_field) {#PivotField}
-Lägger till PivotTable-villkorlig formatgräns i kolumnfälten.
+##  add_column_area_condition(self, column_field) {#aspose.cells.pivot.PivotField}
+
 
 
 
 ```python
+
 def add_column_area_condition(self, column_field):
     ...
 ```
@@ -36,10 +38,10 @@ def add_column_area_condition(self, column_field):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| column_field | [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield) | Pivotfältet i kolumnfälten.|
+| column_field | [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield) |  |
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFormatCondition](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFormatCondition`](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)

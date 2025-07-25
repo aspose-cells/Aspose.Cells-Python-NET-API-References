@@ -3,13 +3,13 @@ title: upper_left_column propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1140
+weight: 1150
 url: /fr/aspose.cells.drawing/cellsdrawing/upper_left_column/
 is_root: false
 ---
 ##  upper_left_column propriété
 
-Représente l’index de la colonne du coin supérieur gauche.
+Représente l'index de la colonne du coin supérieur gauche.
 
 ###  Exemple
 

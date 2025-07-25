@@ -3,7 +3,7 @@ title: rotation_angle mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 870
+weight: 880
 url: /tr/aspose.cells.drawing/label/rotation_angle/
 is_root: false
 ---
@@ -15,8 +15,10 @@ is_root: false
 
 ```python
 
-if shape.rotation_angle == 45:
-    shape.rotation_angle = 60.0
+# Gets rotation angle of the shape.
+angle = shape.rotation_angle
+# Gets rotation angle of the shape.
+shape.rotation_angle = 60.0
 
 ```
 ###  Tanım:

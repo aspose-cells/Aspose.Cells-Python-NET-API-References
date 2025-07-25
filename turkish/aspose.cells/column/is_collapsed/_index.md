@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapsed mülk
 
-sütunun daraltılmış olup olmadığı
+sütunun çöküp çökmediği
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Column](/cells/python-net/tr/aspose.cells/column)
+* modül [`aspose.cells`](../../)
+* sınıf [`Column`](/cells/python-net/tr/aspose.cells/column)

@@ -3,13 +3,13 @@ title: is_ascend_show fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 440
 url: /sv/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---
 ##  is_ascend_show fastighet
 
-Indikerar om det angivna pivottabellfältet automatiskt visas stigande.
+Anger om det angivna pivottabellfältet visas automatiskt i stigande ordning.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: separator_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 410
 url: /sv/aspose.cells.charts/datalabels/separator_value/
 is_root: false
 ---
 ##  separator_value fastighet
 
-Hämtar eller ställer in separatorvärdet som används för dataetiketterna i ett diagram.
+Hämtar eller anger avgränsningsvärdet som används för dataetiketterna i ett diagram.
 ###  Definition:
 ```python
 @property

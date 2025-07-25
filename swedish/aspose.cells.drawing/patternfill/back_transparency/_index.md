@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_transparency fastighet
 
-Hämtar eller ställer in genomskinligheten för bakgrundsfärgen.
+Hämtar eller ställer in bakgrundsfärgens genomskinlighet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PatternFill](/cells/python-net/sv/aspose.cells.drawing/patternfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PatternFill`](/cells/python-net/sv/aspose.cells.drawing/patternfill)

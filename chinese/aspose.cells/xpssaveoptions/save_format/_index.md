@@ -3,13 +3,11 @@ title: save_format属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 280
 url: /zh/aspose.cells/xpssaveoptions/save_format/
 is_root: false
 ---
 ## save_format属性
-
-获取保存文件格式。
 ### 定义：
 ```python
 @property

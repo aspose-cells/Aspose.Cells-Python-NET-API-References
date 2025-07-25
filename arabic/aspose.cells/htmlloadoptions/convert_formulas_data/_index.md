@@ -1,5 +1,5 @@
 ---
-title: convert_formulas_data الملكية
+title: convert_formulas_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,16 @@ weight: 110
 url: /ar/aspose.cells/htmlloadoptions/convert_formulas_data/
 is_root: false
 ---
-##  convert_formulas_data الملكية
+##  convert_formulas_data عقار
 
-إذا كانت القيمة صحيحة ، فقم بتحويل السلسلة إلى صيغة عندما تبدأ قيمة السلسلة بالحرف '=' ، فالقيمة الافتراضية هي false.
+إذا كانت القيمة صحيحة، قم بتحويل السلسلة إلى صيغة عندما تبدأ قيمة السلسلة بالحرف '='، والقيمة الافتراضية هي false.
+
+###  ملاحظات
+
+ ملحوظة: هذه الخاصية أصبحت قديمة الآن.
+بدلاً من ذلك، الرجاء استخدام الخاصية HtmlLoadOptions.HasFormula.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ مارس 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def convert_formulas_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [HtmlLoadOptions](/cells/python-net/ar/aspose.cells/htmlloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`HtmlLoadOptions`](/cells/python-net/ar/aspose.cells/htmlloadoptions)

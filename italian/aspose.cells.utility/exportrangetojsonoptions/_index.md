@@ -1,23 +1,23 @@
 ---
-title: classe ExportRangeToJsonOptions
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: ExportRangeToJsonOptions classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 10
+weight: 20
 url: /it/aspose.cells.utility/exportrangetojsonoptions/
 is_root: false
 ---
-##  classe ExportRangeToJsonOptions
-Indica le opzioni che esportano l'intervallo in json.
+##  ExportRangeToJsonOptions classe
+Indica le opzioni per l'esportazione dell'intervallo in JSON.
 
 
 
-Il tipo ExportRangeToJsonOptions espone i membri seguenti:
+Il tipo ExportRangeToJsonOptions espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [ExportRangeToJsonOptions()](/cells/python-net/it/aspose.cells.utility/exportrangetojsonoptions/__init__/#) | Costruisce una nuova istanza di ExportRangeToJsonOptions|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.utility/exportrangetojsonoptions/__init__/#) | Crea una nuova istanza di ExportRangeToJsonOptions|
 
 
 ###  Proprietà
@@ -31,4 +31,4 @@ Il tipo ExportRangeToJsonOptions espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](..)
+* modulo [`aspose.cells.utility`](..)

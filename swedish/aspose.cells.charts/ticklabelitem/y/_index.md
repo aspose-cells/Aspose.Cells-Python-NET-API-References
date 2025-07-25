@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y fastighet
 
-Y-koordinater för Ticklabel-objekt i förhållande till diagramhöjd.
+Y-koordinaterna för Ticklabel-objektet i förhållande till diagrammets höjd.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def y(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabelItem](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabelItem`](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)

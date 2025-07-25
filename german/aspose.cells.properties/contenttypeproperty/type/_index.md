@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [ContentTypeProperty](/cells/python-net/de/aspose.cells.properties/contenttypeproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`ContentTypeProperty`](/cells/python-net/de/aspose.cells.properties/contenttypeproperty)

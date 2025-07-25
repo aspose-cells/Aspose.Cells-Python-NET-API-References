@@ -1,15 +1,15 @@
 ---
 title: width_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /ru/aspose.cells.drawing/smartartshape/width_scale/
 is_root: false
 ---
 ##  width_scale недвижимость
 
-Получает и задает масштаб ширины в процентах от ширины исходного изображения.
+Получает и задает масштаб ширины в процентах от исходной ширины изображения.
 Если фигура не является изображением, свойство WidthScale возвращает только 100;
 
 ###  Пример

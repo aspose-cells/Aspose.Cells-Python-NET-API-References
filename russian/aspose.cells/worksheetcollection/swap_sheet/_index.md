@@ -1,18 +1,19 @@
 ---
 title: swap_sheet метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ru/aspose.cells/worksheetcollection/swap_sheet/
 is_root: false
 ---
-##  swap_sheet {#int-int}
+##  swap_sheet(self, sheet_index1, sheet_index2) {#int-int}
 Меняет местами два листа.
 
 
 
 ```python
+
 def swap_sheet(self, sheet_index1, sheet_index2):
     ...
 ```

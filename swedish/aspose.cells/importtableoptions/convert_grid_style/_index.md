@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_grid_style fastighet
 
-Anger om formatet för rutnätsvyn tillämpas på celler.
+Anger om rutnätsvyns stil ska tillämpas på celler.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_grid_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ImportTableOptions](/cells/python-net/sv/aspose.cells/importtableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ImportTableOptions`](/cells/python-net/sv/aspose.cells/importtableoptions)

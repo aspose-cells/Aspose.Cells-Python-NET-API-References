@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent propiedad
 
-Indica si los artículos son porcentajes.
+Indica si los elementos son porcentajes.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Top10Filter](/cells/python-net/es/aspose.cells/top10filter)
+* módulo [`aspose.cells`](../../)
+* clase [`Top10Filter`](/cells/python-net/es/aspose.cells/top10filter)

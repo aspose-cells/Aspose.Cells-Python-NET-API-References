@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/
 is_root: false
 ---
-##  get_on_category_axis_point_count() {#}
-Hämtar antalet punkter på kategoriaxeln efter anrop av metoden Chart.Calculate(). Gäller endast områdesdiagram.
+##  get_on_category_axis_point_count(self) {#}
+Hämtar antalet punkter på kategoriaxeln efter anrop av metoden Chart.Calculate(). Gäller endast ytdiagram.
 
 
 
 ```python
+
 def get_on_category_axis_point_count(self):
     ...
 ```
@@ -20,10 +21,10 @@ def get_on_category_axis_point_count(self):
 
 ###  Anmärkningar
 
-Område 2D-diagramretur 1
-Område 3D-diagramretur 2.
+Retur 1 för område 2D-diagram
+Retur av area 3D-diagram 2.
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

@@ -1,19 +1,19 @@
 ---
-title: security_options 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: security_options属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 390
+weight: 440
 url: /zh/aspose.cells/pdfsaveoptions/security_options/
 is_root: false
 ---
-## security_options 属性
+## security_options属性
 
-在 xls2pdf 结果中需要安全性时设置此选项。
+当 xls2pdf 结果需要安全性时，设置此选项。
 
 ### 例子
 
-以下代码为输出 pdf 设置高分辨率打印权限。
+以下代码为输出 pdf 设置高分辨率打印许可。
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook
@@ -46,6 +46,6 @@ def security_options(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
-* 类 [PdfSecurityOptions](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 类 [`PdfSecurityOptions`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions)

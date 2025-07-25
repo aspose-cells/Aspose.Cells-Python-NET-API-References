@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Får column för cellsmarta taggar.
+Hämtar column för mobilens smarta taggar.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTagCollection](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTagCollection`](/cells/python-net/sv/aspose.cells.markup/smarttagcollection)

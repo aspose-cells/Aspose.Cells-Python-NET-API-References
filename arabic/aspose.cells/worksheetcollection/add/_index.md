@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
-يضيف ورقة عمل إلى المجموعة.
+##  add(self) {#}
+إضافة ورقة عمل إلى المجموعة.
 
 
 ###  عائدات
 
-[Worksheet](/cells/python-net/ar/aspose.cells/worksheet) فهرس العنصر.
+[`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) فهرس الكائن.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
-يضيف ورقة عمل إلى المجموعة.
+##  add(self, type) {#aspose.cells.SheetType}
+إضافة ورقة عمل إلى المجموعة.
 
 
 ###  عائدات
 
-[Worksheet](/cells/python-net/ar/aspose.cells/worksheet) فهرس العنصر.
+[`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) فهرس الكائن.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/ar/aspose.cells/sheettype) | نوع ورقة العمل.|
+| type | [`SheetType`](/cells/python-net/ar/aspose.cells/sheettype) | نوع ورقة العمل.|
 
 ###  مثال
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
-يضيف ورقة عمل إلى المجموعة.
+##  add(self, sheet_name) {#str}
+إضافة ورقة عمل إلى المجموعة.
 
 
 ###  عائدات
 
-[Worksheet](/cells/python-net/ar/aspose.cells/worksheet) كائن.
+[`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) الكائن.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -87,6 +90,6 @@ def add(self, sheet_name):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Worksheet](/cells/python-net/ar/aspose.cells/worksheet)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

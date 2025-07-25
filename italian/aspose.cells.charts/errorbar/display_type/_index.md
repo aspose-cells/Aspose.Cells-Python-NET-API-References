@@ -1,6 +1,6 @@
 ---
 title: display_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -21,6 +21,6 @@ def display_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
-* classe [ErrorBarDisplayType](/cells/python-net/it/aspose.cells.charts/errorbardisplaytype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)
+* classe [`ErrorBarDisplayType`](/cells/python-net/it/aspose.cells.charts/errorbardisplaytype)

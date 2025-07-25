@@ -1,6 +1,6 @@
 ---
 title: scale_x недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale_x недвижимость
 
-Получает или задает масштаб X для мозаичного изображения.
+Возвращает или задает масштаб X для мозаичного изображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_x(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TilePicOption](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TilePicOption`](/cells/python-net/ru/aspose.cells.drawing/tilepicoption)

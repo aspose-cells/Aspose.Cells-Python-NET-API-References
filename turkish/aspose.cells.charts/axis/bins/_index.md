@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bins mülk
 
-Grafik (Histogram/Pareto) ekseninde bins'i temsil eder
+Bir grafik (Histogram/Pareto) ekseninde bins'i temsil eder
 ###  Tanım:
 ```python
 @property

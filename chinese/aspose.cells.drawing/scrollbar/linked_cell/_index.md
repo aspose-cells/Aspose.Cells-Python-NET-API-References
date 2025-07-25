@@ -3,7 +3,7 @@ title: linked_cell属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 770
+weight: 780
 url: /zh/aspose.cells.drawing/scrollbar/linked_cell/
 is_root: false
 ---

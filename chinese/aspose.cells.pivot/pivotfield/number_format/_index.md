@@ -3,7 +3,7 @@ title: number_format属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 600
 url: /zh/aspose.cells.pivot/pivotfield/number_format/
 is_root: false
 ---

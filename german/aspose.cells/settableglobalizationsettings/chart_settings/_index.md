@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  chart_settings Eigentum
 
-Ruft die Globalisierungseinstellungen für Chart ab oder legt diese fest.
+Ruft die Globalisierungseinstellungen für das Diagramm ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

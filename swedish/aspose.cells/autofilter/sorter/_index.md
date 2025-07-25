@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sorter fastighet
 
-Hämtar uppgifterna sorter.
+Hämtar data sorter.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def sorter(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
-* klass [DataSorter](/cells/python-net/sv/aspose.cells/datasorter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)
+* klass [`DataSorter`](/cells/python-net/sv/aspose.cells/datasorter)

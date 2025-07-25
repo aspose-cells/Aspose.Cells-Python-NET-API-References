@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_y_px propriété
 
-Obtient la coordonnée y du coin inférieur gauche du centre du mur en pixels après avoir appelé la méthode Chart.Calculate().
+Obtient la coordonnée y du coin inférieur gauche du centre du mur en unités de pixels après avoir appelé la méthode Chart.Calculate().
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def center_y_px(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Walls](/cells/python-net/fr/aspose.cells.charts/walls)
+* module [`aspose.cells.charts`](../../)
+* classe [`Walls`](/cells/python-net/fr/aspose.cells.charts/walls)

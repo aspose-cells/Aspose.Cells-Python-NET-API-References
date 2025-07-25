@@ -1,18 +1,19 @@
 ---
-title: metodo set_custom
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo set_custom
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
 url: /it/aspose.cells/style/set_custom/
 is_root: false
 ---
-##  set_custom(custom, builtin_preference) {#str-bool}
-Imposta la stringa di formato numero personalizzato di una cella.
+##  set_custom(self, custom, builtin_preference) {#str-bool}
+Imposta la stringa del formato numerico personalizzato di una cella.
 
 
 
 ```python
+
 def set_custom(self, custom, builtin_preference):
     ...
 ```
@@ -20,11 +21,11 @@ def set_custom(self, custom, builtin_preference):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| custom | str | Stringa di formato numerico personalizzata, dovrebbe essere un modello InvariantCulture.|
-| builtin_preference | bool | Se specificata, la stringa di formato numerico personalizzato corrisponde a uno dei formati numerici incorporati<br/> corrispondente alle attuali impostazioni internazionali, se impostare il formato numerico come integrato invece di Personalizzato.|
+| custom | str |Stringa di formato numerico personalizzata, deve essere il modello InvariantCulture.|
+| builtin_preference | bool | Se specificato, il formato numerico personalizzato corrisponde a uno dei formati numerici incorporati<br/> corrispondente alle impostazioni regionali correnti, se impostare il formato dei numeri come incorporato anziché personalizzato.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells`](../../)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

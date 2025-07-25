@@ -7,17 +7,18 @@ weight: 60
 url: /ar/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
-الحصول على الخلية أو القيمة الخالية في الفهرس المحدد.
+##  get_cell_or_null(self, column) {#int}
+يحصل على الخلية أو القيمة الفارغة في الفهرس المحدد.
 
 
 ###  عائدات
 
 إرجاع كائن الخلية إذا كانت الخلية موجودة.
-أو تُرجع فارغة إذا كان كائن الخلية غير موجود.
+أو يعود null إذا لم يكن كائن الخلية موجودًا.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -30,5 +31,5 @@ def get_cell_or_null(self, column):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

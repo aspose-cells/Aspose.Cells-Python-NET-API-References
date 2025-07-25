@@ -1,5 +1,5 @@
 ---
-title: MapChartProjectionType dénombrement
+title: MapChartProjectionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 560
 url: /fr/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
-##  MapChartProjectionType dénombrement
+##  MapChartProjectionType énumération
 Représente le type de projection du graphique cartographique.
 
 
@@ -25,4 +25,4 @@ Le type MapChartProjectionType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.charts](..)
+* module [`aspose.cells.charts`](..)

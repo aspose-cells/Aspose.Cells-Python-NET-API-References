@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene o establece una serie de datos type.
+Obtiene o establece una serie de datos 'type.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartType](/cells/python-net/es/aspose.cells.charts/charttype)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartType`](/cells/python-net/es/aspose.cells.charts/charttype)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

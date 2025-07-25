@@ -7,12 +7,13 @@ weight: 60
 url: /es/aspose.cells/workbookdesigner/set_json_data_source/
 is_root: false
 ---
-##  set_json_data_source {#str-str}
+##  set_json_data_source(self, variable, data) {#str-str}
 
 
 
 
 ```python
+
 def set_json_data_source(self, variable, data):
     ...
 ```

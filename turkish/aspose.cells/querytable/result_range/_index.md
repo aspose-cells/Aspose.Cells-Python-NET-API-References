@@ -18,6 +18,6 @@ def result_range(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [QueryTable](/cells/python-net/tr/aspose.cells/querytable)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
+* modül [`aspose.cells`](../../)
+* sınıf [`QueryTable`](/cells/python-net/tr/aspose.cells/querytable)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)

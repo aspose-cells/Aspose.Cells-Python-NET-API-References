@@ -1,26 +1,28 @@
 ---
 title: create_safe_sheet_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
 url: /ru/aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
-##  create_safe_sheet_name(name_proposal) {#str}
-Проверяет заданное имя листа и при необходимости создает допустимое.
-Если данное имя листа соответствует правилам имени листа Excel, верните его.
-В противном случае строка будет усечена, если длина превысит лимит
-и недопустимые символы будут заменены на ' ', а затем вернут перестроенное строковое значение.
+##  create_safe_sheet_name(, name_proposal){#str}
+Проверяет указанное имя листа и при необходимости создает допустимое.
+Если заданное имя листа соответствует правилам именования листов Excel, то вернуть его.
+В противном случае строка будет обрезана, если длина превысит лимит.
+и недопустимые символы будут заменены на « », а затем вернется восстановленное строковое значение.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal):
     ...
 ```
 
@@ -30,20 +32,22 @@ def create_safe_sheet_name(self, name_proposal):
 | name_proposal | str | имя листа, которое будет использоваться|
 
 
-##  create_safe_sheet_name(name_proposal, replace_char) {#str-char}
-Проверяет заданное имя листа и при необходимости создает допустимое.
-Если данное имя листа соответствует правилам имени листа Excel, верните его.
-В противном случае строка будет усечена, если длина превысит лимит
-и недопустимые символы будут заменены заданным символом, а затем вернут перестроенное строковое значение.
+##  create_safe_sheet_name(, name_proposal, replace_char){#str-char}
+Проверяет указанное имя листа и при необходимости создает допустимое.
+Если заданное имя листа соответствует правилам именования листов Excel, то вернуть его.
+В противном случае строка будет обрезана, если длина превысит лимит.
+и недопустимые символы будут заменены заданным символом, а затем вернется восстановленное строковое значение.
 
 
-###  Возвращает
+###  Возврат
 
 
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal, replace_char):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal, replace_char):
     ...
 ```
 
@@ -56,5 +60,5 @@ def create_safe_sheet_name(self, name_proposal, replace_char):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

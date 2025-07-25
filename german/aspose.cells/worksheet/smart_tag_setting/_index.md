@@ -3,13 +3,13 @@ title: smart_tag_setting Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 780
+weight: 810
 url: /de/aspose.cells/worksheet/smart_tag_setting/
 is_root: false
 ---
 ##  smart_tag_setting Eigentum
 
-Ruft alle [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection)-Objekte des Arbeitsblatts ab.
+Ruft alle [`SmartTagCollection`](/cells/python-net/de/aspose.cells.markup/smarttagcollection) Objekte des Arbeitsblatts ab.
 ###  Definition:
 ```python
 @property

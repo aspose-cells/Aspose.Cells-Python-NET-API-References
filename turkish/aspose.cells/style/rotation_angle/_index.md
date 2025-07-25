@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle mülk
 
-Metin döndürme açısını temsil eder.
+Metnin dönüş açısını temsil eder.
 
 ###  Notlar
 
@@ -25,7 +25,7 @@ Metin döndürme açısını temsil eder.
 90: Yukarı.
 
 
-255'i veya -90 ile 90 arasında bir değer ayarlayabilirsiniz.
+255 veya -90 ile 90 arasında bir değer ayarlayabilirsiniz.
 ###  Tanım:
 ```python
 @property

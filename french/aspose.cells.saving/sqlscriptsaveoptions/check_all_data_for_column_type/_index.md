@@ -13,7 +13,7 @@ Vérifiez toutes les données pour trouver le type de données des colonnes.
 
 ###  Remarques
 
-La valeur par défaut est false, nous ne vérifions que la première ligne pour les performances.
+La valeur par défaut est false, nous vérifions uniquement la première ligne pour les performances.
 Si cette propriété est vraie et que les colonnes contiennent un type de valeur mixte, le type des colonnes sera du texte.
 ###  Définition:
 ```python
@@ -26,5 +26,5 @@ def check_all_data_for_column_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

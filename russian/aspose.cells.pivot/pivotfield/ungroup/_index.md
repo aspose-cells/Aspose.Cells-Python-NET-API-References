@@ -1,18 +1,19 @@
 ---
 title: ungroup метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 240
 url: /ru/aspose.cells.pivot/pivotfield/ungroup/
 is_root: false
 ---
-##  ungroup {#}
-Разгруппируйте сводное поле.
+##  ungroup(self) {#}
+Разгруппируйте поле поворота.
 
 
 
 ```python
+
 def ungroup(self):
     ...
 ```

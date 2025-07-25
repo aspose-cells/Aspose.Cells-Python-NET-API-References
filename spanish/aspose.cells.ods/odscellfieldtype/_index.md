@@ -24,4 +24,4 @@ El tipo OdsCellFieldType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.ods](..)
+* módulo [`aspose.cells.ods`](..)

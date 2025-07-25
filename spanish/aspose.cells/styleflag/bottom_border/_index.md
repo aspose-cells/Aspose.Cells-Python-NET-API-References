@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_border propiedad
 
-Se aplicará la configuración del borde inferior.
+Se aplicarán las configuraciones del borde inferior.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_border(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ThreadedCommentAuthor](/cells/python-net/es/aspose.cells/threadedcommentauthor)
+* módulo [`aspose.cells`](../../)
+* clase [`ThreadedCommentAuthor`](/cells/python-net/es/aspose.cells/threadedcommentauthor)

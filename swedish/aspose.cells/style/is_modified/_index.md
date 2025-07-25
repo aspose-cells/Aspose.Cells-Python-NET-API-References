@@ -7,9 +7,9 @@ weight: 50
 url: /sv/aspose.cells/style/is_modified/
 is_root: false
 ---
-##  is_modified(modify_flag) {#StyleModifyFlag}
-Kontrollerar om stilens angivna egenskaper har ändrats.
-Används för stil för ConditionalFormattings för att kontrollera om de angivna egenskaperna för denna stil ska användas när de ConditionalFormattings tillämpas på en cell.
+##  is_modified(self, modify_flag) {#aspose.cells.StyleModifyFlag}
+Kontrollerar om de angivna egenskaperna för stilen har ändrats.
+Används för stilen för ConditionalFormattings för att kontrollera om de angivna egenskaperna för den här stilen ska användas när ConditionalFormattings tillämpas på en cell.
 
 
 ###  Returnerar
@@ -18,6 +18,7 @@ sant om de angivna egenskaperna har ändrats
 
 
 ```python
+
 def is_modified(self, modify_flag):
     ...
 ```
@@ -25,10 +26,10 @@ def is_modified(self, modify_flag):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| modify_flag | [StyleModifyFlag](/cells/python-net/sv/aspose.cells/stylemodifyflag) | Stil modifierade flaggor|
+| modify_flag | [`StyleModifyFlag`](/cells/python-net/sv/aspose.cells/stylemodifyflag) | Stilmodifierade flaggor|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

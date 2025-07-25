@@ -3,14 +3,14 @@ title: text_effect属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /zh/aspose.cells.drawing/lineshape/text_effect/
 is_root: false
 ---
 ## text_effect属性
 
-返回一个 TextEffectFormat 对象，其中包含指定形状的文本效果格式设置属性。
-适用于表示艺术字的形状对象。
+返回包含指定形状的文本效果格式属性的 TextEffectFormat 对象。
+适用于代表艺术字的 Shape 对象。
 
 ### 例子
 

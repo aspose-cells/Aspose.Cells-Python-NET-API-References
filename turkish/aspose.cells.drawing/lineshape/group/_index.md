@@ -3,7 +3,7 @@ title: group mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 470
+weight: 460
 url: /tr/aspose.cells.drawing/lineshape/group/
 is_root: false
 ---

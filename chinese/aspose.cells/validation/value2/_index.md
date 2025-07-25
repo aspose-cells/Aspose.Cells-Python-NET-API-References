@@ -9,7 +9,7 @@ is_root: false
 ---
 ## value2属性
 
-表示与数据验证关联的第二个值。
+表示与数据验证相关的第二个值。
 ### 定义：
 ```python
 @property

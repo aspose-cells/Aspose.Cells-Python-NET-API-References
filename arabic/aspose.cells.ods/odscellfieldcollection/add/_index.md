@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells.ods/odscellfieldcollection/add/
 is_root: false
 ---
-##  add(row, column, field_type, format) {#int-int-OdsCellFieldType-str}
-يضيف حقلاً.
+##  add(self, row, column, field_type, format) {#int-int-aspose.cells.ods.OdsCellFieldType-str}
+يضيف حقل.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, row, column, field_type, format):
     ...
 ```
@@ -24,13 +25,13 @@ def add(self, row, column, field_type, format):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
-| field_type | [OdsCellFieldType](/cells/python-net/ar/aspose.cells.ods/odscellfieldtype) | نوع المجال.|
-| format | str | تنسيق رقم الحقل.|
+| field_type | [`OdsCellFieldType`](/cells/python-net/ar/aspose.cells.ods/odscellfieldtype) | نوع الحقل.|
+| format | str | تنسيق الرقم للحقل.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsCellFieldCollection](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsCellFieldCollection`](/cells/python-net/ar/aspose.cells.ods/odscellfieldcollection)

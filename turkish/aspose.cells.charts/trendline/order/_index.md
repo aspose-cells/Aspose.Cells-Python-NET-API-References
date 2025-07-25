@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  order mülk
 
- Trend çizgisi türü Polynomial olduğunda order trend çizgisini (1'den büyük bir tamsayı) döndürür veya ayarlar.
-order, 2 ile 6 arasında olmalıdır.
+ Trend çizgisi türü Polinom olduğunda trend çizgisi order'i (1'den büyük bir tam sayı) döndürür veya ayarlar.
+order 2 ile 6 arasında olmalıdır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def order(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

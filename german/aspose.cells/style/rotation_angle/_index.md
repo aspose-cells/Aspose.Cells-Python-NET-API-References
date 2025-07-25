@@ -25,7 +25,7 @@ Stellt den Textdrehwinkel dar.
 90: Aufwärts.
 
 
-Sie können 255 oder einen Wert im Bereich von -90 bis 90 einstellen.
+Sie können 255 oder einen Wert zwischen -90 und 90 einstellen.
 ###  Definition:
 ```python
 @property

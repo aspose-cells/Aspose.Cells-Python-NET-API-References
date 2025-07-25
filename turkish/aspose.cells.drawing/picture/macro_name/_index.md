@@ -3,7 +3,7 @@ title: macro_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 920
 url: /tr/aspose.cells.drawing/picture/macro_name/
 is_root: false
 ---

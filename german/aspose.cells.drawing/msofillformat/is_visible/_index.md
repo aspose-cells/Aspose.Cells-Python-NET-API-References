@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible Eigentum
 
-Gibt an, ob Füllung vorhanden ist.
+Gibt an, ob eine Füllung vorhanden ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFillFormat](/cells/python-net/de/aspose.cells.drawing/msofillformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFillFormat`](/cells/python-net/de/aspose.cells.drawing/msofillformat)

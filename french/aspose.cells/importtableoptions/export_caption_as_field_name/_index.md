@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  export_caption_as_field_name propriété
 
-Indique si l'exportation de la légende en tant que nom de champ
+Indique si la légende doit être exportée en tant que nom de champ
 
 ###  Remarques
 
-Ne fonctionne que pour DataTable.
+Fonctionne uniquement pour DataTable.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_caption_as_field_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

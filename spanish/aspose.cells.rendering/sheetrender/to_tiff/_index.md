@@ -7,12 +7,13 @@ weight: 70
 url: /es/aspose.cells.rendering/sheetrender/to_tiff/
 is_root: false
 ---
-##  to_tiff {#io.RawIOBase}
-Renderice toda la hoja de trabajo como imagen Tiff para transmitirla.
+##  to_tiff(self, stream) {#io.RawIOBase}
+Representar toda la hoja de cálculo como imagen Tiff para transmitir.
 
 
 
 ```python
+
 def to_tiff(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | el flujo de la imagen de salida|
 
 
-##  to_tiff {#str}
-Renderice toda la hoja de trabajo como imagen Tiff en un archivo.
+##  to_tiff(self, filename) {#str}
+Representar toda la hoja de cálculo como imagen Tiff en un archivo.
 
 
 
 ```python
+
 def to_tiff(self, filename):
     ...
 ```
@@ -36,7 +38,7 @@ def to_tiff(self, filename):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| filename | str | el nombre de archivo de la imagen de salida|
+| filename | str | el nombre del archivo de la imagen de salida|
 
 ###  Ejemplo
 

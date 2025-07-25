@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items mülk
 
-Filtrenin items'ini alır ve ayarlar.
+Filtrenin items değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def items(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Top10Filter](/cells/python-net/tr/aspose.cells/top10filter)
+* modül [`aspose.cells`](../../)
+* sınıf [`Top10Filter`](/cells/python-net/tr/aspose.cells/top10filter)

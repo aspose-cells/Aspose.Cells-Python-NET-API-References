@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency mülk
 
-Gölgenin transparency derecesini alır ve ayarlar. 0,0 (opak) ile 1,0 (berrak) arasında değişir.
+Gölgenin transparency derecesini alır ve ayarlar. 0,0 (opak) ile 1,0 (temiz) arasında değişir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShadowEffect](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)

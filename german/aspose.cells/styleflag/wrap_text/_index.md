@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  wrap_text Eigentum
 
-Die Textumbrucheinstellung wird angewendet.
+Die Einstellung „Text umbrechen“ wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def wrap_text(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

@@ -10,7 +10,11 @@ is_root: false
 ##  start_column propiedad
 
 Obtiene o establece la columna de inicio de esta área.
+###  Definición:
+```python
+f start_column 
+```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)

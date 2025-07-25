@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_right_to_left mülk
 
-Çizim verilerinin sağdan sola olup olmadığını gösterir.
+Grafik verilerinin sağdan sola doğru olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_right_to_left(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

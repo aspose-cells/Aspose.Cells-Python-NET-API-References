@@ -1,6 +1,6 @@
 ---
 title: font_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_name proprietà
 
-Il nome del carattere utilizzato nell'oggetto WordArt.
+Il nome del font utilizzato in WordArt.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [TextEffectFormat](/cells/python-net/it/aspose.cells.drawing/texteffectformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`TextEffectFormat`](/cells/python-net/it/aspose.cells.drawing/texteffectformat)

@@ -7,12 +7,13 @@ weight: 80
 url: /ar/aspose.cells/autofilter/dynamic_filter/
 is_root: false
 ---
-##  dynamic_filter(field_index, dynamic_filter_type) {#int-DynamicFilterType}
-يضيف عامل تصفية ديناميكي.
+##  dynamic_filter(self, field_index, dynamic_filter_type) {#int-aspose.cells.DynamicFilterType}
+إضافة مرشح ديناميكي.
 
 
 
 ```python
+
 def dynamic_filter(self, field_index, dynamic_filter_type):
     ...
 ```
@@ -20,11 +21,11 @@ def dynamic_filter(self, field_index, dynamic_filter_type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| dynamic_filter_type | [DynamicFilterType](/cells/python-net/ar/aspose.cells/dynamicfiltertype) | نوع المرشح الديناميكي.|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| dynamic_filter_type | [`DynamicFilterType`](/cells/python-net/ar/aspose.cells/dynamicfiltertype) | نوع الفلتر الديناميكي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

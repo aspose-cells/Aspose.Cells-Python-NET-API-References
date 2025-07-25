@@ -13,10 +13,10 @@ Belirtilen şekil için dolgu biçimlendirme özelliklerini içeren bir MsoFillF
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
- lütfen Shape.Fill özelliğini kullanın.
- Bu mülk, Temmuz 2016'dan bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Fill özelliğini kullanın.
+ Bu özellik Temmuz 2016'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

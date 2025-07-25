@@ -3,7 +3,7 @@ title: height_cm propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 460
+weight: 450
 url: /es/aspose.cells.drawing/listbox/height_cm/
 is_root: false
 ---

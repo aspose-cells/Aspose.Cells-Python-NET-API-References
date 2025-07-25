@@ -3,13 +3,13 @@ title: anchor_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 300
 url: /sv/aspose.cells.drawing/lineshape/anchor_type/
 is_root: false
 ---
 ##  anchor_type fastighet
 
-Hämtar och ställer in platshållaren för formankaret.
+Hämtar och anger typen av platshållaren för formankaret.
 
 ###  Exempel
 

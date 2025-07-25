@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/chartcalculateoptions/
 is_root: false
 ---
 ##  ChartCalculateOptions Klasse
-Stellt die Optionen zur Diagrammberechnung dar.
+Stellt die Optionen zum Berechnen des Diagramms dar.
 
 
 
@@ -17,13 +17,13 @@ Der Typ ChartCalculateOptions macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells.charts/chartcalculateoptions/__init__/#) | Erstellt die Optionen zum Berechnen des Diagramms.|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.charts/chartcalculateoptions/__init__/#) | Erstellt die Optionen zum Berechnen des Diagramms.|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [update_all_points](/cells/python-net/de/aspose.cells.charts/chartcalculateoptions/update_all_points) | Ob alle Datenpunkte aktualisiert werden, wenn die Diagrammberechnung durchgeführt wird. Standard: Falsch.<br/>Wenn Sie den Wert für jeden Datenpunkt im Diagramm gezielt abrufen möchten, legen Sie ihn auf „true“ fest.<br/> Wenn dieser Parameter auf „True“ gesetzt ist, werden möglicherweise neue Datenpunkte generiert, wenn das Diagramm berechnet wird. Dadurch könnte die Excel-Datei größer werden.|
+| [update_all_points](/cells/python-net/de/aspose.cells.charts/chartcalculateoptions/update_all_points) |Ob alle Datenpunkte bei der Diagrammberechnung aktualisiert werden sollen. Standard: False.<br/>Wenn Sie den Wert für jeden Datenpunkt im Diagramm gezielt abrufen möchten, setzen Sie ihn auf „true“.<br/> Wenn dieser Parameter auf „True“ gesetzt ist, werden bei der Diagrammberechnung möglicherweise neue Datenpunkte generiert. Dies kann zu einer Vergrößerung der Excel-Datei führen.|
 
 
 

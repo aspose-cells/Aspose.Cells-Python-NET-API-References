@@ -21,5 +21,5 @@ def provider_id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ThreadedCommentAuthor](/cells/python-net/de/aspose.cells/threadedcommentauthor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ThreadedCommentAuthor`](/cells/python-net/de/aspose.cells/threadedcommentauthor)

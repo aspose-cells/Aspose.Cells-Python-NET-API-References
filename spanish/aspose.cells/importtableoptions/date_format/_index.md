@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format propiedad
 
-Obtiene o establece una cadena de formato de fecha para las celdas con valores de fecha y hora importados.
+Obtiene o establece una cadena de formato de fecha para celdas con valores de fecha y hora importados.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

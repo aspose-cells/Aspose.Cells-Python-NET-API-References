@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/labelactivexcontrol/linked_cell/
 is_root: false
 ---
 ##  linked_cell propiedad
-
-Obtiene y establece la celda vinculada.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [LabelActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`LabelActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
 ##  BackgroundMode numaralandırma
-Arka planın görüntüleme modunu temsil eder.
+Arka planın görüntülenme modunu temsil eder.
 
 
 
@@ -17,7 +17,7 @@ BackgroundMode türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| AUTOMATIC |Otomatik|
+| AUTOMATIC | Otomatik|
 | OPAQUE | Opak|
 | TRANSPARENT | Şeffaf|
 

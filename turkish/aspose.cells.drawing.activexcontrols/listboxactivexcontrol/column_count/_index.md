@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_count mülk
 
-ComboBox veya ListBox'ta görüntülenecek sütun sayısını temsil eder.
+Bir ComboBox veya ListBox'ta görüntülenecek sütun sayısını temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_count(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ListBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ListBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -1,15 +1,15 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 150
 url: /ar/aspose.cells.pivot/pivotfilter/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-يحصل على name للمرشح المحوري.
+يحصل على name من مرشح المحور.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilter`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_separator_of_formula_array mülk
 
-Formüldeki dizinin satır verilerindeki öğelerin ayırıcısını alır.
+Formüldeki dizinin satır verilerindeki öğeler için ayırıcıyı alır.
 ###  Tanım:
 ```python
 @property

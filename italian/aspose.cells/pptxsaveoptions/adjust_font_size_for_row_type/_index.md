@@ -1,6 +1,6 @@
 ---
 title: adjust_font_size_for_row_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type proprietà
 
-Rappresenta il tipo di linea di cui è necessario regolare la dimensione del carattere se l'altezza della riga è piccola.
+Rappresenta il tipo di linea di cui è necessario adattare la dimensione del carattere se l'altezza della riga è piccola.
 ###  Definizione:
 ```python
 @property

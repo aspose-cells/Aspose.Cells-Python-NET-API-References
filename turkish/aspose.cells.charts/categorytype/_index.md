@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/categorytype/
 is_root: false
 ---
 ##  CategoryType numaralandırma
-Kategori ekseni türünü temsil eder.
+Kategori ekseninin türünü temsil eder.
 
 
 

@@ -1,9 +1,9 @@
 ---
 title: HeaderFooterCommand класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 770
+weight: 750
 url: /ru/aspose.cells/headerfootercommand/
 is_root: false
 ---

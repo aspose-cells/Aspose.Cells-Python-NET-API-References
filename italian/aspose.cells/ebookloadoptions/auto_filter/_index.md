@@ -1,6 +1,6 @@
 ---
 title: auto_filter proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -13,8 +13,8 @@ Indica se filtrare automaticamente i dati durante il caricamento dei file.
 
 ###  Osservazioni
 
-A volte, anche se è impostato il filtro automatico, le righe corrispondenti non sono nascoste nel file.
-Ora funziona solo con i file SpreadSheetML.
+A volte, nonostante il filtro automatico sia impostato, le righe corrispondenti non vengono nascoste nel file.
+Ora funziona solo per i file SpreadSheetML.
 ###  Definizione:
 ```python
 @property

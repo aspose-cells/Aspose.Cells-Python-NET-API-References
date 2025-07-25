@@ -1,15 +1,15 @@
 ---
 title: is_filled недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ru/aspose.cells.drawing/oleobject/is_filled/
 is_root: false
 ---
 ##  is_filled недвижимость
 
-Указывает, виден ли формат заливки.
+Указывает, виден ли формат заполнения.
 
 ###  Пример
 

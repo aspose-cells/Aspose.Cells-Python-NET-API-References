@@ -3,13 +3,13 @@ title: macro_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 800
 url: /zh/aspose.cells.drawing/groupbox/macro_name/
 is_root: false
 ---
 ## macro_name属性
 
-获取和设置宏的名称。
+获取并设置宏的名称。
 
 ### 例子
 

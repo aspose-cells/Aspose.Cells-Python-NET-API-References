@@ -3,13 +3,13 @@ title: refresh_pivot_tables propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 230
 url: /es/aspose.cells/odsloadoptions/refresh_pivot_tables/
 is_root: false
 ---
 ##  refresh_pivot_tables propiedad
 
-Indica si se actualizan las tablas dinámicas al cargar el archivo.
+Indica si se deben actualizar las tablas dinámicas al cargar el archivo.
 ###  Definición:
 ```python
 @property

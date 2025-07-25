@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  title عقار
 
-يحصل على المخطط title.
+يحصل على الرسم البياني title.
 ###  تعريف:
 ```python
 @property

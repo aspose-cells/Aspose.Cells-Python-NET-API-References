@@ -1,9 +1,9 @@
 ---
 title: x_ad_es_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells.digitalsignatures/digitalsignature/x_ad_es_type/
 is_root: false
 ---
@@ -22,6 +22,6 @@ def x_ad_es_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.digitalsignatures](../../)
-* classe [DigitalSignature](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature)
-* classe [XAdESType](/cells/python-net/it/aspose.cells.digitalsignatures/xadestype)
+* modulo [`aspose.cells.digitalsignatures`](../../)
+* classe [`DigitalSignature`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignature)
+* classe [`XAdESType`](/cells/python-net/it/aspose.cells.digitalsignatures/xadestype)

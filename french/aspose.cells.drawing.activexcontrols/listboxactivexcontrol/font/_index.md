@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/font/
 is_root: false
 ---
 ##  font propriété
-
-Représente le font de la commande.
 ###  Définition:
 ```python
 @property
@@ -18,6 +16,6 @@ def font(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [Font](/cells/python-net/fr/aspose.cells/font)
-* classe [ListBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`Font`](/cells/python-net/fr/aspose.cells/font)
+* classe [`ListBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

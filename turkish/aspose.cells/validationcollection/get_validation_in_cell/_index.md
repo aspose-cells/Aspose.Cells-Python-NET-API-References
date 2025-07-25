@@ -7,16 +7,17 @@ weight: 50
 url: /tr/aspose.cells/validationcollection/get_validation_in_cell/
 is_root: false
 ---
-##  get_validation_in_cell(row, column) {#int-int}
+##  get_validation_in_cell(self, row, column) {#int-int}
 Verilen hücreye uygulanan doğrulamayı alır.
 
 
 ###  İadeler
 
-Belirli bir hücre için doğrulama yoksa [Validation](/cells/python-net/tr/aspose.cells/validation) nesnesi veya null döndürür
+Verilen hücre için doğrulama yoksa [`Validation`](/cells/python-net/tr/aspose.cells/validation) nesnesini veya null değerini döndürür
 
 
 ```python
+
 def get_validation_in_cell(self, row, column):
     ...
 ```
@@ -30,6 +31,6 @@ def get_validation_in_cell(self, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
-* sınıf [ValidationCollection](/cells/python-net/tr/aspose.cells/validationcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)
+* sınıf [`ValidationCollection`](/cells/python-net/tr/aspose.cells/validationcollection)

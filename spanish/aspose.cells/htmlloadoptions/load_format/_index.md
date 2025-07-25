@@ -18,6 +18,6 @@ def load_format(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HtmlLoadOptions](/cells/python-net/es/aspose.cells/htmlloadoptions)
-* clase [LoadFormat](/cells/python-net/es/aspose.cells/loadformat)
+* módulo [`aspose.cells`](../../)
+* clase [`HtmlLoadOptions`](/cells/python-net/es/aspose.cells/htmlloadoptions)
+* clase [`LoadFormat`](/cells/python-net/es/aspose.cells/loadformat)

@@ -7,8 +7,8 @@ weight: 60
 url: /sv/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
-Hämtar det språkberoende namnet på kommentarstiteln enligt typ av kommentarstitel.
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
+Hämtar det språkberoende kommentartitelnamnet enligt kommentartiteltyp.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Hämtar det språkberoende namnet på kommentarstiteln enligt typ av kommentarst
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [GlobalizationSettings](/cells/python-net/sv/aspose.cells/globalizationsettings)
+* modul [`aspose.cells`](../../)
+* klass [`GlobalizationSettings`](/cells/python-net/sv/aspose.cells/globalizationsettings)

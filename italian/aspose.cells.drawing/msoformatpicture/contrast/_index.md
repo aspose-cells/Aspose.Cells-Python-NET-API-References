@@ -1,6 +1,6 @@
 ---
 title: contrast proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  contrast proprietà
 
-Rappresenta la modifica contrast per l'immagine in unità percentuali.
+Rappresenta la modifica contrast per l'immagine in unità percentuale.
 
 ###  Osservazioni
 
-È compreso tra -100% e 100%. Funziona come Excel 2007 o versione successiva.
+È compreso tra -100% e 100%. Funziona come Excel 2007 o versioni successive.
 ###  Definizione:
 ```python
 @property

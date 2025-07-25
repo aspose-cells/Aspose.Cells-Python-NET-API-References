@@ -1,13 +1,13 @@
 ---
 title: refresh方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells/autofilter/refresh/
 is_root: false
 ---
-##  refresh() {#}
+##  refresh(self) {#}
 刷新自动过滤器以隐藏或取消隐藏行。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -24,16 +25,17 @@ def refresh(self):
 
 
 
-##  refresh(hide_rows) {#bool}
+##  refresh(self, hide_rows) {#bool}
 获取所有隐藏行的索引。
 
 
 ### 返回
 
-返回所有隐藏的行索引。
+返回所有隐藏行的索引。
 
 
 ```python
+
 def refresh(self, hide_rows):
     ...
 ```
@@ -41,10 +43,10 @@ def refresh(self, hide_rows):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| hide_rows | bool |如果为真，则隐藏筛选的行。|
+| hide_rows | bool |如果为真，则隐藏已过滤的行。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [AutoFilter](/cells/python-net/zh/aspose.cells/autofilter)
+* 模块[`aspose.cells`](../../)
+* 类 [`AutoFilter`](/cells/python-net/zh/aspose.cells/autofilter)

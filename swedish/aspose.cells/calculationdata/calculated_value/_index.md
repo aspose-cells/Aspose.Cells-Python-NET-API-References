@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  calculated_value fastighet
 
-Hämtar eller ställer in det beräknade värdet för denna funktion.
+Hämtar eller ställer in det beräknade värdet för den här funktionen.
 
 ###  Anmärkningar
 
 Användaren bör ställa in den här egenskapen i sin anpassade beräkningsmotor för de funktioner som motorn stöder,
-och det inställda värdet kommer att returneras när du får den här egenskapen senare.
+och det inställda värdet returneras när den här egenskapen hämtas senare.
 Det inställda värdet kan vara av möjliga typer av [`Cell.value`](/cells/python-net/sv/aspose.cells/cell#value),
-eller en uppsättning av sådana värden, eller ett intervall, namn, refererat område.
-Om du får den här egenskapen innan du ställer in värdet på den kommer funktionen att beräknas
-av standardberäkningsmotorn Aspose.Cells och sedan kommer det beräknade värdet
-returneras (i allmänhet ska det vara #NAME? för användardefinierade funktioner).
+eller en array av sådana värden, eller ett intervall, namn, refererat område.
+Om man hämtar den här egenskapen innan man anger ett värde för den beräknas funktionen.
+av standardberäkningsmotorn Aspose.Cells och sedan kommer det beräknade värdet att
+returneras (generellt sett bör det vara #NAMN? för användardefinierade funktioner).
 ###  Definition:
 ```python
 @property

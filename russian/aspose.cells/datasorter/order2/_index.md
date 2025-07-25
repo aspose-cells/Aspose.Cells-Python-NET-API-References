@@ -1,9 +1,9 @@
 ---
 title: order2 недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ru/aspose.cells/datasorter/order2/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def order2(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataSorter](/cells/python-net/ru/aspose.cells/datasorter)
-* класс [SortOrder](/cells/python-net/ru/aspose.cells/sortorder)
+* модуль [`aspose.cells`](../../)
+* класс [`DataSorter`](/cells/python-net/ru/aspose.cells/datasorter)
+* класс [`SortOrder`](/cells/python-net/ru/aspose.cells/sortorder)

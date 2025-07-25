@@ -1,15 +1,23 @@
 ---
-title: default_width الملكية
+title: default_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.charts/plotarea/default_width/
 is_root: false
 ---
-##  default_width الملكية
+##  default_width عقار
 
-يمثل عرض الموضع الافتراضي
+يمثل عرض الموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.
+
+###  ملاحظات
+
+ ملحوظة: هذا العضو أصبح الآن قديمًا.
+يرجى استخدام الخاصية ChartFrame.DefaultWidthRatioToChart بدلاً من ذلك.
+العرض الافتراضي = (int)(نسبة العرض الافتراضي إلى المخطط * 4000)؛
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ فبراير 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +26,5 @@ def default_width(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [PlotArea](/cells/python-net/ar/aspose.cells.charts/plotarea)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`PlotArea`](/cells/python-net/ar/aspose.cells.charts/plotarea)

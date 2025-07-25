@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top fastighet
 
-Får eller ställer in top offset för sträckbild.
+Hämtar eller ställer in offseten top för att sträcka bilden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def top(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [PicFormatOption](/cells/python-net/sv/aspose.cells.drawing/picformatoption)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`PicFormatOption`](/cells/python-net/sv/aspose.cells.drawing/picformatoption)

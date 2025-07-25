@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  soft_edge_radius mülk
 
-Kenarlara uygulanacak bulanıklık yarıçapını nokta birimi cinsinden alır ve ayarlar.
+Kenarlara uygulanacak bulanıklık yarıçapını nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def soft_edge_radius(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

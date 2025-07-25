@@ -1,5 +1,5 @@
 ---
-title: cell_name الملكية
+title: cell_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/cellwatch/cell_name/
 is_root: false
 ---
-##  cell_name الملكية
+##  cell_name عقار
 
-الحصول على اسم الخلية وتعيينه.
+يحصل على اسم الخلية ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellWatch](/cells/python-net/ar/aspose.cells/cellwatch)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellWatch`](/cells/python-net/ar/aspose.cells/cellwatch)

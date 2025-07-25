@@ -3,12 +3,12 @@ title: BackgroundType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1850
+weight: 1750
 url: /ar/aspose.cells/backgroundtype/
 is_root: false
 ---
 ##  BackgroundType التعداد
-تعداد أنواع أنماط خلفية الخلية.
+يقوم بإحصاء أنواع أنماط خلفية الخلية.
 
 
 
@@ -17,25 +17,25 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| DIAGONAL_CROSSHATCH | يمثل نمط التظليل المتقاطع القطري.|
-| DIAGONAL_STRIPE | يمثل نمط شريط قطري.|
-| GRAY6 | يمثل 6.25% نمط رمادي|
-| GRAY12 | يمثل 12.5% نمط رمادي|
-| GRAY25 | يمثل 25% نمط رمادي.|
-| GRAY50 | يمثل 50% نمط رمادي.|
-| GRAY75 | يمثل 75% نمط رمادي.|
-| HORIZONTAL_STRIPE | يمثل نمط شريط أفقي.|
-| NONE |لا يمثل أي خلفية.|
-| REVERSE_DIAGONAL_STRIPE | يمثل نمط شريط قطري عكسي.|
-| SOLID | يمثل نمطًا ثابتًا.|
-| THICK_DIAGONAL_CROSSHATCH | يمثل نمط التظليل المتقاطع السميك.|
-| THIN_DIAGONAL_CROSSHATCH | يمثل نمط التظليل المتقاطع الرفيع.|
+| DIAGONAL_CROSSHATCH | يمثل نمط التقاطع القطري.|
+| DIAGONAL_STRIPE | يمثل نمط الشريط القطري.|
+| GRAY6 | يمثل نمطًا رماديًا بنسبة 6.25%|
+| GRAY12 | يمثل نمطًا رماديًا بنسبة 12.5%|
+| GRAY25 | يمثل نمطًا رماديًا بنسبة 25%.|
+| GRAY50 | يمثل نمطًا رماديًا بنسبة 50%.|
+| GRAY75 | يمثل نمطًا رماديًا بنسبة 75%.|
+| HORIZONTAL_STRIPE | يمثل نمط الشريط الأفقي.|
+| NONE | لا يمثل أي خلفية.|
+| REVERSE_DIAGONAL_STRIPE | يمثل نمط الشريط القطري العكسي.|
+| SOLID |يمثل نمطًا صلبًا.|
+| THICK_DIAGONAL_CROSSHATCH | يمثل نمطًا متقاطعًا قطريًا سميكًا.|
+| THIN_DIAGONAL_CROSSHATCH | يمثل نمطًا متقاطعًا قطريًا رفيعًا.|
 | THIN_DIAGONAL_STRIPE | يمثل نمط شريط قطري رفيع.|
-| THIN_HORIZONTAL_CROSSHATCH | يمثل نمط التظليل الأفقي الرفيع.|
+| THIN_HORIZONTAL_CROSSHATCH | يمثل نمطًا متقاطعًا أفقيًا رفيعًا.|
 | THIN_HORIZONTAL_STRIPE | يمثل نمط شريط أفقي رفيع.|
-| THIN_REVERSE_DIAGONAL_STRIPE | يمثل نمط شريط قطري عكسي رفيع.|
+| THIN_REVERSE_DIAGONAL_STRIPE | يمثل نمط شريط قطري معكوس رفيع.|
 | THIN_VERTICAL_STRIPE | يمثل نمط شريط عمودي رفيع.|
-| VERTICAL_STRIPE | يمثل نمط شريط عمودي.|
+| VERTICAL_STRIPE | يمثل نمط الشريط العمودي.|
 
 
 

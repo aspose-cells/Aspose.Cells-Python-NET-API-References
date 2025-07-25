@@ -1,13 +1,13 @@
 ---
-title: left_border 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: left_border属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 220
 url: /zh/aspose.cells/styleflag/left_border/
 is_root: false
 ---
-## left_border 属性
+## left_border属性
 
 将应用左边框设置。
 ### 定义：
@@ -21,5 +21,5 @@ def left_border(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [StyleFlag](/cells/python-net/zh/aspose.cells/styleflag)
+* 模块[`aspose.cells`](../../)
+* 类 [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag)

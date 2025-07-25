@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_markers propiedad
 
-Indica si resaltar cada punto en cada minigráfico de línea en el grupo de minigráficos.
+Indica si se debe resaltar cada punto en cada minigráfico de línea del grupo de minigráficos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_markers(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

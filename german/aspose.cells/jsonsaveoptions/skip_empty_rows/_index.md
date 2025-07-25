@@ -3,7 +3,7 @@ title: skip_empty_rows Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 220
 url: /de/aspose.cells/jsonsaveoptions/skip_empty_rows/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def skip_empty_rows(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [JsonSaveOptions](/cells/python-net/de/aspose.cells/jsonsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`JsonSaveOptions`](/cells/python-net/de/aspose.cells/jsonsaveoptions)

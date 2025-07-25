@@ -1,6 +1,6 @@
 ---
 title: is_filtered недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 280
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_filtered недвижимость
 
-Указывает, выбрана ли серия или отфильтрована. Значение True означает, что эта серия отфильтрована и не будет отображаться на диаграмме.
+Указывает, выбрана или отфильтрована серия. True означает, что эта серия отфильтрована и не будет отображаться на диаграмме.
 ###  Определение:
 ```python
 @property

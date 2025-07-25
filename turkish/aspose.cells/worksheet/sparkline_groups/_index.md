@@ -3,13 +3,13 @@ title: sparkline_groups mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 800
+weight: 820
 url: /tr/aspose.cells/worksheet/sparkline_groups/
 is_root: false
 ---
 ##  sparkline_groups mülk
 
-Çalışma sayfasındaki mini grafik gruplarını alır.
+Çalışma sayfasındaki kıvılcım gruplarını alır.
 ###  Tanım:
 ```python
 @property

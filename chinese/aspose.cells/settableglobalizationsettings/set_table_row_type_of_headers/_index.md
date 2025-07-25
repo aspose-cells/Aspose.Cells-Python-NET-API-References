@@ -7,12 +7,13 @@ weight: 430
 url: /zh/aspose.cells/settableglobalizationsettings/set_table_row_type_of_headers/
 is_root: false
 ---
-##  set_table_row_type_of_headers {#str}
+##  set_table_row_type_of_headers(self, name) {#str}
 设置由表头组成的表行的类型名称。
 
 
 
 ```python
+
 def set_table_row_type_of_headers(self, name):
     ...
 ```

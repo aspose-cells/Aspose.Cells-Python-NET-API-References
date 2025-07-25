@@ -1,29 +1,29 @@
 ---
-title: PresetThemeGradientType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione PresetThemeGradientType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1090
+weight: 1080
 url: /it/aspose.cells.drawing/presetthemegradienttype/
 is_root: false
 ---
-##  PresetThemeGradientType enumerazione
+##  Enumerazione PresetThemeGradientType
 Rappresenta il tipo di sfumatura del tema preimpostato.
 
 
 
-Il tipo PresetThemeGradientType espone i membri seguenti:
+Il tipo PresetThemeGradientType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
-| LIGHT_GRADIENT | Gradiente leggero|
-| TOP_SPOTLIGHT | In primo piano|
+| LIGHT_GRADIENT | Gradiente di luce|
+| TOP_SPOTLIGHT | Riflettori in alto|
 | MEDIUM_GRADIENT | Pendenza media|
-| BOTTOM_SPOTLIGHT | Riflettore inferiore|
+| BOTTOM_SPOTLIGHT | Faretto inferiore|
 | RADIAL_GRADIENT | Gradiente radiale|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

@@ -18,6 +18,6 @@ def gradient_color_type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
-* sınıf [GradientColorType](/cells/python-net/tr/aspose.cells.drawing/gradientcolortype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* sınıf [`GradientColorType`](/cells/python-net/tr/aspose.cells.drawing/gradientcolortype)

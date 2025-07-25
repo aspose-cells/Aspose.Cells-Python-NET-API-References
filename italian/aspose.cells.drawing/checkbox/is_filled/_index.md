@@ -1,9 +1,9 @@
 ---
 title: is_filled proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 560
+weight: 570
 url: /it/aspose.cells.drawing/checkbox/is_filled/
 is_root: false
 ---

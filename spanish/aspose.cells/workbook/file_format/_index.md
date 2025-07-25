@@ -3,13 +3,13 @@ title: file_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 560
+weight: 590
 url: /es/aspose.cells/workbook/file_format/
 is_root: false
 ---
 ##  file_format propiedad
 
-Obtiene y establece el formato del archivo.
+Obtiene y establece el formato de archivo.
 ###  Definición:
 ```python
 @property

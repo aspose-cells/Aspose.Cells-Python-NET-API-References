@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ProtectedRange](/cells/python-net/tr/aspose.cells/protectedrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`ProtectedRange`](/cells/python-net/tr/aspose.cells/protectedrange)

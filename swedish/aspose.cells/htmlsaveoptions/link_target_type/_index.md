@@ -3,13 +3,13 @@ title: link_target_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 620
 url: /sv/aspose.cells/htmlsaveoptions/link_target_type/
 is_root: false
 ---
 ##  link_target_type fastighet
 
-Indikerar typen av målattribut i länken `<a>`. Standardvärdet är HtmlLinkTargetType.Parent.
+Anger typen av målattribut i länken `<a>`. Standardvärdet är HtmlLinkTargetType.Parent.
 ###  Definition:
 ```python
 @property

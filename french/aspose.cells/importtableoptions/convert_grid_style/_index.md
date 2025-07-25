@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_grid_style propriété
 
-Indique si le style de la vue grille est appliqué aux cellules.
+Indique si le style de la vue en grille doit être appliqué aux cellules.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_grid_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

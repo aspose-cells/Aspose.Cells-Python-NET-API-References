@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data/
 is_root: false
 ---
 ##  data fastighet
-
-Hämtar och ställer in kontrollens binära data.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [SpinButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`SpinButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

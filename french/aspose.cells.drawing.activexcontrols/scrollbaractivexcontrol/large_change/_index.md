@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  large_change propriété
 
-Obtient et définit la quantité de modification de la propriété Position
+Obtient et définit le montant par lequel la propriété Position change
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def large_change(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ScrollBarActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ScrollBarActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

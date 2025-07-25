@@ -1,17 +1,17 @@
 ---
-title: metodo create_safe_sheet_name
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo create_safe_sheet_name
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
 url: /it/aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
-##  create_safe_sheet_name(name_proposal) {#str}
+##  create_safe_sheet_name(, nome_proposta){#str}
 Controlla il nome del foglio specificato e ne crea uno valido quando necessario.
-Se il nome del foglio specificato è conforme alle regole del nome del foglio Excel, restituiscilo.
+Se il nome del foglio specificato è conforme alle regole del nome del foglio Excel, allora restituiscilo.
 Altrimenti la stringa verrà troncata se la lunghezza supera il limite
-e i caratteri non validi verranno sostituiti con ' ', quindi restituiranno il valore della stringa ricostruita.
+e i caratteri non validi verranno sostituiti con ' ', quindi verrà restituito il valore stringa ricostruito.
 
 
 ###  ritorna
@@ -20,7 +20,9 @@ e i caratteri non validi verranno sostituiti con ' ', quindi restituiranno il va
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal):
     ...
 ```
 
@@ -30,11 +32,11 @@ def create_safe_sheet_name(self, name_proposal):
 | name_proposal | str | nome del foglio da utilizzare|
 
 
-##  create_safe_sheet_name(name_proposal, replace_char) {#str-char}
+##  create_safe_sheet_name(, proposta_nome, sostituisci_carattere){#str-char}
 Controlla il nome del foglio specificato e ne crea uno valido quando necessario.
-Se il nome del foglio specificato è conforme alle regole del nome del foglio Excel, restituiscilo.
+Se il nome del foglio specificato è conforme alle regole del nome del foglio Excel, allora restituiscilo.
 Altrimenti la stringa verrà troncata se la lunghezza supera il limite
-i caratteri non validi verranno sostituiti con il carattere specificato, quindi restituiranno il valore della stringa ricostruita.
+e i caratteri non validi verranno sostituiti con il carattere specificato, quindi verrà restituito il valore stringa ricostruito.
 
 
 ###  ritorna
@@ -43,7 +45,9 @@ i caratteri non validi verranno sostituiti con il carattere specificato, quindi 
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal, replace_char):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal, replace_char):
     ...
 ```
 
@@ -56,5 +60,5 @@ def create_safe_sheet_name(self, name_proposal, replace_char):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/it/aspose.cells/cellshelper)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/it/aspose.cells/cellshelper)

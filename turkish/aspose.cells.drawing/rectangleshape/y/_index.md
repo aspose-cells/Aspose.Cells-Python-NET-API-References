@@ -3,13 +3,13 @@ title: y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /tr/aspose.cells.drawing/rectangleshape/y/
 is_root: false
 ---
 ##  y mülk
 
-Çalışma sayfasının üst kenarlığından şeklin dikey uzaklığını piksel biriminde alır ve ayarlar.
+Şeklin çalışma sayfasının üst sınırından dikey uzaklığını piksel cinsinden alır ve ayarlar.
 
 ###  Örnek
 

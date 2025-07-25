@@ -3,13 +3,13 @@ title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 950
+weight: 960
 url: /ar/aspose.cells.drawing/oleobject/name/
 is_root: false
 ---
 ##  name عقار
 
-الحصول على الرقم name للشكل وتعيينه.
+يحصل على name من الشكل ويقوم بتعيينه.
 
 ###  مثال
 

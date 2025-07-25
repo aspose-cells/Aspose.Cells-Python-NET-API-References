@@ -1,16 +1,13 @@
 ---
-title: reconnection_method_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: reconnection_method_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 240
 url: /zh/aspose.cells.externalconnections/dbconnection/reconnection_method_type/
 is_root: false
 ---
-## reconnection_method_type 属性
-
-指定当连接失败时电子表格应用程序应该做什么。
-默认值为 ReConnectionMethodType.Required。
+## reconnection_method_type属性
 ### 定义：
 ```python
 @property
@@ -22,6 +19,6 @@ def reconnection_method_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [DBConnection](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)
-* 类 [ReConnectionMethodType](/cells/python-net/zh/aspose.cells.externalconnections/reconnectionmethodtype)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`DBConnection`](/cells/python-net/zh/aspose.cells.externalconnections/dbconnection)
+* 类 [`ReConnectionMethodType`](/cells/python-net/zh/aspose.cells.externalconnections/reconnectionmethodtype)

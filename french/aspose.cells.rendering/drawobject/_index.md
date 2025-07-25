@@ -3,7 +3,7 @@ title: DrawObject classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 10
+weight: 20
 url: /fr/aspose.cells.rendering/drawobject/
 is_root: false
 ---
@@ -17,15 +17,15 @@ Le type DrawObject expose les membres suivants :
 ###  Propriétés
 | Propriété| Description|
 | :- | :- |
-| [cell](/cells/python-net/fr/aspose.cells.rendering/drawobject/cell) |Indique l'objet Cell lors du rendu.<br/> Toutes les propriétés de la cellule sont accessibles.|
-| [shape](/cells/python-net/fr/aspose.cells.rendering/drawobject/shape) | Indique l'objet Shape lors du rendu.<br/> Toutes les propriétés de la forme sont accessibles.|
+| [cell](/cells/python-net/fr/aspose.cells.rendering/drawobject/cell) | Indique l'objet Cell lors du rendu.<br/> Toutes les propriétés de la cellule sont accessibles.|
+| [shape](/cells/python-net/fr/aspose.cells.rendering/drawobject/shape) | Indique l'objet Shape lors du rendu.<br/> Toutes les propriétés de forme sont accessibles.|
 | [image_bytes](/cells/python-net/fr/aspose.cells.rendering/drawobject/image_bytes) | Indique les octets d'image du graphique rendu, de la forme lors du rendu.|
 | [type](/cells/python-net/fr/aspose.cells.rendering/drawobject/type) | Indique le type de DrawObject.|
-| [current_page](/cells/python-net/fr/aspose.cells.rendering/drawobject/current_page) | Indique l'index de page de DrawObject.<br/>L'index de page est basé sur zéro.<br/> Une feuille contient plusieurs pages lors du rendu.|
+| [current_page](/cells/python-net/fr/aspose.cells.rendering/drawobject/current_page) | Indique l'index de page de DrawObject.<br/>L'index des pages est basé sur zéro.<br/> Une feuille contient plusieurs pages lors du rendu.|
 | [total_pages](/cells/python-net/fr/aspose.cells.rendering/drawobject/total_pages) | Indique le nombre total de pages dans le rendu actuel.|
 | [sheet_index](/cells/python-net/fr/aspose.cells.rendering/drawobject/sheet_index) | Indique l'index de feuille actuel de DrawObject.|
 
 
 
 ###  Voir également
-* module [aspose.cells.rendering](..)
+* module [`aspose.cells.rendering`](..)

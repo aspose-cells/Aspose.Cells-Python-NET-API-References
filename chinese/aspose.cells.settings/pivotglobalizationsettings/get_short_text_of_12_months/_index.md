@@ -7,16 +7,17 @@ weight: 20
 url: /zh/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-获取 12 个月的所有短格式字符串。
+##  get_short_text_of_12_months(self) {#}
+获取所有 12 个月的短格式字符串。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

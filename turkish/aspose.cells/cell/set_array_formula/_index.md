@@ -3,16 +3,17 @@ title: set_array_formula yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 320
 url: /tr/aspose.cells/cell/set_array_formula/
 is_root: false
 ---
-##  set_array_formula {#str-int-int}
-Bir dizi formülünü (ms excel'de CTRL+SHIFT+ENTER yoluyla girilen eski dizi formülü) bir hücre aralığına ayarlar.
+##  set_array_formula(self, array_formula, row_number, column_number) {#str-int-int}
+Bir dizi formülünü (MS Excel'de CTRL+SHIFT+ENTER ile girilen eski dizi formülü) bir hücre aralığına ayarlar.
 
 
 
 ```python
+
 def set_array_formula(self, array_formula, row_number, column_number):
     ...
 ```
@@ -21,16 +22,17 @@ def set_array_formula(self, array_formula, row_number, column_number):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | array_formula | str | Dizi formülü.|
-| row_number | int | Dizi formülünün sonucunun doldurulacağı satır sayısı.|
-| column_number | int | Dizi formülünün sonucunun doldurulacağı sütun sayısı.|
+| row_number | int | Dizi formülünün sonucunu dolduracak satır sayısı.|
+| column_number | int | Dizi formülünün sonucunu dolduracak sütun sayısı.|
 
 
-##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions}
+##  set_array_formula(self, array_formula, row_number, column_number, options) {#str-int-int-aspose.cells.FormulaParseOptions}
 Bir dizi formülünü bir hücre aralığına ayarlar.
 
 
 
 ```python
+
 def set_array_formula(self, array_formula, row_number, column_number, options):
     ...
 ```
@@ -39,17 +41,18 @@ def set_array_formula(self, array_formula, row_number, column_number, options):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | array_formula | str | Dizi formülü.|
-| row_number | int | Dizi formülünün sonucunun doldurulacağı satır sayısı.|
-| column_number | int | Dizi formülünün sonucunun doldurulacağı sütun sayısı.|
-| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırmaya yönelik seçenekler.|
+| row_number | int | Dizi formülünün sonucunu dolduracak satır sayısı.|
+| column_number | int | Dizi formülünün sonucunu dolduracak sütun sayısı.|
+| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırma seçenekleri.|
 
 
-##  set_array_formula {#str-int-int-bool-bool}
+##  set_array_formula(self, array_formula, row_number, column_number, is_r1c1, is_local) {#str-int-int-bool-bool}
 Bir dizi formülünü bir hücre aralığına ayarlar.
 
 
 
 ```python
+
 def set_array_formula(self, array_formula, row_number, column_number, is_r1c1, is_local):
     ...
 ```
@@ -58,23 +61,24 @@ def set_array_formula(self, array_formula, row_number, column_number, is_r1c1, i
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | array_formula | str | Dizi formülü.|
-| row_number | int | Dizi formülünün sonucunun doldurulacağı satır sayısı.|
-| column_number | int | Dizi formülünün sonucunun doldurulacağı sütun sayısı.|
+| row_number | int | Dizi formülünün sonucunu dolduracak satır sayısı.|
+| column_number | int | Dizi formülünün sonucunu dolduracak sütun sayısı.|
 | is_r1c1 | bool | formülün R1C1 formülü olup olmadığı|
-| is_local | bool | formülün yerel ayarda biçimlendirilip biçimlendirilmediği|
+| is_local | bool | formülün yerel olarak biçimlendirilmiş olup olmadığı|
 ###  Notlar
 
-NOT: Bu sınıf artık kullanılmıyor. Yerine,
-lütfen Cell.SetArrayFormula(string,int,int,FormulaParseOptions) komutunu kullanın.
-Bu mülk Aralık 2019'dan 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu sınıf artık kullanımdan kaldırıldı. Bunun yerine,
+Lütfen Cell.SetArrayFormula(string,int,int,FormulaParseOptions) kullanın.
+Bu özellik Aralık 2019'dan itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
-##  set_array_formula {#str-int-int-aspose.cells.FormulaParseOptions-list}
+##  set_array_formula(self, array_formula, row_number, column_number, options, values) {#str-int-int-aspose.cells.FormulaParseOptions-list}
 Bir dizi formülünü bir hücre aralığına ayarlar.
 
 
 
 ```python
+
 def set_array_formula(self, array_formula, row_number, column_number, options, values):
     ...
 ```
@@ -83,10 +87,10 @@ def set_array_formula(self, array_formula, row_number, column_number, options, v
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | array_formula | str | Dizi formülü.|
-| row_number | int | Dizi formülünün sonucunun doldurulacağı satır sayısı.|
-| column_number | int | Dizi formülünün sonucunun doldurulacağı sütun sayısı.|
-| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırmaya yönelik seçenekler.|
-| values | list | verilen dizi formülüne sahip hücreler için değerler|
+| row_number | int | Dizi formülünün sonucunu dolduracak satır sayısı.|
+| column_number | int | Dizi formülünün sonucunu dolduracak sütun sayısı.|
+| options | [`FormulaParseOptions`](/cells/python-net/tr/aspose.cells/formulaparseoptions) | Formülü ayrıştırma seçenekleri.|
+| values | list | verilen dizi formülüne sahip hücrelerin değerleri|
 
 
 

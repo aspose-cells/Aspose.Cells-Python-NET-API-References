@@ -10,7 +10,7 @@ is_root: false
 ##  sheets_in_loading_order propiedad
 
 Especifica las hojas (índices) y el orden en que se cargarán.
-El valor predeterminado es nulo, lo que indica cargar todas las hojas en el orden predeterminado en el archivo de plantilla.
+El valor predeterminado es nulo, lo que indica que se deben cargar todas las hojas en el orden predeterminado en el archivo de plantilla.
 Si no es nulo y el índice de alguna hoja no está en la matriz devuelta, entonces la hoja no se cargará.
 ###  Definición:
 ```python
@@ -20,5 +20,5 @@ def sheets_in_loading_order(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [LoadFilter](/cells/python-net/es/aspose.cells/loadfilter)
+* módulo [`aspose.cells`](../../)
+* clase [`LoadFilter`](/cells/python-net/es/aspose.cells/loadfilter)

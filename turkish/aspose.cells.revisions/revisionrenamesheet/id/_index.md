@@ -8,12 +8,6 @@ url: /tr/aspose.cells.revisions/revisionrenamesheet/id/
 is_root: false
 ---
 ##  id mülk
-
-Bu revizyonun numarasını alır.
-
-###  Notlar
-
-Sıfır, bu revizyonun id'i içermediği anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +16,5 @@ def id(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionRenameSheet](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionRenameSheet`](/cells/python-net/tr/aspose.cells.revisions/revisionrenamesheet)

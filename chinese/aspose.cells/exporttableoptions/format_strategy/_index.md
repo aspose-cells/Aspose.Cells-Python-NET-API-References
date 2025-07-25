@@ -9,7 +9,7 @@ is_root: false
 ---
 ## format_strategy属性
 
-获取和设置将值导出为字符串值时的格式策略。
+获取并设置将值导出为字符串值时的格式策略。
 ### 定义：
 ```python
 @property

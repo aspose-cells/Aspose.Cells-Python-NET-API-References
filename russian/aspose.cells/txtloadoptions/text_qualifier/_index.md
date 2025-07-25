@@ -1,19 +1,19 @@
 ---
 title: text_qualifier недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 400
 url: /ru/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ##  text_qualifier недвижимость
 
-Указывает текстовый квалификатор для значений ячеек. Квалификатор по умолчанию — '"'.
+Задаёт текстовый квалификатор для значений ячеек. Квалификатор по умолчанию — '"'.
 
 ###  Примечания
 
-При установке этого свойства значение [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/ru/aspose.cells/txtloadoptions#has_text_qualifier) автоматически станет истинным.
+При установке этого свойства [`TxtLoadOptions.has_text_qualifier`](/cells/python-net/ru/aspose.cells/txtloadoptions#has_text_qualifier) автоматически станет истинным.
 ###  Определение:
 ```python
 @property

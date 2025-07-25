@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options propriété
 
-Spécifie les contrôles pivot qui apparaissent sur le graphique
+Spécifie les contrôles de pivot qui apparaissent sur le graphique
 ###  Définition:
 ```python
 @property

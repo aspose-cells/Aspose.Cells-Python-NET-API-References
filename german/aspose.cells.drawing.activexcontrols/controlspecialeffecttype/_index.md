@@ -3,12 +3,12 @@ title: ControlSpecialEffectType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 240
 url: /de/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
 ##  ControlSpecialEffectType Aufzählung
-Repräsentiert die Art des Spezialeffekts.
+Stellt den Typ des Spezialeffekts dar.
 
 
 
@@ -26,4 +26,4 @@ Der Typ ControlSpecialEffectType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](..)
+* Modul [`aspose.cells.drawing.activexcontrols`](..)

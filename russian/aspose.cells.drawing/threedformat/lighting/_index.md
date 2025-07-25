@@ -1,6 +1,6 @@
 ---
 title: lighting недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting недвижимость
 
-Получает и устанавливает тип световой установки.
+Получает и задает тип осветительного оборудования.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LightRigType](/cells/python-net/ru/aspose.cells.drawing/lightrigtype)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LightRigType`](/cells/python-net/ru/aspose.cells.drawing/lightrigtype)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

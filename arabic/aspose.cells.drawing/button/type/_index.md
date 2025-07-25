@@ -3,7 +3,7 @@ title: type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /ar/aspose.cells.drawing/button/type/
 is_root: false
 ---

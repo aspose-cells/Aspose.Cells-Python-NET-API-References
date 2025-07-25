@@ -1,6 +1,6 @@
 ---
 title: size_with_window недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 600
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window недвижимость
 
-Истинно, если Microsoft Excel изменяет размер диаграммы в соответствии с размером окна листа диаграммы.
+Истина, если Microsoft Excel изменяет размер диаграммы в соответствии с размером окна листа диаграммы.
 ###  Определение:
 ```python
 @property

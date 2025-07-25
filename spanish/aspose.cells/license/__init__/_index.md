@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/license/__init__/
 is_root: false
 ---
-##  License() {#}
+##  \_\_init\_\_(yo mismo){#}
 Inicializa una nueva instancia de esta clase.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -25,8 +26,8 @@ En este ejemplo, se intentará encontrar un archivo de licencia llamado MyLicens
  en la carpeta que contiene
 
 
-el componente, en la carpeta que contiene el ensamblaje de llamada,
-en la carpeta del ensamblado de entrada y luego en los recursos incrustados del ensamblado que llama.
+el componente, en la carpeta que contiene el ensamblado que lo llama,
+en la carpeta del ensamblaje de entrada y luego en los recursos integrados del ensamblaje que llama.
 
 ```python
 from aspose.cells import License
@@ -39,5 +40,5 @@ license.set_license("MyLicense.lic")
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [License](/cells/python-net/es/aspose.cells/license)
+* módulo [`aspose.cells`](../../)
+* clase [`License`](/cells/python-net/es/aspose.cells/license)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment_shape fastighet
 
-Skaffa ett Shape-objekt som representerar formen som är kopplad till den angivna kommentaren.
+Hämta ett Shape-objekt som representerar den form som är kopplad till den angivna kommentaren.
 
 ###  Exempel
 

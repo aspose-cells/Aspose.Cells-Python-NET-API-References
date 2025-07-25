@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/height/
 is_root: false
 ---
 ##  height mülk
-
-Kontrolün height'ini puan birimi cinsinden alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

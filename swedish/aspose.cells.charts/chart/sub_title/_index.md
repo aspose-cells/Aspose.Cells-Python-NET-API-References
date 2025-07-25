@@ -10,7 +10,7 @@ is_root: false
 ##  sub_title fastighet
 
 Hämtar diagrammets underrubrik.
-Endast för ODS filformat.
+Endast för filer i formatet ODS.
 ###  Definition:
 ```python
 @property

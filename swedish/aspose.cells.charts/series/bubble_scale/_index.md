@@ -10,7 +10,7 @@ is_root: false
 ##  bubble_scale fastighet
 
  Hämtar eller ställer in skalfaktorn för bubblor i den angivna diagramgruppen.
- Det kan vara ett heltalsvärde från 0 (noll) till 300,
+ Det kan vara ett heltal från 0 (noll) till 300,
 motsvarande en procentandel av standardstorleken.
 Gäller endast bubbeldiagram.
 ###  Definition:

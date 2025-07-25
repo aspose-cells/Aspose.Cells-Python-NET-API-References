@@ -3,16 +3,17 @@ title: insert_range方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 700
+weight: 720
 url: /zh/aspose.cells/cells/insert_range/
 is_root: false
 ---
-##  insert_range {#aspose.cells.CellArea-aspose.cells.ShiftType}
-插入一系列单元格并根据移位选项移动单元格。
+##  insert_range(self, area, shift_type) {#aspose.cells.CellArea-aspose.cells.ShiftType}
+插入单元格区域并根据移位选项移动单元格。
 
 
 
 ```python
+
 def insert_range(self, area, shift_type):
     ...
 ```
@@ -24,12 +25,13 @@ def insert_range(self, area, shift_type):
 | shift_type | [`ShiftType`](/cells/python-net/zh/aspose.cells/shifttype) |移动单元格选项。|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
-插入一系列单元格并根据移位选项移动单元格。
+##  insert_range(self, area, shift_number, shift_type) {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
+插入单元格区域并根据移位选项移动单元格。
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type):
     ...
 ```
@@ -42,12 +44,13 @@ def insert_range(self, area, shift_number, shift_type):
 | shift_type | [`ShiftType`](/cells/python-net/zh/aspose.cells/shifttype) |移动单元格选项。|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
-插入一系列单元格并根据移位选项移动单元格。
+##  insert_range(self, area, shift_number, shift_type, update_reference) {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
+插入单元格区域并根据移位选项移动单元格。
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type, update_reference):
     ...
 ```

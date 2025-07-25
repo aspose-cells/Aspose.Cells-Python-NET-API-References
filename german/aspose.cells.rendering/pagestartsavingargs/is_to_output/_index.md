@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_to_output Eigentum
 
- Ruft einen Wert ab, der angibt, ob die Seite ausgegeben werden soll, oder legt diesen fest.
-Der Standardwert ist wahr.
+ Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Seite ausgegeben werden soll.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PageStartSavingArgs](/cells/python-net/de/aspose.cells.rendering/pagestartsavingargs)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PageStartSavingArgs`](/cells/python-net/de/aspose.cells.rendering/pagestartsavingargs)

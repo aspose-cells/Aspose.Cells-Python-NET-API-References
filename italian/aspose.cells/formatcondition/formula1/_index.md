@@ -1,6 +1,6 @@
 ---
 title: formula1 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  formula1 proprietà
 
-Ottiene e imposta il valore o l'espressione associati alla formattazione condizionale.
+Ottiene e imposta il valore o l'espressione associata alla formattazione condizionale.
 
 ###  Osservazioni
 
-Si prega di aggiungere tutte le aree prima di impostare la formula.
-Per impostare la formula per questa condizione, se il valore di input inizia con '=', verrà preso come formula.
-Altrimenti verrà preso come semplice valore (testo, numero, bool). Per il valore di testo che inizia con '=', l'utente può inserirlo come formula nel formato: "=\"=...\"".
+Aggiungere tutte le aree prima di impostare la formula.
+Per impostare la formula per questa condizione, se il valore di input inizia con '=', verrà interpretato come formula.
+Altrimenti verrà interpretato come un valore semplice (testo, numero, booleano). Per i valori di testo che iniziano con '=', l'utente può inserirli come formula nel formato: "=\"=...".
 ###  Definizione:
 ```python
 @property
@@ -27,5 +27,5 @@ def formula1(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
+* modulo [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)

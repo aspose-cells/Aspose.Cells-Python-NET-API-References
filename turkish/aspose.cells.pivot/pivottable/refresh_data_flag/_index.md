@@ -3,13 +3,19 @@ title: refresh_data_flag mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 810
+weight: 900
 url: /tr/aspose.cells.pivot/pivottable/refresh_data_flag/
 is_root: false
 ---
 ##  refresh_data_flag mülk
 
-Verilerin Yenilenip Yenilenmediğini belirtir.
+Verilerin yenilenip yenilenmeyeceğini belirtir.
+
+###  Notlar
+
+ NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+ Bu yöntem 12 ay sonra, Aralık 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

@@ -3,7 +3,7 @@ title: worksheet propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /es/aspose.cells.drawing/customxmlshape/worksheet/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: standard_height_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1250
+weight: 1280
 url: /ar/aspose.cells/cells/standard_height_inch/
 is_root: false
 ---
 ##  standard_height_inch عقار
 
-الحصول على ارتفاع الصف الافتراضي في ورقة العمل هذه أو تعيينه بوحدة البوصة.
+يحصل على أو يعين ارتفاع الصف الافتراضي في ورقة العمل هذه، بوحدة البوصات.
 ###  تعريف:
 ```python
 @property

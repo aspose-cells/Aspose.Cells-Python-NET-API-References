@@ -1,15 +1,15 @@
 ---
-title: show_table_style_column_stripes الملكية
+title: show_table_style_column_stripes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells.tables/listobject/show_table_style_column_stripes/
 is_root: false
 ---
-##  show_table_style_column_stripes الملكية
+##  show_table_style_column_stripes عقار
 
-يشير إلى ما إذا كان تنسيق شريط العمود مطبقًا أم لا.
+يشير إلى ما إذا كان يتم تطبيق تنسيق شريط العمود.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_table_style_column_stripes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

@@ -3,12 +3,12 @@ title: FontSchemeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2140
+weight: 2080
 url: /sv/aspose.cells/fontschemetype/
 is_root: false
 ---
 ##  FontSchemeType uppräkning
-Representerar schematypen för teckensnittet.
+Representerar teckensnittets schematyp.
 
 
 
@@ -18,8 +18,8 @@ Typen FontSchemeType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | NONE | Ingen|
-| MAJOR | Stort upplägg.|
-| MINOR | Mindre upplägg.|
+| MAJOR | Stort system.|
+| MINOR | Mindre schema.|
 
 
 

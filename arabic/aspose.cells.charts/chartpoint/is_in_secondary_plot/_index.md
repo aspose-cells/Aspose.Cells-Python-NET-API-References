@@ -1,16 +1,16 @@
 ---
-title: is_in_secondary_plot الملكية
+title: is_in_secondary_plot عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells.charts/chartpoint/is_in_secondary_plot/
 is_root: false
 ---
-##  is_in_secondary_plot الملكية
+##  is_in_secondary_plot عقار
 
-الحصول على قيمة أو تعيينها يشير إلى ما إذا كانت نقاط البيانات هذه موجودة في الدائرة أو الشريط الثاني
-على مخطط دائري أو شريط دائري
+يحصل على قيمة أو يعينها للإشارة إلى ما إذا كانت نقاط البيانات هذه موجودة في الفطيرة الثانية أو الشريط الثاني
+على مخطط دائري أو شريطي دائري
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_in_secondary_plot(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

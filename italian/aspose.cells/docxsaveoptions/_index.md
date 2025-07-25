@@ -1,20 +1,18 @@
 ---
 title: DocxSaveOptions classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 510
+weight: 490
 url: /it/aspose.cells/docxsaveoptions/
 is_root: false
 ---
 ##  DocxSaveOptions classe
-Rappresenta le opzioni di salvataggio del file .docx.
+Rappresenta le opzioni per salvare il file .docx.
 
 
 
-**Eredità:** [`DocxSaveOptions`](/cells/python-net/aspose.cells/docxsaveoptions) → 
-[`PaginatedSaveOptions`](/cells/python-net/aspose.cells/paginatedsaveoptions) → 
-[`SaveOptions`](/cells/python-net/it/aspose.cells/saveoptions)
+**Eredità:** [`DocxSaveOptions`](/cells/python-net/it/aspose.cells/docxsaveoptions)
 
 
 
@@ -23,47 +21,51 @@ Il tipo DocxSaveOptions espone i seguenti membri:
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [__init__](/cells/python-net/it/aspose.cells/docxsaveoptions/__init__/#) | Rappresenta le opzioni di salvataggio del file .docx.|
-| [__init__](/cells/python-net/it/aspose.cells/docxsaveoptions/__init__/#bool) | Rappresenta le opzioni di salvataggio del file .docx.|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells/docxsaveoptions/__init__/#) | Rappresenta le opzioni per salvare il file .docx.|
+| [`__init__(self, save_as_image)`](/cells/python-net/it/aspose.cells/docxsaveoptions/__init__/#bool) | Rappresenta le opzioni per salvare il file .docx.|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [save_format](/cells/python-net/it/aspose.cells/docxsaveoptions/save_format) | Ottiene il formato del file di salvataggio.|
-| [clear_data](/cells/python-net/it/aspose.cells/docxsaveoptions/clear_data) | Rendi vuota la cartella di lavoro dopo aver salvato il file.|
-| [cached_file_folder](/cells/python-net/it/aspose.cells/docxsaveoptions/cached_file_folder) | La cartella dei file memorizzati nella cache viene utilizzata per archiviare alcuni dati di grandi dimensioni.|
-| [validate_merged_areas](/cells/python-net/it/aspose.cells/docxsaveoptions/validate_merged_areas) | Indica se convalidare le celle unite prima di salvare il file.|
-| [merge_areas](/cells/python-net/it/aspose.cells/docxsaveoptions/merge_areas) | Indica se unire le aree di formattazione condizionale e di validazione prima di salvare il file.|
-| [create_directory](/cells/python-net/it/aspose.cells/docxsaveoptions/create_directory) | Se vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.|
-| [sort_names](/cells/python-net/it/aspose.cells/docxsaveoptions/sort_names) | Indica se ordinare i nomi definiti prima di salvare il file.|
-| [sort_external_names](/cells/python-net/it/aspose.cells/docxsaveoptions/sort_external_names) | Indica se ordinare i nomi definiti esterni prima di salvare il file.|
-| [refresh_chart_cache](/cells/python-net/it/aspose.cells/docxsaveoptions/refresh_chart_cache) | Indica se aggiornare i dati della cache del grafico|
-| [warning_callback](/cells/python-net/it/aspose.cells/docxsaveoptions/warning_callback) | Ottiene o imposta la richiamata di avviso.|
-| [update_smart_art](/cells/python-net/it/aspose.cells/docxsaveoptions/update_smart_art) | Indica se aggiornare l'impostazione della grafica intelligente.<br/> Il valore predefinito è falso.|
-| [default_font](/cells/python-net/it/aspose.cells/docxsaveoptions/default_font) | Quando i caratteri in Excel sono Unicode e non sono impostati con il carattere corretto nello stile cella,<br/>Possono apparire come blocchi in pdf,immagine.<br/>Imposta il DefaultFont come MingLiu o MS Gothic per mostrare questi caratteri.<br/> Se questa proprietà non è impostata, Aspose.Cells utilizzerà il carattere predefinito del sistema per mostrare questi caratteri Unicode.|
-| [check_workbook_default_font](/cells/python-net/it/aspose.cells/docxsaveoptions/check_workbook_default_font) | Quando i caratteri in Excel sono Unicode e non sono impostati con il carattere corretto nello stile cella,<br/>Possono apparire come blocchi in pdf,immagine.<br/> Impostalo su true per provare a utilizzare il carattere predefinito della cartella di lavoro per mostrare prima questi caratteri.|
-| [check_font_compatibility](/cells/python-net/it/aspose.cells/docxsaveoptions/check_font_compatibility) | Indica se verificare la compatibilità dei caratteri per ogni carattere del testo.|
-| [is_font_substitution_char_granularity](/cells/python-net/it/aspose.cells/docxsaveoptions/is_font_substitution_char_granularity) |Indica se sostituire il carattere del carattere solo quando il carattere della cella non è compatibile con esso.|
-| [one_page_per_sheet](/cells/python-net/it/aspose.cells/docxsaveoptions/one_page_per_sheet) | Se OnePagePerSheet è true , tutto il contenuto di un foglio verrà visualizzato in una sola pagina come risultato.<br/> Il formato carta di pagesetup non sarà valido, così come le altre impostazioni di pagesetup<br/> avrà comunque effetto.|
-| [all_columns_in_one_page_per_sheet](/cells/python-net/it/aspose.cells/docxsaveoptions/all_columns_in_one_page_per_sheet) | Se AllColumnsInOnePagePerSheet è true , tutto il contenuto delle colonne di un foglio verrà visualizzato in una sola pagina come risultato.<br/> La larghezza del formato carta di pagesetup verrà ignorata e le altre impostazioni di pagesetup<br/> avrà comunque effetto.|
-| [ignore_error](/cells/python-net/it/aspose.cells/docxsaveoptions/ignore_error) | Indica se è necessario nascondere l'errore durante il rendering.<br/> L'errore può essere un errore nella forma, nell'immagine, nel rendering del grafico, ecc.|
-| [output_blank_page_when_nothing_to_print](/cells/python-net/it/aspose.cells/docxsaveoptions/output_blank_page_when_nothing_to_print) | Indica se stampare una pagina vuota quando non c'è nulla da stampare.|
-| [page_index](/cells/python-net/it/aspose.cells/docxsaveoptions/page_index) | Ottiene o imposta l'indice in base 0 della prima pagina da salvare.|
-| [page_count](/cells/python-net/it/aspose.cells/docxsaveoptions/page_count) | Ottiene o imposta il numero di pagine da salvare.|
-| [printing_page_type](/cells/python-net/it/aspose.cells/docxsaveoptions/printing_page_type) | Indica quali pagine non verranno stampate.|
-| [gridline_type](/cells/python-net/it/aspose.cells/docxsaveoptions/gridline_type) | Ottiene o imposta il tipo di linea della griglia.|
-| [text_cross_type](/cells/python-net/it/aspose.cells/docxsaveoptions/text_cross_type) | Ottiene o imposta la visualizzazione del tipo di testo quando la larghezza del testo è maggiore della larghezza della cella.|
-| [default_edit_language](/cells/python-net/it/aspose.cells/docxsaveoptions/default_edit_language) | Ottiene o imposta la lingua di modifica predefinita.|
-| [sheet_set](/cells/python-net/it/aspose.cells/docxsaveoptions/sheet_set) |Ottiene o imposta i fogli di cui eseguire il rendering. Per impostazione predefinita sono tutti i fogli visibili nella cartella di lavoro: [`SheetSet.visible`](/cells/python-net/it/aspose.cells.rendering/sheetset#visible).|
-| [draw_object_event_handler](/cells/python-net/it/aspose.cells/docxsaveoptions/draw_object_event_handler) | Implementa questa interfaccia per ottenere DrawObject e Bound durante il rendering.|
-| [page_saving_callback](/cells/python-net/it/aspose.cells/docxsaveoptions/page_saving_callback) | Controlla/indica l'avanzamento del processo di salvataggio della pagina.|
-| [emf_render_setting](/cells/python-net/it/aspose.cells/docxsaveoptions/emf_render_setting) | Impostazione per il rendering del metafile Emf.|
+| [save_format](/cells/python-net/it/aspose.cells/docxsaveoptions/save_format) |  |
+| [clear_data](/cells/python-net/it/aspose.cells/docxsaveoptions/clear_data) |  |
+| [cached_file_folder](/cells/python-net/it/aspose.cells/docxsaveoptions/cached_file_folder) |  |
+| [validate_merged_areas](/cells/python-net/it/aspose.cells/docxsaveoptions/validate_merged_areas) |  |
+| [merge_areas](/cells/python-net/it/aspose.cells/docxsaveoptions/merge_areas) |  |
+| [create_directory](/cells/python-net/it/aspose.cells/docxsaveoptions/create_directory) |  |
+| [sort_names](/cells/python-net/it/aspose.cells/docxsaveoptions/sort_names) |  |
+| [sort_external_names](/cells/python-net/it/aspose.cells/docxsaveoptions/sort_external_names) |  |
+| [refresh_chart_cache](/cells/python-net/it/aspose.cells/docxsaveoptions/refresh_chart_cache) |  |
+| [check_excel_restriction](/cells/python-net/it/aspose.cells/docxsaveoptions/check_excel_restriction) |  |
+| [update_smart_art](/cells/python-net/it/aspose.cells/docxsaveoptions/update_smart_art) |  |
+| [encrypt_document_properties](/cells/python-net/it/aspose.cells/docxsaveoptions/encrypt_document_properties) |  |
+| [default_font](/cells/python-net/it/aspose.cells/docxsaveoptions/default_font) |  |
+| [check_workbook_default_font](/cells/python-net/it/aspose.cells/docxsaveoptions/check_workbook_default_font) |  |
+| [check_font_compatibility](/cells/python-net/it/aspose.cells/docxsaveoptions/check_font_compatibility) |  |
+| [is_font_substitution_char_granularity](/cells/python-net/it/aspose.cells/docxsaveoptions/is_font_substitution_char_granularity) |  |
+| [one_page_per_sheet](/cells/python-net/it/aspose.cells/docxsaveoptions/one_page_per_sheet) |  |
+| [all_columns_in_one_page_per_sheet](/cells/python-net/it/aspose.cells/docxsaveoptions/all_columns_in_one_page_per_sheet) |  |
+| [ignore_error](/cells/python-net/it/aspose.cells/docxsaveoptions/ignore_error) |  |
+| [output_blank_page_when_nothing_to_print](/cells/python-net/it/aspose.cells/docxsaveoptions/output_blank_page_when_nothing_to_print) |  |
+| [page_index](/cells/python-net/it/aspose.cells/docxsaveoptions/page_index) |  |
+| [page_count](/cells/python-net/it/aspose.cells/docxsaveoptions/page_count) |  |
+| [printing_page_type](/cells/python-net/it/aspose.cells/docxsaveoptions/printing_page_type) |  |
+| [gridline_type](/cells/python-net/it/aspose.cells/docxsaveoptions/gridline_type) |  |
+| [gridline_color](/cells/python-net/it/aspose.cells/docxsaveoptions/gridline_color) |  |
+| [text_cross_type](/cells/python-net/it/aspose.cells/docxsaveoptions/text_cross_type) |  |
+| [default_edit_language](/cells/python-net/it/aspose.cells/docxsaveoptions/default_edit_language) |  |
+| [sheet_set](/cells/python-net/it/aspose.cells/docxsaveoptions/sheet_set) |  |
+| [draw_object_event_handler](/cells/python-net/it/aspose.cells/docxsaveoptions/draw_object_event_handler) |  |
+| [page_saving_callback](/cells/python-net/it/aspose.cells/docxsaveoptions/page_saving_callback) |  |
+| [emf_render_setting](/cells/python-net/it/aspose.cells/docxsaveoptions/emf_render_setting) |  |
+| [custom_render_settings](/cells/python-net/it/aspose.cells/docxsaveoptions/custom_render_settings) |  |
+| [save_as_editable_shaps](/cells/python-net/it/aspose.cells/docxsaveoptions/save_as_editable_shaps) | Salva tutti gli oggetti di disegno come forme modificabili nel file Word. Così potrai modificarli in Word.|
+| [save_as_editable_shapes](/cells/python-net/it/aspose.cells/docxsaveoptions/save_as_editable_shapes) | Salva tutti gli oggetti di disegno come forme modificabili nel file Word, così potrai modificarli in Word.|
+| [as_normal_view](/cells/python-net/it/aspose.cells/docxsaveoptions/as_normal_view) | Esportazione del file Excel in formato docx come visualizzazione normale.<br/>Se questa proprietà è vera, verrà emessa un'area e non verrà applicata alcuna scala.<br/> Il valore predefinito è falso.|
 
 
 
 ###  Guarda anche
 * modulo [`aspose.cells`](..)
 * classe [`DocxSaveOptions`](/cells/python-net/it/aspose.cells/docxsaveoptions)
-* classe [`PaginatedSaveOptions`](/cells/python-net/it/aspose.cells/paginatedsaveoptions)
-* classe [`SaveOptions`](/cells/python-net/it/aspose.cells/saveoptions)

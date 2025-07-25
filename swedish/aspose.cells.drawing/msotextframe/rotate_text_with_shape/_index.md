@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotate_text_with_shape fastighet
 
-Anger om text roteras med form.
+Anger om text med form ska roteras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotate_text_with_shape(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoTextFrame](/cells/python-net/sv/aspose.cells.drawing/msotextframe)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoTextFrame`](/cells/python-net/sv/aspose.cells.drawing/msotextframe)

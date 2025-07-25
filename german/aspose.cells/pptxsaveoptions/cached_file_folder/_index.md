@@ -8,8 +8,6 @@ url: /de/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder Eigentum
-
-Der zwischengespeicherte Dateiordner wird zum Speichern großer Datenmengen verwendet.
 ###  Definition:
 ```python
 @property

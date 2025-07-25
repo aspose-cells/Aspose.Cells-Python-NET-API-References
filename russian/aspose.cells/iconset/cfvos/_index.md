@@ -1,6 +1,6 @@
 ---
 title: cfvos недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def cfvos(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ConditionalFormattingValueCollection](/cells/python-net/ru/aspose.cells/conditionalformattingvaluecollection)
-* класс [IconSet](/cells/python-net/ru/aspose.cells/iconset)
+* модуль [`aspose.cells`](../../)
+* класс [`ConditionalFormattingValueCollection`](/cells/python-net/ru/aspose.cells/conditionalformattingvaluecollection)
+* класс [`IconSet`](/cells/python-net/ru/aspose.cells/iconset)

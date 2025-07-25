@@ -3,13 +3,13 @@ title: explosion Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 220
 url: /de/aspose.cells.charts/chartpoint/explosion/
 is_root: false
 ---
 ##  explosion Eigentum
 
-Der Abstand eines offenen Tortenstücks von der Mitte des Tortendiagramms wird als Prozentsatz des Tortendurchmessers ausgedrückt.
+Der Abstand eines offenen Kreissegments von der Mitte des Kreisdiagramms wird als Prozentsatz des Kreisdurchmessers ausgedrückt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartPoint](/cells/python-net/de/aspose.cells.charts/chartpoint)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartPoint`](/cells/python-net/de/aspose.cells.charts/chartpoint)

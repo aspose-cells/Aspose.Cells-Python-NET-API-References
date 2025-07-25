@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_type Eigentum
 
-Gibt einen Wert zurück oder legt einen Wert fest, der bestimmt, welche Datenpunkte sich im zweiten Kreis oder Balken auf einem Kreis aus Kreis oder Balken befinden
-Kuchendiagramm.
+Gibt einen Wert zurück oder legt ihn fest, der bestimmt, welche Datenpunkte sich im zweiten Kreis- oder Balkendiagramm eines Kreisdiagramms befinden.
+Kreisdiagramm.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def split_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartSplitType](/cells/python-net/de/aspose.cells.charts/chartsplittype)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartSplitType`](/cells/python-net/de/aspose.cells.charts/chartsplittype)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

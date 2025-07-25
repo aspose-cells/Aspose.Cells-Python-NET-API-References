@@ -3,13 +3,13 @@ title: title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 430
 url: /tr/aspose.cells.charts/axis/title/
 is_root: false
 ---
 ##  title mülk
 
-'title' eksenini alır.
+Eksen title'i alır.
 ###  Tanım:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: list_objects недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ru/aspose.cells/worksheet/list_objects/
 is_root: false
 ---
 ##  list_objects недвижимость
 
-Получает все объекты ListObject на этом листе.
+Получает все объекты ListObjects на этом листе.
 ###  Определение:
 ```python
 @property

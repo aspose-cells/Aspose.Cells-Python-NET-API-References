@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  auto_fit_merged_cells mülk
 
-Hücreler bir satırda birleştirildiğinde satır yüksekliğinin otomatik sığdırılıp sığdırılmayacağını belirtir.
-Varsayılan değer yanlıştır.
+Hücreler bir satırda birleştirildiğinde satır yüksekliğinin otomatik olarak ayarlanıp ayarlanmadığını belirtir.
+Varsayılan değer false'tur.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen bunun yerine AutoFitterOptions.AutoFitMergedCellsType özelliğini kullanın.
- Bu mülk, Aralık 2018'den bu yana 12 ay sonra kaldırılacaktır.
-Aspose yaşamış olabileceğiniz rahatsızlıktan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen bunun yerine AutoFitterOptions.AutoFitMergedCellsType özelliğini kullanın.
+ Bu özellik Aralık 2018'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property
@@ -29,5 +29,5 @@ def auto_fit_merged_cells(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFitterOptions](/cells/python-net/tr/aspose.cells/autofitteroptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFitterOptions`](/cells/python-net/tr/aspose.cells/autofitteroptions)

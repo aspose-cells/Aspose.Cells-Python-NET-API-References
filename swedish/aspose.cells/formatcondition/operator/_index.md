@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator fastighet
 
-Hämtar och ställer in det villkorliga formatet operator typ.
+Hämtar och anger det villkorliga formatet av typen operator.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def operator(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
-* klass [OperatorType](/cells/python-net/sv/aspose.cells/operatortype)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)
+* klass [`OperatorType`](/cells/python-net/sv/aspose.cells/operatortype)

@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
-##  refresh() {#}
-Uppdatera skivaren. Under tiden uppdaterar och beräknar relativa pivottabeller.
+##  refresh(self) {#}
+Uppdaterar utsnittet. Under tiden uppdaterar och beräknar relativa pivottabeller.
 
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -30,5 +31,5 @@ slicer.refresh()
 
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

@@ -1,9 +1,9 @@
 ---
 title: image_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 600
+weight: 590
 url: /it/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---

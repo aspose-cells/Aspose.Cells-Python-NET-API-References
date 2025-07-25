@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/data/
 is_root: false
 ---
 ##  data fastighet
-
-Hämtar och ställer in kontrollens binära data.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

@@ -3,7 +3,7 @@ title: GradientColorType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 840
 url: /tr/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Belirtilen dolgu için degrade renk türünü temsil eder.
 
 
 
-GradientColorType türü aşağıdaki üyeleri gösterir:
+GradientColorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | NONE | Degrade renk yok|
 | ONE_COLOR | Bir degrade renk|
-| PRESET_COLORS | Önceden ayarlanmış gradyan renkleri|
+| PRESET_COLORS | Önceden ayarlanmış degrade renkler|
 | TWO_COLORS | İki degrade renk|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

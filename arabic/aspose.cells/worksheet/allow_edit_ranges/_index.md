@@ -3,13 +3,13 @@ title: allow_edit_ranges عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 380
 url: /ar/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges عقار
 
-الحصول على مجموعة نطاق التحرير المسموح بها في ورقة العمل.
+يحصل على مجموعة نطاق التحرير المسموح بها في ورقة العمل.
 ###  تعريف:
 ```python
 @property

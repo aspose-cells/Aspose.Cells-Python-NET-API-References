@@ -7,12 +7,13 @@ weight: 70
 url: /ar/aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
-##  remove_condition(index) {#int}
-يزيل شرط التنسيق بالفهرس.
+##  remove_condition(self, index) {#int}
+إزالة شرط التنسيق حسب الفهرس.
 
 
 
 ```python
+
 def remove_condition(self, index):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_condition(self, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | فهرس شرط التنسيق المراد إزالته.|
+| index | int | فهرس حالة التنسيق التي يجب إزالتها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatConditionCollection](/cells/python-net/ar/aspose.cells/formatconditioncollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatConditionCollection`](/cells/python-net/ar/aspose.cells/formatconditioncollection)

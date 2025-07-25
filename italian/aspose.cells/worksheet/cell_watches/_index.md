@@ -1,15 +1,15 @@
 ---
 title: cell_watches proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 390
+weight: 410
 url: /it/aspose.cells/worksheet/cell_watches/
 is_root: false
 ---
 ##  cell_watches proprietà
 
-Ottiene la raccolta di celle di questo foglio di lavoro osservate nella "finestra di controllo".
+Ottiene la raccolta di celle su questo foglio di lavoro monitorate nella 'finestra di controllo'.
 ###  Definizione:
 ```python
 @property

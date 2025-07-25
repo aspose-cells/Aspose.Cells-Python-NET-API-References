@@ -12,17 +12,17 @@ Bir alan biçimini temsil eden nesneyi kapsüller.
 
 
 
-Area türü aşağıdaki üyeleri gösterir:
+Area türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [background_color](/cells/python-net/tr/aspose.cells.drawing/area/background_color) | [Area](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.|
-| [foreground_color](/cells/python-net/tr/aspose.cells.drawing/area/foreground_color) | Ön plan Rengini alır veya ayarlar.|
+| [background_color](/cells/python-net/tr/aspose.cells.drawing/area/background_color) | [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)'in arka plan rengini alır veya ayarlar.|
+| [foreground_color](/cells/python-net/tr/aspose.cells.drawing/area/foreground_color) | Ön plan rengini alır veya ayarlar.|
 | [formatting](/cells/python-net/tr/aspose.cells.drawing/area/formatting) | Alanın biçimlendirmesini temsil eder.|
-| [invert_if_negative](/cells/python-net/tr/aspose.cells.drawing/area/invert_if_negative) | Özellik true ise ve grafik noktasının değeri negatif bir sayıysa,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
-| [fill_format](/cells/python-net/tr/aspose.cells.drawing/area/fill_format) | Belirtilen grafik veya şekil için dolgu biçimlendirme özelliklerini içeren bir [Area.fill_format](/cells/python-net/tr/aspose.cells.drawing/area#fill_format) nesnesini temsil eder.|
-| [transparency](/cells/python-net/tr/aspose.cells.drawing/area/transparency) | Alanın şeffaflık derecesini 0,0 (opak) ila 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
+| [invert_if_negative](/cells/python-net/tr/aspose.cells.drawing/area/invert_if_negative) | Özellik doğruysa ve grafik noktasının değeri negatif bir sayıysa,<br/> ön plan rengi ve arka plan rengi değiştirilecektir.|
+| [fill_format](/cells/python-net/tr/aspose.cells.drawing/area/fill_format) | Belirtilen grafik veya şekil için dolgu biçimlendirme özelliklerini içeren [`Area.fill_format`](/cells/python-net/tr/aspose.cells.drawing/area#fill_format) nesnesini temsil eder.|
+| [transparency](/cells/python-net/tr/aspose.cells.drawing/area/transparency) |Alanın şeffaflık derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
+* modül [`aspose.cells.drawing`](..)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)

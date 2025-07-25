@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  group_by propriété
 
-Champ sur lequel effectuer le regroupement, sous la forme d'un décalage d'entier de base zéro
+Le champ à regrouper, sous forme de décalage entier basé sur zéro
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def group_by(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [SubtotalSetting](/cells/python-net/fr/aspose.cells/subtotalsetting)
+* module [`aspose.cells`](../../)
+* classe [`SubtotalSetting`](/cells/python-net/fr/aspose.cells/subtotalsetting)

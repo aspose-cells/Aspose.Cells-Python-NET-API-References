@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_subscript mülk
 
-Yazı tipinin alt simge olup olmadığını gösteren bir değer alır veya ayarlar.
+Yazı tipinin alt simge olup olmadığını belirten bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_subscript(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

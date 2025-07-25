@@ -3,13 +3,13 @@ title: y propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1310
+weight: 1320
 url: /fr/aspose.cells.drawing/scrollbar/y/
 is_root: false
 ---
 ##  y propriété
 
-Obtient et définit le décalage vertical de la forme par rapport à la bordure supérieure de la feuille de calcul, en unités de pixels.
+Obtient et définit le décalage vertical de la forme à partir de la bordure supérieure de la feuille de calcul, en unités de pixels.
 
 ###  Exemple
 

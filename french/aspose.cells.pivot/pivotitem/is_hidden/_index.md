@@ -3,7 +3,7 @@ title: is_hidden propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 120
 url: /fr/aspose.cells.pivot/pivotitem/is_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotItem](/cells/python-net/fr/aspose.cells.pivot/pivotitem)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotItem`](/cells/python-net/fr/aspose.cells.pivot/pivotitem)

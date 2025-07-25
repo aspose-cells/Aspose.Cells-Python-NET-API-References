@@ -1,5 +1,5 @@
 ---
-title: transparency الملكية
+title: transparency عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/gradientstop/transparency/
 is_root: false
 ---
-##  transparency الملكية
+##  transparency عقار
 
-إرجاع أو تعيين درجة transparency للمساحة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).
+يقوم بإرجاع أو تعيين درجة transparency للمنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GradientStop](/cells/python-net/ar/aspose.cells.drawing/gradientstop)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GradientStop`](/cells/python-net/ar/aspose.cells.drawing/gradientstop)

@@ -1,5 +1,5 @@
 ---
-title: lighting_direction الملكية
+title: lighting_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells.drawing/threedformat/lighting_direction/
 is_root: false
 ---
-##  lighting_direction الملكية
+##  lighting_direction عقار
 
-الحصول على الاتجاه الذي يتم توجيه منصة الضوء منه بالنسبة إلى المشهد وتحديده.
+يحصل على الاتجاه الذي يتم توجيه جهاز الإضاءة منه فيما يتعلق بالمشهد ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LightRigDirectionType](/cells/python-net/ar/aspose.cells.drawing/lightrigdirectiontype)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LightRigDirectionType`](/cells/python-net/ar/aspose.cells.drawing/lightrigdirectiontype)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

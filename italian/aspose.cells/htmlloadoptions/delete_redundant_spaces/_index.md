@@ -1,6 +1,6 @@
 ---
 title: delete_redundant_spaces proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  delete_redundant_spaces proprietà
 
-Indica se eliminare gli spazi ridondanti quando il testo va a capo nelle righe utilizzando il tag `<br>`.
+Indica se eliminare gli spazi ridondanti quando il testo va a capo utilizzando il tag `<br>`.
 Il valore predefinito è falso.
 ###  Definizione:
 ```python

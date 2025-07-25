@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  placement mülk
 
-Grafiğin altındaki hücrelere bağlanma şeklini temsil eder.
+Grafiğin altındaki hücrelere bağlanma şeklini gösterir.
 ###  Tanım:
 ```python
 @property

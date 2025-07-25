@@ -1,14 +1,14 @@
 ---
 title: PivotDiscreteGroupSettings класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 90
 url: /ru/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings класс
-Представляет дискретную группу сводного поля.
+Представляет собой дискретную группу опорного поля
 
 
 
@@ -23,7 +23,7 @@ is_root: false
 | Свойство| Описание|
 | :- | :- |
 | [type](/cells/python-net/ru/aspose.cells.pivot/pivotdiscretegroupsettings/type) | Получает тип группы.|
-| [items](/cells/python-net/ru/aspose.cells.pivot/pivotdiscretegroupsettings/items) | Получает дискретные элементы.|
+| [items](/cells/python-net/ru/aspose.cells.pivot/pivotdiscretegroupsettings/items) | Получает отдельные элементы.|
 
 
 

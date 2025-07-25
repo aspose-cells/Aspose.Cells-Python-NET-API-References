@@ -8,7 +8,7 @@ url: /es/aspose.cells.drawing/checkboxcollection/
 is_root: false
 ---
 ##  CheckBoxCollection clase
-Representa una colección de [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox) objetos en una hoja de cálculo.
+Representa una colección de [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox) objetos en una hoja de cálculo.
 
 
 
@@ -23,15 +23,15 @@ El tipo CheckBoxCollection expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [copy_to(array)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/copy_to/#list) | Copia toda la lista de matrices en una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
-| [copy_to(index, array, array_index, count)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/copy_to/#int-list-int-int) |Copia un rango de elementos de la lista de arreglos a una lista de arreglos unidimensional compatible, comenzando en el índice especificado de la lista de arreglos de destino.|
-| [index_of(item, index)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/index_of/#CheckBox-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el índice especificado hasta el último elemento.|
-| [index_of(item, index, count)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/index_of/#CheckBox-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera aparición dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene el número especificado de elementos.|
-| [last_index_of(item)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#CheckBox) | Busca el objeto especificado y devuelve el índice de base cero de la última aparición en toda la lista de matrices.|
-| [last_index_of(item, index)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#CheckBox-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de arreglos que se extiende desde el primer elemento hasta el índice especificado.|
-| [last_index_of(item, index, count)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#CheckBox-int-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro del rango de elementos en la lista de matriz que contiene el número especificado de elementos y termina en el índice especificado.|
-| [add(upper_left_row, upper_left_column, height, width)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/add/#int-int-int-int) | Agrega un checkBox a la colección.|
-| [binary_search(item)](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/binary_search/#CheckBox) | Busca un elemento en toda la lista de matrices ordenadas mediante el comparador predeterminado y devuelve el índice de base cero del elemento.|
+| [`copy_to(self, array)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/copy_to/#list) |Copia la lista de matrices completa a una lista de matrices unidimensional compatible, comenzando por el principio de la lista de matrices de destino.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/copy_to/#int-list-int-int) | Copia un rango de elementos de la lista de matrices a una lista de matrices unidimensionales compatible, comenzando en el índice especificado de la lista de matrices de destino.|
+| [`index_of(self, item, index)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/index_of/#aspose.cells.drawing.checkbox-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de la matriz que se extiende desde el índice especificado hasta el último elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/index_of/#aspose.cells.drawing.checkbox-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la primera ocurrencia dentro del rango de elementos en la lista de matriz que comienza en el índice especificado y contiene la cantidad especificada de elementos.|
+| [`last_index_of(self, item)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#aspose.cells.drawing.checkbox) | Busca el objeto especificado y devuelve el índice basado en cero de la última aparición dentro de toda la lista de la matriz.|
+| [`last_index_of(self, item, index)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#aspose.cells.drawing.checkbox-int) |Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que se extiende desde el primer elemento hasta el índice especificado.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/last_index_of/#aspose.cells.drawing.checkbox-int-int) | Busca el objeto especificado y devuelve el índice basado en cero de la última ocurrencia dentro del rango de elementos en la lista de matriz que contiene la cantidad especificada de elementos y termina en el índice especificado.|
+| [`add(self, upper_left_row, upper_left_column, height, width)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/add/#int-int-int-int) | Agrega una casilla de verificación a la colección.|
+| [`binary_search(self, item)`](/cells/python-net/es/aspose.cells.drawing/checkboxcollection/binary_search/#aspose.cells.drawing.checkbox) | Busca en toda la lista de la matriz ordenada un elemento utilizando el comparador predeterminado y devuelve el índice basado en cero del elemento.|
 
 
 
@@ -51,5 +51,5 @@ checkBox.text = "Check Box 1"
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
-* clase [CheckBox](/cells/python-net/es/aspose.cells.drawing/checkbox)
+* módulo [`aspose.cells.drawing`](..)
+* clase [`CheckBox`](/cells/python-net/es/aspose.cells.drawing/checkbox)

@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/row/copy_settings/
 is_root: false
 ---
-##  copy_settings(source, check_style) {#Row-bool}
-نسخ إعدادات الصف ، مثل النمط ، الارتفاع ، الرؤية ، ... إلخ.
+##  copy_settings(self, source, check_style) {#aspose.cells.Row-bool}
+نسخ إعدادات الصف، مثل النمط، الارتفاع، الرؤية، ... إلخ.
 
 
 
 ```python
+
 def copy_settings(self, source, check_style):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_settings(self, source, check_style):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source | [Row](/cells/python-net/ar/aspose.cells/row) | صف المصدر الذي سيتم نسخ إعداداته إلى هذا الصف|
-| check_style | bool | سواء التحقق وجمع النمط.<br/> يسري مفعوله ويكون مطلوبًا فقط عندما ينتمي كائنان صف إلى مصنف مختلف وأنماط المصنفين مختلفة.|
+| source | [`Row`](/cells/python-net/ar/aspose.cells/row) | الصف المصدر الذي سيتم نسخ إعداداته إلى هذا الصف|
+| check_style | bool | سواء كان أسلوب التحقق والتجميع.<br/>لا يتم تطبيقه إلا عندما ينتمي كائنان صف إلى مصنف مختلف وتكون أنماط المصنفين مختلفة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

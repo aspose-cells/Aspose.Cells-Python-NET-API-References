@@ -1,6 +1,6 @@
 ---
 title: comment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  comment proprietà
 
-Ottiene e imposta lo comment del nome.
+Ottiene e imposta il valore comment del nome.
 Si applica solo a Excel 2007 o versioni successive.
 ###  Definizione:
 ```python

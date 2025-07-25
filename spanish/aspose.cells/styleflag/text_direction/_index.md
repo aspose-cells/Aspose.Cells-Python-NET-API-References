@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_direction propiedad
 
-Se aplicará la configuración de dirección del texto.
+Se aplicará la configuración de la dirección del texto.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_direction(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

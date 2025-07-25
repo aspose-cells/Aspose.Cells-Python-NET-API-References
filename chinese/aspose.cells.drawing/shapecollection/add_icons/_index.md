@@ -3,20 +3,21 @@ title: add_icons方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 140
 url: /zh/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 添加 svg 图像。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -25,13 +26,13 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 |范围|类型|描述|
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
-| top | int |表示形状相对于其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
+| top | int |表示形状与其左行垂直方向的偏移量，以像素为单位。|
+| upper_left_column | int |左上角的列索引。|
 | left | int |形状相对于其左列的水平偏移量，以像素为单位。|
 | height | int |形状的高度，以像素为单位。|
 | width | int |形状的宽度，以像素为单位。|
 | image_byte_data | bytes |图像字节数据。|
-| compatible_image_data | bytes |从 svg 转换图像数据，以便与 Excel 2016 或更低版本兼容。|
+| compatible_image_data | bytes |从 svg 转换图像数据以便与 Excel 2016 或更低版本兼容。|
 
 ### 例子
 

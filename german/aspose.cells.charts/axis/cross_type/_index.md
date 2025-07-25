@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type Eigentum
 
-Stellt [`Axis.cross_type`](/cells/python-net/de/aspose.cells.charts/axis#cross_type) auf der angegebenen Achse dar, wo sich die andere Achse kreuzt.
+Stellt [`Axis.cross_type`](/cells/python-net/de/aspose.cells.charts/axis#cross_type) auf der angegebenen Achse dar, wo die andere Achse sie kreuzt.
 ###  Definition:
 ```python
 @property

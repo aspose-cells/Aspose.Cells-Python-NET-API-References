@@ -7,12 +7,13 @@ weight: 390
 url: /ar/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  set_standard_header_footer_font_style_name {#str-str}
-يضبط اسم الوظيفة التابعة للإعدادات المحلية وفقًا لاسم الوظيفة القياسي المحدد.
+##  set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
+تعيين اسم الوظيفة المعتمدة على الإعدادات المحلية وفقًا لاسم الوظيفة القياسي المقدم.
 
 
 
 ```python
+
 def set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name):
     ...
 ```
@@ -21,7 +22,7 @@ def set_standard_header_footer_font_style_name(self, localfont_style_name, stand
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | localfont_style_name | str | اسم نمط الخط المحلي للرأس/التذييل.|
-| standard_name | str | اسم الوظيفة القياسي (اللغة الإنجليزية الأمريكية).|
+| standard_name | str | اسم الوظيفة القياسية (en-US locale).|
 
 
 

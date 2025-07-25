@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtensionBinding](/cells/python-net/tr/aspose.cells.webextensions/webextensionbinding)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtensionBinding`](/cells/python-net/tr/aspose.cells.webextensions/webextensionbinding)

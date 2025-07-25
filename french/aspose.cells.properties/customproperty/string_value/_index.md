@@ -13,10 +13,10 @@ Renvoie ou définit la valeur de la propriété personnalisée.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété CustomProperty.Value.
- Cette propriété sera supprimée 12 mois plus tard depuis juin 2010.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en juin 2010.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def string_value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [CustomProperty](/cells/python-net/fr/aspose.cells.properties/customproperty)
+* module [`aspose.cells.properties`](../../)
+* classe [`CustomProperty`](/cells/python-net/fr/aspose.cells.properties/customproperty)

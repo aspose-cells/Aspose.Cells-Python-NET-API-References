@@ -3,13 +3,13 @@ title: has_multi_level_labels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
 ##  has_multi_level_labels عقار
 
-يشير إلى ما إذا كان سيتم عرض التسميات على أنها متعددة المستويات.
+يشير إلى ما إذا كان سيتم عرض العلامات على مستويات متعددة.
 
 ###  ملاحظات
 

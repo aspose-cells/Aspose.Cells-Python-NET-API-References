@@ -21,6 +21,6 @@ def pic_format_option(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [PicFormatOption](/cells/python-net/es/aspose.cells.drawing/picformatoption)
-* clase [TextureFill](/cells/python-net/es/aspose.cells.drawing/texturefill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`PicFormatOption`](/cells/python-net/es/aspose.cells.drawing/picformatoption)
+* clase [`TextureFill`](/cells/python-net/es/aspose.cells.drawing/texturefill)

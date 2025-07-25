@@ -1,15 +1,15 @@
 ---
-title: shape_height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shape_height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 310
+weight: 320
 url: /zh/aspose.cells.charts/chartpoint/shape_height/
 is_root: false
 ---
-## shape_height 属性
+## shape_height属性
 
-调用 Chart.Calculate() 方法后，以图表高度的 1/4000 为单位获取高度。
+调用Chart.Calculate()方法后，以图表高度的1/4000为单位获取高度。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_height(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

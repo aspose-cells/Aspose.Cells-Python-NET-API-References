@@ -1,6 +1,6 @@
 ---
 title: MetadataType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-MetadataType 类型公开了以下成员：
+MetadataType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | ENCRYPTION |加密文件。|
 | DECRYPTION |解密文件。|
@@ -24,4 +24,4 @@ MetadataType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.metadata](..)
+* 模块[`aspose.cells.metadata`](..)

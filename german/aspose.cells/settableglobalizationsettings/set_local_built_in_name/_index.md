@@ -7,12 +7,13 @@ weight: 340
 url: /de/aspose.cells/settableglobalizationsettings/set_local_built_in_name/
 is_root: false
 ---
-##  set_local_built_in_name {#str-str-bool}
-Legt den vom Gebietsschema abhängigen Text für den integrierten Namen mit dem angegebenen Standardnamentext fest.
+##  set_local_built_in_name(self, standard_name, local_name, bidirectional) {#str-str-bool}
+Legt den lokalabhängigen Text für den integrierten Namen mit dem angegebenen Standardnamenstext fest.
 
 
 
 ```python
+
 def set_local_built_in_name(self, standard_name, local_name, bidirectional):
     ...
 ```
@@ -20,9 +21,9 @@ def set_local_built_in_name(self, standard_name, local_name, bidirectional):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| standard_name | str |Standard-Namenstext (En-US-Gebietsschema) des integrierten Namens.|
+| standard_name | str | Standardmäßiger Namenstext (en-US-Gebietsschema) des integrierten Namens.|
 | local_name | str | Vom Gebietsschema abhängiger Namenstext|
-| bidirectional | bool | Ob der lokale Namenstext automatisch dem Standardnamenstext zugeordnet wird.<br/>Bei „true“ wird der lokale Namenstext automatisch dem Standardnamenstext zugeordnet<br/>Daher muss der Benutzer nicht erneut [`SettableGlobalizationSettings.set_standard_built_in_name`](/cells/python-net/de/aspose.cells/settableglobalizationsettings/set_standard_built_in_name) anrufen<br/> für dasselbe Standard- und lokale Namenspaar|
+| bidirectional | bool |Ob der lokale Namenstext automatisch dem Standardnamenstext zugeordnet wird.<br/>Wenn diese Option aktiviert ist, wird der lokale Namenstext automatisch in den Standardnamenstext umgewandelt.<br/>Der Benutzer muss also nicht erneut [`SettableGlobalizationSettings.set_standard_built_in_name`](/cells/python-net/de/aspose.cells/settableglobalizationsettings/set_standard_built_in_name) anrufen<br/> für dasselbe Paar aus Standard- und lokalen Namen|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height fastighet
 
-Höjden på Ticklabel-objektet i förhållande till diagrammet height.
+Höjd på Ticklabel-objektet i förhållande till diagram height.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [TickLabelItem](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)
+* modul [`aspose.cells.charts`](../../)
+* klass [`TickLabelItem`](/cells/python-net/sv/aspose.cells.charts/ticklabelitem)

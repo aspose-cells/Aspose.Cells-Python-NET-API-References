@@ -3,20 +3,21 @@ title: get_row_height_inch Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 470
+weight: 510
 url: /de/aspose.cells/cells/get_row_height_inch/
 is_root: false
 ---
-##  get_row_height_inch {#int}
-Ruft die Höhe einer angegebenen Zeile in der Einheit Zoll ab.
+##  get_row_height_inch(self, row) {#int}
+Ruft die Höhe einer angegebenen Zeile in Zoll ab.
 
 
 ###  Kehrt zurück
 
-Höhe der Reihe
+Zeilenhöhe
 
 
 ```python
+
 def get_row_height_inch(self, row):
     ...
 ```

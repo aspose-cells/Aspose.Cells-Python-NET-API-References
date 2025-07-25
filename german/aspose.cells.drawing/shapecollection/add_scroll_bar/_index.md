@@ -3,12 +3,12 @@ title: add_scroll_bar Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 270
 url: /de/aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
-##  add_scroll_bar {#int-int-int-int-int-int}
-Fügt dem Arbeitsblatt eine ScrollBar hinzu.
+##  add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+Fügt dem Arbeitsblatt eine Bildlaufleiste hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ein ScrollBar-Objekt.
 
 
 ```python
+
 def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,11 +26,11 @@ def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, w
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| top | int | Stellt den vertikalen Versatz von ScrollBar von seiner linken Zeile in Pixeleinheiten dar.|
-| upper_left_column | int | Spaltenindex oben links.|
-| left | int | Stellt den horizontalen Versatz von ScrollBar von seiner linken Spalte in Pixeleinheiten dar.|
-| height | int | Stellt die Höhe von ScrollBar in Pixeleinheiten dar.|
-| width | int | Stellt die Breite von ScrollBar in Pixeleinheiten dar.|
+| top | int |Stellt den vertikalen Versatz der Bildlaufleiste von ihrer linken Zeile in Pixeleinheiten dar.|
+| upper_left_column | int | Index der oberen linken Spalte.|
+| left | int | Stellt den horizontalen Versatz der Bildlaufleiste von ihrer linken Spalte in Pixeleinheiten dar.|
+| height | int | Stellt die Höhe der Bildlaufleiste in Pixeln dar.|
+| width | int | Stellt die Breite der Bildlaufleiste in Pixeln dar.|
 
 ###  Beispiel
 

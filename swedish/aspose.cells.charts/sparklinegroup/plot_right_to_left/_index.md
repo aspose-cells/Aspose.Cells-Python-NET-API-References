@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_right_to_left fastighet
 
-Indikerar om plotdata är från höger till vänster.
+Anger om plottdata är från höger till vänster.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def plot_right_to_left(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

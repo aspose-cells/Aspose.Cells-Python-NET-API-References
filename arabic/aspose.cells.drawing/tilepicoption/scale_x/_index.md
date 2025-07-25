@@ -1,5 +1,5 @@
 ---
-title: scale_x الملكية
+title: scale_x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/tilepicoption/scale_x/
 is_root: false
 ---
-##  scale_x الملكية
+##  scale_x عقار
 
-الحصول على أو تحديد مقياس X لتبليط الصورة.
+يحصل على مقياس X لتقسيم الصورة أو يضبطه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [TilePicOption](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`TilePicOption`](/cells/python-net/ar/aspose.cells.drawing/tilepicoption)

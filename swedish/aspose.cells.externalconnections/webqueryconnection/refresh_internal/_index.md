@@ -3,13 +3,11 @@ title: refresh_internal fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 370
 url: /sv/aspose.cells.externalconnections/webqueryconnection/refresh_internal/
 is_root: false
 ---
 ##  refresh_internal fastighet
-
-Anger antalet minuter mellan automatiska uppdateringar av anslutningen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def refresh_internal(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [WebQueryConnection](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`WebQueryConnection`](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)

@@ -1,15 +1,15 @@
 ---
-title: shape_y_px الملكية
+title: shape_y_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ar/aspose.cells.charts/chartpoint/shape_y_px/
 is_root: false
 ---
-##  shape_y_px الملكية
+##  shape_y_px عقار
 
-الحصول على إحداثيات y للركن الأيسر العلوي بوحدات البكسل بعد استدعاء طريقة Chart.Calculate ().
+يحصل على إحداثيات y للزاوية اليسرى العليا بوحدات البكسل بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_y_px(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

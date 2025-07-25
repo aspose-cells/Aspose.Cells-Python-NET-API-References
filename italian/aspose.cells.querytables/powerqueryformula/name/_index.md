@@ -1,15 +1,15 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 40
+weight: 60
 url: /it/aspose.cells.querytables/powerqueryformula/name/
 is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta name della formula di query avanzata.
+Ottiene e imposta il valore name della formula di Power Query.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.querytables](../../)
-* classe [PowerQueryFormula](/cells/python-net/it/aspose.cells.querytables/powerqueryformula)
+* modulo [`aspose.cells.querytables`](../../)
+* classe [`PowerQueryFormula`](/cells/python-net/it/aspose.cells.querytables/powerqueryformula)

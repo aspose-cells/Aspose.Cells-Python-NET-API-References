@@ -1,18 +1,19 @@
 ---
-title: copy_in_range méthode
+title: méthode copy_in_range
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 410
 url: /fr/aspose.cells.drawing/shapecollection/copy_in_range/
 is_root: false
 ---
-##  copy_in_range(source_shapes, ca, dest_row, dest_column, is_contained) {#ShapeCollection-CellArea-int-int-bool}
+##  copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained) {#aspose.cells.drawing.ShapeCollection-aspose.cells.CellArea-int-int-bool}
 Copiez les formes de la plage vers la plage de destination.
 
 
 
 ```python
+
 def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
     ...
 ```
@@ -20,11 +21,11 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| source_shapes | [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection) | Formes sources.|
-| ca | [CellArea](/cells/python-net/fr/aspose.cells/cellarea) | La plage source.|
-| dest_row | int | Index de ligne dest de la plage dest.|
-| dest_column | int | La colonne dest de la plage dest.|
-| is_contained | bool | Si seulement copier les formes qui sont contenues dans la plage.<br/> Si vrai, copie uniquement les formes de la plage.<br/> Sinon, cela fonctionne comme MS Office.|
+| source_shapes | [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection) | Formes sources.|
+| ca | [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea) | La gamme source.|
+| dest_row | int | L'index de ligne de destination de la plage de destination.|
+| dest_column | int | La colonne de destination de la plage de destination.|
+| is_contained | bool | Copiez uniquement les formes contenues dans la plage.<br/> Si vrai, copie uniquement les formes de la plage.<br/> Sinon, cela fonctionne comme MS Office.|
 
 ###  Exemple
 
@@ -46,5 +47,5 @@ shapes.copy_in_range(shapes, area2, 12, 1, False)
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapeCollection](/cells/python-net/fr/aspose.cells.drawing/shapecollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapeCollection`](/cells/python-net/fr/aspose.cells.drawing/shapecollection)

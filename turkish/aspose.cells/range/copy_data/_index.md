@@ -3,16 +3,17 @@ title: copy_data yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 110
 url: /tr/aspose.cells/range/copy_data/
 is_root: false
 ---
-##  copy_data {#aspose.cells.Range}
-Bir kaynak aralığından hücre verilerini (formüller dahil) kopyalar.
+##  copy_data(self, range) {#aspose.cells.Range}
+Kaynak aralığından hücre verilerini (formüller dahil) kopyalar.
 
 
 
 ```python
+
 def copy_data(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy_data(self, range):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/tr/aspose.cells/range) |Kaynak [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi.|
+| range | [`Range`](/cells/python-net/tr/aspose.cells/range) | Kaynak [`Range`](/cells/python-net/tr/aspose.cells/range) nesnesi.|
 
 
 

@@ -1,22 +1,23 @@
 ---
 title: get_children метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
 url: /ru/aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
-##  get_children() {#}
+##  get_children(self) {#}
 Получает дочерние сводные таблицы, которые используют данные этой сводной таблицы в качестве источника данных.
 
 
-###  Возвращает
+###  Возврат
 
-объект массива сводной таблицы
+объект массива PivotTable
 
 
 ```python
+
 def get_children(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_children(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

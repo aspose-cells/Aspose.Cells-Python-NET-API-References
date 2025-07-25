@@ -7,11 +7,11 @@ weight: 10
 url: /sv/aspose.cells.json/
 is_root: false
 ---
- De**Aspose.Cells.Json** namnutrymmet innehåller alla klasser av JSON.
+ De**Aspose.Cells.Json** Namnrymden innehåller alla klasser av JSON.
 
 ###  Uppräkningar
-|Uppräkning| Beskrivning|
+| Uppräkning| Beskrivning|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/sv/aspose.cells.json/jsonexporthyperlinktype) | Representerar typ av export av hyperlänkar till json.|
+| [`JsonExportHyperlinkType`](/cells/python-net/sv/aspose.cells.json/jsonexporthyperlinktype) | Representerar typen av export av hyperlänkar till json.|
 
 

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells.webextensions/webextensioncollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Fügt eine Weberweiterung hinzu.
 
 
@@ -17,6 +17,7 @@ Der Index.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionCollection](/cells/python-net/de/aspose.cells.webextensions/webextensioncollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensioncollection)

@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells/workbook/add_digital_signature/
 is_root: false
 ---
-##  add_digital_signature(digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
-Lägger till digital signatur till en OOXML-kalkylbladsfil (Excel2007 och senare).
+##  add_digital_signature(self, digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+Lägger till digital signatur i en OOXML-kalkylbladsfil (Excel 2007 och senare).
 
 
 
 ```python
+
 def add_digital_signature(self, digital_signature_collection):
     ...
 ```
@@ -23,10 +24,10 @@ def add_digital_signature(self, digital_signature_collection):
 | digital_signature_collection | aspose.cells.digitalsignatures.DigitalSignatureCollection |  |
 ###  Anmärkningar
 
-Stöder endast att lägga till Xmldsig Digital Signature till en OOXML-kalkylbladsfil
+Stöder endast att lägga till Xmldsig digital signatur till en OOXML-kalkylbladsfil
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

@@ -3,13 +3,13 @@ title: title mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 120
 url: /tr/aspose.cells.drawing/signatureline/title/
 is_root: false
 ---
 ##  title mülk
 
-Şarkıcının title'ini alır ve ayarlar.
+Şarkıcının title'ini alır veya ayarlar.
 
 ###  Örnek
 
@@ -32,5 +32,5 @@ def title(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

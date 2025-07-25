@@ -3,17 +3,17 @@ title: max_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 340
 url: /ar/aspose.cells/workbooksettings/max_row/
 is_root: false
 ---
 ##  max_row عقار
 
-الحصول على فهرس الصف الأقصى، على أساس الصفر.
+يحصل على الحد الأقصى لمؤشر الصف، على أساس الصفر.
 
 ###  ملاحظات
 
-يُرجع 65535 إذا كان تنسيق الملف هو Excel97-2003؛
+يتم إرجاع 65535 إذا كان تنسيق الملف هو Excel97-2003؛
 ###  تعريف:
 ```python
 @property

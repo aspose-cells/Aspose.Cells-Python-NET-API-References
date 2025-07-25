@@ -1,18 +1,19 @@
 ---
-title: metodo get_by_index
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_by_index
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells/filtercolumncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
+##  get_by_index(self, index) {#int}
 Restituisce un singolo oggetto Filter da una raccolta.
 
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def get_by_index(self, index):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FilterColumnCollection](/cells/python-net/it/aspose.cells/filtercolumncollection)
+* modulo [`aspose.cells`](../../)
+* classe [`FilterColumnCollection`](/cells/python-net/it/aspose.cells/filtercolumncollection)

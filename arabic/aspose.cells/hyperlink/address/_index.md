@@ -1,5 +1,5 @@
 ---
-title: address الملكية
+title: address عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/hyperlink/address/
 is_root: false
 ---
-##  address الملكية
+##  address عقار
 
-يمثل address للوصلة المرجعية.
+يمثل address من ارتباط تشعبي.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def address(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Hyperlink](/cells/python-net/ar/aspose.cells/hyperlink)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink)

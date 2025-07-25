@@ -1,6 +1,6 @@
 ---
 title: end_arrowhead_width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 140
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/it/aspose.cells.drawing/lineformat)
-* classe [MsoArrowheadWidth](/cells/python-net/it/aspose.cells.drawing/msoarrowheadwidth)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/it/aspose.cells.drawing/lineformat)
+* classe [`MsoArrowheadWidth`](/cells/python-net/it/aspose.cells.drawing/msoarrowheadwidth)

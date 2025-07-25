@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  power_query_formulas Eigentum
 
-Ruft alle Power-Query-Formeln ab.
+Ruft alle Power Query-Formeln ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def power_query_formulas(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.querytables](../../)
-* Klasse [DataMashup](/cells/python-net/de/aspose.cells.querytables/datamashup)
-* Klasse [PowerQueryFormulaCollection](/cells/python-net/de/aspose.cells.querytables/powerqueryformulacollection)
+* Modul [`aspose.cells.querytables`](../../)
+* Klasse [`DataMashup`](/cells/python-net/de/aspose.cells.querytables/datamashup)
+* Klasse [`PowerQueryFormulaCollection`](/cells/python-net/de/aspose.cells.querytables/powerqueryformulacollection)

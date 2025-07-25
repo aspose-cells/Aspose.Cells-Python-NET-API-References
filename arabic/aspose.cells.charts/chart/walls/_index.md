@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls عقار
 
-تقوم بإرجاع كائن [`Chart.walls`](/cells/python-net/ar/aspose.cells.charts/chart#walls) الذي يمثل walls لمخطط ثلاثي الأبعاد.
+يقوم بإرجاع الكائن [`Chart.walls`](/cells/python-net/ar/aspose.cells.charts/chart#walls) الذي يمثل walls لمخطط ثلاثي الأبعاد.
 
 ###  ملاحظات
 

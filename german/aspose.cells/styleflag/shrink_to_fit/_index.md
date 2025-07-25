@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit Eigentum
 
-Die Einstellung zum Anpassen verkleinern wird angewendet.
+Die Einstellung „Anpassen“ wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shrink_to_fit(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

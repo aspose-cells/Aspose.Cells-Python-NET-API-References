@@ -3,7 +3,7 @@ title: group_settings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 420
 url: /tr/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Pivot alanının grup ayarlarını alır.
 
 ###  Notlar
 
-Bu alan gruplanmazsa Null döndürülür.
+Bu alan gruplandırılmazsa Null döndürülür.
 ###  Tanım:
 ```python
 @property

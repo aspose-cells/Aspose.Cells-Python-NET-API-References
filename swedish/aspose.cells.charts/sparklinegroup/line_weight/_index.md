@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_weight fastighet
 
-Hämtar och ställer in linjevikten i varje linje sparkline i sparklinegruppen, i enheten för poäng.
+Hämtar och anger linjetjockleken i varje linjesparkline i sparkline-gruppen, i enheten punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_weight(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

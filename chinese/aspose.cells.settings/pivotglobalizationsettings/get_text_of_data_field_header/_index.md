@@ -3,20 +3,21 @@ title: get_text_of_data_field_header方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.settings/pivotglobalizationsettings/get_text_of_data_field_header/
 is_root: false
 ---
-##  get_text_of_data_field_header {#}
+##  get_text_of_data_field_header(self) {#}
 获取数据透视表中值区域字段标题的文本。
 
 
-### 退货
+### 返回
 
 数据字段标题名称的文本
 
 
 ```python
+
 def get_text_of_data_field_header(self):
     ...
 ```

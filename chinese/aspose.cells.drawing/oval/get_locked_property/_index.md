@@ -1,13 +1,13 @@
 ---
 title: get_locked_property方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 130
 url: /zh/aspose.cells.drawing/oval/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
 获取锁定属性的值。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/zh/aspose.cells.drawing/shapelocktype) |形状锁定属性的类型。|
+| type | [`ShapeLockType`](/cells/python-net/zh/aspose.cells.drawing/shapelocktype) |形状锁定属性的类型。|
 
 ### 例子
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Oval](/cells/python-net/zh/aspose.cells.drawing/oval)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Oval`](/cells/python-net/zh/aspose.cells.drawing/oval)

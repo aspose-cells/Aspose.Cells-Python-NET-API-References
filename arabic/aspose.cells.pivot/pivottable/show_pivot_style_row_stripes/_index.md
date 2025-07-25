@@ -1,15 +1,15 @@
 ---
-title: show_pivot_style_row_stripes الملكية
+title: show_pivot_style_row_stripes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 970
+weight: 1100
 url: /ar/aspose.cells.pivot/pivottable/show_pivot_style_row_stripes/
 is_root: false
 ---
-##  show_pivot_style_row_stripes الملكية
+##  show_pivot_style_row_stripes عقار
 
-الإشارة إلى ما إذا كان تنسيق شريط الصفوف مطبقًا أم لا.
+يشير إلى ما إذا كان يتم تطبيق تنسيق شريط الصف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_pivot_style_row_stripes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

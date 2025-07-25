@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  argb propiedad
 
-Obtiene y establece el color a partir de un valor ARGB de 32 bits.
+Obtiene y establece el color de un valor ARGB de 32 bits.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def argb(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
+* módulo [`aspose.cells`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)

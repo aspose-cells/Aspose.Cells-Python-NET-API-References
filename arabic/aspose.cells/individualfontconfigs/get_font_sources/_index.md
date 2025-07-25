@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells/individualfontconfigs/get_font_sources/
 is_root: false
 ---
-##  get_font_sources() {#}
+##  get_font_sources(self) {#}
 يحصل على نسخة من المصفوفة التي تحتوي على قائمة المصادر
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_font_sources(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_font_sources(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [IndividualFontConfigs](/cells/python-net/ar/aspose.cells/individualfontconfigs)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`IndividualFontConfigs`](/cells/python-net/ar/aspose.cells/individualfontconfigs)

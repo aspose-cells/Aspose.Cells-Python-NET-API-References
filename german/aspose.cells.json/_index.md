@@ -7,11 +7,11 @@ weight: 10
 url: /de/aspose.cells.json/
 is_root: false
 ---
- Der**Aspose.Cells.Json** Namespace enthält alle Klassen von JSON.
+ Der**Aspose.Cells.Json** Der Namespace enthält alle Klassen von JSON.
 
 ###  Aufzählungen
-|Aufzählung| Beschreibung|
+| Aufzählung| Beschreibung|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype) | Stellt den Typ des Exportierens von Hyperlinks in JSON dar.|
+| [`JsonExportHyperlinkType`](/cells/python-net/de/aspose.cells.json/jsonexporthyperlinktype) | Stellt den Typ des Exportierens von Hyperlinks in JSON dar.|
 
 

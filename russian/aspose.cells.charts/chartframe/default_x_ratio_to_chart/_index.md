@@ -1,0 +1,22 @@
+---
+title: default_x_ratio_to_chart недвижимость
+second_title: Aspose.Cells for Python via .NET API Ссылки
+description:
+type: docs
+weight: 140
+url: /ru/aspose.cells.charts/chartframe/default_x_ratio_to_chart/
+is_root: false
+---
+##  default_x_ratio_to_chart недвижимость
+
+Представляет x позиции по умолчанию в единицах доли области диаграммы.
+###  Определение:
+```python
+@property
+def default_x_ratio_to_chart(self):
+    ...
+```
+
+###  Смотрите также
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartFrame`](/cells/python-net/ru/aspose.cells.charts/chartframe)

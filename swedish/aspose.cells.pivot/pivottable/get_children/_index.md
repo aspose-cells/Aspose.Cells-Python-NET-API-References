@@ -7,16 +7,17 @@ weight: 140
 url: /sv/aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
-##  get_children() {#}
-Hämtar barnpivottabellerna som använder denna pivottabelldata som datakälla.
+##  get_children(self) {#}
+Hämtar de underordnade pivottabellerna som använder dessa pivottabelldata som datakälla.
 
 
 ###  Returnerar
 
-arrayobjektet PivotTable
+Pivottabell-matrisobjektet
 
 
 ```python
+
 def get_children(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_children(self):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

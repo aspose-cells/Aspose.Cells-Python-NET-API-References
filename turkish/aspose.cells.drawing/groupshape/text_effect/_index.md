@@ -3,14 +3,14 @@ title: text_effect mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 970
+weight: 990
 url: /tr/aspose.cells.drawing/groupshape/text_effect/
 is_root: false
 ---
 ##  text_effect mülk
 
  Belirtilen şekil için metin efekti biçimlendirme özelliklerini içeren bir TextEffectFormat nesnesi döndürür.
-WordArt'ı temsil eden Shape nesneleri için geçerlidir.
+WordArt'ı temsil eden Şekil nesneleri için geçerlidir.
 
 ###  Örnek
 

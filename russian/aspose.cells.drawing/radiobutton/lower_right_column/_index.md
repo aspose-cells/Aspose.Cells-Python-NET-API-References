@@ -1,15 +1,15 @@
 ---
 title: lower_right_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 800
+weight: 810
 url: /ru/aspose.cells.drawing/radiobutton/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column недвижимость
 
-Представляет индекс столбца в правом нижнем углу.
+Представляет индекс столбца в нижнем правом углу.
 
 ###  Пример
 

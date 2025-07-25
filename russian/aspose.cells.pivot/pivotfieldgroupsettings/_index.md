@@ -1,14 +1,14 @@
 ---
 title: PivotFieldGroupSettings класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 120
 url: /ru/aspose.cells.pivot/pivotfieldgroupsettings/
 is_root: false
 ---
 ##  PivotFieldGroupSettings класс
-Представляет групповую настройку сводного поля.
+Представляет групповую настройку поля сводки.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells.pivot/pivotfieldgroupsettings/__init__/#) | Создает новый экземпляр PivotFieldGroupSettings.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotfieldgroupsettings/__init__/#) | Создает новый экземпляр PivotFieldGroupSettings|
 
 
 ###  Характеристики

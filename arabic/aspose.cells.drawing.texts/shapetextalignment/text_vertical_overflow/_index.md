@@ -1,15 +1,15 @@
 ---
-title: text_vertical_overflow الملكية
+title: text_vertical_overflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 150
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/text_vertical_overflow/
 is_root: false
 ---
-##  text_vertical_overflow الملكية
+##  text_vertical_overflow عقار
 
-الحصول على نوع تجاوز النص العمودي لمربع النص وتعيينه.
+يحصل على نوع تجاوز النص العمودي لمربع النص ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def text_vertical_overflow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
-* فئة [TextOverflowType](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* فئة [`TextOverflowType`](/cells/python-net/ar/aspose.cells.drawing/textoverflowtype)

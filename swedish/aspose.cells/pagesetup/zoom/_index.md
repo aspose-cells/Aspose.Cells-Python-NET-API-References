@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  zoom fastighet
 
-Representerar skalningsfaktorn i procent. Det bör vara mellan 10 och 400.
+Representerar skalningsfaktorn i procent. Den bör vara mellan 10 och 400.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def zoom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

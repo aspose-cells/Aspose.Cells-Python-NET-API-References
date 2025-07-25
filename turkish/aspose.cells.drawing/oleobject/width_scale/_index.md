@@ -3,14 +3,14 @@ title: width_scale mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1390
+weight: 1400
 url: /tr/aspose.cells.drawing/oleobject/width_scale/
 is_root: false
 ---
 ##  width_scale mülk
 
-Genişlik ölçeğini orijinal resim genişliğinin yüzde birimi cinsinden alır ve ayarlar.
-Şekil resim değilse WidthScale özelliği yalnızca 100 değerini döndürür;
+Orijinal resim genişliğinin yüzde biriminde genişlik ölçeğini alır ve ayarlar.
+Eğer şekil resim değilse, WidthScale özelliği sadece 100 değerini döndürür;
 
 ###  Örnek
 

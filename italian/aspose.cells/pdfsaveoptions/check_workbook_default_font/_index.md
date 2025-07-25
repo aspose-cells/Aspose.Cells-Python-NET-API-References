@@ -1,21 +1,13 @@
 ---
 title: check_workbook_default_font proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 90
+weight: 100
 url: /it/aspose.cells/pdfsaveoptions/check_workbook_default_font/
 is_root: false
 ---
 ##  check_workbook_default_font proprietà
-
-Quando i caratteri in Excel sono Unicode e non devono essere impostati con il carattere corretto nello stile della cella,
-Possono apparire come blocco in pdf, immagine.
-Imposta questo su true per provare a utilizzare il carattere predefinito della cartella di lavoro per mostrare prima questi caratteri.
-
-###  Osservazioni
-
-L'impostazione predefinita è true.
 ###  Definizione:
 ```python
 @property
@@ -27,5 +19,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/it/aspose.cells/pdfsaveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/it/aspose.cells/pdfsaveoptions)

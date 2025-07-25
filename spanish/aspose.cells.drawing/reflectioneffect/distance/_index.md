@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance propiedad
 
-Obtiene y establece hasta dónde distance la sombra, en unidades de puntos.
+Obtiene y establece a qué distancia está la sombra en distance, en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ReflectionEffect](/cells/python-net/es/aspose.cells.drawing/reflectioneffect)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ReflectionEffect`](/cells/python-net/es/aspose.cells.drawing/reflectioneffect)

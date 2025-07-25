@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin_pt propiedad
 
-Devuelve el margen inferior en unidades de Puntos
+Devuelve el margen inferior en unidades de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_margin_pt(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoTextFrame](/cells/python-net/es/aspose.cells.drawing/msotextframe)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoTextFrame`](/cells/python-net/es/aspose.cells.drawing/msotextframe)

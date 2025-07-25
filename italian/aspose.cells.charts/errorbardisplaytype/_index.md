@@ -1,18 +1,18 @@
 ---
-title: ErrorBarDisplayType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ErrorBarDisplayType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 500
 url: /it/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
-##  ErrorBarDisplayType enumerazione
+##  Enumerazione ErrorBarDisplayType
 Rappresenta il tipo di visualizzazione della barra di errore.
 
 
 
-Il tipo ErrorBarDisplayType espone i membri seguenti:
+Il tipo ErrorBarDisplayType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo ErrorBarDisplayType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

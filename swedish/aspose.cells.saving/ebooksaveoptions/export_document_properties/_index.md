@@ -3,14 +3,14 @@ title: export_document_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 290
 url: /sv/aspose.cells.saving/ebooksaveoptions/export_document_properties/
 is_root: false
 ---
 ##  export_document_properties fastighet
 
- Anger om dokumentegenskaper exporteras. Standardvärdet är sant. Om du vill importera
-html- eller mht-filen för att excel, behåll standardvärdet.
+ Anger om dokumentegenskaper ska exporteras. Standardvärdet är sant. Om du vill importera
+html- eller mht-filen till Excel, vänligen behåll standardvärdet.
 ###  Definition:
 ```python
 @property

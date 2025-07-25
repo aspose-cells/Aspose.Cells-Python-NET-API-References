@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
-Fügt die Weberweiterungseigenschaft hinzu.
+##  add(self, name, value) {#str-str}
+Fügt die Eigenschaft einer Weberweiterung hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Der Index der hinzugefügten Eigenschaft.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, name, value):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionPropertyCollection](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionPropertyCollection`](/cells/python-net/de/aspose.cells.webextensions/webextensionpropertycollection)

@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
-##  remove_range(index) {#int}
-Verilen dizine göre bir aralığı kaldırır.
+##  remove_range(self, index) {#int}
+Belirtilen indekse göre bir aralığı kaldırır.
 
 
 
 ```python
+
 def remove_range(self, index):
     ...
 ```
@@ -20,10 +21,10 @@ def remove_range(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | kaldırılacak aralığın dizini.|
+| index | int | kaldırılacak aralığın indeksi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ErrorCheckOption](/cells/python-net/tr/aspose.cells/errorcheckoption)
+* modül [`aspose.cells`](../../)
+* sınıf [`ErrorCheckOption`](/cells/python-net/tr/aspose.cells/errorcheckoption)

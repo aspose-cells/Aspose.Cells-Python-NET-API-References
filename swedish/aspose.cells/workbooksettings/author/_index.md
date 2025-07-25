@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  author fastighet
 
-Hämtar och ställer in author för filen.
+Hämtar och anger author för filen.
 
 ###  Anmärkningar
 
-Det är inte inställt, kontrollera först [BuiltInDocumentPropertyCollection.author](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection#author), kontrollera sedan användaren av Environment.
+Den är inte inställd, kontrollera [`BuiltInDocumentPropertyCollection.author`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection#author) först, kontrollera sedan användaren av miljön.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def author(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [WorkbookSettings](/cells/python-net/sv/aspose.cells/workbooksettings)
+* modul [`aspose.cells`](../../)
+* klass [`WorkbookSettings`](/cells/python-net/sv/aspose.cells/workbooksettings)

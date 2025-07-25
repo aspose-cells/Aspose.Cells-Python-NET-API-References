@@ -1,19 +1,19 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 520
 url: /ru/aspose.cells/range/value/
 is_root: false
 ---
 ##  value недвижимость
 
-Получает и задает value диапазона.
+Получает и задает значение value диапазона.
 
 ###  Примечания
 
-Если диапазон содержит несколько ячеек, возвращаемый/примененный объект должен быть двумерным объектом массива.
+Если диапазон содержит несколько ячеек, возвращаемый/применяемый объект должен быть двумерным объектом массива.
 ###  Определение:
 ```python
 @property

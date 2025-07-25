@@ -1,5 +1,5 @@
 ---
-title: background_argb_color الملكية
+title: background_argb_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells/style/background_argb_color/
 is_root: false
 ---
-##  background_argb_color الملكية
+##  background_argb_color عقار
 
-الحصول على لون الخلفية وتعيينه بقيمة ARGB 32 بت.
+يحصل على لون الخلفية ويضبطه بقيمة ARGB 32 بت.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def background_argb_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

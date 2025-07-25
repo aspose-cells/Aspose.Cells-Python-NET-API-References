@@ -3,13 +3,13 @@ title: is_link Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 720
 url: /de/aspose.cells.drawing/picture/is_link/
 is_root: false
 ---
 ##  is_link Eigentum
 
-Gibt true zurück, wenn das Bild mit einer Datei verknüpft ist.
+Gibt „true“ zurück, wenn das Bild mit einer Datei verknüpft ist.
 ###  Definition:
 ```python
 @property

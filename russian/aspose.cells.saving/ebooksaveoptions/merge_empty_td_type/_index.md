@@ -1,15 +1,15 @@
 ---
 title: merge_empty_td_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 650
 url: /ru/aspose.cells.saving/ebooksaveoptions/merge_empty_td_type/
 is_root: false
 ---
 ##  merge_empty_td_type недвижимость
 
-Указывает, будет ли пустой элемент TD объединяться так же, как MS Excel, при сохранении файла Excel в формате html.
+Возможность объединения смежных пустых ячеек (пустых элементов td)
 Значение по умолчанию — MergeEmptyTdType.Default.
 ###  Определение:
 ```python

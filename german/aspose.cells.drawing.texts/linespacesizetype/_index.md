@@ -8,7 +8,7 @@ url: /de/aspose.cells.drawing.texts/linespacesizetype/
 is_root: false
 ---
 ##  LineSpaceSizeType Aufzählung
-Repräsentiert den Einheitentyp der Zeilenabstandsgröße.
+Stellt den Einheitentyp der Zeilenabstandsgröße dar.
 
 
 
@@ -17,10 +17,10 @@ Der Typ LineSpaceSizeType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| PERCENTAGE | Stellt die Einheit eines Prozentsatzes der Textgröße dar.|
-| POINTS | Repräsentiert in der Einheit von Punkten.|
+| PERCENTAGE | Stellt die Textgröße in Prozent dar.|
+| POINTS | Die Einheit ist Punkte.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](..)
+* Modul [`aspose.cells.drawing.texts`](..)

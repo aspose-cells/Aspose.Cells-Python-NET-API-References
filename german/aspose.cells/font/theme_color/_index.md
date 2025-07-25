@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [ThemeColor](/cells/python-net/de/aspose.cells/themecolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`ThemeColor`](/cells/python-net/de/aspose.cells/themecolor)

@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def get_consumption_quantity(self):
+
+@staticmethod
+def get_consumption_quantity():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_quantity(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Metered](/cells/python-net/ar/aspose.cells/metered)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Metered`](/cells/python-net/ar/aspose.cells/metered)

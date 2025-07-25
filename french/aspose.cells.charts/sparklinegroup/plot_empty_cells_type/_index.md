@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_empty_cells_type propriété
 
-Indique comment tracer les cellules vides.
+Indique comment tracer des cellules vides.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [PlotEmptyCellsType](/cells/python-net/fr/aspose.cells.charts/plotemptycellstype)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`PlotEmptyCellsType`](/cells/python-net/fr/aspose.cells.charts/plotemptycellstype)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

@@ -1,13 +1,13 @@
 ---
-title: alignments 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: alignments属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/styleflag/alignments/
 is_root: false
 ---
-## alignments 属性
+## alignments属性
 
 将应用对齐设置。
 ### 定义：
@@ -21,5 +21,5 @@ def alignments(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [StyleFlag](/cells/python-net/zh/aspose.cells/styleflag)
+* 模块[`aspose.cells`](../../)
+* 类 [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag)

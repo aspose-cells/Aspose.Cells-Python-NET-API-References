@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/memoryfontsource/__init__/
 is_root: false
 ---
-##  MemoryFontSource(font_data) {#bytes}
-Ctor.
+##  \_\_init\_\_(kendi, yazı_tipi_verisi){#bytes}
+Kondüktör.
 
 
 
 ```python
+
 def __init__(self, font_data):
     ...
 ```
@@ -25,5 +26,5 @@ def __init__(self, font_data):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [MemoryFontSource](/cells/python-net/tr/aspose.cells/memoryfontsource)
+* modül [`aspose.cells`](../../)
+* sınıf [`MemoryFontSource`](/cells/python-net/tr/aspose.cells/memoryfontsource)

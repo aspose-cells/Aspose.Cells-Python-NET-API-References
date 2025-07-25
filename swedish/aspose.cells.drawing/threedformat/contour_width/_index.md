@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contour_width fastighet
 
-Hämtar och ställer in konturbredden på formen, i punktenhet.
+Hämtar och ställer in konturbredden på formen, i enheten punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def contour_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

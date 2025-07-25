@@ -1,22 +1,23 @@
 ---
-title: metodo get_dependents_in_calculation
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_dependents_in_calculation
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
 url: /it/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
+##  get_dependents_in_calculation(self, recursive) {#bool}
 Ottiene tutte le celle il cui risultato calcolato dipende da questa cella.
 
 
 ###  ritorna
 
-Enumeratore per enumerare tutti i dipendenti (oggetti Cell)
+Enumeratore per enumerare tutti i dipendenti (Cell oggetti)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| recursive | bool | Se restituisce quei dipendenti che non fanno riferimento direttamente a questa cella<br/> ma riferimento ad altri fogli di questa cella|
+| recursive | bool | Se restituisce i dipendenti che non fanno riferimento direttamente a questa cella<br/> ma riferimento ad altre foglie di questa cellula|
 ###  Osservazioni
 
-Per utilizzare questo metodo, assicurati che la cartella di lavoro sia stata impostata con il valore vero per
-[FormulaSettings.enable_calculation_chain](/cells/python-net/it/aspose.cells/formulasettings#enable_calculation_chain) ed è stato interamente calcolato con questa impostazione.
-Se non è presente alcun riferimento alla formula per questa cella, verrà restituito null.
+Per utilizzare questo metodo, assicurati che la cartella di lavoro sia stata impostata con il valore true per
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/it/aspose.cells/formulasettings#enable_calculation_chain) ed è stato calcolato completamente con questa impostazione.
+Se non esiste alcun riferimento a una formula per questa cella, verrà restituito null.
 ###  Esempio
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Cell](/cells/python-net/it/aspose.cells/cell)
+* modulo [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/it/aspose.cells/cell)

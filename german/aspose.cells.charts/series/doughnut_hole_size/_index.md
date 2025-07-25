@@ -10,7 +10,7 @@ is_root: false
 ##  doughnut_hole_size Eigentum
 
  Gibt die Größe des Lochs in einer Ringdiagrammgruppe zurück oder legt sie fest.
-Die Lochgröße wird als Prozentsatz der Diagrammgröße ausgedrückt und liegt zwischen 10 und 90 Prozent.
+Die Lochgröße wird als Prozentsatz der Diagrammgröße zwischen 10 und 90 Prozent ausgedrückt.
 ###  Definition:
 ```python
 @property

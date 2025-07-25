@@ -10,9 +10,9 @@ is_root: false
 ##  is_hf_align_margins propiedad
 
 Indica si los márgenes del encabezado y pie de página están alineados con los márgenes de la página.
-Si esta propiedad es verdadera, el encabezado y el pie de página izquierdos se alinearán con el margen izquierdo,
-el encabezado y el pie de página de la derecha se alinearán con el margen derecho.
-Esta opción está activada de forma predeterminada.
+Si esta propiedad es verdadera, el encabezado y pie de página izquierdos se alinearán con el margen izquierdo.
+y el encabezado y pie de página derechos se alinearán con el margen derecho.
+Esta opción está habilitada de forma predeterminada.
 ###  Definición:
 ```python
 @property
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

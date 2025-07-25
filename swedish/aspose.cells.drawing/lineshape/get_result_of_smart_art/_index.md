@@ -3,16 +3,17 @@ title: get_result_of_smart_art metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 130
+weight: 140
 url: /sv/aspose.cells.drawing/lineshape/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art {#}
+##  get_result_of_smart_art(self) {#}
 Konvertera smart konst till grupperade former.
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```

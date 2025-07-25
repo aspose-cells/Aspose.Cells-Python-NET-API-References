@@ -1,15 +1,15 @@
 ---
 title: standard_width_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1280
+weight: 1310
 url: /ru/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
 ##  standard_width_inch недвижимость
 
-Получает или задает ширину столбца по умолчанию на листе в дюймах.
+Возвращает или задает ширину столбца по умолчанию на листе (в дюймах).
 ###  Определение:
 ```python
 @property

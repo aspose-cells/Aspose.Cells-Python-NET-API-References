@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  modify_document_permission عقار
 
- يشير إلى ما إذا كان سيتم السماح بتعديل محتويات الوثيقة عن طريق عمليات أخرى غير تلك التي يتم التحكم فيها
-بواسطة [`PdfSecurityOptions.annotations_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission) و [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) و [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
+ يشير إلى ما إذا كان سيتم السماح بتعديل محتويات المستند من خلال عمليات أخرى غير تلك التي يتم التحكم فيها
+بواسطة [`PdfSecurityOptions.annotations_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission)، [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) و [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height Eigentum
 
-Höhe des Ticklabel-Elements im Verhältnis zum Diagramm height.
+Höhe des Ticklabel-Elements im Verhältnis des Diagramms height.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [TickLabelItem](/cells/python-net/de/aspose.cells.charts/ticklabelitem)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`TickLabelItem`](/cells/python-net/de/aspose.cells.charts/ticklabelitem)

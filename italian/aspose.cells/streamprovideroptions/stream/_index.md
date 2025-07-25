@@ -1,6 +1,6 @@
 ---
 title: stream proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -21,5 +21,5 @@ def stream(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StreamProviderOptions](/cells/python-net/it/aspose.cells/streamprovideroptions)
+* modulo [`aspose.cells`](../../)
+* classe [`StreamProviderOptions`](/cells/python-net/it/aspose.cells/streamprovideroptions)

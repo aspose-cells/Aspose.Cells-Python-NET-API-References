@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_drag_behavior_enabled propiedad
 
-Indica si la función de arrastrar y colocar está habilitada para el control.
+Indica si la función de arrastrar y soltar está habilitada para el control.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_drag_behavior_enabled(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ComboBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ComboBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

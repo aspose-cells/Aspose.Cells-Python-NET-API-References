@@ -3,7 +3,7 @@ title: ResourceLoadingType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 2530
+weight: 2500
 url: /zh/aspose.cells/resourceloadingtype/
 is_root: false
 ---
@@ -14,11 +14,11 @@ is_root: false
 
 ResourceLoadingType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| DEFAULT |像往常一样加载此资源。|
-| SKIP |跳过该资源的加载。|
+| DEFAULT |照常加载此资源。|
+| SKIP |跳过此资源的加载。|
 | USER_PROVIDED |使用用户提供的流|
 
 

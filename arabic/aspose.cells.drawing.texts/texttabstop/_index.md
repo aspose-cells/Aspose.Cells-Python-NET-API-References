@@ -1,5 +1,5 @@
 ---
-title: TextTabStop الدرجة
+title: TextTabStop صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 120
 url: /ar/aspose.cells.drawing.texts/texttabstop/
 is_root: false
 ---
-##  TextTabStop الدرجة
+##  TextTabStop صف
 يمثل علامة التبويب.
 
 
 
-يكشف نوع TextTabStop الأعضاء التالية:
+يكشف النوع TextTabStop عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [tab_alignment](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop/tab_alignment) | يحدد المحاذاة التي سيتم تطبيقها على النص باستخدام علامة الجدولة هذه.|
-| [tab_position](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop/tab_position) | يحدد موضع علامة الجدولة بالنسبة للهامش الأيسر.|
+| [tab_alignment](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop/tab_alignment) | يقوم بتحديد المحاذاة التي سيتم تطبيقها على النص باستخدام علامة التبويب هذه.|
+| [tab_position](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstop/tab_position) |يقوم بتحديد موضع علامة التبويب بالنسبة إلى الهامش الأيسر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
+* الوحدة [`aspose.cells.drawing.texts`](..)

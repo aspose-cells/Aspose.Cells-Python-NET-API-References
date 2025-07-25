@@ -1,6 +1,6 @@
 ---
 title: lighting_direction недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_direction недвижимость
 
-Получает и задает направление установки освещения относительно сцены.
+Получает и задает направление, в котором ориентирована осветительная установка по отношению к сцене.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LightRigDirectionType](/cells/python-net/ru/aspose.cells.drawing/lightrigdirectiontype)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LightRigDirectionType`](/cells/python-net/ru/aspose.cells.drawing/lightrigdirectiontype)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

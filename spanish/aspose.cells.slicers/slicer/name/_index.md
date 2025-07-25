@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propiedad
 
-Devuelve o establece el name de la segmentación especificada
+Devuelve o establece el name de la segmentación de datos especificada
 
 ###  Ejemplo
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)

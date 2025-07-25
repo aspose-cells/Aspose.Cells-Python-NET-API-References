@@ -1,6 +1,6 @@
 ---
 title: cells_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -18,6 +18,6 @@ def cells_color(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [CellsColor](/cells/python-net/it/aspose.cells/cellscolor)
-* classe [GradientStop](/cells/python-net/it/aspose.cells.drawing/gradientstop)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`CellsColor`](/cells/python-net/it/aspose.cells/cellscolor)
+* classe [`GradientStop`](/cells/python-net/it/aspose.cells.drawing/gradientstop)

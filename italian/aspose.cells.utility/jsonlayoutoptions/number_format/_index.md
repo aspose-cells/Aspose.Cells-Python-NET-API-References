@@ -1,9 +1,9 @@
 ---
 title: number_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 110
 url: /it/aspose.cells.utility/jsonlayoutoptions/number_format/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](../../)
-* classe [JsonLayoutOptions](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)
+* modulo [`aspose.cells.utility`](../../)
+* classe [`JsonLayoutOptions`](/cells/python-net/it/aspose.cells.utility/jsonlayoutoptions)

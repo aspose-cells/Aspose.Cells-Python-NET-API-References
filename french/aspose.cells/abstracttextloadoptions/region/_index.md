@@ -3,18 +3,24 @@ title: region propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 280
+weight: 260
 url: /fr/aspose.cells/abstracttextloadoptions/region/
 is_root: false
 ---
 ##  region propriété
 
-Obtient ou définit les paramètres régionaux du système en fonction de CountryCode au moment du chargement du fichier.
+Obtient ou définit les paramètres régionaux utilisés pour le classeur qui sera chargé.
 
 ###  Remarques
 
- Si vous ne souhaitez pas utiliser le region enregistré dans le fichier,
-veuillez le réinitialiser après avoir lu le fichier.
+Les paramètres régionaux peuvent être utilisés pour initialiser certaines fonctionnalités du classeur
+comme les polices, les thèmes, etc.
+Pour les formats de fichiers basés sur du texte, tels que CSV, HTML, ..., le paramètre régional
+sera également utilisé pour détecter les formats de nombres et analyser les valeurs de texte en valeurs numériques
+ou des valeurs datetime pour les cellules.
+Ce paramètre sera conservé pour le classeur instancié ultérieurement, c'est-à-dire,
+[`WorkbookSettings.region`](/cells/python-net/fr/aspose.cells/workbooksettings#region) du classeur utilisera le même region
+avec cette propriété.
 ###  Définition:
 ```python
 @property

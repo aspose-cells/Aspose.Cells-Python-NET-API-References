@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  top_bevel_height fastighet
 
-Får och ställer in höjden på den övre avfasningen, eller hur långt in i formen den appliceras.
-I enhet av poäng.
+Hämtar och anger höjden på den övre avfasningen, eller hur långt in i formen den appliceras.
+I enheten poäng.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def top_bevel_height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

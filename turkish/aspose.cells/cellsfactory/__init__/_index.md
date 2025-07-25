@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/cellsfactory/__init__/
 is_root: false
 ---
-##  CellsFactory() {#}
+##  \_\_init\_\_(kendi){#}
 CellsFactory'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsFactory](/cells/python-net/tr/aspose.cells/cellsfactory)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsFactory`](/cells/python-net/tr/aspose.cells/cellsfactory)

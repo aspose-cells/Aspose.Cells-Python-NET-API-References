@@ -3,16 +3,17 @@ title: remove_hyperlink metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 190
 url: /sv/aspose.cells.drawing/spinner/remove_hyperlink/
 is_root: false
 ---
-##  remove_hyperlink {#}
-Ta bort hyperlänken för formen.
+##  remove_hyperlink(self) {#}
+Tar bort hyperlänken till formen.
 
 
 
 ```python
+
 def remove_hyperlink(self):
     ...
 ```

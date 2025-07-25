@@ -1,18 +1,19 @@
 ---
 title: delete_in_range方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 430
 url: /zh/aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
-##  delete_in_range(ca) {#CellArea}
+##  delete_in_range(self, ca) {#aspose.cells.CellArea}
 删除范围内的形状。注释形状不会被删除。
 
 
 
 ```python
+
 def delete_in_range(self, ca):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_in_range(self, ca):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/zh/aspose.cells/cellarea) |范围。如果形状包含在范围内，它们将被删除。|
+| ca | [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea) |范围。如果形状包含在范围内，则将其删除。|
 
 ### 例子
 
@@ -44,5 +45,5 @@ shapes.delete_in_range(area3)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

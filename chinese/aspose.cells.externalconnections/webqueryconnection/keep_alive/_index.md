@@ -1,17 +1,13 @@
 ---
-title: keep_alive 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: keep_alive属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 280
 url: /zh/aspose.cells.externalconnections/webqueryconnection/keep_alive/
 is_root: false
 ---
-## keep_alive 属性
-
-当电子表格应用程序应努力保持连接时为真
-打开。为 false 时，应用程序应在检索到
-信息。
+## keep_alive属性
 ### 定义：
 ```python
 @property
@@ -23,5 +19,5 @@ def keep_alive(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [WebQueryConnection](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`WebQueryConnection`](/cells/python-net/zh/aspose.cells.externalconnections/webqueryconnection)

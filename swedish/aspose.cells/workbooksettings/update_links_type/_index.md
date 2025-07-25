@@ -3,13 +3,13 @@ title: update_links_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 500
+weight: 520
 url: /sv/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ##  update_links_type fastighet
 
-Hämtar och ställer in hur externa länkar uppdateras när arbetsboken öppnas.
+Hämtar och anger hur externa länkar uppdateras när arbetsboken öppnas.
 ###  Definition:
 ```python
 @property

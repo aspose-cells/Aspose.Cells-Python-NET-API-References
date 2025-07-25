@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells/horizontalpagebreakcollection/add/
 is_root: false
 ---
-##  add(row) {#int}
+##  add(self, row) {#int}
 Agrega un salto de página horizontal a la colección.
 
 
 ###  Devoluciones
 
-[HorizontalPageBreak](/cells/python-net/es/aspose.cells/horizontalpagebreak) índice de objetos.
+Índice de objeto [`HorizontalPageBreak`](/cells/python-net/es/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row):
     ...
 ```
@@ -28,18 +29,19 @@ def add(self, row):
 ###  Observaciones
 
 El salto de página se agrega en la parte superior izquierda de la celda.
-Establezca un salto de página horizontal y un salto de página vertical al mismo tiempo.
+Establezca un salto de página horizontal y un salto de página vertical simultáneamente.
 
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Agrega un salto de página horizontal a la colección.
 
 
 ###  Devoluciones
 
-[HorizontalPageBreak](/cells/python-net/es/aspose.cells/horizontalpagebreak) índice de objetos.
+Índice de objeto [`HorizontalPageBreak`](/cells/python-net/es/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -51,18 +53,19 @@ def add(self, cell_name):
 ###  Observaciones
 
 El salto de página se agrega en la parte superior izquierda de la celda.
-Establezca un salto de página horizontal y un salto de página vertical al mismo tiempo.
+Establezca un salto de página horizontal y un salto de página vertical simultáneamente.
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Agrega un salto de página horizontal a la colección.
 
 
 ###  Devoluciones
 
-[HorizontalPageBreak](/cells/python-net/es/aspose.cells/horizontalpagebreak) índice de objetos.
+Índice de objeto [`HorizontalPageBreak`](/cells/python-net/es/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -71,22 +74,23 @@ def add(self, row, column):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | row | int | Cell índice de fila, basado en cero.|
-| column | int | Cell índice de columna, basado en cero.|
+| column | int | Índice de columna Cell, basado en cero.|
 ###  Observaciones
 
 El salto de página se agrega en la parte superior izquierda de la celda.
-Establezca un salto de página horizontal y un salto de página vertical al mismo tiempo.
+Establezca un salto de página horizontal y un salto de página vertical simultáneamente.
 
-##  add(row, start_column, end_column) {#int-int-int}
+##  add(self, row, start_column, end_column) {#int-int-int}
 Agrega un salto de página horizontal a la colección.
 
 
 ###  Devoluciones
 
-[HorizontalPageBreak](/cells/python-net/es/aspose.cells/horizontalpagebreak) índice de objetos.
+Índice de objeto [`HorizontalPageBreak`](/cells/python-net/es/aspose.cells/horizontalpagebreak).
 
 
 ```python
+
 def add(self, row, start_column, end_column):
     ...
 ```
@@ -99,11 +103,11 @@ def add(self, row, start_column, end_column):
 | end_column | int | Índice de columna final, basado en cero.|
 ###  Observaciones
 
-Este método se utiliza para add un salto de página horizontal dentro de un área de impresión.
+Este método se utiliza para crear un salto de página horizontal dentro de un área de impresión.
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [HorizontalPageBreak](/cells/python-net/es/aspose.cells/horizontalpagebreak)
-* clase [HorizontalPageBreakCollection](/cells/python-net/es/aspose.cells/horizontalpagebreakcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`HorizontalPageBreak`](/cells/python-net/es/aspose.cells/horizontalpagebreak)
+* clase [`HorizontalPageBreakCollection`](/cells/python-net/es/aspose.cells/horizontalpagebreakcollection)

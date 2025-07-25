@@ -3,13 +3,13 @@ title: top_margin_pt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 170
 url: /tr/aspose.cells.drawing.texts/shapetextalignment/top_margin_pt/
 is_root: false
 ---
 ##  top_margin_pt mülk
 
-Puan birimi cinsinden üst marjı verir
+Üst kenar boşluğunu Puan biriminde döndürür
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def top_margin_pt(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

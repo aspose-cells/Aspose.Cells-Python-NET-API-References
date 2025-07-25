@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle propiedad
 
-Representa la rotación de la vista del gráfico 3D (la rotación del área de trazado alrededor del eje z, en grados).
+Representa la rotación de la vista del gráfico 3D (la rotación del área del gráfico alrededor del eje z, en grados).
 
 ###  Observaciones
 

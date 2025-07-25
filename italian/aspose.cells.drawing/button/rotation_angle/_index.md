@@ -1,9 +1,9 @@
 ---
 title: rotation_angle proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 870
+weight: 880
 url: /it/aspose.cells.drawing/button/rotation_angle/
 is_root: false
 ---
@@ -15,8 +15,10 @@ Ottiene e imposta la rotazione della forma.
 
 ```python
 
-if shape.rotation_angle == 45:
-    shape.rotation_angle = 60.0
+# Gets rotation angle of the shape.
+angle = shape.rotation_angle
+# Gets rotation angle of the shape.
+shape.rotation_angle = 60.0
 
 ```
 ###  Definizione:

@@ -1,5 +1,5 @@
 ---
-title: top10 الملكية
+title: top10 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 200
 url: /ar/aspose.cells/formatcondition/top10/
 is_root: false
 ---
-##  top10 الملكية
+##  top10 عقار
 
 احصل على مثيل "Top10" للتنسيق الشرطي.
-تبرز قاعدة المثيل الافتراضي الخلايا التي تحتوي على
-تقع القيم في أعلى 10 شريحة.
-صالح فقط للنوع هو Top10.
+تسلط قاعدة المثيل الافتراضي الضوء على الخلايا التي
+القيم تقع ضمن الفئة العشرة الأولى.
+صالح فقط للنوع Top10.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatCondition](/cells/python-net/ar/aspose.cells/formatcondition)
-* فئة [Top10](/cells/python-net/ar/aspose.cells/top10)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatCondition`](/cells/python-net/ar/aspose.cells/formatcondition)
+* فئة [`Top10`](/cells/python-net/ar/aspose.cells/top10)

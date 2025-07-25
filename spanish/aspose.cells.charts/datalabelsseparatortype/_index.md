@@ -17,12 +17,12 @@ El tipo DataLabelsSeparatorType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| AUTO | Representa el separador automático.|
-| SPACE | Representa el espacio(" ")|
-| COMMA | Representa coma(",")|
-| SEMICOLON | Representa punto y coma(";")|
-| PERIOD | Representa el período(".")|
-| NEW_LINE | Representa nueva línea ("\n")|
+| AUTO | Representa separador automático|
+| SPACE | Representa el espacio (" ")|
+| COMMA | Representa la coma (",")|
+| SEMICOLON | Representa punto y coma (";")|
+| PERIOD | Representa el punto(".")|
+| NEW_LINE | Representa una nueva línea ("\n")|
 | CUSTOM | Representa un separador personalizado|
 
 

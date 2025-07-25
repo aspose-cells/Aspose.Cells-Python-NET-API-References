@@ -1,16 +1,16 @@
 ---
 title: table_css_id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 680
+weight: 770
 url: /ru/aspose.cells.saving/ebooksaveoptions/table_css_id/
 is_root: false
 ---
 ##  table_css_id недвижимость
 
- Получает и устанавливает префикс имени типа CSS, например tr,col,td и т. д., они содержатся в элементе таблицы.
-который имеет определенный атрибут TableCssId. Значение по умолчанию — «».
+Получает и задает префикс типа css-имени, например tr,col,td и т. д., они содержатся в элементе table.
+У которого есть специальный атрибут TableCssId. Значение по умолчанию — "".
 ###  Определение:
 ```python
 @property

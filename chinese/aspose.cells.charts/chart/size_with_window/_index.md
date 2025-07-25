@@ -9,7 +9,7 @@ is_root: false
 ---
 ## size_with_window属性
 
-如果 Microsoft Excel 调整图表大小以匹配图表工作表窗口的大小，则为 true。
+如果 Microsoft 则为真 Excel 调整图表大小以匹配图表工作表窗口的大小。
 ### 定义：
 ```python
 @property

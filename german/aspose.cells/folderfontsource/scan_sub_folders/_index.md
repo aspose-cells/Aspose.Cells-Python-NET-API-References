@@ -18,5 +18,5 @@ def scan_sub_folders(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FolderFontSource](/cells/python-net/de/aspose.cells/folderfontsource)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FolderFontSource`](/cells/python-net/de/aspose.cells/folderfontsource)

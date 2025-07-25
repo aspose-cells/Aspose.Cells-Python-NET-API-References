@@ -1,6 +1,6 @@
 ---
 title: SparklineType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 630
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип SparklineType предоставляет следующие члены:
+Тип SparklineType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | LINE | Линейный спарклайн.|
 | COLUMN | Спарклайн столбца.|
-| STACKED | Спарклайн выигрышей/проигрышей.|
+| STACKED | Спарклайн выигрыш/проигрыш.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

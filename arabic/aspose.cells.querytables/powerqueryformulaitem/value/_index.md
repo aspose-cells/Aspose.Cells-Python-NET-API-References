@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.querytables/powerqueryformulaitem/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
 يحصل على value للعنصر.
 ###  تعريف:
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](../../)
-* فئة [PowerQueryFormulaItem](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulaitem)
+* الوحدة [`aspose.cells.querytables`](../../)
+* فئة [`PowerQueryFormulaItem`](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulaitem)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical mülk
 
-Çalışma Kitabı dosyasındaki bir satır DataTable'daki bir satırı temsil ediyorsa doğrudur. Çalışma Kitabı dosyasındaki bir sütun DataTable'daki bir satırı temsil ediyorsa false.
+Çalışma Kitabı dosyasındaki bir satır DataTable'daki bir satırı temsil ediyorsa True. Çalışma Kitabı dosyasındaki bir sütun DataTable'daki bir satırı temsil ediyorsa False.
 ###  Tanım:
 ```python
 @property

@@ -8,10 +8,6 @@ url: /de/aspose.cells/pptxsaveoptions/all_columns_in_one_page_per_sheet/
 is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet Eigentum
-
- Wenn AllColumnsInOnePagePerSheet true ist, wird der gesamte Spalteninhalt eines Blattes nur auf einer Seite im Ergebnis ausgegeben.
- Die Breite des Papierformats von „pagesetup“ und die anderen Einstellungen von „pagesetup“ werden ignoriert
-wird weiterhin wirksam.
 ###  Definition:
 ```python
 @property

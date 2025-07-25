@@ -3,16 +3,17 @@ title: combine yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 80
 url: /tr/aspose.cells/workbook/combine/
 is_root: false
 ---
-##  combine(second_workbook) {#Workbook}
+##  combine(self, second_workbook) {#aspose.cells.Workbook}
 Başka bir Çalışma Kitabı nesnesini birleştirir.
 
 
 
 ```python
+
 def combine(self, second_workbook):
     ...
 ```
@@ -20,13 +21,13 @@ def combine(self, second_workbook):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| second_workbook | [Workbook](/cells/python-net/tr/aspose.cells/workbook) | Başka bir Çalışma Kitabı nesnesi.|
+| second_workbook | [`Workbook`](/cells/python-net/tr/aspose.cells/workbook) | Başka bir Çalışma Kitabı nesnesi.|
 ###  Notlar
 
-Şu anda yalnızca ikinci Çalışma Kitabı nesnesinin hücre verileri ve hücre stili birleştirilebilir. Resimler, çizelgeler ve diğer çizim nesneleri desteklenmez.
+Excel, ODS, CSV ve diğer dosyaları tek bir dosyada birleştirin.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

@@ -3,16 +3,17 @@ title: método move
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 60
 url: /es/aspose.cells.pivot/pivotfieldcollection/move/
 is_root: false
 ---
-##  move {#int-int}
+##  move(self, curr_pos, dest_pos) {#int-int}
 Mueve el campo dinámico desde la posición actual a la posición de destino
 
 
 
 ```python
+
 def move(self, curr_pos, dest_pos):
     ...
 ```

@@ -1,6 +1,6 @@
 ---
 title: embed_smart_tags proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  embed_smart_tags proprietà
 
-Indica se salvare gli smart tag con la cartella di lavoro.
+Indica se salvare i tag intelligenti con la cartella di lavoro.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def embed_smart_tags(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](../../)
-* classe [SmartTagOptions](/cells/python-net/it/aspose.cells.markup/smarttagoptions)
+* modulo [`aspose.cells.markup`](../../)
+* classe [`SmartTagOptions`](/cells/python-net/it/aspose.cells.markup/smarttagoptions)

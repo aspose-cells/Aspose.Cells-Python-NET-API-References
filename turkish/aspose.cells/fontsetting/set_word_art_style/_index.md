@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/fontsetting/set_word_art_style/
 is_root: false
 ---
-##  set_word_art_style(style) {#aspose.cells.drawing.PresetWordArtStyle}
+##  set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
 Önceden ayarlanmış WordArt stilini ayarlar.
 
 
 
 ```python
+
 def set_word_art_style(self, style):
     ...
 ```
@@ -23,10 +24,10 @@ def set_word_art_style(self, style):
 | style | aspose.cells.drawing.PresetWordArtStyle | Önceden ayarlanmış WordArt stili.|
 ###  Notlar
 
-Yalnızca şekil/grafik metni için.
+Sadece şekil/grafik metni için.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [FontSetting](/cells/python-net/tr/aspose.cells/fontsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`FontSetting`](/cells/python-net/tr/aspose.cells/fontsetting)

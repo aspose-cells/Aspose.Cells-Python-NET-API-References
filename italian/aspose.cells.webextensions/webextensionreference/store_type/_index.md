@@ -1,6 +1,6 @@
 ---
 title: store_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_type proprietà
 
-Ottiene e imposta il tipo di marketplace identificato dall'attributo del negozio.
+Ottiene e imposta il tipo di marketplace identificato dall'attributo store.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionReference](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)
-* classe [WebExtensionStoreType](/cells/python-net/it/aspose.cells.webextensions/webextensionstoretype)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionReference`](/cells/python-net/it/aspose.cells.webextensions/webextensionreference)
+* classe [`WebExtensionStoreType`](/cells/python-net/it/aspose.cells.webextensions/webextensionstoretype)

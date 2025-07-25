@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  high_point_color propiedad
 
-Obtiene y establece el color de los puntos más altos de datos en el grupo minigráfico.
+Obtiene y establece el color de los puntos más altos de datos en el grupo de minigráficos.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def high_point_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [SparklineGroup](/cells/python-net/es/aspose.cells.charts/sparklinegroup)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`SparklineGroup`](/cells/python-net/es/aspose.cells.charts/sparklinegroup)

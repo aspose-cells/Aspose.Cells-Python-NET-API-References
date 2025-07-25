@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Çizginin görünür olup olmadığını temsil eder.
+Çizginin görünür olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ErrorBar](/cells/python-net/tr/aspose.cells.charts/errorbar)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ErrorBar`](/cells/python-net/tr/aspose.cells.charts/errorbar)

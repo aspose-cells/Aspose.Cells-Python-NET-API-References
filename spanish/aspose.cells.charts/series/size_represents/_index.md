@@ -13,8 +13,8 @@ Obtiene o establece lo que representa el tamaño de la burbuja en un gráfico de
 
 ###  Observaciones
 
-BubbleSizeRepresents.SizeIsArea significa que el valor [Series.bubble_sizes](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el área de la burbuja.
-BubbleSizeRepresents.SizeIsWidth significa que el valor [Series.bubble_sizes](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el ancho de la burbuja.
+BubbleSizeRepresents.SizeIsArea significa que el valor [`Series.bubble_sizes`](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el área de la burbuja.
+BubbleSizeRepresents.SizeIsWidth significa que el valor [`Series.bubble_sizes`](/cells/python-net/es/aspose.cells.charts/series#bubble_sizes) es el ancho de la burbuja.
 ###  Definición:
 ```python
 @property
@@ -26,6 +26,6 @@ def size_represents(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [BubbleSizeRepresents](/cells/python-net/es/aspose.cells.charts/bubblesizerepresents)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`BubbleSizeRepresents`](/cells/python-net/es/aspose.cells.charts/bubblesizerepresents)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

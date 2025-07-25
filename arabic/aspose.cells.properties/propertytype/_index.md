@@ -1,30 +1,30 @@
 ---
-title: العد PropertyType
+title: PropertyType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 80
 url: /ar/aspose.cells.properties/propertytype/
 is_root: false
 ---
-##  العد PropertyType
-يحدد نوع البيانات لخاصية الوثيقة.
+##  PropertyType التعداد
+يحدد نوع بيانات خاصية المستند.
 
 
 
-يكشف نوع PropertyType الأعضاء التالية:
+يكشف النوع PropertyType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| BOOLEAN | الخاصية هي قيمة منطقية.|
-| DATE_TIME | الخاصية هي قيمة وقت التاريخ.|
-| DOUBLE | الخاصية هي رقم عائم.|
-| NUMBER | الخاصية هي رقم صحيح.|
-| STRING | الخاصية هي قيمة سلسلة.|
-| BLOB | الخاصية هي صفيف بايت.|
+| BOOLEAN | الخاصية عبارة عن قيمة منطقية.|
+| DATE_TIME | الخاصية هي قيمة تاريخ ووقت.|
+| DOUBLE | الخاصية عبارة عن رقم عائم.|
+| NUMBER | الخاصية عبارة عن عدد صحيح.|
+| STRING | الخاصية عبارة عن قيمة سلسلة.|
+| BLOB | الخاصية عبارة عن مجموعة بايتات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](..)
+* الوحدة [`aspose.cells.properties`](..)

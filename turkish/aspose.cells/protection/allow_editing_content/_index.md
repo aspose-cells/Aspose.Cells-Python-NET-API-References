@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_content mülk
 
-Kullanıcının korumalı bir çalışma sayfasındaki kilitli hücrelerin içeriğini düzenlemesine izin verilip verilmediğini temsil eder.
+Kullanıcının korumalı bir çalışma sayfasındaki kilitli hücrelerin içeriğini düzenlemesine izin verilip verilmediğini gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_content(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

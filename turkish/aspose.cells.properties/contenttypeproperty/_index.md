@@ -12,7 +12,7 @@ Tanımlayıcı bilgileri temsil eder.
 
 
 
-ContentTypeProperty türü aşağıdaki üyeleri gösterir:
+ContentTypeProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -20,7 +20,7 @@ ContentTypeProperty türü aşağıdaki üyeleri gösterir:
 | [name](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty/name) | Nesnenin adını döndürür veya ayarlar.|
 | [value](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty/value) | İçerik türü özelliğinin değerini döndürür veya ayarlar.|
 | [type](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty/type) | Özelliğin türünü alır ve ayarlar.|
-| [is_nillable](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty/is_nillable) | Değerin boş olup olamayacağını gösterir.|
+| [is_nillable](/cells/python-net/tr/aspose.cells.properties/contenttypeproperty/is_nillable) | Değerin boş olup olamayacağını belirtir.|
 
 
 
@@ -39,4 +39,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](..)
+* modül [`aspose.cells.properties`](..)

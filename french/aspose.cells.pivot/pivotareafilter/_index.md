@@ -3,12 +3,12 @@ title: PivotAreaFilter classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 40
 url: /fr/aspose.cells.pivot/pivotareafilter/
 is_root: false
 ---
 ##  PivotAreaFilter classe
-Représente le filtre du [`PivotArea`](/cells/python-net/fr/aspose.cells.pivot/pivotarea) pour le [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable).
+Représente le filtre de [`PivotArea`](/cells/python-net/fr/aspose.cells.pivot/pivotarea) pour [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable).
 
 
 
@@ -17,7 +17,7 @@ Le type PivotAreaFilter expose les membres suivants :
 ###  Constructeurs
 | Constructeur| Description|
 | :- | :- |
-| [__init__](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/__init__/#) | Construit une nouvelle instance de PivotAreaFilter|
+| [`__init__(self)`](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/__init__/#) | Construit une nouvelle instance de PivotAreaFilter|
 
 
 ###  Propriétés
@@ -29,8 +29,8 @@ Le type PivotAreaFilter expose les membres suivants :
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [is_subtotal_set](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.PivotFieldSubtotalType) | Obtient le sous-total défini pour ce filtre.|
-| [set_subtotals](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Sous-total pour le filtre.|
+| [`is_subtotal_set(self, subtotal_type)`](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.pivotfieldsubtotaltype) | Obtient le sous-total défini pour ce filtre.|
+| [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/fr/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | Sous-total pour le filtre.|
 
 
 

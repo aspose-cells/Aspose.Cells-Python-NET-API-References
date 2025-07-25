@@ -3,14 +3,14 @@ title: is_mobile_compatible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 530
+weight: 610
 url: /de/aspose.cells.saving/ebooksaveoptions/is_mobile_compatible/
 is_root: false
 ---
 ##  is_mobile_compatible Eigentum
 
- Gibt an, ob die Ausgabe HTML mit Mobilgeräten kompatibel ist.
-Der Standardwert ist false.
+ Gibt an, ob die Ausgabe HTML mit mobilen Geräten kompatibel ist.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

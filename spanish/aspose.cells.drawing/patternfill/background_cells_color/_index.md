@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_cells_color propiedad
 
-Obtiene y establece el objeto [CellsColor](/cells/python-net/es/aspose.cells/cellscolor) en primer plano.
+Obtiene y establece el objeto de primer plano [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor).
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_cells_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [PatternFill](/cells/python-net/es/aspose.cells.drawing/patternfill)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`PatternFill`](/cells/python-net/es/aspose.cells.drawing/patternfill)

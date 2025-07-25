@@ -3,19 +3,11 @@ title: check_workbook_default_font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 70
+weight: 80
 url: /es/aspose.cells/pptxsaveoptions/check_workbook_default_font/
 is_root: false
 ---
 ##  check_workbook_default_font propiedad
-
-Cuando los caracteres en Excel son Unicode y no se configuran con la fuente correcta en el estilo de celda,
-Pueden aparecer como bloque en pdf, imagen.
-Establezca esto en verdadero para intentar usar la fuente predeterminada del libro para mostrar estos caracteres primero.
-
-###  Observaciones
-
-El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  forward fastighet
 
-Returnerar eller ställer in antalet perioder (eller enheter på ett punktdiagram) som trendlinjen sträcker sig forward.
+Returnerar eller anger antalet perioder (eller enheter i ett punktdiagram) som trendlinjen förlängs forward.
 Antalet perioder måste vara större än eller lika med noll.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def forward(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

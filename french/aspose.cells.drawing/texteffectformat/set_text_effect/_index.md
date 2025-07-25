@@ -1,5 +1,5 @@
 ---
-title: set_text_effect méthode
+title: méthode set_text_effect
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells.drawing/texteffectformat/set_text_effect/
 is_root: false
 ---
-##  set_text_effect(effect) {#MsoPresetTextEffect}
+##  set_text_effect(self, effect) {#aspose.cells.drawing.MsoPresetTextEffect}
 Définit l'effet de texte prédéfini.
 
 
 
 ```python
+
 def set_text_effect(self, effect):
     ...
 ```
@@ -20,10 +21,10 @@ def set_text_effect(self, effect):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| effect | [MsoPresetTextEffect](/cells/python-net/fr/aspose.cells.drawing/msopresettexteffect) | L'effet de texte prédéfini.|
+| effect | [`MsoPresetTextEffect`](/cells/python-net/fr/aspose.cells.drawing/msopresettexteffect) | L'effet de texte prédéfini.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextEffectFormat](/cells/python-net/fr/aspose.cells.drawing/texteffectformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextEffectFormat`](/cells/python-net/fr/aspose.cells.drawing/texteffectformat)

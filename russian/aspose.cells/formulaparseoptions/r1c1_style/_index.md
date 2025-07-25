@@ -1,6 +1,6 @@
 ---
 title: r1c1_style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_style недвижимость
 
-Является ли формула ссылочным стилем R1C1. По умолчанию — ложь.
+Соответствует ли формула стилю ссылки R1C1. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop propiedad
 
-Representa la ubicación de la parte inferior del rectángulo de recorte expresado, expresado como una proporción de la altura de la imagen.
+Representa la ubicación de la parte inferior del rectángulo de recorte expresada como una relación de la altura de la imagen.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoFormatPicture](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoFormatPicture`](/cells/python-net/es/aspose.cells.drawing/msoformatpicture)

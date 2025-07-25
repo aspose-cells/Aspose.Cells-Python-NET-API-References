@@ -3,13 +3,13 @@ title: window_width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 630
+weight: 640
 url: /tr/aspose.cells/workbooksettings/window_width_inch/
 is_root: false
 ---
 ##  window_width_inch mülk
 
-İnç birimi cinsinden pencerenin genişliği.
+Pencerenin inç cinsinden genişliği.
 ###  Tanım:
 ```python
 @property

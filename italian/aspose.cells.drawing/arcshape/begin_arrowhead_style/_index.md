@@ -1,22 +1,22 @@
 ---
 title: begin_arrowhead_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 320
+weight: 330
 url: /it/aspose.cells.drawing/arcshape/begin_arrowhead_style/
 is_root: false
 ---
 ##  begin_arrowhead_style proprietà
 
-Ottiene e imposta lo stile della punta della freccia iniziale della linea.
+Ottiene e imposta lo stile della freccia iniziale della linea.
 
 ###  Osservazioni
 
  NOTA: questo membro è ora obsoleto. Invece,
- utilizzare la proprietà Shape.Line.BeginArrowheadStyle.
+ si prega di utilizzare la proprietà Shape.Line.BeginArrowheadStyle.
  Questa proprietà verrà rimossa 12 mesi dopo, a partire da agosto 2016.
-Aspose si scusa per eventuali disagi riscontrati.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

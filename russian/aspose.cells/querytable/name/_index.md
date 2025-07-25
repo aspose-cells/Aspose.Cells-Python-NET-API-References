@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name недвижимость
 
-Получает name таблицы запросов.
+Получает name из querytable.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [QueryTable](/cells/python-net/ru/aspose.cells/querytable)
+* модуль [`aspose.cells`](../../)
+* класс [`QueryTable`](/cells/python-net/ru/aspose.cells/querytable)

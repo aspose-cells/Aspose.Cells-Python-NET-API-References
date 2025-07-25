@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in scenariot name.
+Hämtar och ställer in name för scenariot.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)

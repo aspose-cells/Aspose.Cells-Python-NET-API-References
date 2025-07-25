@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
-##  add(url) {#str}
-通过 xml/xsd 文件的 url/路径添加 [XmlMap](/cells/python-net/zh/aspose.cells/xmlmap)。
+##  add(self, url) {#str}
+通过 xml/xsd 文件的 url/path 添加 [`XmlMap`](/cells/python-net/zh/aspose.cells/xmlmap)。
 
 
 ### 返回
 
-[XmlMap](/cells/python-net/zh/aspose.cells/xmlmap) 对象索引。
+[`XmlMap`](/cells/python-net/zh/aspose.cells/xmlmap) 对象索引。
 
 
 ```python
+
 def add(self, url):
     ...
 ```
@@ -46,6 +47,6 @@ wb.save("twoXmlMaps.xlsx")
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [XmlMap](/cells/python-net/zh/aspose.cells/xmlmap)
-* 类 [XmlMapCollection](/cells/python-net/zh/aspose.cells/xmlmapcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`XmlMap`](/cells/python-net/zh/aspose.cells/xmlmap)
+* 类 [`XmlMapCollection`](/cells/python-net/zh/aspose.cells/xmlmapcollection)

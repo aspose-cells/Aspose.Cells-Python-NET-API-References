@@ -1,6 +1,6 @@
 ---
 title: error_title proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  error_title proprietà
 
-Rappresenta il titolo della finestra di dialogo dell'errore di convalida dei dati.
+Rappresenta il titolo della finestra di dialogo di errore di convalida dei dati.
 ###  Definizione:
 ```python
 @property

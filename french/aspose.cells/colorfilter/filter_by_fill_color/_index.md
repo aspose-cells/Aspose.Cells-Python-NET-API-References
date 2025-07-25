@@ -13,7 +13,7 @@ Filtrer par la couleur de remplissage de la cellule.
 
 ###  Remarques
 
-True : couleur de remplissage de la cellule ; False : la couleur de la police de la cellule.
+Vrai : couleur de remplissage de la cellule ; Faux : couleur de police de la cellule.
 ###  Définition:
 ```python
 @property

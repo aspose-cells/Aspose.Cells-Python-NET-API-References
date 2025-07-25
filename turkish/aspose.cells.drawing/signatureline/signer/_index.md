@@ -3,13 +3,13 @@ title: signer mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
 ##  signer mülk
 
-signer'i alır ve ayarlar.
+signer'i alır veya ayarlar.
 
 ###  Örnek
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

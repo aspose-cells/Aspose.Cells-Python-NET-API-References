@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_collapse propiedad
 
-Cuando esta propiedad es verdadera, la entrada de marcador colapsará; de lo contrario, se expandirá.
+Cuando esta propiedad es verdadera, la entrada del marcador se contraerá; de lo contrario, se expandirá.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapse(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.rendering](../../)
-* clase [PdfBookmarkEntry](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)
+* módulo [`aspose.cells.rendering`](../../)
+* clase [`PdfBookmarkEntry`](/cells/python-net/es/aspose.cells.rendering/pdfbookmarkentry)

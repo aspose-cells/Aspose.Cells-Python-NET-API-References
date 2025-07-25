@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  text fastighet
 
- Värdet text i en "text innehåller" villkorlig formateringsregel.
-Gäller endast för typen = innehåller text, inte innehåller text, börjar med och slutar med.
+ Värdet text i en villkorsstyrd formateringsregel av typen "text innehåller".
+Gäller endast för typen = containsText, notContainsText, beginsWith och endsWith.
 Standardvärdet är null.
 ###  Definition:
 ```python
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatCondition](/cells/python-net/sv/aspose.cells/formatcondition)
+* modul [`aspose.cells`](../../)
+* klass [`FormatCondition`](/cells/python-net/sv/aspose.cells/formatcondition)

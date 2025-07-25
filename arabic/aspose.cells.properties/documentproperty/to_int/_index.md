@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells.properties/documentproperty/to_int/
 is_root: false
 ---
-##  to_int() {#}
-ترجع قيمة الخاصية كعدد صحيح.
+##  to_int(self) {#}
+إرجاع قيمة الخاصية كعدد صحيح.
 
 
 
 ```python
+
 def to_int(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_int(self):
 
 ###  ملاحظات
 
-يطرح استثناء إذا لم يكن نوع الخاصية PropertyType.Number.
+يُلقي استثناءً إذا لم يكن نوع الخاصية PropertyType.Number.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.properties](../../)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

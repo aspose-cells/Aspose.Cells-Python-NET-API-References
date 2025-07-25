@@ -1,5 +1,5 @@
 ---
-title: is_auto_size الملكية
+title: is_auto_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 110
 url: /ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol/is_auto_size/
 is_root: false
 ---
-##  is_auto_size الملكية
-
-الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.
+##  is_auto_size عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CommandButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CommandButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

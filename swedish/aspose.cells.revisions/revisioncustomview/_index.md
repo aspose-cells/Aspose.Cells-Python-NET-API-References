@@ -8,12 +8,11 @@ url: /sv/aspose.cells.revisions/revisioncustomview/
 is_root: false
 ---
 ##  RevisionCustomView klass
-Representerar en revisionspost för att lägga till eller ta bort en anpassad vy till arbetsboken
+Representerar en revisionspost för att lägga till eller ta bort en anpassad vy i arbetsboken.
 
 
 
-**Arv:** [RevisionCustomView](/cells/python-net/aspose.cells.revisions/revisioncustomview) → 
-[Revision](/cells/python-net/sv/aspose.cells.revisions/revision)
+**Arv:** [`RevisionCustomView`](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
 
 
 
@@ -22,15 +21,14 @@ Typen RevisionCustomView avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/type) | Får typ av revision.|
-| [worksheet](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/worksheet) | Får arbetsbladet.|
-| [id](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/id) | Får numret på denna revision.|
-| [action_type](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/action_type) | Får typen av åtgärd.|
-| [guid](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/guid) | Får den globalt unika identifieraren för den anpassade vyn.|
+| [type](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/type) | Hämtar typen av revision.|
+| [worksheet](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/worksheet) |  |
+| [id](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/id) |  |
+| [action_type](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/action_type) | Hämtar typen av åtgärd.|
+| [guid](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview/guid) | Hämtar den globalt unika identifieraren för den anpassade vyn.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](..)
-* klass [Revision](/cells/python-net/sv/aspose.cells.revisions/revision)
-* klass [RevisionCustomView](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
+* modul [`aspose.cells.revisions`](..)
+* klass [`RevisionCustomView`](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)

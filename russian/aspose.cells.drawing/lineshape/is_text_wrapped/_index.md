@@ -1,15 +1,15 @@
 ---
 title: is_text_wrapped недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/lineshape/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped недвижимость
 
-Получает и задает тип переноса текста для фигуры, содержащей текст.
+Получает и задает тип обтекания текстом фигуры, содержащей текст.
 
 ###  Пример
 

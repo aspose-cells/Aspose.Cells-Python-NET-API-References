@@ -1,6 +1,6 @@
 ---
 title: text_to_display proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def text_to_display(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
+* modulo [`aspose.cells`](../../)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)

@@ -3,13 +3,13 @@ title: load_filter Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 240
 url: /de/aspose.cells/txtloadoptions/load_filter/
 is_root: false
 ---
 ##  load_filter Eigentum
 
-Der Filter, der angibt, wie Daten geladen werden.
+Der Filter gibt an, wie Daten geladen werden.
 ###  Definition:
 ```python
 @property

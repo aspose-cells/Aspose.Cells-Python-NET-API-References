@@ -1,13 +1,13 @@
 ---
 title: add_user_form метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
 url: /ru/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
 Вставьте пользовательскую форму в проект VBA.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```
@@ -26,7 +27,7 @@ def add_user_form(self, name, codes, designer_storage):
 | :- | :- | :- |
 | name | str | Имя пользовательской формы|
 | codes | str | Коды для пользовательской формы|
-| designer_storage | bytes |настройка дизайнера пользовательской формы|
+| designer_storage | bytes |настройка дизайнера относительно пользовательской формы|
 
 
 

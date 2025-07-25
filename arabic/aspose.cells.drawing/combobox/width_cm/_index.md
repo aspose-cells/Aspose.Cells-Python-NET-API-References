@@ -3,7 +3,7 @@ title: width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1220
+weight: 1230
 url: /ar/aspose.cells.drawing/combobox/width_cm/
 is_root: false
 ---

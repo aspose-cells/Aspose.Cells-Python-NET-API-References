@@ -1,6 +1,6 @@
 ---
 title: ChartLineFormattingType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 420
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| AUTOMATIC | Представляет тип автоматического форматирования.|
-| SOLID | Представляет сплошной тип форматирования.|
-| NONE |Не представляет тип форматирования.|
+| AUTOMATIC | Представляет собой тип автоматического форматирования.|
+| SOLID | Представляет собой сплошной тип форматирования.|
+| NONE | Представляет собой тип без форматирования.|
 | GRADIENT | Градиент|
 
 

@@ -1,5 +1,5 @@
 ---
-title: OdsPageBackgroundGraphicPositionType dénombrement
+title: OdsPageBackgroundGraphicPositionType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 60
 url: /fr/aspose.cells.ods/odspagebackgroundgraphicpositiontype/
 is_root: false
 ---
-##  OdsPageBackgroundGraphicPositionType dénombrement
-Représente le poste.
+##  OdsPageBackgroundGraphicPositionType énumération
+Représente la position.
 
 
 
@@ -18,7 +18,7 @@ Le type OdsPageBackgroundGraphicPositionType expose les membres suivants :
 | Champ| Description|
 | :- | :- |
 | TOP_LEFT | En haut à gauche.|
-| TOP_CENTER | Centre supérieur.|
+| TOP_CENTER | En haut au centre.|
 | TOP_RIGHT | En haut à droite.|
 | CENTER_LEFT | Centre gauche.|
 | CENTER_CENTER | Centre.|
@@ -30,4 +30,4 @@ Le type OdsPageBackgroundGraphicPositionType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.ods](..)
+* module [`aspose.cells.ods`](..)

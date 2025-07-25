@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit mülk
 
-Sığdırmak için küçült ayarı uygulanacaktır.
+Sığdırma ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def shrink_to_fit(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

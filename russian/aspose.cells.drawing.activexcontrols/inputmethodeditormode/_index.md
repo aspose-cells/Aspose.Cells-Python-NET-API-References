@@ -1,9 +1,9 @@
 ---
 title: InputMethodEditorMode перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 270
 url: /ru/aspose.cells.drawing.activexcontrols/inputmethodeditormode/
 is_root: false
 ---
@@ -12,26 +12,26 @@ is_root: false
 
 
 
-Тип InputMethodEditorMode предоставляет следующие члены:
+Тип InputMethodEditorMode предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NO_CONTROL |Не контролирует IME.|
-| ON | ИМЕ включен.|
-| OFF | ИМЕ выключен. Английский режим.|
+| NO_CONTROL | Не контролирует IME.|
+| ON | IME включен.|
+| OFF | IME выключен. Английский режим.|
 | DISABLE | IME выключен. Пользователь не может включить IME с помощью клавиатуры.|
-| HIRAGANA | IME включен в режиме полноширинной хираганы.|
-| KATAKANA | IME включен в полноэкранном режиме катаканы.|
-| KATAKANA_HALF | IME включен в режиме катаканы половинной ширины.|
-| ALPHA_FULL | IME включен в полноэкранном буквенно-цифровом режиме.|
-| ALPHA | IME включен в алфавитно-цифровом режиме половинной ширины.|
-| HANGUL_FULL | IME включен в полноэкранном режиме хангыль.|
-| HANGUL | IME включен в режиме половинной ширины хангыль.|
-| HANZI_FULL | IME включен в полноэкранном режиме hanzi.|
-| HANZI | IME включен в режиме ханзи половинной ширины.|
+| HIRAGANA | IME включен в режиме полноэкранной хираганы.|
+| KATAKANA | IME включен в режиме полноэкранной катаканы.|
+| KATAKANA_HALF | IME включен в режиме половинной ширины катаканы.|
+| ALPHA_FULL | IME включен в полноширинном алфавитно-цифровом режиме.|
+| ALPHA | IME включен в полуширинном алфавитно-цифровом режиме.|
+| HANGUL_FULL | IME включен в режиме полноэкранного хангыля.|
+| HANGUL |IME включен в режиме половинной ширины хангыль.|
+| HANZI_FULL | IME включен в полноэкранном режиме Hanzi.|
+| HANZI | IME включен в режиме Hanzi половинной ширины.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

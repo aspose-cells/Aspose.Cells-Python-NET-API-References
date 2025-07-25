@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_cells_color mülk
 
-Ön plan [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor) nesnesini alır ve ayarlar.
+Ön plandaki [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor) nesnesini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_cells_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [PatternFill](/cells/python-net/tr/aspose.cells.drawing/patternfill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`PatternFill`](/cells/python-net/tr/aspose.cells.drawing/patternfill)

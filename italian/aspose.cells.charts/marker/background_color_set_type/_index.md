@@ -1,6 +1,6 @@
 ---
 title: background_color_set_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color_set_type proprietà
 
-Ottiene o imposta il tipo di set di colori di sfondo dell'indicatore.
+Ottiene o imposta il tipo di set di colori di sfondo del marcatore.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_color_set_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [FormattingType](/cells/python-net/it/aspose.cells.charts/formattingtype)
-* classe [Marker](/cells/python-net/it/aspose.cells.charts/marker)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`FormattingType`](/cells/python-net/it/aspose.cells.charts/formattingtype)
+* classe [`Marker`](/cells/python-net/it/aspose.cells.charts/marker)

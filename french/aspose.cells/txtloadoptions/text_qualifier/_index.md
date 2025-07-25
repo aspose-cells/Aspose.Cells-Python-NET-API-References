@@ -3,13 +3,13 @@ title: text_qualifier propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 420
+weight: 400
 url: /fr/aspose.cells/txtloadoptions/text_qualifier/
 is_root: false
 ---
 ##  text_qualifier propriété
 
-Spécifie le qualificateur de texte pour les valeurs de cellule. Le qualificatif par défaut est '"'.
+Spécifie le qualificateur de texte pour les valeurs de cellule. Le qualificateur par défaut est « " ».
 
 ###  Remarques
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm propriété
 
-Représente la hauteur du commentaire, en unité de centimètres.
+Représente la hauteur du commentaire, en centimètres.
 
 ###  Exemple
 

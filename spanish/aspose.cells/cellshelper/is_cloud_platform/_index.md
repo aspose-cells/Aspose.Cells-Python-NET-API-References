@@ -3,7 +3,7 @@ title: is_cloud_platform propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 260
 url: /es/aspose.cells/cellshelper/is_cloud_platform/
 is_root: false
 ---
@@ -15,8 +15,8 @@ Establezca esta propiedad en Verdadero cuando se ejecute en una plataforma en la
 @property
 def is_cloud_platform(self):
     ...
-@is_cloud_platform.setter
-def is_cloud_platform(self, value):
+@staticmethod
+def set_is_cloud_platform(value):
     ...
 ```
 

@@ -7,7 +7,7 @@ weight: 10
 url: /ar/aspose.cells.rendering.pdfsecurity/
 is_root: false
 ---
- ال**Aspose.Cells.Rendering.PdfSecurity** توفر مساحة الاسم خيارات أمان الفئات الخاصة بـ Rendering pdf.
+ ال**Aspose.Cells.Rendering.PdfSecurity** توفر مساحة الاسم خيارات أمان الفئات لعرض pdf.
 
 ###  الطبقات
 | فصل| وصف|

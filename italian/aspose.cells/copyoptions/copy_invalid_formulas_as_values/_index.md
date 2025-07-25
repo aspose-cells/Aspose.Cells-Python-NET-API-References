@@ -1,6 +1,6 @@
 ---
 title: copy_invalid_formulas_as_values proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  copy_invalid_formulas_as_values proprietà
 
-Se la formula non è valida per la destinazione di destinazione, copia solo i valori.
+Se la formula non è valida per la destinazione, copiare solo i valori.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def copy_invalid_formulas_as_values(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/it/aspose.cells/copyoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/it/aspose.cells/copyoptions)

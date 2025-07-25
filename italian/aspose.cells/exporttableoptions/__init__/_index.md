@@ -1,18 +1,19 @@
 ---
 title: ExportTableOptions costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells/exporttableoptions/__init__/
 is_root: false
 ---
-##  ExportTableOptions() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di ExportTableOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/it/aspose.cells/exporttableoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/it/aspose.cells/exporttableoptions)

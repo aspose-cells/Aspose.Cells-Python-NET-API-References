@@ -1,38 +1,36 @@
 ---
-title: NoneBulletValue الدرجة
+title: NoneBulletValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 50
 url: /ar/aspose.cells.drawing.texts/nonebulletvalue/
 is_root: false
 ---
-##  NoneBulletValue الدرجة
-لا يمثل رصاصة.
+##  NoneBulletValue صف
+لا يمثل أي رصاصة.
 
 
 
-**ميراث:** [NoneBulletValue](/cells/python-net/aspose.cells.drawing.texts/nonebulletvalue) → 
-[BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
+**الميراث:** [`NoneBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue)
 
 
 
-يكشف نوع NoneBulletValue الأعضاء التالية:
+يكشف النوع NoneBulletValue عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [NoneBulletValue()](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | إنشاء مثيل جديد لـ NoneBulletValue|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue/__init__/#) | إنشاء مثيل جديد لـ NoneBulletValue|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue/type) | الحصول على نوع قيمة الرمز النقطي.|
+| [type](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue/type) | يحصل على نوع قيمة الرصاصة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
-* فئة [NoneBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`NoneBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/nonebulletvalue)

@@ -1,6 +1,6 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width proprietà
 
-Ottiene e imposta il valore width dello smusso o la distanza nella forma in cui viene applicato.
+Ottiene e imposta il valore width della smussatura, ovvero la profondità a cui viene applicata nella forma.
 In unità di punti.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/it/aspose.cells.drawing/bevel)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/it/aspose.cells.drawing/bevel)

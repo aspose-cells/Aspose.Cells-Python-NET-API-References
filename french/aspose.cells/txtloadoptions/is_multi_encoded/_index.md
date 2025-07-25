@@ -3,13 +3,13 @@ title: is_multi_encoded propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 210
+weight: 200
 url: /fr/aspose.cells/txtloadoptions/is_multi_encoded/
 is_root: false
 ---
 ##  is_multi_encoded propriété
 
-True signifie que le fichier contient plusieurs encodages.
+Vrai signifie que le fichier contient plusieurs encodages.
 ###  Définition:
 ```python
 @property

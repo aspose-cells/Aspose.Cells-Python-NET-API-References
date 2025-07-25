@@ -3,13 +3,13 @@ title: has_revisions propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 590
+weight: 630
 url: /es/aspose.cells/workbook/has_revisions/
 is_root: false
 ---
 ##  has_revisions propiedad
 
-Obtiene si el libro tiene algún cambio registrado
+Obtiene si el libro de trabajo tiene algún cambio registrado
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## has_drop_lines属性
 
-如果图表有垂线，则为 true。
+如果图表有下降线，则为真。
 仅适用于折线图或面积图。
 ### 定义：
 ```python

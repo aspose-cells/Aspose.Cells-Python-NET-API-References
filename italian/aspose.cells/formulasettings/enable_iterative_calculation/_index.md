@@ -1,6 +1,6 @@
 ---
 title: enable_iterative_calculation proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -21,5 +21,5 @@ def enable_iterative_calculation(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

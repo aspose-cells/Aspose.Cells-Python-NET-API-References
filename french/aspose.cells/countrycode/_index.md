@@ -3,7 +3,7 @@ title: CountryCode énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /fr/aspose.cells/countrycode/
 is_root: false
 ---
@@ -20,7 +20,7 @@ Le type CountryCode expose les membres suivants :
 | DEFAULT |  |
 | USA | États-Unis|
 | CANADA | Canada|
-| LATIN_AMERIC | Amérique latine, sauf Brésil|
+| LATIN_AMERIC | Amérique latine, à l'exception du Brésil|
 | RUSSIA | Russie|
 | EGYPT | Egypte|
 | GREECE | Grèce|
@@ -31,10 +31,10 @@ Le type CountryCode expose les membres suivants :
 | HUNGARY | Hongrie|
 | ITALY | Italie|
 | SWITZERLAND | Suisse|
-| AUSTRIA | L'Autriche|
+| AUSTRIA | Autriche|
 | UNITED_KINGDOM | Royaume-Uni|
 | DENMARK | Danemark|
-| SWEDEN | Suède|
+| SWEDEN |Suède|
 | NORWAY | Norvège|
 | POLAND | Pologne|
 | GERMANY | Allemagne|
@@ -45,25 +45,25 @@ Le type CountryCode expose les membres suivants :
 | THAILAND | Thaïlande|
 | JAPAN | Japon|
 | SOUTH_KOREA | Corée du Sud|
-| VIET_NAM | Viet Nam|
+| VIET_NAM | Vietnam|
 | CHINA | La république populaire de chine|
 | TURKEY | Turquie|
 | INDIA | Inde|
 | ALGERIA | Algérie|
 | MOROCCO | Maroc|
-| LIBYA |Libye|
-| PORTUGAL | le Portugal|
+| LIBYA | Libye|
+| PORTUGAL | Portugal|
 | ICELAND | Islande|
 | FINLAND | Finlande|
 | CZECH | République tchèque|
 | TAIWAN | Taïwan|
 | LEBANON | Liban|
-| JORDAN | Jordan|
+| JORDAN | Jordanie|
 | SYRIA | Syrie|
 | IRAQ | Irak|
 | KUWAIT | Koweit|
 | SAUDI | Arabie Saoudite|
-| UNITED_ARAB_EMIRATES | Emirats Arabes Unis|
+| UNITED_ARAB_EMIRATES | Émirats arabes unis|
 | ISRAEL | Israël|
 | QATAR | Qatar|
 | IRAN | L'Iran|

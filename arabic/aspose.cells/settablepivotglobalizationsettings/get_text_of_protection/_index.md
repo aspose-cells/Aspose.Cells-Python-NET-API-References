@@ -3,11 +3,11 @@ title: طريقة get_text_of_protection
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells/settablepivotglobalizationsettings/get_text_of_protection/
 is_root: false
 ---
-##  get_text_of_protection {#}
+##  get_text_of_protection(self) {#}
 يحصل على اسم الحماية في PivotTable.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_protection(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_text_of_protection(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetTextOfProtectedName(string).
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ مارس 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetTextOfProtectedName(string).
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ مارس 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

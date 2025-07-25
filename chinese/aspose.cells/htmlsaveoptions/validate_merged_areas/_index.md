@@ -3,15 +3,15 @@ title: validate_merged_areas属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 700
+weight: 790
 url: /zh/aspose.cells/htmlsaveoptions/validate_merged_areas/
 is_root: false
 ---
 ## validate_merged_areas属性
 
-指示保存文件之前是否验证合并的单元格。
+指示在保存文件之前是否验证合并的单元格。
 
-### 评论
+### 注意事项
 
 默认值为 false。
 ### 定义：

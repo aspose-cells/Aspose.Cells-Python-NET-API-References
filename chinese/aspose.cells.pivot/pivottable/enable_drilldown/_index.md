@@ -1,15 +1,15 @@
 ---
-title: enable_drilldown 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: enable_drilldown属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 580
 url: /zh/aspose.cells.pivot/pivottable/enable_drilldown/
 is_root: false
 ---
-## enable_drilldown 属性
+## enable_drilldown属性
 
-获取是否启用向下钻取。
+获取是否启用下钻。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_drilldown(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

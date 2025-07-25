@@ -3,13 +3,13 @@ title: placement属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1000
+weight: 1020
 url: /zh/aspose.cells.drawing/picture/placement/
 is_root: false
 ---
 ## placement属性
 
-表示绘图对象附加到其下面的单元格的方式。
+表示绘图对象附加到其下方单元格的方式。
 该属性控制工作表上对象的 placement。
 
 ### 例子

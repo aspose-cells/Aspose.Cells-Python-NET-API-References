@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
-##  set_calculated_value(v) {#any}
-يضبط القيمة المحسوبة للخلية.
+##  set_calculated_value(self, v) {#any}
+تعيين القيمة المحسوبة للخلية.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```
@@ -28,5 +29,5 @@ def set_calculated_value(self, v):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [CalculationCell](/cells/python-net/ar/aspose.cells/calculationcell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CalculationCell`](/cells/python-net/ar/aspose.cells/calculationcell)

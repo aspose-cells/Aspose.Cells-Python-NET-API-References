@@ -1,6 +1,6 @@
 ---
 title: size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [GlowEffect](/cells/python-net/it/aspose.cells.drawing/gloweffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`GlowEffect`](/cells/python-net/it/aspose.cells.drawing/gloweffect)

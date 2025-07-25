@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  html_text mülk
 
-Bu metin kutusundaki verileri ve bazı formatları içeren html dizesini alır ve ayarlar.
+Bu metin kutusunda veri ve bazı formatları içeren html dizesini alır ve ayarlar.
 
 ###  Örnek
 

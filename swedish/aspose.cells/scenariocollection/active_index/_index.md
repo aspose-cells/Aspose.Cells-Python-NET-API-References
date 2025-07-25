@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  active_index fastighet
 
-Hämtar och ställer in vilket scenario som väljs.
+Hämtar och anger vilket scenario som är valt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def active_index(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioCollection](/cells/python-net/sv/aspose.cells/scenariocollection)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioCollection`](/cells/python-net/sv/aspose.cells/scenariocollection)

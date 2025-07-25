@@ -3,7 +3,7 @@ title: load_table_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 160
 url: /fr/aspose.cells.numbers/numbersloadoptions/load_table_type/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def load_table_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.numbers](../../)
-* classe [LoadNumbersTableType](/cells/python-net/fr/aspose.cells.numbers/loadnumberstabletype)
-* classe [NumbersLoadOptions](/cells/python-net/fr/aspose.cells.numbers/numbersloadoptions)
+* module [`aspose.cells.numbers`](../../)
+* classe [`LoadNumbersTableType`](/cells/python-net/fr/aspose.cells.numbers/loadnumberstabletype)
+* classe [`NumbersLoadOptions`](/cells/python-net/fr/aspose.cells.numbers/numbersloadoptions)

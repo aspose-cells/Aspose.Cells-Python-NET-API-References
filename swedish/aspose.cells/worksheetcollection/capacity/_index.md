@@ -3,7 +3,7 @@ title: capacity fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 270
+weight: 290
 url: /sv/aspose.cells/worksheetcollection/capacity/
 is_root: false
 ---

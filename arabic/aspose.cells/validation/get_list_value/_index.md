@@ -7,18 +7,19 @@ weight: 70
 url: /ar/aspose.cells/validation/get_list_value/
 is_root: false
 ---
-##  get_list_value(row, column) {#int-int}
-احصل على قيمة قائمة التحقق من صحة الخلية المحددة.
+##  get_list_value(self, row, column) {#int-int}
+احصل على قيمة لقائمة التحقق للخلية المحددة.
 
 
 ###  عائدات
 
-القيمة المطلوب إنتاج قائمة التحقق من الصحة للخلية المحددة.
-إذا كانت القائمة تشير إلى نطاق ، فإن القيمة التي تم إرجاعها ستكون عنصر [ReferredArea](/cells/python-net/ar/aspose.cells/referredarea) ؛
-وبخلاف ذلك ، قد تكون القيمة التي تم إرجاعها خالية ، أو كائن [] ، أو كائن بسيط.
+القيمة لإنتاج قائمة التحقق هذه للخلية المحددة.
+إذا كانت القائمة تشير إلى نطاق، فستكون القيمة المرتجعة عبارة عن كائن [`ReferredArea`](/cells/python-net/ar/aspose.cells/referredarea)؛
+وإلا فإن القيمة المرتجعة قد تكون null أو object[] أو كائنًا بسيطًا.
 
 
 ```python
+
 def get_list_value(self, row, column):
     ...
 ```
@@ -26,15 +27,15 @@ def get_list_value(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 ###  ملاحظات
 
-فقط من أجل التحقق من نوع النوع الذي تم تطبيقه على خلية معينة ،
-وإلا سيتم إرجاع قيمة خالية.
+فقط للتحقق من صحة نوعه "قائمة" وتم تطبيقه على الخلية المحددة،
+وإلا سيتم إرجاع القيمة null.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ReferredArea](/cells/python-net/ar/aspose.cells/referredarea)
-* فئة [Validation](/cells/python-net/ar/aspose.cells/validation)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ReferredArea`](/cells/python-net/ar/aspose.cells/referredarea)
+* فئة [`Validation`](/cells/python-net/ar/aspose.cells/validation)

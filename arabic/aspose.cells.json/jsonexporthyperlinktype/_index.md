@@ -1,5 +1,5 @@
 ---
-title: العد JsonExportHyperlinkType
+title: JsonExportHyperlinkType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 10
 url: /ar/aspose.cells.json/jsonexporthyperlinktype/
 is_root: false
 ---
-##  العد JsonExportHyperlinkType
-يمثل نوع تصدير الارتباطات التشعبية إلى json.
+##  JsonExportHyperlinkType التعداد
+يمثل نوع تصدير الروابط التشعبية إلى json.
 
 
 
-يكشف نوع JsonExportHyperlinkType الأعضاء التالية:
+يكشف النوع JsonExportHyperlinkType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
 | DISPLAY_STRING | تصدير سلسلة العرض|
-| ADDRESS | تصدير url|
-| HTML_STRING | تصدير كسلسلة html.|
+| ADDRESS | تصدير عنوان URL|
+| HTML_STRING | تصدير كسلسلة HTML.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.json](..)
+* الوحدة [`aspose.cells.json`](..)

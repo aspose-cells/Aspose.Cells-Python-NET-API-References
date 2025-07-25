@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/xmlloadoptions/__init__/
 is_root: false
 ---
-##  XmlLoadOptions() {#}
-Representerar alternativen för att ladda xml-fil.
+##  \_\_init\_\_(själv){#}
+Representerar alternativen för att ladda xml-filen.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XmlLoadOptions(type) {#LoadFormat}
-Representerar alternativen för att ladda xml-fil.
+##  \_\_init\_\_(själv, typ){#aspose.cells.LoadFormat}
+Representerar alternativen för att ladda xml-filen.
 
 
 
 ```python
+
 def __init__(self, type):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [LoadFormat](/cells/python-net/sv/aspose.cells/loadformat) | Typ av laddningsformat.|
+| type | [`LoadFormat`](/cells/python-net/sv/aspose.cells/loadformat) | Typen av laddningsformat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XmlLoadOptions](/cells/python-net/sv/aspose.cells/xmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XmlLoadOptions`](/cells/python-net/sv/aspose.cells/xmlloadoptions)

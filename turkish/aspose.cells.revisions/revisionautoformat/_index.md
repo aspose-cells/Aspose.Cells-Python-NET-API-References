@@ -8,28 +8,26 @@ url: /tr/aspose.cells.revisions/revisionautoformat/
 is_root: false
 ---
 ##  RevisionAutoFormat sınıfı
-biçimlendirme değişikliği hakkındaki bilgilerin bir revizyon kaydını temsil eder.
+biçimlendirme değişikliğine ilişkin bilgilerin revizyon kaydını temsil eder.
 
 
 
-**Miras:** [RevisionAutoFormat](/cells/python-net/aspose.cells.revisions/revisionautoformat) → 
-[Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
+**Miras:** [`RevisionAutoFormat`](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat)
 
 
 
-RevisionAutoFormat türü aşağıdaki üyeleri gösterir:
+RevisionAutoFormat türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [type](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/type) | Düzeltmenin türünü alır.|
-| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/worksheet) | Çalışma sayfasını alır.|
-| [id](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/id) | Bu revizyonun numarasını alır.|
+| [type](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/type) | Revizyonun türünü alır.|
+| [worksheet](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/worksheet) |  |
+| [id](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/id) |  |
 | [cell_area](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat/cell_area) | Biçimlendirmenin uygulandığı konumu alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](..)
-* sınıf [Revision](/cells/python-net/tr/aspose.cells.revisions/revision)
-* sınıf [RevisionAutoFormat](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat)
+* modül [`aspose.cells.revisions`](..)
+* sınıf [`RevisionAutoFormat`](/cells/python-net/tr/aspose.cells.revisions/revisionautoformat)

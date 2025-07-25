@@ -1,9 +1,9 @@
 ---
 title: keep_precision proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 200
 url: /it/aspose.cells/ebookloadoptions/keep_precision/
 is_root: false
 ---

@@ -21,5 +21,5 @@ def active_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioCollection](/cells/python-net/tr/aspose.cells/scenariocollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioCollection`](/cells/python-net/tr/aspose.cells/scenariocollection)

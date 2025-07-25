@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  number_formats propiedad
 
-Obtiene o establece los formatos de número
+Obtiene o establece los formatos de números
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def number_formats(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

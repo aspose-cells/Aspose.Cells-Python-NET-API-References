@@ -7,12 +7,13 @@ weight: 90
 url: /fr/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
+##  clear(self) {#}
 Efface toutes les données de la feuille de calcul.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

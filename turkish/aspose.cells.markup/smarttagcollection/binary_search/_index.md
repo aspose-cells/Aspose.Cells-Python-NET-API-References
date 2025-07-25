@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells.markup/smarttagcollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#SmartTag}
-Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfır tabanlı dizinini döndürür.
+##  binary_search(self, item) {#aspose.cells.markup.SmartTag}
+Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.
 
 
 ###  İadeler
 
-Öğe bulunursa, sıralanan dizi listesindeki sıfır tabanlı değer dizini; aksi takdirde, değerden daha büyük olan bir sonraki öğenin dizininin bit düzeyinde tümleyeni olan negatif bir sayı veya daha büyük bir öğe yoksa, Count dizi listesinin bit düzeyinde tümleyeni.
+Sıralanmış dizi listesindeki değerin sıfırdan başlayan indeksi, eğer öğe bulunursa; aksi takdirde, değerden büyük olan bir sonraki öğenin indeksinin bitsel tamamlayıcısı olan negatif bir sayı veya daha büyük bir öğe yoksa dizi listesi Sayısının bitsel tamamlayıcısı.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [SmartTag](/cells/python-net/tr/aspose.cells.markup/smarttag) | Bulunacak System.Object. Değer null olabilir.|
+| item | [`SmartTag`](/cells/python-net/tr/aspose.cells.markup/smarttag) | Bulunacak System.Object. Değeri null olabilir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)

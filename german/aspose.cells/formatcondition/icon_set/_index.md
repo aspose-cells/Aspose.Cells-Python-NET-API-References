@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  icon_set Eigentum
 
-Rufen Sie die „IconSet“-Instanz der bedingten Formatierung ab.
+Holen Sie sich die „IconSet“-Instanz der bedingten Formatierung.
 Der IconSetType der Standardinstanz ist TrafficLights31.
-Gültig nur für type = IconSet.
+Nur gültig für Typ = IconSet.
 ###  Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def icon_set(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [IconSet](/cells/python-net/de/aspose.cells/iconset)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`IconSet`](/cells/python-net/de/aspose.cells/iconset)

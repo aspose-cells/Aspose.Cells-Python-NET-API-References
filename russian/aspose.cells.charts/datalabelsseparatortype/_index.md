@@ -1,6 +1,6 @@
 ---
 title: DataLabelsSeparatorType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 480
@@ -18,12 +18,12 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | AUTO | Представляет собой автоматический сепаратор|
-| SPACE | Представляет пространство(" ")|
+| SPACE | Представляет собой пробел (" ")|
 | COMMA | Представляет запятую(",")|
 | SEMICOLON | Представляет точку с запятой (";")|
-| PERIOD | Представляет точку(".")|
+| PERIOD | Представляет точку (".")|
 | NEW_LINE | Представляет новую строку("\n")|
-| CUSTOM | Представляет пользовательский разделитель|
+| CUSTOM | Представляет собой пользовательский разделитель|
 
 
 

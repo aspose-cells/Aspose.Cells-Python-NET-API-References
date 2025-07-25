@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/comment/format_characters/
 is_root: false
 ---
-##  format_characters(start_index, length, font, flag) {#int-int-Font-StyleFlag}
-تنسيق بعض الأحرف مع إعداد الخط.
+##  format_characters(self, start_index, length, font, flag) {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
+تنسيق بعض الأحرف باستخدام إعدادات الخط.
 
 
 
 ```python
+
 def format_characters(self, start_index, length, font, flag):
     ...
 ```
@@ -20,13 +21,13 @@ def format_characters(self, start_index, length, font, flag):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس البداية.|
+| start_index | int | مؤشر البداية.|
 | length | int | الطول.|
-| font | [Font](/cells/python-net/ar/aspose.cells/font) | إعداد الخط.|
-| flag | [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag) | علم إعداد الخط.|
+| font | [`Font`](/cells/python-net/ar/aspose.cells/font) | إعداد الخط.|
+| flag | [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag) | علم إعداد الخط.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

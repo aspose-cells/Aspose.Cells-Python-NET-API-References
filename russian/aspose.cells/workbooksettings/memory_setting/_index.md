@@ -1,15 +1,19 @@
 ---
 title: memory_setting недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 360
 url: /ru/aspose.cells/workbooksettings/memory_setting/
 is_root: false
 ---
 ##  memory_setting недвижимость
 
-Получает или задает параметры использования памяти. Новый параметр будет использоваться в качестве параметра по умолчанию для вновь создаваемых листов, но не вступит в силу для существующих листов.
+Возвращает или задаёт параметры использования памяти. Новый параметр будет использоваться по умолчанию для вновь создаваемых рабочих листов, но не будет применяться к существующим рабочим листам.
+
+###  Примечания
+
+Более подробную информацию о режиме памяти см. [`Cells.memory_setting`](/cells/python-net/ru/aspose.cells/cells#memory_setting).
 ###  Определение:
 ```python
 @property

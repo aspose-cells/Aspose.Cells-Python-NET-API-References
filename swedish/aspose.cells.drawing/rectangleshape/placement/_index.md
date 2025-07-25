@@ -3,14 +3,14 @@ title: placement fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 840
 url: /sv/aspose.cells.drawing/rectangleshape/placement/
 is_root: false
 ---
 ##  placement fastighet
 
-Representerar hur ritobjektet är fäst vid cellerna under det.
-Egenskapen styr placement för ett objekt på ett kalkylblad.
+Representerar hur ritobjektet är kopplat till cellerna under det.
+Egenskapen styr placement för ett objekt i ett kalkylblad.
 
 ###  Exempel
 

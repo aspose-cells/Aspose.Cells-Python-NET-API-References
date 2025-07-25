@@ -3,18 +3,18 @@ title: built_in_document_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 280
 url: /tr/aspose.cells/worksheetcollection/built_in_document_properties/
 is_root: false
 ---
 ##  built_in_document_properties mülk
 
-Elektronik tablonun tüm yerleşik belge özelliklerini temsil eden [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
+E-tablonun tüm yerleşik belge özelliklerini temsil eden [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty) koleksiyonunu döndürür.
 
 ###  Notlar
 
-Yerleşik belge özellikleri listesine yeni bir özellik eklenemez. Yalnızca yerleşik bir özellik alabilir ve değerini değiştirebilirsiniz.
-Yerleşik özelliklerin ad listesi aşağıdadır:
+Yerleşik belge özellikleri listesine yeni bir özellik eklenemez. Yalnızca yerleşik bir özelliği alabilir ve değerini değiştirebilirsiniz.
+Aşağıda yerleşik özellik adları listesi yer almaktadır:
 
 Başlık
 
@@ -25,7 +25,7 @@ Ders
 Yazar
 
 
-Anahtar Kelimeler
+Anahtar kelimeler
 
 
 Yorumlar
@@ -37,31 +37,31 @@ Yorumlar
 Son Yazar
 
 
-Revizyon numarası
+Revizyon Numarası
 
 
 Uygulama Adı
 
 
-Son Basım Tarihi
+Son Baskı Tarihi
 
 
-Oluşturulma tarihi
+Oluşturulma Tarihi
 
 
-Son Tasarruf Süresi
+Son Kaydetme Zamanı
 
 
 Toplam Düzenleme Süresi
 
 
-Sayfa sayısı
+Sayfa Sayısı
 
 
 Kelime Sayısı
 
 
-Karakter sayısı
+Karakter Sayısı
 
 
 Güvenlik
@@ -98,6 +98,17 @@ Gizli Slayt Sayısı
 
 
 Multimedya Klip Sayısı
+
+###  Örnek
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.worksheets.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ###  Tanım:
 ```python
 @property

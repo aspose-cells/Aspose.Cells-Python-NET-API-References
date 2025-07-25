@@ -1,6 +1,6 @@
 ---
 title: indexes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes proprietà
 
-Lo indexes di colonne/righe da esportare.
+indexes di colonne/righe che dovrebbero essere esportate.
 ###  Definizione:
 ```python
 @property

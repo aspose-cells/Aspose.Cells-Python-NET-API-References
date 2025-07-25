@@ -8,8 +8,6 @@ url: /de/aspose.cells.pivot/pivotformatcondition/format_conditions/
 is_root: false
 ---
 ##  format_conditions Eigentum
-
-Rufen Sie formatconditions für das Format der Pivot-Tabellenbedingung ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +16,6 @@ def format_conditions(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
-* Klasse [PivotFormatCondition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)
+* Klasse [`PivotFormatCondition`](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)

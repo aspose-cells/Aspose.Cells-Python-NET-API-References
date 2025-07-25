@@ -1,15 +1,15 @@
 ---
-title: store_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: store_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.webextensions/webextensionreference/store_type/
 is_root: false
 ---
-## store_type 属性
+## store_type属性
 
-获取和设置商店属性标识的市场类型。
+获取并设置商店属性标识的市场类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def store_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.webextensions](../../)
-* 类 [WebExtensionReference](/cells/python-net/zh/aspose.cells.webextensions/webextensionreference)
-* 类 [WebExtensionStoreType](/cells/python-net/zh/aspose.cells.webextensions/webextensionstoretype)
+* 模块[`aspose.cells.webextensions`](../../)
+* 类 [`WebExtensionReference`](/cells/python-net/zh/aspose.cells.webextensions/webextensionreference)
+* 类 [`WebExtensionStoreType`](/cells/python-net/zh/aspose.cells.webextensions/webextensionstoretype)

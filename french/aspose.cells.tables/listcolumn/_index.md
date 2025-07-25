@@ -8,7 +8,7 @@ url: /fr/aspose.cells.tables/listcolumn/
 is_root: false
 ---
 ##  ListColumn classe
-Représente une colonne dans une liste.
+Représente une colonne dans un tableau.
 
 
 
@@ -20,16 +20,20 @@ Le type ListColumn expose les membres suivants :
 | [name](/cells/python-net/fr/aspose.cells.tables/listcolumn/name) | Obtient et définit le nom de la colonne.|
 | [totals_calculation](/cells/python-net/fr/aspose.cells.tables/listcolumn/totals_calculation) | Obtient et définit le type de calcul dans la ligne Totaux de la colonne de liste.|
 | [range](/cells/python-net/fr/aspose.cells.tables/listcolumn/range) | Obtient la plage de cette colonne de liste.|
+| [is_array_formula](/cells/python-net/fr/aspose.cells.tables/listcolumn/is_array_formula) | Indique si la formule est une formule matricielle.|
 | [formula](/cells/python-net/fr/aspose.cells.tables/listcolumn/formula) | Obtient et définit la formule de la colonne de liste.|
+| [totals_row_label](/cells/python-net/fr/aspose.cells.tables/listcolumn/totals_row_label) | Obtient et définit les étiquettes d'affichage de la ligne totale.|
 
 
 ###  Méthodes
 | Méthode| Description|
 | :- | :- |
-| [get_custom_totals_row_formula(is_r1c1, is_local)](/cells/python-net/fr/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Obtient la formule de la ligne des totaux de cette colonne de liste.|
-| [set_custom_totals_row_formula(formula, is_r1c1, is_local)](/cells/python-net/fr/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Obtient la formule de la ligne des totaux de cette colonne de liste.|
-| [get_custom_calculated_formula(is_r1c1, is_local)](/cells/python-net/fr/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Obtient la formule de cette colonne de liste.|
-| [set_custom_calculated_formula(formula, is_r1c1, is_local)](/cells/python-net/fr/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Définit la formule pour cette colonne de liste.|
+| [`get_custom_totals_row_formula(self, is_r1c1, is_local)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Obtient la formule de la ligne des totaux de cette colonne de liste.|
+| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Obtient la formule de la ligne des totaux de cette colonne de liste.|
+| [`get_custom_calculated_formula(self, is_r1c1, is_local)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Obtient la formule de cette colonne de liste.|
+| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Définit la formule pour cette colonne de liste.|
+| [`get_data_style(self)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/get_data_style/#) | Obtient le style des données dans cette colonne du tableau.|
+| [`set_data_style(self, style)`](/cells/python-net/fr/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.style) | Définit le style des données dans cette colonne du tableau.|
 
 
 
@@ -58,4 +62,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Voir également
-* module [aspose.cells.tables](..)
+* module [`aspose.cells.tables`](..)

@@ -1,22 +1,23 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
-##  add(uri, name) {#str-str}
-添加智能标记。
+##  add(self, uri, name) {#str-str}
+添加智能标签。
 
 
 ### 返回
 
-智能标签在列表中的索引。
+列表中智能标签的索引。
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, uri, name):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.markup](../../)
-* 类 [SmartTagCollection](/cells/python-net/zh/aspose.cells.markup/smarttagcollection)
+* 模块[`aspose.cells.markup`](../../)
+* 类 [`SmartTagCollection`](/cells/python-net/zh/aspose.cells.markup/smarttagcollection)

@@ -3,7 +3,7 @@ title: input_range propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 580
+weight: 570
 url: /fr/aspose.cells.drawing/lineshape/input_range/
 is_root: false
 ---

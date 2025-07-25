@@ -3,13 +3,13 @@ title: entire_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 400
 url: /ar/aspose.cells/range/entire_column/
 is_root: false
 ---
 ##  entire_column عقار
 
-الحصول على كائن نطاق يمثل العمود (أو الأعمدة) بأكمله الذي يحتوي على النطاق المحدد.
+يحصل على كائن نطاق يمثل العمود بأكمله (أو الأعمدة) الذي يحتوي على النطاق المحدد.
 ###  تعريف:
 ```python
 @property

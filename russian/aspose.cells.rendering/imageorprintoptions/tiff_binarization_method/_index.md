@@ -1,15 +1,15 @@
 ---
 title: tiff_binarization_method недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 360
 url: /ru/aspose.cells.rendering/imageorprintoptions/tiff_binarization_method/
 is_root: false
 ---
 ##  tiff_binarization_method недвижимость
 
- Получает или задает метод, используемый при преобразовании изображений в формат 1 бит на пиксель.
+ Возвращает или задает метод, используемый при преобразовании изображений в формат 1 бит/пиксель
 когда [`ImageOrPrintOptions.image_type`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions#image_type) — это Tiff, а [`ImageOrPrintOptions.tiff_compression`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions#tiff_compression) равно Ccitt3 или Ccitt4.
 
 ###  Примечания

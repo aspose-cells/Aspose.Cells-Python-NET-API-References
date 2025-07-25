@@ -13,17 +13,17 @@ Ruft das zum Öffnen des verschlüsselten Dokuments PDF erforderliche Benutzerke
 
 ###  Bemerkungen
 
-Um ein verschlüsseltes PDF-Dokument zur Ansicht zu öffnen, ist das Besitzerpasswort oder Benutzerpasswort erforderlich.
+Zum Öffnen eines verschlüsselten PDF-Dokuments zur Anzeige ist das Eigentümerkennwort oder das Benutzerkennwort erforderlich.
 
 
-Das Benutzerkennwort kann null oder eine leere Zeichenfolge sein. In diesem Fall ist beim Öffnen des Dokuments PDF kein Kennwort vom Benutzer erforderlich.
+Das Benutzerkennwort kann null oder eine leere Zeichenfolge sein. In diesem Fall wird beim Öffnen des Dokuments PDF kein Kennwort vom Benutzer verlangt.
 
 
-Das Öffnen des Dokuments mit dem richtigen Besitzerkennwort ermöglicht den vollständigen Zugriff auf das Dokument.
+Durch Öffnen des Dokuments mit dem richtigen Besitzerkennwort erhalten Sie vollständigen Zugriff auf das Dokument.
 
 
  Öffnen des Dokuments mit dem richtigen Benutzerkennwort (oder Öffnen eines Dokuments ohne Benutzerkennwort)
-Ermöglicht eingeschränkten Zugriff gemäß den angegebenen Berechtigungen.
+ermöglicht eingeschränkten Zugriff gemäß den angegebenen Berechtigungen.
 ###  Definition:
 ```python
 @property

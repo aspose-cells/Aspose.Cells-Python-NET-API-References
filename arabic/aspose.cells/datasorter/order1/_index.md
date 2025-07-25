@@ -1,15 +1,15 @@
 ---
-title: order1 الملكية
+title: order1 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ar/aspose.cells/datasorter/order1/
 is_root: false
 ---
-##  order1 الملكية
+##  order1 عقار
 
-يمثل ترتيب الفرز للمفتاح الأول.
+يمثل ترتيب المفتاح الأول.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def order1(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
-* فئة [SortOrder](/cells/python-net/ar/aspose.cells/sortorder)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)
+* فئة [`SortOrder`](/cells/python-net/ar/aspose.cells/sortorder)

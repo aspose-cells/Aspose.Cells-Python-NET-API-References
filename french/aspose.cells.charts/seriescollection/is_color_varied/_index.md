@@ -3,7 +3,7 @@ title: is_color_varied propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells.charts/seriescollection/is_color_varied/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_color_varied(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SeriesCollection](/cells/python-net/fr/aspose.cells.charts/seriescollection)
+* module [`aspose.cells.charts`](../../)
+* classe [`SeriesCollection`](/cells/python-net/fr/aspose.cells.charts/seriescollection)

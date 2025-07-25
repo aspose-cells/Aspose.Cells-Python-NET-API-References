@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur mülk
 
-Gölgenin blur değerini alır ve ayarlar. 0 ila 100 puan aralığındadır.
+Gölgenin blur değerini alır ve ayarlar. 0 ile 100 puan arasında değişir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShadowEffect](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShadowEffect`](/cells/python-net/tr/aspose.cells.drawing/shadoweffect)

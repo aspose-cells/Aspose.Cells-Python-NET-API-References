@@ -1,5 +1,5 @@
 ---
-title: autonumber_scheme الملكية
+title: autonumber_scheme عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.drawing.texts/autonumberedbulletvalue/autonumber_scheme/
 is_root: false
 ---
-##  autonumber_scheme الملكية
+##  autonumber_scheme عقار
 
 يمثل مخطط الرقم التلقائي.
 ###  تعريف:
@@ -21,6 +21,6 @@ def autonumber_scheme(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [AutoNumberedBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* فئة [TextAutonumberScheme](/cells/python-net/ar/aspose.cells.drawing.texts/textautonumberscheme)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`AutoNumberedBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* فئة [`TextAutonumberScheme`](/cells/python-net/ar/aspose.cells.drawing.texts/textautonumberscheme)

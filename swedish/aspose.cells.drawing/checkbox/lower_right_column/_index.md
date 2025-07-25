@@ -3,13 +3,13 @@ title: lower_right_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 790
+weight: 800
 url: /sv/aspose.cells.drawing/checkbox/lower_right_column/
 is_root: false
 ---
 ##  lower_right_column fastighet
 
-Representerar kolumnindex i nedre högra hörnet.
+Representerar kolumnindexet i nedre högra hörnet.
 
 ###  Exempel
 

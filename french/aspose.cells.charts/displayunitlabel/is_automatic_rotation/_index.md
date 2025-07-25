@@ -3,7 +3,7 @@ title: is_automatic_rotation propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 240
 url: /fr/aspose.cells.charts/displayunitlabel/is_automatic_rotation/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_automatic_rotation(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DisplayUnitLabel](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)
+* module [`aspose.cells.charts`](../../)
+* classe [`DisplayUnitLabel`](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)

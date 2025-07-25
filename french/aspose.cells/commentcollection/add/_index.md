@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/commentcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Ajoute un commentaire à la collection.
 
 
 ###  Retour
 
-[Comment](/cells/python-net/fr/aspose.cells/comment) indice d'objet.
+[`Comment`](/cells/python-net/fr/aspose.cells/comment) index d'objet.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -38,16 +39,17 @@ comment2.font.name = "Times New Roman"
 ```
 
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Ajoute un commentaire à la collection.
 
 
 ###  Retour
 
-[Comment](/cells/python-net/fr/aspose.cells/comment) indice d'objet.
+[`Comment`](/cells/python-net/fr/aspose.cells/comment) index d'objet.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -72,6 +74,6 @@ comment1.font.name = "Times New Roman"
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
-* classe [CommentCollection](/cells/python-net/fr/aspose.cells/commentcollection)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)
+* classe [`CommentCollection`](/cells/python-net/fr/aspose.cells/commentcollection)

@@ -3,13 +3,13 @@ title: PdfBookmarkEntry Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 80
+weight: 70
 url: /de/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
 ##  PdfBookmarkEntry Klasse
 PdfBookmarkEntry ist ein Eintrag im PDF-Lesezeichen.
-wenn die Text-Eigenschaft der aktuellen Instanz null oder "" ist,
+wenn die Texteigenschaft der aktuellen Instanz null oder "",
 Die aktuelle Instanz wird ausgeblendet und untergeordnete Elemente werden auf der aktuellen Ebene eingefügt.
 
 
@@ -19,18 +19,18 @@ Der Typ PdfBookmarkEntry macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Erstellt eine neue Instanz von PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | Erstellt eine neue Instanz von PdfBookmarkEntry|
 
 
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
 | [text](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/text) | Titel eines Lesezeichens.|
-| [destination](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/destination) | Die Zelle, auf die das Lesezeichen verweist.|
+| [destination](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/destination) |Die Zelle, auf die das Lesezeichen verweist.|
 | [destination_name](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/destination_name) | Ruft den Namen des Ziels ab oder legt ihn fest.|
 | [sub_entry](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | Untereintrag eines Lesezeichens.|
-| [is_open](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/is_open) |Wenn diese Eigenschaft wahr ist, wird die Lesezeichenliste erweitert, andernfalls wird sie zusammenbrechen.|
-| [is_collapse](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Wenn diese Eigenschaft wahr ist, wird die Lesezeichenliste reduziert, andernfalls wird sie erweitert.|
+| [is_open](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/is_open) | Wenn diese Eigenschaft wahr ist, wird das Lesezeichenverzeichnis erweitert, andernfalls wird es reduziert.|
+| [is_collapse](/cells/python-net/de/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | Wenn diese Eigenschaft wahr ist, wird das Lesezeichen reduziert, andernfalls wird es erweitert.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](..)
+* Modul [`aspose.cells.rendering`](..)

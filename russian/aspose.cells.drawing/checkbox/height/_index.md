@@ -1,15 +1,15 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 440
 url: /ru/aspose.cells.drawing/checkbox/height/
 is_root: false
 ---
 ##  height недвижимость
 
-Представляет height формы в пикселях.
+Представляет собой height формы в пикселях.
 
 ###  Пример
 

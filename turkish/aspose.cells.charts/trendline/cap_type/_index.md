@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cap_type mülk
 
-Bitiş büyük harflerini belirtir.
+Son harfleri belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def cap_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [LineCapType](/cells/python-net/tr/aspose.cells.drawing/linecaptype)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`LineCapType`](/cells/python-net/tr/aspose.cells.drawing/linecaptype)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

@@ -7,12 +7,13 @@ weight: 20
 url: /zh/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
-调用 Chart.Calculate() 方法后获取轴的标签。
+##  get_axis_texts(self) {#}
+调用Chart.Calculate()方法后获取轴的标签。
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

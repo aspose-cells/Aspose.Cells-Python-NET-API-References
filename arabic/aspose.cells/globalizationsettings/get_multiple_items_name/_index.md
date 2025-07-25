@@ -7,16 +7,17 @@ weight: 140
 url: /ar/aspose.cells/globalizationsettings/get_multiple_items_name/
 is_root: false
 ---
-##  get_multiple_items_name {#}
-الحصول على اسم التصنيف "(عناصر متعددة)" في PivotTable.
+##  get_multiple_items_name(self) {#}
+يحصل على اسم العلامة "(عناصر متعددة)" في الجدول المحوري.
 
 
 ###  عائدات
 
-اسم التصنيف "(عناصر متعددة)".
+اسم العلامة "(عناصر متعددة)"
 
 
 ```python
+
 def get_multiple_items_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_multiple_items_name(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قديم الآن. بدلاً من،
-الرجاء استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا

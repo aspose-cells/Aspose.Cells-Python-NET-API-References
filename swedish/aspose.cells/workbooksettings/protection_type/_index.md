@@ -3,13 +3,13 @@ title: protection_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 380
+weight: 420
 url: /sv/aspose.cells/workbooksettings/protection_type/
 is_root: false
 ---
 ##  protection_type fastighet
 
-Får arbetsbokens skyddstyp.
+Hämtar arbetsbokens skyddstyp.
 ###  Definition:
 ```python
 @property

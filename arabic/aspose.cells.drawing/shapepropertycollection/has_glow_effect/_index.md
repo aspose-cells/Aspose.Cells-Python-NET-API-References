@@ -7,8 +7,8 @@ weight: 60
 url: /ar/aspose.cells.drawing/shapepropertycollection/has_glow_effect/
 is_root: false
 ---
-##  has_glow_effect() {#}
-يشير إلى ما إذا كان للشكل بيانات تأثير التوهج.
+##  has_glow_effect(self) {#}
+يشير إلى ما إذا كان الشكل يحتوي على بيانات تأثير التوهج.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_glow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_glow_effect(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

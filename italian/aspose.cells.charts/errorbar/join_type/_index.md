@@ -1,6 +1,6 @@
 ---
 title: join_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type proprietà
 
-Specifica le estremità di giunzione.
+Specifica i tappi di giunzione.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/it/aspose.cells.charts/errorbar)
-* classe [LineJoinType](/cells/python-net/it/aspose.cells.drawing/linejointype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/it/aspose.cells.charts/errorbar)
+* classe [`LineJoinType`](/cells/python-net/it/aspose.cells.drawing/linejointype)

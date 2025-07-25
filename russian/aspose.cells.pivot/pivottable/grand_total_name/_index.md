@@ -1,15 +1,15 @@
 ---
 title: grand_total_name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 550
+weight: 650
 url: /ru/aspose.cells.pivot/pivottable/grand_total_name/
 is_root: false
 ---
 ##  grand_total_name недвижимость
 
-Возвращает метку текстовой строки, отображаемую в заголовке столбца общей суммы или строки.
+Возвращает метку, которая отображается в заголовке столбца или строки общего итога.
 Значением по умолчанию является строка «Общий итог».
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def grand_total_name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

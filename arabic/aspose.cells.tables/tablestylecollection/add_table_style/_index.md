@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells.tables/tablestylecollection/add_table_style/
 is_root: false
 ---
-##  add_table_style(name) {#str}
-يضيف نمط جدول مخصص.
+##  add_table_style(self, name) {#str}
+إضافة نمط جدول مخصص.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_table_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add_table_style(self, name):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [TableStyleCollection](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`TableStyleCollection`](/cells/python-net/ar/aspose.cells.tables/tablestylecollection)

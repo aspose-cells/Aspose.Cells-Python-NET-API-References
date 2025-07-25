@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_underline mülk
 
-Yazı tipi altı çizili ayarı uygulanacaktır.
+Yazı tipi alt çizgi ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_underline(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells.properties/documentproperty/to_double/
 is_root: false
 ---
-##  to_double() {#}
+##  to_double(self) {#}
 Gibt den Eigenschaftswert als Double zurück.
 
 
 
 ```python
+
 def to_double(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_double(self):
 
 ###  Bemerkungen
 
-Löst eine Ausnahme aus, wenn der Eigenschaftstyp nicht PropertyType.Float ist.
+Löst eine Ausnahme aus, wenn der Eigenschaftentyp nicht PropertyType.Float ist.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells.properties](../../)
-* Klasse [DocumentProperty](/cells/python-net/de/aspose.cells.properties/documentproperty)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`DocumentProperty`](/cells/python-net/de/aspose.cells.properties/documentproperty)

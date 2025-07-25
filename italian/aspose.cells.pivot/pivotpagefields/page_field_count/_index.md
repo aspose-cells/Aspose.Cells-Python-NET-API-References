@@ -1,6 +1,6 @@
 ---
 title: page_field_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,5 +18,5 @@ def page_field_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotPageFields](/cells/python-net/it/aspose.cells.pivot/pivotpagefields)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotPageFields`](/cells/python-net/it/aspose.cells.pivot/pivotpagefields)

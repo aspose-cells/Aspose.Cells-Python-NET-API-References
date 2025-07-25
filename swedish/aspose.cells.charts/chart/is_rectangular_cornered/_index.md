@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_rectangular_cornered fastighet
 
-Hämtar eller ställer in ett värde som anger om diagramområdet är rektangulärt hörn.
-Standard är sant.
+Hämtar eller anger ett värde som anger om diagramområdet är rektangulärt och har hörn.
+Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: GradientColorType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 850
+weight: 840
 url: /sv/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen GradientColorType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

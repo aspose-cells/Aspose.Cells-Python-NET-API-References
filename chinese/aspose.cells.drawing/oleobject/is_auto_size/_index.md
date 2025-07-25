@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_auto_size属性
 
-True 表示 ole 对象的大小将自动更改为嵌入内容的快照的大小
+True 表示 ole 对象的大小将自动更改为嵌入内容的快照大小
 当 ole 对象被激活时。
 ### 定义：
 ```python

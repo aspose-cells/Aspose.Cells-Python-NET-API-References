@@ -3,17 +3,11 @@ title: gridline_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 150
+weight: 190
 url: /de/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type Eigentum
-
-Ruft den Rasterlinientyp ab oder legt diesen fest.
-
-###  Bemerkungen
-
-Der Standardwert ist der gepunktete Typ.
 ###  Definition:
 ```python
 @property

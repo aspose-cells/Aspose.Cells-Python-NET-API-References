@@ -3,16 +3,17 @@ title: método unhide_row
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /es/aspose.cells/cells/unhide_row/
 is_root: false
 ---
-##  unhide_row {#int-float}
+##  unhide_row(self, row, height) {#int-float}
 Muestra una fila.
 
 
 
 ```python
+
 def unhide_row(self, row, height):
     ...
 ```
@@ -21,7 +22,7 @@ def unhide_row(self, row, height):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | row | int | Índice de fila.|
-| height | float | Altura de la fila. La altura de la fila se cambiará solo cuando la fila esté oculta y el valor de altura dado sea positivo.|
+| height | float |Altura de fila. La altura de la fila solo se modificará cuando esté oculta y el valor dado sea positivo.|
 
 
 

@@ -3,21 +3,21 @@ title: default_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 580
 url: /ar/aspose.cells/workbook/default_style/
 is_root: false
 ---
 ##  default_style عقار
 
-الحصول على الكائن الافتراضي [`Style`](/cells/python-net/ar/aspose.cells/style) للمصنف أو تعيينه.
+يحصل على أو يعين الكائن الافتراضي [`Style`](/cells/python-net/ar/aspose.cells/style) للمصنف.
 
 ###  ملاحظات
 
-تعتبر الخاصية DefaultStyle مفيدة لتطبيق نمط للمصنف بأكمله.
+تعتبر خاصية DefaultStyle مفيدة لتنفيذ نمط للمصنف بأكمله.
 
 ###  مثال
 
-يقوم التعليمة البرمجية التالية بإنشاء مصنف جديد وإنشاء مثيل له وتعيين الإعداد الافتراضي له [`Style`](/cells/python-net/ar/aspose.cells/style).
+يقوم الكود التالي بإنشاء مصنف جديد وتشغيله وتعيين القيمة الافتراضية [`Style`](/cells/python-net/ar/aspose.cells/style) له.
 
 ```python
 from aspose.cells import Workbook

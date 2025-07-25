@@ -1,6 +1,6 @@
 ---
 title: SmartTag класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.markup/smarttag/
 is_root: false
 ---
 ##  SmartTag класс
-Представляет смарт-тег.
+Представляет собой смарт-тег.
 
 
 
-Тип SmartTag предоставляет следующие члены:
+Тип SmartTag предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
@@ -26,9 +26,9 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_link(uri, name)](/cells/python-net/ru/aspose.cells.markup/smarttag/set_link/#str-str) | Измените имя и URI пространства имен смарт-тега.|
+| [`set_link(self, uri, name)`](/cells/python-net/ru/aspose.cells.markup/smarttag/set_link/#str-str) |Измените имя и URI пространства имен смарт-тега.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](..)
+* модуль [`aspose.cells.markup`](..)

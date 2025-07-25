@@ -3,13 +3,13 @@ title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 450
+weight: 440
 url: /ar/aspose.cells.drawing/checkbox/height/
 is_root: false
 ---
 ##  height عقار
 
-يمثل height من الشكل بوحدة البكسل.
+يمثل الشكل height، بوحدة البكسل.
 
 ###  مثال
 

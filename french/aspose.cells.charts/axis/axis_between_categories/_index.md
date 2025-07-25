@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  axis_between_categories propriété
 
-Représente si l’axe des valeurs croise l’axe des catégories entre les catégories.
+Représente si l'axe des valeurs croise l'axe des catégories entre les catégories.
 
 ###  Remarques
 
-Cette propriété s’applique uniquement aux axes de catégories et ne s’applique pas aux graphiques 3D.
+Cette propriété s'applique uniquement aux axes de catégorie et ne s'applique pas aux graphiques 3D.
 ###  Définition:
 ```python
 @property

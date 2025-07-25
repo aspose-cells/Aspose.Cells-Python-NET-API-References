@@ -9,7 +9,7 @@ is_root: false
 ---
 ## has_formula属性
 
-如果文本以“=”开头，则指示文本是否为公式。
+如果文本以“=”开头，则表示文本是否为公式。
 ### 定义：
 ```python
 @property

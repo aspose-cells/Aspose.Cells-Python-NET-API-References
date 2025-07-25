@@ -1,15 +1,15 @@
 ---
 title: glow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 400
+weight: 390
 url: /ru/aspose.cells.drawing/shape/glow/
 is_root: false
 ---
 ##  glow недвижимость
 
-Представляет объект [`GlowEffect`](/cells/python-net/ru/aspose.cells.drawing/gloweffect), задающий эффект glow для элемента или фигуры диаграммы.
+Представляет объект [`GlowEffect`](/cells/python-net/ru/aspose.cells.drawing/gloweffect), который задает эффект glow для элемента или фигуры диаграммы.
 
 ###  Пример
 

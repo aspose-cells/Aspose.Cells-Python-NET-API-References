@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
-* klass [DrawObjectEnum](/cells/python-net/sv/aspose.cells.rendering/drawobjectenum)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* klass [`DrawObjectEnum`](/cells/python-net/sv/aspose.cells.rendering/drawobjectenum)

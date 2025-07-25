@@ -3,13 +3,13 @@ title: export_comments_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 270
 url: /ar/aspose.cells/htmlsaveoptions/export_comments_type/
 is_root: false
 ---
 ##  export_comments_type عقار
 
-يمثل نوع تصدير التعليقات إلى ملفات html.
+يمثل نوع من تصدير التعليقات إلى ملفات HTML.
 ###  تعريف:
 ```python
 @property

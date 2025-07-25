@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  style Eigentum
 
-Ruft die angewandte style ab.
+Ruft die angewendete style ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def style(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionFormat](/cells/python-net/de/aspose.cells.revisions/revisionformat)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionFormat`](/cells/python-net/de/aspose.cells.revisions/revisionformat)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

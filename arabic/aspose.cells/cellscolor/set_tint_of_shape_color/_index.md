@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
-##  set_tint_of_shape_color(tint) {#float}
-اضبط صبغة لون الشكل
+##  set_tint_of_shape_color(self, tint) {#float}
+ضبط لون لون الشكل
 
 
 
 ```python
+
 def set_tint_of_shape_color(self, tint):
     ...
 ```
@@ -25,5 +26,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)

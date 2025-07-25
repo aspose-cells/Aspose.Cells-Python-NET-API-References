@@ -1,9 +1,9 @@
 ---
 title: active_x_control недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ru/aspose.cells.drawing/listbox/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  Смотрите также
 * модуль [`aspose.cells.drawing`](../../)
-* класс [`ActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrol)
 * класс [`ListBox`](/cells/python-net/ru/aspose.cells.drawing/listbox)

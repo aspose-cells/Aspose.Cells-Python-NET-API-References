@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
-إضافة ارتباط تشعبي إلى خلية محددة أو نطاق من الخلايا.
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
+يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.
 
 
 ###  عائدات
 
-كائن [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink).
+[`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink) الكائن.
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```
@@ -24,9 +25,9 @@ def add_hyperlink(self, address, text_to_display, screen_tip):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| address | str | عنوان الارتباط التشعبي.|
-| text_to_display | str | النص الذي سيتم عرضه للارتباط التشعبي المحدد.|
-| screen_tip | str | نص تلميح الشاشة للارتباط التشعبي المحدد.|
+| address | str | عنوان الرابط التشعبي.|
+| text_to_display | str | النص الذي سيتم عرضه للرابط التشعبي المحدد.|
+| screen_tip | str | نص تلميح الشاشة للرابط التشعبي المحدد.|
 
 
 

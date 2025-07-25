@@ -3,7 +3,7 @@ title: width_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1390
+weight: 1410
 url: /sv/aspose.cells.drawing/picture/width_pt/
 is_root: false
 ---

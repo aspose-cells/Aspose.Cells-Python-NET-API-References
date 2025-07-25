@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells/cell/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-تقوم بإرجاع عنصر أحرف يمثل نطاقًا من characters داخل نص الخلية.
+##  characters(self, start_index, length) {#int-int}
+يقوم بإرجاع كائن أحرف يمثل نطاق characters داخل نص الخلية.
 
 
 ###  عائدات
 
-كائن الأحرف.
+كائنات الأحرف.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس بداية الحرف.|
+| start_index | int | مؤشر بداية الحرف.|
 | length | int | عدد الأحرف.|
 ###  ملاحظات
 
-تعمل هذه الطريقة فقط على الخلية ذات قيمة السلسلة.
+تعمل هذه الطريقة فقط على الخلية ذات القيمة السلسلة.
 ###  مثال
 
 
@@ -47,5 +48,5 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

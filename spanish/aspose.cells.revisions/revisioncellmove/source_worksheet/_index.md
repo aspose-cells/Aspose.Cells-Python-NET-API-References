@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  source_worksheet propiedad
 
-Obtiene la hoja de cálculo de origen.
+Obtiene la hoja de trabajo de origen.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def source_worksheet(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionCellMove](/cells/python-net/es/aspose.cells.revisions/revisioncellmove)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionCellMove`](/cells/python-net/es/aspose.cells.revisions/revisioncellmove)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

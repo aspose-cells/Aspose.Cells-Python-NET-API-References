@@ -3,7 +3,7 @@ title: settings属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 650
+weight: 680
 url: /zh/aspose.cells/workbook/settings/
 is_root: false
 ---

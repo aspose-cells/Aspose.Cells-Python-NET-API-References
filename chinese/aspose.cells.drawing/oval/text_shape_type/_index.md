@@ -3,13 +3,13 @@ title: text_shape_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /zh/aspose.cells.drawing/oval/text_shape_type/
 is_root: false
 ---
 ## text_shape_type属性
 
-获取和设置预设文本形状类型。
+获取并设置预设的文本形状类型。
 
 ### 例子
 

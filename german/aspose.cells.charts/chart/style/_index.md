@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  style Eigentum
 
-Ruft die integrierte style ab und legt sie fest.
+Ruft den integrierten Wert style ab und legt ihn fest.
 
 ###  Bemerkungen
 
-Er sollte zwischen 1 und 48 liegen.
+Es sollte zwischen 1 und 48 liegen.
 Gibt -1 zurück, wenn es nicht festgelegt ist.
 ###  Definition:
 ```python

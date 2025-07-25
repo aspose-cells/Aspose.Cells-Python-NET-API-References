@@ -3,14 +3,14 @@ title: drag_to_data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 370
 url: /fr/aspose.cells.pivot/pivotfield/drag_to_data/
 is_root: false
 ---
 ##  drag_to_data propriété
 
-Indique si le champ spécifié peut être glissé vers la position des données.
-La valeur par défaut est vraie.
+Indique si le champ spécifié peut être déplacé vers la position des données.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

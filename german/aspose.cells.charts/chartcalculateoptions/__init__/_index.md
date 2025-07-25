@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __drin__ {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt die Optionen zum Berechnen des Diagramms.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

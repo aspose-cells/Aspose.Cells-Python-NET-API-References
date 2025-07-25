@@ -1,6 +1,6 @@
 ---
 title: weight_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt недвижимость
 
-Получает или задает вес линии в пунктах.
+Возвращает или задает вес линии в точках.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Line](/cells/python-net/ru/aspose.cells.drawing/line)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Line`](/cells/python-net/ru/aspose.cells.drawing/line)

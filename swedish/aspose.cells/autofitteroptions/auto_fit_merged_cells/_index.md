@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  auto_fit_merged_cells fastighet
 
-Anger om radhöjden automatiskt anpassas när cellerna slås samman i en rad.
+Anger om radhöjden anpassas automatiskt när cellerna slås samman i en rad.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd egenskapen AutoFitterOptions.AutoFitMergedCellsType istället.
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2018.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd istället egenskapen AutoFitterOptions.AutoFitMergedCellsType.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2018.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -29,5 +29,5 @@ def auto_fit_merged_cells(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions)

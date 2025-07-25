@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol/linked_cell/
 is_root: false
 ---
 ##  linked_cell mülk
-
-Bağlı hücreyi alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

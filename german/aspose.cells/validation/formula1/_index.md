@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  formula1 Eigentum
 
-Stellt den Wert oder Ausdruck dar, der der Datenvalidierung zugeordnet ist.
+Stellt den mit der Datenüberprüfung verknüpften Wert oder Ausdruck dar.
 ###  Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: has_multi_level_labels fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Anger om etiketterna ska visas som flernivåer.
 
 ###  Anmärkningar
 
-Gäller endast för kategoriaxel.
+Gäller endast för kategoriaxeln.
 ###  Definition:
 ```python
 @property

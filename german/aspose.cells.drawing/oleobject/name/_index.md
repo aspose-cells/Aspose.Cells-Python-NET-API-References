@@ -3,13 +3,13 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 950
+weight: 960
 url: /de/aspose.cells.drawing/oleobject/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name der Form ab und legt diese fest.
+Ruft die name der Form ab und legt sie fest.
 
 ###  Beispiel
 

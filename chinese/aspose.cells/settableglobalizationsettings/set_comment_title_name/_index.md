@@ -7,12 +7,13 @@ weight: 310
 url: /zh/aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
-##  set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
-根据评论标题类型获取与语言环境相关的评论标题名称。
+##  set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
+根据注意事项标题类型获取与语言环境相关的注意事项标题名称。
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_comment_title_name(self, type, name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | aspose.cells.rendering.CommentTitleType |评论标题类型|
-| name | str |依赖于区域设置的注释标题名称|
+| type | aspose.cells.rendering.CommentTitleType |注意事项标题类型|
+| name | str |依赖于语言环境的注意事项标题名称|
 
 
 

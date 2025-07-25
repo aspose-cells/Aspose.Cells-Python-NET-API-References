@@ -7,8 +7,8 @@ weight: 90
 url: /ar/aspose.cells/fileformatutil/save_format_to_load_format/
 is_root: false
 ---
-##  save_format_to_load_format(save_format) {#SaveFormat}
-تحويل قيمة SaveFormat إلى قيمة LoadFormat إن أمكن.
+##  save_format_to_load_format(, تنسيق الحفظ){#aspose.cells.SaveFormat}
+يقوم بتحويل قيمة SaveFormat إلى قيمة LoadFormat إذا كان ذلك ممكنًا.
 
 
 ###  عائدات
@@ -17,17 +17,19 @@ is_root: false
 
 
 ```python
-def save_format_to_load_format(self, save_format):
+
+@staticmethod
+def save_format_to_load_format(save_format):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
+| save_format | [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الحفظ.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FileFormatUtil](/cells/python-net/ar/aspose.cells/fileformatutil)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FileFormatUtil`](/cells/python-net/ar/aspose.cells/fileformatutil)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  smoothing_mode Eigentum
 
-Gibt an, ob eine Glättung (Antialiasing) auf Linien und Kurven sowie die Kanten gefüllter Bereiche angewendet wird.
+Gibt an, ob auf Linien und Kurven sowie auf die Kanten gefüllter Bereiche eine Glättung (Antialiasing) angewendet wird.
 Der Standardwert ist SmoothingMode.None
 ###  Definition:
 ```python

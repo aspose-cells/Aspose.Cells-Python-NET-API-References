@@ -3,7 +3,7 @@ title: page_field_wrap_count propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 700
+weight: 800
 url: /fr/aspose.cells.pivot/pivottable/page_field_wrap_count/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def page_field_wrap_count(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

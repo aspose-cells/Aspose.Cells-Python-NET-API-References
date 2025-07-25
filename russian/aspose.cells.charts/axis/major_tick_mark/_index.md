@@ -1,15 +1,15 @@
 ---
 title: major_tick_mark недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---
 ##  major_tick_mark недвижимость
 
-Представляет тип основной отметки деления для указанной оси.
+Представляет тип основной отметки для указанной оси.
 ###  Определение:
 ```python
 @property

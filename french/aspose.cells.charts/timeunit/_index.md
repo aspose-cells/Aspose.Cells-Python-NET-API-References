@@ -8,7 +8,7 @@ url: /fr/aspose.cells.charts/timeunit/
 is_root: false
 ---
 ##  TimeUnit énumération
-Représente l’unité de base pour l’axe des catégories.
+Représente l'unité de base de l'axe des catégories.
 
 
 

@@ -1,13 +1,13 @@
 ---
-title: min_value 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: min_value属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells/datetimegroupitem/min_value/
 is_root: false
 ---
-## min_value 属性
+## min_value属性
 
 获取最小值。
 ### 定义：
@@ -18,5 +18,5 @@ def min_value(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [DateTimeGroupItem](/cells/python-net/zh/aspose.cells/datetimegroupitem)
+* 模块[`aspose.cells`](../../)
+* 类 [`DateTimeGroupItem`](/cells/python-net/zh/aspose.cells/datetimegroupitem)

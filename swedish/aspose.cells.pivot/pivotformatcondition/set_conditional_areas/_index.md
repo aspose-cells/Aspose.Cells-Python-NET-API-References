@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/
 is_root: false
 ---
-##  set_conditional_areas() {#}
-Ställer in villkorliga områden för PivotFormatCondition-objektet.
+##  set_conditional_areas(self) {#}
+
 
 
 
 ```python
+
 def set_conditional_areas(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_conditional_areas(self):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFormatCondition](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFormatCondition`](/cells/python-net/sv/aspose.cells.pivot/pivotformatcondition)

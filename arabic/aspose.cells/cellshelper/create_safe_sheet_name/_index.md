@@ -7,11 +7,11 @@ weight: 90
 url: /ar/aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
-##  create_safe_sheet_name(name_proposal) {#str}
-للتحقق من اسم الورقة المحدد وإنشاء اسم صالح عند الحاجة.
-إذا كان اسم الورقة المعطى يتوافق مع قواعد اسم ورقة Excel ، فقم بإعادتها.
-وإلا سيتم قطع السلسلة إذا تجاوز الطول الحد
-وسيتم استبدال الأحرف غير الصالحة بـ "" ، ثم يتم إرجاع قيمة السلسلة المعاد بناؤها.
+##  create_safe_sheet_name(, اسم الاقتراح){#str}
+التحقق من اسم الورقة المقدمة وإنشاء اسم صالح عند الحاجة إليه.
+إذا كان اسم الورقة المقدمة يتوافق مع قواعد اسم ورقة Excel، فقم بإرجاعها.
+وإلا سيتم قطع السلسلة إذا تجاوز الطول الحد الأقصى
+وسيتم استبدال الأحرف غير الصالحة بـ ' '، ثم إرجاع قيمة السلسلة المعاد بناؤها.
 
 
 ###  عائدات
@@ -20,21 +20,23 @@ is_root: false
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| name_proposal | str | اسم الورقة المطلوب استخدامه|
+| name_proposal | str | اسم الورقة المراد استخدامها|
 
 
-##  create_safe_sheet_name(name_proposal, replace_char) {#str-char}
-للتحقق من اسم الورقة المحدد وإنشاء اسم صالح عند الحاجة.
-إذا كان اسم الورقة المعطى يتوافق مع قواعد اسم ورقة Excel ، فقم بإعادتها.
-وإلا سيتم قطع السلسلة إذا تجاوز الطول الحد
-وسيتم استبدال الأحرف غير الصالحة بحرف معين ، ثم إرجاع قيمة السلسلة المعاد بناؤها.
+##  create_safe_sheet_name(، اسم الاقتراح، استبدال الحرف){#str-char}
+التحقق من اسم الورقة المقدمة وإنشاء اسم صالح عند الحاجة إليه.
+إذا كان اسم الورقة المقدمة يتوافق مع قواعد اسم ورقة Excel، فقم بإرجاعها.
+وإلا سيتم قطع السلسلة إذا تجاوز الطول الحد الأقصى
+وسيتم استبدال الأحرف غير الصالحة بالحرف المحدد، ثم إرجاع قيمة السلسلة المعاد بناؤها.
 
 
 ###  عائدات
@@ -43,18 +45,20 @@ def create_safe_sheet_name(self, name_proposal):
 
 
 ```python
-def create_safe_sheet_name(self, name_proposal, replace_char):
+
+@staticmethod
+def create_safe_sheet_name(name_proposal, replace_char):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| name_proposal | str | اسم الورقة المطلوب استخدامه|
-| replace_char | char | الحرف الذي سيتم استخدامه لاستبدال الأحرف غير الصالحة في اسم الورقة المحدد|
+| name_proposal | str | اسم الورقة المراد استخدامها|
+| replace_char | char | الحرف الذي سيتم استخدامه لاستبدال الأحرف غير الصالحة في اسم الورقة المحددة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)

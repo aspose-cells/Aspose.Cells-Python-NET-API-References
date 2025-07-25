@@ -1,6 +1,6 @@
 ---
 title: print_gridlines недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 560
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_gridlines недвижимость
 
-Указывает, печатаются ли линии сетки ячеек на странице.
+Указывает, будут ли напечатаны линии сетки ячеек на странице.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_gridlines(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

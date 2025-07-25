@@ -3,20 +3,21 @@ title: get_text_of_protection metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protection/
 is_root: false
 ---
-##  get_text_of_protection {#}
+##  get_text_of_protection(self) {#}
 Hämtar skyddsnamnet i pivottabellen.
 
 
 ###  Returnerar
 
-Skyddsnamnet för pivottabell
+Skyddsnamnet för pivottabellen
 
 
 ```python
+
 def get_text_of_protection(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_text_of_protection(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden PivotGlobalizationSettings.GetTextOfProtectedName(sträng).
- Den här egenskapen kommer att tas bort 12 månader senare sedan mars 2023.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden PivotGlobalizationSettings.GetTextOfProtectedName(string).
+ Den här egenskapen kommer att tas bort 12 månader senare från och med mars 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

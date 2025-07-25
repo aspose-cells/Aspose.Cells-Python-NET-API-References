@@ -3,19 +3,19 @@ title: range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 550
+weight: 640
 url: /sv/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ##  range fastighet
 
-Hämtar gruppen range för pivotfältet
+Hämtar gruppen range från pivotfältet
 
 ###  Anmärkningar
 
- OBS: Denna metod är nu föråldrad. Istället,
-använd egenskapen PivotField.GroupSettings.
- Denna metod kommer att tas bort 12 månader senare sedan oktober 2023.
+ OBS! Den här metoden är nu föråldrad. Istället,
+Använd egenskapen PivotField.GroupSettings.
+ Denna metod kommer att tas bort 12 månader senare från och med oktober 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

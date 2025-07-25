@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells/filtercolumncollection/get_by_index/
 is_root: false
 ---
-##  get_by_index(index) {#int}
-Bir koleksiyondan tek bir Filter nesnesi döndürür.
+##  get_by_index(self, index) {#int}
+Bir koleksiyondan tek bir Filtre nesnesi döndürür.
 
 
 
 ```python
+
 def get_by_index(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def get_by_index(self, index):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FilterColumnCollection](/cells/python-net/tr/aspose.cells/filtercolumncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`FilterColumnCollection`](/cells/python-net/tr/aspose.cells/filtercolumncollection)

@@ -1,15 +1,15 @@
 ---
-title: skip_blanks الملكية
+title: skip_blanks عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells/pasteoptions/skip_blanks/
 is_root: false
 ---
-##  skip_blanks الملكية
+##  skip_blanks عقار
 
-يشير إلى ما إذا كان يتم تخطي الخلايا الفارغة.
+يشير إلى ما إذا كان سيتم تخطي الخلايا الفارغة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def skip_blanks(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PasteOptions](/cells/python-net/ar/aspose.cells/pasteoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions)

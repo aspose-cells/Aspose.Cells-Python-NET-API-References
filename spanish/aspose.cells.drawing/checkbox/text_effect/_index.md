@@ -3,7 +3,7 @@ title: text_effect propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /es/aspose.cells.drawing/checkbox/text_effect/
 is_root: false
 ---

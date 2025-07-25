@@ -21,5 +21,5 @@ def x_values(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

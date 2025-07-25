@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  points fastighet
 
-Får samlingen points i en serie i ett diagram.
+Hämtar samlingen points i en serie i ett diagram.
 
 ###  Anmärkningar
 
-När diagrammet är Pie of Pie eller Bar of Pie, är den sista punkten den andra punkten i första pajdiagrammet.
+När diagrammet är en cirkeldiagram eller en stapeldiagram är den sista punkten den andra punkten i det första cirkeldiagrammet.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def points(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPointCollection](/cells/python-net/sv/aspose.cells.charts/chartpointcollection)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPointCollection`](/cells/python-net/sv/aspose.cells.charts/chartpointcollection)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

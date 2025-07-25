@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.charts/chart/change_template/
 is_root: false
 ---
-##  change_template(data) {#bytes}
-تغيير نوع الرسم البياني مع قالب مسبق الإعداد.
+##  change_template(self, data) {#bytes}
+تغيير نوع الرسم البياني باستخدام القالب المحدد مسبقًا.
 
 
 
 ```python
+
 def change_template(self, data):
     ...
 ```
@@ -25,5 +26,5 @@ def change_template(self, data):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

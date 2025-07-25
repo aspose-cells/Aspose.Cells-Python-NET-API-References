@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_type Eigentum
 
-Ruft den Typ zum Filtern von Daten ab und legt ihn fest.
+Ruft den Typ der Filterdaten ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FilterColumn](/cells/python-net/de/aspose.cells/filtercolumn)
-* Klasse [FilterType](/cells/python-net/de/aspose.cells/filtertype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FilterColumn`](/cells/python-net/de/aspose.cells/filtercolumn)
+* Klasse [`FilterType`](/cells/python-net/de/aspose.cells/filtertype)

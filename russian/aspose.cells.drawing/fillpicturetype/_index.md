@@ -1,27 +1,27 @@
 ---
 title: FillPictureType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 820
+weight: 810
 url: /ru/aspose.cells.drawing/fillpicturetype/
 is_root: false
 ---
 ##  FillPictureType перечисление
-Представляет тип заливки рисунка.
+Представляет собой тип заливки изображения.
 
 
 
-Тип FillPictureType предоставляет следующие члены:
+Тип FillPictureType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
 | STRETCH | Потягиваться|
 | STACK | Куча|
-| STACK_AND_SCALE | стек и масштаб|
+| STACK_AND_SCALE | StackAndScale|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

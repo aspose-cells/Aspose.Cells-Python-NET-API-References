@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_z fastighet
 
-Får och ställer in den extruderade formens rotation runt z-axeln i grader.
+Hämtar och ställer in rotationen av den extruderade formen runt z-axeln i grader.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_z(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

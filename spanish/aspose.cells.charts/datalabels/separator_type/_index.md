@@ -3,13 +3,13 @@ title: separator_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 400
 url: /es/aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---
 ##  separator_type propiedad
 
-Obtiene o establece el tipo de separador utilizado para las etiquetas de datos de un gráfico.
+Obtiene o establece el tipo de separador utilizado para las etiquetas de datos en un gráfico.
 
 ###  Observaciones
 

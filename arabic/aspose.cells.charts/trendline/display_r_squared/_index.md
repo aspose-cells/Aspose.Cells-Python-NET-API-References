@@ -1,5 +1,5 @@
 ---
-title: display_r_squared الملكية
+title: display_r_squared عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells.charts/trendline/display_r_squared/
 is_root: false
 ---
-##  display_r_squared الملكية
+##  display_r_squared عقار
 
-يمثل ما إذا كانت قيمة R التربيعية لخط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات مثل المعادلة). يؤدي تعيين هذه الخاصية إلى True إلى تشغيل تسميات البيانات تلقائيًا.
+يُمثل ما إذا كانت قيمة R-squared لخط الاتجاه معروضة على الرسم البياني (في نفس تسمية البيانات الخاصة بالمعادلة). يؤدي تعيين هذه الخاصية إلى "صحيح" إلى تفعيل تسميات البيانات تلقائيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_r_squared(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

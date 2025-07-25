@@ -18,6 +18,6 @@ def source_worksheet(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellMove](/cells/python-net/tr/aspose.cells.revisions/revisioncellmove)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellMove`](/cells/python-net/tr/aspose.cells.revisions/revisioncellmove)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

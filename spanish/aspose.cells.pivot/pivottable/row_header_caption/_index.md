@@ -3,7 +3,7 @@ title: row_header_caption propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 850
+weight: 970
 url: /es/aspose.cells.pivot/pivottable/row_header_caption/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def row_header_caption(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

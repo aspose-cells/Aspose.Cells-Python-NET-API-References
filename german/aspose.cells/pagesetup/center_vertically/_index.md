@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_vertically Eigentum
 
-Stellen Sie dar, ob das Blatt vertikal zentriert gedruckt wird.
+Gibt an, ob das Blatt vertikal zentriert gedruckt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_vertically(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

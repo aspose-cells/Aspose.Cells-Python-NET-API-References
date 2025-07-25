@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user_id propiedad
 
-Obtiene y establece la identificación del usuario.
+Obtiene y establece el id del usuario.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def user_id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ThreadedCommentAuthor](/cells/python-net/es/aspose.cells/threadedcommentauthor)
+* módulo [`aspose.cells`](../../)
+* clase [`ThreadedCommentAuthor`](/cells/python-net/es/aspose.cells/threadedcommentauthor)

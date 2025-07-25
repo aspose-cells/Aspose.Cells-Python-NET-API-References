@@ -1,6 +1,6 @@
 ---
 title: filter_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter_type недвижимость
 
-Получает и задает тип для фильтрации данных.
+Получает и задает тип фильтрации данных.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def filter_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FilterColumn](/cells/python-net/ru/aspose.cells/filtercolumn)
-* класс [FilterType](/cells/python-net/ru/aspose.cells/filtertype)
+* модуль [`aspose.cells`](../../)
+* класс [`FilterColumn`](/cells/python-net/ru/aspose.cells/filtercolumn)
+* класс [`FilterType`](/cells/python-net/ru/aspose.cells/filtertype)

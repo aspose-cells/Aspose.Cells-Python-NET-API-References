@@ -1,6 +1,6 @@
 ---
 title: header_rows_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  header_rows_count proprietà
 
-Il conteggio delle righe di intestazione da ripetere per i fogli estesi.
+Conteggio delle righe di intestazione da ripetere per i fogli estesi.
 
 ###  Osservazioni
 
-Le righe di intestazione specificate da questa proprietà verranno duplicate per i fogli estesi.
-Questa proprietà ha effetto solo quando [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/it/aspose.cells/txtloadoptions#extend_to_next_sheet) è vero.
+Le righe di intestazione specificate da questa proprietà verranno duplicate per quei fogli estesi.
+Questa proprietà ha effetto solo se [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/it/aspose.cells/txtloadoptions#extend_to_next_sheet) è vero.
 ###  Definizione:
 ```python
 @property

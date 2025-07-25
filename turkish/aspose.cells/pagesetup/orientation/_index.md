@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  orientation mülk
 
-Sayfa yazdırmayı temsil eder orientation.
+Sayfa yazdırma orientation'i temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def orientation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageOrientationType](/cells/python-net/tr/aspose.cells/pageorientationtype)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageOrientationType`](/cells/python-net/tr/aspose.cells/pageorientationtype)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

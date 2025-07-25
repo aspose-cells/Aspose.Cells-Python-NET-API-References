@@ -1,18 +1,19 @@
 ---
 title: set_license方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
-许可组件。
+##  set_license(self, license_name) {#str}
+许可该组件。
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -21,15 +22,15 @@ def set_license(self, license_name):
 |范围|类型|描述|
 | :- | :- | :- |
 | license_name | str |  |
-### 评论
+### 注意事项
 
 尝试在以下位置查找许可证：
 
 
-1. 显式路径。
+1. 明确路径。
 
 
-2. 包含 Aspose 组件的文件夹。
+2. 包含Aspose组件的文件夹。
 
 
 3. 包含客户端调用程序集的文件夹。
@@ -38,16 +39,16 @@ def set_license(self, license_name):
 4. 包含入口（启动）程序集的文件夹。
 
 
-5. 客户端调用程序集中的嵌入式资源。
+5. 客户端调用程序集中的嵌入资源。
 
 
-**笔记：**在 .NET Compact Framework 上，尝试仅在这些位置查找许可证：
+**笔记：**在 .NET Compact Framework 上，尝试仅在以下位置查找许可证：
 
 
-1. 显式路径。
+1. 明确路径。
 
 
-2. 客户端调用程序集中的嵌入式资源。
+2. 客户端调用程序集中的嵌入资源。
 ### 例子
 
 
@@ -55,8 +56,8 @@ def set_license(self, license_name):
 在包含的文件夹中
 
 
-组件，在包含调用程序集的文件夹中，
-在入口程序集的文件夹中，然后在调用程序集的嵌入式资源中。
+包含调用程序集的文件夹中的组件，
+在入口程序集的文件夹中，然后在调用程序集的嵌入资源中。
 
 ```python
 from aspose.cells import License
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-可以是嵌入资源的完整或短文件名或名称。
+可以是完整或短文件名或嵌入资源的名称。
 使用空字符串切换到评估模式。
 
 
-##  set_license(stream) {#io.RawIOBase}
-许可组件。
+##  set_license(self, stream) {#io.RawIOBase}
+许可该组件。
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -83,9 +85,9 @@ def set_license(self, stream):
 |范围|类型|描述|
 | :- | :- | :- |
 | stream | io.RawIOBase |包含许可证的流。|
-### 评论
+### 注意事项
 
-使用此方法从流中加载许可证。
+使用此方法从流加载许可证。
 ### 例子
 
 
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [License](/cells/python-net/zh/aspose.cells/license)
+* 模块[`aspose.cells`](../../)
+* 类 [`License`](/cells/python-net/zh/aspose.cells/license)

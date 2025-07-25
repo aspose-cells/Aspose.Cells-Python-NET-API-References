@@ -3,7 +3,7 @@ title: shared_style_index属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 700
+weight: 730
 url: /zh/aspose.cells/cell/shared_style_index/
 is_root: false
 ---

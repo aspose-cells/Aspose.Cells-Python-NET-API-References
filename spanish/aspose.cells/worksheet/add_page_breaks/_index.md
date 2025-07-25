@@ -1,5 +1,5 @@
 ---
-title: add_page_breaks método
+title: método add_page_breaks
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
-##  add_page_breaks(cell_name) {#str}
+##  add_page_breaks(self, cell_name) {#str}
 Añade salto de página.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_breaks(self, cell_name):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

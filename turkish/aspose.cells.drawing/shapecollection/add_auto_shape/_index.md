@@ -7,7 +7,7 @@ weight: 40
 url: /tr/aspose.cells.drawing/shapecollection/add_auto_shape/
 is_root: false
 ---
-##  add_auto_shape(type, upper_left_row, top, upper_left_column, left, height, width) {#AutoShapeType-int-int-int-int-int-int}
+##  add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.AutoShapeType-int-int-int-int-int-int}
 Çalışma sayfasına bir Otomatik Şekil ekler.
 
 
@@ -17,6 +17,7 @@ Bir Şekil nesnesi.
 
 
 ```python
+
 def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,16 +25,16 @@ def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, hei
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [AutoShapeType](/cells/python-net/tr/aspose.cells.drawing/autoshapetype) | Otomatik şekil türü.|
+| type | [`AutoShapeType`](/cells/python-net/tr/aspose.cells.drawing/autoshapetype) | Otomatik şekil türü.|
 | upper_left_row | int | Sol üst sıra dizini.|
-| top | int | Shape öğesinin sol satırından dikey uzaklığını piksel birimi cinsinden temsil eder.|
+| top | int | Şeklin sol satırından dikey uzaklığını piksel cinsinden temsil eder.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| left | int | Shape'in sol sütunundan yatay uzaklığını piksel birimi cinsinden temsil eder.|
-| height | int | Şeklin yüksekliğini piksel birimi cinsinden temsil eder.|
-| width | int | Şeklin genişliğini piksel birimi cinsinden temsil eder.|
+| left | int | Şeklin sol sütunundan yatay uzaklığını piksel cinsinden temsil eder.|
+| height | int | Şeklin yüksekliğini piksel cinsinden temsil eder.|
+| width | int | Şeklin genişliğini piksel cinsinden temsil eder.|
 ###  Notlar
 
-Tür, Grafik/Yorum/Resim/OleObject/Polygon/DialogBox olamaz
+Tür, Grafik/Yorum/Resim/OleObject/Çokgen/DialogBox olamaz
 ###  Örnek
 
 
@@ -48,5 +49,5 @@ autoShape = shapes.add_auto_shape(AutoShapeType.CUBE, 1, 0, 1, 0, 100, 50)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

@@ -1,6 +1,6 @@
 ---
 title: enter_key_behavior proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -11,7 +11,7 @@ is_root: false
 
 Specifica il comportamento del tasto INVIO.
 True specifica che premendo INVIO verrà creata una nuova riga.
-False specifica che la pressione di INVIO sposterà lo stato attivo sull'oggetto successivo nell'ordine di tabulazione.
+False specifica che premendo INVIO il focus passerà all'oggetto successivo nell'ordine di tabulazione.
 ###  Definizione:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_key_behavior(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

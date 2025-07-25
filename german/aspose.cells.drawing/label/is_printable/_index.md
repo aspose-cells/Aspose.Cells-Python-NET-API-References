@@ -3,13 +3,14 @@ title: is_printable Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 620
+weight: 630
 url: /de/aspose.cells.drawing/label/is_printable/
 is_root: false
 ---
 ##  is_printable Eigentum
 
-True, wenn das Objekt druckbar ist
+Gibt an, ob das Objekt druckbar ist.
+Wenn „False“, wird diese Form beim Drucken nicht gedruckt.
 
 ###  Beispiel
 

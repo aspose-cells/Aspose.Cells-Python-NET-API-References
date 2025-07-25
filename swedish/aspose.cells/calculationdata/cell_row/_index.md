@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_row fastighet
 
-Hämtar radindex för cellen där funktionen finns i.
+Hämtar radindexet för cellen där funktionen finns.
 ###  Definition:
 ```python
 @property

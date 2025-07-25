@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bins propiedad
 
-Representa bins en el eje de un gráfico (histograma/Pareto)
+Representa bins en un eje de gráfico (histograma/Pareto)
 ###  Definición:
 ```python
 @property

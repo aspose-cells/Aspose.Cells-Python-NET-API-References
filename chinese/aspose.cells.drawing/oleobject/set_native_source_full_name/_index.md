@@ -3,16 +3,17 @@ title: set_native_source_full_name方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 230
+weight: 240
 url: /zh/aspose.cells.drawing/oleobject/set_native_source_full_name/
 is_root: false
 ---
-##  set_native_source_full_name {#str}
-设置 ole 本机源完整文件名和路径。
+##  set_native_source_full_name(self, source_full_name) {#str}
+设置带有路径的 ole 本机源完整文件名。
 
 
 
 ```python
+
 def set_native_source_full_name(self, source_full_name):
     ...
 ```

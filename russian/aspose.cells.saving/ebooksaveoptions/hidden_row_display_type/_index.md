@@ -1,17 +1,17 @@
 ---
 title: hidden_row_display_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 480
 url: /ru/aspose.cells.saving/ebooksaveoptions/hidden_row_display_type/
 is_root: false
 ---
 ##  hidden_row_display_type недвижимость
 
-Скрытая строка (высота этой строки равна 0) в Excel, прежде чем сохранить ее в формате html,
-если HtmlHiddenRowDisplayType имеет значение «Удалить», скрытая строка не будет выводиться,
-если значение «Скрыто», строка будет выводиться, но была скрыта, значение по умолчанию — «Скрыто».
+Скрытая строка (высота этой строки равна 0) в Excel, перед сохранением в формате HTML,
+Если HtmlHiddenRowDisplayType равно «Remove», то скрытая строка не будет выводиться,
+Если значение равно «Скрыто», строка будет выведена, но будет скрыта, значение по умолчанию — «Скрыто».
 ###  Определение:
 ```python
 @property

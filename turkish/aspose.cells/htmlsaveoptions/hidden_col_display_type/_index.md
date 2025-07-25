@@ -3,15 +3,15 @@ title: hidden_col_display_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 470
 url: /tr/aspose.cells/htmlsaveoptions/hidden_col_display_type/
 is_root: false
 ---
 ##  hidden_col_display_type mülk
 
-Excel'de gizli sütun (bu sütunun genişliği 0'dır), bunu html formatında kaydetmeden önce,
-HtmlHiddenColDisplayType "Kaldır" ise gizli sütunun çıktısı alınmaz,
-değer "Gizli" ise, sütunun çıktısı alınır ancak gizlenmişse, varsayılan değer "Gizli" olur
+Excel'de gizli sütun (bu sütunun genişliği 0'dır), bunu html formatına kaydetmeden önce,
+HtmlHiddenColDisplayType "Kaldır" ise, gizli sütun çıktı olarak verilmez,
+eğer değer "Gizli" ise, sütun çıktı olarak verilir, ancak gizlidir, varsayılan değer "Gizli"dir
 ###  Tanım:
 ```python
 @property

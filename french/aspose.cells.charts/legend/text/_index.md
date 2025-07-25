@@ -3,13 +3,13 @@ title: text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 410
 url: /fr/aspose.cells.charts/legend/text/
 is_root: false
 ---
 ##  text propriété
 
-Obtient ou définit le text du titre d’un cadre.
+Obtient ou définit le text du titre d'un cadre.
 ###  Définition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  footer_margin Eigentum
 
-Stellt den Abstand vom unteren Rand der Seite zur Fußzeile in Zentimetern dar.
+Stellt den Abstand vom unteren Seitenrand bis zur Fußzeile in Zentimetern dar.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def footer_margin(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

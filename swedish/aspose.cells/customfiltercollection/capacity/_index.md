@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CustomFilterCollection](/cells/python-net/sv/aspose.cells/customfiltercollection)
+* modul [`aspose.cells`](../../)
+* klass [`CustomFilterCollection`](/cells/python-net/sv/aspose.cells/customfiltercollection)

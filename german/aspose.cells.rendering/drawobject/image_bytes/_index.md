@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_bytes Eigentum
 
-Gibt Bildbytes des gerenderten Diagramms, der Form beim Rendern an.
+Gibt beim Rendern die Bildbytes des gerenderten Diagramms bzw. der gerenderten Form an.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_bytes(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [DrawObject](/cells/python-net/de/aspose.cells.rendering/drawobject)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`DrawObject`](/cells/python-net/de/aspose.cells.rendering/drawobject)

@@ -3,12 +3,12 @@ title: get_input_range yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 110
 url: /tr/aspose.cells.drawing/rectangleshape/get_input_range/
 is_root: false
 ---
-##  get_input_range(is_r1c1, is_local) {#bool-bool}
-Denetimi doldurmak için kullanılan aralığı alır.
+##  get_input_range(self, is_r1c1, is_local) {#bool-bool}
+Kontrolü doldurmak için kullanılan aralığı alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Kontrolü doldurmak için kullanılan aralık.
 
 
 ```python
+
 def get_input_range(self, is_r1c1, is_local):
     ...
 ```
@@ -38,5 +39,5 @@ range = shape.get_input_range(False, True)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [RectangleShape](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`RectangleShape`](/cells/python-net/tr/aspose.cells.drawing/rectangleshape)

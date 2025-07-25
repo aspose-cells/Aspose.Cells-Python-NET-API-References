@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reverse fastighet
 
-Hämta eller ställ in flaggan som anger om standardordningen för ikonerna i denna ikonuppsättning ska ändras.
+Hämta eller ställ in flaggan som anger om standardordningen för ikonerna i den här ikonuppsättningen ska omvändas.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
+* modul [`aspose.cells`](../../)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)

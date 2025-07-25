@@ -3,7 +3,7 @@ title: is_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ar/aspose.cells/cell/is_formula/
 is_root: false
 ---

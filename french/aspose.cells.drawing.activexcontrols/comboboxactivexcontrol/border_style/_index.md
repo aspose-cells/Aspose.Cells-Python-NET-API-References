@@ -21,6 +21,6 @@ def border_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ComboBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* classe [ControlBorderType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlbordertype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ComboBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* classe [`ControlBorderType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlbordertype)

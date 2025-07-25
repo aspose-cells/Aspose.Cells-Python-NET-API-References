@@ -3,11 +3,11 @@ title: طريقة get_style
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ar/aspose.cells/cell/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 يحصل على نمط الخلية.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -24,11 +25,11 @@ def get_style(self):
 
 ###  ملاحظات
 
-لتغيير نمط الخلية ، يرجى الاتصال على Cell.SetStyle () بعد تغيير النمط.
+لتغيير نمط الخلية، يرجى الاتصال بطريقة Cell.SetStyle() بعد تعديل كائن النمط المُرجع.
+هذه الطريقة هي نفسها [`Cell.get_style`](/cells/python-net/ar/aspose.cells/cell/get_style) مع القيمة الصحيحة للمعلمة.
 
-##  get_style(check_borders) {#bool}
-
-إذا كانت checkBorders صحيحة ، فتحقق مما إذا كانت حدود الخلايا الأخرى ستؤثر على نمط هذه الخلية.
+##  get_style(self, check_borders) {#bool}
+إذا كانت checkBorders صحيحة، فتحقق ما إذا كانت حدود الخلايا الأخرى ستؤثر على نمط هذه الخلية.
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def get_style(self):
 
 
 ```python
+
 def get_style(self, check_borders):
     ...
 ```
@@ -44,7 +46,7 @@ def get_style(self, check_borders):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| check_borders | bool | تحقق من حدود الخلايا الأخرى|
+| check_borders | bool | التحقق من حدود الخلايا الأخرى|
 ###  ملاحظات
 
 
@@ -52,5 +54,5 @@ def get_style(self, check_borders):
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

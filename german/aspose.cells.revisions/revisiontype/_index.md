@@ -20,19 +20,19 @@ Der Typ RevisionType macht die folgenden Member verfügbar:
 | CUSTOM_VIEW | Benutzerdefinierte Ansicht.|
 | DEFINED_NAME | Definierter Name.|
 | CHANGE_CELLS | Cells ändern.|
-| AUTO_FORMAT | Automatisch formatieren.|
-| MERGE_CONFLICT | Konflikt zusammenführen.|
+| AUTO_FORMAT | Automatisches Format.|
+| MERGE_CONFLICT | Zusammenführungskonflikt.|
 | COMMENT | Kommentar.|
 | FORMAT | Format.|
 | INSERT_SHEET | Arbeitsblatt einfügen.|
-| MOVE_CELLS |Zellen verschieben.|
+| MOVE_CELLS | Zellen verschieben.|
 | UNDO | Rückgängig machen.|
-| QUERY_TABLE | Tabelle abfragen.|
-| INSERT_DELETE | Einfügen oder löschen.|
+| QUERY_TABLE | Abfragetabelle.|
+| INSERT_DELETE | Einfügen oder Löschen.|
 | RENAME_SHEET | Arbeitsblatt umbenennen.|
-| UNKNOWN | Unbekannt.|
+| UNKNOWN |Unbekannt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
+* Modul [`aspose.cells.revisions`](..)

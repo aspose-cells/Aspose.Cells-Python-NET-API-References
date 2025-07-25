@@ -1,5 +1,5 @@
 ---
-title: RevisionHeader الدرجة
+title: RevisionHeader صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,26 +7,26 @@ weight: 100
 url: /ar/aspose.cells.revisions/revisionheader/
 is_root: false
 ---
-##  RevisionHeader الدرجة
+##  RevisionHeader صف
 يمثل قائمة بالتغييرات المحددة التي حدثت لهذا المصنف.
 
 
 
-يكشف نوع RevisionHeader الأعضاء التالية:
+يكشف النوع RevisionHeader عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [RevisionHeader()](/cells/python-net/ar/aspose.cells.revisions/revisionheader/__init__/#) | إنشاء مثيل جديد لـ RevisionHeader|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.revisions/revisionheader/__init__/#) | إنشاء مثيل جديد من RevisionHeader|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [saved_time](/cells/python-net/ar/aspose.cells.revisions/revisionheader/saved_time) | الحصول على وتعيين التاريخ والوقت عندما تم حفظ هذه المجموعة من المراجعات.|
-| [user_name](/cells/python-net/ar/aspose.cells.revisions/revisionheader/user_name) | الحصول على اسم المستخدم الذي يقوم بالمراجعة وتعيينه.|
+| [saved_time](/cells/python-net/ar/aspose.cells.revisions/revisionheader/saved_time) | يحصل على التاريخ والوقت اللذين تم فيهما حفظ مجموعة المراجعات هذه ويقوم بتعيينهما.|
+| [user_name](/cells/python-net/ar/aspose.cells.revisions/revisionheader/user_name) | يحصل على اسم المستخدم الذي يقوم بالمراجعة ويقوم بتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](..)
+* الوحدة [`aspose.cells.revisions`](..)

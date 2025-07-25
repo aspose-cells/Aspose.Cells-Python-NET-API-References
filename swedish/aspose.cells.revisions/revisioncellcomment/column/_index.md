@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar indexet column som innehåller en kommentar.
+Hämtar column-indexet för som innehåller en kommentar.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellComment](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellComment`](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)

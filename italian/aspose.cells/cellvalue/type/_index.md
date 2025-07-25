@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene/imposta il valore type della cella.
+Ottiene/imposta il valore della cella type.
 ###  Definizione:
 ```python
 @property

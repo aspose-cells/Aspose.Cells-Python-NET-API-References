@@ -1,6 +1,6 @@
 ---
 title: add_blank_line_between_rows proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows proprietà
 
-Inserisci una riga vuota tra ogni dato.
+Inserire una riga vuota tra ogni dato.
 
 ###  Osservazioni
 
-Se [SqlScriptSaveOptions.separator](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions#separator) è '\n' , è meglio impostare questa proprietà come true per aumentare la leggibilità.
+Se [`SqlScriptSaveOptions.separator`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions#separator) è '\n' , è meglio impostare questa proprietà su true per aumentare la leggibilità.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)
+* modulo [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)

@@ -3,7 +3,7 @@ title: width_pt عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ar/aspose.cells.drawing/rectangleshape/width_pt/
 is_root: false
 ---

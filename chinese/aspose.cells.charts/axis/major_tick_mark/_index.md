@@ -3,7 +3,7 @@ title: major_tick_mark属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 300
 url: /zh/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---

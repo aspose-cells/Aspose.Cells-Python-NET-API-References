@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/individualfontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(self, font_folders, recursive) {#list-bool}
 Ställer in typsnittsmapparna
 
 
 
 ```python
+
 def set_font_folders(self, font_folders, recursive):
     ...
 ```
@@ -26,5 +27,5 @@ def set_font_folders(self, font_folders, recursive):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IndividualFontConfigs](/cells/python-net/sv/aspose.cells/individualfontconfigs)
+* modul [`aspose.cells`](../../)
+* klass [`IndividualFontConfigs`](/cells/python-net/sv/aspose.cells/individualfontconfigs)

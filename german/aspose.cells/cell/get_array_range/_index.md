@@ -7,8 +7,8 @@ weight: 60
 url: /de/aspose.cells/cell/get_array_range/
 is_root: false
 ---
-##  get_array_range() {#}
-Ruft den Matrixbereich ab, wenn die Formel der Zelle eine Matrixformel ist.
+##  get_array_range(self) {#}
+Ruft den Arraybereich ab, wenn die Formel der Zelle eine Arrayformel ist.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Der Array-Bereich.
 
 
 ```python
+
 def get_array_range(self):
     ...
 ```
@@ -29,5 +30,5 @@ Gilt nur, wenn die Formel der Zelle eine Matrixformel ist
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

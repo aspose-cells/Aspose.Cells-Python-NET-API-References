@@ -1,13 +1,13 @@
 ---
-title: full_text 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: full_text属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells/name/full_text/
 is_root: false
 ---
-## full_text 属性
+## full_text属性
 
 获取具有范围设置的对象的名称全文。
 ### 定义：
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Name](/cells/python-net/zh/aspose.cells/name)
+* 模块[`aspose.cells`](../../)
+* 类 [`Name`](/cells/python-net/zh/aspose.cells/name)

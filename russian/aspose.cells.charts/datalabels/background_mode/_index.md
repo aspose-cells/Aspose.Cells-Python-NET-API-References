@@ -1,9 +1,9 @@
 ---
 title: background_mode недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells.charts/datalabels/background_mode/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [BackgroundMode](/cells/python-net/ru/aspose.cells.charts/backgroundmode)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`BackgroundMode`](/cells/python-net/ru/aspose.cells.charts/backgroundmode)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

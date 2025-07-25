@@ -3,13 +3,13 @@ title: start_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 320
+weight: 300
 url: /sv/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
 ##  start_cell fastighet
 
-Hämtar och ställer in startcellen.
+Hämtar och anger startcellen.
 
 ###  Anmärkningar
 

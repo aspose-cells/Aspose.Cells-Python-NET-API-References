@@ -1,5 +1,5 @@
 ---
-title: add_hyperlink método
+title: método add_hyperlink
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells.drawing/commentshape/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 Agrega un hipervínculo a la forma.
 
 
@@ -17,6 +17,7 @@ Devuelve el nuevo objeto de hipervínculo.
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CommentShape](/cells/python-net/es/aspose.cells.drawing/commentshape)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CommentShape`](/cells/python-net/es/aspose.cells.drawing/commentshape)

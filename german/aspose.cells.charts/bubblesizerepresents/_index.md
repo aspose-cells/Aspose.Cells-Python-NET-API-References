@@ -17,8 +17,8 @@ Der Typ BubbleSizeRepresents macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| SIZE_IS_AREA | Stellt den Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) dar und ist die Fläche der Blase.|
-| SIZE_IS_WIDTH | Stellt den Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) dar. Die Breite der Blase.|
+| SIZE_IS_AREA | Stellt den Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) als Fläche der Blase dar.|
+| SIZE_IS_WIDTH | Stellt den Wert [`Series.bubble_sizes`](/cells/python-net/de/aspose.cells.charts/series#bubble_sizes) dar, der die Breite der Blase darstellt.|
 
 
 

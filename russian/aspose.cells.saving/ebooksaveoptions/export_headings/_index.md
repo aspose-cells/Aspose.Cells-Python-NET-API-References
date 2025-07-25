@@ -1,22 +1,22 @@
 ---
 title: export_headings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 340
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_headings/
 is_root: false
 ---
 ##  export_headings недвижимость
 
-Указывает, экспортируются ли заголовки строк и столбцов листа при сохранении в файлы HTML.
+Указывает, экспортировать ли заголовки строк и столбцов листа при сохранении в файлы HTML.
 
 ###  Примечания
 
- ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте свойство HtmlSaveOptions.ExportRowColumnHeadings.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с июня 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ Этот объект будет снесен через 12 месяцев, с июня 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

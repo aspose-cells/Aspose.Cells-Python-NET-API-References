@@ -3,14 +3,14 @@ title: export_single_tab propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 420
 url: /fr/aspose.cells/htmlsaveoptions/export_single_tab/
 is_root: false
 ---
 ##  export_single_tab propriété
 
-Indique s’il faut exporter l’onglet unique lorsque le fichier ne contient qu’une seule feuille de calcul.
-La valeur par défaut est fausse.
+Indique si l'exportation de l'onglet unique est nécessaire lorsque le fichier ne contient qu'une seule feuille de calcul.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

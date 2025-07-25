@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [SlicerCacheItemCollection](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`SlicerCacheItemCollection`](/cells/python-net/tr/aspose.cells.slicers/slicercacheitemcollection)

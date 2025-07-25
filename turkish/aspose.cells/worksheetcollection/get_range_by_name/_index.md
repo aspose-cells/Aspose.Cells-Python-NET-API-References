@@ -7,7 +7,7 @@ weight: 120
 url: /tr/aspose.cells/worksheetcollection/get_range_by_name/
 is_root: false
 ---
-##  get_range_by_name(range_name) {#str}
+##  get_range_by_name(self, range_name) {#str}
 Önceden tanımlanmış ada göre Range nesnesini alır.
 
 
@@ -16,10 +16,11 @@ is_root: false
 Aralık nesnesi.
 
 
-Adlandırılmış aralık yoksa null değerini döndürür.
+Adlandırılmış aralık mevcut değilse null döndürür.
 
 
 ```python
+
 def get_range_by_name(self, range_name):
     ...
 ```
@@ -27,11 +28,11 @@ def get_range_by_name(self, range_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range_name | str | aralığın adı.|
+| range_name | str | Aralığın adı.|
 
 
-##  get_range_by_name(range_name, current_sheet_index, include_table) {#str-int-bool}
-Önceden tanımlanmış ad veya tablo adına göre [Range](/cells/python-net/tr/aspose.cells/range)'i alır
+##  get_range_by_name(self, range_name, current_sheet_index, include_table) {#str-int-bool}
+Önceden tanımlanmış ad veya tablonun adına göre [`Range`](/cells/python-net/tr/aspose.cells/range)'i alır
 
 
 ###  İadeler
@@ -40,6 +41,7 @@ def get_range_by_name(self, range_name):
 
 
 ```python
+
 def get_range_by_name(self, range_name, current_sheet_index, include_table):
     ...
 ```
@@ -48,12 +50,12 @@ def get_range_by_name(self, range_name, current_sheet_index, include_table):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | range_name | str | Aralığın adı veya tablonun adı.|
-| current_sheet_index | int | Sayfa dizini. -1 geneli temsil eder.|
-| include_table | bool | Tüm tabloların kontrol edilip edilmediğini gösterir.|
+| current_sheet_index | int | Sayfa dizini. -1 küreseli temsil eder.|
+| include_table | bool | Tüm tabloların kontrol edilip edilmediğini belirtir.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Range](/cells/python-net/tr/aspose.cells/range)
-* sınıf [WorksheetCollection](/cells/python-net/tr/aspose.cells/worksheetcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Range`](/cells/python-net/tr/aspose.cells/range)
+* sınıf [`WorksheetCollection`](/cells/python-net/tr/aspose.cells/worksheetcollection)

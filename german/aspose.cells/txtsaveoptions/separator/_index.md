@@ -3,7 +3,7 @@ title: separator Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 190
 url: /de/aspose.cells/txtsaveoptions/separator/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def separator(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TxtSaveOptions](/cells/python-net/de/aspose.cells/txtsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TxtSaveOptions`](/cells/python-net/de/aspose.cells/txtsaveoptions)

@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells/name/get_refers_to/
 is_root: false
 ---
-##  get_refers_to(is_r1c1, is_local) {#bool-bool}
+##  get_refers_to(self, is_r1c1, is_local) {#bool-bool}
 Holen Sie sich die Referenz dieses Namens.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local):
     ...
 ```
@@ -24,12 +25,13 @@ def get_refers_to(self, is_r1c1, is_local):
 | is_local | bool | Ob die Referenz nach Gebietsschema formatiert werden muss.|
 
 
-##  get_refers_to(is_r1c1, is_local, row, column) {#bool-bool-int-int}
-Rufen Sie die Referenz dieses Namens basierend auf der angegebenen Zelle ab.
+##  get_refers_to(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
+Holen Sie sich die Referenz dieses Namens basierend auf der angegebenen Zelle.
 
 
 
 ```python
+
 def get_refers_to(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -45,5 +47,5 @@ def get_refers_to(self, is_r1c1, is_local, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

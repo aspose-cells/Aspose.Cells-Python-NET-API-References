@@ -3,13 +3,13 @@ title: table_style_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 290
+weight: 300
 url: /sv/aspose.cells.tables/listobject/table_style_type/
 is_root: false
 ---
 ##  table_style_type fastighet
 
-Gets och den inbyggda bordsstilen.
+Gets och den inbyggda tabellstilen.
 
 ###  Exempel
 
@@ -36,6 +36,6 @@ def table_style_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObject](/cells/python-net/sv/aspose.cells.tables/listobject)
-* klass [TableStyleType](/cells/python-net/sv/aspose.cells.tables/tablestyletype)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObject`](/cells/python-net/sv/aspose.cells.tables/listobject)
+* klass [`TableStyleType`](/cells/python-net/sv/aspose.cells.tables/tablestyletype)

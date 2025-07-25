@@ -1,18 +1,19 @@
 ---
 title: Metodo to_image
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 240
 url: /it/aspose.cells.drawing/commentshape/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase-aspose.cells.drawing.ImageType}
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 Crea l'immagine della forma e la salva in un flusso nel formato specificato.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -21,7 +22,7 @@ def to_image(self, stream, image_type):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | stream | io.RawIOBase | Il flusso di output.|
-| image_type | [`ImageType`](/cells/python-net/it/aspose.cells.drawing/imagetype) | Il tipo in cui salvare l'immagine.|
+| image_type | [`ImageType`](/cells/python-net/it/aspose.cells.drawing/imagetype) | Tipo in cui salvare l'immagine.|
 ###  Osservazioni
 
 Sono supportati i seguenti formati:
@@ -38,12 +39,13 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-##  to_image {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Salva la forma in un file.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -65,12 +67,13 @@ shape.to_image("exmaple.png", op)
 ```
 
 
-##  to_image {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Salva la forma in un flusso.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```

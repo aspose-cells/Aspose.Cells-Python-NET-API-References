@@ -1,5 +1,5 @@
 ---
-title: uri الملكية
+title: uri عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.markup/smarttag/uri/
 is_root: false
 ---
-##  uri الملكية
+##  uri عقار
 
-يحصل على مساحة الاسم URI للعلامة الذكية.
+يحصل على مساحة اسم URI للعلامة الذكية.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def uri(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](../../)
-* فئة [SmartTag](/cells/python-net/ar/aspose.cells.markup/smarttag)
+* الوحدة [`aspose.cells.markup`](../../)
+* فئة [`SmartTag`](/cells/python-net/ar/aspose.cells.markup/smarttag)

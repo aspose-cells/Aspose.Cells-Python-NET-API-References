@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra grafiğin height'inin 1/4000'lik birimlerinde yukarıdan aşağıya height'i alır.
+Chart.Calculate() metodunu çağırdıktan sonra grafiğin height değerinin 1/4000'lik birimler halinde yukarıdan aşağıya doğru height değerini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

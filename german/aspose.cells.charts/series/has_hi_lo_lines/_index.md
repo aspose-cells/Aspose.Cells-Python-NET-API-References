@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_hi_lo_lines Eigentum
 
- True, wenn das Liniendiagramm Hoch-Tief-Linien aufweist.
+ „True“, wenn das Liniendiagramm Hoch-Tief-Linien hat.
 Gilt nur für Liniendiagramme.
 ###  Definition:
 ```python

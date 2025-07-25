@@ -3,7 +3,7 @@ title: macro_name propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 810
+weight: 820
 url: /es/aspose.cells.drawing/checkbox/macro_name/
 is_root: false
 ---

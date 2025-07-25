@@ -1,6 +1,6 @@
 ---
 title: layout_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
@@ -18,6 +18,6 @@ def layout_properties(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
-* класс [SeriesLayoutProperties](/cells/python-net/ru/aspose.cells.charts/serieslayoutproperties)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)
+* класс [`SeriesLayoutProperties`](/cells/python-net/ru/aspose.cells.charts/serieslayoutproperties)

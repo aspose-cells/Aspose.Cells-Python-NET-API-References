@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  relative_libid propiedad
 
-Obtiene y establece el identificador del proyecto VBA al que se hace referencia con una ruta relativa.
+Obtiene y establece el identificador del proyecto VBA referenciado con una ruta relativa.
 
 ###  Observaciones
 
-Solo para referencia del proyecto.
+Sólo para referencia del proyecto.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProjectReference](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProjectReference`](/cells/python-net/es/aspose.cells.vba/vbaprojectreference)

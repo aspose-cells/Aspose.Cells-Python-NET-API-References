@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_drag_behavior_enabled mülk
 
-Kontrol için sürükleme ve bırakmanın etkin olup olmadığını gösterir.
+Denetim için sürükleyip bırakmanın etkinleştirilip etkinleştirilmediğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_drag_behavior_enabled(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [TextBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`TextBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

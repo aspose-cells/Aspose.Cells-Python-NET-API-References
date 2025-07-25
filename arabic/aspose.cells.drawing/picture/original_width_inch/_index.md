@@ -3,13 +3,13 @@ title: original_width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /ar/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---
 ##  original_width_inch عقار
 
-الحصول على العرض الأصلي للصورة بوحدة البوصة.
+يحصل على العرض الأصلي للصورة، بوحدة البوصة.
 
 ###  مثال
 

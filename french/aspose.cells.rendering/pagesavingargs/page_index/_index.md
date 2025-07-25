@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_index propriété
 
-Index de la page actuelle, base zéro.
+Index de la page actuelle, basé sur zéro.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def page_index(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [PageSavingArgs](/cells/python-net/fr/aspose.cells.rendering/pagesavingargs)
+* module [`aspose.cells.rendering`](../../)
+* classe [`PageSavingArgs`](/cells/python-net/fr/aspose.cells.rendering/pagesavingargs)

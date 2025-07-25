@@ -1,6 +1,6 @@
 ---
 title: weight недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight недвижимость
 
-Получает или задает weight линии в пунктах.
+Возвращает или задает значение weight линии в точках.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [LineFormat](/cells/python-net/ru/aspose.cells.drawing/lineformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`LineFormat`](/cells/python-net/ru/aspose.cells.drawing/lineformat)

@@ -3,16 +3,17 @@ title: طريقة delete_shape
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 440
 url: /ar/aspose.cells.drawing/shapecollection/delete_shape/
 is_root: false
 ---
-##  delete_shape(shape) {#Shape}
-حذف شكل. إذا كان الشكل في المجموعة أو كان شكل تعليق ، فلن يتم حذفه.
+##  delete_shape(self, shape) {#aspose.cells.drawing.Shape}
+احذف شكلاً. إذا كان الشكل ضمن المجموعة أو شكل تعليق، فلن يُحذف.
 
 
 
 ```python
+
 def delete_shape(self, shape):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_shape(self, shape):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| shape | [Shape](/cells/python-net/ar/aspose.cells.drawing/shape) |  |
+| shape | [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape) |  |
 
 ###  مثال
 
@@ -38,5 +39,5 @@ shapes.delete_shape(firstShape)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)

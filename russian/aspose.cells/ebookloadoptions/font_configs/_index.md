@@ -1,6 +1,6 @@
 ---
 title: font_configs недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 160
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  font_configs недвижимость
 
- Получает и устанавливает отдельные конфигурации шрифтов.
-Работает только для [`Workbook`](/cells/python-net/ru/aspose.cells/workbook), который использует для загрузки этот [`LoadOptions`](/cells/python-net/ru/aspose.cells/loadoptions).
+ Получает и задает индивидуальные конфигурации шрифтов.
+Работает только для модели [`Workbook`](/cells/python-net/ru/aspose.cells/workbook), которая использует этот [`LoadOptions`](/cells/python-net/ru/aspose.cells/loadoptions) для загрузки.
 ###  Определение:
 ```python
 @property

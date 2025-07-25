@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  value mülk
 
-Tamsayı olmayan sayısal value,Tamsayı value,Dize value veya Boolean value
-sorgu parametresi olarak kullanmak için. Yalnızca parameterType value olduğunda kullanılır.
+Tam sayı olmayan sayısal value,Tam sayı value,Dize value veya Boolean value
+Sorgu parametresi olarak kullanılacak. Yalnızca parameterType değeri value olduğunda kullanılır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [ConnectionParameter](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`ConnectionParameter`](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter)

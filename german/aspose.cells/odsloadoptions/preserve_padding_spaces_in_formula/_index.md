@@ -3,19 +3,19 @@ title: preserve_padding_spaces_in_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 220
 url: /de/aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---
 ##  preserve_padding_spaces_in_formula Eigentum
 
-Gibt an, ob die zwischen Formeltoken aufgefüllten Leerzeichen und Zeilenumbrüche beibehalten werden
+Gibt an, ob die Leerzeichen und Zeilenumbrüche zwischen den Formel-Tokens beibehalten werden sollen.
 beim Abrufen und Festlegen von Formeln.
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 
-Nach dem Laden der Arbeitsmappe aus der Vorlagendatei mit dieser Option [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/de/aspose.cells/formulasettings#preserve_padding_spaces)
+Nach dem Laden der Arbeitsmappe aus der Vorlagendatei mit dieser Option, [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/de/aspose.cells/formulasettings#preserve_padding_spaces)
 wird mit dieser Eigenschaft auf den gleichen Wert gesetzt.
 ###  Definition:
 ```python

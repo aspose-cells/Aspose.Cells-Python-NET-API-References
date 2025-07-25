@@ -7,12 +7,13 @@ weight: 430
 url: /ar/aspose.cells/settableglobalizationsettings/set_table_row_type_of_headers/
 is_root: false
 ---
-##  set_table_row_type_of_headers {#str}
-يضبط اسم النوع لصفوف الجدول التي تتكون من رأس الجدول.
+##  set_table_row_type_of_headers(self, name) {#str}
+تعيين اسم نوع صفوف الجدول التي تتكون من رأس الجدول.
 
 
 
 ```python
+
 def set_table_row_type_of_headers(self, name):
     ...
 ```

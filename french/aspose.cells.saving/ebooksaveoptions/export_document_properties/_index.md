@@ -3,14 +3,14 @@ title: export_document_properties propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 290
 url: /fr/aspose.cells.saving/ebooksaveoptions/export_document_properties/
 is_root: false
 ---
 ##  export_document_properties propriété
 
- Indique si l'exportation des propriétés du document. La valeur par défaut est vraie. Si vous souhaitez importer
-le fichier html ou mht vers Excel, veuillez conserver la valeur par défaut.
+ Indique si les propriétés du document sont exportées. La valeur par défaut est true. Si vous souhaitez importer
+le fichier html ou mht vers excel, veuillez conserver la valeur par défaut.
 ###  Définition:
 ```python
 @property

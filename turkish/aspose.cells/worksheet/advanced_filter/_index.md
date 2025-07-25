@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/worksheet/advanced_filter/
 is_root: false
 ---
-##  advanced_filter(is_filter, list_range, criteria_range, copy_to, unique_record_only) {#bool-str-str-str-bool}
-Karmaşık ölçütler kullanarak verileri filtreler.
+##  advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only) {#bool-str-str-str-bool}
+Karmaşık ölçütleri kullanarak verileri filtreler.
 
 
 
 ```python
+
 def advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only):
     ...
 ```
@@ -20,14 +21,14 @@ def advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| is_filter | bool | Listeyi yerinde filtreleyip filtrelemediğini gösterir.|
+| is_filter | bool | Listede yerinde filtreleme olup olmadığını gösterir.|
 | list_range | str | Liste aralığı.|
 | criteria_range | str | Kriter aralığı.|
-| copy_to | str | Verilerin kopyalandığı aralık.|
-| unique_record_only | bool | Yalnızca benzersiz satırları görüntüleme veya kopyalama.|
+| copy_to | str | Verilerin kopyalanacağı aralık.|
+| unique_record_only | bool | Sadece benzersiz satırları görüntüleme veya kopyalama.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

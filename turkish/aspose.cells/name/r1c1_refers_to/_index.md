@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_refers_to mülk
 
-[Name](/cells/python-net/tr/aspose.cells/name)'in bir R1C1 referansını alır veya ayarlar.
+[`Name`](/cells/python-net/tr/aspose.cells/name)'in R1C1 referansını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_refers_to(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

@@ -18,6 +18,6 @@ def direction_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [GradientDirectionType](/cells/python-net/sv/aspose.cells.drawing/gradientdirectiontype)
-* klass [GradientFill](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`GradientDirectionType`](/cells/python-net/sv/aspose.cells.drawing/gradientdirectiontype)
+* klass [`GradientFill`](/cells/python-net/sv/aspose.cells.drawing/gradientfill)

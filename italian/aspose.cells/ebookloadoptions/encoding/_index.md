@@ -1,6 +1,6 @@
 ---
 title: encoding proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding proprietà
 
-Ottiene e imposta il valore predefinito encoding. Si applica solo al file CSV.
+Ottiene e imposta il valore predefinito encoding. Si applica solo ai file csv.
 ###  Definizione:
 ```python
 @property

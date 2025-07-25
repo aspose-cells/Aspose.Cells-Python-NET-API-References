@@ -1,6 +1,6 @@
 ---
 title: order недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 460
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order недвижимость
 
-Представляет order, который Microsoft Excel использует для нумерации страниц при печати большого рабочего листа.
+Представляет собой число order, которое Excel использует для нумерации страниц при печати большого листа.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def order(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
-* класс [PrintOrderType](/cells/python-net/ru/aspose.cells/printordertype)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)
+* класс [`PrintOrderType`](/cells/python-net/ru/aspose.cells/printordertype)

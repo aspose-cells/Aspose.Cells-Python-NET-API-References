@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  back_color fastighet
 
-Hämtar och ställer in gränslinjens bakfärg.
+Hämtar och ställer in kantlinjens bakfärg.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def back_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoLineFormat](/cells/python-net/sv/aspose.cells.drawing/msolineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoLineFormat`](/cells/python-net/sv/aspose.cells.drawing/msolineformat)

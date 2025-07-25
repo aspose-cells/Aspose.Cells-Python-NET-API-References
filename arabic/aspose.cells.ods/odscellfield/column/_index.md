@@ -1,5 +1,5 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.ods/odscellfield/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على فهرس الخلية column وتعيينه.
+احصل على وتعيين فهرس الخلية column.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](../../)
-* فئة [OdsCellField](/cells/python-net/ar/aspose.cells.ods/odscellfield)
+* الوحدة [`aspose.cells.ods`](../../)
+* فئة [`OdsCellField`](/cells/python-net/ar/aspose.cells.ods/odscellfield)

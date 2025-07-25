@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
-##  protect(islocked_for_viewing, password) {#bool-str}
+##  protect(self, islocked_for_viewing, password) {#bool-str}
 Bu VBA projesini korur veya korumasını kaldırır.
 
 
 
 ```python
+
 def protect(self, islocked_for_viewing, password):
     ...
 ```
@@ -20,14 +21,14 @@ def protect(self, islocked_for_viewing, password):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| islocked_for_viewing | bool | projeyi görüntüleme için kilitleyip kilitlemediğini gösterir.|
-| password | str | Değer null ise bu VBA projesinin korumasını kaldırır, aksi takdirde bu VBA projesini yansıtır.|
+| islocked_for_viewing | bool | kilitlerin görüntüleme için yansıtılıp yansıtılmadığını gösterir.|
+| password | str | Değer boşsa, bu VBA projesinin koruması kaldırılır, aksi takdirde bu VBA projesi yansıtılır.|
 ###  Notlar
 
-islockedForViewing true ise parola null olamaz.
+Eğer islockedForViewing true ise, şifre null olamaz.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProject](/cells/python-net/tr/aspose.cells.vba/vbaproject)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProject`](/cells/python-net/tr/aspose.cells.vba/vbaproject)

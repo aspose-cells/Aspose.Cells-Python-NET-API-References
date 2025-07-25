@@ -1,33 +1,33 @@
 ---
-title: classe JsonUtility
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: JsonUtility classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 30
+weight: 40
 url: /it/aspose.cells.utility/jsonutility/
 is_root: false
 ---
-##  classe JsonUtility
-Rappresenta la classe di utilità di elaborazione json.
+##  JsonUtility classe
+Rappresenta la classe di utilità dell'elaborazione JSON.
 
 
 
-Il tipo JsonUtility espone i membri seguenti:
+Il tipo JsonUtility espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [JsonUtility()](/cells/python-net/it/aspose.cells.utility/jsonutility/__init__/#) | Costruisce una nuova istanza di JsonUtility|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.utility/jsonutility/__init__/#) | Crea una nuova istanza di JsonUtility|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [export_range_to_json(range, options)](/cells/python-net/it/aspose.cells.utility/jsonutility/export_range_to_json/#Range-ExportRangeToJsonOptions) | Esportazione dell'intervallo in un file json.|
-| [export_range_to_json(range, options)](/cells/python-net/it/aspose.cells.utility/jsonutility/export_range_to_json/#Range-JsonSaveOptions) | Esportazione dell'intervallo in un file json.|
-| [import_data(json, cells, row, column, option)](/cells/python-net/it/aspose.cells.utility/jsonutility/import_data/#str-Cells-int-int-JsonLayoutOptions) | Importa la stringa json.|
+| [`export_range_to_json(, range, options)`](/cells/python-net/it/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.range-aspose.cells.utility.exportrangetojsonoptions) |Esportazione dell'intervallo in un file json.|
+| [`export_range_to_json(, range, options)`](/cells/python-net/it/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.range-aspose.cells.jsonsaveoptions) |Esportazione dell'intervallo in un file json.|
+| [`import_data(, json, cells, row, column, option)`](/cells/python-net/it/aspose.cells.utility/jsonutility/import_data/#str-aspose.cells.cells-int-int-aspose.cells.utility.jsonlayoutoptions) | Importa la stringa JSON.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.utility](..)
+* modulo [`aspose.cells.utility`](..)

@@ -8,11 +8,11 @@ url: /tr/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
 ##  PowerQueryFormulaItem sınıfı
-Güçlü sorgu formülünün öğesini temsil eder.
+Güç sorgusu formülünün öğesini temsil eder.
 
 
 
-PowerQueryFormulaItem türü aşağıdaki üyeleri gösterir:
+PowerQueryFormulaItem türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -23,4 +23,4 @@ PowerQueryFormulaItem türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.querytables](..)
+* modül [`aspose.cells.querytables`](..)

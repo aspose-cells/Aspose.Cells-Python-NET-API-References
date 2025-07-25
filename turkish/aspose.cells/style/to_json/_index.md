@@ -7,8 +7,8 @@ weight: 100
 url: /tr/aspose.cells/style/to_json/
 is_root: false
 ---
-##  to_json() {#}
-[Style](/cells/python-net/tr/aspose.cells/style)'i JSON yapı verisine dönüştürün.
+##  to_json(self) {#}
+[`Style`](/cells/python-net/tr/aspose.cells/style) yapı verisini JSON yapı verisine dönüştürün.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def to_json(self):
     ...
 ```
@@ -26,5 +27,5 @@ def to_json(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

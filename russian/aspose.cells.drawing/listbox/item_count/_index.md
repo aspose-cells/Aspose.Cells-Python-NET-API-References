@@ -1,15 +1,15 @@
 ---
 title: item_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 690
+weight: 700
 url: /ru/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---
 ##  item_count недвижимость
 
-Получает количество элементов в списке.
+Возвращает количество элементов в списке.
 ###  Определение:
 ```python
 @property

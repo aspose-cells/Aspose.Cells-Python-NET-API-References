@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  code mülk
 
-Özel istisna code'i temsil eder.
+code numaralı özel istisnayı temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def code(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsException](/cells/python-net/tr/aspose.cells/cellsexception)
-* sınıf [ExceptionType](/cells/python-net/tr/aspose.cells/exceptiontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsException`](/cells/python-net/tr/aspose.cells/cellsexception)
+* sınıf [`ExceptionType`](/cells/python-net/tr/aspose.cells/exceptiontype)

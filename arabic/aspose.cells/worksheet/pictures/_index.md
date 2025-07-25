@@ -3,7 +3,7 @@ title: pictures عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ar/aspose.cells/worksheet/pictures/
 is_root: false
 ---

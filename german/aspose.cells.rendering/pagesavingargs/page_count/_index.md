@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [PageSavingArgs](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`PageSavingArgs`](/cells/python-net/de/aspose.cells.rendering/pagesavingargs)

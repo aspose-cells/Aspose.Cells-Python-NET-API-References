@@ -3,7 +3,7 @@ title: refers_to propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 480
 url: /es/aspose.cells/range/refers_to/
 is_root: false
 ---

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
-##  PdfSaveOptions() {#}
-Skapar alternativen för att spara pdf-fil.
+##  \_\_init\_\_(själv){#}
+Skapar alternativ för att spara pdf-filer.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PdfSaveOptions](/cells/python-net/sv/aspose.cells/pdfsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`PdfSaveOptions`](/cells/python-net/sv/aspose.cells/pdfsaveoptions)

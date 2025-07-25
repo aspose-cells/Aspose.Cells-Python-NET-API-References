@@ -3,7 +3,7 @@ title: minor_unit propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells.charts/axis/minor_unit/
 is_root: false
 ---

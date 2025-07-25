@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  axis_labels fastighet
 
-Hämtar etiketterna för axeln efter anropet Chart.Calculate()-metoden.
+Hämtar axelns etiketter efter anrop av metoden Chart.Calculate().
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden Axis.GetAxisTexts.
- Den här egenskapen kommer att tas bort 12 månader senare sedan november 2023.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd Axis.GetAxisTexts-metoden.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med november 2023.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

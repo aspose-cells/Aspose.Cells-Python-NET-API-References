@@ -3,13 +3,13 @@ title: is_default_pos_be_set عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 270
 url: /ar/aspose.cells.charts/legend/is_default_pos_be_set/
 is_root: false
 ---
 ##  is_default_pos_be_set عقار
 
-يشير إلى ما إذا كان قد تم تعيين الموضع الافتراضي (DefaultX وDefaultY وDefaultWidth وDefaultHeight).
+يشير إلى ما إذا كان الموضع الافتراضي (DefaultX وDefaultY وDefaultWidth وDefaultHeight) مضبوطًا.
 ###  تعريف:
 ```python
 @property

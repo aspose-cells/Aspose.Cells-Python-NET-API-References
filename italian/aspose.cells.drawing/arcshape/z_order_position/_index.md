@@ -1,9 +1,9 @@
 ---
 title: z_order_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1310
+weight: 1320
 url: /it/aspose.cells.drawing/arcshape/z_order_position/
 is_root: false
 ---

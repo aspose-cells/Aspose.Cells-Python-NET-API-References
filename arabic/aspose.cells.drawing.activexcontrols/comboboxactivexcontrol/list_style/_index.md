@@ -1,5 +1,5 @@
 ---
-title: list_style الملكية
+title: list_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 280
 url: /ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/list_style/
 is_root: false
 ---
-##  list_style الملكية
+##  list_style عقار
 
-الحصول على المظهر المرئي وتعيينه.
+يحصل على المظهر المرئي ويضبطه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def list_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ComboBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* فئة [ControlListStyle](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlliststyle)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ComboBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* فئة [`ControlListStyle`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlliststyle)

@@ -9,14 +9,15 @@ is_root: false
 ---
 ##  refer_to_sheet_with_same_name propriété
 
-Lors de la copie d'une feuille de calcul dans un autre classeur et que la feuille de calcul contient les formules qui font référence à d'autres feuilles de calcul dans MS Excel,
+Dans MS Excel, lors de la copie de formules qui font référence à d'autres feuilles de calcul lors de la copie d'une feuille de calcul vers une autre,
 les formules copiées doivent faire référence au classeur source.
-Mais parfois, nous avons copié d'autres feuilles de calcul et nous espérons que les formules copiées font référence à d'autres feuilles de calcul avec le nom dans le même classeur,
-veuillez définir cette propriété sur true.
+Cependant, dans certaines situations, l'utilisateur peut avoir besoin que les formules copiées se réfèrent à des feuilles de calcul portant le même nom.
+dans le même classeur, par exemple lorsque ces feuilles de calcul ont été copiées avant cette opération de copie,
+alors cette propriété doit être conservée comme vraie.
 
 ###  Remarques
 
-La valeur par défaut est true.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -28,5 +29,5 @@ def refer_to_sheet_with_same_name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

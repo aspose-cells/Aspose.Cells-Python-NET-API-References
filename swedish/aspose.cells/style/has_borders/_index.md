@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_borders fastighet
 
-Kontrollerar om det finns gränser har satts för stilen.
+Kontrollerar om det finns ramar som har angetts för stilen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_borders(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

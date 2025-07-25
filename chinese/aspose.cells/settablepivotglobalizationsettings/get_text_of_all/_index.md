@@ -7,16 +7,17 @@ weight: 40
 url: /zh/aspose.cells/settablepivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
+##  get_text_of_all(self) {#}
 获取数据透视表中“（全部）”标签的文本。
 
 
-### 退货
+### 返回
 
-“（全部）”标签的文字
+“（全部）”标签的文本
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

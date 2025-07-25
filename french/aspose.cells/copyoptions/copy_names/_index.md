@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  copy_names propriété
 
-Indique si la copie des noms.
+Indique si les noms doivent être copiés.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def copy_names(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CopyOptions](/cells/python-net/fr/aspose.cells/copyoptions)
+* module [`aspose.cells`](../../)
+* classe [`CopyOptions`](/cells/python-net/fr/aspose.cells/copyoptions)

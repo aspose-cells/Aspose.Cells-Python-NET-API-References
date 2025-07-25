@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_column_width fastighet
 
-Returnerar eller ställer in AdjustColumnWidth för objektet.
+Returnerar eller anger objektets AdjustColumnWidth.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def adjust_column_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [QueryTable](/cells/python-net/sv/aspose.cells/querytable)
+* modul [`aspose.cells`](../../)
+* klass [`QueryTable`](/cells/python-net/sv/aspose.cells/querytable)

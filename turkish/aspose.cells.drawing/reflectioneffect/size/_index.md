@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size mülk
 
-Son alfa değerinin bitiş konumunu (alfa gradyan rampası boyunca) yüzde birimi cinsinden alır ve ayarlar
+Son alfa değerinin son konumunu (alfa gradyan rampası boyunca) yüzde biriminde alır ve ayarlar
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ReflectionEffect](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)

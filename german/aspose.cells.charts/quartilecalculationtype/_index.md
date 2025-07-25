@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---
 ##  QuartileCalculationType Aufzählung
-Stellt Quartil-Berechnungsmethoden dar.
+Stellt Methoden zur Quartilberechnung dar.
 
 
 
@@ -17,10 +17,10 @@ Der Typ QuartileCalculationType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| EXCLUSIVE | Die Quartilsberechnung beinhaltet den Median, wenn der Datensatz in Quartile aufgeteilt wird.|
-| INCLUSIVE | Die Quartilsberechnung schließt den Median aus, wenn der Datensatz in Quartile aufgeteilt wird.|
+| EXCLUSIVE | Die Quartilsberechnung berücksichtigt den Median bei der Aufteilung des Datensatzes in Quartile.|
+| INCLUSIVE | Bei der Quartilsberechnung wird der Median bei der Aufteilung des Datensatzes in Quartile nicht berücksichtigt.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

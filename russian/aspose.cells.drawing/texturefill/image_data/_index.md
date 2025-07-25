@@ -1,6 +1,6 @@
 ---
 title: image_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [TextureFill](/cells/python-net/ru/aspose.cells.drawing/texturefill)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`TextureFill`](/cells/python-net/ru/aspose.cells.drawing/texturefill)

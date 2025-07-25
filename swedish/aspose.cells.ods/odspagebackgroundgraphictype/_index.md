@@ -8,7 +8,7 @@ url: /sv/aspose.cells.ods/odspagebackgroundgraphictype/
 is_root: false
 ---
 ##  OdsPageBackgroundGraphicType uppräkning
-Representerar typen av formateringssidabakgrund med bild.
+Representerar typen av formatering av sidans bakgrund med bild.
 
 
 
@@ -17,11 +17,11 @@ Typen OdsPageBackgroundGraphicType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| POSITION | Ställ in bilden på en viss position.|
+| POSITION | Ställ in bilden på en specifik position.|
 | AREA | Sträck ut bilden.|
-| TILE |Upprepa och upprepa bilden.|
+| TILE | Upprepa och upprepa bilden.|
 
 
 
 ###  Se även
-* modul [aspose.cells.ods](..)
+* modul [`aspose.cells.ods`](..)

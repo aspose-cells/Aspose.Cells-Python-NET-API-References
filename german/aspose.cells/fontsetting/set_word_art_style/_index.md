@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/fontsetting/set_word_art_style/
 is_root: false
 ---
-##  set_word_art_style(style) {#aspose.cells.drawing.PresetWordArtStyle}
+##  set_word_art_style(self, style) {#aspose.cells.drawing.PresetWordArtStyle}
 Legt den voreingestellten WordArt-Stil fest.
 
 
 
 ```python
+
 def set_word_art_style(self, style):
     ...
 ```
@@ -28,5 +29,5 @@ Nur für den Text der Form/des Diagramms.
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [FontSetting](/cells/python-net/de/aspose.cells/fontsetting)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FontSetting`](/cells/python-net/de/aspose.cells/fontsetting)

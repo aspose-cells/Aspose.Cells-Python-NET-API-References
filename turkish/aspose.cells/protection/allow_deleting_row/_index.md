@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  allow_deleting_row mülk
 
-Korumalı bir çalışma sayfasında satırların silinmesine izin verilip verilmediğini temsil eder.
+Korunan bir çalışma sayfasında satırların silinmesine izin verilip verilmediğini gösterir.
 
 ###  Notlar
 
-Silinecek hücreleri içeren satırların kilidi, sayfa korunduğunda açılmalıdır,
-ve "Kilidi açık hücreleri seç" seçeneği etkinleştirilmelidir.
+Silinecek hücreleri içeren satırların, sayfa korunduğunda kilidinin açılması gerekir,
+ve "Kilitli olmayan hücreleri seç" seçeneği etkinleştirilmelidir.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

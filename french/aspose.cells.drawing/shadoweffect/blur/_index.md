@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur propriété
 
-Obtient et définit le blur de l'ombre. Plage de 0 à 100 points.
+Obtient et définit la valeur blur de l'ombre. Plage de valeurs : de 0 à 100 points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShadowEffect](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShadowEffect`](/cells/python-net/fr/aspose.cells.drawing/shadoweffect)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name mülk
 
-Grafiğin name'ini alır ve ayarlar.
+Tablonun name değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

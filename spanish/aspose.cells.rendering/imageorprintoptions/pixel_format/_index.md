@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pixel_format propiedad
 
-Obtiene o establece el formato de píxeles de las imágenes generadas.
+Obtiene o establece el formato de píxel para las imágenes generadas.
 
 ###  Observaciones
 

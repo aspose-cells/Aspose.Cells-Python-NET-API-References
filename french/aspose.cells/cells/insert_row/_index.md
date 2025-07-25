@@ -3,16 +3,17 @@ title: méthode insert_row
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 710
+weight: 730
 url: /fr/aspose.cells/cells/insert_row/
 is_root: false
 ---
-##  insert_row {#int}
+##  insert_row(self, row_index) {#int}
 Insère une nouvelle ligne dans la feuille de calcul.
 
 
 
 ```python
+
 def insert_row(self, row_index):
     ...
 ```

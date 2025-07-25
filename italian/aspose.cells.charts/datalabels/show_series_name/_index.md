@@ -1,16 +1,16 @@
 ---
 title: show_series_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 430
+weight: 500
 url: /it/aspose.cells.charts/datalabels/show_series_name/
 is_root: false
 ---
 ##  show_series_name proprietà
 
-Restituisce o imposta un valore booleano per indicare il comportamento di visualizzazione del nome della serie per le etichette dati su un grafico.
-True per mostrare il nome della serie. Falso da nascondere.
+Indica se il nome della serie viene visualizzato per le etichette dati in un grafico.
+True per mostrare il nome della serie. False per nasconderlo.
 ###  Definizione:
 ```python
 @property

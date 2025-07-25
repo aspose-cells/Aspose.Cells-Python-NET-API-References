@@ -8,7 +8,7 @@ url: /de/aspose.cells.tables/tablestyletype/
 is_root: false
 ---
 ##  TableStyleType Aufzählung
-Stellt den integrierten Tabellenformattyp dar.
+Stellt den integrierten Tabellenstiltyp dar.
 
 
 
@@ -83,4 +83,4 @@ Der Typ TableStyleType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](..)
+* Modul [`aspose.cells.tables`](..)

@@ -1,15 +1,15 @@
 ---
-title: show_signed_date 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_signed_date属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.drawing/signatureline/show_signed_date/
 is_root: false
 ---
-## show_signed_date 属性
+## show_signed_date属性
 
-指示是否显示签名日期。
+指示是否显示签署日期。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

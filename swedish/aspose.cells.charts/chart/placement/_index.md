@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  placement fastighet
 
-Representerar hur diagrammet är fäst vid cellerna under det.
+Representerar hur diagrammet är kopplat till cellerna under det.
 ###  Definition:
 ```python
 @property

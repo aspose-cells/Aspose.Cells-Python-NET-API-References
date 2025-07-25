@@ -1,9 +1,9 @@
 ---
 title: FillFormat класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 170
 url: /ru/aspose.cells.drawing/fillformat/
 is_root: false
 ---
@@ -12,28 +12,28 @@ is_root: false
 
 
 
-Тип FillFormat предоставляет следующие члены:
+Тип FillFormat предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells.drawing/fillformat/type) |Получает и задает тип заполнения.|
-| [fill_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/fill_type) | Получает и задает тип заполнения|
-| [transparency](/cells/python-net/ru/aspose.cells.drawing/fillformat/transparency) | Возвращает или задает степень прозрачности области в виде значения от 0,0 (непрозрачная) до 1,0 (прозрачная).|
-| [set_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_type) | Получает тип набора форматов заливки.|
-| [gradient_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_fill) | Получает объект [FillFormat.gradient_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat#gradient_fill).|
-| [texture_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/texture_fill) | Получает объект [FillFormat.texture_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat#texture_fill).|
-| [solid_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/solid_fill) | Получает объект [FillFormat.solid_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat#solid_fill).|
-| [pattern_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/pattern_fill) | Получает объект [FillFormat.pattern_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat#pattern_fill).|
+| [type](/cells/python-net/ru/aspose.cells.drawing/fillformat/type) | Получает и задает тип заливки.|
+| [fill_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/fill_type) | Получает и задает тип заливки|
+| [transparency](/cells/python-net/ru/aspose.cells.drawing/fillformat/transparency) |Возвращает или задает степень прозрачности области как значение от 0,0 (непрозрачная) до 1,0 (прозрачная).|
+| [set_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_type) | Получает тип набора форматов заполнения.|
+| [gradient_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_fill) | Получает объект [`FillFormat.gradient_fill`](/cells/python-net/ru/aspose.cells.drawing/fillformat#gradient_fill).|
+| [texture_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/texture_fill) | Получает объект [`FillFormat.texture_fill`](/cells/python-net/ru/aspose.cells.drawing/fillformat#texture_fill).|
+| [solid_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/solid_fill) | Получает объект [`FillFormat.solid_fill`](/cells/python-net/ru/aspose.cells.drawing/fillformat#solid_fill).|
+| [pattern_fill](/cells/python-net/ru/aspose.cells.drawing/fillformat/pattern_fill) | Получает объект [`FillFormat.pattern_fill`](/cells/python-net/ru/aspose.cells.drawing/fillformat#pattern_fill).|
 | [gradient_color_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_color_type) | Возвращает тип цвета градиента для указанной заливки.|
 | [gradient_style](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_style) | Возвращает стиль градиента для указанной заливки.|
 | [gradient_color1](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_color1) | Возвращает цвет градиента 1 для указанной заливки.|
-| [gradient_color2](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_color2) | Возвращает цвет градиента 2 для указанной заливки.|
-| [gradient_degree](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_degree) | Возвращает степень градиента для указанной заливки.<br/> Применяется только для Excel 2007.|
-| [gradient_variant](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_variant) | Возвращает вариант градиента для указанной заливки.<br/> Применяется только для Excel 2007.|
+| [gradient_color2](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_color2) |Возвращает цвет градиента 2 для указанной заливки.|
+| [gradient_degree](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_degree) | Возвращает степень градиента для указанной заливки.<br/> Применимо только к Excel 2007.|
+| [gradient_variant](/cells/python-net/ru/aspose.cells.drawing/fillformat/gradient_variant) | Возвращает вариант градиента для указанной заливки.<br/> Применимо только к Excel 2007.|
 | [preset_color](/cells/python-net/ru/aspose.cells.drawing/fillformat/preset_color) | Возвращает заданный цвет градиента для указанной заливки.|
 | [texture](/cells/python-net/ru/aspose.cells.drawing/fillformat/texture) | Представляет тип текстуры для указанной заливки.|
-| [pattern](/cells/python-net/ru/aspose.cells.drawing/fillformat/pattern) | Представляет шаблон отображения области.|
+| [pattern](/cells/python-net/ru/aspose.cells.drawing/fillformat/pattern) | Представляет собой шаблон отображения области.|
 | [picture_format_type](/cells/python-net/ru/aspose.cells.drawing/fillformat/picture_format_type) | Получает и задает тип формата изображения.|
 | [scale](/cells/python-net/ru/aspose.cells.drawing/fillformat/scale) | Получает и задает масштаб формата изображения.|
 | [image_data](/cells/python-net/ru/aspose.cells.drawing/fillformat/image_data) | Получает и задает данные изображения изображения.|
@@ -42,10 +42,10 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | Задает для указанной заливки двухцветный градиент.<br/> Применяется только для Excel 2007.|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | Задает для указанной заливки двухцветный градиент.<br/> Применяется только для Excel 2007.|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Задает для указанной заливки одноцветный градиент.<br/> Применяется только для Excel 2007.|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) | Устанавливает для указанной заливки градиент предустановленного цвета.<br/> Применяется только для Excel 2007.|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Устанавливает указанную заливку в виде двухцветного градиента.<br/> Применимо только к Excel 2007.|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Устанавливает указанную заливку в виде двухцветного градиента.<br/> Применимо только к Excel 2007.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Устанавливает заданную заливку в виде одноцветного градиента.<br/> Применимо только к Excel 2007.|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/ru/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) | Устанавливает заданную заливку в соответствии с предустановленным цветовым градиентом.<br/> Применимо только к Excel 2007.|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

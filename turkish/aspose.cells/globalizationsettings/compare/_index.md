@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
-##  compare(v1, v2, ignore_case) {#str-str-bool}
-Belirli harmanlama kurallarına göre iki dizi değerini karşılaştırır.
+##  compare(self, v1, v2, ignore_case) {#str-str-bool}
+İki dize değerini belirli sıralama kurallarına göre karşılaştırır.
 
 
 ###  İadeler
 
-İki karşılaştırma arasındaki sözcüksel ilişkiyi gösteren tamsayı
+İki karşılaştırma arasındaki sözcüksel ilişkiyi gösteren tam sayı
 
 
 ```python
+
 def compare(self, v1, v2, ignore_case):
     ...
 ```
@@ -25,11 +26,11 @@ def compare(self, v1, v2, ignore_case):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | v1 | str | ilk dize|
-| v2 | str | ikinci dizi|
-| ignore_case | bool | değerleri karşılaştırırken büyük/küçük harf durumunu yoksay|
+| v2 | str | ikinci dize|
+| ignore_case | bool | değerleri karşılaştırırken büyük/küçük harf ayrımı yapılmayacak|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [GlobalizationSettings](/cells/python-net/tr/aspose.cells/globalizationsettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`GlobalizationSettings`](/cells/python-net/tr/aspose.cells/globalizationsettings)

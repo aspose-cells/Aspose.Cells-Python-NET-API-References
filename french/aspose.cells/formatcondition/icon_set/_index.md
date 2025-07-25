@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  icon_set propriété
 
-Obtenez l'instance "IconSet" de la mise en forme conditionnelle.
+Obtenez l'instance « IconSet » de la mise en forme conditionnelle.
 L'IconSetType de l'instance par défaut est TrafficLights31.
 Valable uniquement pour le type = IconSet.
 ###  Définition:
@@ -20,6 +20,6 @@ def icon_set(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)

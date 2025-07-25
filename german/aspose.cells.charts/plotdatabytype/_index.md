@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
 ##  PlotDataByType Aufzählung
-Stellt den Typ der Datenzeichnung nach Zeile oder Spalte dar.
+Stellt den Typ der Datendarstellung nach Zeile oder Spalte dar.
 
 
 
@@ -17,10 +17,10 @@ Der Typ PlotDataByType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| ROW | Nach Reihe.|
+| ROW | Nach Zeile.|
 | COLUMN | Nach Spalte.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

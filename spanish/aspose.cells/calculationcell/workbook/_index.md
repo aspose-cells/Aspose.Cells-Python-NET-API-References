@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook propiedad
 
-Obtiene el objeto Workbook.
+Obtiene el objeto Libro de trabajo.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CalculationCell](/cells/python-net/es/aspose.cells/calculationcell)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`CalculationCell`](/cells/python-net/es/aspose.cells/calculationcell)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

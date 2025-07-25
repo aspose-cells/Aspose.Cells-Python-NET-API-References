@@ -7,17 +7,18 @@ weight: 260
 url: /zh/aspose.cells/settableglobalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
+##  get_table_row_type_of_headers(self) {#}
 获取由表头组成的表行的类型名称。
-默认为“Headers”，因此公式中“#Headers”代表表头。
+默认为“Headers”，因此公式中的“#Headers”代表表头。
 
 
-### 退货
+### 返回
 
 表行的类型名称
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

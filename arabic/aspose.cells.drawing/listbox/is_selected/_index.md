@@ -3,20 +3,21 @@ title: طريقة is_selected
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells.drawing/listbox/is_selected/
 is_root: false
 ---
-##  is_selected {#int}
-يشير إلى ما إذا كان العنصر محددًا أم لا.
+##  is_selected(self, item_index) {#int}
+يشير إلى ما إذا كان العنصر محددًا.
 
 
 ###  عائدات
 
-ما إذا تم تحديد العنصر.
+ما إذا كان العنصر محددًا.
 
 
 ```python
+
 def is_selected(self, item_index):
     ...
 ```
@@ -24,7 +25,7 @@ def is_selected(self, item_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item_index | int | فهرس البند.|
+| item_index | int | فهرس العنصر.|
 
 
 

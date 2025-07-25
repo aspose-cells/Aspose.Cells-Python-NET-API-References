@@ -1,6 +1,6 @@
 ---
 title: is_transparent недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/is_transpare
 is_root: false
 ---
 ##  is_transparent недвижимость
-
-Указывает, является ли элемент управления прозрачным.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ListBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ListBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

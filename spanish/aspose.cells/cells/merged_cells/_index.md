@@ -3,13 +3,13 @@ title: merged_cells propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1140
+weight: 1170
 url: /es/aspose.cells/cells/merged_cells/
 is_root: false
 ---
 ##  merged_cells propiedad
 
-Obtiene la colección de celdas combinadas.
+Obtiene la colección de celdas fusionadas.
 
 ###  Observaciones
 

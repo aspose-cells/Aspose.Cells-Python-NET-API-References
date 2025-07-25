@@ -3,13 +3,13 @@ title: selected_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 930
+weight: 940
 url: /tr/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
 ##  selected_index mülk
 
-Bir liste kutusunda veya birleşik giriş kutusunda o anda seçili olan öğenin dizin numarasını alır veya ayarlar.
+Bir liste kutusunda veya birleşik kutuda şu anda seçili olan öğenin dizin numarasını alır veya ayarlar.
 Sıfır tabanlı.
 
 ###  Notlar

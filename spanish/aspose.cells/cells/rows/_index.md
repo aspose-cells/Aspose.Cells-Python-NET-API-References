@@ -3,7 +3,7 @@ title: rows propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /es/aspose.cells/cells/rows/
 is_root: false
 ---

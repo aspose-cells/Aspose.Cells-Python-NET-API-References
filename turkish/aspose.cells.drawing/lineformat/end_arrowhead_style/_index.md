@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_style mülk
 
-Satırın bitiş ok türünü alır ve ayarlar.
+Satırın bitiş okunun türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadStyle](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadStyle`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadstyle)

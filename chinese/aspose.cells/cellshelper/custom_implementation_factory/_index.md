@@ -3,7 +3,7 @@ title: custom_implementation_factory属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 240
 url: /zh/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
@@ -15,8 +15,8 @@ is_root: false
 @property
 def custom_implementation_factory(self):
     ...
-@custom_implementation_factory.setter
-def custom_implementation_factory(self, value):
+@staticmethod
+def set_custom_implementation_factory(value):
     ...
 ```
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items fastighet
 
-Returnerar en SlicerCacheItem-samling som innehåller samlingen av alla objekt i slicercachen. Skrivskyddad
+Returnerar en SlicerCacheItem-samling som innehåller samlingen av alla objekt i slicer-cachen. Skrivskyddad
 
 ###  Exempel
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [SlicerCache](/cells/python-net/sv/aspose.cells.slicers/slicercache)
-* klass [SlicerCacheItemCollection](/cells/python-net/sv/aspose.cells.slicers/slicercacheitemcollection)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`SlicerCache`](/cells/python-net/sv/aspose.cells.slicers/slicercache)
+* klass [`SlicerCacheItemCollection`](/cells/python-net/sv/aspose.cells.slicers/slicercacheitemcollection)

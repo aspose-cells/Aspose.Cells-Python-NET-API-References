@@ -8,8 +8,6 @@ url: /tr/aspose.cells/pptxsaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder mülk
-
-Önbelleğe alınmış dosya klasörü bazı büyük verileri depolamak için kullanılır.
 ###  Tanım:
 ```python
 @property

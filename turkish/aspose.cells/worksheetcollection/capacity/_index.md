@@ -3,7 +3,7 @@ title: capacity mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 290
 url: /tr/aspose.cells/worksheetcollection/capacity/
 is_root: false
 ---

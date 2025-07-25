@@ -1,6 +1,6 @@
 ---
 title: is_interruption_requested недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_interruption_requested недвижимость
 
-Пометить монитор как требующий прерывания
+Отметить монитор как запрашивающий прерывание
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_interruption_requested(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [InterruptMonitor](/cells/python-net/ru/aspose.cells/interruptmonitor)
+* модуль [`aspose.cells`](../../)
+* класс [`InterruptMonitor`](/cells/python-net/ru/aspose.cells/interruptmonitor)

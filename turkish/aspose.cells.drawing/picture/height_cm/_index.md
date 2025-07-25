@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm mülk
 
-Şeklin yüksekliğini santimetre cinsinden temsil eder.
+Şeklin yüksekliğini santimetre cinsinden gösterir.
 
 ###  Örnek
 

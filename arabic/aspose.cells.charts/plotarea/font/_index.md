@@ -1,15 +1,15 @@
 ---
-title: font الملكية
+title: font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 170
 url: /ar/aspose.cells.charts/plotarea/font/
 is_root: false
 ---
-##  font الملكية
+##  font عقار
 
-الحصول على عنصر [ChartFrame.font](/cells/python-net/ar/aspose.cells.charts/chartframe#font) لعنصر ChartFrame المحدد.
+يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.
 ###  تعريف:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Font](/cells/python-net/ar/aspose.cells/font)
-* فئة [PlotArea](/cells/python-net/ar/aspose.cells.charts/plotarea)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Font`](/cells/python-net/ar/aspose.cells/font)
+* فئة [`PlotArea`](/cells/python-net/ar/aspose.cells.charts/plotarea)

@@ -1,5 +1,5 @@
 ---
-title: is_auto_margin الملكية
+title: is_auto_margin عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing.texts/shapetextalignment/is_auto_margin/
 is_root: false
 ---
-##  is_auto_margin الملكية
+##  is_auto_margin عقار
 
-يشير إلى ما إذا كان هامش إطار النص تلقائي.
+يشير إلى ما إذا كان هامش إطار النص تلقائياً.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [ShapeTextAlignment](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`ShapeTextAlignment`](/cells/python-net/ar/aspose.cells.drawing.texts/shapetextalignment)

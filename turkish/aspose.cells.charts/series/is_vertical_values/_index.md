@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_vertical_values mülk
 
-Veri kaynağının dikey olup olmadığını gösterir.
+Veri kaynağının dikey olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_vertical_values(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

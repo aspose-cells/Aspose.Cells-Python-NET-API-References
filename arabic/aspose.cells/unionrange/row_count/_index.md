@@ -1,19 +1,19 @@
 ---
-title: row_count الملكية
+title: row_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 220
 url: /ar/aspose.cells/unionrange/row_count/
 is_root: false
 ---
-##  row_count الملكية
+##  row_count عقار
 
-الحصول على عدد الصفوف في النطاق.
+يحصل على عدد الصفوف في النطاق.
 
 ###  ملاحظات
 
-التأثيرات فقط عندما تحتوي على نطاق واحد فقط.
+يؤثر فقط عندما يحتوي على نطاق واحد فقط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def row_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [UnionRange](/cells/python-net/ar/aspose.cells/unionrange)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`UnionRange`](/cells/python-net/ar/aspose.cells/unionrange)

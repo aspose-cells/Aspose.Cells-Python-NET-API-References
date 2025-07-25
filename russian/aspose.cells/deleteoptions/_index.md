@@ -1,9 +1,9 @@
 ---
 title: DeleteOptions класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 470
 url: /ru/aspose.cells/deleteoptions/
 is_root: false
 ---
@@ -17,13 +17,13 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/deleteoptions/__init__/#) | Создает новый экземпляр DeleteOptions.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/deleteoptions/__init__/#) | Создает новый экземпляр DeleteOptions|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [update_reference](/cells/python-net/ru/aspose.cells/deleteoptions/update_reference) |Указывает, обновляются ли ссылки на других листах.|
+| [update_reference](/cells/python-net/ru/aspose.cells/deleteoptions/update_reference) | Указывает, следует ли обновлять ссылки на других листах.|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: is_word_wrapped недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_word_wrapped недвижимость
 
-Указывает, автоматически ли содержимое элемента управления переносится в конце строки.
+Указывает, будет ли содержимое элемента управления автоматически переноситься в конце строки.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [LabelActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`LabelActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

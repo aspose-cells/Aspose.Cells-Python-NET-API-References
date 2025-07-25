@@ -1,6 +1,6 @@
 ---
 title: data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data proprietà
 
-Ottiene e imposta il codice binario data del controllo.
+Ottiene e imposta il binario data del controllo.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def data(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [UnknownControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`UnknownControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)

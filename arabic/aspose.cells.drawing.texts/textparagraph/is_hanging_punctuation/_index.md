@@ -1,5 +1,5 @@
 ---
-title: is_hanging_punctuation الملكية
+title: is_hanging_punctuation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 120
 url: /ar/aspose.cells.drawing.texts/textparagraph/is_hanging_punctuation/
 is_root: false
 ---
-##  is_hanging_punctuation الملكية
+##  is_hanging_punctuation عقار
 
-يحدد ما إذا كان يجب وضع علامات الترقيم بقوة على سطر من النص أو وضعها في سطر نص مختلف.
+يحدد ما إذا كان سيتم وضع علامات الترقيم بشكل قسري على سطر من النص أو وضعها على سطر مختلف من النص.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

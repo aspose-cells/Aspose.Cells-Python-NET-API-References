@@ -13,7 +13,7 @@ Obtiene el text del comando.
 
 ###  Observaciones
 
-Solo válido para HeaderFooterCommandType.Text.
+Sólo válido para HeaderFooterCommandType.Text.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def text(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [HeaderFooterCommand](/cells/python-net/es/aspose.cells/headerfootercommand)
+* módulo [`aspose.cells`](../../)
+* clase [`HeaderFooterCommand`](/cells/python-net/es/aspose.cells/headerfootercommand)

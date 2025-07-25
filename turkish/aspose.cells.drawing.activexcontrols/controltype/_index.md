@@ -3,7 +3,7 @@ title: ControlType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 250
 url: /tr/aspose.cells.drawing.activexcontrols/controltype/
 is_root: false
 ---
@@ -12,25 +12,26 @@ Her türlü ActiveX denetimini temsil eder.
 
 
 
-ControlType türü aşağıdaki üyeleri gösterir:
+ControlType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | COMMAND_BUTTON | Düğme|
-| COMBO_BOX | Açılan kutu|
+| COMBO_BOX | ComboBox|
 | CHECK_BOX | Onay Kutusu|
-| LIST_BOX | Liste kutusu|
-| TEXT_BOX | Metin kutusu|
-| SPIN_BUTTON | Döndürücü|
-| RADIO_BUTTON | Radyo düğmesi|
+| LIST_BOX | Liste Kutusu|
+| TEXT_BOX | Metin Kutusu|
+| SPIN_BUTTON | İplikçi|
+| RADIO_BUTTON | Radyo Düğmesi|
 | LABEL | Etiket|
-| IMAGE | resim|
+| IMAGE | Görüntü|
 | TOGGLE_BUTTON | Geçiş Düğmesi|
-| SCROLL_BAR | Kaydırma çubuğu|
+| SCROLL_BAR | Kaydırma Çubuğu|
+| BAR_CODE | Kaydırma Çubuğu|
 | UNKNOWN | Bilinmeyen|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
+* modül [`aspose.cells.drawing.activexcontrols`](..)

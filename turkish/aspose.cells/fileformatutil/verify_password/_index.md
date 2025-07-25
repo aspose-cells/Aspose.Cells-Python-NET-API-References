@@ -7,17 +7,19 @@ weight: 100
 url: /tr/aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
-##  verify_password(stream, password) {#io.RawIOBase-str}
-Bir akışta saklanan bir excel biçimi hakkındaki bilgileri algılar ve döndürür.
+##  verify_password(, akış, şifre){#io.RawIOBase-str}
+Bir akışta saklanan bir Excel dosyası formatı hakkında bilgiyi algılar ve döndürür.
 
 
 ###  İadeler
 
-Parolanın düzeltilip düzeltilmediğini döndürür.
+Şifrenin düzeltilip düzeltilmediğini döndürür.
 
 
 ```python
-def verify_password(self, stream, password):
+
+@staticmethod
+def verify_password(stream, password):
     ...
 ```
 
@@ -25,10 +27,10 @@ def verify_password(self, stream, password):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | str | Şifrelenmiş ooxml dosyaları için parola.|
+| password | str | Şifrelenmiş ooxml dosyalarının şifresi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FileFormatUtil](/cells/python-net/tr/aspose.cells/fileformatutil)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatUtil`](/cells/python-net/tr/aspose.cells/fileformatutil)

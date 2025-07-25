@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  new_length fastighet
 
-Hämtar Längden på kommentaren innan denna revidering gjordes.
+Hämtar längden på kommentaren innan denna revision gjordes.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def new_length(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCellComment](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCellComment`](/cells/python-net/sv/aspose.cells.revisions/revisioncellcomment)

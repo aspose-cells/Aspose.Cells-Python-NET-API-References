@@ -3,13 +3,13 @@ title: count_large Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /de/aspose.cells/cells/count_large/
 is_root: false
 ---
 ##  count_large Eigentum
 
-Ruft die Gesamtzahl der instanziierten Cell-Objekte ab.
+Ruft die Gesamtzahl der instanziierten Cell Objekte ab.
 ###  Definition:
 ```python
 @property

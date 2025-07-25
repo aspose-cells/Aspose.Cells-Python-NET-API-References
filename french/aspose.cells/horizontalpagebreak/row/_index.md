@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient l'index row de base zéro.
+Obtient l'index row basé sur zéro.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HorizontalPageBreak](/cells/python-net/fr/aspose.cells/horizontalpagebreak)
+* module [`aspose.cells`](../../)
+* classe [`HorizontalPageBreak`](/cells/python-net/fr/aspose.cells/horizontalpagebreak)

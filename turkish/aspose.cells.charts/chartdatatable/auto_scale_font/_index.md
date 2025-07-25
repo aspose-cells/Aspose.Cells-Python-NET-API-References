@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font mülk
 
- Nesne boyutu değiştiğinde, nesnedeki metin yazı tipi boyutunu değiştirirse doğrudur.
+ Nesnenin boyutu değiştiğinde nesnedeki metnin yazı tipi boyutu da değişiyorsa doğrudur.
 Varsayılan değer True'dur.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartDataTable](/cells/python-net/tr/aspose.cells.charts/chartdatatable)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartDataTable`](/cells/python-net/tr/aspose.cells.charts/chartdatatable)

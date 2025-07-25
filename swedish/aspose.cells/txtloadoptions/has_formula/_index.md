@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula fastighet
 
-Anger om texten är formel om den börjar med "=".
+Anger om texten är en formel om den börjar med "=".
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_formula(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [TxtLoadOptions](/cells/python-net/sv/aspose.cells/txtloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`TxtLoadOptions`](/cells/python-net/sv/aspose.cells/txtloadoptions)

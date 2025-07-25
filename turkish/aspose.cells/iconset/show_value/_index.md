@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_value mülk
 
-Bu simge setinin uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini gösteren bayrağı alın veya ayarlayın.
+Bu simge setinin uygulandığı hücrelerin değerlerinin gösterilip gösterilmeyeceğini belirten bayrağı alın veya ayarlayın.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def show_value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [IconSet](/cells/python-net/tr/aspose.cells/iconset)
+* modül [`aspose.cells`](../../)
+* sınıf [`IconSet`](/cells/python-net/tr/aspose.cells/iconset)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  negative_points_color propriété
 
-Obtient et définit la couleur des valeurs négatives sur le groupe sparkline.
+Obtient et définit la couleur des valeurs négatives sur le groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def negative_points_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [CellsColor](/cells/python-net/fr/aspose.cells/cellscolor)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`CellsColor`](/cells/python-net/fr/aspose.cells/cellscolor)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

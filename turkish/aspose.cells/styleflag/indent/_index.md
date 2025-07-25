@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indent mülk
 
-Girinti seviyesi ayarı uygulanacaktır.
+Girinti düzeyi ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def indent(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

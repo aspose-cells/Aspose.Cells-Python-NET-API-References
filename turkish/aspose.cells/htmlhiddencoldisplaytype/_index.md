@@ -3,7 +3,7 @@ title: HtmlHiddenColDisplayType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2230
+weight: 2170
 url: /tr/aspose.cells/htmlhiddencoldisplaytype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ HtmlHiddenColDisplayType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| HIDDEN | Html sayfasındaki gizli sütunları gizledim.|
+| HIDDEN | Html sayfasındaki gizli sütunları gizle.|
 | REMOVE | Html sayfasındaki gizli sütunları kaldırın.|
 
 

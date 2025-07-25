@@ -7,8 +7,8 @@ weight: 100
 url: /de/aspose.cells/style/to_json/
 is_root: false
 ---
-##  to_json() {#}
-Konvertieren Sie [Style](/cells/python-net/de/aspose.cells/style) in JSON-Strukturdaten.
+##  to_json(self) {#}
+Konvertieren Sie [`Style`](/cells/python-net/de/aspose.cells/style) in JSON Strukturdaten.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Konvertieren Sie [Style](/cells/python-net/de/aspose.cells/style) in JSON-Strukt
 
 
 ```python
+
 def to_json(self):
     ...
 ```
@@ -26,5 +27,5 @@ def to_json(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

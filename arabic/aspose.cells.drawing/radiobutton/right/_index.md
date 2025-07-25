@@ -3,13 +3,13 @@ title: right عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 890
+weight: 900
 url: /ar/aspose.cells.drawing/radiobutton/right/
 is_root: false
 ---
 ##  right عقار
 
-يمثل عرض الإزاحة الأفقية للشكل من عمود الزاوية السفلي right، بوحدة البكسل.
+يمثل عرض الإزاحة الأفقية للشكل من عمود الزاوية السفلية right، بوحدة البكسل.
 
 ###  مثال
 

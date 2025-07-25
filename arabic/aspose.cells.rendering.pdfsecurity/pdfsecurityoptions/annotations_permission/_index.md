@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  annotations_permission عقار
 
-يشير إلى ما إذا كان سيتم السماح بإضافة أو تعديل التعليقات التوضيحية النصية، وملء حقول النموذج التفاعلية.
+يشير إلى ما إذا كان سيتم السماح بإضافة تعليقات نصية أو تعديلها، وملء حقول النموذج التفاعلي.
 
 ###  ملاحظات
 
-إذا تم تعيين [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission) أيضًا، فقم بإنشاء أو تعديل حقول النموذج التفاعلية (بما في ذلك حقول التوقيع).
+إذا تم أيضًا تعيين [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/ar/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission)، قم بإنشاء حقول النموذج التفاعلية أو تعديلها (بما في ذلك حقول التوقيع).
 ###  تعريف:
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 70
 url: /de/aspose.cells/errorcheckoption/set_error_check/
 is_root: false
 ---
-##  set_error_check(error_check_type, is_check) {#ErrorCheckType-bool}
+##  set_error_check(self, error_check_type, is_check) {#aspose.cells.ErrorCheckType-bool}
 Legt fest, ob der angegebene Fehlertyp überprüft wird.
 
 
 
 ```python
+
 def set_error_check(self, error_check_type, is_check):
     ...
 ```
@@ -20,11 +21,11 @@ def set_error_check(self, error_check_type, is_check):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| error_check_type | [ErrorCheckType](/cells/python-net/de/aspose.cells/errorchecktype) | Fehlertyp kann überprüft werden.|
-| is_check | bool | wahr, wenn der angegebene Fehlertyp überprüft werden muss (grünes Dreieck wird für die Zelle angezeigt, wenn die Überprüfung fehlschlägt).|
+| error_check_type | [`ErrorCheckType`](/cells/python-net/de/aspose.cells/errorchecktype) | Fehlertyp kann überprüft werden.|
+| is_check | bool | „true“, wenn der angegebene Fehlertyp überprüft werden muss (wenn die Überprüfung fehlgeschlagen ist, wird für die Zelle ein grünes Dreieck angezeigt).|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ErrorCheckOption](/cells/python-net/de/aspose.cells/errorcheckoption)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ErrorCheckOption`](/cells/python-net/de/aspose.cells/errorcheckoption)

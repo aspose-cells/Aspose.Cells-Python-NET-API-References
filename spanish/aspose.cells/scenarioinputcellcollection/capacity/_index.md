@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ScenarioInputCellCollection](/cells/python-net/es/aspose.cells/scenarioinputcellcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ScenarioInputCellCollection`](/cells/python-net/es/aspose.cells/scenarioinputcellcollection)

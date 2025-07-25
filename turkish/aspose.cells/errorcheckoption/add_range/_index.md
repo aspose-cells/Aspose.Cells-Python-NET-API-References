@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/errorcheckoption/add_range/
 is_root: false
 ---
-##  add_range(ca) {#CellArea}
-Bu ayarla etkilenen bir aralık ekler.
+##  add_range(self, ca) {#aspose.cells.CellArea}
+Bu ayardan etkilenen bir aralık ekler.
 
 
 ###  İadeler
 
-bu ayarın aralık listesine eklenen aralığın dizini.
+Bu ayarın aralık listesindeki eklenen aralığın indeksi.
 
 
 ```python
+
 def add_range(self, ca):
     ...
 ```
@@ -24,10 +25,10 @@ def add_range(self, ca):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/tr/aspose.cells/cellarea) | eklenecek aralık.|
+| ca | [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea) | eklenecek aralık.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ErrorCheckOption](/cells/python-net/tr/aspose.cells/errorcheckoption)
+* modül [`aspose.cells`](../../)
+* sınıf [`ErrorCheckOption`](/cells/python-net/tr/aspose.cells/errorcheckoption)

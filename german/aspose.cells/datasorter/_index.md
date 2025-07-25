@@ -3,7 +3,7 @@ title: DataSorter Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 440
+weight: 410
 url: /de/aspose.cells/datasorter/
 is_root: false
 ---
@@ -18,29 +18,30 @@ Der Typ DataSorter macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [keys](/cells/python-net/de/aspose.cells/datasorter/keys) | Ruft die Schlüsselliste des Datensortierers ab.|
-| [has_headers](/cells/python-net/de/aspose.cells/datasorter/has_headers) | Stellt dar, ob der Bereich Header hat.|
-| [key1](/cells/python-net/de/aspose.cells/datasorter/key1) | Stellt den ersten sortierten Spaltenindex dar (absolute Position, Spalte A ist 0, B ist 1, ...).|
+| [has_headers](/cells/python-net/de/aspose.cells/datasorter/has_headers) | Gibt an, ob der Bereich Überschriften hat.|
+| [key1](/cells/python-net/de/aspose.cells/datasorter/key1) | Stellt den ersten sortierten Spaltenindex dar (absolute Position, Spalte A ist 0, B ist 1, …).|
 | [order1](/cells/python-net/de/aspose.cells/datasorter/order1) | Stellt die Sortierreihenfolge des ersten Schlüssels dar.|
 | [key2](/cells/python-net/de/aspose.cells/datasorter/key2) | Stellt den zweiten sortierten Spaltenindex dar (absolute Position, Spalte A ist 0, B ist 1, ...).|
 | [order2](/cells/python-net/de/aspose.cells/datasorter/order2) | Stellt die Sortierreihenfolge des zweiten Schlüssels dar.|
 | [key3](/cells/python-net/de/aspose.cells/datasorter/key3) | Stellt den dritten sortierten Spaltenindex dar (absolute Position, Spalte A ist 0, B ist 1, ...).|
 | [order3](/cells/python-net/de/aspose.cells/datasorter/order3) | Stellt die Sortierreihenfolge des dritten Schlüssels dar.|
-| [sort_left_to_right](/cells/python-net/de/aspose.cells/datasorter/sort_left_to_right) | True bedeutet, dass die Sortierausrichtung von links nach rechts erfolgt.<br/>Falsch bedeutet, dass die Sortierausrichtung von oben nach unten erfolgt.<br/> Der Standardwert ist false.|
-| [case_sensitive](/cells/python-net/de/aspose.cells/datasorter/case_sensitive) | Ruft ab und legt fest, ob beim Vergleich von Zeichenfolgen zwischen Groß- und Kleinschreibung unterschieden wird.|
-| [sort_as_number](/cells/python-net/de/aspose.cells/datasorter/sort_as_number) |Gibt an, ob alles sortiert wird, was wie eine Zahl aussieht.|
+| [sort_left_to_right](/cells/python-net/de/aspose.cells/datasorter/sort_left_to_right) |„True“ bedeutet, dass die Sortierausrichtung von links nach rechts erfolgt.<br/>„False“ bedeutet, dass die Sortierausrichtung von oben nach unten erfolgt.<br/> Der Standardwert ist „false“.|
+| [case_sensitive](/cells/python-net/de/aspose.cells/datasorter/case_sensitive) | Ruft ab und legt fest, ob beim Vergleichen von Zeichenfolgen zwischen Groß- und Kleinschreibung unterschieden wird.|
+| [sort_as_number](/cells/python-net/de/aspose.cells/datasorter/sort_as_number) | Gibt an, ob alles sortiert wird, was wie eine Zahl aussieht.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_key](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge hinzu.|
-| [add_key](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-str) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
-| [add_key](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOnType-aspose.cells.SortOrder-any) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
-| [add_key](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.SortOrder-list) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
-| [sort](/cells/python-net/de/aspose.cells/datasorter/sort/#aspose.cells.Cells-int-int-int-int) | Sortiert die Daten des Bereichs.|
-| [sort](/cells/python-net/de/aspose.cells/datasorter/sort/#aspose.cells.Cells-aspose.cells.CellArea) | Sortieren Sie die Daten des Bereichs.|
-| [sort](/cells/python-net/de/aspose.cells/datasorter/sort/#) | Sortieren Sie die Daten im Bereich.|
-| [clear](/cells/python-net/de/aspose.cells/datasorter/clear/#) | Löschen Sie alle Einstellungen.|
+| [`add_key(self, key, order)`](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder) | Fügt sortierten Spaltenindex und Sortierreihenfolge hinzu.|
+| [`add_key(self, key, order, custom_list)`](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder-str) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
+| [`add_key(self, key, type, order, custom_list)`](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.sortontype-aspose.cells.sortorder-any) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
+| [`add_key(self, key, order, custom_list)`](/cells/python-net/de/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder-list) | Fügt einen sortierten Spaltenindex und eine Sortierreihenfolge mit benutzerdefinierter Sortierliste hinzu.|
+| [`sort(self, cells, start_row, start_column, end_row, end_column)`](/cells/python-net/de/aspose.cells/datasorter/sort/#aspose.cells.cells-int-int-int-int) | Sortiert die Daten des Bereichs.|
+| [`sort(self, cells, area)`](/cells/python-net/de/aspose.cells/datasorter/sort/#aspose.cells.cells-aspose.cells.cellarea) | Sortieren Sie die Daten des Bereichs.|
+| [`sort(self)`](/cells/python-net/de/aspose.cells/datasorter/sort/#) | Sortieren Sie die Daten im Bereich.|
+| [`clear(self)`](/cells/python-net/de/aspose.cells/datasorter/clear/#) | Alle Einstellungen löschen.|
+| [`add_color_key(self, key, type, order, color)`](/cells/python-net/de/aspose.cells/datasorter/add_color_key/#int-aspose.cells.sortontype-aspose.cells.sortorder-aspose.pydrawing.color) | Fügt einen Farbsortierschlüssel hinzu.|
 
 
 

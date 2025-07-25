@@ -7,17 +7,18 @@ weight: 260
 url: /es/aspose.cells/settableglobalizationsettings/get_table_row_type_of_headers/
 is_root: false
 ---
-##  get_table_row_type_of_headers {#}
-Obtiene el nombre de tipo de las filas de la tabla que constan del encabezado de la tabla.
+##  get_table_row_type_of_headers(self) {#}
+Obtiene el nombre del tipo de filas de la tabla que constan del encabezado de la tabla.
 El valor predeterminado es "Encabezados", por lo que en la fórmula "#Encabezados" representa el encabezado de la tabla.
 
 
 ###  Devoluciones
 
-el nombre del tipo de las filas de la tabla
+el nombre del tipo de filas de la tabla
 
 
 ```python
+
 def get_table_row_type_of_headers(self):
     ...
 ```

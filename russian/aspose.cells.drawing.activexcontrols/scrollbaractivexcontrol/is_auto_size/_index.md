@@ -1,6 +1,6 @@
 ---
 title: is_auto_size недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_auto_si
 is_root: false
 ---
 ##  is_auto_size недвижимость
-
-Указывает, будет ли автоматически изменяться размер элемента управления для отображения всего его содержимого.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ScrollBarActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ScrollBarActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

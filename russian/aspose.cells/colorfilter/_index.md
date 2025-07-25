@@ -1,14 +1,14 @@
 ---
 title: ColorFilter класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 220
 url: /ru/aspose.cells/colorfilter/
 is_root: false
 ---
 ##  ColorFilter класс
-Представляет фильтрацию диапазона по цвету.
+Представляет собой фильтрацию диапазона по цвету.
 
 
 
@@ -17,13 +17,13 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [filter_by_fill_color](/cells/python-net/ru/aspose.cells/colorfilter/filter_by_fill_color) | Фильтрация по цвету заливки ячейки.|
+| [filter_by_fill_color](/cells/python-net/ru/aspose.cells/colorfilter/filter_by_fill_color) | Фильтровать ли по цвету заливки ячейки.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [get_color](/cells/python-net/ru/aspose.cells/colorfilter/get_color/#aspose.cells.WorksheetCollection) | Получает цвет этого фильтра.|
+| [`get_color(self, sheets)`](/cells/python-net/ru/aspose.cells/colorfilter/get_color/#aspose.cells.worksheetcollection) | Получает цвет этого фильтра.|
 
 
 

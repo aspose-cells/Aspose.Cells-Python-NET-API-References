@@ -1,16 +1,16 @@
 ---
 title: merge_empty_td_forcely недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 640
 url: /ru/aspose.cells/htmlsaveoptions/merge_empty_td_forcely/
 is_root: false
 ---
 ##  merge_empty_td_forcely недвижимость
 
- Указывает, нужно ли принудительно объединять пустой элемент TD при экспорте файла в HTML.
- Размер html-файла значительно уменьшится после установки значения true. Значение по умолчанию неверно.
+ Указывает, принудительно ли объединяется пустой элемент TD при экспорте файла в html.
+ Размер HTML-файла значительно уменьшится после установки значения true. Значение по умолчанию — false.
  Если вы хотите импортировать HTML-файл в Excel или экспортировать идеальные линии сетки при сохранении файла в HTML,
 пожалуйста, сохраните значение по умолчанию.
 ###  Определение:

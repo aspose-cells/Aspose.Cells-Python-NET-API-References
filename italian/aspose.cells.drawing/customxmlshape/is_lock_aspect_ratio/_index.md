@@ -1,15 +1,22 @@
 ---
 title: is_lock_aspect_ratio proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 600
+weight: 610
 url: /it/aspose.cells.drawing/customxmlshape/is_lock_aspect_ratio/
 is_root: false
 ---
 ##  is_lock_aspect_ratio proprietà
 
-Vero significa che non consente modifiche alle proporzioni.
+Vero significa che le proporzioni della forma sono bloccate.
+
+###  Osservazioni
+
+Solo per immagini e oggetti Ole.
+ NOTA: questo membro è ora obsoleto. In alternativa, utilizzare la proprietà Shape.IsAspectRatioLocked.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da luglio 2024.
+Aspose si scusa per ogni eventuale disagio arrecato.
 
 ###  Esempio
 

@@ -3,13 +3,13 @@ title: content_type_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 480
+weight: 500
 url: /es/aspose.cells/workbook/content_type_properties/
 is_root: false
 ---
 ##  content_type_properties propiedad
 
-Obtiene la lista de [`ContentTypeProperty`](/cells/python-net/es/aspose.cells.properties/contenttypeproperty) objetos del libro.
+Obtiene la lista de [`ContentTypeProperty`](/cells/python-net/es/aspose.cells.properties/contenttypeproperty) objetos en el libro de trabajo.
 ###  Definición:
 ```python
 @property

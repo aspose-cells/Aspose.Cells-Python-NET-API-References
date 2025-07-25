@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type propriété
 
-Spécifie les bouchons de jointure.
+Spécifie les capuchons de jonction.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
-* classe [LineJoinType](/cells/python-net/fr/aspose.cells.drawing/linejointype)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)
+* classe [`LineJoinType`](/cells/python-net/fr/aspose.cells.drawing/linejointype)

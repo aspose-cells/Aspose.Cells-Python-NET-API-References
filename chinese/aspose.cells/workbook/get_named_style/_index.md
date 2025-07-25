@@ -1,13 +1,13 @@
 ---
 title: get_named_style方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 190
 url: /zh/aspose.cells/workbook/get_named_style/
 is_root: false
 ---
-##  get_named_style(name) {#str}
+##  get_named_style(self, name) {#str}
 获取样式池中的命名样式。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_named_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def get_named_style(self, name):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

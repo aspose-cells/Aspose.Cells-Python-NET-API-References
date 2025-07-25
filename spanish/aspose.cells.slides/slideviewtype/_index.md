@@ -17,8 +17,8 @@ El tipo SlideViewType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| VIEW | Exportando como vista en MS Excel.|
-| PRINT | Exportar como imprimir.|
+| VIEW | Exportar como vista en MS Excel.|
+| PRINT | Exportando como impresión.|
 
 
 

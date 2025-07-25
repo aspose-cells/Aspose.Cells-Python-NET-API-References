@@ -1,15 +1,15 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 180
 url: /ru/aspose.cells.pivot/pivotitem/value/
 is_root: false
 ---
 ##  value недвижимость
 
-Получает value элемента сводной таблицы.
+Получает value опорного элемента
 ###  Определение:
 ```python
 @property

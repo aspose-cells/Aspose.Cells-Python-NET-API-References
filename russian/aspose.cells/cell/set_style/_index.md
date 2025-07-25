@@ -1,18 +1,19 @@
 ---
 title: set_style метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 370
 url: /ru/aspose.cells/cell/set_style/
 is_root: false
 ---
-##  set_style {#aspose.cells.Style}
-Устанавливает стиль ячейки.
+##  set_style(self, style) {#aspose.cells.Style}
+Задает стиль ячейки.
 
 
 
 ```python
+
 def set_style(self, style):
     ...
 ```
@@ -23,15 +24,16 @@ def set_style(self, style):
 | style | [`Style`](/cells/python-net/ru/aspose.cells/style) | Стиль ячейки.|
 ###  Примечания
 
-Если настройки границы изменены, граница корректирующих ячеек также будет обновлена.
+Если настройки границ изменены, границы корректируемых ячеек также будут обновлены.
 
-##  set_style {#aspose.cells.Style-bool}
+##  set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
 
-Примените измененное свойство стиля к ячейке.
+Применить измененное свойство стиля к ячейке.
 
 
 
 ```python
+
 def set_style(self, style, explicit_flag):
     ...
 ```
@@ -40,15 +42,16 @@ def set_style(self, style, explicit_flag):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | style | [`Style`](/cells/python-net/ru/aspose.cells/style) | Стиль ячейки.|
-| explicit_flag | bool | Правда, перезаписывает только явно заданное форматирование.|
+| explicit_flag | bool | Верно, перезаписывает только явно заданное форматирование.|
 
 
-##  set_style {#aspose.cells.Style-aspose.cells.StyleFlag}
-Примените стиль ячейки на основе флагов.
+##  set_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+Применить стиль ячеек на основе флагов.
 
 
 
 ```python
+
 def set_style(self, style, flag):
     ...
 ```

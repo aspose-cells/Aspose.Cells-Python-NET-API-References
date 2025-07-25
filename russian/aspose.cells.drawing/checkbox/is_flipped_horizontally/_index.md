@@ -1,15 +1,15 @@
 ---
 title: is_flipped_horizontally недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 570
+weight: 580
 url: /ru/aspose.cells.drawing/checkbox/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally недвижимость
 
-Получает и устанавливает, отражается ли фигура по горизонтали.
+Получает и задает, перевернута ли фигура по горизонтали.
 
 ###  Пример
 

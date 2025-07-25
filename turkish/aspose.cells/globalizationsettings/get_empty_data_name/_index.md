@@ -7,16 +7,17 @@ weight: 90
 url: /tr/aspose.cells/globalizationsettings/get_empty_data_name/
 is_root: false
 ---
-##  get_empty_data_name {#}
+##  get_empty_data_name(self) {#}
 PivotTable'daki "(boş)" etiketinin adını alır.
 
 
 ###  İadeler
 
-Boş verinin adı
+Boş verilerin adı
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_empty_data_name(self):
 
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() yöntemini kullanın.
- Bu mülk, Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen PivotGlobalizationSettings.GetColumnLabelsOfPivotTable() metodunu kullanın.
+ Bu özellik Aralık 2022'den itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

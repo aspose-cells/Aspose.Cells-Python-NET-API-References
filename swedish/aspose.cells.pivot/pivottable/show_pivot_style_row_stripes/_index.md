@@ -3,13 +3,13 @@ title: show_pivot_style_row_stripes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 970
+weight: 1100
 url: /sv/aspose.cells.pivot/pivottable/show_pivot_style_row_stripes/
 is_root: false
 ---
 ##  show_pivot_style_row_stripes fastighet
 
-Indikerar om radrandsformatering tillämpas.
+Anger om radrandformatering tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_pivot_style_row_stripes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

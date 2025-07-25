@@ -1,14 +1,14 @@
 ---
-title: metodo add
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo add
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
-##  add(uri, name) {#str-str}
-Aggiunge uno smart tag.
+##  add(self, uri, name) {#str-str}
+Aggiunge un tag intelligente.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Indice dello smart tag nell'elenco.
 
 
 ```python
+
 def add(self, uri, name):
     ...
 ```
@@ -30,5 +31,5 @@ def add(self, uri, name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.markup](../../)
-* classe [SmartTagCollection](/cells/python-net/it/aspose.cells.markup/smarttagcollection)
+* modulo [`aspose.cells.markup`](../../)
+* classe [`SmartTagCollection`](/cells/python-net/it/aspose.cells.markup/smarttagcollection)

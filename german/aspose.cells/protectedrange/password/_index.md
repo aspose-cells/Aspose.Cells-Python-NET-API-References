@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  password Eigentum
 
-Stellt die password dar, um die Reichweite zu schützen.
+Stellt die password dar, um den Bereich zu schützen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

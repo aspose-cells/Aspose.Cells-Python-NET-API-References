@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extrusion_height mülk
 
-Şekle uygulanan ekstrüzyon yüksekliğini nokta birimi cinsinden alır ve ayarlar.
+Şekle uygulanan çıkıntının yüksekliğini nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def extrusion_height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

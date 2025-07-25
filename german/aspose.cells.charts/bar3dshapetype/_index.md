@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
 ##  Bar3DShapeType Aufzählung
-Stellt die Form dar, die mit dem 3D-Balken- oder Säulendiagramm verwendet wird.
+Stellt die mit dem 3D-Balken- oder Säulendiagramm verwendete Form dar.
 
 
 

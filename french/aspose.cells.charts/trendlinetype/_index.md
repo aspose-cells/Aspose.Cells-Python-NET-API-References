@@ -20,7 +20,7 @@ Le type TrendlineType expose les membres suivants :
 | EXPONENTIAL | Exponentiel|
 | LINEAR | Linéaire|
 | LOGARITHMIC | Logarithmique|
-| MOVING_AVERAGE | MoyenneMouvement|
+| MOVING_AVERAGE | Moyenne mobile|
 | POLYNOMIAL | Polynôme|
 | POWER | Pouvoir|
 

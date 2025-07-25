@@ -1,6 +1,6 @@
 ---
 title: max_change proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_change proprietà
 
-La modifica massima per risolvere un riferimento circolare.
+La variazione massima per risolvere un riferimento circolare.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_change(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

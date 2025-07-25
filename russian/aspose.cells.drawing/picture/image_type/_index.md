@@ -1,6 +1,6 @@
 ---
 title: image_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 590
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_type недвижимость
 
-Получает формат изображения изображения.
+Получает формат изображения картинки.
 
 ###  Пример
 

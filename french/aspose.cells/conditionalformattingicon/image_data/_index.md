@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propriété
 
-Obtient les données du jeu d'icônes.
+Obtient les données de l'ensemble d'icônes.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_data(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/fr/aspose.cells/conditionalformattingicon)

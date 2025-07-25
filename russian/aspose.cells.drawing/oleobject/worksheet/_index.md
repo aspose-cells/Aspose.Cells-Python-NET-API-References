@@ -1,15 +1,15 @@
 ---
 title: worksheet недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1400
+weight: 1410
 url: /ru/aspose.cells.drawing/oleobject/worksheet/
 is_root: false
 ---
 ##  worksheet недвижимость
 
-Получает объект [`Shape.worksheet`](/cells/python-net/ru/aspose.cells.drawing/shape#worksheet), содержащий эту фигуру.
+Получает объект [`Shape.worksheet`](/cells/python-net/ru/aspose.cells.drawing/shape#worksheet), содержащий эту форму.
 
 ###  Пример
 

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/workbook/__init__/
 is_root: false
 ---
-##  Workbook() {#}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook).
+##  \_\_init\_\_(själv){#}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,7 +21,7 @@ def __init__(self):
 
 ###  Anmärkningar
 
-Standardfilformatstypen är Xlsx. För att skapa annan filtyp, använd Workbook(FileFormatType).
+Standardfilformatet är Xlsx. Om du vill skapa andra filtyper, använd Workbook(FileFormatType).
 ###  Exempel
 
 
@@ -34,12 +35,13 @@ workbook = Workbook()
 ```
 
 
-##  Workbook(file_format_type) {#FileFormatType}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook).
+##  \_\_init\_\_(self, file_format_type){#aspose.cells.FileFormatType}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook).
 
 
 
 ```python
+
 def __init__(self, file_format_type):
     ...
 ```
@@ -47,14 +49,14 @@ def __init__(self, file_format_type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| file_format_type | [FileFormatType](/cells/python-net/sv/aspose.cells/fileformattype) | Det nya filformatet.|
+| file_format_type | [`FileFormatType`](/cells/python-net/sv/aspose.cells/fileformattype) | Det nya filformatet.|
 ###  Anmärkningar
 
-Standardfilformatet är Excel97To2003.
+Standardfilformattypen är Excel97To2003.
 ###  Exempel
 
 
-Följande kod visar hur man använder konstruktorn Workbook för att skapa och initiera en ny instans av klassen.
+Följande kod visar hur man använder konstruktorn Workbook för att skapa och initiera en ny instans av klassen med olika filformattyper.
 
 ```python
 from aspose.cells import FileFormatType, Workbook
@@ -64,12 +66,13 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-##  Workbook(file) {#str}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook) och öppnar en fil.
+##  \_\_init\_\_(själv, fil){#str}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) och öppnar en fil.
 
 
 
 ```python
+
 def __init__(self, file):
     ...
 ```
@@ -80,12 +83,13 @@ def __init__(self, file):
 | file | str | Filnamnet.|
 
 
-##  Workbook(stream) {#io.RawIOBase}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook) och öppnar en ström.
+##  \_\_init\_\_(själv, ström){#io.RawIOBase}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) och öppnar en ström.
 
 
 
 ```python
+
 def __init__(self, stream):
     ...
 ```
@@ -96,12 +100,13 @@ def __init__(self, stream):
 | stream | io.RawIOBase | Strömmen.|
 
 
-##  Workbook(file, load_options) {#str-LoadOptions}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook) och öppnar en fil.
+##  \_\_init\_\_(self, file, load_options){#str-aspose.cells.LoadOptions}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) och öppnar en fil.
 
 
 
 ```python
+
 def __init__(self, file, load_options):
     ...
 ```
@@ -110,15 +115,16 @@ def __init__(self, file, load_options):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | file | str | Filnamnet.|
-| load_options | [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions) | Lastalternativen|
+| load_options | [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions) | Lastalternativen|
 
 
-##  Workbook(stream, load_options) {#io.RawIOBase-LoadOptions}
-Initierar en ny instans av klassen [Workbook](/cells/python-net/sv/aspose.cells/workbook) och öppen ström.
+##  \_\_init\_\_(self, stream, load_options){#io.RawIOBase-aspose.cells.LoadOptions}
+Initierar en ny instans av klassen [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) och öppnar strömmen.
 
 
 
 ```python
+
 def __init__(self, stream, load_options):
     ...
 ```
@@ -127,10 +133,10 @@ def __init__(self, stream, load_options):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | stream | io.RawIOBase | Strömmen.|
-| load_options | [LoadOptions](/cells/python-net/sv/aspose.cells/loadoptions) | Lastalternativen|
+| load_options | [`LoadOptions`](/cells/python-net/sv/aspose.cells/loadoptions) | Lastalternativen|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

@@ -1,18 +1,19 @@
 ---
 title: set_table_row_type_of_all метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 400
 url: /ru/aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/
 is_root: false
 ---
-##  set_table_row_type_of_all {#str}
-Задает имя типа строк таблицы, состоящее из всех строк в указанной таблице.
+##  set_table_row_type_of_all(self, name) {#str}
+Задает имя типа строк таблицы, состоящей из всех строк в указанной таблице.
 
 
 
 ```python
+
 def set_table_row_type_of_all(self, name):
     ...
 ```

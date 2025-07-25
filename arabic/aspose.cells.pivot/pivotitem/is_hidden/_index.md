@@ -1,15 +1,15 @@
 ---
-title: is_hidden الملكية
+title: is_hidden عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 120
 url: /ar/aspose.cells.pivot/pivotitem/is_hidden/
 is_root: false
 ---
-##  is_hidden الملكية
+##  is_hidden عقار
 
-الحصول على وتحديد ما إذا كان العنصر المحوري مخفيًا أم لا.
+يحصل ويحدد ما إذا كان عنصر المحور مخفيًا أم لا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotItem](/cells/python-net/ar/aspose.cells.pivot/pivotitem)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem)

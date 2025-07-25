@@ -3,13 +3,13 @@ title: display_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.tables/listobject/display_name/
 is_root: false
 ---
 ##  display_name fastighet
 
-Hämtar och ställer in visningsnamnet.
+Hämtar och anger visningsnamnet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [ListObject](/cells/python-net/sv/aspose.cells.tables/listobject)
+* modul [`aspose.cells.tables`](../../)
+* klass [`ListObject`](/cells/python-net/sv/aspose.cells.tables/listobject)

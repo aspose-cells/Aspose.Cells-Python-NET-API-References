@@ -1,6 +1,6 @@
 ---
 title: caption proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption proprietà
 
-Restituisce o imposta lo caption della linea temporale specificata.
+Restituisce o imposta il valore caption della sequenza temporale specificata.
 
 ###  Esempio
 
@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.timelines](../../)
-* classe [Timeline](/cells/python-net/it/aspose.cells.timelines/timeline)
+* modulo [`aspose.cells.timelines`](../../)
+* classe [`Timeline`](/cells/python-net/it/aspose.cells.timelines/timeline)

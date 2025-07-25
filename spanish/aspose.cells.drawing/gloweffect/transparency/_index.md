@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency propiedad
 
-Obtiene y establece el grado de transparency del efecto de brillo. Rango de 0,0 (opaco) a 1,0 (transparente).
+Obtiene y establece el grado transparency del efecto de brillo. El rango va de 0.0 (opaco) a 1.0 (transparente).
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GlowEffect](/cells/python-net/es/aspose.cells.drawing/gloweffect)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GlowEffect`](/cells/python-net/es/aspose.cells.drawing/gloweffect)

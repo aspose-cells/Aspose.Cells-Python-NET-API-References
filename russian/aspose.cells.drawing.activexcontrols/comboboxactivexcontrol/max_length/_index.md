@@ -1,6 +1,6 @@
 ---
 title: max_length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 310
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length недвижимость
 
-Получает и устанавливает максимальное количество символов
+Получает и задает максимальное количество символов
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

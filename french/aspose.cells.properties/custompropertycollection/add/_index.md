@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
+##  add(self, name, value) {#str-str}
 Ajoute des informations de propriété personnalisées.
 
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self, name, value):
 
 
 ###  Voir également
-* module [aspose.cells.properties](../../)
-* classe [CustomPropertyCollection](/cells/python-net/fr/aspose.cells.properties/custompropertycollection)
+* module [`aspose.cells.properties`](../../)
+* classe [`CustomPropertyCollection`](/cells/python-net/fr/aspose.cells.properties/custompropertycollection)

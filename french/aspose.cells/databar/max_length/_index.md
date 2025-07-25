@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_length propriété
 
-Représente la longueur maximale de la barre de données .
+Représente la longueur maximale de la barre de données.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_length(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/fr/aspose.cells/databar)
+* module [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/fr/aspose.cells/databar)

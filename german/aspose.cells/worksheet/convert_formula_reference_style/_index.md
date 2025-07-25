@@ -7,16 +7,17 @@ weight: 120
 url: /de/aspose.cells/worksheet/convert_formula_reference_style/
 is_root: false
 ---
-##  convert_formula_reference_style {#str-bool-int-int}
+##  convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column) {#str-bool-int-int}
 Konvertiert den Formelreferenzstil.
 
 
 ###  Kehrt zurück
 
-Die umgewandelte Formel.
+Die konvertierte Formel.
 
 
 ```python
+
 def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column):
     ...
 ```
@@ -25,7 +26,7 @@ def convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | formula | str | Die umzuwandelnde Formel.|
-| to_r1c1 | bool | In welchen Referenzstil die Formel konvertiert werden soll.<br/>Wenn die ursprüngliche Formel vom A1-Referenzstil ist,<br/>dann sollte dieser Wert wahr sein, damit die Formel vom A1- in den R1C1-Referenzstil konvertiert wird;<br/>Wenn die ursprüngliche Formel vom R1C1-Referenzstil ist,<br/> dann sollte dieser Wert falsch sein, damit die Formel vom R1C1- in den A1-Referenzstil konvertiert wird;|
+| to_r1c1 | bool | In welchen Referenzstil die Formel konvertiert werden soll.<br/>Wenn die ursprüngliche Formel im A1-Referenzstil ist,<br/>dann sollte dieser Wert wahr sein, damit die Formel vom Referenzstil A1 in den Referenzstil R1C1 konvertiert wird.<br/>Wenn die ursprüngliche Formel vom Referenzstil R1C1 ist,<br/> dann sollte dieser Wert falsch sein, damit die Formel vom Referenzstil R1C1 in den Referenzstil A1 konvertiert wird.|
 | base_cell_row | int | Der Zeilenindex der Basiszelle.|
 | base_cell_column | int | Der Spaltenindex der Basiszelle.|
 

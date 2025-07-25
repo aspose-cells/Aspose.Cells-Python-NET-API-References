@@ -3,14 +3,14 @@ title: width_scale属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1210
+weight: 1220
 url: /zh/aspose.cells.drawing/smartartshape/width_scale/
 is_root: false
 ---
 ## width_scale属性
 
-获取和设置宽度比例，以原始图片宽度的百分比为单位。
-如果形状不是图片，则WidthScale属性仅返回100；
+获取或设置宽度比例，以原始图片宽度的百分比为单位。
+如果形状不是图片，WidthScale属性只返回100；
 
 ### 例子
 

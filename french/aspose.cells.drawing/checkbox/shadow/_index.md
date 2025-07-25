@@ -3,13 +3,13 @@ title: shadow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 900
+weight: 910
 url: /fr/aspose.cells.drawing/checkbox/shadow/
 is_root: false
 ---
 ##  shadow propriété
 
-Indique si la zone de liste déroulante comporte un ombrage 3D.
+Indique si la zone de liste déroulante possède un ombrage 3D.
 ###  Définition:
 ```python
 @property

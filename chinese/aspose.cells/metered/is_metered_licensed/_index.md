@@ -7,17 +7,19 @@ weight: 50
 url: /zh/aspose.cells/metered/is_metered_licensed/
 is_root: false
 ---
-##  is_metered_licensed {#}
-检查计量是否有许可
+##  is_metered_licensed() {#}
+检查计量是否已获得许可
 
 
-### 退货
+### 返回
 
-对或错
+对还是错
 
 
 ```python
-def is_metered_licensed(self):
+
+@staticmethod
+def is_metered_licensed():
     ...
 ```
 

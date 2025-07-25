@@ -3,13 +3,13 @@ title: is_deleted fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 220
+weight: 280
 url: /sv/aspose.cells.charts/legend/is_deleted/
 is_root: false
 ---
 ##  is_deleted fastighet
 
-Indikerar om denna dataetikett är raderad.
+Anger om dessa dataetiketter har raderats.
 ###  Definition:
 ```python
 @property

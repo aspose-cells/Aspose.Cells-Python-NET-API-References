@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alert_style fastighet
 
-Representerar valideringsvarningsstilen.
+Representerar valideringsaviseringsstilen.
 ###  Definition:
 ```python
 @property

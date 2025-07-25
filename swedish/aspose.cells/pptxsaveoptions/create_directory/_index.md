@@ -3,17 +3,11 @@ title: create_directory fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 100
 url: /sv/aspose.cells/pptxsaveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory fastighet
-
-Om sant och katalogen inte finns skapas katalogen automatiskt innan filen sparas.
-
-###  Anmärkningar
-
-Standardvärdet är falskt.
 ###  Definition:
 ```python
 @property

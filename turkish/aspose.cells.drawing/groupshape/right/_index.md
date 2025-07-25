@@ -3,13 +3,13 @@ title: right mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 880
+weight: 890
 url: /tr/aspose.cells.drawing/groupshape/right/
 is_root: false
 ---
 ##  right mülk
 
-Şeklin yatay uzaklığının alt right köşe sütunundan genişliğini piksel cinsinden temsil eder.
+Şeklin alt köşe sütunundan yatay uzaklığının genişliğini piksel cinsinden temsil eder.
 
 ###  Örnek
 

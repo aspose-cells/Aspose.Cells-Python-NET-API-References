@@ -3,13 +3,13 @@ title: xml_maps propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 420
 url: /fr/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
 ##  xml_maps propriété
 
-Obtient et définit les mappages XML dans le classeur.
+Obtient et définit les cartes XML dans le classeur.
 ###  Définition:
 ```python
 @property

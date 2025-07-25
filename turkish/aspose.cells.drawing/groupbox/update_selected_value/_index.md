@@ -3,16 +3,17 @@ title: update_selected_value yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.drawing/groupbox/update_selected_value/
 is_root: false
 ---
-##  update_selected_value {#}
-Seçilen değeri bağlantılı hücrenin değerine göre güncelleyin.
+##  update_selected_value(self) {#}
+Bağlantılı hücrenin değerine göre seçili değeri güncelle.
 
 
 
 ```python
+
 def update_selected_value(self):
     ...
 ```

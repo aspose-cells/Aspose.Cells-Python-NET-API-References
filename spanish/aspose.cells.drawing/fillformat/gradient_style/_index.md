@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style propiedad
 
-Devuelve el estilo de degradado del relleno especificado.
+Devuelve el estilo de degradado para el relleno especificado.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_style(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
-* clase [GradientStyleType](/cells/python-net/es/aspose.cells.drawing/gradientstyletype)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* clase [`GradientStyleType`](/cells/python-net/es/aspose.cells.drawing/gradientstyletype)

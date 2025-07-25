@@ -3,7 +3,7 @@ title: show_all_items propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 560
+weight: 660
 url: /fr/aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
  Indique si tous les éléments s'affichent dans le rapport de tableau croisé dynamique,
 même s'ils ne contiennent pas de données récapitulatives.
 afficher les éléments sans données
-La valeur par défaut est fausse.
+La valeur par défaut est false.
 ###  Définition:
 ```python
 @property

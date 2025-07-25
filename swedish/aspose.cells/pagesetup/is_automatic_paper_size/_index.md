@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_paper_size fastighet
 
-Indikerar om pappersstorleken är automatisk.
+Anger om pappersstorleken är automatisk.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_automatic_paper_size(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

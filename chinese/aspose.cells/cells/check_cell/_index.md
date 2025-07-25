@@ -1,23 +1,24 @@
 ---
 title: check_cell方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells/cells/check_cell/
 is_root: false
 ---
-##  check_cell(row, column) {#int-int}
-获取指定单元格行索引和列索引处的 [Cell](/cells/python-net/zh/aspose.cells/cell) 元素或 null。
+##  check_cell(self, row, column) {#int-int}
+获取指定单元格行索引和列索引处的 [`Cell`](/cells/python-net/zh/aspose.cells/cell) 元素或 null。
 
 
 ### 返回
 
-如果存在 Cell 对象，则返回 Cell 对象。
+如果 Cell 对象存在，则返回 Cell 对象。
 如果单元格不存在，则返回 null。
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```
@@ -31,6 +32,6 @@ def check_cell(self, row, column):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Cell](/cells/python-net/zh/aspose.cells/cell)
-* 类 [Cells](/cells/python-net/zh/aspose.cells/cells)
+* 模块[`aspose.cells`](../../)
+* 类 [`Cell`](/cells/python-net/zh/aspose.cells/cell)
+* 类 [`Cells`](/cells/python-net/zh/aspose.cells/cells)

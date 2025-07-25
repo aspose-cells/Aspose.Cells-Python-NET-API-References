@@ -7,12 +7,13 @@ weight: 100
 url: /tr/aspose.cells.charts/seriescollection/set_series_names/
 is_root: false
 ---
-##  set_series_names(start_index, area, is_vertical) {#int-str-bool}
+##  set_series_names(self, start_index, area, is_vertical) {#int-str-bool}
 Grafikteki tüm serilerin adını ayarlar.
 
 
 
 ```python
+
 def set_series_names(self, start_index, area, is_vertical):
     ...
 ```
@@ -20,9 +21,9 @@ def set_series_names(self, start_index, area, is_vertical):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Adını ayarlamak istediğiniz ilk dizinin dizini.|
+| start_index | int | Adını belirlemek istediğiniz ilk dizinin indeksi.|
 | area | str | Seri adı için alanı belirtir.|
-| is_vertical | bool | >Bir dizi hücre değeri aralığından serinin satıra mı yoksa sütuna mı göre çizileceğini belirtir.|
+| is_vertical | bool | >Hücre değerleri aralığındaki serinin satır bazında mı yoksa sütun bazında mı çizileceğini belirtir.|
 ###  Notlar
 
 
@@ -30,5 +31,5 @@ def set_series_names(self, start_index, area, is_vertical):
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells.charts](../../)
-* sınıf [SeriesCollection](/cells/python-net/tr/aspose.cells.charts/seriescollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SeriesCollection`](/cells/python-net/tr/aspose.cells.charts/seriescollection)

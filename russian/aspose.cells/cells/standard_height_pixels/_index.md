@@ -1,15 +1,15 @@
 ---
 title: standard_height_pixels недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1260
+weight: 1290
 url: /ru/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---
 ##  standard_height_pixels недвижимость
 
-Получает или задает высоту строки по умолчанию на этом листе в пикселях.
+Возвращает или задает высоту строки по умолчанию на этом листе (в пикселях).
 ###  Определение:
 ```python
 @property

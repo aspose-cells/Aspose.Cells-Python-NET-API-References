@@ -1,13 +1,13 @@
 ---
-title: new_formula 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: new_formula属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.revisions/revisiondefinedname/new_formula/
 is_root: false
 ---
-## new_formula 属性
+## new_formula属性
 
 得到公式。
 ### 定义：
@@ -18,5 +18,5 @@ def new_formula(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [RevisionDefinedName](/cells/python-net/zh/aspose.cells.revisions/revisiondefinedname)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`RevisionDefinedName`](/cells/python-net/zh/aspose.cells.revisions/revisiondefinedname)

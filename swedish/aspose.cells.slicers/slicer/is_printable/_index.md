@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_printable fastighet
 
-Indikerar om skivobjektet är utskrivbart.
+Anger om utsnittsobjektet är utskrivbart.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def is_printable(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

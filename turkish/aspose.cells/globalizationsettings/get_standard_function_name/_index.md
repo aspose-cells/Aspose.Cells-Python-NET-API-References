@@ -7,16 +7,17 @@ weight: 200
 url: /tr/aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
-##  get_standard_function_name {#str}
-Verilen yerel ayara bağlı işlev adına göre standart işlev adını alır.
+##  get_standard_function_name(self, local_name) {#str}
+Verilen yerel bağımlı fonksiyon adına göre standart fonksiyon adını alır.
 
 
 ###  İadeler
 
-Standart(en-ABD yerel ayarı) işlev adı.
+Standart(en-US yerel) fonksiyon adı.
 
 
 ```python
+
 def get_standard_function_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_function_name(self, local_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| local_name | str | Yerel ayara bağlı işlev adı. Yerel ayar, bu ayarların kullanıldığı Çalışma Kitabı tarafından belirtildi.|
+| local_name | str | Yerel ayara bağlı işlev adı. Yerel ayar, bu ayarın kullanıldığı Çalışma Kitabı tarafından belirtildi.|
 
 
 

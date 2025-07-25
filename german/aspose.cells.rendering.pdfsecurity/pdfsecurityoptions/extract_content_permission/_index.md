@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  extract_content_permission Eigentum
 
- Gibt an, ob das Kopieren oder anderweitige Extrahieren von Text und Grafiken aus dem Dokument zulässig ist
-durch andere als die von [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) kontrollierten Betriebe.
+ Gibt an, ob das Kopieren oder anderweitige Extrahieren von Text und Grafiken aus dem Dokument erlaubt ist
+durch andere Vorgänge als den von [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/de/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) kontrollierten.
 ###  Definition:
 ```python
 @property

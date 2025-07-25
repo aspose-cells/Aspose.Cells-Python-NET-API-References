@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_transparent
 is_root: false
 ---
 ##  is_transparent Eigentum
-
-Gibt an, ob das Steuerelement transparent ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_transparent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ImageActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ImageActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

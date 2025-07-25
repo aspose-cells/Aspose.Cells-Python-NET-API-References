@@ -1,5 +1,5 @@
 ---
-title: bottom الملكية
+title: bottom عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/picformatoption/bottom/
 is_root: false
 ---
-##  bottom الملكية
+##  bottom عقار
 
-الحصول على أو تحديد الإزاحة bottom لتمديد الصورة.
+يحصل على أو يضبط الإزاحة bottom لتمديد الصورة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [PicFormatOption](/cells/python-net/ar/aspose.cells.drawing/picformatoption)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`PicFormatOption`](/cells/python-net/ar/aspose.cells.drawing/picformatoption)

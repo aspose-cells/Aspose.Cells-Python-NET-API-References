@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_type Eigentum
 
-Ruft den Grafiktyp des Seitenhintergrunds ab und legt ihn fest.
+Ruft den Grafiktyp für den Seitenhintergrund ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](../../)
-* Klasse [OdsPageBackground](/cells/python-net/de/aspose.cells.ods/odspagebackground)
-* Klasse [OdsPageBackgroundGraphicType](/cells/python-net/de/aspose.cells.ods/odspagebackgroundgraphictype)
+* Modul [`aspose.cells.ods`](../../)
+* Klasse [`OdsPageBackground`](/cells/python-net/de/aspose.cells.ods/odspagebackground)
+* Klasse [`OdsPageBackgroundGraphicType`](/cells/python-net/de/aspose.cells.ods/odspagebackgroundgraphictype)

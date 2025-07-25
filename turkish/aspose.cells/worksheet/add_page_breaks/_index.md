@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
-##  add_page_breaks(cell_name) {#str}
+##  add_page_breaks(self, cell_name) {#str}
 Sayfa sonu ekler.
 
 
 
 ```python
+
 def add_page_breaks(self, cell_name):
     ...
 ```
@@ -25,5 +26,5 @@ def add_page_breaks(self, cell_name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

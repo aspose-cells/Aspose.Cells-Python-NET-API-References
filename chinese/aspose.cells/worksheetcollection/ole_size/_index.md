@@ -3,15 +3,15 @@ title: ole_size属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 350
 url: /zh/aspose.cells/worksheetcollection/ole_size/
 is_root: false
 ---
 ## ole_size属性
 
-获取和设置工作簿文件用作 Ole 对象时的显示大小。
+获取并设置当工作簿文件用作 Ole 对象时的显示大小。
 
-### 评论
+### 注意事项
 
 Null 表示没有 ole 大小设置。
 ### 定义：

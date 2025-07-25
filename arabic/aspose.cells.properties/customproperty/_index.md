@@ -1,5 +1,5 @@
 ---
-title: CustomProperty الدرجة
+title: CustomProperty صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,27 +7,27 @@ weight: 50
 url: /ar/aspose.cells.properties/customproperty/
 is_root: false
 ---
-##  CustomProperty الدرجة
-يمثل معلومات المعرف.
+##  CustomProperty صف
+يمثل معلومات التعريف.
 
 
 
-يكشف نوع CustomProperty الأعضاء التالية:
+يكشف النوع CustomProperty عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/ar/aspose.cells.properties/customproperty/__init__/#) | إنشاء مثيل جديد من CustomProperty|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.properties/customproperty/__init__/#) | إنشاء مثيل جديد لـ CustomProperty|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.properties/customproperty/name) | يرجع أو يحدد اسم الكائن.|
+| [name](/cells/python-net/ar/aspose.cells.properties/customproperty/name) | إرجاع أو تعيين اسم الكائن.|
 | [string_value](/cells/python-net/ar/aspose.cells.properties/customproperty/string_value) | إرجاع أو تعيين قيمة الخاصية المخصصة.|
 | [value](/cells/python-net/ar/aspose.cells.properties/customproperty/value) | إرجاع أو تعيين قيمة الخاصية المخصصة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](..)
+* الوحدة [`aspose.cells.properties`](..)

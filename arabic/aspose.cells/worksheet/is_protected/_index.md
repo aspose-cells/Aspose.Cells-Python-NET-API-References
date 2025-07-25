@@ -3,7 +3,7 @@ title: is_protected عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 590
+weight: 620
 url: /ar/aspose.cells/worksheet/is_protected/
 is_root: false
 ---

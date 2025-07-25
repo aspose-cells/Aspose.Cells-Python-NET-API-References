@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  size propiedad
 
-Número de filas o columnas en una sola banda de fraccionamiento.
-Solo se aplica cuando el tipo es firstRowStripe, secondRowStripe, firstColumnStripe o secondColumnStripe.
+Número de filas o columnas en una sola banda de rayas.
+Se aplica solo cuando el tipo es firstRowStripe, secondRowStripe, firstColumnStripe o secondColumnStripe.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [TableStyleElement](/cells/python-net/es/aspose.cells.tables/tablestyleelement)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`TableStyleElement`](/cells/python-net/es/aspose.cells.tables/tablestyleelement)

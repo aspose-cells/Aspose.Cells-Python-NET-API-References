@@ -3,7 +3,7 @@ title: selected_cells属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 930
 url: /zh/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---

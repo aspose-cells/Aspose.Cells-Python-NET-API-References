@@ -1,5 +1,5 @@
 ---
-title: convert_date_time_data الملكية
+title: convert_date_time_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/abstracttextloadoptions/convert_date_time_data/
 is_root: false
 ---
-##  convert_date_time_data الملكية
+##  convert_date_time_data عقار
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت السلسلة في ملف نصي قد تم تحويلها إلى بيانات التاريخ.
+يحصل على قيمة أو يعينها تشير إلى ما إذا كان يتم تحويل السلسلة في ملف النص إلى بيانات تاريخ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_date_time_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AbstractTextLoadOptions](/cells/python-net/ar/aspose.cells/abstracttextloadoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AbstractTextLoadOptions`](/cells/python-net/ar/aspose.cells/abstracttextloadoptions)

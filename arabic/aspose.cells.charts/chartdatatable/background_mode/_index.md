@@ -1,15 +1,15 @@
 ---
-title: background_mode الملكية
+title: background_mode عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 40
 url: /ar/aspose.cells.charts/chartdatatable/background_mode/
 is_root: false
 ---
-##  background_mode الملكية
+##  background_mode عقار
 
-الحصول على وضبط وضع عرض الخلفية
+يحصل على وضع عرض الخلفية ويحدده
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [BackgroundMode](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
-* فئة [ChartDataTable](/cells/python-net/ar/aspose.cells.charts/chartdatatable)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`BackgroundMode`](/cells/python-net/ar/aspose.cells.charts/backgroundmode)
+* فئة [`ChartDataTable`](/cells/python-net/ar/aspose.cells.charts/chartdatatable)

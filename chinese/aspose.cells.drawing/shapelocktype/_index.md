@@ -1,9 +1,9 @@
 ---
 title: ShapeLockType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /zh/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
@@ -12,10 +12,10 @@ is_root: false
 
 
 
-ShapeLockType 类型公开了以下成员：
+ShapeLockType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | GROUP |团体|
 | ADJUST_HANDLES |调整手柄|
@@ -24,9 +24,9 @@ ShapeLockType 类型公开了以下成员：
 | CROP |庄稼|
 | SELECTION |选择|
 | MOVE |移动|
-| ASPECT_RATIO |纵横比|
-| ROTATION |回转|
-| UNGROUP |解组|
+| ASPECT_RATIO |长宽比|
+| ROTATION |旋转|
+| UNGROUP |取消组合|
 | RESIZE |调整大小|
 | SHAPE_TYPE |形状类型|
 | ARROWHEAD |箭头|
@@ -34,4 +34,4 @@ ShapeLockType 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

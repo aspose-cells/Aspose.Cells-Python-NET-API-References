@@ -7,16 +7,17 @@ weight: 80
 url: /sv/aspose.cells/cells/check_row/
 is_root: false
 ---
-##  check_row {#int}
-Hämtar elementet [`Row`](/cells/python-net/sv/aspose.cells/row) eller null vid det angivna cellradsindexet.
+##  check_row(self, row) {#int}
+Hämtar elementet [`Row`](/cells/python-net/sv/aspose.cells/row) eller null-värdet vid det angivna cellradindexet.
 
 
 ###  Returnerar
 
-Returnerar [`Row`](/cells/python-net/sv/aspose.cells/row) objekt Om radobjektet finns, annars returnerar null.
+Returnerar [`Row`](/cells/python-net/sv/aspose.cells/row)-objektet Om radobjektet existerar, annars returneras null.
 
 
 ```python
+
 def check_row(self, row):
     ...
 ```

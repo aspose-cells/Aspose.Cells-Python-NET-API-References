@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_word_wrapped mülk
 
-Denetimin içeriğinin otomatik olarak bir satırın sonuna kaydırılıp kaydırılmayacağını gösterir.
+Denetimin içeriğinin satır sonunda otomatik olarak sarılıp sarılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_word_wrapped(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

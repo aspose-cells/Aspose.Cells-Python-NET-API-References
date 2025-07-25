@@ -17,10 +17,10 @@ Typen RevisionLog avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [metadata_table](/cells/python-net/sv/aspose.cells.revisions/revisionlog/metadata_table) | Hämtar tabell som innehåller metadata om en lista över specifika ändringar som har skett<br/> för denna arbetsbok.|
-| [revisions](/cells/python-net/sv/aspose.cells.revisions/revisionlog/revisions) | Hämtar alla revisioner i denna logg.|
+| [metadata_table](/cells/python-net/sv/aspose.cells.revisions/revisionlog/metadata_table) | Hämtar tabell som innehåller metadata om en lista över specifika ändringar som har skett<br/> för den här arbetsboken.|
+| [revisions](/cells/python-net/sv/aspose.cells.revisions/revisionlog/revisions) | Hämtar alla revisioner i den här loggen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.revisions](..)
+* modul [`aspose.cells.revisions`](..)

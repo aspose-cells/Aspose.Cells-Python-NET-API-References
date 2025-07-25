@@ -3,13 +3,17 @@ title: memory_setting mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 290
 url: /tr/aspose.cells/txtloadoptions/memory_setting/
 is_root: false
 ---
 ##  memory_setting mülk
 
-Bellek kullanım seçeneklerini alır veya ayarlar.
+Yüklenen çalışma kitabı için bellek modunu alır veya ayarlar.
+
+###  Notlar
+
+Bellek modu hakkında daha detaylı bilgi için lütfen [`Cells.memory_setting`](/cells/python-net/tr/aspose.cells/cells#memory_setting)'e bakınız.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_type Eigentum
 
-Ruft den Verlaufsfüllungstyp ab.
+Ruft den Fülltyp mit Farbverlauf ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def fill_type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [GradientFill](/cells/python-net/de/aspose.cells.drawing/gradientfill)
-* Klasse [GradientFillType](/cells/python-net/de/aspose.cells.drawing/gradientfilltype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`GradientFill`](/cells/python-net/de/aspose.cells.drawing/gradientfill)
+* Klasse [`GradientFillType`](/cells/python-net/de/aspose.cells.drawing/gradientfilltype)

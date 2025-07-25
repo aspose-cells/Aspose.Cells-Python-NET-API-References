@@ -1,9 +1,9 @@
 ---
 title: is_error_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 570
+weight: 600
 url: /it/aspose.cells/cell/is_error_value/
 is_root: false
 ---

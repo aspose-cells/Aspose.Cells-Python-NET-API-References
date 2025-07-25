@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_color1 propiedad
 
-Devuelve el color de degradado 1 para el relleno especificado.
+Devuelve el color degradado 1 para el relleno especificado.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def gradient_color1(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [FillFormat](/cells/python-net/es/aspose.cells.drawing/fillformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`FillFormat`](/cells/python-net/es/aspose.cells.drawing/fillformat)

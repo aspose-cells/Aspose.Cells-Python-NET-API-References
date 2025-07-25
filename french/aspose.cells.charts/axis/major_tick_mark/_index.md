@@ -3,13 +3,13 @@ title: major_tick_mark propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 290
+weight: 300
 url: /fr/aspose.cells.charts/axis/major_tick_mark/
 is_root: false
 ---
 ##  major_tick_mark propriété
 
-Représente le type de graduation principale pour l’axe spécifié.
+Représente le type de graduation principale pour l'axe spécifié.
 ###  Définition:
 ```python
 @property

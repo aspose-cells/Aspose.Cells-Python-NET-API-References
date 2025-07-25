@@ -1,16 +1,16 @@
 ---
 title: is_ie_compatible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 510
+weight: 590
 url: /ru/aspose.cells.saving/ebooksaveoptions/is_ie_compatible/
 is_root: false
 ---
 ##  is_ie_compatible недвижимость
 
 Указывает, совместим ли вывод HTML с браузером IE.
-Значение по умолчанию неверно
+Значение по умолчанию — false
 ###  Определение:
 ```python
 @property

@@ -21,6 +21,6 @@ def formatting(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [FormattingType](/cells/python-net/sv/aspose.cells.charts/formattingtype)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`FormattingType`](/cells/python-net/sv/aspose.cells.charts/formattingtype)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

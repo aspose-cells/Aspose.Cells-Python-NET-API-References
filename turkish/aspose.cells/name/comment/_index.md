@@ -10,7 +10,7 @@ is_root: false
 ##  comment mülk
 
 Adın comment'ini alır ve ayarlar.
-Yalnızca Excel 2007 veya üzeri sürümler için geçerlidir.
+Sadece Excel 2007 ve üzeri versiyonlar için geçerlidir.
 ###  Tanım:
 ```python
 @property

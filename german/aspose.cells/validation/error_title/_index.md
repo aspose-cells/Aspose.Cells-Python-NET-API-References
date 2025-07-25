@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  error_title Eigentum
 
-Stellt den Titel des Dialogfelds „Datenvalidierungsfehler“ dar.
+Stellt den Titel des Dialogfelds mit dem Datenvalidierungsfehler dar.
 ###  Definition:
 ```python
 @property

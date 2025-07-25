@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_px mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra piksel birimlerinde yukarıdan aşağıya yüksekliği alır.
+Chart.Calculate() metodunu çağırdıktan sonra piksel cinsinden yukarıdan aşağıya yüksekliğini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def height_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

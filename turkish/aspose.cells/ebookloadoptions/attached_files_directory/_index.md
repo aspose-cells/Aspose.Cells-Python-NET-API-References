@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  attached_files_directory mülk
 
-Ekli dosyaların kaydedileceği dizin.
+Eklenen dosyaların kaydedileceği dizin.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen HtmlLoadOptions.StreamProvider özelliğini kullanın.
- Bu mülk, Aralık 2014'ten bu yana 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen HtmlLoadOptions.StreamProvider özelliğini kullanın.
+ Bu özellik Aralık 2014'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

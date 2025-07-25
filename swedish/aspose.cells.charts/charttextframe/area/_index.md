@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area fastighet
 
-Får [ChartFrame.area](/cells/python-net/sv/aspose.cells.charts/chartframe#area).
+Hämtar [`ChartFrame.area`](/cells/python-net/sv/aspose.cells.charts/chartframe#area).
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Area](/cells/python-net/sv/aspose.cells.drawing/area)
-* klass [ChartTextFrame](/cells/python-net/sv/aspose.cells.charts/charttextframe)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)
+* klass [`ChartTextFrame`](/cells/python-net/sv/aspose.cells.charts/charttextframe)

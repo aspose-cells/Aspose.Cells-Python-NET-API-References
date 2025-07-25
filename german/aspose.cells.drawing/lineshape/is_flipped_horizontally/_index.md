@@ -3,13 +3,13 @@ title: is_flipped_horizontally Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 610
+weight: 620
 url: /de/aspose.cells.drawing/lineshape/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally Eigentum
 
-Ruft ab und legt fest, ob die Form horizontal gespiegelt wird.
+Ruft ab und legt fest, ob die Form horizontal gespiegelt ist.
 
 ###  Beispiel
 

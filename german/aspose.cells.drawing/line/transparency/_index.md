@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency Eigentum
 
-Gibt den Grad von transparency der Linie als Wert von 0,0 (undurchsichtig) bis 1,0 (klar) zurück oder legt ihn fest.
+Gibt den Grad von transparency der Linie als Wert zwischen 0,0 (undurchsichtig) und 1,0 (klar) zurück oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)

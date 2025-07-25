@@ -1,13 +1,13 @@
 ---
-title: x 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: x属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/shapepathpoint/x/
 is_root: false
 ---
-## x 属性
+## x属性
 
 获取并设置此位置坐标的 x 坐标。
 ### 定义：
@@ -21,5 +21,5 @@ def x(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapePathPoint](/cells/python-net/zh/aspose.cells.drawing/shapepathpoint)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapePathPoint`](/cells/python-net/zh/aspose.cells.drawing/shapepathpoint)

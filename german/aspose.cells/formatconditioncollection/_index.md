@@ -3,12 +3,12 @@ title: FormatConditionCollection Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 730
+weight: 710
 url: /de/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection Klasse
-Stellt bedingte Formatierung dar.
+Stellt eine bedingte Formatierung dar.
 Die FormatConditions können bis zu drei bedingte Formate enthalten.
 
 
@@ -27,20 +27,20 @@ Ruft die Formatierungsbedingung nach Index ab.
 ###  Indexer
 | Name| Beschreibung|
 | :- | :- |
-| [index] |Der Index der zurückzugebenden Formatierungsbedingung.|
+| [index] | der Index der zurückzugebenden Formatierungsbedingung.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [add_condition](/cells/python-net/de/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Fügt eine Formatierungsbedingung hinzu.|
-| [add_condition](/cells/python-net/de/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Fügen Sie eine Formatbedingung hinzu.|
-| [remove_area](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_area/#int) | Entfernt bedingt formatierte Zellbereiche nach Index.|
-| [remove_area](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Entfernen Sie die bedingte Formatierung im Bereich.|
-| [add](/cells/python-net/de/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Fügt den FormatConditions eine Formatierungsbedingung und einen betroffenen Zellbereich hinzu<br/>Die FormatConditions können bis zu drei bedingte Formate enthalten.<br/> Verweise auf die anderen Blätter sind in den Formeln der bedingten Formatierung nicht zulässig.|
-| [add_area](/cells/python-net/de/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Fügt einen bedingt formatierten Zellbereich hinzu.|
-| [get_cell_area](/cells/python-net/de/aspose.cells/formatconditioncollection/get_cell_area/#int) | Ruft den bedingt formatierten Zellbereich nach Index ab.|
-| [remove_condition](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_condition/#int) | Entfernt die Formatierungsbedingung nach Index.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/de/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Fügt eine Formatierungsbedingung hinzu.|
+| [`add_condition(self, type)`](/cells/python-net/de/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Fügen Sie eine Formatbedingung hinzu.|
+| [`remove_area(self, index)`](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_area/#int) | Entfernt bedingt formatierte Zellbereiche nach Index.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Entfernen Sie die bedingte Formatierung im Bereich.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/de/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |Fügt den FormatConditions eine Formatierungsbedingung und den betroffenen Zellbereich hinzu<br/>Die FormatConditions können bis zu drei bedingte Formate enthalten.<br/> Verweise auf andere Blätter sind in den Formeln der bedingten Formatierung nicht zulässig.|
+| [`add_area(self, cell_area)`](/cells/python-net/de/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Fügt einen bedingt formatierten Zellbereich hinzu.|
+| [`get_cell_area(self, index)`](/cells/python-net/de/aspose.cells/formatconditioncollection/get_cell_area/#int) | Ruft den bedingt formatierten Zellbereich nach Index ab.|
+| [`remove_condition(self, index)`](/cells/python-net/de/aspose.cells/formatconditioncollection/remove_condition/#int) | Entfernt die Formatierungsbedingung nach Index.|
 
 
 

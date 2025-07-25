@@ -1,18 +1,19 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
-##  add(filter) {#str}
+##  add(self, filter) {#str}
 添加字符串过滤器。
 
 
 
 ```python
+
 def add(self, filter):
     ...
 ```
@@ -25,5 +26,5 @@ def add(self, filter):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [MultipleFilterCollection](/cells/python-net/zh/aspose.cells/multiplefiltercollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`MultipleFilterCollection`](/cells/python-net/zh/aspose.cells/multiplefiltercollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end Eigentum
 
-Ruft das Datum und die Uhrzeit end der Gruppe ab.
+Ruft das Datum und die Uhrzeit der Gruppe (end) ab.
 ###  Definition:
 ```python
 @property

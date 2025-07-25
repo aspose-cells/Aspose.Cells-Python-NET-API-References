@@ -1,13 +1,13 @@
 ---
-title: has_headers الملكية
+title: has_headers عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/datasorter/has_headers/
 is_root: false
 ---
-##  has_headers الملكية
+##  has_headers عقار
 
 يمثل ما إذا كان النطاق يحتوي على رؤوس.
 ###  تعريف:
@@ -21,5 +21,5 @@ def has_headers(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataSorter](/cells/python-net/ar/aspose.cells/datasorter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataSorter`](/cells/python-net/ar/aspose.cells/datasorter)

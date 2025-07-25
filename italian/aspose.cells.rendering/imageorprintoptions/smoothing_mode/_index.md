@@ -1,6 +1,6 @@
 ---
 title: smoothing_mode proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 310
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  smoothing_mode proprietà
 
-Specifica se lo smussamento (antialias) viene applicato alle linee, alle curve e ai bordi delle aree riempite.
+Specifica se applicare l'effetto smoothing (antialiasing) alle linee, alle curve e ai bordi delle aree riempite.
 Il valore predefinito è SmoothingMode.None
 ###  Definizione:
 ```python

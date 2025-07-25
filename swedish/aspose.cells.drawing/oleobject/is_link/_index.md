@@ -3,7 +3,7 @@ title: is_link fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 730
 url: /sv/aspose.cells.drawing/oleobject/is_link/
 is_root: false
 ---

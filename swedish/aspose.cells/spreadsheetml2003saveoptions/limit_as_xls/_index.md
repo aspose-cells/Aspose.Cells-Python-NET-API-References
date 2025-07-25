@@ -3,7 +3,7 @@ title: limit_as_xls fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 80
+weight: 100
 url: /sv/aspose.cells/spreadsheetml2003saveoptions/limit_as_xls/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def limit_as_xls(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [SpreadsheetML2003SaveOptions](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`SpreadsheetML2003SaveOptions`](/cells/python-net/sv/aspose.cells/spreadsheetml2003saveoptions)

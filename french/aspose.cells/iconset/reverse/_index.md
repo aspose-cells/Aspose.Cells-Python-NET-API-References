@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  reverse propriété
 
-Obtenez ou définissez l'indicateur indiquant s'il faut inverser l'ordre par défaut des icônes dans ce jeu d'icônes.
-La valeur par défaut est false.
+Obtenez ou définissez l'indicateur indiquant s'il faut inverser l'ordre par défaut des icônes dans cet ensemble d'icônes.
+La valeur par défaut est faux.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/fr/aspose.cells/iconset)
+* module [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/fr/aspose.cells/iconset)

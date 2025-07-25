@@ -7,8 +7,8 @@ weight: 30
 url: /ar/aspose.cells/cellshelper/cell_index_to_name/
 is_root: false
 ---
-##  cell_index_to_name(row, column) {#int-int}
-الحصول على اسم الخلية وفقًا لفهارس الصفوف والأعمدة.
+##  cell_index_to_name(, صف، عمود){#int-int}
+يحصل على اسم الخلية وفقًا لمؤشرات الصفوف والأعمدة الخاصة بها.
 
 
 ###  عائدات
@@ -17,18 +17,20 @@ is_root: false
 
 
 ```python
-def cell_index_to_name(self, row, column):
+
+@staticmethod
+def cell_index_to_name(row, column):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)

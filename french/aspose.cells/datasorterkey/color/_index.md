@@ -13,7 +13,7 @@ Obtient le color trié.
 
 ###  Remarques
 
-N'a d'effet que lorsque [SortOnType](/cells/python-net/fr/aspose.cells/sortontype) est SortOnType.CellColor ou SortOnType.FontColor.
+Ne prend effet que lorsque [`DataSorterKey.type`](/cells/python-net/fr/aspose.cells/datasorterkey#type) est [`SortOnType.CELL_COLOR`](/cells/python-net/fr/aspose.cells/sortontype#CELL_COLOR) ou [`SortOnType.FONT_COLOR`](/cells/python-net/fr/aspose.cells/sortontype#FONT_COLOR).
 ###  Définition:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataSorterKey](/cells/python-net/fr/aspose.cells/datasorterkey)
-* classe [SortOnType](/cells/python-net/fr/aspose.cells/sortontype)
+* module [`aspose.cells`](../../)
+* classe [`DataSorterKey`](/cells/python-net/fr/aspose.cells/datasorterkey)

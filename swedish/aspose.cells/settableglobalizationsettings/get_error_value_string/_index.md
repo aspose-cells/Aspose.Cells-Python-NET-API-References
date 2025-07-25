@@ -7,16 +7,17 @@ weight: 100
 url: /sv/aspose.cells/settableglobalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
+##  get_error_value_string(self, err) {#str}
 Hämtar visningssträngvärdet för cellens felvärde
 
 
 ###  Returnerar
 
-Som standard returnerar själva felvärdet
+Som standard returnerar felvärdet självt
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| err | str | felvärden som #VÄRDE!,#NAMN?|
+| err | str |felvärden som #VÄRDE!,#NAMN?|
 
 
 

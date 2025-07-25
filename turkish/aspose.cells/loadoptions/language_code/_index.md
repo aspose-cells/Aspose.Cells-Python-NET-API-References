@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  language_code mülk
 
-Dosyayı kaydeden CountryCode'a dayalı olarak Çalışma Kitabı sürümünün kullanıcı arabirimi dilini alır veya ayarlar.
+Dosyayı kaydeden CountryCode'a bağlı olarak Çalışma Kitabı sürümünün kullanıcı arayüzü dilini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def language_code(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CountryCode](/cells/python-net/tr/aspose.cells/countrycode)
-* sınıf [LoadOptions](/cells/python-net/tr/aspose.cells/loadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CountryCode`](/cells/python-net/tr/aspose.cells/countrycode)
+* sınıf [`LoadOptions`](/cells/python-net/tr/aspose.cells/loadoptions)

@@ -3,13 +3,11 @@ title: sort_external_names fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 300
 url: /sv/aspose.cells/xpssaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names fastighet
-
-Anger om externt definierade namn sorteras innan filen sparas.
 ###  Definition:
 ```python
 @property

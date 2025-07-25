@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font Eigentum
 
-Gibt ein [`TickLabels.font`](/cells/python-net/de/aspose.cells.charts/ticklabels#font)-Objekt zurück, das die font des angegebenen TickLabels-Objekts darstellt.
+Gibt ein [`TickLabels.font`](/cells/python-net/de/aspose.cells.charts/ticklabels#font)-Objekt zurück, das font des angegebenen TickLabels-Objekts darstellt.
 ###  Definition:
 ```python
 @property

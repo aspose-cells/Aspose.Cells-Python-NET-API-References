@@ -3,7 +3,7 @@ title: is_html_tables fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 140
+weight: 190
 url: /sv/aspose.cells.externalconnections/webqueryconnection/is_html_tables/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_html_tables(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [WebQueryConnection](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`WebQueryConnection`](/cells/python-net/sv/aspose.cells.externalconnections/webqueryconnection)

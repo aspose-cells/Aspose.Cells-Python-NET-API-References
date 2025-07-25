@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_name fastighet
 
-Hämtar seriens namn som visas på diagrammet.
+Hämtar seriens namn som visas i diagrammet.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_values propiedad
 
-El valor predeterminado para el valor de la tabla es nulo.
+El valor predeterminado para el valor en la tabla es nulo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_values(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ImportTableOptions](/cells/python-net/es/aspose.cells/importtableoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`ImportTableOptions`](/cells/python-net/es/aspose.cells/importtableoptions)

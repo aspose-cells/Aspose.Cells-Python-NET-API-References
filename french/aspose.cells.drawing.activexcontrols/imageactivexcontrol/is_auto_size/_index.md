@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_size propriété
 
-Indique si le contrôle se redimensionne automatiquement pour afficher tout son contenu.
+Indique si le contrôle sera automatiquement redimensionné pour afficher l'intégralité de son contenu.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ImageActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ImageActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

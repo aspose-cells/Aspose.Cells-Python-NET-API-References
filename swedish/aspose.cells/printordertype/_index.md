@@ -3,12 +3,12 @@ title: PrintOrderType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2480
+weight: 2450
 url: /sv/aspose.cells/printordertype/
 is_root: false
 ---
 ##  PrintOrderType uppräkning
-Representerar utskriftsorderkonstanter.
+Representerar utskriftsordningskonstanter.
 
 
 

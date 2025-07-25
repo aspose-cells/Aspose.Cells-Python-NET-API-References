@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_row_below propiedad
 
-Indica si la fila de resumen se colocará debajo de las filas de detalle en el esquema.
+Indica si la fila de resumen se posicionará debajo de las filas de detalle en el esquema.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Outline](/cells/python-net/es/aspose.cells/outline)
+* módulo [`aspose.cells`](../../)
+* clase [`Outline`](/cells/python-net/es/aspose.cells/outline)

@@ -3,17 +3,18 @@ title: to_image yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 140
 url: /tr/aspose.cells.charts/chart/to_image/
 is_root: false
 ---
-##  to_image(image_file) {#str}
+##  to_image(self, image_file) {#str}
 Grafik görüntüsünü oluşturur ve bir dosyaya kaydeder.
-Dosya adının uzantısı görüntünün biçimini belirler.
+Dosya adının uzantısı, görüntünün formatını belirler.
 
 
 
 ```python
+
 def to_image(self, image_file):
     ...
 ```
@@ -21,23 +22,24 @@ def to_image(self, image_file):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| image_file | str | Tam yol ile görüntü dosyası adı.|
+| image_file | str | Tam yolu ile görüntü dosyasının adı.|
 ###  Notlar
 
-Resmin biçimi, dosya adının uzantısı kullanılarak belirtilir.
-Örneğin, "dosyam.png" belirtirseniz, resim kaydedilir.
+Görüntünün biçimi dosya adının uzantısı kullanılarak belirtilir.
+Örneğin, "myfile.png" belirtirseniz, görüntü kaydedilecektir
  PNG biçiminde. Aşağıdaki dosya uzantıları tanınır:
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
 
-##  to_image(image_file, image_type) {#str-aspose.cells.drawing.ImageType}
-Grafik görüntüsünü oluşturur ve belirtilen görüntü tipinde bir dosyaya kaydeder.
+##  to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
+Grafik görüntüsünü oluşturur ve belirtilen görüntü türündeki bir dosyaya kaydeder.
 
 
 
 ```python
+
 def to_image(self, image_file, image_type):
     ...
 ```
@@ -45,23 +47,24 @@ def to_image(self, image_file, image_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| image_file | str | Tam yol ile görüntü dosyası adı.|
+| image_file | str | Tam yolu ile görüntü dosyasının adı.|
 | image_type | aspose.cells.drawing.ImageType | Görüntünün kaydedileceği görüntü türü.|
 ###  Notlar
 
 Görüntünün türü `imageType` kullanılarak belirtilir.
- Aşağıdaki türler desteklenir:
+ Aşağıdaki türler desteklenmektedir:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
 
-##  to_image(image_file, jpeg_quality) {#str-int}
-Grafik görüntüsünü oluşturur ve onu Jpeg formatında bir dosyaya kaydeder.
+##  to_image(self, image_file, jpeg_quality) {#str-int}
+Grafik görüntüsünü oluşturur ve Jpeg formatında bir dosyaya kaydeder.
 
 
 
 ```python
+
 def to_image(self, image_file, jpeg_quality):
     ...
 ```
@@ -69,19 +72,23 @@ def to_image(self, image_file, jpeg_quality):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| image_file | str | Tam yol ile görüntü dosyası adı.|
-| jpeg_quality | int | JPEG kalitesi.|
+| image_file | str | Tam yolu ile görüntü dosyasının adı.|
+| jpeg_quality | int | Jpeg kalitesi.|
 ###  Notlar
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
+ NOT: Bu yöntem artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen belirtilen kalitede ToImage(string,ImageOrPrintOptions) metodunu kullanın.
+ Bu yöntem 12 ay sonra, Mart 2025'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
-##  to_image(stream, jpeg_quality) {#io.RawIOBase-int}
-
-Grafik görüntüsünü oluşturur ve onu Jpeg biçiminde bir akışa kaydeder.
+##  to_image(self, stream, jpeg_quality) {#io.RawIOBase-int}
+Grafik görüntüsünü oluşturur ve Jpeg formatında bir akışa kaydeder.
 
 
 
 ```python
+
 def to_image(self, stream, jpeg_quality):
     ...
 ```
@@ -90,18 +97,19 @@ def to_image(self, stream, jpeg_quality):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | stream | io.RawIOBase | Çıkış akışı.|
-| jpeg_quality | int | JPEG kalitesi.|
+| jpeg_quality | int | Jpeg kalitesi.|
 ###  Notlar
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
 
-##  to_image(stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
+##  to_image(self, stream, image_type) {#io.RawIOBase-aspose.cells.drawing.ImageType}
 
-Grafik görüntüsünü oluşturur ve belirtilen biçimde bir akışa kaydeder.
+Grafik görüntüsünü oluşturur ve belirtilen formatta bir akışa kaydeder.
 
 
 
 ```python
+
 def to_image(self, stream, image_type):
     ...
 ```
@@ -114,19 +122,20 @@ def to_image(self, stream, image_type):
 ###  Notlar
 
 Görüntünün türü `imageType` kullanılarak belirtilir.
- Aşağıdaki türler desteklenir:
+ Aşağıdaki türler desteklenmektedir:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
 
-##  to_image(image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Grafik görüntüsünü oluşturur ve bir dosyaya kaydeder.
-Dosya adının uzantısı görüntünün biçimini belirler.
+Dosya adının uzantısı, görüntünün formatını belirler.
 
 
 
 ```python
+
 def to_image(self, image_file, options):
     ...
 ```
@@ -134,18 +143,18 @@ def to_image(self, image_file, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| image_file | str | Tam yol ile görüntü dosyası adı.|
+| image_file | str | Tam yolu ile görüntü dosyasının adı.|
 | options | aspose.cells.rendering.ImageOrPrintOptions | Ek görüntü oluşturma seçenekleri|
 ###  Notlar
 
-Resmin biçimi, dosya adının uzantısı kullanılarak belirtilir.
-Örneğin, "dosyam.png" belirtirseniz, resim kaydedilir.
+Görüntünün biçimi dosya adının uzantısı kullanılarak belirtilir.
+Örneğin, "myfile.png" belirtirseniz, görüntü kaydedilecektir
  PNG biçiminde. Aşağıdaki dosya uzantıları tanınır:
 .bmp, .gif, .png, .jpg, .jpeg, .tiff, .tif, .emf.
 
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
- Bakınız[Desteklenen Grafikler Listesi](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)daha fazla ayrıntı için.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
+ Lütfen bakınız[Desteklenen Grafikler Listesi](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) Daha fazla bilgi için.
 ###  Örnek
 
 300 dpi ve CCITT4 sıkıştırma ile Tiff'e kaydeder.
@@ -164,7 +173,7 @@ book.worksheets[0].charts[0].to_image(r"chart.Tiff", options)
 ```
 
 
-300 dpi ve 80 görüntü kalitesinde Jpeg olarak kaydeder.
+300 dpi ve 80 görüntü kalitesiyle Jpeg'e kaydeder.
 
 ```python
 from aspose.cells import Workbook
@@ -180,12 +189,13 @@ book.worksheets[0].charts[0].to_image(r"chart.Jpeg", options)
 ```
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-Grafik görüntüsünü oluşturur ve belirtilen biçimde bir akışa kaydeder.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+Grafik görüntüsünü oluşturur ve belirtilen formatta bir akışa kaydeder.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -198,14 +208,14 @@ def to_image(self, stream, options):
 ###  Notlar
 
 Görüntünün türü `options.ImageType` kullanılarak belirtilir.
- Aşağıdaki biçimler desteklenir:
+ Aşağıdaki formatlar desteklenmektedir:
 ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, ImageType.Emf.
 
 
-Genişlik veya yükseklik sıfırsa veya tablo Desteklenen Haritalar Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir şey yapmaz.
- Bakınız[Desteklenen Grafikler Listesi](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html)daha fazla ayrıntı için.
+Genişlik veya yükseklik sıfır ise veya grafik Desteklenen Grafikler Listesi'ne göre desteklenmiyorsa, bu yöntem hiçbir işe yaramayacaktır.
+ Lütfen bakınız[Desteklenen Grafikler Listesi](http://www.aspose.com/documentation/.net-components/aspose.cells-for-.net/converting-chart-to-image.html) Daha fazla bilgi için.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

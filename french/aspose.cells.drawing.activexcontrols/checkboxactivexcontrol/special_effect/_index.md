@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* classe [ControlSpecialEffectType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* classe [`ControlSpecialEffectType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)

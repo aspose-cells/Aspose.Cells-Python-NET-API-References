@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name fastighet
 
-Returnerar eller ställer in name för den angivna skivaren
+Returnerar eller anger name för den angivna utsnittaren
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

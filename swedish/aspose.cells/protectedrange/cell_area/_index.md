@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area fastighet
 
-Hämtar objektet [ProtectedRange.cell_area](/cells/python-net/sv/aspose.cells/protectedrange#cell_area) representerar cellområdet som ska skyddas.
+Hämtar objektet [`ProtectedRange.cell_area`](/cells/python-net/sv/aspose.cells/protectedrange#cell_area) som representerar cellområdet som ska skyddas.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
-* klass [ProtectedRange](/cells/python-net/sv/aspose.cells/protectedrange)
+* modul [`aspose.cells`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)
+* klass [`ProtectedRange`](/cells/python-net/sv/aspose.cells/protectedrange)

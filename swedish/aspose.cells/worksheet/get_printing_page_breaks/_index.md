@@ -3,20 +3,21 @@ title: get_printing_page_breaks metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 180
 url: /sv/aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---
-##  get_printing_page_breaks {#aspose.cells.rendering.ImageOrPrintOptions}
-Får automatiska sidbrytningar.
+##  get_printing_page_breaks(self, options) {#aspose.cells.rendering.ImageOrPrintOptions}
+Hämtar automatiska sidbrytningar.
 
 
 ###  Returnerar
 
-Områden för automatiska sidbrytningar.
+Områdena för automatiska sidbrytningar.
 
 
 ```python
+
 def get_printing_page_breaks(self, options):
     ...
 ```

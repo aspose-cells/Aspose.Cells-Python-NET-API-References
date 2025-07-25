@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_count propiedad
 
-Obtiene el recuento total de páginas de la hoja de trabajo actual.
+Obtiene el recuento total de páginas de la hoja de cálculo actual.
 ###  Definición:
 ```python
 @property

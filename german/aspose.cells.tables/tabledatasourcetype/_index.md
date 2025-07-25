@@ -8,7 +8,7 @@ url: /de/aspose.cells.tables/tabledatasourcetype/
 is_root: false
 ---
 ##  TableDataSourceType Aufzählung
-Repräsentiert den Datenquellentyp der Tabelle.
+Stellt den Datenquellentyp der Tabelle dar.
 
 
 
@@ -17,12 +17,12 @@ Der Typ TableDataSourceType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| WORKSHEET | Excel-Arbeitsblatt-Tabelle|
-| SHARE_POINT | Verknüpfte SharePoint-Liste mit Lese- und Schreibzugriff|
+| WORKSHEET | Excel-Arbeitsblatttabelle|
+| SHARE_POINT | Lese-/Schreibzugriff auf verknüpfte SharePoint-Liste|
 | XML | XML-Mapper-Tabelle|
 | QUERY_TABLE | Abfragetabelle|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](..)
+* Modul [`aspose.cells.tables`](..)

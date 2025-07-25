@@ -1,6 +1,6 @@
 ---
 title: Area класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип Area предоставляет следующие члены:
+Тип Area предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [background_color](/cells/python-net/ru/aspose.cells.drawing/area/background_color) | Получает или задает цвет фона объекта [Area](/cells/python-net/ru/aspose.cells.drawing/area).|
+| [background_color](/cells/python-net/ru/aspose.cells.drawing/area/background_color) | Получает или задает цвет фона для [`Area`](/cells/python-net/ru/aspose.cells.drawing/area).|
 | [foreground_color](/cells/python-net/ru/aspose.cells.drawing/area/foreground_color) | Получает или задает цвет переднего плана.|
 | [formatting](/cells/python-net/ru/aspose.cells.drawing/area/formatting) | Представляет форматирование области.|
-| [invert_if_negative](/cells/python-net/ru/aspose.cells.drawing/area/invert_if_negative) | Если свойство истинно и значение точки диаграммы является отрицательным числом,<br/> цвет переднего плана и цвет фона будут заменены.|
-| [fill_format](/cells/python-net/ru/aspose.cells.drawing/area/fill_format) | Представляет объект [Area.fill_format](/cells/python-net/ru/aspose.cells.drawing/area#fill_format), содержащий свойства форматирования заливки для указанной диаграммы или фигуры.|
-| [transparency](/cells/python-net/ru/aspose.cells.drawing/area/transparency) | Возвращает или задает степень прозрачности области в виде значения от 0,0 (непрозрачная) до 1,0 (прозрачная).|
+| [invert_if_negative](/cells/python-net/ru/aspose.cells.drawing/area/invert_if_negative) | Если свойство истинно и значение точки диаграммы — отрицательное число,<br/> цвет переднего плана и цвет фона поменяются местами.|
+| [fill_format](/cells/python-net/ru/aspose.cells.drawing/area/fill_format) | Представляет объект [`Area.fill_format`](/cells/python-net/ru/aspose.cells.drawing/area#fill_format), содержащий свойства форматирования заливки для указанной диаграммы или фигуры.|
+| [transparency](/cells/python-net/ru/aspose.cells.drawing/area/transparency) |Возвращает или задает степень прозрачности области как значение от 0,0 (непрозрачная) до 1,0 (прозрачная).|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
-* класс [Area](/cells/python-net/ru/aspose.cells.drawing/area)
+* модуль [`aspose.cells.drawing`](..)
+* класс [`Area`](/cells/python-net/ru/aspose.cells.drawing/area)

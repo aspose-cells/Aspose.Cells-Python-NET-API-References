@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells.tables/tablestylecollection/add_table_style/
 is_root: false
 ---
-##  add_table_style(name) {#str}
+##  add_table_style(self, name) {#str}
 Fügt einen benutzerdefinierten Tabellenstil hinzu.
 
 
@@ -17,6 +17,7 @@ Der Index des Tabellenstils.
 
 
 ```python
+
 def add_table_style(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add_table_style(self, name):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableStyleCollection](/cells/python-net/de/aspose.cells.tables/tablestylecollection)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableStyleCollection`](/cells/python-net/de/aspose.cells.tables/tablestylecollection)

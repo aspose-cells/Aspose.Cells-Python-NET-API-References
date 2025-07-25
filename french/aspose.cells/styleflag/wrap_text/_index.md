@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  wrap_text propriété
 
-Le paramètre de texte d'habillage sera appliqué.
+Le paramètre d'habillage du texte sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def wrap_text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

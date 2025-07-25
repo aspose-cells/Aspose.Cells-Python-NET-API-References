@@ -8,7 +8,7 @@ url: /es/aspose.cells.slides/adjustfontsizeforrowtype/
 is_root: false
 ---
 ##  AdjustFontSizeForRowType enumeración
-Representa qué tipo de filas se deben ajustar.
+Representa qué tipo de filas deben ajustarse.
 
 
 
@@ -17,7 +17,7 @@ El tipo AdjustFontSizeForRowType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| NONE | Sin ajuste.|
+| NONE | Sin ajustes.|
 | EMPTY_ROWS | Si la fila está vacía, cambie el tamaño de fuente para que se ajuste a la altura de la fila.|
 
 

@@ -3,7 +3,7 @@ title: standard_height_pixels propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1260
+weight: 1290
 url: /fr/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---

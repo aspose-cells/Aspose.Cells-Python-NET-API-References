@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom Eigentum
 
-Ruft den bottom-Offset zum Strecken des Bilds ab oder legt ihn fest.
+Ruft den Offset bottom zum Strecken des Bildes ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PicFormatOption](/cells/python-net/de/aspose.cells.drawing/picformatoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PicFormatOption`](/cells/python-net/de/aspose.cells.drawing/picformatoption)

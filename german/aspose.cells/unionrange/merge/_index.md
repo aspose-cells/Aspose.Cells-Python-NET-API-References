@@ -3,16 +3,17 @@ title: merge Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 50
 url: /de/aspose.cells/unionrange/merge/
 is_root: false
 ---
-##  merge() {#}
-Kombiniert eine Reihe von Zellen zu einer einzigen Zelle.
+##  merge(self) {#}
+Kombiniert einen Zellbereich zu einer einzigen Zelle.
 
 
 
 ```python
+
 def merge(self):
     ...
 ```
@@ -20,10 +21,10 @@ def merge(self):
 
 ###  Bemerkungen
 
-Verweisen Sie auf die verbundene Zelle über die Adresse der linken oberen Zelle im Bereich.
+Referenzieren Sie die zusammengeführte Zelle über die Adresse der oberen linken Zelle im Bereich.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

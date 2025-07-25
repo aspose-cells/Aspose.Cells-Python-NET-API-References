@@ -1,15 +1,15 @@
 ---
-title: format_strategy الملكية
+title: format_strategy عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 110
 url: /ar/aspose.cells/markdownsaveoptions/format_strategy/
 is_root: false
 ---
-##  format_strategy الملكية
+##  format_strategy عقار
 
-الحصول على استراتيجية التنسيق وتعيينها عند تصدير قيمة الخلية كسلسلة.
+يحصل على استراتيجية التنسيق ويقوم بتعيينها عند تصدير قيمة الخلية كسلسلة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def format_strategy(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellValueFormatStrategy](/cells/python-net/ar/aspose.cells/cellvalueformatstrategy)
-* فئة [MarkdownSaveOptions](/cells/python-net/ar/aspose.cells/markdownsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellValueFormatStrategy`](/cells/python-net/ar/aspose.cells/cellvalueformatstrategy)
+* فئة [`MarkdownSaveOptions`](/cells/python-net/ar/aspose.cells/markdownsaveoptions)

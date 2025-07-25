@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale propiedad
 
-Obtiene o establece con cuántos se apilan las imágenes y scale.
+Obtiene o establece cuántas imágenes contiene la pila y scale.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [PicFormatOption](/cells/python-net/es/aspose.cells.drawing/picformatoption)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`PicFormatOption`](/cells/python-net/es/aspose.cells.drawing/picformatoption)

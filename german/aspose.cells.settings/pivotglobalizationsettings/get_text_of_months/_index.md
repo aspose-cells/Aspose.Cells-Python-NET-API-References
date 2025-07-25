@@ -3,12 +3,12 @@ title: get_text_of_months Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 120
+weight: 130
 url: /de/aspose.cells.settings/pivotglobalizationsettings/get_text_of_months/
 is_root: false
 ---
-##  get_text_of_months {#}
-Ruft den lokalen Text von „Months“ ab.
+##  get_text_of_months(self) {#}
+Ruft den lokalen Text von „Monate“ ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den lokalen Text von „Months“ ab.
 
 
 ```python
+
 def get_text_of_months(self):
     ...
 ```

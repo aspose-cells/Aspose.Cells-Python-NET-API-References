@@ -1,16 +1,13 @@
 ---
 title: is_deleted недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 150
 url: /ru/aspose.cells.externalconnections/dbconnection/is_deleted/
 is_root: false
 ---
 ##  is_deleted недвижимость
-
-Указывает, было ли удалено связанное подключение к книге. верно, если
-соединение было удалено; в противном случае ложно.
 ###  Определение:
 ```python
 @property
@@ -22,5 +19,5 @@ def is_deleted(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [DBConnection](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`DBConnection`](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)

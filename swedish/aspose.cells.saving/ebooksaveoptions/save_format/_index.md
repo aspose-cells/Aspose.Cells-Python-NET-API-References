@@ -3,13 +3,13 @@ title: save_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 630
+weight: 720
 url: /sv/aspose.cells.saving/ebooksaveoptions/save_format/
 is_root: false
 ---
 ##  save_format fastighet
 
-Hämtar spara filformatet.
+Hämtar filformatet för att spara.
 ###  Definition:
 ```python
 @property

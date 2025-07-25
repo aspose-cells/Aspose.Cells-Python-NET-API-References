@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/unionrange/apply_style/
 is_root: false
 ---
-##  apply_style(style, flag) {#Style-StyleFlag}
-Biçimleri tüm aralık için uygular.
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
+Tüm aralık için biçimleri uygular.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -20,15 +21,15 @@ def apply_style(self, style, flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/tr/aspose.cells/style) | Uygulanacak stil nesnesi.|
-| flag | [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag) |Uygulanan biçimlendirme özelliklerini gösteren bayraklar.|
+| style | [`Style`](/cells/python-net/tr/aspose.cells/style) | Uygulanacak stil nesnesi.|
+| flag | [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag) | Uygulanan biçimlendirme özelliklerini gösteren bayraklar.|
 ###  Notlar
 
-Bu aralıktaki her hücre bir [Style](/cells/python-net/tr/aspose.cells/style) nesnesi içerecektir.
-Yani bu hafıza tüketen bir yöntemdir. Lütfen dikkatli kullanın.
+Bu aralıktaki her hücre [`Style`](/cells/python-net/tr/aspose.cells/style) nesnesini içerecektir.
+Yani bu, hafızayı tüketen bir yöntem. Lütfen dikkatli kullanın.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

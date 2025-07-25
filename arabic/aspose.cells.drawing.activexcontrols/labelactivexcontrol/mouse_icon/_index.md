@@ -1,5 +1,5 @@
 ---
-title: mouse_icon الملكية
+title: mouse_icon عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 210
 url: /ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol/mouse_icon/
 is_root: false
 ---
-##  mouse_icon الملكية
-
-الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.
+##  mouse_icon عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [LabelActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`LabelActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

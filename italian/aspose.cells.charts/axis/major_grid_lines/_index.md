@@ -1,15 +1,15 @@
 ---
 title: major_grid_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 280
+weight: 290
 url: /it/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines proprietà
 
-Rappresenta le principali linee della griglia sull'asse del grafico.
+Rappresenta le principali linee della griglia su un asse del grafico.
 
 ###  Esempio
 

@@ -1,15 +1,15 @@
 ---
 title: is_ascend_sort недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 370
+weight: 450
 url: /ru/aspose.cells.pivot/pivotfield/is_ascend_sort/
 is_root: false
 ---
 ##  is_ascend_sort недвижимость
 
-Указывает, выполняется ли автосортировка по возрастанию указанного поля сводной таблицы.
+Указывает, сортируется ли указанное поле сводной таблицы автоматически по возрастанию.
 ###  Определение:
 ```python
 @property

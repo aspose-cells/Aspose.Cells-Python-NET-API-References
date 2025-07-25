@@ -3,7 +3,7 @@ title: id propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 510
+weight: 500
 url: /es/aspose.cells.drawing/button/id/
 is_root: false
 ---

@@ -1,15 +1,13 @@
 ---
 title: parameters proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 320
 url: /it/aspose.cells.externalconnections/webqueryconnection/parameters/
 is_root: false
 ---
 ##  parameters proprietà
-
-Ottiene [ConnectionParameterCollection](/cells/python-net/it/aspose.cells.externalconnections/connectionparametercollection) per una query ODBC o Web.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +16,6 @@ def parameters(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameterCollection](/cells/python-net/it/aspose.cells.externalconnections/connectionparametercollection)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameterCollection`](/cells/python-net/it/aspose.cells.externalconnections/connectionparametercollection)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

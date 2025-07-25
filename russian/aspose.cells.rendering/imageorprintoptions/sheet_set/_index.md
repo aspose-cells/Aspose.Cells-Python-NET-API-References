@@ -1,6 +1,6 @@
 ---
 title: sheet_set недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 300
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  sheet_set недвижимость
 
-Получает или задает листы для визуализации. По умолчанию — все видимые листы в книге: [`SheetSet.visible`](/cells/python-net/ru/aspose.cells.rendering/sheetset#visible).
+Получает или задаёт листы для отображения. По умолчанию отображаются все видимые листы в книге: [`SheetSet.visible`](/cells/python-net/ru/aspose.cells.rendering/sheetset#visible).
 
 ###  Примечания
 
-Набор игнорируется, когда он используется в [`SheetRender`](/cells/python-net/ru/aspose.cells.rendering/sheetrender).
+Набор игнорируется при использовании в [`SheetRender`](/cells/python-net/ru/aspose.cells.rendering/sheetrender).
 ###  Определение:
 ```python
 @property

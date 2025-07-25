@@ -1,5 +1,5 @@
 ---
-title: smooth الملكية
+title: smooth عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,11 +7,11 @@ weight: 440
 url: /ar/aspose.cells.charts/series/smooth/
 is_root: false
 ---
-##  smooth الملكية
+##  smooth عقار
 
- يمثل تجانس المنحنى.
-صحيح إذا تم تشغيل تجانس المنحنى للمخطط الخطي أو المخطط المبعثر.
-ينطبق فقط على الخط والتشتت المتصلين بواسطة المخططات الخطية.
+ يمثل تنعيم المنحنى.
+صحيح إذا تم تشغيل تنعيم المنحنى لمخطط الخط أو مخطط التشتت.
+ينطبق فقط على المخططات الخطية والمبعثرة المتصلة بخطوط.
 ###  تعريف:
 ```python
 @property
@@ -23,5 +23,5 @@ def smooth(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

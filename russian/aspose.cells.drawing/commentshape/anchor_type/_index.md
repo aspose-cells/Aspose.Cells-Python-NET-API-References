@@ -1,15 +1,15 @@
 ---
 title: anchor_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 290
+weight: 300
 url: /ru/aspose.cells.drawing/commentshape/anchor_type/
 is_root: false
 ---
 ##  anchor_type недвижимость
 
-Получает и задает заполнитель привязки формы.
+Получает и задает тип заполнителя якоря формы.
 
 ###  Пример
 

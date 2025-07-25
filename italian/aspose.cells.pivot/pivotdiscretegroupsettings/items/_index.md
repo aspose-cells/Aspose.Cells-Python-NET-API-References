@@ -1,6 +1,6 @@
 ---
 title: items proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items proprietà
 
-Ottiene il discreto items.
+Ottiene il valore discreto items.
 ###  Definizione:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill fastighet
 
-Returnerar ett [`Shape.fill_format`](/cells/python-net/sv/aspose.cells.drawing/shape#fill_format)-objekt som innehåller fill formateringsegenskaper för den angivna formen.
+Returnerar ett [`Shape.fill_format`](/cells/python-net/sv/aspose.cells.drawing/shape#fill_format)-objekt som innehåller fill-formateringsegenskaper för den angivna formen.
 
 ###  Exempel
 

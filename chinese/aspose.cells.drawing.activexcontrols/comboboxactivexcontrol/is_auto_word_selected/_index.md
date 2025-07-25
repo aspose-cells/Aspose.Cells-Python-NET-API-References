@@ -1,13 +1,13 @@
 ---
-title: is_auto_word_selected 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_auto_word_selected属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 180
 url: /zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/is_auto_word_selected/
 is_root: false
 ---
-## is_auto_word_selected 属性
+## is_auto_word_selected属性
 
 指定用于扩展选择的基本单位。
 True 指定基本单位是单个字符。
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ComboBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ComboBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

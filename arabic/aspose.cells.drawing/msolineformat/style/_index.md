@@ -1,5 +1,5 @@
 ---
-title: style الملكية
+title: style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/msolineformat/style/
 is_root: false
 ---
-##  style الملكية
+##  style عقار
 
-إرجاع عنصر نمط يمثل style للنطاق المحدد.
+يقوم بإرجاع كائن نمط يمثل style من النطاق المحدد.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoLineFormat](/cells/python-net/ar/aspose.cells.drawing/msolineformat)
-* فئة [MsoLineStyle](/cells/python-net/ar/aspose.cells.drawing/msolinestyle)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoLineFormat`](/cells/python-net/ar/aspose.cells.drawing/msolineformat)
+* فئة [`MsoLineStyle`](/cells/python-net/ar/aspose.cells.drawing/msolinestyle)

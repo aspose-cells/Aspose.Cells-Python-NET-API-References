@@ -1,6 +1,6 @@
 ---
 title: is_by_category недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_by_category недвижимость
 
-Указывает, следует ли группировать данные по категориям
+Указывает, группируются ли данные по категориям
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_by_category(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [AxisBins](/cells/python-net/ru/aspose.cells.charts/axisbins)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`AxisBins`](/cells/python-net/ru/aspose.cells.charts/axisbins)

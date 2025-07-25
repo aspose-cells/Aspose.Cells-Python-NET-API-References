@@ -3,13 +3,13 @@ title: export_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 240
+weight: 310
 url: /de/aspose.cells/htmlsaveoptions/export_formula/
 is_root: false
 ---
 ##  export_formula Eigentum
 
-Gibt an, ob die Formel beim Speichern der Datei im HTML-Format exportiert wird. Der Standardwert ist wahr.
+Gibt an, ob die Formel beim Speichern der Datei im HTML-Format exportiert wird. Der Standardwert ist „true“.
 Wenn Sie die HTML-Ausgabe in Excel importieren möchten, behalten Sie bitte den Standardwert bei.
 ###  Definition:
 ```python

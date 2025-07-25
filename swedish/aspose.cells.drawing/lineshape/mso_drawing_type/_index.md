@@ -3,13 +3,13 @@ title: mso_drawing_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 860
+weight: 870
 url: /sv/aspose.cells.drawing/lineshape/mso_drawing_type/
 is_root: false
 ---
 ##  mso_drawing_type fastighet
 
-Får mso-ritningstyp.
+Hämtar ritningstyp.
 
 ###  Exempel
 

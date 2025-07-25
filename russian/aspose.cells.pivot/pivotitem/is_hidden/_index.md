@@ -1,15 +1,15 @@
 ---
 title: is_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 120
 url: /ru/aspose.cells.pivot/pivotitem/is_hidden/
 is_root: false
 ---
 ##  is_hidden недвижимость
 
-Получает и задает, скрыт ли элемент сводки.
+Возвращает и задает, скрыт ли элемент вращения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotItem](/cells/python-net/ru/aspose.cells.pivot/pivotitem)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotItem`](/cells/python-net/ru/aspose.cells.pivot/pivotitem)

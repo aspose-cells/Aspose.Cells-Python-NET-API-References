@@ -1,23 +1,25 @@
 ---
 title: cell_index_to_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/cellshelper/cell_index_to_name/
 is_root: false
 ---
-##  cell_index_to_name(row, column) {#int-int}
-Получает имя ячейки в соответствии с ее индексами строки и столбца.
+##  cell_index_to_name(, строка, столбец){#int-int}
+Получает имя ячейки в соответствии с индексами ее строки и столбца.
 
 
-###  Возвращает
+###  Возврат
 
-Имя ячейки.
+Название ячейки.
 
 
 ```python
-def cell_index_to_name(self, row, column):
+
+@staticmethod
+def cell_index_to_name(row, column):
     ...
 ```
 
@@ -30,5 +32,5 @@ def cell_index_to_name(self, row, column):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsHelper](/cells/python-net/ru/aspose.cells/cellshelper)
+* модуль [`aspose.cells`](../../)
+* класс [`CellsHelper`](/cells/python-net/ru/aspose.cells/cellshelper)

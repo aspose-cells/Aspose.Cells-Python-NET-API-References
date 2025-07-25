@@ -1,6 +1,6 @@
 ---
 title: area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/it/aspose.cells/cellarea)
-* classe [Hyperlink](/cells/python-net/it/aspose.cells/hyperlink)
+* modulo [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/it/aspose.cells/cellarea)
+* classe [`Hyperlink`](/cells/python-net/it/aspose.cells/hyperlink)

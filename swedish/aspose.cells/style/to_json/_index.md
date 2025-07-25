@@ -7,8 +7,8 @@ weight: 100
 url: /sv/aspose.cells/style/to_json/
 is_root: false
 ---
-##  to_json() {#}
-Konvertera [Style](/cells/python-net/sv/aspose.cells/style) till JSON strukturdata.
+##  to_json(self) {#}
+Konvertera strukturdata från [`Style`](/cells/python-net/sv/aspose.cells/style) till JSON.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Konvertera [Style](/cells/python-net/sv/aspose.cells/style) till JSON strukturda
 
 
 ```python
+
 def to_json(self):
     ...
 ```
@@ -26,5 +27,5 @@ def to_json(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

@@ -12,8 +12,8 @@ is_root: false
 
 
 
-BaseShapeGuide türü aşağıdaki üyeleri gösterir:
+BaseShapeGuide türü aşağıdaki üyeleri ortaya çıkarır:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

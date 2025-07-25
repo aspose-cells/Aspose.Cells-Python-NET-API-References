@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shadow propiedad
 
-Cierto si la serie tiene un shadow.
+Verdadero si la serie tiene un shadow.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

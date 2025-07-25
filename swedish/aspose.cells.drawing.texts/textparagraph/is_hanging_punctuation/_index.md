@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hanging_punctuation fastighet
 
-Anger om skiljetecken ska läggas ut med kraft på en textrad eller på en annan textrad.
+Anger om interpunktionen ska placeras tydligt på en textrad eller på en annan textrad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hanging_punctuation(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

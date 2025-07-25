@@ -3,13 +3,13 @@ title: x属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1290
+weight: 1300
 url: /zh/aspose.cells.drawing/arcshape/x/
 is_root: false
 ---
 ## x属性
 
-获取和设置形状相对于工作表左边框的水平偏移量，以像素为单位。
+获取或设置形状距工作表左边框的水平偏移量，以像素为单位。
 
 ### 例子
 

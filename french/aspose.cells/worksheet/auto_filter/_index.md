@@ -3,7 +3,7 @@ title: auto_filter propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 370
+weight: 390
 url: /fr/aspose.cells/worksheet/auto_filter/
 is_root: false
 ---

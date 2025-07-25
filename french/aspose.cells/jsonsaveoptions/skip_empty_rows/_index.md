@@ -3,13 +3,13 @@ title: skip_empty_rows propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 220
 url: /fr/aspose.cells/jsonsaveoptions/skip_empty_rows/
 is_root: false
 ---
 ##  skip_empty_rows propriété
 
-Indique si les lignes vides sont ignorées.
+Indique si les lignes vides doivent être ignorées.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def skip_empty_rows(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

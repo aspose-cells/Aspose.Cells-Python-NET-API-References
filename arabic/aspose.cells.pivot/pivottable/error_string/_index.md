@@ -1,16 +1,16 @@
 ---
-title: error_string الملكية
+title: error_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 520
+weight: 620
 url: /ar/aspose.cells.pivot/pivottable/error_string/
 is_root: false
 ---
-##  error_string الملكية
+##  error_string عقار
 
-الحصول على السلسلة المعروضة في الخلايا التي تحتوي على أخطاء
-عندما تكون الخاصية DisplayErrorString صحيحة ، فالقيمة الافتراضية هي سلسلة فارغة.
+يحصل على السلسلة المعروضة في الخلايا التي تحتوي على أخطاء
+عندما تكون خاصية DisplayErrorString صحيحة. القيمة الافتراضية هي سلسلة فارغة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def error_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

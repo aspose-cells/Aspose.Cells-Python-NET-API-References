@@ -3,7 +3,7 @@ title: PrintingPageType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2500
+weight: 2470
 url: /es/aspose.cells/printingpagetype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ El tipo PrintingPageType expone los siguientes miembros:
 | :- | :- |
 | DEFAULT | Imprime todas las páginas.|
 | IGNORE_BLANK | No imprima las páginas cuyas celdas estén en blanco.|
-| IGNORE_STYLE | No imprima las páginas cuyas celdas solo contienen estilos.|
+| IGNORE_STYLE | No imprima las páginas cuyas celdas sólo contengan estilos.|
 
 
 

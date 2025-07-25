@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_html_string propriété
 
-Indique si la valeur contient des balises html.
+Indique si la valeur contient des balises HTML.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_html_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

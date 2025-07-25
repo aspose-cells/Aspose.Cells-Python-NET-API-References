@@ -3,15 +3,15 @@ title: one_page_per_sheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet/
 is_root: false
 ---
 ##  one_page_per_sheet mülk
 
- OnePagePerSheet true olursa, sonuçta bir sayfanın tüm içeriği yalnızca bir sayfaya yazdırılır.
- Pagesetup'ın kağıt boyutu ve diğer pagesetup ayarları geçersiz olacaktır.
-hâlâ geçerli olacaktır.
+ OnePagePerSheet true ise, bir sayfanın tüm içeriği sonuçta yalnızca bir sayfaya çıktı olarak verilir.
+ Pagesetup'ın kağıt boyutu geçersiz olacak ve pagesetup'ın diğer ayarları
+hala geçerliliğini koruyacaktır.
 ###  Tanım:
 ```python
 @property

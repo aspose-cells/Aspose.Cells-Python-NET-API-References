@@ -1,6 +1,6 @@
 ---
 title: sql_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,6 +21,6 @@ def sql_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [ConnectionParameter](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)
-* classe [SqlDataType](/cells/python-net/it/aspose.cells.externalconnections/sqldatatype)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`ConnectionParameter`](/cells/python-net/it/aspose.cells.externalconnections/connectionparameter)
+* classe [`SqlDataType`](/cells/python-net/it/aspose.cells.externalconnections/sqldatatype)

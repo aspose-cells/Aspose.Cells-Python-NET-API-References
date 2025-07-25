@@ -3,16 +3,16 @@ title: second_category_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.charts/seriescollection/second_category_data/
 is_root: false
 ---
 ##  second_category_data fastighet
 
- Hämtar eller ställer in intervallet för andra kategorins axelvärden.
- Det kan vara ett cellintervall (som "d1:e10"),
- eller en sekvens av värden (som,"{2,6,8,10}").
-Effekter endast när vissa ASeries plottar på den andra axeln.
+ Hämtar eller ställer in intervallet för axelvärden av andra kategorin.
+ Det kan vara ett cellområde (till exempel "d1:e10"),
+ eller en sekvens av värden (till exempel "{2,6,8,10}").
+Effektivt när vissa A-serier plottas på den andra axeln.
 ###  Definition:
 ```python
 @property
@@ -24,5 +24,5 @@ def second_category_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SeriesCollection](/cells/python-net/sv/aspose.cells.charts/seriescollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SeriesCollection`](/cells/python-net/sv/aspose.cells.charts/seriescollection)

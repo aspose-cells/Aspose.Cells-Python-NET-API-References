@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  leader_lines propiedad
 
- Representa líneas guía en un gráfico. Las líneas guía conectan etiquetas de datos a puntos de datos.
-Este objeto no es una colección; no hay ningún objeto que represente una sola línea directriz.
+ Representan líneas guía en un gráfico. Las líneas guía conectan las etiquetas de datos con los puntos de datos.
+Este objeto no es una colección; no hay ningún objeto que represente una sola línea líder.
 ###  Definición:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

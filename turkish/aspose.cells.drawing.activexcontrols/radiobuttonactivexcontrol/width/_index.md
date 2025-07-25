@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/width/
 is_root: false
 ---
 ##  width mülk
-
-Kontrolün width'ini puan birimi cinsinden alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [RadioButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`RadioButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

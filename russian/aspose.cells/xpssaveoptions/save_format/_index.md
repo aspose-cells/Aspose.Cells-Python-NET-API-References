@@ -1,15 +1,13 @@
 ---
 title: save_format недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 280
 url: /ru/aspose.cells/xpssaveoptions/save_format/
 is_root: false
 ---
 ##  save_format недвижимость
-
-Получает формат файла сохранения.
 ###  Определение:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  width Eigentum
 
-Ruft den width der Abschrägung ab und legt ihn fest, oder wie weit er in die Form hinein angewendet wird.
-In Einheiten von Punkten.
+Ruft den width der Abschrägung ab und legt ihn fest, oder wie weit in die Form hinein er angewendet wird.
+In Punkten.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Bevel](/cells/python-net/de/aspose.cells.drawing/bevel)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Bevel`](/cells/python-net/de/aspose.cells.drawing/bevel)

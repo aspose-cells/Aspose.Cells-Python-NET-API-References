@@ -7,13 +7,14 @@ weight: 90
 url: /ar/aspose.cells.charts/chartpoint/get_top_point_x_px/
 is_root: false
 ---
-##  get_top_point_x_px(index) {#int}
-الحصول على إحداثيات x للنقطة العلوية للشكل بعد استدعاء طريقة Chart.Calculate ().
-يطبق المخططات ثلاثية الأبعاد: Column3D و Bar3D و Cone و Cylinder و Pyramid و Area3D
+##  get_top_point_x_px(self, index) {#int}
+يحصل على إحداثيات x لأعلى نقطة في الشكل بعد استدعاء طريقة Chart.Calculate().
+ينطبق على المخططات ثلاثية الأبعاد: العمود ثلاثي الأبعاد، والشريط ثلاثي الأبعاد، والمخروط، والأسطوانة، والهرم، والمساحة ثلاثية الأبعاد
 
 
 
 ```python
+
 def get_top_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_top_point_x_px(self, index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

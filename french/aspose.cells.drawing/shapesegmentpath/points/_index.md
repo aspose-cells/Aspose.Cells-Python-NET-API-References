@@ -18,6 +18,6 @@ def points(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePathPointCollection](/cells/python-net/fr/aspose.cells.drawing/shapepathpointcollection)
-* classe [ShapeSegmentPath](/cells/python-net/fr/aspose.cells.drawing/shapesegmentpath)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePathPointCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepathpointcollection)
+* classe [`ShapeSegmentPath`](/cells/python-net/fr/aspose.cells.drawing/shapesegmentpath)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  line_space propriété
 
-Obtient et définit la quantité d'espace blanc vertical qui sera utilisée dans un paragraphe.
+Obtient et définit la quantité d'espace blanc vertical qui sera utilisé dans un paragraphe.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def line_space(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

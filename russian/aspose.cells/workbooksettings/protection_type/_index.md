@@ -1,15 +1,15 @@
 ---
 title: protection_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 420
 url: /ru/aspose.cells/workbooksettings/protection_type/
 is_root: false
 ---
 ##  protection_type недвижимость
 
-Получает тип защиты книги.
+Получает тип защиты рабочей книги.
 ###  Определение:
 ```python
 @property

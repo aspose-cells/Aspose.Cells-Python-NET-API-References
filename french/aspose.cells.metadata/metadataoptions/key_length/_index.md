@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  key_length propriété
 
-La longueur de clé.
+La longueur de la clé.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def key_length(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.metadata](../../)
-* classe [MetadataOptions](/cells/python-net/fr/aspose.cells.metadata/metadataoptions)
+* module [`aspose.cells.metadata`](../../)
+* classe [`MetadataOptions`](/cells/python-net/fr/aspose.cells.metadata/metadataoptions)

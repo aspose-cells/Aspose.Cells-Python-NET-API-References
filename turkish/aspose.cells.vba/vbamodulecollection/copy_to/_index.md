@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells.vba/vbamodulecollection/copy_to/
 is_root: false
 ---
-##  copy_to {#list}
-Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.
+##  copy_to(self, array) {#list}
+Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.
 
 
 
 ```python
+
 def copy_to(self, array):
     ...
 ```
@@ -20,15 +21,16 @@ def copy_to(self, array):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| array | list | Kopyalanan dizi listesinin öğelerinin hedefi olan tek boyutlu dizi listesi. Dizi listesi sıfır tabanlı indekslemeye sahip olmalıdır.|
+| array | list | Kopyalanan elemanların hedefi olan tek boyutlu dizi listesi. Dizi listesinin sıfır tabanlı indekslemesi olmalıdır.|
 
 
-##  copy_to {#int-list-int-int}
-Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.
+##  copy_to(self, index, array, array_index, count) {#int-list-int-int}
+Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.
 
 
 
 ```python
+
 def copy_to(self, index, array, array_index, count):
     ...
 ```
@@ -36,10 +38,10 @@ def copy_to(self, index, array, array_index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int |Kopyalamanın başladığı kaynak dizi listesindeki sıfır tabanlı dizin.|
-| array | list | Dizi listesinden kopyalanan öğelerin hedefi olan tek boyutlu dizi listesi. Dizi listesi sıfır tabanlı indekslemeye sahip olmalıdır.|
+| index | int | Kopyalamanın başladığı kaynak dizi listesindeki sıfır tabanlı dizin.|
+| array | list |Dizi listesinden kopyalanan elemanların hedefi olan tek boyutlu dizi listesi. Dizi listesinin sıfır tabanlı indekslemesi olmalıdır.|
 | array_index | int | Kopyalamanın başladığı dizi listesindeki sıfır tabanlı dizin.|
-| count | int | Kopyalanacak öğe sayısı.|
+| count | int | Kopyalanacak eleman sayısı.|
 
 
 

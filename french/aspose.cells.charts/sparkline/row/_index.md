@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row propriété
 
-Obtient l'index row de la ligne sparkline.
+Obtient l'index row du sparkline.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Sparkline](/cells/python-net/fr/aspose.cells.charts/sparkline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Sparkline`](/cells/python-net/fr/aspose.cells.charts/sparkline)

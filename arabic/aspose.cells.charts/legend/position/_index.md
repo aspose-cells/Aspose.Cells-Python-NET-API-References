@@ -3,13 +3,13 @@ title: position عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 360
 url: /ar/aspose.cells.charts/legend/position/
 is_root: false
 ---
 ##  position عقار
 
-الحصول على نوع وسيلة الإيضاح position أو تعيينه.
+يحصل على نوع الأسطورة position أو يعينه.
 
 ###  ملاحظات
 

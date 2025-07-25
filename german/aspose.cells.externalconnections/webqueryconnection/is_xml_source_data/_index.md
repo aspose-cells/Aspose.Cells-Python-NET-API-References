@@ -3,7 +3,7 @@ title: is_xml_source_data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 270
 url: /de/aspose.cells.externalconnections/webqueryconnection/is_xml_source_data/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_xml_source_data(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [WebQueryConnection](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`WebQueryConnection`](/cells/python-net/de/aspose.cells.externalconnections/webqueryconnection)

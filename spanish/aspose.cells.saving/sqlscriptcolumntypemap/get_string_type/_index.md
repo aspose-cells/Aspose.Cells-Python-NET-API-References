@@ -1,5 +1,5 @@
 ---
-title: get_string_type método
+title: método get_string_type
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /es/aspose.cells.saving/sqlscriptcolumntypemap/get_string_type/
 is_root: false
 ---
-##  get_string_type() {#}
+##  get_string_type(self) {#}
 Obtiene el tipo de cadena en la base de datos.
 
 
@@ -17,6 +17,7 @@ Obtiene el tipo de cadena en la base de datos.
 
 
 ```python
+
 def get_string_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_string_type(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptColumnTypeMap](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptColumnTypeMap`](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap)

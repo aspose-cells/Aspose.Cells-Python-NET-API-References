@@ -1,15 +1,15 @@
 ---
 title: export_worksheet_css_separately недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 440
 url: /ru/aspose.cells/htmlsaveoptions/export_worksheet_css_separately/
 is_root: false
 ---
 ##  export_worksheet_css_separately недвижимость
 
-Указывает, нужно ли экспортировать CSS отдельно. Значение по умолчанию — false.
+Указывает, следует ли экспортировать CSS-код листа отдельно. Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

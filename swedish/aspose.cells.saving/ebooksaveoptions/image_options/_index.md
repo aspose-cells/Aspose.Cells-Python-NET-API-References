@@ -3,13 +3,13 @@ title: image_options fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 530
 url: /sv/aspose.cells.saving/ebooksaveoptions/image_options/
 is_root: false
 ---
 ##  image_options fastighet
 
-Hämta ImageOrPrintOptions-objektet innan du exporterar
+Hämta ImageOrPrintOptions-objektet innan export
 ###  Definition:
 ```python
 @property

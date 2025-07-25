@@ -7,17 +7,35 @@ weight: 10
 url: /ar/aspose.cells.saving/ebooksaveoptions/__init__/
 is_root: false
 ---
-##  __فيه__ {#}
-يخلق خيارات لحفظ ملف الكتاب الاليكتروني.
+##  \_\_init\_\_(الذات){#}
+إنشاء خيارات لحفظ ملف الكتاب الإلكتروني.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
 
 
+
+
+##  \_\_init\_\_(الذات، تنسيق الحفظ){#aspose.cells.SaveFormat}
+إنشاء خيارات لحفظ ملف الكتاب الإلكتروني.
+
+
+
+```python
+
+def __init__(self, save_format):
+    ...
+```
+
+
+| معامل| يكتب| وصف|
+| :- | :- | :- |
+| save_format | [`SaveFormat`](/cells/python-net/ar/aspose.cells/saveformat) | تنسيق الملف.<br/> يجب أن يكون [`SaveFormat.EPUB`](/cells/python-net/ar/aspose.cells/saveformat#EPUB) أو [`SaveFormat.AZW3`](/cells/python-net/ar/aspose.cells/saveformat#AZW3).|
 
 
 

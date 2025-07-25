@@ -1,15 +1,15 @@
 ---
-title: is_line 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_line属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.drawing/signatureline/is_line/
 is_root: false
 ---
-## is_line 属性
+## is_line属性
 
-指示它是否是签名行。
+指示是否为签名行。
 
 ### 例子
 
@@ -30,5 +30,5 @@ def is_line(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

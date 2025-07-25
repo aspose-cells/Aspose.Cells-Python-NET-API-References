@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula propiedad
 
-Indica si el texto es fórmula si comienza con "=".
+Indica si el texto es una fórmula si comienza con "=".
 ###  Definición:
 ```python
 @property

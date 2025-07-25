@@ -3,13 +3,13 @@ title: start_cell fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 270
 url: /sv/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
 ##  start_cell fastighet
 
-Hämtar och ställer in startcellen.
+Hämtar och anger startcellen.
 ###  Definition:
 ```python
 @property

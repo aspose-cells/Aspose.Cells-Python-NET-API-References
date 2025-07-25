@@ -1,18 +1,19 @@
 ---
 title: init_pivot_items метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 180
 url: /ru/aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---
-##  init_pivot_items {#}
-Инициализировать элементы сводного поля
+##  init_pivot_items(self) {#}
+Инициализируйте элементы опорной области опорной области.
 
 
 
 ```python
+
 def init_pivot_items(self):
     ...
 ```

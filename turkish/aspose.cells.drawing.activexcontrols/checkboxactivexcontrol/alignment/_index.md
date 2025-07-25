@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment mülk
 
-Kontrole göre Resim Yazısının konumunu alır ve ayarlar.
+Başlığın kontrole göre konumunu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [CheckBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* sınıf [ControlCaptionAlignmentType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`CheckBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* sınıf [`ControlCaptionAlignmentType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)

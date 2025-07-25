@@ -3,16 +3,17 @@ title: طريقة import_xml
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells/workbook/import_xml/
 is_root: false
 ---
-##  import_xml(url, sheet_name, row, col) {#str-str-int-int}
-يستورد / يحدّث ملف بيانات XML في المصنف.
+##  import_xml(self, url, sheet_name, row, col) {#str-str-int-int}
+استيراد/تحديث ملف بيانات XML إلى المصنف.
 
 
 
 ```python
+
 def import_xml(self, url, sheet_name, row, col):
     ...
 ```
@@ -20,14 +21,14 @@ def import_xml(self, url, sheet_name, row, col):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| url | str | عنوان url / مسار ملف xml.|
-| sheet_name | str | اسم الورقة الوجهة.|
+| url | str | عنوان URL/مسار ملف XML.|
+| sheet_name | str | اسم ورقة الوجهة.|
 | row | int | صف الوجهة|
 | col | int | عمود الوجهة|
 
 ###  مثال
 
-يستورد الكود التالي بيانات xml في ورقة العمل 'Sheet 1' على Cell A1.
+يقوم الكود التالي باستيراد بيانات XML إلى ورقة العمل 'Sheet 1' في Cell A1.
 
 ```python
 from aspose.cells import Workbook
@@ -39,12 +40,13 @@ wb.save("output.xlsx")
 ```
 
 
-##  import_xml(stream, sheet_name, row, col) {#io.RawIOBase-str-int-int}
-يستورد / يحدّث ملف بيانات XML في المصنف.
+##  import_xml(self, stream, sheet_name, row, col) {#io.RawIOBase-str-int-int}
+استيراد/تحديث ملف بيانات XML إلى المصنف.
 
 
 
 ```python
+
 def import_xml(self, stream, sheet_name, row, col):
     ...
 ```
@@ -52,13 +54,13 @@ def import_xml(self, stream, sheet_name, row, col):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | دفق ملف xml.|
-| sheet_name | str | اسم الورقة الوجهة.|
+| stream | io.RawIOBase | تدفق ملف XML.|
+| sheet_name | str | اسم ورقة الوجهة.|
 | row | int | صف الوجهة.|
 | col | int | عمود الوجهة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

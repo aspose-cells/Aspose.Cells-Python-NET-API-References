@@ -3,7 +3,7 @@ title: width propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1240
+weight: 1250
 url: /fr/aspose.cells.drawing/listbox/width/
 is_root: false
 ---

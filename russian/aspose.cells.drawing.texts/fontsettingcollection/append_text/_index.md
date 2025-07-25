@@ -1,18 +1,19 @@
 ---
 title: append_text метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.drawing.texts/fontsettingcollection/append_text/
 is_root: false
 ---
-##  append_text(text) {#str}
+##  append_text(self, text) {#str}
 Добавляет текст.
 
 
 
 ```python
+
 def append_text(self, text):
     ...
 ```
@@ -25,5 +26,5 @@ def append_text(self, text):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [FontSettingCollection](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`FontSettingCollection`](/cells/python-net/ru/aspose.cells.drawing.texts/fontsettingcollection)

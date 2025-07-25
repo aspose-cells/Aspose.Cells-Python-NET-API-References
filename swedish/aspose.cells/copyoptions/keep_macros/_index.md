@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  keep_macros fastighet
 
-Indikerar om makron behålls;
+Anger om makron ska behållas;
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def keep_macros(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CopyOptions](/cells/python-net/sv/aspose.cells/copyoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CopyOptions`](/cells/python-net/sv/aspose.cells/copyoptions)

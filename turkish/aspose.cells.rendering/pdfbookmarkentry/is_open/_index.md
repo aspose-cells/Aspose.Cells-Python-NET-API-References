@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_open mülk
 
-Bu özellik doğru olduğunda yer imi genişler, aksi halde çöker.
+Bu özellik doğru olduğunda yer imleri kenti genişleyecek, aksi takdirde daralacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_open(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PdfBookmarkEntry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PdfBookmarkEntry`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)

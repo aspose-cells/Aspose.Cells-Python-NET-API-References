@@ -1,5 +1,5 @@
 ---
-title: العد MapChartProjectionType
+title: MapChartProjectionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,17 +7,17 @@ weight: 560
 url: /ar/aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---
-##  العد MapChartProjectionType
+##  MapChartProjectionType التعداد
 يمثل نوع الإسقاط لمخطط الخريطة.
 
 
 
-يكشف نوع MapChartProjectionType الأعضاء التالية:
+يكشف النوع MapChartProjectionType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| AUTOMATIC | تلقائي|
+| AUTOMATIC | أوتوماتيكي|
 | MERCATOR | مركاتور|
 | MILLER | ميلر|
 | ALBERS | ألبرز|
@@ -25,4 +25,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
+* الوحدة [`aspose.cells.charts`](..)

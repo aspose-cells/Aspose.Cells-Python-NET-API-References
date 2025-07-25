@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_empty_cells_type Eigentum
 
-Gibt an, wie leere Zellen gezeichnet werden.
+Gibt an, wie leere Zellen dargestellt werden.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def plot_empty_cells_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [PlotEmptyCellsType](/cells/python-net/de/aspose.cells.charts/plotemptycellstype)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`PlotEmptyCellsType`](/cells/python-net/de/aspose.cells.charts/plotemptycellstype)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

@@ -3,16 +3,17 @@ title: set_text_of_sub_total metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells/settablepivotglobalizationsettings/set_text_of_sub_total/
 is_root: false
 ---
-##  set_text_of_sub_total {#aspose.cells.pivot.PivotFieldSubtotalType-str}
-Ställer in texten för [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) typ i pivottabellen.
+##  set_text_of_sub_total(self, sub_total_type, text) {#aspose.cells.pivot.PivotFieldSubtotalType-str}
+Ställer in texten av typen [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) i pivottabellen.
 
 
 
 ```python
+
 def set_text_of_sub_total(self, sub_total_type, text):
     ...
 ```

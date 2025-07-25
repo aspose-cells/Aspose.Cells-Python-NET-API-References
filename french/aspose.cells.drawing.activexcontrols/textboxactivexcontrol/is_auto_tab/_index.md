@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_tab propriété
 
-Indique si le focus se déplacera automatiquement vers le contrôle suivant lorsque l'utilisateur saisira le nombre maximum de caractères.
+Indique si le focus se déplacera automatiquement vers le contrôle suivant lorsque l'utilisateur entrera le nombre maximal de caractères.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_tab(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [TextBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`TextBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

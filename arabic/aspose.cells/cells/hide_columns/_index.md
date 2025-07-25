@@ -3,16 +3,17 @@ title: طريقة hide_columns
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 600
 url: /ar/aspose.cells/cells/hide_columns/
 is_root: false
 ---
-##  hide_columns {#int-int}
+##  hide_columns(self, column, total_columns) {#int-int}
 إخفاء أعمدة متعددة.
 
 
 
 ```python
+
 def hide_columns(self, column, total_columns):
     ...
 ```
@@ -20,7 +21,7 @@ def hide_columns(self, column, total_columns):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| column | int | مؤشر العمود.|
+| column | int | فهرس العمود.|
 | total_columns | int | رقم العمود.|
 
 

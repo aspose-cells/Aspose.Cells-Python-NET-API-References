@@ -3,13 +3,13 @@ title: has_line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 470
 url: /ar/aspose.cells.drawing/arcshape/has_line/
 is_root: false
 ---
 ##  has_line عقار
 
-يحصل على ويحدد حدود الخط للشكل مرئية.
+يحصل على حدود الخط للشكل ويضبطها لتكون مرئية.
 
 ###  مثال
 

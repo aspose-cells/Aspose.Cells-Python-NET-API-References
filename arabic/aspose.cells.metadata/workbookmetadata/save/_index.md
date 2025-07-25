@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.metadata/workbookmetadata/save/
 is_root: false
 ---
-##  save(file_name) {#str}
-احفظ البيانات الأولية المعدلة في الملف.
+##  save(self, file_name) {#str}
+احفظ البيانات الوصفية المعدلة في الملف.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def save(self, file_name):
 | file_name | str | اسم الملف.|
 
 
-##  save(stream) {#io.RawIOBase}
+##  save(self, stream) {#io.RawIOBase}
 احفظ البيانات الوصفية المعدلة في الدفق.
 
 
 
 ```python
+
 def save(self, stream):
     ...
 ```
@@ -36,10 +38,10 @@ def save(self, stream):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | الدفق.|
+| stream | io.RawIOBase | النهر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.metadata](../../)
-* فئة [WorkbookMetadata](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata)
+* الوحدة [`aspose.cells.metadata`](../../)
+* فئة [`WorkbookMetadata`](/cells/python-net/ar/aspose.cells.metadata/workbookmetadata)

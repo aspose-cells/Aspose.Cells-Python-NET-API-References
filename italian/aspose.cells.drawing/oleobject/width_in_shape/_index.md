@@ -1,15 +1,15 @@
 ---
 title: width_in_shape proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1360
+weight: 1370
 url: /it/aspose.cells.drawing/oleobject/width_in_shape/
 is_root: false
 ---
 ##  width_in_shape proprietà
 
-Rappresenta la larghezza della forma, in unità di 1/4000 della forma padre.
+Rappresenta la larghezza della forma, in unità di 1/4000 della forma madre.
 
 ###  Osservazioni
 

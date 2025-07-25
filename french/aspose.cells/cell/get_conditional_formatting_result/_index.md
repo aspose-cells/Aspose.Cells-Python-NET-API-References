@@ -1,5 +1,5 @@
 ---
-title: get_conditional_formatting_result méthode
+title: méthode get_conditional_formatting_result
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 80
 url: /fr/aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
-##  get_conditional_formatting_result() {#}
+##  get_conditional_formatting_result(self) {#}
 Obtenez le résultat de la mise en forme conditionnelle.
 
 
 
 ```python
+
 def get_conditional_formatting_result(self):
     ...
 ```
@@ -25,5 +26,5 @@ Renvoie null si aucune mise en forme conditionnelle n'est appliquée à cette ce
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

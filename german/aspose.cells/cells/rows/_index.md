@@ -3,13 +3,13 @@ title: rows Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /de/aspose.cells/cells/rows/
 is_root: false
 ---
 ##  rows Eigentum
 
-Ruft die Sammlung von [`Row`](/cells/python-net/de/aspose.cells/row)-Objekten ab, die das einzelne rows in diesem Arbeitsblatt darstellt.
+Ruft die Auflistung von [`Row`](/cells/python-net/de/aspose.cells/row)-Objekten ab, die das einzelne rows in diesem Arbeitsblatt darstellen.
 ###  Definition:
 ```python
 @property

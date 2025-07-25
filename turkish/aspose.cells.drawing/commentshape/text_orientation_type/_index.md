@@ -3,7 +3,7 @@ title: text_orientation_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1010
+weight: 1020
 url: /tr/aspose.cells.drawing/commentshape/text_orientation_type/
 is_root: false
 ---

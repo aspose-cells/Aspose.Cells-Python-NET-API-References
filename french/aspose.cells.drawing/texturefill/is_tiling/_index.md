@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_tiling propriété
 
-Indique si l'image de mosaïque est une texture.
+Indique si l'image de la tuile est une texture.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_tiling(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/fr/aspose.cells.drawing/texturefill)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/fr/aspose.cells.drawing/texturefill)

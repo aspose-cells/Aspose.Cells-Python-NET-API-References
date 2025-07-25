@@ -1,16 +1,16 @@
 ---
-title: font_configs 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font_configs属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 130
 url: /zh/aspose.cells/txtloadoptions/font_configs/
 is_root: false
 ---
-## font_configs 属性
+## font_configs属性
 
-获取和设置单独的字体配置。
-仅适用于使用此 [LoadOptions](/cells/python-net/zh/aspose.cells/loadoptions) 加载的 [Workbook](/cells/python-net/zh/aspose.cells/workbook)。
+获取并设置单独的字体配置。
+仅适用于使用此 [`LoadOptions`](/cells/python-net/zh/aspose.cells/loadoptions) 加载的 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)。
 ### 定义：
 ```python
 @property
@@ -22,8 +22,8 @@ def font_configs(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [IndividualFontConfigs](/cells/python-net/zh/aspose.cells/individualfontconfigs)
-* 类 [LoadOptions](/cells/python-net/zh/aspose.cells/loadoptions)
-* 类 [TxtLoadOptions](/cells/python-net/zh/aspose.cells/txtloadoptions)
-* 类 [Workbook](/cells/python-net/zh/aspose.cells/workbook)
+* 模块[`aspose.cells`](../../)
+* 类 [`IndividualFontConfigs`](/cells/python-net/zh/aspose.cells/individualfontconfigs)
+* 类 [`LoadOptions`](/cells/python-net/zh/aspose.cells/loadoptions)
+* 类 [`TxtLoadOptions`](/cells/python-net/zh/aspose.cells/txtloadoptions)
+* 类 [`Workbook`](/cells/python-net/zh/aspose.cells/workbook)

@@ -3,7 +3,7 @@ title: page_index mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 240
 url: /tr/aspose.cells.rendering/imageorprintoptions/page_index/
 is_root: false
 ---

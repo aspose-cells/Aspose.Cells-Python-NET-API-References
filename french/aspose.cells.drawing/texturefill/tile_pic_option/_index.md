@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tile_pic_option propriété
 
-Obtient ou définit l'option d'image de mosaïque.
+Obtient ou définit l'option d'image de tuile.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def tile_pic_option(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [TextureFill](/cells/python-net/fr/aspose.cells.drawing/texturefill)
-* classe [TilePicOption](/cells/python-net/fr/aspose.cells.drawing/tilepicoption)
+* module [`aspose.cells.drawing`](../../)
+* classe [`TextureFill`](/cells/python-net/fr/aspose.cells.drawing/texturefill)
+* classe [`TilePicOption`](/cells/python-net/fr/aspose.cells.drawing/tilepicoption)

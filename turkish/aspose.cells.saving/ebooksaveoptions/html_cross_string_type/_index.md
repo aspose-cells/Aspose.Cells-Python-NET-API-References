@@ -3,15 +3,15 @@ title: html_cross_string_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 500
 url: /tr/aspose.cells.saving/ebooksaveoptions/html_cross_string_type/
 is_root: false
 ---
 ##  html_cross_string_type mülk
 
-Bir Excel dosyasını html formatında kaydederken hücreler arası bir dizenin MS Excel ile aynı şekilde görüntülenip görüntülenmeyeceğini belirtir.
-Varsayılan olarak değer Varsayılan'dır, dolayısıyla hücreler arası dizeler için Aspose.Cells ile MS Excel tarafından oluşturulan html dosyaları arasında çok az fark vardır.
-Ancak büyük html dosyaları oluşturma performansı, değeri Cross olarak ayarlamak, onu Default veya Fit2Cell olarak ayarlamaktan birkaç kat daha hızlı olacaktır.
+Bir Excel dosyasını HTML formatında kaydederken, çapraz hücre dizesinin MS Excel ile aynı şekilde görüntülenip görüntülenmeyeceğini belirtir.
+Varsayılan olarak değer Varsayılan'dır, bu nedenle hücreler arası dizeler için Aspose.Cells ile MS Excel tarafından oluşturulan html dosyaları arasında çok az fark vardır.
+Ancak büyük html dosyaları oluşturma performansı için değeri Cross olarak ayarlamak, Default veya Fit2Cell olarak ayarlamaktan birkaç kat daha hızlı olacaktır.
 ###  Tanım:
 ```python
 @property

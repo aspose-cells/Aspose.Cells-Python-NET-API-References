@@ -3,7 +3,7 @@ title: FillFormat clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 180
+weight: 170
 url: /es/aspose.cells.drawing/fillformat/
 is_root: false
 ---
@@ -17,35 +17,35 @@ El tipo FillFormat expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [type](/cells/python-net/es/aspose.cells.drawing/fillformat/type) |Obtiene y establece el tipo de relleno.|
+| [type](/cells/python-net/es/aspose.cells.drawing/fillformat/type) | Obtiene y establece el tipo de relleno.|
 | [fill_type](/cells/python-net/es/aspose.cells.drawing/fillformat/fill_type) | Obtiene y establece el tipo de relleno|
-| [transparency](/cells/python-net/es/aspose.cells.drawing/fillformat/transparency) | Devuelve o establece el grado de transparencia del área como un valor de 0,0 (opaco) a 1,0 (transparente).|
+| [transparency](/cells/python-net/es/aspose.cells.drawing/fillformat/transparency) |Devuelve o establece el grado de transparencia del área como un valor de 0,0 (opaco) a 1,0 (transparente).|
 | [set_type](/cells/python-net/es/aspose.cells.drawing/fillformat/set_type) | Obtiene el tipo de conjunto de formato de relleno.|
-| [gradient_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_fill) | Obtiene el objeto [FillFormat.gradient_fill](/cells/python-net/es/aspose.cells.drawing/fillformat#gradient_fill).|
-| [texture_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/texture_fill) | Obtiene el objeto [FillFormat.texture_fill](/cells/python-net/es/aspose.cells.drawing/fillformat#texture_fill).|
-| [solid_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/solid_fill) | Obtiene el objeto [FillFormat.solid_fill](/cells/python-net/es/aspose.cells.drawing/fillformat#solid_fill).|
-| [pattern_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/pattern_fill) | Obtiene el objeto [FillFormat.pattern_fill](/cells/python-net/es/aspose.cells.drawing/fillformat#pattern_fill).|
-| [gradient_color_type](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color_type) | Devuelve el tipo de color de degradado para el relleno especificado.|
-| [gradient_style](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_style) | Devuelve el estilo de degradado del relleno especificado.|
-| [gradient_color1](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color1) | Devuelve el color de degradado 1 para el relleno especificado.|
-| [gradient_color2](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color2) | Devuelve el color de degradado 2 para el relleno especificado.|
-| [gradient_degree](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_degree) | Devuelve el grado de degradado del relleno especificado.<br/> Solo aplica para Excel 2007.|
-| [gradient_variant](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_variant) | Devuelve la variante de degradado del relleno especificado.<br/> Solo aplica para Excel 2007.|
-| [preset_color](/cells/python-net/es/aspose.cells.drawing/fillformat/preset_color) | Devuelve el color predeterminado de degradado para el relleno especificado.|
-| [texture](/cells/python-net/es/aspose.cells.drawing/fillformat/texture) | Representa el tipo de textura del relleno especificado.|
+| [gradient_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_fill) | Obtiene el objeto [`FillFormat.gradient_fill`](/cells/python-net/es/aspose.cells.drawing/fillformat#gradient_fill).|
+| [texture_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/texture_fill) | Obtiene el objeto [`FillFormat.texture_fill`](/cells/python-net/es/aspose.cells.drawing/fillformat#texture_fill).|
+| [solid_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/solid_fill) | Obtiene el objeto [`FillFormat.solid_fill`](/cells/python-net/es/aspose.cells.drawing/fillformat#solid_fill).|
+| [pattern_fill](/cells/python-net/es/aspose.cells.drawing/fillformat/pattern_fill) | Obtiene el objeto [`FillFormat.pattern_fill`](/cells/python-net/es/aspose.cells.drawing/fillformat#pattern_fill).|
+| [gradient_color_type](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color_type) | Devuelve el tipo de color degradado para el relleno especificado.|
+| [gradient_style](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_style) | Devuelve el estilo de degradado para el relleno especificado.|
+| [gradient_color1](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color1) | Devuelve el color degradado 1 para el relleno especificado.|
+| [gradient_color2](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_color2) |Devuelve el color degradado 2 para el relleno especificado.|
+| [gradient_degree](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_degree) | Devuelve el grado de degradado para el relleno especificado.<br/> Sólo se aplica para Excel 2007.|
+| [gradient_variant](/cells/python-net/es/aspose.cells.drawing/fillformat/gradient_variant) | Devuelve la variante de degradado para el relleno especificado.<br/> Sólo se aplica para Excel 2007.|
+| [preset_color](/cells/python-net/es/aspose.cells.drawing/fillformat/preset_color) | Devuelve el color preestablecido de degradado para el relleno especificado.|
+| [texture](/cells/python-net/es/aspose.cells.drawing/fillformat/texture) | Representa el tipo de textura para el relleno especificado.|
 | [pattern](/cells/python-net/es/aspose.cells.drawing/fillformat/pattern) | Representa el patrón de visualización de un área.|
 | [picture_format_type](/cells/python-net/es/aspose.cells.drawing/fillformat/picture_format_type) | Obtiene y establece el tipo de formato de imagen.|
-| [scale](/cells/python-net/es/aspose.cells.drawing/fillformat/scale) | Obtiene y establece la escala de formato de imagen.|
-| [image_data](/cells/python-net/es/aspose.cells.drawing/fillformat/image_data) | Obtiene y establece los datos de la imagen de la imagen.|
+| [scale](/cells/python-net/es/aspose.cells.drawing/fillformat/scale) | Obtiene y establece la escala del formato de la imagen.|
+| [image_data](/cells/python-net/es/aspose.cells.drawing/fillformat/image_data) | Obtiene y establece los datos de la imagen.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/es/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | Establece el relleno especificado en un degradado de dos colores.<br/> Solo aplica para Excel 2007.|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/es/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | Establece el relleno especificado en un degradado de dos colores.<br/> Solo aplica para Excel 2007.|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/es/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Establece el relleno especificado en un degradado de un color.<br/> Solo aplica para Excel 2007.|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/es/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) | Establece el relleno especificado en un degradado de color predeterminado.<br/> Solo aplica para Excel 2007.|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/es/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Establece el relleno especificado en un degradado de dos colores.<br/> Sólo se aplica para Excel 2007.|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/es/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Establece el relleno especificado en un degradado de dos colores.<br/> Sólo se aplica para Excel 2007.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/es/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Establece el relleno especificado en un degradado de un solo color.<br/> Sólo se aplica para Excel 2007.|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/es/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) | Establece el relleno especificado en un degradado de color preestablecido.<br/> Sólo se aplica para Excel 2007.|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

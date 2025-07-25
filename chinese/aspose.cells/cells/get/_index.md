@@ -7,16 +7,17 @@ weight: 300
 url: /zh/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-通过 .Net 添加 API for Python，因为不支持此[string cellName]
+##  get(self, cell_name) {#str}
+通过 .Net 添加 API for Python，因为此 [string cellName] 不受支持
 
 
-### 退货
+### 返回
 
-[`Cell`](/cells/python-net/zh/aspose.cells/cell)对象
+[`Cell`](/cells/python-net/zh/aspose.cells/cell) 对象
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,19 +25,20 @@ def get(self, cell_name):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| cell_name | str |Cell名称，包括其列字母和行号，例如A5。|
+| cell_name | str |Cell 名称，包括其列字母和行号，例如 A5。|
 
 
-##  get {#int-int}
-通过 .Net 添加 API for Python，因为不支持此[int row, int column]
+##  get(self, row, column) {#int-int}
+通过 .Net 添加 API for Python，因为这 [int row, int column] 不受支持
 
 
-### 退货
+### 返回
 
 [`Cell`](/cells/python-net/zh/aspose.cells/cell) 对象。
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```

@@ -1,15 +1,15 @@
 ---
 title: is_flipped_vertically недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 570
 url: /ru/aspose.cells.drawing/webextensionshape/is_flipped_vertically/
 is_root: false
 ---
 ##  is_flipped_vertically недвижимость
 
-Получает и устанавливает, переворачивается ли фигура по вертикали.
+Получает и задает, перевернута ли фигура вертикально.
 
 ###  Пример
 

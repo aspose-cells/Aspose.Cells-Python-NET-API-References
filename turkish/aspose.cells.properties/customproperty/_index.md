@@ -12,12 +12,12 @@ Tanımlayıcı bilgileri temsil eder.
 
 
 
-CustomProperty türü aşağıdaki üyeleri gösterir:
+CustomProperty türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [CustomProperty()](/cells/python-net/tr/aspose.cells.properties/customproperty/__init__/#) | Yeni bir CustomProperty örneği oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.properties/customproperty/__init__/#) | CustomProperty'nin yeni bir örneğini oluşturur|
 
 
 ###  Özellikler
@@ -30,4 +30,4 @@ CustomProperty türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](..)
+* modül [`aspose.cells.properties`](..)

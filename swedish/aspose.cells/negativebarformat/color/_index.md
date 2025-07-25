@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color fastighet
 
-Hämtar eller ställer in ett FormatColor-objekt som du kan använda för att ange fyllningen color för negativa datastaplar.
+Hämtar eller ställer in ett FormatColor-objekt som du kan använda för att ange fyllningen color för negativa datastapel.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [NegativeBarFormat](/cells/python-net/sv/aspose.cells/negativebarformat)
+* modul [`aspose.cells`](../../)
+* klass [`NegativeBarFormat`](/cells/python-net/sv/aspose.cells/negativebarformat)

@@ -1,5 +1,5 @@
 ---
-title: is_locked الملكية
+title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells.slicers/slicer/is_locked/
 is_root: false
 ---
-##  is_locked الملكية
+##  is_locked عقار
 
-يشير إلى ما إذا كان شكل تقطيع الشرائح مؤمنًا أم لا.
+يشير إلى ما إذا كان شكل المقطع مقفلاً.
 
 ###  مثال
 
@@ -29,5 +29,5 @@ def is_locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [Slicer](/cells/python-net/ar/aspose.cells.slicers/slicer)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`Slicer`](/cells/python-net/ar/aspose.cells.slicers/slicer)

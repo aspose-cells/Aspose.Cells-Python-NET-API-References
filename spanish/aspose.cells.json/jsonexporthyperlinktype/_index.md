@@ -8,7 +8,7 @@ url: /es/aspose.cells.json/jsonexporthyperlinktype/
 is_root: false
 ---
 ##  JsonExportHyperlinkType enumeración
-Representa el tipo de hipervínculos de exportación a json.
+Representa el tipo de exportación de hipervínculos a json.
 
 
 
@@ -24,4 +24,4 @@ El tipo JsonExportHyperlinkType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.json](..)
+* módulo [`aspose.cells.json`](..)

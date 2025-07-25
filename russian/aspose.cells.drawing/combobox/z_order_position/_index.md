@@ -1,9 +1,9 @@
 ---
 title: z_order_position недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1300
+weight: 1310
 url: /ru/aspose.cells.drawing/combobox/z_order_position/
 is_root: false
 ---

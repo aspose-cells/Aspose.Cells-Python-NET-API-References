@@ -3,13 +3,13 @@ title: alternative_text fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 290
 url: /sv/aspose.cells.drawing/button/alternative_text/
 is_root: false
 ---
 ##  alternative_text fastighet
 
-Returnerar eller ställer in den beskrivande (alternativa) textsträngen för objektet [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape).
+Returnerar eller anger den beskrivande (alternativa) textsträngen för [`Shape`](/cells/python-net/sv/aspose.cells.drawing/shape)-objektet.
 
 ###  Exempel
 

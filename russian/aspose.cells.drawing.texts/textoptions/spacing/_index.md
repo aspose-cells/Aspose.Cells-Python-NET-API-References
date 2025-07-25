@@ -1,6 +1,6 @@
 ---
 title: spacing недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 260
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  spacing недвижимость
 
-Указывает spacing между символами в текстовом ряду.
+Указывает spacing между символами в текстовой строке.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def spacing(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [TextOptions](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`TextOptions`](/cells/python-net/ru/aspose.cells.drawing.texts/textoptions)

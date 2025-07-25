@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_formatting_cell propriété
 
-Représente si la mise en forme des cellules est autorisée sur une feuille de calcul protégée.
+Indique si la mise en forme des cellules est autorisée sur une feuille de calcul protégée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_formatting_cell(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

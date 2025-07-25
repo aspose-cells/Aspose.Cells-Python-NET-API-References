@@ -3,7 +3,7 @@ title: TextEffectFormat sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 700
+weight: 680
 url: /tr/aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
@@ -12,7 +12,7 @@ WordArt nesnelerine uygulanan özellikleri ve yöntemleri içerir.
 
 
 
-TextEffectFormat türü aşağıdaki üyeleri gösterir:
+TextEffectFormat türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -20,8 +20,8 @@ TextEffectFormat türü aşağıdaki üyeleri gösterir:
 | [text](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/text) | WordArt'taki metin.|
 | [font_name](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/font_name) | WordArt'ta kullanılan yazı tipinin adı.|
 | [font_bold](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/font_bold) | Yazı tipinin kalın olup olmadığını gösterir.|
-| [font_italic](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/font_italic) | Yazı tipinin italik olup olmadığını gösterir.|
-| [rotated_chars](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/rotated_chars) | Doğruysa, belirtilen WordArt'taki karakterler, WordArt'ın sınırlayıcı şekline göre 90 derece döndürülür.|
+| [font_italic](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/font_italic) | Yazı tipinin italik olup olmadığını belirtir.|
+| [rotated_chars](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/rotated_chars) | Doğruysa, belirtilen WordArt'taki karakterler WordArt'ın sınırlayıcı şekline göre 90 derece döndürülür.|
 | [font_size](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/font_size) | WordArt'ta kullanılan yazı tipinin boyutu (punto olarak).|
 | [preset_shape](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/preset_shape) | Önceden ayarlanmış şekil türünü alır ve ayarlar.|
 
@@ -29,7 +29,7 @@ TextEffectFormat türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Önceden ayarlanmış metin efektini ayarlar.|
+| [`set_text_effect(self, effect)`](/cells/python-net/tr/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Önceden ayarlanmış metin efektini ayarlar.|
 
 
 
@@ -50,4 +50,4 @@ workbook.save("Book1.xls")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

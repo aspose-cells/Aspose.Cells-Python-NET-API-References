@@ -1,6 +1,6 @@
 ---
 title: linked_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 140
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_ce
 is_root: false
 ---
 ##  linked_cell недвижимость
-
-Получает и задает связанную ячейку.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def linked_cell(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [SpinButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`SpinButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

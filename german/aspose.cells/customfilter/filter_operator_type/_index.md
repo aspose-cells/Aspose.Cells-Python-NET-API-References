@@ -21,6 +21,6 @@ def filter_operator_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CustomFilter](/cells/python-net/de/aspose.cells/customfilter)
-* Klasse [FilterOperatorType](/cells/python-net/de/aspose.cells/filteroperatortype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CustomFilter`](/cells/python-net/de/aspose.cells/customfilter)
+* Klasse [`FilterOperatorType`](/cells/python-net/de/aspose.cells/filteroperatortype)

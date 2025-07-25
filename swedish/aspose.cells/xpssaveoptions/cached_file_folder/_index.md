@@ -8,8 +8,6 @@ url: /sv/aspose.cells/xpssaveoptions/cached_file_folder/
 is_root: false
 ---
 ##  cached_file_folder fastighet
-
-Den cachade filmappen används för att lagra en del stora data.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def cached_file_folder(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XpsSaveOptions](/cells/python-net/sv/aspose.cells/xpssaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XpsSaveOptions`](/cells/python-net/sv/aspose.cells/xpssaveoptions)

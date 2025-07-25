@@ -1,5 +1,5 @@
 ---
-title: SqlScriptColumnTypeMap المنشئ
+title: SqlScriptColumnTypeMap منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.saving/sqlscriptcolumntypemap/__init__/
 is_root: false
 ---
-##  SqlScriptColumnTypeMap() {#}
-بناء نسخة جديدة من SqlScriptColumnTypeMap
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ SqlScriptColumnTypeMap
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptColumnTypeMap](/cells/python-net/ar/aspose.cells.saving/sqlscriptcolumntypemap)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptColumnTypeMap`](/cells/python-net/ar/aspose.cells.saving/sqlscriptcolumntypemap)

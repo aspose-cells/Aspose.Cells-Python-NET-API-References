@@ -1,22 +1,22 @@
 ---
 title: custom_implementation_factory недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ru/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
 ##  custom_implementation_factory недвижимость
 
-Получает или задает фабрику для создания экземпляров со специальной реализацией.
+Возвращает или задает фабрику для создания экземпляров со специальной реализацией.
 ###  Определение:
 ```python
 @property
 def custom_implementation_factory(self):
     ...
-@custom_implementation_factory.setter
-def custom_implementation_factory(self, value):
+@staticmethod
+def set_custom_implementation_factory(value):
     ...
 ```
 

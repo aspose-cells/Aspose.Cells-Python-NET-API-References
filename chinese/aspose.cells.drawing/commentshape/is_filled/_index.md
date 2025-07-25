@@ -3,7 +3,7 @@ title: is_filled属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 550
+weight: 560
 url: /zh/aspose.cells.drawing/commentshape/is_filled/
 is_root: false
 ---

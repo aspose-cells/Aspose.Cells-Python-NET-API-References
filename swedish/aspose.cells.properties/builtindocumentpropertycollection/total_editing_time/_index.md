@@ -3,7 +3,7 @@ title: total_editing_time fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 400
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/total_editing_time/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def total_editing_time(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

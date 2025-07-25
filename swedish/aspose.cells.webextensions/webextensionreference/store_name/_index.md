@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_name fastighet
 
-Hämtar och ställer in instansen av marknadsplatsen där Office-tillägget är lagrat. .
+Hämtar och anger instansen av marknadsplatsen där Office-tillägget lagras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionReference](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionReference`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)

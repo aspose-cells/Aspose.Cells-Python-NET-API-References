@@ -3,12 +3,12 @@ title: NameScopeType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 2340
+weight: 2310
 url: /sv/aspose.cells/namescopetype/
 is_root: false
 ---
 ##  NameScopeType uppräkning
-Representerar omfångstypen för definierade namn.
+Representerar omfattningstypen för definierade namn.
 
 
 

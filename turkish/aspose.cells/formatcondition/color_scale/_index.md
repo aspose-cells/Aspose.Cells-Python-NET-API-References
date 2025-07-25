@@ -10,8 +10,8 @@ is_root: false
 ##  color_scale mülk
 
 Koşullu biçimlendirmenin "ColorScale" örneğini alın.
-Varsayılan örnek bir "yeşil-sarı-kırmızı" 3ColorScale'dir.
-Yalnızca type = ColorScale için geçerlidir.
+Varsayılan örnek "yeşil-sarı-kırmızı" 3ColorScale'dir.
+Yalnızca ColorScale türü için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -20,6 +20,6 @@ def color_scale(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

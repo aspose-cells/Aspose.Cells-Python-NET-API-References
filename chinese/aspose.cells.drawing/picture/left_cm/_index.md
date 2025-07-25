@@ -3,13 +3,13 @@ title: left_cm属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 790
+weight: 810
 url: /zh/aspose.cells.drawing/picture/left_cm/
 is_root: false
 ---
 ## left_cm属性
 
-表示形状相对于其左列的水平偏移量，以厘米为单位。
+表示形状与其左列的水平偏移量，以厘米为单位。
 
 ### 例子
 

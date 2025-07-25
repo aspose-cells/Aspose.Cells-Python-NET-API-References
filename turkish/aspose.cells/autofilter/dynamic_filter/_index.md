@@ -7,12 +7,13 @@ weight: 80
 url: /tr/aspose.cells/autofilter/dynamic_filter/
 is_root: false
 ---
-##  dynamic_filter(field_index, dynamic_filter_type) {#int-DynamicFilterType}
-Dinamik bir filtre ekler.
+##  dynamic_filter(self, field_index, dynamic_filter_type) {#int-aspose.cells.DynamicFilterType}
+Dinamik filtre ekler.
 
 
 
 ```python
+
 def dynamic_filter(self, field_index, dynamic_filter_type):
     ...
 ```
@@ -20,11 +21,11 @@ def dynamic_filter(self, field_index, dynamic_filter_type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_index | int | Filtreyi temel almak istediğiniz alanın tamsayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
-| dynamic_filter_type | [DynamicFilterType](/cells/python-net/tr/aspose.cells/dynamicfiltertype) | Dinamik filtre türü.|
+| field_index | int | Filtreyi temel almak istediğiniz alanın tam sayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
+| dynamic_filter_type | [`DynamicFilterType`](/cells/python-net/tr/aspose.cells/dynamicfiltertype) | Dinamik filtre türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFilter](/cells/python-net/tr/aspose.cells/autofilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFilter`](/cells/python-net/tr/aspose.cells/autofilter)

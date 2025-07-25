@@ -7,12 +7,13 @@ weight: 130
 url: /es/aspose.cells/worksheet/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Worksheet}
+##  copy(self, source_sheet) {#aspose.cells.Worksheet}
 Copia contenidos y formatos de otra hoja de trabajo.
 
 
 
 ```python
+
 def copy(self, source_sheet):
     ...
 ```
@@ -23,12 +24,13 @@ def copy(self, source_sheet):
 | source_sheet | [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) | Hoja de trabajo fuente.|
 
 
-##  copy {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
+##  copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
 Copia contenidos y formatos de otra hoja de trabajo.
 
 
 
 ```python
+
 def copy(self, source_sheet, copy_options):
     ...
 ```
@@ -40,7 +42,7 @@ def copy(self, source_sheet, copy_options):
 | copy_options | [`CopyOptions`](/cells/python-net/es/aspose.cells/copyoptions) |  |
 ###  Observaciones
 
-Puede copy datos de otra hoja de trabajo en el mismo archivo o en otro archivo. Sin embargo, este método no admite copy objetos de dibujo, como comentarios, imágenes y gráficos.
+Puede extraer datos de otra hoja de cálculo del mismo archivo o de otro. Sin embargo, este método no admite objetos de dibujo como comentarios, imágenes y gráficos.
 
 
 ###  Ver también

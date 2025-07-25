@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale propriété
 
-Obtient ou définit le nombre de piles d'images et scale avec.
+Obtient ou définit le nombre d'images empilées et scale avec.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [PicFormatOption](/cells/python-net/fr/aspose.cells.drawing/picformatoption)
+* module [`aspose.cells.drawing`](../../)
+* classe [`PicFormatOption`](/cells/python-net/fr/aspose.cells.drawing/picformatoption)

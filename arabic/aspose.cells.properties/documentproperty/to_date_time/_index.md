@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.properties/documentproperty/to_date_time/
 is_root: false
 ---
-##  to_date_time() {#}
-تُرجع قيمة الخاصية كـ DateTime في المنطقة الزمنية المحلية.
+##  to_date_time(self) {#}
+يقوم بإرجاع قيمة الخاصية كـ DateTime في المنطقة الزمنية المحلية.
 
 
 
 ```python
+
 def to_date_time(self):
     ...
 ```
@@ -20,10 +21,10 @@ def to_date_time(self):
 
 ###  ملاحظات
 
-يطرح استثناء إذا لم يكن نوع الخاصية PropertyType.Date.
+يُلقي استثناءً إذا لم يكن نوع الخاصية PropertyType.Date.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells.properties](../../)
-* فئة [DocumentProperty](/cells/python-net/ar/aspose.cells.properties/documentproperty)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty)

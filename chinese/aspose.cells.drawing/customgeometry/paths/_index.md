@@ -1,15 +1,15 @@
 ---
-title: paths 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: paths属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells.drawing/customgeometry/paths/
 is_root: false
 ---
-## paths 属性
+## paths属性
 
-shape 为 NotPrimitive autoshape 时获取路径集合信息
+当形状为 NotPrimitive 自动形状时获取路径集合信息
 ### 定义：
 ```python
 @property
@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [CustomGeometry](/cells/python-net/zh/aspose.cells.drawing/customgeometry)
-* 类 [ShapePathCollection](/cells/python-net/zh/aspose.cells.drawing/shapepathcollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`CustomGeometry`](/cells/python-net/zh/aspose.cells.drawing/customgeometry)
+* 类 [`ShapePathCollection`](/cells/python-net/zh/aspose.cells.drawing/shapepathcollection)

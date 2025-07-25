@@ -8,7 +8,7 @@ url: /de/aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 ##  get_consumption_credit() {#}
-Konsumguthaben bekommt
+Bekommt Verbrauchsguthaben
 
 
 ###  Kehrt zurück
@@ -17,7 +17,9 @@ Verbrauchsmenge
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Metered](/cells/python-net/de/aspose.cells/metered)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Metered`](/cells/python-net/de/aspose.cells/metered)

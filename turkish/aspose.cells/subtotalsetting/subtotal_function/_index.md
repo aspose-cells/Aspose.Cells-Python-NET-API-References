@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  subtotal_function mülk
 
-Alt toplam işlevi.
+Ara toplam fonksiyonu.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def subtotal_function(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConsolidationFunction](/cells/python-net/tr/aspose.cells/consolidationfunction)
-* sınıf [SubtotalSetting](/cells/python-net/tr/aspose.cells/subtotalsetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConsolidationFunction`](/cells/python-net/tr/aspose.cells/consolidationfunction)
+* sınıf [`SubtotalSetting`](/cells/python-net/tr/aspose.cells/subtotalsetting)

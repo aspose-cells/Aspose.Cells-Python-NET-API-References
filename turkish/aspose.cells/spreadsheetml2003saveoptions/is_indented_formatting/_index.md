@@ -3,7 +3,7 @@ title: is_indented_formatting mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 90
 url: /tr/aspose.cells/spreadsheetml2003saveoptions/is_indented_formatting/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Alt öğelerin girintili olmasına neden olur.
 ###  Notlar
 
 Varsayılan değer doğrudur.
-Değer yanlışsa, xml dosyasının boyutunu küçültür
+Değer false ise xml dosyasının boyutu küçülecektir
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_indented_formatting(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [SpreadsheetML2003SaveOptions](/cells/python-net/tr/aspose.cells/spreadsheetml2003saveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`SpreadsheetML2003SaveOptions`](/cells/python-net/tr/aspose.cells/spreadsheetml2003saveoptions)

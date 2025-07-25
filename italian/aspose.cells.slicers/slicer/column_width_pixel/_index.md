@@ -1,6 +1,6 @@
 ---
 title: column_width_pixel proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel proprietà
 
-Ottiene o imposta la larghezza in unità di pixel per ogni colonna dell'affettatrice.
+Ottiene o imposta la larghezza di ciascuna colonna nell'affettatrice, in unità di pixel.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.slicers](../../)
-* classe [Slicer](/cells/python-net/it/aspose.cells.slicers/slicer)
+* modulo [`aspose.cells.slicers`](../../)
+* classe [`Slicer`](/cells/python-net/it/aspose.cells.slicers/slicer)

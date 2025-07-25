@@ -1,6 +1,6 @@
 ---
 title: walls proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 660
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls proprietà
 
-Restituisce un oggetto [`Chart.walls`](/cells/python-net/it/aspose.cells.charts/chart#walls) che rappresenta walls di un grafico 3D.
+Restituisce un oggetto [`Chart.walls`](/cells/python-net/it/aspose.cells.charts/chart#walls) che rappresenta l'oggetto walls di un grafico 3D.
 
 ###  Osservazioni
 

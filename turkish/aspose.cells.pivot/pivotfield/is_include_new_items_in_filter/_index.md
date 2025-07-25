@@ -3,13 +3,13 @@ title: is_include_new_items_in_filter mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 420
+weight: 500
 url: /tr/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
 ##  is_include_new_items_in_filter mülk
 
-alanın manuel filtreye yeni öğeler ekleyip ekleyemeyeceğini belirtir
+Manuel filtrede alana yeni öğelerin eklenip eklenmeyeceğini belirtir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

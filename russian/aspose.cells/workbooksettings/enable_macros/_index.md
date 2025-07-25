@@ -1,9 +1,9 @@
 ---
 title: enable_macros недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 200
 url: /ru/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Теперь это работает только при копировании листа на другой лист в книге.
+Теперь это работает только при копировании листа на другой лист книги.
 ###  Определение:
 ```python
 @property

@@ -3,7 +3,7 @@ title: value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 770
 url: /sv/aspose.cells/cell/value/
 is_root: false
 ---
@@ -15,13 +15,13 @@ Hämtar/ställer in value som finns i den här cellen.
 
 Möjlig typ:
 
-null,
+noll,
 
 
-Boolean,
+Boolesk,
 
 
-Datum Tid,
+Datum och tid,
 
 
 Dubbel,
@@ -34,7 +34,7 @@ Sträng.
 
 
 För int value kan det returneras som ett heltalsobjekt eller ett dubbelobjekt.
-Och det finns ingen garanti för att det returnerade value alltid kommer att behållas som samma typ av objekt.
+Och det finns ingen garanti för att den returnerade value alltid kommer att behållas som samma typ av objekt.
 ###  Definition:
 ```python
 @property

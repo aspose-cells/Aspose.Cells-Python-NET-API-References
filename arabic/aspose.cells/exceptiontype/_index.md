@@ -3,7 +3,7 @@ title: ExceptionType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /ar/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -36,11 +36,15 @@ is_root: false
 | SHEET_TYPE | نوع ورقة العمل غير صالح.|
 | INTERRUPTED | تمت مقاطعة العملية.|
 | IO | الملف غير صالح.|
-| PERMISSION |مطلوب إذن لفتح هذا الملف.|
+| PERMISSION | مطلوب إذن لفتح هذا الملف.|
 | UNSUPPORTED_FEATURE | ميزة غير مدعومة.|
 | UNSUPPORTED_STREAM | سيتم فتح الدفق غير المدعوم.|
 | UNDISCLOSED_INFORMATION | تحتوي الملفات على بعض المعلومات غير المفصح عنها.|
-| FILE_CORRUPTED | محتوى الملف تالف.|
+| FILE_CORRUPTED | تم إتلاف محتوى الملف.|
+| DEFINED_NAME | اسم مُعرّف غير صالح|
+| FONT | خط غير صالح|
+| AUTO_FILTER | إعداد الفلتر التلقائي غير صالح.|
+| FONT_SUBSTITUTION | نوع تحذير استبدال الخط<br/>عندما لا يتم العثور على الخط، يمكن الحصول على هذا النوع من التحذير.|
 
 
 

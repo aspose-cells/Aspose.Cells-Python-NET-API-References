@@ -3,13 +3,13 @@ title: is_full_path_link mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 580
 url: /tr/aspose.cells/htmlsaveoptions/is_full_path_link/
 is_root: false
 ---
 ##  is_full_path_link mülk
 
-Sheet00x.htm,filelist.xml ve tabstrip.htm'de tam yol bağlantısının kullanılıp kullanılmayacağını belirtir.
+sheet00x.htm,filelist.xml ve tabstrip.htm'de tam yol bağlantısının kullanılıp kullanılmayacağını belirtir.
 Varsayılan değer false'tur.
 ###  Tanım:
 ```python

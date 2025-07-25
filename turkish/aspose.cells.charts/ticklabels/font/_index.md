@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font mülk
 
-Belirtilen TickLabels nesnesinin font'ini temsil eden bir [`TickLabels.font`](/cells/python-net/tr/aspose.cells.charts/ticklabels#font) nesnesini döndürür.
+Belirtilen TickLabels nesnesinin font'ini temsil eden [`TickLabels.font`](/cells/python-net/tr/aspose.cells.charts/ticklabels#font) nesnesini döndürür.
 ###  Tanım:
 ```python
 @property

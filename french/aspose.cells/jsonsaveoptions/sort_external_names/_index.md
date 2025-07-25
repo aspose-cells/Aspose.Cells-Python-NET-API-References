@@ -3,13 +3,13 @@ title: sort_external_names propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 230
 url: /fr/aspose.cells/jsonsaveoptions/sort_external_names/
 is_root: false
 ---
 ##  sort_external_names propriété
 
-Indique s'il faut trier les noms définis externes avant d'enregistrer le fichier.
+Indique si les noms externes définis doivent être triés avant l'enregistrement du fichier.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

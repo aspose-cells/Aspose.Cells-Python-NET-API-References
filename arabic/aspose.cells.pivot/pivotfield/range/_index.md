@@ -3,20 +3,20 @@ title: range عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 640
 url: /ar/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ##  range عقار
 
-تحصل على المجموعة range للمجال المحوري
+يحصل على المجموعة range من حقل المحور
 
 ###  ملاحظات
 
- ملاحظة: هذه الطريقة أصبحت الآن قديمة. بدلاً من،
+ ملاحظة: هذه الطريقة أصبحت قديمة الآن. بدلاً من ذلك،
 الرجاء استخدام خاصية PivotField.GroupSettings.
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ أكتوبر 2023.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ أكتوبر 2023.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

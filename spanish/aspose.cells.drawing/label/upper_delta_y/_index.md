@@ -3,13 +3,13 @@ title: upper_delta_y propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /es/aspose.cells.drawing/label/upper_delta_y/
 is_root: false
 ---
 ##  upper_delta_y propiedad
 
-Obtiene o establece el desplazamiento vertical de la forma desde la fila de la esquina superior izquierda.
+Obtiene o establece el desplazamiento vertical de la forma desde su fila de la esquina superior izquierda.
 
 ###  Observaciones
 

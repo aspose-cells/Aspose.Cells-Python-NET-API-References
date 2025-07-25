@@ -1,18 +1,18 @@
 ---
 title: PresetCameraType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /ru/aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
 ##  PresetCameraType перечисление
-Представляют различные алгоритмические методы установки всех свойств камеры, включая положение.
+Представляют собой различные алгоритмические методы настройки всех свойств камеры, включая положение.
 
 
 
-Тип PresetCameraType предоставляет следующие члены:
+Тип PresetCameraType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -83,4 +83,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

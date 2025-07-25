@@ -1,9 +1,9 @@
 ---
 title: shape_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 400
 url: /ru/aspose.cells.charts/legend/shape_properties/
 is_root: false
 ---

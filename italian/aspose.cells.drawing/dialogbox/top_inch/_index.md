@@ -1,15 +1,15 @@
 ---
 title: top_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /it/aspose.cells.drawing/dialogbox/top_inch/
 is_root: false
 ---
 ##  top_inch proprietà
 
-Rappresenta l'offset verticale della forma dalla riga superiore, in unità di pollici.
+Rappresenta lo scostamento verticale della forma dalla sua riga superiore, in pollici.
 
 ###  Esempio
 

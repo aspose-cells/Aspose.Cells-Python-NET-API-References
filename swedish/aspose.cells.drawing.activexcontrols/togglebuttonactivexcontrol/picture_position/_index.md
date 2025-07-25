@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_position fastighet
 
-Hämtar och ställer in platsen för kontrollens bild i förhållande till dess bildtext.
+Hämtar och anger platsen för kontrollens bild i förhållande till dess bildtext.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_position(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlPicturePositionType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
-* klass [ToggleButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlPicturePositionType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* klass [`ToggleButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval mülk
 
-Grubun iç bilgilerini alır.
+Grubun iç yapısını alır.
 ###  Tanım:
 ```python
 @property

@@ -3,12 +3,12 @@ title: MsoDrawingType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1000
+weight: 990
 url: /de/aspose.cells.drawing/msodrawingtype/
 is_root: false
 ---
 ##  MsoDrawingType Aufzählung
-Repräsentiert den Typ der Office-Zeichnungsobjekte.
+Stellt den Office-Zeichnungsobjekttyp dar.
 
 
 
@@ -23,31 +23,31 @@ Der Typ MsoDrawingType macht die folgenden Member verfügbar:
 | OVAL | Oval|
 | ARC | Bogen|
 | CHART | Diagramm|
-| TEXT_BOX | Textfeld|
+| TEXT_BOX | TextBox|
 | BUTTON | Taste|
 | PICTURE | Bild|
-| POLYGON | Vieleck|
+| POLYGON | Polygon|
 | CHECK_BOX | Kontrollkästchen|
-| RADIO_BUTTON | Radio knopf|
+| RADIO_BUTTON | RadioButton|
 | LABEL | Etikett|
-| DIALOG_BOX | Dialogbox|
+| DIALOG_BOX | Dialogfeld|
 | SPINNER | Spinner|
-| SCROLL_BAR | Scrollleiste|
-| LIST_BOX | Listenfeld|
-| GROUP_BOX | GroupBox|
+| SCROLL_BAR | Bildlaufleiste|
+| LIST_BOX | ListBox|
+| GROUP_BOX | Gruppenfeld|
 | COMBO_BOX | Kombinationsfeld|
 | COMMENT | Kommentar|
-| OLE_OBJECT | OLE-Objekt|
-| CELLS_DRAWING | Nur zum Beibehalten des Zeichnungsobjekts in der Vorlagendatei.|
-| UNKNOWN | Nur zum Beibehalten des Zeichnungsobjekts in der xlsx-Datei.|
-| SLICER | Aufschnitt|
+| OLE_OBJECT | OleObject|
+| CELLS_DRAWING | Nur zum Erhalt des Zeichenobjekts in der Vorlagendatei.|
+| UNKNOWN | Nur zum Beibehalten des Zeichenobjekts in der xlsx-Datei.|
+| SLICER | Allesschneider|
 | WEB_EXTENSION | Web-Erweiterung|
-| SMART_ART | Tolle Kunst|
-| CUSTOM_XML | Benutzerdefinierte XML-Form, z. B. Ink.|
+| SMART_ART | Smart Art|
+| CUSTOM_XML | Benutzerdefinierte XML-Form, z. B. Tinte.|
 | TIMELINE | Zeitleiste|
 | MODEL_3D | 3D-Modell|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

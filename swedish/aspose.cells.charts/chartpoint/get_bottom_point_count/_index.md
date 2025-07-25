@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.charts/chartpoint/get_bottom_point_count/
 is_root: false
 ---
-##  get_bottom_point_count() {#}
-Får antalet bottenpoäng efter anrop av metoden Chart.Calculate().
+##  get_bottom_point_count(self) {#}
+Hämtar antalet bottenpunkter efter anrop av metoden Chart.Calculate().
 
 
 
 ```python
+
 def get_bottom_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_bottom_point_count(self):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

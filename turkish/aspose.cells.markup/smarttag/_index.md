@@ -8,11 +8,11 @@ url: /tr/aspose.cells.markup/smarttag/
 is_root: false
 ---
 ##  SmartTag sınıfı
-Bir akıllı etiketi temsil eder.
+Akıllı etiketi temsil eder.
 
 
 
-SmartTag türü aşağıdaki üyeleri gösterir:
+SmartTag türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
@@ -26,9 +26,9 @@ SmartTag türü aşağıdaki üyeleri gösterir:
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_link(uri, name)](/cells/python-net/tr/aspose.cells.markup/smarttag/set_link/#str-str) | Akıllı etiketin adını ve ad alanı URI'sini değiştirin.|
+| [`set_link(self, uri, name)`](/cells/python-net/tr/aspose.cells.markup/smarttag/set_link/#str-str) |Akıllı etiketin adını ve ad alanı URI'sini değiştirin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
+* modül [`aspose.cells.markup`](..)

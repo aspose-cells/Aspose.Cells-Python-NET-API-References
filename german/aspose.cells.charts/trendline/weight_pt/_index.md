@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight_pt Eigentum
 
-Ruft die Gewichtung der Linie in Punkteinheiten ab oder legt diese fest.
+Ruft die Linienstärke in Punkten ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_pt(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Trendline](/cells/python-net/de/aspose.cells.charts/trendline)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Trendline`](/cells/python-net/de/aspose.cells.charts/trendline)

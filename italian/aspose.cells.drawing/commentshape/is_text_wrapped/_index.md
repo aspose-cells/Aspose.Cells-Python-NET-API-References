@@ -1,15 +1,15 @@
 ---
 title: is_text_wrapped proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 660
+weight: 670
 url: /it/aspose.cells.drawing/commentshape/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped proprietà
 
-Ottiene e imposta il tipo di testo avvolto nella forma che contiene testo.
+Ottiene e imposta il tipo di testo racchiuso nella forma che contiene testo.
 
 ###  Esempio
 

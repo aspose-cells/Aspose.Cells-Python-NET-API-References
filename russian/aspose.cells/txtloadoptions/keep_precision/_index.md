@@ -1,15 +1,15 @@
 ---
 title: keep_precision недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 210
 url: /ru/aspose.cells/txtloadoptions/keep_precision/
 is_root: false
 ---
 ##  keep_precision недвижимость
 
-Указывает, следует ли анализировать строковое значение, если длина равна 15.
+Указывает, следует ли не анализировать строковое значение, если его длина равна 15.
 ###  Определение:
 ```python
 @property

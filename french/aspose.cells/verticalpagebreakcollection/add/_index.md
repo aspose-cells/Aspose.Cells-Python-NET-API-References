@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/verticalpagebreakcollection/add/
 is_root: false
 ---
-##  add(column) {#int}
+##  add(self, column) {#int}
 Ajoute un saut de page vertical à la collection.
 
 
 ###  Retour
 
-[VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak) indice d'objet.
+[`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak) index d'objet.
 
 
 ```python
+
 def add(self, column):
     ...
 ```
@@ -27,19 +28,20 @@ def add(self, column):
 | column | int | Cell index de colonne, basé sur zéro.|
 ###  Remarques
 
-Un saut de page est ajouté en haut à gauche de la cellule.
+Le saut de page est ajouté en haut à gauche de la cellule.
 Veuillez définir simultanément un saut de page horizontal et un saut de page vertical.
 
-##  add(cell_name) {#str}
+##  add(self, cell_name) {#str}
 Ajoute un saut de page vertical à la collection.
 
 
 ###  Retour
 
-[VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak) indice d'objet.
+[`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak) index d'objet.
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -50,19 +52,20 @@ def add(self, cell_name):
 | cell_name | str | Cell nom.|
 ###  Remarques
 
-Un saut de page est ajouté en haut à gauche de la cellule.
+Le saut de page est ajouté en haut à gauche de la cellule.
 Veuillez définir simultanément un saut de page horizontal et un saut de page vertical.
 
-##  add(row, column) {#int-int}
+##  add(self, row, column) {#int-int}
 Ajoute un saut de page vertical à la collection.
 
 
 ###  Retour
 
-[VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak) indice d'objet.
+[`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak) index d'objet.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -74,19 +77,20 @@ def add(self, row, column):
 | column | int | Cell index de colonne, basé sur zéro.|
 ###  Remarques
 
-Un saut de page est ajouté en haut à gauche de la cellule.
+Le saut de page est ajouté en haut à gauche de la cellule.
 Veuillez définir simultanément un saut de page horizontal et un saut de page vertical.
 
-##  add(start_row, end_row, column) {#int-int-int}
+##  add(self, start_row, end_row, column) {#int-int-int}
 Ajoute un saut de page vertical à la collection.
 
 
 ###  Retour
 
-[VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak) indice d'objet.
+[`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak) index d'objet.
 
 
 ```python
+
 def add(self, start_row, end_row, column):
     ...
 ```
@@ -94,8 +98,8 @@ def add(self, start_row, end_row, column):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| start_row | int | Index de ligne de début, basé sur zéro.|
-| end_row | int |Index de fin de ligne, basé sur zéro.|
+| start_row | int | Index de ligne de départ, basé sur zéro.|
+| end_row | int | Index de fin de ligne, basé sur zéro.|
 | column | int | Index de colonne, basé sur zéro.|
 ###  Remarques
 
@@ -104,6 +108,6 @@ Cette méthode est utilisée pour add un saut de page vertical dans une zone d'i
 
 ###  Voir également
 
-* module [aspose.cells](../../)
-* classe [VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak)
-* classe [VerticalPageBreakCollection](/cells/python-net/fr/aspose.cells/verticalpagebreakcollection)
+* module [`aspose.cells`](../../)
+* classe [`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak)
+* classe [`VerticalPageBreakCollection`](/cells/python-net/fr/aspose.cells/verticalpagebreakcollection)

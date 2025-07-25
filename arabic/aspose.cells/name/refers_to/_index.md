@@ -1,5 +1,5 @@
 ---
-title: refers_to الملكية
+title: refers_to عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 130
 url: /ar/aspose.cells/name/refers_to/
 is_root: false
 ---
-##  refers_to الملكية
+##  refers_to عقار
 
-إرجاع أو تعيين الصيغة التي تم تعريف الاسم للإشارة إليها ، بدءًا بعلامة التساوي.
+يقوم بإرجاع أو تعيين الصيغة التي تم تعريف الاسم للإشارة إليها، بدءًا بعلامة المساواة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def refers_to(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

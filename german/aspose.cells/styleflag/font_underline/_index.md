@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_underline Eigentum
 
-Die Einstellung zum Unterstreichen der Schriftart wird angewendet.
+Die Einstellung für die Unterstreichung der Schriftart wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_underline(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

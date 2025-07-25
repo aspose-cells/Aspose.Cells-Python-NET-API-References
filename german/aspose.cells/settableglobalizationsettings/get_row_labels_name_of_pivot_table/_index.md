@@ -7,8 +7,8 @@ weight: 180
 url: /de/aspose.cells/settableglobalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table {#}
-Ruft den Namen der Bezeichnung „Zeilenbeschriftungen“ in der PivotTable ab.
+##  get_row_labels_name_of_pivot_table(self) {#}
+Ruft den Namen der Beschriftung „Zeilenbeschriftungen“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Der Name der Zeilenbeschriftungen
 
 
 ```python
+
 def get_row_labels_name_of_pivot_table(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_row_labels_name_of_pivot_table(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Immobilie wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

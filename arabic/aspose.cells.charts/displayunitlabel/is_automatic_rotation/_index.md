@@ -1,15 +1,15 @@
 ---
-title: is_automatic_rotation الملكية
+title: is_automatic_rotation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 240
 url: /ar/aspose.cells.charts/displayunitlabel/is_automatic_rotation/
 is_root: false
 ---
-##  is_automatic_rotation الملكية
+##  is_automatic_rotation عقار
 
-يشير إلى ما إذا كان سيتم تدوير نص المخطط تلقائيًا.
+يشير إلى ما إذا كان يتم تدوير نص الرسم البياني تلقائيًا.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_automatic_rotation(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_low_point fastighet
 
-Indikerar om de lägsta datapunkterna i sparklinegruppen ska markeras.
+Anger om de lägsta datapunkterna i miniatyrdiagramgruppen ska markeras.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_low_point(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

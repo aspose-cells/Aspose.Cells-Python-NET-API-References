@@ -3,13 +3,13 @@ title: export_all_column_indexes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 90
 url: /sv/aspose.cells/xlsbsaveoptions/export_all_column_indexes/
 is_root: false
 ---
 ##  export_all_column_indexes fastighet
 
-Anger om alla kolumnindex för celler exporteras.
+Anger om alla kolumnindex för celler ska exporteras.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def export_all_column_indexes(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [XlsbSaveOptions](/cells/python-net/sv/aspose.cells/xlsbsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`XlsbSaveOptions`](/cells/python-net/sv/aspose.cells/xlsbsaveoptions)

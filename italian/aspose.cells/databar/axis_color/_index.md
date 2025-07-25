@@ -1,6 +1,6 @@
 ---
 title: axis_color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  axis_color proprietà
 
-Ottiene il colore dell'asse per le celle con formattazione condizionale come barre dei dati.
+Ottiene il colore dell'asse per le celle con formattazione condizionale come barre dati.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def axis_color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/it/aspose.cells/databar)
+* modulo [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/it/aspose.cells/databar)

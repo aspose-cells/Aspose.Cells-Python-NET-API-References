@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  header_columns_count عقار
 
-عدد أعمدة الرأس التي سيتم تكرارها للأوراق الموسعة.
+عدد أعمدة الرأس التي يجب تكرارها للأوراق الممتدة.
 
 ###  ملاحظات
 
-سيتم تكرار أعمدة الرأس المحددة بواسطة هذه الخاصية لتلك الأوراق الموسعة.
-تصبح هذه الخاصية سارية المفعول فقط عندما يكون [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet) صحيحًا.
+سيتم تكرار أعمدة الرأس المحددة بواسطة هذه الخاصية لتلك الأوراق الممتدة.
+لا يتم تطبيق هذه الخاصية إلا عندما يكون [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet) صحيحًا.
 ###  تعريف:
 ```python
 @property

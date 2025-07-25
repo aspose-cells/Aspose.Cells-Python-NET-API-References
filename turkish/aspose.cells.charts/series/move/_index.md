@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.charts/series/move/
 is_root: false
 ---
-##  move(count) {#int}
-Seriyi yukarı veya aşağı taşır.
+##  move(self, count) {#int}
+Seriyi yukarı veya aşağı hareket ettirir.
 
 
 
 ```python
+
 def move(self, count):
     ...
 ```
@@ -20,10 +21,10 @@ def move(self, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| count | int | Yukarı veya aşağı hareket sayısı.<br/>Bu sıfırdan küçükse seriyi yukarı taşıyın;<br/> Bu sıfırdan büyükse seriyi aşağı taşıyın.|
+| count | int | Yukarı veya aşağı hareket sayısı.<br/>Eğer bu değer sıfırdan küçükse seriyi yukarı taşı;<br/> Eğer bu değer sıfırdan büyükse seriyi aşağı doğru hareket ettirin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

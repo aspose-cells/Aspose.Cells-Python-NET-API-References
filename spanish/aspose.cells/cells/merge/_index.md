@@ -3,16 +3,17 @@ title: método merge
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 780
+weight: 800
 url: /es/aspose.cells/cells/merge/
 is_root: false
 ---
-##  merge {#int-int-int-int}
+##  merge(self, first_row, first_column, total_rows, total_columns) {#int-int-int-int}
 Fusiona un rango específico de celdas en una sola celda.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns):
     ...
 ```
@@ -20,21 +21,22 @@ def merge(self, first_row, first_column, total_rows, total_columns):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_row | int | Primera fila de este rango (base cero)|
-| first_column | int | Primera columna de este rango (base cero)|
-| total_rows | int | Número de filas (una basada)|
-| total_columns | int | Número de columnas (una basada)|
+| first_row | int | Primera fila de este rango (basado en cero)|
+| first_column | int | Primera columna de este rango (basado en cero)|
+| total_rows | int |Número de filas (basado en uno)|
+| total_columns | int | Número de columnas (basadas en una)|
 ###  Observaciones
 
 Haga referencia a la celda fusionada a través de la dirección de la celda superior izquierda en el rango.
 
-##  merge {#int-int-int-int-bool}
+##  merge(self, first_row, first_column, total_rows, total_columns, merge_conflict) {#int-int-int-int-bool}
 
 Fusiona un rango específico de celdas en una sola celda.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns, merge_conflict):
     ...
 ```
@@ -42,23 +44,24 @@ def merge(self, first_row, first_column, total_rows, total_columns, merge_confli
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_row | int | Primera fila de este rango (base cero)|
-| first_column | int | Primera columna de este rango (base cero)|
-| total_rows | int | Número de filas (una basada)|
-| total_columns | int | Número de columnas (una basada)|
+| first_row | int | Primera fila de este rango (basado en cero)|
+| first_column | int | Primera columna de este rango (basado en cero)|
+| total_rows | int |Número de filas (basado en uno)|
+| total_columns | int | Número de columnas (basadas en una)|
 | merge_conflict | bool | Fusionar rangos fusionados en conflicto.|
 ###  Observaciones
 
 Haga referencia a la celda fusionada a través de la dirección de la celda superior izquierda en el rango.
 Si mergeConflict es verdadero y el rango fusionado entra en conflicto con otras celdas fusionadas,
-otras celdas fusionadas se eliminarán automáticamente.
+Las demás celdas fusionadas se eliminarán automáticamente.
 
-##  merge {#int-int-int-int-bool-bool}
+##  merge(self, first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict) {#int-int-int-int-bool-bool}
 Fusiona un rango específico de celdas en una sola celda.
 
 
 
 ```python
+
 def merge(self, first_row, first_column, total_rows, total_columns, check_conflict, merge_conflict):
     ...
 ```
@@ -66,17 +69,17 @@ def merge(self, first_row, first_column, total_rows, total_columns, check_confli
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| first_row | int | Primera fila de este rango (base cero)|
-| first_column | int | Primera columna de este rango (base cero)|
-| total_rows | int | Número de filas (una basada)|
-| total_columns | int | Número de columnas (una basada)|
-| check_conflict | bool | Indica si verificar que las celdas fusionadas se cruzan con otras celdas fusionadas|
+| first_row | int | Primera fila de este rango (basado en cero)|
+| first_column | int | Primera columna de este rango (basado en cero)|
+| total_rows | int |Número de filas (basado en uno)|
+| total_columns | int | Número de columnas (basadas en una)|
+| check_conflict | bool | Indica si la verificación de celdas fusionadas interseca otras celdas fusionadas|
 | merge_conflict | bool | Fusionar rangos fusionados en conflicto.|
 ###  Observaciones
 
 Haga referencia a la celda fusionada a través de la dirección de la celda superior izquierda en el rango.
 Si mergeConflict es verdadero y el rango fusionado entra en conflicto con otras celdas fusionadas,
-otras celdas fusionadas se eliminarán automáticamente.
+Las demás celdas fusionadas se eliminarán automáticamente.
 
 
 ###  Ver también

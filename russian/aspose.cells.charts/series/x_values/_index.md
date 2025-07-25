@@ -1,6 +1,6 @@
 ---
 title: x_values недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 530
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x_values недвижимость
 
-Представляет значения x серии диаграммы.
+Представляет значения x ряда диаграммы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def x_values(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

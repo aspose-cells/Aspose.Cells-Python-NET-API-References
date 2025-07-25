@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color_transparency Eigentum
 
-Gibt den Grad der Vordergrundfarbe der angegebenen Füllung als Wert von 0,0 (deckend) bis 1,0 (klar) zurück oder legt ihn fest.
+Gibt den Grad der Vordergrundfarbe der angegebenen Füllung als Wert zwischen 0,0 (undurchsichtig) und 1,0 (transparent) zurück oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color_transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MsoFillFormatHelper](/cells/python-net/de/aspose.cells.drawing/msofillformathelper)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MsoFillFormatHelper`](/cells/python-net/de/aspose.cells.drawing/msofillformathelper)

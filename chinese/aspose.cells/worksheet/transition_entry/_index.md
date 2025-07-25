@@ -3,13 +3,13 @@ title: transition_entry属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 850
+weight: 870
 url: /zh/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ## transition_entry属性
 
-指示是否启用转换公式输入（Lotus 兼容性）选项。
+指示是否启用“过渡公式输入（Lotus 兼容性）”选项。
 ### 定义：
 ```python
 @property

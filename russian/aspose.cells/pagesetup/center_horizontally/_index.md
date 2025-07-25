@@ -1,6 +1,6 @@
 ---
 title: center_horizontally недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 270
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_horizontally недвижимость
 
-Представляет, если лист печатается по центру по горизонтали.
+Указывает, отпечатан ли лист по центру горизонтально.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_horizontally(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

@@ -1,6 +1,6 @@
 ---
 title: set_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 200
@@ -15,8 +15,8 @@ Ottiene il tipo di set di formati di riempimento.
 
  NOTA: questo membro è ora obsoleto. Invece,
 utilizzare invece la proprietà FillFormat.FillType.
- Questa proprietà verrà rimossa 12 mesi dopo da luglio 2016.
-Aspose si scusa per gli eventuali disagi causati.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da luglio 2016.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [FillFormat](/cells/python-net/it/aspose.cells.drawing/fillformat)
-* classe [FormatSetType](/cells/python-net/it/aspose.cells.drawing/formatsettype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`FillFormat`](/cells/python-net/it/aspose.cells.drawing/fillformat)
+* classe [`FormatSetType`](/cells/python-net/it/aspose.cells.drawing/formatsettype)

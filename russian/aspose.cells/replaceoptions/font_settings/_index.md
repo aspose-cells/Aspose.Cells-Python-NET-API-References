@@ -1,6 +1,6 @@
 ---
 title: font_settings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_settings недвижимость
 
-Богатые настройки форматирования заменяемого текста.
+Расширенные настройки форматирования для замененного текста.
 ###  Определение:
 ```python
 @property

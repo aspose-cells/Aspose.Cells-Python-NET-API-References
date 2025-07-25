@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_entry fastighet
 
-Indikerar hur en ListBox eller ComboBox söker i sin lista när användaren skriver.
+Anger hur en listbox eller kombinationsbox söker i sin lista medan användaren skriver.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def match_entry(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* klass [ControlMatchEntryType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlmatchentrytype)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* klass [`ControlMatchEntryType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlmatchentrytype)

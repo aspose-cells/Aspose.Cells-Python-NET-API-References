@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_style fastighet
 
-Hämtar och ställer in den förinställda stiltypen för sparklinegruppen.
+Hämtar och anger den förinställda stiltypen för miniatyrdiagramgruppen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_style(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
-* klass [SparklinePresetStyleType](/cells/python-net/sv/aspose.cells.charts/sparklinepresetstyletype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* klass [`SparklinePresetStyleType`](/cells/python-net/sv/aspose.cells.charts/sparklinepresetstyletype)

@@ -1,6 +1,6 @@
 ---
 title: horizontal_axis_date_range недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_date_range недвижимость
 
-Представляет диапазон, содержащий значения даты для данных спарклайна.
+Представляет диапазон, содержащий значения дат для данных спарклайна.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [SparklineGroup](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`SparklineGroup`](/cells/python-net/ru/aspose.cells.charts/sparklinegroup)

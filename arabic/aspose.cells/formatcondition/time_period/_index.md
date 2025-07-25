@@ -1,5 +1,5 @@
 ---
-title: time_period الملكية
+title: time_period عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 190
 url: /ar/aspose.cells/formatcondition/time_period/
 is_root: false
 ---
-##  time_period الملكية
+##  time_period عقار
 
- الفترة الزمنية المطبقة في قاعدة التنسيق الشرطي "تاريخ حدوث ...".
-صالح فقط للنوع = timePeriod.
+ الفترة الزمنية المعمول بها في قاعدة التنسيق الشرطي "تاريخ وقوع...".
+صالح فقط لنوع = timePeriod.
 القيمة الافتراضية هي TimePeriodType.Today.
 ###  تعريف:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FormatCondition](/cells/python-net/ar/aspose.cells/formatcondition)
-* فئة [TimePeriodType](/cells/python-net/ar/aspose.cells/timeperiodtype)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FormatCondition`](/cells/python-net/ar/aspose.cells/formatcondition)
+* فئة [`TimePeriodType`](/cells/python-net/ar/aspose.cells/timeperiodtype)

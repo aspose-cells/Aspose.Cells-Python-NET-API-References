@@ -21,5 +21,5 @@ def index(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/fr/aspose.cells/conditionalformattingicon)

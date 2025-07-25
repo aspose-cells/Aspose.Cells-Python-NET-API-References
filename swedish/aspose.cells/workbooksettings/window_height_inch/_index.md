@@ -3,13 +3,13 @@ title: window_height_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 540
+weight: 550
 url: /sv/aspose.cells/workbooksettings/window_height_inch/
 is_root: false
 ---
 ##  window_height_inch fastighet
 
-Fönstrets höjd, i enhet av tum.
+Fönstrets höjd, i tum.
 ###  Definition:
 ```python
 @property

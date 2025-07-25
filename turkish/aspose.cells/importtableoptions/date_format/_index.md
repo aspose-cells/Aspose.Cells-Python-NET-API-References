@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  date_format mülk
 
-Alınan tarih saat değerlerine sahip hücreler için tarih biçimi dizesini alır veya ayarlar.
+İçeri aktarılan tarih/saat değerlerine sahip hücreler için tarih biçim dizesini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def date_format(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

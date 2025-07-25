@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plus_value propriété
 
-Représente un montant d'erreur positif lorsque le type de barre d'erreur est Personnalisé.
+Représente le montant d'erreur positif lorsque le type de barre d'erreur est Personnalisé.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def plus_value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)

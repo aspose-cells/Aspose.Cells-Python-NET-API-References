@@ -1,15 +1,15 @@
 ---
 title: is_text_wrapped недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 300
 url: /ru/aspose.cells.charts/title/is_text_wrapped/
 is_root: false
 ---
 ##  is_text_wrapped недвижимость
 
-Получает или задает значение, указывающее, переносится ли текст.
+Возвращает или задает значение, указывающее, переносится ли текст.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_text_wrapped(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Title](/cells/python-net/ru/aspose.cells.charts/title)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Title`](/cells/python-net/ru/aspose.cells.charts/title)

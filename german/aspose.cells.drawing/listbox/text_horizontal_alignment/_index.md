@@ -3,13 +3,13 @@ title: text_horizontal_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /de/aspose.cells.drawing/listbox/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment Eigentum
 
-Ruft den horizontalen Textausrichtungstyp der Form ab und legt diesen fest.
+Ruft den horizontalen Textausrichtungstyp der Form ab und legt ihn fest.
 
 ###  Beispiel
 

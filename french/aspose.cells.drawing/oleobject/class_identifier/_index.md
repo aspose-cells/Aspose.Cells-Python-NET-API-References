@@ -3,7 +3,7 @@ title: class_identifier propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 370
 url: /fr/aspose.cells.drawing/oleobject/class_identifier/
 is_root: false
 ---

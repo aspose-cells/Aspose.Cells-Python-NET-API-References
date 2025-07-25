@@ -3,13 +3,13 @@ title: entire_column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 300
+weight: 400
 url: /sv/aspose.cells/range/entire_column/
 is_root: false
 ---
 ##  entire_column fastighet
 
-Hämtar ett Range-objekt som representerar hela kolumnen (eller kolumnerna) som innehåller det angivna intervallet.
+Hämtar ett Range-objekt som representerar hela kolumnen (eller kolumnerna) som innehåller det angivna området.
 ###  Definition:
 ```python
 @property

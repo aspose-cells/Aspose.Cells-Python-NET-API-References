@@ -3,7 +3,7 @@ title: html_text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 500
+weight: 490
 url: /fr/aspose.cells.drawing/scrollbar/html_text/
 is_root: false
 ---

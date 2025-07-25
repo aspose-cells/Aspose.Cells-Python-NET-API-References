@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/cell/calculate/
 is_root: false
 ---
-##  calculate {#aspose.cells.CalculationOptions}
+##  calculate(self, options) {#aspose.cells.CalculationOptions}
 Hücrenin formülünü hesaplar.
 
 
 
 ```python
+
 def calculate(self, options):
     ...
 ```

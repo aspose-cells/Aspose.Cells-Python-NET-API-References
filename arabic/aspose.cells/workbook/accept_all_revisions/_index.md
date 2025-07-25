@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
-##  accept_all_revisions() {#}
-يقبل كل التغييرات المتعقبة في المصنف.
+##  accept_all_revisions(self) {#}
+يقبل كافة التغييرات المتعقبة في المصنف.
 
 
 
 ```python
+
 def accept_all_revisions(self):
     ...
 ```
@@ -22,5 +23,5 @@ def accept_all_revisions(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

@@ -8,25 +8,25 @@ url: /tr/aspose.cells.externalconnections/connectionparameter/
 is_root: false
 ---
 ##  ConnectionParameter sınıfı
-Harici veri bağlantılarıyla kullanılan tüm parametrelerle ilgili özellikleri belirtir
+Harici veri bağlantılarıyla kullanılan tüm parametreler hakkında özellikleri belirtir
 Parametreler ODBC ve web sorguları için geçerlidir.
 
 
 
-ConnectionParameter türü aşağıdaki üyeleri gösterir:
+ConnectionParameter türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
 | [sql_type](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/sql_type) | Parametrenin SQL veri türü. Yalnızca ODBC kaynakları için geçerlidir.|
-| [refresh_on_change](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/refresh_on_change) | Bir sorgunun içeriği değiştiğinde sorgunun otomatik olarak yenilenip yenilenmeyeceğini gösteren bayrak<br/> parametre değeri değişikliklerini sağlayan hücre. Doğruysa, harici veriler yenilenir<br/> her değişiklik olduğunda yeni parametre değerini kullanarak. Yanlışsa, harici veriler<br/> yalnızca kullanıcı tarafından istendiğinde veya başka bir olay yenilemeyi tetiklediğinde (örneğin, çalışma kitabı açıldı) yenilenir.|
-| [prompt](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/prompt) | Parametre için bilgi istemi dizesi. Elektronik tablo kullanıcısına giriş kullanıcı arabirimiyle birlikte sunulur<br/> harici verileri yenilemeden önce parametre değerini toplamak için. Sadece ne zaman kullanılır<br/>parametreTürü = bilgi istemi.|
-| [type](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/type) | Kullanılan parametre türü.<br/> parameterType=value ise, boolean, double, integer'dan gelen değer,<br/> veya dize kullanılacaktır. Bu durumda, yalnızca birinin olması beklenir.<br/> {boolean, double, integer veya string} belirtilecektir.|
+| [refresh_on_change](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/refresh_on_change) | Bir sorgunun içeriği güncellendiğinde otomatik olarak yenilenip yenilenmeyeceğini belirten bayrak<br/> Parametre değerini sağlayan hücre değişir. Doğruysa, harici veriler yenilenir.<br/> Her değişiklik olduğunda yeni parametre değeri kullanılır. Yanlış ise, harici veriler<br/> yalnızca kullanıcı tarafından istendiğinde veya başka bir olay yenilemeyi tetiklediğinde (örneğin, çalışma kitabı açıldığında) yenilenir.|
+| [prompt](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/prompt) | Parametre için istem dizesi. Giriş kullanıcı arayüzüyle birlikte elektronik tablo kullanıcısına sunulur.<br/> Harici verileri yenilemeden önce parametre değerini toplamak için kullanılır. Yalnızca şu durumlarda kullanılır:<br/>parametreTürü = istem.|
+| [type](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/type) | Kullanılan parametrenin türü.<br/> Eğer parameterType=value ise, boolean, double, integer değerlerinden biri<br/> veya dizesi kullanılacaktır. Bu durumda, yalnızca birinin kullanılması beklenir.<br/> {boolean, double, integer veya string} belirtilecektir.|
 | [name](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/name) | Parametrenin adı.|
-| [cell_reference](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/cell_reference) | Cell sorgu parametresi için hangi hücrenin değerinin kullanılacağını gösteren referans. Yalnızca parameterType hücre olduğunda kullanılır.|
-| [value](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/value) | Tamsayı olmayan sayısal değer,Tamsayı değeri,Dize değeri veya Boolean değeri<br/> sorgu parametresi olarak kullanmak için. Yalnızca parameterType değer olduğunda kullanılır.|
+| [cell_reference](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/cell_reference) | Cell, sorgu parametresi için hangi hücrenin değerinin kullanılacağını belirten referanstır. Yalnızca parameterType hücre olduğunda kullanılır.|
+| [value](/cells/python-net/tr/aspose.cells.externalconnections/connectionparameter/value) | Tam sayı olmayan sayısal değer, Tam sayı değeri, Dize değeri veya Boole değeri<br/> Sorgu parametresi olarak kullanılacak. Yalnızca parameterType değeri değer olduğunda kullanılır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](..)
+* modül [`aspose.cells.externalconnections`](..)

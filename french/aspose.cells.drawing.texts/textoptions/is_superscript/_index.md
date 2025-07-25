@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_superscript propriété
 
-Obtient ou définit une valeur indiquant si la police est un super script.
+Obtient ou définit une valeur indiquant si la police est en super script.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_superscript(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)

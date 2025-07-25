@@ -1,6 +1,6 @@
 ---
 title: JsonExportHyperlinkType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип JsonExportHyperlinkType предоставляет следующие члены:
+Тип JsonExportHyperlinkType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DISPLAY_STRING | Экспорт отображаемой строки|
-| ADDRESS | Экспортировать URL|
-| HTML_STRING | Экспортировать как html-строку.|
+| DISPLAY_STRING | Экспортировать отображаемую строку|
+| ADDRESS | URL-адрес экспорта|
+| HTML_STRING | Экспортировать как HTML-строку.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.json](..)
+* модуль [`aspose.cells.json`](..)

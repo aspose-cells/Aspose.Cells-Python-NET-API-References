@@ -1,6 +1,6 @@
 ---
 title: stops proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 240
@@ -18,6 +18,6 @@ def stops(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
-* classe [TextTabStopCollection](/cells/python-net/it/aspose.cells.drawing.texts/texttabstopcollection)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/it/aspose.cells.drawing.texts/textparagraph)
+* classe [`TextTabStopCollection`](/cells/python-net/it/aspose.cells.drawing.texts/texttabstopcollection)

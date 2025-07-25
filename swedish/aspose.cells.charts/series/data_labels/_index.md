@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_labels fastighet
 
-Representerar DataLabels-objektet för den angivna ASerien.
+Representerar DataLabels-objektet för den angivna A-serien.
 ###  Definition:
 ```python
 @property

@@ -3,16 +3,17 @@ title: unhide_columns Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 970
+weight: 990
 url: /de/aspose.cells/cells/unhide_columns/
 is_root: false
 ---
-##  unhide_columns {#int-int-float}
+##  unhide_columns(self, column, total_columns, width) {#int-int-float}
 Mehrere Spalten einblenden.
 
 
 
 ```python
+
 def unhide_columns(self, column, total_columns, width):
     ...
 ```

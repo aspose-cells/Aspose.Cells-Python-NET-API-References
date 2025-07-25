@@ -9,7 +9,7 @@ is_root: false
 ---
 ## down_bars属性
 
-返回一个 [`DropBars`](/cells/python-net/zh/aspose.cells.charts/dropbars) 对象，该对象表示折线图上的下降条。
+返回一个 [`DropBars`](/cells/python-net/zh/aspose.cells.charts/dropbars) 对象，表示折线图上的下行条。
 仅适用于折线图。
 ### 定义：
 ```python

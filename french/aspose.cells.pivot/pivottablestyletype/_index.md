@@ -3,7 +3,7 @@ title: PivotTableStyleType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 470
 url: /fr/aspose.cells.pivot/pivottablestyletype/
 is_root: false
 ---

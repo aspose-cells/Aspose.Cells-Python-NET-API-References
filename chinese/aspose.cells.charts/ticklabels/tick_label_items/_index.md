@@ -9,11 +9,11 @@ is_root: false
 ---
 ## tick_label_items属性
 
-获取每个刻度标签项的轴信息。
+获取轴的显示刻度标签。
 
-### 评论
+### 注意事项
 
-仅在调用 [`Chart.calculate`](/cells/python-net/zh/aspose.cells.charts/chart/calculate) 方法后可用。
+仅调用[`Chart.calculate`](/cells/python-net/zh/aspose.cells.charts/chart/calculate)方法后可用。
 ### 定义：
 ```python
 @property

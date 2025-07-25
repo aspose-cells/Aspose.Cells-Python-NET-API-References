@@ -1,5 +1,5 @@
 ---
-title: underflow الملكية
+title: underflow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 90
 url: /ar/aspose.cells.charts/axisbins/underflow/
 is_root: false
 ---
-##  underflow الملكية
+##  underflow عقار
 
-الحصول على أو تعيين underflow لحاويات المحور
+يحصل على أو يضبط underflow من صناديق المحور
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def underflow(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [AxisBins](/cells/python-net/ar/aspose.cells.charts/axisbins)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`AxisBins`](/cells/python-net/ar/aspose.cells.charts/axisbins)

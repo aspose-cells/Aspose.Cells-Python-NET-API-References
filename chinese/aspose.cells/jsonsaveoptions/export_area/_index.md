@@ -1,13 +1,13 @@
 ---
-title: export_area 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: export_area属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 70
+weight: 90
 url: /zh/aspose.cells/jsonsaveoptions/export_area/
 is_root: false
 ---
-## export_area 属性
+## export_area属性
 
 获取或设置导出范围。
 ### 定义：
@@ -21,6 +21,6 @@ def export_area(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellArea](/cells/python-net/zh/aspose.cells/cellarea)
-* 类 [JsonSaveOptions](/cells/python-net/zh/aspose.cells/jsonsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea)
+* 类 [`JsonSaveOptions`](/cells/python-net/zh/aspose.cells/jsonsaveoptions)

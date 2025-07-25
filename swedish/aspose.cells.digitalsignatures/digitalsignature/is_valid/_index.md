@@ -3,7 +3,7 @@ title: is_valid fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.digitalsignatures/digitalsignature/is_valid/
 is_root: false
 ---
@@ -19,5 +19,5 @@ def is_valid(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.digitalsignatures](../../)
-* klass [DigitalSignature](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature)
+* modul [`aspose.cells.digitalsignatures`](../../)
+* klass [`DigitalSignature`](/cells/python-net/sv/aspose.cells.digitalsignatures/digitalsignature)

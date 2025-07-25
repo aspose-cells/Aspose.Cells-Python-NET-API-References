@@ -11,11 +11,18 @@ is_root: false
 
 Gibt den height des angegebenen Slicers in Punkten zurück oder legt ihn fest.
 
+###  Bemerkungen
+
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+ Bitte verwenden Sie die Shape.HeightPt-Eigenschaft.
+ Diese Eigenschaft wird 12 Monate später ab Mai 2025 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
+
 ###  Beispiel
 
 ```python
 
-slicer.height = 120
+slicer.height = 120.0
 
 ```
 ###  Definition:
@@ -29,5 +36,5 @@ def height(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

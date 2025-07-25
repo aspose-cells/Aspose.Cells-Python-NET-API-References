@@ -7,7 +7,7 @@ weight: 20
 url: /ar/aspose.cells/conditionalformattingicon/get_icon_image_data/
 is_root: false
 ---
-##  get_icon_image_data(type, index) {#IconSetType-int}
+##  get_icon_image_data(، النوع، الفهرس){#aspose.cells.IconSetType-int}
 احصل على بيانات مجموعة الأيقونات
 
 
@@ -17,18 +17,20 @@ is_root: false
 
 
 ```python
-def get_icon_image_data(self, type, index):
+
+@staticmethod
+def get_icon_image_data(type, index):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/ar/aspose.cells/iconsettype) | نوع الرمز|
-| index | int | فهرس الأيقونة|
+| type | [`IconSetType`](/cells/python-net/ar/aspose.cells/iconsettype) | نوع الأيقونة|
+| index | int | مؤشر الأيقونة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)

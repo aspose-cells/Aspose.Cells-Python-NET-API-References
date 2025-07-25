@@ -3,16 +3,17 @@ title: طريقة get_result_of_smart_art
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells.drawing/rectangleshape/get_result_of_smart_art/
 is_root: false
 ---
-##  get_result_of_smart_art {#}
+##  get_result_of_smart_art(self) {#}
 تحويل الفن الذكي إلى أشكال مجمعة.
 
 
 
 ```python
+
 def get_result_of_smart_art(self):
     ...
 ```

@@ -1,13 +1,13 @@
 ---
-title: attached_files_directory 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: attached_files_directory属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells/htmlsaveoptions/attached_files_directory/
 is_root: false
 ---
-## attached_files_directory 属性
+## attached_files_directory属性
 
 附加文件将保存到的目录。
 仅用于保存到 html 流。
@@ -22,5 +22,5 @@ def attached_files_directory(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlSaveOptions](/cells/python-net/zh/aspose.cells/htmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlSaveOptions`](/cells/python-net/zh/aspose.cells/htmlsaveoptions)

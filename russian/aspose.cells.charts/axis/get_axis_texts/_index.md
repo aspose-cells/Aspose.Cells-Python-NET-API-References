@@ -1,18 +1,19 @@
 ---
 title: get_axis_texts метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.charts/axis/get_axis_texts/
 is_root: false
 ---
-##  get_axis_texts {#}
-Получает метки оси после вызова метода Chart.Calculate().
+##  get_axis_texts(self) {#}
+Получает метки осей после вызова метода Chart.Calculate().
 
 
 
 ```python
+
 def get_axis_texts(self):
     ...
 ```

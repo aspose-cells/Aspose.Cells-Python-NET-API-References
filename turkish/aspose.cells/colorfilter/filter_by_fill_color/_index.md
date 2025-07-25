@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color mülk
 
-Hücrenin dolgu rengine göre filtrelenip filtrelenmeyeceği.
+Hücrenin dolgu rengine göre filtreleme yapın.
 
 ###  Notlar
 
-Doğru: hücrenin dolgu rengi; Yanlış: hücrenin yazı tipi rengi.
+Doğru: hücrenin dolgu rengi; Yanlış: hücrenin yazı rengi.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font propiedad
 
-Verdadero si el texto del objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto. El valor por defecto es verdadero.
+Verdadero si el texto del objeto cambia de tamaño de fuente al cambiar el tamaño del objeto. El valor predeterminado es Verdadero.
 ###  Definición:
 ```python
 @property

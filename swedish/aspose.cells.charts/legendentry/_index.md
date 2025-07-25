@@ -17,13 +17,13 @@ Typen LegendEntry avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [is_deleted](/cells/python-net/sv/aspose.cells.charts/legendentry/is_deleted) | Hämtar och ställer in om förklaringsposten raderas.|
-| [font](/cells/python-net/sv/aspose.cells.charts/legendentry/font) | Hämtar ett [`LegendEntry.font`](/cells/python-net/sv/aspose.cells.charts/legendentry#font)-objekt av det angivna ChartFrame-objektet.|
-| [text_font](/cells/python-net/sv/aspose.cells.charts/legendentry/text_font) | Hämtar ett [`LegendEntry.font`](/cells/python-net/sv/aspose.cells.charts/legendentry#font)-objekt av det angivna LegendEntry-objektet.|
-| [is_text_no_fill](/cells/python-net/sv/aspose.cells.charts/legendentry/is_text_no_fill) | Får eller sätter ingen fyllning av texten.|
-| [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/legendentry/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras.<br/>Standardvärdet är True.|
-| [background](/cells/python-net/sv/aspose.cells.charts/legendentry/background) | Hämtar och ställer in visningsläget för bakgrunden|
-| [background_mode](/cells/python-net/sv/aspose.cells.charts/legendentry/background_mode) | Hämtar och ställer in visningsläget för bakgrunden|
+| [is_deleted](/cells/python-net/sv/aspose.cells.charts/legendentry/is_deleted) | Hämtar och anger om förklaringsposten ska tas bort.|
+| [font](/cells/python-net/sv/aspose.cells.charts/legendentry/font) |Hämtar ett [`LegendEntry.font`](/cells/python-net/sv/aspose.cells.charts/legendentry#font)-objekt från det angivna ChartFrame-objektet.|
+| [text_font](/cells/python-net/sv/aspose.cells.charts/legendentry/text_font) | Hämtar ett [`LegendEntry.font`](/cells/python-net/sv/aspose.cells.charts/legendentry#font)-objekt från det angivna LegendEntry-objektet.|
+| [is_text_no_fill](/cells/python-net/sv/aspose.cells.charts/legendentry/is_text_no_fill) | Hämtar eller anger ingen fyllning av texten.|
+| [auto_scale_font](/cells/python-net/sv/aspose.cells.charts/legendentry/auto_scale_font) | Sant om texten i objektet ändrar teckenstorlek när objektstorleken ändras.<br/> Standardvärdet är Sant.|
+| [background](/cells/python-net/sv/aspose.cells.charts/legendentry/background) | Hämtar och ställer in bakgrundens visningsläge|
+| [background_mode](/cells/python-net/sv/aspose.cells.charts/legendentry/background_mode) | Hämtar och ställer in bakgrundens visningsläge|
 
 
 

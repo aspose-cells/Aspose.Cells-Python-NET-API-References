@@ -3,20 +3,21 @@ title: get_connection_points yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 80
+weight: 100
 url: /tr/aspose.cells.drawing/combobox/get_connection_points/
 is_root: false
 ---
-##  get_connection_points() {#}
+##  get_connection_points(self) {#}
 Bağlantı noktalarını alın
 
 
 ###  İadeler
 
-[X,Y] bağlantı noktası çiftleri. Her öğe bir float[2] dizisidir, [0] x'i temsil eder ve [1] y'yi temsil eder.
+Bağlantı noktasının [X,Y] çiftleri. Her öğe bir float[2] dizisidir, [0] x'i ve [1] y'yi temsil eder.
 
 
 ```python
+
 def get_connection_points(self):
     ...
 ```
@@ -34,5 +35,5 @@ points = shape.get_connection_points()
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ComboBox](/cells/python-net/tr/aspose.cells.drawing/combobox)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ComboBox`](/cells/python-net/tr/aspose.cells.drawing/combobox)

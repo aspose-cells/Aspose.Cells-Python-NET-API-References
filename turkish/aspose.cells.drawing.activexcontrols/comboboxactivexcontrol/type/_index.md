@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ComboBoxActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* sınıf [ControlType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controltype)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ComboBoxActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* sınıf [`ControlType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controltype)

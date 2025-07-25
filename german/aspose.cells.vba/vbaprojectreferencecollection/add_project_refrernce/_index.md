@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/
 is_root: false
 ---
-##  add_project_refrernce(name, absolute_libid, relative_libid) {#str-str-str}
+##  add_project_refrernce(self, name, absolute_libid, relative_libid) {#str-str-str}
 Fügt einen Verweis auf ein externes VBA-Projekt hinzu.
 
 
@@ -17,6 +17,7 @@ Fügt einen Verweis auf ein externes VBA-Projekt hinzu.
 
 
 ```python
+
 def add_project_refrernce(self, name, absolute_libid, relative_libid):
     ...
 ```
@@ -25,11 +26,11 @@ def add_project_refrernce(self, name, absolute_libid, relative_libid):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | name | str | Der Name der Referenz.|
-| absolute_libid | str | Der Bezeichner des referenzierten VBA-Projekts mit einem absoluten Pfad.|
-| relative_libid | str | Der Bezeichner des referenzierten VBA-Projekts mit einem relativen Pfad.|
+| absolute_libid | str | Die Kennung des referenzierten VBA-Projekts mit einem absoluten Pfad.|
+| relative_libid | str | Die Kennung des referenzierten VBA-Projekts mit einem relativen Pfad.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProjectReferenceCollection](/cells/python-net/de/aspose.cells.vba/vbaprojectreferencecollection)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProjectReferenceCollection`](/cells/python-net/de/aspose.cells.vba/vbaprojectreferencecollection)

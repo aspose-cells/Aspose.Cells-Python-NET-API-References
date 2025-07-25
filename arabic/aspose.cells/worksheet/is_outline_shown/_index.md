@@ -3,13 +3,13 @@ title: is_outline_shown عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 570
+weight: 600
 url: /ar/aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---
 ##  is_outline_shown عقار
 
-يشير إلى ما إذا كان سيتم إظهار المخطط التفصيلي.
+يشير إلى ما إذا كان سيتم عرض المخطط التفصيلي.
 ###  تعريف:
 ```python
 @property

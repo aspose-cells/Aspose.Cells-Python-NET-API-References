@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment fastighet
 
-Hämtar och ställer in bildtextens position i förhållande till kontrollen.
+Hämtar och anger positionen för bildtexten i förhållande till kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ControlCaptionAlignmentType](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
-* klass [RadioButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ControlCaptionAlignmentType`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* klass [`RadioButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

@@ -13,8 +13,8 @@ Antalet rubrikkolumner som ska upprepas för utökade ark.
 
 ###  Anmärkningar
 
-Rubrikkolumnerna som anges av den här egenskapen kommer att dupliceras för de utökade arken.
-Den här egenskapen träder bara i kraft när [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/sv/aspose.cells/txtloadoptions#extend_to_next_sheet) är sant.
+Rubrikkolumnerna som anges av den här egenskapen kommer att dupliceras för dessa utökade ark.
+Den här egenskapen träder endast i kraft när [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/sv/aspose.cells/txtloadoptions#extend_to_next_sheet) är sant.
 ###  Definition:
 ```python
 @property

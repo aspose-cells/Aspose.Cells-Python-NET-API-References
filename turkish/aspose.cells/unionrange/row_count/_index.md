@@ -3,7 +3,7 @@ title: row_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 230
+weight: 220
 url: /tr/aspose.cells/unionrange/row_count/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Aralıktaki satır sayısını alır.
 
 ###  Notlar
 
-Yalnızca bir aralık içerdiğinde etkilidir.
+Sadece bir aralık içerdiğinde etkilidir.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def row_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

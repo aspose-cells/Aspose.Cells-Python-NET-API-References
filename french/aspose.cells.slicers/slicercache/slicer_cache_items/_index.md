@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  slicer_cache_items propriété
 
-Renvoie une collection SlicerCacheItem qui contient la collection de tous les éléments du cache du segment. Lecture seulement
+Renvoie une collection SlicerCacheItem contenant tous les éléments du cache du slicer. Lecture seule.
 
 ###  Exemple
 
@@ -28,6 +28,6 @@ def slicer_cache_items(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.slicers](../../)
-* classe [SlicerCache](/cells/python-net/fr/aspose.cells.slicers/slicercache)
-* classe [SlicerCacheItemCollection](/cells/python-net/fr/aspose.cells.slicers/slicercacheitemcollection)
+* module [`aspose.cells.slicers`](../../)
+* classe [`SlicerCache`](/cells/python-net/fr/aspose.cells.slicers/slicercache)
+* classe [`SlicerCacheItemCollection`](/cells/python-net/fr/aspose.cells.slicers/slicercacheitemcollection)

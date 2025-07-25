@@ -1,5 +1,5 @@
 ---
-title: start_row الملكية
+title: start_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells/verticalpagebreak/start_row/
 is_root: false
 ---
-##  start_row الملكية
+##  start_row عقار
 
-الحصول على فهرس صف البداية لفاصل الصفحات الرأسي.
+يحصل على مؤشر الصف الأول لكسر الصفحة الرأسي.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak)

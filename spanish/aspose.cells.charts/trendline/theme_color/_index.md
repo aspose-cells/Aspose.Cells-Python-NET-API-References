@@ -25,6 +25,6 @@ def theme_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ThemeColor](/cells/python-net/es/aspose.cells/themecolor)
-* clase [Trendline](/cells/python-net/es/aspose.cells.charts/trendline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ThemeColor`](/cells/python-net/es/aspose.cells/themecolor)
+* clase [`Trendline`](/cells/python-net/es/aspose.cells.charts/trendline)

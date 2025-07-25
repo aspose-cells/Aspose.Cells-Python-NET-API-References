@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  update_all_points fastighet
 
- Om du uppdaterar alla datapunkter när du utför diagramberäkningen. Standard: Falskt.
-När du vill få värdet för varje datapunkt i diagrammet specifikt, ställ in det på sant.
-Om denna parameter är inställd på True, kan de nya datapunkterna genereras när diagrammet beräknas. Detta kan göra Excel-filen större.
+ Om alla datapunkter ska uppdateras när diagramberäkningen utförs. Standard: Falskt.
+När du vill hämta värdet för varje datapunkt i diagrammet specifikt, sätt det till sant.
+Om den här parametern är inställd på True kan nya datapunkter genereras när diagrammet beräknas. Detta kan göra Excel-filen större.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: reflection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 850
 url: /sv/aspose.cells.drawing/button/reflection/
 is_root: false
 ---
 ##  reflection fastighet
 
-Representerar ett [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)-objekt som anger reflection-effekt för diagramelementet eller formen.
+Representerar ett [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)-objekt som anger reflection-effekten för diagramelementet eller formen.
 
 ###  Exempel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  texture fastighet
 
-Får fyllningstypen texture.
+Hämtar fyllningstypen texture.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def texture(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
-* klass [TextureType](/cells/python-net/sv/aspose.cells.drawing/texturetype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
+* klass [`TextureType`](/cells/python-net/sv/aspose.cells.drawing/texturetype)

@@ -1,9 +1,9 @@
 ---
 title: window_height_cm недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 530
+weight: 540
 url: /ru/aspose.cells/workbooksettings/window_height_cm/
 is_root: false
 ---

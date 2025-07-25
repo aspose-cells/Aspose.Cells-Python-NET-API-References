@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data mülk
 
-Bu Özel XML Veri Depolama Bölümünün XML içeriğini alır veya ayarlar.
+Bu Özel XML Veri Depolama Parçasının XML içeriğini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](../../)
-* sınıf [CustomXmlPart](/cells/python-net/tr/aspose.cells.markup/customxmlpart)
+* modül [`aspose.cells.markup`](../../)
+* sınıf [`CustomXmlPart`](/cells/python-net/tr/aspose.cells.markup/customxmlpart)

@@ -1,22 +1,23 @@
 ---
 title: characters方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/comment/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-返回一个 Characters 对象，该对象表示注释文本中的 characters 范围。
+##  characters(self, start_index, length) {#int-int}
+返回表示注释文本中 characters 范围的 Characters 对象。
 
 
 ### 返回
 
-字符对象。
+人物对象。
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -38,5 +39,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Comment](/cells/python-net/zh/aspose.cells/comment)
+* 模块[`aspose.cells`](../../)
+* 类 [`Comment`](/cells/python-net/zh/aspose.cells/comment)

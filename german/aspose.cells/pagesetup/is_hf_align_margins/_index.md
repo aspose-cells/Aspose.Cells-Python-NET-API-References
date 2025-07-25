@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_hf_align_margins Eigentum
 
-Gibt an, ob Kopf- und Fußzeilenränder an den Seitenrändern ausgerichtet sind.
-Wenn diese Eigenschaft wahr ist, werden die linke Kopf- und Fußzeile am linken Rand ausgerichtet,
-und die rechte Kopf- und Fußzeile werden am rechten Rand ausgerichtet.
+Gibt an, ob die Kopf- und Fußzeilenränder an den Seitenrändern ausgerichtet sind.
+Wenn diese Eigenschaft auf „true“ gesetzt ist, werden die linke Kopf- und Fußzeile am linken Rand ausgerichtet.
+und die rechte Kopf- und Fußzeile wird am rechten Rand ausgerichtet.
 Diese Option ist standardmäßig aktiviert.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def is_hf_align_margins(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

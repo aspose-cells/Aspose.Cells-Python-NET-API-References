@@ -1,6 +1,6 @@
 ---
 title: has_drop_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 190
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  has_drop_lines proprietà
 
-Vero se il grafico presenta linee di rilascio.
-Si applica solo ai grafici a linee o ai grafici ad area.
+Vero se il grafico presenta linee di caduta.
+Si applica solo ai grafici a linee o ad area.
 ###  Definizione:
 ```python
 @property

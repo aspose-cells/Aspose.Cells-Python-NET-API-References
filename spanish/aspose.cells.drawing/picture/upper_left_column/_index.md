@@ -3,7 +3,7 @@ title: upper_left_column propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1330
+weight: 1350
 url: /es/aspose.cells.drawing/picture/upper_left_column/
 is_root: false
 ---

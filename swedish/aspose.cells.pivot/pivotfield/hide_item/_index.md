@@ -3,16 +3,17 @@ title: hide_item metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 160
 url: /sv/aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---
-##  hide_item {#int-bool}
-Anger om den specifika PivotItem i ett datafält är dold.
+##  hide_item(self, index, is_hidden) {#int-bool}
+Anger om det specifika pivotobjektet i ett datafält är dolt.
 
 
 
 ```python
+
 def hide_item(self, index, is_hidden):
     ...
 ```
@@ -20,16 +21,17 @@ def hide_item(self, index, is_hidden):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| index | int | indexet för pivotItem i pivotfältet.|
-| is_hidden | bool | om den specifika PivotItem är dold|
+| index | int | indexet för pivotItem i pivotField.|
+| is_hidden | bool | om det specifika PivotItem är dolt|
 
 
-##  hide_item {#str-bool}
-Anger om den specifika PivotItem i ett datafält är dold.
+##  hide_item(self, item_value, is_hidden) {#str-bool}
+Anger om det specifika pivotobjektet i ett datafält är dolt.
 
 
 
 ```python
+
 def hide_item(self, item_value, is_hidden):
     ...
 ```
@@ -37,8 +39,8 @@ def hide_item(self, item_value, is_hidden):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| item_value | str | värdet för pivotItem i pivotfältet.|
-| is_hidden | bool | om den specifika PivotItem är dold|
+| item_value | str | värdet för pivotItem i pivotField.|
+| is_hidden | bool | om det specifika PivotItem är dolt|
 
 
 

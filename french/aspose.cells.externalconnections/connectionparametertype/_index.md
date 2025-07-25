@@ -1,13 +1,13 @@
 ---
-title: ConnectionParameterType dénombrement
+title: ConnectionParameterType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 80
 url: /fr/aspose.cells.externalconnections/connectionparametertype/
 is_root: false
 ---
-##  ConnectionParameterType dénombrement
+##  ConnectionParameterType énumération
 Spécifie le type de paramètre de connexion externe
 
 
@@ -24,4 +24,4 @@ Le type ConnectionParameterType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.externalconnections](..)
+* module [`aspose.cells.externalconnections`](..)

@@ -3,13 +3,13 @@ title: hide_pivot_field_list propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 240
 url: /es/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ##  hide_pivot_field_list propiedad
 
-Obtiene y establece si se oculta la lista de campos de la tabla dinámica.
+Obtiene y establece si se oculta la lista de campos para la tabla dinámica.
 ###  Definición:
 ```python
 @property

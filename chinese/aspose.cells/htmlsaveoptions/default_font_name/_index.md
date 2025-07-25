@@ -3,14 +3,14 @@ title: default_font_name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 150
 url: /zh/aspose.cells/htmlsaveoptions/default_font_name/
 is_root: false
 ---
 ## default_font_name属性
 
-指定导出html的默认字体名称，当style的字体不存在时将使用默认字体，
-如果该属性为空，Aspose.Cells将使用与原始字体同族的通用字体，
+指定导出html的默认字体名称，当style的字体不存在时，将使用默认字体，
+如果此属性为空，Aspose.Cells 将使用与原始字体具有相同系列的通用字体，
 默认值为空。
 ### 定义：
 ```python

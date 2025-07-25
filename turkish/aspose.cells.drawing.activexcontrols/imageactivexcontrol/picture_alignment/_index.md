@@ -21,6 +21,6 @@ def picture_alignment(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlPictureAlignmentType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
-* sınıf [ImageActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlPictureAlignmentType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype)
+* sınıf [`ImageActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_horizontally Eigentum
 
-Stellen Sie dar, ob das Blatt horizontal zentriert gedruckt wird.
+Gibt an, ob das Blatt horizontal zentriert gedruckt wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_horizontally(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

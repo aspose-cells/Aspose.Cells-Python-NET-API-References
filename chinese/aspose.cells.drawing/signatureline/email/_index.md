@@ -1,15 +1,15 @@
 ---
-title: email 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: email属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.drawing/signatureline/email/
 is_root: false
 ---
-## email 属性
+## email属性
 
-获取并设置歌手的 email。
+获取或设置歌手的 email。
 
 ### 例子
 
@@ -32,5 +32,5 @@ def email(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [SignatureLine](/cells/python-net/zh/aspose.cells.drawing/signatureline)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`SignatureLine`](/cells/python-net/zh/aspose.cells.drawing/signatureline)

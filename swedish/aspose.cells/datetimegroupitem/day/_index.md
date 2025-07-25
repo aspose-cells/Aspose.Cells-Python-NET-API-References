@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  day fastighet
 
-Hämtar och ställer in day för den grupperade datumtiden.
+Hämtar och ställer in day för det grupperade datumet och tiden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def day(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)

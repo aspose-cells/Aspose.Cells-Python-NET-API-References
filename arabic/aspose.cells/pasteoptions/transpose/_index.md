@@ -1,15 +1,15 @@
 ---
-title: transpose الملكية
+title: transpose عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/pasteoptions/transpose/
 is_root: false
 ---
-##  transpose الملكية
+##  transpose عقار
 
-يتم تصحيح transpose من الصفوف والأعمدة عند لصق النطاق. القيمة الافتراضية هي كاذبة.
+صحيح للصفوف والأعمدة ٠٧٦١٠٣٤٨١ عند لصق النطاق. القيمة الافتراضية هي خطأ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def transpose(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PasteOptions](/cells/python-net/ar/aspose.cells/pasteoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PasteOptions`](/cells/python-net/ar/aspose.cells/pasteoptions)

@@ -1,6 +1,6 @@
 ---
 title: diagonal_down_border недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  diagonal_down_border недвижимость
 
-Будут применены настройки по диагонали вниз.
+Будут применены настройки диагональной нижней границы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_down_border(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [StyleFlag](/cells/python-net/ru/aspose.cells/styleflag)
+* модуль [`aspose.cells`](../../)
+* класс [`StyleFlag`](/cells/python-net/ru/aspose.cells/styleflag)

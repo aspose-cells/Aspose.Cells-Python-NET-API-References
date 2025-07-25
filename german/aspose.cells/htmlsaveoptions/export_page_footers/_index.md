@@ -3,7 +3,7 @@ title: export_page_footers Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 370
 url: /de/aspose.cells/htmlsaveoptions/export_page_footers/
 is_root: false
 ---

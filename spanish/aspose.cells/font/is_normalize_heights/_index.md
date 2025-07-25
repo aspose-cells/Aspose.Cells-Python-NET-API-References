@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_normalize_heights propiedad
 
-Indica si la normalización de altura que se va a aplicar al texto se ejecuta.
+Indica si se debe aplicar la normalización de altura al texto ejecutado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_normalize_heights(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

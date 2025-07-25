@@ -1,15 +1,15 @@
 ---
-title: end_arrowhead_style 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: end_arrowhead_style属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 130
 url: /zh/aspose.cells.drawing/lineformat/end_arrowhead_style/
 is_root: false
 ---
-## end_arrowhead_style 属性
+## end_arrowhead_style属性
 
-获取和设置线的结束箭头类型。
+获取并设置线的终止箭头类型。
 
 ### 例子
 
@@ -30,6 +30,6 @@ def end_arrowhead_style(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
-* 类 [MsoArrowheadStyle](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadstyle)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 类 [`MsoArrowheadStyle`](/cells/python-net/zh/aspose.cells.drawing/msoarrowheadstyle)

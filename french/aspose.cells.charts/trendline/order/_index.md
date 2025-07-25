@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  order propriété
 
- Renvoie ou définit la courbe de tendance order (un entier supérieur à 1) lorsque le type de courbe de tendance est polynomial.
+ Renvoie ou définit la ligne de tendance order (un entier supérieur à 1) lorsque le type de ligne de tendance est Polynomial.
 Le order doit être compris entre 2 et 6.
 ###  Définition:
 ```python
@@ -22,5 +22,5 @@ def order(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Trendline](/cells/python-net/fr/aspose.cells.charts/trendline)
+* module [`aspose.cells.charts`](../../)
+* classe [`Trendline`](/cells/python-net/fr/aspose.cells.charts/trendline)

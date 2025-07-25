@@ -3,13 +3,13 @@ title: language_code属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 230
 url: /zh/aspose.cells/txtloadoptions/language_code/
 is_root: false
 ---
 ## language_code属性
 
-根据保存文件的 CountryCode 获取或设置 Workbook 版本的用户界面语言。
+根据保存文件的国家/地区代码获取或设置工作簿版本的用户界面语言。
 ### 定义：
 ```python
 @property

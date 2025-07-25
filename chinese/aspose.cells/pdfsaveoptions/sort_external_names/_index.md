@@ -1,15 +1,13 @@
 ---
-title: sort_external_names 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: sort_external_names属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 460
 url: /zh/aspose.cells/pdfsaveoptions/sort_external_names/
 is_root: false
 ---
-## sort_external_names 属性
-
-指示是否在保存文件之前对外部定义的名称进行排序。
+## sort_external_names属性
 ### 定义：
 ```python
 @property
@@ -21,5 +19,5 @@ def sort_external_names(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

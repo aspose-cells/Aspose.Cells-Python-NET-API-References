@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/top10/__init__/
 is_root: false
 ---
-##  Top10() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de Top10
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Top10](/cells/python-net/fr/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* classe [`Top10`](/cells/python-net/fr/aspose.cells/top10)

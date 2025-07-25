@@ -13,16 +13,16 @@ Représente l'angle de rotation du texte.
 
 ###  Remarques
 
-0 : Pas de rotation.
+0 : Non tourné.
 
 
-255 : de haut en bas.
+255 : De haut en bas.
 
 
 -90 : Vers le bas.
 
 
-90 : Vers le haut.
+90 : Vers le haut.
 
 
 Vous pouvez définir 255 ou une valeur comprise entre -90 et 90.

@@ -3,7 +3,7 @@ title: workbook fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 950
 url: /sv/aspose.cells/worksheet/workbook/
 is_root: false
 ---

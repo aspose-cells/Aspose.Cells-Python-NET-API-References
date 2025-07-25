@@ -1,5 +1,5 @@
 ---
-title: indent الملكية
+title: indent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 210
 url: /ar/aspose.cells/styleflag/indent/
 is_root: false
 ---
-##  indent الملكية
+##  indent عقار
 
 سيتم تطبيق إعداد مستوى المسافة البادئة.
 ###  تعريف:
@@ -21,5 +21,5 @@ def indent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/colorfilter/get_color/
 is_root: false
 ---
-##  get_color {#aspose.cells.WorksheetCollection}
+##  get_color(self, sheets) {#aspose.cells.WorksheetCollection}
 Ruft die Farbe dieses Filters ab.
 
 
@@ -17,6 +17,7 @@ Ruft die Farbe dieses Filters ab.
 
 
 ```python
+
 def get_color(self, sheets):
     ...
 ```

@@ -1,9 +1,9 @@
 ---
 title: group_level недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells/row/group_level/
 is_root: false
 ---
@@ -15,8 +15,11 @@ is_root: false
 @property
 def group_level(self):
     ...
+@group_level.setter
+def group_level(self, value):
+    ...
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

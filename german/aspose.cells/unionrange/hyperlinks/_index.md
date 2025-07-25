@@ -3,7 +3,7 @@ title: hyperlinks Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 180
+weight: 170
 url: /de/aspose.cells/unionrange/hyperlinks/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def hyperlinks(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

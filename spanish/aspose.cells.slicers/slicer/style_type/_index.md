@@ -3,14 +3,14 @@ title: style_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 260
 url: /es/aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
 ##  style_type propiedad
 
-Especifique el tipo de estilo de segmentación incorporado
-el tipo predeterminado es SlicerStyleLight1
+Especifique el tipo de estilo de segmentación de datos integrado
+El tipo predeterminado es SlicerStyleLight1
 
 ###  Ejemplo
 
@@ -31,6 +31,6 @@ def style_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](../../)
-* clase [Slicer](/cells/python-net/es/aspose.cells.slicers/slicer)
-* clase [SlicerStyleType](/cells/python-net/es/aspose.cells.slicers/slicerstyletype)
+* módulo [`aspose.cells.slicers`](../../)
+* clase [`Slicer`](/cells/python-net/es/aspose.cells.slicers/slicer)
+* clase [`SlicerStyleType`](/cells/python-net/es/aspose.cells.slicers/slicerstyletype)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font propiedad
 
-Obtiene un objeto [Style.font](/cells/python-net/es/aspose.cells/style#font).
+Obtiene un objeto [`Style.font`](/cells/python-net/es/aspose.cells/style#font).
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

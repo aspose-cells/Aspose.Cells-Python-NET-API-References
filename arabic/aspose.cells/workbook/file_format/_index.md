@@ -3,13 +3,13 @@ title: file_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ar/aspose.cells/workbook/file_format/
 is_root: false
 ---
 ##  file_format عقار
 
-يحصل ويحدد تنسيق الملف.
+يحصل على تنسيق الملف ويحدده.
 ###  تعريف:
 ```python
 @property

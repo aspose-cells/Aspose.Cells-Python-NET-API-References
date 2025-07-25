@@ -3,13 +3,13 @@ title: window_top_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 610
 url: /sv/aspose.cells/workbooksettings/window_top_inch/
 is_root: false
 ---
 ##  window_top_inch fastighet
 
-Avståndet från klientområdets övre kant till fönstrets övre kant, i tumenhet.
+Avståndet från klientområdets överkant till fönstrets överkant, i tum.
 ###  Definition:
 ```python
 @property

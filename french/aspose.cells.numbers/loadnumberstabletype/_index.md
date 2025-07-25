@@ -1,5 +1,5 @@
 ---
-title: LoadNumbersTableType dénombrement
+title: LoadNumbersTableType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 20
 url: /fr/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
-##  LoadNumbersTableType dénombrement
-Indique le type de chargement des tables lorsque certaines tables sont dans une feuille.
+##  LoadNumbersTableType énumération
+Indique le type de tables de chargement lorsque certaines tables se trouvent dans une feuille.
 
 
 
@@ -24,4 +24,4 @@ Le type LoadNumbersTableType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.numbers](..)
+* module [`aspose.cells.numbers`](..)

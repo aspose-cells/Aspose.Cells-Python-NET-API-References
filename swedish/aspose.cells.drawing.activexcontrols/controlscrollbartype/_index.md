@@ -3,7 +3,7 @@ title: ControlScrollBarType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 220
 url: /sv/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ Typen ControlScrollBarType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NONE | Visar inga rullningslister.|
+| NONE |Visar inga rullningslister.|
 | HORIZONTAL | Visar en horisontell rullningslist.|
 | BARS_VERTICAL | Visar en vertikal rullningslist.|
 | BARS_BOTH | Visar både en horisontell och en vertikal rullningslist.|
@@ -25,4 +25,4 @@ Typen ControlScrollBarType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

@@ -3,17 +3,11 @@ title: validate_merged_areas عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 340
 url: /ar/aspose.cells/xpssaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas عقار
-
-يشير إلى ما إذا كان سيتم التحقق من صحة الخلايا المدمجة قبل حفظ الملف.
-
-###  ملاحظات
-
-القيمة الافتراضية هي كاذبة.
 ###  تعريف:
 ```python
 @property

@@ -3,7 +3,7 @@ title: top_to_corner propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1290
+weight: 1310
 url: /es/aspose.cells.drawing/picture/top_to_corner/
 is_root: false
 ---

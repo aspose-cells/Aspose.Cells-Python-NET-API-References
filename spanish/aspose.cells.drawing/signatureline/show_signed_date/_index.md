@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_signed_date propiedad
 
-Indica si muestra la fecha de firma.
+Indica si se muestra la fecha de firma.
 
 ###  Ejemplo
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

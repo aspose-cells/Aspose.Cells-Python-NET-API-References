@@ -3,7 +3,7 @@ title: xml_maps Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 420
 url: /de/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: PrintCommentsType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2460
+weight: 2430
 url: /de/aspose.cells/printcommentstype/
 is_root: false
 ---
@@ -17,9 +17,10 @@ Der Typ PrintCommentsType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| PRINT_IN_PLACE |Stellt das Drucken von Kommentaren dar, wie sie auf dem Blatt angezeigt werden.|
-| PRINT_NO_COMMENTS | Stellt dar, dass Kommentare nicht gedruckt werden sollen.|
-| PRINT_SHEET_END | Stellt das Drucken von Kommentaren am Ende des Blattes dar.|
+| PRINT_IN_PLACE | Stellt dar, dass Kommentare so gedruckt werden, wie sie auf dem Blatt angezeigt werden.|
+| PRINT_NO_COMMENTS | Gibt an, dass Kommentare nicht gedruckt werden sollen.|
+| PRINT_SHEET_END | Stellt dar, dass Kommentare am Ende des Blattes gedruckt werden.|
+| PRINT_WITH_THREADED_COMMENTS | Stellt dar, dass Kommentare wie auf dem Blatt angezeigt gedruckt werden, einschließlich Thread-Kommentaren.|
 
 
 

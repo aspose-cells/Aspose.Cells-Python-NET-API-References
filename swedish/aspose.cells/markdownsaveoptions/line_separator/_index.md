@@ -3,7 +3,7 @@ title: line_separator fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 130
 url: /sv/aspose.cells/markdownsaveoptions/line_separator/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def line_separator(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [MarkdownSaveOptions](/cells/python-net/sv/aspose.cells/markdownsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`MarkdownSaveOptions`](/cells/python-net/sv/aspose.cells/markdownsaveoptions)

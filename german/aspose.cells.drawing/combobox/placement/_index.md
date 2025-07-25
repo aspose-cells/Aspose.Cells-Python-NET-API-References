@@ -3,13 +3,13 @@ title: placement Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 840
+weight: 850
 url: /de/aspose.cells.drawing/combobox/placement/
 is_root: false
 ---
 ##  placement Eigentum
 
-Stellt die Art und Weise dar, wie das Zeichenobjekt an die darunter liegenden Zellen angehängt wird.
+Stellt die Art und Weise dar, wie das Zeichenobjekt mit den darunterliegenden Zellen verbunden ist.
 Die Eigenschaft steuert die placement eines Objekts auf einem Arbeitsblatt.
 
 ###  Beispiel

@@ -1,15 +1,15 @@
 ---
 title: group_settings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 420
 url: /ru/aspose.cells.pivot/pivotfield/group_settings/
 is_root: false
 ---
 ##  group_settings недвижимость
 
-Получает параметры группы сводного поля.
+Получает групповые настройки поля сводки.
 
 ###  Примечания
 

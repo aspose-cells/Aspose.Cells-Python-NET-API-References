@@ -3,13 +3,11 @@ title: page_saving_callback عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 280
 url: /ar/aspose.cells/pptxsaveoptions/page_saving_callback/
 is_root: false
 ---
 ##  page_saving_callback عقار
-
-التحكم/الإشارة إلى تقدم عملية حفظ الصفحة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +20,4 @@ def page_saving_callback(self, value):
 
 ###  أنظر أيضا
 * الوحدة [`aspose.cells`](../../)
-* فئة [`IPageSavingCallback`](/cells/python-net/ar/aspose.cells.rendering/ipagesavingcallback)
 * فئة [`PptxSaveOptions`](/cells/python-net/ar/aspose.cells/pptxsaveoptions)

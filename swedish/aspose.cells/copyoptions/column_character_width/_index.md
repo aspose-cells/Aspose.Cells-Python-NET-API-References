@@ -21,5 +21,5 @@ def column_character_width(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CopyOptions](/cells/python-net/sv/aspose.cells/copyoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CopyOptions`](/cells/python-net/sv/aspose.cells/copyoptions)

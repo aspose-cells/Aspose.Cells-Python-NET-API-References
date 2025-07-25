@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  width propriété
 
-Obtient et définit le width du biseau, ou à quelle distance dans la forme il est appliqué.
-En unité de Points.
+Obtient et définit le width du biseau, ou la distance à laquelle il est appliqué dans la forme.
+En unité de points.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def width(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/fr/aspose.cells.drawing/bevel)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/fr/aspose.cells.drawing/bevel)

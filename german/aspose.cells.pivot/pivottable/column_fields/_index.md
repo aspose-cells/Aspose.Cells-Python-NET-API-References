@@ -3,7 +3,7 @@ title: column_fields Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 340
+weight: 430
 url: /de/aspose.cells.pivot/pivottable/column_fields/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def column_fields(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotFieldCollection](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotFieldCollection`](/cells/python-net/de/aspose.cells.pivot/pivotfieldcollection)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

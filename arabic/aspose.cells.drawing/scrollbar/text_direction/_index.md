@@ -3,13 +3,13 @@ title: text_direction عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1010
+weight: 1030
 url: /ar/aspose.cells.drawing/scrollbar/text_direction/
 is_root: false
 ---
 ##  text_direction عقار
 
-الحصول على/تعيين اتجاه تدفق النص لهذا الكائن.
+يحصل على/يحدد اتجاه تدفق النص لهذا الكائن.
 
 ###  مثال
 

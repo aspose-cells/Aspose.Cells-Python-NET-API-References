@@ -1,15 +1,23 @@
 ---
-title: x الملكية
+title: x عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 470
 url: /ar/aspose.cells.charts/title/x/
 is_root: false
 ---
-##  x الملكية
+##  x عقار
 
-الحصول على أو تحديد إحداثيات x للركن الأيسر العلوي بوحدات 1/4000 من منطقة المخطط.
+يحصل على أو يضبط إحداثيات x للزاوية اليسرى العليا بوحدات 1/4000 من مساحة الرسم البياني.
+
+###  ملاحظات
+
+ ملحوظة: هذا العضو أصبح الآن قديمًا.
+الرجاء استخدام الخاصية Title.XRatioToChart بدلاً من ذلك.
+X = XR نسبة إلى الرسم البياني * 4000؛
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ فبراير 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +29,5 @@ def x(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Title](/cells/python-net/ar/aspose.cells.charts/title)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Title`](/cells/python-net/ar/aspose.cells.charts/title)

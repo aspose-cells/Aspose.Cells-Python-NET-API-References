@@ -7,17 +7,19 @@ weight: 30
 url: /sv/aspose.cells.drawing/colorhelper/to_ole_color/
 is_root: false
 ---
-##  to_ole_color(color, workbook) {#aspose.pydrawing.Color-Workbook}
+##  to_ole_color(, färg, arbetsbok){#aspose.pydrawing.Color-aspose.cells.Workbook}
 Konvertera färg till OLE_COLOR
 
 
 ###  Returnerar
 
-Värdet på OLE_COLOR
+Värdet för OLE_COLOR
 
 
 ```python
-def to_ole_color(self, color, workbook):
+
+@staticmethod
+def to_ole_color(color, workbook):
     ...
 ```
 
@@ -25,10 +27,10 @@ def to_ole_color(self, color, workbook):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | Färgobjektet.|
-| workbook | [Workbook](/cells/python-net/sv/aspose.cells/workbook) |  |
+| workbook | [`Workbook`](/cells/python-net/sv/aspose.cells/workbook) |  |
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ColorHelper](/cells/python-net/sv/aspose.cells.drawing/colorhelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ColorHelper`](/cells/python-net/sv/aspose.cells.drawing/colorhelper)

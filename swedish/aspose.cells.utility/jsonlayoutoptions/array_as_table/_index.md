@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  array_as_table fastighet
 
-Bearbetar Array som tabell.
+Bearbetar arrayen som en tabell.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def array_as_table(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.utility](../../)
-* klass [JsonLayoutOptions](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)
+* modul [`aspose.cells.utility`](../../)
+* klass [`JsonLayoutOptions`](/cells/python-net/sv/aspose.cells.utility/jsonlayoutoptions)

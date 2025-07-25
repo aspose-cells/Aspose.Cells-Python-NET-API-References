@@ -1,14 +1,14 @@
 ---
 title: NameScopeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2340
+weight: 2310
 url: /ru/aspose.cells/namescopetype/
 is_root: false
 ---
 ##  NameScopeType перечисление
-Представляет тип области определенных имен.
+Представляет тип области действия определенных имен.
 
 
 
@@ -18,8 +18,8 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | ALL | Все определенные имена.|
-| WORKBOOK | Определенные имена в книге.|
-| WORKSHEET | Определенные имена на листе или на всех листах.|
+| WORKBOOK | Определенные имена в рабочей книге.|
+| WORKSHEET | Определенные имена на рабочем листе или на всех рабочих листах.|
 
 
 

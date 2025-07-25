@@ -3,13 +3,13 @@ title: is_flipped_horizontally mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 650
+weight: 670
 url: /tr/aspose.cells.drawing/picture/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally mülk
 
-Şeklin yatay olarak çevrilip çevrilmediğini alır ve ayarlar.
+Şeklin yatay olarak çevrilip çevrilmeyeceğini alır ve ayarlar.
 
 ###  Örnek
 

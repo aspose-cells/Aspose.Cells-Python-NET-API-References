@@ -1,16 +1,16 @@
 ---
 title: export_single_tab недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 360
+weight: 420
 url: /ru/aspose.cells.saving/ebooksaveoptions/export_single_tab/
 is_root: false
 ---
 ##  export_single_tab недвижимость
 
-Указывает, следует ли экспортировать одну вкладку, если файл содержит только один лист.
-Значение по умолчанию неверно.
+Указывает, следует ли экспортировать одну вкладку, если файл содержит только один рабочий лист.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

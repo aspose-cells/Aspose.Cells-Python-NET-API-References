@@ -3,7 +3,7 @@ title: PivotTableCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 250
 url: /tr/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -17,29 +17,35 @@ PivotTableCollection türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [capacity](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/capacity) | Dizi listesinin içerebileceği öğe sayısını alır veya ayarlar.|
+| [capacity](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/capacity) | Dizi listesinin içerebileceği eleman sayısını alır veya ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | PivotCaches koleksiyonuna yeni bir PivotTable önbelleği ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Başka bir PivotTable'daki koleksiyona yeni bir PivotTable Nesnesi ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Başka bir PivotTable'daki koleksiyona yeni bir PivotTable Nesnesi ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |Veri kaynağı olarak birden fazla birleştirme aralığına sahip koleksiyona yeni bir PivotTable Nesnesi ekler.|
-| [add](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |Veri kaynağı olarak birden fazla birleştirme aralığına sahip koleksiyona yeni bir PivotTable Nesnesi ekler.|
-| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Hedef dizi listesinin başından başlayarak dizi listesinin tamamını uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [copy_to](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen dizininden başlayarak, dizi listesinden bir dizi öğeyi uyumlu bir tek boyutlu dizi listesine kopyalar.|
-| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Belirtilen nesneyi arar ve belirtilen dizinden son öğeye kadar uzanan dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [index_of](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğeyi içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Belirtilen nesneyi arar ve dizi listesinin tamamındaki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Belirtilen nesneyi arar ve ilk öğeden belirtilen dizine kadar uzanan dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [last_index_of](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Belirtilen nesneyi arar ve belirtilen sayıda öğeyi içeren ve belirtilen dizinde biten dizi listesindeki öğe aralığı içindeki son oluşumun sıfır tabanlı dizinini döndürür.|
-| [remove_at](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Belirtilen dizindeki PivotTable'ı siler|
-| [binary_search](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Varsayılan karşılaştırıcıyı kullanarak bir öğe için sıralanmış dizi listesinin tamamını arar ve öğenin sıfır tabanlı dizinini döndürür.|
+| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Yeni bir PivotTable ekler.|
+| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Yeni bir PivotTable ekler.|
+| [`add(self, source_data, row, column, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Yeni bir PivotTable ekler.|
+| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Yeni bir PivotTable ekler.|
+| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Yeni bir PivotTable ekler.|
+| [`add(self, source_data, cell, table_name, use_same_source, is_xls_classic)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Yeni bir PivotTable ekler.|
+| [`add(self, pivot_table, dest_cell_name, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-str-str) | Başka bir PivotTable'a dayalı yeni bir PivotTable ekler.|
+| [`add(self, pivot_table, row, column, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Başka bir PivotTable'a dayalı yeni bir PivotTable ekler.|
+| [`add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-str-str) | Veri kaynağı olarak birden fazla birleştirme aralığına sahip yeni bir PivotTable Nesnesi koleksiyona ekler.|
+| [`add(self, source_data, is_auto_page, page_fields, row, column, table_name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-int-int-str) | Veri kaynağı olarak birden fazla birleştirme aralığına sahip yeni bir PivotTable Nesnesi koleksiyona ekler.|
+| [`copy_to(self, array)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/copy_to/#list) |Hedef dizi listesinin başından başlayarak tüm dizi listesini uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Hedef dizi listesinin belirtilen indeksinden başlayarak, dizi listesindeki bir dizi öğeyi uyumlu tek boyutlu bir dizi listesine kopyalar.|
+| [`index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.|
+| [`index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int-int) | Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.|
+| [`last_index_of(self, item)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable) | Belirtilen nesneyi arar ve tüm dizi listesindeki son oluşumun sıfırdan başlayan dizinini döndürür.|
+| [`last_index_of(self, item, index)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int) |Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının ilk elemanından belirtilen dizine kadar uzanan son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int-int) | Belirtilen nesneyi arar ve dizi listesindeki belirtilen sayıda öğeyi içeren ve belirtilen dizinde sona eren öğe aralığındaki son oluşumun sıfır tabanlı dizinini döndürür.|
+| [`get(self, name)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/get/#str) | PivotTable raporunu pivottable adına göre alır.|
+| [`remove_pivot_table(self, pivot_table)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.pivottable) | Belirtilen PivotTable'ı siler ve PivotTable verilerini siler|
+| [`remove_pivot_table_data(self, pivot_table, keep_data)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.pivottable-bool) | Belirtilen PivotTable'ı siler|
+| [`remove_by_index(self, index)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Belirtilen dizindeki PivotTable'ı siler ve PivotTable verilerini siler|
+| [`remove_at(self, index, keep_data)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Belirtilen dizindeki PivotTable'ı siler|
+| [`binary_search(self, item)`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.pivottable) | Varsayılan karşılaştırıcıyı kullanarak sıralanmış dizi listesinin tamamında bir öğe arar ve öğenin sıfırdan başlayan dizinini döndürür.|
 
 
 

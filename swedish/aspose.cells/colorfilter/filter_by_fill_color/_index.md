@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  filter_by_fill_color fastighet
 
-Om du filtrerar efter cellens fyllningsfärg.
+Om filtrering ska ske efter cellens fyllningsfärg.
 
 ###  Anmärkningar
 
-Sant: cellens fyllningsfärg; False: cellens teckensnittsfärg.
+Sant: cellens fyllningsfärg; Falskt: cellens teckensnittsfärg.
 ###  Definition:
 ```python
 @property

@@ -1,37 +1,37 @@
 ---
-title: ShapeLockType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ShapeLockType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /it/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
-##  ShapeLockType enumerazione
-Rappresenta il tipo della proprietà da bloccare.
+##  Enumerazione ShapeLockType
+Rappresenta il tipo di proprietà da bloccare.
 
 
 
-Il tipo ShapeLockType espone i membri seguenti:
+Il tipo ShapeLockType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
 | :- | :- |
 | GROUP | Gruppo|
-| ADJUST_HANDLES | Regola le maniglie|
+| ADJUST_HANDLES | Regola maniglie|
 | TEXT | Testo|
 | POINTS | Punti|
-| CROP |Raccolto|
+| CROP | Raccolto|
 | SELECTION | Selezione|
 | MOVE | Mossa|
-| ASPECT_RATIO | Proporzioni|
+| ASPECT_RATIO | Rapporto d'aspetto|
 | ROTATION | Rotazione|
-| UNGROUP | Separa|
-| RESIZE | Ridimensiona|
+| UNGROUP | Separare|
+| RESIZE | Ridimensionare|
 | SHAPE_TYPE | Tipo di forma|
 | ARROWHEAD | Punta di freccia|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

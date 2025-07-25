@@ -1,15 +1,15 @@
 ---
 title: is_missing proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 140
 url: /it/aspose.cells.pivot/pivotitem/is_missing/
 is_root: false
 ---
 ##  is_missing proprietà
 
-Indica se l'elemento ha un valore mancante.
+Indica se l'elemento è stato rimosso dall'origine dati.
 
 ###  Osservazioni
 

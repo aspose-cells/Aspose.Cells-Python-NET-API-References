@@ -1,16 +1,16 @@
 ---
 title: preserve_string недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1210
+weight: 1240
 url: /ru/aspose.cells/cells/preserve_string/
 is_root: false
 ---
 ##  preserve_string недвижимость
 
- Получает или задает значение, указывающее, сохраняются ли все значения листа в виде строк.
-По умолчанию — ложь.
+ Возвращает или задает значение, указывающее, сохраняются ли все значения рабочего листа в виде строк.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

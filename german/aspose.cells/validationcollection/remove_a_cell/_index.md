@@ -7,12 +7,13 @@ weight: 80
 url: /de/aspose.cells/validationcollection/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
-Entfernt alle Validierungseinstellungen für die Zelle.
+##  remove_a_cell(self, row, column) {#int-int}
+Entfernt alle Validierungseinstellungen der Zelle.
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```
@@ -26,5 +27,5 @@ def remove_a_cell(self, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ValidationCollection](/cells/python-net/de/aspose.cells/validationcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ValidationCollection`](/cells/python-net/de/aspose.cells/validationcollection)

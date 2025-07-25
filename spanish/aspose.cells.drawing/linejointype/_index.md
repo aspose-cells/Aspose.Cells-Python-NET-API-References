@@ -3,7 +3,7 @@ title: LineJoinType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 930
 url: /es/aspose.cells.drawing/linejointype/
 is_root: false
 ---
@@ -17,12 +17,12 @@ El tipo LineJoinType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| ROUND | Articulación redonda|
+| ROUND | Junta redonda|
 | BEVEL | Junta biselada|
 | MITER | Junta de inglete|
-| NONE | Ninguno conjunto|
+| NONE | Ninguna articulación|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

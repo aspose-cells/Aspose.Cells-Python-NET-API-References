@@ -3,13 +3,13 @@ title: left mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 460
 url: /tr/aspose.cells/range/left/
 is_root: false
 ---
 ##  left mülk
 
-A sütununun left kenarından aralığın left kenarına kadar olan mesafeyi nokta cinsinden alır.
+Sütun A'nın left kenarı ile aralığın left kenarı arasındaki mesafeyi puan cinsinden alır.
 ###  Tanım:
 ```python
 @property

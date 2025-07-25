@@ -1,13 +1,13 @@
 ---
-title: is_tiled 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_tiled属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 140
 url: /zh/aspose.cells.drawing.activexcontrols/imageactivexcontrol/is_tiled/
 is_root: false
 ---
-## is_tiled 属性
+## is_tiled属性
 
 指示图片是否平铺在背景上。
 ### 定义：
@@ -21,5 +21,5 @@ def is_tiled(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [ImageActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`ImageActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

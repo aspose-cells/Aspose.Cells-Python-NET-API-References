@@ -3,7 +3,7 @@ title: text_vertical_alignment mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1070
+weight: 1080
 url: /tr/aspose.cells.drawing/combobox/text_vertical_alignment/
 is_root: false
 ---

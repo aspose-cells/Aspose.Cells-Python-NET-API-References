@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 330
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
-* класс [TrendlineType](/cells/python-net/ru/aspose.cells.charts/trendlinetype)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)
+* класс [`TrendlineType`](/cells/python-net/ru/aspose.cells.charts/trendlinetype)

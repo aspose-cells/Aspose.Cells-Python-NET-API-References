@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
-* classe [RevisionInsertDelete](/cells/python-net/fr/aspose.cells.revisions/revisioninsertdelete)
+* module [`aspose.cells.revisions`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)
+* classe [`RevisionInsertDelete`](/cells/python-net/fr/aspose.cells.revisions/revisioninsertdelete)

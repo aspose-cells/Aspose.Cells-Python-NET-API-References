@@ -7,16 +7,17 @@ weight: 80
 url: /zh/aspose.cells/validation/get_value/
 is_root: false
 ---
-##  get_value {#int-int-bool}
+##  get_value(self, row, column, is_value1) {#int-int-bool}
 获取特定单元格的验证值。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def get_value(self, row, column, is_value1):
     ...
 ```

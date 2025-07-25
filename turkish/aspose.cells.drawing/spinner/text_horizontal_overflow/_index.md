@@ -3,7 +3,7 @@ title: text_horizontal_overflow mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /tr/aspose.cells.drawing/spinner/text_horizontal_overflow/
 is_root: false
 ---

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  down_bars fastighet
 
-Returnerar ett [`DropBars`](/cells/python-net/sv/aspose.cells.charts/dropbars)-objekt som representerar nedstaplarna på ett linjediagram.
+Returnerar ett [`DropBars`](/cells/python-net/sv/aspose.cells.charts/dropbars)-objekt som representerar de nedåtgående staplarna i ett linjediagram.
 Gäller endast linjediagram.
 ###  Definition:
 ```python

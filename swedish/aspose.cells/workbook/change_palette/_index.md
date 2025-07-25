@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
-Ändrar paletten för kalkylarket i det angivna indexet.
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
+Ändrar paletten för kalkylbladet i det angivna indexet.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -21,13 +22,13 @@ def change_palette(self, color, index):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | Färgstruktur.|
-| index | int | Palettindex, 0 - 55.|
+| index | int | Palettindex, 0–55.|
 ###  Anmärkningar
 
-Paletten har 56 poster, var och en representerad av ett RGB-värde.
+Paletten har 56 poster, som var och en representeras av ett RGB-värde.
 
 
-Om du ställer in en färg som inte finns i paletten kommer den inte att träda i kraft.
+Om du anger en färg som inte finns i paletten kommer den inte att gälla.
 
 
 Så om du vill ställa in en anpassad färg, vänligen ändra paletten först.
@@ -49,18 +50,18 @@ Följande är standardfärgpaletten.
 | Grön| 0| 128| 0 |
 | Marin| 0| 0| 128 |
 | Oliv| 128| 128| 0 |
-| Lila| 128| 0| 128 |
+| Purpur| 128| 0| 128 |
 | Kricka| 0| 128| 128 |
 | Silver| 192| 192| 192 |
-| grå| 128| 128| 128 |
-| Färg17| 153| 153| 255 |
+| Grå| 128| 128| 128 |
+|Färg17| 153| 153| 255 |
 | Färg18| 153| 51| 102 |
 | Färg19| 255| 255| 204 |
 | Färg20| 204| 255| 255 |
-| Färg 21| 102| 0| 102 |
+| Färg21| 102| 0| 102 |
 | Färg22| 255| 128| 128 |
 | Färg23| 0| 102| 204 |
-| Färg24| 204| 204| 255 |
+| Color24| 204| 204| 255 |
 | Färg25| 0| 0| 128 |
 | Färg26| 255| 0| 255 |
 | Färg27| 255| 255| 0 |
@@ -90,12 +91,12 @@ Följande är standardfärgpaletten.
 | Färg51| 0| 51| 0 |
 | Färg52| 51| 51| 0 |
 | Färg53| 153| 51| 0 |
-|Färg54| 153| 51| 102 |
+| Färg54| 153| 51| 102 |
 | Färg55| 51| 51| 153 |
 | Färg56| 51| 51| 51 |
 
 
 ###  Se även
 
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

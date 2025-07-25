@@ -1,16 +1,16 @@
 ---
-title: Row مفهرس
+title: Row فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/row/__getitem__/
 is_root: false
 ---
-##  Row مفهرس
+##  Row فهرس
 
 يحصل على الخلية.
-###  مفهرس
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index | فهرس العمود|
@@ -22,5 +22,5 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

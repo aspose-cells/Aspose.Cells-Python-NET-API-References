@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/is_auto_siz
 is_root: false
 ---
 ##  is_auto_size propriété
-
-Indique si le contrôle se redimensionne automatiquement pour afficher tout son contenu.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_auto_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

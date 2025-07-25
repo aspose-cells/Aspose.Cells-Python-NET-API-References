@@ -3,7 +3,7 @@ title: MsoLineStyle Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1020
+weight: 1010
 url: /de/aspose.cells.drawing/msolinestyle/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Der Typ MsoLineStyle macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| SINGLE | Einzelne Linie (von Breite lineWidth)|
+| SINGLE | Einzelne Linie (mit der Breite lineWidth)|
 | THICK_BETWEEN_THIN | Drei Linien, dünn, dick, dünn|
-| THIN_THICK |Doppelte Linien, eine dünn, eine dick|
-| THICK_THIN | Doppelte Linien, eine dicke, eine dünne|
+| THIN_THICK | Doppelte Linien, eine dünne, eine dicke|
+| THICK_THIN | Doppelte Linien, eine dick, eine dünn|
 | THIN_THIN | Doppelte Linien gleicher Breite|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

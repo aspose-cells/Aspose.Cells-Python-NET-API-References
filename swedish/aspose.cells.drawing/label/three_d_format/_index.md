@@ -3,13 +3,13 @@ title: three_d_format fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/aspose.cells.drawing/label/three_d_format/
 is_root: false
 ---
 ##  three_d_format fastighet
 
-Hämtar och ställer in 3d-format av formen.
+Hämtar och ställer in 3D-formatet för formen.
 
 ###  Exempel
 

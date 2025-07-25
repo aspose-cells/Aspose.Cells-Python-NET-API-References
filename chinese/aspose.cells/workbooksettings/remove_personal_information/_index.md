@@ -3,15 +3,15 @@ title: remove_personal_information属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 410
+weight: 450
 url: /zh/aspose.cells/workbooksettings/remove_personal_information/
 is_root: false
 ---
 ## remove_personal_information属性
 
-如果可以从指定的工作簿中删除个人信息，则为 true。
+如果可以从指定的工作簿中删除个人信息，则为 True。
 
-### 评论
+### 注意事项
 
 
 ### 定义：

@@ -1,19 +1,19 @@
 ---
 title: paper_size proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 360
+weight: 390
 url: /it/aspose.cells/workbooksettings/paper_size/
 is_root: false
 ---
 ##  paper_size proprietà
 
-Ottiene e imposta il formato carta di stampa predefinito.
+Ottiene e imposta il formato predefinito della carta da stampa.
 
 ###  Osservazioni
 
-Se non è presente alcuna impostazione relativa al formato carta, MS Excel utilizzerà l'impostazione predefinita della stampante.
+Se non è stata impostata alcuna dimensione della carta, MS Excel utilizzerà le impostazioni predefinite della stampante.
 ###  Definizione:
 ```python
 @property

@@ -1,16 +1,16 @@
 ---
 title: auto_sort_field proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 200
+weight: 280
 url: /it/aspose.cells.pivot/pivotfield/auto_sort_field/
 is_root: false
 ---
 ##  auto_sort_field proprietà
 
- Rappresenta l'indice dei campi di ordinamento automatico.
--1 significa PivotField stesso, altri significa la posizione dei campi dati.
+ Rappresenta l'indice del campo ordinato automaticamente.
+-1 indica il PivotField stesso, altri indicano la posizione dei campi dati.
 ###  Definizione:
 ```python
 @property

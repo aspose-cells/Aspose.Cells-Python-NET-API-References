@@ -3,13 +3,13 @@ title: item_count propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 690
+weight: 700
 url: /fr/aspose.cells.drawing/listbox/item_count/
 is_root: false
 ---
 ##  item_count propriété
 
-Obtient le nombre d'éléments dans la zone de liste.
+Obtient le nombre d'éléments dans la liste déroulante.
 ###  Définition:
 ```python
 @property

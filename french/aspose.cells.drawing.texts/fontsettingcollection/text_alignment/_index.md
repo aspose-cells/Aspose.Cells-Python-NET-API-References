@@ -18,6 +18,6 @@ def text_alignment(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
-* classe [ShapeTextAlignment](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
+* classe [`ShapeTextAlignment`](/cells/python-net/fr/aspose.cells.drawing.texts/shapetextalignment)

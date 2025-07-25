@@ -3,17 +3,17 @@ title: start_cell propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 300
 url: /es/aspose.cells/xmlloadoptions/start_cell/
 is_root: false
 ---
 ##  start_cell propiedad
 
-Obtiene y establece la celda inicial.
+Obtiene y establece la celda de inicio.
 
 ###  Observaciones
 
-Solo funciona cuando el archivo no es una hoja de cálculo ML ni asigna xml a Excel.
+Solo funciona cuando el archivo no es spreadsheetML o mapeo xml a Excel.
 ###  Definición:
 ```python
 @property

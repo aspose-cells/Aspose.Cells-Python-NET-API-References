@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_extract_load propiedad
 
-indica si la aplicación abrió por última vez el libro para la recuperación de datos.
+Indica si la aplicación abrió por última vez el libro de trabajo para recuperar datos.
 ###  Definición:
 ```python
 @property

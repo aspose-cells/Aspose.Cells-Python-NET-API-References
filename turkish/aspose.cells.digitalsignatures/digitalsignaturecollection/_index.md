@@ -8,28 +8,28 @@ url: /tr/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
 ##  DigitalSignatureCollection sınıfı
-Bir belgeye iliştirilmiş bir dijital imza koleksiyonu sağlar.
+Bir belgeye ekli dijital imzaların bir koleksiyonunu sağlar.
 
 
 
-DigitalSignatureCollection türü aşağıdaki üyeleri gösterir:
+DigitalSignatureCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  İnşaatçılar
-| Yapıcı| Tanım|
+| Oluşturucu| Tanım|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |DigitalSignatureCollection'ın kurucusu.|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | DigitalSignatureCollection'ın kurucusu.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | DigitalSignatureCollection'a bir imza ekleyin.|
+| [`add(self, digital_signature)`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | DigitalSignatureCollection'a bir imza ekleyin.|
 
 
 
 ###  Örnek
 
-Aşağıdaki örnek, dijital imzanın nasıl doğrulanacağını gösterir.
+Aşağıdaki örnek dijital imzanın nasıl doğrulanacağını göstermektedir.
 
 ```python
 from aspose.cells import Workbook
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](..)
+* modül [`aspose.cells.digitalsignatures`](..)

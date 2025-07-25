@@ -3,7 +3,7 @@ title: text_body propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 930
+weight: 940
 url: /fr/aspose.cells.drawing/button/text_body/
 is_root: false
 ---

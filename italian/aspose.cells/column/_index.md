@@ -1,9 +1,9 @@
 ---
 title: Column classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 240
 url: /it/aspose.cells/column/
 is_root: false
 ---
@@ -21,7 +21,7 @@ Il tipo Column espone i seguenti membri:
 | [width](/cells/python-net/it/aspose.cells/column/width) | Ottiene e imposta la larghezza della colonna in unità di caratteri.|
 | [group_level](/cells/python-net/it/aspose.cells/column/group_level) | Ottiene il livello di gruppo della colonna.|
 | [is_hidden](/cells/python-net/it/aspose.cells/column/is_hidden) | Indica se la colonna è nascosta.|
-| [has_custom_style](/cells/python-net/it/aspose.cells/column/has_custom_style) | Indica se questa colonna ha impostazioni di stile personalizzate (diverse da quella predefinita ereditata dalla cartella di lavoro).|
+| [has_custom_style](/cells/python-net/it/aspose.cells/column/has_custom_style) | Indica se questa colonna ha impostazioni di stile personalizzate (diverse da quelle predefinite ereditate dalla cartella di lavoro).|
 | [style](/cells/python-net/it/aspose.cells/column/style) | Ottiene lo stile di questa colonna.|
 | [is_collapsed](/cells/python-net/it/aspose.cells/column/is_collapsed) | se la colonna è compressa|
 
@@ -29,9 +29,9 @@ Il tipo Column espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [apply_style](/cells/python-net/it/aspose.cells/column/apply_style/#aspose.cells.Style-aspose.cells.StyleFlag) |Applica i formati per un'intera colonna.|
-| [get_style](/cells/python-net/it/aspose.cells/column/get_style/#) | Ottiene lo stile di questa colonna.|
-| [set_style](/cells/python-net/it/aspose.cells/column/set_style/#aspose.cells.Style) | Imposta lo stile di questa colonna.|
+| [`apply_style(self, style, flag)`](/cells/python-net/it/aspose.cells/column/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applica i formati per un'intera colonna.|
+| [`get_style(self)`](/cells/python-net/it/aspose.cells/column/get_style/#) | Ottiene lo stile di questa colonna.|
+| [`set_style(self, style)`](/cells/python-net/it/aspose.cells/column/set_style/#aspose.cells.style) | Imposta lo stile di questa colonna.|
 
 
 

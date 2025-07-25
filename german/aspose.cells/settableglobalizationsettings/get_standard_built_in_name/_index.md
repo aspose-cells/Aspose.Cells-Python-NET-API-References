@@ -7,16 +7,17 @@ weight: 190
 url: /de/aspose.cells/settableglobalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name {#str}
-Ruft den Standardtext des integrierten Namens gemäß dem angegebenen, vom Gebietsschema abhängigen Text ab.
+##  get_standard_built_in_name(self, local_name) {#str}
+Ruft den Standardtext des integrierten Namens gemäß dem angegebenen gebietsschemaabhängigen Text ab.
 
 
 ###  Kehrt zurück
 
-Standardtext (En-US-Gebietsschema).
+Standardtext (Gebietsschema en-US).
 
 
 ```python
+
 def get_standard_built_in_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_built_in_name(self, local_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| local_name | str | Vom Gebietsschema abhängiger Text des integrierten Namens. Das Gebietsschema wurde durch die Arbeitsmappe angegeben, für die diese Einstellungen verwendet werden.|
+| local_name | str | Lokaler Text des integrierten Namens. Das Lokal wurde durch die Arbeitsmappe angegeben, für die diese Einstellung verwendet wird.|
 
 
 

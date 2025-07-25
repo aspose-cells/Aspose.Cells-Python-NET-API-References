@@ -3,7 +3,7 @@ title: ods_cell_fields propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /es/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---

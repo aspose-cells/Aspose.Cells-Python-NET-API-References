@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  conditional_formatting_icon propriété
 
-Obtient l'image du jeu d'icônes.
+Obtient l'image de l'ensemble d'icônes.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def conditional_formatting_icon(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingIcon](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
-* classe [ConditionalFormattingResult](/cells/python-net/fr/aspose.cells/conditionalformattingresult)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingIcon`](/cells/python-net/fr/aspose.cells/conditionalformattingicon)
+* classe [`ConditionalFormattingResult`](/cells/python-net/fr/aspose.cells/conditionalformattingresult)

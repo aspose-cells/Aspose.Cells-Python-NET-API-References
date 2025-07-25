@@ -29,5 +29,5 @@ def number_of_columns(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

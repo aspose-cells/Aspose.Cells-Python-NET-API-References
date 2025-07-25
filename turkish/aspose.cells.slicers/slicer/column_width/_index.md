@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  column_width mülk
 
-Dilimleyicideki her sütunun genişliğini punto cinsinden döndürür veya ayarlar.
+Dilimleyicideki her sütunun genişliğini puan olarak döndürür veya ayarlar.
 
 ###  Örnek
 
 ```python
 
-slicer.column_width = 80
+slicer.column_width = 80.0
 
 ```
 ###  Tanım:
@@ -29,5 +29,5 @@ def column_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

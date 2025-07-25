@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  kerning mülk
 
-Bu metin çalıştırması için kerning karakterinin oluşacağı minimum yazı tipi boyutunu belirtir.
+Bu metin çalışması için kerning karakterinin oluşacağı minimum yazı tipi boyutunu belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def kerning(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

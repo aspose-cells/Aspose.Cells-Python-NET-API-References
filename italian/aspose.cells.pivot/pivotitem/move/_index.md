@@ -1,18 +1,19 @@
 ---
-title: metodo move
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo move
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells.pivot/pivotitem/move/
 is_root: false
 ---
-##  move(count, is_same_parent) {#int-bool}
-Sposta l'elemento in alto o in basso
+##  move(self, count, is_same_parent) {#int-bool}
+Sposta l'elemento verso l'alto o verso il basso
 
 
 
 ```python
+
 def move(self, count, is_same_parent):
     ...
 ```
@@ -20,11 +21,11 @@ def move(self, count, is_same_parent):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| count | int | Il numero di movimento verso l'alto o verso il basso.<br/>Sposta l'elemento in alto se questo è minore di zero;<br/>Sposta l'elemento verso il basso se è maggiore di zero.|
-| is_same_parent | bool | Specificare se l'operazione di spostamento è nello stesso nodo padre o meno|
+| count | int | Il numero di spostamenti verso l'alto o verso il basso.<br/>Sposta l'elemento verso l'alto se il valore è inferiore a zero;<br/> Sposta l'elemento verso il basso se il valore è maggiore di zero.|
+| is_same_parent | bool | Specificare se l'operazione di spostamento avviene nello stesso nodo padre o meno|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotItem](/cells/python-net/it/aspose.cells.pivot/pivotitem)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotItem`](/cells/python-net/it/aspose.cells.pivot/pivotitem)

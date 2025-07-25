@@ -1,6 +1,6 @@
 ---
 title: fill_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -18,6 +18,6 @@ def fill_type(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [GradientFill](/cells/python-net/ru/aspose.cells.drawing/gradientfill)
-* класс [GradientFillType](/cells/python-net/ru/aspose.cells.drawing/gradientfilltype)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`GradientFill`](/cells/python-net/ru/aspose.cells.drawing/gradientfill)
+* класс [`GradientFillType`](/cells/python-net/ru/aspose.cells.drawing/gradientfilltype)

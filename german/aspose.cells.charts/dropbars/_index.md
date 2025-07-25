@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/dropbars/
 is_root: false
 ---
 ##  DropBars Klasse
-Stellt die Auf-/Ab-Balken in einem Diagramm dar.
+Stellt die Aufwärts-/Abwärtsbalken in einem Diagramm dar.
 
 
 

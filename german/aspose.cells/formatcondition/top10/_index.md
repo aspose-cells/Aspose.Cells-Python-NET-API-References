@@ -11,8 +11,8 @@ is_root: false
 
 Holen Sie sich die „Top10“-Instanz der bedingten Formatierung.
 Die Regel der Standardinstanz hebt Zellen hervor, deren
-Werte fallen in die Top-10-Klammer.
-Gültig nur für Typ ist Top10.
+Die Werte liegen im oberen Zehntelbereich.
+Nur gültig für den Typ „Top10“.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
-* Klasse [Top10](/cells/python-net/de/aspose.cells/top10)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)
+* Klasse [`Top10`](/cells/python-net/de/aspose.cells/top10)

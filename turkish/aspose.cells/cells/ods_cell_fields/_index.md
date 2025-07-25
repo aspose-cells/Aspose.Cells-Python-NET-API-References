@@ -3,13 +3,13 @@ title: ods_cell_fields mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1200
+weight: 1230
 url: /tr/aspose.cells/cells/ods_cell_fields/
 is_root: false
 ---
 ##  ods_cell_fields mülk
 
-Od alanlarının listesini alır.
+Ods alanlarının listesini alır.
 ###  Tanım:
 ```python
 @property

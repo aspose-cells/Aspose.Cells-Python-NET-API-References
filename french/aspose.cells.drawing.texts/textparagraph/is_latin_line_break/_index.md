@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_latin_line_break propriété
 
-Spécifie si un mot latin peut être divisé en deux et renvoyé à la ligne suivante sans qu'un trait d'union ne soit ajouté.
+Spécifie si un mot latin peut être coupé en deux et placé sur la ligne suivante sans qu'un trait d'union ne soit ajouté.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_latin_line_break(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)

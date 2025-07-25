@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plus_value Eigentum
 
-Stellt den positiven Fehlerbetrag dar, wenn der Fehlerbalkentyp Benutzerdefiniert ist.
+Stellt einen positiven Fehlerbetrag dar, wenn der Fehlerbalkentyp „Benutzerdefiniert“ ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def plus_value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)

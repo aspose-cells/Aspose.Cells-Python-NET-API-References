@@ -3,13 +3,13 @@ title: encoding عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 140
+weight: 200
 url: /ar/aspose.cells/htmlsaveoptions/encoding/
 is_root: false
 ---
 ##  encoding عقار
 
-إذا لم يتم تعيينه، فاستخدم Encoding.UTF8 كنوع التشفير الافتراضي.
+إذا لم يتم تعيينه، استخدم Encoding.UTF8 كنوع ترميز افتراضي.
 ###  تعريف:
 ```python
 @property

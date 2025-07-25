@@ -1,6 +1,6 @@
 ---
 title: time_period недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  time_period недвижимость
 
- Применимый период времени в правиле условного форматирования «дата возникновения…».
-Допустимо только для type = timePeriod.
+ Применимый период времени в правиле условного форматирования «дата наступления…».
+Действительно только для type = timePeriod.
 Значение по умолчанию — TimePeriodType.Today.
 ###  Определение:
 ```python
@@ -23,6 +23,6 @@ def time_period(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FormatCondition](/cells/python-net/ru/aspose.cells/formatcondition)
-* класс [TimePeriodType](/cells/python-net/ru/aspose.cells/timeperiodtype)
+* модуль [`aspose.cells`](../../)
+* класс [`FormatCondition`](/cells/python-net/ru/aspose.cells/formatcondition)
+* класс [`TimePeriodType`](/cells/python-net/ru/aspose.cells/timeperiodtype)

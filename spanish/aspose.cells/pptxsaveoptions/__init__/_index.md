@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/pptxsaveoptions/__init__/
 is_root: false
 ---
-##  PptxSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Representa las opciones de guardado de pptx.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  PptxSaveOptions(save_as_image) {#bool}
-Representa las opciones para guardar el archivo .pptx.
+##  \_\_init\_\_(self, guardar_como_imagen){#bool}
+Representa opciones para guardar el archivo .pptx.
 
 
 
 ```python
+
 def __init__(self, save_as_image):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, save_as_image):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| save_as_image | bool | Si es Verdadero, el libro de trabajo se convertirá en algunas imágenes del archivo .pptx.<br/> Si es falso, el libro de trabajo se convertirá en algunas tablas del archivo .pptx.|
+| save_as_image | bool | Si es Verdadero, el libro de trabajo se convertirá en algunas imágenes del archivo .pptx.<br/>Si es Falso, el libro de trabajo se convertirá en algunas tablas de archivo .pptx.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PptxSaveOptions](/cells/python-net/es/aspose.cells/pptxsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PptxSaveOptions`](/cells/python-net/es/aspose.cells/pptxsaveoptions)

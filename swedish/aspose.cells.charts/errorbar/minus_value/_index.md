@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  minus_value fastighet
 
-Representerar negativt felbelopp när felstapeltypen är anpassad.
+Representerar negativt felbelopp när felstapeltypen är Anpassad.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def minus_value(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)

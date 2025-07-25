@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_sorting propiedad
 
-Representa si la opción de clasificación está permitida en una hoja de cálculo protegida.
+Representa si la opción de clasificación está permitida en una hoja de trabajo protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_sorting(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

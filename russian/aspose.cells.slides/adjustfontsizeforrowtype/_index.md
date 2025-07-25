@@ -1,6 +1,6 @@
 ---
 title: AdjustFontSizeForRowType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.slides/adjustfontsizeforrowtype/
 is_root: false
 ---
 ##  AdjustFontSizeForRowType перечисление
-Указывает, какие строки следует откорректировать.
+Показывает, какие типы строк следует скорректировать.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Нет регулировки.|
-| EMPTY_ROWS | Если строка пуста, измените размер шрифта, чтобы он соответствовал высоте строки.|
+| NONE | Нет доп.|
+| EMPTY_ROWS | Если строка пуста, измените размер шрифта в соответствии с высотой строки.|
 
 
 

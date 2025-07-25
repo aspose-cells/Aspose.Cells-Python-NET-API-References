@@ -1,9 +1,9 @@
 ---
 title: PivotTableCollection classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 190
+weight: 250
 url: /it/aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -17,29 +17,35 @@ Il tipo PivotTableCollection espone i seguenti membri:
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [capacity](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco di matrici può contenere.|
+| [capacity](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/capacity) | Ottiene o imposta il numero di elementi che l'elenco dell'array può contenere.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Aggiunge una nuova cache della tabella pivot a una raccolta PivotCaches.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Aggiunge una nuova cache della tabella pivot a una raccolta PivotCaches.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Aggiunge una nuova cache della tabella pivot a una raccolta PivotCaches.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Aggiunge una nuova cache della tabella pivot a una raccolta PivotCaches.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-str-str) | Aggiunge un nuovo oggetto tabella pivot alla raccolta da un'altra tabella pivot.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.PivotTable-int-int-str) | Aggiunge un nuovo oggetto tabella pivot alla raccolta da un'altra tabella pivot.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-str-str) |Aggiunge un nuovo oggetto tabella pivot alla raccolta con più intervalli di consolidamento come origine dati.|
-| [add](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str) |Aggiunge un nuovo oggetto tabella pivot alla raccolta con più intervalli di consolidamento come origine dati.|
-| [copy_to](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/copy_to/#list) | Copia l'intero elenco di matrici in un elenco di matrici unidimensionali compatibile, a partire dall'inizio dell'elenco di matrici di destinazione.|
-| [copy_to](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di matrici a un elenco di matrici unidimensionali compatibile, a partire dall'indice specificato dell'elenco di matrici di destinazione.|
-| [index_of](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dall'indice specificato all'ultimo elemento.|
-| [index_of](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.PivotTable-int-int) |Cerca l'oggetto specificato e restituisce l'indice in base zero della prima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che inizia in corrispondenza dell'indice specificato e contiene il numero di elementi specificato.|
-| [last_index_of](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intero elenco di matrici.|
-| [last_index_of](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che si estende dal primo elemento all'indice specificato.|
-| [last_index_of](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.PivotTable-int-int) | Cerca l'oggetto specificato e restituisce l'indice in base zero dell'ultima occorrenza all'interno dell'intervallo di elementi nell'elenco di matrice che contiene il numero di elementi specificato e termina con l'indice specificato.|
-| [remove_at](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Elimina la tabella pivot in corrispondenza dell'indice specificato|
-| [binary_search](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.PivotTable) | Cerca un elemento nell'intero elenco di array ordinato utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.|
+| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-str-str) | Aggiunge una nuova tabella pivot.|
+| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool) | Aggiunge una nuova tabella pivot.|
+| [`add(self, source_data, row, column, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str) | Aggiunge una nuova tabella pivot.|
+| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool) | Aggiunge una nuova tabella pivot.|
+| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-int-int-str-bool-bool) | Aggiunge una nuova tabella pivot.|
+| [`add(self, source_data, cell, table_name, use_same_source, is_xls_classic)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#str-str-str-bool-bool) | Aggiunge una nuova tabella pivot.|
+| [`add(self, pivot_table, dest_cell_name, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-str-str) | Aggiunge una nuova tabella pivot basata su un'altra tabella pivot.|
+| [`add(self, pivot_table, row, column, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Aggiunge una nuova tabella pivot basata su un'altra tabella pivot.|
+| [`add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-str-str) | Aggiunge un nuovo oggetto tabella pivot alla raccolta con più intervalli di consolidamento come origine dati.|
+| [`add(self, source_data, is_auto_page, page_fields, row, column, table_name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/add/#list-bool-aspose.cells.pivot.pivotpagefields-int-int-str) | Aggiunge un nuovo oggetto tabella pivot alla raccolta con più intervalli di consolidamento come origine dati.|
+| [`copy_to(self, array)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/copy_to/#list) |Copia l'intero elenco di array in un elenco di array unidimensionale compatibile, iniziando dall'inizio dell'elenco di array di destinazione.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/copy_to/#int-list-int-int) | Copia un intervallo di elementi dall'elenco di array a un elenco di array unidimensionale compatibile, a partire dall'indice specificato dell'elenco di array di destinazione.|
+| [`index_of(self, item, index)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dall'indice specificato all'ultimo elemento.|
+| [`index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/index_of/#aspose.cells.pivot.pivottable-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero della prima occorrenza nell'intervallo di elementi nell'elenco di array che inizia dall'indice specificato e contiene il numero specificato di elementi.|
+| [`last_index_of(self, item)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intero elenco di array.|
+| [`last_index_of(self, item, index)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int) |Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che si estende dal primo elemento all'indice specificato.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/last_index_of/#aspose.cells.pivot.pivottable-int-int) | Cerca l'oggetto specificato e restituisce l'indice a partire da zero dell'ultima occorrenza nell'intervallo di elementi nell'elenco di array che contiene il numero specificato di elementi e termina all'indice specificato.|
+| [`get(self, name)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/get/#str) | Ottiene il report della tabella pivot in base al nome della tabella pivot.|
+| [`remove_pivot_table(self, pivot_table)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/remove_pivot_table/#aspose.cells.pivot.pivottable) | Elimina la tabella pivot specificata ed elimina i dati della tabella pivot|
+| [`remove_pivot_table_data(self, pivot_table, keep_data)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/remove_pivot_table_data/#aspose.cells.pivot.pivottable-bool) | Elimina la tabella pivot specificata|
+| [`remove_by_index(self, index)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/remove_by_index/#int) | Elimina la tabella pivot all'indice specificato ed elimina i dati della tabella pivot|
+| [`remove_at(self, index, keep_data)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/remove_at/#int-bool) | Elimina la tabella pivot all'indice specificato|
+| [`binary_search(self, item)`](/cells/python-net/it/aspose.cells.pivot/pivottablecollection/binary_search/#aspose.cells.pivot.pivottable) | Cerca un elemento nell'intero elenco dell'array ordinato utilizzando il comparatore predefinito e restituisce l'indice basato su zero dell'elemento.|
 
 
 

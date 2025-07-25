@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent_scale fastighet
 
-Om den här egenskapen är False styr egenskaperna FitToPagesWide och FitToPagesTall hur kalkylbladet skalas.
+Om den här egenskapen är Falskt styr egenskaperna FitToPagesWide och FitToPagesTall hur kalkylbladet skalas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent_scale(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

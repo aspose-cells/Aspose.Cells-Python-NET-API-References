@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_extract_load Eigentum
 
-Gibt an, ob die Anwendung die Arbeitsmappe zuletzt zur Datenwiederherstellung geöffnet hat.
+gibt an, ob die Anwendung die Arbeitsmappe zuletzt zur Datenwiederherstellung geöffnet hat.
 ###  Definition:
 ```python
 @property

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  is_bottom propriété
 
-Obtenir ou définir si une règle "top/bottom n" est une règle "bottom n".
-La valeur par défaut est false.
+Obtenir ou définir si une règle « n supérieur/inférieur » est une règle « n inférieur ».
+La valeur par défaut est faux.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_bottom(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Top10](/cells/python-net/fr/aspose.cells/top10)
+* module [`aspose.cells`](../../)
+* classe [`Top10`](/cells/python-net/fr/aspose.cells/top10)

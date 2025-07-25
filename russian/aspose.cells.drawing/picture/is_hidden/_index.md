@@ -1,9 +1,9 @@
 ---
 title: is_hidden недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 680
+weight: 700
 url: /ru/aspose.cells.drawing/picture/is_hidden/
 is_root: false
 ---

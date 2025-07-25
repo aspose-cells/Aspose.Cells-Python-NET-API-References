@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font mülk
 
-Belirtilen ChartFrame nesnesinin [LegendEntry.font](/cells/python-net/tr/aspose.cells.charts/legendentry#font) nesnesini alır.
+Belirtilen ChartFrame nesnesinin [`LegendEntry.font`](/cells/python-net/tr/aspose.cells.charts/legendentry#font) nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def font(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
-* sınıf [LegendEntry](/cells/python-net/tr/aspose.cells.charts/legendentry)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)
+* sınıf [`LegendEntry`](/cells/python-net/tr/aspose.cells.charts/legendentry)

@@ -1,15 +1,15 @@
 ---
-title: table_name الملكية
+title: table_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 270
 url: /ar/aspose.cells.saving/sqlscriptsaveoptions/table_name/
 is_root: false
 ---
-##  table_name الملكية
+##  table_name عقار
 
-الحصول على اسم الجدول وتعيينه.
+يحصل على اسم الجدول ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def table_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptSaveOptions](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptSaveOptions`](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)

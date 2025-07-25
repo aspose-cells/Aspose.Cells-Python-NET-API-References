@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_camera_type mülk
 
-Ekstrüzyon ön ayarlı kamera tipini alır ve ayarlar.
+Ekstrüzyon ön ayarlı kamera türünü alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_camera_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PresetCameraType](/cells/python-net/tr/aspose.cells.drawing/presetcameratype)
-* sınıf [ThreeDFormat](/cells/python-net/tr/aspose.cells.drawing/threedformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PresetCameraType`](/cells/python-net/tr/aspose.cells.drawing/presetcameratype)
+* sınıf [`ThreeDFormat`](/cells/python-net/tr/aspose.cells.drawing/threedformat)

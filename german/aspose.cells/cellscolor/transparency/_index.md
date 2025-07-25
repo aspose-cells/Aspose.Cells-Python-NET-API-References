@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency Eigentum
 
-Ruft transparency als Wert von 0,0 (undurchsichtig) bis 1,0 (durchsichtig) ab und legt ihn fest.
+Ruft transparency ab und legt es als Wert von 0,0 (undurchsichtig) bis 1,0 (klar) fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)

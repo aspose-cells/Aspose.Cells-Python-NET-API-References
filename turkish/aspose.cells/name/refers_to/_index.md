@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  refers_to mülk
 
-Adın başvurmak üzere tanımlandığı formülü, eşittir işaretiyle başlayarak döndürür veya ayarlar.
+Adın tanımlandığı formülü, eşittir işaretiyle başlayarak döndürür veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def refers_to(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

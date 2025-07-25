@@ -3,16 +3,17 @@ title: set_outline_borders方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 250
 url: /zh/aspose.cells/range/set_outline_borders/
 is_root: false
 ---
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
-设置具有相同边框样式和颜色的一系列单元格周围的轮廓边框。
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.cells.CellsColor}
+设置具有相同边框样式和颜色的单元格区域周围的轮廓边框。
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -24,12 +25,13 @@ def set_outline_borders(self, border_style, border_color):
 | border_color | [`CellsColor`](/cells/python-net/zh/aspose.cells/cellscolor) |边框颜色。|
 
 
-##  set_outline_borders {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
-设置具有相同边框样式和颜色的一系列单元格周围的轮廓边框。
+##  set_outline_borders(self, border_style, border_color) {#aspose.cells.CellBorderType-aspose.pydrawing.Color}
+设置具有相同边框样式和颜色的单元格区域周围的轮廓边框。
 
 
 
 ```python
+
 def set_outline_borders(self, border_style, border_color):
     ...
 ```
@@ -41,12 +43,13 @@ def set_outline_borders(self, border_style, border_color):
 | border_color | aspose.pydrawing.Color |边框颜色。|
 
 
-##  set_outline_borders {#list-aspose.pydrawing.Color[]}
-设置一系列单元格周围的线条边框。
+##  set_outline_borders(self, border_styles, border_colors) {#list-aspose.pydrawing.Color[]}
+设置单元格区域周围的线边框。
 
 
 
 ```python
+
 def set_outline_borders(self, border_styles, border_colors):
     ...
 ```
@@ -56,7 +59,7 @@ def set_outline_borders(self, border_styles, border_colors):
 | :- | :- | :- |
 | border_styles | list |边框样式。|
 | border_colors | aspose.pydrawing.Color[] |边框颜色。|
-### 评论
+### 注意事项
 
 borderStyles 和 borderStyles 的长度都必须为 4。
 borderStyles和borderStyles的顺序必须是top,bottom,left,right

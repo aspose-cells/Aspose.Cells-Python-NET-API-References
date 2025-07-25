@@ -3,13 +3,13 @@ title: category mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 110
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/category/
 is_root: false
 ---
 ##  category mülk
 
-Belgenin category'ini alır veya ayarlar.
+Belgenin category değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def category(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

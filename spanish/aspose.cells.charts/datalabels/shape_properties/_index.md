@@ -3,7 +3,7 @@ title: shape_properties propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 430
 url: /es/aspose.cells.charts/datalabels/shape_properties/
 is_root: false
 ---

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items mülk
 
-Her onay etiketi öğesinin eksen bilgisini alır.
+Eksenlerin görüntü işaret etiketlerini alır.
 
 ###  Notlar
 
-Yalnızca [`Chart.calculate`](/cells/python-net/tr/aspose.cells.charts/chart/calculate) yöntemi çağrıldıktan sonra kullanılabilir.
+Sadece [`Chart.calculate`](/cells/python-net/tr/aspose.cells.charts/chart/calculate) metodunu arayarak ulaşabilirsiniz.
 ###  Tanım:
 ```python
 @property

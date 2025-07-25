@@ -1,26 +1,24 @@
 ---
 title: GroupFill класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 260
+weight: 240
 url: /ru/aspose.cells.drawing/groupfill/
 is_root: false
 ---
 ##  GroupFill класс
-Представляет, что этот формат заливки должен наследовать свойства заливки группы.
+Представляет этот формат заливки, который должен наследовать свойства заливки группы.
 
 
 
-**Наследование:** [GroupFill](/cells/python-net/aspose.cells.drawing/groupfill) → 
-[Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
+**Наследование:** [`GroupFill`](/cells/python-net/ru/aspose.cells.drawing/groupfill)
 
 
 
-Тип GroupFill предоставляет следующие члены:
+Тип GroupFill предоставляет следующие элементы:
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
-* класс [Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
-* класс [GroupFill](/cells/python-net/ru/aspose.cells.drawing/groupfill)
+* модуль [`aspose.cells.drawing`](..)
+* класс [`GroupFill`](/cells/python-net/ru/aspose.cells.drawing/groupfill)

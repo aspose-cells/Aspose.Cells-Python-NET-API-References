@@ -3,13 +3,13 @@ title: show_empty_col mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 900
+weight: 1030
 url: /tr/aspose.cells.pivot/pivottable/show_empty_col/
 is_root: false
 ---
 ##  show_empty_col mülk
 
-Tabloya boş sütunların dahil edilip edilmeyeceğini gösteren bir boole değeri belirtir.
+Tabloya boş sütunların dahil edilip edilmeyeceğini belirtir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_empty_col(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

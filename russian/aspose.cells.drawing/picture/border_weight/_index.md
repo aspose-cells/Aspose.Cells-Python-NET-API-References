@@ -1,15 +1,15 @@
 ---
 title: border_weight недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight недвижимость
 
-Получает или задает толщину линии границы изображения в единицах pt.
+Возвращает или задает толщину линии границы изображения в единицах pt.
 
 ###  Пример
 

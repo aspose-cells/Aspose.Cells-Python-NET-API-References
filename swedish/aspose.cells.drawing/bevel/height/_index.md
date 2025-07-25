@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  height fastighet
 
-Får och ställer in avfasningens height, eller hur långt över formen den appliceras.
-I enhet av poäng.
+Hämtar och anger height för avfasningen, eller hur långt ovanför formen den appliceras.
+I enheten poäng.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Bevel](/cells/python-net/sv/aspose.cells.drawing/bevel)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Bevel`](/cells/python-net/sv/aspose.cells.drawing/bevel)

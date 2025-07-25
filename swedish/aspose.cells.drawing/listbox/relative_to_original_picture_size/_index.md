@@ -3,13 +3,13 @@ title: relative_to_original_picture_size fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 890
+weight: 900
 url: /sv/aspose.cells.drawing/listbox/relative_to_original_picture_size/
 is_root: false
 ---
 ##  relative_to_original_picture_size fastighet
 
-Anger om formen är relativt originalbildstorleken.
+Anger om formen är relativ till bildens ursprungliga storlek.
 
 ###  Exempel
 

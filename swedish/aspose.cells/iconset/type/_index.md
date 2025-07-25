@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämta eller Ställ in ikonuppsättningen type att visa.
-Om du ställer in type kontrolleras automatiskt om den nuvarande Cfvos räkning är
- överensstämmer med den nya type. Om inte, kommer gamla Cfvos att rengöras och
-standard Cfvos kommer att läggas till.
+Hämta eller ställ in ikonuppsättningen type för att visas.
+Om du ställer in type kontrolleras automatiskt om den aktuella Cfvos-räkningen är
+ överensstämmer med den nya type. Om den inte överensstämmer kommer gamla Cfvos att rengöras och
+Standard-Cfvos kommer att läggas till.
 ###  Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [IconSet](/cells/python-net/sv/aspose.cells/iconset)
-* klass [IconSetType](/cells/python-net/sv/aspose.cells/iconsettype)
+* modul [`aspose.cells`](../../)
+* klass [`IconSet`](/cells/python-net/sv/aspose.cells/iconset)
+* klass [`IconSetType`](/cells/python-net/sv/aspose.cells/iconsettype)

@@ -1,6 +1,6 @@
 ---
 title: alert_style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alert_style недвижимость
 
-Представляет стиль оповещения проверки.
+Представляет стиль оповещения о проверке.
 ###  Определение:
 ```python
 @property

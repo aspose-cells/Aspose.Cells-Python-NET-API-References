@@ -3,12 +3,12 @@ title: CountryCode uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1960
+weight: 1870
 url: /sv/aspose.cells/countrycode/
 is_root: false
 ---
 ##  CountryCode uppräkning
-Representerar Excel-landsidentifierare.
+Representerar landsidentifierare i Excel.
 
 
 
@@ -20,7 +20,7 @@ Typen CountryCode avslöjar följande medlemmar:
 | DEFAULT |  |
 | USA | Förenta staterna|
 | CANADA | Kanada|
-| LATIN_AMERIC | Latinamerika, utom Brasilien|
+| LATIN_AMERIC | Latinamerika, förutom Brasilien|
 | RUSSIA | Ryssland|
 | EGYPT | Egypten|
 | GREECE | Grekland|
@@ -34,7 +34,7 @@ Typen CountryCode avslöjar följande medlemmar:
 | AUSTRIA | Österrike|
 | UNITED_KINGDOM | Storbritannien|
 | DENMARK | Danmark|
-| SWEDEN | Sverige|
+| SWEDEN |Sverige|
 | NORWAY | Norge|
 | POLAND | Polen|
 | GERMANY | Tyskland|
@@ -47,11 +47,11 @@ Typen CountryCode avslöjar följande medlemmar:
 | SOUTH_KOREA | Sydkorea|
 | VIET_NAM | Vietnam|
 | CHINA | Folkrepubliken Kina|
-| TURKEY | Kalkon|
+| TURKEY | Turkiet|
 | INDIA | Indien|
 | ALGERIA | Algeriet|
 | MOROCCO | Marocko|
-| LIBYA |Libyen|
+| LIBYA | Libyen|
 | PORTUGAL | Portugal|
 | ICELAND | Island|
 | FINLAND | Finland|
@@ -62,8 +62,8 @@ Typen CountryCode avslöjar följande medlemmar:
 | SYRIA | Syrien|
 | IRAQ | Irak|
 | KUWAIT | Kuwait|
-| SAUDI | Saudiarabien|
-| UNITED_ARAB_EMIRATES | Förenade arabemiraten|
+| SAUDI | saudi-arabien|
+| UNITED_ARAB_EMIRATES | Förenade Arabemiraten|
 | ISRAEL | Israel|
 | QATAR | Qatar|
 | IRAN | Iran|

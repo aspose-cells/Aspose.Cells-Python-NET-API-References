@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible mülk
 
-Dolgu olup olmadığını gösterir.
+Doldurma olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoFillFormat](/cells/python-net/tr/aspose.cells.drawing/msofillformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoFillFormat`](/cells/python-net/tr/aspose.cells.drawing/msofillformat)

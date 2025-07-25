@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_selected fastighet
 
-Indikerar vilket scenario som senast valdes av användaren för att köras/visas.
+Anger vilket scenario som senast valdes av användaren för körning/visning.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_selected(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioCollection](/cells/python-net/sv/aspose.cells/scenariocollection)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioCollection`](/cells/python-net/sv/aspose.cells/scenariocollection)

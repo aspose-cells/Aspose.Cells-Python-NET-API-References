@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend fastighet
 
-Får sjökortet legend.
+Hämtar diagrammet legend.
 ###  Definition:
 ```python
 @property

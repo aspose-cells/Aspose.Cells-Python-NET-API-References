@@ -3,20 +3,21 @@ title: index_of yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 60
 url: /tr/aspose.cells.pivot/pivottablecollection/index_of/
 is_root: false
 ---
-##  index_of(item, index) {#PivotTable-int}
-Belirtilen nesneyi arar ve belirtilen dizinden son öğeye uzanan dizi listesindeki öğelerin aralığındaki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index) {#aspose.cells.pivot.PivotTable-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığının, belirtilen indeksten son elemana kadar uzanan ilk oluşumunun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-Bulunursa, startIndex'ten son öğeye uzanan dizi listesindeki öğeler aralığındaki değerin ilk oluşumunun sıfır tabanlı dizini; aksi takdirde, -1.
+Dizi listesindeki eleman aralığının başlangıç indeksinden son elemana kadar uzanan ilk değer oluşumunun sıfırdan başlayan indeksi, bulunursa; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index):
     ...
 ```
@@ -24,20 +25,21 @@ def index_of(self, item, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
+| item | [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
 
 
-##  index_of(item, index, count) {#PivotTable-int-int}
-Belirtilen nesneyi arar ve belirtilen dizinde başlayan ve belirtilen sayıda öğe içeren dizi listesindeki öğe aralığı içindeki ilk oluşumun sıfır tabanlı dizinini döndürür.
+##  index_of(self, item, index, count) {#aspose.cells.pivot.PivotTable-int-int}
+Belirtilen nesneyi arar ve dizi listesindeki eleman aralığında belirtilen indeksten başlayıp belirtilen sayıda eleman içeren ilk oluşumun sıfırdan başlayan indeksini döndürür.
 
 
 ###  İadeler
 
-dizi listesindeki öğeler aralığındaki değerin ilk geçtiği sıfır tabanlı dizin, startIndex'te başlar ve bulunursa öğe sayısını içerir; aksi takdirde, -1.
+Dizi listesindeki eleman aralığındaki değerin ilk oluşumunun sıfırdan başlayan indeksi, startIndex'ten başlar ve bulunursa eleman sayısını içerir; aksi takdirde -1.
 
 
 ```python
+
 def index_of(self, item, index, count):
     ...
 ```
@@ -45,12 +47,12 @@ def index_of(self, item, index, count):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item | [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Dizi listesinde bulunacak nesne. Değer null olabilir.|
-| index | int | Aramanın sıfır tabanlı başlangıç dizini. 0 (sıfır) boş bir listede geçerlidir.|
-| count | int | Aranacak bölümdeki öğe sayısı.|
+| item | [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable) | Dizi listesinde bulunacak nesne. Değeri null olabilir.|
+| index | int | Aramanın sıfırdan başlayan başlangıç indeksi. Boş bir listede 0 (sıfır) geçerlidir.|
+| count | int | Aranacak bölümdeki eleman sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTableCollection](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTableCollection`](/cells/python-net/tr/aspose.cells.pivot/pivottablecollection)

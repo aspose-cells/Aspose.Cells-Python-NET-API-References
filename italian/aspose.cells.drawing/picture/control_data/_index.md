@@ -1,9 +1,9 @@
 ---
 title: control_data proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 380
 url: /it/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---

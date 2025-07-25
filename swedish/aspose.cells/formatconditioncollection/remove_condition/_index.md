@@ -7,12 +7,13 @@ weight: 70
 url: /sv/aspose.cells/formatconditioncollection/remove_condition/
 is_root: false
 ---
-##  remove_condition(index) {#int}
-Tar bort formateringsvillkoret genom index.
+##  remove_condition(self, index) {#int}
+Tar bort formateringsvillkoret efter index.
 
 
 
 ```python
+
 def remove_condition(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_condition(self, index):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

@@ -3,14 +3,14 @@ title: export_workbook_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 370
+weight: 430
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_workbook_properties/
 is_root: false
 ---
 ##  export_workbook_properties mülk
 
- Çalışma kitabı özelliklerinin dışa aktarılıp aktarılmayacağını belirten.Varsayılan değer true'dur.İçe aktarmak istiyorsanız
-html veya mht dosyasını Excel'e aktarın, lütfen varsayılan değeri koruyun.
+ Çalışma kitabı özelliklerinin dışa aktarılıp aktarılmayacağını belirtir. Varsayılan değer doğrudur. İçe aktarmak istiyorsanız
+html veya mht dosyasını excel'e aktarırken lütfen varsayılan değeri koruyun.
 ###  Tanım:
 ```python
 @property

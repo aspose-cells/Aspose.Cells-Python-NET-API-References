@@ -1,18 +1,19 @@
 ---
-title: ShapeGuideCollection 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: ShapeGuideCollection 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells.drawing/shapeguidecollection/__init__/
 is_root: false
 ---
-##  ShapeGuideCollection() {#}
-构造 ShapeGuideCollection 的新实例
+##  \_\_init\_\_（自身）{#}
+构造ShapeGuideCollection的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeGuideCollection](/cells/python-net/zh/aspose.cells.drawing/shapeguidecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeGuideCollection`](/cells/python-net/zh/aspose.cells.drawing/shapeguidecollection)

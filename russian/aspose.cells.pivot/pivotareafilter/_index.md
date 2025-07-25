@@ -1,14 +1,14 @@
 ---
 title: PivotAreaFilter класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells.pivot/pivotareafilter/
 is_root: false
 ---
 ##  PivotAreaFilter класс
-Представляет фильтр [`PivotArea`](/cells/python-net/ru/aspose.cells.pivot/pivotarea) для [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable).
+Представляет собой фильтр [`PivotArea`](/cells/python-net/ru/aspose.cells.pivot/pivotarea) для [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable).
 
 
 
@@ -17,20 +17,20 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/__init__/#) | Создает новый экземпляр PivotAreaFilter.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/__init__/#) | Создает новый экземпляр PivotAreaFilter|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [selected](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/selected) | Указывает, имеет ли это поле выбор.<br/> Работает только в том случае, если сводная таблица находится в режиме структуры.|
+| [selected](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/selected) | Указывает, доступно ли для этого поля выделение.<br/> Работает только в том случае, если сводная таблица находится в режиме структуры.|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [is_subtotal_set](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.PivotFieldSubtotalType) | Получает промежуточный итог, установленный для этого фильтра.|
-| [set_subtotals](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.PivotFieldSubtotalType-bool) | Промежуточный итог по фильтру.|
+| [`is_subtotal_set(self, subtotal_type)`](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/is_subtotal_set/#aspose.cells.pivot.pivotfieldsubtotaltype) | Получает, какой промежуточный итог установлен для этого фильтра.|
+| [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/ru/aspose.cells.pivot/pivotareafilter/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | Итого по фильтру.|
 
 
 

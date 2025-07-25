@@ -1,5 +1,5 @@
 ---
-title: add_threaded_comment método
+title: método add_threaded_comment
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 30
 url: /es/aspose.cells/commentcollection/add_threaded_comment/
 is_root: false
 ---
-##  add_threaded_comment(cell_name, text, author) {#str-str-ThreadedCommentAuthor}
-Agrega un comentario encadenado.
+##  add_threaded_comment(self, cell_name, text, author) {#str-str-aspose.cells.ThreadedCommentAuthor}
+Agrega un comentario en hilo.
 
 
 ###  Devoluciones
 
-[ThreadedComment](/cells/python-net/es/aspose.cells/threadedcomment) índice de objetos.
+Índice de objeto [`ThreadedComment`](/cells/python-net/es/aspose.cells/threadedcomment).
 
 
 ```python
+
 def add_threaded_comment(self, cell_name, text, author):
     ...
 ```
@@ -25,20 +26,21 @@ def add_threaded_comment(self, cell_name, text, author):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | cell_name | str | El nombre de la celda.|
-| text | str | El texto del comentario.|
-| author | [ThreadedCommentAuthor](/cells/python-net/es/aspose.cells/threadedcommentauthor) | El usuario de este comentario encadenado.|
+| text | str | El texto del comentario|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/es/aspose.cells/threadedcommentauthor) |El usuario de este comentario enhebrado.|
 
 
-##  add_threaded_comment(row, column, text, author) {#int-int-str-ThreadedCommentAuthor}
-Agrega un comentario encadenado.
+##  add_threaded_comment(self, row, column, text, author) {#int-int-str-aspose.cells.ThreadedCommentAuthor}
+Agrega un comentario en hilo.
 
 
 ###  Devoluciones
 
-[ThreadedComment](/cells/python-net/es/aspose.cells/threadedcomment) índice de objetos.
+Índice de objeto [`ThreadedComment`](/cells/python-net/es/aspose.cells/threadedcomment).
 
 
 ```python
+
 def add_threaded_comment(self, row, column, text, author):
     ...
 ```
@@ -46,14 +48,14 @@ def add_threaded_comment(self, row, column, text, author):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| row | int | Cell índice de fila.|
-| column | int | Cell índice de columna.|
-| text | str | El texto del comentario.|
-| author | [ThreadedCommentAuthor](/cells/python-net/es/aspose.cells/threadedcommentauthor) | El usuario de este comentario encadenado.|
+| row | int | Índice de fila Cell.|
+| column | int | Índice de columna Cell.|
+| text | str | El texto del comentario|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/es/aspose.cells/threadedcommentauthor) |El usuario de este comentario enhebrado.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CommentCollection](/cells/python-net/es/aspose.cells/commentcollection)
-* clase [ThreadedComment](/cells/python-net/es/aspose.cells/threadedcomment)
+* módulo [`aspose.cells`](../../)
+* clase [`CommentCollection`](/cells/python-net/es/aspose.cells/commentcollection)
+* clase [`ThreadedComment`](/cells/python-net/es/aspose.cells/threadedcomment)

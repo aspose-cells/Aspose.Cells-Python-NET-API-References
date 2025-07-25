@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  crash_save propiedad
 
-indica si la aplicación guardó por última vez el archivo del libro después de un bloqueo.
+Indica si la aplicación guardó por última vez el archivo del libro de trabajo después de una falla.
 ###  Definición:
 ```python
 @property

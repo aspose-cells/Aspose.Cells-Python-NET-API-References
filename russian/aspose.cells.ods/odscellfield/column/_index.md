@@ -1,6 +1,6 @@
 ---
 title: column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column недвижимость
 
-Получить и установить индекс ячейки column.
+Получает и задает индекс ячейки column.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsCellField](/cells/python-net/ru/aspose.cells.ods/odscellfield)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsCellField`](/cells/python-net/ru/aspose.cells.ods/odscellfield)

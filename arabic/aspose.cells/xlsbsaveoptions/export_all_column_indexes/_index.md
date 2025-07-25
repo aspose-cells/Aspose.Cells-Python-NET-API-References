@@ -1,19 +1,19 @@
 ---
-title: export_all_column_indexes الملكية
+title: export_all_column_indexes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 90
 url: /ar/aspose.cells/xlsbsaveoptions/export_all_column_indexes/
 is_root: false
 ---
-##  export_all_column_indexes الملكية
+##  export_all_column_indexes عقار
 
-الإشارة إلى ما إذا كان سيتم تصدير جميع فهارس الأعمدة للخلايا أم لا.
+يشير إلى ما إذا كان سيتم تصدير كافة فهارس الأعمدة للخلايا.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي الحقيقية.
+القيمة الافتراضية هي true.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def export_all_column_indexes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XlsbSaveOptions](/cells/python-net/ar/aspose.cells/xlsbsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XlsbSaveOptions`](/cells/python-net/ar/aspose.cells/xlsbsaveoptions)

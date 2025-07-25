@@ -3,17 +3,17 @@ title: validate_merged_areas mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 140
 url: /tr/aspose.cells/difsaveoptions/validate_merged_areas/
 is_root: false
 ---
 ##  validate_merged_areas mülk
 
-Dosyayı kaydetmeden önce birleştirilmiş hücrelerin doğrulanıp doğrulanmadığını gösterir.
+Dosyayı kaydetmeden önce birleştirilmiş hücrelerin doğrulanıp doğrulanmayacağını belirtir.
 
 ###  Notlar
 
-Varsayılan değer yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def validate_merged_areas(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DifSaveOptions](/cells/python-net/tr/aspose.cells/difsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`DifSaveOptions`](/cells/python-net/tr/aspose.cells/difsaveoptions)

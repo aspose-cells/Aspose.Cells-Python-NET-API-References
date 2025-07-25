@@ -1,15 +1,15 @@
 ---
 title: count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 70
+weight: 80
 url: /it/aspose.cells.pivot/pivotfieldcollection/count/
 is_root: false
 ---
 ##  count proprietà
 
-Ottiene lo count di pivotFields.
+Ottiene il valore count di pivotFields.
 ###  Definizione:
 ```python
 @property

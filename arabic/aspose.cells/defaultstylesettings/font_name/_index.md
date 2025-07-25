@@ -1,15 +1,15 @@
 ---
-title: font_name الملكية
+title: font_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells/defaultstylesettings/font_name/
 is_root: false
 ---
-##  font_name الملكية
+##  font_name عقار
 
-الحصول على / تعيين اسم الخط الافتراضي للمصنف
+يحصل على/يعين اسم الخط الافتراضي للمصنف
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DefaultStyleSettings](/cells/python-net/ar/aspose.cells/defaultstylesettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DefaultStyleSettings`](/cells/python-net/ar/aspose.cells/defaultstylesettings)

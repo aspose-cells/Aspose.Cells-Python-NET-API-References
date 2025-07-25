@@ -1,5 +1,5 @@
 ---
-title: capacity الملكية
+title: capacity عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 70
 url: /ar/aspose.cells.slicers/slicercacheitemcollection/capacity/
 is_root: false
 ---
-##  capacity الملكية
+##  capacity عقار
 ###  تعريف:
 ```python
 @property
@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](../../)
-* فئة [SlicerCacheItemCollection](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)
+* الوحدة [`aspose.cells.slicers`](../../)
+* فئة [`SlicerCacheItemCollection`](/cells/python-net/ar/aspose.cells.slicers/slicercacheitemcollection)

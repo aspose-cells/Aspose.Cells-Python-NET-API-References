@@ -1,6 +1,6 @@
 ---
 title: both proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  both proprietà
 
-Indica se i due criteri hanno una relazione "e".
+Indica se tra i due criteri esiste una relazione "e".
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def both(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CustomFilterCollection](/cells/python-net/it/aspose.cells/customfiltercollection)
+* modulo [`aspose.cells`](../../)
+* classe [`CustomFilterCollection`](/cells/python-net/it/aspose.cells/customfiltercollection)

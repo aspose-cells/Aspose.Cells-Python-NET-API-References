@@ -1,18 +1,19 @@
 ---
 title: add_data_area_condition метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/
 is_root: false
 ---
-##  add_data_area_condition(field_name) {#str}
-Добавляет ограничение условного формата сводной таблицы в поля данных.
+##  add_data_area_condition(self, field_name) {#str}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, field_name):
     ...
 ```
@@ -20,15 +21,16 @@ def add_data_area_condition(self, field_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| field_name | str | Имя сводного поля.|
+| field_name | str |  |
 
 
-##  add_data_area_condition(data_field) {#PivotField}
-Добавляет ограничение условного формата сводной таблицы в поля данных.
+##  add_data_area_condition(self, data_field) {#aspose.cells.pivot.PivotField}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, data_field):
     ...
 ```
@@ -36,10 +38,10 @@ def add_data_area_condition(self, data_field):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| data_field | [PivotField](/cells/python-net/ru/aspose.cells.pivot/pivotfield) | PivotField в полях данных.|
+| data_field | [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield) |  |
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotFormatCondition](/cells/python-net/ru/aspose.cells.pivot/pivotformatcondition)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotFormatCondition`](/cells/python-net/ru/aspose.cells.pivot/pivotformatcondition)

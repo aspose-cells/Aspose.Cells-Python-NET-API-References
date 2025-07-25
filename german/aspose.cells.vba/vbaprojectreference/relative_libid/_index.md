@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  relative_libid Eigentum
 
-Ruft den Bezeichner des referenzierten VBA-Projekts mit einem relativen Pfad ab und legt ihn fest.
+Ruft die Kennung des referenzierten VBA-Projekts mit einem relativen Pfad ab und legt sie fest.
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProjectReference](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProjectReference`](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)

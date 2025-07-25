@@ -7,12 +7,13 @@ weight: 50
 url: /tr/aspose.cells/workbook/change_palette/
 is_root: false
 ---
-##  change_palette(color, index) {#aspose.pydrawing.Color-int}
+##  change_palette(self, color, index) {#aspose.pydrawing.Color-int}
 Belirtilen dizindeki elektronik tablonun paletini değiştirir.
 
 
 
 ```python
+
 def change_palette(self, color, index):
     ...
 ```
@@ -21,19 +22,19 @@ def change_palette(self, color, index):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | Renk yapısı.|
-| index | int | Palet dizini, 0 - 55.|
+| index | int | Palet indeksi, 0 - 55.|
 ###  Notlar
 
-Palette, her biri bir RGB değeriyle temsil edilen 56 giriş vardır.
+Palette her biri bir RGB değeriyle temsil edilen 56 giriş bulunmaktadır.
 
 
-Palette olmayan bir renk ayarlarsanız etkili olmaz.
+Palette olmayan bir renk ayarlarsanız, etkisi olmayacaktır.
 
 
-Bu nedenle, özel bir renk ayarlamak istiyorsanız, lütfen önce paleti değiştirin.
+Eğer özel bir renk ayarlamak istiyorsanız, lütfen öncelikle paleti değiştirin.
 
 
-Aşağıdaki standart renk paletidir.
+Aşağıda standart renk paleti yer almaktadır.
 
 | Renk| Kırmızı| Yeşil| Mavi|
 | :- | :- | :- | :- |
@@ -43,17 +44,17 @@ Aşağıdaki standart renk paletidir.
 | Kireç| 0| 255| 0 |
 | Mavi| 0| 0| 255 |
 | Sarı| 255| 255| 0 |
-| eflatun| 255| 0| 255 |
-| camgöbeği| 0| 255| 255 |
-| bordo| 128| 0| 0 |
+| Macenta| 255| 0| 255 |
+| Camgöbeği| 0| 255| 255 |
+| Bordo| 128| 0| 0 |
 | Yeşil| 0| 128| 0 |
 | Donanma| 0| 0| 128 |
-| zeytin| 128| 128| 0 |
+| Zeytin| 128| 128| 0 |
 | Mor| 128| 0| 128 |
-| deniz mavisi| 0| 128| 128 |
+| Turkuaz| 0| 128| 128 |
 | Gümüş| 192| 192| 192 |
 | Gri| 128| 128| 128 |
-| Renk17| 153| 153| 255 |
+|Renk17| 153| 153| 255 |
 | Renk18| 153| 51| 102 |
 | Renk19| 255| 255| 204 |
 | Renk20| 204| 255| 255 |
@@ -90,12 +91,12 @@ Aşağıdaki standart renk paletidir.
 | Renk51| 0| 51| 0 |
 | Renk52| 51| 51| 0 |
 | Renk53| 153| 51| 0 |
-|Renk54| 153| 51| 102 |
+| Renk54| 153| 51| 102 |
 | Renk55| 51| 51| 153 |
 | Renk56| 51| 51| 51 |
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

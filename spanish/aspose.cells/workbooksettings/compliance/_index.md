@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compliance propiedad
 
-Especifica la versión OOXML para el documento de salida. El valor predeterminado es Ecma376_2006.
+Especifica la versión de OOXML del documento de salida. El valor predeterminado es Ecma376_2006.
 
 ###  Observaciones
 

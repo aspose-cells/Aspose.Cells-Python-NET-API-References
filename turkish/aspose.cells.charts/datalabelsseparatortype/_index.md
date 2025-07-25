@@ -19,9 +19,9 @@ DataLabelsSeparatorType türü aşağıdaki üyeleri ortaya çıkarır:
 | :- | :- |
 | AUTO | Otomatik ayırıcıyı temsil eder|
 | SPACE | Boşluğu temsil eder(" ")|
-| COMMA | Virgül("), temsil eder|
-| SEMICOLON | Noktalı virgülü temsil eder(";")|
-| PERIOD | Dönemi (".") temsil eder|
+| COMMA | Virgül(",")'ü temsil eder|
+| SEMICOLON | Noktalı virgülü(";") temsil eder|
+| PERIOD | Dönemi(".") temsil eder|
 | NEW_LINE | Yeni satırı temsil eder("\n")|
 | CUSTOM | Özel ayırıcıyı temsil eder|
 

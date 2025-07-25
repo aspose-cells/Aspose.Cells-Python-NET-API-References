@@ -17,12 +17,12 @@ El tipo Area expone los siguientes miembros:
 ###  Propiedades
 | Propiedad| Descripción|
 | :- | :- |
-| [background_color](/cells/python-net/es/aspose.cells.drawing/area/background_color) | Obtiene o establece el Color de fondo del [Area](/cells/python-net/es/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/es/aspose.cells.drawing/area/foreground_color) | Obtiene o establece el Color de primer plano.|
+| [background_color](/cells/python-net/es/aspose.cells.drawing/area/background_color) | Obtiene o establece el color de fondo de [`Area`](/cells/python-net/es/aspose.cells.drawing/area).|
+| [foreground_color](/cells/python-net/es/aspose.cells.drawing/area/foreground_color) | Obtiene o establece el color de primer plano.|
 | [formatting](/cells/python-net/es/aspose.cells.drawing/area/formatting) | Representa el formato del área.|
-| [invert_if_negative](/cells/python-net/es/aspose.cells.drawing/area/invert_if_negative) | Si la propiedad es verdadera y el valor del punto del gráfico es un número negativo,<br/> se intercambiarán el color de primer plano y el color de fondo.|
-| [fill_format](/cells/python-net/es/aspose.cells.drawing/area/fill_format) | Representa un objeto [Area.fill_format](/cells/python-net/es/aspose.cells.drawing/area#fill_format) que contiene propiedades de formato de relleno para el gráfico o la forma especificados.|
-| [transparency](/cells/python-net/es/aspose.cells.drawing/area/transparency) | Devuelve o establece el grado de transparencia del área como un valor de 0,0 (opaco) a 1,0 (transparente).|
+| [invert_if_negative](/cells/python-net/es/aspose.cells.drawing/area/invert_if_negative) | Si la propiedad es verdadera y el valor del punto del gráfico es un número negativo,<br/> Se intercambiarán el color de primer plano y el color de fondo.|
+| [fill_format](/cells/python-net/es/aspose.cells.drawing/area/fill_format) | Representa un objeto [`Area.fill_format`](/cells/python-net/es/aspose.cells.drawing/area#fill_format) que contiene propiedades de formato de relleno para el gráfico o la forma especificados.|
+| [transparency](/cells/python-net/es/aspose.cells.drawing/area/transparency) |Devuelve o establece el grado de transparencia del área como un valor de 0,0 (opaco) a 1,0 (transparente).|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
-* clase [Area](/cells/python-net/es/aspose.cells.drawing/area)
+* módulo [`aspose.cells.drawing`](..)
+* clase [`Area`](/cells/python-net/es/aspose.cells.drawing/area)

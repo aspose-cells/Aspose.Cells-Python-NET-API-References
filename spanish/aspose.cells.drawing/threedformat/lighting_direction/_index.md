@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  lighting_direction propiedad
 
-Obtiene y establece la dirección desde la que se orienta el equipo de iluminación en relación con la escena.
+Obtiene y establece la dirección desde la cual se orienta el equipo de iluminación en relación con la escena.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def lighting_direction(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [LightRigDirectionType](/cells/python-net/es/aspose.cells.drawing/lightrigdirectiontype)
-* clase [ThreeDFormat](/cells/python-net/es/aspose.cells.drawing/threedformat)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`LightRigDirectionType`](/cells/python-net/es/aspose.cells.drawing/lightrigdirectiontype)
+* clase [`ThreeDFormat`](/cells/python-net/es/aspose.cells.drawing/threedformat)

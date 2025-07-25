@@ -3,7 +3,7 @@ title: DropButtonStyle uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 280
+weight: 260
 url: /sv/aspose.cells.drawing.activexcontrols/dropbuttonstyle/
 is_root: false
 ---
@@ -25,4 +25,4 @@ Typen DropButtonStyle avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

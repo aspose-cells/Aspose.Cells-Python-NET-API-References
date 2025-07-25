@@ -3,14 +3,14 @@ title: export_area属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 240
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_area/
 is_root: false
 ---
 ## export_area属性
 
-获取或设置当前活动工作表的导出单元格区域。
-如果设置此属性，当前活动工作表的打印区域将被忽略。
+获取或设置当前活动工作表的导出 CellArea。
+如果设置此属性，则当前活动工作表的打印区域将被省略。
 将文件保存为 html 时，只会导出指定区域。
 ### 定义：
 ```python

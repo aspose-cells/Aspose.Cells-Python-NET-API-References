@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  summary_column_right fastighet
 
-Indikerar om sammanfattningskolumnen kommer att placeras till höger om detaljkolumnerna i konturen.
+Anger om sammanfattningskolumnen ska placeras till höger om detaljkolumnerna i dispositionen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def summary_column_right(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Outline](/cells/python-net/sv/aspose.cells/outline)
+* modul [`aspose.cells`](../../)
+* klass [`Outline`](/cells/python-net/sv/aspose.cells/outline)

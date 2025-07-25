@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells/externallinkcollection/remove_at/
 is_root: false
 ---
-##  remove_at(index) {#int}
+##  remove_at(self, index) {#int}
 Entfernt den angegebenen externen Link aus der Arbeitsmappe.
 
 
 
 ```python
+
 def remove_at(self, index):
     ...
 ```
@@ -20,18 +21,19 @@ def remove_at(self, index):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| index | int | der Index des externen Links, der entfernt werden soll.|
+| index | int | der Index des zu entfernenden externen Links.|
 ###  Bemerkungen
 
-Beim Entfernen des externen Links werden auch alle darauf verweisenden Formeln entfernt, weil
-die Verweise werden ungültig.
+Beim Entfernen des externen Links werden auch alle Formeln, die darauf verweisen, entfernt, weil
+die Verweise verlieren ihre Gültigkeit.
 
-##  remove_at(index, update_references_as_local) {#int-bool}
+##  remove_at(self, index, update_references_as_local) {#int-bool}
 Entfernt den angegebenen externen Link aus der Arbeitsmappe.
 
 
 
 ```python
+
 def remove_at(self, index, update_references_as_local):
     ...
 ```
@@ -39,18 +41,11 @@ def remove_at(self, index, update_references_as_local):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| index | int | der Index des externen Links, der entfernt werden soll.|
-| update_references_as_local | bool | Ob alle Referenzen des angegebenen externen Links auf die Referenz der aktuellen Arbeitsmappe selbst aktualisiert werden.|
-###  Bemerkungen
+| index | int | der Index des zu entfernenden externen Links.|
+| update_references_as_local | bool | Ob alle Verweise des angegebenen externen Links auf die Referenz der aktuellen Arbeitsmappe selbst aktualisiert werden sollen.<br/> Weitere Einzelheiten zu diesem Parameter erhalten Sie unter [`ExternalLinkCollection.clear`](/cells/python-net/de/aspose.cells/externallinkcollection/clear).|
 
-Wenn Verweise aktualisiert werden müssen, werden Verweise auf externe Links in Formeln in die aktuelle Arbeitsmappe geändert.
-Der zu entfernende externe Link ist beispielsweise „externalsource.xlam“ und definiert eine benutzerdefinierte Funktion „customfunction()“.
-Die ursprüngliche Formel einer Zelle lautet "='externalsource.xlam'!customfunction()",
-Nach dem Entfernen wird die Formel zu "=customfunction()".
-Wenn Verweise nicht aktualisiert werden müssen, alle Formeln mit Verweis auf diesen externen Link
-werden ebenfalls entfernt, da diese Verweise ungültig werden.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExternalLinkCollection](/cells/python-net/de/aspose.cells/externallinkcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExternalLinkCollection`](/cells/python-net/de/aspose.cells/externallinkcollection)

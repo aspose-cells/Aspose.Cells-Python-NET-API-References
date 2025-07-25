@@ -7,12 +7,13 @@ weight: 10
 url: /zh/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __在里面__ {#str-list}
-数据透视字段自定义组项的构造函数。
+##  \_\_init\_\_（自身，名称，item_indexes）{#str-list}
+数据透视字段的自定义组项的构造函数。
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```
@@ -21,7 +22,7 @@ def __init__(self, name, item_indexes):
 |范围|类型|描述|
 | :- | :- | :- |
 | name | str |组项目名称|
-| item_indexes | list |基本数据透视字段项目的所有索引。|
+| item_indexes | list |基本枢轴字段的项目的所有索引。|
 
 
 

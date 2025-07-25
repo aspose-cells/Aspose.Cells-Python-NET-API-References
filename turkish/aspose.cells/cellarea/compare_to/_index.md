@@ -7,17 +7,18 @@ weight: 20
 url: /tr/aspose.cells/cellarea/compare_to/
 is_root: false
 ---
-##  compare_to(obj) {#any}
+##  compare_to(self, obj) {#any}
 İki CellArea nesnesini sol üst köşelerine göre karşılaştırın.
 
 
 ###  İadeler
 
-İki köşe farklı sıralardaysa, sıra dizinlerini karşılaştırın. Aksi takdirde, sütun dizinlerini karşılaştırın.
-İki köşe aynıysa, 0 döndürülür.
+İki köşe farklı satırlardaysa, satır indekslerini karşılaştırın. Aksi takdirde sütun indekslerini karşılaştırın.
+Eğer iki köşe aynı ise 0 döndürülecektir.
 
 
 ```python
+
 def compare_to(self, obj):
     ...
 ```
@@ -30,5 +31,5 @@ def compare_to(self, obj):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)

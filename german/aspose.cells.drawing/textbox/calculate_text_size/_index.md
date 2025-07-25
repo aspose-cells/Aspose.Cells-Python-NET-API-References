@@ -7,8 +7,8 @@ weight: 40
 url: /de/aspose.cells.drawing/textbox/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
-Berechnen Sie den Textbereich neu
+##  calculate_text_size(self) {#}
+Textbereich neu berechnen
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Textgröße in einem Array (Breite und Höhe).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TextBox](/cells/python-net/de/aspose.cells.drawing/textbox)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TextBox`](/cells/python-net/de/aspose.cells.drawing/textbox)

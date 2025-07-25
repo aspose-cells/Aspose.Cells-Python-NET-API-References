@@ -21,5 +21,5 @@ def preserve_formatting(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [QueryTable](/cells/python-net/tr/aspose.cells/querytable)
+* modül [`aspose.cells`](../../)
+* sınıf [`QueryTable`](/cells/python-net/tr/aspose.cells/querytable)

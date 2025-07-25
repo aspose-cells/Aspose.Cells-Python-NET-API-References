@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  distance propriété
 
-Obtient et définit la distance jusqu'à distance l'ombre, en unité de points.
+Obtient et définit la distance jusqu'à distance de l'ombre, en unités de points.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def distance(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/fr/aspose.cells.drawing/reflectioneffect)

@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __i det__ {#}
-Skapar alternativ för att ladda e-boksfilen.
+##  \_\_init\_\_(själv){#}
+Skapar alternativ för att läsa in e-boksfilen.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __i det__ {#aspose.cells.LoadFormat}
-Skapar alternativ för att ladda e-boksfilen.
+##  \_\_init\_\_(self, ladda_format){#aspose.cells.LoadFormat}
+Skapar alternativ för att läsa in e-boksfilen.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```
@@ -33,7 +35,7 @@ def __init__(self, load_format):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| load_format | [`LoadFormat`](/cells/python-net/sv/aspose.cells/loadformat) | Laddningsformatet|
+| load_format | [`LoadFormat`](/cells/python-net/sv/aspose.cells/loadformat) | Lastningsformatet|
 
 
 

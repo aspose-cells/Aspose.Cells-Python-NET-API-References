@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end Eigentum
 
-Ruft die end-Nummer der Gruppe ab.
+Ruft die Nummer end der Gruppe ab.
 ###  Definition:
 ```python
 @property

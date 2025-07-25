@@ -3,17 +3,11 @@ title: gridline_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 170
 url: /es/aspose.cells/xpssaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type propiedad
-
-Obtiene o establece el tipo de línea de cuadrícula.
-
-###  Observaciones
-
-El valor predeterminado es el tipo punteado.
 ###  Definición:
 ```python
 @property

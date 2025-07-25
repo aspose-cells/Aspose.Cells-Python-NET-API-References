@@ -1,13 +1,13 @@
 ---
 title: Metodo get_rich_formattings
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
+##  get_rich_formattings(self) {#}
  Restituisce tutti gli oggetti Characters
 che rappresenta un intervallo di caratteri all'interno del testo del commento.
 
@@ -18,6 +18,7 @@ Tutti gli oggetti Personaggi
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

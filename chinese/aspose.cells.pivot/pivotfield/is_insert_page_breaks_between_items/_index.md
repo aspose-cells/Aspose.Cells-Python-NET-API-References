@@ -3,14 +3,13 @@ title: is_insert_page_breaks_between_items属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 430
+weight: 510
 url: /zh/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---
 ## is_insert_page_breaks_between_items属性
 
-指示该字段是否可以在项目之间插入分页符
-在每个项目后插入分页符
+指示是否在每个项目后插入分页符。
 默认值为 false。
 ### 定义：
 ```python

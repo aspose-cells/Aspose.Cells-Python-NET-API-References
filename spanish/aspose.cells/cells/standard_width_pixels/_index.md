@@ -3,7 +3,7 @@ title: standard_width_pixels propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1290
+weight: 1320
 url: /es/aspose.cells/cells/standard_width_pixels/
 is_root: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: old_length недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  old_length недвижимость
 
-Получает длину текста комментария, добавленного в эту редакцию.
+Возвращает длину текста комментария, добавленного в этой редакции.
 ###  Определение:
 ```python
 @property
@@ -18,5 +18,5 @@ def old_length(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](../../)
-* класс [RevisionCellComment](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)
+* модуль [`aspose.cells.revisions`](../../)
+* класс [`RevisionCellComment`](/cells/python-net/ru/aspose.cells.revisions/revisioncellcomment)

@@ -1,15 +1,15 @@
 ---
 title: external_links недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 320
 url: /ru/aspose.cells/worksheetcollection/external_links/
 is_root: false
 ---
 ##  external_links недвижимость
 
-Представляет внешние ссылки в книге.
+Представляет внешние ссылки в рабочей книге.
 ###  Определение:
 ```python
 @property

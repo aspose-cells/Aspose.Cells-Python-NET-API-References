@@ -3,14 +3,14 @@ title: export_view_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 170
 url: /de/aspose.cells/pptxsaveoptions/export_view_type/
 is_root: false
 ---
 ##  export_view_type Eigentum
 
-Ruft den Anzeigetyp beim Exportieren nach PowerPoint ab und legt ihn fest.
-Der Standard-Exporttyp ist das Drucken.
+Ruft den Anzeigetyp ab und legt ihn beim Exportieren nach PowerPoint fest.
+Der Standardexporttyp ist das Drucken.
 ###  Definition:
 ```python
 @property

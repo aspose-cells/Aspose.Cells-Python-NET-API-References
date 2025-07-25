@@ -3,13 +3,13 @@ title: text_vertical_alignment属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /zh/aspose.cells.drawing/listbox/text_vertical_alignment/
 is_root: false
 ---
 ## text_vertical_alignment属性
 
-获取和设置形状的文本垂直对齐类型。
+获取并设置形状的文本垂直对齐类型。
 
 ### 例子
 

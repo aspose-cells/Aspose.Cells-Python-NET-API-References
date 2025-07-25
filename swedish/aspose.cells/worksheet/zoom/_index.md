@@ -3,17 +3,17 @@ title: zoom fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 960
 url: /sv/aspose.cells/worksheet/zoom/
 is_root: false
 ---
 ##  zoom fastighet
 
-Representerar skalningsfaktorn i procent. Det bör vara mellan 10 och 400.
+Representerar skalningsfaktorn i procent. Den bör vara mellan 10 och 400.
 
 ###  Anmärkningar
 
-Ställ in vytypen först.
+Vänligen ange vytypen först.
 ###  Definition:
 ```python
 @property

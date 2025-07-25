@@ -3,13 +3,11 @@ title: clear_data propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 90
 url: /fr/aspose.cells/docxsaveoptions/clear_data/
 is_root: false
 ---
 ##  clear_data propriété
-
-Videz le classeur après avoir enregistré le fichier.
 ###  Définition:
 ```python
 @property
@@ -21,5 +19,5 @@ def clear_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DocxSaveOptions](/cells/python-net/fr/aspose.cells/docxsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`DocxSaveOptions`](/cells/python-net/fr/aspose.cells/docxsaveoptions)

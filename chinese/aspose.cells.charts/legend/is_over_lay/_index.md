@@ -3,13 +3,13 @@ title: is_over_lay属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 240
+weight: 300
 url: /zh/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ## is_over_lay属性
 
-获取或设置是否允许其他图表元素与此图表元素重叠。
+获取或设置是否在不覆盖图表的情况下显示图例。
 ### 定义：
 ```python
 @property

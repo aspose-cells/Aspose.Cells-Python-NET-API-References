@@ -1,5 +1,5 @@
 ---
-title: CustomXmlPart الدرجة
+title: CustomXmlPart صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,21 @@ weight: 10
 url: /ar/aspose.cells.markup/customxmlpart/
 is_root: false
 ---
-##  CustomXmlPart الدرجة
-يمثل جزء تخزين بيانات XML مخصص (بيانات XML مخصصة داخل حزمة).
+##  CustomXmlPart صف
+يمثل جزء تخزين بيانات XML مخصص (بيانات XML مخصصة ضمن حزمة).
 
 
 
-يكشف نوع CustomXmlPart الأعضاء التالية:
+يكشف النوع CustomXmlPart عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [data](/cells/python-net/ar/aspose.cells.markup/customxmlpart/data) | الحصول على محتوى XML الخاص بجزء تخزين بيانات XML المخصص هذا أو تعيينه.|
-| [schema_data](/cells/python-net/ar/aspose.cells.markup/customxmlpart/schema_data) | الحصول على أو تعيين محتوى XML لجزء تخزين بيانات مخطط XML المخصص هذا.|
-| [id](/cells/python-net/ar/aspose.cells.markup/customxmlpart/id) |الحصول على معرف جزء xml المخصص وتعيينه.|
+| [data](/cells/python-net/ar/aspose.cells.markup/customxmlpart/data) | يحصل على محتوى XML الخاص بجزء تخزين بيانات XML المخصص هذا أو يعينه.|
+| [schema_data](/cells/python-net/ar/aspose.cells.markup/customxmlpart/schema_data) |يحصل على محتوى XML الخاص بجزء تخزين بيانات مخطط XML المخصص هذا أو يعينه.|
+| [id](/cells/python-net/ar/aspose.cells.markup/customxmlpart/id) | يحصل على معرف جزء XML المخصص ويقوم بتعيينه.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](..)
+* الوحدة [`aspose.cells.markup`](..)

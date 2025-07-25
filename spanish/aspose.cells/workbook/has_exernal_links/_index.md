@@ -1,13 +1,13 @@
 ---
-title: has_exernal_links método
+title: método has_exernal_links
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 210
+weight: 220
 url: /es/aspose.cells/workbook/has_exernal_links/
 is_root: false
 ---
-##  has_exernal_links() {#}
+##  has_exernal_links(self) {#}
 Indica si este libro de trabajo contiene enlaces externos a otras fuentes de datos.
 
 
@@ -17,6 +17,7 @@ Si este libro de trabajo contiene enlaces externos a otras fuentes de datos.
 
 
 ```python
+
 def has_exernal_links(self):
     ...
 ```
@@ -24,12 +25,12 @@ def has_exernal_links(self):
 
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice ExternalLinkCollection.Count para verificar si hay enlaces externos en este libro de trabajo.
- Este método se eliminará 12 meses después desde diciembre de 2021.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice ExternalLinkCollection.Count para comprobar si hay enlaces externos en este libro de trabajo.
+Este método se eliminará 12 meses después desde diciembre de 2021.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

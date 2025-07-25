@@ -20,7 +20,7 @@ CrossType türü aşağıdaki üyeleri ortaya çıkarır:
 | AUTOMATIC | Microsoft Excel eksen geçiş noktasını ayarlar.|
 | MAXIMUM | Eksen maksimum değerde kesişir.|
 | MINIMUM | Eksen minimum değerde kesişir.|
-| CUSTOM | Eksen özel değerde kesişir.|
+| CUSTOM |Eksen özel değerde kesişir.|
 
 
 

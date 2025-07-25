@@ -3,13 +3,13 @@ title: standard_height_pixels propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1260
+weight: 1290
 url: /es/aspose.cells/cells/standard_height_pixels/
 is_root: false
 ---
 ##  standard_height_pixels propiedad
 
-Obtiene o establece el alto de fila predeterminado en esta hoja de cálculo, en unidades de píxeles.
+Obtiene o establece la altura de fila predeterminada en esta hoja de cálculo, en unidades de píxeles.
 ###  Definición:
 ```python
 @property

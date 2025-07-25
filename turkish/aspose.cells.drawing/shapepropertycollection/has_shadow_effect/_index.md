@@ -7,7 +7,7 @@ weight: 70
 url: /tr/aspose.cells.drawing/shapepropertycollection/has_shadow_effect/
 is_root: false
 ---
-##  has_shadow_effect() {#}
+##  has_shadow_effect(self) {#}
 Şeklin gölge efekti verisi olup olmadığını gösterir.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def has_shadow_effect(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_shadow_effect(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

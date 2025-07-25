@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible fastighet
 
-Indikerar om det finns fyllning.
+Anger om det finns fyllning.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [MsoFillFormatHelper](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`MsoFillFormatHelper`](/cells/python-net/sv/aspose.cells.drawing/msofillformathelper)

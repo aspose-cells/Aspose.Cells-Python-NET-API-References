@@ -3,13 +3,13 @@ title: control_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 370
+weight: 380
 url: /sv/aspose.cells.drawing/picture/control_data/
 is_root: false
 ---
 ##  control_data fastighet
 
-Får kontrolldata.
+Hämtar kontrolldata.
 
 ###  Exempel
 

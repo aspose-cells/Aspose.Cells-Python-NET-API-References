@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  uri fastighet
 
-Hämtar namnutrymmes-URI för smarttaggen.
+Hämtar namnrymds-URI:n för den smarta taggen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def uri(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.markup](../../)
-* klass [SmartTag](/cells/python-net/sv/aspose.cells.markup/smarttag)
+* modul [`aspose.cells.markup`](../../)
+* klass [`SmartTag`](/cells/python-net/sv/aspose.cells.markup/smarttag)

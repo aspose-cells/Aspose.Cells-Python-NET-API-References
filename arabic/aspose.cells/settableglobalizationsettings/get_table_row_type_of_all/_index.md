@@ -7,7 +7,7 @@ weight: 230
 url: /ar/aspose.cells/settableglobalizationsettings/get_table_row_type_of_all/
 is_root: false
 ---
-##  get_table_row_type_of_all {#}
+##  get_table_row_type_of_all(self) {#}
 يحصل على اسم نوع صفوف الجدول الذي يتكون من جميع الصفوف في الجدول المشار إليه.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_table_row_type_of_all(self):
     ...
 ```

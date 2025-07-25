@@ -1,18 +1,18 @@
 ---
 title: ControlPictureAlignmentType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 190
 url: /ru/aspose.cells.drawing.activexcontrols/controlpicturealignmenttype/
 is_root: false
 ---
 ##  ControlPictureAlignmentType перечисление
-Представляет выравнивание изображения внутри формы или изображения.
+Представляет собой выравнивание рисунка внутри формы или изображения.
 
 
 
-Тип ControlPictureAlignmentType предоставляет следующие члены:
+Тип ControlPictureAlignmentType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -26,4 +26,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)

@@ -1,15 +1,15 @@
 ---
 title: position недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 540
+weight: 630
 url: /ru/aspose.cells.pivot/pivotfield/position/
 is_root: false
 ---
 ##  position недвижимость
 
-Представляет собой индекс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield) в регионе.
+Представляет индекс [`PivotField`](/cells/python-net/ru/aspose.cells.pivot/pivotfield) в регионе.
 ###  Определение:
 ```python
 @property

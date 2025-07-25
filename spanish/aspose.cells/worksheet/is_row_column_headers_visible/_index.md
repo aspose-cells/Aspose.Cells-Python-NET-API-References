@@ -3,7 +3,7 @@ title: is_row_column_headers_visible propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 600
+weight: 630
 url: /es/aspose.cells/worksheet/is_row_column_headers_visible/
 is_root: false
 ---

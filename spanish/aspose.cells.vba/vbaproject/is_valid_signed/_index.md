@@ -3,7 +3,7 @@ title: is_valid_signed propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells.vba/vbaproject/is_valid_signed/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def is_valid_signed(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.vba](../../)
-* clase [VbaProject](/cells/python-net/es/aspose.cells.vba/vbaproject)
+* módulo [`aspose.cells.vba`](../../)
+* clase [`VbaProject`](/cells/python-net/es/aspose.cells.vba/vbaproject)

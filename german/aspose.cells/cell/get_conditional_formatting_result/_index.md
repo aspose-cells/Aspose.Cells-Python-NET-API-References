@@ -7,12 +7,13 @@ weight: 80
 url: /de/aspose.cells/cell/get_conditional_formatting_result/
 is_root: false
 ---
-##  get_conditional_formatting_result() {#}
+##  get_conditional_formatting_result(self) {#}
 Holen Sie sich das Ergebnis der bedingten Formatierung.
 
 
 
 ```python
+
 def get_conditional_formatting_result(self):
     ...
 ```
@@ -20,10 +21,10 @@ def get_conditional_formatting_result(self):
 
 ###  Bemerkungen
 
-Gibt null zurück, wenn keine bedingte Formatierung auf diese Zelle angewendet wird,
+Gibt null zurück, wenn auf diese Zelle keine bedingte Formatierung angewendet wird.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

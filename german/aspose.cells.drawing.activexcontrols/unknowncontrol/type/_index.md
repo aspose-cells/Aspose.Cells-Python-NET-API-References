@@ -3,7 +3,7 @@ title: type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 210
 url: /de/aspose.cells.drawing.activexcontrols/unknowncontrol/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ControlType](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controltype)
-* Klasse [UnknownControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ControlType`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/controltype)
+* Klasse [`UnknownControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/unknowncontrol)

@@ -1,9 +1,9 @@
 ---
 title: HyperlinkType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2260
+weight: 2220
 url: /ru/aspose.cells/hyperlinktype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | URL | URL |
 | FILE | Ссылка на внешний файл.|
-| CELL | Свяжите ячейку книги.|
+| CELL | Свяжите ячейку рабочей книги.|
 | UNKNOWN | Неизвестный тип.|
 
 

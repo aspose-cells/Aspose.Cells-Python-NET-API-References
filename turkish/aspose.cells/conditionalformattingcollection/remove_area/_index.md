@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells/conditionalformattingcollection/remove_area/
 is_root: false
 ---
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 Aralıktaki tüm koşullu biçimlendirmeyi kaldırın.
 
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -28,5 +29,5 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingCollection](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingCollection`](/cells/python-net/tr/aspose.cells/conditionalformattingcollection)

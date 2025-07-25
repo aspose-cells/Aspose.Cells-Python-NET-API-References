@@ -10,9 +10,9 @@ is_root: false
  Der**Aspose.Cells.Slides** Der Namespace enthält Klassen, die Einstellungen für die Konvertierung von Excel in PowerPoint definieren.
 
 ###  Aufzählungen
-|Aufzählung| Beschreibung|
+| Aufzählung| Beschreibung|
 | :- | :- |
-| [`AdjustFontSizeForRowType`](/cells/python-net/de/aspose.cells.slides/adjustfontsizeforrowtype) | Stellt dar, welche Art von Zeilen angepasst werden sollen.|
+| [`AdjustFontSizeForRowType`](/cells/python-net/de/aspose.cells.slides/adjustfontsizeforrowtype) | Gibt an, welche Art von Zeilen angepasst werden sollen.|
 | [`SlideViewType`](/cells/python-net/de/aspose.cells.slides/slideviewtype) | Stellt den Typ beim Exportieren in Folien dar.|
 
 

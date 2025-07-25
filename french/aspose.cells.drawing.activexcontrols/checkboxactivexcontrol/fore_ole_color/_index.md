@@ -8,12 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/fore_ole_co
 is_root: false
 ---
 ##  fore_ole_color propriété
-
-Obtient et définit l'ancienne couleur du premier plan.
-
-###  Remarques
-
-Ne s'applique pas au champ Image.
 ###  Définition:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

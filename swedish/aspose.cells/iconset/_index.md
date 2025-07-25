@@ -3,12 +3,12 @@ title: IconSet klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 940
+weight: 850
 url: /sv/aspose.cells/iconset/
 is_root: false
 ---
 ##  IconSet klass
- Beskriv IconSet villkorlig formateringsregel.
+ Beskriv regeln för villkorlig formatering IconSet.
 Denna regel för villkorlig formatering tillämpar ikoner på celler
 enligt deras värderingar.
 
@@ -19,12 +19,12 @@ Typen IconSet avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [cf_icons](/cells/python-net/sv/aspose.cells/iconset/cf_icons) | Få [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från samlingen|
+| [cf_icons](/cells/python-net/sv/aspose.cells/iconset/cf_icons) | Hämta [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon) från kollektionen|
 | [cfvos](/cells/python-net/sv/aspose.cells/iconset/cfvos) | Hämta CFValueObjects-instansen.|
-| [type](/cells/python-net/sv/aspose.cells/iconset/type) | Hämta eller Ställ in vilken typ av ikonuppsättning som ska visas.<br/>Att ställa in typen kommer att automatiskt kontrollera om det aktuella Cfvos antal är<br/> överensstämmer med den nya typen. Om inte överensstämmelse kommer gamla Cfvos att rengöras och<br/> standard Cfvos kommer att läggas till.|
-| [is_custom](/cells/python-net/sv/aspose.cells/iconset/is_custom) | Indikerar om ikonuppsättningen är anpassad.<br/> Standardvärdet är falskt.|
-| [show_value](/cells/python-net/sv/aspose.cells/iconset/show_value) | Hämta eller ställ in flaggan som anger om värdena för cellerna som denna ikonuppsättning används på ska visas.<br/> Standardvärdet är sant.|
-| [reverse](/cells/python-net/sv/aspose.cells/iconset/reverse) | Hämta eller ställ in flaggan som anger om standardordningen för ikonerna i denna ikonuppsättning ska ändras.<br/> Standardvärdet är falskt.|
+| [type](/cells/python-net/sv/aspose.cells/iconset/type) | Hämta eller ange vilken ikonuppsättningstyp som ska visas.<br/>Om du anger typen kontrolleras automatiskt om den aktuella Cfvo-räkningen är<br/> överensstämmer med den nya typen. Om den inte överensstämmer kommer gamla Cfvos att rengöras och<br/> Standard-Cfvos kommer att läggas till.|
+| [is_custom](/cells/python-net/sv/aspose.cells/iconset/is_custom) | Anger om ikonuppsättningen är anpassad.<br/> Standardvärdet är falskt.|
+| [show_value](/cells/python-net/sv/aspose.cells/iconset/show_value) | Hämta eller ställ in flaggan som anger om värdena för de celler där denna ikonuppsättning tillämpas ska visas.<br/> Standardvärdet är sant.|
+| [reverse](/cells/python-net/sv/aspose.cells/iconset/reverse) |Hämta eller ställ in flaggan som anger om standardordningen för ikonerna i den här ikonuppsättningen ska omvändas.<br/> Standardvärdet är falskt.|
 
 
 

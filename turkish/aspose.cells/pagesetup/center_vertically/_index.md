@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  center_vertically mülk
 
-Sayfanın dikey olarak ortalanmış olarak yazdırılıp yazdırılmadığını gösterir.
+Sayfanın dikey olarak ortalanarak yazdırılıp yazdırılmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def center_vertically(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

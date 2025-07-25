@@ -3,7 +3,7 @@ title: min_value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 340
 url: /ar/aspose.cells.charts/axis/min_value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  ملاحظات
 
-يمكن أن يكون نوع minValue مزدوجًا أو DateTime فقط
+يمكن أن يكون نوع minValue فقط مزدوجًا أو تاريخًا ووقتًا
 ###  تعريف:
 ```python
 @property

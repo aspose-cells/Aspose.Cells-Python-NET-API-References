@@ -3,14 +3,14 @@ title: text_effect fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1000
+weight: 1020
 url: /sv/aspose.cells.drawing/combobox/text_effect/
 is_root: false
 ---
 ##  text_effect fastighet
 
- Returnerar ett TextEffectFormat-objekt som innehåller texteffektformateringsegenskaper för den angivna formen.
-Gäller Shape-objekt som representerar WordArt.
+ Returnerar ett TextEffectFormat-objekt som innehåller formateringsegenskaper för texteffekter för den angivna formen.
+Gäller för formobjekt som representerar WordArt.
 
 ###  Exempel
 

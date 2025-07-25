@@ -9,7 +9,7 @@ is_root: false
 ---
 ## plot_visible_columns属性
 
-仅导出可见列。
+仅导出可见的列。
 ### 定义：
 ```python
 @property

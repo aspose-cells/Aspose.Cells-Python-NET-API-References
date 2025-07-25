@@ -1,15 +1,15 @@
 ---
 title: write_protection proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 640
+weight: 650
 url: /it/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---
 ##  write_protection proprietà
 
-Fornisce l'accesso alle opzioni di protezione da scrittura della cartella di lavoro.
+Fornisce accesso alle opzioni di protezione da scrittura della cartella di lavoro.
 ###  Definizione:
 ```python
 @property

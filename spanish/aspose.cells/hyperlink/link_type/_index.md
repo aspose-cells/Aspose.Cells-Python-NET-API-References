@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  link_type propiedad
 
-Obtiene el tipo de vínculo.
+Obtiene el tipo de enlace.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def link_type(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Hyperlink](/cells/python-net/es/aspose.cells/hyperlink)
-* clase [TargetModeType](/cells/python-net/es/aspose.cells/targetmodetype)
+* módulo [`aspose.cells`](../../)
+* clase [`Hyperlink`](/cells/python-net/es/aspose.cells/hyperlink)
+* clase [`TargetModeType`](/cells/python-net/es/aspose.cells/targetmodetype)

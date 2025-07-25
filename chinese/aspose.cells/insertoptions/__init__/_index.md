@@ -1,18 +1,19 @@
 ---
-title: InsertOptions 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: InsertOptions 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/insertoptions/__init__/
 is_root: false
 ---
-##  InsertOptions() {#}
-构造 InsertOptions 的新实例
+##  \_\_init\_\_（自身）{#}
+构造InsertOptions的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [InsertOptions](/cells/python-net/zh/aspose.cells/insertoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`InsertOptions`](/cells/python-net/zh/aspose.cells/insertoptions)

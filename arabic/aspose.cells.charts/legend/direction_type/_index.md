@@ -3,13 +3,13 @@ title: direction_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 190
 url: /ar/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---
 ##  direction_type عقار
 
-يحصل على ويحدد اتجاه النص.
+يحصل على اتجاه النص ويحدده.
 ###  تعريف:
 ```python
 @property

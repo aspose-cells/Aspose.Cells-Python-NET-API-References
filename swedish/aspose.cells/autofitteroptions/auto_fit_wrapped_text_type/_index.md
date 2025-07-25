@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_fit_wrapped_text_type fastighet
 
-Hämtar och ställer in typen av automatisk anpassning av inslagen text.
+Hämtar och anger typen av automatiskt anpassad radbruten text.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def auto_fit_wrapped_text_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFitWrappedTextType](/cells/python-net/sv/aspose.cells/autofitwrappedtexttype)
-* klass [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFitWrappedTextType`](/cells/python-net/sv/aspose.cells/autofitwrappedtexttype)
+* klass [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions)

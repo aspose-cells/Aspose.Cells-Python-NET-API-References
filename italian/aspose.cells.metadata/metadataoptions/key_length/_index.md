@@ -1,6 +1,6 @@
 ---
 title: key_length proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def key_length(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.metadata](../../)
-* classe [MetadataOptions](/cells/python-net/it/aspose.cells.metadata/metadataoptions)
+* modulo [`aspose.cells.metadata`](../../)
+* classe [`MetadataOptions`](/cells/python-net/it/aspose.cells.metadata/metadataoptions)

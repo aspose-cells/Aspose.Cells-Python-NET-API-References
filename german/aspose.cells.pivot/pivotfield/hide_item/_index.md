@@ -3,16 +3,17 @@ title: hide_item Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 100
+weight: 160
 url: /de/aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---
-##  hide_item {#int-bool}
+##  hide_item(self, index, is_hidden) {#int-bool}
 Legt fest, ob das spezifische PivotItem in einem Datenfeld ausgeblendet ist.
 
 
 
 ```python
+
 def hide_item(self, index, is_hidden):
     ...
 ```
@@ -21,15 +22,16 @@ def hide_item(self, index, is_hidden):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | index | int | der Index des PivotItem im PivotField.|
-| is_hidden | bool | ob das spezifische PivotItem ausgeblendet ist|
+| is_hidden | bool | ob das jeweilige PivotItem ausgeblendet ist|
 
 
-##  hide_item {#str-bool}
+##  hide_item(self, item_value, is_hidden) {#str-bool}
 Legt fest, ob das spezifische PivotItem in einem Datenfeld ausgeblendet ist.
 
 
 
 ```python
+
 def hide_item(self, item_value, is_hidden):
     ...
 ```
@@ -38,7 +40,7 @@ def hide_item(self, item_value, is_hidden):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | item_value | str | der Wert des PivotItem im PivotField.|
-| is_hidden | bool | ob das spezifische PivotItem ausgeblendet ist|
+| is_hidden | bool | ob das jeweilige PivotItem ausgeblendet ist|
 
 
 

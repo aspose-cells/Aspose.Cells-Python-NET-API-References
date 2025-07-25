@@ -3,7 +3,7 @@ title: settings عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ar/aspose.cells/workbook/settings/
 is_root: false
 ---

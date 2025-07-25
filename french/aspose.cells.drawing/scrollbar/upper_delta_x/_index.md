@@ -3,17 +3,17 @@ title: upper_delta_x propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /fr/aspose.cells.drawing/scrollbar/upper_delta_x/
 is_root: false
 ---
 ##  upper_delta_x propriété
 
-Obtient ou définit le décalage horizontal de la forme par rapport à sa colonne du coin supérieur gauche.
+Obtient ou définit le décalage horizontal de la forme par rapport à sa colonne d'angle supérieur gauche.
 
 ###  Remarques
 
-La plage de valeurs va de 0 à 1024.
+La plage de valeurs est de 0 à 1024.
 
 ###  Exemple
 

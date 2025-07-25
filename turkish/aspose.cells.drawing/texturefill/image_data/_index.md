@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TextureFill](/cells/python-net/tr/aspose.cells.drawing/texturefill)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TextureFill`](/cells/python-net/tr/aspose.cells.drawing/texturefill)

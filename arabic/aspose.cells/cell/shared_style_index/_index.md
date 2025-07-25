@@ -3,13 +3,13 @@ title: shared_style_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 700
+weight: 730
 url: /ar/aspose.cells/cell/shared_style_index/
 is_root: false
 ---
 ##  shared_style_index عقار
 
-يحصل على فهرس النمط المشترك للخلية في تجمع الأنماط.
+يحصل على مؤشر النمط المشترك للخلية في مجموعة الأنماط.
 ###  تعريف:
 ```python
 @property

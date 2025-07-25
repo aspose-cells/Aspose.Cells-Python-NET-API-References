@@ -3,14 +3,14 @@ title: export_frame_scripts_and_properties fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 320
 url: /sv/aspose.cells.saving/ebooksaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---
 ##  export_frame_scripts_and_properties fastighet
 
-Anger om ramskript och dokumentegenskaper exporteras. Standardvärdet är true.Om du vill importera html- eller mht-filen
-för att excel, vänligen behåll standardvärdet.
+Anger om ramskript och dokumentegenskaper ska exporteras. Standardvärdet är sant. Om du vill importera html- eller mht-filen
+För att Excel ska fungera, vänligen behåll standardvärdet.
 ###  Definition:
 ```python
 @property

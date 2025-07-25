@@ -3,13 +3,13 @@ title: map_chart_region_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 50
 url: /sv/aspose.cells.charts/serieslayoutproperties/map_chart_region_type/
 is_root: false
 ---
 ##  map_chart_region_type fastighet
 
-Hämtar och ställer in kartans regiontyp.
+Hämtar och anger kartans regiontyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def map_chart_region_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [MapChartRegionType](/cells/python-net/sv/aspose.cells.charts/mapchartregiontype)
-* klass [SeriesLayoutProperties](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)
+* modul [`aspose.cells.charts`](../../)
+* klass [`MapChartRegionType`](/cells/python-net/sv/aspose.cells.charts/mapchartregiontype)
+* klass [`SeriesLayoutProperties`](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)

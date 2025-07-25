@@ -1,6 +1,6 @@
 ---
 title: VbaModuleType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип VbaModuleType предоставляет следующие члены:
+Тип VbaModuleType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| PROCEDURAL | Представляет процедурный модуль.|
-| DOCUMENT | Представляет модуль документа.|
-| CLASS | Представляет модуль класса.|
-| DESIGNER | Представляет модуль конструктора.|
+| PROCEDURAL | Представляет собой процедурный модуль.|
+| DOCUMENT | Представляет собой модуль документа.|
+| CLASS | Представляет собой модуль класса.|
+| DESIGNER | Представляет собой конструкторский модуль.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](..)
+* модуль [`aspose.cells.vba`](..)

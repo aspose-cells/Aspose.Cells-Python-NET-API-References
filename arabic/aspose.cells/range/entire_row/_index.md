@@ -3,13 +3,13 @@ title: entire_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 410
 url: /ar/aspose.cells/range/entire_row/
 is_root: false
 ---
 ##  entire_row عقار
 
-الحصول على كائن نطاق يمثل الصف (أو الصفوف) بأكمله الذي يحتوي على النطاق المحدد.
+يحصل على كائن نطاق يمثل الصف بأكمله (أو الصفوف) الذي يحتوي على النطاق المحدد.
 ###  تعريف:
 ```python
 @property

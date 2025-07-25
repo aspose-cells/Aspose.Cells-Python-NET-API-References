@@ -17,10 +17,10 @@ Typen DataMashup avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [power_query_formulas](/cells/python-net/sv/aspose.cells.querytables/datamashup/power_query_formulas) | Hämtar alla power-frågeformler.|
-| [power_query_formula_parameters](/cells/python-net/sv/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Hämtar alla parametrar för kraftfrågeformler.|
+| [power_query_formulas](/cells/python-net/sv/aspose.cells.querytables/datamashup/power_query_formulas) | Hämtar alla Power Query-formler.|
+| [power_query_formula_parameters](/cells/python-net/sv/aspose.cells.querytables/datamashup/power_query_formula_parameters) | Hämtar parametrar för Power Query-formeln.|
 
 
 
 ###  Se även
-* modul [aspose.cells.querytables](..)
+* modul [`aspose.cells.querytables`](..)

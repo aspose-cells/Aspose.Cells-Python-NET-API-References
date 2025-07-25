@@ -3,7 +3,7 @@ title: shadow عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 390
 url: /ar/aspose.cells.charts/legend/shadow/
 is_root: false
 ---

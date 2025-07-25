@@ -1,6 +1,6 @@
 ---
 title: ExternalLinkCollection 索引器
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ## ExternalLinkCollection 索引器
 
-获取指定索引处的 [ExternalLink](/cells/python-net/zh/aspose.cells/externallink) 元素。
+获取指定索引处的 [`ExternalLink`](/cells/python-net/zh/aspose.cells/externallink) 元素。
 ### 索引器
 |名称|描述|
 | :- | :- |
@@ -22,6 +22,6 @@ is_root: false
 指定索引处的元素。
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExternalLink](/cells/python-net/zh/aspose.cells/externallink)
-* 类 [ExternalLinkCollection](/cells/python-net/zh/aspose.cells/externallinkcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExternalLink`](/cells/python-net/zh/aspose.cells/externallink)
+* 类 [`ExternalLinkCollection`](/cells/python-net/zh/aspose.cells/externallinkcollection)

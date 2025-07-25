@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  convert_grid_style Eigentum
 
-Gibt an, ob der Stil der Rasteransicht auf Zellen angewendet wird.
+Gibt an, ob der Stil der Rasteransicht auf Zellen angewendet werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def convert_grid_style(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ImportTableOptions](/cells/python-net/de/aspose.cells/importtableoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ImportTableOptions`](/cells/python-net/de/aspose.cells/importtableoptions)

@@ -7,12 +7,13 @@ weight: 240
 url: /sv/aspose.cells/cells/delete_range/
 is_root: false
 ---
-##  delete_range(start_row, start_column, end_row, end_column, shift_type) {#int-int-int-int-ShiftType}
-Tar bort ett intervall av celler och skiftar celler enligt skiftalternativet.
+##  delete_range(self, start_row, start_column, end_row, end_column, shift_type) {#int-int-int-int-aspose.cells.ShiftType}
+Tar bort ett cellområde och flyttar celler enligt skiftalternativet.
 
 
 
 ```python
+
 def delete_range(self, start_row, start_column, end_row, end_column, shift_type):
     ...
 ```
@@ -20,14 +21,14 @@ def delete_range(self, start_row, start_column, end_row, end_column, shift_type)
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Starta radindex.|
-| start_column | int | Starta kolumnindex.|
-| end_row | int | Slutradindex.|
-| end_column | int | Slut kolumnindex.|
-| shift_type | [ShiftType](/cells/python-net/sv/aspose.cells/shifttype) | Alternativet Skift celler.|
+| start_row | int | Index för startrad.|
+| start_column | int |Starta kolumnindex.|
+| end_row | int | Index för slutrad.|
+| end_column | int | Index för slutkolumn.|
+| shift_type | [`ShiftType`](/cells/python-net/sv/aspose.cells/shifttype) |Alternativet Skifta celler.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cells](/cells/python-net/sv/aspose.cells/cells)
+* modul [`aspose.cells`](../../)
+* klass [`Cells`](/cells/python-net/sv/aspose.cells/cells)

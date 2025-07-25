@@ -18,6 +18,6 @@ def bindings(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtension](/cells/python-net/sv/aspose.cells.webextensions/webextension)
-* klass [WebExtensionBindingCollection](/cells/python-net/sv/aspose.cells.webextensions/webextensionbindingcollection)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtension`](/cells/python-net/sv/aspose.cells.webextensions/webextension)
+* klass [`WebExtensionBindingCollection`](/cells/python-net/sv/aspose.cells.webextensions/webextensionbindingcollection)

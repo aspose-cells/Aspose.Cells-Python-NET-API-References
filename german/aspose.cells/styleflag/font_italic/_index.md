@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_italic Eigentum
 
-Die Einstellung für Kursivschrift wird angewendet.
+Die Einstellung für kursive Schriftart wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_italic(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

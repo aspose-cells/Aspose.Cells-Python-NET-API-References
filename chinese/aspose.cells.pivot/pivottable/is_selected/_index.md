@@ -1,15 +1,15 @@
 ---
-title: is_selected 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_selected属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 620
+weight: 720
 url: /zh/aspose.cells.pivot/pivottable/is_selected/
 is_root: false
 ---
-## is_selected 属性
+## is_selected属性
 
-指示是否选择了数据透视表。
+指示是否选择了此数据透视表。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def is_selected(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

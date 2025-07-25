@@ -1,6 +1,6 @@
 ---
 title: color proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color proprietà
 
-Ottiene o imposta il colore del tipo di carattere.
+Ottiene o imposta il colore del font.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)

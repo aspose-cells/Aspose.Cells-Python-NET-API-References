@@ -1,15 +1,15 @@
 ---
 title: style недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /ru/aspose.cells/cells/style/
 is_root: false
 ---
 ##  style недвижимость
 
-Получает и задает значение по умолчанию style листа.
+Получает и задает значение по умолчанию style рабочего листа.
 ###  Определение:
 ```python
 @property

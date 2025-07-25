@@ -1,15 +1,15 @@
 ---
-title: sort_external_names 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: sort_external_names属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 240
 url: /zh/aspose.cells.saving/sqlscriptsaveoptions/sort_external_names/
 is_root: false
 ---
-## sort_external_names 属性
+## sort_external_names属性
 
-指示是否在保存文件之前对外部定义的名称进行排序。
+表示在保存文件之前是否对外部定义的名称进行排序。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def sort_external_names(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.saving](../../)
-* 类 [SqlScriptSaveOptions](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)
+* 模块[`aspose.cells.saving`](../../)
+* 类 [`SqlScriptSaveOptions`](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)

@@ -3,19 +3,19 @@ title: custom_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 460
+weight: 480
 url: /tr/aspose.cells/worksheet/custom_properties/
 is_root: false
 ---
 ##  custom_properties mülk
 
  Temsil eden bir nesne alır
-bir çalışma sayfasıyla ilişkili tanımlayıcı bilgiler.
+Bir çalışma sayfasıyla ilişkili tanımlayıcı bilgi.
 
 ###  Notlar
 
- Worksheet.CustomProperties, rastgele verileri depolamak için tercih edilen bir mekanizma sağlar.
-Eski üçüncü taraf belge bileşenlerinin yanı sıra ikili parçalara sıkı ihtiyaç duyulan durumları da destekler.
+Worksheet.CustomProperties, keyfi verileri depolamak için tercih edilen bir mekanizma sağlar.
+Eski üçüncü taraf belge bileşenlerinin yanı sıra, ikili parçalara sıkı bir şekilde ihtiyaç duyulan durumları da destekler.
 ###  Tanım:
 ```python
 @property

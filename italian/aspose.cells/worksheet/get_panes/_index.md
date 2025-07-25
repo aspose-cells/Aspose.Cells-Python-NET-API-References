@@ -1,18 +1,19 @@
 ---
 title: Metodo get_panes
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 160
+weight: 170
 url: /it/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes {#}
+##  get_panes(self) {#}
 Ottiene i vetri delle finestre.
 
 
 
 ```python
+
 def get_panes(self):
     ...
 ```
@@ -20,7 +21,7 @@ def get_panes(self):
 
 ###  Osservazioni
 
-Se la finestra non è divisa o bloccata.
+Se la finestra non è divisa o congelata.
 
 
 ###  Guarda anche

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill fastighet
 
-Representerar formatet fill för texten.
+Representerar textens format fill.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def fill(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [TextOptions](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`TextOptions`](/cells/python-net/sv/aspose.cells.drawing.texts/textoptions)

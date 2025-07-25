@@ -3,12 +3,12 @@ title: PropertyType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 80
 url: /sv/aspose.cells.properties/propertytype/
 is_root: false
 ---
 ##  PropertyType uppräkning
-Anger datatyp för en dokumentegenskap.
+Anger datatypen för en dokumentegenskap.
 
 
 
@@ -17,9 +17,9 @@ Typen PropertyType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| BOOLEAN | Fastigheten har ett booleskt värde.|
-| DATE_TIME | Egenskapen är ett datum och tid.|
-| DOUBLE | Fastigheten är ett flytande tal.|
+| BOOLEAN | Egenskapen är ett booleskt värde.|
+| DATE_TIME | Egenskapen är ett datum- och tidsvärde.|
+| DOUBLE | Egenskapen är ett flytande nummer.|
 | NUMBER | Egenskapen är ett heltal.|
 | STRING | Egenskapen är ett strängvärde.|
 | BLOB | Egenskapen är en byte-array.|
@@ -27,4 +27,4 @@ Typen PropertyType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.properties](..)
+* modul [`aspose.cells.properties`](..)

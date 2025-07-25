@@ -1,16 +1,16 @@
 ---
-title: print_drill الملكية
+title: print_drill عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 770
+weight: 880
 url: /ar/aspose.cells.pivot/pivottable/print_drill/
 is_root: false
 ---
-##  print_drill الملكية
+##  print_drill عقار
 
 يحدد قيمة منطقية تشير إلى ما إذا كان يجب طباعة مؤشرات الحفر.
-طباعة أزرار توسيع / طي عند عرضها على pivottable.
+طباعة أزرار التوسيع/الطي عند عرضها على الجدول المحوري.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def print_drill(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

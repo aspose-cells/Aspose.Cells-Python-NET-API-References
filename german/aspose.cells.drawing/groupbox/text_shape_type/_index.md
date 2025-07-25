@@ -3,7 +3,7 @@ title: text_shape_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1020
+weight: 1030
 url: /de/aspose.cells.drawing/groupbox/text_shape_type/
 is_root: false
 ---

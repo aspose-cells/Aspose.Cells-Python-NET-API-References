@@ -3,13 +3,13 @@ title: right属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 930
 url: /zh/aspose.cells.drawing/arcshape/right/
 is_root: false
 ---
 ## right属性
 
-表示形状相对于其下部 right 角列的水平偏移的宽度，以像素为单位。
+表示形状相对于其下角列的水平偏移宽度（以像素为单位）。
 
 ### 例子
 

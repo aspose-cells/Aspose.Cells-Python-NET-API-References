@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size fastighet
 
-Antal rader eller kolumner i ett enda band av ränder.
+Antal rader eller kolumner i ett enda ränder med randiga linjer.
 Gäller endast när typen är firstRowStripe, secondRowStripe, firstColumnStripe eller secondColumnStripe.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def size(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.tables](../../)
-* klass [TableStyleElement](/cells/python-net/sv/aspose.cells.tables/tablestyleelement)
+* modul [`aspose.cells.tables`](../../)
+* klass [`TableStyleElement`](/cells/python-net/sv/aspose.cells.tables/tablestyleelement)

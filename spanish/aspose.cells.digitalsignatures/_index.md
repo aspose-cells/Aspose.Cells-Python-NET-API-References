@@ -12,13 +12,13 @@ is_root: false
 ###  Clases
 | Clase| Descripción|
 | :- | :- |
-| [DigitalSignature](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignature) | Firma en expediente.|
-| [DigitalSignatureCollection](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection) | Proporciona una colección de firmas digitales adjuntas a un documento.|
+| [`DigitalSignature`](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignature) | Firma en archivo.|
+| [`DigitalSignatureCollection`](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignaturecollection) | Proporciona una colección de firmas digitales adjuntas a un documento.|
 
 
-###  enumeraciones
-|Enumeración| Descripción|
+###  Enumeraciones
+| Enumeración| Descripción|
 | :- | :- |
-| [XAdESType](/cells/python-net/es/aspose.cells.digitalsignatures/xadestype) | Tipo de Firma Electrónica Avanzada XML (XAdES).|
+| [`XAdESType`](/cells/python-net/es/aspose.cells.digitalsignatures/xadestype) | Tipo de Firma Electrónica Avanzada XML (XAdES).|
 
 

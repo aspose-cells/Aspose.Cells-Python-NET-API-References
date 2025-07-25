@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  up_bars propiedad
 
-Devuelve un objeto DropBars que representa las barras hacia arriba en un gráfico de líneas.
-Se aplica solo a los gráficos de líneas.
+Devuelve un objeto DropBars que representa las barras ascendentes en un gráfico de líneas.
+Se aplica sólo a gráficos de líneas.
 ###  Definición:
 ```python
 @property
@@ -19,6 +19,6 @@ def up_bars(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DropBars](/cells/python-net/es/aspose.cells.charts/dropbars)
-* clase [Series](/cells/python-net/es/aspose.cells.charts/series)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DropBars`](/cells/python-net/es/aspose.cells.charts/dropbars)
+* clase [`Series`](/cells/python-net/es/aspose.cells.charts/series)

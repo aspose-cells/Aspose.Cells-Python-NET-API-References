@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern Eigentum
 
-Ruft den Zellhintergrundtyp pattern ab oder legt diesen fest.
+Ruft den Zellenhintergrundtyp pattern ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: color1 الملكية
+title: color1 عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/twocolorgradient/color1/
 is_root: false
 ---
-##  color1 الملكية
+##  color1 عقار
 
-الحصول على أول لون متدرج وتعيينه.
+يحصل على لون التدرج الأول ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def color1(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TwoColorGradient](/cells/python-net/ar/aspose.cells/twocolorgradient)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TwoColorGradient`](/cells/python-net/ar/aspose.cells/twocolorgradient)

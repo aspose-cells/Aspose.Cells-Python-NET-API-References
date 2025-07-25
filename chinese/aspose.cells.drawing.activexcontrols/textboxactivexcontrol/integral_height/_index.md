@@ -1,15 +1,15 @@
 ---
-title: integral_height 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: integral_height属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 150
 url: /zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/integral_height/
 is_root: false
 ---
-## integral_height 属性
+## integral_height属性
 
-指示控件是否只显示完整的文本行而不显示任何部分行。
+指示控件是否仅显示完整的文本行而不显示任何部分行。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](../../)
-* 类 [TextBoxActiveXControl](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* 模块[`aspose.cells.drawing.activexcontrols`](../../)
+* 类 [`TextBoxActiveXControl`](/cells/python-net/zh/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

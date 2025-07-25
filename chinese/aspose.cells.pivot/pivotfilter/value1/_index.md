@@ -1,15 +1,15 @@
 ---
-title: value1 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: value1属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 100
+weight: 170
 url: /zh/aspose.cells.pivot/pivotfilter/value1/
 is_root: false
 ---
-## value1 属性
+## value1属性
 
-获取标签数据透视过滤器的字符串 value1。
+获取标签枢轴过滤器的字符串 value1。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def value1(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotFilter](/cells/python-net/zh/aspose.cells.pivot/pivotfilter)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotFilter`](/cells/python-net/zh/aspose.cells.pivot/pivotfilter)

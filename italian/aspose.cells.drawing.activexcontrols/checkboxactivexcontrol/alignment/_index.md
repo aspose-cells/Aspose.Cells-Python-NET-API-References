@@ -1,6 +1,6 @@
 ---
 title: alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment proprietà
 
-Ottiene e imposta la posizione di Caption rispetto al controllo.
+Ottiene e imposta la posizione della didascalia rispetto al controllo.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckBoxActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
-* classe [ControlCaptionAlignmentType](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckBoxActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* classe [`ControlCaptionAlignmentType`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)

@@ -1,6 +1,6 @@
 ---
 title: left_crop_inch proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_crop_inch proprietà
 
-Rappresenta la posizione della parte sinistra del rettangolo di ritaglio espressa in unità di pollici.
+Rappresenta la posizione del lato sinistro del rettangolo di ritaglio, espressa in pollici.
 ###  Definizione:
 ```python
 @property

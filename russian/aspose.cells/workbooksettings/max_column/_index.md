@@ -1,15 +1,15 @@
 ---
 title: max_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 300
+weight: 330
 url: /ru/aspose.cells/workbooksettings/max_column/
 is_root: false
 ---
 ##  max_column недвижимость
 
-Получает максимальный индекс столбца, отсчитываемый от нуля.
+Получает максимальный индекс столбца, начиная с нуля.
 
 ###  Примечания
 

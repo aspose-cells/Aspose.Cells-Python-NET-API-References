@@ -17,18 +17,18 @@ Typen VbaProjectReference avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/type) | Får typen av denna referens.|
-| [name](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/name) | Hämtar och ställer in namnet på referensen.|
-| [libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/libid) | Hämtar och ställer in referensens Libid.|
-| [twiddledlibid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Får och ställer in referensens vridna Libid.|
-| [extended_libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/extended_libid) | Hämtar och ställer in referensens utökade Libid.|
-| [relative_libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/relative_libid) | Hämtar och ställer in det refererade VBA-projektets identifierare med en relativ sökväg.|
+| [type](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/type) |Hämtar typen av denna referens.|
+| [name](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/name) | Hämtar och anger namnet på referensen.|
+| [libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/libid) | Hämtar och anger Libid för referensen.|
+| [twiddledlibid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/twiddledlibid) | Hämtar och ställer in referensens twiddlade Libid.|
+| [extended_libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/extended_libid) | Hämtar och anger referensens utökade Libid.|
+| [relative_libid](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/relative_libid) | Hämtar och anger det refererade VBA-projektets identifierare med en relativ sökväg.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [copy(source)](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/copy/#VbaProjectReference) |  |
+| [`copy(self, source)`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference/copy/#aspose.cells.vba.vbaprojectreference) |  |
 
 
 
@@ -49,4 +49,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](..)
+* modul [`aspose.cells.vba`](..)

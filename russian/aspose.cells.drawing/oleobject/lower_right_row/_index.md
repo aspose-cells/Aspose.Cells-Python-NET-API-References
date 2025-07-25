@@ -1,15 +1,15 @@
 ---
 title: lower_right_row недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ru/aspose.cells.drawing/oleobject/lower_right_row/
 is_root: false
 ---
 ##  lower_right_row недвижимость
 
-Представляет индекс строки в правом нижнем углу.
+Представляет индекс строки в нижнем правом углу.
 
 ###  Пример
 

@@ -3,13 +3,13 @@ title: left_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 820
+weight: 830
 url: /ar/aspose.cells.drawing/oleobject/left_cm/
 is_root: false
 ---
 ##  left_cm عقار
 
-يمثل الإزاحة الأفقية للشكل من عموده الأيسر، بوحدة السنتيمتر.
+يمثل الإزاحة الأفقية للشكل من العمود الأيسر، بوحدة السنتيمتر.
 
 ###  مثال
 

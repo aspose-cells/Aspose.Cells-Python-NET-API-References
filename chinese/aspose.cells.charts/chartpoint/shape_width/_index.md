@@ -1,15 +1,15 @@
 ---
-title: shape_width 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: shape_width属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 350
 url: /zh/aspose.cells.charts/chartpoint/shape_width/
 is_root: false
 ---
-## shape_width 属性
+## shape_width属性
 
-在调用 Chart.Calculate() 方法后获取以图表宽度的 1/4000 为单位的宽度。
+调用Chart.Calculate()方法后，以图表宽度的1/4000为单位获取宽度。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_width(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

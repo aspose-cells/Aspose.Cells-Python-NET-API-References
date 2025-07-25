@@ -10,12 +10,12 @@ is_root: false
 ##  check_workbook_default_font propriété
 
 Lorsque les caractères dans Excel sont Unicode et ne sont pas définis avec la police correcte dans le style de cellule,
-Ils peuvent apparaître sous forme de bloc dans pdf, image.
-Définissez ceci sur true pour essayer d'utiliser la police par défaut du classeur pour afficher ces caractères en premier.
+Ils peuvent apparaître sous forme de bloc dans un PDF, une image.
+Définissez cette option sur vrai pour essayer d'utiliser la police par défaut du classeur pour afficher ces caractères en premier.
 
 ###  Remarques
 
-La valeur par défaut est true.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_workbook_default_font(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [ImageOrPrintOptions](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)
+* module [`aspose.cells.rendering`](../../)
+* classe [`ImageOrPrintOptions`](/cells/python-net/fr/aspose.cells.rendering/imageorprintoptions)

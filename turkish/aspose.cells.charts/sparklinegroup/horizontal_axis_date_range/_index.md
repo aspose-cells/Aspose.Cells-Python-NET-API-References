@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_axis_date_range mülk
 
-Mini grafik verileri için tarih değerlerini içeren aralığı temsil eder.
+Kıvılcım çizelgesi verilerinin tarih değerlerini içeren aralığı temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_axis_date_range(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

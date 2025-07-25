@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  folder_path propriété
 
-Chemin d'accès au dossier des polices.
+Chemin vers le dossier des polices.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FolderFontSource](/cells/python-net/fr/aspose.cells/folderfontsource)
+* module [`aspose.cells`](../../)
+* classe [`FolderFontSource`](/cells/python-net/fr/aspose.cells/folderfontsource)

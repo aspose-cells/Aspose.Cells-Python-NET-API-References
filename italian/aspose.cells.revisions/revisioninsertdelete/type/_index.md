@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Rappresenta lo type di revisione.
+Rappresenta la revisione type.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionInsertDelete](/cells/python-net/it/aspose.cells.revisions/revisioninsertdelete)
-* classe [RevisionType](/cells/python-net/it/aspose.cells.revisions/revisiontype)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionInsertDelete`](/cells/python-net/it/aspose.cells.revisions/revisioninsertdelete)
+* classe [`RevisionType`](/cells/python-net/it/aspose.cells.revisions/revisiontype)

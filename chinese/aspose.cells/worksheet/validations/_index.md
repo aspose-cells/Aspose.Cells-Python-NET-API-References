@@ -3,7 +3,7 @@ title: validations属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 890
+weight: 910
 url: /zh/aspose.cells/worksheet/validations/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: OoxmlCompliance enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2360
+weight: 2330
 url: /es/aspose.cells/ooxmlcompliance/
 is_root: false
 ---
@@ -17,7 +17,7 @@ El tipo OoxmlCompliance expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| ECMA_376_2006 | ECMA-376 1.ª edición, 2006.|
+| ECMA_376_2006 | ECMA-376 1.a edición, 2006.|
 | ISO_29500_2008_STRICT | ISO/IEC 29500:2008 Nivel de cumplimiento estricto.|
 
 

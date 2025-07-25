@@ -1,6 +1,6 @@
 ---
 title: values proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 500
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values proprietà
 
-Rappresenta i dati della serie di grafici.
+Rappresenta la Y values di questa serie di grafici.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def values(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)

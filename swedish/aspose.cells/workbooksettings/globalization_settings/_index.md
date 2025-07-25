@@ -3,13 +3,13 @@ title: globalization_settings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 230
 url: /sv/aspose.cells/workbooksettings/globalization_settings/
 is_root: false
 ---
 ##  globalization_settings fastighet
 
-Hämtar och ställer in globaliseringsinställningarna.
+Hämtar och anger globaliseringsinställningarna.
 ###  Definition:
 ```python
 @property

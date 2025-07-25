@@ -3,14 +3,14 @@ title: print_drill mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 770
+weight: 880
 url: /tr/aspose.cells.pivot/pivottable/print_drill/
 is_root: false
 ---
 ##  print_drill mülk
 
-Detay göstergelerinin yazdırılıp yazdırılmayacağını belirten bir boole değeri belirtir.
-Pivot tablo üzerinde görüntülendiğinde genişletme/daraltma düğmelerini yazdırın.
+Matkap göstergelerinin yazdırılıp yazdırılmayacağını belirten bir Boole değeri belirtir.
+Pivottable'da görüntülendiğinde genişletme/daraltma düğmelerini yazdır.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def print_drill(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

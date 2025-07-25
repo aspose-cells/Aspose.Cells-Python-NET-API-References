@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/
 is_root: false
 ---
-##  get_custom_totals_row_formula(is_r1c1, is_local) {#bool-bool}
-Bu liste sütununun toplam satırının formülünü alır.
+##  get_custom_totals_row_formula(self, is_r1c1, is_local) {#bool-bool}
+Bu liste sütununun toplamlar satırının formülünü alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Bu liste sütununun formülü.
 
 
 ```python
+
 def get_custom_totals_row_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_custom_totals_row_formula(self, is_r1c1, is_local):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListColumn](/cells/python-net/tr/aspose.cells.tables/listcolumn)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListColumn`](/cells/python-net/tr/aspose.cells.tables/listcolumn)

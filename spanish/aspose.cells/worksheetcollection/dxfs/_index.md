@@ -3,7 +3,7 @@ title: dxfs propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 290
+weight: 310
 url: /es/aspose.cells/worksheetcollection/dxfs/
 is_root: false
 ---

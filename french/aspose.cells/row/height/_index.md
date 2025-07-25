@@ -3,7 +3,7 @@ title: height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells/row/height/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Row](/cells/python-net/fr/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/fr/aspose.cells/row)

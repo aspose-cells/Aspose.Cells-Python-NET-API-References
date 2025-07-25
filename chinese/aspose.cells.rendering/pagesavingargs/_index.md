@@ -1,9 +1,9 @@
 ---
 title: PageSavingArgs类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 50
 url: /zh/aspose.cells.rendering/pagesavingargs/
 is_root: false
 ---
@@ -12,9 +12,9 @@ is_root: false
 
 
 
-PageSavingArgs 类型公开了以下成员：
+PageSavingArgs 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [page_index](/cells/python-net/zh/aspose.cells.rendering/pagesavingargs/page_index) |当前页面索引，从零开始。|
@@ -23,4 +23,4 @@ PageSavingArgs 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

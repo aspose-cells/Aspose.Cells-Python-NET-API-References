@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Gibt den name der angegebenen Timeline zurück oder legt ihn fest
+Gibt den name der angegebenen Timeline zurück oder setzt ihn
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.timelines](../../)
-* Klasse [Timeline](/cells/python-net/de/aspose.cells.timelines/timeline)
+* Modul [`aspose.cells.timelines`](../../)
+* Klasse [`Timeline`](/cells/python-net/de/aspose.cells.timelines/timeline)

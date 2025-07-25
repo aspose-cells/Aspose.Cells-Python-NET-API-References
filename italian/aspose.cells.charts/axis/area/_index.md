@@ -1,6 +1,6 @@
 ---
 title: area proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area proprietà
 
-Ottiene lo [`Axis.area`](/cells/python-net/it/aspose.cells.charts/axis#area).
+Ottiene [`Axis.area`](/cells/python-net/it/aspose.cells.charts/axis#area).
 ###  Definizione:
 ```python
 @property

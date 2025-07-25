@@ -21,5 +21,5 @@ def picture(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [CommandButtonActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`CommandButtonActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/commandbuttonactivexcontrol)

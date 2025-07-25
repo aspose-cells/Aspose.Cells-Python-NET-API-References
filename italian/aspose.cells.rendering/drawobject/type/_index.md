@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Indica lo type di DrawObject.
+Indica type di DrawObject.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [DrawObject](/cells/python-net/it/aspose.cells.rendering/drawobject)
-* classe [DrawObjectEnum](/cells/python-net/it/aspose.cells.rendering/drawobjectenum)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`DrawObject`](/cells/python-net/it/aspose.cells.rendering/drawobject)
+* classe [`DrawObjectEnum`](/cells/python-net/it/aspose.cells.rendering/drawobjectenum)

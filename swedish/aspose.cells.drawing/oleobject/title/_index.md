@@ -3,7 +3,7 @@ title: title fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /sv/aspose.cells.drawing/oleobject/title/
 is_root: false
 ---

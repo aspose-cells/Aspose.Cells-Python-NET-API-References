@@ -3,11 +3,11 @@ title: método get_row
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 440
+weight: 480
 url: /es/aspose.cells/cells/get_row/
 is_root: false
 ---
-##  get_row {#int}
+##  get_row(self, row) {#int}
 Obtiene el elemento [`Row`](/cells/python-net/es/aspose.cells/row) en el índice de fila de celda especificado.
 
 
@@ -17,6 +17,7 @@ Si el objeto de fila existe, devuelve el objeto de fila; de lo contrario, devuel
 
 
 ```python
+
 def get_row(self, row):
     ...
 ```
@@ -24,13 +25,13 @@ def get_row(self, row):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| row | int | índice de fila|
+| row | int | Índice de fila|
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice el método Cells.CheckRow (fila int).
- Este método se eliminará 12 meses después, desde febrero de 2024.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice el método Cells.CheckRow(int row).
+ Este método se eliminará 12 meses después, a partir de febrero de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también

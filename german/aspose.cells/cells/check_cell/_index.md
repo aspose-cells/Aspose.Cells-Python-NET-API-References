@@ -7,17 +7,18 @@ weight: 60
 url: /de/aspose.cells/cells/check_cell/
 is_root: false
 ---
-##  check_cell(row, column) {#int-int}
-Ruft das [Cell](/cells/python-net/de/aspose.cells/cell)-Element oder null am angegebenen Zellenzeilenindex und Spaltenindex ab.
+##  check_cell(self, row, column) {#int-int}
+Ruft das Element [`Cell`](/cells/python-net/de/aspose.cells/cell) oder null am angegebenen Zeilen- und Spaltenindex der Zelle ab.
 
 
 ###  Kehrt zurück
 
-Cell-Objekt zurückgeben, wenn ein Cell-Objekt vorhanden ist.
+Gibt das Objekt Cell zurück, wenn ein Objekt Cell vorhanden ist.
 Gibt null zurück, wenn die Zelle nicht existiert.
 
 
 ```python
+
 def check_cell(self, row, column):
     ...
 ```
@@ -31,6 +32,6 @@ def check_cell(self, row, column):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)

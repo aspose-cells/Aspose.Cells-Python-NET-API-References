@@ -1,6 +1,6 @@
 ---
 title: is_checked proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 550
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_checked proprietà
 
-Indica se il pulsante di opzione è selezionato o meno.
+Indica se il pulsante di scelta è selezionato o meno.
 ###  Definizione:
 ```python
 @property

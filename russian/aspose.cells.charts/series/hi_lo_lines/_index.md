@@ -1,6 +1,6 @@
 ---
 title: hi_lo_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 250
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  hi_lo_lines недвижимость
 
-Возвращает объект HiLoLines, который представляет линии максимума и минимума серии на линейном графике.
-Применяется только к линейным графикам.
+Возвращает объект HiLoLines, представляющий линии максимума и минимума для ряда на линейном графике.
+Применимо только к линейным диаграммам.
 ###  Определение:
 ```python
 @property

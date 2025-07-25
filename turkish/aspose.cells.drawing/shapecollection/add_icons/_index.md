@@ -3,12 +3,12 @@ title: add_icons yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 140
 url: /tr/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-Svg resmi ekler.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+SVG görseli ekler.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Svg resmi ekler.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -24,14 +25,14 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| upper_left_row | int | Sol üst satır dizini.|
-| top | int | Piksel birimi cinsinden şeklin sol satırından dikey uzaklığını temsil eder.|
+| upper_left_row | int | Sol üst sıra dizini.|
+| top | int | Şeklin sol satırından dikey uzaklığını piksel cinsinden temsil eder.|
 | upper_left_column | int | Sol üst sütun dizini.|
-| left | int | Piksel birimi cinsinden şeklin sol sütunundan yatay uzaklığı.|
-| height | int | Piksel birimi cinsinden şeklin yüksekliği.|
-| width | int | Piksel birimi cinsinden şeklin genişliği.|
-| image_byte_data | bytes | Görüntü bayt verileri.|
-| compatible_image_data | bytes | Excel 2016 veya daha düşük sürümlerle uyumlu olması için svg'den görüntü verileri dönüştürüldü.|
+| left | int | Şeklin sol sütunundan yatay uzaklığı, piksel biriminde.|
+| height | int | Şeklin piksel cinsinden yüksekliği.|
+| width | int | Şeklin genişliği, piksel biriminde.|
+| image_byte_data | bytes | Görüntü bayt verisi.|
+| compatible_image_data | bytes | Excel 2016 ve daha düşük sürümlerle uyumlu olması için svg formatındaki görüntü verileri dönüştürüldü.|
 
 ###  Örnek
 

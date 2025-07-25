@@ -1,15 +1,15 @@
 ---
-title: encoding الملكية
+title: encoding عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 80
 url: /ar/aspose.cells/markdownsaveoptions/encoding/
 is_root: false
 ---
-##  encoding الملكية
+##  encoding عقار
 
-الحصول على الافتراضي encoding وتعيينه.
+يحصل على القيمة الافتراضية encoding ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [MarkdownSaveOptions](/cells/python-net/ar/aspose.cells/markdownsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`MarkdownSaveOptions`](/cells/python-net/ar/aspose.cells/markdownsaveoptions)

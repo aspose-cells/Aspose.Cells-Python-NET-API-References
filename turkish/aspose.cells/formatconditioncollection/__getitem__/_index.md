@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  FormatConditionCollection indeksleyici
 
-Biçimlendirme koşulunu dizine göre alır.
-###  İndeksleyici
+Dizin bazında biçimlendirme koşulunu alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
 | index | döndürülecek biçimlendirme koşulunun dizini.|
@@ -22,5 +22,5 @@ Biçimlendirme koşulunu dizine göre alır.
 biçimlendirme koşulu
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatConditionCollection](/cells/python-net/tr/aspose.cells/formatconditioncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatConditionCollection`](/cells/python-net/tr/aspose.cells/formatconditioncollection)

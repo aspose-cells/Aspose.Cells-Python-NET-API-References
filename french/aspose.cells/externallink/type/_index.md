@@ -3,7 +3,7 @@ title: type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 80
+weight: 90
 url: /fr/aspose.cells/externallink/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ExternalLink](/cells/python-net/fr/aspose.cells/externallink)
-* classe [ExternalLinkType](/cells/python-net/fr/aspose.cells/externallinktype)
+* module [`aspose.cells`](../../)
+* classe [`ExternalLink`](/cells/python-net/fr/aspose.cells/externallink)
+* classe [`ExternalLinkType`](/cells/python-net/fr/aspose.cells/externallinktype)

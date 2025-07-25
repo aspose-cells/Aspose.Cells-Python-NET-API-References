@@ -7,28 +7,29 @@ weight: 90
 url: /ar/aspose.cells.drawing/shapecollection/add_copy/
 is_root: false
 ---
-##  add_copy(source_shape, upper_left_row, top, upper_left_column, left) {#Shape-int-int-int-int}
-يضيف شكلاً ونسخه إلى ورقة العمل.
+##  add_copy(self, source_shape, top_row, top, left_column, left) {#aspose.cells.drawing.Shape-int-int-int-int}
+إضافة شكل ونسخه إلى ورقة العمل.
 
 
 ###  عائدات
 
-فهرس كائن الشكل الجديد.
+الكائن الجديد [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape).
 
 
 ```python
-def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
+
+def add_copy(self, source_shape, top_row, top, left_column, left):
     ...
 ```
 
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_shape | [Shape](/cells/python-net/ar/aspose.cells.drawing/shape) | شكل المصدر.|
-| upper_left_row | int | فهرس الصف العلوي الأيسر.|
-| top | int |يمثل الإزاحة الرأسية لخانة الاختيار من صفها الأيسر ، بوحدة البكسل.|
-| upper_left_column | int | فهرس العمود الأيسر العلوي.|
-| left | int | يمثل الإزاحة الأفقية لمربع النص من العمود الأيسر ، بوحدة البكسل.|
+| source_shape | [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape) | شكل المصدر.|
+| top_row | int |مؤشر الصف العلوي.|
+| top | int | يمثل الإزاحة الرأسية من الصف العلوي، بوحدة البكسل.|
+| left_column | int | فهرس العمود الأيسر.|
+| left | int | يمثل الإزاحة الأفقية من العمود الأيسر، بوحدة البكسل.|
 
 ###  مثال
 
@@ -36,7 +37,7 @@ def add_copy(self, source_shape, upper_left_row, top, upper_left_column, left):
 
 # add a shape
 rectangle = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
-# copy
+# Adds and copies a shape.
 shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 ```
@@ -44,5 +45,6 @@ shapes.add_copy(rectangle, 7, 0, 7, 0)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeCollection](/cells/python-net/ar/aspose.cells.drawing/shapecollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Shape`](/cells/python-net/ar/aspose.cells.drawing/shape)
+* فئة [`ShapeCollection`](/cells/python-net/ar/aspose.cells.drawing/shapecollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_3d_effect Eigentum
 
- True, wenn die Serie ein dreidimensionales Erscheinungsbild hat.
+ Wahr, wenn die Serie ein dreidimensionales Erscheinungsbild hat.
 Gilt nur für Blasendiagramme.
 ###  Definition:
 ```python

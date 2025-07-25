@@ -3,7 +3,7 @@ title: FormatConditionCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 730
+weight: 710
 url: /ar/aspose.cells/formatconditioncollection/
 is_root: false
 ---
@@ -18,29 +18,29 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [count](/cells/python-net/ar/aspose.cells/formatconditioncollection/count) | يحصل على عدد من الشروط.|
-| [range_count](/cells/python-net/ar/aspose.cells/formatconditioncollection/range_count) | الحصول على عدد النطاقات المنسقة بشكل مشروط.|
+| [count](/cells/python-net/ar/aspose.cells/formatconditioncollection/count) | يحصل على عدد الشروط.|
+| [range_count](/cells/python-net/ar/aspose.cells/formatconditioncollection/range_count) | يحصل على عدد النطاقات المنسقة بشكل مشروط.|
 
 
 
-يحصل على حالة التنسيق حسب الفهرس.
-###  مفهرس
+يحصل على شرط التنسيق حسب الفهرس.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
-| [index] |فهرس شرط التنسيق المراد إرجاعه.|
+| [index] | فهرس حالة التنسيق التي سيتم إرجاعها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | إضافة شرط التنسيق.|
-| [add_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | إضافة شرط التنسيق.|
-| [remove_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int) | إزالة نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
-| [remove_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | إزالة التنسيق الشرطي في النطاق.|
-| [add](/cells/python-net/ar/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | يضيف شرط التنسيق ورن الخلية المؤثرة إلى FormatConditions<br/>يمكن أن تحتوي FormatConditions على ما يصل إلى ثلاثة تنسيقات شرطية.<br/> لا يُسمح بالمراجع إلى الأوراق الأخرى في صيغ التنسيق الشرطي.|
-| [add_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | إضافة نطاق خلايا منسقة شرطيًا.|
-| [get_cell_area](/cells/python-net/ar/aspose.cells/formatconditioncollection/get_cell_area/#int) | الحصول على نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
-| [remove_condition](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_condition/#int) | يزيل شرط التنسيق حسب الفهرس.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | يضيف شرط التنسيق.|
+| [`add_condition(self, type)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | أضف شرط التنسيق.|
+| [`remove_area(self, index)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int) | يقوم بإزالة نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | إزالة التنسيق الشرطي في النطاق.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |يضيف شرط التنسيق ونطاق الخلية المتأثرة إلى شروط التنسيق<br/>يمكن أن تحتوي FormatConditions على ما يصل إلى ثلاثة تنسيقات شرطية.<br/> لا يُسمح بالإشارة إلى الأوراق الأخرى في صيغ التنسيق الشرطي.|
+| [`add_area(self, cell_area)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | إضافة نطاق خلية بتنسيق مشروط.|
+| [`get_cell_area(self, index)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/get_cell_area/#int) | يحصل على نطاق الخلايا المنسقة الشرطية حسب الفهرس.|
+| [`remove_condition(self, index)`](/cells/python-net/ar/aspose.cells/formatconditioncollection/remove_condition/#int) | إزالة شرط التنسيق حسب الفهرس.|
 
 
 

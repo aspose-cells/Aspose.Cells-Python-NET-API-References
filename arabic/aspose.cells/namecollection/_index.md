@@ -3,7 +3,7 @@ title: NameCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1120
+weight: 1010
 url: /ar/aspose.cells/namecollection/
 is_root: false
 ---
@@ -17,25 +17,27 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells/namecollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
+| [capacity](/cells/python-net/ar/aspose.cells/namecollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [get](/cells/python-net/ar/aspose.cells/namecollection/get/#int) | أضف API for Python عبر .Net. نظرًا لأن هذا [int Index] غير مدعوم|
-| [get](/cells/python-net/ar/aspose.cells/namecollection/get/#str) | أضف API for Python عبر .Net. نظرًا لأن هذا [نص السلسلة] غير مدعوم|
-| [copy_to](/cells/python-net/ar/aspose.cells/namecollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to](/cells/python-net/ar/aspose.cells/namecollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
-| [index_of](/cells/python-net/ar/aspose.cells/namecollection/index_of/#aspose.cells.Name-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of](/cells/python-net/ar/aspose.cells/namecollection/index_of/#aspose.cells.Name-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.Name) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.Name-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.Name-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
-| [add](/cells/python-net/ar/aspose.cells/namecollection/add/#str) | يحدد اسما جديدا.|
-| [filter](/cells/python-net/ar/aspose.cells/namecollection/filter/#aspose.cells.NameScopeType-int) | يحصل على كل الاسم المحدد حسب النطاق.|
-| [remove_duplicate_names](/cells/python-net/ar/aspose.cells/namecollection/remove_duplicate_names/#) | قم بإزالة الأسماء المحددة المكررة|
-| [binary_search](/cells/python-net/ar/aspose.cells/namecollection/binary_search/#aspose.cells.Name) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
+| [`get(self, index)`](/cells/python-net/ar/aspose.cells/namecollection/get/#int) | أضف API for Python عبر .Net. نظرًا لأن هذا [int index] غير مدعوم|
+| [`get(self, text)`](/cells/python-net/ar/aspose.cells/namecollection/get/#str) | أضف API for Python عبر .Net. نظرًا لأن هذا [نص السلسلة] غير مدعوم|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells/namecollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells/namecollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells/namecollection/index_of/#aspose.cells.name-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells/namecollection/index_of/#aspose.cells.name-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.name) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.name-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells/namecollection/last_index_of/#aspose.cells.name-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`add(self, text)`](/cells/python-net/ar/aspose.cells/namecollection/add/#str) | يحدد اسمًا جديدًا.|
+| [`filter(self, type, sheet_index)`](/cells/python-net/ar/aspose.cells/namecollection/filter/#aspose.cells.namescopetype-int) | يحصل على كافة الأسماء المحددة حسب النطاق.|
+| [`remove_a_name(self, text)`](/cells/python-net/ar/aspose.cells/namecollection/remove_a_name/#str) | إزالة الاسم.|
+| [`remove_names_by_array(self, names)`](/cells/python-net/ar/aspose.cells/namecollection/remove_names_by_array/#list) | إزالة مجموعة من الأسماء|
+| [`remove_duplicate_names(self)`](/cells/python-net/ar/aspose.cells/namecollection/remove_duplicate_names/#) | إزالة الأسماء المكررة المحددة|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells/namecollection/binary_search/#aspose.cells.name) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 

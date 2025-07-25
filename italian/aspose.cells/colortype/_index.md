@@ -1,9 +1,9 @@
 ---
 title: Enumerazione ColorType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1930
+weight: 1840
 url: /it/aspose.cells/colortype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ Il tipo ColorType espone i seguenti membri:
 | Campo| Descrizione|
 | :- | :- |
 | AUTOMATIC | Colore automatico.|
-| AUTOMATIC_INDEX | È un colore automatico, ma il colore visualizzato dipende dall'impostazione del sistema operativo.|
+| AUTOMATIC_INDEX | Si tratta di un colore automatico, ma il colore visualizzato dipende dalle impostazioni del sistema operativo.|
 | RGB | Il colore RGB.|
 | INDEXED_COLOR | L'indice dei colori nella tavolozza dei colori.|
 | THEME | Il colore del tema.|

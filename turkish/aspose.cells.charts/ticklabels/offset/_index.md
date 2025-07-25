@@ -9,12 +9,13 @@ is_root: false
 ---
 ##  offset mülk
 
-Etiketlerin eksenden uzaklığını alır ve ayarlar.
+ Etiketlerin kategori ekseninden uzaklığını alır ve ayarlar.
+Sadece kategori (x) ekseni için.
 
 ###  Notlar
 
-Varsayılan mesafe yüzde 100'dür; bu, eksen etiketleri ile eksen çizgisi arasındaki varsayılan aralığı temsil eder.
-Değer, eksen etiketinin yazı tipi boyutuna göre 0 ile 1000 arasında bir tamsayı yüzdesi olabilir.
+Varsayılan mesafe, eksen etiketleri ile eksen çizgisi arasındaki varsayılan aralığı temsil eden yüzde 100'dür.
+Değer, eksen etiketinin yazı tipi boyutuna göre 0 ile 1000 arasında bir tam sayı yüzdesi olabilir.
 ###  Tanım:
 ```python
 @property

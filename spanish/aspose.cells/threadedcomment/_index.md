@@ -3,12 +3,12 @@ title: ThreadedComment clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1510
+weight: 1420
 url: /es/aspose.cells/threadedcomment/
 is_root: false
 ---
 ##  ThreadedComment clase
-Representa el comentario encadenado.
+Representa el comentario enhebrado.
 
 
 
@@ -21,7 +21,7 @@ El tipo ThreadedComment expone los siguientes miembros:
 | [column](/cells/python-net/es/aspose.cells/threadedcomment/column) | Obtiene el índice de la columna del comentario.|
 | [notes](/cells/python-net/es/aspose.cells/threadedcomment/notes) | Obtiene y establece el texto del comentario.|
 | [author](/cells/python-net/es/aspose.cells/threadedcomment/author) | Obtiene el autor del comentario.|
-| [created_time](/cells/python-net/es/aspose.cells/threadedcomment/created_time) |Obtiene y establece la hora de creación de este comentario encadenado.|
+| [created_time](/cells/python-net/es/aspose.cells/threadedcomment/created_time) | Obtiene y establece la hora de creación de este comentario enhebrado.|
 
 
 

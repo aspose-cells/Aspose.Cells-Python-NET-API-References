@@ -1,6 +1,6 @@
 ---
 title: std_dev proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  std_dev proprietà
 
-Ottenere o impostare il numero di deviazioni standard da includere al di sopra o al di sotto della media nel file
+Ottieni o imposta il numero di deviazioni standard da includere sopra o sotto la media nel
  regola di formattazione condizionale.
- Il valore di input deve essere compreso tra 0 e 3 (includere 0 e 3).
-L'impostazione di questo valore su 0 significa che stdDev non è impostato.
+ Il valore di input deve essere compreso tra 0 e 3 (include 0 e 3).
+Impostando questo valore su 0, stdDev non è impostato.
 Il valore predefinito è 0.
 ###  Definizione:
 ```python
@@ -25,5 +25,5 @@ def std_dev(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AboveAverage](/cells/python-net/it/aspose.cells/aboveaverage)
+* modulo [`aspose.cells`](../../)
+* classe [`AboveAverage`](/cells/python-net/it/aspose.cells/aboveaverage)

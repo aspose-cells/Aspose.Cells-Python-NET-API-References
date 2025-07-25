@@ -1,5 +1,5 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells.charts/ticklabelitem/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
 ارتفاع عنصر Ticklabel بالنسبة للرسم البياني height.
 ###  تعريف:
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [TickLabelItem](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`TickLabelItem`](/cells/python-net/ar/aspose.cells.charts/ticklabelitem)

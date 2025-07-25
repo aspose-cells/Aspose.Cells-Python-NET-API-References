@@ -7,8 +7,8 @@ weight: 300
 url: /ar/aspose.cells/cells/get/
 is_root: false
 ---
-##  get {#str}
-أضف API for Python عبر .Net. نظرًا لأن هذا [اسم خلية السلسلة] غير مدعوم
+##  get(self, cell_name) {#str}
+أضف API for Python عبر .Net. نظرًا لأن هذا [string cellName] غير مدعوم
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get(self, cell_name):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, cell_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| cell_name | str | Cell الاسم، بما في ذلك حرف العمود الخاص به ورقم الصف، على سبيل المثال A5.|
+| cell_name | str | Cell الاسم، بما في ذلك حرف العمود ورقم الصف، على سبيل المثال A5.|
 
 
-##  get {#int-int}
-أضف API for Python عبر .Net. نظرًا لأن هذا [int Row، int column] غير مدعوم
+##  get(self, row, column) {#int-int}
+أضف API for Python عبر .Net. نظرًا لأن هذا [int row, int column] غير مدعوم
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def get(self, cell_name):
 
 
 ```python
+
 def get(self, row, column):
     ...
 ```
@@ -45,7 +47,7 @@ def get(self, row, column):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row | int | مؤشر الصف.|
-| column | int | مؤشر العمود.|
+| column | int | فهرس العمود.|
 
 
 

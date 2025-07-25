@@ -9,7 +9,7 @@ is_root: false
 ---
 ## emf_type属性
 
-获取或设置指定图元文件格式的 EmfType。
+获取或设置指定 Metafile 格式的 EmfType。
 默认值为 EmfPlusDual。
 ### 定义：
 ```python

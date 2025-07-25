@@ -1,6 +1,6 @@
 ---
 title: Bar3DShapeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 390
@@ -8,7 +8,7 @@ url: /ru/aspose.cells.charts/bar3dshapetype/
 is_root: false
 ---
 ##  Bar3DShapeType перечисление
-Представляет форму, используемую с трехмерной гистограммой или столбчатой диаграммой.
+Представляет собой форму, используемую в трехмерной столбчатой или линейчатой диаграмме.
 
 
 
@@ -18,11 +18,11 @@ is_root: false
 | Поле| Описание|
 | :- | :- |
 | BOX | Коробка|
-| PYRAMID_TO_POINT | PyramidToPoint|
-| PYRAMID_TO_MAX | ПирамидаToMax|
+| PYRAMID_TO_POINT | ПирамидаТочка|
+| PYRAMID_TO_MAX | PyramidToMax|
 | CYLINDER | Цилиндр|
-| CONE_TO_POINT | конетопоинт|
-| CONE_TO_MAX | КонусТоМакс|
+| CONE_TO_POINT | ConeToPoint|
+| CONE_TO_MAX | ConeToMax|
 
 
 

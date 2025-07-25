@@ -3,14 +3,14 @@ title: display_right_to_left عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 470
+weight: 490
 url: /ar/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---
 ##  display_right_to_left عقار
 
-يشير إلى ما إذا كانت ورقة العمل المحددة معروضة من اليمين إلى اليسار بدلاً من اليسار إلى اليمين.
-الافتراضي خطأ.
+يشير إلى ما إذا كانت ورقة العمل المحددة يتم عرضها من اليمين إلى اليسار بدلاً من اليسار إلى اليمين.
+الإفتراضي هو خطأ.
 ###  تعريف:
 ```python
 @property

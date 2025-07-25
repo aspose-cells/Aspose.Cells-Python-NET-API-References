@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_using_pivot_table Eigentum
 
-Stellt dar, ob der Benutzer berechtigt ist, Pivot-Tabellen auf einem geschützten Arbeitsblatt zu bearbeiten.
+Gibt an, ob der Benutzer Pivot-Tabellen auf einem geschützten Arbeitsblatt bearbeiten darf.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

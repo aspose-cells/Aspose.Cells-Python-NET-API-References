@@ -1,6 +1,6 @@
 ---
 title: page_count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [PageStartSavingArgs](/cells/python-net/ru/aspose.cells.rendering/pagestartsavingargs)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`PageStartSavingArgs`](/cells/python-net/ru/aspose.cells.rendering/pagestartsavingargs)

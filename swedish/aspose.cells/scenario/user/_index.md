@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user fastighet
 
-Får namnet på user som senast ändrade scenariot.
+Hämtar namnet på user som senast ändrade scenariot.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def user(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)

@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells.drawing.texts/fontsettingcollection/delete_text/
 is_root: false
 ---
-##  delete_text(index, count) {#int-int}
+##  delete_text(self, index, count) {#int-int}
 Löschen Sie einige Zeichen.
 
 
 
 ```python
+
 def delete_text(self, index, count):
     ...
 ```
@@ -26,5 +27,5 @@ def delete_text(self, index, count):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

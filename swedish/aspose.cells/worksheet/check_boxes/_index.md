@@ -3,13 +3,13 @@ title: check_boxes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 440
 url: /sv/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---
 ##  check_boxes fastighet
 
-Får en [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox) samling.
+Får en [`CheckBox`](/cells/python-net/sv/aspose.cells.drawing/checkbox)-kollektion.
 ###  Definition:
 ```python
 @property

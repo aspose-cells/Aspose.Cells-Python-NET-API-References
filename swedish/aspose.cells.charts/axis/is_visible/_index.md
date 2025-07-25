@@ -3,7 +3,7 @@ title: is_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells.charts/axis/is_visible/
 is_root: false
 ---

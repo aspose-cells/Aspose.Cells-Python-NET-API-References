@@ -3,13 +3,13 @@ title: formula_local propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 500
+weight: 510
 url: /fr/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local propriété
 
-Obtenez la formule au format local de la cellule.
+Obtenez la formule formatée par les paramètres régionaux de la cellule.
 ###  Définition:
 ```python
 @property

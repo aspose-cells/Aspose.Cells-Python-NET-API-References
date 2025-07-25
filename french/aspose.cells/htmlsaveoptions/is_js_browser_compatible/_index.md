@@ -3,14 +3,14 @@ title: is_js_browser_compatible propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 520
+weight: 600
 url: /fr/aspose.cells/htmlsaveoptions/is_js_browser_compatible/
 is_root: false
 ---
 ##  is_js_browser_compatible propriété
 
  Indique si JavaScript est compatible avec les navigateurs qui ne prennent pas en charge JavaScript.
-La valeur par défaut est vraie.
+La valeur par défaut est vrai.
 ###  Définition:
 ```python
 @property

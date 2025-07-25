@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_title Eigentum
 
-Stellt den Titel des Eingabedialogfelds zur Datenvalidierung dar.
+Stellt den Titel des Eingabedialogfelds zur Datenüberprüfung dar.
 ###  Definition:
 ```python
 @property

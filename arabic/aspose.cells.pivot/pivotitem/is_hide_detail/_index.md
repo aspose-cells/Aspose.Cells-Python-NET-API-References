@@ -1,15 +1,22 @@
 ---
-title: is_hide_detail الملكية
+title: is_hide_detail عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 130
 url: /ar/aspose.cells.pivot/pivotitem/is_hide_detail/
 is_root: false
 ---
-##  is_hide_detail الملكية
+##  is_hide_detail عقار
 
-الحصول على وتحديد ما إذا كان العنصر المحوري يخفي التفاصيل أم لا.
+يحصل ويحدد ما إذا كان عنصر المحور يخفي التفاصيل أم لا.
+
+###  ملاحظات
+
+ ملاحظة: هذه الخاصية أصبحت قديمة الآن. بدلاً من ذلك،
+الرجاء استخدام الخاصية PivotItem.IsDetailHidden بدلاً من ذلك.
+سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ نوفمبر 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def is_hide_detail(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotItem](/cells/python-net/ar/aspose.cells.pivot/pivotitem)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotItem`](/cells/python-net/ar/aspose.cells.pivot/pivotitem)

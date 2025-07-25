@@ -3,7 +3,7 @@ title: update_smart_art属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 690
+weight: 780
 url: /zh/aspose.cells.saving/ebooksaveoptions/update_smart_art/
 is_root: false
 ---
@@ -12,9 +12,9 @@ is_root: false
 指示是否更新智能艺术设置。
 默认值为 false。
 
-### 评论
+### 注意事项
 
-只有调用 Shape.GetResultOfSmartArt() 方法后的效果以及模板文件中存在缓存的形状。
+只有调用 Shape.GetResultOfSmartArt() 方法后的效果和缓存的形状才存在于模板文件中。
 ### 定义：
 ```python
 @property

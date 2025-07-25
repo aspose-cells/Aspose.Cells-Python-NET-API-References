@@ -8,7 +8,7 @@ url: /es/aspose.cells.slicers/slicer/
 is_root: false
 ---
 ##  Slicer clase
-descripción resumida de Slicer Ver
+Descripción resumida de Slicer Ver
 
 
 
@@ -19,26 +19,27 @@ El tipo Slicer expone los siguientes miembros:
 | :- | :- |
 | [title](/cells/python-net/es/aspose.cells.slicers/slicer/title) | Especifica el título del objeto Slicer actual.|
 | [alternative_text](/cells/python-net/es/aspose.cells.slicers/slicer/alternative_text) | Devuelve o establece la cadena de texto descriptiva (alternativa) del objeto Slicer.|
-| [is_printable](/cells/python-net/es/aspose.cells.slicers/slicer/is_printable) | Indica si el objeto de segmentación es imprimible.|
-| [is_locked](/cells/python-net/es/aspose.cells.slicers/slicer/is_locked) | Indica si la forma de segmentación está bloqueada.|
+| [is_printable](/cells/python-net/es/aspose.cells.slicers/slicer/is_printable) | Indica si el objeto segmentador es imprimible.|
+| [is_locked](/cells/python-net/es/aspose.cells.slicers/slicer/is_locked) | Indica si la forma de la segmentación está bloqueada.|
 | [placement](/cells/python-net/es/aspose.cells.slicers/slicer/placement) | Representa la forma en que el objeto de dibujo se adjunta a las celdas debajo de él.<br/> La propiedad controla la ubicación de un objeto en una hoja de cálculo.|
-| [locked_aspect_ratio](/cells/python-net/es/aspose.cells.slicers/slicer/locked_aspect_ratio) | Indica si la relación de aspecto de bloqueo.|
-| [locked_position](/cells/python-net/es/aspose.cells.slicers/slicer/locked_position) | Indica si la segmentación de datos especificada se puede mover o cambiar de tamaño mediante la interfaz de usuario.|
-| [slicer_cache](/cells/python-net/es/aspose.cells.slicers/slicer/slicer_cache) |Devuelve el objeto SlicerCache asociado a la segmentación. Solo lectura.|
-| [parent](/cells/python-net/es/aspose.cells.slicers/slicer/parent) | Devuelve el objeto Worksheet que representa la hoja que contiene la segmentación. Solo lectura.|
-| [style_type](/cells/python-net/es/aspose.cells.slicers/slicer/style_type) | Especifique el tipo de estilo de segmentación incorporado<br/> el tipo predeterminado es SlicerStyleLight1|
-| [name](/cells/python-net/es/aspose.cells.slicers/slicer/name) | Devuelve o establece el nombre de la segmentación especificada|
+| [locked_aspect_ratio](/cells/python-net/es/aspose.cells.slicers/slicer/locked_aspect_ratio) | Indica si se bloquea la relación de aspecto.|
+| [locked_position](/cells/python-net/es/aspose.cells.slicers/slicer/locked_position) |Indica si la segmentación de datos especificada se puede mover o cambiar de tamaño mediante la interfaz de usuario.|
+| [shape](/cells/python-net/es/aspose.cells.slicers/slicer/shape) | Devuelve el objeto Shape asociado a la segmentación de datos especificada. Solo lectura.|
+| [slicer_cache](/cells/python-net/es/aspose.cells.slicers/slicer/slicer_cache) | Devuelve el objeto SlicerCache asociado a la segmentación de datos. Solo lectura.|
+| [parent](/cells/python-net/es/aspose.cells.slicers/slicer/parent) | Devuelve el objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) que contiene esta segmentación. Solo lectura.|
+| [style_type](/cells/python-net/es/aspose.cells.slicers/slicer/style_type) | Especifique el tipo de estilo de segmentación de datos integrado<br/> El tipo predeterminado es SlicerStyleLight1|
+| [name](/cells/python-net/es/aspose.cells.slicers/slicer/name) | Devuelve o establece el nombre de la segmentación de datos especificada|
 | [caption](/cells/python-net/es/aspose.cells.slicers/slicer/caption) | Devuelve o establece el título de la segmentación de datos especificada.|
-| [caption_visible](/cells/python-net/es/aspose.cells.slicers/slicer/caption_visible) | Devuelve o establece si el encabezado que muestra el subtítulo de la segmentación está visible<br/> El valor por defecto es verdadero|
+| [caption_visible](/cells/python-net/es/aspose.cells.slicers/slicer/caption_visible) | Devuelve o establece si el encabezado que muestra el título de la segmentación de datos es visible<br/> El valor predeterminado es verdadero|
 | [number_of_columns](/cells/python-net/es/aspose.cells.slicers/slicer/number_of_columns) | Devuelve o establece el número de columnas en la segmentación de datos especificada.|
-| [left_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/left_pixel) | Devuelve o establece el desplazamiento horizontal de la forma de la segmentación desde su columna izquierda, en píxeles.|
-| [top_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/top_pixel) | Devuelve o establece el desplazamiento vertical de la forma de la segmentación desde su fila superior, en píxeles.|
-| [width](/cells/python-net/es/aspose.cells.slicers/slicer/width) | Devuelve o establece el ancho de la segmentación especificada, en puntos.|
-| [width_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/width_pixel) | Devuelve o establece el ancho de la segmentación especificada, en píxeles.|
-| [height](/cells/python-net/es/aspose.cells.slicers/slicer/height) | Devuelve o establece la altura de la segmentación especificada, en puntos.|
-| [height_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/height_pixel) |Devuelve o establece la altura de la segmentación especificada, en píxeles.|
-| [column_width_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/column_width_pixel) | Obtiene o establece el ancho en unidades de píxeles para cada columna de la segmentación.|
-| [column_width](/cells/python-net/es/aspose.cells.slicers/slicer/column_width) | Devuelve o establece el ancho, en puntos, de cada columna en la segmentación.|
+| [left_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/left_pixel) | Devuelve o establece el desplazamiento horizontal de la forma de la segmentación de datos desde su columna izquierda, en píxeles.|
+| [top_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/top_pixel) | Devuelve o establece el desplazamiento vertical de la forma de la segmentación de datos desde su fila superior, en píxeles.|
+| [width](/cells/python-net/es/aspose.cells.slicers/slicer/width) | Devuelve o establece el ancho de la segmentación de datos especificada, en puntos.|
+| [width_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/width_pixel) |Devuelve o establece el ancho de la segmentación de datos especificada, en píxeles.|
+| [height](/cells/python-net/es/aspose.cells.slicers/slicer/height) | Devuelve o establece la altura de la segmentación de datos especificada, en puntos.|
+| [height_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/height_pixel) | Devuelve o establece la altura de la segmentación de datos especificada, en píxeles.|
+| [column_width_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/column_width_pixel) | Obtiene o establece el ancho de cada columna en la segmentación de datos, en unidades de píxeles.|
+| [column_width](/cells/python-net/es/aspose.cells.slicers/slicer/column_width) | Devuelve o establece el ancho, en puntos, de cada columna en la segmentación de datos.|
 | [row_height_pixel](/cells/python-net/es/aspose.cells.slicers/slicer/row_height_pixel) | Devuelve o establece la altura, en píxeles, de cada fila en la segmentación de datos especificada.|
 | [row_height](/cells/python-net/es/aspose.cells.slicers/slicer/row_height) | Devuelve o establece la altura, en puntos, de cada fila en la segmentación de datos especificada.|
 
@@ -46,9 +47,9 @@ El tipo Slicer expone los siguientes miembros:
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_pivot_connection(pivot)](/cells/python-net/es/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.PivotTable) | Agrega conexión de tabla dinámica.|
-| [remove_pivot_connection(pivot)](/cells/python-net/es/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.PivotTable) | Elimina la conexión de tabla dinámica.|
-| [refresh()](/cells/python-net/es/aspose.cells.slicers/slicer/refresh/#) | Actualizar la segmentación. Mientras tanto, actualizar y calcular tablas dinámicas relativas.|
+| [`add_pivot_connection(self, pivot)`](/cells/python-net/es/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | Agrega conexión de tabla dinámica.|
+| [`remove_pivot_connection(self, pivot)`](/cells/python-net/es/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | Elimina la conexión de la tabla dinámica.|
+| [`refresh(self)`](/cells/python-net/es/aspose.cells.slicers/slicer/refresh/#) | Actualizando la segmentación de datos. Mientras tanto, actualizando y calculando tablas dinámicas relativas.|
 
 
 
@@ -111,4 +112,5 @@ book.save("out.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.slicers](..)
+* módulo [`aspose.cells.slicers`](..)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)

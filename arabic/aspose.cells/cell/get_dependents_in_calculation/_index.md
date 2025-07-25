@@ -7,16 +7,17 @@ weight: 100
 url: /ar/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
+##  get_dependents_in_calculation(self, recursive) {#bool}
 يحصل على جميع الخلايا التي تعتمد نتيجتها المحسوبة على هذه الخلية.
 
 
 ###  عائدات
 
-العداد لتعداد جميع المعالين (Cell كائن)
+مُعَدِّد لإحصاء جميع الكائنات التابعة (Cell كائنًا)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| recursive | bool | ما إذا كان يُرجع هؤلاء المعالين الذين لا يشيرون إلى هذه الخلية مباشرةً<br/> لكن بالإشارة إلى أوراق أخرى لهذه الخلية|
+| recursive | bool | ما إذا كان يتم إرجاع العناصر التابعة التي لا تشير إلى هذه الخلية بشكل مباشر<br/> لكن الإشارة إلى أوراق أخرى من هذه الخلية|
 ###  ملاحظات
 
-لاستخدام هذه الطريقة ، يرجى التأكد من تعيين المصنف بقيمة حقيقية لـ
-تم احتساب [FormulaSettings.enable_calculation_chain](/cells/python-net/ar/aspose.cells/formulasettings#enable_calculation_chain) بالكامل باستخدام هذه المحددات.
-إذا لم يكن هناك مرجع صيغة لهذه الخلية ، فسيتم إرجاع قيمة خالية.
+لاستخدام هذه الطريقة، يرجى التأكد من تعيين المصنف بالقيمة الصحيحة لـ
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/ar/aspose.cells/formulasettings#enable_calculation_chain) وتم حسابه بالكامل باستخدام هذا الإعداد.
+إذا لم يكن هناك مرجع صيغة لهذه الخلية، فسيتم إرجاع القيمة null.
 ###  مثال
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
-##  add(name, value) {#str-str}
- için yeni bir özel belge özelliği oluşturur.**PropertyType.String** veri tipi.
+##  add(self, name, value) {#str-str}
+ Yeni bir özel belge özelliği oluşturur**ÖzellikTürü.Dize** veri türü.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -25,11 +26,11 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | str | Mülkün değeri.|
+| value | str | Gayrimenkulün değeri.|
 
 
-##  add(name, value) {#str-int}
- için yeni bir özel belge özelliği oluşturur.**PropertyType.Number** veri tipi.
+##  add(self, name, value) {#str-int}
+ Yeni bir özel belge özelliği oluşturur**ÖzellikTürü.Numarası** veri türü.
 
 
 ###  İadeler
@@ -38,6 +39,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -46,11 +48,11 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | int | Mülkün değeri.|
+| value | int | Gayrimenkulün değeri.|
 
 
-##  add(name, value) {#str-DateTime}
- için yeni bir özel belge özelliği oluşturur.**PropertyType.DateTime** veri tipi.
+##  add(self, name, value) {#str-DateTime}
+ Yeni bir özel belge özelliği oluşturur**ÖzellikTürü.TarihSaat** veri türü.
 
 
 ###  İadeler
@@ -59,6 +61,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -67,11 +70,11 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | DateTime | Mülkün değeri.|
+| value | DateTime | Gayrimenkulün değeri.|
 
 
-##  add(name, value) {#str-bool}
- için yeni bir özel belge özelliği oluşturur.**PropertyType.Boolean** veri tipi.
+##  add(self, name, value) {#str-bool}
+ Yeni bir özel belge özelliği oluşturur**ÖzellikTürü.Boolean** veri türü.
 
 
 ###  İadeler
@@ -80,6 +83,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -88,11 +92,11 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | bool | Mülkün değeri.|
+| value | bool | Gayrimenkulün değeri.|
 
 
-##  add(name, value) {#str-float}
- için yeni bir özel belge özelliği oluşturur.**PropertyType.Float** veri tipi.
+##  add(self, name, value) {#str-float}
+ Yeni bir özel belge özelliği oluşturur**Özellik Türü.Float** veri türü.
 
 
 ###  İadeler
@@ -101,6 +105,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add(self, name, value):
     ...
 ```
@@ -109,10 +114,10 @@ def add(self, name, value):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| value | float | Mülkün değeri.|
+| value | float | Gayrimenkulün değeri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [CustomDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/customdocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`CustomDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/customdocumentpropertycollection)

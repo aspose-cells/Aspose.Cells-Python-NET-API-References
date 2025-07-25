@@ -1,5 +1,5 @@
 ---
-title: column الملكية
+title: column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.charts/sparkline/column/
 is_root: false
 ---
-##  column الملكية
+##  column عقار
 
-الحصول على مؤشر column لخط المؤشر.
+يحصل على الفهرس column من المخطط البياني.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline)

@@ -3,13 +3,13 @@ title: transition_entry Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 850
+weight: 870
 url: /de/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ##  transition_entry Eigentum
 
-Gibt an, ob die Option Übergangsformeleingabe (Lotus-Kompatibilität) aktiviert ist.
+Gibt an, ob die Option „Transition Formula Entry (Lotus-Kompatibilität)“ aktiviert ist.
 ###  Definition:
 ```python
 @property

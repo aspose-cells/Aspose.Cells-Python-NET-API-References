@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_formatting_row mülk
 
-Korumalı bir çalışma sayfasında satırların biçimlendirilmesine izin verilip verilmediğini temsil eder
+Korunan bir çalışma sayfasında satırların biçimlendirilmesine izin verilip verilmediğini gösterir
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_formatting_row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Protection](/cells/python-net/tr/aspose.cells/protection)
+* modül [`aspose.cells`](../../)
+* sınıf [`Protection`](/cells/python-net/tr/aspose.cells/protection)

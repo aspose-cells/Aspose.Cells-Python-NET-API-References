@@ -3,13 +3,13 @@ title: input_range mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 510
 url: /tr/aspose.cells.drawing/shape/input_range/
 is_root: false
 ---
 ##  input_range mülk
 
-Belirtilen birleşik giriş kutusunu doldurmak için kullanılan çalışma sayfası aralığını alır veya ayarlar.
+Belirtilen birleşik kutuyu doldurmak için kullanılan çalışma sayfası aralığını alır veya ayarlar.
 
 ###  Örnek
 

@@ -3,7 +3,7 @@ title: max_column_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 290
+weight: 270
 url: /ar/aspose.cells/txtloadoptions/max_column_count/
 is_root: false
 ---
@@ -13,10 +13,10 @@ is_root: false
 
 ###  ملاحظات
 
-سيتم تجاهل تلك الأعمدة التي تتجاوز هذا الحد
-أو ممتد إلى الورقة التالية حسب [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet).
+سيتم تجاهل الأعمدة التي تتجاوز هذا الحد
+أو تم تمديدها إلى الورقة التالية وفقًا لـ [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet).
 يتضمن هذا العدد أعمدة الرأس ([`TxtLoadOptions.header_columns_count`](/cells/python-net/ar/aspose.cells/txtloadoptions#header_columns_count)).
-الحد الأقصى لقيمته هو الحد الأقصى لعمود تنسيق الملف المقابل، مثل ملف xlsx وهو 16384.
+القيمة القصوى لها هي حد العمود لتنسيق الملف المقابل، مثل ملف xlsx هو 16384.
 إذا لم يتم تحديد هذه الخاصية أو كانت القيمة المحددة غير موجبة، فسيتم استخدام الحد الأقصى أيضًا.
 ###  تعريف:
 ```python

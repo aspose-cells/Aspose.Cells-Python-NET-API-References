@@ -1,5 +1,5 @@
 ---
-title: العد TotalsCalculation
+title: TotalsCalculation التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,28 +7,28 @@ weight: 130
 url: /ar/aspose.cells.tables/totalscalculation/
 is_root: false
 ---
-##  العد TotalsCalculation
-يحدد نوع الحساب في صف الإجماليات لعمود القائمة.
+##  TotalsCalculation التعداد
+تحديد نوع الحساب في صف الإجماليات في عمود القائمة.
 
 
 
-يكشف نوع TotalsCalculation الأعضاء التالية:
+يكشف النوع TotalsCalculation عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SUM | يمثل حساب مجاميع المجموع.|
-| COUNT | يمثل حساب مجاميع العدد.|
-| AVERAGE |يمثل حساب متوسط المجاميع.|
-| MAX | يمثل حساب مجاميع قصوى.|
-| MIN | يمثل حساب مجاميع الحد الأدنى.|
-| VAR | يمثل حساب مجاميع المتغيرات.|
-| COUNT_NUMS | يمثل حساب مجاميع التعداد.|
-| STD_DEV | يمثل حساب مجاميع StdDev.|
-| NONE | لا يمثل حساب إجمالي.|
-| CUSTOM | يمثل الحساب المخصص.|
+| SUM | يمثل مجموع الحسابات الإجمالية.|
+| COUNT | يمثل حساب إجمالي العدد.|
+| AVERAGE | يمثل حساب المجموع المتوسط.|
+| MAX | يمثل حساب الإجمالي الأقصى.|
+| MIN | يمثل حساب إجمالي الحد الأدنى.|
+| VAR | يمثل حساب إجمالي المتغيرات.|
+| COUNT_NUMS | يمثل حساب إجمالي الأعداد.|
+| STD_DEV | يمثل حساب إجمالي الانحراف المعياري.|
+| NONE | يمثل عدم حساب الإجماليات.|
+| CUSTOM | يمثل حسابًا مخصصًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](..)
+* الوحدة [`aspose.cells.tables`](..)

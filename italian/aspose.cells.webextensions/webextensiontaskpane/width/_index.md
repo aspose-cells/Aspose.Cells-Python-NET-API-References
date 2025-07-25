@@ -1,6 +1,6 @@
 ---
 title: width proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width proprietà
 
-Ottiene e imposta il valore predefinito width per questa istanza del riquadro delle attività.
+Ottiene e imposta il valore predefinito width per questa istanza del riquadro attività.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def width(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.webextensions](../../)
-* classe [WebExtensionTaskPane](/cells/python-net/it/aspose.cells.webextensions/webextensiontaskpane)
+* modulo [`aspose.cells.webextensions`](../../)
+* classe [`WebExtensionTaskPane`](/cells/python-net/it/aspose.cells.webextensions/webextensiontaskpane)

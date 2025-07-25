@@ -3,7 +3,7 @@ title: text_vertical_alignment propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /es/aspose.cells.drawing/listbox/text_vertical_alignment/
 is_root: false
 ---

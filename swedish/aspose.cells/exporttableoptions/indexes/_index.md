@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indexes fastighet
 
-indexes av kolumner/rader som ska exporteras ut.
+indexes för kolumner/rader som ska exporteras ut.
 ###  Definition:
 ```python
 @property

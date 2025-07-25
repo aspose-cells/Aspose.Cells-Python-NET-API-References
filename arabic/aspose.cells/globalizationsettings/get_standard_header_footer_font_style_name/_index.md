@@ -7,16 +7,17 @@ weight: 210
 url: /ar/aspose.cells/globalizationsettings/get_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  get_standard_header_footer_font_style_name {#str}
-الحصول على اسم نمط الخط الإنجليزي القياسي (Regular، Bold، Italic) للرأس/التذييل وفقًا لاسم نمط الخط المحلي المحدد.
+##  get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
+يحصل على اسم نمط الخط الإنجليزي القياسي (عادي، غامق، مائل) للرأس/التذييل وفقًا لاسم نمط الخط المحلي المحدد.
 
 
 ###  عائدات
 
-اسم نمط الخط الإنجليزي القياسي (Regular، Bold، Italic)
+اسم نمط الخط الإنجليزي القياسي (عادي، غامق، مائل)
 
 
 ```python
+
 def get_standard_header_footer_font_style_name(self, localfont_style_name):
     ...
 ```

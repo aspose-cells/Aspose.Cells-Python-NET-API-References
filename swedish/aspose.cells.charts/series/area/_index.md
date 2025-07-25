@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area fastighet
 
-Representerar bakgrunden area för serieobjektet.
+Representerar bakgrunden area för Series-objektet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Area](/cells/python-net/sv/aspose.cells.drawing/area)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Area`](/cells/python-net/sv/aspose.cells.drawing/area)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

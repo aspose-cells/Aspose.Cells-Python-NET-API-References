@@ -3,13 +3,13 @@ title: is_outline_shown mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 570
+weight: 600
 url: /tr/aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---
 ##  is_outline_shown mülk
 
-Anahatın gösterilip gösterilmeyeceğini belirtir.
+Anahattın gösterilip gösterilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

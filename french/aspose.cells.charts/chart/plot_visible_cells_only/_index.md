@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells_only propriété
 
-Indique si seules les cellules visibles sont tracées.
+Indique si seules les cellules visibles du tracé sont visibles.
 ###  Définition:
 ```python
 @property

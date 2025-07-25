@@ -9,7 +9,7 @@ is_root: false
 ---
 ## type属性
 
-获取/设置单元格值type。
+获取/设置单元格值 type。
 ### 定义：
 ```python
 @property

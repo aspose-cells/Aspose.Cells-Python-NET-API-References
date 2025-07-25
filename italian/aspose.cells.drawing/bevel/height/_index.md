@@ -1,6 +1,6 @@
 ---
 title: height proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height proprietà
 
-Ottiene e imposta lo height dello smusso o la distanza al di sopra della forma a cui viene applicato.
+Ottiene e imposta il valore height della smussatura, ovvero la distanza rispetto alla forma a cui viene applicata.
 In unità di punti.
 ###  Definizione:
 ```python
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [Bevel](/cells/python-net/it/aspose.cells.drawing/bevel)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`Bevel`](/cells/python-net/it/aspose.cells.drawing/bevel)

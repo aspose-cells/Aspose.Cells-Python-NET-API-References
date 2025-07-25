@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  destination mülk
 
-Yer iminin bağlandığı hücre.
+Yer iminin bağlantı yaptığı hücre.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def destination(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [Cell](/cells/python-net/tr/aspose.cells/cell)
-* sınıf [PdfBookmarkEntry](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`Cell`](/cells/python-net/tr/aspose.cells/cell)
+* sınıf [`PdfBookmarkEntry`](/cells/python-net/tr/aspose.cells.rendering/pdfbookmarkentry)

@@ -13,7 +13,7 @@ Representerar basenhetsskalan för kategoriaxeln.
 
 ###  Anmärkningar
 
-Att ställa in den här egenskapen träder bara i kraft när egenskapen CategoryType är inställd på TimeScale.
+Inställningen av den här egenskapen träder bara i kraft när egenskapen CategoryType är inställd på TimeScale.
 ###  Definition:
 ```python
 @property

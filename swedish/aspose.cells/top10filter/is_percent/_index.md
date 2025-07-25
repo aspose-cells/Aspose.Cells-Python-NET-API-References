@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent fastighet
 
-Anger om objekten är procent.
+Anger om objekten är i procent.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10Filter](/cells/python-net/sv/aspose.cells/top10filter)
+* modul [`aspose.cells`](../../)
+* klass [`Top10Filter`](/cells/python-net/sv/aspose.cells/top10filter)

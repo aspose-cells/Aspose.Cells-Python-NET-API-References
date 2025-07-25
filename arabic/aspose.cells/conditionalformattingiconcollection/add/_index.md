@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells/conditionalformattingiconcollection/add/
 is_root: false
 ---
-##  add(cficon) {#ConditionalFormattingIcon}
-يضيف [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon) كائن.
+##  add(self, cficon) {#aspose.cells.ConditionalFormattingIcon}
+إضافة الكائن [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon).
 
 
 
 ```python
+
 def add(self, cficon):
     ...
 ```
@@ -20,19 +21,20 @@ def add(self, cficon):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| cficon | [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon) | إرجاع فهرس كائن جديد في القائمة.|
+| cficon | [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon) | إرجاع مؤشر الكائن الجديد في القائمة.|
 
 
-##  add(type, index) {#IconSetType-int}
-يضيف [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon) كائن.
+##  add(self, type, index) {#aspose.cells.IconSetType-int}
+إضافة الكائن [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon).
 
 
 ###  عائدات
 
-إرجاع فهرس كائن جديد في القائمة.
+إرجاع مؤشر الكائن الجديد في القائمة.
 
 
 ```python
+
 def add(self, type, index):
     ...
 ```
@@ -40,12 +42,12 @@ def add(self, type, index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/ar/aspose.cells/iconsettype) | نوع القيمة.|
-| index | int | مؤشر.|
+| type | [`IconSetType`](/cells/python-net/ar/aspose.cells/iconsettype) | نوع القيمة.|
+| index | int | الفهرس.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingIcon](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
-* فئة [ConditionalFormattingIconCollection](/cells/python-net/ar/aspose.cells/conditionalformattingiconcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingIcon`](/cells/python-net/ar/aspose.cells/conditionalformattingicon)
+* فئة [`ConditionalFormattingIconCollection`](/cells/python-net/ar/aspose.cells/conditionalformattingiconcollection)

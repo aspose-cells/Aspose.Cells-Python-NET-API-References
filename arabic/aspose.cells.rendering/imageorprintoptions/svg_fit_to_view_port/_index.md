@@ -3,13 +3,20 @@ title: svg_fit_to_view_port عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port/
 is_root: false
 ---
 ##  svg_fit_to_view_port عقار
 
-إذا كانت هذه الخاصية صحيحة، فسيكون ملف svg الذي تم إنشاؤه مناسبًا لعرض المنفذ.
+إذا كانت هذه الخاصية صحيحة، فسوف يتناسب ملف svg الناتج مع منفذ العرض.
+
+###  ملاحظات
+
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+من فضلك استخدم [`SvgImageOptions.fit_to_view_port`](/cells/python-net/ar/aspose.cells.rendering/svgimageoptions#fit_to_view_port).
+ سيتم إزالة هذه الخاصية بعد 12 شهرًا منذ أبريل 2025.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

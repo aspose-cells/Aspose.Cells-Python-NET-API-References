@@ -1,18 +1,18 @@
 ---
-title: ErrorBarType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione ErrorBarType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 510
 url: /it/aspose.cells.charts/errorbartype/
 is_root: false
 ---
-##  ErrorBarType enumerazione
+##  Enumerazione ErrorBarType
 Rappresenta il tipo di importo della barra di errore.
 
 
 
-Il tipo ErrorBarType espone i membri seguenti:
+Il tipo ErrorBarType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -26,4 +26,4 @@ Il tipo ErrorBarType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
+* modulo [`aspose.cells.charts`](..)

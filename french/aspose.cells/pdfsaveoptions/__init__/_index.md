@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/pdfsaveoptions/__init__/
 is_root: false
 ---
-##  PdfSaveOptions() {#}
-Crée les options pour enregistrer le fichier pdf.
+##  \_\_init\_\_(self){#}
+Crée les options pour enregistrer le fichier PDF.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PdfSaveOptions](/cells/python-net/fr/aspose.cells/pdfsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`PdfSaveOptions`](/cells/python-net/fr/aspose.cells/pdfsaveoptions)

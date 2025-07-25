@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_hidden propriété
 
-Indique s'il faut afficher les données dans des lignes et des colonnes masquées.
+Indique s'il faut afficher les données dans les lignes et les colonnes masquées.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_hidden(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)

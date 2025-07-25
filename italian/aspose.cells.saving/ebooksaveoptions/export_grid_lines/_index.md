@@ -1,15 +1,15 @@
 ---
 title: export_grid_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 260
+weight: 330
 url: /it/aspose.cells.saving/ebooksaveoptions/export_grid_lines/
 is_root: false
 ---
 ##  export_grid_lines proprietà
 
-Indica se esportare la griglia. Il valore predefinito è false.
+Indica se esportare le linee della griglia. Il valore predefinito è false.
 ###  Definizione:
 ```python
 @property

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  annotations_permission propiedad
 
-Indica si se permite agregar o modificar anotaciones de texto, completar campos de formulario interactivo.
+Indica si se debe permitir agregar o modificar anotaciones de texto y completar campos de formulario interactivos.
 
 ###  Observaciones
 
-Si también se establece [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), cree o modifique campos de formulario interactivos (incluidos los campos de firma).
+Si también se configura [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/es/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), cree o modifique campos de formulario interactivos (incluidos los campos de firma).
 ###  Definición:
 ```python
 @property

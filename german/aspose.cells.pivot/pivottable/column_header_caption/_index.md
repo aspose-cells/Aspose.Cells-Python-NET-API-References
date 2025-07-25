@@ -3,7 +3,7 @@ title: column_header_caption Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 450
 url: /de/aspose.cells.pivot/pivottable/column_header_caption/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def column_header_caption(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

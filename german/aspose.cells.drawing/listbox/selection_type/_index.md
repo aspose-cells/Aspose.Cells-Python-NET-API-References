@@ -3,13 +3,13 @@ title: selection_type Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 940
+weight: 950
 url: /de/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---
 ##  selection_type Eigentum
 
-Ruft den Auswahlmodus des angegebenen Listenfelds ab oder legt diesen fest.
+Ruft den Auswahlmodus des angegebenen Listenfelds ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property

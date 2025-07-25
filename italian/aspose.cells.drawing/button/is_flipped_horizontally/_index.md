@@ -1,15 +1,15 @@
 ---
 title: is_flipped_horizontally proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 560
 url: /it/aspose.cells.drawing/button/is_flipped_horizontally/
 is_root: false
 ---
 ##  is_flipped_horizontally proprietà
 
-Ottiene e imposta se la forma viene capovolta orizzontalmente.
+Ottiene e imposta se la forma è capovolta orizzontalmente.
 
 ###  Esempio
 

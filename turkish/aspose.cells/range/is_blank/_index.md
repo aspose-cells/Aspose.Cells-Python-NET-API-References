@@ -3,12 +3,12 @@ title: is_blank yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 130
+weight: 180
 url: /tr/aspose.cells/range/is_blank/
 is_root: false
 ---
-##  is_blank {#}
-Aralığın değerler içerip içermediğini gösterir.
+##  is_blank(self) {#}
+Aralığın değer içerip içermediğini belirtir.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Aralığın değerler içerip içermediğini gösterir.
 
 
 ```python
+
 def is_blank(self):
     ...
 ```

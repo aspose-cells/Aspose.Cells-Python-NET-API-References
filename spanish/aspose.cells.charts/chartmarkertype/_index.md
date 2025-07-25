@@ -19,13 +19,13 @@ El tipo ChartMarkerType expone los siguientes miembros:
 | :- | :- |
 | AUTOMATIC | Marcadores automáticos.|
 | CIRCLE | Marcadores circulares.|
-| DASH | Marcadores de barra larga|
+| DASH | Marcadores de barra largos|
 | DIAMOND | Marcadores en forma de diamante.|
 | DOT | Marcadores de barra corta.|
 | NONE | Sin marcadores.|
-| SQUARE_PLUS | Marcadores cuadrados con un signo más.|
+| SQUARE_PLUS | Marcadores cuadrados con signo más.|
 | SQUARE | Marcadores cuadrados.|
-| SQUARE_STAR | Marcadores cuadrados con un asterisco.|
+| SQUARE_STAR | Marcadores cuadrados con asterisco.|
 | TRIANGLE | Marcadores triangulares.|
 | SQUARE_X | Marcadores cuadrados con una X.|
 | PICTURE | Imagen|

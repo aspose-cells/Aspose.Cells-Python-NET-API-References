@@ -3,7 +3,7 @@ title: PresetCameraType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1060
+weight: 1050
 url: /sv/aspose.cells.drawing/presetcameratype/
 is_root: false
 ---
@@ -83,4 +83,4 @@ Typen PresetCameraType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

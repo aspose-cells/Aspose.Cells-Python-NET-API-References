@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows propiedad
 
-Inserte una línea en blanco entre cada dato.
+Insertar línea en blanco entre cada dato.
 
 ###  Observaciones
 
-Si [SqlScriptSaveOptions.separator](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions#separator) es '\n' , es mejor establecer esta propiedad como verdadera para aumentar la legibilidad.
+Si [`SqlScriptSaveOptions.separator`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions#separator) es '\n', es mejor establecer esta propiedad como verdadera para aumentar la legibilidad.
 ###  Definición:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptSaveOptions](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptSaveOptions`](/cells/python-net/es/aspose.cells.saving/sqlscriptsaveoptions)

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/errorcheckoptioncollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Fügen Sie eine Option zur Fehlerprüfung hinzu.
 
 
@@ -17,6 +17,7 @@ Fügen Sie eine Option zur Fehlerprüfung hinzu.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ErrorCheckOptionCollection](/cells/python-net/de/aspose.cells/errorcheckoptioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ErrorCheckOptionCollection`](/cells/python-net/de/aspose.cells/errorcheckoptioncollection)

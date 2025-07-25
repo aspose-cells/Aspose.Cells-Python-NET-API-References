@@ -1,18 +1,19 @@
 ---
 title: Metodo group_by
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 140
 url: /it/aspose.cells.pivot/pivotfield/group_by/
 is_root: false
 ---
-##  group_by {#float-bool}
-Raggruppa automaticamente il campo con internal
+##  group_by(self, interval, new_field) {#float-bool}
+Raggruppa automaticamente il campo con interno
 
 
 
 ```python
+
 def group_by(self, interval, new_field):
     ...
 ```
@@ -20,16 +21,21 @@ def group_by(self, interval, new_field):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| interval | float | L'interno del gruppo.<br/> Il valore automatico verrà assegnato se è zero,|
+| interval | float | L'interno del gruppo.<br/> Verrà assegnato un valore automatico se è zero,|
 | new_field | bool | Indica se aggiungere un nuovo campo alla tabella pivot.|
 
 
-##  group_by {#list-bool}
-Raggruppare il campo in modo personalizzato.
+##  group_by(self, custom_group_items, new_field) {#list-bool}
+Raggruppa il campo in modo personalizzato.
 
+
+###  ritorna
+
+False significa che questo campo non può essere raggruppato per data e ora.
 
 
 ```python
+
 def group_by(self, custom_group_items, new_field):
     ...
 ```
@@ -38,15 +44,20 @@ def group_by(self, custom_group_items, new_field):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | custom_group_items | list | Gli elementi del gruppo personalizzato.|
-| new_field | bool |Indica se aggiungere un nuovo campo alla tabella pivot|
+| new_field | bool | Indica se aggiungere un nuovo campo alla tabella pivot|
 
 
-##  group_by {#float-float-float-bool}
-Raggruppare il file per numero.
+##  group_by(self, start, end, interval, new_field) {#float-float-float-bool}
+Raggruppa il file in base al numero.
 
+
+###  ritorna
+
+False significa che questo campo non può essere raggruppato per data e ora.
 
 
 ```python
+
 def group_by(self, start, end, interval, new_field):
     ...
 ```
@@ -57,15 +68,20 @@ def group_by(self, start, end, interval, new_field):
 | start | float | Il valore iniziale|
 | end | float | La fine del valore|
 | interval | float | L'intervallo|
-| new_field | bool |Indica se aggiungere un nuovo campo alla tabella pivot|
+| new_field | bool | Indica se aggiungere un nuovo campo alla tabella pivot|
 
 
-##  group_by {#DateTime-DateTime-list-float-bool}
-Raggruppare il file in base ai tipi di gruppo di date.
+##  group_by(self, start, end, groups, interval, first_as_new_field) {#DateTime-DateTime-list-float-bool}
+Raggruppa il file in base ai tipi di gruppo data.
 
+
+###  ritorna
+
+False significa che questo campo non può essere raggruppato per data e ora.
 
 
 ```python
+
 def group_by(self, start, end, groups, interval, first_as_new_field):
     ...
 ```

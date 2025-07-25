@@ -7,12 +7,13 @@ weight: 60
 url: /de/aspose.cells/formatconditioncollection/remove_area/
 is_root: false
 ---
-##  remove_area(index) {#int}
+##  remove_area(self, index) {#int}
 Entfernt bedingt formatierte Zellbereiche nach Index.
 
 
 
 ```python
+
 def remove_area(self, index):
     ...
 ```
@@ -23,7 +24,7 @@ def remove_area(self, index):
 | index | int | Der Index des bedingt formatierten Zellbereichs, der entfernt werden soll.|
 
 
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 Entfernen Sie die bedingte Formatierung im Bereich.
 
 
@@ -33,6 +34,7 @@ Gibt TRUE zurück, diese FormatCondtionCollection sollte entfernt werden.
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -40,13 +42,13 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| start_row | int | Die startRow des Bereichs.|
-| start_column | int | Die startColumn des Bereichs.|
+| start_row | int | Die Startzeile des Bereichs.|
+| start_column | int | Die Startspalte des Bereichs.|
 | total_rows | int | Die Anzahl der Zeilen des Bereichs.|
 | total_columns | int | Die Anzahl der Spalten des Bereichs.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormatConditionCollection](/cells/python-net/de/aspose.cells/formatconditioncollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormatConditionCollection`](/cells/python-net/de/aspose.cells/formatconditioncollection)

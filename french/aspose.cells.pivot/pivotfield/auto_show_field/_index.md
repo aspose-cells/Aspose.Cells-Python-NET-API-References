@@ -3,14 +3,14 @@ title: auto_show_field propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 270
 url: /fr/aspose.cells.pivot/pivotfield/auto_show_field/
 is_root: false
 ---
 ##  auto_show_field propriété
 
-Représente l’index du champ d’affichage automatique. -1 signifie PivotField lui-même.
-Ce devrait être l'index des champs de données.
+Représente l'index du champ d'affichage automatique. -1 signifie PivotField lui-même.
+Il devrait s'agir de l'index des champs de données.
 ###  Définition:
 ```python
 @property

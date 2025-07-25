@@ -1,18 +1,18 @@
 ---
-title: العد ControlSpecialEffectType
+title: ControlSpecialEffectType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 240
 url: /ar/aspose.cells.drawing.activexcontrols/controlspecialeffecttype/
 is_root: false
 ---
-##  العد ControlSpecialEffectType
+##  ControlSpecialEffectType التعداد
 يمثل نوع التأثير الخاص.
 
 
 
-يكشف نوع ControlSpecialEffectType الأعضاء التالية:
+يكشف النوع ControlSpecialEffectType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -21,9 +21,9 @@ is_root: false
 | RAISED | نشأ|
 | SUNKEN | غارقة|
 | ETCHED | محفور|
-| BUMP | صدم|
+| BUMP | نتوء|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

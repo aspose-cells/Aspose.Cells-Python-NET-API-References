@@ -1,6 +1,6 @@
 ---
 title: graphic_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  graphic_type недвижимость
 
-Получает и задает тип фоновой графики страницы.
+Получает и задает тип графического фона страницы.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.ods](../../)
-* класс [OdsPageBackground](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
-* класс [OdsPageBackgroundGraphicType](/cells/python-net/ru/aspose.cells.ods/odspagebackgroundgraphictype)
+* модуль [`aspose.cells.ods`](../../)
+* класс [`OdsPageBackground`](/cells/python-net/ru/aspose.cells.ods/odspagebackground)
+* класс [`OdsPageBackgroundGraphicType`](/cells/python-net/ru/aspose.cells.ods/odspagebackgroundgraphictype)

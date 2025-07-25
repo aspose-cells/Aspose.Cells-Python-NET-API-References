@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color fastighet
 
-Får eller ställer in förgrundsfärgen.
+Hämtar eller ställer in förgrundsfärgen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

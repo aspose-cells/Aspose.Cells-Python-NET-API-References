@@ -1,6 +1,6 @@
 ---
 title: SlicerCache класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
@@ -8,20 +8,20 @@ url: /ru/aspose.cells.slicers/slicercache/
 is_root: false
 ---
 ##  SlicerCache класс
-краткое описание кеша слайсера
+Представляет краткое описание кэша слайсера
 
 
 
-Тип SlicerCache предоставляет следующие члены:
+Тип SlicerCache предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [cross_filter_type](/cells/python-net/ru/aspose.cells.slicers/slicercache/cross_filter_type) | Возвращает или задает, участвует ли слайсер в перекрестной фильтрации с другими слайсерами.<br/> которые используют один и тот же кэш слайсера, и как отображается перекрестная фильтрация. Читай пиши|
-| [list](/cells/python-net/ru/aspose.cells.slicers/slicercache/list) | Возвращает значение, указывающее, основан ли слайсер, связанный с указанным кэшем слайсера, на источнике данных, отличном от OLAP. Только для чтения|
-| [slicer_cache_items](/cells/python-net/ru/aspose.cells.slicers/slicercache/slicer_cache_items) | Возвращает коллекцию SlicerCacheItem, содержащую коллекцию всех элементов в кэше среза. Только для чтения|
-| [name](/cells/python-net/ru/aspose.cells.slicers/slicercache/name) | Возвращает имя кеша слайсера.|
-| [source_name](/cells/python-net/ru/aspose.cells.slicers/slicercache/source_name) | Возвращает имя поля кеша|
+| [cross_filter_type](/cells/python-net/ru/aspose.cells.slicers/slicercache/cross_filter_type) | Возвращает или задает, участвует ли срез в перекрестной фильтрации с другими срезами.<br/> которые используют один и тот же кэш слайсера, и как отображается кросс-фильтрация. Чтение/запись|
+| [list](/cells/python-net/ru/aspose.cells.slicers/slicercache/list) | Возвращает, основан ли слайсер, связанный с указанным кэшем слайсеров, на источнике данных, отличном от OLAP. Только для чтения.|
+| [slicer_cache_items](/cells/python-net/ru/aspose.cells.slicers/slicercache/slicer_cache_items) | Возвращает коллекцию SlicerCacheItem, содержащую все элементы кэша слайсера. Только для чтения.|
+| [name](/cells/python-net/ru/aspose.cells.slicers/slicercache/name) | Возвращает имя кэша слайсера.|
+| [source_name](/cells/python-net/ru/aspose.cells.slicers/slicercache/source_name) | Возвращает имя этого кэша слайсера.|
 
 
 
@@ -83,4 +83,4 @@ book.save("out.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.slicers](..)
+* модуль [`aspose.cells.slicers`](..)

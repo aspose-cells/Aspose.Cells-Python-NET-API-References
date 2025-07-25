@@ -3,13 +3,13 @@ title: top_inch属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1150
+weight: 1160
 url: /zh/aspose.cells.drawing/lineshape/top_inch/
 is_root: false
 ---
 ## top_inch属性
 
-表示形状相对于其顶行的垂直偏移量，以英寸为单位。
+表示形状与其顶行的垂直偏移量，以英寸为单位。
 
 ### 例子
 

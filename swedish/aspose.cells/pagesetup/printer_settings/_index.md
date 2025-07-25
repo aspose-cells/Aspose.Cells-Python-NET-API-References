@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  printer_settings fastighet
 
-Hämtar och ställer in inställningarna för standardskrivaren.
+Hämtar och anger inställningarna för standardskrivaren.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def printer_settings(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

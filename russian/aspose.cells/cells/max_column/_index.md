@@ -1,20 +1,20 @@
 ---
 title: max_column недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1080
+weight: 1110
 url: /ru/aspose.cells/cells/max_column/
 is_root: false
 ---
 ##  max_column недвижимость
 
-Максимальный индекс столбца тех ячеек, экземпляры которых были созданы в коллекции (не включает столбец
+Максимальный индекс столбца тех ячеек, которые были созданы в коллекции (не включает столбец
 где стиль определен для всего столбца, но в нем не создана ни одна ячейка).
 
 ###  Примечания
 
-Верните -1, если ячейки нет.
+Возвращает -1, если не было создано ни одной ячейки.
 ###  Определение:
 ```python
 @property

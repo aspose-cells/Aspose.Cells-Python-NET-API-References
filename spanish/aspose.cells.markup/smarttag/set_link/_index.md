@@ -1,5 +1,5 @@
 ---
-title: set_link método
+title: método set_link
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.markup/smarttag/set_link/
 is_root: false
 ---
-##  set_link(uri, name) {#str-str}
+##  set_link(self, uri, name) {#str-str}
 Cambie el nombre y el URI del espacio de nombres de la etiqueta inteligente.
 
 
 
 ```python
+
 def set_link(self, uri, name):
     ...
 ```
@@ -26,5 +27,5 @@ def set_link(self, uri, name):
 
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTag](/cells/python-net/es/aspose.cells.markup/smarttag)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTag`](/cells/python-net/es/aspose.cells.markup/smarttag)

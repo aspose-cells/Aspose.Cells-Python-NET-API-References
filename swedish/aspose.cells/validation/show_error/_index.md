@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error fastighet
 
-Indikerar om datavalideringsfelmeddelandet kommer att visas när användaren anger ogiltiga data.
+Anger om felmeddelandet för datavalidering ska visas när användaren anger ogiltiga data.
 ###  Definition:
 ```python
 @property

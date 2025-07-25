@@ -3,7 +3,7 @@ title: display_right_to_left属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 470
+weight: 490
 url: /zh/aspose.cells/worksheet/display_right_to_left/
 is_root: false
 ---

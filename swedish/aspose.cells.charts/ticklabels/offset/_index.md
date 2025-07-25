@@ -9,12 +9,13 @@ is_root: false
 ---
 ##  offset fastighet
 
-Hämtar och ställer in etiketternas avstånd från axeln.
+ Hämtar och anger avståndet mellan etiketter och kategoriaxeln.
+Endast för kategori (x)-axeln.
 
 ###  Anmärkningar
 
 Standardavståndet är 100 procent, vilket representerar standardavståndet mellan axeletiketterna och axellinjen.
-Värdet kan vara ett heltal i procent från 0 till 1000, i förhållande till axeletikettens teckensnittsstorlek.
+Värdet kan vara ett heltal i procent från 0 till 1000, i förhållande till axeletikettens teckenstorlek.
 ###  Definition:
 ```python
 @property

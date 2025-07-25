@@ -7,12 +7,13 @@ weight: 80
 url: /ar/aspose.cells.charts/chartpoint/get_top_point_count/
 is_root: false
 ---
-##  get_top_point_count() {#}
-الحصول على عدد النقاط العليا بعد استدعاء طريقة Chart.Calculate ().
+##  get_top_point_count(self) {#}
+يحصل على عدد النقاط العليا بعد استدعاء طريقة Chart.Calculate().
 
 
 
 ```python
+
 def get_top_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_top_point_count(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ChartPoint](/cells/python-net/ar/aspose.cells.charts/chartpoint)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ChartPoint`](/cells/python-net/ar/aspose.cells.charts/chartpoint)

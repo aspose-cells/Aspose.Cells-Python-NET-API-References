@@ -1,6 +1,6 @@
 ---
 title: RevisionLog класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-Тип RevisionLog предоставляет следующие члены:
+Тип RevisionLog предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [metadata_table](/cells/python-net/ru/aspose.cells.revisions/revisionlog/metadata_table) | Получает таблицу, содержащую метаданные о списке конкретных произошедших изменений.<br/> для этой рабочей тетради.|
-| [revisions](/cells/python-net/ru/aspose.cells.revisions/revisionlog/revisions) | Получает все версии в этом журнале.|
+| [revisions](/cells/python-net/ru/aspose.cells.revisions/revisionlog/revisions) | Получает все изменения в этом журнале.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.revisions](..)
+* модуль [`aspose.cells.revisions`](..)

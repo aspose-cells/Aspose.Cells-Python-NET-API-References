@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  source_name fastighet
 
-Returnerar namnet på cachefältet
+Returnerar namnet på denna slicer-cache.
 
 ###  Exempel
 
 ```python
 
-# get the name of cache field.
+# get the name of this slicer cache.
 print(slicerCache.source_name)
 
 ```
@@ -27,5 +27,5 @@ def source_name(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [SlicerCache](/cells/python-net/sv/aspose.cells.slicers/slicercache)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`SlicerCache`](/cells/python-net/sv/aspose.cells.slicers/slicercache)

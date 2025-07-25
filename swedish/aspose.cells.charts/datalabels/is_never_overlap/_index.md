@@ -3,13 +3,13 @@ title: is_never_overlap fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 300
 url: /sv/aspose.cells.charts/datalabels/is_never_overlap/
 is_root: false
 ---
 ##  is_never_overlap fastighet
 
-Indikerar om dataetiketterna aldrig överlappar varandra. (För cirkeldiagram)
+Anger om dataetiketterna som visas aldrig överlappar varandra. (För cirkeldiagram)
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_never_overlap(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [DataLabels](/cells/python-net/sv/aspose.cells.charts/datalabels)
+* modul [`aspose.cells.charts`](../../)
+* klass [`DataLabels`](/cells/python-net/sv/aspose.cells.charts/datalabels)

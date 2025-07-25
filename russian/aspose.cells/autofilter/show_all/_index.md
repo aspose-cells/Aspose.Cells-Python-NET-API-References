@@ -1,18 +1,19 @@
 ---
 title: show_all метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
 url: /ru/aspose.cells/autofilter/show_all/
 is_root: false
 ---
-##  show_all() {#}
+##  show_all(self) {#}
 Показать все строки.
 
 
 
 ```python
+
 def show_all(self):
     ...
 ```
@@ -22,5 +23,5 @@ def show_all(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [AutoFilter](/cells/python-net/ru/aspose.cells/autofilter)
+* модуль [`aspose.cells`](../../)
+* класс [`AutoFilter`](/cells/python-net/ru/aspose.cells/autofilter)

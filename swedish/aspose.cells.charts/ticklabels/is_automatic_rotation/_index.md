@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_rotation fastighet
 
-Indikerar om rotationsvinkeln är automatisk
+Anger om rotationsvinkeln är automatisk
 ###  Definition:
 ```python
 @property

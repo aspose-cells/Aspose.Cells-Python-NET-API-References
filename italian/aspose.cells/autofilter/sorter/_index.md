@@ -1,6 +1,6 @@
 ---
 title: sorter proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 230
@@ -18,6 +18,6 @@ def sorter(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/it/aspose.cells/autofilter)
-* classe [DataSorter](/cells/python-net/it/aspose.cells/datasorter)
+* modulo [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/it/aspose.cells/autofilter)
+* classe [`DataSorter`](/cells/python-net/it/aspose.cells/datasorter)

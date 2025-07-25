@@ -3,7 +3,7 @@ title: has_revisions fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 630
 url: /sv/aspose.cells/workbook/has_revisions/
 is_root: false
 ---

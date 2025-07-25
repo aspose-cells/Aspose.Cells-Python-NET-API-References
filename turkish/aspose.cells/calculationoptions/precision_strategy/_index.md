@@ -3,13 +3,13 @@ title: precision_strategy mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 70
 url: /tr/aspose.cells/calculationoptions/precision_strategy/
 is_root: false
 ---
 ##  precision_strategy mülk
 
-Hesaplamanın kesinliğini işleme stratejisini belirtir.
+Hesaplamanın hassasiyetini işleme stratejisini belirtir.
 ###  Tanım:
 ```python
 @property

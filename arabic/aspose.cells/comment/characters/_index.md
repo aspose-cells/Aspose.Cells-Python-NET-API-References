@@ -7,16 +7,17 @@ weight: 20
 url: /ar/aspose.cells/comment/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-تقوم بإرجاع عنصر أحرف يمثل نطاقًا من characters داخل نص التعليق.
+##  characters(self, start_index, length) {#int-int}
+يقوم بإرجاع كائن أحرف يمثل نطاق characters ضمن نص التعليق.
 
 
 ###  عائدات
 
-كائن الأحرف.
+كائنات الأحرف.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,7 +25,7 @@ def characters(self, start_index, length):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| start_index | int | فهرس بداية الحرف.|
+| start_index | int | مؤشر بداية الحرف.|
 | length | int | عدد الأحرف.|
 
 ###  مثال
@@ -38,5 +39,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Comment](/cells/python-net/ar/aspose.cells/comment)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Comment`](/cells/python-net/ar/aspose.cells/comment)

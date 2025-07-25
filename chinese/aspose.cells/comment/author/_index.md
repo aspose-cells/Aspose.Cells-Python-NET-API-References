@@ -9,7 +9,7 @@ is_root: false
 ---
 ## author属性
 
-获取并设置原始评论的名称 author
+获取并设置原始注意事项的名称 author
 
 ### 例子
 

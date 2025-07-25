@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_border propiedad
 
-Se aplicará la configuración del borde derecho.
+Se aplicarán las configuraciones del borde derecho.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_border(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

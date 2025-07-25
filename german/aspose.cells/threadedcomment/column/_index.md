@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ThreadedComment](/cells/python-net/de/aspose.cells/threadedcomment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ThreadedComment`](/cells/python-net/de/aspose.cells/threadedcomment)

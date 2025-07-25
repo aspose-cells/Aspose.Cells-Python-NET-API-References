@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/cells/apply_column_style/
 is_root: false
 ---
-##  apply_column_style(column, style, flag) {#int-Style-StyleFlag}
-يطبق تنسيقات لعمود كامل.
+##  apply_column_style(self, column, style, flag) {#int-aspose.cells.Style-aspose.cells.StyleFlag}
+يتم تطبيق التنسيقات على العمود بأكمله.
 
 
 
 ```python
+
 def apply_column_style(self, column, style, flag):
     ...
 ```
@@ -21,11 +22,11 @@ def apply_column_style(self, column, style, flag):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | column | int | فهرس العمود.|
-| style | [Style](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
-| flag | [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag) |علامات تشير إلى خصائص التنسيق المطبقة.|
+| style | [`Style`](/cells/python-net/ar/aspose.cells/style) | كائن النمط الذي سيتم تطبيقه.|
+| flag | [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag) | العلامات التي تشير إلى خصائص التنسيق المطبقة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cells](/cells/python-net/ar/aspose.cells/cells)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cells`](/cells/python-net/ar/aspose.cells/cells)

@@ -3,13 +3,13 @@ title: rows属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1230
+weight: 1260
 url: /zh/aspose.cells/cells/rows/
 is_root: false
 ---
 ## rows属性
 
-获取代表此工作表中的单个 rows 的 [`Row`](/cells/python-net/zh/aspose.cells/row) 对象的集合。
+获取代表此工作表中单个 rows 的 [`Row`](/cells/python-net/zh/aspose.cells/row) 对象的集合。
 ### 定义：
 ```python
 @property

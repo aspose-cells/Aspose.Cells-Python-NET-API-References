@@ -1,15 +1,15 @@
 ---
 title: text_direction proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 950
+weight: 970
 url: /it/aspose.cells.drawing/groupbox/text_direction/
 is_root: false
 ---
 ##  text_direction proprietà
 
-Ottiene/imposta la direzione del flusso del testo per questo oggetto.
+Ottiene/imposta la direzione del flusso di testo per questo oggetto.
 
 ###  Esempio
 

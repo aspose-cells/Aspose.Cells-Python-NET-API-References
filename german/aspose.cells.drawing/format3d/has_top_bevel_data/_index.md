@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.drawing/format3d/has_top_bevel_data/
 is_root: false
 ---
-##  has_top_bevel_data() {#}
-Gibt an, ob die Form obere Abschrägungsdaten hat.
+##  has_top_bevel_data(self) {#}
+Gibt an, ob die Form über Daten zur oberen Abschrägung verfügt.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Gibt an, ob die Form obere Abschrägungsdaten hat.
 
 
 ```python
+
 def has_top_bevel_data(self):
     ...
 ```
@@ -26,5 +27,5 @@ def has_top_bevel_data(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Format3D](/cells/python-net/de/aspose.cells.drawing/format3d)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Format3D`](/cells/python-net/de/aspose.cells.drawing/format3d)

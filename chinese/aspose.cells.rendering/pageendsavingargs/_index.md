@@ -1,9 +1,9 @@
 ---
 title: PageEndSavingArgs类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 40
 url: /zh/aspose.cells.rendering/pageendsavingargs/
 is_root: false
 ---
@@ -12,23 +12,23 @@ is_root: false
 
 
 
-**继承：** [PageEndSavingArgs](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
-[PageSavingArgs](/cells/python-net/zh/aspose.cells.rendering/pagesavingargs)
+**继承：** [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs) → 
+[`PageSavingArgs`](/cells/python-net/zh/aspose.cells.rendering/pagesavingargs)
 
 
 
-PageEndSavingArgs 类型公开了以下成员：
+PageEndSavingArgs 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [page_index](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs/page_index) |当前页面索引，从零开始。|
 | [page_count](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs/page_count) |总页数。|
-| [has_more_pages](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs/has_more_pages) |获取或设置一个值，该值指示是否有更多页面要输出。<br/>默认值是true。|
+| [has_more_pages](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs/has_more_pages) |获取或设置一个值，指示是否还有更多页面需要输出。<br/>默认值为 true。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
-* 类 [PageEndSavingArgs](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs)
-* 类 [PageSavingArgs](/cells/python-net/zh/aspose.cells.rendering/pagesavingargs)
+* 模块[`aspose.cells.rendering`](..)
+* 类 [`PageEndSavingArgs`](/cells/python-net/zh/aspose.cells.rendering/pageendsavingargs)
+* 类 [`PageSavingArgs`](/cells/python-net/zh/aspose.cells.rendering/pagesavingargs)

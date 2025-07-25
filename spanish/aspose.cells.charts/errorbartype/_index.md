@@ -17,13 +17,13 @@ El tipo ErrorBarType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CUSTOM | Tipo de valor personalizado interno.|
+| CUSTOM | Tipo de valor InnerCustom.|
 | FIXED_VALUE | Tipo de valor fijo.|
-| PERCENT | tipo de porcentaje|
+| PERCENT | Tipo de porcentaje|
 | ST_DEV | Tipo de desviación estándar.|
 | ST_ERROR | Tipo de error estándar.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

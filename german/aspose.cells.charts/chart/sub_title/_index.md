@@ -10,7 +10,7 @@ is_root: false
 ##  sub_title Eigentum
 
 Ruft den Untertitel des Diagramms ab.
-Nur für Datei im Format ODS.
+Nur für Dateien im Format ODS.
 ###  Definition:
 ```python
 @property

@@ -9,9 +9,9 @@ is_root: false
 ---
 ## pixel_format属性
 
-获取或设置生成图像的像素格式。
+获取或设置生成的图像的像素格式。
 
-### 评论
+### 注意事项
 
 默认值为 PixelFormat.Format32bppArgb。
 ### 定义：

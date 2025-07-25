@@ -3,13 +3,13 @@ title: shadow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 950
+weight: 960
 url: /sv/aspose.cells.drawing/listbox/shadow/
 is_root: false
 ---
 ##  shadow fastighet
 
-Indikerar om kombinationsrutan har 3D-skuggning.
+Anger om kombinationsrutan har 3D-skuggning.
 ###  Definition:
 ```python
 @property

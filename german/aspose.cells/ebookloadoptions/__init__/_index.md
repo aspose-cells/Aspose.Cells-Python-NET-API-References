@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/ebookloadoptions/__init__/
 is_root: false
 ---
-##  __drin__ {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt Optionen zum Laden der E-Book-Datei.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  __drin__ {#aspose.cells.LoadFormat}
+##  \_\_init\_\_(selbst, lade_format){#aspose.cells.LoadFormat}
 Erstellt Optionen zum Laden der E-Book-Datei.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```

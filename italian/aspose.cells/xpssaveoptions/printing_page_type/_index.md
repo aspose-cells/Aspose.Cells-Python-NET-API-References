@@ -1,38 +1,13 @@
 ---
 title: printing_page_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 260
 url: /it/aspose.cells/xpssaveoptions/printing_page_type/
 is_root: false
 ---
 ##  printing_page_type proprietà
-
-Indica quali pagine non verranno stampate.
-
-###  Osservazioni
-
-Se il contenuto del foglio è scarso, alcune pagine saranno completamente vuote nel file pdf di output.
-Se non vuoi queste pagine vuote, puoi usare questa opzione per ometterle.
-
-###  Esempio
-
-Il codice seguente omette le pagine vuote o le pagine che contengono solo alcuni contenuti di stile come lo sfondo della cella e i bordi.
-
-```python
-from aspose.cells import PdfSaveOptions, PrintingPageType, Workbook
-
-wb = Workbook("Book1.xlsx")
-pdfSaveOptions = PdfSaveOptions()
-# ignore blank pages
-pdfSaveOptions.printing_page_type = PrintingPageType.IGNORE_BLANK
-wb.save("output_ignore_blank_page.pdf", pdfSaveOptions)
-# ignore blank pages and pages which only contains some style content like cell background
-pdfSaveOptions.printing_page_type = PrintingPageType.IGNORE_STYLE
-wb.save("output_ignore_blank_and_style_page.pdf", pdfSaveOptions)
-
-```
 ###  Definizione:
 ```python
 @property

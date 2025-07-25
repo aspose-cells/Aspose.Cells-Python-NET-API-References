@@ -1,22 +1,23 @@
 ---
 title: characters方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.charts/charttextframe/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 返回表示文本中 characters 范围的 Characters 对象。
 
 
 ### 返回
 
-字符对象。
+人物对象。
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -30,5 +31,5 @@ def characters(self, start_index, length):
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartTextFrame](/cells/python-net/zh/aspose.cells.charts/charttextframe)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartTextFrame`](/cells/python-net/zh/aspose.cells.charts/charttextframe)

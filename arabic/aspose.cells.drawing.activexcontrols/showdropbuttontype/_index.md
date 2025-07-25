@@ -1,27 +1,27 @@
 ---
-title: العد ShowDropButtonType
+title: ShowDropButtonType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 280
 url: /ar/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
-##  العد ShowDropButtonType
-يحدد متى يتم إظهار زر الإسقاط
+##  ShowDropButtonType التعداد
+يحدد متى يتم عرض زر الإفلات
 
 
 
-يكشف نوع ShowDropButtonType الأعضاء التالية:
+يكشف النوع ShowDropButtonType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NEVER | لا تظهر زر الإسقاط.|
-| FOCUS | أظهر زر الإسقاط عندما يكون التركيز على عنصر التحكم.|
-| ALWAYS | أظهر دائمًا زر الإسقاط.|
+| NEVER | لا تظهر زر الإفلات أبدًا.|
+| FOCUS | إظهار زر الإفلات عندما يكون عنصر التحكم في التركيز.|
+| ALWAYS | إظهار زر الإفلات دائمًا.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

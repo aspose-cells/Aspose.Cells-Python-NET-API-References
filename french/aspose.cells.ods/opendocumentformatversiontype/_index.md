@@ -17,10 +17,10 @@ Le type OpenDocumentFormatVersionType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| NONE | Aucun strict.|
-| ODF11 | ODF Version 1.1|
-| ODF12 | ODF Version 1.2|
-| ODF13 |ODF Version 1.3|
+| NONE | Aucune stricte.|
+| ODF11 | Version ODF 1.1|
+| ODF12 | Version ODF 1.2|
+| ODF13 | Version ODF 1.3|
 
 
 

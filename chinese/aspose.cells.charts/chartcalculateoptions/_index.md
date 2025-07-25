@@ -17,13 +17,13 @@ ChartCalculateOptions 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells.charts/chartcalculateoptions/__init__/#) |创建用于计算图表的选项。|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells.charts/chartcalculateoptions/__init__/#) |创建计算图表的选项。|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [update_all_points](/cells/python-net/zh/aspose.cells.charts/chartcalculateoptions/update_all_points) |进行图表计算时是否更新所有数据点。默认值：假。<br/>当您想要具体获取图表中每个数据点的值时，请将其设置为 true。<br/>如果该参数设置为True，则在计算图表时可能会生成新的数据点。这可能会使 Excel 文件更大。|
+| [update_all_points](/cells/python-net/zh/aspose.cells.charts/chartcalculateoptions/update_all_points) |执行图表计算时是否更新所有数据点。默认值：False。<br/>当你想具体获取图表中每个数据点的值时，将其设置为true。<br/>如果此参数设置为 True，则在计算图表时可能会生成新的数据点。这可能会使 Excel 文件变得更大。|
 
 
 

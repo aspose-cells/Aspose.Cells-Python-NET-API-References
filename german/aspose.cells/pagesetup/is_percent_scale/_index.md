@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent_scale Eigentum
 
-Wenn diese Eigenschaft False ist, steuern die Eigenschaften FitToPagesWide und FitToPagesTall, wie das Arbeitsblatt skaliert wird.
+Wenn diese Eigenschaft „False“ ist, steuern die Eigenschaften „FitToPagesWide“ und „FitToPagesTall“, wie das Arbeitsblatt skaliert wird.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent_scale(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

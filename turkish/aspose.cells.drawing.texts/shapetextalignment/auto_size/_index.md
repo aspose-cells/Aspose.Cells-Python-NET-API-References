@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_size mülk
 
-Şeklin boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını gösterir.
+Şeklin boyutunun içeriğine göre otomatik olarak ayarlanıp ayarlanmadığını belirtir.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def auto_size(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [ShapeTextAlignment](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`ShapeTextAlignment`](/cells/python-net/tr/aspose.cells.drawing.texts/shapetextalignment)

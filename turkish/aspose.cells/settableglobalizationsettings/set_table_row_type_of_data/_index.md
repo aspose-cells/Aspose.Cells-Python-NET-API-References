@@ -7,12 +7,13 @@ weight: 420
 url: /tr/aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---
-##  set_table_row_type_of_data {#str}
+##  set_table_row_type_of_data(self, name) {#str}
 Başvurulan tablonun veri bölgesinden oluşan tablo satırlarının tür adını ayarlar.
 
 
 
 ```python
+
 def set_table_row_type_of_data(self, name):
     ...
 ```

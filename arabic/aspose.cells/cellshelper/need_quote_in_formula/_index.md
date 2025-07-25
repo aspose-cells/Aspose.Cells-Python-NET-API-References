@@ -3,12 +3,12 @@ title: طريقة need_quote_in_formula
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
-##  need_quote_in_formula {#str}
-يشير إلى ما إذا كان يجب تضمين اسم الورقة بين علامتي اقتباس مفردتين
+##  need_quote_in_formula(، اسم الورقة){#str}
+يشير إلى ما إذا كان يجب وضع اسم الورقة بين علامتي اقتباس مفردتين
 
 
 ###  عائدات
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def need_quote_in_formula(self, sheet_name):
+
+@staticmethod
+def need_quote_in_formula(sheet_name):
     ...
 ```
 

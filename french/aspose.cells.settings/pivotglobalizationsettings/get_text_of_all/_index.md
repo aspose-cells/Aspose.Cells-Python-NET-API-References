@@ -7,16 +7,17 @@ weight: 40
 url: /fr/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---
-##  get_text_of_all {#}
-Obtient le texte de l’étiquette « (Tous) » dans le tableau croisé dynamique.
+##  get_text_of_all(self) {#}
+Obtient le texte de l'étiquette « (Tous) » dans le tableau croisé dynamique.
 
 
 ###  Retour
 
-Le texte de l'étiquette "(Tous)"
+Le texte de l'étiquette « (Tous) »
 
 
 ```python
+
 def get_text_of_all(self):
     ...
 ```

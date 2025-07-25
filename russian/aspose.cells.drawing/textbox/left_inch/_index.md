@@ -1,15 +1,15 @@
 ---
 title: left_inch недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 710
+weight: 720
 url: /ru/aspose.cells.drawing/textbox/left_inch/
 is_root: false
 ---
 ##  left_inch недвижимость
 
-Представляет горизонтальное смещение фигуры от ее левого столбца в дюймах.
+Представляет собой горизонтальное смещение фигуры относительно ее левого столбца в дюймах.
 
 ###  Пример
 

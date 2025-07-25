@@ -1,5 +1,5 @@
 ---
-title: accept_all_revisions méthode
+title: méthode accept_all_revisions
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
-##  accept_all_revisions() {#}
+##  accept_all_revisions(self) {#}
 Accepte toutes les modifications suivies dans le classeur.
 
 
 
 ```python
+
 def accept_all_revisions(self):
     ...
 ```
@@ -22,5 +23,5 @@ def accept_all_revisions(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

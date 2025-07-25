@@ -3,14 +3,14 @@ title: ChartPointCollection indexador
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 50
+weight: 40
 url: /es/aspose.cells.charts/chartpointcollection/__getitem__/
 is_root: false
 ---
 ##  ChartPointCollection indexador
 
-Obtiene el elemento [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado de la serie.
-###  indexador
+Obtiene el elemento [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint) en el índice especificado en la serie.
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
 | index | El índice del punto del gráfico en la serie.|
@@ -22,6 +22,6 @@ Obtiene el elemento [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartp
 El objeto ChartPoint.
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartPoint](/cells/python-net/es/aspose.cells.charts/chartpoint)
-* clase [ChartPointCollection](/cells/python-net/es/aspose.cells.charts/chartpointcollection)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartPoint`](/cells/python-net/es/aspose.cells.charts/chartpoint)
+* clase [`ChartPointCollection`](/cells/python-net/es/aspose.cells.charts/chartpointcollection)

@@ -1,23 +1,24 @@
 ---
-title: metodo sort
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo sort
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 40
+weight: 50
 url: /it/aspose.cells/datasorter/sort/
 is_root: false
 ---
-##  sort() {#}
+##  sort(self) {#}
 Ordina i dati nell'intervallo.
 
 
 ###  ritorna
 
 gli indici originali (posizione assoluta, ad esempio, la colonna A è 0, B è 1, ...) delle righe/colonne ordinate.
-Se nessuna riga/colonna deve essere spostata da questa operazione di ordinamento, verrà restituito null.
+Se questa operazione di ordinamento non richiede lo spostamento di alcuna riga/colonna, verrà restituito null.
 
 
 ```python
+
 def sort(self):
     ...
 ```
@@ -25,17 +26,18 @@ def sort(self):
 
 
 
-##  sort(cells, area) {#Cells-CellArea}
-Ordina i dati della zona.
+##  sort(self, cells, area) {#aspose.cells.Cells-aspose.cells.CellArea}
+Ordina i dati dell'area.
 
 
 ###  ritorna
 
 gli indici originali (posizione assoluta, ad esempio, la colonna A è 0, B è 1, ...) delle righe/colonne ordinate.
-Se nessuna riga/colonna deve essere spostata da questa operazione di ordinamento, verrà restituito null.
+Se questa operazione di ordinamento non richiede lo spostamento di alcuna riga/colonna, verrà restituito null.
 
 
 ```python
+
 def sort(self, cells, area):
     ...
 ```
@@ -43,21 +45,22 @@ def sort(self, cells, area):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/it/aspose.cells/cells) | Le celle contengono l'area dati.|
-| area | [CellArea](/cells/python-net/it/aspose.cells/cellarea) | L'area necessaria per ordinare|
+| cells | [`Cells`](/cells/python-net/it/aspose.cells/cells) | Le celle contengono l'area dati.|
+| area | [`CellArea`](/cells/python-net/it/aspose.cells/cellarea) | L'area necessaria per ordinare|
 
 
-##  sort(cells, start_row, start_column, end_row, end_column) {#Cells-int-int-int-int}
+##  sort(self, cells, start_row, start_column, end_row, end_column) {#aspose.cells.Cells-int-int-int-int}
 Ordina i dati dell'area.
 
 
 ###  ritorna
 
 gli indici originali (posizione assoluta, ad esempio, la colonna A è 0, B è 1, ...) delle righe/colonne ordinate.
-Se nessuna riga/colonna deve essere spostata da questa operazione di ordinamento, verrà restituito null.
+Se questa operazione di ordinamento non richiede lo spostamento di alcuna riga/colonna, verrà restituito null.
 
 
 ```python
+
 def sort(self, cells, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -65,14 +68,14 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| cells | [Cells](/cells/python-net/it/aspose.cells/cells) | Le celle contengono l'area dati.|
-| start_row | int | La riga iniziale dell'area.|
+| cells | [`Cells`](/cells/python-net/it/aspose.cells/cells) | Le celle contengono l'area dati.|
+| start_row | int | La fila iniziale dell'area.|
 | start_column | int | La colonna iniziale dell'area.|
-| end_row | int | L'ultima fila dell'area.|
+| end_row | int | La fila finale dell'area.|
 | end_column | int | La colonna finale dell'area.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DataSorter](/cells/python-net/it/aspose.cells/datasorter)
+* modulo [`aspose.cells`](../../)
+* classe [`DataSorter`](/cells/python-net/it/aspose.cells/datasorter)

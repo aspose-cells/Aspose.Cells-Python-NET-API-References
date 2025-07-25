@@ -3,7 +3,7 @@ title: is_hidden Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 600
 url: /de/aspose.cells.drawing/commentshape/is_hidden/
 is_root: false
 ---

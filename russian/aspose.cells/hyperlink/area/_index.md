@@ -1,6 +1,6 @@
 ---
 title: area недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellArea](/cells/python-net/ru/aspose.cells/cellarea)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells`](../../)
+* класс [`CellArea`](/cells/python-net/ru/aspose.cells/cellarea)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

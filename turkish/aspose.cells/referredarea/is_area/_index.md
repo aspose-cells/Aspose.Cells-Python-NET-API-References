@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_area mülk
 
-Bunun bir alan olup olmadığını gösterir.
+Bunun bir alan olup olmadığını belirtir.
 
 ###  Notlar
 
@@ -22,5 +22,5 @@ def is_area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

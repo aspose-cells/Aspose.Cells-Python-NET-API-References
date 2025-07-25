@@ -3,13 +3,13 @@ title: left Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 680
 url: /de/aspose.cells.drawing/smartartshape/left/
 is_root: false
 ---
 ##  left Eigentum
 
-Stellt den horizontalen Versatz der Form von ihrer Spalte left in der Einheit Pixel dar.
+Stellt den horizontalen Versatz der Form von ihrer Spalte left in Pixeln dar.
 
 ###  Beispiel
 

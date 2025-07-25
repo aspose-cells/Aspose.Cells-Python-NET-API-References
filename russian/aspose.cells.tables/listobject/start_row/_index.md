@@ -1,9 +1,9 @@
 ---
 title: start_row недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ru/aspose.cells.tables/listobject/start_row/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [ListObject](/cells/python-net/ru/aspose.cells.tables/listobject)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`ListObject`](/cells/python-net/ru/aspose.cells.tables/listobject)

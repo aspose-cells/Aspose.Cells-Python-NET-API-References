@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  check_excel_restriction fastighet
 
-Om kontrollera begränsning av excel-fil när användaren ändrar cellrelaterade objekt.
-Till exempel tillåter excel inte inmatning av strängvärden som är längre än 32K.
+Om begränsning av Excel-filen ska kontrolleras när användaren ändrar celler relaterade objekt.
+Till exempel tillåter inte Excel inmatning av strängvärden som är längre än 32K.
 När du matar in ett värde som är längre än 32K, till exempel Cell.PutValue(string), får du ett undantag om den här egenskapen är sann.
-Om den här egenskapen är falsk kommer vi att acceptera ditt inmatade strängvärde som cellens värde så att senare
-du kan mata ut hela strängvärdet för andra filformat som CSV.
-Men om du har angett en sådan typ av värde som är ogiltigt för Excel-filformat,
-du bör inte spara arbetsboken som Excel-filformat senare. Annars kan det uppstå ett oväntat fel för den genererade Excel-filen.
+Om den här egenskapen är falsk accepterar vi ditt inmatade strängvärde som cellens värde så att senare
+Du kan mata ut hela strängvärdet för andra filformat som CSV.
+Om du däremot har angett ett värde som är ogiltigt för Excel-filformatet,
+Du bör inte spara arbetsboken som Excel-filformat senare. Annars kan det uppstå ett oväntat fel för den genererade Excel-filen.
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def check_excel_restriction(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

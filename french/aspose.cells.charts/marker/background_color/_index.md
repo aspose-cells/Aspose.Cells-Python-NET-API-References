@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_color propriété
 
-Représente la couleur d'arrière-plan du marqueur dans un graphique en courbes, un graphique en nuage de points ou un graphique en radar.
+Représente la couleur d'arrière-plan du marqueur dans un graphique linéaire, un graphique en nuage de points ou un graphique radar.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def background_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Marker](/cells/python-net/fr/aspose.cells.charts/marker)
+* module [`aspose.cells.charts`](../../)
+* classe [`Marker`](/cells/python-net/fr/aspose.cells.charts/marker)

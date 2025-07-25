@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_error Eigentum
 
-Gibt an, ob die Datenvalidierungsfehlermeldung angezeigt wird, wenn der Benutzer ungültige Daten eingibt.
+Gibt an, ob die Fehlermeldung zur Datenüberprüfung angezeigt wird, wenn der Benutzer ungültige Daten eingibt.
 ###  Definition:
 ```python
 @property

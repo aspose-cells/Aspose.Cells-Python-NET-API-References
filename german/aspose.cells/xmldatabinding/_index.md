@@ -3,7 +3,7 @@ title: XmlDataBinding Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1750
+weight: 1650
 url: /de/aspose.cells/xmldatabinding/
 is_root: false
 ---

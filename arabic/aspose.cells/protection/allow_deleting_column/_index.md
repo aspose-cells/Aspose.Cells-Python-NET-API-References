@@ -1,5 +1,5 @@
 ---
-title: allow_deleting_column الملكية
+title: allow_deleting_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 60
 url: /ar/aspose.cells/protection/allow_deleting_column/
 is_root: false
 ---
-##  allow_deleting_column الملكية
+##  allow_deleting_column عقار
 
-يمثل حالة السماح بحذف الأعمدة في ورقة العمل المحمية.
+يمثل ما إذا كان يُسمح بحذف الأعمدة في ورقة عمل محمية.
 
 ###  ملاحظات
 
-يجب إلغاء قفل الأعمدة التي تحتوي على الخلايا المراد حذفها عندما تكون الورقة محمية ،
-ويجب تمكين خيار "تحديد الخلايا غير المؤمنة".
+يجب إلغاء قفل الأعمدة التي تحتوي على الخلايا المراد حذفها عند حماية الورقة،
+ويجب تفعيل خيار "تحديد الخلايا غير المؤمنة".
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_column(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

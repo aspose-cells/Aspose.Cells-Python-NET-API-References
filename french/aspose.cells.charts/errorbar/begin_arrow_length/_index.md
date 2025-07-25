@@ -21,6 +21,6 @@ def begin_arrow_length(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ErrorBar](/cells/python-net/fr/aspose.cells.charts/errorbar)
-* classe [MsoArrowheadLength](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadlength)
+* module [`aspose.cells.charts`](../../)
+* classe [`ErrorBar`](/cells/python-net/fr/aspose.cells.charts/errorbar)
+* classe [`MsoArrowheadLength`](/cells/python-net/fr/aspose.cells.drawing/msoarrowheadlength)

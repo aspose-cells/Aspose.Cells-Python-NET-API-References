@@ -1,15 +1,15 @@
 ---
-title: inner_arc_start_point_y_px 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: inner_arc_start_point_y_px属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 260
 url: /zh/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px/
 is_root: false
 ---
-## inner_arc_start_point_y_px 属性
+## inner_arc_start_point_y_px属性
 
-在调用 Chart.Calculate() 方法后获取饼图部分起点的 y 坐标。
+调用 Chart.Calculate() 方法后获取饼图部分起点的 y 坐标。
 适用于圆环图。
 ### 定义：
 ```python
@@ -19,5 +19,5 @@ def inner_arc_start_point_y_px(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

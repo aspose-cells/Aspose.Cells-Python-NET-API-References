@@ -3,7 +3,7 @@ title: range_count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 190
 url: /tr/aspose.cells/unionrange/range_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def range_count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

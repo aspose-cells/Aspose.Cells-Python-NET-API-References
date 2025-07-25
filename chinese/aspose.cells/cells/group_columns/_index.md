@@ -3,16 +3,17 @@ title: group_columns方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 570
 url: /zh/aspose.cells/cells/group_columns/
 is_root: false
 ---
-##  group_columns {#int-int}
+##  group_columns(self, first_index, last_index) {#int-int}
 对列进行分组。
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index):
     ...
 ```
@@ -24,12 +25,13 @@ def group_columns(self, first_index, last_index):
 | last_index | int |要分组的最后一个列索引。|
 
 
-##  group_columns {#int-int-bool}
+##  group_columns(self, first_index, last_index, is_hidden) {#int-int-bool}
 对列进行分组。
 
 
 
 ```python
+
 def group_columns(self, first_index, last_index, is_hidden):
     ...
 ```

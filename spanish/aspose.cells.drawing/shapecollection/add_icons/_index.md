@@ -3,12 +3,12 @@ title: método add_icons
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 140
 url: /es/aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
-##  add_icons {#int-int-int-int-int-int-bytes-bytes}
-Agrega una imagen svg.
+##  add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+Agrega imagen SVG.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Agrega una imagen svg.
 
 
 ```python
+
 def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
@@ -25,13 +26,13 @@ def add_icons(self, upper_left_row, top, upper_left_column, left, height, width,
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | upper_left_row | int | Índice de la fila superior izquierda.|
-| top | int | Representa el desplazamiento vertical de la forma desde su fila izquierda, en unidades de píxel.|
+| top | int | Representa el desplazamiento vertical de la forma desde su fila izquierda, en unidades de píxeles.|
 | upper_left_column | int | Índice de la columna superior izquierda.|
-| left | int | El desplazamiento horizontal de la forma desde su columna izquierda, en unidades de píxel.|
-| height | int | La altura de la forma, en unidades de píxel.|
-| width | int | El ancho de la forma, en unidades de píxel.|
-| image_byte_data | bytes | Los datos de bytes de la imagen.|
-| compatible_image_data | bytes | Datos de imagen convertidos de svg para que sean compatibles con Excel 2016 o versiones inferiores.|
+| left | int | El desplazamiento horizontal de la forma desde su columna izquierda, en unidades de píxeles.|
+| height | int | La altura de la forma, en unidades de píxeles.|
+| width | int | El ancho de la forma, en unidades de píxeles.|
+| image_byte_data | bytes | Los datos en bytes de la imagen.|
+| compatible_image_data | bytes | Se convirtieron los datos de imagen de SVG para que sean compatibles con Excel 2016 o versiones anteriores.|
 
 ###  Ejemplo
 

@@ -1,15 +1,15 @@
 ---
-title: is_xml الملكية
+title: is_xml عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 260
 url: /ar/aspose.cells.externalconnections/webqueryconnection/is_xml/
 is_root: false
 ---
-##  is_xml الملكية
+##  is_xml عقار
 
-صواب إذا كان مصدر استعلام الويب هو XML (مقابل HTML) ، وإلا فهو خطأ.
+صحيح إذا كان مصدر استعلام الويب هو XML (مقابل HTML)، وإلا فهو خطأ.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_xml(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/
 is_root: false
 ---
-##  DigitalSignatureCollection() {#}
+##  \_\_init\_\_(kendi){#}
 DigitalSignatureCollection'in kurucusu.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.digitalsignatures](../../)
-* sınıf [DigitalSignatureCollection](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* modül [`aspose.cells.digitalsignatures`](../../)
+* sınıf [`DigitalSignatureCollection`](/cells/python-net/tr/aspose.cells.digitalsignatures/digitalsignaturecollection)

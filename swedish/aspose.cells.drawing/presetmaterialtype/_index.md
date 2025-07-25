@@ -3,12 +3,12 @@ title: PresetMaterialType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1070
+weight: 1060
 url: /sv/aspose.cells.drawing/presetmaterialtype/
 is_root: false
 ---
 ##  PresetMaterialType uppräkning
-Beskriver utseendet på en form.
+Beskriver ytans utseende på en form.
 
 
 
@@ -17,14 +17,14 @@ Typen PresetMaterialType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| CLEAR | Klar|
+| CLEAR | Rensa|
 | DARK_EDGE | Mörk kant|
 | FLAT | Platt|
-| LEGACY_MATTE | Legacy matt|
+| LEGACY_MATTE | Äldre matt|
 | LEGACY_METAL | Äldre metall|
 | LEGACY_PLASTIC | Äldre plast|
-| LEGACY_WIREFRAME | Äldre trådram|
-| MATTE | Matte|
+| LEGACY_WIREFRAME |Äldre trådram|
+| MATTE | Matt|
 | METAL | Metall|
 | PLASTIC | Plast|
 | POWDER | Pulver|
@@ -36,4 +36,4 @@ Typen PresetMaterialType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

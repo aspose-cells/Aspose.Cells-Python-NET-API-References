@@ -1,6 +1,6 @@
 ---
 title: last_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  last_row proprietà
 
-Ottiene e imposta l'ultimo indice di riga della tabella.
+Ottiene e imposta l'indice dell'ultima riga della tabella.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def last_row(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](../../)
-* classe [TableToRangeOptions](/cells/python-net/it/aspose.cells.tables/tabletorangeoptions)
+* modulo [`aspose.cells.tables`](../../)
+* classe [`TableToRangeOptions`](/cells/python-net/it/aspose.cells.tables/tabletorangeoptions)

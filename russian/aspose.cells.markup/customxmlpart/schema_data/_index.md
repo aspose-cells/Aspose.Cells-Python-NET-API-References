@@ -1,6 +1,6 @@
 ---
 title: schema_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  schema_data недвижимость
 
-Получает или задает XML-содержимое этой части хранилища данных пользовательской схемы XML.
+Возвращает или задает XML-содержимое этой пользовательской части хранилища данных XML-схемы.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def schema_data(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](../../)
-* класс [CustomXmlPart](/cells/python-net/ru/aspose.cells.markup/customxmlpart)
+* модуль [`aspose.cells.markup`](../../)
+* класс [`CustomXmlPart`](/cells/python-net/ru/aspose.cells.markup/customxmlpart)

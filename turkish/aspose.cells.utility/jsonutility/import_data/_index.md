@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells.utility/jsonutility/import_data/
 is_root: false
 ---
-##  import_data(json, cells, row, column, option) {#str-Cells-int-int-JsonLayoutOptions}
-json dizesini içe aktarın.
+##  import_data(, json, hücreler, satır, sütun, seçenek){#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
+Json dizesini içe aktarın.
 
 
 ###  İadeler
@@ -17,21 +17,23 @@ json dizesini içe aktarın.
 
 
 ```python
-def import_data(self, json, cells, row, column, option):
+
+@staticmethod
+def import_data(json, cells, row, column, option):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| json | str | json dizisi.|
-| cells | [Cells](/cells/python-net/tr/aspose.cells/cells) | Cells.|
+| json | str | Json dizisi.|
+| cells | [`Cells`](/cells/python-net/tr/aspose.cells/cells) | Cells.|
 | row | int | Satır dizini.|
 | column | int | Sütun dizini.|
-| option | [JsonLayoutOptions](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions) | Json dizesini içe aktarma seçenekleri.|
+| option | [`JsonLayoutOptions`](/cells/python-net/tr/aspose.cells.utility/jsonlayoutoptions) | Json string'i içe aktarma seçenekleri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.utility](../../)
-* sınıf [JsonUtility](/cells/python-net/tr/aspose.cells.utility/jsonutility)
+* modül [`aspose.cells.utility`](../../)
+* sınıf [`JsonUtility`](/cells/python-net/tr/aspose.cells.utility/jsonutility)

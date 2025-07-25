@@ -1,18 +1,19 @@
 ---
 title: set_license метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/license/set_license/
 is_root: false
 ---
-##  set_license(license_name) {#str}
+##  set_license(self, license_name) {#str}
 Лицензирует компонент.
 
 
 
 ```python
+
 def set_license(self, license_name):
     ...
 ```
@@ -35,24 +36,24 @@ def set_license(self, license_name):
 3. Папка, содержащая вызывающую сборку клиента.
 
 
-4. Папка, содержащая входную (загрузочную) сборку.
+4. Папка, содержащая начальную (стартовую) сборку.
 
 
-5. Встроенный ресурс в вызывающей сборке клиента.
+5. Встроенный ресурс в вызывающую сборку клиента.
 
 
-**Примечание:** В Compact Framework .NET пытается найти лицензию только в следующих местах:
+**Примечание:**На Compact Framework .NET пытается найти лицензию только в этих местах:
 
 
 1. Явный путь.
 
 
-2. Встроенный ресурс в вызывающей сборке клиента.
+2. Встроенный ресурс в вызывающую сборку клиента.
 ###  Пример
 
 
 В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic.
- в папке, содержащей
+ в папке, которая содержит
 
 
 компонент в папке, содержащей вызывающую сборку,
@@ -65,16 +66,17 @@ license = License()
 license.set_license("MyLicense.lic")
 
 ```
-Может быть полным или кратким именем файла или именем внедренного ресурса.
-Используйте пустую строку для переключения в режим оценки.
+Может быть полным или коротким именем файла или именем встроенного ресурса.
+Для переключения в режим оценки используйте пустую строку.
 
 
-##  set_license(stream) {#io.RawIOBase}
+##  set_license(self, stream) {#io.RawIOBase}
 Лицензирует компонент.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```
@@ -82,7 +84,7 @@ def set_license(self, stream):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| stream | io.RawIOBase | Поток, содержащий лицензию.|
+| stream | io.RawIOBase |Поток, содержащий лицензию.|
 ###  Примечания
 
 Используйте этот метод для загрузки лицензии из потока.
@@ -100,5 +102,5 @@ license.set_license(myStream)
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [License](/cells/python-net/ru/aspose.cells/license)
+* модуль [`aspose.cells`](../../)
+* класс [`License`](/cells/python-net/ru/aspose.cells/license)

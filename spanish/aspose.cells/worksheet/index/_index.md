@@ -3,13 +3,13 @@ title: index propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 580
 url: /es/aspose.cells/worksheet/index/
 is_root: false
 ---
 ##  index propiedad
 
-Obtiene el index de la hoja de la colección de hojas de trabajo.
+Obtiene la hoja index en la colección de hojas de trabajo.
 ###  Definición:
 ```python
 @property

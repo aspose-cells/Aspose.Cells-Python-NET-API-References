@@ -3,13 +3,13 @@ title: TextParagraphCollection indexeur
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 30
+weight: 20
 url: /fr/aspose.cells.drawing.texts/textparagraphcollection/__getitem__/
 is_root: false
 ---
 ##  TextParagraphCollection indexeur
 
-Obtient l'objet [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph) à un index spécifique.
+Obtient l'objet [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph) à un index spécifique.
 ###  Indexeur
 | Nom| Description|
 | :- | :- |
@@ -22,6 +22,6 @@ Obtient l'objet [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/
 
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
-* classe [TextParagraphCollection](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraphcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* classe [`TextParagraphCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraphcollection)

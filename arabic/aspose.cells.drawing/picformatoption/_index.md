@@ -1,36 +1,36 @@
 ---
-title: PicFormatOption الدرجة
+title: PicFormatOption صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 440
+weight: 420
 url: /ar/aspose.cells.drawing/picformatoption/
 is_root: false
 ---
-##  PicFormatOption الدرجة
+##  PicFormatOption صف
 يمثل خيار تنسيق الصورة
 
 
 
-يكشف نوع PicFormatOption الأعضاء التالية:
+يكشف النوع PicFormatOption عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [PicFormatOption()](/cells/python-net/ar/aspose.cells.drawing/picformatoption/__init__/#) | إنشاء مثيل جديد من PicFormatOption|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.drawing/picformatoption/__init__/#) | إنشاء مثيل جديد لـ PicFormatOption|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [type](/cells/python-net/ar/aspose.cells.drawing/picformatoption/type) | الحصول على نوع تعبئة الصورة أو تعيينه.|
-| [scale](/cells/python-net/ar/aspose.cells.drawing/picformatoption/scale) | الحصول على أو تحديد عدد مكدس الصورة وقياسها.|
-| [left](/cells/python-net/ar/aspose.cells.drawing/picformatoption/left) | الحصول على أو تعيين الإزاحة اليسرى لتمديد الصورة.|
-| [top](/cells/python-net/ar/aspose.cells.drawing/picformatoption/top) | الحصول على أو تحديد الإزاحة العلوية لتمديد الصورة.|
-| [bottom](/cells/python-net/ar/aspose.cells.drawing/picformatoption/bottom) | الحصول على أو تحديد الإزاحة السفلية لتمديد الصورة.|
-| [right](/cells/python-net/ar/aspose.cells.drawing/picformatoption/right) | الحصول على أو تحديد الإزاحة الصحيحة لتمديد الصورة.|
+| [type](/cells/python-net/ar/aspose.cells.drawing/picformatoption/type) |يحصل على نوع تعبئة الصورة أو يعينه.|
+| [scale](/cells/python-net/ar/aspose.cells.drawing/picformatoption/scale) | يحصل على أو يعين عدد الصور المكدسة والمقياس بها.|
+| [left](/cells/python-net/ar/aspose.cells.drawing/picformatoption/left) | يحصل على أو يضبط الإزاحة اليسرى لتمديد الصورة.|
+| [top](/cells/python-net/ar/aspose.cells.drawing/picformatoption/top) | يحصل على أو يضبط الإزاحة العلوية لتمديد الصورة.|
+| [bottom](/cells/python-net/ar/aspose.cells.drawing/picformatoption/bottom) | يحصل على أو يضبط الإزاحة السفلية لتمديد الصورة.|
+| [right](/cells/python-net/ar/aspose.cells.drawing/picformatoption/right) | يحصل على أو يضبط الإزاحة الصحيحة لتمديد الصورة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

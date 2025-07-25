@@ -7,11 +7,11 @@ weight: 10
 url: /tr/aspose.cells.settings/
 is_root: false
 ---
- bu**Aspose.Cells.Settings** ad alanı, farklı özellikler için ayarları tanımlayan sınıflar içerir.
+**Aspose.Cells.Settings** namespace, farklı özellikler için ayarları tanımlayan sınıfları içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [PivotGlobalizationSettings](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings) | Pivot tablolar için genelleştirme ayarlarını temsil eder.|
+| [`PivotGlobalizationSettings`](/cells/python-net/tr/aspose.cells.settings/pivotglobalizationsettings) | Pivot tablolar için küreselleştirme ayarlarını temsil eder.|
 
 

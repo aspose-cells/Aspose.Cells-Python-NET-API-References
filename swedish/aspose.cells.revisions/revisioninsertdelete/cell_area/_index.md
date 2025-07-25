@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area fastighet
 
-Hämtar insättnings-/raderingsintervallet.
+Hämtar infognings-/borttagningsintervallet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [CellArea](/cells/python-net/sv/aspose.cells/cellarea)
-* klass [RevisionInsertDelete](/cells/python-net/sv/aspose.cells.revisions/revisioninsertdelete)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`CellArea`](/cells/python-net/sv/aspose.cells/cellarea)
+* klass [`RevisionInsertDelete`](/cells/python-net/sv/aspose.cells.revisions/revisioninsertdelete)

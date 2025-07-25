@@ -1,16 +1,16 @@
 ---
 title: recursive недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 80
 url: /ru/aspose.cells/calculationoptions/recursive/
 is_root: false
 ---
 ##  recursive недвижимость
 
-Указывает, нужно ли вычислять зависимые ячейки рекурсивно при вычислении одной ячейки и зависимости от других ячеек.
-Значение по умолчанию верно.
+Указывает, следует ли рекурсивно вычислять зависимые ячейки, если вычисление одной ячейки зависит от других ячеек.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

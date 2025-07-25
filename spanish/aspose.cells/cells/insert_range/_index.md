@@ -3,16 +3,17 @@ title: método insert_range
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 700
+weight: 720
 url: /es/aspose.cells/cells/insert_range/
 is_root: false
 ---
-##  insert_range {#aspose.cells.CellArea-aspose.cells.ShiftType}
-Inserta un rango de celdas y desplaza celdas según la opción de desplazamiento.
+##  insert_range(self, area, shift_type) {#aspose.cells.CellArea-aspose.cells.ShiftType}
+Inserta un rango de celdas y desplaza las celdas según la opción de desplazamiento.
 
 
 
 ```python
+
 def insert_range(self, area, shift_type):
     ...
 ```
@@ -20,16 +21,17 @@ def insert_range(self, area, shift_type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Zona de turnos.|
-| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) | Opción de desplazamiento de celdas.|
+| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Área de turnos.|
+| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) |Opción desplazar celdas.|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
-Inserta un rango de celdas y desplaza celdas según la opción de desplazamiento.
+##  insert_range(self, area, shift_number, shift_type) {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
+Inserta un rango de celdas y desplaza las celdas según la opción de desplazamiento.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type):
     ...
 ```
@@ -37,17 +39,18 @@ def insert_range(self, area, shift_number, shift_type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Zona de turnos.|
-| shift_number | int | Número de filas o columnas a insertar.|
-| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) | Opción de desplazamiento de celdas.|
+| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Área de turnos.|
+| shift_number | int |Número de filas o columnas a insertar.|
+| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) |Opción desplazar celdas.|
 
 
-##  insert_range {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
-Inserta un rango de celdas y desplaza celdas según la opción de desplazamiento.
+##  insert_range(self, area, shift_number, shift_type, update_reference) {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
+Inserta un rango de celdas y desplaza las celdas según la opción de desplazamiento.
 
 
 
 ```python
+
 def insert_range(self, area, shift_number, shift_type, update_reference):
     ...
 ```
@@ -55,10 +58,10 @@ def insert_range(self, area, shift_number, shift_type, update_reference):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Zona de turnos.|
-| shift_number | int | Número de filas o columnas a insertar.|
-| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) | Opción de desplazamiento de celdas.|
-| update_reference | bool | Indica si se actualizan las referencias en otras hojas de trabajo.|
+| area | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) | Área de turnos.|
+| shift_number | int |Número de filas o columnas a insertar.|
+| shift_type | [`ShiftType`](/cells/python-net/es/aspose.cells/shifttype) |Opción desplazar celdas.|
+| update_reference | bool | Indica si se deben actualizar referencias en otras hojas de trabajo.|
 
 
 

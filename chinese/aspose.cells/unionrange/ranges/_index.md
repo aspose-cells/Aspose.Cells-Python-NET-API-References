@@ -1,13 +1,13 @@
 ---
-title: ranges 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: ranges属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 200
 url: /zh/aspose.cells/unionrange/ranges/
 is_root: false
 ---
-## ranges 属性
+## ranges属性
 
 获取所有联合 ranges。
 ### 定义：
@@ -18,5 +18,5 @@ def ranges(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [UnionRange](/cells/python-net/zh/aspose.cells/unionrange)
+* 模块[`aspose.cells`](../../)
+* 类 [`UnionRange`](/cells/python-net/zh/aspose.cells/unionrange)

@@ -3,7 +3,7 @@ title: list_objects mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 640
+weight: 670
 url: /tr/aspose.cells/worksheet/list_objects/
 is_root: false
 ---

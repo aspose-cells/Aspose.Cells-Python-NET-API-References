@@ -1,9 +1,9 @@
 ---
 title: sign_time недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ru/aspose.cells.digitalsignatures/digitalsignature/sign_time/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def sign_time(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.digitalsignatures](../../)
-* класс [DigitalSignature](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature)
+* модуль [`aspose.cells.digitalsignatures`](../../)
+* класс [`DigitalSignature`](/cells/python-net/ru/aspose.cells.digitalsignatures/digitalsignature)

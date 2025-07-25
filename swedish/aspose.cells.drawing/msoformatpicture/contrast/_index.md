@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  contrast fastighet
 
-Representerar contrast-ändringen för bilden.i procentenhet.
+Representerar modifieringen contrast för procentenheten picture.in.
 
 ###  Anmärkningar
 
-Det är mellan -100% och 100%. Det fungerar på samma sätt som Excel 2007 eller senare version.
+Det ligger mellan -100 % och 100 %. Det fungerar på samma sätt som Excel 2007 eller senare versioner.
 ###  Definition:
 ```python
 @property

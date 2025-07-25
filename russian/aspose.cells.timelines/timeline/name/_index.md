@@ -1,6 +1,6 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name недвижимость
 
-Возвращает или задает name указанной временной шкалы.
+Возвращает или задает значение name указанной временной шкалы.
 
 ###  Пример
 
@@ -30,5 +30,5 @@ def name(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.timelines](../../)
-* класс [Timeline](/cells/python-net/ru/aspose.cells.timelines/timeline)
+* модуль [`aspose.cells.timelines`](../../)
+* класс [`Timeline`](/cells/python-net/ru/aspose.cells.timelines/timeline)

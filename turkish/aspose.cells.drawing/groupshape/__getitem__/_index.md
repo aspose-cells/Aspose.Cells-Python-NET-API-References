@@ -3,23 +3,23 @@ title: GroupShape indeksleyici
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 280
 url: /tr/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
 ##  GroupShape indeksleyici
 
 Çocuk şeklini indekse göre alır.
-###  Dizin oluşturucu
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| index | çocuk şekli indeksi.|
+| index | çocuk şekil indeksi.|
 
 
 
 ###  İadeler
 
-çocuk şeklini döndürün.
+çocuk şeklini döndür.
 
 ###  Ayrıca bakınız
 * modül [`aspose.cells.drawing`](../../)

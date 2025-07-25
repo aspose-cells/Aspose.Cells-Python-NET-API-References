@@ -1,6 +1,6 @@
 ---
 title: id недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id недвижимость
 
-Получает и задает идентификатор, связанный с надстройкой Office в поставщике каталога.
+Возвращает и задает идентификатор, связанный с надстройкой Office в поставщике каталога.
 Идентификатор ДОЛЖЕН быть уникальным в пределах поставщика каталога.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def id(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.webextensions](../../)
-* класс [WebExtensionReference](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)
+* модуль [`aspose.cells.webextensions`](../../)
+* класс [`WebExtensionReference`](/cells/python-net/ru/aspose.cells.webextensions/webextensionreference)

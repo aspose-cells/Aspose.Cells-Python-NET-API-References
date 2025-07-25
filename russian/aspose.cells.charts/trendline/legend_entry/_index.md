@@ -1,6 +1,6 @@
 ---
 title: legend_entry недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 260
@@ -18,6 +18,6 @@ def legend_entry(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [LegendEntry](/cells/python-net/ru/aspose.cells.charts/legendentry)
-* класс [Trendline](/cells/python-net/ru/aspose.cells.charts/trendline)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`LegendEntry`](/cells/python-net/ru/aspose.cells.charts/legendentry)
+* класс [`Trendline`](/cells/python-net/ru/aspose.cells.charts/trendline)

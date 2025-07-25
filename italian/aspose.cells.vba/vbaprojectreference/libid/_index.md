@@ -1,6 +1,6 @@
 ---
 title: libid proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  libid proprietà
 
-Ottiene e imposta la Libid del riferimento.
+Ottiene e imposta il Libid del riferimento.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def libid(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)

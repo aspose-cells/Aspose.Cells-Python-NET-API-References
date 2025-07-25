@@ -1,15 +1,15 @@
 ---
 title: chart недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.drawing/chartshape/chart/
 is_root: false
 ---
 ##  chart недвижимость
 
-Возвращает объект Chart, представляющий chart, содержащийся в объекте.
+Возвращает объект Chart, представляющий число chart, содержащееся в объекте.
 ###  Определение:
 ```python
 @property

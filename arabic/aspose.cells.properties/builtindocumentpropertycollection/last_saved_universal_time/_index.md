@@ -1,19 +1,19 @@
 ---
-title: last_saved_universal_time الملكية
+title: last_saved_universal_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/last_saved_universal_time/
 is_root: false
 ---
-##  last_saved_universal_time الملكية
+##  last_saved_universal_time عقار
 
-الحصول على أو تحديد الوقت العالمي لآخر عملية حفظ.
+يحصل على الوقت العالمي للحفظ الأخير أو يضبطه.
 
 ###  ملاحظات
 
-Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل الوثيقة.
+Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل المستند.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def last_saved_universal_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

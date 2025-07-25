@@ -1,15 +1,15 @@
 ---
 title: password недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 320
 url: /ru/aspose.cells/txtloadoptions/password/
 is_root: false
 ---
 ##  password недвижимость
 
-Получает и устанавливает номер password книги.
+Получает и задает значение password рабочей книги.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
-title: show_mean_marker الملكية
+title: show_mean_marker عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ar/aspose.cells.charts/serieslayoutproperties/show_mean_marker/
 is_root: false
 ---
-##  show_mean_marker الملكية
+##  show_mean_marker عقار
 
-يشير إلى ما إذا كان يتم عرض علامات تدل على المتوسط.
+يشير إلى ما إذا كان يتم عرض علامات تشير إلى المتوسط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_mean_marker(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

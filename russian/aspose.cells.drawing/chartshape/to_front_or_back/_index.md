@@ -1,18 +1,19 @@
 ---
 title: to_front_or_back метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ru/aspose.cells.drawing/chartshape/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
-Перемещает фигуру на передний план или отодвигает ее назад.
+##  to_front_or_back(self, orders) {#int}
+Выводит фигуру на передний план или отодвигает её на задний план.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```
@@ -20,7 +21,7 @@ def to_front_or_back(self, orders):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| orders | int | Если оно меньше нуля, возвращает форму назад.<br/> Если оно больше нуля, фигура перемещается на передний план.|
+| orders | int | Если меньше нуля, возвращает форму на задний план.<br/> Если больше нуля, то фигура выводится на передний план.|
 
 ###  Пример
 

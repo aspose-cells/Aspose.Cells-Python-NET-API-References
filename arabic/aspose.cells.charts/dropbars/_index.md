@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/dropbars/
 is_root: false
 ---
 ##  DropBars صف
-يمثل الأشرطة لأعلى/لأسفل في الرسم البياني.
+يمثل الأشرطة العلوية/السفلى في الرسم البياني.
 
 
 

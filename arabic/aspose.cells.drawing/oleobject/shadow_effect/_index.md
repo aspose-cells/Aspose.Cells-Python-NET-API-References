@@ -3,13 +3,13 @@ title: shadow_effect عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /ar/aspose.cells.drawing/oleobject/shadow_effect/
 is_root: false
 ---
 ##  shadow_effect عقار
 
-يمثل كائن [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect) الذي يحدد تأثير الظل لعنصر المخطط أو شكله.
+يمثل كائن [`ShadowEffect`](/cells/python-net/ar/aspose.cells.drawing/shadoweffect) الذي يحدد تأثير الظل لعناصر الرسم البياني أو الشكل.
 
 ###  مثال
 

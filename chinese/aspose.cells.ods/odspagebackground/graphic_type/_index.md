@@ -1,15 +1,15 @@
 ---
-title: graphic_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: graphic_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 60
 url: /zh/aspose.cells.ods/odspagebackground/graphic_type/
 is_root: false
 ---
-## graphic_type 属性
+## graphic_type属性
 
-获取和设置页面背景图形类型。
+获取并设置页面背景图形类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def graphic_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.ods](../../)
-* 类 [OdsPageBackground](/cells/python-net/zh/aspose.cells.ods/odspagebackground)
-* 类 [OdsPageBackgroundGraphicType](/cells/python-net/zh/aspose.cells.ods/odspagebackgroundgraphictype)
+* 模块[`aspose.cells.ods`](../../)
+* 类 [`OdsPageBackground`](/cells/python-net/zh/aspose.cells.ods/odspagebackground)
+* 类 [`OdsPageBackgroundGraphicType`](/cells/python-net/zh/aspose.cells.ods/odspagebackgroundgraphictype)

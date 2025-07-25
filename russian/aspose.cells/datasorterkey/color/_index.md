@@ -1,6 +1,6 @@
 ---
 title: color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  color недвижимость
 
-Получает отсортированное число color.
+Получает отсортированный color.
 
 ###  Примечания
 
-Воздействует только в том случае, если [SortOnType](/cells/python-net/ru/aspose.cells/sortontype) имеет значение SortOnType.CellColor или SortOnType.FontColor.
+Действует только в том случае, если [`DataSorterKey.type`](/cells/python-net/ru/aspose.cells/datasorterkey#type) — это [`SortOnType.CELL_COLOR`](/cells/python-net/ru/aspose.cells/sortontype#CELL_COLOR) или [`SortOnType.FONT_COLOR`](/cells/python-net/ru/aspose.cells/sortontype#FONT_COLOR).
 ###  Определение:
 ```python
 @property
@@ -22,6 +22,5 @@ def color(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [DataSorterKey](/cells/python-net/ru/aspose.cells/datasorterkey)
-* класс [SortOnType](/cells/python-net/ru/aspose.cells/sortontype)
+* модуль [`aspose.cells`](../../)
+* класс [`DataSorterKey`](/cells/python-net/ru/aspose.cells/datasorterkey)

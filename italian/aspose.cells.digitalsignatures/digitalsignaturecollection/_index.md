@@ -1,29 +1,29 @@
 ---
-title: classe DigitalSignatureCollection
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: DigitalSignatureCollection classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.digitalsignatures/digitalsignaturecollection/
 is_root: false
 ---
-##  classe DigitalSignatureCollection
+##  DigitalSignatureCollection classe
 Fornisce una raccolta di firme digitali allegate a un documento.
 
 
 
-Il tipo DigitalSignatureCollection espone i membri seguenti:
+Il tipo DigitalSignatureCollection espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [DigitalSignatureCollection()](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) |Il costruttore di DigitalSignatureCollection.|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection/__init__/#) | Il costruttore di DigitalSignatureCollection.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [add(digital_signature)](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#DigitalSignature) | Aggiungi una firma a DigitalSignatureCollection.|
+| [`add(self, digital_signature)`](/cells/python-net/it/aspose.cells.digitalsignatures/digitalsignaturecollection/add/#aspose.cells.digitalsignatures.digitalsignature) | Aggiungi una firma a DigitalSignatureCollection.|
 
 
 
@@ -48,4 +48,4 @@ for existingDs in existingDsc:
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.digitalsignatures](..)
+* modulo [`aspose.cells.digitalsignatures`](..)

@@ -1,15 +1,15 @@
 ---
 title: is_exp_image_to_temp_dir недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 480
+weight: 560
 url: /ru/aspose.cells.saving/ebooksaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---
 ##  is_exp_image_to_temp_dir недвижимость
 
-Указывает, экспортируются ли файлы изображений во временный каталог.
+Указывает, следует ли экспортировать файлы изображений во временный каталог.
 Только для сохранения в html-поток.
 ###  Определение:
 ```python

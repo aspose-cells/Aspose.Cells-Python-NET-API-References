@@ -21,5 +21,5 @@ def scale_x(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [TilePicOption](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`TilePicOption`](/cells/python-net/tr/aspose.cells.drawing/tilepicoption)

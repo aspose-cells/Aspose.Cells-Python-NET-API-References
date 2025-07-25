@@ -3,7 +3,7 @@ title: PivotFieldCollection indexerare
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 70
 url: /sv/aspose.cells.pivot/pivotfieldcollection/__getitem__/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 Hämtar PivotField-objektet vid det specifika indexet.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
 | index |  |
 

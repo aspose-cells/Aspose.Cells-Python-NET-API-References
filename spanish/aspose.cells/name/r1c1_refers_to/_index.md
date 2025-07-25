@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  r1c1_refers_to propiedad
 
-Obtiene o establece una referencia R1C1 de [Name](/cells/python-net/es/aspose.cells/name).
+Obtiene o establece una referencia R1C1 de [`Name`](/cells/python-net/es/aspose.cells/name).
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def r1c1_refers_to(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

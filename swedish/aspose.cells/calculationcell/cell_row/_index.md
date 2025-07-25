@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_row fastighet
 
-Hämtar radindex för cellen.
+Hämtar cellens radindex.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def cell_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationCell](/cells/python-net/sv/aspose.cells/calculationcell)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationCell`](/cells/python-net/sv/aspose.cells/calculationcell)

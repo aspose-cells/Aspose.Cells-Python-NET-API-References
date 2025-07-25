@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fill_type fastighet
 
-Hämtar och ställer in fyllningstyp
+Hämtar och anger fyllningstyp
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def fill_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [FillType](/cells/python-net/sv/aspose.cells.drawing/filltype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`FillType`](/cells/python-net/sv/aspose.cells.drawing/filltype)

@@ -3,17 +3,17 @@ title: max_display_range Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1110
+weight: 1140
 url: /de/aspose.cells/cells/max_display_range/
 is_root: false
 ---
 ##  max_display_range Eigentum
 
-Ruft den maximalen Bereich ab, der Daten, verbundene Zellen und Formen umfasst.
+Ruft den maximalen Bereich ab, der Daten, zusammengeführte Zellen und Formen umfasst.
 
 ###  Bemerkungen
 
-Gibt null zurück, wenn das Arbeitsblatt seit Aspose.Cells 21.5.2 leer ist.
+Gibt null zurück, wenn das Arbeitsblatt leer ist, seit Aspose.Cells 21.5.2.
 ###  Definition:
 ```python
 @property

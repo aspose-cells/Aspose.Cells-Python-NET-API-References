@@ -1,6 +1,6 @@
 ---
 title: tab_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_alignment proprietà
 
-Specifica l'allineamento da applicare al testo utilizzando questo punto di tabulazione.
+Specifica l'allineamento da applicare al testo utilizzando questa tabulazione.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def tab_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [TextTabAlignmentType](/cells/python-net/it/aspose.cells.drawing.texts/texttabalignmenttype)
-* classe [TextTabStop](/cells/python-net/it/aspose.cells.drawing.texts/texttabstop)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`TextTabAlignmentType`](/cells/python-net/it/aspose.cells.drawing.texts/texttabalignmenttype)
+* classe [`TextTabStop`](/cells/python-net/it/aspose.cells.drawing.texts/texttabstop)

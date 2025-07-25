@@ -1,6 +1,6 @@
 ---
 title: page_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [PageSavingArgs](/cells/python-net/it/aspose.cells.rendering/pagesavingargs)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`PageSavingArgs`](/cells/python-net/it/aspose.cells.rendering/pagesavingargs)

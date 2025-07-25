@@ -3,12 +3,12 @@ title: CellsFactory صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 200
 url: /ar/aspose.cells/cellsfactory/
 is_root: false
 ---
 ##  CellsFactory صف
-أداة مساعدة لإنشاء مثيل للفئات من طراز Cells.
+أداة لإنشاء فئات من النموذج Cells.
 
 
 
@@ -17,13 +17,13 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/cellsfactory/__init__/#) | إنشاء مثيل جديد لـ CellsFactory|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/cellsfactory/__init__/#) | إنشاء مثيل جديد لـ CellsFactory|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [create_style](/cells/python-net/ar/aspose.cells/cellsfactory/create_style/#) | يخلق نمطا جديدا.|
+| [`create_style(self)`](/cells/python-net/ar/aspose.cells/cellsfactory/create_style/#) | إنشاء نمط جديد.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  x propriété
 
-Obtient et définit la coordonnée x pour cette coordonnée de position.
+Obtient et définit les coordonnées x pour cette coordonnée de position.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def x(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePathPoint](/cells/python-net/fr/aspose.cells.drawing/shapepathpoint)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePathPoint`](/cells/python-net/fr/aspose.cells.drawing/shapepathpoint)

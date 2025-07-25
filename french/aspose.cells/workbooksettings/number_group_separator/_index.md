@@ -3,13 +3,13 @@ title: number_group_separator propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 380
 url: /fr/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator propriété
 
-Obtient ou définit le caractère qui sépare les groupes de chiffres à gauche de la virgule dans les valeurs numériques. La valeur par défaut est le séparateur de groupe de la région actuelle.
+Obtient ou définit le caractère séparant les groupes de chiffres à gauche de la décimale dans les valeurs numériques. La valeur par défaut est le séparateur de groupe de la région actuelle.
 ###  Définition:
 ```python
 @property

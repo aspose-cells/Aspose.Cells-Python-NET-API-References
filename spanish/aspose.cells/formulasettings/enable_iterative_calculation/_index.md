@@ -21,5 +21,5 @@ def enable_iterative_calculation(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormulaSettings](/cells/python-net/es/aspose.cells/formulasettings)
+* módulo [`aspose.cells`](../../)
+* clase [`FormulaSettings`](/cells/python-net/es/aspose.cells/formulasettings)

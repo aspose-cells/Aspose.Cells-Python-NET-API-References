@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  calculate_formula propiedad
 
-Indica si se deben calcular las fórmulas.
+Indica si se deben calcular fórmulas.
 ###  Definición:
 ```python
 @property

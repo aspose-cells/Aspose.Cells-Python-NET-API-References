@@ -7,8 +7,8 @@ weight: 20
 url: /tr/aspose.cells/threadedcommentcollection/add/
 is_root: false
 ---
-##  add(text, author) {#str-ThreadedCommentAuthor}
-Zincirleme bir yorum ekler;
+##  add(self, text, author) {#str-aspose.cells.ThreadedCommentAuthor}
+Konulu yorum ekler;
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Zincirleme bir yorum ekler;
 
 
 ```python
+
 def add(self, text, author):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, text, author):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| text | str | Zincirleme yorumun metni.|
-| author | [ThreadedCommentAuthor](/cells/python-net/tr/aspose.cells/threadedcommentauthor) | Zincirleme yorumun yazarı|
+| text | str | Yorum dizisinin metni.|
+| author | [`ThreadedCommentAuthor`](/cells/python-net/tr/aspose.cells/threadedcommentauthor) | Konulu yorumun yazarı|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ThreadedCommentCollection](/cells/python-net/tr/aspose.cells/threadedcommentcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ThreadedCommentCollection`](/cells/python-net/tr/aspose.cells/threadedcommentcollection)

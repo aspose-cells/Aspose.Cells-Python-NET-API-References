@@ -3,13 +3,13 @@ title: show_in_outline_form propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 680
 url: /es/aspose.cells.pivot/pivotfield/show_in_outline_form/
 is_root: false
 ---
 ##  show_in_outline_form propiedad
 
-Indica si se presenta este campo en forma de esquema en la vista de tabla dinámica.
+Indica si se debe diseñar este campo en forma de esquema en la vista de tabla dinámica
 ###  Definición:
 ```python
 @property

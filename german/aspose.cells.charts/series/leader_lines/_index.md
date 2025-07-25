@@ -10,7 +10,7 @@ is_root: false
 ##  leader_lines Eigentum
 
  Stellt Führungslinien in einem Diagramm dar. Führungslinien verbinden Datenbeschriftungen mit Datenpunkten.
-Dieses Objekt ist keine Sammlung; Es gibt kein Objekt, das eine einzelne Führungslinie darstellt.
+Dieses Objekt ist keine Sammlung; es gibt kein Objekt, das eine einzelne Führungslinie darstellt.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def leader_lines(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

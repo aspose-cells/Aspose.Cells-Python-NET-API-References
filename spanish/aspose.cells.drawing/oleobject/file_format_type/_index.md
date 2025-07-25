@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  file_format_type propiedad
 
-Obtiene y establece el tipo de archivo de los datos del objeto OLE incrustado.
+Obtiene y establece el tipo de archivo de los datos del objeto ole incrustado
 ###  Definición:
 ```python
 @property

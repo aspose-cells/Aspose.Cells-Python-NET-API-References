@@ -1,6 +1,6 @@
 ---
 title: all_columns_in_one_page_per_sheet недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  all_columns_in_one_page_per_sheet недвижимость
 
- Если AllColumnsInOnePagePerSheet имеет значение true , все содержимое столбцов одного листа будет выведено только на одну страницу в результате.
- Ширина размера бумаги в pagesetup будет недействительной, а другие настройки pagesetup
+ Если AllColumnsInOnePagePerSheet имеет значение true, все содержимое столбцов одного листа будет выведено только на одну страницу в результате.
+ Ширина размера бумаги в настройках страницы будет недействительной, а другие настройки настроек страницы
 все равно вступит в силу.
 ###  Определение:
 ```python
@@ -23,5 +23,5 @@ def all_columns_in_one_page_per_sheet(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.rendering](../../)
-* класс [ImageOrPrintOptions](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)
+* модуль [`aspose.cells.rendering`](../../)
+* класс [`ImageOrPrintOptions`](/cells/python-net/ru/aspose.cells.rendering/imageorprintoptions)

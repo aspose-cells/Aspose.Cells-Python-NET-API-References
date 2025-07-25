@@ -3,13 +3,13 @@ title: item_count fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 550
 url: /sv/aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---
 ##  item_count fastighet
 
-Hämtar basartikelantalet för detta pivotfält.
+Hämtar antalet basobjekt i detta pivotfält.
 ###  Definition:
 ```python
 @property

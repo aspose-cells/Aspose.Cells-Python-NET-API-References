@@ -1,9 +1,9 @@
 ---
 title: absolute_path proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 440
+weight: 460
 url: /it/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene e imposta il percorso assoluto del file.
 
 ###  Osservazioni
 
-Utilizzato solo per collegamenti esterni.
+Utilizzato solo per link esterni.
 ###  Definizione:
 ```python
 @property

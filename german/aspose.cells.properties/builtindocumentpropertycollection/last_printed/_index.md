@@ -3,13 +3,13 @@ title: last_printed Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 240
 url: /de/aspose.cells.properties/builtindocumentpropertycollection/last_printed/
 is_root: false
 ---
 ##  last_printed Eigentum
 
-Ruft das Datum ab, an dem das Dokument zuletzt in der lokalen Zeitzone gedruckt wurde, oder legt es fest.
+Ruft das Datum in der lokalen Zeitzone ab oder legt es fest, an dem das Dokument zuletzt gedruckt wurde.
 
 ###  Bemerkungen
 
@@ -28,5 +28,5 @@ def last_printed(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.properties](../../)
-* Klasse [BuiltInDocumentPropertyCollection](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)
+* Modul [`aspose.cells.properties`](../../)
+* Klasse [`BuiltInDocumentPropertyCollection`](/cells/python-net/de/aspose.cells.properties/builtindocumentpropertycollection)

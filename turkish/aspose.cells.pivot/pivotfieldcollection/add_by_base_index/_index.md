@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells.pivot/pivotfieldcollection/add_by_base_index/
 is_root: false
 ---
-##  add_by_base_index(base_field_index) {#int}
+##  add_by_base_index(self, base_field_index) {#int}
 Belirli PivotFields türüne bir PivotField Nesnesi ekler.
 
 
 ###  İadeler
 
-Bu PivotFields içindeki PivotField Nesnesinin dizini.
+Bu PivotFields'daki PivotField Nesnesinin indeksi.
 
 
 ```python
+
 def add_by_base_index(self, base_field_index):
     ...
 ```
@@ -24,10 +25,10 @@ def add_by_base_index(self, base_field_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| base_field_index | int | temel PivotFields'deki alan dizini.|
+| base_field_index | int | PivotFields tabanındaki alan indeksi.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFieldCollection](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFieldCollection`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldcollection)

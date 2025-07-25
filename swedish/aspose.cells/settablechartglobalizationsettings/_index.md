@@ -3,12 +3,12 @@ title: SettableChartGlobalizationSettings klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1410
+weight: 1300
 url: /sv/aspose.cells/settablechartglobalizationsettings/
 is_root: false
 ---
 ##  SettableChartGlobalizationSettings klass
-Implementering av PivotGlobalizationSettings som stödjer användaren att ställa in/ändra fördefinierade texter.
+Implementering av PivotGlobalizationSettings som stöder användaren att ställa in/ändra fördefinierade texter.
 
 
 
@@ -22,28 +22,28 @@ Typen SettableChartGlobalizationSettings avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/__init__/#) | Konstruerar en ny instans av SettableChartGlobalizationSettings|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/__init__/#) | Skapar en ny instans av SettableChartGlobalizationSettings|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [get_series_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_series_name/#) | Får namnet på serien i diagrammet.|
-| [get_chart_title_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_chart_title_name/#) | Får namnet på diagramtitel.|
-| [get_legend_increase_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_increase_name/#) | Får namnet ökning för Legend.|
-| [get_legend_decrease_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_decrease_name/#) | Får namnet Decrease for Legend.|
-| [get_legend_total_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_total_name/#) | Får namnet Total for Legend.|
-| [get_axis_title_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_axis_title_name/#) | Får namnet på titel för Axis.|
-| [get_other_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_other_name/#) | Hämtar namnet på "Andra"-etiketter för diagram.|
-| [get_axis_unit_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_axis_unit_name/#aspose.cells.charts.DisplayUnitType) | Hämtar namnet på axelenheten.|
-| [set_series_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_series_name/#str) | Ställer in namnet på serier i diagrammet.|
-| [set_chart_title_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_chart_title_name/#str) | Ställer in namnet på diagramtitel.|
-| [set_legend_increase_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_increase_name/#str) |Ställer in namnet på ökningen för Legend.|
-| [set_legend_decrease_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_decrease_name/#str) | Ställer in namnet på Minska för förklaring.|
-| [set_legend_total_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_total_name/#str) | Ställer in namnet på Total för Legend.|
-| [set_axis_title_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_axis_title_name/#str) | Ställer in namnet på titel för axel.|
-| [set_other_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_other_name/#str) | Ställer in namnet på "Andra"-etiketter för diagram.|
-| [set_axis_unit_name](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_axis_unit_name/#aspose.cells.charts.DisplayUnitType-str) | Ställer in namnet på axelenheten.|
+| [`get_series_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_series_name/#) | Hämtar namnet på serien i diagrammet.|
+| [`get_chart_title_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_chart_title_name/#) | Hämtar namnet på diagramtiteln.|
+| [`get_legend_increase_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_increase_name/#) | Hämtar namnet ökning för Legend.|
+| [`get_legend_decrease_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_decrease_name/#) | Hämtar namnet Minska för förklaring.|
+| [`get_legend_total_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_legend_total_name/#) | Hämtar namnet Total för Legend.|
+| [`get_axis_title_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_axis_title_name/#) | Hämtar titeln för Axis.|
+| [`get_other_name(self)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_other_name/#) | Hämtar namnet på etiketterna "Övrigt" för diagrammet.|
+| [`get_axis_unit_name(self, type)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/get_axis_unit_name/#aspose.cells.charts.displayunittype) | Hämtar namnet på axelenheten.|
+| [`set_series_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_series_name/#str) | Anger namnet på serien i diagrammet.|
+| [`set_chart_title_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_chart_title_name/#str) | Anger namnet på diagramtiteln.|
+| [`set_legend_increase_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_increase_name/#str) | Anger namnet på ökningen för förklaringen.|
+| [`set_legend_decrease_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_decrease_name/#str) |Anger namnet på Minska för förklaring.|
+| [`set_legend_total_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_legend_total_name/#str) | Anger namnet på Total för förklaring.|
+| [`set_axis_title_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_axis_title_name/#str) | Anger namnet på titeln för axeln.|
+| [`set_other_name(self, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_other_name/#str) | Anger namnet på etiketterna "Övrigt" för diagrammet.|
+| [`set_axis_unit_name(self, type, name)`](/cells/python-net/sv/aspose.cells/settablechartglobalizationsettings/set_axis_unit_name/#aspose.cells.charts.displayunittype-str) | Ställer in namnet på axelenheten.|
 
 
 

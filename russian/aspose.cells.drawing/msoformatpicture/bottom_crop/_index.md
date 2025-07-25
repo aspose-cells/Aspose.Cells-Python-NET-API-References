@@ -1,6 +1,6 @@
 ---
 title: bottom_crop недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop недвижимость
 
-Представляет положение нижней части прямоугольника обрезки, выраженное как отношение высоты изображения.
+Представляет местоположение нижней части прямоугольника обрезки, выраженное в виде отношения к высоте изображения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_crop(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoFormatPicture](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoFormatPicture`](/cells/python-net/ru/aspose.cells.drawing/msoformatpicture)

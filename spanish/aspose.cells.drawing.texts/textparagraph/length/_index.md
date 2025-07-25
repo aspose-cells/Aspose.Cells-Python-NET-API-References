@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  length propiedad
 
-Obtiene el length de los personajes.
+Obtiene el length de los caracteres.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def length(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextParagraph](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextParagraph`](/cells/python-net/es/aspose.cells.drawing.texts/textparagraph)

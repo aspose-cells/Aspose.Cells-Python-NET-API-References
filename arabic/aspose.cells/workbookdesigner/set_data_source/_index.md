@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells/workbookdesigner/set_data_source/
 is_root: false
 ---
-##  set_data_source(data_source, cells_data_table) {#str-ICellsDataTable}
-يحدد مصدر البيانات لعنصر [ICellsDataTable](/cells/python-net/ar/aspose.cells/icellsdatatable).
+##  set_data_source(self, data_source, cells_data_table) {#str-ICellsDataTable}
+
 
 
 
 ```python
+
 def set_data_source(self, data_source, cells_data_table):
     ...
 ```
@@ -20,16 +21,17 @@ def set_data_source(self, data_source, cells_data_table):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| data_source | str | اسم مصدر البيانات.|
-| cells_data_table | [ICellsDataTable](/cells/python-net/ar/aspose.cells/icellsdatatable) | جدول البيانات.|
+| data_source | str |  |
+| cells_data_table | ICellsDataTable |  |
 
 
-##  set_data_source(variable, data) {#str-any}
-يضبط ربط البيانات بمتغير.
+##  set_data_source(self, variable, data) {#str-any}
+تعيين ربط البيانات إلى متغير.
 
 
 
 ```python
+
 def set_data_source(self, variable, data):
     ...
 ```
@@ -37,12 +39,11 @@ def set_data_source(self, variable, data):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| variable | str | تم إنشاء اسم متغير باستخدام علامة ذكية.|
-| data | any | مصدر معلومات.|
+| variable | str | اسم المتغير تم إنشاؤه باستخدام العلامة الذكية.|
+| data | any | بيانات المصدر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ICellsDataTable](/cells/python-net/ar/aspose.cells/icellsdatatable)
-* فئة [WorkbookDesigner](/cells/python-net/ar/aspose.cells/workbookdesigner)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WorkbookDesigner`](/cells/python-net/ar/aspose.cells/workbookdesigner)

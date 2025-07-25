@@ -3,13 +3,13 @@ title: text_horizontal_overflow属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 980
+weight: 990
 url: /zh/aspose.cells.drawing/webextensionshape/text_horizontal_overflow/
 is_root: false
 ---
 ## text_horizontal_overflow属性
 
-获取和设置包含文本的形状的文本水平溢出类型。
+获取并设置包含文本的形状的文本水平溢出类型。
 
 ### 例子
 

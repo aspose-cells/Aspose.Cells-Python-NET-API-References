@@ -1,18 +1,19 @@
 ---
-title: to_pdf método
+title: método to_pdf
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 150
 url: /es/aspose.cells.charts/chart/to_pdf/
 is_root: false
 ---
-##  to_pdf(file_name) {#str}
+##  to_pdf(self, file_name) {#str}
 Guarda el gráfico en un archivo pdf.
 
 
 
 ```python
+
 def to_pdf(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def to_pdf(self, file_name):
 | file_name | str | el nombre del archivo pdf con la ruta completa|
 
 
-##  to_pdf(stream) {#io.RawIOBase}
-Crea el pdf del gráfico y lo guarda en una secuencia.
+##  to_pdf(self, stream) {#io.RawIOBase}
+Crea el gráfico en PDF y lo guarda en una secuencia.
 
 
 
 ```python
+
 def to_pdf(self, stream):
     ...
 ```
@@ -39,12 +41,13 @@ def to_pdf(self, stream):
 | stream | io.RawIOBase | El flujo de salida.|
 
 
-##  to_pdf(file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
+##  to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#str-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
 Guarda el gráfico en un archivo pdf.
 
 
 
 ```python
+
 def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -55,16 +58,17 @@ def to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment
 | file_name | str | el nombre del archivo pdf con la ruta completa|
 | desired_page_width | float | El ancho de página deseado en pulgadas.|
 | desired_page_height | float | La altura de página deseada en pulgadas.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación horizontal del gráfico en la página de salida.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación vertical del gráfico en la página de salida.|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación horizontal del gráfico en la página de salida.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación vertical del gráfico en la página de salida.|
 
 
-##  to_pdf(stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-PageLayoutAlignmentType-PageLayoutAlignmentType}
-Crea el pdf del gráfico y lo guarda en una secuencia.
+##  to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type) {#io.RawIOBase-float-float-aspose.cells.PageLayoutAlignmentType-aspose.cells.PageLayoutAlignmentType}
+Crea el gráfico en PDF y lo guarda en una secuencia.
 
 
 
 ```python
+
 def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type):
     ...
 ```
@@ -75,11 +79,11 @@ def to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_ty
 | stream | io.RawIOBase | El flujo de salida.|
 | desired_page_width | float | El ancho de página deseado en pulgadas.|
 | desired_page_height | float | La altura de página deseada en pulgadas.|
-| h_alignment_type | [PageLayoutAlignmentType](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación horizontal del gráfico en la página de salida.|
-| v_alignment_type | [PageLayoutAlignmentType](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación vertical del gráfico en la página de salida.|
+| h_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación horizontal del gráfico en la página de salida.|
+| v_alignment_type | [`PageLayoutAlignmentType`](/cells/python-net/es/aspose.cells/pagelayoutalignmenttype) | El tipo de alineación vertical del gráfico en la página de salida.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Chart](/cells/python-net/es/aspose.cells.charts/chart)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)

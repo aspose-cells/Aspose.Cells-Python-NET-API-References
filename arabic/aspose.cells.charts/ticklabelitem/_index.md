@@ -8,7 +8,7 @@ url: /ar/aspose.cells.charts/ticklabelitem/
 is_root: false
 ---
 ##  TickLabelItem صف
-يمثل علامة التجزئة في المخطط.
+يمثل علامة التجزئة في الرسم البياني.
 
 
 
@@ -17,10 +17,10 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [x](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/x) | إحداثيات X لعنصر Ticklabel بالنسبة إلى عرض المخطط.|
-| [y](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/y) | إحداثيات Y لعنصر Ticklabel بالنسبة لارتفاع المخطط.|
-| [width](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/width) | عرض عنصر Ticklabel بالنسبة إلى عرض المخطط.|
-| [height](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/height) |ارتفاع عنصر Ticklabel بالنسبة لارتفاع المخطط.|
+| [x](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/x) | إحداثيات X لعنصر Ticklabel بالنسبة إلى عرض الرسم البياني.|
+| [y](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/y) | إحداثيات Y لعنصر Ticklabel بالنسبة لارتفاع الرسم البياني.|
+| [width](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/width) | عرض عنصر Ticklabel بالنسبة إلى عرض الرسم البياني.|
+| [height](/cells/python-net/ar/aspose.cells.charts/ticklabelitem/height) |ارتفاع عنصر Ticklabel بالنسبة لارتفاع الرسم البياني.|
 
 
 

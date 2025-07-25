@@ -1,6 +1,6 @@
 ---
 title: arc_start_point_y_px недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  arc_start_point_y_px недвижимость
 
-Получает координату y начальной точки сектора круга после вызова метода Chart.Calculate().
-Применяется к круговой и кольцевой диаграммам.
+Получает координату Y начальной точки для сектора круга после вызова метода Chart.Calculate().
+Применимо к круговым и кольцевым диаграммам.
 ###  Определение:
 ```python
 @property
@@ -19,5 +19,5 @@ def arc_start_point_y_px(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPoint](/cells/python-net/ru/aspose.cells.charts/chartpoint)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPoint`](/cells/python-net/ru/aspose.cells.charts/chartpoint)

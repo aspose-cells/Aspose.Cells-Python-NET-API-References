@@ -3,16 +3,17 @@ title: un_merge yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 90
 url: /tr/aspose.cells/unionrange/un_merge/
 is_root: false
 ---
-##  un_merge() {#}
-Bu aralığın birleştirilmiş hücrelerini ayırır.
+##  un_merge(self) {#}
+Bu aralıktaki birleştirilmiş hücreleri ayırır.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```
@@ -22,5 +23,5 @@ def un_merge(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

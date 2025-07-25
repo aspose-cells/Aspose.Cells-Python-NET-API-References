@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  search_backward Eigentum
 
-Ob rückwärts nach Zellen suchen.
+Ob rückwärts nach Zellen gesucht werden soll.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FindOptions](/cells/python-net/de/aspose.cells/findoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FindOptions`](/cells/python-net/de/aspose.cells/findoptions)

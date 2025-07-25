@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_borders mülk
 
-Stil için ayarlanmış kenarlıklar olup olmadığını kontrol eder.
+Stil için sınırların ayarlanıp ayarlanmadığını kontrol eder.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def has_borders(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)

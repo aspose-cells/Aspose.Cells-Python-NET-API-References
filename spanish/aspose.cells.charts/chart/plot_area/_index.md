@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_area propiedad
 
-Obtiene el área de trazado del gráfico que incluye etiquetas de marcas de eje.
+Obtiene el área de trazado del gráfico que incluye las etiquetas de marcación de los ejes.
 
 ###  Observaciones
 

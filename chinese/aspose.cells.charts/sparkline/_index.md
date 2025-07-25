@@ -8,13 +8,13 @@ url: /zh/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ## Sparkline类
-迷你图表示工作表单元格中的微小图表或图形，提供数据的可视化表示。
+迷你图表示工作表单元格中的微型图表或图形，可以直观地表示数据。
 
 
 
 Sparkline 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [data_range](/cells/python-net/zh/aspose.cells.charts/sparkline/data_range) |表示迷你图的数据范围。|
@@ -25,8 +25,8 @@ Sparkline 类型公开以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [to_image](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
-| [to_image](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) |将迷你图转换为图像。|
+| [`to_image(self, file_name, options)`](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) |将迷你图转换为图像。|
+| [`to_image(self, stream, options)`](/cells/python-net/zh/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) |将迷你图转换为图像。|
 
 
 
@@ -49,10 +49,10 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-idx = group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
-line = group.sparkline_collection[idx]
+idx = sheet.sparkline_groups.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+idx = group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+line = group.sparklines[idx]
 print("Saprkline data range: "  + line.data_range + ", row: "  + str(line.row) + ", column: "  + str(line.column))
 line.to_image("output.png", ImageOrPrintOptions())
 

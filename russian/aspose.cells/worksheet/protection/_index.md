@@ -1,19 +1,19 @@
 ---
 title: protection недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 720
+weight: 750
 url: /ru/aspose.cells/worksheet/protection/
 is_root: false
 ---
 ##  protection недвижимость
 
-Представляет различные типы параметров protection, доступных на листе. Поддерживает расширенные параметры protection в ExcelXP и более поздних версиях.
+Представляет различные типы параметров protection, доступные для рабочего листа. Поддерживает расширенные параметры protection в ExcelXP и более поздних версиях.
 
 ###  Примечания
 
-Это свойство может защитить лист во всех версиях файла Excel и поддерживать расширенные параметры protection в ExcelXP и более поздних версиях.
+Это свойство может защитить рабочий лист во всех версиях файла Excel и поддерживает расширенные параметры protection в ExcelXP и более поздних версиях.
 ###  Определение:
 ```python
 @property

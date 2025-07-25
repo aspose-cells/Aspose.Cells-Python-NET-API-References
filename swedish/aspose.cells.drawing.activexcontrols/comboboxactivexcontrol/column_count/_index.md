@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_count fastighet
 
-Representerar antalet kolumner som ska visas i en ComboBox eller ListBox.
+Representerar antalet kolumner som ska visas i en kombinationsbox eller listbox.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_count(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -21,6 +21,6 @@ def special_effect(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlSpecialEffectType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
-* sınıf [LabelActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlSpecialEffectType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controlspecialeffecttype)
+* sınıf [`LabelActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

@@ -3,12 +3,12 @@ title: PrintOrderType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2480
+weight: 2450
 url: /ar/aspose.cells/printordertype/
 is_root: false
 ---
 ##  PrintOrderType التعداد
-تمثيل ثوابت ترتيب الطباعة.
+تمثل ثوابت ترتيب الطباعة.
 
 
 
@@ -18,7 +18,7 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | DOWN_THEN_OVER | إلى الأسفل، ثم إلى الأعلى|
-| OVER_THEN_DOWN | فوق، ثم إلى الأسفل|
+| OVER_THEN_DOWN | فوق ثم لأسفل|
 
 
 

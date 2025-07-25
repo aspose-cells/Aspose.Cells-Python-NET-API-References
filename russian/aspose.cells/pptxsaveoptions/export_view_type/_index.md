@@ -1,16 +1,16 @@
 ---
 title: export_view_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 140
+weight: 170
 url: /ru/aspose.cells/pptxsaveoptions/export_view_type/
 is_root: false
 ---
 ##  export_view_type недвижимость
 
-Получает и задает тип отображения при экспорте в номер PowerPoint.
-Тип экспорта по умолчанию работает как печать.
+Получает и задает тип отображения при экспорте в PowerPoint.
+По умолчанию экспорт осуществляется в режиме печати.
 ###  Определение:
 ```python
 @property

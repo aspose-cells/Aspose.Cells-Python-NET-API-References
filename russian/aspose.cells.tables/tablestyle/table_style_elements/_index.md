@@ -1,6 +1,6 @@
 ---
 title: table_style_elements недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -18,6 +18,6 @@ def table_style_elements(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](../../)
-* класс [TableStyle](/cells/python-net/ru/aspose.cells.tables/tablestyle)
-* класс [TableStyleElementCollection](/cells/python-net/ru/aspose.cells.tables/tablestyleelementcollection)
+* модуль [`aspose.cells.tables`](../../)
+* класс [`TableStyle`](/cells/python-net/ru/aspose.cells.tables/tablestyle)
+* класс [`TableStyleElementCollection`](/cells/python-net/ru/aspose.cells.tables/tablestyleelementcollection)

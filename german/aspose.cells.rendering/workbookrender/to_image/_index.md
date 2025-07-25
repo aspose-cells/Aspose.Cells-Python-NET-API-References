@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells.rendering/workbookrender/to_image/
 is_root: false
 ---
-##  to_image {#io.RawIOBase}
+##  to_image(self, stream) {#io.RawIOBase}
 Rendern Sie die gesamte Arbeitsmappe als TIFF-Bild zum Streamen.
 
 
 
 ```python
+
 def to_image(self, stream):
     ...
 ```
@@ -23,12 +24,13 @@ def to_image(self, stream):
 | stream | io.RawIOBase | der Stream des Ausgabebildes|
 
 
-##  to_image {#str}
+##  to_image(self, filename) {#str}
 Rendern Sie die gesamte Arbeitsmappe als TIFF-Bild in eine Datei.
 
 
 
 ```python
+
 def to_image(self, filename):
     ...
 ```
@@ -39,12 +41,13 @@ def to_image(self, filename):
 | filename | str | der Dateiname des Ausgabebildes|
 
 
-##  to_image {#int-str}
-Rendern Sie eine bestimmte Seite in eine Datei.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendern Sie eine bestimmte Seite in einer Datei.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -52,16 +55,17 @@ def to_image(self, page_index, file_name):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| page_index | int | Geben Sie an, welche Seite konvertiert werden soll|
+| page_index | int | geben Sie an, welche Seite konvertiert werden soll|
 | file_name | str | Dateiname des Ausgabebildes|
 
 
-##  to_image {#int-io.RawIOBase}
-Rendern Sie eine bestimmte Seite in einen Stream.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendern Sie bestimmte Seiten in einem Stream.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```
@@ -69,7 +73,7 @@ def to_image(self, page_index, stream):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| page_index | int | Geben Sie an, welche Seite konvertiert werden soll|
+| page_index | int | geben Sie an, welche Seite konvertiert werden soll|
 | stream | io.RawIOBase | der Stream des Ausgabebildes|
 
 

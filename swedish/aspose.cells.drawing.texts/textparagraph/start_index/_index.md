@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_index fastighet
 
-Hämtar startindex för tecknen.
+Hämtar startindexet för tecknen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_index(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

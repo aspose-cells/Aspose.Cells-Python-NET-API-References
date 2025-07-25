@@ -1,14 +1,14 @@
 ---
-title: get_horizontal_breaks método
+title: método get_horizontal_breaks
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 150
+weight: 160
 url: /es/aspose.cells.pivot/pivottable/get_horizontal_breaks/
 is_root: false
 ---
-##  get_horizontal_breaks() {#}
-obtener la lista de índice de fila de la tabla dinámica de saltos de página horizontales
+##  get_horizontal_breaks(self) {#}
+Obtiene la lista de índices de filas de la tabla dinámica de saltos de página horizontales
 
 
 ###  Devoluciones
@@ -17,14 +17,20 @@ obtener la lista de índice de fila de la tabla dinámica de saltos de página h
 
 
 ```python
+
 def get_horizontal_breaks(self):
     ...
 ```
 
 
+###  Observaciones
 
+NOTA: Este método ya no está disponible. En su lugar,
+Utilice el método PivotTable.GetHorizontalPageBreaks().
+ Este método se eliminará 12 meses después, a partir de diciembre de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

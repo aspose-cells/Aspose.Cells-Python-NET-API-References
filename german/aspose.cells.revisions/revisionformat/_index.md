@@ -8,12 +8,11 @@ url: /de/aspose.cells.revisions/revisionformat/
 is_root: false
 ---
 ##  RevisionFormat Klasse
-Stellt einen Überarbeitungsdatensatz mit Informationen zu einer Formatierungsänderung dar.
+Stellt einen Revisionsdatensatz mit Informationen zu einer Formatierungsänderung dar.
 
 
 
-**Nachlass:** [RevisionFormat](/cells/python-net/aspose.cells.revisions/revisionformat) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionFormat`](/cells/python-net/de/aspose.cells.revisions/revisionformat)
 
 
 
@@ -23,14 +22,13 @@ Der Typ RevisionFormat macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisionformat/type) | Ruft den Revisionstyp ab.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionformat/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisionformat/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisionformat/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisionformat/id) |  |
 | [areas](/cells/python-net/de/aspose.cells.revisions/revisionformat/areas) | Der Bereich, auf den diese Formatierung angewendet wurde.|
 | [style](/cells/python-net/de/aspose.cells.revisions/revisionformat/style) | Ruft den angewendeten Stil ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionFormat](/cells/python-net/de/aspose.cells.revisions/revisionformat)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionFormat`](/cells/python-net/de/aspose.cells.revisions/revisionformat)

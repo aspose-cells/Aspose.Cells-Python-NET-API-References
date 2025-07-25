@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  encoding fastighet
 
-Hämtar och ställer in standardvärdet encoding. Gäller endast för csv-fil.
+Hämtar och ställer in standardvärdet encoding. Gäller endast för csv-filer.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def encoding(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

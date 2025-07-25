@@ -3,13 +3,13 @@ title: display_zeros属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 500
 url: /zh/aspose.cells/worksheet/display_zeros/
 is_root: false
 ---
 ## display_zeros属性
 
-如果显示零值则为 True。
+如果显示零值则为真。
 ### 定义：
 ```python
 @property

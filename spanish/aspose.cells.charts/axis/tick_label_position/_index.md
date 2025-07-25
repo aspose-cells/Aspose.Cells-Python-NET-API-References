@@ -3,13 +3,13 @@ title: tick_label_position propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 390
 url: /es/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---
 ##  tick_label_position propiedad
 
-Representa la posición de las etiquetas de marca en el eje especificado.
+Representa la posición de las etiquetas de marca de verificación en el eje especificado.
 ###  Definición:
 ```python
 @property

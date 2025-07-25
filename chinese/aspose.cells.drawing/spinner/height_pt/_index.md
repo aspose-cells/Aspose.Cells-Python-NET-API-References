@@ -3,7 +3,7 @@ title: height_pt属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 480
+weight: 470
 url: /zh/aspose.cells.drawing/spinner/height_pt/
 is_root: false
 ---

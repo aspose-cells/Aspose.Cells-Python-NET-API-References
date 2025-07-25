@@ -3,16 +3,17 @@ title: método set_row_height_inch
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 870
+weight: 890
 url: /es/aspose.cells/cells/set_row_height_inch/
 is_root: false
 ---
-##  set_row_height_inch {#int-float}
+##  set_row_height_inch(self, row, inches) {#int-float}
 Establece la altura de la fila en unidades de pulgadas.
 
 
 
 ```python
+
 def set_row_height_inch(self, row, inches):
     ...
 ```

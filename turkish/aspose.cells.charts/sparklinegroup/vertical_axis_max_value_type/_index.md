@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  vertical_axis_max_value_type mülk
 
-Dikey eksen maksimum değer türünü temsil eder.
+Dikey eksendeki maksimum değer türünü temsil eder.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def vertical_axis_max_value_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [SparklineAxisMinMaxType](/cells/python-net/tr/aspose.cells.charts/sparklineaxisminmaxtype)
-* sınıf [SparklineGroup](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`SparklineAxisMinMaxType`](/cells/python-net/tr/aspose.cells.charts/sparklineaxisminmaxtype)
+* sınıf [`SparklineGroup`](/cells/python-net/tr/aspose.cells.charts/sparklinegroup)

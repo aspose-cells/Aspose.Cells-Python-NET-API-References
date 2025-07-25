@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_justify_distributed propiedad
 
-Indica si se debe utilizar la alineación justificada o distribuida de las celdas en la última línea de texto.
+Indica si se debe utilizar la alineación de celdas justificadas o distribuidas en la última línea de texto.
 
 ###  Observaciones
 
-Esto es típico de los alineamientos del este de Asia, pero no típico en otros contextos.
+Esto es típico de las alineaciones del este de Asia, pero no es típico en otros contextos.
 ###  Definición:
 ```python
 @property

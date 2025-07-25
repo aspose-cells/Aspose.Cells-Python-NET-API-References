@@ -8,12 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/labelactivexcontrol/fore_ole_color
 is_root: false
 ---
 ##  fore_ole_color propriété
-
-Obtient et définit l'ancienne couleur du premier plan.
-
-###  Remarques
-
-Ne s'applique pas au champ Image.
 ###  Définition:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [LabelActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`LabelActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

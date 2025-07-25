@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  enter_key_behavior fastighet
 
-Anger beteendet för ENTER-tangenten.
-True anger att en ny rad skapas genom att trycka på ENTER.
-False anger att ett tryck på ENTER flyttar fokus till nästa objekt i tabulatorordningen.
+Anger hur ENTER-tangenten beter sig.
+True anger att ett tryck på ENTER skapar en ny rad.
+Falskt anger att ett tryck på ENTER flyttar fokus till nästa objekt i tabbordningen.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def enter_key_behavior(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

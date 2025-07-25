@@ -1,9 +1,9 @@
 ---
 title: is_hidden proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 80
+weight: 120
 url: /it/aspose.cells.pivot/pivotitem/is_hidden/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotItem](/cells/python-net/it/aspose.cells.pivot/pivotitem)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotItem`](/cells/python-net/it/aspose.cells.pivot/pivotitem)

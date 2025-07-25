@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_3d_shape_type Eigentum
 
-Ruft den mit dem 3D-Balken- oder Säulendiagramm verwendeten 3D-Formtyp ab oder legt diesen fest.
+Ruft den 3D-Formtyp ab oder legt ihn fest, der mit dem 3D-Balken- oder Säulendiagramm verwendet wird.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def bar_3d_shape_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Bar3DShapeType](/cells/python-net/de/aspose.cells.charts/bar3dshapetype)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Bar3DShapeType`](/cells/python-net/de/aspose.cells.charts/bar3dshapetype)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

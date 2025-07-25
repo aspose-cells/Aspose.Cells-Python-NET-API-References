@@ -3,7 +3,7 @@ title: check_value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 330
 url: /es/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Obtiene o establece el valor de la casilla de verificación.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
- utilice la propiedad CheckBox.CheckValueType.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+ Utilice la propiedad CheckBox.CheckValueType.
  Esta propiedad será eliminada 12 meses después desde junio de 2010.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

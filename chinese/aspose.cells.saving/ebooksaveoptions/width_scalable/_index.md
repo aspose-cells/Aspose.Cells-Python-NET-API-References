@@ -3,13 +3,13 @@ title: width_scalable属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 720
+weight: 800
 url: /zh/aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---
 ## width_scalable属性
 
-指示是否以比例单位导出列宽到html。
+指示是否将以比例为单位的列宽导出到 html。
 默认值为 false。
 ### 定义：
 ```python

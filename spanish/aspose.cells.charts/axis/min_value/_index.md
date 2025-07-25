@@ -3,7 +3,7 @@ title: min_value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 330
+weight: 340
 url: /es/aspose.cells.charts/axis/min_value/
 is_root: false
 ---

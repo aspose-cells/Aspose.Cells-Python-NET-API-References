@@ -1,5 +1,5 @@
 ---
-title: comment الملكية
+title: comment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/scenario/comment/
 is_root: false
 ---
-##  comment الملكية
+##  comment عقار
 
-الحصول على وتعيين comment للسيناريو.
+يحصل على comment من السيناريو ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def comment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Scenario](/cells/python-net/ar/aspose.cells/scenario)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Scenario`](/cells/python-net/ar/aspose.cells/scenario)

@@ -10,14 +10,14 @@ is_root: false
 ## save_format属性
 
 获取或设置输出文件格式类型
-支持蒂夫/XPS
+支持 Tiff/XPS
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
-对于 Tiff/Svg，请使用 [`ImageOrPrintOptions.image_type`](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions#image_type)；对于 XPs，请使用 [`Workbook.save`](/cells/python-net/zh/aspose.cells/workbook/save) 和 [`XpsSaveOptions`](/cells/python-net/zh/aspose.cells/xpssaveoptions)。
-该房产将于 2022 年 8 月起 12 个月后被拆除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+注意：此成员现已过时。取而代之的是
+对于 Tiff/Svg，使用 [`ImageOrPrintOptions.image_type`](/cells/python-net/zh/aspose.cells.rendering/imageorprintoptions#image_type)；对于 Xps，使用 [`Workbook.save`](/cells/python-net/zh/aspose.cells/workbook/save) 和 [`XpsSaveOptions`](/cells/python-net/zh/aspose.cells/xpssaveoptions)。
+该房产将于 2022 年 8 月起 12 个月后拆除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property

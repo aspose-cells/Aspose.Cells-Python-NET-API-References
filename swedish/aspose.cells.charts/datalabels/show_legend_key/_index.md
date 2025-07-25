@@ -3,14 +3,14 @@ title: show_legend_key fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 480
 url: /sv/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---
 ##  show_legend_key fastighet
 
-Representerar ett specificerat diagrams dataetikettsförklaringsknappvisningsbeteende.
-Sant om nyckeln för dataetikettförklaringen är synlig.
+Representerar visningsbeteendet för förklaringsnyckeln för dataetiketter i ett angivet diagram.
+Sant om dataetikettens förklaringsnyckel är synlig.
 ###  Definition:
 ```python
 @property

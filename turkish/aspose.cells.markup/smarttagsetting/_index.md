@@ -8,20 +8,22 @@ url: /tr/aspose.cells.markup/smarttagsetting/
 is_root: false
 ---
 ##  SmartTagSetting sınıfı
-Çalışma sayfasındaki tüm [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesini temsil eder.
+Çalışma sayfasındaki tüm [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesini temsil eder.
 
 
 
-SmartTagSetting türü aşağıdaki üyeleri gösterir:
+SmartTagSetting türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add(row, column)](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/add/#int-int) | Bir hücreye [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesi ekler.|
-| [add(cell_name)](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/add/#str) | Hücre akıllı etiketleri ekleyin.|
+| [`add(self, row, column)`](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/add/#int-int) | Bir hücreye [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesini ekler.|
+| [`add(self, cell_name)`](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/add/#str) | Hücreye akıllı etiketler ekleyin.|
+| [`get(self, row, column)`](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/get/#int-int) | API for Python'i .Net.since aracılığıyla ekleyin, bu[int, int] desteklenmiyor|
+| [`get(self, cell_name)`](/cells/python-net/tr/aspose.cells.markup/smarttagsetting/get/#str) | Hücrenin [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection) nesnesini alır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.markup](..)
-* sınıf [SmartTagCollection](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)
+* modül [`aspose.cells.markup`](..)
+* sınıf [`SmartTagCollection`](/cells/python-net/tr/aspose.cells.markup/smarttagcollection)

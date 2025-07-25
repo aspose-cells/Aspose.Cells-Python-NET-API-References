@@ -3,16 +3,17 @@ title: insert_column Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 690
 url: /de/aspose.cells/cells/insert_column/
 is_root: false
 ---
-##  insert_column {#int}
+##  insert_column(self, column_index) {#int}
 Fügt eine neue Spalte in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_column(self, column_index):
     ...
 ```
@@ -23,12 +24,13 @@ def insert_column(self, column_index):
 | column_index | int | Spaltenindex.|
 
 
-##  insert_column {#int-bool}
+##  insert_column(self, column_index, update_reference) {#int-bool}
 Fügt eine neue Spalte in das Arbeitsblatt ein.
 
 
 
 ```python
+
 def insert_column(self, column_index, update_reference):
     ...
 ```

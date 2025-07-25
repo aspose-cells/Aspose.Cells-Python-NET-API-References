@@ -1,6 +1,6 @@
 ---
 title: alignment_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignment_type proprietà
 
-Ottiene e imposta l'allineamento del testo per le etichette dei segni di spunta sull'asse.
+Ottiene e imposta l'allineamento del testo per le etichette di spunta sull'asse.
 ###  Definizione:
 ```python
 @property

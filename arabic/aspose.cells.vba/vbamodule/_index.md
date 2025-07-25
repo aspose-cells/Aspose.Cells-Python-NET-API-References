@@ -1,5 +1,5 @@
 ---
-title: VbaModule الدرجة
+title: VbaModule صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,19 +7,20 @@ weight: 10
 url: /ar/aspose.cells.vba/vbamodule/
 is_root: false
 ---
-##  VbaModule الدرجة
-يمثل الوحدة في مشروع VBA.
+##  VbaModule صف
+يمثل الوحدة النمطية في مشروع VBA.
 
 
 
-يكشف نوع VbaModule الأعضاء التالية:
+يكشف النوع VbaModule عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.vba/vbamodule/name) | الحصول على اسم الوحدة وتعيينه.|
-| [type](/cells/python-net/ar/aspose.cells.vba/vbamodule/type) | يحصل على نوع الوحدة.|
-| [codes](/cells/python-net/ar/aspose.cells.vba/vbamodule/codes) | يحصل على رموز الوحدة وتعيينها.|
+| [name](/cells/python-net/ar/aspose.cells.vba/vbamodule/name) | يحصل على اسم الوحدة ويحدده.|
+| [type](/cells/python-net/ar/aspose.cells.vba/vbamodule/type) | يحصل على نوع الوحدة النمطية.|
+| [binary_codes](/cells/python-net/ar/aspose.cells.vba/vbamodule/binary_codes) | يحصل على الرموز الثنائية للوحدة ويقوم بتعيينها.|
+| [codes](/cells/python-net/ar/aspose.cells.vba/vbamodule/codes) | يحصل على أكواد الوحدة ويحددها.|
 
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.vba](..)
+* الوحدة [`aspose.cells.vba`](..)

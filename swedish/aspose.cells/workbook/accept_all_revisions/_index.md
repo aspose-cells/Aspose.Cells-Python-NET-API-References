@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells/workbook/accept_all_revisions/
 is_root: false
 ---
-##  accept_all_revisions() {#}
+##  accept_all_revisions(self) {#}
 Accepterar alla spårade ändringar i arbetsboken.
 
 
 
 ```python
+
 def accept_all_revisions(self):
     ...
 ```
@@ -22,5 +23,5 @@ def accept_all_revisions(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

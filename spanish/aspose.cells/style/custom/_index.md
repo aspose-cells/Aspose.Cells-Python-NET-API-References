@@ -10,11 +10,11 @@ is_root: false
 ##  custom propiedad
 
 Representa la cadena de formato de número custom de este objeto de estilo.
-Si el formato de número custom no está configurado (por ejemplo, el formato de número está integrado), se devolverá "".
+Si el formato de número custom no está configurado (por ejemplo, el formato de número está incorporado), se devolverá "".
 
 ###  Observaciones
 
-La cadena custom devuelta es independiente de la referencia cultural.
+La cadena custom devuelta es independiente de la cultura.
 ###  Definición:
 ```python
 @property
@@ -26,5 +26,5 @@ def custom(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Style](/cells/python-net/es/aspose.cells/style)
+* módulo [`aspose.cells`](../../)
+* clase [`Style`](/cells/python-net/es/aspose.cells/style)

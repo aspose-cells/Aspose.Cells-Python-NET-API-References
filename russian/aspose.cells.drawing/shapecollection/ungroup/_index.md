@@ -1,18 +1,19 @@
 ---
 title: ungroup метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 500
 url: /ru/aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
-##  ungroup(group) {#GroupShape}
-Разгруппирует элементы формы.
+##  ungroup(self, group) {#aspose.cells.drawing.GroupShape}
+Разгруппировывает элементы фигуры.
 
 
 
 ```python
+
 def ungroup(self, group):
     ...
 ```
@@ -20,10 +21,10 @@ def ungroup(self, group):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| group | [GroupShape](/cells/python-net/ru/aspose.cells.drawing/groupshape) | Форма группы.|
+| group | [`GroupShape`](/cells/python-net/ru/aspose.cells.drawing/groupshape) | Форма группы.|
 ###  Примечания
 
-Если фигура группы сгруппирована другой фигурой группы, ничего не будет сделано.
+Если групповая фигура сгруппирована с другой групповой фигурой, ничего не произойдет.
 ###  Пример
 
 
@@ -44,5 +45,5 @@ shapes.ungroup(groupShape)
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [ShapeCollection](/cells/python-net/ru/aspose.cells.drawing/shapecollection)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`ShapeCollection`](/cells/python-net/ru/aspose.cells.drawing/shapecollection)

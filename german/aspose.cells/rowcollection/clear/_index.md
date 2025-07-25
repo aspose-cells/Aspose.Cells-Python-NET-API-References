@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/rowcollection/clear/
 is_root: false
 ---
-##  clear() {#}
-Löschen Sie alle Zeilen und Zellen.
+##  clear(self) {#}
+Alle Zeilen und Zellen löschen.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [RowCollection](/cells/python-net/de/aspose.cells/rowcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`RowCollection`](/cells/python-net/de/aspose.cells/rowcollection)

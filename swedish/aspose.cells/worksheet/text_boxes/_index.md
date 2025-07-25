@@ -3,13 +3,13 @@ title: text_boxes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 830
+weight: 850
 url: /sv/aspose.cells/worksheet/text_boxes/
 is_root: false
 ---
 ##  text_boxes fastighet
 
-Får en [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox) samling.
+Får en [`TextBox`](/cells/python-net/sv/aspose.cells.drawing/textbox)-kollektion.
 ###  Definition:
 ```python
 @property

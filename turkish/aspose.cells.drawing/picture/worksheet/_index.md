@@ -3,7 +3,7 @@ title: worksheet mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1410
+weight: 1430
 url: /tr/aspose.cells.drawing/picture/worksheet/
 is_root: false
 ---

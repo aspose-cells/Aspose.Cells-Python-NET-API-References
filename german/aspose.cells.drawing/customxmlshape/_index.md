@@ -8,7 +8,7 @@ url: /de/aspose.cells.drawing/customxmlshape/
 is_root: false
 ---
 ##  CustomXmlShape Klasse
-Stellt eine benutzerdefinierte XML-Form dar, z. B. Ink.
+Stellt eine benutzerdefinierte XML-Form dar, beispielsweise Tinte.
 
 
 
@@ -24,135 +24,135 @@ Der Typ CustomXmlShape macht die folgenden Member verfügbar:
 | :- | :- |
 | [macro_name](/cells/python-net/de/aspose.cells.drawing/customxmlshape/macro_name) | Ruft den Namen des Makros ab und legt ihn fest.|
 | [is_equation](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_equation) | Gibt an, ob die Form nur eine Gleichung enthält.|
-| [is_smart_art](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_smart_art) | Gibt an, ob es sich bei der Form um Smart Art handelt.|
+| [is_smart_art](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_smart_art) | Gibt an, ob es sich bei der Form um eine Smart Art handelt.|
 | [z_order_position](/cells/python-net/de/aspose.cells.drawing/customxmlshape/z_order_position) | Gibt die Position einer Form in der Z-Reihenfolge zurück.|
 | [name](/cells/python-net/de/aspose.cells.drawing/customxmlshape/name) | Ruft den Namen der Form ab und legt ihn fest.|
-| [alternative_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/alternative_text) | Gibt die beschreibende (alternative) Textzeichenfolge des [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape)-Objekts zurück oder legt sie fest.|
-| [title](/cells/python-net/de/aspose.cells.drawing/customxmlshape/title) | Gibt den Titel (Beschriftung) des aktuellen Formobjekts an.|
-| [line_format](/cells/python-net/de/aspose.cells.drawing/customxmlshape/line_format) |Gibt ein MsoLineFormat-Objekt zurück, das Linienformatierungseigenschaften für die angegebene Form enthält.|
+| [alternative_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/alternative_text) | Gibt die beschreibende (alternative) Textzeichenfolge des Objekts [`Shape`](/cells/python-net/de/aspose.cells.drawing/shape) zurück oder legt sie fest.|
+| [title](/cells/python-net/de/aspose.cells.drawing/customxmlshape/title) | Gibt den Titel (die Beschriftung) des aktuellen Formobjekts an.|
+| [line_format](/cells/python-net/de/aspose.cells.drawing/customxmlshape/line_format) | Gibt ein MsoLineFormat-Objekt zurück, das Linienformatierungseigenschaften für die angegebene Form enthält.|
 | [fill_format](/cells/python-net/de/aspose.cells.drawing/customxmlshape/fill_format) | Gibt ein MsoFillFormat-Objekt zurück, das Füllformatierungseigenschaften für die angegebene Form enthält.|
 | [line](/cells/python-net/de/aspose.cells.drawing/customxmlshape/line) | Ruft den Linienstil ab|
-| [fill](/cells/python-net/de/aspose.cells.drawing/customxmlshape/fill) | Gibt ein [`Shape.fill_format`](/cells/python-net/de/aspose.cells.drawing/shape#fill_format)-Objekt zurück, das Füllungsformatierungseigenschaften für die angegebene Form enthält.|
+| [fill](/cells/python-net/de/aspose.cells.drawing/customxmlshape/fill) | Gibt ein [`Shape.fill_format`](/cells/python-net/de/aspose.cells.drawing/shape#fill_format)-Objekt zurück, das Füllformatierungseigenschaften für die angegebene Form enthält.|
 | [shadow_effect](/cells/python-net/de/aspose.cells.drawing/customxmlshape/shadow_effect) | Stellt ein [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)-Objekt dar, das den Schatteneffekt für das Diagrammelement oder die Form angibt.|
-| [reflection](/cells/python-net/de/aspose.cells.drawing/customxmlshape/reflection) | Stellt ein [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)-Objekt dar, das den Reflexionseffekt für das Diagrammelement oder die Form angibt.|
-| [glow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/glow) | Stellt ein [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)-Objekt dar, das den Glüheffekt für das Diagrammelement oder die Form angibt.|
-| [soft_edges](/cells/python-net/de/aspose.cells.drawing/customxmlshape/soft_edges) | Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkteinheiten ab und legt diesen fest.|
+| [reflection](/cells/python-net/de/aspose.cells.drawing/customxmlshape/reflection) |Stellt ein [`ReflectionEffect`](/cells/python-net/de/aspose.cells.drawing/reflectioneffect)-Objekt dar, das den Reflexionseffekt für das Diagrammelement oder die Form angibt.|
+| [glow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/glow) | Stellt ein [`GlowEffect`](/cells/python-net/de/aspose.cells.drawing/gloweffect)-Objekt dar, das den Leuchteffekt für das Diagrammelement oder die Form angibt.|
+| [soft_edges](/cells/python-net/de/aspose.cells.drawing/customxmlshape/soft_edges) | Ruft den auf die Kanten anzuwendenden Unschärferadius in Punkten ab und legt ihn fest.|
 | [three_d_format](/cells/python-net/de/aspose.cells.drawing/customxmlshape/three_d_format) | Ruft das 3D-Format der Form ab und legt es fest.|
-| [text_frame](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_frame) | Gibt ein TextFrame-Objekt zurück, das die Ausrichtungs- und Verankerungseigenschaften für die angegebene Form enthält.|
-| [format_picture](/cells/python-net/de/aspose.cells.drawing/customxmlshape/format_picture) | Ruft die Optionen des Bildformats ab und legt diese fest.|
+| [format_picture](/cells/python-net/de/aspose.cells.drawing/customxmlshape/format_picture) | Ruft die Optionen des Bildformats ab und legt sie fest.|
 | [is_hidden](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_hidden) | Gibt an, ob das Objekt sichtbar ist.|
-| [is_lock_aspect_ratio](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_lock_aspect_ratio) |„True“ bedeutet, dass keine Änderungen im Seitenverhältnis zulässig sind.|
+| [is_lock_aspect_ratio](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_lock_aspect_ratio) | „True“ bedeutet, dass das Seitenverhältnis der Form gesperrt ist.|
+| [is_aspect_ratio_locked](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_aspect_ratio_locked) | „True“ bedeutet, dass das Seitenverhältnis der Form gesperrt ist.|
 | [rotation_angle](/cells/python-net/de/aspose.cells.drawing/customxmlshape/rotation_angle) | Ruft die Drehung der Form ab und legt sie fest.|
 | [hyperlink](/cells/python-net/de/aspose.cells.drawing/customxmlshape/hyperlink) | Ruft den Hyperlink der Form ab.|
-| [id](/cells/python-net/de/aspose.cells.drawing/customxmlshape/id) | Ruft den Bezeichner dieser Form ab.|
-| [spid](/cells/python-net/de/aspose.cells.drawing/customxmlshape/spid) | Gibt eine optionale Zeichenfolge an, die eine Anwendung zum Identifizieren der bestimmten Form verwenden kann.|
-| [spt](/cells/python-net/de/aspose.cells.drawing/customxmlshape/spt) | Gibt eine optionale Zahl an, die eine Anwendung verwenden kann, um die bestimmte Form einem definierten Formtyp zuzuordnen.|
-| [worksheet](/cells/python-net/de/aspose.cells.drawing/customxmlshape/worksheet) | Ruft das [`Shape.worksheet`](/cells/python-net/de/aspose.cells.drawing/shape#worksheet)-Objekt ab, das diese Form enthält.|
-| [is_group](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_group) | Gibt an, ob es sich bei der Form um eine Gruppe handelt.|
+| [id](/cells/python-net/de/aspose.cells.drawing/customxmlshape/id) | Ruft die Kennung dieser Form ab.|
+| [spid](/cells/python-net/de/aspose.cells.drawing/customxmlshape/spid) | Gibt eine optionale Zeichenfolgekennung an, mit der eine Anwendung die jeweilige Form identifizieren kann.|
+| [spt](/cells/python-net/de/aspose.cells.drawing/customxmlshape/spt) | Gibt eine optionale Nummer an, die eine Anwendung verwenden kann, um die bestimmte Form einem definierten Formtyp zuzuordnen.|
+| [worksheet](/cells/python-net/de/aspose.cells.drawing/customxmlshape/worksheet) | Ruft das Objekt [`Shape.worksheet`](/cells/python-net/de/aspose.cells.drawing/shape#worksheet) ab, das diese Form enthält.|
+| [is_group](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_group) | Gibt an, ob es sich bei dieser Form um eine Gruppenform handelt.|
 | [is_in_group](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_in_group) | Gibt an, ob die Form gruppiert ist.|
-| [is_word_art](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_word_art) | Gibt an, ob es sich bei dieser Form um eine Wortkunst handelt.|
-| [text_effect](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_effect) | Gibt ein TextEffectFormat-Objekt zurück, das Texteffektformatierungseigenschaften für die angegebene Form enthält.<br/> Gilt für Shape-Objekte, die WordArt darstellen.|
-| [is_locked](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_locked) | True, wenn das Objekt gesperrt ist, False, wenn das Objekt geändert werden kann, während das Blatt geschützt ist.|
-| [is_printable](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_printable) | True, wenn das Objekt druckbar ist|
-| [mso_drawing_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/mso_drawing_type) | Ruft den MSO-Zeichnungstyp ab.|
+| [is_word_art](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_word_art) |Gibt an, ob es sich bei dieser Form um eine WordArt handelt.|
+| [text_effect](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_effect) | Gibt ein TextEffectFormat-Objekt zurück, das Texteffekt-Formatierungseigenschaften für die angegebene Form enthält.<br/> Gilt für Shape-Objekte, die WordArt darstellen.|
+| [is_locked](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_locked) | „True“ bedeutet, dass das Objekt nicht geändert werden kann, wenn das Blatt geschützt ist.<br/> Beachten Sie, dass dieser Wert nur dann sinnvoll ist, wenn das Arbeitsblatt oder die Objekte im Arbeitsblatt geschützt sind.|
+| [is_printable](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_printable) | Gibt an, ob das Objekt druckbar ist.<br/> Wenn „False“, wird diese Form beim Drucken nicht gedruckt.|
+| [mso_drawing_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/mso_drawing_type) | Ruft den Zeichnungstyp ab.|
 | [auto_shape_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/auto_shape_type) | Ruft den automatischen Formtyp ab und legt ihn fest.|
-| [anchor_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/anchor_type) |Ruft den Platzhalter für den Formanker ab und legt ihn fest.|
-| [placement](/cells/python-net/de/aspose.cells.drawing/customxmlshape/placement) | Stellt die Art und Weise dar, wie das Zeichenobjekt an die darunter liegenden Zellen angehängt wird.<br/> Die Eigenschaft steuert die Platzierung eines Objekts auf einem Arbeitsblatt.|
-| [upper_left_row](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_left_row) | Stellt den Zeilenindex der oberen linken Ecke dar.|
-| [upper_delta_y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_delta_y) | Ruft den vertikalen Versatz der Form von ihrer oberen linken Eckreihe ab oder legt diesen fest.|
+| [anchor_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/anchor_type) | Ruft den Typ des Formankerplatzhalters ab und legt ihn fest.|
+| [placement](/cells/python-net/de/aspose.cells.drawing/customxmlshape/placement) | Stellt die Art und Weise dar, wie das Zeichenobjekt mit den darunterliegenden Zellen verbunden ist.<br/> Die Eigenschaft steuert die Platzierung eines Objekts auf einem Arbeitsblatt.|
+| [upper_left_row](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_left_row) | Stellt den Index der obersten Zeile dar.|
+| [upper_delta_y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_delta_y) | Ruft den vertikalen Versatz der Form von ihrer oberen linken Eckreihe ab oder legt ihn fest.|
 | [upper_left_column](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_left_column) | Stellt den Spaltenindex in der oberen linken Ecke dar.|
-| [upper_delta_x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_delta_x) | Ruft den horizontalen Versatz der Form von ihrer oberen linken Eckspalte ab oder legt diesen fest.|
+| [upper_delta_x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/upper_delta_x) |Ruft den horizontalen Versatz der Form von ihrer oberen linken Eckspalte ab oder legt ihn fest.|
 | [lower_right_row](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_right_row) | Stellt den Zeilenindex in der unteren rechten Ecke dar.|
-| [lower_delta_y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_delta_y) | Ruft den vertikalen Versatz der Form von der unteren rechten Eckreihe ab oder legt diesen fest.|
+| [lower_delta_y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_delta_y) | Ruft den vertikalen Versatz der Form von ihrer unteren rechten Eckreihe ab oder legt ihn fest.|
 | [lower_right_column](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_right_column) | Stellt den Spaltenindex in der unteren rechten Ecke dar.|
-| [lower_delta_x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_delta_x) | Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt diesen fest.|
-| [right](/cells/python-net/de/aspose.cells.drawing/customxmlshape/right) | Stellt die Breite des horizontalen Versatzes der Form von ihrer unteren rechten Eckspalte in der Einheit Pixel dar.|
-| [bottom](/cells/python-net/de/aspose.cells.drawing/customxmlshape/bottom) | Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren unteren Eckreihe in Pixeleinheiten dar.|
-| [width](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width) |Stellt die Breite der Form in der Einheit Pixel dar.|
-| [width_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_inch) | Stellt die Breite der Form in der Einheit Zoll dar.|
+| [lower_delta_x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/lower_delta_x) | Ruft den horizontalen Versatz der Form von ihrer unteren rechten Eckspalte ab oder legt ihn fest.|
+| [right](/cells/python-net/de/aspose.cells.drawing/customxmlshape/right) | Stellt die Breite des horizontalen Versatzes der Form von ihrer unteren rechten Eckspalte in Pixeln dar.|
+| [bottom](/cells/python-net/de/aspose.cells.drawing/customxmlshape/bottom) | Stellt die Breite des vertikalen Versatzes der Form von ihrer unteren Eckreihe in Pixeln dar.|
+| [width](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width) | Stellt die Breite der Form in Pixeln dar.|
+| [width_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_inch) | Stellt die Breite der Form in Zoll dar.|
 | [width_pt](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_pt) | Stellt die Breite der Form in Punkteinheiten dar.|
-| [width_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_cm) | Stellt die Breite der Form in der Einheit Zentimeter dar.|
-| [height](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height) | Stellt die Höhe der Form in der Einheit Pixel dar.|
-| [height_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_inch) | Stellt die Höhe der Form in der Einheit Zoll dar.|
-| [height_pt](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_pt) | Stellt die Höhe der Form in Punkteinheiten dar.|
-| [height_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_cm) | Stellt die Höhe der Form in der Einheit Zentimeter dar.|
-| [left](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in Pixeleinheiten dar.|
-| [left_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_inch) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in der Einheit Zoll dar.|
-| [left_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_cm) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in der Einheit Zentimeter dar.|
-| [top](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top) | Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in Pixeleinheiten dar.|
-| [top_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_inch) | Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zoll dar.|
-| [top_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_cm) |Stellt den vertikalen Versatz der Form von ihrer oberen Reihe in der Einheit Zentimeter dar.|
-| [top_to_corner](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_to_corner) | Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt ihn fest.|
-| [left_to_corner](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_to_corner) | Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts ab und legt diesen fest.|
-| [x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/x) | Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.|
-| [y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/y) | Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeleinheiten ab und legt diesen fest.|
-| [width_scale](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_scale) | Ruft die Breitenskala in Prozent der ursprünglichen Bildbreite ab und legt diese fest.<br/> Wenn es sich bei der Form nicht um ein Bild handelt, gibt die Eigenschaft „WidthScale“ nur 100 zurück.|
-| [height_scale](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_scale) | Ruft die Höhenskala in Prozent der ursprünglichen Bildhöhe ab und legt sie fest.<br/> Wenn es sich bei der Form nicht um ein Bild handelt, gibt die HeightScale-Eigenschaft nur 100 zurück;|
-| [top_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_in_shape) | Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form dar.<br/> in der Einheit 1/4000 der Höhe der übergeordneten Form.|
-| [left_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_in_shape) |Stellt den horizontalen Versatz der Form vom linken Rand der übergeordneten Form dar.<br/> in der Einheit 1/4000 der Breite der übergeordneten Form.|
+| [width_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_cm) | Stellt die Breite der Form in Zentimetern dar.|
+| [height](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height) | Stellt die Höhe der Form in Pixeleinheiten dar.|
+| [height_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_inch) | Stellt die Höhe der Form in Zoll dar.|
+| [height_pt](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_pt) |Stellt die Höhe der Form in Punkten dar.|
+| [height_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_cm) | Stellt die Höhe der Form in Zentimetern dar.|
+| [left](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in Pixeln dar.|
+| [left_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_inch) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in Zoll dar.|
+| [left_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_cm) | Stellt den horizontalen Versatz der Form von ihrer linken Spalte in Zentimetern dar.|
+| [top](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top) | Stellt den vertikalen Versatz der Form von ihrer obersten Reihe in Pixeln dar.|
+| [top_inch](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_inch) | Stellt den vertikalen Versatz der Form von ihrer obersten Reihe in Zoll dar.|
+| [top_cm](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_cm) | Stellt den vertikalen Versatz der Form von ihrer obersten Reihe in Zentimetern dar.|
+| [top_to_corner](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_to_corner) | Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.|
+| [left_to_corner](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_to_corner) | Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts ab und legt ihn fest.|
+| [x](/cells/python-net/de/aspose.cells.drawing/customxmlshape/x) | Ruft den horizontalen Versatz der Form vom linken Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.|
+| [y](/cells/python-net/de/aspose.cells.drawing/customxmlshape/y) |Ruft den vertikalen Versatz der Form vom oberen Rand des Arbeitsblatts in Pixeln ab und legt ihn fest.|
+| [width_scale](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_scale) | Ruft den Breitenmaßstab in Prozent der ursprünglichen Bildbreite ab und legt ihn fest.<br/> Wenn die Form kein Bild ist, gibt die WidthScale-Eigenschaft nur 100 zurück.|
+| [height_scale](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_scale) | Ruft den Höhenmaßstab ab und legt ihn in Prozent der ursprünglichen Bildhöhe fest.<br/> Wenn die Form kein Bild ist, gibt die HeightScale-Eigenschaft nur 100 zurück.|
+| [top_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/top_in_shape) | Stellt den vertikalen Abstand der Form vom oberen Rand der übergeordneten Form dar.<br/> in Einheiten von 1/4000 der Höhe der übergeordneten Form.|
+| [left_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/left_in_shape) | Stellt den horizontalen Abstand der Form vom linken Rand der übergeordneten Form dar.<br/> in Einheiten von 1/4000 der Breite der übergeordneten Form.|
 | [width_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/width_in_shape) | Stellt die Breite der Form in Einheiten von 1/4000 der übergeordneten Form dar.|
-| [height_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_in_shape) | Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form in der Einheit 1/4000 der Höhe der übergeordneten Form dar.|
+| [height_in_shape](/cells/python-net/de/aspose.cells.drawing/customxmlshape/height_in_shape) | Stellt den vertikalen Versatz der Form vom oberen Rand der übergeordneten Form in Einheiten von 1/4000 der Höhe der übergeordneten Form dar.|
 | [group](/cells/python-net/de/aspose.cells.drawing/customxmlshape/group) | Ruft die Gruppenform ab, die diese Form enthält.|
-| [type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/type) | Ruft den automatischen Formtyp ab.|
-| [has_line](/cells/python-net/de/aspose.cells.drawing/customxmlshape/has_line) | Ruft ab und legt fest, dass der Linienrand der Form sichtbar ist.|
+| [type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/type) |Ruft den automatischen Formtyp ab.|
+| [has_line](/cells/python-net/de/aspose.cells.drawing/customxmlshape/has_line) | Ruft ab und legt fest, ob die Linienbegrenzung der Form sichtbar ist.|
 | [is_filled](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_filled) | Gibt an, ob das Füllformat sichtbar ist.|
-| [is_flipped_horizontally](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_flipped_horizontally) | Ruft ab und legt fest, ob die Form horizontal gespiegelt wird.|
-| [is_flipped_vertically](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_flipped_vertically) | Ruft ab und legt fest, ob die Form vertikal gespiegelt wird.|
-| [actual_lower_right_row](/cells/python-net/de/aspose.cells.drawing/customxmlshape/actual_lower_right_row) | Holen Sie sich die tatsächliche untere Reihe.|
-| [connection_points](/cells/python-net/de/aspose.cells.drawing/customxmlshape/connection_points) | Holen Sie sich die Verbindungspunkte|
-| [relative_to_original_picture_size](/cells/python-net/de/aspose.cells.drawing/customxmlshape/relative_to_original_picture_size) | Gibt an, ob die Form relativ zur Originalbildgröße ist.|
-| [linked_cell](/cells/python-net/de/aspose.cells.drawing/customxmlshape/linked_cell) | Ruft den mit dem Wert des Steuerelements verknüpften Arbeitsblattbereich ab oder legt diesen fest.|
+| [is_flipped_horizontally](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_flipped_horizontally) | Ruft ab und legt fest, ob die Form horizontal gespiegelt ist.|
+| [is_flipped_vertically](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_flipped_vertically) | Ruft ab und legt fest, ob die Form vertikal gespiegelt ist.|
+| [actual_lower_right_row](/cells/python-net/de/aspose.cells.drawing/customxmlshape/actual_lower_right_row) | Holen Sie sich die tatsächliche unterste Reihe.|
+| [relative_to_original_picture_size](/cells/python-net/de/aspose.cells.drawing/customxmlshape/relative_to_original_picture_size) | Gibt an, ob die Form relativ zur ursprünglichen Bildgröße ist.|
+| [linked_cell](/cells/python-net/de/aspose.cells.drawing/customxmlshape/linked_cell) | Ruft den mit dem Wert des Steuerelements verknüpften Arbeitsblattbereich ab oder legt ihn fest.|
 | [input_range](/cells/python-net/de/aspose.cells.drawing/customxmlshape/input_range) | Ruft den Arbeitsblattbereich ab, der zum Füllen des angegebenen Kombinationsfelds verwendet wird, oder legt diesen fest.|
-| [text_shape_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_shape_type) |Ruft den voreingestellten Textformtyp ab und legt ihn fest.|
-| [text_body](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_body) | Ruft die Einstellung des Texts der Form ab und legt diese fest.|
+| [text_shape_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_shape_type) | Ruft den voreingestellten Textformtyp ab und legt ihn fest.|
+| [text_body](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_body) | Ruft die Einstellung des Formtextes ab und legt sie fest.|
 | [font](/cells/python-net/de/aspose.cells.drawing/customxmlshape/font) | Stellt die Schriftart der Form dar.|
 | [text_options](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_options) | Stellt die Textoptionen der Form dar.|
-| [text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text) | Stellt die Zeichenfolge in diesem TextBox-Objekt dar.|
-| [is_rich_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_rich_text) | Ob es sich bei dem Text um Rich Text handelt oder nicht.|
-| [html_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/html_text) | Ruft die HTML-Zeichenfolge ab, die Daten und einige Formate in diesem Textfeld enthält, und legt diese fest.|
-| [text_vertical_overflow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_vertical_overflow) | Ruft den vertikalen Textüberlauftyp der Form ab, die Text enthält, und legt diesen fest.|
-| [text_horizontal_overflow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_horizontal_overflow) | Ruft den horizontalen Textüberlauftyp der Form ab, die Text enthält, und legt diesen fest.|
-| [is_text_wrapped](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_text_wrapped) | Ruft den Textumbruchtyp der Form ab, die Text enthält, und legt diesen fest.|
+| [text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text) | Ruft den Text dieser Form ab und legt ihn fest.|
+| [is_rich_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_rich_text) | Ob der Text Rich Text ist oder nicht.|
+| [html_text](/cells/python-net/de/aspose.cells.drawing/customxmlshape/html_text) | Ruft die HTML-Zeichenfolge ab und legt sie fest, die Daten und einige Formate in diesem Textfeld enthält.|
+| [text_vertical_overflow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_vertical_overflow) | Ruft den vertikalen Textüberlauftyp der Form ab, die Text enthält, und legt ihn fest.|
+| [text_horizontal_overflow](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_horizontal_overflow) |Ruft den horizontalen Textüberlauftyp der Form ab, die Text enthält, und legt ihn fest.|
+| [is_text_wrapped](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_text_wrapped) | Ruft den Textumbruchtyp der Form ab, die Text enthält, und legt ihn fest.|
 | [text_orientation_type](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_orientation_type) | Ruft den Textausrichtungstyp der Form ab und legt ihn fest.|
-| [text_horizontal_alignment](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_horizontal_alignment) | Ruft den horizontalen Textausrichtungstyp der Form ab und legt diesen fest.|
-| [text_vertical_alignment](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_vertical_alignment) | Ruft den vertikalen Textausrichtungstyp der Form ab und legt diesen fest.|
-| [text_direction](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_direction) | Ruft die Richtung des Textflusses für dieses Objekt ab bzw. legt sie fest.|
-| [control_data](/cells/python-net/de/aspose.cells.drawing/customxmlshape/control_data) | Ruft die Kontrolldaten ab.|
+| [text_horizontal_alignment](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_horizontal_alignment) | Ruft den horizontalen Textausrichtungstyp der Form ab und legt ihn fest.|
+| [text_vertical_alignment](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_vertical_alignment) | Ruft den Typ der vertikalen Textausrichtung der Form ab und legt ihn fest.|
+| [text_direction](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_direction) | Ruft die Richtung des Textflusses für dieses Objekt ab/legt sie fest.|
+| [text_box_options](/cells/python-net/de/aspose.cells.drawing/customxmlshape/text_box_options) | Ruft die Textinformationen in der Form ab|
+| [control_data](/cells/python-net/de/aspose.cells.drawing/customxmlshape/control_data) | Ruft die Daten der Steuerung ab.|
 | [active_x_control](/cells/python-net/de/aspose.cells.drawing/customxmlshape/active_x_control) | Ruft das ActiveX-Steuerelement ab.|
-| [paths](/cells/python-net/de/aspose.cells.drawing/customxmlshape/paths) |Ruft die Pfade einer benutzerdefinierten geometrischen Form ab.|
-| [geometry](/cells/python-net/de/aspose.cells.drawing/customxmlshape/geometry) | Ruft die Geometrie ab|
+| [paths](/cells/python-net/de/aspose.cells.drawing/customxmlshape/paths) | Ruft die Pfade einer benutzerdefinierten geometrischen Form ab.|
 | [create_id](/cells/python-net/de/aspose.cells.drawing/customxmlshape/create_id) | Ruft die Erstellungs-ID für diese Form ab und legt sie fest.|
+| [is_decorative](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_decorative) | Gibt an, ob das Objekt dekorativ ist.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [to_image](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#io.RawIOBase-aspose.cells.drawing.ImageType) | Erstellt das Formbild und speichert es in einem Stream im angegebenen Format.|
-| [to_image](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Speichert die Form in einer Datei.|
-| [to_image](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Speichert die Form in einem Stream.|
-| [format_characters](/cells/python-net/de/aspose.cells.drawing/customxmlshape/format_characters/#int-int-aspose.cells.Font-aspose.cells.StyleFlag) | Formatiert einige Zeichen mit der Schriftarteinstellung.|
-| [format_characters](/cells/python-net/de/aspose.cells.drawing/customxmlshape/format_characters/#int-int-aspose.cells.Font) | Formatiert einige Zeichen mit der Schriftarteinstellung.|
-| [get_result_of_smart_art](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_result_of_smart_art/#) | Konvertieren von Smart Art in gruppierte Formen.|
-| [to_front_or_back](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_front_or_back/#int) | Bringt die Form nach vorne oder nach hinten.|
-| [get_locked_property](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_locked_property/#aspose.cells.drawing.ShapeLockType) | Ruft den Wert der gesperrten Eigenschaft ab.|
-| [set_locked_property](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_locked_property/#aspose.cells.drawing.ShapeLockType-bool) | Legen Sie die gesperrte Eigenschaft fest.|
-| [add_hyperlink](/cells/python-net/de/aspose.cells.drawing/customxmlshape/add_hyperlink/#str) | Fügt der Form einen Hyperlink hinzu.|
-| [remove_hyperlink](/cells/python-net/de/aspose.cells.drawing/customxmlshape/remove_hyperlink/#) | Entfernen Sie den Hyperlink der Form.|
-| [move_to_range](/cells/python-net/de/aspose.cells.drawing/customxmlshape/move_to_range/#int-int-int-int) | Verschiebt die Form in einen angegebenen Bereich.|
-| [align_top_right_corner](/cells/python-net/de/aspose.cells.drawing/customxmlshape/align_top_right_corner/#int-int) |Verschiebt das Bild in die rechte obere Ecke.|
-| [get_connection_points](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_connection_points/#) | Holen Sie sich die Verbindungspunkte|
-| [get_linked_cell](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_linked_cell/#bool-bool) | Ruft den mit dem Wert des Steuerelements verknüpften Bereich ab.|
-| [set_linked_cell](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_linked_cell/#str-bool-bool) | Legt den Bereich fest, der mit dem Wert des Steuerelements verknüpft ist.|
-| [get_input_range](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_input_range/#bool-bool) | Ruft den Bereich ab, der zum Füllen des Steuerelements verwendet wird.|
-| [set_input_range](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_input_range/#str-bool-bool) | Legt den Bereich fest, der zum Füllen des Steuerelements verwendet wird.|
-| [update_selected_value](/cells/python-net/de/aspose.cells.drawing/customxmlshape/update_selected_value/#) | Aktualisieren Sie den ausgewählten Wert um den Wert der verknüpften Zelle.|
-| [calculate_text_size](/cells/python-net/de/aspose.cells.drawing/customxmlshape/calculate_text_size/#) | Berechnen Sie den Textbereich neu|
-| [characters](/cells/python-net/de/aspose.cells.drawing/customxmlshape/characters/#int-int) | Gibt ein Characters-Objekt zurück, das einen Bereich von Zeichen im Text darstellt.|
-| [get_characters](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_characters/#) | Gibt alle Characters-Objekte zurück<br/> das eine Reihe von Zeichen im Text darstellt.|
-| [get_rich_formattings](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_rich_formattings/#) | Gibt alle Characters-Objekte zurück<br/> das eine Reihe von Zeichen im Text darstellt.|
-| [remove_active_x_control](/cells/python-net/de/aspose.cells.drawing/customxmlshape/remove_active_x_control/#) | Entfernen Sie das ActiveX-Steuerelement.|
-| [is_same_setting](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_same_setting/#any) | Gibt zurück, ob die Form gleich ist.|
-| [get_actual_box](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_actual_box/#) | Ermitteln Sie die tatsächliche Position und Größe der Form (nach der Anwendung von Drehung, Spiegelung usw.)|
+| [`to_image(self, stream, image_type)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#io.rawiobase-aspose.cells.drawing.imagetype) | Erstellt das Formbild und speichert es im angegebenen Format in einem Stream.|
+| [`to_image(self, image_file, options)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Speichert die Form in einer Datei.|
+| [`to_image(self, stream, options)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Speichert die Form in einem Stream.|
+| [`get_result_of_smart_art(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_result_of_smart_art/#) | Konvertieren von Smart Art in gruppierte Formen.|
+| [`to_front_or_back(self, orders)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/to_front_or_back/#int) | Bringt die Form in den Vordergrund oder schickt die Form in den Hintergrund.|
+| [`get_locked_property(self, type)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_locked_property/#aspose.cells.drawing.shapelocktype) | Ruft den Wert der gesperrten Eigenschaft ab.|
+| [`set_locked_property(self, type, value)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_locked_property/#aspose.cells.drawing.shapelocktype-bool) | Legen Sie die gesperrte Eigenschaft fest.|
+| [`add_hyperlink(self, address)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/add_hyperlink/#str) | Fügt der Form einen Hyperlink hinzu.|
+| [`remove_hyperlink(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/remove_hyperlink/#) | Entfernt den Hyperlink der Form.|
+| [`move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/move_to_range/#int-int-int-int) | Verschiebt die Form in einen angegebenen Bereich.|
+| [`align_top_right_corner(self, top_row, right_column)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/align_top_right_corner/#int-int) | Verschiebt das Bild in die obere rechte Ecke.|
+| [`get_connection_points(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_connection_points/#) | Abrufen der Verbindungspunkte|
+| [`get_linked_cell(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_linked_cell/#bool-bool) | Ruft den mit dem Wert des Steuerelements verknüpften Bereich ab.|
+| [`set_linked_cell(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_linked_cell/#str-bool-bool) | Legt den mit dem Wert des Steuerelements verknüpften Bereich fest.|
+| [`get_input_range(self, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_input_range/#bool-bool) | Ruft den Bereich ab, der zum Füllen des Steuerelements verwendet wird.|
+| [`set_input_range(self, formula, is_r1c1, is_local)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/set_input_range/#str-bool-bool) | Legt den Bereich fest, der zum Füllen des Steuerelements verwendet wird.|
+| [`update_selected_value(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/update_selected_value/#) | Aktualisieren Sie den ausgewählten Wert mit dem Wert der verknüpften Zelle.|
+| [`calculate_text_size(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/calculate_text_size/#) | Textbereich neu berechnen|
+| [`format_characters(self, start_index, length, font, flag)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/format_characters/#int-int-aspose.cells.font-aspose.cells.styleflag) | Formatiert einige Zeichen mit der Schriftarteinstellung.|
+| [`characters(self, start_index, length)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/characters/#int-int) |Gibt ein Characters-Objekt zurück, das einen Zeichenbereich innerhalb des Textes darstellt.|
+| [`get_characters(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_characters/#) | Gibt alle Characters-Objekte zurück<br/>das einen Zeichenbereich innerhalb des Textes darstellt.|
+| [`get_rich_formattings(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_rich_formattings/#) | Gibt alle Characters-Objekte zurück<br/>das einen Zeichenbereich innerhalb des Textes darstellt.|
+| [`remove_active_x_control(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/remove_active_x_control/#) | ActiveX-Steuerelement entfernen.|
+| [`is_same_setting(self, obj)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/is_same_setting/#any) | Gibt zurück, ob die Form gleich ist.|
+| [`get_actual_box(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/get_actual_box/#) | Erhalten Sie die tatsächliche Position und Größe der Form (nach dem Anwenden von Drehung, Spiegelung usw.)|
+| [`fit_to_text_size(self)`](/cells/python-net/de/aspose.cells.drawing/customxmlshape/fit_to_text_size/#) | Berechnen Sie einen Textbereich neu, der für die Anzeige des gesamten Textinhalts geeignet ist.|
 
 
 

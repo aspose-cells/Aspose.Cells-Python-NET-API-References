@@ -3,13 +3,13 @@ title: window_width_cm Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 620
+weight: 630
 url: /de/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---
 ##  window_width_cm Eigentum
 
-Die Breite des Fensters in der Einheit Zentimeter.
+Die Breite des Fensters in Zentimetern.
 ###  Definition:
 ```python
 @property

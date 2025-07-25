@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [VerticalPageBreak](/cells/python-net/fr/aspose.cells/verticalpagebreak)
+* module [`aspose.cells`](../../)
+* classe [`VerticalPageBreak`](/cells/python-net/fr/aspose.cells/verticalpagebreak)

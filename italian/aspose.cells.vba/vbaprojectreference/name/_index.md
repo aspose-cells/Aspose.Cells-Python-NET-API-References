@@ -1,6 +1,6 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name proprietà
 
-Ottiene e imposta il numero name del riferimento.
+Ottiene e imposta il name del riferimento.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)

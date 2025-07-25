@@ -13,8 +13,8 @@ Sütunların veri türünü bulmak için tüm verileri kontrol edin.
 
 ###  Notlar
 
-Varsayılan değer false'tur, performans için yalnızca ilk satırı kontrol ederiz.
-Bu özellik true ise ve sütunlar karma değer türü içeriyorsa, sütunların türü metin olacaktır.
+Varsayılan değer false'tur, performans açısından sadece ilk satırı kontrol ederiz.
+Bu özellik true ise ve sütunlar karma değer türünü içeriyorsa, sütunların türü metin olacaktır.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def check_all_data_for_column_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [SqlScriptSaveOptions](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`SqlScriptSaveOptions`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)

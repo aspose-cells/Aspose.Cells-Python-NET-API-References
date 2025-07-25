@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/plotemptycellstype/
 is_root: false
 ---
 ##  PlotEmptyCellsType uppräkning
-Representerar all plottad tomma celltyp i ett diagram.
+Representerar alla tomma celltyper i ett diagram.
 
 
 
@@ -17,11 +17,11 @@ Typen PlotEmptyCellsType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| NOT_PLOTTED | Inte plottad (lämna lucka)|
+| NOT_PLOTTED | Inte ritad (lämna mellanrum)|
 | ZERO | Noll|
 | INTERPOLATED | Interpolerad|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

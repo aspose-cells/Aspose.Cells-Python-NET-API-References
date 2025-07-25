@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ValidationCollection](/cells/python-net/tr/aspose.cells/validationcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ValidationCollection`](/cells/python-net/tr/aspose.cells/validationcollection)

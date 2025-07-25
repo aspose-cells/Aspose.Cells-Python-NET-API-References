@@ -3,17 +3,17 @@ title: is_v_scroll_bar_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 310
 url: /de/aspose.cells/workbooksettings/is_v_scroll_bar_visible/
 is_root: false
 ---
 ##  is_v_scroll_bar_visible Eigentum
 
-Ruft einen Wert ab, der angibt, ob die generierte Tabelle eine vertikale Bildlaufleiste enthält, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die generierte Tabelle eine vertikale Bildlaufleiste enthält.
 
 ###  Bemerkungen
 
-Der Standardwert ist wahr.
+Der Standardwert ist „true“.
 
 ###  Beispiel
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contour_color fastighet
 
-Får och sätter konturfärgen på en form.
+Hämtar och anger konturfärgen på en form.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def contour_color(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CellsColor](/cells/python-net/sv/aspose.cells/cellscolor)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CellsColor`](/cells/python-net/sv/aspose.cells/cellscolor)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

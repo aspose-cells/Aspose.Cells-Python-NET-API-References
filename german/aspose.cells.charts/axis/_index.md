@@ -21,53 +21,54 @@ Der Typ Axis macht die folgenden Member verfügbar:
 | [is_automatic_min_value](/cells/python-net/de/aspose.cells.charts/axis/is_automatic_min_value) | Gibt an, ob der Mindestwert automatisch zugewiesen wird.|
 | [min_value](/cells/python-net/de/aspose.cells.charts/axis/min_value) | Stellt den Mindestwert auf der Werteachse dar.|
 | [is_automatic_max_value](/cells/python-net/de/aspose.cells.charts/axis/is_automatic_max_value) | Gibt an, ob der Maximalwert automatisch zugewiesen wird.|
-| [max_value](/cells/python-net/de/aspose.cells.charts/axis/max_value) |Stellt den Maximalwert auf der Werteachse dar.|
+| [max_value](/cells/python-net/de/aspose.cells.charts/axis/max_value) | Stellt den Maximalwert auf der Werteachse dar.|
 | [is_automatic_major_unit](/cells/python-net/de/aspose.cells.charts/axis/is_automatic_major_unit) | Gibt an, ob die Haupteinheit der Achse automatisch zugewiesen wird.|
 | [major_unit](/cells/python-net/de/aspose.cells.charts/axis/major_unit) | Stellt die Haupteinheiten für die Achse dar.|
 | [is_automatic_minor_unit](/cells/python-net/de/aspose.cells.charts/axis/is_automatic_minor_unit) | Gibt an, ob die Nebeneinheit der Achse automatisch zugewiesen wird.|
 | [minor_unit](/cells/python-net/de/aspose.cells.charts/axis/minor_unit) | Stellt die Nebeneinheiten für die Achse dar.|
-| [axis_line](/cells/python-net/de/aspose.cells.charts/axis/axis_line) | Ruft das Erscheinungsbild einer Achse ab.|
-| [major_tick_mark](/cells/python-net/de/aspose.cells.charts/axis/major_tick_mark) | Stellt den Typ des Hauptteilstrichs für die angegebene Achse dar.|
-| [minor_tick_mark](/cells/python-net/de/aspose.cells.charts/axis/minor_tick_mark) | Stellt den Typ des kleinen Teilstrichs für die angegebene Achse dar.|
+| [axis_line](/cells/python-net/de/aspose.cells.charts/axis/axis_line) | Erhält das Erscheinungsbild einer Achse.|
+| [major_tick_mark](/cells/python-net/de/aspose.cells.charts/axis/major_tick_mark) |Stellt den Typ der Hauptmarkierung für die angegebene Achse dar.|
+| [minor_tick_mark](/cells/python-net/de/aspose.cells.charts/axis/minor_tick_mark) | Stellt den Typ der kleinen Teilstriche für die angegebene Achse dar.|
 | [tick_label_position](/cells/python-net/de/aspose.cells.charts/axis/tick_label_position) | Stellt die Position der Teilstrichbeschriftungen auf der angegebenen Achse dar.|
 | [cross_at](/cells/python-net/de/aspose.cells.charts/axis/cross_at) | Stellt den Punkt auf der Werteachse dar, an dem die Kategorieachse sie schneidet.|
-| [cross_type](/cells/python-net/de/aspose.cells.charts/axis/cross_type) | Stellt [`Axis.cross_type`](/cells/python-net/de/aspose.cells.charts/axis#cross_type) auf der angegebenen Achse dar, wo sich die andere Achse kreuzt.|
-| [log_base](/cells/python-net/de/aspose.cells.charts/axis/log_base) | Stellt die logarithmische Basis dar. Der Standardwert ist 10. Gilt nur für Excel2007.|
-| [is_logarithmic](/cells/python-net/de/aspose.cells.charts/axis/is_logarithmic) | Stellt dar, ob der Skalierungstyp der Wertachse logarithmisch ist oder nicht.|
-| [is_plot_order_reversed](/cells/python-net/de/aspose.cells.charts/axis/is_plot_order_reversed) | Stellt dar, ob Microsoft Excel Datenpunkte vom letzten zum ersten zeichnet.|
-| [axis_between_categories](/cells/python-net/de/aspose.cells.charts/axis/axis_between_categories) |Stellt dar, ob die Wertachse die Kategorieachse zwischen Kategorien kreuzt.|
+| [cross_type](/cells/python-net/de/aspose.cells.charts/axis/cross_type) | Stellt [`Axis.cross_type`](/cells/python-net/de/aspose.cells.charts/axis#cross_type) auf der angegebenen Achse dar, wo die andere Achse sie kreuzt.|
+| [log_base](/cells/python-net/de/aspose.cells.charts/axis/log_base) | Stellt die logarithmische Basis dar. Der Standardwert ist 10. Gilt nur für Excel 2007.|
+| [is_logarithmic](/cells/python-net/de/aspose.cells.charts/axis/is_logarithmic) | Gibt an, ob der Skalentyp der Werteachse logarithmisch ist oder nicht.|
+| [is_plot_order_reversed](/cells/python-net/de/aspose.cells.charts/axis/is_plot_order_reversed) | Stellt dar, wenn Microsoft Excel Datenpunkte vom letzten zum ersten aufzeichnet.|
+| [axis_between_categories](/cells/python-net/de/aspose.cells.charts/axis/axis_between_categories) | Stellt dar, ob die Werteachse die Kategorieachse zwischen Kategorien schneidet.|
 | [tick_labels](/cells/python-net/de/aspose.cells.charts/axis/tick_labels) | Gibt ein [`Axis.tick_labels`](/cells/python-net/de/aspose.cells.charts/axis#tick_labels)-Objekt zurück, das die Teilstrichbeschriftungen für die angegebene Achse darstellt.|
-| [tick_label_spacing](/cells/python-net/de/aspose.cells.charts/axis/tick_label_spacing) | Stellt die Anzahl der Kategorien oder Serien zwischen den Markierungsbeschriftungen dar. Gilt nur für Kategorie- und Serienachsen.|
-| [is_auto_tick_label_spacing](/cells/python-net/de/aspose.cells.charts/axis/is_auto_tick_label_spacing) | Gibt an, ob der Abstand der Teilstrichbeschriftung automatisch erfolgt|
-| [tick_mark_spacing](/cells/python-net/de/aspose.cells.charts/axis/tick_mark_spacing) | Gibt die Anzahl der Kategorien oder Serien zwischen den Teilstrichen zurück oder legt sie fest. Gilt nur für Kategorie- und Serienachsen.|
+| [tick_label_spacing](/cells/python-net/de/aspose.cells.charts/axis/tick_label_spacing) | Stellt die Anzahl der Kategorien oder Reihen zwischen den Teilstrichbeschriftungen dar. Gilt nur für Kategorie- und Reihenachsen.|
+| [is_auto_tick_label_spacing](/cells/python-net/de/aspose.cells.charts/axis/is_auto_tick_label_spacing) | Gibt an, ob der Abstand der Teilstrichbeschriftung automatisch ist|
+| [tick_mark_spacing](/cells/python-net/de/aspose.cells.charts/axis/tick_mark_spacing) |Gibt die Anzahl der Kategorien oder Reihen zwischen den Teilstrichen zurück oder legt sie fest. Gilt nur für Kategorie- und Reihenachsen.|
 | [display_unit](/cells/python-net/de/aspose.cells.charts/axis/display_unit) | Stellt die Einheitenbezeichnung für die angegebene Achse dar.|
 | [cust_unit](/cells/python-net/de/aspose.cells.charts/axis/cust_unit) | Gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.|
 | [custom_unit](/cells/python-net/de/aspose.cells.charts/axis/custom_unit) | Gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.|
-| [display_unit_label](/cells/python-net/de/aspose.cells.charts/axis/display_unit_label) | Stellt eine Einheitenbezeichnung auf einer Achse im angegebenen Diagramm dar.<br/> Einheitenbeschriftungen sind nützlich für die Darstellung großer Werte, beispielsweise im Millionen- oder Milliardenbereich.|
-| [is_display_unit_label_shown](/cells/python-net/de/aspose.cells.charts/axis/is_display_unit_label_shown) | Stellt dar, ob die Beschriftung der Anzeigeeinheit auf der angegebenen Achse angezeigt wird.|
+| [custom_display_unit](/cells/python-net/de/aspose.cells.charts/axis/custom_display_unit) | Gibt einen benutzerdefinierten Wert für die Anzeigeeinheit an.|
+| [display_unit_label](/cells/python-net/de/aspose.cells.charts/axis/display_unit_label) | Stellt eine Einheitenbeschriftung auf einer Achse im angegebenen Diagramm dar.<br/> Einheitenbeschriftungen sind nützlich, um große Werte – beispielsweise im Millionen- oder Milliardenbereich – grafisch darzustellen.|
+| [is_display_unit_label_shown](/cells/python-net/de/aspose.cells.charts/axis/is_display_unit_label_shown) | Gibt an, ob die Beschriftung der Anzeigeeinheit auf der angegebenen Achse angezeigt wird.|
 | [title](/cells/python-net/de/aspose.cells.charts/axis/title) | Ruft den Titel der Achse ab.|
 | [category_type](/cells/python-net/de/aspose.cells.charts/axis/category_type) | Stellt den Kategorieachsentyp dar.|
 | [base_unit_scale](/cells/python-net/de/aspose.cells.charts/axis/base_unit_scale) | Stellt die Basiseinheitenskala für die Kategorieachse dar.|
-| [major_unit_scale](/cells/python-net/de/aspose.cells.charts/axis/major_unit_scale) |Stellt die Haupteinheitenskala für die Kategorieachse dar.|
-| [minor_unit_scale](/cells/python-net/de/aspose.cells.charts/axis/minor_unit_scale) |Stellt die Haupteinheitenskala für die Kategorieachse dar.|
+| [major_unit_scale](/cells/python-net/de/aspose.cells.charts/axis/major_unit_scale) | Stellt die Haupteinheitenskala für die Kategorieachse dar.|
+| [minor_unit_scale](/cells/python-net/de/aspose.cells.charts/axis/minor_unit_scale) | Stellt die Haupteinheitenskala für die Kategorieachse dar.|
 | [is_visible](/cells/python-net/de/aspose.cells.charts/axis/is_visible) | Gibt an, ob die Achse sichtbar ist.|
-| [major_grid_lines](/cells/python-net/de/aspose.cells.charts/axis/major_grid_lines) | Stellt Hauptgitterlinien auf einer Diagrammachse dar.|
-| [minor_grid_lines](/cells/python-net/de/aspose.cells.charts/axis/minor_grid_lines) | Stellt kleinere Gitterlinien auf einer Diagrammachse dar.|
-| [has_multi_level_labels](/cells/python-net/de/aspose.cells.charts/axis/has_multi_level_labels) | Gibt an, ob die Beschriftungen mehrstufig angezeigt werden sollen.|
-| [axis_labels](/cells/python-net/de/aspose.cells.charts/axis/axis_labels) | Ruft die Beschriftungen der Achse nach dem Aufruf der Chart.Calculate()-Methode ab.|
-| [bins](/cells/python-net/de/aspose.cells.charts/axis/bins) | Stellt Abschnitte auf einer Diagrammachse (Histogramm/Pareto) dar|
+| [major_grid_lines](/cells/python-net/de/aspose.cells.charts/axis/major_grid_lines) | Stellt die wichtigsten Gitternetzlinien auf einer Diagrammachse dar.|
+| [minor_grid_lines](/cells/python-net/de/aspose.cells.charts/axis/minor_grid_lines) | Stellt kleinere Gitternetzlinien auf einer Diagrammachse dar.|
+| [has_multi_level_labels](/cells/python-net/de/aspose.cells.charts/axis/has_multi_level_labels) | Gibt an, ob die Beschriftungen mehrstufig dargestellt werden sollen.|
+| [axis_labels](/cells/python-net/de/aspose.cells.charts/axis/axis_labels) | Ruft die Beschriftungen der Achse nach dem Aufruf der Methode Chart.Calculate() ab.|
+| [bins](/cells/python-net/de/aspose.cells.charts/axis/bins) | Stellt Bins auf einer Diagrammachse (Histogramm/Pareto) dar|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [get_axis_texts](/cells/python-net/de/aspose.cells.charts/axis/get_axis_texts/#) | Ruft die Beschriftungen der Achse nach dem Aufruf der Chart.Calculate()-Methode ab.|
+| [`get_axis_texts(self)`](/cells/python-net/de/aspose.cells.charts/axis/get_axis_texts/#) | Ruft die Beschriftungen der Achse nach dem Aufruf der Methode Chart.Calculate() ab.|
 
 
 
 ###  Beispiel
 
-Anhand der folgenden Codes erfahren Sie, wie Sie die Einheit sowie den Maximal- und Minimalwert von Axis festlegen.
+Anhand der folgenden Codes können Sie lernen, wie Sie die Einheit sowie den Maximal- und Minimalwert von Axis einstellen.
 
 ```python
 from aspose.cells import Workbook

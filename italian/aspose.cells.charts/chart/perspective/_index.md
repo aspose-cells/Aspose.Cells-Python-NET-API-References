@@ -1,6 +1,6 @@
 ---
 title: perspective proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 410
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective proprietà
 
-Restituisce o imposta perspective per la visualizzazione del grafico 3D. Deve essere compreso tra 0 e 100.
+Restituisce o imposta perspective per la vista del grafico 3D. Deve essere compreso tra 0 e 100.
 Questa proprietà viene ignorata se la proprietà RightAngleAxes è True.
 ###  Definizione:
 ```python

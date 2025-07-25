@@ -1,13 +1,13 @@
 ---
-title: export_document_structure الملكية
+title: export_document_structure عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 250
 url: /ar/aspose.cells/pdfsaveoptions/export_document_structure/
 is_root: false
 ---
-##  export_document_structure الملكية
+##  export_document_structure عقار
 
 يشير إلى ما إذا كان سيتم تصدير بنية المستند.
 ###  تعريف:
@@ -21,5 +21,5 @@ def export_document_structure(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

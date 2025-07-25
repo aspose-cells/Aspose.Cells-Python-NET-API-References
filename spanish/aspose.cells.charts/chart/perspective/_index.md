@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  perspective propiedad
 
-Devuelve o establece el perspective para la vista del gráfico 3D. Debe estar entre 0 y 100.
-Esta propiedad se ignora si la propiedad RightAngleAxes es True.
+Devuelve o establece el valor perspective para la vista de gráfico 3D. Debe estar entre 0 y 100.
+Esta propiedad se ignora si la propiedad RightAngleAxes es Verdadera.
 ###  Definición:
 ```python
 @property

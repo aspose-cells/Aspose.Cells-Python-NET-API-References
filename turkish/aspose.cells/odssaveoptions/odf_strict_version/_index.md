@@ -3,13 +3,13 @@ title: odf_strict_version mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 90
+weight: 120
 url: /tr/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---
 ##  odf_strict_version mülk
 
-ODF sürümünü alır ve ayarlar.
+ODF versiyonunu alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

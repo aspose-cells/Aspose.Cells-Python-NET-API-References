@@ -1,18 +1,19 @@
 ---
-title: metodo replace
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo replace
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 350
 url: /it/aspose.cells/workbook/replace/
 is_root: false
 ---
-##  replace(place_holder, new_value) {#str-str}
+##  replace(self, place_holder, new_value) {#str-str}
 Sostituisce il valore di una cella con una nuova stringa.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -35,12 +36,13 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-##  replace(place_holder, new_value) {#str-int}
+##  replace(self, place_holder, new_value) {#str-int}
 Sostituisce il valore di una cella con un nuovo numero intero.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -64,12 +66,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(place_holder, new_value) {#str-float}
-Sostituisce il valore di una cella con un nuovo double.
+##  replace(self, place_holder, new_value) {#str-float}
+Sostituisce il valore di una cella con un nuovo valore double.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value):
     ...
 ```
@@ -78,7 +81,7 @@ def replace(self, place_holder, new_value):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | place_holder | str | Cell segnaposto|
-| new_value | float | Valore doppio da sostituire|
+| new_value | float | Doppio valore da sostituire|
 
 ###  Esempio
 
@@ -93,12 +96,13 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-##  replace(bool_value, new_value) {#bool-any}
+##  replace(self, bool_value, new_value) {#bool-any}
 Sostituisce i valori delle celle con nuovi dati.
 
 
 
 ```python
+
 def replace(self, bool_value, new_value):
     ...
 ```
@@ -106,16 +110,17 @@ def replace(self, bool_value, new_value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| bool_value | bool | Il valore booleano da sostituire.|
-| new_value | any | Nuovo valore. Può essere una stringa, un numero intero, un valore double o DateTime.|
+| bool_value | bool | Valore booleano da sostituire.|
+| new_value | any | Nuovo valore. Può essere una stringa, un intero, un valore double o DateTime.|
 
 
-##  replace(int_value, new_value) {#int-any}
+##  replace(self, int_value, new_value) {#int-any}
 Sostituisce i valori delle celle con nuovi dati.
 
 
 
 ```python
+
 def replace(self, int_value, new_value):
     ...
 ```
@@ -123,16 +128,17 @@ def replace(self, int_value, new_value):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| int_value | int | Il valore intero da sostituire.|
-| new_value | any | Nuovo valore. Può essere una stringa, un numero intero, un valore double o DateTime.|
+| int_value | int | Valore intero da sostituire.|
+| new_value | any | Nuovo valore. Può essere una stringa, un intero, un valore double o DateTime.|
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-Sostituisce il valore di una cella con un nuovo array di stringhe.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+Sostituisce il valore di una cella con una nuova matrice di stringhe.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -141,7 +147,7 @@ def replace(self, place_holder, new_values, is_vertical):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | place_holder | str | Cell segnaposto|
-| new_values | list | Matrice di stringhe da sostituire|
+| new_values | list | Array di stringhe da sostituire|
 | is_vertical | bool | Vero - Verticale, Falso - Orizzontale|
 
 ###  Esempio
@@ -157,12 +163,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-Sostituisce i valori delle celle con un array di interi.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+Sostituisce i valori delle celle con un array di numeri interi.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -171,7 +178,7 @@ def replace(self, place_holder, new_values, is_vertical):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | place_holder | str | Cell segnaposto|
-| new_values | list | Matrice intera da sostituire|
+| new_values | list | Array di interi da sostituire|
 | is_vertical | bool | Vero - Verticale, Falso - Orizzontale|
 
 ###  Esempio
@@ -187,12 +194,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_values, is_vertical) {#str-list-bool}
-Sostituisce i valori delle celle con un doppio array.
+##  replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+Sostituisce i valori delle celle con un array doppio.
 
 
 
 ```python
+
 def replace(self, place_holder, new_values, is_vertical):
     ...
 ```
@@ -217,12 +225,13 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-##  replace(place_holder, new_value, options) {#str-str-ReplaceOptions}
+##  replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
 Sostituisce il valore di una cella con una nuova stringa.
 
 
 
 ```python
+
 def replace(self, place_holder, new_value, options):
     ...
 ```
@@ -232,10 +241,10 @@ def replace(self, place_holder, new_value, options):
 | :- | :- | :- |
 | place_holder | str | Cell segnaposto|
 | new_value | str | Valore stringa da sostituire|
-| options | [ReplaceOptions](/cells/python-net/it/aspose.cells/replaceoptions) | Le opzioni di sostituzione|
+| options | [`ReplaceOptions`](/cells/python-net/it/aspose.cells/replaceoptions) | Le opzioni di sostituzione|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/it/aspose.cells/workbook)
+* modulo [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/it/aspose.cells/workbook)

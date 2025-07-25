@@ -1,15 +1,15 @@
 ---
 title: item_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 460
+weight: 550
 url: /ru/aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---
 ##  item_count недвижимость
 
-Получает количество базовых элементов этого сводного поля.
+Получает количество базовых элементов в этом сводном поле.
 ###  Определение:
 ```python
 @property

@@ -3,12 +3,12 @@ title: طريقة is_blank
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 180
 url: /ar/aspose.cells/range/is_blank/
 is_root: false
 ---
-##  is_blank {#}
-الإشارة إلى ما إذا كان النطاق يحتوي على قيم.
+##  is_blank(self) {#}
+يشير إلى ما إذا كان النطاق يحتوي على قيم.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def is_blank(self):
     ...
 ```

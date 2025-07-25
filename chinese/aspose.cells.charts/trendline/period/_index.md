@@ -1,19 +1,19 @@
 ---
-title: period 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: period属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 290
 url: /zh/aspose.cells.charts/trendline/period/
 is_root: false
 ---
-## period 属性
+## period属性
 
 返回或设置移动平均趋势线的 period。
 
-### 评论
+### 注意事项
 
-该值应介于 2 和 255 之间。
+该值应介于 2 至 255 之间。
 并且必须小于系列中的图表点数
 ### 定义：
 ```python
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Trendline](/cells/python-net/zh/aspose.cells.charts/trendline)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Trendline`](/cells/python-net/zh/aspose.cells.charts/trendline)

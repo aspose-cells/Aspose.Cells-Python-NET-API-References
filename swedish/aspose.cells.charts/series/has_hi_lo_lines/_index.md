@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_hi_lo_lines fastighet
 
- Sant om linjediagrammet har hög-låg linjer.
+ Sant om linjediagrammet har höga-låga linjer.
 Gäller endast linjediagram.
 ###  Definition:
 ```python

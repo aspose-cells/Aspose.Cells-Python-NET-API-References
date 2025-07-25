@@ -1,14 +1,14 @@
 ---
-title: add_free_floating_shape método
+title: método add_free_floating_shape
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 110
 url: /es/aspose.cells.drawing/shapecollection/add_free_floating_shape/
 is_root: false
 ---
-##  add_free_floating_shape(type, top, left, height, width, image_data, is_original_size) {#MsoDrawingType-int-int-int-int-bytes-bool}
-Agrega una forma flotante libre a la hoja de cálculo. Solo se aplica a la forma de línea/imagen.
+##  add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-bytes-bool}
+Agrega una forma flotante libre a la hoja de cálculo. Solo se aplica para formas de línea/imagen.
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Agrega una forma flotante libre a la hoja de cálculo. Solo se aplica a la forma
 
 
 ```python
+
 def add_free_floating_shape(self, type, top, left, height, width, image_data, is_original_size):
     ...
 ```
@@ -24,12 +25,12 @@ def add_free_floating_shape(self, type, top, left, height, width, image_data, is
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| type | [MsoDrawingType](/cells/python-net/es/aspose.cells.drawing/msodrawingtype) | El tipo de forma.|
-| top | int | Representa el desplazamiento vertical de la forma desde la fila superior de la hoja de cálculo, en unidades de píxel.|
-| left | int |Representa el desplazamiento horizontal de la forma desde la columna izquierda de la hoja de cálculo, en unidades de píxel.|
+| type | [`MsoDrawingType`](/cells/python-net/es/aspose.cells.drawing/msodrawingtype) | El tipo de forma.|
+| top | int | Representa el desplazamiento vertical de la forma desde la fila superior de la hoja de cálculo, en unidades de píxeles.|
+| left | int | Representa el desplazamiento horizontal de la forma desde la columna izquierda de la hoja de cálculo, en unidades de píxeles.|
 | height | int | Representa la altura de LineShape, en unidades de píxel.|
-| width | int | Representa el ancho de LineShape, en unidades de píxel.|
-| image_data | bytes | Los datos de la imagen, solo se aplican a la imagen.|
+| width | int |Representa el ancho de LineShape, en unidades de píxeles.|
+| image_data | bytes | Los datos de la imagen solo se aplican a la fotografía.|
 | is_original_size | bool | Si la forma usa el tamaño original si la forma es una imagen.|
 
 ###  Ejemplo
@@ -37,6 +38,8 @@ def add_free_floating_shape(self, type, top, left, height, width, image_data, is
 ```python
 from aspose import pycore
 from aspose.cells.drawing import MsoDrawingType
+import bytearray
+import int
 
 # add a line
 floatingShape_Line = shapes.add_free_floating_shape(MsoDrawingType.LINE, 100, 100, 100, 50, None, False)
@@ -53,5 +56,5 @@ floatingShape_Picture = shapes.add_free_floating_shape(MsoDrawingType.PICTURE, 2
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_range_set fastighet
 
-Indikerar om det sökta området är inställt.
+Anger om det sökta området är inställt.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_range_set(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FindOptions](/cells/python-net/sv/aspose.cells/findoptions)
+* modul [`aspose.cells`](../../)
+* klass [`FindOptions`](/cells/python-net/sv/aspose.cells/findoptions)

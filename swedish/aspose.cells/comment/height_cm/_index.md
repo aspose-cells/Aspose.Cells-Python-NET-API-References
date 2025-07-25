@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_cm fastighet
 
-Representerar höjden på kommentaren, i centimeterenhet.
+Representerar kommentarens höjd, i centimeter.
 
 ###  Exempel
 

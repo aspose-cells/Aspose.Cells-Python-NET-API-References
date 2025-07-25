@@ -1,9 +1,9 @@
 ---
 title: group_box недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 430
+weight: 420
 url: /ru/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---

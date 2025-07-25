@@ -3,7 +3,7 @@ title: font_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells/defaultstylesettings/font_name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def font_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DefaultStyleSettings](/cells/python-net/de/aspose.cells/defaultstylesettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DefaultStyleSettings`](/cells/python-net/de/aspose.cells/defaultstylesettings)

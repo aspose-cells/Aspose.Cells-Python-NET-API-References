@@ -1,5 +1,5 @@
 ---
-title: SmartTagProperty الدرجة
+title: SmartTagProperty صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,20 +7,20 @@ weight: 60
 url: /ar/aspose.cells.markup/smarttagproperty/
 is_root: false
 ---
-##  SmartTagProperty الدرجة
+##  SmartTagProperty صف
 يمثل خاصية العلامة الذكية للخلية.
 
 
 
-يكشف نوع SmartTagProperty الأعضاء التالية:
+يكشف النوع SmartTagProperty عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [name](/cells/python-net/ar/aspose.cells.markup/smarttagproperty/name) | الحصول على اسم الخاصية وتعيينه.|
-| [value](/cells/python-net/ar/aspose.cells.markup/smarttagproperty/value) | يحصل على قيمة الممتلكات وتعيينها.|
+| [name](/cells/python-net/ar/aspose.cells.markup/smarttagproperty/name) | يحصل على اسم الخاصية ويحدده.|
+| [value](/cells/python-net/ar/aspose.cells.markup/smarttagproperty/value) | يحصل على قيمة الخاصية ويحددها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.markup](..)
+* الوحدة [`aspose.cells.markup`](..)

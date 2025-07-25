@@ -1,6 +1,6 @@
 ---
 title: regex_key proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  regex_key proprietà
 
-Indica se la chiave cercata è regex. Se vero, la chiave cercata verrà considerata come regex.
+Indica se la chiave cercata è un'espressione regolare. Se vero, la chiave cercata verrà interpretata come espressione regolare.
 ###  Definizione:
 ```python
 @property

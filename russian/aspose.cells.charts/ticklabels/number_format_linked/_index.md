@@ -1,6 +1,6 @@
 ---
 title: number_format_linked недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  number_format_linked недвижимость
 
- Истинно, если числовой формат связан с ячейками
-(чтобы формат числа менялся в метках при его изменении в ячейках).
+ True, если числовой формат связан с ячейками
+(чтобы формат чисел в надписях менялся при его изменении в ячейках).
 ###  Определение:
 ```python
 @property

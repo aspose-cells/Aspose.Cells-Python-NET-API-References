@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  split_value propriété
 
-Renvoie ou définit une valeur qui doit être utilisée pour déterminer quels points de données se trouvent dans le deuxième secteur ou barre sur
-une tarte de tarte ou une barre de camembert.
+Renvoie ou définit une valeur qui doit être utilisée pour déterminer quels points de données se trouvent dans le deuxième graphique à secteurs ou à barres sur
+un graphique à secteurs ou à barres.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def split_value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

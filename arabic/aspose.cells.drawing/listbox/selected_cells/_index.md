@@ -3,14 +3,14 @@ title: selected_cells عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 920
+weight: 930
 url: /ar/aspose.cells.drawing/listbox/selected_cells/
 is_root: false
 ---
 ##  selected_cells عقار
 
-الحصول على الخلايا المحددة.
-يُرجع فارغًا إذا لم يتم تعيين نطاق الإدخال أو لم يتم تحديد أي عنصر
+يحصل على الخلايا المحددة.
+يعود فارغًا إذا لم يتم تعيين نطاق الإدخال أو لم يتم تحديد أي عنصر
 ###  تعريف:
 ```python
 @property

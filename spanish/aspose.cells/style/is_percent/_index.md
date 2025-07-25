@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent propiedad
 
-Indica si el formato numérico es un formato de porcentaje.
+Indica si el formato del número es un formato de porcentaje.
 ###  Definición:
 ```python
 @property

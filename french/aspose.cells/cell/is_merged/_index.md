@@ -3,7 +3,7 @@ title: is_merged propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 610
+weight: 640
 url: /fr/aspose.cells/cell/is_merged/
 is_root: false
 ---

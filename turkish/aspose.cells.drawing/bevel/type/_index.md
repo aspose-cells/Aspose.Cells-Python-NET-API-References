@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type mülk
 
-Ön ayar eğimini type alır ve ayarlar.
+Önceden ayarlanmış eğimi type alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Bevel](/cells/python-net/tr/aspose.cells.drawing/bevel)
-* sınıf [BevelPresetType](/cells/python-net/tr/aspose.cells.drawing/bevelpresettype)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Bevel`](/cells/python-net/tr/aspose.cells.drawing/bevel)
+* sınıf [`BevelPresetType`](/cells/python-net/tr/aspose.cells.drawing/bevelpresettype)

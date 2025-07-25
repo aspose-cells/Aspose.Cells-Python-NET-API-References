@@ -3,13 +3,13 @@ title: max_value propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 320
+weight: 330
 url: /fr/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
 ##  max_value propriété
 
-Représente la valeur maximale sur l’axe des valeurs.
+Représente la valeur maximale sur l'axe des valeurs.
 
 ###  Remarques
 

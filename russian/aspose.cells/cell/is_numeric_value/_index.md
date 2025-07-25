@@ -1,15 +1,15 @@
 ---
 title: is_numeric_value недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 650
 url: /ru/aspose.cells/cell/is_numeric_value/
 is_root: false
 ---
 ##  is_numeric_value недвижимость
 
-Указывает, является ли значение этой ячейки числовым (int, double и datetime).
+Указывает, является ли значение этой ячейки числовым (int, double и datetime)
 
 ###  Примечания
 

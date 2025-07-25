@@ -1,55 +1,53 @@
 ---
-title: ScrollBarActiveXControl الدرجة
+title: ScrollBarActiveXControl صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 80
 url: /ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/
 is_root: false
 ---
-##  ScrollBarActiveXControl الدرجة
-يمثل عنصر تحكم شريط التمرير.
+##  ScrollBarActiveXControl صف
+يمثل عنصر التحكم ScrollBar.
 
 
 
-**ميراث:** [ScrollBarActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol) → 
-[SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**الميراث:** [`ScrollBarActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol) → 
+[`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
 
 
 
-يكشف نوع ScrollBarActiveXControl الأعضاء التالية:
+يكشف النوع ScrollBarActiveXControl عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/workbook) | الحصول على كائن [ActiveXControlBase.workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
-| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/type) | يحصل على نوع عنصر تحكم ActiveX.|
-| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/width) |الحصول على عرض عنصر التحكم وتعيينه بوحدة النقاط.|
-| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/height) | الحصول على ارتفاع عنصر التحكم وتعيينه بوحدة النقاط.|
-| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_icon) | الحصول على رمز مخصص وتعيينه لعرضه كمؤشر الماوس لعنصر التحكم.|
-| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_pointer) | الحصول على نوع الرمز المعروض كمؤشر الماوس لعنصر التحكم وتعيينه.|
-| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/fore_ole_color) | الحصول على لون الأولي للمقدمة وتعيينه.|
-| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/back_ole_color) | الحصول على لون الخلفية للخلفية وتعيينه.|
-| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_visible) | يشير إلى ما إذا كان عنصر التحكم هذا مرئيًا أم لا.|
-| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/shadow) | يشير إلى ما إذا كان سيتم إظهار ظل أم لا.|
-| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/linked_cell) | الحصول على الخلية المرتبطة وتعيينها.|
-| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/list_fill_range) | الحصول على نطاق تعبئة القائمة وتعيينه.|
-| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data) | الحصول على البيانات الثنائية لعنصر التحكم وتعيينها.|
-| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_enabled) | يشير إلى ما إذا كان عنصر التحكم يمكنه تلقي التركيز والاستجابة للأحداث التي ينشئها المستخدم.|
-| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_locked) | يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.|
-| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_transparent) | يشير إلى ما إذا كان عنصر التحكم شفافًا أم لا.|
-| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_auto_size) | الإشارة إلى ما إذا كان سيتم تغيير حجم عنصر التحكم تلقائيًا لعرض محتوياته بالكامل.|
-| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/ime_mode) |الحصول على وتعيين وضع وقت التشغيل الافتراضي لمحرر أسلوب الإدخال لعنصر التحكم أثناء تلقيه التركيز.|
-| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/font) | يمثل خط عنصر التحكم.|
-| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/text_align) | يمثل كيفية محاذاة النص المستخدم بواسطة عنصر التحكم.|
-| [min](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/min) | الحصول على الحد الأدنى للقيمة المقبولة وتعيينها.|
-| [max](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/max) | الحصول على الحد الأقصى للقيمة المقبولة وتعيينها.|
-| [position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/position) | الحصول على القيمة وتعيينها.|
-| [small_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/small_change) | الحصول على وتعيين المقدار الذي تتغير به خاصية الموضع|
-| [orientation](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/orientation) | الحصول على وتعيين ما إذا كان SpinButton أو ScrollBar موجهًا رأسيًا أو أفقيًا.|
-| [large_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/large_change) | الحصول على وتعيين المقدار الذي تتغير به خاصية الموضع|
+| [workbook](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/workbook) |  |
+| [type](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/type) | يحصل على نوع عنصر التحكم ActiveX.|
+| [width](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/width) |  |
+| [height](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/font) |  |
+| [text_align](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/text_align) |  |
+| [min](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/min) | يحصل على الحد الأدنى للقيمة المقبولة ويحددها.|
+| [max](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/max) | يحصل على الحد الأقصى للقيمة المقبولة ويحددها.|
+| [position](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/position) | يحصل على القيمة ويحددها.|
+| [small_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/small_change) | يحصل على المبلغ الذي تتغير به خاصية الموضع ويحدده|
+| [orientation](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/orientation) | يحصل ويحدد ما إذا كان SpinButton أو ScrollBar موجهًا عموديًا أو أفقيًا.|
+| [large_change](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol/large_change) | يحصل على المبلغ الذي تتغير به خاصية الموضع ويحدده|
 
 
 
@@ -72,8 +70,6 @@ book.save("exmaple.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
-* فئة [ActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrol)
-* فئة [ActiveXControlBase](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* فئة [ScrollBarActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
-* فئة [SpinButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)
+* فئة [`ScrollBarActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* فئة [`SpinButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

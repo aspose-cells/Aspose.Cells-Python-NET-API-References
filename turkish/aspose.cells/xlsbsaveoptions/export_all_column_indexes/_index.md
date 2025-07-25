@@ -3,13 +3,13 @@ title: export_all_column_indexes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 90
 url: /tr/aspose.cells/xlsbsaveoptions/export_all_column_indexes/
 is_root: false
 ---
 ##  export_all_column_indexes mülk
 
-Hücreler için tüm sütun dizinlerinin dışa aktarılıp aktarılmadığını gösterir.
+Hücreler için tüm sütun dizinlerinin dışa aktarılıp aktarılmayacağını belirtir.
 
 ###  Notlar
 
@@ -25,5 +25,5 @@ def export_all_column_indexes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XlsbSaveOptions](/cells/python-net/tr/aspose.cells/xlsbsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`XlsbSaveOptions`](/cells/python-net/tr/aspose.cells/xlsbsaveoptions)

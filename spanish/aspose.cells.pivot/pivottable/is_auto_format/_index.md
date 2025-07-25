@@ -3,15 +3,14 @@ title: is_auto_format propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 680
 url: /es/aspose.cells.pivot/pivottable/is_auto_format/
 is_root: false
 ---
 ##  is_auto_format propiedad
 
 Indica si el informe de tabla dinámica se formatea automáticamente.
-Casilla de verificación "tabla de formato automático" que se encuentra en la opción pivotable para Excel 2003
-Casilla de verificación "autoajustar ancho de columna al actualizar" que se encuentra en la tabla dinámica Opciones: formato de diseño para Excel 2007
+Casilla de verificación "Autoformato de tabla" que se encuentra en la opción de tabla dinámica de Excel 2003
 ###  Definición:
 ```python
 @property
@@ -23,5 +22,5 @@ def is_auto_format(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)

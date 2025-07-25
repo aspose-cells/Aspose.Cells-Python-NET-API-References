@@ -1,6 +1,6 @@
 ---
 title: error_title недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  error_title недвижимость
 
-Представляет заголовок диалогового окна ошибки проверки данных.
+Представляет заголовок диалогового окна с сообщением об ошибке проверки данных.
 ###  Определение:
 ```python
 @property

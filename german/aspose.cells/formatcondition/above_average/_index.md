@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  above_average Eigentum
 
-Rufen Sie die Instanz „AboveAverage“ der bedingten Formatierung ab.
- Die Regel der Standardinstanz hebt Zellen hervor, die sind
-über dem Durchschnitt für alle Werte im Bereich.
-Nur gültig für Typ = AboveAverage.
+Holen Sie sich die Instanz „Überdurchschnittlich“ der bedingten Formatierung.
+ Die Regel der Standardinstanz hebt Zellen hervor, die
+über dem Durchschnitt aller Werte im Bereich.
+Nur gültig für Typ = Überdurchschnittlich.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def above_average(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AboveAverage](/cells/python-net/de/aspose.cells/aboveaverage)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AboveAverage`](/cells/python-net/de/aspose.cells/aboveaverage)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

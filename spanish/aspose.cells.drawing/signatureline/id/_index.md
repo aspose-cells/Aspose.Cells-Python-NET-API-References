@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id propiedad
 
-Obtiene o establece el identificador de esta línea de firma.
+Obtiene o establece el identificador para esta línea de firma.
 
 ###  Ejemplo
 
@@ -33,5 +33,5 @@ def id(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [SignatureLine](/cells/python-net/es/aspose.cells.drawing/signatureline)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`SignatureLine`](/cells/python-net/es/aspose.cells.drawing/signatureline)

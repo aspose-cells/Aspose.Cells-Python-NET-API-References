@@ -13,7 +13,7 @@ Representa el contenido del comentario.
 
 ###  Observaciones
 
-Si se trata de un comentario encadenado, el note no se podrá cambiar; de lo contrario, MS Excel no podrá procesarlo como un comentario encadenado.
+Si se trata de un comentario en hilo, no se pudo cambiar el note, de lo contrario, MS Excel no pudo procesarlo como un comentario en hilo.
 
 ###  Ejemplo
 

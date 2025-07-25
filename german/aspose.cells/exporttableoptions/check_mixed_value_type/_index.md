@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  check_mixed_value_type Eigentum
 
-Falsch, Aspose.Cells legt den Typ der Datenspalte aus Leistungsgründen auf den Werttyp der ersten Zeile fest.
- Richtig, Aspose.Cells prüft, ob die Wertetypen in der Spalte gemischt sind, bevor der Typ der Datenspalte festgelegt wird
-Und wenn die Werttypen gemischt sind, ist der Typ der Datenspalte ein String.
+Falsch, Aspose.Cells legt den Typ der Datenspalte aus Leistungsgründen anhand des Wertetyps der ersten Zeile fest.
+ True, Aspose.Cells prüft, ob die Wertetypen in der Spalte gemischt sind, bevor der Typ der Datenspalte festgelegt wird
+Und die Wertetypen sind gemischt, der Typ der Datenspalte ist eine Zeichenfolge.
 ###  Definition:
 ```python
 @property

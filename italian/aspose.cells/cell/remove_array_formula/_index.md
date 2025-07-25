@@ -1,18 +1,19 @@
 ---
 title: Metodo remove_array_formula
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 290
+weight: 300
 url: /it/aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
-##  remove_array_formula {#bool}
-Rimuovi la formula di matrice.
+##  remove_array_formula(self, leave_normal_formula) {#bool}
+Rimuovi la formula matrice.
 
 
 
 ```python
+
 def remove_array_formula(self, leave_normal_formula):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_array_formula(self, leave_normal_formula):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| leave_normal_formula | bool | True rappresenta la conversione della formula di matrice in formula normale.|
+| leave_normal_formula | bool | Vero rappresenta la conversione della formula matrice in una formula normale.|
 
 
 

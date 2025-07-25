@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  enable_iterative_calculation mülk
 
-Döngüsel referansları çözmek için yinelemeli hesaplamanın etkinleştirilip etkinleştirilmediğini gösterir.
+Dairesel referansları çözmek için yinelemeli hesaplamanın etkinleştirilip etkinleştirilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def enable_iterative_calculation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormulaSettings](/cells/python-net/tr/aspose.cells/formulasettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormulaSettings`](/cells/python-net/tr/aspose.cells/formulasettings)

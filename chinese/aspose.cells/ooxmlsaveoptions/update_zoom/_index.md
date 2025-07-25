@@ -1,20 +1,20 @@
 ---
-title: update_zoom 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: update_zoom属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 180
 url: /zh/aspose.cells/ooxmlsaveoptions/update_zoom/
 is_root: false
 ---
-## update_zoom 属性
+## update_zoom属性
 
-指示是否在保存文件之前更新比例因子
+指示是否在保存文件之前更新缩放因子
 如果 PageSetup.FitToPagesWide 和 PageSetup.FitToPagesTall 属性控制工作表的缩放方式。
 
-### 评论
+### 注意事项
 
-性能的默认值为 false。
+为了提高性能，默认值为 false。
 ### 定义：
 ```python
 @property
@@ -26,5 +26,5 @@ def update_zoom(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [OoxmlSaveOptions](/cells/python-net/zh/aspose.cells/ooxmlsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`OoxmlSaveOptions`](/cells/python-net/zh/aspose.cells/ooxmlsaveoptions)

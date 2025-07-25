@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/loadfilter/__init__/
 is_root: false
 ---
-##  LoadFilter() {#}
-Konstruerar en LoadFilter med standardfilteralternativ LoadDataFilterOptions.All.
+##  \_\_init\_\_(själv){#}
+Konstruerar en LoadFilter med standardfilteralternativen LoadDataFilterOptions.All.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  LoadFilter(opts) {#LoadDataFilterOptions}
+##  \_\_init\_\_(self, opts){#aspose.cells.LoadDataFilterOptions}
 Konstruerar en LoadFilter med givna filteralternativ.
 
 
 
 ```python
+
 def __init__(self, opts):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, opts):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| opts | [LoadDataFilterOptions](/cells/python-net/sv/aspose.cells/loaddatafilteroptions) | standardfilteralternativen|
+| opts | [`LoadDataFilterOptions`](/cells/python-net/sv/aspose.cells/loaddatafilteroptions) | standardfilteralternativen|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [LoadFilter](/cells/python-net/sv/aspose.cells/loadfilter)
+* modul [`aspose.cells`](../../)
+* klass [`LoadFilter`](/cells/python-net/sv/aspose.cells/loadfilter)

@@ -1,14 +1,14 @@
 ---
-title: get_text_width método
+title: método get_text_width
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 130
 url: /es/aspose.cells/cellshelper/get_text_width/
 is_root: false
 ---
-##  get_text_width(text, font, scaling) {#str-Font-float}
-Obtenga el ancho del texto en unidades de puntos.
+##  get_text_width(, texto, fuente, escala){#str-aspose.cells.Font-float}
+Obtener el ancho del texto en unidades de puntos.
 
 
 ###  Devoluciones
@@ -17,7 +17,9 @@ Obtenga el ancho del texto en unidades de puntos.
 
 
 ```python
-def get_text_width(self, text, font, scaling):
+
+@staticmethod
+def get_text_width(text, font, scaling):
     ...
 ```
 
@@ -25,11 +27,11 @@ def get_text_width(self, text, font, scaling):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | text | str | El texto.|
-| font | [Font](/cells/python-net/es/aspose.cells/font) | La fuente del texto.|
+| font | [`Font`](/cells/python-net/es/aspose.cells/font) | La fuente del texto.|
 | scaling | float | La escala del texto.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellsHelper](/cells/python-net/es/aspose.cells/cellshelper)
+* módulo [`aspose.cells`](../../)
+* clase [`CellsHelper`](/cells/python-net/es/aspose.cells/cellshelper)

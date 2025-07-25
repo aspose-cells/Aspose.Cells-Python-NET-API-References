@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_strikeout propriété
 
-Obtient ou définit une valeur indiquant si la police est un seul barré.
+Obtient ou définit une valeur indiquant si la police est à simple barré.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_strikeout(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)

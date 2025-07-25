@@ -1,6 +1,6 @@
 ---
 title: right_crop недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop недвижимость
 
-Представляет расположение правой части прямоугольника обрезки, выраженное как отношение ширины изображения.
+Представляет собой местоположение правой стороны прямоугольника обрезки, выраженное в виде отношения к ширине изображения.
 ###  Определение:
 ```python
 @property

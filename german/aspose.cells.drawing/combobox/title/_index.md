@@ -3,7 +3,7 @@ title: title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /de/aspose.cells.drawing/combobox/title/
 is_root: false
 ---

@@ -7,12 +7,13 @@ weight: 390
 url: /fr/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  set_standard_header_footer_font_style_name {#str-str}
-Définit le nom de la fonction dépendant des paramètres régionaux en fonction du nom de la fonction standard donné.
+##  set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
+Définit le nom de la fonction dépendant des paramètres régionaux en fonction du nom de fonction standard donné.
 
 
 
 ```python
+
 def set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_standard_header_footer_font_style_name(self, localfont_style_name, stand
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| localfont_style_name | str | Nom du style de police locale pour l’en-tête/pied de page.|
-| standard_name | str | Nom de la fonction standard (locale en-US).|
+| localfont_style_name | str | Nom du style de police local pour l'en-tête/pied de page.|
+| standard_name | str | Nom de fonction standard (locale en-US).|
 
 
 

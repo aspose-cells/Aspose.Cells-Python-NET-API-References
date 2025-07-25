@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/series/move/
 is_root: false
 ---
-##  move(count) {#int}
+##  move(self, count) {#int}
 تحريك السلسلة لأعلى أو لأسفل.
 
 
 
 ```python
+
 def move(self, count):
     ...
 ```
@@ -20,10 +21,10 @@ def move(self, count):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| count | int | عدد التحرك لأعلى أو لأسفل.<br/>حرك المتسلسلة لأعلى إذا كانت أقل من صفر ؛<br/> انقل المتسلسلة لأسفل إذا كانت أكبر من صفر.|
+| count | int | عدد التحركات للأعلى أو للأسفل.<br/>حرك السلسلة لأعلى إذا كان هذا أقل من الصفر؛<br/> انقل السلسلة إلى الأسفل إذا كان هذا أكبر من الصفر.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

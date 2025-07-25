@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta l'effetto riflesso preimpostato.
+Ottiene e imposta l'effetto di riflessione preimpostato.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
-* classe [ReflectionEffectType](/cells/python-net/it/aspose.cells.drawing/reflectioneffecttype)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
+* classe [`ReflectionEffectType`](/cells/python-net/it/aspose.cells.drawing/reflectioneffecttype)

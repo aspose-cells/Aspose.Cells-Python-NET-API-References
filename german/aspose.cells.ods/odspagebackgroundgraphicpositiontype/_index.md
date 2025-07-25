@@ -30,4 +30,4 @@ Der Typ OdsPageBackgroundGraphicPositionType macht die folgenden Member verfügb
 
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](..)
+* Modul [`aspose.cells.ods`](..)

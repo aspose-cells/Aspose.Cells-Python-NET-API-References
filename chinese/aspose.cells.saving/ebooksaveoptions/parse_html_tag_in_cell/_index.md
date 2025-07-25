@@ -3,14 +3,14 @@ title: parse_html_tag_in_cell属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 680
 url: /zh/aspose.cells.saving/ebooksaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---
 ## parse_html_tag_in_cell属性
 
-指示单元格中的html标签（例如`<div></div>`）是否应该解析为单元格值或保留原样。
-默认值是true。
+指示单元格中的 html 标签（例如 `<div></div>`）是否应解析为单元格值或按原样保留。
+默认值为 true。
 ### 定义：
 ```python
 @property

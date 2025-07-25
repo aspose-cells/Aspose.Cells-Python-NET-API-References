@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  compliance mülk
 
-Çıktı belgesinin OOXML sürümünü belirtir. Varsayılan değer Ecma376_2006'dır.
+Çıktı belgesi için OOXML sürümünü belirtir. Varsayılan değer Ecma376_2006'dır.
 
 ###  Notlar
 
-Yalnızca .xlsx dosyaları için.
+Sadece .xlsx dosyaları için.
 ###  Tanım:
 ```python
 @property

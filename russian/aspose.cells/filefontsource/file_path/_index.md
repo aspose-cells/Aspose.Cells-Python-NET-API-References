@@ -1,6 +1,6 @@
 ---
 title: file_path недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -18,5 +18,5 @@ def file_path(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [FileFontSource](/cells/python-net/ru/aspose.cells/filefontsource)
+* модуль [`aspose.cells`](../../)
+* класс [`FileFontSource`](/cells/python-net/ru/aspose.cells/filefontsource)

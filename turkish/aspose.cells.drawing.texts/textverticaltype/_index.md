@@ -3,18 +3,18 @@ title: TextVerticalType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 200
+weight: 210
 url: /tr/aspose.cells.drawing.texts/textverticaltype/
 is_root: false
 ---
 ##  TextVerticalType numaralandırma
-Metin doğrudan türünü temsil eder.
+Metnin doğrudan türünü temsil eder.
 
 
 
-TextVerticalType türü aşağıdaki üyeleri gösterir:
+TextVerticalType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | VERTICAL | Doğu Asya Dikey ekranı.|
@@ -28,4 +28,4 @@ TextVerticalType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](..)
+* modül [`aspose.cells.drawing.texts`](..)

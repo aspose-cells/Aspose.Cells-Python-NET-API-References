@@ -3,7 +3,7 @@ title: transition_evaluation propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 860
+weight: 880
 url: /es/aspose.cells/worksheet/transition_evaluation/
 is_root: false
 ---

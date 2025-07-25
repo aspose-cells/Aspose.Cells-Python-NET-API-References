@@ -1,9 +1,9 @@
 ---
 title: height_cm proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 440
 url: /it/aspose.cells.drawing/spinner/height_cm/
 is_root: false
 ---

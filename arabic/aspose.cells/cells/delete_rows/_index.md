@@ -7,12 +7,13 @@ weight: 260
 url: /ar/aspose.cells/cells/delete_rows/
 is_root: false
 ---
-##  delete_rows {#int-int}
-حذف عدة صفوف.
+##  delete_rows(self, row_index, total_rows) {#int-int}
+حذف صفوف متعددة.
 
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows):
     ...
 ```
@@ -20,15 +21,15 @@ def delete_rows(self, row_index, total_rows):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_index | int | فهرس الصف الأول المراد حذفه.|
+| row_index | int | فهرس الصف الأول الذي سيتم حذفه.|
 | total_rows | int | عدد الصفوف المراد حذفها.|
 ###  ملاحظات
 
-إذا كان النطاق المحذوف يحتوي على الجزء العلوي (وليس بالكامل) من الجدول (ListObject)،
-لا يمكن حذف النطاق ولن يتم فعل أي شيء.
-إنه يعمل بنفس الطريقة مع MS Excel.
+إذا كان النطاق المحذوف يحتوي على الجزء العلوي (وليس كله) من الجدول (ListObject)،
+لم يتمكن من حذف النطاق ولن يتم فعل أي شيء.
+يعمل بنفس الطريقة مع MS Excel.
 
-##  delete_rows {#int-int-bool}
+##  delete_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 حذف صفوف متعددة في ورقة العمل.
 
 
@@ -38,6 +39,7 @@ def delete_rows(self, row_index, total_rows):
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -45,9 +47,32 @@ def delete_rows(self, row_index, total_rows, update_reference):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_index | int | فهرس الصف الأول المراد حذفه.|
+| row_index | int | فهرس الصف الأول الذي سيتم حذفه.|
 | total_rows | int | عدد الصفوف المراد حذفها.|
-| update_reference | bool | يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
+| update_reference | bool | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
+
+
+##  delete_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.DeleteOptions}
+حذف صفوف متعددة في ورقة العمل.
+
+
+###  عائدات
+
+
+
+
+```python
+
+def delete_rows(self, row_index, total_rows, options):
+    ...
+```
+
+
+| معامل| يكتب| وصف|
+| :- | :- | :- |
+| row_index | int | فهرس الصف الأول الذي سيتم حذفه.|
+| total_rows | int | عدد الصفوف المراد حذفها.|
+| options | [`DeleteOptions`](/cells/python-net/ar/aspose.cells/deleteoptions) | خيارات لعملية الحذف|
 
 
 

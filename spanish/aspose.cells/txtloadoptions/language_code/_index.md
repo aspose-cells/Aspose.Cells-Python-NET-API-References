@@ -3,13 +3,13 @@ title: language_code propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 230
 url: /es/aspose.cells/txtloadoptions/language_code/
 is_root: false
 ---
 ##  language_code propiedad
 
-Obtiene o establece el idioma de la interfaz de usuario de la versión del libro de trabajo según el código de país que guardó el archivo.
+Obtiene o establece el idioma de la interfaz de usuario de la versión del libro de trabajo según el código de país que ha guardado el archivo.
 ###  Definición:
 ```python
 @property

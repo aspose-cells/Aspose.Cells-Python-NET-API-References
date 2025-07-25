@@ -3,13 +3,13 @@ title: merge_areas fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 80
 url: /sv/aspose.cells/difsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas fastighet
 
-Anger om områdena för villkorlig formatering och validering ska slås samman innan filen sparas.
+Anger om områdena för villkorlig formatering och validering ska sammanfogas innan filen sparas.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def merge_areas(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DifSaveOptions](/cells/python-net/sv/aspose.cells/difsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DifSaveOptions`](/cells/python-net/sv/aspose.cells/difsaveoptions)

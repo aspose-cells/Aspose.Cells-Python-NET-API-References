@@ -1,15 +1,22 @@
 ---
 title: svg_fit_to_view_port недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ru/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port/
 is_root: false
 ---
 ##  svg_fit_to_view_port недвижимость
 
-если это свойство истинно, сгенерированный SVG будет соответствовать порту просмотра.
+Если это свойство имеет значение true, сгенерированный SVG-файл будет соответствовать области просмотра.
+
+###  Примечания
+
+ ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
+пожалуйста, используйте [`SvgImageOptions.fit_to_view_port`](/cells/python-net/ru/aspose.cells.rendering/svgimageoptions#fit_to_view_port).
+ Этот объект будет снесен через 12 месяцев с апреля 2025 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

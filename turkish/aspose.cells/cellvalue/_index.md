@@ -3,7 +3,7 @@ title: CellValue sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 130
 url: /tr/aspose.cells/cellvalue/
 is_root: false
 ---
@@ -17,7 +17,7 @@ CellValue türü aşağıdaki üyeleri ortaya çıkarır:
 ###  İnşaatçılar
 | Oluşturucu| Tanım|
 | :- | :- |
-| [__init__](/cells/python-net/tr/aspose.cells/cellvalue/__init__/#) | CellValue'nun yeni bir örneğini oluşturur|
+| [`__init__(self)`](/cells/python-net/tr/aspose.cells/cellvalue/__init__/#) | CellValue'nin yeni bir örneğini oluşturur|
 
 
 ###  Özellikler

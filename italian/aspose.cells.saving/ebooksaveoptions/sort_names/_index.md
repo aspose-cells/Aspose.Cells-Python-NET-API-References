@@ -1,9 +1,9 @@
 ---
 title: sort_names proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 660
+weight: 760
 url: /it/aspose.cells.saving/ebooksaveoptions/sort_names/
 is_root: false
 ---

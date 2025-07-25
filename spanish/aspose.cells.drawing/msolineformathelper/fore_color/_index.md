@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color propiedad
 
-Obtiene y establece el color de primer plano de la línea del borde.
+Obtiene y establece la línea del borde para el color.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoLineFormatHelper](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoLineFormatHelper`](/cells/python-net/es/aspose.cells.drawing/msolineformathelper)

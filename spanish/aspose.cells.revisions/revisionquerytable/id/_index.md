@@ -8,12 +8,6 @@ url: /es/aspose.cells.revisions/revisionquerytable/id/
 is_root: false
 ---
 ##  id propiedad
-
-Obtiene el número de esta revisión.
-
-###  Observaciones
-
-Cero significa que esta revisión no contiene id.
 ###  Definición:
 ```python
 @property
@@ -22,5 +16,5 @@ def id(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionQueryTable](/cells/python-net/es/aspose.cells.revisions/revisionquerytable)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionQueryTable`](/cells/python-net/es/aspose.cells.revisions/revisionquerytable)

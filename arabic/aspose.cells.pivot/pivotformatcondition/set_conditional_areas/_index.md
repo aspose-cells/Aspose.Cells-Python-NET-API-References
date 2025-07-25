@@ -7,12 +7,13 @@ weight: 50
 url: /ar/aspose.cells.pivot/pivotformatcondition/set_conditional_areas/
 is_root: false
 ---
-##  set_conditional_areas() {#}
-يضبط المساحات الشرطية لكائن PivotFormatCondition.
+##  set_conditional_areas(self) {#}
+
 
 
 
 ```python
+
 def set_conditional_areas(self):
     ...
 ```
@@ -22,5 +23,5 @@ def set_conditional_areas(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFormatCondition](/cells/python-net/ar/aspose.cells.pivot/pivotformatcondition)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFormatCondition`](/cells/python-net/ar/aspose.cells.pivot/pivotformatcondition)

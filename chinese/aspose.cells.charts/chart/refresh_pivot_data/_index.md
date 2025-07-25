@@ -1,29 +1,30 @@
 ---
 title: refresh_pivot_data方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 90
+weight: 110
 url: /zh/aspose.cells.charts/chart/refresh_pivot_data/
 is_root: false
 ---
-##  refresh_pivot_data() {#}
-从数据透视数据源刷新数据透视图表的数据。
+##  refresh_pivot_data(self) {#}
+从数据透视表刷新图表的数据。
 
 
 
 ```python
+
 def refresh_pivot_data(self):
     ...
 ```
 
 
-### 评论
+### 注意事项
 
-我们将从数据透视数据源收集数据到数据透视图缓存。
-此方法仅用于将所有数据收集到数据透视图。
+我们将从数据透视数据源收集数据到数据透视表报告中。
+此方法仅用于将所有数据收集到数据透视图中。
 
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [Chart](/cells/python-net/zh/aspose.cells.charts/chart)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`Chart`](/cells/python-net/zh/aspose.cells.charts/chart)

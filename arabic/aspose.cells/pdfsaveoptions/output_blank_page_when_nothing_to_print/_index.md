@@ -1,19 +1,13 @@
 ---
-title: output_blank_page_when_nothing_to_print الملكية
+title: output_blank_page_when_nothing_to_print عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 300
+weight: 350
 url: /ar/aspose.cells/pdfsaveoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
-##  output_blank_page_when_nothing_to_print الملكية
-
-يشير إلى ما إذا كان سيتم إخراج صفحة فارغة في حالة عدم وجود شيء للطباعة.
-
-###  ملاحظات
-
-الافتراضي هو الصحيح.
+##  output_blank_page_when_nothing_to_print عقار
 ###  تعريف:
 ```python
 @property
@@ -25,5 +19,5 @@ def output_blank_page_when_nothing_to_print(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

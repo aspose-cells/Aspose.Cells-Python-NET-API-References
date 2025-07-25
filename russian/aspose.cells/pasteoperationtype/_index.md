@@ -1,9 +1,9 @@
 ---
 title: PasteOperationType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2440
+weight: 2410
 url: /ru/aspose.cells/pasteoperationtype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| NONE | Никакой операции.|
+| NONE | Операции не было.|
 | ADD | Добавлять|
 | SUBTRACT | Вычесть|
 | MULTIPLY | Умножить|

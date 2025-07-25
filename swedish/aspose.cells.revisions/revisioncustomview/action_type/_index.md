@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  action_type fastighet
 
-Får typen av åtgärd.
+Hämtar typen av åtgärd.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def action_type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionActionType](/cells/python-net/sv/aspose.cells.revisions/revisionactiontype)
-* klass [RevisionCustomView](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionActionType`](/cells/python-net/sv/aspose.cells.revisions/revisionactiontype)
+* klass [`RevisionCustomView`](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)

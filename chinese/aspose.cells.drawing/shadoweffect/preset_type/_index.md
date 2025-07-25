@@ -1,15 +1,15 @@
 ---
-title: preset_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: preset_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells.drawing/shadoweffect/preset_type/
 is_root: false
 ---
-## preset_type 属性
+## preset_type属性
 
-获取和设置阴影的预设阴影类型。
+获取或设置阴影的预设阴影类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [PresetShadowType](/cells/python-net/zh/aspose.cells.drawing/presetshadowtype)
-* 类 [ShadowEffect](/cells/python-net/zh/aspose.cells.drawing/shadoweffect)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`PresetShadowType`](/cells/python-net/zh/aspose.cells.drawing/presetshadowtype)
+* 类 [`ShadowEffect`](/cells/python-net/zh/aspose.cells.drawing/shadoweffect)

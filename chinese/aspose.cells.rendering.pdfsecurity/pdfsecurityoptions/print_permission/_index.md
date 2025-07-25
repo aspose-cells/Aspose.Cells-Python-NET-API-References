@@ -11,10 +11,10 @@ is_root: false
 
 指示是否允许打印文档。
 
-### 评论
+### 注意事项
 
-可能不是最高质量水平，
-取决于是否还设置了 [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission)。
+可能不是最高品质，
+取决于是否也设置了 [`PdfSecurityOptions.full_quality_print_permission`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#full_quality_print_permission)。
 ### 定义：
 ```python
 @property

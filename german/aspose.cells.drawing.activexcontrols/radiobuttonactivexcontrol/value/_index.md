@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value Eigentum
 
-Zeigt an, ob das Steuerelement aktiviert ist oder nicht.
+Gibt an, ob das Steuerelement aktiviert ist oder nicht.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [CheckValueType](/cells/python-net/de/aspose.cells.drawing/checkvaluetype)
-* Klasse [RadioButtonActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`CheckValueType`](/cells/python-net/de/aspose.cells.drawing/checkvaluetype)
+* Klasse [`RadioButtonActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

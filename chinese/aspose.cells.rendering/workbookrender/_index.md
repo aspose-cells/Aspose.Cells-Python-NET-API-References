@@ -8,8 +8,8 @@ url: /zh/aspose.cells.rendering/workbookrender/
 is_root: false
 ---
 ## WorkbookRender类
-代表工作簿渲染。
-该类的构造函数，必须在修改pagesetup、cell style后使用。
+表示工作簿渲染。
+该类的构造函数，在修改pagesetup、cell样式后必须使用。
 
 
 
@@ -18,10 +18,10 @@ WorkbookRender 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.Workbook-aspose.cells.rendering.ImageOrPrintOptions) | WorkbookRender 的构造|
+| [`__init__(self, workbook, options)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/__init__/#aspose.cells.workbook-aspose.cells.rendering.imageorprintoptions) | WorkbookRender 的构造|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [page_count](/cells/python-net/zh/aspose.cells.rendering/workbookrender/page_count) |获取工作簿的总页数。|
@@ -30,22 +30,22 @@ WorkbookRender 类型公开以下成员：
 ### 方法
 |方法|描述|
 | :- | :- |
-| [to_image](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#io.RawIOBase) |将整个工作簿渲染为 Tiff 图像以进行流式传输。|
-| [to_image](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#str) |将整个工作簿作为 Tiff 图像渲染到文件中。|
-| [to_image](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#int-str) |将特定页面渲染到文件中。|
-| [to_image](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#int-io.RawIOBase) |将特定页面渲染到流。|
-| [to_printer](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str) |将工作簿渲染到打印机|
-| [to_printer](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str-str) |将工作簿渲染到打印机|
-| [to_printer](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings) |将工作簿渲染到打印机|
-| [to_printer](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.PrinterSettings-str) |将工作簿渲染到打印机|
-| [to_printer](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) |将工作簿渲染到打印机|
-| [get_page_size_inch](/cells/python-net/zh/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) |获取输出图像的页面大小（以英寸为单位）。|
-| [custom_print](/cells/python-net/zh/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.PrintPageEventArgs) |使用此功能打印每一页时，客户端可以控制打印机的页面设置。|
-| [dispose](/cells/python-net/zh/aspose.cells.rendering/workbookrender/dispose/#) |释放创建并用于渲染的资源。|
+| [`to_image(self, stream)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#io.rawiobase) |将整个工作簿作为 Tiff 图像呈现到流中。|
+| [`to_image(self, filename)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#str) |将整个工作簿作为 Tiff 图像呈现到文件中。|
+| [`to_image(self, page_index, file_name)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#int-str) |将特定页面渲染到文件。|
+| [`to_image(self, page_index, stream)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_image/#int-io.rawiobase) |将特定页面渲染到流中。|
+| [`to_printer(self, printer_name)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str) |将工作簿渲染到打印机|
+| [`to_printer(self, printer_name, job_name)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str-str) |将工作簿渲染到打印机|
+| [`to_printer(self, printer_settings)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.printersettings) |将工作簿渲染到打印机|
+| [`to_printer(self, printer_settings, job_name)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#aspose.pydrawing.printing.printersettings-str) |将工作簿渲染到打印机|
+| [`to_printer(self, printer_name, print_page_index, print_page_count)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/to_printer/#str-int-int) |将工作簿渲染到打印机|
+| [`get_page_size_inch(self, page_index)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/get_page_size_inch/#int) |获取输出图像的页面尺寸（以英寸为单位）。|
+| [`custom_print(self, next_page_after_print, print_page_event_args)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/custom_print/#bool-aspose.pydrawing.printing.printpageeventargs) |客户端可以通过该功能控制打印机在打印每一页时的页面设置。|
+| [`dispose(self)`](/cells/python-net/zh/aspose.cells.rendering/workbookrender/dispose/#) |释放为渲染创建和使用的资源。|
 
 
 
-### 评论
+### 注意事项
 
 
 

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.drawing.texts/bullet/
 is_root: false
 ---
 ##  Bullet klass
-Representerar punkterna som ska tillämpas på ett stycke.
+Representerar de punktlistor som ska tillämpas på ett stycke.
 
 
 
@@ -17,9 +17,8 @@ Typen Bullet avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [bullet_value](/cells/python-net/sv/aspose.cells.drawing.texts/bullet/bullet_value) | Får värdet av kula.|
-| [type](/cells/python-net/sv/aspose.cells.drawing.texts/bullet/type) | Hämtar och ställer in typen av kula.|
-| [font_name](/cells/python-net/sv/aspose.cells.drawing.texts/bullet/font_name) | Hämta och ställer in namnet på teckensnittet.|
+| [type](/cells/python-net/sv/aspose.cells.drawing.texts/bullet/type) | Hämtar och anger typen av punkt.|
+| [font_name](/cells/python-net/sv/aspose.cells.drawing.texts/bullet/font_name) | Hämta och anger namnet på teckensnittet.|
 
 
 

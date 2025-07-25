@@ -3,12 +3,12 @@ title: TextStrikeType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2660
+weight: 2630
 url: /de/aspose.cells/textstriketype/
 is_root: false
 ---
 ##  TextStrikeType Aufzählung
-Dieser Typ gibt den Strike-Typ an.
+Dieser Typ gibt den Streiktyp an.
 
 
 
@@ -17,9 +17,9 @@ Der Typ TextStrikeType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| SINGLE | Auf den Text wird eine einzelne Durchstreichung angewendet.|
-| DOUBLE | Der Text ist doppelt durchgestrichen.|
-| NONE | Auf den Text wird keine Verwarnung angewendet.|
+| SINGLE | Der Text wird einfach durchgestrichen.|
+| DOUBLE | Der Text wird doppelt durchgestrichen.<br/> Funktioniert nur für den Text der Formen oder Diagramme.|
+| NONE | Der Text wird nicht durchgestrichen.|
 
 
 

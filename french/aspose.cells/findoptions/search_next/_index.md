@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  search_next propriété
 
-Ordre de recherche. Vrai : rechercher ensuite. Faux : recherche précédente.
+Ordre de recherche. Vrai : recherche suivante. Faux : recherche précédente.
 
 ###  Remarques
 
- REMARQUE : ce membre est désormais obsolète. Plutôt,
+ REMARQUE : Ce membre est désormais obsolète. À la place,
  veuillez utiliser la propriété FindOptions.SearchBackward.
- Cette propriété sera supprimée 12 mois plus tard depuis novembre 2018.
-Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette propriété sera supprimée 12 mois plus tard soit en novembre 2018.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property
@@ -28,5 +28,5 @@ def search_next(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FindOptions](/cells/python-net/fr/aspose.cells/findoptions)
+* module [`aspose.cells`](../../)
+* classe [`FindOptions`](/cells/python-net/fr/aspose.cells/findoptions)

@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  auto_fitter_options Eigentum
 
-Ruft die Autofitter-Optionen ab und legt sie fest
+Ruft die Auto-Fitter-Optionen ab und legt sie fest
 
 ###  Bemerkungen
 
-Nur für xlsx, SpreadsheetML-Datei jetzt.
+Jetzt nur für xlsx- und spreadsheetML-Dateien.
 ###  Definition:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFitterOptions](/cells/python-net/de/aspose.cells/autofitteroptions)
-* Klasse [TxtLoadOptions](/cells/python-net/de/aspose.cells/txtloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFitterOptions`](/cells/python-net/de/aspose.cells/autofitteroptions)
+* Klasse [`TxtLoadOptions`](/cells/python-net/de/aspose.cells/txtloadoptions)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.ods/odscellfieldtype/
 is_root: false
 ---
 ##  OdsCellFieldType uppräkning
-Representerar cellfältstypen för ods.
+Representerar cellfälttypen för ods.
 
 
 
@@ -17,11 +17,11 @@ Typen OdsCellFieldType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| DATE | Dagens datum.|
+| DATE | Aktuellt datum.|
 | SHEET_NAME | Namnet på arket.|
-| TITLE | Namnet på filen.|
+| TITLE | Filens namn.|
 
 
 
 ###  Se även
-* modul [aspose.cells.ods](..)
+* modul [`aspose.cells.ods`](..)

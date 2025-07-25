@@ -1,20 +1,20 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 170
+weight: 210
 url: /ru/aspose.cells.charts/legend/height/
 is_root: false
 ---
 ##  height недвижимость
 
-Получает или задает height кадра в единицах 1/4000 области диаграммы.
+Возвращает или задает height кадра в единицах 1/4000 области диаграммы.
 
 ###  Примечания
 
- Как преобразовать единицы 1/4000 в пиксели?
-Высота в пикселях = Y * Chart.ChartObject.Height/4000;
+ Как перевести единицы измерения 1/4000 в пиксели?
+Высота в пикселях = Y * Chart.ChartObject.Height / 4000d;
 ###  Определение:
 ```python
 @property

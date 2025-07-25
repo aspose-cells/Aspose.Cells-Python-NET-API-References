@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  appref propiedad
 
-Obtiene y establece la clave de enlace utilizada para asignar la entrada de enlace de esta lista con los datos enlazados del documento.
+Obtiene y establece la clave de enlace utilizada para asignar la entrada de enlace en esta lista con los datos enlazados en el documento.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def appref(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.webextensions](../../)
-* clase [WebExtensionBinding](/cells/python-net/es/aspose.cells.webextensions/webextensionbinding)
+* módulo [`aspose.cells.webextensions`](../../)
+* clase [`WebExtensionBinding`](/cells/python-net/es/aspose.cells.webextensions/webextensionbinding)

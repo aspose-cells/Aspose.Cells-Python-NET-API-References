@@ -1,6 +1,6 @@
 ---
 title: list_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 230
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_width недвижимость
 
-Получает и устанавливает ширину в пунктах.
+Получает и задает ширину в точках.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def list_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ListBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ListBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

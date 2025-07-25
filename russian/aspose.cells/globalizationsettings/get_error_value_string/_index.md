@@ -1,22 +1,23 @@
 ---
 title: get_error_value_string метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
 url: /ru/aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
-Получает значение отображаемой строки для значения ошибки ячейки.
+##  get_error_value_string(self, err) {#str}
+Получает отображаемое строковое значение для значения ошибки ячейки.
 
 
 ###  Возврат
 
-По умолчанию возвращает само значение ошибки
+По умолчанию возвращает само значение ошибки.
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| err | str | значения ошибок, такие как #VALUE!,#NAME?|
+| err | str |значения ошибок, такие как #ЗНАЧЕНИЕ!,#ИМЯ?|
 
 
 

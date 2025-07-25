@@ -1,13 +1,13 @@
 ---
-title: start_column الملكية
+title: start_column عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 260
+weight: 270
 url: /ar/aspose.cells.tables/listobject/start_column/
 is_root: false
 ---
-##  start_column الملكية
+##  start_column عقار
 
 يحصل على عمود البداية للنطاق.
 ###  تعريف:
@@ -18,5 +18,5 @@ def start_column(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

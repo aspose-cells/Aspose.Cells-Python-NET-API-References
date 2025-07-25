@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  set_type Eigentum
 
-Ruft den Typ des Füllformatsatzes ab.
+Ruft den Füllformatsatztyp ab.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie stattdessen die Eigenschaft FillFormat.FillType.
- Diese Property wird 12 Monate später seit Juli 2016 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Juli 2016) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillFormat](/cells/python-net/de/aspose.cells.drawing/fillformat)
-* Klasse [FormatSetType](/cells/python-net/de/aspose.cells.drawing/formatsettype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillFormat`](/cells/python-net/de/aspose.cells.drawing/fillformat)
+* Klasse [`FormatSetType`](/cells/python-net/de/aspose.cells.drawing/formatsettype)

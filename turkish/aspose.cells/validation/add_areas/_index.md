@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/validation/add_areas/
 is_root: false
 ---
-##  add_areas(areas, check_intersection, check_edge) {#list-bool-bool}
+##  add_areas(self, areas, check_intersection, check_edge) {#list-bool-bool}
 Doğrulamayı verilen alanlara uygular.
 
 
 
 ```python
+
 def add_areas(self, areas, check_intersection, check_edge):
     ...
 ```
@@ -21,15 +22,15 @@ def add_areas(self, areas, check_intersection, check_edge):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | areas | list | Alanlar.|
-| check_intersection | bool | Verilen alanın mevcut doğrulama alanları ile kesişiminin kontrol edilip edilmediği.<br/>Belirli bir alanda (veya bir bölümünde) bir doğrulama uygulanmışsa,<br/>daha sonra mevcut doğrulama ilk olarak verilen alandan kaldırılmalıdır.<br/>Aksi halde oluşturulan Validasyonlarda bozulmalar meydana gelebilir.<br/>Kullanıcı, eklenen tüm alanların mevcut herhangi bir alanla kesişmediğinden eminse,<br/> bu parametre, performans değerlendirmesi için yanlış olarak ayarlanabilir.|
-| check_edge | bool | Bu doğrulamanın uygulandığı alanların kenarlarını kontrol edin.<br/>Doğrulamanın dahili ayarları, uygulanan aralıkların sol üst köşesine bağlıdır.<br/>bu nedenle, verilen alanlardan biri uygulanan aralıkların sol üst kısmı olacaksa,<br/>dahili ayarlar değiştirilip yeniden oluşturulmalıdır, aksi takdirde beklenmeyen sonuçlara neden olabilir.<br/>Kullanıcı, eklenen alanlardan hiçbirinin sol üstte olmadığından eminse,<br/> bu parametre, performans değerlendirmesi için yanlış olarak ayarlanabilir.|
+| check_intersection | bool | Verilen alanın mevcut doğrulama alanlarıyla kesişimini kontrol edin.<br/>Belirli bir alanda (veya bir bölümünde) bir doğrulama uygulanmışsa,<br/>daha sonra mevcut doğrulamanın öncelikle verilen alandan kaldırılması gerekir.<br/>Aksi takdirde oluşturulan Doğrulamalarda bozulmalar meydana gelebilir.<br/>Kullanıcı eklenen tüm alanların mevcut herhangi bir alanla kesişmediğinden eminse,<br/> Bu parametre performans değerlendirmesi için false olarak ayarlanabilir.|
+| check_edge | bool | Bu doğrulamanın uygulandığı alanların kenarını kontrol edin.<br/>Doğrulamanın dahili ayarları, uygulanan aralıklarından sol üsttekine bağlıdır.<br/>yani verilen alanlardan biri uygulanan aralıkların yeni sol üst alanı haline gelirse,<br/>İç ayarlar değiştirilmeli ve yeniden kurulmalıdır, aksi takdirde beklenmeyen sonuçlar ortaya çıkabilir.<br/>Kullanıcı eklenen alanlardan hiçbirinin sol üstte olmadığından eminse,<br/> Bu parametre performans değerlendirmesi için false olarak ayarlanabilir.|
 ###  Notlar
 
-Bu yöntemde, verilen alandaki tüm eski doğrulamaları kaldıracağız.
-Validation'ın uygulanan aralıklarından sol üstteki için, öncelikle StartRow'u en küçüktür,
-ikinci olarak, StartColumn, aynı en küçük StartRow'a sahip alanların en küçüğüdür.
+Bu yöntemde verilen alandaki tüm eski doğrulamaları kaldıracağız.
+Validation'ın uyguladığı aralıklardan en sol üstteki için, öncelikle StartRow'u en küçüktür,
+ikinci olarak StartColumn'u aynı en küçük StartRow'a sahip olan alanların en küçüğüdür.
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

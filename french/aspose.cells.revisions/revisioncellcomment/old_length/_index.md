@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  old_length propriété
 
-Obtient la longueur du texte de commentaire ajouté dans cette révision.
+Obtient la longueur du texte du commentaire ajouté dans cette révision.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def old_length(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.revisions](../../)
-* classe [RevisionCellComment](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)
+* module [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellComment`](/cells/python-net/fr/aspose.cells.revisions/revisioncellcomment)

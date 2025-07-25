@@ -1,6 +1,6 @@
 ---
 title: allow_editing_content proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_content proprietà
 
-Indica se l'utente è autorizzato a modificare il contenuto delle celle bloccate in un foglio di lavoro protetto.
+Indica se all'utente è consentito modificare il contenuto delle celle bloccate in un foglio di lavoro protetto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_content(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Protection](/cells/python-net/it/aspose.cells/protection)
+* modulo [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/it/aspose.cells/protection)

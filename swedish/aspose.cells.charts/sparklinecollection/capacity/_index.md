@@ -19,5 +19,5 @@ def capacity(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineCollection](/cells/python-net/sv/aspose.cells.charts/sparklinecollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineCollection`](/cells/python-net/sv/aspose.cells.charts/sparklinecollection)

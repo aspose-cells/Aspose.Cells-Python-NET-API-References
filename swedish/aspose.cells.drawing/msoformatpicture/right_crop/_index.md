@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_crop fastighet
 
-Representerar platsen för den högra delen av beskärningsrektangeln uttryckt, uttryckt som förhållandet mellan bildens bredd.
+Representerar platsen för beskärningsrektangelns högra sida uttryckt som ett förhållande till bildens bredd.
 ###  Definition:
 ```python
 @property

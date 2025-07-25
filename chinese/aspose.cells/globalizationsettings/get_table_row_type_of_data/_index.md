@@ -7,17 +7,18 @@ weight: 250
 url: /zh/aspose.cells/globalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
+##  get_table_row_type_of_data(self) {#}
 获取由引用表的数据区域组成的表行的类型名称。
-默认为“Data”，因此公式中“#Data”代表表的数据区域。
+默认为“数据”，因此公式中的“#Data”代表表格的数据区域。
 
 
-### 退货
+### 返回
 
 表行的类型名称
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

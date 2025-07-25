@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/xlsbsaveoptions/__init__/
 is_root: false
 ---
-##  XlsbSaveOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Crea opciones para guardar archivos xlsb.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XlsbSaveOptions(save_format) {#SaveFormat}
+##  \_\_init\_\_(self, formato_guardado){#aspose.cells.SaveFormat}
 Crea opciones para guardar archivos xlsb.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/es/aspose.cells/saveformat) | El formato de guardado. Debe ser xlsb.|
+| save_format | [`SaveFormat`](/cells/python-net/es/aspose.cells/saveformat) | El formato de guardado debe ser xlsb.|
 ###  Observaciones
 
 NOTA: Este constructor ahora está obsoleto.
 En su lugar, utilice el constructor XlsbSaveOptions().
- Esta propiedad se eliminará 12 meses después desde enero de 2021.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ Esta propiedad será eliminada 12 meses después desde enero de 2021.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XlsbSaveOptions](/cells/python-net/es/aspose.cells/xlsbsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XlsbSaveOptions`](/cells/python-net/es/aspose.cells/xlsbsaveoptions)

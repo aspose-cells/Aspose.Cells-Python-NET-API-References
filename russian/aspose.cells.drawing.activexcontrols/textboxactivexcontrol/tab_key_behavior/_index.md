@@ -1,6 +1,6 @@
 ---
 title: tab_key_behavior недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
@@ -21,5 +21,5 @@ def tab_key_behavior(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [TextBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`TextBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

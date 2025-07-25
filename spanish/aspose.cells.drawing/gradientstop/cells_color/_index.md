@@ -18,6 +18,6 @@ def cells_color(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [CellsColor](/cells/python-net/es/aspose.cells/cellscolor)
-* clase [GradientStop](/cells/python-net/es/aspose.cells.drawing/gradientstop)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`CellsColor`](/cells/python-net/es/aspose.cells/cellscolor)
+* clase [`GradientStop`](/cells/python-net/es/aspose.cells.drawing/gradientstop)

@@ -7,12 +7,13 @@ weight: 20
 url: /sv/aspose.cells.pivot/pivotfield/add_calculated_item/
 is_root: false
 ---
-##  add_calculated_item(name, formula) {#str-str}
-Lägg till ett beräknat objekt i pivotfältet.
+##  add_calculated_item(self, name, formula) {#str-str}
+Lägg till ett beräknat formelobjekt i pivotfältet.
 
 
 
 ```python
+
 def add_calculated_item(self, name, formula):
     ...
 ```
@@ -20,14 +21,14 @@ def add_calculated_item(self, name, formula):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str | Objektets namn.|
-| formula | str | Objektets formel|
+| name | str | Artikelns namn.|
+| formula | str | Formeln för pivotobjektet.|
 ###  Anmärkningar
 
-Stöder endast att lägga till beräknat objekt till rad/kolumnfält.
+Stöder endast tillägg av beräknade objekt i rad-/kolumnfält.
 
 
 ###  Se även
 
-* modul [aspose.cells.pivot](../../)
-* klass [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield)

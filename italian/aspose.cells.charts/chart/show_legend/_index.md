@@ -1,6 +1,6 @@
 ---
 title: show_legend proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 580
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_legend proprietà
 
-Ottiene o imposta un valore che indica se verrà visualizzata la legenda del grafico. L'impostazione predefinita è vera.
+Ottiene o imposta un valore che indica se la legenda del grafico verrà visualizzata. Il valore predefinito è true.
 ###  Definizione:
 ```python
 @property

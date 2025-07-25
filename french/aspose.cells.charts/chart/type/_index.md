@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient ou définit le type d’un graphique.
+Obtient ou définit le type d'un graphique.
 ###  Définition:
 ```python
 @property

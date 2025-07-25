@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  print_with_status_dialog fastighet
 
-Om PrintWithStatusDialog = true , kommer det att finnas en dialogruta som visar aktuell utskriftsstatus.
-annars visas ingen sådan dialog.
+Om PrintWithStatusDialog = true visas en dialogruta som visar aktuell utskriftsstatus.
+annars visas ingen sådan dialogruta.
 ###  Definition:
 ```python
 @property

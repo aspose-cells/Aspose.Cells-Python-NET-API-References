@@ -3,7 +3,7 @@ title: FormulaParseOptions صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 720
 url: /ar/aspose.cells/formulaparseoptions/
 is_root: false
 ---
@@ -17,16 +17,16 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/formulaparseoptions/__init__/#) | إنشاء مثيل جديد لـ FormulaParseOptions|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/formulaparseoptions/__init__/#) | إنشاء مثيل جديد من FormulaParseOptions|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [locale_dependent](/cells/python-net/ar/aspose.cells/formulaparseoptions/locale_dependent) | ما إذا كانت الصيغة منسقة بالإعدادات المحلية. الافتراضي خطأ.|
-| [r1c1_style](/cells/python-net/ar/aspose.cells/formulaparseoptions/r1c1_style) | ما إذا كانت الصيغة هي النمط المرجعي R1C1. الافتراضي خطأ.|
-| [check_add_in](/cells/python-net/ar/aspose.cells/formulaparseoptions/check_add_in) | ما إذا كنت تريد التحقق من الوظائف الإضافية في الروابط الخارجية الحالية للمصنف الحالي للوظيفة المحددة من قبل المستخدم دون رابط خارجي.<br/> الافتراضي هو صحيح (إذا كانت الوظيفة المحددة من قبل المستخدم تتطابق مع وظيفة إضافية واحدة في الروابط الخارجية الموجودة، فاعتبرها الوظيفة الإضافية).|
-| [parse](/cells/python-net/ar/aspose.cells/formulaparseoptions/parse) | ما إذا كان تحليل الصيغة المعطاة. الافتراضي صحيح.<br/>إذا كانت خاطئة، فسيتم الاحتفاظ بسلسلة الصيغة المعطاة كما هي للخلية حتى يقوم المستخدم باستدعاء طرق أخرى لتحليلها<br/>أو أن بيانات الصيغة التي تم تحليلها مطلوبة من خلال عمليات أخرى مثل حساب الصيغ.|
+| [locale_dependent](/cells/python-net/ar/aspose.cells/formulaparseoptions/locale_dependent) | هل الصيغة مُنسَّقة محليًا؟ الإعداد الافتراضي هو خطأ.|
+| [r1c1_style](/cells/python-net/ar/aspose.cells/formulaparseoptions/r1c1_style) | هل الصيغة مطابقة لنمط مرجع R1C1؟ القيمة الافتراضية هي خطأ.|
+| [check_add_in](/cells/python-net/ar/aspose.cells/formulaparseoptions/check_add_in) | ما إذا كان من الممكن التحقق من الوظائف الإضافية في الروابط الخارجية الموجودة في المصنف الحالي للوظيفة المحددة من قبل المستخدم دون وجود رابط خارجي.<br/> الإعداد الافتراضي هو صحيح (إذا كانت الوظيفة المحددة من قبل المستخدم تطابق وظيفة إضافية واحدة في الروابط الخارجية الموجودة، فاعتبرها كوظيفة إضافية).|
+| [parse](/cells/python-net/ar/aspose.cells/formulaparseoptions/parse) | هل سيتم تحليل الصيغة المحددة؟ الإعداد الافتراضي هو "صحيح".<br/>إذا كانت خاطئة، فسيتم الاحتفاظ بسلسلة الصيغة المقدمة كما هي للخلية حتى يستدعي المستخدم طرقًا أخرى لتحليلها<br/>أو تكون بيانات الصيغة المحللة مطلوبة لعمليات أخرى مثل حساب الصيغ.|
 | [custom_function_definition](/cells/python-net/ar/aspose.cells/formulaparseoptions/custom_function_definition) | تعريف لتحليل الوظائف المخصصة.|
 
 

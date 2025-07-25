@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_zone_categories mülk
 
-PivotTable satır eksenindeki her PivotTable alanı için bir denetim olup olmadığını belirtir.
-PivotTable, dropZonesVisible true olarak ayarlandığında grafikte görünür.
+PivotTable satır eksenindeki her PivotTable alanı için bir denetimin olup olmadığını belirtir
+dropZonesVisible değeri true olarak ayarlandığında kaynak PivotTable'ın grafikte görünür.
 ###  Tanım:
 ```python
 @property
@@ -22,5 +22,5 @@ def drop_zone_categories(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [PivotOptions](/cells/python-net/tr/aspose.cells.charts/pivotoptions)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`PivotOptions`](/cells/python-net/tr/aspose.cells.charts/pivotoptions)

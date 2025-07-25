@@ -3,13 +3,13 @@ title: vertical_page_breaks fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 920
 url: /sv/aspose.cells/worksheet/vertical_page_breaks/
 is_root: false
 ---
 ##  vertical_page_breaks fastighet
 
-Får samlingen [`VerticalPageBreakCollection`](/cells/python-net/sv/aspose.cells/verticalpagebreakcollection).
+Hämtar [`VerticalPageBreakCollection`](/cells/python-net/sv/aspose.cells/verticalpagebreakcollection)-kollektionen.
 ###  Definition:
 ```python
 @property

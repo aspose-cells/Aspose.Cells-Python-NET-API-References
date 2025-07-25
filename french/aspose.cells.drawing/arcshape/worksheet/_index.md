@@ -3,7 +3,7 @@ title: worksheet propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /fr/aspose.cells.drawing/arcshape/worksheet/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 690
+weight: 720
 url: /ar/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row عقار
 
-يحصل على رقم row (على أساس صفر) للخلية.
+يحصل على رقم row (يبدأ من الصفر) للخلية.
 ###  تعريف:
 ```python
 @property

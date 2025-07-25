@@ -1,15 +1,15 @@
 ---
-title: visible 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: visible属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 40
+weight: 50
 url: /zh/aspose.cells.rendering/sheetset/visible/
 is_root: false
 ---
-## visible 属性
+## visible属性
 
-获取一组包含 visible 张工作簿的原始顺序。
+获取一组包含 visible 张工作簿，按其原始顺序排列。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def visible(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](../../)
-* 类 [SheetSet](/cells/python-net/zh/aspose.cells.rendering/sheetset)
+* 模块[`aspose.cells.rendering`](../../)
+* 类 [`SheetSet`](/cells/python-net/zh/aspose.cells.rendering/sheetset)

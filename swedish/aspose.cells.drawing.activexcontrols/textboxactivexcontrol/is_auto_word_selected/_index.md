@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_auto_word_selected fastighet
 
- Anger den grundläggande enhet som används för att utöka ett urval.
+ Anger den grundläggande enheten som används för att utöka en markering.
 True anger att grundenheten är ett enda tecken.
-false anger att grundenheten är ett helt ord.
+falskt anger att grundenheten är ett helt ord.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

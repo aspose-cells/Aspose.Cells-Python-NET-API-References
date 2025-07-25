@@ -3,13 +3,13 @@ title: export_row_column_headings mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 400
 url: /tr/aspose.cells.saving/ebooksaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings mülk
 
-HTML dosyalarına kaydederken sayfanın satır ve sütun başlıklarının dışa aktarılıp aktarılmayacağını belirtir.
+HTML dosyalarına kaydedilirken sayfanın satır ve sütun başlıklarının dışa aktarılıp aktarılmayacağını belirtir.
 
 ###  Notlar
 

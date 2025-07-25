@@ -3,7 +3,7 @@ title: data Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 390
+weight: 400
 url: /de/aspose.cells.drawing/picture/data/
 is_root: false
 ---

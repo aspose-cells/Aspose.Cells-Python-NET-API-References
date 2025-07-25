@@ -7,13 +7,15 @@ weight: 20
 url: /ar/aspose.cells/cellshelper/add_add_in_function/
 is_root: false
 ---
-##  add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type) {#str-int-int-list-ParameterType}
-أضف وظيفة الوظيفة الإضافية.
+##  add_add_in_function(، دالة، الحد الأدنى لعدد المعلمات، الحد الأقصى لعدد المعلمات، نوع المعلمات، نوع قيمة الدالة){#str-int-int-list-aspose.cells.ParameterType}
+إضافة وظيفة إضافية.
 
 
 
 ```python
-def add_add_in_function(self, function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
+
+@staticmethod
+def add_add_in_function(function, min_count_of_parameters, max_count_of_parameters, paramers_type, function_value_type):
     ...
 ```
 
@@ -23,16 +25,16 @@ def add_add_in_function(self, function, min_count_of_parameters, max_count_of_pa
 | function | str | اسم الوظيفة.|
 | min_count_of_parameters | int | الحد الأدنى لعدد المعلمات التي تتطلبها هذه الوظيفة|
 | max_count_of_parameters | int | الحد الأقصى لعدد المعلمات التي تسمح بها هذه الوظيفة.|
-| paramers_type | list | نوع المعلمات المستثناة للدالة|
-| function_value_type | [ParameterType](/cells/python-net/ar/aspose.cells/parametertype) | نوع قيمة الوظيفة.|
+| paramers_type | list | نوع المعلمات المستثناة للوظيفة|
+| function_value_type | [`ParameterType`](/cells/python-net/ar/aspose.cells/parametertype) | نوع قيمة الوظيفة.|
 ###  ملاحظات
 
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
-الرجاء استخدام طرق WorksheetCollection.RegisterAddInFunction ().
- ستتم إزالة هذه الطريقة بعد 12 شهرًا منذ يناير 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+من فضلك استخدم طرق WorksheetCollection.RegisterAddInFunction().
+ سيتم إزالة هذه الطريقة بعد مرور 12 شهرًا منذ يناير 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellsHelper](/cells/python-net/ar/aspose.cells/cellshelper)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellsHelper`](/cells/python-net/ar/aspose.cells/cellshelper)

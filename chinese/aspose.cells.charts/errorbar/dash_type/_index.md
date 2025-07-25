@@ -1,15 +1,15 @@
 ---
-title: dash_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: dash_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 100
 url: /zh/aspose.cells.charts/errorbar/dash_type/
 is_root: false
 ---
-## dash_type 属性
+## dash_type属性
 
-指定虚线类型
+规定虚线类型
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def dash_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ErrorBar](/cells/python-net/zh/aspose.cells.charts/errorbar)
-* 类 [MsoLineDashStyle](/cells/python-net/zh/aspose.cells.drawing/msolinedashstyle)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ErrorBar`](/cells/python-net/zh/aspose.cells.charts/errorbar)
+* 类 [`MsoLineDashStyle`](/cells/python-net/zh/aspose.cells.drawing/msolinedashstyle)

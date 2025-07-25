@@ -1,6 +1,6 @@
 ---
 title: picture_position proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_position proprietà
 
-Ottiene e imposta la posizione dell'immagine del controllo rispetto alla relativa didascalia.
+Ottiene e imposta la posizione dell'immagine del controllo rispetto alla sua didascalia.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_position(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlPicturePositionType](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
-* classe [RadioButtonActiveXControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlPicturePositionType`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

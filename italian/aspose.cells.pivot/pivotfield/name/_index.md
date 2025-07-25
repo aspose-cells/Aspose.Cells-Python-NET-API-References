@@ -1,15 +1,15 @@
 ---
 title: name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 480
+weight: 570
 url: /it/aspose.cells.pivot/pivotfield/name/
 is_root: false
 ---
 ##  name proprietà
 
-Rappresenta lo name di PivotField.
+Rappresenta il name di PivotField.
 ###  Definizione:
 ```python
 @property

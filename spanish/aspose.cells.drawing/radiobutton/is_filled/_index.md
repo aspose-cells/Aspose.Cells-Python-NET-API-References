@@ -3,7 +3,7 @@ title: is_filled propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 570
+weight: 580
 url: /es/aspose.cells.drawing/radiobutton/is_filled/
 is_root: false
 ---

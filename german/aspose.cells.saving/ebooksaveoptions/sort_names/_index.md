@@ -3,13 +3,13 @@ title: sort_names Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 660
+weight: 760
 url: /de/aspose.cells.saving/ebooksaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names Eigentum
 
-Gibt an, ob definierte Namen vor dem Speichern der Datei sortiert werden sollen.
+Gibt an, ob vor dem Speichern der Datei die definierten Namen sortiert werden sollen.
 ###  Definition:
 ```python
 @property

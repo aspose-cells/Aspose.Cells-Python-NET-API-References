@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column fastighet
 
-Hämtar och ställer in column för cellen.
+Hämtar och anger column för cellen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CellWatch](/cells/python-net/sv/aspose.cells/cellwatch)
+* modul [`aspose.cells`](../../)
+* klass [`CellWatch`](/cells/python-net/sv/aspose.cells/cellwatch)

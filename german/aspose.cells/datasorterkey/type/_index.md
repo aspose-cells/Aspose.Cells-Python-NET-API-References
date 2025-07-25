@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type Eigentum
 
-Stellt die type der Sortierung dar.
+Stellt die Sortierung type dar.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorterKey](/cells/python-net/de/aspose.cells/datasorterkey)
-* Klasse [SortOnType](/cells/python-net/de/aspose.cells/sortontype)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorterKey`](/cells/python-net/de/aspose.cells/datasorterkey)
+* Klasse [`SortOnType`](/cells/python-net/de/aspose.cells/sortontype)

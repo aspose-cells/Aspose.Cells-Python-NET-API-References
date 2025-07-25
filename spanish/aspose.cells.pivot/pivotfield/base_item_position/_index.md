@@ -3,16 +3,23 @@ title: base_item_position propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 240
+weight: 320
 url: /es/aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---
 ##  base_item_position propiedad
 
-Representa el elemento en el campo base para un cálculo personalizado.
+Representa el elemento en el campo base para un cálculo personalizado cuando se utiliza el cálculo ShowDataAs.
  Válido sólo para campos de datos.
 Debido a que PivotItemPosition.Custom es solo para lectura, si necesita configurar PivotItemPosition.Custom,
-establezca el atributo PivotField.BaseItemIndex.
+Por favor, configure el atributo PivotField.BaseItemIndex.
+
+###  Observaciones
+
+ NOTA: Esta propiedad ya no está disponible. En su lugar,
+Utilice la propiedad PivotField.ShowValuesSetting.BaseItemPositionType en su lugar.
+ Este método se eliminará 12 meses después, a partir de junio de 2024.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  compound_type fastighet
 
-Anger linjesammansättningstypen.
+Anger typen av linjesammansättning.
 
 ###  Exempel
 
@@ -30,6 +30,6 @@ def compound_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
-* klass [MsoLineStyle](/cells/python-net/sv/aspose.cells.drawing/msolinestyle)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* klass [`MsoLineStyle`](/cells/python-net/sv/aspose.cells.drawing/msolinestyle)

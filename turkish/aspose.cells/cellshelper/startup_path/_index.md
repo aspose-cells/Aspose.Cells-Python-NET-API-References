@@ -3,20 +3,20 @@ title: startup_path mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 290
 url: /tr/aspose.cells/cellshelper/startup_path/
 is_root: false
 ---
 ##  startup_path mülk
 
-Bazı dış formül başvuruları tarafından başvurulan başlangıç yolunu alır veya ayarlar.
+Bazı harici formül referansları tarafından başvurulan başlangıç yolunu alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
 def startup_path(self):
     ...
-@startup_path.setter
-def startup_path(self, value):
+@staticmethod
+def set_startup_path(value):
     ...
 ```
 

@@ -10,7 +10,7 @@ is_root: false
 ##  cell fastighet
 
 Indikerar objektet Cell vid rendering.
-Alla fastigheter på cell kan nås.
+Alla fastigheter på cell är åtkomliga.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def cell(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
-* klass [DrawObject](/cells/python-net/sv/aspose.cells.rendering/drawobject)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)
+* klass [`DrawObject`](/cells/python-net/sv/aspose.cells.rendering/drawobject)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value propriété
 
-Indique si le champ est coché ou non.
+Indique si le contrôle est coché ou non.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def value(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [CheckValueType](/cells/python-net/fr/aspose.cells.drawing/checkvaluetype)
-* classe [RadioButtonActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`CheckValueType`](/cells/python-net/fr/aspose.cells.drawing/checkvaluetype)
+* classe [`RadioButtonActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

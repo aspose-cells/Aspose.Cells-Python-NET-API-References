@@ -1,5 +1,5 @@
 ---
-title: surface_lighting_type الملكية
+title: surface_lighting_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 50
 url: /ar/aspose.cells.drawing/format3d/surface_lighting_type/
 is_root: false
 ---
-##  surface_lighting_type الملكية
+##  surface_lighting_type عقار
 
-الحصول على نوع الإضاءة الذي سيتم تطبيقه على مشهد الشكل وتعيينه.
+يحصل على نوع الإضاءة الذي سيتم تطبيقه على مشهد الشكل ويقوم بتعيينه.
 القيمة الافتراضية هي LightRigType.ThreePoint.
 ###  تعريف:
 ```python
@@ -22,6 +22,6 @@ def surface_lighting_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Format3D](/cells/python-net/ar/aspose.cells.drawing/format3d)
-* فئة [LightRigType](/cells/python-net/ar/aspose.cells.drawing/lightrigtype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Format3D`](/cells/python-net/ar/aspose.cells.drawing/format3d)
+* فئة [`LightRigType`](/cells/python-net/ar/aspose.cells.drawing/lightrigtype)

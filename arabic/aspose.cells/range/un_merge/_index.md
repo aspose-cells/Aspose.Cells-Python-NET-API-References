@@ -3,16 +3,17 @@ title: طريقة un_merge
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 310
 url: /ar/aspose.cells/range/un_merge/
 is_root: false
 ---
-##  un_merge {#}
+##  un_merge(self) {#}
 إلغاء دمج الخلايا المدمجة في هذا النطاق.
 
 
 
 ```python
+
 def un_merge(self):
     ...
 ```

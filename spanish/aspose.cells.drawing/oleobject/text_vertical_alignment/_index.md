@@ -3,7 +3,7 @@ title: text_vertical_alignment propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /es/aspose.cells.drawing/oleobject/text_vertical_alignment/
 is_root: false
 ---

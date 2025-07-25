@@ -3,13 +3,13 @@ title: text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 520
 url: /de/aspose.cells.charts/datalabels/text/
 is_root: false
 ---
 ##  text Eigentum
 
-Ruft die Datenbezeichnung text ab oder legt diese fest.
+Ruft die text des Datenlabels ab oder legt sie fest.
 ###  Definition:
 ```python
 @property

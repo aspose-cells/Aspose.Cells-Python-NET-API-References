@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  day Eigentum
 
-Ruft den day der gruppierten Datumszeit ab und legt ihn fest.
+Ruft den day der gruppierten Datums- und Uhrzeitangabe ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def day(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DateTimeGroupItem](/cells/python-net/de/aspose.cells/datetimegroupitem)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DateTimeGroupItem`](/cells/python-net/de/aspose.cells/datetimegroupitem)

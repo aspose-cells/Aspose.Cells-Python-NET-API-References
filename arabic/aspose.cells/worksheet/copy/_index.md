@@ -7,12 +7,13 @@ weight: 130
 url: /ar/aspose.cells/worksheet/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Worksheet}
+##  copy(self, source_sheet) {#aspose.cells.Worksheet}
 نسخ المحتويات والتنسيقات من ورقة عمل أخرى.
 
 
 
 ```python
+
 def copy(self, source_sheet):
     ...
 ```
@@ -20,15 +21,16 @@ def copy(self, source_sheet):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_sheet | [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) | ورقة عمل المصدر|
+| source_sheet | [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) | ورقة عمل المصدر.|
 
 
-##  copy {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
+##  copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
 نسخ المحتويات والتنسيقات من ورقة عمل أخرى.
 
 
 
 ```python
+
 def copy(self, source_sheet, copy_options):
     ...
 ```
@@ -36,11 +38,11 @@ def copy(self, source_sheet, copy_options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| source_sheet | [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) | ورقة عمل المصدر|
+| source_sheet | [`Worksheet`](/cells/python-net/ar/aspose.cells/worksheet) | ورقة عمل المصدر.|
 | copy_options | [`CopyOptions`](/cells/python-net/ar/aspose.cells/copyoptions) |  |
 ###  ملاحظات
 
-يمكنك copy بيانات من ورقة عمل أخرى في نفس الملف أو ملف آخر. ومع ذلك، لا تدعم هذه الطريقة الكائنات الرسومية copy، مثل التعليقات والصور والمخططات.
+يمكنك استخدام بيانات من ورقة عمل أخرى في الملف نفسه أو في ملف آخر. مع ذلك، لا تدعم هذه الطريقة الكائنات الرسومية، مثل التعليقات والصور والمخططات.
 
 
 ###  أنظر أيضا

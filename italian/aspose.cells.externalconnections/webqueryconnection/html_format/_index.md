@@ -1,15 +1,15 @@
 ---
 title: html_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 100
+weight: 150
 url: /it/aspose.cells.externalconnections/webqueryconnection/html_format/
 is_root: false
 ---
 ##  html_format proprietà
 
-Come gestire la formattazione dall'origine HTML quando si portano i dati delle query web nel file
+Come gestire la formattazione dalla sorgente HTML quando si importano dati di query Web nel
 foglio di lavoro. Rilevante quando sourceData è True.
 ###  Definizione:
 ```python
@@ -22,6 +22,6 @@ def html_format(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [HtmlFormatHandlingType](/cells/python-net/it/aspose.cells.externalconnections/htmlformathandlingtype)
-* classe [WebQueryConnection](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`HtmlFormatHandlingType`](/cells/python-net/it/aspose.cells.externalconnections/htmlformathandlingtype)
+* classe [`WebQueryConnection`](/cells/python-net/it/aspose.cells.externalconnections/webqueryconnection)

@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellArea](/cells/python-net/de/aspose.cells/cellarea)
-* Klasse [Hyperlink](/cells/python-net/de/aspose.cells/hyperlink)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellArea`](/cells/python-net/de/aspose.cells/cellarea)
+* Klasse [`Hyperlink`](/cells/python-net/de/aspose.cells/hyperlink)

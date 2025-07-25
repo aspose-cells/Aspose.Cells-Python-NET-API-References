@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible fastighet
 
-Indikerar om namnet är synligt.
+Anger om namnet är synligt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

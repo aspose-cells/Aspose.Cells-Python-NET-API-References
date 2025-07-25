@@ -1,6 +1,6 @@
 ---
 title: extend_to_next_sheet proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  extend_to_next_sheet proprietà
 
-Indica se estende i dati al foglio successivo quando le righe o le colonne di dati superano il limite.
-L'impostazione predefinita è falsa.
+Se estende i dati al foglio successivo quando le righe o le colonne di dati superano il limite.
+Il valore predefinito è falso.
 
 ###  Osservazioni
 
-Se questa proprietà è vera, i dati aggiuntivi verranno inseriti nel foglio successivo a quello corrente
+Se questa proprietà è vera, i dati extra verranno inseriti nel foglio successivo dietro quello corrente
 (se il foglio corrente è l'ultimo, il nuovo foglio verrà aggiunto alla cartella di lavoro corrente).
 Se questa proprietà è falsa, i dati che superano il limite verranno ignorati.
 ###  Definizione:

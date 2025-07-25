@@ -1,6 +1,6 @@
 ---
 title: is_nillable недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def is_nillable(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.properties](../../)
-* класс [ContentTypeProperty](/cells/python-net/ru/aspose.cells.properties/contenttypeproperty)
+* модуль [`aspose.cells.properties`](../../)
+* класс [`ContentTypeProperty`](/cells/python-net/ru/aspose.cells.properties/contenttypeproperty)

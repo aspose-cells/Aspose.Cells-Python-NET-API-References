@@ -3,7 +3,7 @@ title: outline عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 670
+weight: 700
 url: /ar/aspose.cells/worksheet/outline/
 is_root: false
 ---

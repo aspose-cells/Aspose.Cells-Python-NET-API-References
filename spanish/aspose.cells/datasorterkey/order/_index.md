@@ -18,6 +18,6 @@ def order(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorterKey](/cells/python-net/es/aspose.cells/datasorterkey)
-* clase [SortOrder](/cells/python-net/es/aspose.cells/sortorder)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorterKey`](/cells/python-net/es/aspose.cells/datasorterkey)
+* clase [`SortOrder`](/cells/python-net/es/aspose.cells/sortorder)

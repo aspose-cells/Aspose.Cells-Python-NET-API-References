@@ -3,14 +3,14 @@ title: auto_load عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 330
 url: /ar/aspose.cells.drawing/oleobject/auto_load/
 is_root: false
 ---
 ##  auto_load عقار
 
-يحدد ما إذا كان سيتم استدعاء التطبيق المضيف للكائن المضمن للتحميل
-بيانات الكائن تلقائيًا عند فتح المصنف الأصلي.
+يحدد ما إذا كان سيتم استدعاء تطبيق المضيف للكائن المضمن للتحميل
+يتم عرض بيانات الكائن تلقائيًا عند فتح المصنف الرئيسي.
 ###  تعريف:
 ```python
 @property

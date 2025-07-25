@@ -17,7 +17,6 @@ Der Typ Bullet macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [bullet_value](/cells/python-net/de/aspose.cells.drawing.texts/bullet/bullet_value) | Ruft den Wert von Bullet ab.|
 | [type](/cells/python-net/de/aspose.cells.drawing.texts/bullet/type) | Ruft den Aufzählungstyp ab und legt ihn fest.|
 | [font_name](/cells/python-net/de/aspose.cells.drawing.texts/bullet/font_name) | Ruft den Namen der Schriftart ab und legt ihn fest.|
 

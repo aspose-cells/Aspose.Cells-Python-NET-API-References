@@ -7,8 +7,8 @@ weight: 130
 url: /ar/aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---
-##  get_cell_by_display_name {#str}
-يحصل على الكائن [`Cell`](/cells/python-net/ar/aspose.cells/cell) بواسطة اسم عرض PivotField.
+##  get_cell_by_display_name(self, display_name) {#str}
+يحصل على الكائن [`Cell`](/cells/python-net/ar/aspose.cells/cell) حسب اسم العرض PivotField.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_cell_by_display_name(self, display_name):
     ...
 ```

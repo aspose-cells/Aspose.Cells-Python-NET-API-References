@@ -1,16 +1,13 @@
 ---
 title: reconnection_method_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 230
 url: /it/aspose.cells.externalconnections/datamodelconnection/reconnection_method_type/
 is_root: false
 ---
 ##  reconnection_method_type proprietà
-
-Specifica cosa deve fare l'applicazione del foglio di calcolo quando una connessione fallisce.
-Il valore predefinito è ReConnectionMethodType.Required.
 ###  Definizione:
 ```python
 @property
@@ -22,6 +19,6 @@ def reconnection_method_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.externalconnections](../../)
-* classe [DataModelConnection](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)
-* classe [ReConnectionMethodType](/cells/python-net/it/aspose.cells.externalconnections/reconnectionmethodtype)
+* modulo [`aspose.cells.externalconnections`](../../)
+* classe [`DataModelConnection`](/cells/python-net/it/aspose.cells.externalconnections/datamodelconnection)
+* classe [`ReConnectionMethodType`](/cells/python-net/it/aspose.cells.externalconnections/reconnectionmethodtype)

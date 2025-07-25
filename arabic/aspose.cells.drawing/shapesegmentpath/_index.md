@@ -1,18 +1,18 @@
 ---
-title: ShapeSegmentPath الدرجة
+title: ShapeSegmentPath صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 590
 url: /ar/aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
-##  ShapeSegmentPath الدرجة
-يمثل مسار المقطع في مسار الشكل الحر.
+##  ShapeSegmentPath صف
+يمثل مسار مقطع في مسار الشكل الحر.
 
 
 
-يكشف نوع ShapeSegmentPath الأعضاء التالية:
+يكشف النوع ShapeSegmentPath عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
@@ -23,4 +23,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
+* الوحدة [`aspose.cells.drawing`](..)

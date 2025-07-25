@@ -1,15 +1,15 @@
 ---
 title: password недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 250
 url: /ru/aspose.cells/xmlloadoptions/password/
 is_root: false
 ---
 ##  password недвижимость
 
-Получает и устанавливает password книги.
+Получает и задает значение password рабочей книги.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XmlLoadOptions](/cells/python-net/ru/aspose.cells/xmlloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XmlLoadOptions`](/cells/python-net/ru/aspose.cells/xmlloadoptions)

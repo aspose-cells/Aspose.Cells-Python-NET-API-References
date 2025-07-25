@@ -8,11 +8,11 @@ url: /ar/aspose.cells.charts/floor/
 is_root: false
 ---
 ##  Floor صف
-يقوم بتغليف الكائن الذي يمثل أرضية المخطط ثلاثي الأبعاد.
+يقوم بتغليف الكائن الذي يمثل أرضية الرسم البياني ثلاثي الأبعاد.
 
 
 
-**ميراث:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
+**الميراث:** [`Floor`](/cells/python-net/aspose.cells.charts/floor) → 
 [`Area`](/cells/python-net/ar/aspose.cells.drawing/area)
 
 
@@ -22,13 +22,13 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [background_color](/cells/python-net/ar/aspose.cells.charts/floor/background_color) | الحصول على أو تعيين لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/ar/aspose.cells.charts/floor/foreground_color) | الحصول على أو تعيين اللون الأمامي.|
+| [background_color](/cells/python-net/ar/aspose.cells.charts/floor/background_color) | يحصل على لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area) أو يعينه.|
+| [foreground_color](/cells/python-net/ar/aspose.cells.charts/floor/foreground_color) | يحصل على لون المقدمة أو يعينه.|
 | [formatting](/cells/python-net/ar/aspose.cells.charts/floor/formatting) | يمثل تنسيق المنطقة.|
-| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/floor/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا،<br/> سيتم تبادل اللون الأمامي ولون الخلفية.|
-| [fill_format](/cells/python-net/ar/aspose.cells.charts/floor/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) الذي يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
-| [transparency](/cells/python-net/ar/aspose.cells.charts/floor/transparency) |إرجاع أو تعيين درجة شفافية المنطقة كقيمة تتراوح من 0.0 (معتم) إلى 1.0 (واضح).|
-| [border](/cells/python-net/ar/aspose.cells.charts/floor/border) | يحصل أو يحدد الحدود [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
+| [invert_if_negative](/cells/python-net/ar/aspose.cells.charts/floor/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة الرسم البياني رقمًا سلبيًا،<br/> سيتم تبادل لون المقدمة ولون الخلفية.|
+| [fill_format](/cells/python-net/ar/aspose.cells.charts/floor/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
+| [transparency](/cells/python-net/ar/aspose.cells.charts/floor/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
+| [border](/cells/python-net/ar/aspose.cells.charts/floor/border) | يحصل على الحدود [`Line`](/cells/python-net/ar/aspose.cells.drawing/line) أو يعينها.|
 
 
 

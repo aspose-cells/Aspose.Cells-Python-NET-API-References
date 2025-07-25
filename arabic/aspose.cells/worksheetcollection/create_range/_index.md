@@ -7,16 +7,17 @@ weight: 70
 url: /ar/aspose.cells/worksheetcollection/create_range/
 is_root: false
 ---
-##  create_range(address, sheet_index) {#str-int}
-لتكوين عنصر [Range](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.
+##  create_range(self, address, sheet_index) {#str-int}
+إنشاء كائن [`Range`](/cells/python-net/ar/aspose.cells/range) من عنوان النطاق.
 
 
 ###  عائدات
 
-عنصر [Range](/cells/python-net/ar/aspose.cells/range)
+كائن [`Range`](/cells/python-net/ar/aspose.cells/range)
 
 
 ```python
+
 def create_range(self, address, sheet_index):
     ...
 ```
@@ -30,6 +31,6 @@ def create_range(self, address, sheet_index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Range](/cells/python-net/ar/aspose.cells/range)
-* فئة [WorksheetCollection](/cells/python-net/ar/aspose.cells/worksheetcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Range`](/cells/python-net/ar/aspose.cells/range)
+* فئة [`WorksheetCollection`](/cells/python-net/ar/aspose.cells/worksheetcollection)

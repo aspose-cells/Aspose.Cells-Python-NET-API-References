@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/is_locked/
 is_root: false
 ---
 ##  is_locked mülk
-
-Denetimdeki verilerin düzenleme için kilitli olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

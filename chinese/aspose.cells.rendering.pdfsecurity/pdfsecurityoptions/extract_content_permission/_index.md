@@ -9,8 +9,8 @@ is_root: false
 ---
 ## extract_content_permission属性
 
-指示是否允许复制或以其他方式从文档中提取文本和图形
-[`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) 控制范围以外的业务。
+指示是否允许从文档中复制或以其他方式提取文本和图形
+由 [`PdfSecurityOptions.accessibility_extract_content`](/cells/python-net/zh/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#accessibility_extract_content) 控制范围以外的操作。
 ### 定义：
 ```python
 @property

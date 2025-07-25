@@ -1,9 +1,9 @@
 ---
 title: width_pt proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1270
+weight: 1280
 url: /it/aspose.cells.drawing/scrollbar/width_pt/
 is_root: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: ShowDropButtonType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 300
+weight: 280
 url: /zh/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-ShowDropButtonType 类型公开了以下成员：
+ShowDropButtonType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| NEVER |永远不要显示下拉按钮。|
+| NEVER |永不显示下拉按钮。|
 | FOCUS |当控件获得焦点时显示下拉按钮。|
 | ALWAYS |始终显示下拉按钮。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.activexcontrols](..)
+* 模块[`aspose.cells.drawing.activexcontrols`](..)

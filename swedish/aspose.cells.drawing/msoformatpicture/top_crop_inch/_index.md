@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  top_crop_inch fastighet
 
-Representerar platsen för toppen av beskärningsrektangeln uttryckt, i enhet av tum.
+Representerar platsen för beskärningsrektangelns överdel uttryckt i tum.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  left_margin_pt propiedad
 
-Devuelve el margen izquierdo en unidades de Puntos
+Devuelve el margen izquierdo en unidad de puntos
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [MsoTextFrame](/cells/python-net/es/aspose.cells.drawing/msotextframe)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`MsoTextFrame`](/cells/python-net/es/aspose.cells.drawing/msotextframe)

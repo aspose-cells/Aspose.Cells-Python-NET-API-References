@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  placement Eigentum
 
-Stellt die Art und Weise dar, wie das Diagramm an die darunter liegenden Zellen angehängt wird.
+Stellt dar, wie das Diagramm mit den darunterliegenden Zellen verbunden ist.
 ###  Definition:
 ```python
 @property

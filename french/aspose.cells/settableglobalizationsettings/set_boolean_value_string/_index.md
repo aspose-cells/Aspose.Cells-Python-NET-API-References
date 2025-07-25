@@ -7,12 +7,13 @@ weight: 290
 url: /fr/aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
-##  set_boolean_value_string {#bool-str}
-Définit la valeur de chaîne d'affichage pour la valeur booléenne de la cellule
+##  set_boolean_value_string(self, bv, name) {#bool-str}
+Définit la valeur de la chaîne d'affichage pour la valeur booléenne de la cellule
 
 
 
 ```python
+
 def set_boolean_value_string(self, bv, name):
     ...
 ```

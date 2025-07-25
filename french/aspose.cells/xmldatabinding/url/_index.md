@@ -18,5 +18,5 @@ def url(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [XmlDataBinding](/cells/python-net/fr/aspose.cells/xmldatabinding)
+* module [`aspose.cells`](../../)
+* classe [`XmlDataBinding`](/cells/python-net/fr/aspose.cells/xmldatabinding)

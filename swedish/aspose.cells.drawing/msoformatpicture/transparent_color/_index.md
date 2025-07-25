@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparent_color fastighet
 
-Får och ställer in bildens genomskinliga färg.
+Hämtar och ställer in bildens transparenta färg.
 ###  Definition:
 ```python
 @property

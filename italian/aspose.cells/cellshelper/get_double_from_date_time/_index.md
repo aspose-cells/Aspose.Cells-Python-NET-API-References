@@ -1,14 +1,14 @@
 ---
-title: metodo get_double_from_date_time
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_double_from_date_time
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells/cellshelper/get_double_from_date_time/
 is_root: false
 ---
-##  get_double_from_date_time(date_time, date1904) {#DateTime-bool}
-Converti l'ora della data in un valore doppio.
+##  get_double_from_date_time(, data_ora, data1904){#DateTime-bool}
+Converti la data e l'ora in un valore doppio.
 
 
 ###  ritorna
@@ -17,7 +17,9 @@ Converti l'ora della data in un valore doppio.
 
 
 ```python
-def get_double_from_date_time(self, date_time, date1904):
+
+@staticmethod
+def get_double_from_date_time(date_time, date1904):
     ...
 ```
 
@@ -25,10 +27,10 @@ def get_double_from_date_time(self, date_time, date1904):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | date_time | DateTime | La data e l'ora.|
-| date1904 | bool | Sistema data 1904.|
+| date1904 | bool | Sistema di datazione 1904.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/it/aspose.cells/cellshelper)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/it/aspose.cells/cellshelper)

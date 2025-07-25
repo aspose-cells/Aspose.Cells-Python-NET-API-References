@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  values_format_code fastighet
 
-Representerar formatkoden för Values NumberList.
+Representerar formatkoden för Values's NumberList.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def values_format_code(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Series](/cells/python-net/sv/aspose.cells.charts/series)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Series`](/cells/python-net/sv/aspose.cells.charts/series)

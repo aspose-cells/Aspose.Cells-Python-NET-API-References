@@ -1,5 +1,5 @@
 ---
-title: folder_path الملكية
+title: folder_path عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/folderfontsource/folder_path/
 is_root: false
 ---
-##  folder_path الملكية
+##  folder_path عقار
 
-مسار مجلد الخطوط.
+المسار إلى مجلد الخطوط.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def folder_path(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [FolderFontSource](/cells/python-net/ar/aspose.cells/folderfontsource)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`FolderFontSource`](/cells/python-net/ar/aspose.cells/folderfontsource)

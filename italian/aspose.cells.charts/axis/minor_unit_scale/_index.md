@@ -1,15 +1,15 @@
 ---
 title: minor_unit_scale proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 380
 url: /it/aspose.cells.charts/axis/minor_unit_scale/
 is_root: false
 ---
 ##  minor_unit_scale proprietà
 
-Rappresenta la scala unitaria principale per l'asse delle categorie.
+Rappresenta la scala dell'unità principale per l'asse delle categorie.
 
 ###  Esempio
 

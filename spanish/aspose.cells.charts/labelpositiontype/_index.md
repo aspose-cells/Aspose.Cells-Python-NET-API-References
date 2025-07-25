@@ -17,18 +17,18 @@ El tipo LabelPositionType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| CENTER |Se aplica solo a gráficos de barras, circulares 2d/3d|
-| INSIDE_BASE |Se aplica solo a gráficos de barras, circulares 2d/3d|
-| INSIDE_END | Se aplica solo a gráficos de barras|
-| OUTSIDE_END |Se aplica solo a gráficos de barras, circulares 2d/3d|
-| ABOVE | Se aplica solo a gráficos de líneas|
-| BELOW | Se aplica solo a gráficos de líneas|
-| LEFT | Se aplica solo a gráficos de líneas|
-| RIGHT | Se aplica solo a gráficos de líneas|
-| BEST_FIT | Se aplica solo a gráficos circulares 2d/3d|
-| MOVED | El usuario movió las etiquetas de datos, solo para leer el gráfico del archivo de plantilla.|
+| CENTER | Se aplica solo a gráficos de barras y circulares 2D/3D|
+| INSIDE_BASE | Se aplica solo a gráficos de barras y circulares 2D/3D|
+| INSIDE_END | Se aplica únicamente a gráficos de barras.|
+| OUTSIDE_END | Se aplica solo a gráficos de barras y circulares 2D/3D|
+| ABOVE | Se aplica únicamente a gráficos de líneas|
+| BELOW | Se aplica únicamente a gráficos de líneas|
+| LEFT | Se aplica únicamente a gráficos de líneas|
+| RIGHT | Se aplica únicamente a gráficos de líneas|
+| BEST_FIT | Se aplica solo a gráficos circulares 2D/3D|
+| MOVED | El usuario movió las etiquetas de datos, solo para leer el gráfico desde el archivo de plantilla.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

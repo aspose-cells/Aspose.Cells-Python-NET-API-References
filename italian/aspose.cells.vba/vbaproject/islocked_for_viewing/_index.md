@@ -1,9 +1,9 @@
 ---
 title: islocked_for_viewing proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 110
+weight: 120
 url: /it/aspose.cells.vba/vbaproject/islocked_for_viewing/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def islocked_for_viewing(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProject](/cells/python-net/it/aspose.cells.vba/vbaproject)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProject`](/cells/python-net/it/aspose.cells.vba/vbaproject)

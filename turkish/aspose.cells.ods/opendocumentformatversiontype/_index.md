@@ -8,7 +8,7 @@ url: /tr/aspose.cells.ods/opendocumentformatversiontype/
 is_root: false
 ---
 ##  OpenDocumentFormatVersionType numaralandırma
-Belge Formatı sürüm türünü açın.
+Açık Belge Biçimi sürüm türü.
 
 
 
@@ -20,7 +20,7 @@ OpenDocumentFormatVersionType türü aşağıdaki üyeleri ortaya çıkarır:
 | NONE | Hiçbiri katı değil.|
 | ODF11 | ODF Sürüm 1.1|
 | ODF12 | ODF Sürüm 1.2|
-| ODF13 |ODF Sürüm 1.3|
+| ODF13 | ODF Sürüm 1.3|
 
 
 

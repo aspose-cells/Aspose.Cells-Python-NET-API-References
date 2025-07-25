@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/xmlmapcollection/add/
 is_root: false
 ---
-##  add(url) {#str}
-Bir xml/xsd dosyasının url/yoluna göre bir [XmlMap](/cells/python-net/tr/aspose.cells/xmlmap) ekleyin.
+##  add(self, url) {#str}
+Bir xml/xsd dosyasının url/path kısmına [`XmlMap`](/cells/python-net/tr/aspose.cells/xmlmap) ekleyin.
 
 
 ###  İadeler
 
-[XmlMap](/cells/python-net/tr/aspose.cells/xmlmap) nesne dizini.
+[`XmlMap`](/cells/python-net/tr/aspose.cells/xmlmap) nesne dizini.
 
 
 ```python
+
 def add(self, url):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, url):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| url | str | bir xml/xsd dosyasının url/yolu.|
+| url | str | xml/xsd dosyasının url/yolu.|
 
 ###  Örnek
 
-Aşağıdaki kod, bir xsd dosyası ve bir xml dosyası tarafından iki XmlMaps ekler.
+Aşağıdaki kod, bir xsd dosyası ve bir xml dosyası kullanarak iki XmlMap ekler.
 
 ```python
 from aspose.cells import Workbook
@@ -46,6 +47,6 @@ wb.save("twoXmlMaps.xlsx")
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlMap](/cells/python-net/tr/aspose.cells/xmlmap)
-* sınıf [XmlMapCollection](/cells/python-net/tr/aspose.cells/xmlmapcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlMap`](/cells/python-net/tr/aspose.cells/xmlmap)
+* sınıf [`XmlMapCollection`](/cells/python-net/tr/aspose.cells/xmlmapcollection)

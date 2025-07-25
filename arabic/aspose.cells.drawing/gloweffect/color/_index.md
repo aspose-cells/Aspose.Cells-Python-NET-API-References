@@ -1,5 +1,5 @@
 ---
-title: color الملكية
+title: color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.drawing/gloweffect/color/
 is_root: false
 ---
-##  color الملكية
+##  color عقار
 
-الحصول على color لتأثير التوهج.
+يحصل على color من تأثير التوهج.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor)
-* فئة [GlowEffect](/cells/python-net/ar/aspose.cells.drawing/gloweffect)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor)
+* فئة [`GlowEffect`](/cells/python-net/ar/aspose.cells.drawing/gloweffect)

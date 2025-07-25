@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells/autofilter/custom/
 is_root: false
 ---
-##  custom(field_index, operator_type1, criteria1) {#int-FilterOperatorType-any}
-Bir listeyi custom kriteriyle filtreler.
+##  custom(self, field_index, operator_type1, criteria1) {#int-aspose.cells.FilterOperatorType-any}
+custom kriterine sahip bir listeyi filtreler.
 
 
 
 ```python
+
 def custom(self, field_index, operator_type1, criteria1):
     ...
 ```
@@ -20,17 +21,18 @@ def custom(self, field_index, operator_type1, criteria1):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_index | int | Filtreyi temel almak istediğiniz alanın tamsayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
-| operator_type1 | [FilterOperatorType](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatör tipi|
-| criteria1 | any | özel ölçütler|
+| field_index | int | Filtreyi temel almak istediğiniz alanın tam sayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
+| operator_type1 | [`FilterOperatorType`](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatörü türü|
+| criteria1 | any | Özel kriterler|
 
 
-##  custom(field_index, operator_type1, criteria1, is_and, operator_type2, criteria2) {#int-FilterOperatorType-any-bool-FilterOperatorType-any}
-Bir listeyi custom kriteriyle filtreler.
+##  custom(self, field_index, operator_type1, criteria1, is_and, operator_type2, criteria2) {#int-aspose.cells.FilterOperatorType-any-bool-aspose.cells.FilterOperatorType-any}
+custom kriterine göre bir listeyi filtreler.
 
 
 
 ```python
+
 def custom(self, field_index, operator_type1, criteria1, is_and, operator_type2, criteria2):
     ...
 ```
@@ -38,15 +40,15 @@ def custom(self, field_index, operator_type1, criteria1, is_and, operator_type2,
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_index | int | Filtreyi temel almak istediğiniz alanın tamsayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
-| operator_type1 | [FilterOperatorType](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatör tipi|
-| criteria1 | any | özel ölçütler|
+| field_index | int | Filtreyi temel almak istediğiniz alanın tam sayı ofseti<br/> (listenin solundan; en soldaki alan 0 alanıdır).|
+| operator_type1 | [`FilterOperatorType`](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatörü türü|
+| criteria1 | any | Özel kriterler|
 | is_and | bool |  |
-| operator_type2 | [FilterOperatorType](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatör tipi|
-| criteria2 | any | özel ölçütler|
+| operator_type2 | [`FilterOperatorType`](/cells/python-net/tr/aspose.cells/filteroperatortype) | Filtre operatörü türü|
+| criteria2 | any | Özel kriterler|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [AutoFilter](/cells/python-net/tr/aspose.cells/autofilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`AutoFilter`](/cells/python-net/tr/aspose.cells/autofilter)

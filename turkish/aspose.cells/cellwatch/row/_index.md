@@ -21,5 +21,5 @@ def row(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellWatch](/cells/python-net/tr/aspose.cells/cellwatch)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellWatch`](/cells/python-net/tr/aspose.cells/cellwatch)

@@ -3,13 +3,13 @@ title: xml_maps mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 390
+weight: 420
 url: /tr/aspose.cells/worksheetcollection/xml_maps/
 is_root: false
 ---
 ##  xml_maps mülk
 
-Çalışma kitabındaki XML eşlemelerini alır ve ayarlar.
+Çalışma kitabındaki XML haritalarını alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

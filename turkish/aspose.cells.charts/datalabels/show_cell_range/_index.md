@@ -3,13 +3,13 @@ title: show_cell_range mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 400
+weight: 470
 url: /tr/aspose.cells.charts/datalabels/show_cell_range/
 is_root: false
 ---
 ##  show_cell_range mülk
 
-Hücre aralığının veri etiketleri olarak gösterilip gösterilmeyeceğini belirtir.
+Veri etiketleri olarak hücre aralığının gösterilip gösterilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

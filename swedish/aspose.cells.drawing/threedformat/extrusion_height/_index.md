@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  extrusion_height fastighet
 
-Hämtar och ställer in extruderingshöjden för den applicerade till formen, i punktenhet.
+Hämtar och ställer in extrusionshöjden för det som appliceras på formen, i enheten punkter.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def extrusion_height(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

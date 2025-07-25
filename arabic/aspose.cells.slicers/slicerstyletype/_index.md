@@ -1,5 +1,5 @@
 ---
-title: العد SlicerStyleType
+title: SlicerStyleType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,33 +7,33 @@ weight: 80
 url: /ar/aspose.cells.slicers/slicerstyletype/
 is_root: false
 ---
-##  العد SlicerStyleType
-حدد نمط عرض تقطيع الشرائح
+##  SlicerStyleType التعداد
+تحديد نمط عرض المقطع
 
 
 
-يكشف نوع SlicerStyleType الأعضاء التالية:
+يكشف النوع SlicerStyleType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| SLICER_STYLE_LIGHT1 | المدمج في نمط ضوء واحد|
-| SLICER_STYLE_LIGHT2 | المدمج في نمط الضوء الثاني|
-| SLICER_STYLE_LIGHT3 | المدمج في نمط الضوء ثلاثة|
-| SLICER_STYLE_LIGHT4 | المدمج في نمط الضوء أربعة|
-| SLICER_STYLE_LIGHT5 | المدمج في نمط الضوء خمسة|
-| SLICER_STYLE_LIGHT6 |المدمج في نمط الضوء ستة|
-| SLICER_STYLE_OTHER1 | نمط مدمج آخر|
-| SLICER_STYLE_OTHER2 | المدمج في أسلوب اثنين آخرين|
-| SLICER_STYLE_DARK1 | المدمج في نمط الظلام واحد|
-| SLICER_STYLE_DARK2 | المدمج في نمط السحب الداكن|
-| SLICER_STYLE_DARK3 | المدمج في النمط الداكن ثلاثة|
-| SLICER_STYLE_DARK4 | المدمج في نمط الظلام أربعة|
-| SLICER_STYLE_DARK5 | المدمج في نمط الظلام خمسة|
-| SLICER_STYLE_DARK6 | المدمج في نمط الظلام ستة|
-| CUSTOM | نمط محدد من قبل المستخدم ، غير مدعوم في الوقت الحالي|
+| SLICER_STYLE_LIGHT1 |نمط الإضاءة المدمج الأول|
+| SLICER_STYLE_LIGHT2 | نمط الإضاءة المدمج الثاني|
+| SLICER_STYLE_LIGHT3 | نمط الإضاءة المدمج ثلاثة|
+| SLICER_STYLE_LIGHT4 | نمط الإضاءة المدمج أربعة|
+| SLICER_STYLE_LIGHT5 | نمط الإضاءة المدمج الخامس|
+| SLICER_STYLE_LIGHT6 | نمط الإضاءة المدمج ستة|
+| SLICER_STYLE_OTHER1 | النمط المدمج الآخر|
+| SLICER_STYLE_OTHER2 | النمط المدمج الآخران|
+| SLICER_STYLE_DARK1 | نمط داكن مدمج|
+| SLICER_STYLE_DARK2 | سحب مدمج على الطراز الداكن|
+| SLICER_STYLE_DARK3 | نمط داكن مدمج ثلاثة|
+| SLICER_STYLE_DARK4 | أربعة أنماط داكنة مدمجة|
+| SLICER_STYLE_DARK5 | نمط داكن مدمج خمسة|
+| SLICER_STYLE_DARK6 | نمط داكن مدمج ستة|
+| CUSTOM | النمط الذي يحدده المستخدم، غير مدعوم في الوقت الحالي|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.slicers](..)
+* الوحدة [`aspose.cells.slicers`](..)

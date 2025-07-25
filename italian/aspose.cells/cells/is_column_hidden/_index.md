@@ -1,22 +1,23 @@
 ---
 title: Metodo is_column_hidden
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 740
+weight: 760
 url: /it/aspose.cells/cells/is_column_hidden/
 is_root: false
 ---
-##  is_column_hidden {#int}
-Controlla se una colonna in un dato indice è nascosta.
+##  is_column_hidden(self, column_index) {#int}
+Controlla se una colonna all'indice specificato è nascosta.
 
 
 ###  ritorna
 
-true se la colonna è nascosta.
+vero se la colonna è nascosta.
 
 
 ```python
+
 def is_column_hidden(self, column_index):
     ...
 ```

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  worksheet mülk
 
-Hücrenin bulunduğu Worksheet nesnesini alır.
+Hücrenin bulunduğu Çalışma Sayfası nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def worksheet(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationCell](/cells/python-net/tr/aspose.cells/calculationcell)
-* sınıf [Worksheet](/cells/python-net/tr/aspose.cells/worksheet)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationCell`](/cells/python-net/tr/aspose.cells/calculationcell)
+* sınıf [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet)

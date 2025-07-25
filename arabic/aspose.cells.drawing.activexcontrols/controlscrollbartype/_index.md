@@ -1,28 +1,28 @@
 ---
-title: العد ControlScrollBarType
+title: ControlScrollBarType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 220
 url: /ar/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
-##  العد ControlScrollBarType
+##  ControlScrollBarType التعداد
 يمثل نوع شريط التمرير.
 
 
 
-يكشف نوع ControlScrollBarType الأعضاء التالية:
+يكشف النوع ControlScrollBarType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لا يعرض أي أشرطة تمرير.|
-| HORIZONTAL | يعرض شريط تمرير أفقي.|
-| BARS_VERTICAL | يعرض شريط تمرير عمودي.|
-| BARS_BOTH | يعرض كلاً من شريط التمرير الأفقي والعمودي.|
+| NONE |لا يعرض أشرطة التمرير.|
+| HORIZONTAL | يعرض شريط التمرير الأفقي.|
+| BARS_VERTICAL | يعرض شريط التمرير العمودي.|
+| BARS_BOTH | يعرض شريط التمرير الأفقي والرأسي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](..)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](..)

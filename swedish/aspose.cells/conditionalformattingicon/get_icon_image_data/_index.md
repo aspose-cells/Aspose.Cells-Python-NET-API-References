@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/conditionalformattingicon/get_icon_image_data/
 is_root: false
 ---
-##  get_icon_image_data(type, index) {#IconSetType-int}
+##  get_icon_image_data(, typ, index){#aspose.cells.IconSetType-int}
 Hämta ikonuppsättningsdata
 
 
@@ -17,18 +17,20 @@ Hämta ikonuppsättningsdata
 
 
 ```python
-def get_icon_image_data(self, type, index):
+
+@staticmethod
+def get_icon_image_data(type, index):
     ...
 ```
 
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| type | [IconSetType](/cells/python-net/sv/aspose.cells/iconsettype) | ikonens typ|
+| type | [`IconSetType`](/cells/python-net/sv/aspose.cells/iconsettype) | ikonens typ|
 | index | int | ikonens index|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingIcon](/cells/python-net/sv/aspose.cells/conditionalformattingicon)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingIcon`](/cells/python-net/sv/aspose.cells/conditionalformattingicon)

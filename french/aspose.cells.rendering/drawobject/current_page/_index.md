@@ -10,7 +10,7 @@ is_root: false
 ##  current_page propriété
 
  Indique l'index de page de DrawObject.
-L'index de page est basé sur zéro.
+L'index des pages est basé sur zéro.
 Une feuille contient plusieurs pages lors du rendu.
 ###  Définition:
 ```python
@@ -20,5 +20,5 @@ def current_page(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.rendering](../../)
-* classe [DrawObject](/cells/python-net/fr/aspose.cells.rendering/drawobject)
+* module [`aspose.cells.rendering`](../../)
+* classe [`DrawObject`](/cells/python-net/fr/aspose.cells.rendering/drawobject)

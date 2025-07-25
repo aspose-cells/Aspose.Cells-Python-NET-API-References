@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list fastighet
 
-Returnerar om utsnittet som är kopplat till den angivna utsnittscachen är baserad på en icke-OLAP-datakälla. Skrivskyddad
+Returnerar om utsnittet som är associerat med den angivna utsnittscachen är baserad på en icke-OLAP-datakälla.
 
 ###  Exempel
 
@@ -26,5 +26,5 @@ def list(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [SlicerCache](/cells/python-net/sv/aspose.cells.slicers/slicercache)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`SlicerCache`](/cells/python-net/sv/aspose.cells.slicers/slicercache)

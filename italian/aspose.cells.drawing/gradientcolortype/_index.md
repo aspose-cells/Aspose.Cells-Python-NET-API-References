@@ -1,18 +1,18 @@
 ---
-title: GradientColorType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione GradientColorType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 850
+weight: 840
 url: /it/aspose.cells.drawing/gradientcolortype/
 is_root: false
 ---
-##  GradientColorType enumerazione
-Rappresenta il tipo di colore del gradiente per il riempimento specificato.
+##  Enumerazione GradientColorType
+Rappresenta il tipo di colore sfumato per il riempimento specificato.
 
 
 
-Il tipo GradientColorType espone i membri seguenti:
+Il tipo GradientColorType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -25,4 +25,4 @@ Il tipo GradientColorType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](..)
+* modulo [`aspose.cells.drawing`](..)

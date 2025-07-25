@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-Ruft alle kurzen formatierten Zeichenfolgen von 12 Monaten ab.
+##  get_short_text_of_12_months(self) {#}
+Ruft alle kurz formatierten Zeichenfolgen der letzten 12 Monate ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft alle kurzen formatierten Zeichenfolgen von 12 Monaten ab.
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

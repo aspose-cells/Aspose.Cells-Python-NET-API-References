@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  multiple_worksheets Eigentum
 
-Gibt an, ob jedes Attribut des JsonObject-Objekts als ein Arbeitsblatt importiert wird, wenn alle untergeordneten Knoten Arrayknoten sind.
+Gibt an, ob jedes Attribut des JsonObject-Objekts als ein Arbeitsblatt importiert wird, wenn alle untergeordneten Knoten Array-Knoten sind.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def multiple_worksheets(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [JsonLoadOptions](/cells/python-net/de/aspose.cells/jsonloadoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`JsonLoadOptions`](/cells/python-net/de/aspose.cells/jsonloadoptions)

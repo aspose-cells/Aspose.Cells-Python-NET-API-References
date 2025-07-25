@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  calculated_value mülk
 
-Bu işlev için hesaplanan değeri alır veya ayarlar.
+Bu fonksiyon için hesaplanan değeri alır veya ayarlar.
 
 ###  Notlar
 
 Kullanıcı, motorun desteklediği işlevler için bu özelliği kendi özel hesaplama motorunda ayarlamalıdır.
-ve daha sonra bu özellik alındığında ayarlanan değer döndürülecektir.
-Ayar değeri olası [`Cell.value`](/cells/python-net/tr/aspose.cells/cell#value) türlerinde olabilir,
-veya bu tür değerlerin dizisi veya bir Aralık, Ad, YönlendirilenArea.
-Değeri ayarlamadan önce bu özelliğin alınması, fonksiyonun hesaplanmasını sağlayacaktır.
-Aspose.Cells varsayılan hesaplama motoruyla hesaplanan değer
-döndürülür (genellikle kullanıcı tanımlı işlevler için #AD? olmalıdır).
+ve bu özellik daha sonra alındığında ayarlanan değer döndürülecektir.
+Ayarlanan değer [`Cell.value`](/cells/python-net/tr/aspose.cells/cell#value)'in olası tiplerinden olabilir,
+veya bu tür değerlerin dizisi, ya da bir Aralık, Ad, Referans Alanı.
+Bu özelliğin değerini ayarlamadan önce alınması, fonksiyonun hesaplanmasına neden olur
+Aspose.Cells varsayılan hesaplama motoru ile ve ardından hesaplanan değer
+döndürülür (genellikle kullanıcı tanımlı fonksiyonlar için #NAME? olmalıdır).
 ###  Tanım:
 ```python
 @property

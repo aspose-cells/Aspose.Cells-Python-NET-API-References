@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_negative_points fastighet
 
-Indikerar om de negativa värdena på sparklinegruppen ska markeras med en annan färg eller markör.
+Anger om de negativa värdena i miniatyrbildsgruppen ska markeras med en annan färg eller markör.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_negative_points(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SparklineGroup](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SparklineGroup`](/cells/python-net/sv/aspose.cells.charts/sparklinegroup)

@@ -3,13 +3,13 @@ title: standard_width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1280
+weight: 1310
 url: /ar/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
 ##  standard_width_inch عقار
 
-الحصول على عرض العمود الافتراضي في ورقة العمل أو تعيينه بوحدة البوصة.
+يحصل على عرض العمود الافتراضي في ورقة العمل أو يعينه، بوحدة البوصات.
 ###  تعريف:
 ```python
 @property

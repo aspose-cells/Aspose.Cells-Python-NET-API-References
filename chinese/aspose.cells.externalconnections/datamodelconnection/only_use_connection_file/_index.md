@@ -1,18 +1,13 @@
 ---
-title: only_use_connection_file 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: only_use_connection_file属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 190
 url: /zh/aspose.cells.externalconnections/datamodelconnection/only_use_connection_file/
 is_root: false
 ---
-## only_use_connection_file 属性
-
-指示电子表格应用程序是否应始终且仅使用
-odcFile 属性指示的外部连接文件中的连接信息
-刷新连接时。如果为假，则电子表格应用程序
-应遵循 reconnectionMethod 属性指示的过程
+## only_use_connection_file属性
 ### 定义：
 ```python
 @property
@@ -24,5 +19,5 @@ def only_use_connection_file(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.externalconnections](../../)
-* 类 [DataModelConnection](/cells/python-net/zh/aspose.cells.externalconnections/datamodelconnection)
+* 模块[`aspose.cells.externalconnections`](../../)
+* 类 [`DataModelConnection`](/cells/python-net/zh/aspose.cells.externalconnections/datamodelconnection)

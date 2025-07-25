@@ -10,7 +10,7 @@ is_root: false
 ##  sheets_in_loading_order Eigentum
 
 Gibt die zu ladenden Blätter (Indizes) und die Reihenfolge an.
-Der Standardwert ist null, was bedeutet, dass alle Blätter in der Standardreihenfolge in die Vorlagendatei geladen werden.
+Der Standardwert ist null, was bedeutet, dass alle Blätter in der Standardreihenfolge in der Vorlagendatei geladen werden.
 Wenn nicht null und der Index eines Blatts nicht im zurückgegebenen Array enthalten ist, wird das Blatt nicht geladen.
 ###  Definition:
 ```python
@@ -20,5 +20,5 @@ def sheets_in_loading_order(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [LoadFilter](/cells/python-net/de/aspose.cells/loadfilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`LoadFilter`](/cells/python-net/de/aspose.cells/loadfilter)

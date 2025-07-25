@@ -8,26 +8,26 @@ url: /tr/aspose.cells.ods/odspagebackgroundgraphicpositiontype/
 is_root: false
 ---
 ##  OdsPageBackgroundGraphicPositionType numaralandırma
-Konumu temsil eder.
+Pozisyonu temsil eder.
 
 
 
-OdsPageBackgroundGraphicPositionType türü aşağıdaki üyeleri gösterir:
+OdsPageBackgroundGraphicPositionType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | TOP_LEFT | Sol üst.|
-| TOP_CENTER | Üst merkez.|
+| TOP_CENTER | Üst orta.|
 | TOP_RIGHT | Sağ üst.|
 | CENTER_LEFT | Orta sol.|
 | CENTER_CENTER | Merkez.|
-| CENTER_RIGHT | Orta sağ.|
+| CENTER_RIGHT | Merkez sağ.|
 | BOTTOM_LEFT | Sol alt.|
-| BOTTOM_CENTER | Alt merkez.|
+| BOTTOM_CENTER | Alt orta.|
 | BOTTOM_RIGHT | Sağ alt.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

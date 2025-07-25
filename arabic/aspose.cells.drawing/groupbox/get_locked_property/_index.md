@@ -3,20 +3,21 @@ title: طريقة get_locked_property
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 110
+weight: 130
 url: /ar/aspose.cells.drawing/groupbox/get_locked_property/
 is_root: false
 ---
-##  get_locked_property(type) {#ShapeLockType}
-يحصل على قيمة الممتلكات المقفلة.
+##  get_locked_property(self, type) {#aspose.cells.drawing.ShapeLockType}
+يحصل على قيمة الممتلكات المقفولة.
 
 
 ###  عائدات
 
-ترجع قيمة الممتلكات المقفلة.
+إرجاع قيمة الخاصية المقفلة.
 
 
 ```python
+
 def get_locked_property(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_locked_property(self, type):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| type | [ShapeLockType](/cells/python-net/ar/aspose.cells.drawing/shapelocktype) | نوع خاصية تأمين الشكل.|
+| type | [`ShapeLockType`](/cells/python-net/ar/aspose.cells.drawing/shapelocktype) | نوع الخاصية المقفولة بالشكل.|
 
 ###  مثال
 
@@ -40,5 +41,5 @@ if shape.get_locked_property(ShapeLockType.ADJUST_HANDLES):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [GroupBox](/cells/python-net/ar/aspose.cells.drawing/groupbox)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`GroupBox`](/cells/python-net/ar/aspose.cells.drawing/groupbox)

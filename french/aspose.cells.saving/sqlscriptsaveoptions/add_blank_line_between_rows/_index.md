@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows propriété
 
-Insérez une ligne vierge entre chaque donnée.
+Insérer une ligne vide entre chaque donnée.
 
 ###  Remarques
 
-Si [SqlScriptSaveOptions.separator](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions#separator) est '\n' , il est préférable de définir cette propriété sur true pour augmenter la lisibilité.
+Si [`SqlScriptSaveOptions.separator`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions#separator) est '\n', il est préférable de définir cette propriété sur true pour augmenter la lisibilité.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)
+* module [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/fr/aspose.cells.saving/sqlscriptsaveoptions)

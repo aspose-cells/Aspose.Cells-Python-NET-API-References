@@ -3,13 +3,11 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 180
 url: /tr/aspose.cells.externalconnections/dbconnection/name/
 is_root: false
 ---
 ##  name mülk
-
-Bağlantının name'ini belirtir. Her bağlantının benzersiz bir name numarası olmalıdır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [DBConnection](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`DBConnection`](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)

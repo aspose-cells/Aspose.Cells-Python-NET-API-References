@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/text_align/
 is_root: false
 ---
 ##  text_align propiedad
-
-Representa cómo alinear el texto utilizado por el control.
 ###  Definición:
 ```python
 @property
@@ -21,6 +19,6 @@ def text_align(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextAlignmentType](/cells/python-net/es/aspose.cells/textalignmenttype)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextAlignmentType`](/cells/python-net/es/aspose.cells/textalignmenttype)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

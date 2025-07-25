@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shrink_to_fit fastighet
 
-Krymp för att passa inställningen kommer att tillämpas.
+Inställningen för krympning kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shrink_to_fit(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

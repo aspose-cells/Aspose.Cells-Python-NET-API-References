@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells.pivot/pivottable/add_field_to_area/
 is_root: false
 ---
-##  add_field_to_area(field_type, field_name) {#PivotFieldType-str}
+##  add_field_to_area(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
 Alanı belirli alana ekler.
 
 
 ###  İadeler
 
-Alanın belirli alanlardaki konumu. Eğer buna benzer bir alan yoksa -1 döndürün.
+Belirli alanlardaki alan pozisyonu. Eğer bu isimde bir alan yoksa -1 döndür.
 
 
 ```python
+
 def add_field_to_area(self, field_type, field_name):
     ...
 ```
@@ -24,20 +25,21 @@ def add_field_to_area(self, field_type, field_name):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanlar alan tipi.|
-| field_name | str | Temel alanlardaki ad.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanların alan türü.|
+| field_name | str |Temel alanlardaki isim.|
 
 
-##  add_field_to_area(field_type, base_field_index) {#PivotFieldType-int}
+##  add_field_to_area(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
 Alanı belirli alana ekler.
 
 
 ###  İadeler
 
-Belirli alanlarda alan konumu.
+Belirli alanlardaki saha pozisyonu.
 
 
 ```python
+
 def add_field_to_area(self, field_type, base_field_index):
     ...
 ```
@@ -45,20 +47,21 @@ def add_field_to_area(self, field_type, base_field_index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanlar alan tipi.|
-| base_field_index | int | Temel alanlardaki alan dizini.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | Alanların alan türü.|
+| base_field_index | int | Temel alanlardaki alan indeksi.|
 
 
-##  add_field_to_area(field_type, pivot_field) {#PivotFieldType-PivotField}
+##  add_field_to_area(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
 Alanı belirli alana ekler.
 
 
 ###  İadeler
 
-belirli alanlarda alan konumu.
+Belirli alanlardaki saha pozisyonu.
 
 
 ```python
+
 def add_field_to_area(self, field_type, pivot_field):
     ...
 ```
@@ -66,11 +69,11 @@ def add_field_to_area(self, field_type, pivot_field):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| field_type | [PivotFieldType](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | alanlar alan türü.|
-| pivot_field | [PivotField](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | temel alanlardaki alan.|
+| field_type | [`PivotFieldType`](/cells/python-net/tr/aspose.cells.pivot/pivotfieldtype) | alanlar alan türü.|
+| pivot_field | [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) | taban alanlarındaki alan.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotTable](/cells/python-net/tr/aspose.cells.pivot/pivottable)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotTable`](/cells/python-net/tr/aspose.cells.pivot/pivottable)

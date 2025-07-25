@@ -3,13 +3,13 @@ title: column_width Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 380
 url: /de/aspose.cells/range/column_width/
 is_root: false
 ---
 ##  column_width Eigentum
 
-Legt die Spaltenbreite dieses Bereichs fest oder ruft sie ab
+Setzt oder ruft die Spaltenbreite dieses Bereichs ab
 ###  Definition:
 ```python
 @property

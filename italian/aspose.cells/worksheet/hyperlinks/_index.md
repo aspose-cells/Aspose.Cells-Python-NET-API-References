@@ -1,9 +1,9 @@
 ---
 title: hyperlinks proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 540
+weight: 570
 url: /it/aspose.cells/worksheet/hyperlinks/
 is_root: false
 ---

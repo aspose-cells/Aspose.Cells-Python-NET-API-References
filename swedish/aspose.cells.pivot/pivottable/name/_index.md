@@ -3,13 +3,13 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 770
 url: /sv/aspose.cells.pivot/pivottable/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar name för pivottabellen
+Hämtar name från pivottabellen
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

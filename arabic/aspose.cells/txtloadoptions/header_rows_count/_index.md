@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  header_rows_count عقار
 
-عدد صفوف الرؤوس المطلوب تكرارها للأوراق الموسعة.
+عدد صفوف الرأس التي يجب تكرارها للأوراق الممتدة.
 
 ###  ملاحظات
 
-سيتم تكرار صفوف الرأس المحددة بواسطة هذه الخاصية لتلك الأوراق الموسعة.
-تصبح هذه الخاصية سارية المفعول فقط عندما يكون [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet) صحيحًا.
+سيتم تكرار صفوف الرأس المحددة بواسطة هذه الخاصية لتلك الأوراق الممتدة.
+لا يتم تطبيق هذه الخاصية إلا عندما يكون [`TxtLoadOptions.extend_to_next_sheet`](/cells/python-net/ar/aspose.cells/txtloadoptions#extend_to_next_sheet) صحيحًا.
 ###  تعريف:
 ```python
 @property

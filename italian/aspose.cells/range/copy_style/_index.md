@@ -1,18 +1,19 @@
 ---
 title: Metodo copy_style
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 70
+weight: 120
 url: /it/aspose.cells/range/copy_style/
 is_root: false
 ---
-##  copy_style {#aspose.cells.Range}
-Copia le impostazioni di stile da un intervallo di origine.
+##  copy_style(self, range) {#aspose.cells.Range}
+Copia le impostazioni di stile da un intervallo sorgente.
 
 
 
 ```python
+
 def copy_style(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy_style(self, range):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/it/aspose.cells/range) |Oggetto sorgente [`Range`](/cells/python-net/it/aspose.cells/range).|
+| range | [`Range`](/cells/python-net/it/aspose.cells/range) | Oggetto sorgente [`Range`](/cells/python-net/it/aspose.cells/range).|
 
 
 

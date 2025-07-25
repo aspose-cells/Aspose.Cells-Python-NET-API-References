@@ -1,14 +1,14 @@
 ---
 title: get_column_width_inch метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 370
 url: /ru/aspose.cells/cells/get_column_width_inch/
 is_root: false
 ---
-##  get_column_width_inch {#int}
-Получает ширину указанного столбца в обычном представлении в дюймах.
+##  get_column_width_inch(self, column) {#int}
+Получает ширину указанного столбца в обычном режиме просмотра в дюймах.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_column_width_inch(self, column):
     ...
 ```
@@ -25,7 +26,12 @@ def get_column_width_inch(self, column):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | column | int | Индекс столбца|
+###  Примечания
 
+ПРИМЕЧАНИЕ: Этот метод уже устарел. Вместо этого
+используйте метод Cells.GetColumnWidth(int ,bool , CellsUnitType ).
+Этот метод будет удален через 12 месяцев, с апреля 2024 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также

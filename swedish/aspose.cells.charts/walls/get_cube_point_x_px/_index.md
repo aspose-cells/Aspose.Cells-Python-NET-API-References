@@ -7,13 +7,14 @@ weight: 30
 url: /sv/aspose.cells.charts/walls/get_cube_point_x_px/
 is_root: false
 ---
-##  get_cube_point_x_px(index) {#int}
-Får x-koordinaten för spetspunkten för väggkuben efter anrop av metoden Chart.Calculate().
-Antalet spetspunkter på väggkuben är åtta
+##  get_cube_point_x_px(self, index) {#int}
+Hämtar x-koordinaten för apexpunkten för väggkuben efter anrop av metoden Chart.Calculate().
+Antalet topppunkter för väggkuben är åtta
 
 
 
 ```python
+
 def get_cube_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_cube_point_x_px(self, index):
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

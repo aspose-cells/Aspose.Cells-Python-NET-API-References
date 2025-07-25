@@ -1,14 +1,14 @@
 ---
-title: metodo get
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
 url: /it/aspose.cells/worksheetcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Aggiungi API for Python tramite .Net.poiché questo[indice int] non è supportato
+##  get(self, index) {#int}
+Aggiungi API for Python tramite .Net poiché questo [indice int] non è supportato
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Aggiungi API for Python tramite .Net.poiché questo[indice int] non è supportat
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -24,11 +25,11 @@ def get(self, index):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| index | int | L'indice in base zero dell'elemento.|
+| index | int | Indice basato su zero dell'elemento.|
 
 
-##  get(sheet_name) {#str}
-Aggiungi API for Python tramite .Net.poiché this[string sheetName] non è supportato
+##  get(self, sheet_name) {#str}
+Aggiungi API for Python tramite .Net poiché questo [string sheetName] non è supportato
 
 
 ###  ritorna
@@ -37,6 +38,7 @@ Aggiungi API for Python tramite .Net.poiché this[string sheetName] non è suppo
 
 
 ```python
+
 def get(self, sheet_name):
     ...
 ```
@@ -49,5 +51,5 @@ def get(self, sheet_name):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [WorksheetCollection](/cells/python-net/it/aspose.cells/worksheetcollection)
+* modulo [`aspose.cells`](../../)
+* classe [`WorksheetCollection`](/cells/python-net/it/aspose.cells/worksheetcollection)

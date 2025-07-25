@@ -9,7 +9,7 @@ is_root: false
 ---
 ## is_threaded_comment属性
 
-指示此评论是否为线索评论。
+指示此注意事项是否为线索注意事项。
 
 ### 例子
 

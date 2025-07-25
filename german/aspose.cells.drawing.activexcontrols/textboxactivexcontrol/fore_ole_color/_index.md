@@ -8,12 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/fore_ole_col
 is_root: false
 ---
 ##  fore_ole_color Eigentum
-
-Ruft die alte Farbe des Vordergrunds ab und legt sie fest.
-
-###  Bemerkungen
-
-Gilt nicht für die Bildsteuerung.
 ###  Definition:
 ```python
 @property
@@ -25,5 +19,5 @@ def fore_ole_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [TextBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`TextBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

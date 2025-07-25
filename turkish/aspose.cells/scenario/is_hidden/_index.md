@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hidden mülk
 
-Senaryonun gizlenip gizlenmediğini gösterir.
+Senaryonun gizli olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Scenario](/cells/python-net/tr/aspose.cells/scenario)
+* modül [`aspose.cells`](../../)
+* sınıf [`Scenario`](/cells/python-net/tr/aspose.cells/scenario)

@@ -7,9 +7,9 @@ weight: 250
 url: /ar/aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
-يحصل على اسم النوع لصفوف الجدول الذي يتكون من منطقة بيانات الجدول المشار إليه.
-الافتراضي هو "Data"، لذا في الصيغة "#Data" تمثل منطقة البيانات في الجدول.
+##  get_table_row_type_of_data(self) {#}
+يحصل على اسم نوع صفوف الجدول التي تتكون من منطقة البيانات للجدول المشار إليه.
+الإعداد الافتراضي هو "البيانات"، لذا في الصيغة "#Data" يمثل منطقة البيانات في الجدول.
 
 
 ###  عائدات
@@ -18,6 +18,7 @@ is_root: false
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

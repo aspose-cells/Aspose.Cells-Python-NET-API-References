@@ -3,13 +3,13 @@ title: pivot_table_style_type propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 860
 url: /es/aspose.cells.pivot/pivottable/pivot_table_style_type/
 is_root: false
 ---
 ##  pivot_table_style_type propiedad
 
-Obtiene y establece el estilo de tabla dinámica integrado.
+Obtiene y establece el estilo de tabla dinámica incorporado.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def pivot_table_style_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.pivot](../../)
-* clase [PivotTable](/cells/python-net/es/aspose.cells.pivot/pivottable)
-* clase [PivotTableStyleType](/cells/python-net/es/aspose.cells.pivot/pivottablestyletype)
+* módulo [`aspose.cells.pivot`](../../)
+* clase [`PivotTable`](/cells/python-net/es/aspose.cells.pivot/pivottable)
+* clase [`PivotTableStyleType`](/cells/python-net/es/aspose.cells.pivot/pivottablestyletype)

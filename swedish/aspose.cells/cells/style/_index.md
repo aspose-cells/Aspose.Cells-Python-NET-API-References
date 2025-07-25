@@ -3,7 +3,7 @@ title: style fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1300
+weight: 1330
 url: /sv/aspose.cells/cells/style/
 is_root: false
 ---

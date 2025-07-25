@@ -3,7 +3,7 @@ title: type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 210
 url: /tr/aspose.cells.drawing.activexcontrols/unknowncontrol/type/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [ControlType](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controltype)
-* sınıf [UnknownControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`ControlType`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/controltype)
+* sınıf [`UnknownControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/unknowncontrol)

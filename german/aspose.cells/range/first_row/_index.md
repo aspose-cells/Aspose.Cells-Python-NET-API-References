@@ -3,7 +3,7 @@ title: first_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 430
 url: /de/aspose.cells/range/first_row/
 is_root: false
 ---

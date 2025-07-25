@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/unionrange/copy/
 is_root: false
 ---
-##  copy(range, options) {#UnionRange-PasteOptions}
-Özel seçenekleri yapıştırarak aralığı kopyalama.
+##  copy(self, range, options) {#aspose.cells.UnionRange-aspose.cells.PasteOptions}
+Aralığı yapıştırma özel seçenekleriyle kopyalama.
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -20,11 +21,11 @@ def copy(self, range, options):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| range | [UnionRange](/cells/python-net/tr/aspose.cells/unionrange) | Kaynak aralığı.|
-| options | [PasteOptions](/cells/python-net/tr/aspose.cells/pasteoptions) | Yapıştır özel seçenekler.|
+| range | [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange) | Kaynak aralığı.|
+| options | [`PasteOptions`](/cells/python-net/tr/aspose.cells/pasteoptions) | Özel yapıştırma seçenekleri.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [UnionRange](/cells/python-net/tr/aspose.cells/unionrange)
+* modül [`aspose.cells`](../../)
+* sınıf [`UnionRange`](/cells/python-net/tr/aspose.cells/unionrange)

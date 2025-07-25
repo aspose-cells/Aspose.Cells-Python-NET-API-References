@@ -1,15 +1,15 @@
 ---
 title: right_margin_pt недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ru/aspose.cells.drawing.texts/shapetextalignment/right_margin_pt/
 is_root: false
 ---
 ##  right_margin_pt недвижимость
 
-Возвращает правое поле в баллах
+Возвращает правое поле в пунктах.
 
 ###  Пример
 
@@ -29,5 +29,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)

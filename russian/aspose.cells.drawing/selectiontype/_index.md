@@ -1,9 +1,9 @@
 ---
 title: SelectionType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1130
+weight: 1120
 url: /ru/aspose.cells.drawing/selectiontype/
 is_root: false
 ---
@@ -12,16 +12,16 @@ is_root: false
 
 
 
-Тип SelectionType предоставляет следующие члены:
+Тип SelectionType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| SINGLE | Одиночный тип выбора.|
-| MULTI |Тип множественного выбора.|
+| SINGLE | Тип одиночного выбора.|
+| MULTI | Тип множественного выбора.|
 | EXTEND | Расширить тип выбора.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
+* модуль [`aspose.cells.drawing`](..)

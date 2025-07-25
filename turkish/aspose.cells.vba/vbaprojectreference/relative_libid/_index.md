@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  relative_libid mülk
 
-Başvurulan VBA projesinin tanımlayıcısını göreli bir yolla alır ve ayarlar.
+Başvurulan VBA projesinin tanımlayıcısını göreceli bir yol ile alır ve ayarlar.
 
 ###  Notlar
 
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaProjectReference](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaProjectReference`](/cells/python-net/tr/aspose.cells.vba/vbaprojectreference)

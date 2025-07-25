@@ -1,15 +1,15 @@
 ---
 title: is_style_set proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 640
+weight: 670
 url: /it/aspose.cells/cell/is_style_set/
 is_root: false
 ---
 ##  is_style_set proprietà
 
-Indica se lo stile della cella è impostato. Se restituisce false, significa che questa cella ha un formato di cella predefinito.
+Indica se lo stile della cella è impostato. Se restituisce "false", significa che questa cella ha un formato predefinito.
 ###  Definizione:
 ```python
 @property

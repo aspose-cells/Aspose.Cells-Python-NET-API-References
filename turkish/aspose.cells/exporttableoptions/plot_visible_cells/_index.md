@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_visible_cells mülk
 
-Yalnızca görünür hücreleri dışa aktarır.
+Sadece görünür hücreleri dışa aktarır.
 ###  Tanım:
 ```python
 @property

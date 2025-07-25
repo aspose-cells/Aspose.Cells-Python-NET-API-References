@@ -7,12 +7,13 @@ weight: 120
 url: /sv/aspose.cells/validation/set_formula1/
 is_root: false
 ---
-##  set_formula1 {#str-bool-bool}
-Ställer in värdet eller uttrycket som är associerat med denna validering.
+##  set_formula1(self, formula, is_r1c1, is_local) {#str-bool-bool}
+Anger värdet eller uttrycket som är associerat med denna validering.
 
 
 
 ```python
+
 def set_formula1(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -21,7 +22,7 @@ def set_formula1(self, formula, is_r1c1, is_local):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | formula | str | Värdet eller uttrycket som är associerat med detta formatvillkor.|
-| is_r1c1 | bool | Om formeln är R1C1-formel.|
+| is_r1c1 | bool | Om formeln är R1C1-formeln.|
 | is_local | bool | Om formeln är språkformaterad.|
 
 

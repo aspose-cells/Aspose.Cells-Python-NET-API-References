@@ -3,13 +3,13 @@ title: keep_precision propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 210
 url: /fr/aspose.cells/txtloadoptions/keep_precision/
 is_root: false
 ---
 ##  keep_precision propriété
 
-Indique si une valeur de chaîne n'est pas analysée si la longueur est de 15.
+Indique s'il ne faut pas analyser une valeur de chaîne si la longueur est de 15.
 ###  Définition:
 ```python
 @property

@@ -10,7 +10,7 @@ is_root: false
 ##  metadata_table fastighet
 
 Hämtar tabell som innehåller metadata om en lista över specifika ändringar som har skett
-för denna arbetsbok.
+för den här arbetsboken.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionHeader](/cells/python-net/sv/aspose.cells.revisions/revisionheader)
-* klass [RevisionLog](/cells/python-net/sv/aspose.cells.revisions/revisionlog)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionHeader`](/cells/python-net/sv/aspose.cells.revisions/revisionheader)
+* klass [`RevisionLog`](/cells/python-net/sv/aspose.cells.revisions/revisionlog)

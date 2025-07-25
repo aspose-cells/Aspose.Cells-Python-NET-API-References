@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  full_quality_print_permission mülk
 
-Belgenin bir temsile yazdırılmasına izin verilip verilmeyeceğini belirtir.
-PDF içeriğinin aslına uygun bir dijital kopyasının oluşturulabileceği.
+ Belgenin bir gösterime yazdırılmasına izin verilip verilmeyeceğini belirtir
+PDF içeriğinin sadık bir dijital kopyasının oluşturulabilmesi.
 
 ###  Notlar
 
- Temiz olduğunda (ve [`PdfSecurityOptions.print_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#print_permission) ayarlandığında), yazdırma düşük düzeyde sınırlanır
-görünümün temsili, muhtemelen bozulmuş kalite.
+ Açık olduğunda (ve [`PdfSecurityOptions.print_permission`](/cells/python-net/tr/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#print_permission) ayarlandığında), yazdırma düşük bir seviyeyle sınırlandırılır
+muhtemelen kalitesi düşmüş bir görünümün temsili.
 ###  Tanım:
 ```python
 @property

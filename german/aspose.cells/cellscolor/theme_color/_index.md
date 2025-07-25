@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color Eigentum
 
-Ruft die Designfarbe ab. Gilt nur für den Farbtyp des Themas.
+Ruft die Designfarbe ab. Gilt nur für den Designfarbtyp.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellsColor](/cells/python-net/de/aspose.cells/cellscolor)
-* Klasse [ThemeColor](/cells/python-net/de/aspose.cells/themecolor)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellsColor`](/cells/python-net/de/aspose.cells/cellscolor)
+* Klasse [`ThemeColor`](/cells/python-net/de/aspose.cells/themecolor)

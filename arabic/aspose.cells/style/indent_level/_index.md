@@ -1,5 +1,5 @@
 ---
-title: indent_level الملكية
+title: indent_level عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 250
 url: /ar/aspose.cells/style/indent_level/
 is_root: false
 ---
-##  indent_level الملكية
+##  indent_level عقار
 
-يمثل مستوى المسافة البادئة للخلية أو النطاق. يمكن أن يكون عددًا صحيحًا فقط من 0 إلى 250.
+يُمثل مستوى المسافة البادئة للخلية أو النطاق. يمكن أن يكون عددًا صحيحًا من ٠ إلى ٢٥٠ فقط.
 
 ###  ملاحظات
 
-إذا تم تعيين نوع المحاذاة الأفقية للنص على قيمة بخلاف اليسار أو اليمين ، فسيتم تعيين مستوى المسافة البادئة
-يمكن إعادة تعيينه إلى الصفر.
+إذا تم تعيين نوع محاذاة النص الأفقية على قيمة غير اليسار أو اليمين، فسيتم تغيير مستوى المسافة البادئة
+سيتم إعادة تعيينه إلى الصفر.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def indent_level(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Style](/cells/python-net/ar/aspose.cells/style)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Style`](/cells/python-net/ar/aspose.cells/style)

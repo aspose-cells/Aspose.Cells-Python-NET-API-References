@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.digitalsignatures/digitalsignaturecollection/add/
 is_root: false
 ---
-##  add(digital_signature) {#DigitalSignature}
-Fügen Sie DigitalSignatureCollection eine Signatur hinzu.
+##  add(self, digital_signature) {#aspose.cells.digitalsignatures.DigitalSignature}
+Fügen Sie der DigitalSignatureCollection eine Signatur hinzu.
 
 
 
 ```python
+
 def add(self, digital_signature):
     ...
 ```
@@ -20,10 +21,10 @@ def add(self, digital_signature):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| digital_signature | [DigitalSignature](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature) | Digitale Signatur in Sammlung.|
+| digital_signature | [`DigitalSignature`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignature) | Digitale Signatur in der Sammlung.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.digitalsignatures](../../)
-* Klasse [DigitalSignatureCollection](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection)
+* Modul [`aspose.cells.digitalsignatures`](../../)
+* Klasse [`DigitalSignatureCollection`](/cells/python-net/de/aspose.cells.digitalsignatures/digitalsignaturecollection)

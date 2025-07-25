@@ -7,7 +7,7 @@ weight: 80
 url: /tr/aspose.cells.charts/chartglobalizationsettings/get_other_name/
 is_root: false
 ---
-##  get_other_name() {#}
+##  get_other_name(self) {#}
 Grafik için "Diğer" etiketlerinin adını alır.
 
 
@@ -17,6 +17,7 @@ Grafik için "Diğer" etiketlerinin adını alır.
 
 
 ```python
+
 def get_other_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_other_name(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartGlobalizationSettings](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartGlobalizationSettings`](/cells/python-net/tr/aspose.cells.charts/chartglobalizationsettings)

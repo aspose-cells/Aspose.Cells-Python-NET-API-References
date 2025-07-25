@@ -1,6 +1,6 @@
 ---
 title: underline недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -21,6 +21,6 @@ def underline(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Font](/cells/python-net/ru/aspose.cells/font)
-* класс [FontUnderlineType](/cells/python-net/ru/aspose.cells/fontunderlinetype)
+* модуль [`aspose.cells`](../../)
+* класс [`Font`](/cells/python-net/ru/aspose.cells/font)
+* класс [`FontUnderlineType`](/cells/python-net/ru/aspose.cells/fontunderlinetype)

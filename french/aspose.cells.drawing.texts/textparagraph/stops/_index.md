@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stops propriété
 
-Obtient la liste d'arrêt de tabulation.
+Obtient la liste des tabulations.
 ###  Définition:
 ```python
 @property
@@ -18,6 +18,6 @@ def stops(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextParagraph](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
-* classe [TextTabStopCollection](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstopcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextParagraph`](/cells/python-net/fr/aspose.cells.drawing.texts/textparagraph)
+* classe [`TextTabStopCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/texttabstopcollection)

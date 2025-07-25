@@ -3,7 +3,7 @@ title: is_filled fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 660
 url: /sv/aspose.cells.drawing/picture/is_filled/
 is_root: false
 ---

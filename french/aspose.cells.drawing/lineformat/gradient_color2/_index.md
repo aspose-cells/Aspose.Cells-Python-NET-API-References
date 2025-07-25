@@ -13,7 +13,7 @@ Renvoie la couleur de dégradé 2 pour le remplissage spécifié.
 
 ###  Remarques
 
-Uniquement lorsque le type de couleur de dégradé est GradientColorType.TwoColors, cette propriété est significative.
+Cette propriété n'a de sens que lorsque le type de couleur du dégradé est GradientColorType.TwoColors.
 ###  Définition:
 ```python
 @property
@@ -22,5 +22,5 @@ def gradient_color2(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)

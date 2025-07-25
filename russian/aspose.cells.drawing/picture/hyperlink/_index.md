@@ -1,6 +1,6 @@
 ---
 title: hyperlink недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 570
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hyperlink недвижимость
 
-Получает hyperlink фигуры.
+Получает hyperlink формы.
 
 ###  Пример
 

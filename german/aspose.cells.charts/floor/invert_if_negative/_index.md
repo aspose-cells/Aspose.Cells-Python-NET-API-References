@@ -10,7 +10,7 @@ is_root: false
 ##  invert_if_negative Eigentum
 
 Wenn die Eigenschaft wahr ist und der Wert des Diagrammpunkts eine negative Zahl ist,
-Vorder- und Hintergrundfarbe werden vertauscht.
+Dabei werden Vordergrundfarbe und Hintergrundfarbe vertauscht.
 
 ###  Beispiel
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Floor](/cells/python-net/de/aspose.cells.charts/floor)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Floor`](/cells/python-net/de/aspose.cells.charts/floor)

@@ -1,6 +1,6 @@
 ---
 title: terminate_without_exception недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -8,10 +8,6 @@ url: /ru/aspose.cells/interruptmonitor/terminate_without_exception/
 is_root: false
 ---
 ##  terminate_without_exception недвижимость
-
-Когда процедура прерывается, завершайте процедуру тихо или выбрасывайте исключение.
-По умолчанию false, то есть когда [AbstractInterruptMonitor.is_interruption_requested](/cells/python-net/ru/aspose.cells/abstractinterruptmonitor#is_interruption_requested) истинно,
-будет выброшен [CellsException](/cells/python-net/ru/aspose.cells/cellsexception) с кодом [ExceptionType.INTERRUPTED](/cells/python-net/ru/aspose.cells/exceptiontype#INTERRUPTED).
 ###  Определение:
 ```python
 @property
@@ -20,6 +16,5 @@ def terminate_without_exception(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellsException](/cells/python-net/ru/aspose.cells/cellsexception)
-* класс [InterruptMonitor](/cells/python-net/ru/aspose.cells/interruptmonitor)
+* модуль [`aspose.cells`](../../)
+* класс [`InterruptMonitor`](/cells/python-net/ru/aspose.cells/interruptmonitor)

@@ -8,7 +8,7 @@ url: /es/aspose.cells.querytables/powerqueryformulaitem/
 is_root: false
 ---
 ##  PowerQueryFormulaItem clase
-Representa el elemento de la fórmula de consulta de energía.
+Representa el elemento de la fórmula de consulta de potencia.
 
 
 
@@ -23,4 +23,4 @@ El tipo PowerQueryFormulaItem expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.querytables](..)
+* módulo [`aspose.cells.querytables`](..)

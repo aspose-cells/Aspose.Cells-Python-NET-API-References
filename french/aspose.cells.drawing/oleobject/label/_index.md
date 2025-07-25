@@ -3,7 +3,7 @@ title: label propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 800
+weight: 810
 url: /fr/aspose.cells.drawing/oleobject/label/
 is_root: false
 ---

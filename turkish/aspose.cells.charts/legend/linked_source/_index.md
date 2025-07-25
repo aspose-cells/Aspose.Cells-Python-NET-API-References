@@ -3,7 +3,7 @@ title: linked_source mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 350
 url: /tr/aspose.cells.charts/legend/linked_source/
 is_root: false
 ---

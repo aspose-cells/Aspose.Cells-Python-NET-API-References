@@ -3,13 +3,13 @@ title: subject mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 370
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/subject/
 is_root: false
 ---
 ##  subject mülk
 
-Belgenin subject'ini alır veya ayarlar.
+Belgenin subject değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def subject(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

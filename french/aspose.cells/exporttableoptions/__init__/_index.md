@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells/exporttableoptions/__init__/
 is_root: false
 ---
-##  ExportTableOptions() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de ExportTableOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ExportTableOptions](/cells/python-net/fr/aspose.cells/exporttableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ExportTableOptions`](/cells/python-net/fr/aspose.cells/exporttableoptions)

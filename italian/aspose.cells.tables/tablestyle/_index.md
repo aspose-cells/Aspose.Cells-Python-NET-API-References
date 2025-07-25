@@ -1,24 +1,24 @@
 ---
-title: classe TableStyle
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: TableStyle classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
 url: /it/aspose.cells.tables/tablestyle/
 is_root: false
 ---
-##  classe TableStyle
+##  TableStyle classe
 Rappresenta lo stile della tabella.
 
 
 
-Il tipo TableStyle espone i membri seguenti:
+Il tipo TableStyle espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [name](/cells/python-net/it/aspose.cells.tables/tablestyle/name) | Ottiene il nome dello stile tabella.|
-| [table_style_elements](/cells/python-net/it/aspose.cells.tables/tablestyle/table_style_elements) | Ottiene tutti gli elementi dello stile tabella.|
+| [name](/cells/python-net/it/aspose.cells.tables/tablestyle/name) | Ottiene il nome dello stile della tabella.|
+| [table_style_elements](/cells/python-net/it/aspose.cells.tables/tablestyle/table_style_elements) | Ottiene tutti gli elementi dello stile della tabella.|
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.tables](..)
+* modulo [`aspose.cells.tables`](..)

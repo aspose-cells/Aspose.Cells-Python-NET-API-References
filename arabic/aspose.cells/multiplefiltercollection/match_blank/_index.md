@@ -1,5 +1,5 @@
 ---
-title: match_blank الملكية
+title: match_blank عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells/multiplefiltercollection/match_blank/
 is_root: false
 ---
-##  match_blank الملكية
+##  match_blank عقار
 
 يشير إلى ما إذا كان سيتم التصفية حسب الفراغ.
 ###  تعريف:
@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [MultipleFilterCollection](/cells/python-net/ar/aspose.cells/multiplefiltercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`MultipleFilterCollection`](/cells/python-net/ar/aspose.cells/multiplefiltercollection)

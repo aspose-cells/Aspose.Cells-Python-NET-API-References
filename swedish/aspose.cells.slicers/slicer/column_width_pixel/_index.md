@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_width_pixel fastighet
 
-Hämtar eller ställer in bredden i pixelenhet för varje kolumn i utsnittet.
+Hämtar eller anger bredden på varje kolumn i utsnittet, i pixlar.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def column_width_pixel(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

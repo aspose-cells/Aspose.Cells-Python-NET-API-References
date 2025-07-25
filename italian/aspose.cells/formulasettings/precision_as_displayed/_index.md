@@ -1,6 +1,6 @@
 ---
 title: precision_as_displayed proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  precision_as_displayed proprietà
 
-Se la precisione del risultato calcolato deve essere impostata come vengono visualizzati durante il calcolo delle formule
+Se la precisione del risultato calcolato deve essere impostata come visualizzata durante il calcolo delle formule
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def precision_as_displayed(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

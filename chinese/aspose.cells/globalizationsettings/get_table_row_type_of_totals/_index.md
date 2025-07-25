@@ -7,17 +7,18 @@ weight: 270
 url: /zh/aspose.cells/globalizationsettings/get_table_row_type_of_totals/
 is_root: false
 ---
-##  get_table_row_type_of_totals {#}
+##  get_table_row_type_of_totals(self) {#}
 获取由引用表的总行组成的表行的类型名称。
-默认为“Totals”，因此公式中“#Totals”代表引用表的总行数。
+默认值为“Totals”，因此公式中的“#Totals”代表引用表的总行数。
 
 
-### 退货
+### 返回
 
 表行的类型名称
 
 
 ```python
+
 def get_table_row_type_of_totals(self):
     ...
 ```

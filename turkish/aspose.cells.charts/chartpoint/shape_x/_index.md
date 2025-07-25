@@ -3,13 +3,13 @@ title: shape_x mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 360
+weight: 370
 url: /tr/aspose.cells.charts/chartpoint/shape_x/
 is_root: false
 ---
 ##  shape_x mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra sol üst köşenin x koordinatını grafiğin genişliğinin 1/4000'lik birimlerinde alır.
+Chart.Calculate() metodunu çağırdıktan sonra grafiğin genişliğinin 1/4000'i cinsinden sol üst köşenin x koordinatını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_x(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

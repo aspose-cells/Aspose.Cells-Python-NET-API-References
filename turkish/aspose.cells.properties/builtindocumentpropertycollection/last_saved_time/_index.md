@@ -3,17 +3,17 @@ title: last_saved_time mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 260
+weight: 270
 url: /tr/aspose.cells.properties/builtindocumentpropertycollection/last_saved_time/
 is_root: false
 ---
 ##  last_saved_time mülk
 
-Yerel saat dilimindeki son kaydetmenin saatini alır veya ayarlar.
+Yerel saat dilimindeki son kaydın zamanını alır veya ayarlar.
 
 ###  Notlar
 
-Aspose.Cells, belgeyi değiştirdiğinizde bu özelliği güncellemez.
+Aspose.Cells belgeyi değiştirdiğinizde bu özelliği güncellemez.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def last_saved_time(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [BuiltInDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`BuiltInDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/builtindocumentpropertycollection)

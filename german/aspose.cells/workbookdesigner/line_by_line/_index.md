@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  line_by_line Eigentum
 
-Gibt an, ob der Smart Marker zeilenweise verarbeitet wird.
+Gibt an, ob der Smartmarker zeilenweise verarbeitet wird.
 
 ###  Bemerkungen
 
-Der Standardwert ist wahr.
-Bei False muss die Vorlagendatei einen Bereich mit dem Namen „_CellsSmartMarkers“ enthalten.
+Der Standardwert ist „true“.
+Wenn „False“, muss die Vorlagendatei einen Bereich mit dem Namen „_CellsSmartMarkers“ enthalten.
 ###  Definition:
 ```python
 @property

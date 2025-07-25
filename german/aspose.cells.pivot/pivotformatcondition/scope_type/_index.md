@@ -8,8 +8,6 @@ url: /de/aspose.cells.pivot/pivotformatcondition/scope_type/
 is_root: false
 ---
 ##  scope_type Eigentum
-
-Abrufen und Festlegen des Bereichstyps für das Bedingungsformat der Pivot-Tabelle .
 ###  Definition:
 ```python
 @property
@@ -21,6 +19,6 @@ def scope_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotConditionFormatScopeType](/cells/python-net/de/aspose.cells.pivot/pivotconditionformatscopetype)
-* Klasse [PivotFormatCondition](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotConditionFormatScopeType`](/cells/python-net/de/aspose.cells.pivot/pivotconditionformatscopetype)
+* Klasse [`PivotFormatCondition`](/cells/python-net/de/aspose.cells.pivot/pivotformatcondition)

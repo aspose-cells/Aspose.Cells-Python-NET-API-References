@@ -3,12 +3,12 @@ title: intersect metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 170
 url: /sv/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect {#aspose.cells.Range}
-Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt som representerar den rektangulära skärningspunkten mellan två intervall.
+##  intersect(self, range) {#aspose.cells.Range}
+Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt som representerar den rektangulära skärningspunkten mellan två områden.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Returnerar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -24,10 +25,10 @@ def intersect(self, range):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Det korsande området.|
+| range | [`Range`](/cells/python-net/sv/aspose.cells/range) | Det skärande området.|
 ###  Anmärkningar
 
-Om de två områdena inte skärs, returneras null.
+Om de två områdena inte skär varandra returneras null.
 ###  Exempel
 
 

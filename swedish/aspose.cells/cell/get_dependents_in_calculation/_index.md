@@ -7,16 +7,17 @@ weight: 100
 url: /sv/aspose.cells/cell/get_dependents_in_calculation/
 is_root: false
 ---
-##  get_dependents_in_calculation(recursive) {#bool}
-Hämtar alla celler vars beräknade resultat beror på denna cell.
+##  get_dependents_in_calculation(self, recursive) {#bool}
+Hämtar alla celler vars beräknade resultat är beroende av denna cell.
 
 
 ###  Returnerar
 
-Enumerator för att räkna upp alla anhöriga (Cell objekt)
+Uppräknare för att räkna upp alla beroenden (Cell objekt)
 
 
 ```python
+
 def get_dependents_in_calculation(self, recursive):
     ...
 ```
@@ -24,12 +25,12 @@ def get_dependents_in_calculation(self, recursive):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| recursive | bool | Om returnerar de beroende som inte refererar till den här cellen direkt<br/> men hänvisning till andra blad i denna cell|
+| recursive | bool | Om returnerar de beroenden som inte refererar direkt till den här cellen<br/> men hänvisning till andra blad i denna cell|
 ###  Anmärkningar
 
 För att använda den här metoden, se till att arbetsboken har ställts in med sant värde för
-[FormulaSettings.enable_calculation_chain](/cells/python-net/sv/aspose.cells/formulasettings#enable_calculation_chain) och har beräknats helt med denna inställning.
-Om det inte finns någon formelreferens till den här cellen kommer null att returneras.
+[`FormulaSettings.enable_calculation_chain`](/cells/python-net/sv/aspose.cells/formulasettings#enable_calculation_chain) och har beräknats fullständigt med denna inställning.
+Om det inte finns någon formelreferens till den här cellen returneras null.
 ###  Exempel
 
 ```python
@@ -55,5 +56,5 @@ for c in en:
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Cell](/cells/python-net/sv/aspose.cells/cell)
+* modul [`aspose.cells`](../../)
+* klass [`Cell`](/cells/python-net/sv/aspose.cells/cell)

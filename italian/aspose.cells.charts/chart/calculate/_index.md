@@ -1,18 +1,19 @@
 ---
 title: Metodo calculate
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Calcola la posizione personalizzata dell'area del tracciato, degli assi se la loro posizione è assegnata automaticamente.
+##  calculate(self) {#}
+Calcola la posizione personalizzata dell'area del grafico e degli assi se la loro posizione è assegnata automaticamente.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Calcola la posizione personalizzata dell'area del tracciato e degli assi, se la loro posizione è assegnata automaticamente, con le opzioni di calcolo del grafico.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Calcola la posizione personalizzata dell'area del grafico e degli assi se la loro posizione è assegnata automaticamente, con le opzioni di calcolo del grafico.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

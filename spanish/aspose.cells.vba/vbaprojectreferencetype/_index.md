@@ -8,7 +8,7 @@ url: /es/aspose.cells.vba/vbaprojectreferencetype/
 is_root: false
 ---
 ##  VbaProjectReferenceType enumeración
-Representa el tipo de referencia de proyecto de VBA.
+Representa el tipo de referencia de proyecto VBA.
 
 
 
@@ -18,10 +18,10 @@ El tipo VbaProjectReferenceType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | REGISTERED | Especifica una referencia a una biblioteca de tipos de automatización.|
-| CONTROL | Especifica una referencia a una biblioteca de tipos modificada y su biblioteca de tipos extendida.|
+| CONTROL | Especifica una referencia a una biblioteca de tipos twiddled y su biblioteca de tipos extendida.|
 | PROJECT | Especifica una referencia a un proyecto VBA externo.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.vba](..)
+* módulo [`aspose.cells.vba`](..)

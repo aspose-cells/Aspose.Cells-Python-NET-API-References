@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_zone_data fastighet
 
-Anger om en kontroll för varje pivottabellfält på pivottabelldataaxeln
-av källpivottabellen visas i diagrammet när dropZonesVisible är satt till true.
+Anger om en kontroll för varje pivottabellfält på pivottabellens dataaxel
+för källpivottabellen visas i diagrammet när dropZonesVisible är inställt på sant.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def drop_zone_data(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [PivotOptions](/cells/python-net/sv/aspose.cells.charts/pivotoptions)
+* modul [`aspose.cells.charts`](../../)
+* klass [`PivotOptions`](/cells/python-net/sv/aspose.cells.charts/pivotoptions)

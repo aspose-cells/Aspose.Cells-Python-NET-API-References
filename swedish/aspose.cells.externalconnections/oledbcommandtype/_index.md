@@ -8,7 +8,7 @@ url: /sv/aspose.cells.externalconnections/oledbcommandtype/
 is_root: false
 ---
 ##  OLEDBCommandType uppräkning
-Anger kommandotypen OLE DB.
+Anger OLE DB-kommandotypen.
 
 
 
@@ -19,12 +19,13 @@ Typen OLEDBCommandType avslöjar följande medlemmar:
 | :- | :- |
 | NONE | Kommandotypen är inte specificerad.|
 | CUBE_NAME | Anger ett kubnamn|
-| SQL_STATEMENT | Anger en SQL-sats|
+| SQL_STATEMENT | Anger ett SQL-uttryck|
 | TABLE_NAME | Anger ett tabellnamn|
-| DEFAULT_INFORMATION | Anger att standardinformation har getts, och det är upp till leverantören hur man tolkar.|
-| WEB_BASED_LIST |Anger en fråga som är mot en webbaserad listdataleverantör.|
+| DEFAULT_INFORMATION | Anger att standardinformation har givits, och att det är upp till leverantören hur den ska tolkas.|
+| WEB_BASED_LIST | Anger en fråga som är mot en webbaserad listdataleverantör.|
+| TABLE_COLLECTION | Anger tabellistan.|
 
 
 
 ###  Se även
-* modul [aspose.cells.externalconnections](..)
+* modul [`aspose.cells.externalconnections`](..)

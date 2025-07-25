@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  priority mülk
 
-Bu koşullu biçimlendirme kuralının priority'i. Bu değer hangisini belirlemek için kullanılır?
-biçimi değerlendirilmeli ve işlenmelidir. Daha düşük sayısal değerler priority'den daha yüksektir
-daha yüksek sayısal değerler, burada '1' en yüksek priority'dir.
+Bu koşullu biçimlendirme kuralının priority değeri. Bu değer, hangisinin
+Biçim değerlendirilmeli ve oluşturulmalıdır. Daha düşük sayısal değerler, priority'den daha yüksektir.
+daha yüksek sayısal değerler, '1' en yüksek priority'dir.
 ###  Tanım:
 ```python
 @property
@@ -23,5 +23,5 @@ def priority(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatCondition](/cells/python-net/tr/aspose.cells/formatcondition)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatCondition`](/cells/python-net/tr/aspose.cells/formatcondition)

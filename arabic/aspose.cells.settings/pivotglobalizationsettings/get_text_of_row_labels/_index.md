@@ -3,12 +3,12 @@ title: طريقة get_text_of_row_labels
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells.settings/pivotglobalizationsettings/get_text_of_row_labels/
 is_root: false
 ---
-##  get_text_of_row_labels {#}
-الحصول على نص تسمية "تسميات الصفوف" في PivotTable.
+##  get_text_of_row_labels(self) {#}
+يحصل على نص تسمية "عناوين الصفوف" في الجدول المحوري.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_text_of_row_labels(self):
     ...
 ```

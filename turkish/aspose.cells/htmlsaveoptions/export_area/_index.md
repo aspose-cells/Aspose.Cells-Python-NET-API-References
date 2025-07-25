@@ -3,15 +3,15 @@ title: export_area mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 240
 url: /tr/aspose.cells/htmlsaveoptions/export_area/
 is_root: false
 ---
 ##  export_area mülk
 
-Geçerli etkin Çalışma Sayfasının dışa aktarılan CellArea'sını alır veya ayarlar.
-Bu özelliği ayarlarsanız mevcut etkin Çalışma Sayfasının yazdırma alanı atlanır.
-Dosyayı html'ye kaydederken yalnızca belirtilen alan dışa aktarılacaktır.
+Geçerli etkin Çalışma Sayfasının dışa aktarılan Hücre Alanını alır veya ayarlar.
+Bu özniteliği ayarlarsanız, geçerli etkin Çalışma Sayfasının yazdırma alanı atlanacaktır.
+Dosyayı html olarak kaydederken sadece belirtilen alan dışarı aktarılacaktır.
 ###  Tanım:
 ```python
 @property

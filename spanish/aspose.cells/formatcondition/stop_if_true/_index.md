@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  stop_if_true propiedad
 
-Cierto, no se pueden aplicar reglas con menor prioridad sobre esta regla, cuando esta regla se evalúa como verdadera.
-Solo aplica para Excel 2007;
+Es cierto que no se pueden aplicar reglas con menor prioridad sobre esta regla, cuando esta regla se evalúa como verdadera.
+Sólo se aplica a Excel 2007;
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def stop_if_true(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Giriş hücresinin row dizinini alır ve ayarlar.
+Giriş hücresinin row indeksini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioInputCell](/cells/python-net/tr/aspose.cells/scenarioinputcell)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioInputCell`](/cells/python-net/tr/aspose.cells/scenarioinputcell)

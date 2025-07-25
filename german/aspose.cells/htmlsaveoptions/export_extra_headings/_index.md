@@ -3,14 +3,14 @@ title: export_extra_headings Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 300
 url: /de/aspose.cells/htmlsaveoptions/export_extra_headings/
 is_root: false
 ---
 ##  export_extra_headings Eigentum
 
-Gibt an, ob zusätzliche Überschriften exportiert werden, wenn die Textlänge länger als die maximale Anzeigespalte ist.
-Der Standardwert ist false. Wenn Sie die HTML-Datei in Excel importieren möchten, behalten Sie bitte den Standardwert bei.
+Gibt an, ob zusätzliche Überschriften exportiert werden, wenn die Textlänge die maximale Anzeigespalte überschreitet.
+Der Standardwert ist „false“. Wenn Sie die HTML-Datei in Excel importieren möchten, behalten Sie bitte den Standardwert bei.
 ###  Definition:
 ```python
 @property

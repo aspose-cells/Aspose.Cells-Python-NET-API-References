@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_margin mülk
 
-Alt kenar boşluğunun boyutunu santimetre cinsinden temsil eder.
+Alt kenar boşluğunun santimetre cinsinden boyutunu gösterir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_margin(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## comment_shape属性
 
-获取一个 Shape 对象，该对象表示附加到指定注释的形状。
+获取表示附加到指定注意事项的形状的 Shape 对象。
 
 ### 例子
 

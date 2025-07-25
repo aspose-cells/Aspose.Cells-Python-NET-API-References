@@ -7,12 +7,13 @@ weight: 170
 url: /ar/aspose.cells/pagesetup/set_fit_to_pages/
 is_root: false
 ---
-##  set_fit_to_pages(wide, tall) {#int-int}
-يعيّن عدد الصفحات التي سيتم تغيير حجم ورقة العمل إليها عند طباعتها.
+##  set_fit_to_pages(self, wide, tall) {#int-int}
+تعيين عدد الصفحات التي سيتم تغيير حجم ورقة العمل إليها عند طباعتها.
 
 
 
 ```python
+
 def set_fit_to_pages(self, wide, tall):
     ...
 ```
@@ -21,10 +22,10 @@ def set_fit_to_pages(self, wide, tall):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | wide | int | صفحات واسعة.|
-| tall | int | صفحات طويلة.|
+| tall | int | الصفحات طويلة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

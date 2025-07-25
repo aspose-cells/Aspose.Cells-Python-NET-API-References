@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name propiedad
 
-Obtiene el name de querytable.
+Obtiene el name de la tabla de consulta.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def name(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [QueryTable](/cells/python-net/es/aspose.cells/querytable)
+* módulo [`aspose.cells`](../../)
+* clase [`QueryTable`](/cells/python-net/es/aspose.cells/querytable)

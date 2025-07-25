@@ -1,13 +1,13 @@
 ---
-title: metodo get_instance
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_instance
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/cellsdatatablefactory/get_instance/
 is_root: false
 ---
-##  get_instance(collection) {#list}
+##  get_instance(self, collection) {#list}
 Crea ICellsDataTable dalla raccolta specificata.
 
 
@@ -17,6 +17,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, collection):
     ...
 ```
@@ -24,11 +25,11 @@ def get_instance(self, collection):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| collection | list | la collezione per costruire la tavola|
+| collection | list | la raccolta per costruire la tabella|
 
 
-##  get_instance(vals, column_names) {#list-list}
-Crea ICellsDataTable da una data sequenza di valori int.
+##  get_instance(self, vals, column_names) {#list-list}
+Crea ICellsDataTable dalla sequenza specificata di valori int.
 
 
 ###  ritorna
@@ -37,6 +38,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -45,11 +47,11 @@ def get_instance(self, vals, column_names):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | vals | list | valori int per costruire la tabella|
-| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (costruisci la tabella in base ai valori int verticalmente)<br/> o lunghezza dei valori int (costruisci la tabella in base ai valori int orizzontalmente)|
+| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (la tabella viene creata in base ai valori int verticalmente)<br/> o lunghezza dei valori int (crea la tabella in base ai valori int orizzontalmente)|
 
 
-##  get_instance(vals, vertial) {#list-bool}
-Crea ICellsDataTable da una data sequenza di valori int.
+##  get_instance(self, vals, vertial) {#list-bool}
+Crea ICellsDataTable dalla sequenza specificata di valori int.
 
 
 ###  ritorna
@@ -58,6 +60,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -66,11 +69,11 @@ def get_instance(self, vals, vertial):
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
 | vals | list | valori int per costruire la tabella|
-| vertial | bool |se costruisci la tabella in base ai valori int verticalmente (vero) o orizzontalmente (falso)|
+| vertial | bool |se creare la tabella in base ai valori int verticalmente (true) o orizzontalmente (false)|
 
 
-##  get_instance(vals, column_names) {#list-list}
-Crea ICellsDataTable dalla sequenza data di valori double.
+##  get_instance(self, vals, column_names) {#list-list}
+Crea ICellsDataTable dalla sequenza specificata di valori double.
 
 
 ###  ritorna
@@ -79,6 +82,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -86,12 +90,12 @@ def get_instance(self, vals, column_names):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| vals | list | doppi valori per costruire la tabella|
-| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (costruisci la tabella con i doppi valori verticalmente)<br/> o lunghezza dei doppi valori (costruisci la tabella con i doppi valori orizzontalmente)|
+| vals | list | raddoppia i valori per creare la tabella|
+| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (la tabella viene creata in base ai valori doppi verticalmente)<br/> o lunghezza dei valori doppi (crea una tabella con i valori doppi orizzontalmente)|
 
 
-##  get_instance(vals, vertial) {#list-bool}
-Crea ICellsDataTable dalla sequenza data di valori double.
+##  get_instance(self, vals, vertial) {#list-bool}
+Crea ICellsDataTable dalla sequenza specificata di valori double.
 
 
 ###  ritorna
@@ -100,6 +104,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -107,12 +112,12 @@ def get_instance(self, vals, vertial):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| vals | list | doppi valori per costruire la tabella|
-| vertial | bool | se costruisci la tabella con i doppi valori verticalmente (vero) o orizzontalmente (falso)|
+| vals | list | raddoppia i valori per creare la tabella|
+| vertial | bool | se creare la tabella con i valori double verticalmente (true) o orizzontalmente (false)|
 
 
-##  get_instance(vals, column_names) {#list-list}
-Crea ICellsDataTable da una determinata sequenza di oggetti.
+##  get_instance(self, vals, column_names) {#list-list}
+Crea ICellsDataTable dalla sequenza di oggetti specificata.
 
 
 ###  ritorna
@@ -121,6 +126,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, column_names):
     ...
 ```
@@ -128,12 +134,12 @@ def get_instance(self, vals, column_names):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| vals | list | oggetti per costruire tabella|
-| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (costruisci la tabella dagli oggetti verticalmente)<br/> o lunghezza degli oggetti (costruisci la tabella dagli oggetti orizzontalmente)|
+| vals | list | oggetti per costruire la tabella|
+| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (costruzione del tavolo con gli oggetti in verticale)<br/> o lunghezza degli oggetti (costruisci la tabella in base agli oggetti orizzontalmente)|
 
 
-##  get_instance(vals, vertial) {#list-bool}
-Crea ICellsDataTable da una determinata sequenza di oggetti.
+##  get_instance(self, vals, vertial) {#list-bool}
+Crea ICellsDataTable dalla sequenza di oggetti specificata.
 
 
 ###  ritorna
@@ -142,6 +148,7 @@ Istanza di ICellsDataTable
 
 
 ```python
+
 def get_instance(self, vals, vertial):
     ...
 ```
@@ -149,11 +156,56 @@ def get_instance(self, vals, vertial):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| vals | list | oggetti per costruire tabella|
-| vertial | bool | se costruisci la tabella dagli oggetti verticalmente (vero) o orizzontalmente (falso)|
+| vals | list | oggetti per costruire la tabella|
+| vertial | bool | se la tabella di costruzione degli oggetti viene creata verticalmente (true) o orizzontalmente (false)|
+
+
+##  get_instance(self, collection, has_header) {#list-bool}
+Crea ICellsDataTable dalla raccolta specificata.
+
+
+###  ritorna
+
+Istanza di ICellsDataTable
+
+
+```python
+
+def get_instance(self, collection, has_header):
+    ...
+```
+
+
+| Parametro| Tipo| Descrizione|
+| :- | :- | :- |
+| collection | list | la raccolta per costruire la tabella|
+| has_header | bool | Indica se la prima riga è un'intestazione|
+
+
+##  get_instance(self, vals, has_header, column_names) {#list-bool-list}
+Crea ICellsDataTable dalla sequenza di oggetti specificata.
+
+
+###  ritorna
+
+Istanza di ICellsDataTable
+
+
+```python
+
+def get_instance(self, vals, has_header, column_names):
+    ...
+```
+
+
+| Parametro| Tipo| Descrizione|
+| :- | :- | :- |
+| vals | list | oggetti per costruire la tabella|
+| has_header | bool | Indica se la prima riga è una riga di intestazione.|
+| column_names | list | Nomi delle colonne della tabella.<br/>La sua lunghezza può essere solo 1 (costruzione del tavolo con gli oggetti in verticale)<br/> o lunghezza degli oggetti (costruisci la tabella in base agli oggetti orizzontalmente)|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsDataTableFactory](/cells/python-net/it/aspose.cells/cellsdatatablefactory)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsDataTableFactory`](/cells/python-net/it/aspose.cells/cellsdatatablefactory)

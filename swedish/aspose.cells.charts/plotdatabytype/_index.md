@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/plotdatabytype/
 is_root: false
 ---
 ##  PlotDataByType uppräkning
-Representerar typen av dataplot per rad eller kolumn.
+Representerar datatypen plottad per rad eller kolumn.
 
 
 
@@ -17,10 +17,10 @@ Typen PlotDataByType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| ROW | Efter rad.|
-| COLUMN | Efter kolumn.|
+| ROW | Rad för rad.|
+| COLUMN | Kolumnvis.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

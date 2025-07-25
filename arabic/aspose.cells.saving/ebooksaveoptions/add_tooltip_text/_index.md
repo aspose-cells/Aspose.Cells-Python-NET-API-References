@@ -3,14 +3,14 @@ title: add_tooltip_text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ar/aspose.cells.saving/ebooksaveoptions/add_tooltip_text/
 is_root: false
 ---
 ##  add_tooltip_text عقار
 
-يشير إلى ما إذا كان سيتم إضافة نص تلميح الأدوات عندما لا يمكن عرض البيانات بالكامل.
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان من الممكن إضافة نص إرشادي عندما لا يمكن عرض البيانات بالكامل.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

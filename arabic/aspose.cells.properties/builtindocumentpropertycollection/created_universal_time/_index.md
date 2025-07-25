@@ -1,19 +1,19 @@
 ---
-title: created_universal_time الملكية
+title: created_universal_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/created_universal_time/
 is_root: false
 ---
-##  created_universal_time الملكية
+##  created_universal_time عقار
 
-الحصول على أو تحديد التوقيت العالمي لإنشاء المستند.
+يحصل على الوقت العالمي لإنشاء المستند أو يعينه.
 
 ###  ملاحظات
 
-Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل الوثيقة.
+Aspose.Cells لا يقوم بتحديث هذه الخاصية عند تعديل المستند.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def created_universal_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

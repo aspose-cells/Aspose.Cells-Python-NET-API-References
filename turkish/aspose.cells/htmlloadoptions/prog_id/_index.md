@@ -3,14 +3,14 @@ title: prog_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 320
 url: /tr/aspose.cells/htmlloadoptions/prog_id/
 is_root: false
 ---
 ##  prog_id mülk
 
-Dosyayı oluşturmanın program kimliğini alır.
-Yalnızca MHT dosyaları için.
+Dosyayı oluşturan programın kimliğini alır.
+Sadece MHT dosyaları için.
 ###  Tanım:
 ```python
 @property

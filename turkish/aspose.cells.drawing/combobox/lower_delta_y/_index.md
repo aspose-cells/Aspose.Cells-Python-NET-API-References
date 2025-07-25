@@ -3,13 +3,13 @@ title: lower_delta_y mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 770
+weight: 780
 url: /tr/aspose.cells.drawing/combobox/lower_delta_y/
 is_root: false
 ---
 ##  lower_delta_y mülk
 
-Şeklin dikey uzaklığını sağ alt köşe satırından alır veya ayarlar.
+Şeklin sağ alt köşesindeki satırdan dikey uzaklığını alır veya ayarlar.
 
 ###  Notlar
 

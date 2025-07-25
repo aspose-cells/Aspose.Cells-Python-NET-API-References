@@ -3,12 +3,12 @@ title: ColorDepth Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 160
 url: /de/aspose.cells.rendering/colordepth/
 is_root: false
 ---
 ##  ColorDepth Aufzählung
-Listet den Bittiefentyp für TIFF-Bilder auf.
+Listet den Bittiefentyp für das TIFF-Bild auf.
 
 
 
@@ -27,4 +27,4 @@ Der Typ ColorDepth macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](..)
+* Modul [`aspose.cells.rendering`](..)

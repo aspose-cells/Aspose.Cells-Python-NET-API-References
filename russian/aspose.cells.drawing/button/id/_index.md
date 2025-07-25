@@ -1,15 +1,15 @@
 ---
 title: id недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 510
+weight: 500
 url: /ru/aspose.cells.drawing/button/id/
 is_root: false
 ---
 ##  id недвижимость
 
-Получает идентификатор этой фигуры.
+Получает идентификатор этой формы.
 
 ###  Пример
 

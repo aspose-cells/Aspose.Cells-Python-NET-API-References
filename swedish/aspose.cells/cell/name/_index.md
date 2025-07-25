@@ -3,17 +3,17 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 660
+weight: 690
 url: /sv/aspose.cells/cell/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar cellens name.
+Hämtar name för cellen.
 
 ###  Anmärkningar
 
-En cell name innehåller sin kolumnbokstav och radnummer. Till exempel är name för en cell i rad 0 och kolumn 0 A1.
+En cell name innehåller dess kolumnbokstav och radnummer. Till exempel är name för en cell på rad 0 och kolumn 0 A1.
 ###  Definition:
 ```python
 @property

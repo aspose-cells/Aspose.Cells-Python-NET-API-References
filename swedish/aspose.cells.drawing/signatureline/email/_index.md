@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  email fastighet
 
-Hämtar och ställer in email av sångare.
+Hämtar eller ställer in email för singer.
 
 ###  Exempel
 
@@ -32,5 +32,5 @@ def email(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [SignatureLine](/cells/python-net/sv/aspose.cells.drawing/signatureline)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`SignatureLine`](/cells/python-net/sv/aspose.cells.drawing/signatureline)

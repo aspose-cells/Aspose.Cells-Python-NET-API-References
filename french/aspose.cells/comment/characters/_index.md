@@ -1,5 +1,5 @@
 ---
-title: characters méthode
+title: méthode characters
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/comment/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
+##  characters(self, start_index, length) {#int-int}
 Renvoie un objet Characters qui représente une plage de characters dans le texte du commentaire.
 
 
 ###  Retour
 
-Objet personnages.
+Objet Personnages.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -38,5 +39,5 @@ fontSetting = comment1.characters(0, 4)
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Comment](/cells/python-net/fr/aspose.cells/comment)
+* module [`aspose.cells`](../../)
+* classe [`Comment`](/cells/python-net/fr/aspose.cells/comment)

@@ -1,9 +1,9 @@
 ---
 title: text_vertical_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 500
+weight: 570
 url: /it/aspose.cells.charts/datalabels/text_vertical_alignment/
 is_root: false
 ---

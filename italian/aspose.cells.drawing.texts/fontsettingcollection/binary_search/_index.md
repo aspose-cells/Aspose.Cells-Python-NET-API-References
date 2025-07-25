@@ -1,22 +1,23 @@
 ---
-title: metodo binary_search
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo binary_search
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells.drawing.texts/fontsettingcollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#FontSetting}
-Cerca un elemento nell'intero elenco di matrici ordinate utilizzando l'operatore di confronto predefinito e restituisce l'indice in base zero dell'elemento.
+##  binary_search(self, item) {#aspose.cells.FontSetting}
+Cerca un elemento nell'intero elenco dell'array ordinato utilizzando il comparatore predefinito e restituisce l'indice basato su zero dell'elemento.
 
 
 ###  ritorna
 
-L'indice di valore in base zero nell'elenco di matrici ordinate, se l'elemento viene trovato; in caso contrario, un numero negativo, che è il complemento bit per bit dell'indice dell'elemento successivo maggiore di value oppure, se non è presente alcun elemento più grande, il complemento bit per bit dell'elenco di matrici Count.
+Indice a partire da zero del valore nell'elenco di array ordinati, se viene trovato l'elemento; in caso contrario, un numero negativo, che è il complemento bit a bit dell'indice dell'elemento successivo che è maggiore di valore oppure, se non c'è alcun elemento maggiore, il complemento bit a bit dell'elenco di array Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| item | [FontSetting](/cells/python-net/it/aspose.cells/fontsetting) | Oggetto System.Object da individuare. Il valore può essere nullo.|
+| item | [`FontSetting`](/cells/python-net/it/aspose.cells/fontsetting) | Il System.Object da individuare. Il valore può essere null.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/it/aspose.cells.drawing.texts/fontsettingcollection)

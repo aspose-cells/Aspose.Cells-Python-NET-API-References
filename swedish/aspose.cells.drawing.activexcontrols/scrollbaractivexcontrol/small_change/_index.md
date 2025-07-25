@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  small_change fastighet
 
-Hämtar och ställer in det belopp med vilket positionsegenskapen ändras
+Hämtar och anger hur mycket Position-egenskapen ändras
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def small_change(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ScrollBarActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ScrollBarActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/scrollbaractivexcontrol)

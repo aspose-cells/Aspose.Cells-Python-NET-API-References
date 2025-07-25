@@ -3,7 +3,7 @@ title: max_row_height propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells/autofitteroptions/max_row_height/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def max_row_height(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFitterOptions](/cells/python-net/fr/aspose.cells/autofitteroptions)
+* module [`aspose.cells`](../../)
+* classe [`AutoFitterOptions`](/cells/python-net/fr/aspose.cells/autofitteroptions)

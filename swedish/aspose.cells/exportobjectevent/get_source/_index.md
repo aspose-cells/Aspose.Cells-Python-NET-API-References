@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells/exportobjectevent/get_source/
 is_root: false
 ---
-##  get_source() {#}
+##  get_source(self) {#}
 Hämtar objektet som ska exporteras.
 
 
@@ -17,6 +17,7 @@ objektet som ska exporteras.
 
 
 ```python
+
 def get_source(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_source(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportObjectEvent](/cells/python-net/sv/aspose.cells/exportobjectevent)
+* modul [`aspose.cells`](../../)
+* klass [`ExportObjectEvent`](/cells/python-net/sv/aspose.cells/exportobjectevent)

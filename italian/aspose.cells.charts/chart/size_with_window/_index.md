@@ -1,6 +1,6 @@
 ---
 title: size_with_window proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 600
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  size_with_window proprietà
 
-Vero se Microsoft Excel ridimensiona il grafico in modo che corrisponda alla dimensione della finestra del foglio grafico.
+Vero se Microsoft Excel ridimensiona il grafico per adattarlo alle dimensioni della finestra del foglio grafico.
 ###  Definizione:
 ```python
 @property

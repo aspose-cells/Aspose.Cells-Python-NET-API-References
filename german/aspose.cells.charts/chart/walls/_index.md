@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls Eigentum
 
-Gibt ein [`Chart.walls`](/cells/python-net/de/aspose.cells.charts/chart#walls)-Objekt zurück, das die walls eines 3D-Diagramms darstellt.
+Gibt ein [`Chart.walls`](/cells/python-net/de/aspose.cells.charts/chart#walls)-Objekt zurück, das den walls eines 3D-Diagramms darstellt.
 
 ###  Bemerkungen
 

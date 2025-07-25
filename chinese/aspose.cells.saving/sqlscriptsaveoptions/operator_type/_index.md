@@ -1,15 +1,15 @@
 ---
-title: operator_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: operator_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 180
 url: /zh/aspose.cells.saving/sqlscriptsaveoptions/operator_type/
 is_root: false
 ---
-## operator_type 属性
+## operator_type属性
 
-获取和设置sql的运算符类型。
+获取和设置sql的操作符类型。
 ### 定义：
 ```python
 @property
@@ -21,6 +21,6 @@ def operator_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.saving](../../)
-* 类 [SqlScriptOperatorType](/cells/python-net/zh/aspose.cells.saving/sqlscriptoperatortype)
-* 类 [SqlScriptSaveOptions](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)
+* 模块[`aspose.cells.saving`](../../)
+* 类 [`SqlScriptOperatorType`](/cells/python-net/zh/aspose.cells.saving/sqlscriptoperatortype)
+* 类 [`SqlScriptSaveOptions`](/cells/python-net/zh/aspose.cells.saving/sqlscriptsaveoptions)

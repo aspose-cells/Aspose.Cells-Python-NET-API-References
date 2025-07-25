@@ -1,15 +1,15 @@
 ---
 title: command недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells.externalconnections/dbconnection/command/
 is_root: false
 ---
 ##  command недвижимость
 
- Строка, содержащая базу данных command для передачи поставщику данных API, который будет
+ Строка, содержащая базу данных command, которую необходимо передать поставщику данных API, который будет
 взаимодействовать с внешним источником для получения данных
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def command(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [DBConnection](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`DBConnection`](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)

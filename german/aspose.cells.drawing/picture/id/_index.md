@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id Eigentum
 
-Ruft den Bezeichner dieser Form ab.
+Ruft die Kennung dieser Form ab.
 
 ###  Beispiel
 

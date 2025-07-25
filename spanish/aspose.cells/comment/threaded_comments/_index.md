@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  threaded_comments propiedad
 
-Obtiene la lista de comentarios encadenados;
+Obtiene la lista de comentarios enhebrados;
 
 ###  Ejemplo
 

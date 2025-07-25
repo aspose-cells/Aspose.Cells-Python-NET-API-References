@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  y mülk
 
-Grafik yüksekliği oranında Ticklabel öğesinin Y koordinatları.
+Ticklabel öğesinin grafik yüksekliğine oranındaki Y koordinatları.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def y(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [TickLabelItem](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`TickLabelItem`](/cells/python-net/tr/aspose.cells.charts/ticklabelitem)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Hämtar kommandot sidhuvud/sidfot type .
+Hämtar kommandot 'header/footer' type.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HeaderFooterCommand](/cells/python-net/sv/aspose.cells/headerfootercommand)
-* klass [HeaderFooterCommandType](/cells/python-net/sv/aspose.cells/headerfootercommandtype)
+* modul [`aspose.cells`](../../)
+* klass [`HeaderFooterCommand`](/cells/python-net/sv/aspose.cells/headerfootercommand)
+* klass [`HeaderFooterCommandType`](/cells/python-net/sv/aspose.cells/headerfootercommandtype)

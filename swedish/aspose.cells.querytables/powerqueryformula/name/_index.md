@@ -3,13 +3,13 @@ title: name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 40
+weight: 60
 url: /sv/aspose.cells.querytables/powerqueryformula/name/
 is_root: false
 ---
 ##  name fastighet
 
-Hämtar och ställer in name för power-frågeformeln.
+Hämtar och ställer in name för Power Query-formeln.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.querytables](../../)
-* klass [PowerQueryFormula](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula)
+* modul [`aspose.cells.querytables`](../../)
+* klass [`PowerQueryFormula`](/cells/python-net/sv/aspose.cells.querytables/powerqueryformula)

@@ -3,13 +3,13 @@ title: page_setup mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 680
+weight: 710
 url: /tr/aspose.cells/worksheet/page_setup/
 is_root: false
 ---
 ##  page_setup mülk
 
-Bu sayfadaki sayfa yapısı açıklamasını temsil eder.
+Bu sayfadaki sayfa düzeni açıklamasını temsil eder.
 ###  Tanım:
 ```python
 @property

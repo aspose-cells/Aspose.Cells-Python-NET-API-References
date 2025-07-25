@@ -7,7 +7,7 @@ weight: 70
 url: /de/aspose.cells.drawing.texts/fontsettingcollection/get_paragraph_enumerator/
 is_root: false
 ---
-##  get_paragraph_enumerator() {#}
+##  get_paragraph_enumerator(self) {#}
 Ruft den Enumerator der Absätze ab.
 
 
@@ -17,6 +17,7 @@ Ruft den Enumerator der Absätze ab.
 
 
 ```python
+
 def get_paragraph_enumerator(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_paragraph_enumerator(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)

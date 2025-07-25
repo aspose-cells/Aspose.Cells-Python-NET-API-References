@@ -1,15 +1,15 @@
 ---
 title: auto_show_count недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 180
+weight: 260
 url: /ru/aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---
 ##  auto_show_count недвижимость
 
-Представлять количество верхних или нижних элементов
+Представляет количество верхних или нижних элементов
 которые автоматически отображаются в указанном поле сводной таблицы.
 ###  Определение:
 ```python

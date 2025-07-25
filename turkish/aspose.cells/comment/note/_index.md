@@ -13,7 +13,7 @@ Yorumun içeriğini temsil eder.
 
 ###  Notlar
 
-Bu, zincirlenmiş bir yorumsa, note değiştirilemez; aksi takdirde MS Excel, bunu zincirlenmiş bir yorum olarak işleyemez.
+Eğer bu bir konu başlığı ise note değiştirilemez, aksi takdirde MS Excel bunu konu başlığı olarak işleyemeyecektir.
 
 ###  Örnek
 

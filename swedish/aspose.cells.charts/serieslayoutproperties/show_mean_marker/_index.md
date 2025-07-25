@@ -3,13 +3,13 @@ title: show_mean_marker fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells.charts/serieslayoutproperties/show_mean_marker/
 is_root: false
 ---
 ##  show_mean_marker fastighet
 
-Indikerar om visar markörer som anger medelvärdet.
+Anger om markörer som anger medelvärdet visas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_mean_marker(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [SeriesLayoutProperties](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)
+* modul [`aspose.cells.charts`](../../)
+* klass [`SeriesLayoutProperties`](/cells/python-net/sv/aspose.cells.charts/serieslayoutproperties)

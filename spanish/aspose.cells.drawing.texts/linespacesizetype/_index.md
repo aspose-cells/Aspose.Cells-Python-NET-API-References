@@ -8,7 +8,7 @@ url: /es/aspose.cells.drawing.texts/linespacesizetype/
 is_root: false
 ---
 ##  LineSpaceSizeType enumeración
-Representa el tipo de unidad del tamaño del espacio de línea.
+Representa el tipo de unidad de tamaño de espacio de línea.
 
 
 
@@ -17,10 +17,10 @@ El tipo LineSpaceSizeType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| PERCENTAGE | Representa en unidad de un porcentaje del tamaño del texto.|
+| PERCENTAGE | Representa en unidad un porcentaje del tamaño del texto.|
 | POINTS | Representa en unidad de puntos.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](..)
+* módulo [`aspose.cells.drawing.texts`](..)

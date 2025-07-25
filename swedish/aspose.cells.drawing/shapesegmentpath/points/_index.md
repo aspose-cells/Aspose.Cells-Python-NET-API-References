@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  points fastighet
 
-Hämtar points i vägsegment
+Hämtar points i sökvägssegmentet
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def points(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePathPointCollection](/cells/python-net/sv/aspose.cells.drawing/shapepathpointcollection)
-* klass [ShapeSegmentPath](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePathPointCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepathpointcollection)
+* klass [`ShapeSegmentPath`](/cells/python-net/sv/aspose.cells.drawing/shapesegmentpath)

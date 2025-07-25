@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  created_time Eigentum
 
-Ruft die Erstellungszeit dieses Threadkommentars ab und legt diese fest.
+Ruft die Erstellungszeit dieses Threadkommentars ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def created_time(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ThreadedComment](/cells/python-net/de/aspose.cells/threadedcomment)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ThreadedComment`](/cells/python-net/de/aspose.cells/threadedcomment)

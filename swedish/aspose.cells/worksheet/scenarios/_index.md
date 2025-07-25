@@ -3,13 +3,13 @@ title: scenarios fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 740
+weight: 770
 url: /sv/aspose.cells/worksheet/scenarios/
 is_root: false
 ---
 ##  scenarios fastighet
 
-Får samlingen på [`Scenario`](/cells/python-net/sv/aspose.cells/scenario).
+Hämtar samlingen [`Scenario`](/cells/python-net/sv/aspose.cells/scenario).
 ###  Definition:
 ```python
 @property

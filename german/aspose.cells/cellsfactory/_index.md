@@ -3,7 +3,7 @@ title: CellsFactory Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 230
+weight: 200
 url: /de/aspose.cells/cellsfactory/
 is_root: false
 ---
@@ -17,13 +17,13 @@ Der Typ CellsFactory macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells/cellsfactory/__init__/#) | Konstruiert eine neue Instanz von CellsFactory|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells/cellsfactory/__init__/#) | Erstellt eine neue Instanz von CellsFactory|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [create_style](/cells/python-net/de/aspose.cells/cellsfactory/create_style/#) | Erstellt einen neuen Stil.|
+| [`create_style(self)`](/cells/python-net/de/aspose.cells/cellsfactory/create_style/#) | Erstellt einen neuen Stil.|
 
 
 

@@ -3,7 +3,7 @@ title: Row indexeur
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 100
 url: /fr/aspose.cells/row/__getitem__/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtient la cellule.
 ###  Indexeur
 | Nom| Description|
 | :- | :- |
-| index | L'indice de colonne|
+| index | L'index des colonnes|
 
 
 
@@ -22,5 +22,5 @@ Obtient la cellule.
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Row](/cells/python-net/fr/aspose.cells/row)
+* module [`aspose.cells`](../../)
+* classe [`Row`](/cells/python-net/fr/aspose.cells/row)

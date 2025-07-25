@@ -7,7 +7,7 @@ weight: 30
 url: /tr/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/
 is_root: false
 ---
-##  add_link_to_content(name, source) {#str-str}
+##  add_link_to_content(self, name, source) {#str-str}
 İçeriğe bağlanan yeni bir özel belge özelliği oluşturur.
 
 
@@ -17,6 +17,7 @@ Yeni oluşturulan özellik nesnesi.
 
 
 ```python
+
 def add_link_to_content(self, name, source):
     ...
 ```
@@ -25,10 +26,10 @@ def add_link_to_content(self, name, source):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | name | str | Mülkün adı.|
-| source | str | mülkün kaynağı|
+| source | str | Özelliğin kaynağı. Adlandırılmış aralığın adı olmalıdır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [CustomDocumentPropertyCollection](/cells/python-net/tr/aspose.cells.properties/customdocumentpropertycollection)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`CustomDocumentPropertyCollection`](/cells/python-net/tr/aspose.cells.properties/customdocumentpropertycollection)

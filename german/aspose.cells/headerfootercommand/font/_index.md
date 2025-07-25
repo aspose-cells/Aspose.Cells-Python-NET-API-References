@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  font Eigentum
 
-Ruft den Wert font des Befehls ab.
+Ruft den font des Befehlswerts ab.
 
 ###  Bemerkungen
 
-Unbrauchbar für HeaderFooterCommandType.Picture.
+Nutzlos für HeaderFooterCommandType.Picture.
 ###  Definition:
 ```python
 @property
@@ -22,6 +22,6 @@ def font(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
-* Klasse [HeaderFooterCommand](/cells/python-net/de/aspose.cells/headerfootercommand)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)
+* Klasse [`HeaderFooterCommand`](/cells/python-net/de/aspose.cells/headerfootercommand)

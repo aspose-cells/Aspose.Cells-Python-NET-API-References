@@ -3,18 +3,18 @@ title: display_doc_title Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 170
+weight: 190
 url: /de/aspose.cells/pdfsaveoptions/display_doc_title/
 is_root: false
 ---
 ##  display_doc_title Eigentum
 
-Gibt an, ob die Titelleiste des Fensters den Dokumenttitel anzeigen soll.
+Gibt an, ob in der Titelleiste des Fensters der Dokumenttitel angezeigt werden soll.
 
 ###  Bemerkungen
 
-Bei false sollte die Titelleiste stattdessen den Namen der Datei PDF anzeigen.
-Der Standardwert ist falsch.
+Wenn „false“, sollte in der Titelleiste stattdessen der Name der Datei PDF angezeigt werden.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def display_doc_title(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PdfSaveOptions](/cells/python-net/de/aspose.cells/pdfsaveoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PdfSaveOptions`](/cells/python-net/de/aspose.cells/pdfsaveoptions)

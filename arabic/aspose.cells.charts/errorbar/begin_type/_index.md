@@ -1,5 +1,5 @@
 ---
-title: begin_type الملكية
+title: begin_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.charts/errorbar/begin_type/
 is_root: false
 ---
-##  begin_type الملكية
+##  begin_type عقار
 
-يحدد رأس سهم لبداية السطر.
+يحدد رأس السهم لبداية الخط.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
-* فئة [MsoArrowheadStyle](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* فئة [`MsoArrowheadStyle`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)

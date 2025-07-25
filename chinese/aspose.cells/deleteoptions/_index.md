@@ -3,7 +3,7 @@ title: DeleteOptions类
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 490
+weight: 470
 url: /zh/aspose.cells/deleteoptions/
 is_root: false
 ---
@@ -17,10 +17,10 @@ DeleteOptions 类型公开以下成员：
 ### 构造函数
 |构造函数|描述|
 | :- | :- |
-| [__init__](/cells/python-net/zh/aspose.cells/deleteoptions/__init__/#) |构造一个新的DeleteOptions实例|
+| [`__init__(self)`](/cells/python-net/zh/aspose.cells/deleteoptions/__init__/#) |构造一个新的 DeleteOptions 实例|
 
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
 | [update_reference](/cells/python-net/zh/aspose.cells/deleteoptions/update_reference) |指示是否更新其他工作表中的引用。|

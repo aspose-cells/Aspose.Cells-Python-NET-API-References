@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook fastighet
 
-Hämtar Workbook-objektet.
+Hämtar arbetsboksobjektet.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def workbook(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationCell](/cells/python-net/sv/aspose.cells/calculationcell)
-* klass [Workbook](/cells/python-net/sv/aspose.cells/workbook)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationCell`](/cells/python-net/sv/aspose.cells/calculationcell)
+* klass [`Workbook`](/cells/python-net/sv/aspose.cells/workbook)

@@ -8,19 +8,19 @@ url: /tr/aspose.cells.ods/odsgeneratortype/
 is_root: false
 ---
 ##  OdsGeneratorType numaralandırma
-ODS üreteci türünü temsil eder.
+ODS jeneratörünün tipini temsil eder.
 
 
 
-OdsGeneratorType türü aşağıdaki üyeleri gösterir:
+OdsGeneratorType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | LIBRE_OFFICE | Özgür Ofis|
-| OPEN_OFFICE | Açık ofis|
+| OPEN_OFFICE | Açık Ofis|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

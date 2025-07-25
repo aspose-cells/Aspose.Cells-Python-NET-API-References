@@ -1,15 +1,15 @@
 ---
 title: title proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1110
+weight: 1120
 url: /it/aspose.cells.drawing/spinner/title/
 is_root: false
 ---
 ##  title proprietà
 
-Specifica title (didascalia) dell'oggetto forma corrente.
+Specifica il title (didascalia) dell'oggetto forma corrente.
 
 ###  Esempio
 

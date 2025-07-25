@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bubble_sizes mülk
 
-Grafik serisinin kabarcık boyutları değerlerini alır veya ayarlar.
+Grafik serisinin kabarcık boyut değerlerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

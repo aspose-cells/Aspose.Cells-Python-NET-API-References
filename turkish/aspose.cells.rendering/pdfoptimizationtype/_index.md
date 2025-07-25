@@ -3,24 +3,24 @@ title: PdfOptimizationType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 240
 url: /tr/aspose.cells.rendering/pdfoptimizationtype/
 is_root: false
 ---
 ##  PdfOptimizationType numaralandırma
-Bir optimizasyon türü belirtir.
+Bir optimizasyon türünü belirtir.
 
 
 
-PdfOptimizationType türü aşağıdaki üyeleri gösterir:
+PdfOptimizationType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| STANDARD |Yüksek baskı kalitesi|
-| MINIMUM_SIZE | Dosya boyutu, baskı kalitesinden daha önemlidir|
+| STANDARD | Yüksek baskı kalitesi|
+| MINIMUM_SIZE | Dosya boyutu baskı kalitesinden daha önemlidir|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](..)
+* modül [`aspose.cells.rendering`](..)

@@ -1,5 +1,5 @@
 ---
-title: font_data الملكية
+title: font_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 30
 url: /ar/aspose.cells/memoryfontsource/font_data/
 is_root: false
 ---
-##  font_data الملكية
+##  font_data عقار
 
 بيانات الخط الثنائي.
 ###  تعريف:
@@ -18,5 +18,5 @@ def font_data(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [MemoryFontSource](/cells/python-net/ar/aspose.cells/memoryfontsource)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`MemoryFontSource`](/cells/python-net/ar/aspose.cells/memoryfontsource)

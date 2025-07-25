@@ -1,6 +1,6 @@
 ---
 title: owner_password недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Пароль владельца позволяет пользователю открыть зашифрованный документ PDF без каких-либо ограничений доступа.
+Пароль владельца позволяет пользователю открывать зашифрованный документ PDF без указания каких-либо ограничений доступа.
 ###  Определение:
 ```python
 @property

@@ -7,16 +7,17 @@ weight: 90
 url: /de/aspose.cells/globalizationsettings/get_empty_data_name/
 is_root: false
 ---
-##  get_empty_data_name {#}
-Ruft den Namen der Bezeichnung „(leer)“ in der PivotTable ab.
+##  get_empty_data_name(self) {#}
+Ruft den Namen der Beschriftung „(leer)“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Name leerer Daten
+Der Name der leeren Daten
 
 
 ```python
+
 def get_empty_data_name(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_empty_data_name(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
 Bitte verwenden Sie die Methode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Immobilie wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch

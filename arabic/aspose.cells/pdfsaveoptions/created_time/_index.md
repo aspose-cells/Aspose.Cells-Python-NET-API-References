@@ -1,19 +1,19 @@
 ---
-title: created_time الملكية
+title: created_time عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 130
+weight: 140
 url: /ar/aspose.cells/pdfsaveoptions/created_time/
 is_root: false
 ---
-##  created_time الملكية
+##  created_time عقار
 
-الحصول على وتعيين وقت إنشاء مستند pdf.
+يحصل على وقت إنشاء مستند pdf ويحدده.
 
 ###  ملاحظات
 
-إذا لم يتم تعيينه ، فسيكون وقت إنشاء ملف pdf.
+إذا لم يتم ضبطه، فسيكون الوقت قد حان لإنشاء ملف pdf.
 ###  تعريف:
 ```python
 @property
@@ -25,5 +25,5 @@ def created_time(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

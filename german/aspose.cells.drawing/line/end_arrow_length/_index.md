@@ -21,6 +21,6 @@ def end_arrow_length(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [MsoArrowheadLength](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`MsoArrowheadLength`](/cells/python-net/de/aspose.cells.drawing/msoarrowheadlength)

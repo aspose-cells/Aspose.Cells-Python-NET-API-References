@@ -1,6 +1,6 @@
 ---
 title: hi_lo_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -10,7 +10,7 @@ is_root: false
 ##  hi_lo_lines proprietà
 
 Restituisce un oggetto HiLoLines che rappresenta le linee massimo-minimo per una serie su un grafico a linee.
-Si applica solo ai grafici a linee.
+Si applica solo ai grafici lineari.
 ###  Definizione:
 ```python
 @property

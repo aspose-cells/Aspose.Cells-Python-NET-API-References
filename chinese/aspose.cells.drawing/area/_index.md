@@ -1,6 +1,6 @@
 ---
 title: Area类
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
@@ -8,21 +8,21 @@ url: /zh/aspose.cells.drawing/area/
 is_root: false
 ---
 ## Area类
-封装表示区域格式的对象。
+封装代表区域格式的对象。
 
 
 
-Area 类型公开了以下成员：
+Area 类型公开以下成员：
 
-### 特性
+### 属性
 |属性|描述|
 | :- | :- |
-| [background_color](/cells/python-net/zh/aspose.cells.drawing/area/background_color) |获取或设置 [Area](/cells/python-net/zh/aspose.cells.drawing/area) 的背景颜色。|
-| [foreground_color](/cells/python-net/zh/aspose.cells.drawing/area/foreground_color) |获取或设置前景颜色。|
-| [formatting](/cells/python-net/zh/aspose.cells.drawing/area/formatting) |表示区域的格式。|
-| [invert_if_negative](/cells/python-net/zh/aspose.cells.drawing/area/invert_if_negative) |如果该属性为真且图表点的值为负数，<br/>前景色和背景色将交换。|
-| [fill_format](/cells/python-net/zh/aspose.cells.drawing/area/fill_format) |表示包含指定图表或形状的填充格式属性的 [Area.fill_format](/cells/python-net/zh/aspose.cells.drawing/area#fill_format) 对象。|
-| [transparency](/cells/python-net/zh/aspose.cells.drawing/area/transparency) |将区域的透明度返回或设置为从 0.0（不透明）到 1.0（透明）的值。|
+| [background_color](/cells/python-net/zh/aspose.cells.drawing/area/background_color) |获取或设置 [`Area`](/cells/python-net/zh/aspose.cells.drawing/area) 的背景颜色。|
+| [foreground_color](/cells/python-net/zh/aspose.cells.drawing/area/foreground_color) |获取或设置前景色。|
+| [formatting](/cells/python-net/zh/aspose.cells.drawing/area/formatting) |代表该区域的格式。|
+| [invert_if_negative](/cells/python-net/zh/aspose.cells.drawing/area/invert_if_negative) |如果该属性为真，且图表点的值为负数，<br/>前景色和背景色将会交换。|
+| [fill_format](/cells/python-net/zh/aspose.cells.drawing/area/fill_format) |表示包含指定图表或形状的填充格式属性的 [`Area.fill_format`](/cells/python-net/zh/aspose.cells.drawing/area#fill_format) 对象。|
+| [transparency](/cells/python-net/zh/aspose.cells.drawing/area/transparency) |返回或设置该区域的透明度，范围是 0.0（不透明）到 1.0（透明）。|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
-* 类 [Area](/cells/python-net/zh/aspose.cells.drawing/area)
+* 模块[`aspose.cells.drawing`](..)
+* 类 [`Area`](/cells/python-net/zh/aspose.cells.drawing/area)

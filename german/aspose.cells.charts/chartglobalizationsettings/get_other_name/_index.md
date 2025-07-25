@@ -7,8 +7,8 @@ weight: 80
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_other_name/
 is_root: false
 ---
-##  get_other_name() {#}
-Ruft den Namen von "Anderen" Beschriftungen für Diagramm ab.
+##  get_other_name(self) {#}
+Ruft den Namen der „Anderen“ Beschriftungen für das Diagramm ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den Namen von "Anderen" Beschriftungen für Diagramm ab.
 
 
 ```python
+
 def get_other_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_other_name(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

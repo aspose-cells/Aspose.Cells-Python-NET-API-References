@@ -3,13 +3,13 @@ title: load_style_strategy عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 260
 url: /ar/aspose.cells/ebookloadoptions/load_style_strategy/
 is_root: false
 ---
 ##  load_style_strategy عقار
 
-يشير إلى استراتيجية تطبيق النمط على القيم التي تم تحليلها عند تحويل قيمة السلسلة إلى رقم أو تاريخ.
+يشير إلى الإستراتيجية لتطبيق النمط على القيم المحللة عند تحويل قيمة السلسلة إلى رقم أو تاريخ ووقت.
 ###  تعريف:
 ```python
 @property

@@ -3,14 +3,14 @@ title: is_include_new_items_in_filter Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 420
+weight: 500
 url: /de/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
 ##  is_include_new_items_in_filter Eigentum
 
-Gibt an, ob das Feld neue Elemente in den manuellen Filter aufnehmen kann
-Der Standardwert ist false.
+Gibt an, ob neue Elemente in das Feld im manuellen Filter aufgenommen werden.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

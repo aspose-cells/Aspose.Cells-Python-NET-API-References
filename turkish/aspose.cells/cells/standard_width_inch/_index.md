@@ -3,13 +3,13 @@ title: standard_width_inch mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1280
+weight: 1310
 url: /tr/aspose.cells/cells/standard_width_inch/
 is_root: false
 ---
 ##  standard_width_inch mülk
 
-Çalışma sayfasındaki varsayılan sütun genişliğini inç birimi cinsinden alır veya ayarlar.
+Çalışma sayfasındaki varsayılan sütun genişliğini inç cinsinden alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

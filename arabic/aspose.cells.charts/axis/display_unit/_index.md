@@ -3,7 +3,7 @@ title: display_unit عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells.charts/axis/display_unit/
 is_root: false
 ---

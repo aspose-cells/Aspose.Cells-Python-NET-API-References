@@ -3,20 +3,21 @@ title: طريقة is_color_in_palette
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 230
+weight: 240
 url: /ar/aspose.cells/workbook/is_color_in_palette/
 is_root: false
 ---
-##  is_color_in_palette(color) {#aspose.pydrawing.Color}
-للتحقق من وجود لون في لوحة جدول البيانات.
+##  is_color_in_palette(self, color) {#aspose.pydrawing.Color}
+التحقق مما إذا كان اللون موجودًا في لوحة الألوان الخاصة بجدول البيانات.
 
 
 ###  عائدات
 
-يعود صحيحًا إذا كان هذا اللون في اللوحة. خلاف ذلك ، ترجع خطأ
+يُرجع القيمة "صحيح" إذا كان هذا اللون موجودًا في اللوحة. وإلا، يُرجع القيمة "خطأ".
 
 
 ```python
+
 def is_color_in_palette(self, color):
     ...
 ```
@@ -29,5 +30,5 @@ def is_color_in_palette(self, color):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Workbook](/cells/python-net/ar/aspose.cells/workbook)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Workbook`](/cells/python-net/ar/aspose.cells/workbook)

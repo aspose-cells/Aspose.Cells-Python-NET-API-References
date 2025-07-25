@@ -8,7 +8,7 @@ url: /sv/aspose.cells.externalconnections/htmlformathandlingtype/
 is_root: false
 ---
 ##  HtmlFormatHandlingType uppräkning
-Anger hur formatering från källan HTML ska hanteras
+Anger hur formatering från HTML-källan ska hanteras
 
 
 
@@ -18,10 +18,10 @@ Typen HtmlFormatHandlingType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | ALL | Överför all HTML-formatering till kalkylbladet tillsammans med data.|
-| NONE | Ta in data som oformaterad text (inställningsdatatyper förekommer fortfarande).|
-| RTF | Översätt HTML-formatering till rich text-formatering på data som tas med i kalkylbladet.|
+| NONE | Hämta data som oformaterad text (datatyper anges fortfarande).|
+| RTF |Översätt HTML-formateringen till RTF-formatering på data som hämtats till kalkylbladet.|
 
 
 
 ###  Se även
-* modul [aspose.cells.externalconnections](..)
+* modul [`aspose.cells.externalconnections`](..)

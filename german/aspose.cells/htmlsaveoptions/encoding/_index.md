@@ -3,13 +3,13 @@ title: encoding Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 200
 url: /de/aspose.cells/htmlsaveoptions/encoding/
 is_root: false
 ---
 ##  encoding Eigentum
 
-Wenn nicht festgelegt, verwenden Sie Encoding.UTF8 als Standardcodierungstyp.
+Wenn nicht festgelegt, verwenden Sie Encoding.UTF8 als Standardkodierungstyp.
 ###  Definition:
 ```python
 @property

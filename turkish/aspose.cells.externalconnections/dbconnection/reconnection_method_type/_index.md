@@ -3,14 +3,11 @@ title: reconnection_method_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 240
 url: /tr/aspose.cells.externalconnections/dbconnection/reconnection_method_type/
 is_root: false
 ---
 ##  reconnection_method_type mülk
-
-Bir bağlantı başarısız olduğunda elektronik tablo uygulamasının ne yapması gerektiğini belirtir.
-Varsayılan değer ReConnectionMethodType.Required şeklindedir.
 ###  Tanım:
 ```python
 @property
@@ -22,6 +19,6 @@ def reconnection_method_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.externalconnections](../../)
-* sınıf [DBConnection](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
-* sınıf [ReConnectionMethodType](/cells/python-net/tr/aspose.cells.externalconnections/reconnectionmethodtype)
+* modül [`aspose.cells.externalconnections`](../../)
+* sınıf [`DBConnection`](/cells/python-net/tr/aspose.cells.externalconnections/dbconnection)
+* sınıf [`ReConnectionMethodType`](/cells/python-net/tr/aspose.cells.externalconnections/reconnectionmethodtype)

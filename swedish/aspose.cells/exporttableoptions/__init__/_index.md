@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/exporttableoptions/__init__/
 is_root: false
 ---
-##  ExportTableOptions() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av ExportTableOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ExportTableOptions](/cells/python-net/sv/aspose.cells/exporttableoptions)
+* modul [`aspose.cells`](../../)
+* klass [`ExportTableOptions`](/cells/python-net/sv/aspose.cells/exporttableoptions)

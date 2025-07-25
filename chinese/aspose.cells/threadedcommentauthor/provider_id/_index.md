@@ -1,13 +1,13 @@
 ---
-title: provider_id 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: provider_id属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/threadedcommentauthor/provider_id/
 is_root: false
 ---
-## provider_id 属性
+## provider_id属性
 
 获取提供者的 ID。
 ### 定义：
@@ -21,5 +21,5 @@ def provider_id(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ThreadedCommentAuthor](/cells/python-net/zh/aspose.cells/threadedcommentauthor)
+* 模块[`aspose.cells`](../../)
+* 类 [`ThreadedCommentAuthor`](/cells/python-net/zh/aspose.cells/threadedcommentauthor)

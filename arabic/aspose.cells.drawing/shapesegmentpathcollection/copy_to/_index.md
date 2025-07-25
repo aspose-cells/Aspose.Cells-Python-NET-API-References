@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells.drawing/shapesegmentpathcollection/copy_to/
 is_root: false
 ---
-##  copy_to(array) {#list}
-ينسخ قائمة المصفوفات بأكملها إلى قائمة مصفوفة متوافقة أحادية البعد ، بدءًا من بداية قائمة الصفيف الهدف.
+##  copy_to(self, array) {#list}
+يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.
 
 
 
 ```python
+
 def copy_to(self, array):
     ...
 ```
@@ -20,15 +21,16 @@ def copy_to(self, array):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| array | list | قائمة الصفيف أحادية البعد التي تمثل وجهة قائمة الصفيف المنسوخة للعناصر. يجب أن تحتوي قائمة الصفيف على فهرسة صفرية.|
+| array | list | قائمة المصفوفات أحادية البعد، وهي وجهة العناصر المنسوخة. يجب أن تكون فهرسة هذه القائمة صفرية.|
 
 
-##  copy_to(index, array, array_index, count) {#int-list-int-int}
-ينسخ نطاقًا من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة ، بدءًا من الفهرس المحدد لقائمة الصفيف الهدف.
+##  copy_to(self, index, array, array_index, count) {#int-list-int-int}
+يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.
 
 
 
 ```python
+
 def copy_to(self, index, array, array_index, count):
     ...
 ```
@@ -36,13 +38,13 @@ def copy_to(self, index, array, array_index, count):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| index | int | الفهرس الصفري في قائمة الصفيف المصدر الذي يبدأ عنده النسخ.|
-| array | list | قائمة الصفيف أحادية البعد التي تمثل وجهة العناصر المنسوخة من قائمة الصفيف. يجب أن تحتوي قائمة الصفيف على فهرسة صفرية.|
-| array_index | int |الفهرس الصفري في قائمة الصفيف الذي يبدأ عنده النسخ.|
+| index | int | الفهرس الذي يبدأ من الصفر في قائمة مجموعة المصدر والذي تبدأ عنده عملية النسخ.|
+| array | list |قائمة المصفوفات أحادية البعد، وهي وجهة العناصر المنسوخة منها. يجب أن تكون فهرسة هذه القائمة صفرية.|
+| array_index | int | الفهرس الذي يبدأ من الصفر في قائمة المصفوفة والذي تبدأ عنده عملية النسخ.|
 | count | int | عدد العناصر المراد نسخها.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapeSegmentPathCollection](/cells/python-net/ar/aspose.cells.drawing/shapesegmentpathcollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapeSegmentPathCollection`](/cells/python-net/ar/aspose.cells.drawing/shapesegmentpathcollection)

@@ -3,7 +3,7 @@ title: standard_font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 260
+weight: 250
 url: /es/aspose.cells/jsonloadoptions/standard_font/
 is_root: false
 ---
@@ -13,9 +13,9 @@ Establece el nombre de fuente estándar predeterminado
 
 ###  Observaciones
 
-NOTA: Este miembro ahora está obsoleto. En su lugar, utilice DefaultStyleSettings.
+NOTA: Este miembro ya no está disponible. En su lugar, utilice DefaultStyleSettings.
  Esta propiedad será eliminada 12 meses después desde marzo de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: tick_label_items proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items proprietà
 
-Ottiene le informazioni sull'asse di ciascun elemento dell'etichetta di spunta.
+Ottiene le etichette di spunta di visualizzazione dell'asse.
 
 ###  Osservazioni
 
-Disponibile solo previa chiamata con metodo [`Chart.calculate`](/cells/python-net/it/aspose.cells.charts/chart/calculate).
+Disponibile solo dopo aver chiamato il metodo [`Chart.calculate`](/cells/python-net/it/aspose.cells.charts/chart/calculate).
 ###  Definizione:
 ```python
 @property

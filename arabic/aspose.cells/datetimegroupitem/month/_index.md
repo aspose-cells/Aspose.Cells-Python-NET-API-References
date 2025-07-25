@@ -1,5 +1,5 @@
 ---
-title: month الملكية
+title: month عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells/datetimegroupitem/month/
 is_root: false
 ---
-##  month الملكية
+##  month عقار
 
-الحصول على وتعيين month لوقت التاريخ المجمع.
+يحصل على month لتاريخ الوقت المجمع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def month(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

@@ -3,12 +3,12 @@ title: ActiveXPersistenceType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 130
 url: /sv/aspose.cells.drawing.activexcontrols/activexpersistencetype/
 is_root: false
 ---
 ##  ActiveXPersistenceType uppräkning
-Representerar beständighetsmetoden för att bevara en ActiveX-kontroll.
+Representerar persistensmetoden för att spara en ActiveX-kontroll.
 
 
 
@@ -18,11 +18,11 @@ Typen ActiveXPersistenceType avslöjar följande medlemmar:
 | Fält| Beskrivning|
 | :- | :- |
 | PROPERTY_BAG | Data lagras som xml-data.|
-| STORAGE | Data lagras som binär lagringsdata.|
-| STREAM | Data lagras som binär dataström.|
-| STREAM_INIT | Data lagras som en streaminit binär data.|
+| STORAGE | Data lagras som en binär lagringsdata.|
+| STREAM | Data lagras som en ström av binära data.|
+| STREAM_INIT | Datan lagras som en streaminit binär datafil.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

@@ -3,17 +3,17 @@ title: file_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 570
+weight: 600
 url: /sv/aspose.cells/workbook/file_name/
 is_root: false
 ---
 ##  file_name fastighet
 
-Hämtar och ställer in det aktuella filnamnet.
+Hämtar och anger det aktuella filnamnet.
 
 ###  Anmärkningar
 
-Om filen öppnas av ström och det finns några externa formelreferenser,
+Om filen öppnas av en ström och det finns några externa formelreferenser,
 vänligen ange filnamnet.
 ###  Definition:
 ```python

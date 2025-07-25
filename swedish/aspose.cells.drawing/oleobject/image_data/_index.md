@@ -3,13 +3,13 @@ title: image_data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 600
+weight: 590
 url: /sv/aspose.cells.drawing/oleobject/image_data/
 is_root: false
 ---
 ##  image_data fastighet
 
-Representerar bilden av ett objekt som byte-array.
+Representerar bilden av ole-objektet som en byte-array.
 ###  Definition:
 ```python
 @property

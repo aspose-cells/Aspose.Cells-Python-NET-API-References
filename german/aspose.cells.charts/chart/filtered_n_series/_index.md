@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filtered_n_series Eigentum
 
-Ruft eine [`SeriesCollection`](/cells/python-net/de/aspose.cells.charts/seriescollection)-Sammlung ab, die die Datenreihen darstellt, die im Diagramm gefiltert werden.
+Ruft eine [`SeriesCollection`](/cells/python-net/de/aspose.cells.charts/seriescollection)-Sammlung ab, die die im Diagramm gefilterten Datenreihen darstellt.
 ###  Definition:
 ```python
 @property

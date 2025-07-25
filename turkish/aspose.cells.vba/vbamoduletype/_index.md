@@ -12,12 +12,12 @@ VBA modülünün türünü temsil eder.
 
 
 
-VbaModuleType türü aşağıdaki üyeleri gösterir:
+VbaModuleType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| PROCEDURAL | Prosedürel bir modülü temsil eder.|
+| PROCEDURAL | Bir prosedürel modülü temsil eder.|
 | DOCUMENT | Bir belge modülünü temsil eder.|
 | CLASS | Bir sınıf modülünü temsil eder.|
 | DESIGNER | Bir tasarımcı modülünü temsil eder.|
@@ -25,4 +25,4 @@ VbaModuleType türü aşağıdaki üyeleri gösterir:
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](..)
+* modül [`aspose.cells.vba`](..)

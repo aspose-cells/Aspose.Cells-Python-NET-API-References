@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/copyoptions/__init__/
 is_root: false
 ---
-##  CopyOptions() {#}
+##  \_\_init\_\_(kendi){#}
 CopyOptions yapıcı.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

@@ -3,16 +3,17 @@ title: show_in_compact_form metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 230
+weight: 300
 url: /sv/aspose.cells.pivot/pivottable/show_in_compact_form/
 is_root: false
 ---
-##  show_in_compact_form() {#}
-Layouter pivottabellen i kompakt form.
+##  show_in_compact_form(self) {#}
+Layoutar pivottabellen i kompakt form.
 
 
 
 ```python
+
 def show_in_compact_form(self):
     ...
 ```
@@ -22,5 +23,5 @@ def show_in_compact_form(self):
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

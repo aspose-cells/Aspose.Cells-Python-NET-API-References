@@ -3,13 +3,13 @@ title: text_horizontal_alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1160
+weight: 1180
 url: /ar/aspose.cells.drawing/picture/text_horizontal_alignment/
 is_root: false
 ---
 ##  text_horizontal_alignment عقار
 
-الحصول على نوع المحاذاة الأفقية للشكل وتعيينها.
+يحصل على نوع محاذاة النص الأفقية للشكل ويقوم بتعيينه.
 
 ###  مثال
 

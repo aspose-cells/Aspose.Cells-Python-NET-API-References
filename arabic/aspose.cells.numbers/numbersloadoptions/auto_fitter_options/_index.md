@@ -1,5 +1,5 @@
 ---
-title: auto_fitter_options الملكية
+title: auto_fitter_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,13 +7,13 @@ weight: 50
 url: /ar/aspose.cells.numbers/numbersloadoptions/auto_fitter_options/
 is_root: false
 ---
-##  auto_fitter_options الملكية
+##  auto_fitter_options عقار
 
-الحصول على خيارات التركيب التلقائي وتعيينها
+يحصل على خيارات التركيب التلقائي ويضبطها
 
 ###  ملاحظات
 
-فقط لـ xlsx ، ملف spreadsheetML الآن.
+متاح الآن فقط لملفات xlsx و spreadsheetML.
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def auto_fitter_options(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.numbers](../../)
-* فئة [AutoFitterOptions](/cells/python-net/ar/aspose.cells/autofitteroptions)
-* فئة [NumbersLoadOptions](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)
+* الوحدة [`aspose.cells.numbers`](../../)
+* فئة [`AutoFitterOptions`](/cells/python-net/ar/aspose.cells/autofitteroptions)
+* فئة [`NumbersLoadOptions`](/cells/python-net/ar/aspose.cells.numbers/numbersloadoptions)

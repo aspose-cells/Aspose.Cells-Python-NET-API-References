@@ -3,13 +3,13 @@ title: formula mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 70
+weight: 90
 url: /tr/aspose.cells.tables/listcolumn/formula/
 is_root: false
 ---
 ##  formula mülk
 
-Liste sütununun formula'ini alır ve ayarlar.
+Liste sütununun formula değerini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def formula(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListColumn](/cells/python-net/tr/aspose.cells.tables/listcolumn)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListColumn`](/cells/python-net/tr/aspose.cells.tables/listcolumn)

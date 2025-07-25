@@ -1,5 +1,5 @@
 ---
-title: begin_arrowhead_style الملكية
+title: begin_arrowhead_style عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 70
 url: /ar/aspose.cells.drawing/lineformat/begin_arrowhead_style/
 is_root: false
 ---
-##  begin_arrowhead_style الملكية
+##  begin_arrowhead_style عقار
 
-الحصول على نوع سهم البداية للخط وتعيينه.
+يحصل على نوع السهم الأولي للخط ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def begin_arrowhead_style(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [MsoArrowheadStyle](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`MsoArrowheadStyle`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadstyle)

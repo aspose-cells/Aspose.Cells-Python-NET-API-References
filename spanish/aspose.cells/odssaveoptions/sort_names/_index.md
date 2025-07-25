@@ -3,13 +3,13 @@ title: sort_names propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 160
 url: /es/aspose.cells/odssaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names propiedad
 
-Indica si se ordenan los nombres definidos antes de guardar el archivo.
+Indica si se deben ordenar los nombres definidos antes de guardar el archivo.
 ###  Definición:
 ```python
 @property

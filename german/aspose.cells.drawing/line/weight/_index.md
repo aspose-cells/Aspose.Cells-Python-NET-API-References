@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight Eigentum
 
-Ruft die [WeightType](/cells/python-net/de/aspose.cells.drawing/weighttype) der Leitung ab oder legt sie fest.
+Ruft die [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype) der Zeile ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def weight(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [Line](/cells/python-net/de/aspose.cells.drawing/line)
-* Klasse [WeightType](/cells/python-net/de/aspose.cells.drawing/weighttype)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`Line`](/cells/python-net/de/aspose.cells.drawing/line)
+* Klasse [`WeightType`](/cells/python-net/de/aspose.cells.drawing/weighttype)

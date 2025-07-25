@@ -3,20 +3,21 @@ title: xml_map_query方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 350
 url: /zh/aspose.cells/worksheet/xml_map_query/
 is_root: false
 ---
-##  xml_map_query {#str-aspose.cells.XmlMap}
-查询映射/链接到 xml 映射的特定路径的单元格区域。
+##  xml_map_query(self, path, xml_map) {#str-aspose.cells.XmlMap}
+查询映射/链接到 xml 地图的特定路径的单元格区域。
 
 
-### 退货
+### 返回
 
-[`CellArea`](/cells/python-net/zh/aspose.cells/cellarea) 映射/链接到xml映射的特定路径的列表，如果没有映射/链接，则返回空列表。
+[`CellArea`](/cells/python-net/zh/aspose.cells/cellarea) 列表映射/链接到 xml 映射的特定路径，如果没有映射/链接，则返回一个空列表。
 
 
 ```python
+
 def xml_map_query(self, path, xml_map):
     ...
 ```

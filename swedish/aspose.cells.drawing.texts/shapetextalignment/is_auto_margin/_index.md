@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_margin fastighet
 
-Anger om marginalen på textramen är automatisk.
+Anger om marginalen för textramen är automatisk.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

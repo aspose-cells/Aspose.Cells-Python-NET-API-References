@@ -3,13 +3,13 @@ title: width_scalable fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 800
 url: /sv/aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---
 ##  width_scalable fastighet
 
-Anger om kolumnbredd i skalenhet exporteras till html.
+Anger om kolumnbredden i skalenhet ska exporteras till html.
 Standardvärdet är falskt.
 ###  Definition:
 ```python

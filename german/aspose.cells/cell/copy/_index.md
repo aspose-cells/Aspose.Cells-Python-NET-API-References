@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells/cell/copy/
 is_root: false
 ---
-##  copy(cell) {#Cell}
+##  copy(self, cell) {#aspose.cells.Cell}
 Kopiert Daten aus einer Quellzelle.
 
 
 
 ```python
+
 def copy(self, cell):
     ...
 ```
@@ -20,10 +21,10 @@ def copy(self, cell):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| cell | [Cell](/cells/python-net/de/aspose.cells/cell) | Quelle [Cell](/cells/python-net/de/aspose.cells/cell) Objekt.|
+| cell | [`Cell`](/cells/python-net/de/aspose.cells/cell) | Quellobjekt [`Cell`](/cells/python-net/de/aspose.cells/cell).|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

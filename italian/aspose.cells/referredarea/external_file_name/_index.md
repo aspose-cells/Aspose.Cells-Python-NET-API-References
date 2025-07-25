@@ -1,6 +1,6 @@
 ---
 title: external_file_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -18,5 +18,5 @@ def external_file_name(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ReferredArea](/cells/python-net/it/aspose.cells/referredarea)
+* modulo [`aspose.cells`](../../)
+* classe [`ReferredArea`](/cells/python-net/it/aspose.cells/referredarea)

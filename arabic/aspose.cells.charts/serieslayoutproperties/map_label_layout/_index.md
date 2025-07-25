@@ -1,15 +1,15 @@
 ---
-title: map_label_layout الملكية
+title: map_label_layout عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells.charts/serieslayoutproperties/map_label_layout/
 is_root: false
 ---
-##  map_label_layout الملكية
+##  map_label_layout عقار
 
-الحصول على تخطيط تسميات الخريطة وتعيينه.
+يحصل على تخطيط تسميات الخريطة ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def map_label_layout(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [MapChartLabelLayout](/cells/python-net/ar/aspose.cells.charts/mapchartlabellayout)
-* فئة [SeriesLayoutProperties](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`MapChartLabelLayout`](/cells/python-net/ar/aspose.cells.charts/mapchartlabellayout)
+* فئة [`SeriesLayoutProperties`](/cells/python-net/ar/aspose.cells.charts/serieslayoutproperties)

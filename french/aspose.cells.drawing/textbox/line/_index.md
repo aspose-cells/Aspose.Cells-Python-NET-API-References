@@ -3,7 +3,7 @@ title: line propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 730
+weight: 740
 url: /fr/aspose.cells.drawing/textbox/line/
 is_root: false
 ---

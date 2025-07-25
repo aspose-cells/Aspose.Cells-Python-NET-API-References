@@ -3,7 +3,7 @@ title: name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 40
+weight: 50
 url: /tr/aspose.cells.vba/vbamodule/name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.vba](../../)
-* sınıf [VbaModule](/cells/python-net/tr/aspose.cells.vba/vbamodule)
+* modül [`aspose.cells.vba`](../../)
+* sınıf [`VbaModule`](/cells/python-net/tr/aspose.cells.vba/vbamodule)

@@ -1,18 +1,19 @@
 ---
 title: ungroup方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 450
+weight: 500
 url: /zh/aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
-##  ungroup(group) {#GroupShape}
-取消组合形状项目。
+##  ungroup(self, group) {#aspose.cells.drawing.GroupShape}
+取消形状项目的组合。
 
 
 
 ```python
+
 def ungroup(self, group):
     ...
 ```
@@ -20,10 +21,10 @@ def ungroup(self, group):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| group | [GroupShape](/cells/python-net/zh/aspose.cells.drawing/groupshape) |群形。|
-### 评论
+| group | [`GroupShape`](/cells/python-net/zh/aspose.cells.drawing/groupshape) |群体形状。|
+### 注意事项
 
-如果组形状被另一个组形状分组，则什么也不会做。
+如果该组形状由另一个组形状分组，则不会执行任何操作。
 ### 例子
 
 
@@ -44,5 +45,5 @@ shapes.ungroup(groupShape)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

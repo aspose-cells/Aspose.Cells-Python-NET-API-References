@@ -1,13 +1,13 @@
 ---
-title: font_script 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: font_script属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 150
 url: /zh/aspose.cells/styleflag/font_script/
 is_root: false
 ---
-## font_script 属性
+## font_script属性
 
 将应用字体脚本设置。
 ### 定义：
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [StyleFlag](/cells/python-net/zh/aspose.cells/styleflag)
+* 模块[`aspose.cells`](../../)
+* 类 [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag)

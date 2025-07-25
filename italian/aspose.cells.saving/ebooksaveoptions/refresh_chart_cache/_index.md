@@ -1,9 +1,9 @@
 ---
 title: refresh_chart_cache proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 610
+weight: 700
 url: /it/aspose.cells.saving/ebooksaveoptions/refresh_chart_cache/
 is_root: false
 ---

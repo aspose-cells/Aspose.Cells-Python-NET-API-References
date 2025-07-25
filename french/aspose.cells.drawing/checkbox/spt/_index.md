@@ -3,7 +3,7 @@ title: spt propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 940
+weight: 950
 url: /fr/aspose.cells.drawing/checkbox/spt/
 is_root: false
 ---

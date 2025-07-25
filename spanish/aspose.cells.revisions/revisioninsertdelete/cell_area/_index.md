@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_area propiedad
 
-Obtiene el intervalo de inserción/eliminación.
+Obtiene el rango de inserción/eliminación.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def cell_area(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
-* clase [RevisionInsertDelete](/cells/python-net/es/aspose.cells.revisions/revisioninsertdelete)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)
+* clase [`RevisionInsertDelete`](/cells/python-net/es/aspose.cells.revisions/revisioninsertdelete)

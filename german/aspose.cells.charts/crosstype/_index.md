@@ -20,7 +20,7 @@ Der Typ CrossType macht die folgenden Member verfügbar:
 | AUTOMATIC | Microsoft Excel legt den Achsenkreuzungspunkt fest.|
 | MAXIMUM | Die Achse kreuzt sich beim Maximalwert.|
 | MINIMUM | Die Achse kreuzt sich beim Minimalwert.|
-| CUSTOM | Die Achse kreuzt sich am benutzerdefinierten Wert.|
+| CUSTOM |Die Achse kreuzt sich beim benutzerdefinierten Wert.|
 
 
 

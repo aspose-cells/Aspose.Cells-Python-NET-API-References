@@ -1,5 +1,5 @@
 ---
-title: get_range_by_name método
+title: método get_range_by_name
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 120
 url: /es/aspose.cells/worksheetcollection/get_range_by_name/
 is_root: false
 ---
-##  get_range_by_name(range_name) {#str}
+##  get_range_by_name(self, range_name) {#str}
 Obtiene el objeto Range por nombre predefinido.
 
 
@@ -16,10 +16,11 @@ Obtiene el objeto Range por nombre predefinido.
 Objeto de rango.
 
 
-Devuelve nulo si el rango con nombre no existe.
+Devuelve nulo si el rango nombrado no existe.
 
 
 ```python
+
 def get_range_by_name(self, range_name):
     ...
 ```
@@ -30,8 +31,8 @@ def get_range_by_name(self, range_name):
 | range_name | str | Nombre del rango.|
 
 
-##  get_range_by_name(range_name, current_sheet_index, include_table) {#str-int-bool}
-Obtiene [Range](/cells/python-net/es/aspose.cells/range) por nombre predefinido o nombre de tabla
+##  get_range_by_name(self, range_name, current_sheet_index, include_table) {#str-int-bool}
+Obtiene [`Range`](/cells/python-net/es/aspose.cells/range) por nombre predefinido o nombre de la tabla
 
 
 ###  Devoluciones
@@ -40,6 +41,7 @@ Obtiene [Range](/cells/python-net/es/aspose.cells/range) por nombre predefinido 
 
 
 ```python
+
 def get_range_by_name(self, range_name, current_sheet_index, include_table):
     ...
 ```
@@ -49,11 +51,11 @@ def get_range_by_name(self, range_name, current_sheet_index, include_table):
 | :- | :- | :- |
 | range_name | str | Nombre del rango o nombre de la tabla.|
 | current_sheet_index | int | El índice de la hoja. -1 representa global.|
-| include_table | bool | Indica si se revisan todas las tablas.|
+| include_table | bool | Indica si se deben comprobar todas las tablas.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
-* clase [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)
+* clase [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection)

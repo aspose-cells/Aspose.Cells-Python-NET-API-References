@@ -1,23 +1,25 @@
 ---
 title: detect_file_format方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
-##  detect_file_format(stream) {#io.RawIOBase}
-检测并返回有关存储在流中的 excel 格式的信息。
+##  detect_file_format（，流）{#io.RawIOBase}
+检测并返回有关流中存储的 Excel 格式的信息。
 
 
 ### 返回
 
-包含检测到的信息的 [FileFormatInfo](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
+包含检测到的信息的 [`FileFormatInfo`](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
 
 
 ```python
-def detect_file_format(self, stream):
+
+@staticmethod
+def detect_file_format(stream):
     ...
 ```
 
@@ -27,17 +29,19 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-##  detect_file_format(file_path) {#str}
-检测并返回有关存储在文件中的 excel 格式的信息。
+##  detect_file_format（，文件路径）{#str}
+检测并返回有关文件中存储的 Excel 格式的信息。
 
 
 ### 返回
 
-包含检测到的信息的 [FileFormatInfo](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
+包含检测到的信息的 [`FileFormatInfo`](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
 
 
 ```python
-def detect_file_format(self, file_path):
+
+@staticmethod
+def detect_file_format(file_path):
     ...
 ```
 
@@ -47,17 +51,19 @@ def detect_file_format(self, file_path):
 | file_path | str |文件路径。|
 
 
-##  detect_file_format(stream, password) {#io.RawIOBase-str}
-检测并返回有关存储在流中的 excel 格式的信息。
+##  detect_file_format（，流，密码）{#io.RawIOBase-str}
+检测并返回有关流中存储的 Excel 格式的信息。
 
 
 ### 返回
 
-包含检测到的信息的 [FileFormatInfo](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
+包含检测到的信息的 [`FileFormatInfo`](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
 
 
 ```python
-def detect_file_format(self, stream, password):
+
+@staticmethod
+def detect_file_format(stream, password):
     ...
 ```
 
@@ -68,17 +74,19 @@ def detect_file_format(self, stream, password):
 | password | str |加密 ooxml 文件的密码。|
 
 
-##  detect_file_format(file_path, password) {#str-str}
-检测并返回有关存储在文件中的 excel 格式的信息。
+##  detect_file_format（，文件路径，密码）{#str-str}
+检测并返回有关文件中存储的 Excel 格式的信息。
 
 
 ### 返回
 
-包含检测到的信息的 [FileFormatInfo](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
+包含检测到的信息的 [`FileFormatInfo`](/cells/python-net/zh/aspose.cells/fileformatinfo) 对象。
 
 
 ```python
-def detect_file_format(self, file_path, password):
+
+@staticmethod
+def detect_file_format(file_path, password):
     ...
 ```
 
@@ -91,6 +99,6 @@ def detect_file_format(self, file_path, password):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FileFormatInfo](/cells/python-net/zh/aspose.cells/fileformatinfo)
-* 类 [FileFormatUtil](/cells/python-net/zh/aspose.cells/fileformatutil)
+* 模块[`aspose.cells`](../../)
+* 类 [`FileFormatInfo`](/cells/python-net/zh/aspose.cells/fileformatinfo)
+* 类 [`FileFormatUtil`](/cells/python-net/zh/aspose.cells/fileformatutil)

@@ -1,6 +1,6 @@
 ---
 title: is_auto_word_selected недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  is_auto_word_selected недвижимость
 
- Определяет базовую единицу, используемую для расширения выделения.
-True указывает, что основной единицей является один символ.
-false указывает, что основной единицей является целое слово.
+ Указывает базовую единицу, используемую для расширения выделения.
+True указывает, что базовой единицей является один символ.
+false указывает, что базовой единицей является целое слово.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -3,7 +3,7 @@ title: active_x_control fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 270
 url: /sv/aspose.cells.drawing/smartartshape/active_x_control/
 is_root: false
 ---
@@ -32,5 +32,4 @@ def active_x_control(self):
 
 ###  Se även
 * modul [`aspose.cells.drawing`](../../)
-* klass [`ActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/activexcontrol)
 * klass [`SmartArtShape`](/cells/python-net/sv/aspose.cells.drawing/smartartshape)

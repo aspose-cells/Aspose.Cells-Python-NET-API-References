@@ -1,15 +1,15 @@
 ---
 title: smart_tag_setting недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 780
+weight: 810
 url: /ru/aspose.cells/worksheet/smart_tag_setting/
 is_root: false
 ---
 ##  smart_tag_setting недвижимость
 
-Получает все [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection) объекты листа.
+Получает все [`SmartTagCollection`](/cells/python-net/ru/aspose.cells.markup/smarttagcollection) объекты рабочего листа.
 ###  Определение:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: shapes недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 750
+weight: 780
 url: /ru/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ##  shapes недвижимость
 
-Возвращает весь рисунок shapes на этом листе.
+Возвращает все чертежи shapes на этом листе.
 ###  Определение:
 ```python
 @property

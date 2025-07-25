@@ -3,16 +3,17 @@ title: ungroup yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 500
 url: /tr/aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---
-##  ungroup(group) {#GroupShape}
-Şekil öğelerinin grubunu çözer.
+##  ungroup(self, group) {#aspose.cells.drawing.GroupShape}
+Şekil öğelerini gruplandırmayı kaldırır.
 
 
 
 ```python
+
 def ungroup(self, group):
     ...
 ```
@@ -20,10 +21,10 @@ def ungroup(self, group):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| group | [GroupShape](/cells/python-net/tr/aspose.cells.drawing/groupshape) | Grup şekli.|
+| group | [`GroupShape`](/cells/python-net/tr/aspose.cells.drawing/groupshape) | Grup şekli.|
 ###  Notlar
 
-Grup şekli başka bir grup şekli tarafından gruplanırsa hiçbir şey yapılmaz.
+Eğer grup şekli başka bir grup şekli tarafından gruplandırılırsa hiçbir şey yapılmayacaktır.
 ###  Örnek
 
 
@@ -44,5 +45,5 @@ shapes.ungroup(groupShape)
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeCollection](/cells/python-net/tr/aspose.cells.drawing/shapecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeCollection`](/cells/python-net/tr/aspose.cells.drawing/shapecollection)

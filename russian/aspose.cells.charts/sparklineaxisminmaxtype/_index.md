@@ -1,6 +1,6 @@
 ---
 title: SparklineAxisMinMaxType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 610
@@ -8,11 +8,11 @@ url: /ru/aspose.cells.charts/sparklineaxisminmaxtype/
 is_root: false
 ---
 ##  SparklineAxisMinMaxType перечисление
-Представляет типы минимального и максимального значения для вертикальной оси спарклайна.
+Представляет типы минимального и максимального значений для вертикальной оси спарклайна.
 
 
 
-Тип SparklineAxisMinMaxType предоставляет следующие члены:
+Тип SparklineAxisMinMaxType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](..)
+* модуль [`aspose.cells.charts`](..)

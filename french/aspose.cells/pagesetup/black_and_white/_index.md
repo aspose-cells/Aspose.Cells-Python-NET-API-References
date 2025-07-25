@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  black_and_white propriété
 
-Représente si les éléments du document seront imprimés en noir et blanc.
+Indique si les éléments du document seront imprimés en noir et blanc.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def black_and_white(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

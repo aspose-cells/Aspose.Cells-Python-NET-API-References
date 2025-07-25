@@ -8,14 +8,14 @@ url: /zh/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
 ## BackgroundMode枚举
-代表背景的显示模式。
+表示背景的显示模式。
 
 
 
 BackgroundMode 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | AUTOMATIC |自动的|
 | OPAQUE |不透明|

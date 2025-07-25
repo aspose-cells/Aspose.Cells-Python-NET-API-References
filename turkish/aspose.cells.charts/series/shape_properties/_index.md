@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shape_properties mülk
 
-Serinin görsel şekil özelliklerini tutan [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection) nesnesini alır.
+Serinin görsel şekil özelliklerini tutan [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection) nesnesini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def shape_properties(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

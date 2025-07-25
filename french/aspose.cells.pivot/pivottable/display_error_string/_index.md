@@ -3,7 +3,7 @@ title: display_error_string propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 440
+weight: 540
 url: /fr/aspose.cells.pivot/pivottable/display_error_string/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def display_error_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

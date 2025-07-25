@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells/autofilter/add_fill_color_filter/
 is_root: false
 ---
-##  add_fill_color_filter(field_index, pattern, foreground_color, background_color) {#int-BackgroundType-CellsColor-CellsColor}
+##  add_fill_color_filter(self, field_index, pattern, foreground_color, background_color) {#int-aspose.cells.BackgroundType-aspose.cells.CellsColor-aspose.cells.CellsColor}
 يضيف مرشح لون التعبئة.
 
 
 
 ```python
+
 def add_fill_color_filter(self, field_index, pattern, foreground_color, background_color):
     ...
 ```
@@ -20,13 +21,13 @@ def add_fill_color_filter(self, field_index, pattern, foreground_color, backgrou
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| pattern | [BackgroundType](/cells/python-net/ar/aspose.cells/backgroundtype) | نوع نمط الخلفية.|
-| foreground_color | [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor) | لون المقدمة.|
-| background_color | [CellsColor](/cells/python-net/ar/aspose.cells/cellscolor) | لون الخلفية.|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| pattern | [`BackgroundType`](/cells/python-net/ar/aspose.cells/backgroundtype) | نوع نمط الخلفية.|
+| foreground_color | [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor) | لون المقدمة.|
+| background_color | [`CellsColor`](/cells/python-net/ar/aspose.cells/cellscolor) | لون الخلفية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

@@ -3,13 +3,13 @@ title: incremental_change属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 520
 url: /zh/aspose.cells.drawing/scrollbar/incremental_change/
 is_root: false
 ---
 ## incremental_change属性
 
-获取或设置滚动条或微调器每行滚动增量的量。
+获取或设置滚动条或微调器每行滚动增加的量。
 ### 定义：
 ```python
 @property

@@ -3,7 +3,7 @@ title: case_sensitive Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 70
 url: /de/aspose.cells/datasorter/case_sensitive/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [DataSorter](/cells/python-net/de/aspose.cells/datasorter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`DataSorter`](/cells/python-net/de/aspose.cells/datasorter)

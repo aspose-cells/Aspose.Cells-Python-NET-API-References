@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start_row propiedad
 
-Obtiene el índice de la fila inicial del salto de página vertical.
+Obtiene el índice de la fila de inicio del salto de página vertical.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def start_row(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [VerticalPageBreak](/cells/python-net/es/aspose.cells/verticalpagebreak)
+* módulo [`aspose.cells`](../../)
+* clase [`VerticalPageBreak`](/cells/python-net/es/aspose.cells/verticalpagebreak)

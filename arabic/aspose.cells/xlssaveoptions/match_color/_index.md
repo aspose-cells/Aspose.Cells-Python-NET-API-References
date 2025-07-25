@@ -1,15 +1,15 @@
 ---
-title: match_color الملكية
+title: match_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells/xlssaveoptions/match_color/
 is_root: false
 ---
-##  match_color الملكية
+##  match_color عقار
 
-يشير إلى ما إذا كان لون الخط مطابقًا لأن هناك 56 لونًا في لوحة الألوان القياسية.
+يشير إلى ما إذا كان لون الخط مطابقًا لأنه يوجد 56 لونًا في لوحة الألوان القياسية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [XlsSaveOptions](/cells/python-net/ar/aspose.cells/xlssaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`XlsSaveOptions`](/cells/python-net/ar/aspose.cells/xlssaveoptions)

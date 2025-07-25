@@ -8,8 +8,6 @@ url: /fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol/mouse_pointer/
 is_root: false
 ---
 ##  mouse_pointer propriété
-
-Obtient et définit le type d'icône affichée comme pointeur de souris pour le contrôle.
 ###  Définition:
 ```python
 @property
@@ -21,6 +19,6 @@ def mouse_pointer(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlMousePointerType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlmousepointertype)
-* classe [ImageActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlMousePointerType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlmousepointertype)
+* classe [`ImageActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/imageactivexcontrol)

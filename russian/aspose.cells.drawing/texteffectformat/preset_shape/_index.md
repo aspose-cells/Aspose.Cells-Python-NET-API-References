@@ -1,6 +1,6 @@
 ---
 title: preset_shape недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -21,6 +21,6 @@ def preset_shape(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [MsoPresetTextEffectShape](/cells/python-net/ru/aspose.cells.drawing/msopresettexteffectshape)
-* класс [TextEffectFormat](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`MsoPresetTextEffectShape`](/cells/python-net/ru/aspose.cells.drawing/msopresettexteffectshape)
+* класс [`TextEffectFormat`](/cells/python-net/ru/aspose.cells.drawing/texteffectformat)

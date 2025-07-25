@@ -3,7 +3,7 @@ title: text_body mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1120
+weight: 1140
 url: /tr/aspose.cells.drawing/picture/text_body/
 is_root: false
 ---

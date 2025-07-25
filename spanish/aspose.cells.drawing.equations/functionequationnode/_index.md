@@ -1,0 +1,55 @@
+---
+title: FunctionEquationNode clase
+second_title: Aspose.Cells for Python via .NET API Referencias
+description:
+type: docs
+weight: 100
+url: /es/aspose.cells.drawing.equations/functionequationnode/
+is_root: false
+---
+##  FunctionEquationNode clase
+Esta clase especifica la ecuación Function-Apply, que consta de un nombre de función y un argumento sobre el que se actúa.
+Los tipos de los componentes de nombre y argumento son 'EquationNodeType.FunctionName' y 'EquationNodeType.Base' respectivamente.
+
+
+
+**Herencia:** [`FunctionEquationNode`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode)
+
+
+
+El tipo FunctionEquationNode expone los siguientes miembros:
+
+###  Propiedades
+| Propiedad| Descripción|
+| :- | :- |
+| [type](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/type) |  |
+| [start_index](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/start_index) |  |
+| [length](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/length) |  |
+| [font](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/font) |  |
+| [text_options](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/text_options) |  |
+| [equation_type](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/equation_type) |  |
+
+
+###  Métodos
+| Método| Descripción|
+| :- | :- |
+| [`add_child(self, equation_type)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`add_child(self, node)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/add_child/#equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/remove_child/#equationnode) |  |
+| [`remove_child(self, index)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/remove_child/#int) |  |
+| [`set_word_art_style(self, style)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
+| [`to_la_te_x(self)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/to_la_te_x/#) |  |
+| [`to_math_ml(self)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/to_math_ml/#) |  |
+| [`insert_child(self, index, equation_type)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/insert_child/#int-aspose.cells.drawing.equations.equationnodetype) |  |
+| [`insert_after(self, equation_type)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/insert_after/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`insert_before(self, equation_type)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/insert_before/#aspose.cells.drawing.equations.equationnodetype) |  |
+| [`get_child(self, index)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/get_child/#int) |  |
+| [`remove(self)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/remove/#) |  |
+| [`remove_all_children(self)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/remove_all_children/#) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+
+
+
+###  Ver también
+* módulo [`aspose.cells.drawing.equations`](..)
+* clase [`FunctionEquationNode`](/cells/python-net/es/aspose.cells.drawing.equations/functionequationnode)

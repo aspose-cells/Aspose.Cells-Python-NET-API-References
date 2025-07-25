@@ -3,7 +3,7 @@ title: check_value Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 330
 url: /de/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Ruft den Wert des Kontrollkästchens ab oder legt ihn fest.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
- Bitte verwenden Sie die CheckBox.CheckValueType-Eigenschaft.
- Diese Eigenschaft wird seit Juni 2010 12 Monate später entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+ Bitte verwenden Sie die Eigenschaft CheckBox.CheckValueType.
+ Diese Eigenschaft wird 12 Monate später (ab Juni 2010) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property

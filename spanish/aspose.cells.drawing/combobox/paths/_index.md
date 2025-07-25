@@ -3,7 +3,7 @@ title: paths propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 840
 url: /es/aspose.cells.drawing/combobox/paths/
 is_root: false
 ---

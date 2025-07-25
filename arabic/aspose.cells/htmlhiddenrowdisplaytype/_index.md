@@ -3,12 +3,12 @@ title: HtmlHiddenRowDisplayType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2240
+weight: 2180
 url: /ar/aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---
 ##  HtmlHiddenRowDisplayType التعداد
-يمثل نوعين من إظهار الصفوف المخفية في لغة HTML.
+يمثل نوعين من إظهار الصفوف المخفية في HTML.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| HIDDEN |إخفاء الصفوف المخفية في صفحة html.|
+| HIDDEN | تم إخفاء الصفوف المخفية في صفحة html.|
 | REMOVE | إزالة الصفوف المخفية في صفحة html.|
 
 

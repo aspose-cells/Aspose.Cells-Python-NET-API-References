@@ -3,13 +3,13 @@ title: r1c1_formula عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 680
+weight: 710
 url: /ar/aspose.cells/cell/r1c1_formula/
 is_root: false
 ---
 ##  r1c1_formula عقار
 
-الحصول على صيغة R1C1 للرقم [`Cell`](/cells/python-net/ar/aspose.cells/cell) أو تعيينها.
+يحصل على صيغة R1C1 الخاصة بـ [`Cell`](/cells/python-net/ar/aspose.cells/cell) أو يعينها.
 ###  تعريف:
 ```python
 @property

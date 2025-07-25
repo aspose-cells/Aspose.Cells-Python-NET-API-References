@@ -3,12 +3,12 @@ title: NameScopeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2340
+weight: 2310
 url: /ar/aspose.cells/namescopetype/
 is_root: false
 ---
 ##  NameScopeType التعداد
-يمثل نوع النطاق للأسماء المحددة.
+يمثل نوع نطاق الأسماء المحددة.
 
 
 
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | ALL | جميع الأسماء المحددة.|
 | WORKBOOK | الأسماء المحددة في المصنف.|
-| WORKSHEET | الأسماء المحددة في ورقة العمل أو كافة أوراق العمل.|
+| WORKSHEET | الأسماء المحددة في ورقة العمل أو جميع أوراق العمل.|
 
 
 

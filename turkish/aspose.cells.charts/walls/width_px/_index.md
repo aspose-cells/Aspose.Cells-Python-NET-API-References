@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width_px mülk
 
-Chart.Calculate() yöntemini çağırdıktan sonra piksel birimlerinde soldan sağa genişliği alır.
+Chart.Calculate() metodunu çağırdıktan sonra piksel cinsinden soldan sağa genişliği alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def width_px(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

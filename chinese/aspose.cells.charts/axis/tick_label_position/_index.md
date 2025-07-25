@@ -3,7 +3,7 @@ title: tick_label_position属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 390
 url: /zh/aspose.cells.charts/axis/tick_label_position/
 is_root: false
 ---

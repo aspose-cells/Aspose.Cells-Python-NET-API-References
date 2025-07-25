@@ -1,9 +1,9 @@
 ---
 title: export_page_headers недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 380
 url: /ru/aspose.cells/htmlsaveoptions/export_page_headers/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Работает только тогда, когда [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/ru/aspose.cells/htmlsaveoptions#save_as_single_file) имеет значение True.
+Работает только если [`HtmlSaveOptions.save_as_single_file`](/cells/python-net/ru/aspose.cells/htmlsaveoptions#save_as_single_file) имеет значение True.
 ###  Определение:
 ```python
 @property

@@ -3,13 +3,13 @@ title: auto_scaling mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 180
 url: /tr/aspose.cells.charts/chart/auto_scaling/
 is_root: false
 ---
 ##  auto_scaling mülk
 
- Microsoft Excel bir 3-B grafiği boyut olarak eşdeğer 2-B grafiğe daha yakın olacak şekilde ölçeklerse doğrudur.
+ Microsoft Excel, 3 boyutlu grafiği eşdeğer 2 boyutlu grafiğe daha yakın olacak şekilde ölçeklendirirse doğrudur.
 RightAngleAxes özelliği True olmalıdır.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def auto_scaling(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Chart](/cells/python-net/tr/aspose.cells.charts/chart)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Chart`](/cells/python-net/tr/aspose.cells.charts/chart)

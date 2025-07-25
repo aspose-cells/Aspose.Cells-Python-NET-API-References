@@ -1,5 +1,5 @@
 ---
-title: TwoColorGradient Konstrukteur
+title: TwoColorGradient Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/twocolorgradient/__init__/
 is_root: false
 ---
-##  TwoColorGradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+##  \_\_init\_\_(selbst, Farbe1, Farbe2, Farbverlaufsstiltyp, Variante){#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
 
 
 
 
 ```python
+
 def __init__(self, color1, color2, gradient_style_type, variant):
     ...
 ```
@@ -28,5 +29,5 @@ def __init__(self, color1, color2, gradient_style_type, variant):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [TwoColorGradient](/cells/python-net/de/aspose.cells/twocolorgradient)
+* Modul [`aspose.cells`](../../)
+* Klasse [`TwoColorGradient`](/cells/python-net/de/aspose.cells/twocolorgradient)

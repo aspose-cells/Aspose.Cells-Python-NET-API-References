@@ -1,5 +1,5 @@
 ---
-title: filter método
+title: método filter
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 40
 url: /es/aspose.cells.tables/listobject/filter/
 is_root: false
 ---
-##  filter() {#}
+##  filter(self) {#}
 Filtrar la tabla.
 
 
 
 ```python
+
 def filter(self):
     ...
 ```
@@ -22,5 +23,5 @@ def filter(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [ListObject](/cells/python-net/es/aspose.cells.tables/listobject)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`ListObject`](/cells/python-net/es/aspose.cells.tables/listobject)

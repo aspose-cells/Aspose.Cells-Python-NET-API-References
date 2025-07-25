@@ -1,9 +1,9 @@
 ---
 title: settings proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 650
+weight: 680
 url: /it/aspose.cells/workbook/settings/
 is_root: false
 ---

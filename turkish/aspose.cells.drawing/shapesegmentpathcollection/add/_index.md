@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.drawing/shapesegmentpathcollection/add/
 is_root: false
 ---
-##  add(type) {#ShapePathType}
+##  add(self, type) {#aspose.cells.drawing.ShapePathType}
 Oluşturma yoluna bir segment yolu ekleyin.
 
 
 ###  İadeler
 
-[ShapeSegmentPath](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath) nesnesinin listedeki konumunu döndürür.
+[`ShapeSegmentPath`](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath) nesnesinin listedeki konumunu döndürür.
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, type):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| type | [ShapePathType](/cells/python-net/tr/aspose.cells.drawing/shapepathtype) | Yol türü.|
+| type | [`ShapePathType`](/cells/python-net/tr/aspose.cells.drawing/shapepathtype) | Yol türü.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapeSegmentPath](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath)
-* sınıf [ShapeSegmentPathCollection](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpathcollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapeSegmentPath`](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpath)
+* sınıf [`ShapeSegmentPathCollection`](/cells/python-net/tr/aspose.cells.drawing/shapesegmentpathcollection)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_shading Eigentum
 
-Cell Schattierungseinstellung wird angewendet.
+Die Schattierungseinstellung Cell wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_shading(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

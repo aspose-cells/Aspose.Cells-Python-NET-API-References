@@ -3,13 +3,11 @@ title: save_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 310
 url: /ar/aspose.cells/pptxsaveoptions/save_format/
 is_root: false
 ---
 ##  save_format عقار
-
-يحصل على تنسيق ملف الحفظ.
 ###  تعريف:
 ```python
 @property

@@ -1,15 +1,15 @@
 ---
 title: conditional_formattings недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 470
 url: /ru/aspose.cells/worksheet/conditional_formattings/
 is_root: false
 ---
 ##  conditional_formattings недвижимость
 
-Получает условное форматирование на листе.
+Получает условные форматы на рабочем листе.
 ###  Определение:
 ```python
 @property

@@ -3,12 +3,12 @@ title: CustomImplementationFactory صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 410
+weight: 380
 url: /ar/aspose.cells/customimplementationfactory/
 is_root: false
 ---
 ##  CustomImplementationFactory صف
-مصنع لإنشاء بعض الحالات التي يمكن للمستخدم إعادة تنفيذها لأغراض خاصة.
+مصنع لإنشاء بعض الحالات التي يمكن إعادة تنفيذها بواسطة المستخدم لأغراض خاصة.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/customimplementationfactory/__init__/#) | إنشاء مثيل جديد لـ CustomImplementationFactory|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/customimplementationfactory/__init__/#) | إنشاء مثيل جديد لـ CustomImplementationFactory|
 
 
 

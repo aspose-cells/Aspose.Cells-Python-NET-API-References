@@ -3,20 +3,20 @@ title: library_path属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 250
+weight: 270
 url: /zh/aspose.cells/cellshelper/library_path/
 is_root: false
 ---
 ## library_path属性
 
-获取或设置某些外部公式引用所引用的库路径。
+获取或设置一些外部公式引用所引用的库路径。
 ### 定义：
 ```python
 @property
 def library_path(self):
     ...
-@library_path.setter
-def library_path(self, value):
+@staticmethod
+def set_library_path(value):
     ...
 ```
 

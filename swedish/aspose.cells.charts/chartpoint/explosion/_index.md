@@ -3,13 +3,13 @@ title: explosion fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 210
+weight: 220
 url: /sv/aspose.cells.charts/chartpoint/explosion/
 is_root: false
 ---
 ##  explosion fastighet
 
-Avståndet för en öppen pajskiva från mitten av cirkeldiagrammet uttrycks i procent av pajdiametern.
+Avståndet mellan ett öppet cirkelsegment och mitten av cirkeldiagrammet uttrycks som en procentandel av cirkeldiametern.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartPoint](/cells/python-net/sv/aspose.cells.charts/chartpoint)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartPoint`](/cells/python-net/sv/aspose.cells.charts/chartpoint)

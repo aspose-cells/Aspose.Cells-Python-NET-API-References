@@ -3,16 +3,17 @@ title: طريقة get_style
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 70
+weight: 80
 url: /ar/aspose.cells/row/get_style/
 is_root: false
 ---
-##  get_style() {#}
+##  get_style(self) {#}
 يحصل على نمط هذا الصف.
 
 
 
 ```python
+
 def get_style(self):
     ...
 ```
@@ -20,14 +21,14 @@ def get_style(self):
 
 ###  ملاحظات
 
-لا يؤثر تعديل كائن النمط المرتجع مباشرةً على هذا الصف أو أي خلايا في هذا الصف.
-يجب عليك الاتصال بالطريقة [Row.apply_style(style, flag)](/cells/python-net/ar/aspose.cells/row/apply_style) أو [Row.set_style(style)](/cells/python-net/ar/aspose.cells/row/set_style)
+لا يؤدي تعديل كائن النمط المُرجع مباشرةً إلى أي تأثير على هذا الصف أو أي خلايا في هذا الصف.
+عليك الاتصال على الرقم [`Row.apply_style`](/cells/python-net/ar/aspose.cells/row/apply_style) أو [`Row.set_style`](/cells/python-net/ar/aspose.cells/row/set_style)
 لتطبيق التغيير على هذا الصف.
 
-نمط الصف هو النمط الذي سترثه الخلايا في هذا الصف (تلك الخلايا التي لا تحتوي على إعدادات نمط مخصصة ،
-مثل الخلايا الموجودة التي لم يتم تعيين نمط صريح لها ، أو تلك التي لم يتم إنشاء مثيل لها)
+نمط الصف هو النمط الذي سيتم توريثه بواسطة الخلايا في هذا الصف (تلك الخلايا التي ليس لها إعدادات نمط مخصصة،
+مثل الخلايا الموجودة التي لم يتم تعيين أسلوبها صراحةً، أو تلك التي لم يتم إنشاؤها)
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

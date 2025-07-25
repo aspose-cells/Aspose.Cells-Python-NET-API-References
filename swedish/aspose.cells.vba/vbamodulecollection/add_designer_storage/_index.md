@@ -7,12 +7,13 @@ weight: 30
 url: /sv/aspose.cells.vba/vbamodulecollection/add_designer_storage/
 is_root: false
 ---
-##  add_designer_storage(name, data) {#str-bytes}
+##  add_designer_storage(self, name, data) {#str-bytes}
 
 
 
 
 ```python
+
 def add_designer_storage(self, name, data):
     ...
 ```
@@ -26,5 +27,5 @@ def add_designer_storage(self, name, data):
 
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaModuleCollection](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaModuleCollection`](/cells/python-net/sv/aspose.cells.vba/vbamodulecollection)

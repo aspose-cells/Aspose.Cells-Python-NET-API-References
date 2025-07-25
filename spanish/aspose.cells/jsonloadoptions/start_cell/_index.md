@@ -3,13 +3,13 @@ title: start_cell propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 280
+weight: 270
 url: /es/aspose.cells/jsonloadoptions/start_cell/
 is_root: false
 ---
 ##  start_cell propiedad
 
-Obtiene y establece la celda inicial.
+Obtiene y establece la celda de inicio.
 ###  Definición:
 ```python
 @property

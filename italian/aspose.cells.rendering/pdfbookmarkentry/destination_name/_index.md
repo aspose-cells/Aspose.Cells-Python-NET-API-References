@@ -1,6 +1,6 @@
 ---
 title: destination_name proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -13,7 +13,7 @@ Ottiene o imposta il nome della destinazione.
 
 ###  Osservazioni
 
-Se il nome della destinazione è impostato, la destinazione sarà definita come destinazione denominata con questo nome.
+Se è impostato il nome della destinazione, la destinazione verrà definita come destinazione denominata con questo nome.
 ###  Definizione:
 ```python
 @property
@@ -25,5 +25,5 @@ def destination_name(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [PdfBookmarkEntry](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`PdfBookmarkEntry`](/cells/python-net/it/aspose.cells.rendering/pdfbookmarkentry)

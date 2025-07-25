@@ -3,17 +3,17 @@ title: export_images_as_base64 Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 290
+weight: 360
 url: /de/aspose.cells.saving/ebooksaveoptions/export_images_as_base64/
 is_root: false
 ---
 ##  export_images_as_base64 Eigentum
 
-Gibt an, ob Bilder im Base64-Format unter HTML, MHTML oder EPUB gespeichert werden.
+Gibt an, ob Bilder im Base64-Format in HTML, MHTML oder EPUB gespeichert werden.
 
 ###  Bemerkungen
 
-Wenn diese Eigenschaft auf „True“ gesetzt ist, werden Bilddaten direkt in exportiert
+Wenn diese Eigenschaft auf true gesetzt ist, werden Bilddaten direkt auf dem
 img-Elemente und separate Dateien werden nicht erstellt.
 ###  Definition:
 ```python

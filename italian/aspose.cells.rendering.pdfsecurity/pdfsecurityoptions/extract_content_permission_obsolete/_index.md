@@ -1,6 +1,6 @@
 ---
 title: extract_content_permission_obsolete proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  extract_content_permission_obsolete proprietà
 
-Autorizzazione a copiare o estrarre contenuti Obsoleto secondo il riferimento PDF.
+Autorizzazione a copiare o estrarre il contenuto Obsoleto secondo il riferimento PDF.
 
 ###  Osservazioni
 
 NOTA: questo membro è ora obsoleto. Invece,
-utilizzare la proprietà ExtractContentPermission.
- Questa proprietà verrà rimossa 12 mesi dopo a partire da settembre 2023.
-Aspose si scusa per eventuali disagi riscontrati.
+si prega di utilizzare la proprietà ExtractContentPermission.
+ Questa proprietà verrà rimossa 12 mesi dopo, a partire da settembre 2023.
+Aspose si scusa per ogni eventuale disagio arrecato.
 ###  Definizione:
 ```python
 @property

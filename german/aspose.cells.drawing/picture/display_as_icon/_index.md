@@ -3,13 +3,13 @@ title: display_as_icon Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 400
+weight: 410
 url: /de/aspose.cells.drawing/picture/display_as_icon/
 is_root: false
 ---
 ##  display_as_icon Eigentum
 
- True, wenn das angegebene Objekt als Symbol angezeigt wird
+ Wahr, wenn das angegebene Objekt als Symbol angezeigt wird
 und das Bild wird nicht automatisch geändert.
 ###  Definition:
 ```python

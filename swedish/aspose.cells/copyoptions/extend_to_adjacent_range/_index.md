@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  extend_to_adjacent_range fastighet
 
-Anger om intervallet utökas när intervallet kopieras till intilliggande intervall.
+Anger om områden ska utökas när området kopieras till ett angränsande område.
 
 ###  Anmärkningar
 
-Om det är sant utökas endast hyperlänkens räckvidd, inte lägga till en ny hyperlänk när hyperlänkar kopieras till intilliggande rader.
+Om det är sant utökas endast hyperlänkens räckvidd, ingen ny hyperlänk läggs till när hyperlänkar kopieras till intilliggande rader.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def extend_to_adjacent_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CopyOptions](/cells/python-net/sv/aspose.cells/copyoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CopyOptions`](/cells/python-net/sv/aspose.cells/copyoptions)

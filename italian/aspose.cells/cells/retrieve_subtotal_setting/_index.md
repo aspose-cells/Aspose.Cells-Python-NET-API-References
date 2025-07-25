@@ -1,14 +1,14 @@
 ---
 title: Metodo retrieve_subtotal_setting
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 820
+weight: 840
 url: /it/aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
-##  retrieve_subtotal_setting {#aspose.cells.CellArea}
-Recupera l'impostazione dei totali parziali dell'intervallo.
+##  retrieve_subtotal_setting(self, ca) {#aspose.cells.CellArea}
+Recupera l'impostazione dei subtotali dell'intervallo.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Recupera l'impostazione dei totali parziali dell'intervallo.
 
 
 ```python
+
 def retrieve_subtotal_setting(self, ca):
     ...
 ```

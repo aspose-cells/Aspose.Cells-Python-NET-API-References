@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column_character_width mülk
 
-Sütun genişliğinin kopyalanıp kopyalanmayacağını karakter birimi cinsinden belirtir.
+Sütun genişliğinin karakter biriminde kopyalanıp kopyalanmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_character_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_area propiedad
 
-Representa el rango que se va a imprimir.
+Representa el rango a imprimir.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_area(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

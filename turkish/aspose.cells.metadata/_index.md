@@ -7,18 +7,18 @@ weight: 10
 url: /tr/aspose.cells.metadata/
 is_root: false
 ---
- bu**Aspose.Cells.Metadata** ad alanı, Elektronik Tabloların tüm yükleme ve kaydetme meta verilerini içerir.
+**Aspose.Cells.Metadata** namespace, E-Tabloların tüm yükleme ve kaydetme meta veri sınıflarını içerir.
 
-###  sınıflar
+###  Sınıflar
 | Sınıf| Tanım|
 | :- | :- |
-| [MetadataOptions](/cells/python-net/tr/aspose.cells.metadata/metadataoptions) | Dosyanın meta verilerini yükleme seçeneklerini temsil eder.|
-| [WorkbookMetadata](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata) | Meta verileri temsil eder.|
+| [`MetadataOptions`](/cells/python-net/tr/aspose.cells.metadata/metadataoptions) | Dosyanın meta verilerinin yüklenmesine ilişkin seçenekleri temsil eder.|
+| [`WorkbookMetadata`](/cells/python-net/tr/aspose.cells.metadata/workbookmetadata) |Meta verileri temsil eder.|
 
 
 ###  Numaralandırmalar
-|numaralandırma| Tanım|
+| Numaralandırma| Tanım|
 | :- | :- |
-| [MetadataType](/cells/python-net/tr/aspose.cells.metadata/metadatatype) | Meta veri türünü temsil eder.|
+| [`MetadataType`](/cells/python-net/tr/aspose.cells.metadata/metadatatype) | Meta verinin türünü temsil eder.|
 
 

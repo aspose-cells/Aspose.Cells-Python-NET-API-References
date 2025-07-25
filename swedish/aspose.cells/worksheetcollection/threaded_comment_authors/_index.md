@@ -3,13 +3,13 @@ title: threaded_comment_authors fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 360
+weight: 390
 url: /sv/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors fastighet
 
-Hämtar listan över trådade kommentarsförfattare.
+Hämtar listan över författare till trådade kommentarer.
 ###  Definition:
 ```python
 @property

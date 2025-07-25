@@ -3,13 +3,13 @@ title: is_selected fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 620
+weight: 650
 url: /sv/aspose.cells/worksheet/is_selected/
 is_root: false
 ---
 ##  is_selected fastighet
 
-Anger om detta kalkylblad är valt när arbetsboken öppnas.
+Anger om det här kalkylbladet är valt när arbetsboken öppnas.
 ###  Definition:
 ```python
 @property

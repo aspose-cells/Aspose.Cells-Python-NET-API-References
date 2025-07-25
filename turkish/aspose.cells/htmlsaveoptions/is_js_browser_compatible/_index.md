@@ -3,13 +3,13 @@ title: is_js_browser_compatible mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 520
+weight: 600
 url: /tr/aspose.cells/htmlsaveoptions/is_js_browser_compatible/
 is_root: false
 ---
 ##  is_js_browser_compatible mülk
 
- JavaScript'in, JavaScript'i desteklemeyen tarayıcılarla uyumlu olup olmadığını belirtir.
+ JavaScript'in JavaScript'i desteklemeyen tarayıcılarla uyumlu olup olmadığını gösterir.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python

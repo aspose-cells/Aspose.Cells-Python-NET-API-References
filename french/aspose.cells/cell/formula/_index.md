@@ -3,7 +3,7 @@ title: formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 490
+weight: 500
 url: /fr/aspose.cells/cell/formula/
 is_root: false
 ---
@@ -14,7 +14,7 @@ Obtient ou définit un formula du [`Cell`](/cells/python-net/fr/aspose.cells/cel
 ###  Remarques
 
  Une chaîne formula commence toujours par un signe égal (=).
-Et veuillez toujours utiliser la virgule (,) comme délimiteur de paramètres, tel que "= SUM (A1, E1, H2)".
+Et veuillez toujours utiliser la virgule (,) comme délimiteur de paramètres, comme par exemple « =SOMME(A1, E1, H2) ».
 
 ###  Exemple
 

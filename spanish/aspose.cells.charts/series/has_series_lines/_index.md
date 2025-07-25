@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  has_series_lines propiedad
 
-Verdadero si un gráfico de columnas apiladas o de barras tiene líneas de serie o
- si un gráfico circular o de barras tiene líneas conectoras entre las dos secciones.
-Se aplica solo a gráficos de columnas apiladas, gráficos de barras, gráficos circulares o gráficos circulares de barras.
+Verdadero si un gráfico de columnas apiladas o un gráfico de barras tiene líneas en serie o
+ Si un gráfico circular o un gráfico circular de barras tiene líneas de conexión entre las dos secciones.
+Se aplica únicamente a gráficos de columnas apiladas, gráficos de barras, gráficos circulares o gráficos de barras circulares.
 ###  Definición:
 ```python
 @property

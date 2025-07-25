@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  strike_type mülk
 
-Metnin vuruş tipini alır.
+Metnin vuruş türünü alır.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
-* sınıf [TextStrikeType](/cells/python-net/tr/aspose.cells/textstriketype)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)
+* sınıf [`TextStrikeType`](/cells/python-net/tr/aspose.cells/textstriketype)

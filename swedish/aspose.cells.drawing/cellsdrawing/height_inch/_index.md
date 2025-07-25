@@ -3,13 +3,13 @@ title: height_inch fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 450
 url: /sv/aspose.cells.drawing/cellsdrawing/height_inch/
 is_root: false
 ---
 ##  height_inch fastighet
 
-Representerar höjden på formen, i enhet av tum.
+Representerar formens höjd, i tum.
 
 ###  Exempel
 

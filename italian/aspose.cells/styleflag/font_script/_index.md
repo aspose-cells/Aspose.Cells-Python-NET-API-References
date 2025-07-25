@@ -1,6 +1,6 @@
 ---
 title: font_script proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_script proprietà
 
-Verrà applicata l'impostazione dello script del carattere.
+Verranno applicate le impostazioni dello script del font.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

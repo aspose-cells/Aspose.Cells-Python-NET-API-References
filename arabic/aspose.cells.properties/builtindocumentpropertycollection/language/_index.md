@@ -1,15 +1,15 @@
 ---
-title: language الملكية
+title: language عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/language/
 is_root: false
 ---
-##  language الملكية
+##  language عقار
 
-الحصول على او تحديد language الوثيقة.
+يحصل على أو يعين رقم المستند language.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def language(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

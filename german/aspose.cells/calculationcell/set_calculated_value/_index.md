@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
-##  set_calculated_value(v) {#any}
+##  set_calculated_value(self, v) {#any}
 Legt den berechneten Wert für die Zelle fest.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```
@@ -28,5 +29,5 @@ Der Benutzer kann das mit dieser Methode berechnete Ergebnis so einstellen, dass
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [CalculationCell](/cells/python-net/de/aspose.cells/calculationcell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CalculationCell`](/cells/python-net/de/aspose.cells/calculationcell)

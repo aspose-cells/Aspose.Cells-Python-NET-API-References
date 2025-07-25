@@ -1,6 +1,6 @@
 ---
 title: acitve_pane_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,6 +21,6 @@ def acitve_pane_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PaneCollection](/cells/python-net/ru/aspose.cells/panecollection)
-* класс [RectangleAlignmentType](/cells/python-net/ru/aspose.cells.drawing/rectanglealignmenttype)
+* модуль [`aspose.cells`](../../)
+* класс [`PaneCollection`](/cells/python-net/ru/aspose.cells/panecollection)
+* класс [`RectangleAlignmentType`](/cells/python-net/ru/aspose.cells.drawing/rectanglealignmenttype)

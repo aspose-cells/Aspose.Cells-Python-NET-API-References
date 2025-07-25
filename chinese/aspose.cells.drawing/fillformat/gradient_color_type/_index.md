@@ -1,13 +1,13 @@
 ---
-title: gradient_color_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: gradient_color_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 90
 url: /zh/aspose.cells.drawing/fillformat/gradient_color_type/
 is_root: false
 ---
-## gradient_color_type 属性
+## gradient_color_type属性
 
 返回指定填充的渐变颜色类型。
 ### 定义：
@@ -18,6 +18,6 @@ def gradient_color_type(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FillFormat](/cells/python-net/zh/aspose.cells.drawing/fillformat)
-* 类 [GradientColorType](/cells/python-net/zh/aspose.cells.drawing/gradientcolortype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FillFormat`](/cells/python-net/zh/aspose.cells.drawing/fillformat)
+* 类 [`GradientColorType`](/cells/python-net/zh/aspose.cells.drawing/gradientcolortype)

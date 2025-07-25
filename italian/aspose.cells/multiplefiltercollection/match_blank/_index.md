@@ -1,6 +1,6 @@
 ---
 title: match_blank proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_blank proprietà
 
-Indica se filtrare per vuoto.
+Indica se filtrare per spazi vuoti.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [MultipleFilterCollection](/cells/python-net/it/aspose.cells/multiplefiltercollection)
+* modulo [`aspose.cells`](../../)
+* classe [`MultipleFilterCollection`](/cells/python-net/it/aspose.cells/multiplefiltercollection)

@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  memory_setting mülk
 
-Bellek kullanım seçeneklerini alır veya ayarlar.
+Yüklenen çalışma kitabı için bellek modunu alır veya ayarlar.
+
+###  Notlar
+
+Bellek modu hakkında daha detaylı bilgi için lütfen [`Cells.memory_setting`](/cells/python-net/tr/aspose.cells/cells#memory_setting)'e bakınız.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +25,6 @@ def memory_setting(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
-* sınıf [MemorySetting](/cells/python-net/tr/aspose.cells/memorysetting)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* sınıf [`MemorySetting`](/cells/python-net/tr/aspose.cells/memorysetting)

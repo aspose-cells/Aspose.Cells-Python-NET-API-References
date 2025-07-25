@@ -14,10 +14,10 @@ Standardwert: PNG.
 
 ###  Bemerkungen
 
- HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-Diagramm und Form werden immer als Vektorelemente (z. B. Punkt, Linie) für die Renderqualität gerendert.
- Diese Property wird 12 Monate später seit Juni 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+ HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Diagramme und Formen werden aus Gründen der Wiedergabequalität immer als Vektorelemente (z. B. Punkte, Linien) wiedergegeben.
+ Diese Eigenschaft wird 12 Monate später (ab Juni 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -29,5 +29,5 @@ def chart_image_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.rendering](../../)
-* Klasse [ImageOrPrintOptions](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)
+* Modul [`aspose.cells.rendering`](../../)
+* Klasse [`ImageOrPrintOptions`](/cells/python-net/de/aspose.cells.rendering/imageorprintoptions)

@@ -7,12 +7,13 @@ weight: 30
 url: /tr/aspose.cells/comment/format_characters/
 is_root: false
 ---
-##  format_characters(start_index, length, font, flag) {#int-int-Font-StyleFlag}
-Yazı tipi ayarıyla bazı karakterleri biçimlendirin.
+##  format_characters(self, start_index, length, font, flag) {#int-int-aspose.cells.Font-aspose.cells.StyleFlag}
+Bazı karakterleri font ayarıyla biçimlendirin.
 
 
 
 ```python
+
 def format_characters(self, start_index, length, font, flag):
     ...
 ```
@@ -20,13 +21,13 @@ def format_characters(self, start_index, length, font, flag):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_index | int | Başlangıç dizini.|
+| start_index | int | Başlangıç indeksi.|
 | length | int | Uzunluk.|
-| font | [Font](/cells/python-net/tr/aspose.cells/font) | Yazı tipi ayarı.|
-| flag | [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag) | Yazı tipi ayarının bayrağı.|
+| font | [`Font`](/cells/python-net/tr/aspose.cells/font) | Yazı tipi ayarı.|
+| flag | [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag) | Yazı tipi ayarının bayrağı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Comment](/cells/python-net/tr/aspose.cells/comment)
+* modül [`aspose.cells`](../../)
+* sınıf [`Comment`](/cells/python-net/tr/aspose.cells/comment)

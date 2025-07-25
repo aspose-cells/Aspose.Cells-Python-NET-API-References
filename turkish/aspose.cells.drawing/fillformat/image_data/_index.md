@@ -13,7 +13,7 @@ Resim görüntü verilerini alır ve ayarlar.
 
 ###  Notlar
 
-Dolgu formatı özel doku formatı değilse null değerini döndürür.
+Eğer dolgu biçimi özel doku biçimi değilse, null döndürür.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def image_data(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [FillFormat](/cells/python-net/tr/aspose.cells.drawing/fillformat)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`FillFormat`](/cells/python-net/tr/aspose.cells.drawing/fillformat)

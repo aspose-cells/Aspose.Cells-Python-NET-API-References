@@ -1,13 +1,13 @@
 ---
 title: add_label方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 130
+weight: 150
 url: /zh/aspose.cells.drawing/shapecollection/add_label/
 is_root: false
 ---
-##  add_label(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+##  add_label(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 向工作表添加标签。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_label(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,9 +26,9 @@ def add_label(self, upper_left_row, top, upper_left_column, left, height, width)
 |范围|类型|描述|
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
-| top | int |表示 Label 相对于其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
-| left | int |表示 Label 相对于其左列的水平偏移量，以像素为单位。|
+| top | int |表示标签相对于其左行的垂直偏移量，以像素为单位。|
+| upper_left_column | int |左上角的列索引。|
+| left | int |表示标签相对于其左列的水平偏移量，以像素为单位。|
 | height | int |表示Label的高度，单位为像素。|
 | width | int |表示Label的宽度，单位为像素。|
 
@@ -43,5 +44,5 @@ label = shapes.add_label(1, 0, 1, 0, 100, 50)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [ShapeCollection](/cells/python-net/zh/aspose.cells.drawing/shapecollection)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`ShapeCollection`](/cells/python-net/zh/aspose.cells.drawing/shapecollection)

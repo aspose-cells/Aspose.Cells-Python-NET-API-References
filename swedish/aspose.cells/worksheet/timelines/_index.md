@@ -3,7 +3,7 @@ title: timelines fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 840
+weight: 860
 url: /sv/aspose.cells/worksheet/timelines/
 is_root: false
 ---

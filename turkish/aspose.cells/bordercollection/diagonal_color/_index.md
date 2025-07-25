@@ -3,7 +3,7 @@ title: diagonal_color mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 50
+weight: 60
 url: /tr/aspose.cells/bordercollection/diagonal_color/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def diagonal_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [BorderCollection](/cells/python-net/tr/aspose.cells/bordercollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`BorderCollection`](/cells/python-net/tr/aspose.cells/bordercollection)

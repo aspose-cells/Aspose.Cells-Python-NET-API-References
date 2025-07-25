@@ -1,15 +1,15 @@
 ---
 title: signer недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 100
+weight: 110
 url: /ru/aspose.cells.drawing/signatureline/signer/
 is_root: false
 ---
 ##  signer недвижимость
 
-Получает и задает signer.
+Получает или задает signer.
 
 ###  Пример
 
@@ -32,5 +32,5 @@ def signer(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [SignatureLine](/cells/python-net/ru/aspose.cells.drawing/signatureline)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`SignatureLine`](/cells/python-net/ru/aspose.cells.drawing/signatureline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  guid fastighet
 
-Får den globalt unika identifieraren för den anpassade vyn.
+Hämtar den globalt unika identifieraren för den anpassade vyn.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def guid(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionCustomView](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionCustomView`](/cells/python-net/sv/aspose.cells.revisions/revisioncustomview)

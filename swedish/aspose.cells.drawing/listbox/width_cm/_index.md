@@ -3,13 +3,13 @@ title: width_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /sv/aspose.cells.drawing/listbox/width_cm/
 is_root: false
 ---
 ##  width_cm fastighet
 
-Representerar formens bredd, i centimeterenhet.
+Representerar formens bredd, i centimeter.
 
 ###  Exempel
 

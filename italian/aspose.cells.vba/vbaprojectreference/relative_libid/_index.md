@@ -1,6 +1,6 @@
 ---
 title: relative_libid proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  relative_libid proprietà
 
-Ottiene e imposta l'identificatore del progetto VBA di riferimento con un percorso relativo.
+Ottiene e imposta l'identificatore del progetto VBA referenziato con un percorso relativo.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)
+* modulo [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/it/aspose.cells.vba/vbaprojectreference)

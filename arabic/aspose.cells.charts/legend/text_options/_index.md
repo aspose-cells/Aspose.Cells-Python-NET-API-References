@@ -3,13 +3,13 @@ title: text_options عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 450
 url: /ar/aspose.cells.charts/legend/text_options/
 is_root: false
 ---
 ##  text_options عقار
 
-الحصول على خيارات النص وتعيينها.
+يحصل على خيارات النص ويحددها.
 ###  تعريف:
 ```python
 @property

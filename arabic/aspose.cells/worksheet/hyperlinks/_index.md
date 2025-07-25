@@ -3,13 +3,13 @@ title: hyperlinks عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 570
 url: /ar/aspose.cells/worksheet/hyperlinks/
 is_root: false
 ---
 ##  hyperlinks عقار
 
-يحصل على مجموعة [`HyperlinkCollection`](/cells/python-net/ar/aspose.cells/hyperlinkcollection).
+يحصل على المجموعة [`HyperlinkCollection`](/cells/python-net/ar/aspose.cells/hyperlinkcollection).
 ###  تعريف:
 ```python
 @property

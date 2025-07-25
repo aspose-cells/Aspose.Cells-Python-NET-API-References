@@ -1,5 +1,5 @@
 ---
-title: move méthode
+title: méthode move
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /fr/aspose.cells.charts/series/move/
 is_root: false
 ---
-##  move(count) {#int}
+##  move(self, count) {#int}
 Déplace la série vers le haut ou vers le bas.
 
 
 
 ```python
+
 def move(self, count):
     ...
 ```
@@ -20,10 +21,10 @@ def move(self, count):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| count | int | Le nombre de déplacement vers le haut ou vers le bas.<br/>Déplacez la série vers le haut si elle est inférieure à zéro ;<br/> Déplacez la série vers le bas si elle est supérieure à zéro.|
+| count | int | Le nombre de mouvements vers le haut ou vers le bas.<br/>Déplacez la série vers le haut si elle est inférieure à zéro ;<br/> Déplacez la série vers le bas si elle est supérieure à zéro.|
 
 
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

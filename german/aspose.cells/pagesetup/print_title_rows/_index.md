@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_rows Eigentum
 
-Stellt die Zeilen dar, die die zu wiederholenden Zellen oben auf jeder Seite enthalten.
+Stellt die Zeilen dar, die die Zellen enthalten, die oben auf jeder Seite wiederholt werden sollen.
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def print_title_rows(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

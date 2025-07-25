@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_signed_date mülk
 
-İmza tarihini gösterip göstermediğini gösterir.
+İmzalanma tarihinin gösterilip gösterilmediğini belirtir.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def show_signed_date(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [SignatureLine](/cells/python-net/tr/aspose.cells.drawing/signatureline)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`SignatureLine`](/cells/python-net/tr/aspose.cells.drawing/signatureline)

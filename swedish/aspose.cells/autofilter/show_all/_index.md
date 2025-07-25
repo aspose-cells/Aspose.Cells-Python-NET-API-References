@@ -7,12 +7,13 @@ weight: 180
 url: /sv/aspose.cells/autofilter/show_all/
 is_root: false
 ---
-##  show_all() {#}
+##  show_all(self) {#}
 Visa alla rader.
 
 
 
 ```python
+
 def show_all(self):
     ...
 ```
@@ -22,5 +23,5 @@ def show_all(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [AutoFilter](/cells/python-net/sv/aspose.cells/autofilter)
+* modul [`aspose.cells`](../../)
+* klass [`AutoFilter`](/cells/python-net/sv/aspose.cells/autofilter)

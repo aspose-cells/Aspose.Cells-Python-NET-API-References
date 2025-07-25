@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  extend_to_adjacent_range mülk
 
-Aralığı bitişik aralığa kopyalarken aralıkların genişletilip genişletilmediğini gösterir.
+Aralığı bitişik aralığa kopyalarken aralıkların genişletilip genişletilmeyeceğini belirtir.
 
 ###  Notlar
 
-Doğruysa, yalnızca köprünün aralığını genişletir, köprüleri bitişik satırlara kopyalarken yeni bir köprü eklemez.
+Eğer doğruysa, sadece hiperlinkin aralığını genişletir, bitişik satırlara hiperlink kopyalarken yeni bir hiperlink eklemez.
 ###  Tanım:
 ```python
 @property
@@ -25,5 +25,5 @@ def extend_to_adjacent_range(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CopyOptions](/cells/python-net/tr/aspose.cells/copyoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions)

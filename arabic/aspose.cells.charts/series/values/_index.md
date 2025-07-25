@@ -1,5 +1,5 @@
 ---
-title: values الملكية
+title: values عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 500
 url: /ar/aspose.cells.charts/series/values/
 is_root: false
 ---
-##  values الملكية
+##  values عقار
 
-يمثل بيانات سلسلة الرسم البياني.
+يمثل Y values من سلسلة المخططات هذه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def values(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Series](/cells/python-net/ar/aspose.cells.charts/series)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Series`](/cells/python-net/ar/aspose.cells.charts/series)

@@ -1,6 +1,6 @@
 ---
 title: is_auto_first_page_number proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_first_page_number proprietà
 
-Indica se alla prima viene assegnato automaticamente il numero di pagina.
+Indica se il primo numero di pagina viene assegnato automaticamente.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_first_page_number(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/it/aspose.cells/pagesetup)
+* modulo [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/it/aspose.cells/pagesetup)

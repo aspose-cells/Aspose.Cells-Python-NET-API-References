@@ -3,13 +3,13 @@ title: tick_label_spacing fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 400
 url: /sv/aspose.cells.charts/axis/tick_label_spacing/
 is_root: false
 ---
 ##  tick_label_spacing fastighet
 
-Representerar antalet kategorier eller serier mellan bockmarkeringsetiketter. Gäller endast kategori- och serieaxlar.
+Representerar antalet kategorier eller serier mellan skalmarkeringsetiketter. Gäller endast kategori- och serieaxlar.
 
 ###  Anmärkningar
 

@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.charts/chartcalculateoptions/__init__/
 is_root: false
 ---
-##  __içinde__ {#}
-Grafiği hesaplamak için seçenekler oluşturur.
+##  \_\_init\_\_(kendi){#}
+Grafik hesaplama seçeneklerini oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

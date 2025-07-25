@@ -3,13 +3,13 @@ title: text mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 450
+weight: 520
 url: /tr/aspose.cells.charts/datalabels/text/
 is_root: false
 ---
 ##  text mülk
 
-Veri etiketinin text'ini alır veya ayarlar.
+Veri etiketinin text değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

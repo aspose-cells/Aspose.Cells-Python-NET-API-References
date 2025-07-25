@@ -7,16 +7,17 @@ weight: 20
 url: /zh/aspose.cells/colorfilter/get_color/
 is_root: false
 ---
-##  get_color {#aspose.cells.WorksheetCollection}
-获取此滤镜的颜色。
+##  get_color(self, sheets) {#aspose.cells.WorksheetCollection}
+获取此过滤器的颜色。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def get_color(self, sheets):
     ...
 ```

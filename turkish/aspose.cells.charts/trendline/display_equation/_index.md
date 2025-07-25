@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_equation mülk
 
-Eğilim çizgisi denkleminin grafikte gösterilip gösterilmediğini temsil eder (R-kare değeriyle aynı veri etiketinde). Bu özelliği True olarak ayarlamak veri etiketlerini otomatik olarak açar.
+Trend çizgisi denkleminin grafikte (R kare değeriyle aynı veri etiketinde) görüntülenip görüntülenmediğini gösterir. Bu özelliğin True (Doğru) olarak ayarlanması, veri etiketlerini otomatik olarak açar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_equation(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Trendline](/cells/python-net/tr/aspose.cells.charts/trendline)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Trendline`](/cells/python-net/tr/aspose.cells.charts/trendline)

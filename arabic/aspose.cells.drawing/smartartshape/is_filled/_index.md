@@ -3,7 +3,7 @@ title: is_filled عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 550
 url: /ar/aspose.cells.drawing/smartartshape/is_filled/
 is_root: false
 ---

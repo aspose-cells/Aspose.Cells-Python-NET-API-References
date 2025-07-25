@@ -1,9 +1,9 @@
 ---
 title: ShapeAnchorType枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1140
+weight: 1130
 url: /zh/aspose.cells.drawing/shapeanchortype/
 is_root: false
 ---
@@ -12,15 +12,15 @@ is_root: false
 
 
 
-ShapeAnchorType 类型公开了以下成员：
+ShapeAnchorType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| TWO_CELL_ANCHOR |表示两个单元格锚点占位符|
+| TWO_CELL_ANCHOR |表示两个单元格的锚点占位符|
 | ONE_CELL_ANCHOR |表示一个单元格锚点占位符|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](..)
+* 模块[`aspose.cells.drawing`](..)

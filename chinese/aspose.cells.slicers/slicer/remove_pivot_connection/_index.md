@@ -1,18 +1,19 @@
 ---
 title: remove_pivot_connection方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells.slicers/slicer/remove_pivot_connection/
 is_root: false
 ---
-##  remove_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
+##  remove_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
 删除数据透视表连接。
 
 
 
 ```python
+
 def remove_pivot_connection(self, pivot):
     ...
 ```
@@ -33,5 +34,5 @@ slicer.remove_pivot_connection(pivot)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

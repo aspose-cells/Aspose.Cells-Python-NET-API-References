@@ -1,16 +1,16 @@
 ---
 title: is_js_browser_compatible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 520
+weight: 600
 url: /ru/aspose.cells/htmlsaveoptions/is_js_browser_compatible/
 is_root: false
 ---
 ##  is_js_browser_compatible недвижимость
 
  Указывает, совместим ли JavaScript с браузерами, которые не поддерживают JavaScript.
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 ###  Определение:
 ```python
 @property

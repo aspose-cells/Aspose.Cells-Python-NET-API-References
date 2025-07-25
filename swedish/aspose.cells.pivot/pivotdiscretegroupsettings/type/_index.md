@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type fastighet
 
-Får gruppen type.
+Hämtar gruppen type.
 ###  Definition:
 ```python
 @property

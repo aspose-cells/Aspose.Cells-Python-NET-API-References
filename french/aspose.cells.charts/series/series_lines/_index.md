@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  series_lines propriété
 
-Renvoie un objet SeriesLines qui représente les lignes de série d'un graphique à barres empilées ou d'un graphique à colonnes empilées.
-S'applique uniquement aux histogrammes empilés et aux histogrammes empilés.
+Renvoie un objet SeriesLines qui représente les lignes de série pour un graphique à barres empilées ou un graphique à colonnes empilées.
+S'applique uniquement aux graphiques à barres empilées et à colonnes empilées.
 ###  Définition:
 ```python
 @property
@@ -19,6 +19,6 @@ def series_lines(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
-* classe [Series](/cells/python-net/fr/aspose.cells.charts/series)
+* module [`aspose.cells.charts`](../../)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)
+* classe [`Series`](/cells/python-net/fr/aspose.cells.charts/series)

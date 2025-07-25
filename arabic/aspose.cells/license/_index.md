@@ -3,12 +3,12 @@ title: License صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1020
+weight: 930
 url: /ar/aspose.cells/license/
 is_root: false
 ---
 ##  License صف
-يوفر أساليب لترخيص المكون.
+توفر طرقًا لترخيص المكون.
 
 
 
@@ -17,25 +17,25 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/license/__init__/#) | تهيئة مثيل جديد من هذه الفئة.|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/license/__init__/#) | يقوم بإنشاء مثيل جديد لهذه الفئة.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_license](/cells/python-net/ar/aspose.cells/license/set_license/#str) | ترخيص المكون.|
-| [set_license](/cells/python-net/ar/aspose.cells/license/set_license/#io.RawIOBase) | ترخيص المكون.|
+| [`set_license(self, license_name)`](/cells/python-net/ar/aspose.cells/license/set_license/#str) | ترخيص المكون.|
+| [`set_license(self, stream)`](/cells/python-net/ar/aspose.cells/license/set_license/#io.rawiobase) | ترخيص المكون.|
 
 
 
 ###  مثال
 
-في هذا المثال، سيتم إجراء محاولة للعثور على ملف الترخيص المسمى MyLicense.lic
- في المجلد الذي يحتوي
+في هذا المثال، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic
+ في المجلد الذي يحتوي على
 
 
-المكون الموجود في المجلد الذي يحتوي على مجموعة الاستدعاء،
-في مجلد مجموعة الإدخال ثم في الموارد المضمنة لمجموعة الاستدعاء.
+المكون، في المجلد الذي يحتوي على التجميع المستدعي،
+في مجلد تجميع الإدخالات ثم في الموارد المضمنة لتجميع الاستدعاء.
 
 ```python
 from aspose.cells import License

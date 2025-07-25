@@ -3,13 +3,13 @@ title: original_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 960
+weight: 980
 url: /ar/aspose.cells.drawing/picture/original_width/
 is_root: false
 ---
 ##  original_width عقار
 
-الحصول على العرض الأصلي للصورة.
+يحصل على العرض الأصلي للصورة.
 
 ###  مثال
 

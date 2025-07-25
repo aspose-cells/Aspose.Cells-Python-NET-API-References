@@ -18,5 +18,5 @@ def text(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionDefinedName](/cells/python-net/es/aspose.cells.revisions/revisiondefinedname)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionDefinedName`](/cells/python-net/es/aspose.cells.revisions/revisiondefinedname)

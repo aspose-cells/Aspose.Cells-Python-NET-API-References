@@ -7,12 +7,13 @@ weight: 60
 url: /tr/aspose.cells/formatconditioncollection/remove_area/
 is_root: false
 ---
-##  remove_area(index) {#int}
-Koşullu biçimlendirilmiş hücre aralığını dizine göre kaldırır.
+##  remove_area(self, index) {#int}
+Dizine göre koşullu biçimlendirilmiş hücre aralığını kaldırır.
 
 
 
 ```python
+
 def remove_area(self, index):
     ...
 ```
@@ -23,7 +24,7 @@ def remove_area(self, index):
 | index | int | Kaldırılacak koşullu biçimlendirilmiş hücre aralığının dizini.|
 
 
-##  remove_area(start_row, start_column, total_rows, total_columns) {#int-int-int-int}
+##  remove_area(self, start_row, start_column, total_rows, total_columns) {#int-int-int-int}
 Aralıktaki koşullu biçimlendirmeyi kaldırın.
 
 
@@ -33,6 +34,7 @@ TRUE döndürür, bu FormatCondtionCollection kaldırılmalıdır.
 
 
 ```python
+
 def remove_area(self, start_row, start_column, total_rows, total_columns):
     ...
 ```
@@ -40,13 +42,13 @@ def remove_area(self, start_row, start_column, total_rows, total_columns):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| start_row | int | Aralığın startRow'u.|
-| start_column | int | Aralığın startColumn değeri.|
+| start_row | int | Aralığın başlangıç satırı.|
+| start_column | int | Aralığın başlangıçSütunu.|
 | total_rows | int | Aralığın satır sayısı.|
 | total_columns | int | Aralığın sütun sayısı.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FormatConditionCollection](/cells/python-net/tr/aspose.cells/formatconditioncollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`FormatConditionCollection`](/cells/python-net/tr/aspose.cells/formatconditioncollection)

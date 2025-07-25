@@ -3,16 +3,17 @@ title: طريقة to_front_or_back
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 240
+weight: 260
 url: /ar/aspose.cells.drawing/picture/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
+##  to_front_or_back(self, orders) {#int}
 يجلب الشكل إلى الأمام أو يرسل الشكل إلى الخلف.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```
@@ -20,7 +21,7 @@ def to_front_or_back(self, orders):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| orders | int | إذا كان أقل من الصفر، يضبط الشكل إلى الخلف.<br/> إذا كان أكبر من الصفر، يتم إحضار الشكل إلى الأمام.|
+| orders | int | إذا كان أقل من الصفر، يتم تعيين الشكل إلى الخلف.<br/> إذا كان أكبر من الصفر، فإنه يجلب الشكل إلى الأمام.|
 
 ###  مثال
 

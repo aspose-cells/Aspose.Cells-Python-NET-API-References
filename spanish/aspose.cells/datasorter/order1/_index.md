@@ -3,7 +3,7 @@ title: order1 propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 120
+weight: 130
 url: /es/aspose.cells/datasorter/order1/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def order1(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [DataSorter](/cells/python-net/es/aspose.cells/datasorter)
-* clase [SortOrder](/cells/python-net/es/aspose.cells/sortorder)
+* módulo [`aspose.cells`](../../)
+* clase [`DataSorter`](/cells/python-net/es/aspose.cells/datasorter)
+* clase [`SortOrder`](/cells/python-net/es/aspose.cells/sortorder)

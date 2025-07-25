@@ -7,8 +7,8 @@ weight: 190
 url: /de/aspose.cells/cell/get_precedents_in_calculation/
 is_root: false
 ---
-##  get_precedents_in_calculation() {#}
-Ruft alle Präzedenzfälle (Verweis auf Zellen in der aktuellen Arbeitsmappe) ab, die von der Formel dieser Zelle während der Berechnung verwendet werden.
+##  get_precedents_in_calculation(self) {#}
+Ruft alle Präzedenzfälle (Verweise auf Zellen in der aktuellen Arbeitsmappe) ab, die von der Formel dieser Zelle während der Berechnung verwendet werden.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Enumerator zum Aufzählen aller Referenzen (ReferredArea)
 
 
 ```python
+
 def get_precedents_in_calculation(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_precedents_in_calculation(self):
 
 ###  Bemerkungen
 
-Diese Methode kann nur mit der Situation funktionieren, dass [FormulaSettings.enable_calculation_chain](/cells/python-net/de/aspose.cells/formulasettings#enable_calculation_chain)
-für die Arbeitsmappe wahr ist und die Arbeitsmappe vollständig berechnet wurde.
-Wenn diese Zelle keine Formel ist oder auf keine andere Zelle verweist, wird null zurückgegeben.
+Diese Methode funktioniert nur in der Situation, dass [`FormulaSettings.enable_calculation_chain`](/cells/python-net/de/aspose.cells/formulasettings#enable_calculation_chain)
+ist für die Arbeitsmappe wahr und die Arbeitsmappe wurde vollständig berechnet.
+Wenn diese Zelle keine Formel ist oder nicht auf andere Zellen verweist, wird null zurückgegeben.
 ###  Beispiel
 
 ```python
@@ -47,5 +48,5 @@ for r in en:
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

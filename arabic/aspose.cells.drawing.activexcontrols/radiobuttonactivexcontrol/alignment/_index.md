@@ -1,5 +1,5 @@
 ---
-title: alignment الملكية
+title: alignment عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/alignment/
 is_root: false
 ---
-##  alignment الملكية
+##  alignment عقار
 
-الحصول على موضع التسمية التوضيحية بالنسبة لعنصر التحكم وتعيينه.
+يحصل على موضع التسمية التوضيحية ويحدده بالنسبة لعنصر التحكم.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ControlCaptionAlignmentType](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
-* فئة [RadioButtonActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ControlCaptionAlignmentType`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype)
+* فئة [`RadioButtonActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)

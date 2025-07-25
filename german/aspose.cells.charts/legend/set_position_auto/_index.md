@@ -7,12 +7,13 @@ weight: 40
 url: /de/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto {#}
-Stellen Sie die Position des Rahmens auf automatisch ein
+##  set_position_auto(self) {#}
+Position des Rahmens auf automatisch einstellen
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

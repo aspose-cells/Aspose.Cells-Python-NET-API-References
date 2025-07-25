@@ -1,22 +1,23 @@
 ---
 title: get_all_name метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
 url: /ru/aspose.cells/globalizationsettings/get_all_name/
 is_root: false
 ---
-##  get_all_name() {#}
-Получает имя метки "(Все)" в сводной таблице.
+##  get_all_name(self) {#}
+Получает имя метки «(Все)» в сводной таблице.
 
 
-###  Возвращает
+###  Возврат
 
-Название ярлыка "(Все)"
+Имя метки «(Все)»
 
 
 ```python
+
 def get_all_name(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_all_name(self):
 
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо,
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо этого,
 используйте метод GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Это свойство будет удалено через 12 месяцев, начиная с декабря 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ Этот объект будет снесен через 12 месяцев с декабря 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [GlobalizationSettings](/cells/python-net/ru/aspose.cells/globalizationsettings)
+* модуль [`aspose.cells`](../../)
+* класс [`GlobalizationSettings`](/cells/python-net/ru/aspose.cells/globalizationsettings)

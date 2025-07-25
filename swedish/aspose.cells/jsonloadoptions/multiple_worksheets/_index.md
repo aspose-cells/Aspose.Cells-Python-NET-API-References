@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  multiple_worksheets fastighet
 
-Anger om varje attribut för JsonObject-objekt importeras som ett kalkylblad när alla underordnade noder är matrisnoder.
+Anger om varje attribut för JsonObject-objektet ska importeras som ett enda kalkylblad när alla underordnade noder är arraynoder.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def multiple_worksheets(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [JsonLoadOptions](/cells/python-net/sv/aspose.cells/jsonloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`JsonLoadOptions`](/cells/python-net/sv/aspose.cells/jsonloadoptions)

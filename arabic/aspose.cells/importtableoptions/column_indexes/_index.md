@@ -1,5 +1,5 @@
 ---
-title: column_indexes الملكية
+title: column_indexes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/importtableoptions/column_indexes/
 is_root: false
 ---
-##  column_indexes الملكية
+##  column_indexes عقار
 
-الحصول على أو تعيين الأعمدة (المستندة إلى 0) للاستيراد من مصدر البيانات. فارغ يعني أنه يجب استيراد جميع الأعمدة.
+يحصل على الأعمدة (المبنية على 0) التي سيتم استيرادها من مصدر البيانات أو يعينها. null يعني أنه يجب استيراد جميع الأعمدة.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def column_indexes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ImportTableOptions](/cells/python-net/ar/aspose.cells/importtableoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ImportTableOptions`](/cells/python-net/ar/aspose.cells/importtableoptions)

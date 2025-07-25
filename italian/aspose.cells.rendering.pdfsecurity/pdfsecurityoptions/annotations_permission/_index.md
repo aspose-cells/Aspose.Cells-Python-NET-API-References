@@ -1,6 +1,6 @@
 ---
 title: annotations_permission proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  annotations_permission proprietà
 
-Indica se consentire di aggiungere o modificare annotazioni di testo, compilare campi del modulo interattivo.
+Indica se consentire l'aggiunta o la modifica di annotazioni di testo e la compilazione di campi di moduli interattivi.
 
 ###  Osservazioni
 
-se è impostato anche [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), creare o modificare i campi del modulo interattivo (compresi i campi firma).
+se è impostato anche [`PdfSecurityOptions.modify_document_permission`](/cells/python-net/it/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#modify_document_permission), crea o modifica i campi del modulo interattivo (inclusi i campi della firma).
 ###  Definizione:
 ```python
 @property

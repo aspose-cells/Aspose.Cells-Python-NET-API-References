@@ -3,13 +3,13 @@ title: soft_edges fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 900
+weight: 910
 url: /sv/aspose.cells.drawing/chartshape/soft_edges/
 is_root: false
 ---
 ##  soft_edges fastighet
 
-Hämtar och ställer in oskärmens radie som ska appliceras på kanterna, i punktenhet.
+Hämtar och ställer in oskärpa-radien som ska tillämpas på kanterna, i punktenheter.
 
 ###  Exempel
 

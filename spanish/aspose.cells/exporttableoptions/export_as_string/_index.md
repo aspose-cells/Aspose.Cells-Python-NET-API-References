@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_string propiedad
 
-Exporta el valor de cadena de las celdas al DataTable.
+Exporta el valor de la cadena de las celdas a la DataTable.
 ###  Definición:
 ```python
 @property

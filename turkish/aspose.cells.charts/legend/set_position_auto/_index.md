@@ -7,12 +7,13 @@ weight: 40
 url: /tr/aspose.cells.charts/legend/set_position_auto/
 is_root: false
 ---
-##  set_position_auto {#}
-Çerçevenin konumunu otomatik olarak ayarla
+##  set_position_auto(self) {#}
+Çerçevenin konumunu otomatik olarak ayarlayın
 
 
 
 ```python
+
 def set_position_auto(self):
     ...
 ```

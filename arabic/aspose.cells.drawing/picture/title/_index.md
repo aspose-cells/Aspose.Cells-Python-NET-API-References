@@ -3,13 +3,13 @@ title: title عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1240
+weight: 1260
 url: /ar/aspose.cells.drawing/picture/title/
 is_root: false
 ---
 ##  title عقار
 
-يحدد title (تسمية توضيحية) لكائن الشكل الحالي.
+يحدد title (التسمية التوضيحية) لكائن الشكل الحالي.
 
 ###  مثال
 

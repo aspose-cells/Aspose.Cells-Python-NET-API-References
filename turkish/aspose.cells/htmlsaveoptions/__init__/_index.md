@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells/htmlsaveoptions/__init__/
 is_root: false
 ---
-##  HtmlSaveOptions() {#}
-Html dosyasını kaydetmek için seçenekler oluşturur.
+##  \_\_init\_\_(kendi){#}
+Html dosyasını kaydetmeye yönelik seçenekler oluşturur.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,23 +21,24 @@ def __init__(self):
 
 
 
-##  HtmlSaveOptions(format) {#SaveFormat}
-Htm dosyasını kaydetmek için seçenekler oluşturur.
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+Htm dosyasını kaydetmeye yönelik seçenekler oluşturur.
 
 
 
 ```python
-def __init__(self, format):
+
+def __init__(self, save_format):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| format | [SaveFormat](/cells/python-net/tr/aspose.cells/saveformat) | Kaydetme dosyası formatı.|
+| save_format | [`SaveFormat`](/cells/python-net/tr/aspose.cells/saveformat) | Dosya formatı.<br/>Aşağıdaki türlerden biri olmalıdır: [`SaveFormat.HTML`](/cells/python-net/tr/aspose.cells/saveformat#HTML) veya [`SaveFormat.M_HTML`](/cells/python-net/tr/aspose.cells/saveformat#M_HTML),<br/> Aksi takdirde kaydedilen format otomatik olarak [`SaveFormat.HTML`](/cells/python-net/tr/aspose.cells/saveformat#HTML) olarak ayarlanacaktır.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlSaveOptions](/cells/python-net/tr/aspose.cells/htmlsaveoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlSaveOptions`](/cells/python-net/tr/aspose.cells/htmlsaveoptions)

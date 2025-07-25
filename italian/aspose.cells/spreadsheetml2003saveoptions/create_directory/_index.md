@@ -1,15 +1,15 @@
 ---
 title: create_directory proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells/spreadsheetml2003saveoptions/create_directory/
 is_root: false
 ---
 ##  create_directory proprietà
 
-Se true e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
+Se è vero e la directory non esiste, la directory verrà creata automaticamente prima di salvare il file.
 
 ###  Osservazioni
 
@@ -25,5 +25,5 @@ def create_directory(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [SpreadsheetML2003SaveOptions](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)
+* modulo [`aspose.cells`](../../)
+* classe [`SpreadsheetML2003SaveOptions`](/cells/python-net/it/aspose.cells/spreadsheetml2003saveoptions)

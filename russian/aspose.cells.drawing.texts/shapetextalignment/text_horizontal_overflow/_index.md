@@ -1,15 +1,15 @@
 ---
 title: text_horizontal_overflow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 120
+weight: 130
 url: /ru/aspose.cells.drawing.texts/shapetextalignment/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow недвижимость
 
-Получает и задает тип горизонтального переполнения текста для текстового поля.
+Получает и задает тип горизонтального переполнения текста текстового поля.
 
 ###  Пример
 
@@ -30,6 +30,6 @@ def text_horizontal_overflow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](../../)
-* класс [ShapeTextAlignment](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
-* класс [TextOverflowType](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)
+* модуль [`aspose.cells.drawing.texts`](../../)
+* класс [`ShapeTextAlignment`](/cells/python-net/ru/aspose.cells.drawing.texts/shapetextalignment)
+* класс [`TextOverflowType`](/cells/python-net/ru/aspose.cells.drawing/textoverflowtype)

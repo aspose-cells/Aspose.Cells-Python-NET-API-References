@@ -3,7 +3,7 @@ title: max mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 830
+weight: 840
 url: /tr/aspose.cells.drawing/scrollbar/max/
 is_root: false
 ---

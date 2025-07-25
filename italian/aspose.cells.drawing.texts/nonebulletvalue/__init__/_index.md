@@ -1,18 +1,19 @@
 ---
 title: NoneBulletValue costruttore
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 10
 url: /it/aspose.cells.drawing.texts/nonebulletvalue/__init__/
 is_root: false
 ---
-##  NoneBulletValue() {#}
+##  \_\_init\_\_(self){#}
 Costruisce una nuova istanza di NoneBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](../../)
-* classe [NoneBulletValue](/cells/python-net/it/aspose.cells.drawing.texts/nonebulletvalue)
+* modulo [`aspose.cells.drawing.texts`](../../)
+* classe [`NoneBulletValue`](/cells/python-net/it/aspose.cells.drawing.texts/nonebulletvalue)

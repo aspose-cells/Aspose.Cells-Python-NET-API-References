@@ -3,13 +3,13 @@ title: text_vertical_overflow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /de/aspose.cells.drawing/spinner/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow Eigentum
 
-Ruft den vertikalen Textüberlauftyp der Form ab, die Text enthält, und legt diesen fest.
+Ruft den vertikalen Textüberlauftyp der Form ab, die Text enthält, und legt ihn fest.
 
 ###  Beispiel
 

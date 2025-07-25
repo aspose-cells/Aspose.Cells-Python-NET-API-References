@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bar_border fastighet
 
-Hämtar ett objekt som anger gränsen för ett datafält.
+Hämtar ett objekt som anger kanten för en datastapel.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def bar_border(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataBar](/cells/python-net/sv/aspose.cells/databar)
-* klass [DataBarBorder](/cells/python-net/sv/aspose.cells/databarborder)
+* modul [`aspose.cells`](../../)
+* klass [`DataBar`](/cells/python-net/sv/aspose.cells/databar)
+* klass [`DataBarBorder`](/cells/python-net/sv/aspose.cells/databarborder)

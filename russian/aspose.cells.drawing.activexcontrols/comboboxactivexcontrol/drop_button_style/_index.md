@@ -1,6 +1,6 @@
 ---
 title: drop_button_style недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_button_style недвижимость
 
-Указывает символ, отображаемый на кнопке раскрывающегося списка.
+Задает символ, отображаемый на кнопке сброса.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def drop_button_style(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* класс [DropButtonStyle](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/dropbuttonstyle)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* класс [`DropButtonStyle`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/dropbuttonstyle)

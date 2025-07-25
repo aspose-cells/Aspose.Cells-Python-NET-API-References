@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.charts/chartglobalizationsettings/get_axis_title_name/
 is_root: false
 ---
-##  get_axis_title_name() {#}
-Ruft den Namen des Titels für die Achse ab.
+##  get_axis_title_name(self) {#}
+Ruft den Titelnamen für die Achse ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft den Namen des Titels für die Achse ab.
 
 
 ```python
+
 def get_axis_title_name(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_axis_title_name(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartGlobalizationSettings](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartGlobalizationSettings`](/cells/python-net/de/aspose.cells.charts/chartglobalizationsettings)

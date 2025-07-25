@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells/loadoptions/__init__/
 is_root: false
 ---
-##  LoadOptions() {#}
-Crea una opción de cargar el archivo.
+##  \_\_init\_\_(yo mismo){#}
+Crea una opción para cargar el archivo.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  LoadOptions(load_format) {#LoadFormat}
-Crea una opción de cargar el archivo.
+##  \_\_init\_\_(self, formato_de_carga){#aspose.cells.LoadFormat}
+Crea una opción para cargar el archivo.
 
 
 
 ```python
+
 def __init__(self, load_format):
     ...
 ```
@@ -33,10 +35,10 @@ def __init__(self, load_format):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| load_format | [LoadFormat](/cells/python-net/es/aspose.cells/loadformat) | El formato de carga.|
+| load_format | [`LoadFormat`](/cells/python-net/es/aspose.cells/loadformat) | El formato de carga.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [LoadOptions](/cells/python-net/es/aspose.cells/loadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`LoadOptions`](/cells/python-net/es/aspose.cells/loadoptions)

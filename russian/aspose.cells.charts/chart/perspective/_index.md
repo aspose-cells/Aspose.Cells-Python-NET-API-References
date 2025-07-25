@@ -1,6 +1,6 @@
 ---
 title: perspective недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 410
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  perspective недвижимость
 
-Возвращает или задает perspective для представления трехмерной диаграммы. Должно быть от 0 до 100.
+Возвращает или задаёт значение perspective для трёхмерного представления диаграммы. Должно быть в диапазоне от 0 до 100.
 Это свойство игнорируется, если свойство RightAngleAxes имеет значение True.
 ###  Определение:
 ```python

@@ -3,13 +3,13 @@ title: formula_local عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 510
 url: /ar/aspose.cells/cell/formula_local/
 is_root: false
 ---
 ##  formula_local عقار
 
-احصل على الصيغة المنسقة للخلية.
+احصل على صيغة تنسيق اللغة المحلية للخلية.
 ###  تعريف:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: end_row الملكية
+title: end_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/verticalpagebreak/end_row/
 is_root: false
 ---
-##  end_row الملكية
+##  end_row عقار
 
-الحصول على فهرس صف نهاية فاصل الصفحات الرأسي.
+يحصل على مؤشر الصف النهائي لكسر الصفحة الرأسي.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [VerticalPageBreak](/cells/python-net/ar/aspose.cells/verticalpagebreak)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`VerticalPageBreak`](/cells/python-net/ar/aspose.cells/verticalpagebreak)

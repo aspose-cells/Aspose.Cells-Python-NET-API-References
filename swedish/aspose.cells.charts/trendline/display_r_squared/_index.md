@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_r_squared fastighet
 
-Representerar om trendlinjens R-kvadratvärde visas i diagrammet (i samma dataetikett som ekvationen). Om du ställer in den här egenskapen till True aktiveras dataetiketter automatiskt.
+Representerar om trendlinjens R-kvadratvärde visas i diagrammet (i samma dataetikett som ekvationen). Om den här egenskapen ställs in på Sant aktiveras dataetiketter automatiskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def display_r_squared(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [DataSorterKey](/cells/python-net/tr/aspose.cells/datasorterkey)
-* sınıf [SortOnType](/cells/python-net/tr/aspose.cells/sortontype)
+* modül [`aspose.cells`](../../)
+* sınıf [`DataSorterKey`](/cells/python-net/tr/aspose.cells/datasorterkey)
+* sınıf [`SortOnType`](/cells/python-net/tr/aspose.cells/sortontype)

@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/legendpositiontype/
 is_root: false
 ---
 ##  LegendPositionType uppräkning
-Räknar upp förklaringspositionstyperna.
+Räknar upp positionstyperna för förklaringen.
 
 
 
@@ -17,14 +17,14 @@ Typen LegendPositionType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| BOTTOM | Visar förklaringen längst ned i diagrammets plotområde.|
-| CORNER | Visar förklaringen till hörnet av diagrammets plotområde.|
-| LEFT | Visar förklaringen till vänster om diagrammets plotområde.|
-| NOT_DOCKED |Anger att legenden inte är dockad.|
-| RIGHT | Visar förklaringen till höger om diagrammets plotområde.|
-| TOP | Visar förklaringen till toppen av diagrammets plotområde.|
+| BOTTOM | Visar förklaringen längst ner i diagrammets plottområde.|
+| CORNER | Visar förklaringen i hörnet av diagrammets plottområde.|
+| LEFT | Visar förklaringen till vänster om diagrammets plottområde.|
+| NOT_DOCKED | Representerar att förklaringen inte är dockad.|
+| RIGHT | Visar förklaringen till höger om diagrammets plottområde.|
+| TOP | Visar förklaringen högst upp i diagrammets plottområde.|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](..)
+* modul [`aspose.cells.charts`](..)

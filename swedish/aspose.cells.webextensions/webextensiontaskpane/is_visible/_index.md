@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible fastighet
 
-Anger om aktivitetsfönstret visas som standard när dokumentet öppnas.
+Anger om åtgärdsfönstret visas som synligt som standard när dokumentet öppnas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

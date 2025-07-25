@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  new_formula fastighet
 
-Får formeln.
+Hämtar formeln.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def new_formula(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.revisions](../../)
-* klass [RevisionDefinedName](/cells/python-net/sv/aspose.cells.revisions/revisiondefinedname)
+* modul [`aspose.cells.revisions`](../../)
+* klass [`RevisionDefinedName`](/cells/python-net/sv/aspose.cells.revisions/revisiondefinedname)

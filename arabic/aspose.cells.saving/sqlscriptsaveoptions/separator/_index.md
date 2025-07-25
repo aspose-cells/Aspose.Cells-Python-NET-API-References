@@ -1,19 +1,19 @@
 ---
-title: separator الملكية
+title: separator عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 200
+weight: 220
 url: /ar/aspose.cells.saving/sqlscriptsaveoptions/separator/
 is_root: false
 ---
-##  separator الملكية
+##  separator عقار
 
-الحصول على وتعيين الحرف separator من برنامج SQL النصي.
+يحصل على الحرف separator من البرنامج النصي sql ويقوم بتعيينه.
 
 ###  ملاحظات
 
-يمكن فقط أن يكون "" أو "\ n".
+لا يمكن أن يكون إلا ' ' أو '\n'.
 إذا كان
 ###  تعريف:
 ```python
@@ -26,5 +26,5 @@ def separator(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptSaveOptions](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptSaveOptions`](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)

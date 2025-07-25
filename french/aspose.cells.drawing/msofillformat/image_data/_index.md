@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_data propriété
 
-Obtient et définit les données de remplissage Texture et Image.
+Obtient et définit les données de remplissage de texture et d'image.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def image_data(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoFillFormat](/cells/python-net/fr/aspose.cells.drawing/msofillformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoFillFormat`](/cells/python-net/fr/aspose.cells.drawing/msofillformat)

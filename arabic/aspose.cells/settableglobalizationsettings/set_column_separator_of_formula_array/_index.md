@@ -7,12 +7,13 @@ weight: 300
 url: /ar/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/
 is_root: false
 ---
-##  set_column_separator_of_formula_array {#char}
-يضبط الفاصل للعناصر الموجودة في بيانات صف الصفيف في الصيغة.
+##  set_column_separator_of_formula_array(self, c) {#char}
+تعيين الفاصل للعناصر الموجودة في بيانات صف المصفوفة في الصيغة.
 
 
 
 ```python
+
 def set_column_separator_of_formula_array(self, c):
     ...
 ```

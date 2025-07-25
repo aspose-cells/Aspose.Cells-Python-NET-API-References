@@ -18,5 +18,5 @@ def areas(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionFormat](/cells/python-net/de/aspose.cells.revisions/revisionformat)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionFormat`](/cells/python-net/de/aspose.cells.revisions/revisionformat)

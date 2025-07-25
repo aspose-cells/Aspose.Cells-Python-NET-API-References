@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  min_value fastighet
 
-Får min-värdet.
+Hämtar minimivärdet.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def min_value(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DateTimeGroupItem](/cells/python-net/sv/aspose.cells/datetimegroupitem)
+* modul [`aspose.cells`](../../)
+* klass [`DateTimeGroupItem`](/cells/python-net/sv/aspose.cells/datetimegroupitem)

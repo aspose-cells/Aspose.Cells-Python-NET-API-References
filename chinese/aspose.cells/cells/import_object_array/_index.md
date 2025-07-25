@@ -3,16 +3,17 @@ title: import_object_array方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 660
+weight: 680
 url: /zh/aspose.cells/cells/import_object_array/
 is_root: false
 ---
-##  import_object_array {#list-int-int-bool}
-将数据数组导入到工作表中。
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical) {#list-int-int-bool}
+将数据数组导入工作表。
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical):
     ...
 ```
@@ -26,12 +27,13 @@ def import_object_array(self, obj_array, first_row, first_column, is_vertical):
 | is_vertical | bool |指定垂直或水平导入数据。|
 
 
-##  import_object_array {#list-int-int-bool-int}
-将数据数组导入到工作表中。
+##  import_object_array(self, obj_array, first_row, first_column, is_vertical, skip) {#list-int-int-bool-int}
+将数据数组导入工作表。
 
 
 
 ```python
+
 def import_object_array(self, obj_array, first_row, first_column, is_vertical, skip):
     ...
 ```

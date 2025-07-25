@@ -3,23 +3,23 @@ title: default_font_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 90
+weight: 110
 url: /fr/aspose.cells/fontconfigs/default_font_name/
 is_root: false
 ---
 ##  default_font_name propriété
 
-Obtient ou définit le nom de la police par défaut.
+Obtient ou définit le nom de police par défaut.
 ###  Définition:
 ```python
 @property
 def default_font_name(self):
     ...
-@default_font_name.setter
-def default_font_name(self, value):
+@staticmethod
+def set_default_font_name(value):
     ...
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FontConfigs](/cells/python-net/fr/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* classe [`FontConfigs`](/cells/python-net/fr/aspose.cells/fontconfigs)

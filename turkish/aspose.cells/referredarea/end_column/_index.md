@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_column mülk
 
-Alanın bitiş sütunu.
+Alanın son sütunu.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ReferredArea](/cells/python-net/tr/aspose.cells/referredarea)
+* modül [`aspose.cells`](../../)
+* sınıf [`ReferredArea`](/cells/python-net/tr/aspose.cells/referredarea)

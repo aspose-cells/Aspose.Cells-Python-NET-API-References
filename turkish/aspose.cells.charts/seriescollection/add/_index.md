@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
-##  add {#str-bool}
+##  add(self, area, is_vertical) {#str-bool}
 [`Series`](/cells/python-net/tr/aspose.cells.charts/series) koleksiyonunu bir grafiğe ekler.
 
 
 ###  İadeler
 
-NSeries'e eklenen ASeries'in ilk dizinini döndürün.
+NSeries'e eklenen ASeries'in ilk indeksini döndürür.
 
 
 ```python
+
 def add(self, area, is_vertical):
     ...
 ```
@@ -25,22 +26,23 @@ def add(self, area, is_vertical):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | area | str | Veri serisinin çizileceği değerleri belirtir|
-| is_vertical | bool |Bir dizi hücre değeri aralığındaki serinin satıra göre mi yoksa sütuna göre mi çizileceğini belirtir.|
+| is_vertical | bool | Hücre değerleri aralığındaki serinin satır bazında mı yoksa sütun bazında mı çizileceğini belirtir.|
 ###  Notlar
 
 
 
-##  add {#str-bool-bool}
+##  add(self, area, is_vertical, check_labels) {#str-bool-bool}
 
 [`Series`](/cells/python-net/tr/aspose.cells.charts/series) koleksiyonunu bir grafiğe ekler.
 
 
 ###  İadeler
 
-NSeries'e eklenen ASeries'in ilk dizinini döndürün.
+NSeries'e eklenen ASeries'in ilk indeksini döndürür.
 
 
 ```python
+
 def add(self, area, is_vertical, check_labels):
     ...
 ```
@@ -49,7 +51,7 @@ def add(self, area, is_vertical, check_labels):
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
 | area | str | Veri serisinin çizileceği değerleri belirtir|
-| is_vertical | bool |Bir dizi hücre değeri aralığındaki serinin satıra göre mi yoksa sütuna göre mi çizileceğini belirtir.|
+| is_vertical | bool | Hücre değerleri aralığındaki serinin satır bazında mı yoksa sütun bazında mı çizileceğini belirtir.|
 | check_labels | bool | Aralığın serinin adını içerip içermediğini belirtir|
 ###  Notlar
 

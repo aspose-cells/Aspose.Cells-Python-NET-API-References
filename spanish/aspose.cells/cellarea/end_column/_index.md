@@ -10,7 +10,11 @@ is_root: false
 ##  end_column propiedad
 
 Obtiene o establece la columna final de esta área.
+###  Definición:
+```python
+f end_column 
+```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [CellArea](/cells/python-net/es/aspose.cells/cellarea)
+* módulo [`aspose.cells`](../../)
+* clase [`CellArea`](/cells/python-net/es/aspose.cells/cellarea)

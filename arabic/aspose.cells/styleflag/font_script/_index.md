@@ -1,5 +1,5 @@
 ---
-title: font_script الملكية
+title: font_script عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 150
 url: /ar/aspose.cells/styleflag/font_script/
 is_root: false
 ---
-##  font_script الملكية
+##  font_script عقار
 
-سيتم تطبيق إعداد البرنامج النصي للخط.
+سيتم تطبيق إعداد نص الخط.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_script(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

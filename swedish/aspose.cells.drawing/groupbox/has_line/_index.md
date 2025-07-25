@@ -3,13 +3,13 @@ title: has_line fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 410
 url: /sv/aspose.cells.drawing/groupbox/has_line/
 is_root: false
 ---
 ##  has_line fastighet
 
-Hämtar och ställer in linjekanten för formen är synlig.
+Hämtar och ställer in att linjekanten för formen är synlig.
 
 ###  Exempel
 

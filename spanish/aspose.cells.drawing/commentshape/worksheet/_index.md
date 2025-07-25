@@ -3,7 +3,7 @@ title: worksheet propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1230
+weight: 1240
 url: /es/aspose.cells.drawing/commentshape/worksheet/
 is_root: false
 ---

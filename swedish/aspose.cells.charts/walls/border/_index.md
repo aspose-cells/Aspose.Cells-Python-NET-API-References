@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  border fastighet
 
-Hämtar eller ställer in border [Line](/cells/python-net/sv/aspose.cells.drawing/line).
+Hämtar eller ställer in border [`Line`](/cells/python-net/sv/aspose.cells.drawing/line).
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def border(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [Walls](/cells/python-net/sv/aspose.cells.charts/walls)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`Walls`](/cells/python-net/sv/aspose.cells.charts/walls)

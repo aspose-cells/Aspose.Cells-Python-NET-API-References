@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_input fastighet
 
-Indikerar om inmatningsmeddelandet för datavalidering kommer att visas när användaren väljer en cell i datavalideringsintervallet.
+Anger om meddelandet för datavalidering ska visas när användaren väljer en cell i datavalideringsområdet.
 ###  Definition:
 ```python
 @property

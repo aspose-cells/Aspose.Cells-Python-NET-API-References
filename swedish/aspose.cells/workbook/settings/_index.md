@@ -3,7 +3,7 @@ title: settings fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 650
+weight: 680
 url: /sv/aspose.cells/workbook/settings/
 is_root: false
 ---

@@ -1,14 +1,14 @@
 ---
 title: CustomImplementationFactory класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 380
 url: /ru/aspose.cells/customimplementationfactory/
 is_root: false
 ---
 ##  CustomImplementationFactory класс
-Factory для создания некоторых экземпляров, которые могут быть повторно реализованы пользователем для специальных целей.
+Фабрика для создания некоторых экземпляров, которые могут быть повторно реализованы пользователем для специальных целей.
 
 
 
@@ -17,7 +17,7 @@ Factory для создания некоторых экземпляров, ко�
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/customimplementationfactory/__init__/#) | Создает новый экземпляр CustomImplementationFactory.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells/customimplementationfactory/__init__/#) | Создает новый экземпляр CustomImplementationFactory|
 
 
 

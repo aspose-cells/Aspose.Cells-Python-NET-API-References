@@ -3,16 +3,17 @@ title: hide_item_detail yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 170
 url: /tr/aspose.cells.pivot/pivotfield/hide_item_detail/
 is_root: false
 ---
-##  hide_item_detail {#int-bool}
-Bir pivot alanındaki belirli PivotItem'in gizli ayrıntı olup olmadığını ayarlar.
+##  hide_item_detail(self, index, is_hidden_detail) {#int-bool}
+Pivot alanındaki belirli PivotItem'ın gizli ayrıntı olup olmadığını ayarlar.
 
 
 
 ```python
+
 def hide_item_detail(self, index, is_hidden_detail):
     ...
 ```
@@ -20,8 +21,8 @@ def hide_item_detail(self, index, is_hidden_detail):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | pivotField'daki pivotItem dizini.|
-| is_hidden_detail | bool | belirli PivotItem'in gizli olup olmadığı|
+| index | int | pivotField'daki pivotItem'ın indeksi.|
+| is_hidden_detail | bool | belirli PivotItem'ın gizli olup olmadığı|
 
 
 

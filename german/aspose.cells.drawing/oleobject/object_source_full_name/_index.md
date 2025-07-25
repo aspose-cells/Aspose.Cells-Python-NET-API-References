@@ -3,7 +3,7 @@ title: object_source_full_name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 970
+weight: 980
 url: /de/aspose.cells.drawing/oleobject/object_source_full_name/
 is_root: false
 ---
@@ -13,8 +13,8 @@ Gibt den vollständigen Quellnamen der Quelldatei für das verknüpfte OLE-Objek
 
 ###  Bemerkungen
 
-Unterstützt nur das Festlegen des vollständigen Quellnamens, wenn der Dateityp OleFileType.Unknown ist.
-Wie WAV-Datei, AVI-Datei usw.
+Unterstützt das Festlegen des vollständigen Quellnamens nur, wenn der Dateityp OleFileType.Unknown ist.
+Wie z. B. WAV-Dateien, AVI-Dateien usw.
 ###  Definition:
 ```python
 @property

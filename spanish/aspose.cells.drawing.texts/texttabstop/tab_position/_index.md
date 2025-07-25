@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tab_position propiedad
 
-Especifica la posición de la tabulación relativa al margen izquierdo.
+Especifica la posición de la tabulación con respecto al margen izquierdo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def tab_position(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.texts](../../)
-* clase [TextTabStop](/cells/python-net/es/aspose.cells.drawing.texts/texttabstop)
+* módulo [`aspose.cells.drawing.texts`](../../)
+* clase [`TextTabStop`](/cells/python-net/es/aspose.cells.drawing.texts/texttabstop)

@@ -1,6 +1,6 @@
 ---
 title: allow_using_pivot_table недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_using_pivot_table недвижимость
 
-Указывает, разрешено ли пользователю управлять сводными таблицами на защищенном листе.
+Указывает, разрешено ли пользователю манипулировать сводными таблицами на защищенном листе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_using_pivot_table(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

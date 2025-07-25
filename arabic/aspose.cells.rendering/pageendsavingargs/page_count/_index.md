@@ -1,5 +1,5 @@
 ---
-title: page_count الملكية
+title: page_count عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells.rendering/pageendsavingargs/page_count/
 is_root: false
 ---
-##  page_count الملكية
+##  page_count عقار
 
 إجمالي عدد الصفحات.
 ###  تعريف:
@@ -18,5 +18,5 @@ def page_count(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PageEndSavingArgs](/cells/python-net/ar/aspose.cells.rendering/pageendsavingargs)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PageEndSavingArgs`](/cells/python-net/ar/aspose.cells.rendering/pageendsavingargs)

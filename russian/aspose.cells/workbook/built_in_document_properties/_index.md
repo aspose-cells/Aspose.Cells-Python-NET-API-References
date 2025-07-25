@@ -1,9 +1,9 @@
 ---
 title: built_in_document_properties недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 450
+weight: 470
 url: /ru/aspose.cells/workbook/built_in_document_properties/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Новое свойство невозможно добавить в список встроенных свойств документа. Вы можете только получить встроенное свойство и изменить его значение.
+Добавить новое свойство в список встроенных свойств документа невозможно. Можно только получить встроенное свойство и изменить его значение.
 Ниже приведен список имен встроенных свойств:
 
 Заголовок
@@ -37,7 +37,7 @@ is_root: false
 Последний автор
 
 
-Номер ревизии
+Номер редакции
 
 
 Имя приложения
@@ -58,7 +58,7 @@ is_root: false
 Количество страниц
 
 
-Число слов
+Количество слов
 
 
 Количество символов
@@ -98,6 +98,17 @@ is_root: false
 
 
 Количество мультимедийных клипов
+
+###  Пример
+
+```python
+from aspose.cells import Workbook
+
+workbook = Workbook()
+doc = workbook.built_in_document_properties.get("Author")
+doc.value = "John Smith"
+
+```
 ###  Определение:
 ```python
 @property

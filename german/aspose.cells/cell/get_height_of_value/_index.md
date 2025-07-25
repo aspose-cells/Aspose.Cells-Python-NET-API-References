@@ -7,7 +7,7 @@ weight: 140
 url: /de/aspose.cells/cell/get_height_of_value/
 is_root: false
 ---
-##  get_height_of_value() {#}
+##  get_height_of_value(self) {#}
 Ruft die Höhe des Werts in Pixeln ab.
 
 
@@ -17,6 +17,7 @@ Ruft die Höhe des Werts in Pixeln ab.
 
 
 ```python
+
 def get_height_of_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_height_of_value(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cell](/cells/python-net/de/aspose.cells/cell)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cell`](/cells/python-net/de/aspose.cells/cell)

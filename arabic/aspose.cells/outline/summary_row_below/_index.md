@@ -1,5 +1,5 @@
 ---
-title: summary_row_below الملكية
+title: summary_row_below عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 40
 url: /ar/aspose.cells/outline/summary_row_below/
 is_root: false
 ---
-##  summary_row_below الملكية
+##  summary_row_below عقار
 
 يشير إلى ما إذا كان سيتم وضع صف الملخص أسفل صفوف التفاصيل في المخطط التفصيلي.
 ###  تعريف:
@@ -21,5 +21,5 @@ def summary_row_below(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Outline](/cells/python-net/ar/aspose.cells/outline)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Outline`](/cells/python-net/ar/aspose.cells/outline)

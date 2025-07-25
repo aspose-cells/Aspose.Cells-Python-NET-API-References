@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  preserve_padding_spaces fastighet
 
-Anger om de mellanslag och radbrytningar som är utfyllda mellan formeltokens bevaras
-samtidigt som du hämtar och ställer in formler.
+Anger om de mellanslag och radbrytningar som fylls ut mellan formeltokens ska bevaras
+medan man hämtar och ställer in formler.
 Standardvärdet är falskt.
 
 ###  Anmärkningar
 
-I allmänhet är dessa mellanslag och radbrytningar bara för visuella ändamål,
+Generellt sett är dessa mellanslag och radbrytningar bara för visuella ändamål,
 Att bevara dem eller inte påverkar inte det beräknade resultatet.
-Av prestationsskäl, om det inte finns några särskilda krav,
-det är bättre att inte bevara dem när du bearbetar formler.
+För prestandabedömning, om det inte finns några särskilda krav,
+Det är bättre att inte bevara dem medan man bearbetar formler.
 ###  Definition:
 ```python
 @property

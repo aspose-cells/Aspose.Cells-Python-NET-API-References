@@ -1,9 +1,9 @@
 ---
 title: attached_files_directory недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells.saving/ebooksaveoptions/attached_files_directory/
 is_root: false
 ---

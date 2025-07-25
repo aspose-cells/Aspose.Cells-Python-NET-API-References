@@ -3,17 +3,17 @@ title: calculate_formula Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 70
+weight: 80
 url: /de/aspose.cells.saving/ebooksaveoptions/calculate_formula/
 is_root: false
 ---
 ##  calculate_formula Eigentum
 
-Gibt an, ob Formeln berechnet werden sollen, bevor die HTML-Datei gespeichert wird.
+Gibt an, ob Formeln vor dem Speichern der HTML-Datei berechnet werden sollen.
 
 ###  Bemerkungen
 
-Der Standardwert ist false.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

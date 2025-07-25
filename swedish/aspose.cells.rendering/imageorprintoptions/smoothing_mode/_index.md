@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  smoothing_mode fastighet
 
-Anger om utjämning (kantutjämning) tillämpas på linjer och kurvor och kanterna på fyllda områden.
+Anger om utjämning (antialiasing) tillämpas på linjer och kurvor samt kanterna på fyllda områden.
 Standardvärdet är SmoothingMode.None
 ###  Definition:
 ```python

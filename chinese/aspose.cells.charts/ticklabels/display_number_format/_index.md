@@ -9,7 +9,7 @@ is_root: false
 ---
 ## display_number_format属性
 
-获取和设置刻度标签的显示数字格式。
+获取并设置刻度标签的显示数字格式。
 ### 定义：
 ```python
 @property

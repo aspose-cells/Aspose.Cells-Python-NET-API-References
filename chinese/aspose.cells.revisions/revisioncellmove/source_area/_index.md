@@ -1,13 +1,13 @@
 ---
-title: source_area 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: source_area属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.revisions/revisioncellmove/source_area/
 is_root: false
 ---
-## source_area 属性
+## source_area属性
 
 获取源区域。
 ### 定义：
@@ -18,6 +18,6 @@ def source_area(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [CellArea](/cells/python-net/zh/aspose.cells/cellarea)
-* 类 [RevisionCellMove](/cells/python-net/zh/aspose.cells.revisions/revisioncellmove)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea)
+* 类 [`RevisionCellMove`](/cells/python-net/zh/aspose.cells.revisions/revisioncellmove)

@@ -7,16 +7,17 @@ weight: 30
 url: /ar/aspose.cells.properties/custompropertycollection/binary_search/
 is_root: false
 ---
-##  binary_search(item) {#CustomProperty}
-يبحث في قائمة الصفيف التي تم فرزها بالكامل عن عنصر باستخدام المقارنة الافتراضية ويعيد فهرس العنصر على أساس الصفر.
+##  binary_search(self, item) {#aspose.cells.properties.CustomProperty}
+يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.
 
 
 ###  عائدات
 
-فهرس القيمة الصفري في قائمة الصفيف التي تم فرزها ، إذا تم العثور على العنصر ؛ خلاف ذلك ، رقم سالب ، وهو تكملة البتات لفهرس العنصر التالي الأكبر من القيمة ، أو إذا لم يكن هناك عنصر أكبر ، فإن تكملة البت لقائمة الصفيف العدد.
+مؤشر القيمة المبدئي من الصفر في قائمة المصفوفة المفرزة، إذا تم العثور على العنصر؛ وإلا، فهو رقم سلبي، وهو المكمل البتّي لمؤشر العنصر التالي الأكبر من القيمة أو، إذا لم يكن هناك عنصر أكبر، المكمل البتّي لقائمة المصفوفة Count.
 
 
 ```python
+
 def binary_search(self, item):
     ...
 ```
@@ -24,10 +25,10 @@ def binary_search(self, item):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| item | [CustomProperty](/cells/python-net/ar/aspose.cells.properties/customproperty) | System.Object لتحديد موقع. يمكن أن تكون القيمة فارغة.|
+| item | [`CustomProperty`](/cells/python-net/ar/aspose.cells.properties/customproperty) | كائن النظام المطلوب تحديد موقعه. يمكن أن تكون القيمة فارغة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [CustomPropertyCollection](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`CustomPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/custompropertycollection)

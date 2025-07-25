@@ -1,5 +1,5 @@
 ---
-title: weight_px الملكية
+title: weight_px عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 300
 url: /ar/aspose.cells.charts/errorbar/weight_px/
 is_root: false
 ---
-##  weight_px الملكية
+##  weight_px عقار
 
-الحصول على أو تحديد وزن الخط بوحدة البكسل.
+يحصل على أو يضبط وزن الخط بوحدة البكسل.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def weight_px(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)

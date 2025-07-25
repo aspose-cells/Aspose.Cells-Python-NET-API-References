@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/chart/calculate/
 is_root: false
 ---
-##  calculate {#}
-Berechnet die benutzerdefinierte Position des Plotbereichs und der Achsen, wenn deren Position automatisch zugewiesen wurde.
+##  calculate(self) {#}
+Berechnet die benutzerdefinierte Position des Plotbereichs und der Achsen, wenn deren Position automatisch zugewiesen wird.
 
 
 
 ```python
+
 def calculate(self):
     ...
 ```
@@ -20,12 +21,13 @@ def calculate(self):
 
 
 
-##  calculate {#aspose.cells.charts.ChartCalculateOptions}
-Berechnet die benutzerdefinierte Position des Plotbereichs und der Achsen, wenn deren Position automatisch zugewiesen wurde, mit den Diagrammberechnungsoptionen.
+##  calculate(self, calculate_options) {#aspose.cells.charts.ChartCalculateOptions}
+Berechnet die benutzerdefinierte Position des Zeichnungsbereichs und der Achsen, wenn deren Position automatisch zugewiesen wird, mit den Diagrammberechnungsoptionen.
 
 
 
 ```python
+
 def calculate(self, calculate_options):
     ...
 ```

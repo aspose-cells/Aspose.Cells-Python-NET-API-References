@@ -13,15 +13,15 @@ value hücresini alır/ayarlar.
 
 ###  Notlar
 
-value, [`CellValue.type`](/cells/python-net/tr/aspose.cells/cellvalue#type)'e karşılık gelen doğru nesne türünde olmalıdır:
+value, [`CellValue.type`](/cells/python-net/tr/aspose.cells/cellvalue#type)'e karşılık gelen doğru nesne türünden olmalıdır:
 | Tip| Değer|
 | :- | :- |
-| null, diğer nesneler göz ardı edilecek|
+| null, diğer tüm nesneler göz ardı edilecektir|
 | double |
-| TarihSaat|
+| Tarih/Saat|
 | sicim|
 | bool|
-| "#DEĞER!", "#AD?" gibi hata dizesi, ...|
+| "#DEĞER!", "#AD?", ... gibi hata dizeleri|
 ###  Tanım:
 ```python
 @property

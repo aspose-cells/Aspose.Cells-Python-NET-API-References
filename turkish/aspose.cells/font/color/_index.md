@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color mülk
 
-Yazı tipinin Rengini alır veya ayarlar.
+Yazı tipinin rengini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Font](/cells/python-net/tr/aspose.cells/font)
+* modül [`aspose.cells`](../../)
+* sınıf [`Font`](/cells/python-net/tr/aspose.cells/font)

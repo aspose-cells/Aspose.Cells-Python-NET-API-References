@@ -1,6 +1,6 @@
 ---
 title: is_auto_tab недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 170
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_tab недвижимость
 
-Указывает, будет ли фокус автоматически перемещаться на следующий элемент управления, когда пользователь вводит максимальное количество символов.
+Указывает, будет ли фокус автоматически перемещен на следующий элемент управления, когда пользователь введет максимальное количество символов.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_tab(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [TextBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`TextBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

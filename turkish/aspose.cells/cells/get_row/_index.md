@@ -3,20 +3,21 @@ title: get_row yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 480
 url: /tr/aspose.cells/cells/get_row/
 is_root: false
 ---
-##  get_row {#int}
-Belirtilen hücre satır dizinindeki [`Row`](/cells/python-net/tr/aspose.cells/row) öğesini alır.
+##  get_row(self, row) {#int}
+Belirtilen hücre satırı dizinindeki [`Row`](/cells/python-net/tr/aspose.cells/row) öğesini alır.
 
 
 ###  İadeler
 
-Satır nesnesi mevcutsa, Row nesnesini döndürün, aksi halde null değerini döndürün.
+Eğer satır nesnesi mevcutsa Satır nesnesini döndür, aksi takdirde null döndür.
 
 
 ```python
+
 def get_row(self, row):
     ...
 ```
@@ -27,10 +28,10 @@ def get_row(self, row):
 | row | int | Satır dizini|
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen Cells.CheckRow(int row) yöntemini kullanın.
- Bu yöntem Şubat 2024'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen Cells.CheckRow(int row) metodunu kullanın.
+ Bu yöntem 12 ay sonra, Şubat 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
-##  add(row, column, value) {#int-int-str}
+##  add(self, row, column, value) {#int-int-str}
 Fügt eine Eingabezelle hinzu.
 
 
@@ -17,6 +17,7 @@ Fügt eine Eingabezelle hinzu.
 
 
 ```python
+
 def add(self, row, column, value):
     ...
 ```
@@ -31,5 +32,5 @@ def add(self, row, column, value):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ScenarioInputCellCollection](/cells/python-net/de/aspose.cells/scenarioinputcellcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ScenarioInputCellCollection`](/cells/python-net/de/aspose.cells/scenarioinputcellcollection)

@@ -3,13 +3,13 @@ title: minor_grid_lines属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 340
+weight: 350
 url: /zh/aspose.cells.charts/axis/minor_grid_lines/
 is_root: false
 ---
 ## minor_grid_lines属性
 
-表示图表轴上的次网格线。
+表示图表轴上的次要网格线。
 ### 定义：
 ```python
 @property

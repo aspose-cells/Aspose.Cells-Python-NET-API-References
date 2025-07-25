@@ -3,7 +3,7 @@ title: validate_merged_areas mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 180
 url: /tr/aspose.cells/odssaveoptions/validate_merged_areas/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: references propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 140
+weight: 150
 url: /fr/aspose.cells.vba/vbaproject/references/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def references(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProject](/cells/python-net/fr/aspose.cells.vba/vbaproject)
-* classe [VbaProjectReferenceCollection](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProject`](/cells/python-net/fr/aspose.cells.vba/vbaproject)
+* classe [`VbaProjectReferenceCollection`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreferencecollection)

@@ -3,7 +3,7 @@ title: write_protection fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 650
 url: /sv/aspose.cells/workbooksettings/write_protection/
 is_root: false
 ---

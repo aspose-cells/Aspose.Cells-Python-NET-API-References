@@ -1,39 +1,37 @@
 ---
-title: classe PictureBulletValue
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: PictureBulletValue classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 70
+weight: 60
 url: /it/aspose.cells.drawing.texts/picturebulletvalue/
 is_root: false
 ---
-##  classe PictureBulletValue
+##  PictureBulletValue classe
 Rappresenta il valore del punto elenco dell'immagine.
 
 
 
-**Eredità:** [PictureBulletValue](/cells/python-net/aspose.cells.drawing.texts/picturebulletvalue) → 
-[BulletValue](/cells/python-net/it/aspose.cells.drawing.texts/bulletvalue)
+**Eredità:** [`PictureBulletValue`](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue)
 
 
 
-Il tipo PictureBulletValue espone i membri seguenti:
+Il tipo PictureBulletValue espone i seguenti membri:
 
 ###  Costruttori
 | Costruttore| Descrizione|
 | :- | :- |
-| [PictureBulletValue()](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Costruisce una nuova istanza di PictureBulletValue|
+| [`__init__(self)`](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/__init__/#) | Crea una nuova istanza di PictureBulletValue|
 
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [type](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/type) | Ottiene il tipo del valore del punto elenco.|
-| [image_data](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/image_data) | Ottiene e imposta i dati dell'immagine del punto elenco.|
+| [type](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/type) | Ottiene il tipo di valore del proiettile.|
+| [image_data](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue/image_data) | Ottiene e imposta i dati dell'immagine del proiettile.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.texts](..)
-* classe [BulletValue](/cells/python-net/it/aspose.cells.drawing.texts/bulletvalue)
-* classe [PictureBulletValue](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue)
+* modulo [`aspose.cells.drawing.texts`](..)
+* classe [`PictureBulletValue`](/cells/python-net/it/aspose.cells.drawing.texts/picturebulletvalue)

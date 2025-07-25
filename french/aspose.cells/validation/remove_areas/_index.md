@@ -7,12 +7,13 @@ weight: 110
 url: /fr/aspose.cells/validation/remove_areas/
 is_root: false
 ---
-##  remove_areas {#list}
+##  remove_areas(self, areas) {#list}
 Supprime cette validation des zones données.
 
 
 
 ```python
+
 def remove_areas(self, areas):
     ...
 ```
@@ -20,7 +21,7 @@ def remove_areas(self, areas):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| areas | list | les zones dans lesquelles ces paramètres de validation doivent être supprimés.|
+| areas | list | les zones où ces paramètres de validation doivent être supprimés.|
 
 
 

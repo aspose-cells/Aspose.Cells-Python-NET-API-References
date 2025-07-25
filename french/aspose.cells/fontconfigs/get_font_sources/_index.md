@@ -1,9 +1,9 @@
 ---
-title: get_font_sources méthode
+title: méthode get_font_sources
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 20
+weight: 30
 url: /fr/aspose.cells/fontconfigs/get_font_sources/
 is_root: false
 ---
@@ -17,7 +17,9 @@ Obtient une copie du tableau qui contient la liste des sources
 
 
 ```python
-def get_font_sources(self):
+
+@staticmethod
+def get_font_sources():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_font_sources(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FontConfigs](/cells/python-net/fr/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* classe [`FontConfigs`](/cells/python-net/fr/aspose.cells/fontconfigs)

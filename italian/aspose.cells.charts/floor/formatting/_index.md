@@ -1,6 +1,6 @@
 ---
 title: formatting proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,6 +21,6 @@ def formatting(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Floor](/cells/python-net/it/aspose.cells.charts/floor)
-* classe [FormattingType](/cells/python-net/it/aspose.cells.charts/formattingtype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Floor`](/cells/python-net/it/aspose.cells.charts/floor)
+* classe [`FormattingType`](/cells/python-net/it/aspose.cells.charts/formattingtype)

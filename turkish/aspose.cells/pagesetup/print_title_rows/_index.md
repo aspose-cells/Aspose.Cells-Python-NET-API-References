@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_rows mülk
 
-Her sayfanın başında yinelenecek hücreleri içeren satırları temsil eder.
+Her sayfanın en üstünde tekrarlanacak hücreleri içeren satırları temsil eder.
 
 ###  Örnek
 
@@ -30,5 +30,5 @@ def print_title_rows(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [PageSetup](/cells/python-net/tr/aspose.cells/pagesetup)
+* modül [`aspose.cells`](../../)
+* sınıf [`PageSetup`](/cells/python-net/tr/aspose.cells/pagesetup)

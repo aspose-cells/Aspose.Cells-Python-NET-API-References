@@ -1,9 +1,9 @@
 ---
 title: lower_right_row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 810
+weight: 820
 url: /it/aspose.cells.drawing/scrollbar/lower_right_row/
 is_root: false
 ---

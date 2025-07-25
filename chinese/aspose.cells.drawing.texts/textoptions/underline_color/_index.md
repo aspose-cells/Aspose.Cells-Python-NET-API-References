@@ -1,13 +1,13 @@
 ---
-title: underline_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: underline_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 300
 url: /zh/aspose.cells.drawing.texts/textoptions/underline_color/
 is_root: false
 ---
-## underline_color 属性
+## underline_color属性
 
 获取或设置下划线的颜色。
 ### 定义：
@@ -21,6 +21,6 @@ def underline_color(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing.texts](../../)
-* 类 [CellsColor](/cells/python-net/zh/aspose.cells/cellscolor)
-* 类 [TextOptions](/cells/python-net/zh/aspose.cells.drawing.texts/textoptions)
+* 模块[`aspose.cells.drawing.texts`](../../)
+* 类 [`CellsColor`](/cells/python-net/zh/aspose.cells/cellscolor)
+* 类 [`TextOptions`](/cells/python-net/zh/aspose.cells.drawing.texts/textoptions)

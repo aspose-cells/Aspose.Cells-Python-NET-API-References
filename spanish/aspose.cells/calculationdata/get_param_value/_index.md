@@ -7,7 +7,7 @@ weight: 30
 url: /es/aspose.cells/calculationdata/get_param_value/
 is_root: false
 ---
-##  get_param_value {#int}
+##  get_param_value(self, index) {#int}
 Obtiene el objeto de valor representado del parámetro en el índice dado.
 
 
@@ -17,6 +17,7 @@ El valor calculado del parámetro.
 
 
 ```python
+
 def get_param_value(self, index):
     ...
 ```
@@ -29,23 +30,23 @@ def get_param_value(self, index):
 
 Para un parámetro:
 
-Si es un valor simple, devuelve el valor simple en sí;
+Si es un valor simple, entonces devuelve el valor simple en sí;
 
 
-Si es una referencia, devuelve el objeto ReferedArea;
+Si es una referencia, entonces devuelve el objeto ReferredArea;
 
 
-Si hace referencia a conjuntos de datos con múltiples valores, devuelve una matriz de objetos;
+Si hace referencia a conjuntos de datos con múltiples valores, entonces devuelve una matriz de objetos;
 
 
 
-Si es algún tipo de expresión que necesita calcularse, entonces se calculará en modo valor.
-y generalmente se devolverá un valor único según la base de celdas actual. Por ejemplo,
+Si se trata de algún tipo de expresión que necesita calcularse, se calculará en modo de valor.
+Generalmente, se devolverá un único valor según la base de celdas actual. Por ejemplo,
 Si un parámetro de la fórmula de D2 es A:A+B:B, entonces se calculará y devolverá A2+B2.
 Sin embargo, si este parámetro se ha especificado como modo de matriz
 (por [`Workbook.update_custom_function_definition`](/cells/python-net/es/aspose.cells/workbook/update_custom_function_definition)
 o [`FormulaParseOptions.custom_function_definition`](/cells/python-net/es/aspose.cells/formulaparseoptions#custom_function_definition)),
-luego se devolverá una matriz (objeto [][]) cuyos elementos son A1+B1,A2+B2,....
+entonces se devolverá una matriz(object[][]) cuyos elementos son A1+B1,A2+B2,....
 
 
 ###  Ver también

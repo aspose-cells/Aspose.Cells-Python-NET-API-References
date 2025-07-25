@@ -3,7 +3,7 @@ title: CheckValueType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 790
+weight: 780
 url: /de/aspose.cells.drawing/checkvaluetype/
 is_root: false
 ---
@@ -17,11 +17,11 @@ Der Typ CheckValueType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| UN_CHECKED | Ungeprüft|
-| CHECKED | Geprüft|
+| UN_CHECKED | Nicht aktiviert|
+| CHECKED | Überprüft|
 | MIXED | Gemischt|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

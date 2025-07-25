@@ -3,7 +3,7 @@ title: table_styles mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 380
 url: /tr/aspose.cells/worksheetcollection/table_styles/
 is_root: false
 ---

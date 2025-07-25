@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_compress_pictures mülk
 
-Uygulamanın çalışma kitabındaki resimleri otomatik olarak sıkıştırdığını gösteren bir boole değeri belirtir.
+Uygulamanın çalışma kitabındaki resimleri otomatik olarak sıkıştırdığını gösteren bir Boole değeri belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_compress_pictures(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [WorkbookSettings](/cells/python-net/tr/aspose.cells/workbooksettings)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookSettings`](/cells/python-net/tr/aspose.cells/workbooksettings)

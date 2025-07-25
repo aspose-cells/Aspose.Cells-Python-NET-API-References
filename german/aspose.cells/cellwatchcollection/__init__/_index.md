@@ -1,5 +1,5 @@
 ---
-title: CellWatchCollection Konstrukteur
+title: CellWatchCollection Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/cellwatchcollection/__init__/
 is_root: false
 ---
-##  CellWatchCollection() {#}
+##  \_\_init\_\_(selbst){#}
 Erstellt eine neue Instanz von CellWatchCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CellWatchCollection](/cells/python-net/de/aspose.cells/cellwatchcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CellWatchCollection`](/cells/python-net/de/aspose.cells/cellwatchcollection)

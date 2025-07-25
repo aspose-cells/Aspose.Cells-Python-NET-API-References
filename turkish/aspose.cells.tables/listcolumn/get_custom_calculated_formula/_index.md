@@ -7,7 +7,7 @@ weight: 20
 url: /tr/aspose.cells.tables/listcolumn/get_custom_calculated_formula/
 is_root: false
 ---
-##  get_custom_calculated_formula(is_r1c1, is_local) {#bool-bool}
+##  get_custom_calculated_formula(self, is_r1c1, is_local) {#bool-bool}
 Bu liste sütununun formülünü alır.
 
 
@@ -17,6 +17,7 @@ Bu liste sütununun formülü.
 
 
 ```python
+
 def get_custom_calculated_formula(self, is_r1c1, is_local):
     ...
 ```
@@ -30,5 +31,5 @@ def get_custom_calculated_formula(self, is_r1c1, is_local):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListColumn](/cells/python-net/tr/aspose.cells.tables/listcolumn)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListColumn`](/cells/python-net/tr/aspose.cells.tables/listcolumn)

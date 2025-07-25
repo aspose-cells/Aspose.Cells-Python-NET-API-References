@@ -1,15 +1,22 @@
 ---
-title: is_multiple_field_filters الملكية
+title: is_multiple_field_filters عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 710
 url: /ar/aspose.cells.pivot/pivottable/is_multiple_field_filters/
 is_root: false
 ---
-##  is_multiple_field_filters الملكية
+##  is_multiple_field_filters عقار
 
-تحدد قيمة منطقية تشير إلى ما إذا كان يمكن تعيين عوامل تصفية متعددة على حقول PivotTable.
+يحدد قيمة منطقية تشير إلى ما إذا كان من الممكن تعيين عدة مرشحات على حقول جدول محوري.
+
+###  ملاحظات
+
+ ملاحظة: هذه الخاصية أصبحت قديمة الآن. بدلاً من ذلك،
+الرجاء استخدام الخاصية PivotTable.AllowMultipleFiltersPerField.
+ سيتم إزالة هذه الطريقة بعد 12 شهرًا من ديسمبر 2024.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +28,5 @@ def is_multiple_field_filters(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

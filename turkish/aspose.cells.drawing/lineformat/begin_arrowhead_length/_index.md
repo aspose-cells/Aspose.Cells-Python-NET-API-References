@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_length mülk
 
-Satırın başlangıç ok uzunluğu türünü alır ve ayarlar.
+Çizginin başlangıç okunun uzunluk türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def begin_arrowhead_length(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadLength](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadlength)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadLength`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadlength)

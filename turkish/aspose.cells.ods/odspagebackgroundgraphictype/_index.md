@@ -8,20 +8,20 @@ url: /tr/aspose.cells.ods/odspagebackgroundgraphictype/
 is_root: false
 ---
 ##  OdsPageBackgroundGraphicType numaralandırma
-Resimli sayfa arka planını biçimlendirme türünü temsil eder.
+Sayfa arka planının resimle biçimlendirilme türünü temsil eder.
 
 
 
-OdsPageBackgroundGraphicType türü aşağıdaki üyeleri gösterir:
+OdsPageBackgroundGraphicType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| POSITION | Görüntüyü belirli bir konuma ayarlayın.|
-| AREA | Görüntüyü uzatın.|
-| TILE |Görüntüyü tekrarlayın ve tekrarlayın.|
+| POSITION | Resmi belirli bir konuma ayarlayın.|
+| AREA | Görüntüyü gerin.|
+| TILE | Görüntüyü tekrar tekrar izleyin.|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](..)
+* modül [`aspose.cells.ods`](..)

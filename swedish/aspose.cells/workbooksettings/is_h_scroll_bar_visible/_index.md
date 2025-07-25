@@ -3,13 +3,13 @@ title: is_h_scroll_bar_visible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 270
 url: /sv/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
 ##  is_h_scroll_bar_visible fastighet
 
-Hämtar eller ställer in ett värde som anger om det genererade kalkylarket kommer att innehålla en horisontell rullningslist.
+Hämtar eller anger ett värde som anger om det genererade kalkylbladet ska innehålla en horisontell rullningslist.
 
 ###  Anmärkningar
 
@@ -17,7 +17,7 @@ Standardvärdet är sant.
 
 ###  Exempel
 
-Följande kod gör den horisontella rullningslisten osynlig för kalkylarket.
+Följande kod gör den horisontella rullningslisten osynlig för kalkylbladet.
 
 ```python
 

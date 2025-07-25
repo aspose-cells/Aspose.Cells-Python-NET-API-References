@@ -3,7 +3,7 @@ title: HtmlHiddenRowDisplayType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 2240
+weight: 2180
 url: /tr/aspose.cells/htmlhiddenrowdisplaytype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ HtmlHiddenRowDisplayType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| HIDDEN |Html sayfasındaki gizli satırları gizledim.|
+| HIDDEN | Html sayfasındaki gizli satırları gizle.|
 | REMOVE | Html sayfasındaki gizli satırları kaldırın.|
 
 

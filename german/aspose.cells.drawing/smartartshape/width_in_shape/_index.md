@@ -3,7 +3,7 @@ title: width_in_shape Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /de/aspose.cells.drawing/smartartshape/width_in_shape/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Stellt die Breite der Form in Einheiten von 1/4000 der übergeordneten Form dar.
 
 ###  Bemerkungen
 
-Gilt nur, wenn diese Form in der Gruppe oder im Diagramm enthalten ist.
+Gilt nur, wenn sich diese Form in der Gruppe oder im Diagramm befindet.
 
 ###  Beispiel
 

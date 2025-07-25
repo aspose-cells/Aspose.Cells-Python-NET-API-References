@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value mülk
 
-Özelliğin value'ini alır veya ayarlar.
+Özelliğin value değerini alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

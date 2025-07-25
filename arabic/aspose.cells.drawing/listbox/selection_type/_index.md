@@ -3,13 +3,13 @@ title: selection_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 940
+weight: 950
 url: /ar/aspose.cells.drawing/listbox/selection_type/
 is_root: false
 ---
 ##  selection_type عقار
 
-الحصول على أو تعيين وضع التحديد لمربع القائمة المحدد.
+يحصل على وضع الاختيار لمربع القائمة المحدد أو يعينه.
 ###  تعريف:
 ```python
 @property

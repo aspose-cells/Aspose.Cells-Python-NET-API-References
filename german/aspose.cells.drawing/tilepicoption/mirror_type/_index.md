@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  mirror_type Eigentum
 
-Ruft den Spiegeltyp für die Kachelung ab oder legt diesen fest.
+Ruft den Spiegeltyp für die Kachelung ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def mirror_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [MirrorType](/cells/python-net/de/aspose.cells.drawing/mirrortype)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`MirrorType`](/cells/python-net/de/aspose.cells.drawing/mirrortype)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

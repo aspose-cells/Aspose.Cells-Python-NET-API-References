@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pattern Eigentum
 
-Ruft den Fülltyp pattern ab oder legt diesen fest
+Ruft den Fülltyp pattern ab oder legt ihn fest
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def pattern(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [FillPattern](/cells/python-net/de/aspose.cells.drawing/fillpattern)
-* Klasse [PatternFill](/cells/python-net/de/aspose.cells.drawing/patternfill)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`FillPattern`](/cells/python-net/de/aspose.cells.drawing/fillpattern)
+* Klasse [`PatternFill`](/cells/python-net/de/aspose.cells.drawing/patternfill)

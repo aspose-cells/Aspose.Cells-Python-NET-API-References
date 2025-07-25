@@ -3,7 +3,7 @@ title: spt mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 950
+weight: 960
 url: /tr/aspose.cells.drawing/radiobutton/spt/
 is_root: false
 ---

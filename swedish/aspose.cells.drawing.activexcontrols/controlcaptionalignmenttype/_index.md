@@ -3,7 +3,7 @@ title: ControlCaptionAlignmentType uppräkning
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 150
 url: /sv/aspose.cells.drawing.activexcontrols/controlcaptionalignmenttype/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Typen ControlCaptionAlignmentType avslöjar följande medlemmar:
 
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](..)
+* modul [`aspose.cells.drawing.activexcontrols`](..)

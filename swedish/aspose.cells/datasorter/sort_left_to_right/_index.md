@@ -3,7 +3,7 @@ title: sort_left_to_right fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 160
+weight: 170
 url: /sv/aspose.cells/datasorter/sort_left_to_right/
 is_root: false
 ---
@@ -23,5 +23,5 @@ def sort_left_to_right(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DataSorter](/cells/python-net/sv/aspose.cells/datasorter)
+* modul [`aspose.cells`](../../)
+* klass [`DataSorter`](/cells/python-net/sv/aspose.cells/datasorter)

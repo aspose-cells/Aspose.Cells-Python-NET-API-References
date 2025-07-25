@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_odd_even propiedad
 
-Verdadero significa que el encabezado/pie de página de las páginas impares es diferente con las páginas impares.
+Verdadero significa que el encabezado/pie de página de las páginas impares es diferente al de las páginas impares.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

@@ -1,18 +1,13 @@
 ---
-title: odc_file الملكية
+title: odc_file عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 250
+weight: 300
 url: /ar/aspose.cells.externalconnections/webqueryconnection/odc_file/
 is_root: false
 ---
-##  odc_file الملكية
-
- يحدد المسار الكامل لملف الاتصال الخارجي الذي كان هذا الاتصال منه
- مخلوق. إذا فشل الاتصال أثناء محاولة تحديث البيانات ، وطريقة إعادة الاتصال = 1 ،
- ثم سيحاول تطبيق جدول البيانات مرة أخرى باستخدام معلومات من ملف الاتصال الخارجي
-بدلاً من كائن الاتصال المضمّن في المصنف.
+##  odc_file عقار
 ###  تعريف:
 ```python
 @property
@@ -24,5 +19,5 @@ def odc_file(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

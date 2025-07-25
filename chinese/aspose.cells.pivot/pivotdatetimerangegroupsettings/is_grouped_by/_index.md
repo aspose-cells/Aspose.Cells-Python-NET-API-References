@@ -7,16 +7,17 @@ weight: 20
 url: /zh/aspose.cells.pivot/pivotdatetimerangegroupsettings/is_grouped_by/
 is_root: false
 ---
-##  is_grouped_by {#aspose.cells.pivot.PivotGroupByType}
+##  is_grouped_by(self, type) {#aspose.cells.pivot.PivotGroupByType}
 检查字段是否按类型分组。
 
 
-### 退货
+### 返回
 
 
 
 
 ```python
+
 def is_grouped_by(self, type):
     ...
 ```
@@ -24,7 +25,7 @@ def is_grouped_by(self, type):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [`PivotGroupByType`](/cells/python-net/zh/aspose.cells.pivot/pivotgroupbytype) |团体类型|
+| type | [`PivotGroupByType`](/cells/python-net/zh/aspose.cells.pivot/pivotgroupbytype) |群组类型|
 
 
 

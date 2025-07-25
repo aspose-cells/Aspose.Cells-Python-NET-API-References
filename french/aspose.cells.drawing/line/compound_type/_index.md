@@ -21,6 +21,6 @@ def compound_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [Line](/cells/python-net/fr/aspose.cells.drawing/line)
-* classe [MsoLineStyle](/cells/python-net/fr/aspose.cells.drawing/msolinestyle)
+* module [`aspose.cells.drawing`](../../)
+* classe [`Line`](/cells/python-net/fr/aspose.cells.drawing/line)
+* classe [`MsoLineStyle`](/cells/python-net/fr/aspose.cells.drawing/msolinestyle)

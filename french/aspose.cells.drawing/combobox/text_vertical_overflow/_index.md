@@ -3,13 +3,13 @@ title: text_vertical_overflow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/aspose.cells.drawing/combobox/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow propriété
 
-Obtient et définit le type de débordement vertical de texte de la forme qui contient du texte.
+Obtient et définit le type de débordement vertical du texte de la forme qui contient le texte.
 
 ###  Exemple
 

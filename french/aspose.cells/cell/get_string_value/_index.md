@@ -1,14 +1,14 @@
 ---
-title: get_string_value méthode
+title: méthode get_string_value
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 200
+weight: 210
 url: /fr/aspose.cells/cell/get_string_value/
 is_root: false
 ---
-##  get_string_value(format_strategy) {#CellValueFormatStrategy}
-Obtient la valeur de chaîne selon une stratégie formatée spécifique.
+##  get_string_value(self, format_strategy) {#aspose.cells.CellValueFormatStrategy}
+Obtient la valeur de la chaîne par une stratégie formatée spécifique.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Obtient la valeur de chaîne selon une stratégie formatée spécifique.
 
 
 ```python
+
 def get_string_value(self, format_strategy):
     ...
 ```
@@ -24,10 +25,10 @@ def get_string_value(self, format_strategy):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| format_strategy | [CellValueFormatStrategy](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy) | La stratégie formatée.|
+| format_strategy | [`CellValueFormatStrategy`](/cells/python-net/fr/aspose.cells/cellvalueformatstrategy) | La stratégie formatée.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

@@ -3,16 +3,16 @@ title: embed_standard_windows_fonts propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 190
+weight: 220
 url: /es/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts/
 is_root: false
 ---
 ##  embed_standard_windows_fonts propiedad
 
-True para incrustar fuentes de tipo verdadero.
-Afecta solo a los caracteres ASCII 32-127.
-Las fuentes para códigos de caracteres superiores a 127 siempre están incrustadas.
-Las fuentes siempre están incrustadas para el estándar PDF/A-1a, PDF/A-1b.
+ Fiel a la incrustación de fuentes true type.
+Afecta sólo a los caracteres ASCII 32-127.
+Las fuentes para códigos de caracteres mayores a 127 siempre están incrustadas.
+Las fuentes siempre están integradas para el estándar PDF/A-1a, PDF/A-1b.
 El valor predeterminado es verdadero.
 ###  Definición:
 ```python
@@ -25,5 +25,5 @@ def embed_standard_windows_fonts(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PdfSaveOptions](/cells/python-net/es/aspose.cells/pdfsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`PdfSaveOptions`](/cells/python-net/es/aspose.cells/pdfsaveoptions)

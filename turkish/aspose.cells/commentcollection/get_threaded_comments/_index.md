@@ -3,12 +3,12 @@ title: get_threaded_comments yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 70
 url: /tr/aspose.cells/commentcollection/get_threaded_comments/
 is_root: false
 ---
-##  get_threaded_comments(cell_name) {#str}
-Zincirlenmiş açıklamaları hücre adına göre alır.
+##  get_threaded_comments(self, cell_name) {#str}
+Hücre adına göre iş parçacıklı yorumları alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Zincirlenmiş açıklamaları hücre adına göre alır.
 
 
 ```python
+
 def get_threaded_comments(self, cell_name):
     ...
 ```
@@ -38,8 +39,8 @@ for i in range(len(threadedComments2)):
 ```
 
 
-##  get_threaded_comments(row, column) {#int-int}
-Zincirleme açıklamaları satır ve sütun indeksine göre alır.
+##  get_threaded_comments(self, row, column) {#int-int}
+Satır ve sütun indeksine göre iş parçacıklı yorumları alır.
 
 
 ###  İadeler
@@ -48,6 +49,7 @@ Zincirleme açıklamaları satır ve sütun indeksine göre alır.
 
 
 ```python
+
 def get_threaded_comments(self, row, column):
     ...
 ```
@@ -72,5 +74,5 @@ for i in range(len(threadedComments1)):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CommentCollection](/cells/python-net/tr/aspose.cells/commentcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`CommentCollection`](/cells/python-net/tr/aspose.cells/commentcollection)

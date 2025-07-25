@@ -8,7 +8,7 @@ url: /sv/aspose.cells.slicers/slicercacheitem/
 is_root: false
 ---
 ##  SlicerCacheItem klass
-Representera källobjektet för slicer-data
+Representera datakällobjekt i utskäraren
 
 
 
@@ -17,10 +17,10 @@ Typen SlicerCacheItem avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [selected](/cells/python-net/sv/aspose.cells.slicers/slicercacheitem/selected) | Anger om SlicerItem är vald eller inte.|
+| [selected](/cells/python-net/sv/aspose.cells.slicers/slicercacheitem/selected) | Anger om SlicerItem är valt eller inte.|
 | [value](/cells/python-net/sv/aspose.cells.slicers/slicercacheitem/value) | Returnerar etiketttexten för utsnittsobjektet. Skrivskyddad.|
 
 
 
 ###  Se även
-* modul [aspose.cells.slicers](..)
+* modul [`aspose.cells.slicers`](..)

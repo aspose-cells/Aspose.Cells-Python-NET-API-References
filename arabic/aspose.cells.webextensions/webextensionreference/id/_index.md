@@ -1,5 +1,5 @@
 ---
-title: id الملكية
+title: id عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells.webextensions/webextensionreference/id/
 is_root: false
 ---
-##  id الملكية
+##  id عقار
 
-الحصول على المعرف المرتبط بوظيفة Office الإضافية وتعيينه داخل موفر كتالوج.
-يجب أن يكون المعرف فريدًا داخل موفر الكتالوج.
+يحصل على المعرف المرتبط بالوظيفة الإضافية لـ Office داخل موفر الكتالوج ويقوم بتعيينه.
+يجب أن يكون المعرف فريدًا ضمن موفر الكتالوج.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def id(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionReference](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionReference`](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)

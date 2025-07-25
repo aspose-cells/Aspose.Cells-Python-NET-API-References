@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_automatic_rotation mülk
 
-Dönme açısının otomatik olup olmadığını gösterir
+Dönüş açısının otomatik olup olmadığını gösterir
 ###  Tanım:
 ```python
 @property

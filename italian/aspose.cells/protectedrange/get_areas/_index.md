@@ -1,22 +1,23 @@
 ---
-title: metodo get_areas
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_areas
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
 url: /it/aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
-##  get_areas() {#}
-Ottiene tutte le aree di riferimento.
+##  get_areas(self) {#}
+Ottiene tutte le aree a cui si fa riferimento.
 
 
 ###  ritorna
 
-Restituisce tutte le aree di riferimento.
+Restituisce tutte le aree a cui si fa riferimento.
 
 
 ```python
+
 def get_areas(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_areas(self):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ProtectedRange](/cells/python-net/it/aspose.cells/protectedrange)
+* modulo [`aspose.cells`](../../)
+* classe [`ProtectedRange`](/cells/python-net/it/aspose.cells/protectedrange)

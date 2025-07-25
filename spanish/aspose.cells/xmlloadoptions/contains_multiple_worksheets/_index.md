@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  contains_multiple_worksheets propiedad
 
-Indica si se importa xml como varias hojas de trabajo.
+Indica si se importa xml como varias hojas de cálculo.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def contains_multiple_worksheets(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [XmlLoadOptions](/cells/python-net/es/aspose.cells/xmlloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`XmlLoadOptions`](/cells/python-net/es/aspose.cells/xmlloadoptions)

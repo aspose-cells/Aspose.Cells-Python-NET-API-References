@@ -7,16 +7,17 @@ weight: 180
 url: /sv/aspose.cells/settableglobalizationsettings/get_row_labels_name_of_pivot_table/
 is_root: false
 ---
-##  get_row_labels_name_of_pivot_table {#}
+##  get_row_labels_name_of_pivot_table(self) {#}
 Hämtar namnet på etiketten "Radetiketter" i pivottabellen.
 
 
 ###  Returnerar
 
-Namnet på radetiketter
+Namnen på radetiketter
 
 
 ```python
+
 def get_row_labels_name_of_pivot_table(self):
     ...
 ```
@@ -24,9 +25,9 @@ def get_row_labels_name_of_pivot_table(self):
 
 ###  Anmärkningar
 
-OBS: Denna medlem är nu föråldrad. Istället,
-använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2022.
+OBS! Denna medlem är nu föråldrad. Istället,
+Använd metoden PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Den här egenskapen kommer att tas bort 12 månader senare från och med december 2022.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 
 

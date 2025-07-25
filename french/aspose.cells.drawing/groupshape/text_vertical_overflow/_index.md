@@ -3,13 +3,13 @@ title: text_vertical_overflow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1050
+weight: 1060
 url: /fr/aspose.cells.drawing/groupshape/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow propriété
 
-Obtient et définit le type de débordement vertical de texte de la forme qui contient du texte.
+Obtient et définit le type de débordement vertical du texte de la forme qui contient le texte.
 
 ###  Exemple
 

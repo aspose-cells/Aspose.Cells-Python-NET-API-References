@@ -3,13 +3,13 @@ title: show_pivot_style_row_header propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 960
+weight: 1090
 url: /fr/aspose.cells.pivot/pivottable/show_pivot_style_row_header/
 is_root: false
 ---
 ##  show_pivot_style_row_header propriété
 
-Indique si l'en-tête de ligne dans le tableau croisé dynamique doit avoir le style appliqué.
+Indique si le style doit être appliqué à l'en-tête de ligne du tableau croisé dynamique.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_pivot_style_row_header(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/fr/aspose.cells.pivot/pivottable)
+* module [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/fr/aspose.cells.pivot/pivottable)

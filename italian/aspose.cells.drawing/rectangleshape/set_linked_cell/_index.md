@@ -1,18 +1,19 @@
 ---
 title: Metodo set_linked_cell
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 200
+weight: 210
 url: /it/aspose.cells.drawing/rectangleshape/set_linked_cell/
 is_root: false
 ---
-##  set_linked_cell {#str-bool-bool}
+##  set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
 Imposta l'intervallo collegato al valore del controllo.
 
 
 
 ```python
+
 def set_linked_cell(self, formula, is_r1c1, is_local):
     ...
 ```
@@ -22,7 +23,7 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 | :- | :- | :- |
 | formula | str | L'intervallo collegato al valore del controllo.|
 | is_r1c1 | bool | Se la formula deve essere formattata come R1C1.|
-| is_local | bool | Indica se la formula deve essere formattata in base alle impostazioni locali.|
+| is_local | bool | Se la formula deve essere formattata in base alle impostazioni locali.|
 
 ###  Esempio
 

@@ -1,22 +1,23 @@
 ---
-title: add_text_box_in_chart método
+title: método add_text_box_in_chart
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 320
+weight: 350
 url: /es/aspose.cells.drawing/shapecollection/add_text_box_in_chart/
 is_root: false
 ---
-##  add_text_box_in_chart(top, left, height, width) {#int-int-int-int}
+##  add_text_box_in_chart(self, top, left, height, width) {#int-int-int-int}
 Agrega un cuadro de texto al gráfico.
 
 
 ###  Devoluciones
 
-Un objeto de cuadro de texto.
+Un objeto TextBox.
 
 
 ```python
+
 def add_text_box_in_chart(self, top, left, height, width):
     ...
 ```
@@ -32,5 +33,5 @@ def add_text_box_in_chart(self, top, left, height, width):
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

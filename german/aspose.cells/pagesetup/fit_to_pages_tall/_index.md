@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  fit_to_pages_tall Eigentum
 
-Stellt die Anzahl der Seiten dar, auf die das Arbeitsblatt beim Drucken skaliert wird.
+Gibt die Seitenanzahl an, auf die das Arbeitsblatt beim Drucken skaliert wird.
 Der Standardwert ist 1.
 
 ###  Bemerkungen
 
-Sie müssen FitToPagesWide auf Null setzen, wenn Sie alle Zeilen auf eine Seite passen möchten.
+Sie müssen FitToPagesWide auf Null setzen, wenn Sie alle Zeilen auf eine Seite bringen möchten.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def fit_to_pages_tall(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PageSetup](/cells/python-net/de/aspose.cells/pagesetup)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PageSetup`](/cells/python-net/de/aspose.cells/pagesetup)

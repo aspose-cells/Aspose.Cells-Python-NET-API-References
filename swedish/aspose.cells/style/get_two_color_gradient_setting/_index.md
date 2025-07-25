@@ -7,12 +7,13 @@ weight: 40
 url: /sv/aspose.cells/style/get_two_color_gradient_setting/
 is_root: false
 ---
-##  get_two_color_gradient_setting() {#}
-Få inställningen för tvåfärgsgradient.
+##  get_two_color_gradient_setting(self) {#}
+Hämta inställningen för tvåfärgad gradient.
 
 
 
 ```python
+
 def get_two_color_gradient_setting(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_two_color_gradient_setting(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

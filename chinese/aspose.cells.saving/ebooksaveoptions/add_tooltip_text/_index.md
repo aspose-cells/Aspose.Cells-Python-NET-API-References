@@ -3,13 +3,13 @@ title: add_tooltip_text属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 30
+weight: 40
 url: /zh/aspose.cells.saving/ebooksaveoptions/add_tooltip_text/
 is_root: false
 ---
 ## add_tooltip_text属性
 
-数据无法完全显示时是否添加提示文本。
+指示当数据无法完全显示时是否添加工具提示文本。
 默认值为 false。
 ### 定义：
 ```python

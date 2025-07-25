@@ -1,27 +1,27 @@
 ---
-title: العد PdfCustomPropertiesExport
+title: PdfCustomPropertiesExport التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 220
 url: /ar/aspose.cells.rendering/pdfcustompropertiesexport/
 is_root: false
 ---
-##  العد PdfCustomPropertiesExport
-يحدد طريقة تصدير [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection) إلى ملف PDF.
+##  PdfCustomPropertiesExport التعداد
+يحدد الطريقة التي يتم بها تصدير [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection) إلى الملف PDF.
 
 
 
-يكشف نوع PdfCustomPropertiesExport الأعضاء التالية:
+يكشف النوع PdfCustomPropertiesExport عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| NONE | لم يتم تصدير أي خصائص مخصصة.|
-| STANDARD | يتم تصدير الخصائص المخصصة كمدخلات في قاموس المعلومات.|
+| NONE | لا يتم تصدير أي خصائص مخصصة.|
+| STANDARD | يتم تصدير الخصائص المخصصة كإدخالات في قاموس المعلومات.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
-* فئة [CustomDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)
+* الوحدة [`aspose.cells.rendering`](..)
+* فئة [`CustomDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/customdocumentpropertycollection)

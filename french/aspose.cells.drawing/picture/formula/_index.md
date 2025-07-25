@@ -3,7 +3,7 @@ title: formula propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 450
+weight: 460
 url: /fr/aspose.cells.drawing/picture/formula/
 is_root: false
 ---

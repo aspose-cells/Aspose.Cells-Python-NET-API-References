@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/mouse_icon/
 is_root: false
 ---
 ##  mouse_icon fastighet
-
-Hämtar och ställer in en anpassad ikon som ska visas som muspekare för kontrollen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def mouse_icon(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ListBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ListBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

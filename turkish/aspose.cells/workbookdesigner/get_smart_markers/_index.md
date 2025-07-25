@@ -7,16 +7,17 @@ weight: 30
 url: /tr/aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
-##  get_smart_markers() {#}
-Bir elektronik tablodaki akıllı işaretçilerin bir koleksiyonunu döndürür.
+##  get_smart_markers(self) {#}
+Bir elektronik tabloda akıllı işaretçilerin bir koleksiyonunu döndürür.
 
 
 ###  İadeler
 
-Akıllı işaretçilerden oluşan bir koleksiyon
+Akıllı işaretleyicilerden oluşan bir koleksiyon
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```
@@ -24,10 +25,10 @@ def get_smart_markers(self):
 
 ###  Notlar
 
-Her aramada bir dizi dizisi oluşturulur. Dizi sıralanır ve yinelenen değerler kaldırılır.
+Her çağrıda bir dize dizisi oluşturulur. Dizi sıralanır ve yinelenen değerler kaldırılır.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [WorkbookDesigner](/cells/python-net/tr/aspose.cells/workbookdesigner)
+* modül [`aspose.cells`](../../)
+* sınıf [`WorkbookDesigner`](/cells/python-net/tr/aspose.cells/workbookdesigner)

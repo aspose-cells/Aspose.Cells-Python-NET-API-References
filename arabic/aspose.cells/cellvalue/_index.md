@@ -3,7 +3,7 @@ title: CellValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 130
 url: /ar/aspose.cells/cellvalue/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [__init__](/cells/python-net/ar/aspose.cells/cellvalue/__init__/#) | إنشاء مثيل جديد لـ CellValue|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells/cellvalue/__init__/#) | إنشاء مثيل جديد لـ CellValue|
 
 
 ###  ملكيات

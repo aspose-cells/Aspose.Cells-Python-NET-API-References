@@ -3,7 +3,7 @@ title: CustomFilter sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 350
 url: /tr/aspose.cells/customfilter/
 is_root: false
 ---
@@ -17,14 +17,14 @@ CustomFilter türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [filter_operator_type](/cells/python-net/tr/aspose.cells/customfilter/filter_operator_type) | Filtre işleci türünü alır ve ayarlar.|
-| [criteria](/cells/python-net/tr/aspose.cells/customfilter/criteria) | Kriterleri alır ve belirler.|
+| [filter_operator_type](/cells/python-net/tr/aspose.cells/customfilter/filter_operator_type) | Filtre operatörü türünü alır ve ayarlar.|
+| [criteria](/cells/python-net/tr/aspose.cells/customfilter/criteria) | Kriterleri alır ve ayarlar.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [set_criteria](/cells/python-net/tr/aspose.cells/customfilter/set_criteria/#aspose.cells.FilterOperatorType-any) | Filtre kriterlerini ayarlar.|
+| [`set_criteria(self, filter_operator, criteria)`](/cells/python-net/tr/aspose.cells/customfilter/set_criteria/#aspose.cells.filteroperatortype-any) | Filtre kriterlerini ayarlar.|
 
 
 

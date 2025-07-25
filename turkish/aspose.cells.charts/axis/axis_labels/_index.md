@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  axis_labels mülk
 
-Chart.Calculate() yöntemi çağrıldıktan sonra eksenin etiketlerini alır.
+Chart.Calculate() metodu çağrıldıktan sonra eksenlerin etiketlerini alır.
 
 ###  Notlar
 
- NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen Axis.GetAxisTexts yöntemini kullanın.
- Bu mülk, Kasım 2023'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen Axis.GetAxisTexts metodunu kullanın.
+ Bu özellik Kasım 2023'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 ###  Tanım:
 ```python
 @property

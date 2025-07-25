@@ -3,7 +3,7 @@ title: value propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 420
+weight: 520
 url: /es/aspose.cells/range/value/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Obtiene y establece el value del rango.
 
 ###  Observaciones
 
-Si el rango contiene varias celdas, el objeto devuelto/aplicado debe ser un objeto Array de dos dimensiones.
+Si el rango contiene varias celdas, el objeto devuelto/aplicado debe ser un objeto de matriz bidimensional.
 ###  Definición:
 ```python
 @property

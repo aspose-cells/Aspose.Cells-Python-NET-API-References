@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_drop_button_type_when propiedad
 
-Especifica el símbolo que se muestra en el botón desplegable
+Especifica el símbolo que se muestra en el botón de soltar
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_drop_button_type_when(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [ShowDropButtonType](/cells/python-net/es/aspose.cells.drawing.activexcontrols/showdropbuttontype)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`ShowDropButtonType`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/showdropbuttontype)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

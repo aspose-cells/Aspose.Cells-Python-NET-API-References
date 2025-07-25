@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing/customgeometry/shape_adjust_values/
 is_root: false
 ---
 ##  shape_adjust_values mülk
-
-Şekil ayarlama değeri koleksiyonunu alır
 ###  Tanım:
 ```python
 @property
@@ -18,6 +16,6 @@ def shape_adjust_values(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [CustomGeometry](/cells/python-net/tr/aspose.cells.drawing/customgeometry)
-* sınıf [ShapeGuideCollection](/cells/python-net/tr/aspose.cells.drawing/shapeguidecollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`CustomGeometry`](/cells/python-net/tr/aspose.cells.drawing/customgeometry)
+* sınıf [`ShapeGuideCollection`](/cells/python-net/tr/aspose.cells.drawing/shapeguidecollection)

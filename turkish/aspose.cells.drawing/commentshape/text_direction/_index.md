@@ -3,7 +3,7 @@ title: text_direction mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 950
+weight: 970
 url: /tr/aspose.cells.drawing/commentshape/text_direction/
 is_root: false
 ---

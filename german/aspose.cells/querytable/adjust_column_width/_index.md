@@ -21,5 +21,5 @@ def adjust_column_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [QueryTable](/cells/python-net/de/aspose.cells/querytable)
+* Modul [`aspose.cells`](../../)
+* Klasse [`QueryTable`](/cells/python-net/de/aspose.cells/querytable)

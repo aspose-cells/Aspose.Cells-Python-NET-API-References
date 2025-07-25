@@ -1,15 +1,15 @@
 ---
 title: non_auto_sort_default недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 580
 url: /ru/aspose.cells.pivot/pivotfield/non_auto_sort_default/
 is_root: false
 ---
 ##  non_auto_sort_default недвижимость
 
-Указывает, будет ли операция сортировки, которая будет применена к этому сводному полю, операцией автосортировки или простой сортировкой данных.
+Указывает, является ли операция сортировки, которая будет применена к этому полю сводной таблицы, операцией автоматической сортировки или простой сортировкой данных.
 ###  Определение:
 ```python
 @property

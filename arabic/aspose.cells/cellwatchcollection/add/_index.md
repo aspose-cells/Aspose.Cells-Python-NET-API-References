@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-إضافة [CellWatch](/cells/python-net/ar/aspose.cells/cellwatch) باسم الخلية.
+##  add(self, cell_name) {#str}
+يضيف [`CellWatch`](/cells/python-net/ar/aspose.cells/cellwatch) باسم الخلية.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str | اسم الخلية.|
 
 
-##  add(row, column) {#int-int}
-اضافة [CellWatch](/cells/python-net/ar/aspose.cells/cellwatch) بالصف والعمود.
+##  add(self, row, column) {#int-int}
+يضيف [`CellWatch`](/cells/python-net/ar/aspose.cells/cellwatch) مع الصف والعمود.
 
 
 ###  عائدات
@@ -37,6 +38,7 @@ def add(self, cell_name):
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -44,12 +46,12 @@ def add(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس الصف.|
+| row | int | مؤشر الصف.|
 | column | int | فهرس العمود.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [CellWatch](/cells/python-net/ar/aspose.cells/cellwatch)
-* فئة [CellWatchCollection](/cells/python-net/ar/aspose.cells/cellwatchcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`CellWatch`](/cells/python-net/ar/aspose.cells/cellwatch)
+* فئة [`CellWatchCollection`](/cells/python-net/ar/aspose.cells/cellwatchcollection)

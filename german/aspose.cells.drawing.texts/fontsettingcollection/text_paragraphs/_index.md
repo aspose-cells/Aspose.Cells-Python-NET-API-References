@@ -18,6 +18,6 @@ def text_paragraphs(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [FontSettingCollection](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
-* Klasse [TextParagraphCollection](/cells/python-net/de/aspose.cells.drawing.texts/textparagraphcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`FontSettingCollection`](/cells/python-net/de/aspose.cells.drawing.texts/fontsettingcollection)
+* Klasse [`TextParagraphCollection`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraphcollection)

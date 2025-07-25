@@ -3,19 +3,19 @@ title: name Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 190
+weight: 180
 url: /de/aspose.cells/unionrange/name/
 is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Bereichs ab oder legt sie fest.
+Ruft den name des Bereichs ab oder legt ihn fest.
 
 ###  Bemerkungen
 
-Benannter Bereich wird unterstützt. Zum Beispiel,
+Benannte Bereiche werden unterstützt. Beispiel:
 
-range.Name = "Sheet1!MyRange";
+Bereich.Name = "Tabelle1!MeinBereich";
 ###  Definition:
 ```python
 @property
@@ -27,5 +27,5 @@ def name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

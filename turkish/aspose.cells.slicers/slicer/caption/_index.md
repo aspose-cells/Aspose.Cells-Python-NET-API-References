@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption mülk
 
-Belirtilen dilimleyicinin caption'ini döndürür veya ayarlar.
+Belirtilen dilimleyicinin caption değerini döndürür veya ayarlar.
 
 ###  Örnek
 
@@ -29,5 +29,5 @@ def caption(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

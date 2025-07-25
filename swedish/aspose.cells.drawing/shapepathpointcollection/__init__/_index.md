@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.drawing/shapepathpointcollection/__init__/
 is_root: false
 ---
-##  ShapePathPointCollection() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av ShapePathPointCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePathPointCollection](/cells/python-net/sv/aspose.cells.drawing/shapepathpointcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePathPointCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepathpointcollection)

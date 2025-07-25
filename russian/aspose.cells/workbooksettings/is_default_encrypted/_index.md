@@ -1,19 +1,19 @@
 ---
 title: is_default_encrypted недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 220
+weight: 250
 url: /ru/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted недвижимость
 
-Указывает, нужно ли шифровать книгу с паролем по умолчанию, если структура и Windows книги заблокированы.
+Указывает, шифровать ли рабочую книгу паролем по умолчанию, если Структура и Windows рабочей книги заблокированы.
 
 ###  Примечания
 
-Значение по умолчанию теперь false. Это то же самое, что и MS Excel 2013.
+Значение по умолчанию теперь — false. Оно такое же, как в MS Excel 2013.
 ###  Определение:
 ```python
 @property

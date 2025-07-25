@@ -7,12 +7,13 @@ weight: 90
 url: /sv/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
-Rensar alla data i kalkylbladet.
+##  clear(self) {#}
+Rensar all data i kalkylbladet.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

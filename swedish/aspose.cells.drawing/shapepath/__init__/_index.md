@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.drawing/shapepath/__init__/
 is_root: false
 ---
-##  ShapePath() {#}
-Initierar en ny instans av klassen [ShapePath](/cells/python-net/sv/aspose.cells.drawing/shapepath).
+##  \_\_init\_\_(själv){#}
+Initierar en ny instans av klassen [`ShapePath`](/cells/python-net/sv/aspose.cells.drawing/shapepath).
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapePath](/cells/python-net/sv/aspose.cells.drawing/shapepath)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapePath`](/cells/python-net/sv/aspose.cells.drawing/shapepath)

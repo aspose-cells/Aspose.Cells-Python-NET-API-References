@@ -1,15 +1,15 @@
 ---
-title: depth_percent الملكية
+title: depth_percent عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 240
 url: /ar/aspose.cells.charts/chart/depth_percent/
 is_root: false
 ---
-##  depth_percent الملكية
+##  depth_percent عقار
 
-يمثل عمق مخطط ثلاثي الأبعاد كنسبة مئوية من عرض المخطط (بين 20 و 2000 بالمائة).
+يمثل عمق الرسم البياني ثلاثي الأبعاد كنسبة مئوية من عرض الرسم البياني (بين 20 و2000 بالمائة).
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def depth_percent(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Chart](/cells/python-net/ar/aspose.cells.charts/chart)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Chart`](/cells/python-net/ar/aspose.cells.charts/chart)

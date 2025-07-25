@@ -3,7 +3,7 @@ title: window_width_cm عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 620
+weight: 630
 url: /ar/aspose.cells/workbooksettings/window_width_cm/
 is_root: false
 ---

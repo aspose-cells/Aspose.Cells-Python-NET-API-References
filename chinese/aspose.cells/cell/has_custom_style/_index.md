@@ -3,13 +3,13 @@ title: has_custom_style属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 510
+weight: 530
 url: /zh/aspose.cells/cell/has_custom_style/
 is_root: false
 ---
 ## has_custom_style属性
 
-指示该单元格是否有自定义样式设置（与继承的默认样式不同）
+指示此单元格是否有自定义样式设置（不同于继承的默认样式设置）
 来自相应的行、列或工作簿）。
 ### 定义：
 ```python

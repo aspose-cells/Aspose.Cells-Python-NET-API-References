@@ -3,13 +3,13 @@ title: charts propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 430
 url: /es/aspose.cells/worksheet/charts/
 is_root: false
 ---
 ##  charts propiedad
 
-Obtiene una colección [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)
+Recibe una recogida [`Chart`](/cells/python-net/es/aspose.cells.charts/chart)
 ###  Definición:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bottom fastighet
 
-Hämta eller ställ in om en "top/bottom n"-regel är en "bottom n"-regel.
+Hämta eller ange om en "topp/botten n"-regel är en "botten n"-regel.
 Standardvärdet är falskt.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def is_bottom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Top10](/cells/python-net/sv/aspose.cells/top10)
+* modul [`aspose.cells`](../../)
+* klass [`Top10`](/cells/python-net/sv/aspose.cells/top10)

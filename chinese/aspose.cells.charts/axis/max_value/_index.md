@@ -3,15 +3,15 @@ title: max_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 330
 url: /zh/aspose.cells.charts/axis/max_value/
 is_root: false
 ---
 ## max_value属性
 
-表示数值轴上的最大值。
+表示值轴上的最大值。
 
-### 评论
+### 注意事项
 
 maxValue 类型只能是 double 或 DateTime
 ### 定义：

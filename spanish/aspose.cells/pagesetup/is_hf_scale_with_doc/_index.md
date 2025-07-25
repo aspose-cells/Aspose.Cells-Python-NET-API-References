@@ -10,7 +10,7 @@ is_root: false
 ##  is_hf_scale_with_doc propiedad
 
 Indica si el encabezado y el pie de página se escalan con la escala del documento.
-Solo aplica para Excel 2007.
+Sólo se aplica para Excel 2007.
 ###  Definición:
 ```python
 @property
@@ -22,5 +22,5 @@ def is_hf_scale_with_doc(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [PageSetup](/cells/python-net/es/aspose.cells/pagesetup)
+* módulo [`aspose.cells`](../../)
+* clase [`PageSetup`](/cells/python-net/es/aspose.cells/pagesetup)

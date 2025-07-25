@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_strikeout Eigentum
 
-Ruft einen Wert ab, der angibt, ob die Schriftart einfach durchgestrichen ist, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Schriftart einfach durchgestrichen ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_strikeout(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Font](/cells/python-net/de/aspose.cells/font)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Font`](/cells/python-net/de/aspose.cells/font)

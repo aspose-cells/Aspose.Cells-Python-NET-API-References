@@ -1,6 +1,6 @@
 ---
 title: column proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column proprietà
 
-Ottiene l'indice column del grafico sparkline.
+Ottiene l'indice column dello sparkline.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def column(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Sparkline](/cells/python-net/it/aspose.cells.charts/sparkline)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Sparkline`](/cells/python-net/it/aspose.cells.charts/sparkline)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  horizontal_alignment propriété
 
-Le paramètre d'alignement horizontal sera appliqué.
+Le paramètre d’alignement horizontal sera appliqué.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def horizontal_alignment(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/fr/aspose.cells/styleflag)
+* module [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/fr/aspose.cells/styleflag)

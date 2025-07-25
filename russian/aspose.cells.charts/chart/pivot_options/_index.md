@@ -1,6 +1,6 @@
 ---
 title: pivot_options недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 420
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  pivot_options недвижимость
 
-Указывает элементы управления сводкой, которые отображаются на диаграмме.
+Задает элементы управления поворотом, которые отображаются на диаграмме.
 ###  Определение:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: set_calculated_value метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
-##  set_calculated_value(v) {#any}
-Задает вычисляемое значение для ячейки.
+##  set_calculated_value(self, v) {#any}
+Задает расчетное значение для ячейки.
 
 
 
 ```python
+
 def set_calculated_value(self, v):
     ...
 ```
@@ -23,10 +24,10 @@ def set_calculated_value(self, v):
 | v | any |  |
 ###  Примечания
 
-Пользователь может настроить вычисляемый этим методом результат так, чтобы он игнорировал автоматический расчет для ячейки.
+Пользователь может настроить вычисленный этим методом результат так, чтобы игнорировать автоматический расчет для ячейки.
 
 
 ###  Смотрите также
 
-* модуль [aspose.cells](../../)
-* класс [CalculationCell](/cells/python-net/ru/aspose.cells/calculationcell)
+* модуль [`aspose.cells`](../../)
+* класс [`CalculationCell`](/cells/python-net/ru/aspose.cells/calculationcell)

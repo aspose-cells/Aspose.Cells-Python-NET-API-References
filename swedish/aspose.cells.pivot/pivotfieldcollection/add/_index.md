@@ -7,7 +7,7 @@ weight: 20
 url: /sv/aspose.cells.pivot/pivotfieldcollection/add/
 is_root: false
 ---
-##  add(pivot_field) {#PivotField}
+##  add(self, pivot_field) {#aspose.cells.pivot.PivotField}
 Lägger till ett PivotField-objekt till den specifika typen PivotFields.
 
 
@@ -17,6 +17,7 @@ indexet för PivotField-objektet i detta PivotFields.
 
 
 ```python
+
 def add(self, pivot_field):
     ...
 ```
@@ -24,10 +25,10 @@ def add(self, pivot_field):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| pivot_field | [PivotField](/cells/python-net/sv/aspose.cells.pivot/pivotfield) | ett PivotField-objekt.|
+| pivot_field | [`PivotField`](/cells/python-net/sv/aspose.cells.pivot/pivotfield) | ett PivotField-objekt.|
 
 
 
 ###  Se även
-* modul [aspose.cells.pivot](../../)
-* klass [PivotFieldCollection](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotFieldCollection`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldcollection)

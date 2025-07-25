@@ -1,5 +1,5 @@
 ---
-title: integral_height الملكية
+title: integral_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 140
 url: /ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol/integral_height/
 is_root: false
 ---
-##  integral_height الملكية
+##  integral_height عقار
 
-الإشارة إلى ما إذا كان عنصر التحكم سيعرض سطورًا كاملة فقط من النص دون إظهار أي أسطر جزئية.
+يشير إلى ما إذا كان عنصر التحكم سيعرض فقط أسطر النص كاملة دون عرض أي أسطر جزئية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def integral_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [ListBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`ListBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)

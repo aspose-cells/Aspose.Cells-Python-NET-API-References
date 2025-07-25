@@ -3,7 +3,7 @@ title: upper_left_column属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1180
+weight: 1190
 url: /zh/aspose.cells.drawing/radiobutton/upper_left_column/
 is_root: false
 ---

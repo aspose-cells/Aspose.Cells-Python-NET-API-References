@@ -3,7 +3,7 @@ title: Hyperlink صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 840
+weight: 820
 url: /ar/aspose.cells/hyperlink/
 is_root: false
 ---
@@ -18,16 +18,16 @@ is_root: false
 | ملكية| وصف|
 | :- | :- |
 | [address](/cells/python-net/ar/aspose.cells/hyperlink/address) | يمثل عنوان الارتباط التشعبي.|
-| [text_to_display](/cells/python-net/ar/aspose.cells/hyperlink/text_to_display) | يمثل النص الذي سيتم عرضه للارتباط التشعبي المحدد. القيمة الافتراضية هي عنوان الارتباط التشعبي.|
+| [text_to_display](/cells/python-net/ar/aspose.cells/hyperlink/text_to_display) | يُمثِّل النص المُراد عرضه للرابط التشعبي المُحدَّد. القيمة الافتراضية هي عنوان الرابط التشعبي.|
 | [area](/cells/python-net/ar/aspose.cells/hyperlink/area) | يحصل على نطاق الارتباط التشعبي.|
-| [screen_tip](/cells/python-net/ar/aspose.cells/hyperlink/screen_tip) | إرجاع أو تعيين نص تلميح الشاشة للارتباط التشعبي المحدد.|
-| [link_type](/cells/python-net/ar/aspose.cells/hyperlink/link_type) | يحصل على نوع الارتباط.|
+| [screen_tip](/cells/python-net/ar/aspose.cells/hyperlink/screen_tip) | إرجاع أو تعيين نص تلميح الشاشة للرابط التشعبي المحدد.|
+| [link_type](/cells/python-net/ar/aspose.cells/hyperlink/link_type) | يحصل على نوع الرابط.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [delete](/cells/python-net/ar/aspose.cells/hyperlink/delete/#) |يحذف هذا الارتباط التشعبي|
+| [`delete(self)`](/cells/python-net/ar/aspose.cells/hyperlink/delete/#) | يحذف هذا الرابط التشعبي|
 
 
 

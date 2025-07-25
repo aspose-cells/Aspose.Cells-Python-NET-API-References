@@ -9,7 +9,7 @@ is_root: false
 ---
 ## crash_save属性
 
-指示应用程序是否在崩溃后上次保存工作簿文件。
+指示应用程序崩溃后是否最后保存了工作簿文件。
 ### 定义：
 ```python
 @property

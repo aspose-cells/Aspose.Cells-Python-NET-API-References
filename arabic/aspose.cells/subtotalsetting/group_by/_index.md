@@ -1,5 +1,5 @@
 ---
-title: group_by الملكية
+title: group_by عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/subtotalsetting/group_by/
 is_root: false
 ---
-##  group_by الملكية
+##  group_by عقار
 
-الحقل المراد التجميع حسبه ، كإزاحة عدد صحيح قائم على الصفر
+الحقل الذي سيتم التجميع حسبه، كإزاحة عدد صحيح أساسها الصفر
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def group_by(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [SubtotalSetting](/cells/python-net/ar/aspose.cells/subtotalsetting)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`SubtotalSetting`](/cells/python-net/ar/aspose.cells/subtotalsetting)

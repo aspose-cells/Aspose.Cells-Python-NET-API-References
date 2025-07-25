@@ -3,13 +3,13 @@ title: file_format mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 560
+weight: 590
 url: /tr/aspose.cells/workbook/file_format/
 is_root: false
 ---
 ##  file_format mülk
 
-Dosya formatını alır ve ayarlar.
+Dosya biçimini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property

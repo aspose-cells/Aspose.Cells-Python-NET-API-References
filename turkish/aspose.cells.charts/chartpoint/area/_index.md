@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area mülk
 
-[ChartPoint.area](/cells/python-net/tr/aspose.cells.charts/chartpoint#area)'i alır.
+[`ChartPoint.area`](/cells/python-net/tr/aspose.cells.charts/chartpoint#area)'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def area(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Area](/cells/python-net/tr/aspose.cells.drawing/area)
-* sınıf [ChartPoint](/cells/python-net/tr/aspose.cells.charts/chartpoint)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Area`](/cells/python-net/tr/aspose.cells.drawing/area)
+* sınıf [`ChartPoint`](/cells/python-net/tr/aspose.cells.charts/chartpoint)

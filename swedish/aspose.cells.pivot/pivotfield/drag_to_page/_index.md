@@ -3,13 +3,13 @@ title: drag_to_page fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 390
 url: /sv/aspose.cells.pivot/pivotfield/drag_to_page/
 is_root: false
 ---
 ##  drag_to_page fastighet
 
-Anger om det angivna fältet kan dras till sidpositionen.
+Anger om det angivna fältet kan dras till sidans position.
 Standardvärdet är sant.
 ###  Definition:
 ```python

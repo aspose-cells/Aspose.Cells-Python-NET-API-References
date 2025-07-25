@@ -3,7 +3,7 @@ title: SpinButtonActiveXControl sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 90
 url: /tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/
 is_root: false
 ---
@@ -12,42 +12,40 @@ SpinButton denetimini temsil eder.
 
 
 
-**Miras:** [SpinButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Miras:** [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
 
 
 
-SpinButtonActiveXControl türü aşağıdaki üyeleri gösterir:
+SpinButtonActiveXControl türü aşağıdaki üyeleri ortaya çıkarır:
 
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) | [ActiveXControlBase.workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook) nesnesini alır.|
+| [workbook](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/workbook) |  |
 | [type](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/type) | ActiveX denetiminin türünü alır.|
-| [width](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width) |Denetimin genişliğini nokta birimi cinsinden alır ve ayarlar.|
-| [height](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/height) | Kontrolün yüksekliğini puan birimi cinsinden alır ve ayarlar.|
-| [mouse_icon](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_icon) | Denetim için fare işaretçisi olarak görüntülenecek özel bir simge alır ve ayarlar.|
-| [mouse_pointer](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_pointer) | Denetim için fare işaretçisi olarak görüntülenen simge türünü alır ve ayarlar.|
-| [fore_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/fore_ole_color) | Ön planın ole rengini alır ve ayarlar.|
-| [back_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/back_ole_color) | Arka planın ole rengini alır ve ayarlar.|
-| [is_visible](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_visible) | Bu kontrolün görünür olup olmadığını gösterir.|
-| [shadow](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/shadow) | Gölge gösterilip gösterilmeyeceğini belirtir.|
-| [linked_cell](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_cell) | Bağlı hücreyi alır ve ayarlar.|
-| [list_fill_range](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/list_fill_range) | Liste doldurma aralığını alır ve ayarlar.|
-| [data](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data) | Denetimin ikili verilerini alır ve ayarlar.|
-| [is_enabled](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_enabled) | Denetimin odağı alıp alamayacağını ve kullanıcı tarafından oluşturulan olaylara yanıt verip veremeyeceğini belirtir.|
-| [is_locked](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_locked) | Denetimdeki verilerin düzenleme için kilitli olup olmadığını gösterir.|
-| [is_transparent](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_transparent) | Kontrolün şeffaf olup olmadığını gösterir.|
-| [is_auto_size](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_auto_size) | Denetimin tüm içeriğini görüntülemek için otomatik olarak yeniden boyutlandırılıp boyutlandırılmayacağını belirtir.|
-| [ime_mode](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/ime_mode) |Odağı alırken denetim için Giriş Yöntemi Düzenleyicisi'nin varsayılan çalışma zamanı modunu alır ve ayarlar.|
-| [font](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/font) | Denetimin yazı tipini temsil eder.|
-| [text_align](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_align) | Denetim tarafından kullanılan metnin nasıl hizalanacağını temsil eder.|
+| [width](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/text_align) |  |
 | [min](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/min) | Kabul edilebilir minimum değeri alır ve ayarlar.|
 | [max](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/max) | Kabul edilebilir maksimum değeri alır ve ayarlar.|
 | [position](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/position) | Değeri alır ve ayarlar.|
-| [small_change](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/small_change) | Konum özelliğinin değiştiği miktarı alır ve ayarlar|
-| [orientation](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/orientation) | SpinButton veya ScrollBar öğesinin dikey mi yoksa yatay mı yönlendirildiğini alır ve ayarlar.|
+| [small_change](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/small_change) | Position özelliğinin ne kadar değiştiğini alır ve ayarlar|
+| [orientation](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol/orientation) | SpinButton veya ScrollBar'ın dikey mi yoksa yatay mı yönlendirildiğini alır ve ayarlar.|
 
 
 
@@ -70,7 +68,5 @@ book.save("exmaple.xlsx")
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](..)
-* sınıf [ActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrol)
-* sınıf [ActiveXControlBase](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* sınıf [SpinButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](..)
+* sınıf [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  autonumber_scheme fastighet
 
-Representerar schemat för automatiskt nummer.
+Representerar schemat för automatisk nummerering.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def autonumber_scheme(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [AutoNumberedBulletValue](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)
-* klass [TextAutonumberScheme](/cells/python-net/sv/aspose.cells.drawing.texts/textautonumberscheme)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`AutoNumberedBulletValue`](/cells/python-net/sv/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* klass [`TextAutonumberScheme`](/cells/python-net/sv/aspose.cells.drawing.texts/textautonumberscheme)

@@ -3,13 +3,13 @@ title: column fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 410
+weight: 420
 url: /sv/aspose.cells/cell/column/
 is_root: false
 ---
 ##  column fastighet
 
-Får column nummer (nollbaserat) för cellen.
+Hämtar numret column (nollbaserat) för cellen.
 ###  Definition:
 ```python
 @property

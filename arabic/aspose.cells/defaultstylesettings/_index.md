@@ -3,7 +3,7 @@ title: DefaultStyleSettings صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 480
+weight: 450
 url: /ar/aspose.cells/defaultstylesettings/
 is_root: false
 ---
@@ -17,10 +17,11 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [font_name](/cells/python-net/ar/aspose.cells/defaultstylesettings/font_name) | الحصول على/تعيين اسم الخط الافتراضي للمصنف|
-| [font_size](/cells/python-net/ar/aspose.cells/defaultstylesettings/font_size) | الحصول على/تعيين حجم الخط القياسي الافتراضي للمصنف.|
-| [horizontal_alignment](/cells/python-net/ar/aspose.cells/defaultstylesettings/horizontal_alignment) | الحصول على/تعيين القيمة الافتراضية للمحاذاة الأفقية|
-| [vertical_alignment](/cells/python-net/ar/aspose.cells/defaultstylesettings/vertical_alignment) | الحصول على/تعيين القيمة الافتراضية للمحاذاة العمودية|
+| [built_in_preference](/cells/python-net/ar/aspose.cells/defaultstylesettings/built_in_preference) | يشير إلى ما إذا كانت خاصية تنسيق الأرقام مفضلة عندما يحدد النمط كلاً من الرقم المدمج والنمط المخصص.<br/> القيمة الافتراضية هي false، وهذا يعني أنه سيتم استخدام نمط مخصص افتراضيًا لتنسيق القيم طالما أنه ليس فارغًا لنمط واحد.|
+| [font_name](/cells/python-net/ar/aspose.cells/defaultstylesettings/font_name) | يحصل على/يعين اسم الخط الافتراضي للمصنف|
+| [font_size](/cells/python-net/ar/aspose.cells/defaultstylesettings/font_size) | يحصل على/يحدد حجم الخط القياسي الافتراضي للمصنف.|
+| [horizontal_alignment](/cells/python-net/ar/aspose.cells/defaultstylesettings/horizontal_alignment) | يحصل على/يضبط القيمة الافتراضية للمحاذاة الأفقية|
+| [vertical_alignment](/cells/python-net/ar/aspose.cells/defaultstylesettings/vertical_alignment) | يحصل على/يضبط القيمة الافتراضية للمحاذاة الرأسية|
 
 
 

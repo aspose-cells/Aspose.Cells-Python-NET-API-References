@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_mode Eigentum
 
-Ruft den Anzeigemodus des Hintergrunds ab und legt ihn fest
+Ermittelt und setzt den Anzeigemodus des Hintergrunds
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def background_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [BackgroundMode](/cells/python-net/de/aspose.cells.charts/backgroundmode)
-* Klasse [PlotArea](/cells/python-net/de/aspose.cells.charts/plotarea)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`BackgroundMode`](/cells/python-net/de/aspose.cells.charts/backgroundmode)
+* Klasse [`PlotArea`](/cells/python-net/de/aspose.cells.charts/plotarea)

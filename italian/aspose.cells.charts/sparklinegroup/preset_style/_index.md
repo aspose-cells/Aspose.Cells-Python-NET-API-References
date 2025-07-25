@@ -1,6 +1,6 @@
 ---
 title: preset_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 160
@@ -21,6 +21,6 @@ def preset_style(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
-* classe [SparklinePresetStyleType](/cells/python-net/it/aspose.cells.charts/sparklinepresetstyletype)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/it/aspose.cells.charts/sparklinegroup)
+* classe [`SparklinePresetStyleType`](/cells/python-net/it/aspose.cells.charts/sparklinepresetstyletype)

@@ -7,16 +7,17 @@ weight: 80
 url: /sv/aspose.cells/worksheetcollection/create_union_range/
 is_root: false
 ---
-##  create_union_range(address, sheet_index) {#str-int}
-Skapar ett [Range](/cells/python-net/sv/aspose.cells/range)-objekt från en adress i intervallet.
+##  create_union_range(self, address, sheet_index) {#str-int}
+Skapar ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt från en adress i intervallet.
 
 
 ###  Returnerar
 
-Ett [Range](/cells/python-net/sv/aspose.cells/range) objekt
+Ett [`Range`](/cells/python-net/sv/aspose.cells/range)-objekt
 
 
 ```python
+
 def create_union_range(self, address, sheet_index):
     ...
 ```
@@ -24,12 +25,12 @@ def create_union_range(self, address, sheet_index):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| address | str | Adressen till området.|
-| sheet_index | int | Arkindex.|
+| address | str | Adressen för intervallet.|
+| sheet_index | int | Arkindexet.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Range](/cells/python-net/sv/aspose.cells/range)
-* klass [WorksheetCollection](/cells/python-net/sv/aspose.cells/worksheetcollection)
+* modul [`aspose.cells`](../../)
+* klass [`Range`](/cells/python-net/sv/aspose.cells/range)
+* klass [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)

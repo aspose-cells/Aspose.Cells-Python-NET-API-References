@@ -1,13 +1,13 @@
 ---
-title: formatting_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: formatting_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 170
 url: /zh/aspose.cells.charts/trendline/formatting_type/
 is_root: false
 ---
-## formatting_type 属性
+## formatting_type属性
 
 获取或设置格式类型。
 ### 定义：
@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartLineFormattingType](/cells/python-net/zh/aspose.cells.charts/chartlineformattingtype)
-* 类 [Trendline](/cells/python-net/zh/aspose.cells.charts/trendline)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartLineFormattingType`](/cells/python-net/zh/aspose.cells.charts/chartlineformattingtype)
+* 类 [`Trendline`](/cells/python-net/zh/aspose.cells.charts/trendline)

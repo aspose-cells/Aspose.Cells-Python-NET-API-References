@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reading_order fastighet
 
-Representerar textläsordning.
+Representerar textens läsordning.
 ###  Definition:
 ```python
 @property

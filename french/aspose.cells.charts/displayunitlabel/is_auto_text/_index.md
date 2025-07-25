@@ -3,7 +3,7 @@ title: is_auto_text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 230
 url: /fr/aspose.cells.charts/displayunitlabel/is_auto_text/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def is_auto_text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [DisplayUnitLabel](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)
+* module [`aspose.cells.charts`](../../)
+* classe [`DisplayUnitLabel`](/cells/python-net/fr/aspose.cells.charts/displayunitlabel)

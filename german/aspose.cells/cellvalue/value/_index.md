@@ -9,19 +9,19 @@ is_root: false
 ---
 ##  value Eigentum
 
-Ruft die Zelle value ab bzw. legt sie fest.
+Ruft die Zelle value ab/setzt sie.
 
 ###  Bemerkungen
 
-Die value muss vom richtigen Objekttyp sein, der der [`CellValue.type`](/cells/python-net/de/aspose.cells/cellvalue#type) entspricht:
+Die Nummer value muss vom richtigen Objekttyp sein, der der Nummer [`CellValue.type`](/cells/python-net/de/aspose.cells/cellvalue#type) entspricht:
 | Typ| Wert|
 | :- | :- |
 | null, jedes andere Objekt wird ignoriert|
 | double |
-| Terminzeit|
-| Zeichenfolge|
+| Datum/Uhrzeit|
+| Schnur|
 | bool|
-| Fehlerzeichenfolge wie „#VALUE!“, „#NAME?“, ...|
+| Fehlerzeichenfolgen wie „#VALUE!“, „#NAME?“, …|
 ###  Definition:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: parsing_pivot_cached_records недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 210
@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  parsing_pivot_cached_records недвижимость
 
-Указывает, выполняется ли разбор сводных кэшированных записей при загрузке файла.
-Значение по умолчанию неверно.
+Указывает, кэшируются ли записи при разборе сводной таблицы при загрузке файла.
+Значение по умолчанию — false.
 
 ###  Примечания
 
-Применяется только для файлов Excel Xlsx, Xltx, Xltm, Xlsm и xlsb.
+Применимо только к файлам Excel Xlsx, Xltx, Xltm, Xlsm и xlsb.
 ###  Определение:
 ```python
 @property
@@ -26,5 +26,5 @@ def parsing_pivot_cached_records(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [JsonLoadOptions](/cells/python-net/ru/aspose.cells/jsonloadoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`JsonLoadOptions`](/cells/python-net/ru/aspose.cells/jsonloadoptions)

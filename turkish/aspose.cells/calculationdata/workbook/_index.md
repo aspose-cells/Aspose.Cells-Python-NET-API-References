@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  workbook mülk
 
-İşlevin bulunduğu Çalışma Kitabı nesnesini alır.
+Fonksiyonun bulunduğu Çalışma Kitabı nesnesini alır.
 ###  Tanım:
 ```python
 @property

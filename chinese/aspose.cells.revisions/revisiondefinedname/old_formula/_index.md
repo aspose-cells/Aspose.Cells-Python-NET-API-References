@@ -1,15 +1,15 @@
 ---
-title: old_formula 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: old_formula属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 50
 url: /zh/aspose.cells.revisions/revisiondefinedname/old_formula/
 is_root: false
 ---
-## old_formula 属性
+## old_formula属性
 
-获取旧公式。
+得到旧公式。
 ### 定义：
 ```python
 @property
@@ -18,5 +18,5 @@ def old_formula(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.revisions](../../)
-* 类 [RevisionDefinedName](/cells/python-net/zh/aspose.cells.revisions/revisiondefinedname)
+* 模块[`aspose.cells.revisions`](../../)
+* 类 [`RevisionDefinedName`](/cells/python-net/zh/aspose.cells.revisions/revisiondefinedname)

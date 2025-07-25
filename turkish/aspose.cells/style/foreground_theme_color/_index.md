@@ -13,7 +13,7 @@ is_root: false
 
 ###  Notlar
 
-Ön plan rengi bir tema rengi değilse, NULL döndürülür.
+Ön plan rengi tema rengi değilse NULL döndürülür.
 ###  Tanım:
 ```python
 @property
@@ -25,6 +25,6 @@ def foreground_theme_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Style](/cells/python-net/tr/aspose.cells/style)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`Style`](/cells/python-net/tr/aspose.cells/style)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

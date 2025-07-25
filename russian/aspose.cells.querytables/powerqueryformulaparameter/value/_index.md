@@ -1,9 +1,9 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 50
+weight: 100
 url: /ru/aspose.cells.querytables/powerqueryformulaparameter/value/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.querytables](../../)
-* класс [PowerQueryFormulaParameter](/cells/python-net/ru/aspose.cells.querytables/powerqueryformulaparameter)
+* модуль [`aspose.cells.querytables`](../../)
+* класс [`PowerQueryFormulaParameter`](/cells/python-net/ru/aspose.cells.querytables/powerqueryformulaparameter)

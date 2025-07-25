@@ -1,5 +1,5 @@
 ---
-title: space_before الملكية
+title: space_before عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 210
 url: /ar/aspose.cells.drawing.texts/textparagraph/space_before/
 is_root: false
 ---
-##  space_before الملكية
+##  space_before عقار
 
-الحصول على مقدار المسافة البيضاء العمودية التي ستكون موجودة قبل فقرة وتعيينها.
+يحصل على مقدار المساحة البيضاء الرأسية التي ستكون موجودة قبل الفقرة ويحددها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_before(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

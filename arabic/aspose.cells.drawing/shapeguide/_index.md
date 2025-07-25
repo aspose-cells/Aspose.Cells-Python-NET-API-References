@@ -1,33 +1,33 @@
 ---
-title: ShapeGuide الدرجة
+title: ShapeGuide صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 550
+weight: 520
 url: /ar/aspose.cells.drawing/shapeguide/
 is_root: false
 ---
-##  ShapeGuide الدرجة
- تغليف دليل الشكل يحدد وجود دليل الشكل الذي سيتم استخدامه
-تحكم هندسة الشكل المحدد
+##  ShapeGuide صف
+ يغلف دليل الشكل ويحدد وجود دليل الشكل الذي سيتم استخدامه
+التحكم في هندسة الشكل المحدد
 
 
 
-**ميراث:** [ShapeGuide](/cells/python-net/aspose.cells.drawing/shapeguide) → 
-[BaseShapeGuide](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
+**الميراث:** [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) → 
+[`BaseShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
 
 
 
-يكشف نوع ShapeGuide الأعضاء التالية:
+يكشف النوع ShapeGuide عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [value](/cells/python-net/ar/aspose.cells.drawing/shapeguide/value) | الحصول على قيمة هذا الدليل أو تعيينها|
+| [value](/cells/python-net/ar/aspose.cells.drawing/shapeguide/value) | يحصل على قيمة هذا الدليل أو يعينها|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [BaseShapeGuide](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
-* فئة [ShapeGuide](/cells/python-net/ar/aspose.cells.drawing/shapeguide)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`BaseShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/baseshapeguide)
+* فئة [`ShapeGuide`](/cells/python-net/ar/aspose.cells.drawing/shapeguide)

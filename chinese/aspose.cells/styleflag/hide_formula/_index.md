@@ -1,13 +1,13 @@
 ---
-title: hide_formula 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: hide_formula属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 190
 url: /zh/aspose.cells/styleflag/hide_formula/
 is_root: false
 ---
-## hide_formula 属性
+## hide_formula属性
 
 将应用隐藏公式设置。
 ### 定义：
@@ -21,5 +21,5 @@ def hide_formula(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [StyleFlag](/cells/python-net/zh/aspose.cells/styleflag)
+* 模块[`aspose.cells`](../../)
+* 类 [`StyleFlag`](/cells/python-net/zh/aspose.cells/styleflag)

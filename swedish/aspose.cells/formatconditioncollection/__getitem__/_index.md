@@ -11,7 +11,7 @@ is_root: false
 
 Hämtar formateringsvillkoret efter index.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
 | index | indexet för formateringsvillkoret som ska returneras.|
 
@@ -22,5 +22,5 @@ Hämtar formateringsvillkoret efter index.
 formateringsvillkoret
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FormatConditionCollection](/cells/python-net/sv/aspose.cells/formatconditioncollection)
+* modul [`aspose.cells`](../../)
+* klass [`FormatConditionCollection`](/cells/python-net/sv/aspose.cells/formatconditioncollection)

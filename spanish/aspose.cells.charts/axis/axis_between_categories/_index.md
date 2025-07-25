@@ -13,7 +13,7 @@ Representa si el eje de valores cruza el eje de categorías entre categorías.
 
 ###  Observaciones
 
-Esta propiedad se aplica solo a ejes de categorías y no se aplica a gráficos 3D.
+Esta propiedad solo se aplica a los ejes de categorías y no a los gráficos 3D.
 ###  Definición:
 ```python
 @property

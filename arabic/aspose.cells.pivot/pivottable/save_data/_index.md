@@ -1,15 +1,15 @@
 ---
-title: save_data الملكية
+title: save_data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 990
 url: /ar/aspose.cells.pivot/pivottable/save_data/
 is_root: false
 ---
-##  save_data الملكية
+##  save_data عقار
 
-الإشارة إلى ما إذا كان سيتم حفظ بيانات تقرير PivotTable مع المصنف.
+يشير إلى ما إذا كان يتم حفظ البيانات الخاصة بتقرير PivotTable مع المصنف.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def save_data(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

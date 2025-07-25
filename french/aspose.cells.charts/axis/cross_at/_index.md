@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  cross_at propriété
 
-Représente le point sur l’axe des valeurs où l’axe des catégories le traverse.
+Représente le point sur l'axe des valeurs où l'axe des catégories le croise.
 
 ###  Remarques
 
-Le nombre doit être un entier lorsqu’il s’applique à l’axe des catégories.
+Le nombre doit être un entier lorsqu'il s'applique à l'axe des catégories.
 Et la valeur doit être comprise entre 1 et 31999.
 ###  Définition:
 ```python

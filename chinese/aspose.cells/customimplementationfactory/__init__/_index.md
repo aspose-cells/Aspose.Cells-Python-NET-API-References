@@ -1,18 +1,19 @@
 ---
-title: CustomImplementationFactory 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: CustomImplementationFactory 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/customimplementationfactory/__init__/
 is_root: false
 ---
-##  CustomImplementationFactory() {#}
-构造 CustomImplementationFactory 的新实例
+##  \_\_init\_\_（自身）{#}
+构造CustomImplementationFactory的新实例
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CustomImplementationFactory](/cells/python-net/zh/aspose.cells/customimplementationfactory)
+* 模块[`aspose.cells`](../../)
+* 类 [`CustomImplementationFactory`](/cells/python-net/zh/aspose.cells/customimplementationfactory)

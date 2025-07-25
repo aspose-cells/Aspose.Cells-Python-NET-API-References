@@ -1,5 +1,5 @@
 ---
-title: IndividualFontConfigs Konstrukteur
+title: IndividualFontConfigs Konstruktor
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /de/aspose.cells/individualfontconfigs/__init__/
 is_root: false
 ---
-##  IndividualFontConfigs() {#}
+##  \_\_init\_\_(selbst){#}
 Ctor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IndividualFontConfigs](/cells/python-net/de/aspose.cells/individualfontconfigs)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IndividualFontConfigs`](/cells/python-net/de/aspose.cells/individualfontconfigs)

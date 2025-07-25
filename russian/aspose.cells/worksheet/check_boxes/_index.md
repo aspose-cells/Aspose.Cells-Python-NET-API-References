@@ -1,9 +1,9 @@
 ---
 title: check_boxes недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 440
 url: /ru/aspose.cells/worksheet/check_boxes/
 is_root: false
 ---

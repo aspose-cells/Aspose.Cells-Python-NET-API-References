@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_formula mülk
 
-Metnin "=" ile başlaması halinde formül olup olmadığını gösterir.
+"=" ile başlıyorsa metnin formül olup olmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def has_formula(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TxtLoadOptions](/cells/python-net/tr/aspose.cells/txtloadoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`TxtLoadOptions`](/cells/python-net/tr/aspose.cells/txtloadoptions)

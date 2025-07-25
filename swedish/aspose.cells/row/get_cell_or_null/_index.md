@@ -7,8 +7,8 @@ weight: 60
 url: /sv/aspose.cells/row/get_cell_or_null/
 is_root: false
 ---
-##  get_cell_or_null(column) {#int}
-Hämtar cellen eller null i det specifika indexet.
+##  get_cell_or_null(self, column) {#int}
+Hämtar cellen eller nullvärdet i det specifika indexet.
 
 
 ###  Returnerar
@@ -18,6 +18,7 @@ Eller returnerar null om cellobjektet inte finns.
 
 
 ```python
+
 def get_cell_or_null(self, column):
     ...
 ```
@@ -25,10 +26,10 @@ def get_cell_or_null(self, column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| column | int | Kolumnindex|
+| column | int | Kolumnindexet|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Row](/cells/python-net/sv/aspose.cells/row)
+* modul [`aspose.cells`](../../)
+* klass [`Row`](/cells/python-net/sv/aspose.cells/row)

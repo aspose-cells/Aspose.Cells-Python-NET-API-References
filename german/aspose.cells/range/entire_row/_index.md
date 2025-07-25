@@ -3,7 +3,7 @@ title: entire_row Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 310
+weight: 410
 url: /de/aspose.cells/range/entire_row/
 is_root: false
 ---

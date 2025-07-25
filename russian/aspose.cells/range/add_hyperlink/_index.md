@@ -1,14 +1,14 @@
 ---
 title: add_hyperlink метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells/range/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink {#str-str-str}
-Добавляет гиперссылку в указанную ячейку или диапазон ячеек.
+##  add_hyperlink(self, address, text_to_display, screen_tip) {#str-str-str}
+Добавляет гиперссылку к указанной ячейке или диапазону ячеек.
 
 
 ###  Возврат
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_hyperlink(self, address, text_to_display, screen_tip):
     ...
 ```

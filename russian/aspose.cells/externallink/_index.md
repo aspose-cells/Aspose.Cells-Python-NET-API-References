@@ -1,14 +1,14 @@
 ---
 title: ExternalLink класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 590
+weight: 570
 url: /ru/aspose.cells/externallink/
 is_root: false
 ---
 ##  ExternalLink класс
-Представляет внешнюю ссылку в книге.
+Представляет внешнюю ссылку в рабочей книге.
 
 
 
@@ -18,6 +18,7 @@ is_root: false
 | Свойство| Описание|
 | :- | :- |
 | [type](/cells/python-net/ru/aspose.cells/externallink/type) | Получает тип внешней ссылки.|
+| [path_type](/cells/python-net/ru/aspose.cells/externallink/path_type) | Получить тип пути этой внешней ссылки|
 | [original_data_source](/cells/python-net/ru/aspose.cells/externallink/original_data_source) | Представляет сохраненный источник данных внешней ссылки.|
 | [data_source](/cells/python-net/ru/aspose.cells/externallink/data_source) | Представляет источник данных внешней ссылки.|
 | [is_referred](/cells/python-net/ru/aspose.cells/externallink/is_referred) | Указывает, ссылаются ли на эту внешнюю ссылку другие.|
@@ -27,7 +28,7 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add_external_name](/cells/python-net/ru/aspose.cells/externallink/add_external_name/#str-str) | Добавляет внешнее имя.|
+| [`add_external_name(self, text, refer_to)`](/cells/python-net/ru/aspose.cells/externallink/add_external_name/#str-str) | Добавляет внешнее имя.|
 
 
 

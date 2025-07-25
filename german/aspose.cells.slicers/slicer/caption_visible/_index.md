@@ -10,7 +10,7 @@ is_root: false
 ##  caption_visible Eigentum
 
 Gibt zurück oder legt fest, ob die Kopfzeile, die die Slicer-Beschriftung anzeigt, sichtbar ist
-der Standardwert ist wahr
+der Standardwert ist true
 
 ###  Beispiel
 
@@ -30,5 +30,5 @@ def caption_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

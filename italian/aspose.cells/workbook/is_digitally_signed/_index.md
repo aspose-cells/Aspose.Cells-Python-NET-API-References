@@ -1,9 +1,9 @@
 ---
 title: is_digitally_signed proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 610
+weight: 640
 url: /it/aspose.cells/workbook/is_digitally_signed/
 is_root: false
 ---

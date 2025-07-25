@@ -7,12 +7,13 @@ weight: 10
 url: /tr/aspose.cells.ods/odspagebackground/__init__/
 is_root: false
 ---
-##  OdsPageBackground() {#}
+##  \_\_init\_\_(kendi){#}
 OdsPageBackground'in yeni bir örneğini oluşturur
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsPageBackground](/cells/python-net/tr/aspose.cells.ods/odspagebackground)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsPageBackground`](/cells/python-net/tr/aspose.cells.ods/odspagebackground)

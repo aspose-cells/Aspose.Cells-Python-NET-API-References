@@ -3,16 +3,17 @@ title: intersect Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 50
+weight: 40
 url: /de/aspose.cells/unionrange/intersect/
 is_root: false
 ---
-##  intersect(range) {#str}
+##  intersect(self, range) {#str}
 Schneidet einen anderen Bereich.
 
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -23,15 +24,16 @@ def intersect(self, range):
 | range | str | Die Reichweite.|
 ###  Bemerkungen
 
-Wenn sich die beiden Vereinigungsbereiche nicht schneiden, wird null zurückgegeben.
+Wenn sich die beiden Vereinigungsbereiche nicht überschneiden, wird null zurückgegeben.
 
-##  intersect(union_range) {#UnionRange}
+##  intersect(self, union_range) {#aspose.cells.UnionRange}
 
 Schneidet einen anderen Bereich.
 
 
 
 ```python
+
 def intersect(self, union_range):
     ...
 ```
@@ -39,18 +41,19 @@ def intersect(self, union_range):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| union_range | [UnionRange](/cells/python-net/de/aspose.cells/unionrange) | Die Reichweite.|
+| union_range | [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange) | Die Reichweite.|
 ###  Bemerkungen
 
-Wenn sich die beiden Vereinigungsbereiche nicht schneiden, wird null zurückgegeben.
+Wenn sich die beiden Vereinigungsbereiche nicht überschneiden, wird null zurückgegeben.
 
-##  intersect(ranges) {#list}
+##  intersect(self, ranges) {#list}
 
 Schneidet einen anderen Bereich.
 
 
 
 ```python
+
 def intersect(self, ranges):
     ...
 ```
@@ -61,10 +64,10 @@ def intersect(self, ranges):
 | ranges | list | Die Reichweite.|
 ###  Bemerkungen
 
-Wenn sich die beiden Vereinigungsbereiche nicht schneiden, wird null zurückgegeben.
+Wenn sich die beiden Vereinigungsbereiche nicht überschneiden, wird null zurückgegeben.
 
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [UnionRange](/cells/python-net/de/aspose.cells/unionrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`UnionRange`](/cells/python-net/de/aspose.cells/unionrange)

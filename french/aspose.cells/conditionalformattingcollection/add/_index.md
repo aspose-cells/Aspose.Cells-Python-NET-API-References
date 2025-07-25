@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells/conditionalformattingcollection/add/
 is_root: false
 ---
-##  add() {#}
+##  add(self) {#}
 Ajoute un FormatConditions à la collection.
 
 
 ###  Retour
 
-Index d'objet FormatConditions.
+Index de l'objet FormatConditions.
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -26,5 +27,5 @@ def add(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ConditionalFormattingCollection](/cells/python-net/fr/aspose.cells/conditionalformattingcollection)
+* module [`aspose.cells`](../../)
+* classe [`ConditionalFormattingCollection`](/cells/python-net/fr/aspose.cells/conditionalformattingcollection)

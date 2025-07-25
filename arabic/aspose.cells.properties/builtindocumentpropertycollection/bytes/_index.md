@@ -1,15 +1,15 @@
 ---
-title: bytes الملكية
+title: bytes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 90
 url: /ar/aspose.cells.properties/builtindocumentpropertycollection/bytes/
 is_root: false
 ---
-##  bytes الملكية
+##  bytes عقار
 
-يمثل تقديرًا لعدد bytes في الوثيقة.
+يمثل تقديرًا لعدد bytes في المستند.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def bytes(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.properties](../../)
-* فئة [BuiltInDocumentPropertyCollection](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)
+* الوحدة [`aspose.cells.properties`](../../)
+* فئة [`BuiltInDocumentPropertyCollection`](/cells/python-net/ar/aspose.cells.properties/builtindocumentpropertycollection)

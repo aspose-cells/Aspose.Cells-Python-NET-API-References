@@ -8,12 +8,11 @@ url: /es/aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
 ##  RevisionMergeConflict clase
-Representa un registro de revisión que indica que hubo un conflicto de combinación.
+Representa un registro de revisión que indica que hubo un conflicto de fusión.
 
 
 
-**Herencia:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/es/aspose.cells.revisions/revision)
+**Herencia:** [`RevisionMergeConflict`](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict)
 
 
 
@@ -23,12 +22,11 @@ El tipo RevisionMergeConflict expone los siguientes miembros:
 | Propiedad| Descripción|
 | :- | :- |
 | [type](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict/type) | Obtiene el tipo de revisión.|
-| [worksheet](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict/worksheet) | Obtiene la hoja de trabajo.|
-| [id](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict/id) | Obtiene el número de esta revisión.|
+| [worksheet](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  Ver también
-* módulo [aspose.cells.revisions](..)
-* clase [Revision](/cells/python-net/es/aspose.cells.revisions/revision)
-* clase [RevisionMergeConflict](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict)
+* módulo [`aspose.cells.revisions`](..)
+* clase [`RevisionMergeConflict`](/cells/python-net/es/aspose.cells.revisions/revisionmergeconflict)

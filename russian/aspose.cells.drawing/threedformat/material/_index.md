@@ -1,6 +1,6 @@
 ---
 title: material недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  material недвижимость
 
-Представляет предустановку material, которая в сочетании со свойствами освещения дает
+Представляет собой предустановку material, которая в сочетании со свойствами освещения дает
 окончательный вид и ощущение формы.
 ###  Определение:
 ```python
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [PresetMaterialType](/cells/python-net/ru/aspose.cells.drawing/presetmaterialtype)
-* класс [ThreeDFormat](/cells/python-net/ru/aspose.cells.drawing/threedformat)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`PresetMaterialType`](/cells/python-net/ru/aspose.cells.drawing/presetmaterialtype)
+* класс [`ThreeDFormat`](/cells/python-net/ru/aspose.cells.drawing/threedformat)

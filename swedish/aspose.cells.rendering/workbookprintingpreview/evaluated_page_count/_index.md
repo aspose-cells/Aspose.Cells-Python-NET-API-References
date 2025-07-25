@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  evaluated_page_count fastighet
 
-Utvärdera det totala antalet sidor i denna arbetsbok
+Utvärdera det totala sidantalet i den här arbetsboken
 
 ###  Exempel
 
@@ -33,5 +33,5 @@ def evaluated_page_count(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [WorkbookPrintingPreview](/cells/python-net/sv/aspose.cells.rendering/workbookprintingpreview)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`WorkbookPrintingPreview`](/cells/python-net/sv/aspose.cells.rendering/workbookprintingpreview)

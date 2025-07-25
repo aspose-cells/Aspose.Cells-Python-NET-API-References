@@ -1,19 +1,19 @@
 ---
 title: is_default_encrypted proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 220
+weight: 250
 url: /it/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted proprietà
 
-Indica se crittografare la cartella di lavoro con password predefinita se Struttura e Windows della cartella di lavoro sono bloccati.
+Indica se crittografare la cartella di lavoro con la password predefinita se la struttura e Windows della cartella di lavoro sono bloccate.
 
 ###  Osservazioni
 
-Il valore predefinito ora è false. È uguale a MS Excel 2013.
+Il valore predefinito ora è "false". È lo stesso di MS Excel 2013.
 ###  Definizione:
 ```python
 @property

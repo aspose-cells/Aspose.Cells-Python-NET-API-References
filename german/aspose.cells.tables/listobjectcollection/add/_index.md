@@ -7,16 +7,17 @@ weight: 20
 url: /de/aspose.cells.tables/listobjectcollection/add/
 is_root: false
 ---
-##  add(start_cell, end_cell, has_headers) {#str-str-bool}
+##  add(self, start_cell, end_cell, has_headers) {#str-str-bool}
 Fügt dem Arbeitsblatt ein ListObject hinzu.
 
 
 ###  Kehrt zurück
 
-Der Index des neuen ListObject
+Der Index des neuen ListObjects
 
 
 ```python
+
 def add(self, start_cell, end_cell, has_headers):
     ...
 ```
@@ -24,21 +25,22 @@ def add(self, start_cell, end_cell, has_headers):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| start_cell | str | Die Startzelle des Listenbereichs.|
+| start_cell | str |Die Startzelle des Listenbereichs.|
 | end_cell | str | Die Endzelle des Listenbereichs.|
-| has_headers | bool | Ob der Bereich Header hat.|
+| has_headers | bool | Ob der Bereich Überschriften hat.|
 
 
-##  add(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+##  add(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
 Fügt dem Arbeitsblatt ein ListObject hinzu.
 
 
 ###  Kehrt zurück
 
-Der Index des neuen ListObject
+Der Index des neuen ListObjects
 
 
 ```python
+
 def add(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```
@@ -46,14 +48,14 @@ def add(self, start_row, start_column, end_row, end_column, has_headers):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| start_row | int | Die Anfangszeile des Listenbereichs.|
-| start_column | int | Die Anfangszeile des Listenbereichs.|
-| end_row | int | Die Anfangszeile des Listenbereichs.|
-| end_column | int | Die Anfangszeile des Listenbereichs.|
-| has_headers | bool | Ob der Bereich Header hat.|
+| start_row | int | Die Startzeile des Listenbereichs.|
+| start_column | int | Die Startzeile des Listenbereichs.|
+| end_row | int | Die Startzeile des Listenbereichs.|
+| end_column | int | Die Startzeile des Listenbereichs.|
+| has_headers | bool | Ob der Bereich Überschriften hat.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [ListObjectCollection](/cells/python-net/de/aspose.cells.tables/listobjectcollection)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`ListObjectCollection`](/cells/python-net/de/aspose.cells.tables/listobjectcollection)

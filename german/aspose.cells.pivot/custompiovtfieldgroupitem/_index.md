@@ -17,7 +17,7 @@ Der Typ CustomPiovtFieldGroupItem macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [__init__](/cells/python-net/de/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Der Konstruktor des benutzerdefinierten Gruppenelements des Pivot-Felds.|
+| [`__init__(self, name, item_indexes)`](/cells/python-net/de/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/#str-list) | Der Konstruktor des benutzerdefinierten Gruppenelements des Pivot-Felds.|
 
 
 

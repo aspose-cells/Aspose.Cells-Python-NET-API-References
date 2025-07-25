@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  fore_color mülk
 
-Kenar çizgisi ön rengini alır ve ayarlar.
+Sınır çizgisinin ön rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def fore_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [MsoLineFormatHelper](/cells/python-net/tr/aspose.cells.drawing/msolineformathelper)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`MsoLineFormatHelper`](/cells/python-net/tr/aspose.cells.drawing/msolineformathelper)

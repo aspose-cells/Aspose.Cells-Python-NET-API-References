@@ -3,22 +3,23 @@ title: get_style_in_pool yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 190
+weight: 200
 url: /tr/aspose.cells/workbook/get_style_in_pool/
 is_root: false
 ---
-##  get_style_in_pool(index) {#int}
+##  get_style_in_pool(self, index) {#int}
 Stil havuzundaki stili alır.
-Çalışma kitabındaki tüm stiller bir havuzda toplanacaktır.
-Hücrelerde sadece basit bir referans dizini vardır.
+Çalışma kitabındaki tüm stiller bir havuzda toplanacak.
+Hücrelerde sadece basit bir referans indeksi bulunmaktadır.
 
 
 ###  İadeler
 
-Havuzdaki stil, verilen dizine karşılık gelir, boş olabilir.
+Havuzdaki stil verilen indekse karşılık gelir, boş olabilir.
 
 
 ```python
+
 def get_style_in_pool(self, index):
     ...
 ```
@@ -26,13 +27,13 @@ def get_style_in_pool(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | İçerik.|
+| index | int | Endeks.|
 ###  Notlar
 
-Döndürülen stil değiştirilirse, (bu stile atıfta bulunan) tüm hücrelerin stili değişecektir.
+Döndürülen stil değiştirilirse, bu stile atıfta bulunan tüm hücrelerin stili değişecektir.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [Workbook](/cells/python-net/tr/aspose.cells/workbook)
+* modül [`aspose.cells`](../../)
+* sınıf [`Workbook`](/cells/python-net/tr/aspose.cells/workbook)

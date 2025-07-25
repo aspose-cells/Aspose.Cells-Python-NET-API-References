@@ -1,6 +1,6 @@
 ---
 title: ignore_not_printed недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 180
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_not_printed недвижимость
 
-Игнорируйте данные, которые не печатаются при прямой печати файла.
+Игнорируйте данные, которые не печатаются, если файл печатается напрямую.
 
 ###  Примечания
 

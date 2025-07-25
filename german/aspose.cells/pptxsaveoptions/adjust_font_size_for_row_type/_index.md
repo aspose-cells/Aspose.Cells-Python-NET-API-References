@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  adjust_font_size_for_row_type Eigentum
 
-Stellt dar, welcher Zeilentyp angepasst werden muss. Die Schriftgröße muss angepasst werden, wenn die Zeilenhöhe klein ist.
+Gibt an, bei welchem Zeilentyp die Schriftgröße angepasst werden muss, wenn die Zeilenhöhe zu klein ist.
 ###  Definition:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: set_color метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ru/aspose.cells/bordercollection/set_color/
 is_root: false
 ---
-##  set_color(color) {#aspose.pydrawing.Color}
+##  set_color(self, color) {#aspose.pydrawing.Color}
 Задает цвет всех границ в коллекции.
 
 
 
 ```python
+
 def set_color(self, color):
     ...
 ```
@@ -25,5 +26,5 @@ def set_color(self, color):
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [BorderCollection](/cells/python-net/ru/aspose.cells/bordercollection)
+* модуль [`aspose.cells`](../../)
+* класс [`BorderCollection`](/cells/python-net/ru/aspose.cells/bordercollection)

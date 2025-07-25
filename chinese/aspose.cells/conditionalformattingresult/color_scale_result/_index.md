@@ -1,13 +1,13 @@
 ---
-title: color_scale_result 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: color_scale_result属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/conditionalformattingresult/color_scale_result/
 is_root: false
 ---
-## color_scale_result 属性
+## color_scale_result属性
 
 获取色标的显示颜色。
 ### 定义：
@@ -18,5 +18,5 @@ def color_scale_result(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ConditionalFormattingResult](/cells/python-net/zh/aspose.cells/conditionalformattingresult)
+* 模块[`aspose.cells`](../../)
+* 类 [`ConditionalFormattingResult`](/cells/python-net/zh/aspose.cells/conditionalformattingresult)

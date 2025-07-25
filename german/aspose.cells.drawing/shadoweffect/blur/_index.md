@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur Eigentum
 
-Ruft die blur des Schattens ab und setzt sie. Bereich von 0 bis 100 Punkten.
+Ruft den blur des Schattens ab und legt ihn fest. Bereich von 0 bis 100 Punkten.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShadowEffect](/cells/python-net/de/aspose.cells.drawing/shadoweffect)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShadowEffect`](/cells/python-net/de/aspose.cells.drawing/shadoweffect)

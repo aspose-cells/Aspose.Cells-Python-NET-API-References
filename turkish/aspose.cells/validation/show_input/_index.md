@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_input mülk
 
-Kullanıcı veri doğrulama aralığındaki bir hücreyi seçtiğinde veri doğrulama giriş mesajının görüntülenip görüntülenmeyeceğini belirtir.
+Kullanıcının veri doğrulama aralığındaki bir hücreyi seçtiğinde veri doğrulama giriş mesajının görüntülenip görüntülenmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property

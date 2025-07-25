@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  row mülk
 
-Hücrenin row dizinini alır.
+Hücrenin row indeksini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def row(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.revisions](../../)
-* sınıf [RevisionCellChange](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)
+* modül [`aspose.cells.revisions`](../../)
+* sınıf [`RevisionCellChange`](/cells/python-net/tr/aspose.cells.revisions/revisioncellchange)

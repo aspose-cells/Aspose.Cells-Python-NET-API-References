@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  sub_title mülk
 
-Grafiğin alt başlığını alır.
-Yalnızca ODS formatındaki dosya için.
+Tablonun alt başlığını alır.
+Sadece ODS formatlı dosya için.
 ###  Tanım:
 ```python
 @property

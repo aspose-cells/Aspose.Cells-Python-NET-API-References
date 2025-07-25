@@ -3,7 +3,7 @@ title: has_multi_level_labels mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 170
+weight: 180
 url: /tr/aspose.cells.charts/axis/has_multi_level_labels/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Etiketlerin çok seviyeli olarak gösterilip gösterilmeyeceğini belirtir.
 
 ###  Notlar
 
-Yalnızca kategori ekseni için geçerlidir.
+Sadece kategori ekseni için geçerlidir.
 ###  Tanım:
 ```python
 @property

@@ -3,7 +3,7 @@ title: enable_macros属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 170
+weight: 200
 url: /zh/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 启用宏；
 
-### 评论
+### 注意事项
 
 现在，它仅在将工作表复制到工作簿中的其他工作表时才有效。
 ### 定义：

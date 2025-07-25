@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propiedad
 
-Obtiene/establece el type del valor de la celda.
+Obtiene/establece el valor de celda type.
 ###  Definición:
 ```python
 @property

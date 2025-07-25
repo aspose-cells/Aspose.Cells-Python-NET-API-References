@@ -7,16 +7,17 @@ weight: 50
 url: /de/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/
 is_root: false
 ---
-##  get_column_labels_of_pivot_table() {#}
-Ruft den Namen der Bezeichnung „Spaltenbeschriftungen“ in der PivotTable ab.
+##  get_column_labels_of_pivot_table(self) {#}
+Ruft den Namen der Beschriftung „Spaltenbeschriftungen“ in der PivotTable ab.
 
 
 ###  Kehrt zurück
 
-Der Name von Spaltenbeschriftungen
+Der Name der Spaltenbeschriftungen
 
 
 ```python
+
 def get_column_labels_of_pivot_table(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_column_labels_of_pivot_table(self):
 
 ###  Bemerkungen
 
-HINWEIS: Dieses Mitglied ist jetzt veraltet. Stattdessen,
-verwenden Sie bitte die Methode GlobalizationSettings.GetColumnLabelsOfPivotTable().
- Diese Property wird 12 Monate später seit Dezember 2022 entfernt.
-Aspose entschuldigt sich für etwaige Unannehmlichkeiten.
+HINWEIS: Dieses Mitglied ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Methode PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ Diese Eigenschaft wird 12 Monate später (ab Dezember 2022) entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GlobalizationSettings](/cells/python-net/de/aspose.cells/globalizationsettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GlobalizationSettings`](/cells/python-net/de/aspose.cells/globalizationsettings)

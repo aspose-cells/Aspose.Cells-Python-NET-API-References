@@ -1,9 +1,9 @@
 ---
 title: original_items недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 520
+weight: 610
 url: /ru/aspose.cells.pivot/pivotfield/original_items/
 is_root: false
 ---

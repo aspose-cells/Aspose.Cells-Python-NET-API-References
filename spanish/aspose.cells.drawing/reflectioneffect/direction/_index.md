@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction propiedad
 
-Obtiene y establece el direction de la rampa de degradado alfa en relación con la propia forma.
+Obtiene y establece el direction de la rampa de gradiente alfa en relación con la forma misma.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def direction(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ReflectionEffect](/cells/python-net/es/aspose.cells.drawing/reflectioneffect)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ReflectionEffect`](/cells/python-net/es/aspose.cells.drawing/reflectioneffect)

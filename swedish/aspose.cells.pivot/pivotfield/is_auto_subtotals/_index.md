@@ -3,13 +3,13 @@ title: is_auto_subtotals fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 400
+weight: 480
 url: /sv/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ##  is_auto_subtotals fastighet
 
-Anger om det angivna fältet visar automatiska delsummor. Standard är sant.
+Anger om det angivna fältet visar automatiska delsummor. Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  interval fastighet
 
-Får gruppens interval.
+Hämtar gruppens interval.
 ###  Definition:
 ```python
 @property

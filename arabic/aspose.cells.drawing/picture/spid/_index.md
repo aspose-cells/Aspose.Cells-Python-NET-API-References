@@ -3,13 +3,13 @@ title: spid عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1090
+weight: 1110
 url: /ar/aspose.cells.drawing/picture/spid/
 is_root: false
 ---
 ##  spid عقار
 
-يحدد سلسلة اختيارية يمكن للتطبيق استخدامها لتحديد شكل معين.
+يقوم بتحديد معرف سلسلة اختياري يمكن للتطبيق استخدامه لتحديد الشكل المحدد.
 
 ###  مثال
 

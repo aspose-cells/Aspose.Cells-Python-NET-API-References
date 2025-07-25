@@ -3,13 +3,13 @@ title: show_category_name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 390
+weight: 460
 url: /fr/aspose.cells.charts/datalabels/show_category_name/
 is_root: false
 ---
 ##  show_category_name propriété
 
-Représente le comportement d'affichage du nom de catégorie d'étiquette de données d'un graphique spécifié. True pour afficher le nom de catégorie pour les étiquettes de données sur un graphique. Faux pour se cacher.
+Représente le comportement d'affichage du nom de catégorie des étiquettes de données d'un graphique spécifié. La valeur « True » affiche le nom de catégorie des étiquettes de données d'un graphique. La valeur « False » le masque.
 ###  Définition:
 ```python
 @property

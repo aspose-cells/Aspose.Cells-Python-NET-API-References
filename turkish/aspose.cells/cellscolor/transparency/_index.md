@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency mülk
 
-transparency'i 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak alır ve ayarlar.
+transparency değerini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)

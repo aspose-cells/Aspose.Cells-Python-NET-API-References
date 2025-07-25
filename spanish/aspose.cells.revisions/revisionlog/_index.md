@@ -8,7 +8,7 @@ url: /es/aspose.cells.revisions/revisionlog/
 is_root: false
 ---
 ##  RevisionLog clase
-Representa el registro de revisión.
+Representa el registro de revisiones.
 
 
 
@@ -23,4 +23,4 @@ El tipo RevisionLog expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.revisions](..)
+* módulo [`aspose.cells.revisions`](..)

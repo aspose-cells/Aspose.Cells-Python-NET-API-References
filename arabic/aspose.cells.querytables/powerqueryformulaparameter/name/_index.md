@@ -1,15 +1,15 @@
 ---
-title: name الملكية
+title: name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 30
+weight: 60
 url: /ar/aspose.cells.querytables/powerqueryformulaparameter/name/
 is_root: false
 ---
-##  name الملكية
+##  name عقار
 
-يحصل على name للمعامل.
+يحصل على name من صيغة استعلام الطاقة ويقوم بتعيينها.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.querytables](../../)
-* فئة [PowerQueryFormulaParameter](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulaparameter)
+* الوحدة [`aspose.cells.querytables`](../../)
+* فئة [`PowerQueryFormulaParameter`](/cells/python-net/ar/aspose.cells.querytables/powerqueryformulaparameter)

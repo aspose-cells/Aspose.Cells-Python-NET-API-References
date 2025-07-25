@@ -3,14 +3,14 @@ title: height_scale属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 490
 url: /zh/aspose.cells.drawing/radiobutton/height_scale/
 is_root: false
 ---
 ## height_scale属性
 
-获取和设置高度比例，单位为原始图片高度的百分比。
-如果形状不是图片，则HeightScale属性仅返回100；
+获取或设置高度比例，以原始图片高度的百分比为单位。
+如果形状不是图片，HeightScale属性只返回100；
 
 ### 例子
 

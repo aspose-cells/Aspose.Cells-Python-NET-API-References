@@ -1,13 +1,13 @@
 ---
-title: metodo get_relationship_data
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_relationship_data
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/
 is_root: false
 ---
-##  get_relationship_data(rel_id) {#str}
+##  get_relationship_data(self, rel_id) {#str}
 Ottiene i dati correlati.
 
 
@@ -17,6 +17,7 @@ Restituisce i dati correlati.
 
 
 ```python
+
 def get_relationship_data(self, rel_id):
     ...
 ```
@@ -24,10 +25,10 @@ def get_relationship_data(self, rel_id):
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| rel_id | str | L'identificazione della relazione.|
+| rel_id | str | L'ID della relazione.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing.activexcontrols](../../)
-* classe [UnknownControl](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)
+* modulo [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`UnknownControl`](/cells/python-net/it/aspose.cells.drawing.activexcontrols/unknowncontrol)

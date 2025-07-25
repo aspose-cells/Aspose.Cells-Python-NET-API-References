@@ -3,7 +3,7 @@ title: name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 860
+weight: 870
 url: /fr/aspose.cells.drawing/scrollbar/name/
 is_root: false
 ---

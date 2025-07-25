@@ -3,13 +3,13 @@ title: top_cm fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1250
+weight: 1260
 url: /sv/aspose.cells.drawing/oleobject/top_cm/
 is_root: false
 ---
 ##  top_cm fastighet
 
-Representerar den vertikala förskjutningen av formen från dess översta rad, i centimeterenhet.
+Representerar formens vertikala förskjutning från dess översta rad, i centimeter.
 
 ###  Exempel
 

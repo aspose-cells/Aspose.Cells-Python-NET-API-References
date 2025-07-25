@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
-##  refresh() {#}
-Aktualisieren des Slicers. In der Zwischenzeit Aktualisieren und Berechnen relativer PivotTables.
+##  refresh(self) {#}
+Aktualisieren des Slicers. In der Zwischenzeit werden relative PivotTables aktualisiert und berechnet.
 
 
 
 ```python
+
 def refresh(self):
     ...
 ```
@@ -30,5 +31,5 @@ slicer.refresh()
 
 
 ###  Siehe auch
-* Modul [aspose.cells.slicers](../../)
-* Klasse [Slicer](/cells/python-net/de/aspose.cells.slicers/slicer)
+* Modul [`aspose.cells.slicers`](../../)
+* Klasse [`Slicer`](/cells/python-net/de/aspose.cells.slicers/slicer)

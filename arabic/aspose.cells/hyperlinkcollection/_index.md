@@ -3,12 +3,12 @@ title: HyperlinkCollection صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 830
 url: /ar/aspose.cells/hyperlinkcollection/
 is_root: false
 ---
 ##  HyperlinkCollection صف
-يغلف مجموعة من [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink) كائن.
+يقوم بتغليف مجموعة من الكائنات [`Hyperlink`](/cells/python-net/ar/aspose.cells/hyperlink).
 
 
 
@@ -17,23 +17,23 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [capacity](/cells/python-net/ar/aspose.cells/hyperlinkcollection/capacity) | الحصول على أو تعيين عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة.|
+| [capacity](/cells/python-net/ar/aspose.cells/hyperlinkcollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [add](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#int-int-int-int-str) | إضافة ارتباط تشعبي إلى خلية محددة أو نطاق من الخلايا.|
-| [add](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#str-int-int-str) | إضافة ارتباط تشعبي إلى خلية محددة أو نطاق من الخلايا.|
-| [add](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#str-str-str-str-str) | إضافة ارتباط تشعبي إلى خلية محددة أو نطاق من الخلايا.|
-| [copy_to](/cells/python-net/ar/aspose.cells/hyperlinkcollection/copy_to/#list) | نسخ قائمة الصفيف بأكملها إلى قائمة صفيف أحادية البعد متوافقة، بدءًا من بداية قائمة الصفيف الهدف.|
-| [copy_to](/cells/python-net/ar/aspose.cells/hyperlinkcollection/copy_to/#int-list-int-int) | نسخ نطاق من العناصر من قائمة المصفوفات إلى قائمة مصفوفات متوافقة أحادية البعد، بدءًا من الفهرس المحدد لقائمة المصفوفات المستهدفة.|
-| [index_of](/cells/python-net/ar/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.Hyperlink-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
-| [index_of](/cells/python-net/ar/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.Hyperlink-int-int) |يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ عند الفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن قائمة الصفيف بأكملها.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
-| [last_index_of](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.Hyperlink-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس الصفري للتواجد الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على العدد المحدد من العناصر وينتهي عند الفهرس المحدد.|
-| [binary_search](/cells/python-net/ar/aspose.cells/hyperlinkcollection/binary_search/#aspose.cells.Hyperlink) | يبحث في قائمة المصفوفات التي تم فرزها بالكامل عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس الصفري للعنصر.|
+| [`add(self, first_row, first_column, total_rows, total_columns, address)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#int-int-int-int-str) | يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.|
+| [`add(self, cell_name, total_rows, total_columns, address)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#str-int-int-str) | يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.|
+| [`add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/add/#str-str-str-str-str) | يضيف ارتباطًا تشعبيًا إلى خلية محددة أو نطاق من الخلايا.|
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.hyperlink-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.hyperlink-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.hyperlink) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.hyperlink-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/last_index_of/#aspose.cells.hyperlink-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells/hyperlinkcollection/binary_search/#aspose.cells.hyperlink) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
 
 
 

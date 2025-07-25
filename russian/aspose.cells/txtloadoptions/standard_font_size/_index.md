@@ -1,9 +1,9 @@
 ---
 title: standard_font_size недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 390
 url: /ru/aspose.cells/txtloadoptions/standard_font_size/
 is_root: false
 ---
@@ -13,9 +13,9 @@ is_root: false
 
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот элемент устарел. Вместо этого используйте DefaultStyleSettings.
- Этот объект недвижимости будет удален через 12 месяцев, начиная с марта 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ПРИМЕЧАНИЕ: Этот элемент устарел. Вместо него используйте DefaultStyleSettings.
+ Эта недвижимость будет снесена через 12 месяцев, с марта 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 ###  Определение:
 ```python
 @property

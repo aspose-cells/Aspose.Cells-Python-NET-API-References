@@ -1,18 +1,19 @@
 ---
 title: get_password_hash方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/protection/get_password_hash/
 is_root: false
 ---
-##  get_password_hash() {#}
+##  get_password_hash(self) {#}
 获取当前密码的哈希值。
 
 
 
 ```python
+
 def get_password_hash(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_password_hash(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Protection](/cells/python-net/zh/aspose.cells/protection)
+* 模块[`aspose.cells`](../../)
+* 类 [`Protection`](/cells/python-net/zh/aspose.cells/protection)

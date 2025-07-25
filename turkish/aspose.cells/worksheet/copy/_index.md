@@ -7,12 +7,13 @@ weight: 130
 url: /tr/aspose.cells/worksheet/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Worksheet}
+##  copy(self, source_sheet) {#aspose.cells.Worksheet}
 Başka bir çalışma sayfasından içerikleri ve biçimleri kopyalar.
 
 
 
 ```python
+
 def copy(self, source_sheet):
     ...
 ```
@@ -23,12 +24,13 @@ def copy(self, source_sheet):
 | source_sheet | [`Worksheet`](/cells/python-net/tr/aspose.cells/worksheet) | Kaynak çalışma sayfası.|
 
 
-##  copy {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
+##  copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
 Başka bir çalışma sayfasından içerikleri ve biçimleri kopyalar.
 
 
 
 ```python
+
 def copy(self, source_sheet, copy_options):
     ...
 ```
@@ -40,7 +42,7 @@ def copy(self, source_sheet, copy_options):
 | copy_options | [`CopyOptions`](/cells/python-net/tr/aspose.cells/copyoptions) |  |
 ###  Notlar
 
-Aynı dosyada veya başka bir dosyada başka bir çalışma sayfasındaki verileri copy yapabilirsiniz. Ancak bu yöntem, yorumlar, resimler ve grafikler gibi copy çizim nesnelerini desteklemez.
+Aynı dosyada veya başka bir dosyada başka bir çalışma sayfasından veri alabilirsiniz. Ancak bu yöntem, yorumlar, resimler ve grafikler gibi çizim nesnelerini desteklemez.
 
 
 ###  Ayrıca bakınız

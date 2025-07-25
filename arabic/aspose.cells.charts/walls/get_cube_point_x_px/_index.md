@@ -7,13 +7,14 @@ weight: 30
 url: /ar/aspose.cells.charts/walls/get_cube_point_x_px/
 is_root: false
 ---
-##  get_cube_point_x_px(index) {#int}
-الحصول على إحداثيات x لنقطة قمة مكعب الجدران بعد استدعاء طريقة Chart.Calculate ().
-عدد نقاط قمة مكعب الجدران ثمانية
+##  get_cube_point_x_px(self, index) {#int}
+يحصل على إحداثيات x لنقطة قمة مكعب الجدران بعد استدعاء طريقة Chart.Calculate().
+عدد نقاط قمة جدران المكعب هو ثمانية
 
 
 
 ```python
+
 def get_cube_point_x_px(self, index):
     ...
 ```
@@ -26,5 +27,5 @@ def get_cube_point_x_px(self, index):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Walls](/cells/python-net/ar/aspose.cells.charts/walls)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Walls`](/cells/python-net/ar/aspose.cells.charts/walls)

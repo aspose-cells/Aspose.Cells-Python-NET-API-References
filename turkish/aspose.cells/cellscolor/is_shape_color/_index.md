@@ -9,12 +9,12 @@ is_root: false
 ---
 ##  is_shape_color mülk
 
-Hücre veya şekle uygulanması gereken rengi alır ve ayarlar.
+Hücreye veya şekle uygulanacak rengi alır ve ayarlar.
 
 ###  Notlar
 
-Hücrenin renginin ve şeklinin ifadesi farklıdır.
-Örneğin: aynı renk tonu değerine sahip tema rengi, hücrede ve şekilde aynı olmayacaktır.
+Hücrenin renginin ifadesi ve şekli farklıdır.
+Örneğin: Aynı renk tonu değerine sahip tema rengi hücrede ve şekilde aynı olmayacaktır.
 ###  Tanım:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_shape_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)

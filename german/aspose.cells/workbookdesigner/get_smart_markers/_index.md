@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells/workbookdesigner/get_smart_markers/
 is_root: false
 ---
-##  get_smart_markers() {#}
+##  get_smart_markers(self) {#}
 Gibt eine Sammlung intelligenter Markierungen in einer Tabelle zurück.
 
 
@@ -17,6 +17,7 @@ Eine Sammlung intelligenter Marker
 
 
 ```python
+
 def get_smart_markers(self):
     ...
 ```
@@ -29,5 +30,5 @@ Bei jedem Aufruf wird ein String-Array erstellt. Das Array wird sortiert und dop
 
 ###  Siehe auch
 
-* Modul [aspose.cells](../../)
-* Klasse [WorkbookDesigner](/cells/python-net/de/aspose.cells/workbookdesigner)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookDesigner`](/cells/python-net/de/aspose.cells/workbookdesigner)

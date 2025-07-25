@@ -3,13 +3,13 @@ title: FormatConditionCollection klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 710
 url: /sv/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection klass
-Representerar villkorlig formatering.
-Formatvillkoren kan innehålla upp till tre villkorliga format.
+Representerar villkorsstyrd formatering.
+FormatConditions kan innehålla upp till tre villkorliga format.
 
 
 
@@ -18,29 +18,29 @@ Typen FormatConditionCollection avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [count](/cells/python-net/sv/aspose.cells/formatconditioncollection/count) | Får räkningen av villkoren.|
-| [range_count](/cells/python-net/sv/aspose.cells/formatconditioncollection/range_count) | Hämtar antalet villkorligt formaterade intervall.|
+| [count](/cells/python-net/sv/aspose.cells/formatconditioncollection/count) | Hämtar antalet villkor.|
+| [range_count](/cells/python-net/sv/aspose.cells/formatconditioncollection/range_count) | Hämtar antal villkorligt formaterade områden.|
 
 
 
 Hämtar formateringsvillkoret efter index.
 ###  Indexerare
-| namn| Beskrivning|
+| Namn| Beskrivning|
 | :- | :- |
-| [index] |indexet för formateringsvillkoret som ska returneras.|
+| [index] | indexet för formateringsvillkoret som ska returneras.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [add_condition](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Lägger till ett formateringsvillkor.|
-| [add_condition](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Lägg till ett formatvillkor.|
-| [remove_area](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_area/#int) | Tar bort villkorligt formaterat cellintervall efter index.|
-| [remove_area](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Ta bort villkorlig formatering i intervallet.|
-| [add](/cells/python-net/sv/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Lägger till ett formateringsvillkor och påverkad cellring till FormatConditions<br/>Formatvillkoren kan innehålla upp till tre villkorliga format.<br/> Referenser till de andra arken är inte tillåtna i formlerna för villkorlig formatering.|
-| [add_area](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Lägger till ett villkorligt formaterat cellintervall.|
-| [get_cell_area](/cells/python-net/sv/aspose.cells/formatconditioncollection/get_cell_area/#int) | Hämtar det villkorligt formaterade cellintervallet efter index.|
-| [remove_condition](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_condition/#int) | Tar bort formateringsvillkoret genom index.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Lägger till ett formateringsvillkor.|
+| [`add_condition(self, type)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Lägg till ett formatvillkor.|
+| [`remove_area(self, index)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_area/#int) | Tar bort villkorsstyrt formaterat cellområde efter index.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Ta bort villkorsstyrd formatering i området.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |Lägger till ett formateringsvillkor och påverkat cellnummer till FormatConditions<br/>FormatConditions kan innehålla upp till tre villkorliga format.<br/> Referenser till andra ark är inte tillåtna i formler för villkorsstyrd formatering.|
+| [`add_area(self, cell_area)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Lägger till ett villkorsstyrt formaterat cellområde.|
+| [`get_cell_area(self, index)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/get_cell_area/#int) | Hämtar det villkorsstyrda formaterade cellområdet efter index.|
+| [`remove_condition(self, index)`](/cells/python-net/sv/aspose.cells/formatconditioncollection/remove_condition/#int) | Tar bort formateringsvillkoret efter index.|
 
 
 

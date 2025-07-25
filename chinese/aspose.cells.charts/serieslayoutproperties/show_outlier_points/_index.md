@@ -1,13 +1,13 @@
 ---
-title: show_outlier_points 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: show_outlier_points属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 110
+weight: 120
 url: /zh/aspose.cells.charts/serieslayoutproperties/show_outlier_points/
 is_root: false
 ---
-## show_outlier_points 属性
+## show_outlier_points属性
 
 指示是否显示异常数据点。
 ### 定义：
@@ -21,5 +21,5 @@ def show_outlier_points(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [SeriesLayoutProperties](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`SeriesLayoutProperties`](/cells/python-net/zh/aspose.cells.charts/serieslayoutproperties)

@@ -1,18 +1,19 @@
 ---
 title: show_group_detail метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 900
+weight: 920
 url: /ru/aspose.cells/cells/show_group_detail/
 is_root: false
 ---
-##  show_group_detail {#bool-int}
+##  show_group_detail(self, is_vertical, index) {#bool-int}
 Разворачивает сгруппированные строки/столбцы.
 
 
 
 ```python
+
 def show_group_detail(self, is_vertical, index):
     ...
 ```
@@ -20,7 +21,7 @@ def show_group_detail(self, is_vertical, index):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| is_vertical | bool | Правда, расширяет сгруппированные строки.|
+| is_vertical | bool | True, расширяет сгруппированные строки.|
 | index | int | Индекс строки/столбца|
 
 

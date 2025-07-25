@@ -3,13 +3,13 @@ title: custom_document_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 500
+weight: 520
 url: /ar/aspose.cells/workbook/custom_document_properties/
 is_root: false
 ---
 ##  custom_document_properties عقار
 
-تقوم بإرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المخصصة لجدول البيانات.
+إرجاع مجموعة [`DocumentProperty`](/cells/python-net/ar/aspose.cells.properties/documentproperty) التي تمثل كافة خصائص المستند المخصصة لجدول البيانات.
 
 ###  مثال
 

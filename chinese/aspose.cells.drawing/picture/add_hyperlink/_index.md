@@ -1,13 +1,13 @@
 ---
 title: add_hyperlink方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.drawing/picture/add_hyperlink/
 is_root: false
 ---
-##  add_hyperlink(address) {#str}
+##  add_hyperlink(self, address) {#str}
 向形状添加超链接。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add_hyperlink(self, address):
     ...
 ```
@@ -37,5 +38,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [Picture](/cells/python-net/zh/aspose.cells.drawing/picture)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`Picture`](/cells/python-net/zh/aspose.cells.drawing/picture)

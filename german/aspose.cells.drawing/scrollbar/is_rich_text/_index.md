@@ -3,13 +3,13 @@ title: is_rich_text Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 660
+weight: 670
 url: /de/aspose.cells.drawing/scrollbar/is_rich_text/
 is_root: false
 ---
 ##  is_rich_text Eigentum
 
-Ob es sich bei dem Text um Rich Text handelt oder nicht.
+Ob der Text Rich Text ist oder nicht.
 
 ###  Beispiel
 

@@ -7,26 +7,47 @@ weight: 10
 url: /fr/aspose.cells.rendering/sheetset/__init__/
 is_root: false
 ---
-##  SheetSet(sheets) {#list}
-Crée un jeu de feuilles basé sur des index de feuille exacts.
+##  \_\_init\_\_(self, index_feuille){#list}
+Crée un jeu de feuilles basé sur des index de feuilles exacts.
 
 
 
 ```python
-def __init__(self, sheets):
+
+def __init__(self, sheet_indexes):
     ...
 ```
 
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| sheets | list | index de feuille à base zéro.|
+| sheet_indexes | list | index de feuille à base zéro.|
 ###  Remarques
 
-Si une feuille est rencontrée qui n'est pas dans le classeur, une exception sera levée lors du rendu.
+Si une feuille est rencontrée qui ne se trouve pas dans le classeur, une exception sera levée lors du rendu.
+
+##  \_\_init\_\_(self, noms_de_feuilles){#list}
+
+Crée un jeu de feuilles basé sur des noms de feuilles exacts.
+
+
+
+```python
+
+def __init__(self, sheet_names):
+    ...
+```
+
+
+| Paramètre| Taper| Description|
+| :- | :- | :- |
+| sheet_names | list | noms de feuilles.|
+###  Remarques
+
+Si une feuille est rencontrée qui ne se trouve pas dans le classeur, une exception sera levée lors du rendu.
 
 
 ###  Voir également
 
-* module [aspose.cells.rendering](../../)
-* classe [SheetSet](/cells/python-net/fr/aspose.cells.rendering/sheetset)
+* module [`aspose.cells.rendering`](../../)
+* classe [`SheetSet`](/cells/python-net/fr/aspose.cells.rendering/sheetset)

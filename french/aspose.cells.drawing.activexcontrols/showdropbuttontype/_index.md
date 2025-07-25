@@ -1,13 +1,13 @@
 ---
-title: ShowDropButtonType dénombrement
+title: ShowDropButtonType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 280
 url: /fr/aspose.cells.drawing.activexcontrols/showdropbuttontype/
 is_root: false
 ---
-##  ShowDropButtonType dénombrement
+##  ShowDropButtonType énumération
 Spécifie quand afficher le bouton de dépôt
 
 
@@ -24,4 +24,4 @@ Le type ShowDropButtonType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

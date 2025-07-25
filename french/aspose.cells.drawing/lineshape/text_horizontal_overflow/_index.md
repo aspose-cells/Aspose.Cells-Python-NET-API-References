@@ -3,13 +3,13 @@ title: text_horizontal_overflow propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /fr/aspose.cells.drawing/lineshape/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow propriété
 
-Obtient et définit le type de débordement horizontal de texte de la forme qui contient du texte.
+Obtient et définit le type de débordement horizontal du texte de la forme qui contient le texte.
 
 ###  Exemple
 

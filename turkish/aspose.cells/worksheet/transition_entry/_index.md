@@ -3,13 +3,13 @@ title: transition_entry mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 850
+weight: 870
 url: /tr/aspose.cells/worksheet/transition_entry/
 is_root: false
 ---
 ##  transition_entry mülk
 
-Geçiş Formülü Girişi (Lotus uyumluluğu) seçeneğinin etkin olup olmadığını belirtir.
+Geçiş Formülü Girişi (Lotus uyumluluğu) seçeneğinin etkin olup olmadığını gösterir.
 ###  Tanım:
 ```python
 @property

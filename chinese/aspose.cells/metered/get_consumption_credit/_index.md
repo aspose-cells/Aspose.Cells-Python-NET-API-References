@@ -1,6 +1,6 @@
 ---
 title: get_consumption_credit方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
@@ -8,7 +8,7 @@ url: /zh/aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 ##  get_consumption_credit() {#}
-获得消费信用
+获得消费信贷
 
 
 ### 返回
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Metered](/cells/python-net/zh/aspose.cells/metered)
+* 模块[`aspose.cells`](../../)
+* 类 [`Metered`](/cells/python-net/zh/aspose.cells/metered)

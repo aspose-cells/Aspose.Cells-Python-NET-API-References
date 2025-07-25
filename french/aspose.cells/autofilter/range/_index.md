@@ -21,5 +21,5 @@ def range(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/fr/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/fr/aspose.cells/autofilter)

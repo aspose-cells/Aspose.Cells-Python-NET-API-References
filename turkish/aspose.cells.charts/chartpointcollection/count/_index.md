@@ -3,7 +3,7 @@ title: count mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 60
+weight: 50
 url: /tr/aspose.cells.charts/chartpointcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [ChartPointCollection](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`ChartPointCollection`](/cells/python-net/tr/aspose.cells.charts/chartpointcollection)

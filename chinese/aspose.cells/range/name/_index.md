@@ -3,7 +3,7 @@ title: name属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 470
 url: /zh/aspose.cells/range/name/
 is_root: false
 ---
@@ -11,11 +11,11 @@ is_root: false
 
 获取或设置范围的 name。
 
-### 评论
+### 注意事项
 
 支持命名范围。例如，
 
-range.Name = "Sheet1!MyRange";
+范围.名称 = “Sheet1！我的范围”；
 ### 定义：
 ```python
 @property

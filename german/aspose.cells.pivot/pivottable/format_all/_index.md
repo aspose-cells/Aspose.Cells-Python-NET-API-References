@@ -7,12 +7,13 @@ weight: 110
 url: /de/aspose.cells.pivot/pivottable/format_all/
 is_root: false
 ---
-##  format_all(style) {#Style}
-Formatieren Sie alle Zellen im schwenkbaren Bereich
+##  format_all(self, style) {#aspose.cells.Style}
+Formatieren Sie alle Zellen im PivotTable-Bereich
 
 
 
 ```python
+
 def format_all(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def format_all(self, style):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/de/aspose.cells/style) | Stil, der formatiert werden soll|
+| style | [`Style`](/cells/python-net/de/aspose.cells/style) | Stil, der formatiert werden soll|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

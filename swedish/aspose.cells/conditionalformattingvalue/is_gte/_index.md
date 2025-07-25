@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  is_gte fastighet
 
- Skaffa eller sätt flaggan Greater Than Or Equal.
- Använd endast för ikonuppsättningar, avgör om detta tröskelvärde används
- den större än eller lika med operatorn.
-false' indikerar att 'större än' används istället för 'större än eller lika med'.
+ Hämta eller ställ in flaggan Större än eller lika med.
+ Använd endast för ikonuppsättningar, avgör om detta tröskelvärde använder
+ operatorn större än eller lika med.
+'falskt' indikerar att 'större än' används istället för 'större än eller lika med'.
 Standardvärdet är sant.
 ###  Definition:
 ```python
@@ -25,5 +25,5 @@ def is_gte(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ConditionalFormattingValue](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)
+* modul [`aspose.cells`](../../)
+* klass [`ConditionalFormattingValue`](/cells/python-net/sv/aspose.cells/conditionalformattingvalue)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset fastighet
 
-Hämtar och ställer in skriptoffset, i procentenhet
+Hämtar och ställer in skriptförskjutningen i procentenhet
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Font](/cells/python-net/sv/aspose.cells/font)
+* modul [`aspose.cells`](../../)
+* klass [`Font`](/cells/python-net/sv/aspose.cells/font)

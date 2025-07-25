@@ -1,13 +1,13 @@
 ---
-title: metodo from_ole_color
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo from_ole_color
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.drawing/colorhelper/from_ole_color/
 is_root: false
 ---
-##  from_ole_color(ole_color) {#int}
+##  from_ole_color(, ole_color){#int}
 Converti OLE_COLOR.
 
 
@@ -17,17 +17,19 @@ L'oggetto Colore.
 
 
 ```python
-def from_ole_color(self, ole_color):
+
+@staticmethod
+def from_ole_color(ole_color):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| ole_color | int |Il valore di OLE_COLOR.|
+| ole_color | int | Il valore di OLE_COLOR.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ColorHelper](/cells/python-net/it/aspose.cells.drawing/colorhelper)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ColorHelper`](/cells/python-net/it/aspose.cells.drawing/colorhelper)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  id Eigentum
 
-Ruft den dem Office-Add-In zugeordneten Bezeichner innerhalb eines Kataloganbieters ab und legt diesen fest.
+Ruft den dem Office-Add-In zugeordneten Bezeichner innerhalb eines Kataloganbieters ab und legt ihn fest.
 Die Kennung MUSS innerhalb eines Kataloganbieters eindeutig sein.
 ###  Definition:
 ```python
@@ -22,5 +22,5 @@ def id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionReference](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionReference`](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)

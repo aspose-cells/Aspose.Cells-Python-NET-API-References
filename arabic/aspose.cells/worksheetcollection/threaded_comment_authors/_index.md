@@ -3,13 +3,13 @@ title: threaded_comment_authors عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 360
+weight: 390
 url: /ar/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors عقار
 
-الحصول على قائمة مؤلفي التعليقات المترابطة.
+يحصل على قائمة مؤلفي التعليقات المترابطة.
 ###  تعريف:
 ```python
 @property

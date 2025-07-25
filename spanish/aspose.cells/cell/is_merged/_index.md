@@ -3,13 +3,13 @@ title: is_merged propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 610
+weight: 640
 url: /es/aspose.cells/cell/is_merged/
 is_root: false
 ---
 ##  is_merged propiedad
 
-Comprueba si una celda es parte de un rango combinado o no.
+Comprueba si una celda es parte de un rango fusionado o no.
 ###  Definición:
 ```python
 @property

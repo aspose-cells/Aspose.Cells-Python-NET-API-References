@@ -8,7 +8,7 @@ url: /tr/aspose.cells.charts/chartpoint/
 is_root: false
 ---
 ##  ChartPoint sınıfı
-Grafikteki bir serideki tek bir noktayı temsil eder.
+Bir grafikteki bir serideki tek bir noktayı temsil eder.
 
 
 
@@ -17,53 +17,54 @@ ChartPoint türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Özellikler
 | Mülk| Tanım|
 | :- | :- |
-| [explosion](/cells/python-net/tr/aspose.cells.charts/chartpoint/explosion) | Açık bir pasta diliminin pasta grafiğinin merkezinden uzaklığı, pasta çapının yüzdesi olarak ifade edilir.|
-| [shadow](/cells/python-net/tr/aspose.cells.charts/chartpoint/shadow) | Harita noktasının gölgesi varsa doğrudur.|
+| [explosion](/cells/python-net/tr/aspose.cells.charts/chartpoint/explosion) |Açık bir pasta diliminin pasta grafiğinin merkezinden uzaklığı, pasta çapının yüzdesi olarak ifade edilir.|
+| [shadow](/cells/python-net/tr/aspose.cells.charts/chartpoint/shadow) | Grafik noktasının gölgesi varsa doğrudur.|
 | [border](/cells/python-net/tr/aspose.cells.charts/chartpoint/border) | [`Line`](/cells/python-net/tr/aspose.cells.drawing/line)'i alır.|
 | [area](/cells/python-net/tr/aspose.cells.charts/chartpoint/area) | [`ChartPoint.area`](/cells/python-net/tr/aspose.cells.charts/chartpoint#area)'i alır.|
 | [marker](/cells/python-net/tr/aspose.cells.charts/chartpoint/marker) | [`ChartPoint.marker`](/cells/python-net/tr/aspose.cells.charts/chartpoint#marker)'i alır.|
-| [data_labels](/cells/python-net/tr/aspose.cells.charts/chartpoint/data_labels) | Noktayla ilişkili veri etiketini temsil eden bir DataLabels nesnesi döndürür.|
+| [data_labels](/cells/python-net/tr/aspose.cells.charts/chartpoint/data_labels) | Bu grafik noktasıyla ilişkili veri etiketini temsil eden [`ChartPoint.data_labels`](/cells/python-net/tr/aspose.cells.charts/chartpoint#data_labels) nesnesini döndürür.|
 | [y_value](/cells/python-net/tr/aspose.cells.charts/chartpoint/y_value) | Grafik noktasının Y değerini alır veya ayarlar.|
-| [y_value_type](/cells/python-net/tr/aspose.cells.charts/chartpoint/y_value_type) | Grafik noktasının Y değeri türünü alır.|
+| [y_value_type](/cells/python-net/tr/aspose.cells.charts/chartpoint/y_value_type) | Grafik noktasının Y değer türünü alır.|
 | [x_value](/cells/python-net/tr/aspose.cells.charts/chartpoint/x_value) | Grafik noktasının X değerini alır veya ayarlar.|
 | [x_value_type](/cells/python-net/tr/aspose.cells.charts/chartpoint/x_value_type) | Grafik noktasının X değer türünü alır.|
-| [shape_properties](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_properties) |ChartPoint'in görsel şekil özelliklerini tutan [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection) nesnesini alır.|
-| [is_in_secondary_plot](/cells/python-net/tr/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Bir değer alır veya ayarlar, bu veri noktalarının ikinci pastada mı yoksa çubukta mı olduğunu gösterir<br/> bir pasta pastası veya pasta çubuğu grafiğinde|
-| [shape_x](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_x) | Chart.Calculate() yöntemi çağrıldıktan sonra, sol üst köşenin x koordinatını grafik genişliğinin 1/4000'i birimlerinde alır.|
-| [shape_y](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_y) | Chart.Calculate() yöntemi çağrıldıktan sonra, sol üst köşenin y koordinatını grafiğin yüksekliğinin 1/4000'i birimlerinde alır.|
-| [shape_width](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_width) | Chart.Calculate() yöntemi çağrıldıktan sonra genişliği, grafik genişliğinin 1/4000'i cinsinden birimler halinde alır.|
-| [shape_height](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_height) | Chart.Calculate() yöntemi çağrıldıktan sonra yüksekliği grafiğin yüksekliğinin 1/4000'i cinsinden alır.|
-| [shape_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_x_px) | Chart.Calculate() yöntemi çağrıldıktan sonra sol üst köşenin x koordinatını piksel birimi cinsinden alır.|
-| [shape_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_y_px) | Chart.Calculate() yöntemi çağrıldıktan sonra sol üst köşenin y koordinatını piksel birimi cinsinden alır.|
-| [shape_width_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_width_px) | Chart.Calculate() yöntemi çağrıldıktan sonra genişliği piksel birimi cinsinden alır.|
-| [shape_height_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_height_px) |Chart.Calculate() yöntemi çağrıldıktan sonra yüksekliği piksel birimi cinsinden alır.|
-| [border_width_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/border_width_px) | Chart.Calculate() yöntemi çağrıldıktan sonra kenarlığın genişliğini piksel birimi cinsinden alır.|
-| [radius_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/radius_px) | Chart.Calculate() yöntemi çağrıldıktan sonra kabarcık, pasta veya çörek yarıçapını piksel birimi cinsinden alır.|
-| [inner_radius_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_radius_px) | Chart.Calculate() yöntemi çağrıldıktan sonra çörek diliminin iç yarıçapını piksel birimi cinsinden alır.<br/> Halka grafiği için geçerlidir.|
-| [start_angle](/cells/python-net/tr/aspose.cells.charts/chartpoint/start_angle) | Chart.Calculate() yöntemi çağrıldıktan sonra, x ekseninden saat yönünde derece cinsinden ölçülen, pasta bölümünün başlangıç açısını alır.<br/> Pasta grafiği için geçerlidir.|
-| [end_angle](/cells/python-net/tr/aspose.cells.charts/chartpoint/end_angle) | Chart.Calculate() yöntemi çağrıldıktan sonra, x ekseninden saat yönünde derece cinsinden ölçülen, pasta bölümünün bitiş açısını alır.<br/> Pasta grafiği için geçerlidir.|
-| [arc_start_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Chart.Calculate() yöntemini çağırdıktan sonra pasta bölümünün başlangıç noktasının x koordinatını alır.<br/> Pasta ve Çörek grafiği için geçerlidir.|
-| [arc_start_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_start_point_y_px) | Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için başlangıç noktasının y koordinatını alır.<br/> Pasta ve Çörek grafiği için geçerlidir.|
-| [arc_end_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_end_point_x_px) |Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için bitiş noktasının x koordinatını alır.<br/> Pasta ve Çörek grafiği için geçerlidir.|
-| [arc_end_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için bitiş noktasının y koordinatını alır.<br/> Pasta ve Çörek grafiği için geçerlidir.|
-| [inner_arc_start_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Chart.Calculate() yöntemini çağırdıktan sonra pasta bölümünün başlangıç noktasının x koordinatını alır.<br/> Halka grafiği için geçerlidir.|
-| [inner_arc_start_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için başlangıç noktasının y koordinatını alır.<br/> Halka grafiği için geçerlidir.|
-| [inner_arc_end_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) |Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için bitiş noktasının x koordinatını alır.<br/> Halka grafiği için geçerlidir.|
-| [inner_arc_end_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Chart.Calculate() yöntemi çağrıldıktan sonra pasta bölümü için bitiş noktasının y koordinatını alır.<br/> Halka grafiği için geçerlidir.|
+| [shape_properties](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_properties) | ChartPoint'in görsel şekil özelliklerini tutan [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection) nesnesini alır.|
+| [is_in_secondary_plot](/cells/python-net/tr/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Bu veri noktasının ikinci pastada mı yoksa çubukta mı olduğunu gösteren bir değer alır veya ayarlar<br/> bir pasta grafiğinde veya pasta grafiği çubuğunda|
+| [shape_x](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_x) | Chart.Calculate() metodunu çağırdıktan sonra grafiğin genişliğinin 1/4000'i cinsinden sol üst köşenin x koordinatını alır.|
+| [shape_y](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_y) | Chart.Calculate() metodunu çağırdıktan sonra grafiğin yüksekliğinin 1/4000'i cinsinden sol üst köşenin y koordinatını alır.|
+| [shape_width](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_width) |Chart.Calculate() metodunu çağırdıktan sonra grafiğin genişliğinin 1/4000'i cinsinden genişliğini alır.|
+| [shape_height](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_height) | Chart.Calculate() metodunu çağırdıktan sonra grafiğin yüksekliğinin 1/4000'i cinsinden yüksekliğini alır.|
+| [shape_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_x_px) | Chart.Calculate() metodunu çağırdıktan sonra sol üst köşenin x koordinatını piksel cinsinden alır.|
+| [shape_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_y_px) | Chart.Calculate() metodunu çağırdıktan sonra sol üst köşenin y koordinatını piksel cinsinden alır.|
+| [shape_width_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_width_px) | Chart.Calculate() metodunu çağırdıktan sonra genişliği piksel cinsinden alır.|
+| [shape_height_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/shape_height_px) | Chart.Calculate() metodunu çağırdıktan sonra yüksekliği piksel cinsinden alır.|
+| [border_width_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/border_width_px) | Chart.Calculate() metodunu çağırdıktan sonra kenarlığın genişliğini piksel cinsinden alır.|
+| [radius_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/radius_px) | Chart.Calculate() metodunu çağırdıktan sonra balon, pasta veya çöreğin yarıçapını piksel cinsinden alır.|
+| [doughnut_inner_radius](/cells/python-net/tr/aspose.cells.charts/chartpoint/doughnut_inner_radius) | Chart.Calculate() metodunu çağırdıktan sonra donut diliminin iç yarıçapını piksel cinsinden alır.<br/> Donut grafiği için geçerlidir.|
+| [inner_radius_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_radius_px) | Chart.Calculate() metodunu çağırdıktan sonra donut diliminin iç yarıçapını piksel cinsinden alır.<br/> Donut grafiği için geçerlidir.|
+| [start_angle](/cells/python-net/tr/aspose.cells.charts/chartpoint/start_angle) |Chart.Calculate() metodunu çağırdıktan sonra, x ekseninden saat yönünde derece cinsinden ölçülen pasta bölümünün başlangıç açısını alır.<br/> Pasta grafiği için geçerlidir.|
+| [end_angle](/cells/python-net/tr/aspose.cells.charts/chartpoint/end_angle) | Chart.Calculate() metodunu çağırdıktan sonra, x ekseninden saat yönünde derece cinsinden ölçülen pasta bölümünün bitiş açısını alır.<br/> Pasta grafiği için geçerlidir.|
+| [arc_start_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün başlangıç noktasının x koordinatını alır.<br/> Pasta ve Halka grafikleri için geçerlidir.|
+| [arc_start_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_start_point_y_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün başlangıç noktasının y koordinatını alır.<br/> Pasta ve Halka grafikleri için geçerlidir.|
+| [arc_end_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_end_point_x_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün bitiş noktasının x koordinatını alır.<br/> Pasta ve Halka grafikleri için geçerlidir.|
+| [arc_end_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün bitiş noktasının y koordinatını alır.<br/> Pasta ve Halka grafikleri için geçerlidir.|
+| [inner_arc_start_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün başlangıç noktasının x koordinatını alır.<br/> Donut grafiği için geçerlidir.|
+| [inner_arc_start_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün başlangıç noktasının y koordinatını alır.<br/> Donut grafiği için geçerlidir.|
+| [inner_arc_end_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün bitiş noktasının x koordinatını alır.<br/> Donut grafiği için geçerlidir.|
+| [inner_arc_end_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Chart.Calculate() metodunu çağırdıktan sonra pasta bölümünün bitiş noktasının y koordinatını alır.<br/> Donut grafiği için geçerlidir.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [get_top_point_count](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_count/#) | Chart.Calculate() yöntemi çağrıldıktan sonra en üst noktaların sayısını alır.|
-| [get_top_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Chart.Calculate() yöntemi çağrıldıktan sonra şeklin en üst noktasının x koordinatını alır.<br/> 3B grafikleri uygular: Column3D, Bar3D, Koni, Silindir, Piramit ve Alan3D|
-| [get_top_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Chart.Calculate() yöntemi çağrıldıktan sonra şeklin en üst noktasının y koordinatını alır.<br/> 3B grafikleri uygular: Column3D, Bar3D, Koni, Silindir, Piramit ve Alan3D|
-| [get_bottom_point_count](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Chart.Calculate() yöntemini çağırdıktan sonra alt noktaların sayısını alır.|
-| [get_bottom_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Chart.Calculate() yöntemini çağırdıktan sonra şeklin alt noktasının x koordinatını alır.<br/> 3B grafikleri uygular: Column3D, Bar3D, Koni, Silindir, Piramit|
-| [get_bottom_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Chart.Calculate() yöntemi çağrıldıktan sonra şeklin alt noktasının y koordinatını alır.<br/> 3B grafikleri uygular: Column3D, Bar3D, Koni, Silindir, Piramit|
-| [get_on_category_axis_point_count](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) |Chart.Calculate() yöntemini çağırdıktan sonra kategori eksenindeki noktaların sayısını alır. Yalnızca alan grafiği için geçerlidir.|
-| [get_on_category_axis_point_x_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Chart.Calculate() yöntemini çağırdıktan sonra kategori eksenindeki noktanın x koordinatını alır. Yalnızca Alan grafiği için geçerlidir.|
-| [get_on_category_axis_point_y_px](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Chart.Calculate() yöntemi çağrıldıktan sonra kategori eksenindeki noktanın y koordinatını alır. Yalnızca Alan grafiği için geçerlidir.|
+| [`get_top_point_count(self)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_count/#) | Chart.Calculate() metodu çağrıldıktan sonra en üstteki noktaların sayısını alır.|
+| [`get_top_point_x_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra şeklin en üst noktasının x koordinatını alır.<br/>3B grafikleri uygular: Sütun3B, Çubuk3B, Koni, Silindir, Piramit ve Alan3B|
+| [`get_top_point_y_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra şeklin en üst noktasının y koordinatını alır.<br/>3B grafikleri uygular: Sütun3B, Çubuk3B, Koni, Silindir, Piramit ve Alan3B|
+| [`get_bottom_point_count(self)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Chart.Calculate() metodu çağrıldıktan sonra en alt nokta sayısını alır.|
+| [`get_bottom_point_x_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra şeklin alt noktasının x koordinatını alır.<br/> 3B grafikleri uygular: Sütun3B, Çubuk3B, Koni, Silindir, Piramit|
+| [`get_bottom_point_y_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra şeklin alt noktasının y koordinatını alır.<br/> 3B grafikleri uygular: Sütun3B, Çubuk3B, Koni, Silindir, Piramit|
+| [`get_on_category_axis_point_count(self)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Chart.Calculate() metodu çağrıldıktan sonra kategori eksenindeki nokta sayısını alır. Sadece alan grafiği için geçerlidir.|
+| [`get_on_category_axis_point_x_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra kategori eksenindeki noktanın x koordinatını alır. Sadece Alan grafiği için geçerlidir.|
+| [`get_on_category_axis_point_y_px(self, index)`](/cells/python-net/tr/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Chart.Calculate() metodunu çağırdıktan sonra kategori eksenindeki noktanın y koordinatını alır. Sadece Alan grafiği için geçerlidir.|
 
 
 

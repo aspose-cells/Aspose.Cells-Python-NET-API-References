@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/errorbar/
 is_root: false
 ---
 ##  ErrorBar klass
-Representerar felfältet för dataserien.
+Representerar felstapeln för dataserien.
 
 
 
@@ -23,33 +23,33 @@ Typen ErrorBar avslöjar följande medlemmar:
 | Fast egendom| Beskrivning|
 | :- | :- |
 | [compound_type](/cells/python-net/sv/aspose.cells.charts/errorbar/compound_type) | Anger den sammansatta linjetypen|
-| [dash_type](/cells/python-net/sv/aspose.cells.charts/errorbar/dash_type) | Anger typen av strecklinje|
-| [cap_type](/cells/python-net/sv/aspose.cells.charts/errorbar/cap_type) |Anger slutbeteckningarna.|
-| [join_type](/cells/python-net/sv/aspose.cells.charts/errorbar/join_type) | Specificerar sammanfogningslocken.|
+| [dash_type](/cells/python-net/sv/aspose.cells.charts/errorbar/dash_type) | Anger typen av streckad linje|
+| [cap_type](/cells/python-net/sv/aspose.cells.charts/errorbar/cap_type) | Anger slutkapslarna.|
+| [join_type](/cells/python-net/sv/aspose.cells.charts/errorbar/join_type) | Anger kopplingsfästena.|
 | [begin_type](/cells/python-net/sv/aspose.cells.charts/errorbar/begin_type) | Anger en pilspets för början av en rad.|
 | [end_type](/cells/python-net/sv/aspose.cells.charts/errorbar/end_type) | Anger en pilspets för slutet av en rad.|
-| [begin_arrow_length](/cells/python-net/sv/aspose.cells.charts/errorbar/begin_arrow_length) | Anger längden på pilspetsen för början av en linje.|
-| [end_arrow_length](/cells/python-net/sv/aspose.cells.charts/errorbar/end_arrow_length) | Anger längden på pilspetsen för slutet av en linje.|
-| [begin_arrow_width](/cells/python-net/sv/aspose.cells.charts/errorbar/begin_arrow_width) | Anger bredden på pilspetsen för början av en linje.|
+| [begin_arrow_length](/cells/python-net/sv/aspose.cells.charts/errorbar/begin_arrow_length) | Anger längden på pilspetsen för början av en rad.|
+| [end_arrow_length](/cells/python-net/sv/aspose.cells.charts/errorbar/end_arrow_length) | Anger längden på pilspetsen för slutet av en rad.|
+| [begin_arrow_width](/cells/python-net/sv/aspose.cells.charts/errorbar/begin_arrow_width) | Anger bredden på pilspetsen för början av en rad.|
 | [end_arrow_width](/cells/python-net/sv/aspose.cells.charts/errorbar/end_arrow_width) | Anger bredden på pilspetsen för slutet av en linje.|
-| [theme_color](/cells/python-net/sv/aspose.cells.charts/errorbar/theme_color) | Får och ställer in temafärgen.|
-| [color](/cells/python-net/sv/aspose.cells.charts/errorbar/color) | Representerar färgen på linjen.|
-| [transparency](/cells/python-net/sv/aspose.cells.charts/errorbar/transparency) | Returnerar eller ställer in graden av transparens för linjen som ett värde från 0,0 (opak) till 1,0 (ren).|
+| [theme_color](/cells/python-net/sv/aspose.cells.charts/errorbar/theme_color) | Hämtar och ställer in temafärgen.|
+| [color](/cells/python-net/sv/aspose.cells.charts/errorbar/color) | Representerar linjens färg.|
+| [transparency](/cells/python-net/sv/aspose.cells.charts/errorbar/transparency) | Returnerar eller anger graden av genomskinlighet för linjen som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
 | [style](/cells/python-net/sv/aspose.cells.charts/errorbar/style) | Representerar linjens stil.|
-| [weight](/cells/python-net/sv/aspose.cells.charts/errorbar/weight) | Hämtar eller ställer in linjens [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype).|
-| [weight_pt](/cells/python-net/sv/aspose.cells.charts/errorbar/weight_pt) | Hämtar eller ställer in linjens vikt i poängenhet.|
-| [weight_px](/cells/python-net/sv/aspose.cells.charts/errorbar/weight_px) | Hämtar eller ställer in linjens vikt i pixelenhet.|
-| [formatting_type](/cells/python-net/sv/aspose.cells.charts/errorbar/formatting_type) | Hämtar eller ställer in formattyp.|
-| [is_automatic_color](/cells/python-net/sv/aspose.cells.charts/errorbar/is_automatic_color) | Indikerar om färgen på linjen tilldelas automatiskt.|
+| [weight](/cells/python-net/sv/aspose.cells.charts/errorbar/weight) | Hämtar eller ställer in [`WeightType`](/cells/python-net/sv/aspose.cells.drawing/weighttype) för raden.|
+| [weight_pt](/cells/python-net/sv/aspose.cells.charts/errorbar/weight_pt) |Hämtar eller ställer in linjens vikt i enheter av punkter.|
+| [weight_px](/cells/python-net/sv/aspose.cells.charts/errorbar/weight_px) | Hämtar eller anger linjens vikt i pixlar.|
+| [formatting_type](/cells/python-net/sv/aspose.cells.charts/errorbar/formatting_type) | Hämtar eller anger formattyp.|
+| [is_automatic_color](/cells/python-net/sv/aspose.cells.charts/errorbar/is_automatic_color) | Anger om linjens färg tilldelas automatiskt.|
 | [is_visible](/cells/python-net/sv/aspose.cells.charts/errorbar/is_visible) | Representerar om linjen är synlig.|
-| [is_auto](/cells/python-net/sv/aspose.cells.charts/errorbar/is_auto) |Indikerar om denna linjestil är autotilldelad.|
+| [is_auto](/cells/python-net/sv/aspose.cells.charts/errorbar/is_auto) | Anger om denna linjestil tilldelas automatiskt.|
 | [gradient_fill](/cells/python-net/sv/aspose.cells.charts/errorbar/gradient_fill) | Representerar gradientfyllning.|
-| [type](/cells/python-net/sv/aspose.cells.charts/errorbar/type) | Representerar felstapelmängdstyp.|
-| [display_type](/cells/python-net/sv/aspose.cells.charts/errorbar/display_type) | Representerar visningstyp för felfält.|
-| [amount](/cells/python-net/sv/aspose.cells.charts/errorbar/amount) | Representerar mängden felfält.<br/> Beloppet måste vara större än eller lika med noll.|
-| [show_marker_t_top](/cells/python-net/sv/aspose.cells.charts/errorbar/show_marker_t_top) | Indikerar om formateringsfelstaplar med en T-top.|
-| [plus_value](/cells/python-net/sv/aspose.cells.charts/errorbar/plus_value) | Representerar positivt felmängd när felstapeltypen är anpassad.|
-| [minus_value](/cells/python-net/sv/aspose.cells.charts/errorbar/minus_value) | Representerar negativt felbelopp när felstapeltypen är anpassad.|
+| [type](/cells/python-net/sv/aspose.cells.charts/errorbar/type) | Representerar felstapelns beloppstyp.|
+| [display_type](/cells/python-net/sv/aspose.cells.charts/errorbar/display_type) | Representerar visningstypen för felstapeln.|
+| [amount](/cells/python-net/sv/aspose.cells.charts/errorbar/amount) | Representerar mängden felstapel.|
+| [show_marker_t_top](/cells/python-net/sv/aspose.cells.charts/errorbar/show_marker_t_top) | Indikerar om felstaplar formateras med en T-topp.|
+| [plus_value](/cells/python-net/sv/aspose.cells.charts/errorbar/plus_value) | Representerar positivt felbelopp när felstapeltypen är Anpassad.|
+| [minus_value](/cells/python-net/sv/aspose.cells.charts/errorbar/minus_value) | Representerar negativt felbelopp när felstapeltypen är Anpassad.|
 
 
 

@@ -3,13 +3,13 @@ title: absolute_path fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 440
+weight: 460
 url: /sv/aspose.cells/workbook/absolute_path/
 is_root: false
 ---
 ##  absolute_path fastighet
 
-Hämtar och ställer in den absoluta sökvägen till filen.
+Hämtar och anger filens absoluta sökväg.
 
 ###  Anmärkningar
 

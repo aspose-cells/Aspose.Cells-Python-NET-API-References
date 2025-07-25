@@ -1,0 +1,45 @@
+---
+title: SensitivityLabelCollection صف
+second_title: Aspose.Cells for Python via .NET API المراجع
+description:
+type: docs
+weight: 20
+url: /ar/aspose.cells.metas/sensitivitylabelcollection/
+is_root: false
+---
+##  SensitivityLabelCollection صف
+يمثل قائمة تسميات الحساسية.
+
+
+
+يكشف النوع SensitivityLabelCollection عن الأعضاء التاليين:
+
+###  البنائين
+| البناء| وصف|
+| :- | :- |
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/__init__/#) | إنشاء مثيل جديد من SensitivityLabelCollection|
+
+
+###  ملكيات
+| ملكية| وصف|
+| :- | :- |
+| [capacity](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/capacity) | يحصل على عدد العناصر التي يمكن أن تحتويها قائمة المصفوفة أو يعينها.|
+
+
+###  طُرق
+| طريقة| وصف|
+| :- | :- |
+| [`copy_to(self, array)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/copy_to/#list) |يقوم بنسخ قائمة المصفوفة بأكملها إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من بداية قائمة المصفوفة المستهدفة.|
+| [`copy_to(self, index, array, array_index, count)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/copy_to/#int-list-int-int) | يقوم بنسخ مجموعة من العناصر من قائمة المصفوفة إلى قائمة مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لقائمة المصفوفة المستهدفة.|
+| [`index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/index_of/#aspose.cells.metas.sensitivitylabel-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من الفهرس المحدد إلى العنصر الأخير.|
+| [`index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/index_of/#aspose.cells.metas.sensitivitylabel-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للظهور الأول ضمن نطاق العناصر في قائمة المصفوفة التي تبدأ بالفهرس المحدد وتحتوي على العدد المحدد من العناصر.|
+| [`last_index_of(self, item)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/last_index_of/#aspose.cells.metas.sensitivitylabel) | يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن قائمة المصفوفة بأكملها.|
+| [`last_index_of(self, item, index)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/last_index_of/#aspose.cells.metas.sensitivitylabel-int) |يبحث عن الكائن المحدد ويعيد الفهرس المبني على الصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تمتد من العنصر الأول إلى الفهرس المحدد.|
+| [`last_index_of(self, item, index, count)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/last_index_of/#aspose.cells.metas.sensitivitylabel-int-int) | يبحث عن الكائن المحدد ويعيد الفهرس المبدئي للصفر للحدث الأخير ضمن نطاق العناصر في قائمة المصفوفة التي تحتوي على عدد محدد من العناصر وتنتهي عند الفهرس المحدد.|
+| [`add(self, id, is_enabled, method_type, site_id, mark_type)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/add/#str-bool-aspose.cells.metas.sensitivitylabelassignmenttype-str-aspose.cells.metas.sensitivitylabelmarktype) | يضيف تسمية الحساسية.|
+| [`binary_search(self, item)`](/cells/python-net/ar/aspose.cells.metas/sensitivitylabelcollection/binary_search/#aspose.cells.metas.sensitivitylabel) | يبحث في قائمة المصفوفة المفرزة بأكملها عن عنصر باستخدام المقارن الافتراضي ويعيد الفهرس المبني على الصفر للعنصر.|
+
+
+
+###  أنظر أيضا
+* الوحدة [`aspose.cells.metas`](..)

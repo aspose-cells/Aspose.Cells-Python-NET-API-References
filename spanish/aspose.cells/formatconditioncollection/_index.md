@@ -3,13 +3,13 @@ title: FormatConditionCollection clase
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 730
+weight: 710
 url: /es/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection clase
-Representa el formato condicional.
-FormatConditions puede contener hasta tres formatos condicionales.
+Representa formato condicional.
+Las condiciones de formato pueden contener hasta tres formatos condicionales.
 
 
 
@@ -24,23 +24,23 @@ El tipo FormatConditionCollection expone los siguientes miembros:
 
 
 Obtiene la condición de formato por índice.
-###  indexador
+###  Indexador
 | Nombre| Descripción|
 | :- | :- |
-| [index] |el índice de la condición de formato a devolver.|
+| [index] | el índice de la condición de formato a devolver.|
 
 
 ###  Métodos
 | Método| Descripción|
 | :- | :- |
-| [add_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Agrega una condición de formato.|
-| [add_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Agregue una condición de formato.|
-| [remove_area](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int) | Elimina el rango de celdas con formato condicional por índice.|
-| [remove_area](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Elimine el formato condicional en el rango.|
-| [add](/cells/python-net/es/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Agrega una condición de formato y un rango de celda afectado a FormatConditions<br/>FormatConditions puede contener hasta tres formatos condicionales.<br/> No se permiten referencias a otras hojas en las fórmulas de formato condicional.|
-| [add_area](/cells/python-net/es/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Agrega un rango de celdas con formato condicional.|
-| [get_cell_area](/cells/python-net/es/aspose.cells/formatconditioncollection/get_cell_area/#int) | Obtiene el rango de celdas con formato condicional por índice.|
-| [remove_condition](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_condition/#int) | Elimina la condición de formato por índice.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Agrega una condición de formato.|
+| [`add_condition(self, type)`](/cells/python-net/es/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Añadir una condición de formato.|
+| [`remove_area(self, index)`](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int) | Elimina el rango de celdas con formato condicional por índice.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Eliminar el formato condicional del rango.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/es/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |Agrega una condición de formato y un rango de celdas afectado a FormatConditions<br/>Las condiciones de formato pueden contener hasta tres formatos condicionales.<br/> No se permiten referencias a otras hojas en las fórmulas de formato condicional.|
+| [`add_area(self, cell_area)`](/cells/python-net/es/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Agrega un rango de celdas con formato condicional.|
+| [`get_cell_area(self, index)`](/cells/python-net/es/aspose.cells/formatconditioncollection/get_cell_area/#int) | Obtiene el rango de celdas con formato condicional por índice.|
+| [`remove_condition(self, index)`](/cells/python-net/es/aspose.cells/formatconditioncollection/remove_condition/#int) | Elimina la condición de formato por índice.|
 
 
 

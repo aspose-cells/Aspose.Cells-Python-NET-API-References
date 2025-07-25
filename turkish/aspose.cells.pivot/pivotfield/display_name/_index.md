@@ -3,13 +3,13 @@ title: display_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 270
+weight: 350
 url: /tr/aspose.cells.pivot/pivotfield/display_name/
 is_root: false
 ---
 ##  display_name mülk
 
-PivotField görünen adını temsil eder.
+PivotField görüntü adını temsil eder.
 ###  Tanım:
 ```python
 @property

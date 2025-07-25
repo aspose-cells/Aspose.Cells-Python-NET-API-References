@@ -3,13 +3,13 @@ title: border_weight عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ar/aspose.cells.drawing/picture/border_weight/
 is_root: false
 ---
 ##  border_weight عقار
 
-الحصول على أو تعيين وزن الخط الحدودي للصورة بوحدات pt.
+يحصل على أو يضبط وزن خط حدود الصورة بوحدات pt.
 
 ###  مثال
 

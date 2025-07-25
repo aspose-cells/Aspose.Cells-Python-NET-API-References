@@ -3,7 +3,7 @@ title: value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 120
+weight: 180
 url: /sv/aspose.cells.pivot/pivotitem/value/
 is_root: false
 ---

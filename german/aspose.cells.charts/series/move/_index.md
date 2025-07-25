@@ -7,12 +7,13 @@ weight: 20
 url: /de/aspose.cells.charts/series/move/
 is_root: false
 ---
-##  move(count) {#int}
-Verschiebt die Reihe nach oben oder unten.
+##  move(self, count) {#int}
+Verschiebt die Serie nach oben oder unten.
 
 
 
 ```python
+
 def move(self, count):
     ...
 ```
@@ -20,10 +21,10 @@ def move(self, count):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| count | int | Die Anzahl der Bewegungen nach oben oder unten.<br/>Verschieben Sie die Reihe nach oben, wenn dies kleiner als Null ist;<br/> Verschieben Sie die Reihe nach unten, wenn dies größer als Null ist.|
+| count | int | Die Anzahl der Auf- oder Abwärtsbewegungen.<br/>Verschieben Sie die Reihe nach oben, wenn dieser Wert kleiner als Null ist.<br/> Wenn dieser Wert größer als Null ist, verschieben Sie die Reihe nach unten.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)

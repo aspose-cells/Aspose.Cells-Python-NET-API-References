@@ -13,7 +13,7 @@ Gibt an, ob Makros beibehalten werden;
 
 ###  Bemerkungen
 
-Nur zum Kopieren von Arbeitsmappen.
+Nur zum Kopieren der Arbeitsmappe.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def keep_macros(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [CopyOptions](/cells/python-net/de/aspose.cells/copyoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`CopyOptions`](/cells/python-net/de/aspose.cells/copyoptions)

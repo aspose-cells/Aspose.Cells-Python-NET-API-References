@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  plot_empty_cells_type fastighet
 
-Hämtar och ställer in hur de tomma cellerna ska plottas.
+Hämtar och anger hur de tomma cellerna ska plottas.
 ###  Definition:
 ```python
 @property

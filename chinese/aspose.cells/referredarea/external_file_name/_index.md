@@ -1,13 +1,13 @@
 ---
-title: external_file_name 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: external_file_name属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 70
 url: /zh/aspose.cells/referredarea/external_file_name/
 is_root: false
 ---
-## external_file_name 属性
+## external_file_name属性
 
 如果这是外部引用，则获取外部文件名。
 ### 定义：
@@ -18,5 +18,5 @@ def external_file_name(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ReferredArea](/cells/python-net/zh/aspose.cells/referredarea)
+* 模块[`aspose.cells`](../../)
+* 类 [`ReferredArea`](/cells/python-net/zh/aspose.cells/referredarea)

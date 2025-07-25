@@ -1,6 +1,6 @@
 ---
 title: allow_inserting_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_column недвижимость
 
-Представляет, разрешена ли вставка столбцов на защищенном листе.
+Указывает, разрешена ли вставка столбцов на защищенном листе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

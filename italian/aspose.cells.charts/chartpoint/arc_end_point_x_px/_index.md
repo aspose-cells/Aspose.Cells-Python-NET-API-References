@@ -1,6 +1,6 @@
 ---
 title: arc_end_point_x_px proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  arc_end_point_x_px proprietà
 
-Ottiene la coordinata x del punto finale per la sezione della torta dopo aver chiamato il metodo Chart.Calculate().
-Si applica al grafico a torta e ad anello.
+Ottiene la coordinata x del punto finale della sezione della torta dopo aver chiamato il metodo Chart.Calculate().
+Si applica ai grafici a torta e ad ciambella.
 ###  Definizione:
 ```python
 @property
@@ -19,5 +19,5 @@ def arc_end_point_x_px(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/it/aspose.cells.charts/chartpoint)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/it/aspose.cells.charts/chartpoint)

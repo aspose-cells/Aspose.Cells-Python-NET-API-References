@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sparklines Eigentum
 
-Ruft die Auflistung des Objekts [Sparkline](/cells/python-net/de/aspose.cells.charts/sparkline) ab.
+Ruft die Sammlung des Objekts [`Sparkline`](/cells/python-net/de/aspose.cells.charts/sparkline) ab.
 ###  Definition:
 ```python
 @property
@@ -18,7 +18,7 @@ def sparklines(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Sparkline](/cells/python-net/de/aspose.cells.charts/sparkline)
-* Klasse [SparklineCollection](/cells/python-net/de/aspose.cells.charts/sparklinecollection)
-* Klasse [SparklineGroup](/cells/python-net/de/aspose.cells.charts/sparklinegroup)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Sparkline`](/cells/python-net/de/aspose.cells.charts/sparkline)
+* Klasse [`SparklineCollection`](/cells/python-net/de/aspose.cells.charts/sparklinecollection)
+* Klasse [`SparklineGroup`](/cells/python-net/de/aspose.cells.charts/sparklinegroup)

@@ -3,7 +3,7 @@ title: ShapeSegmentPath Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 620
+weight: 590
 url: /de/aspose.cells.drawing/shapesegmentpath/
 is_root: false
 ---
@@ -23,4 +23,4 @@ Der Typ ShapeSegmentPath macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

@@ -1,5 +1,5 @@
 ---
-title: value الملكية
+title: value عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 90
 url: /ar/aspose.cells.externalconnections/connectionparameter/value/
 is_root: false
 ---
-##  value الملكية
+##  value عقار
 
-عددي غير صحيح value ، عدد صحيح value ، سلسلة value أو منطقي value
-لاستخدامها كمعامل طلب البحث. يُستخدم فقط عندما يكون نوع المعلمة هو value.
+رقم غير صحيح value، عدد صحيح value، سلسلة value أو منطقي value
+للاستخدام كمعامل استعلام. يُستخدم فقط عندما يكون نوع المعلمة value.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def value(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [ConnectionParameter](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`ConnectionParameter`](/cells/python-net/ar/aspose.cells.externalconnections/connectionparameter)

@@ -1,15 +1,15 @@
 ---
 title: row proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 690
+weight: 720
 url: /it/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row proprietà
 
-Ottiene il numero row (in base zero) della cella.
+Ottiene row il numero (a partire da zero) della cella.
 ###  Definizione:
 ```python
 @property

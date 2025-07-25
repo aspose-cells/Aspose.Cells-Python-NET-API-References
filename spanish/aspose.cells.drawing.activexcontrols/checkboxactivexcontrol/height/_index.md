@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/height/
 is_root: false
 ---
 ##  height propiedad
-
-Obtiene y establece el height del control en unidad de puntos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +19,5 @@ def height(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [CheckBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`CheckBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

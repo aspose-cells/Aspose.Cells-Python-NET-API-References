@@ -1,18 +1,19 @@
 ---
 title: show_report_filter_page_by_index метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 270
+weight: 340
 url: /ru/aspose.cells.pivot/pivottable/show_report_filter_page_by_index/
 is_root: false
 ---
-##  show_report_filter_page_by_index(pos_index) {#int}
+##  show_report_filter_page_by_index(self, pos_index) {#int}
 Показать все страницы фильтра отчета в соответствии с индексом позиции в PageFields
 
 
 
 ```python
+
 def show_report_filter_page_by_index(self, pos_index):
     ...
 ```
@@ -25,5 +26,5 @@ def show_report_filter_page_by_index(self, pos_index):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.pivot](../../)
-* класс [PivotTable](/cells/python-net/ru/aspose.cells.pivot/pivottable)
+* модуль [`aspose.cells.pivot`](../../)
+* класс [`PivotTable`](/cells/python-net/ru/aspose.cells.pivot/pivottable)

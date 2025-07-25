@@ -1,5 +1,5 @@
 ---
-title: Area الدرجة
+title: Area صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,22 +7,22 @@ weight: 20
 url: /ar/aspose.cells.drawing/area/
 is_root: false
 ---
-##  Area الدرجة
-لتغليف الكائن الذي يمثل تنسيق منطقة.
+##  Area صف
+يقوم بتغليف الكائن الذي يمثل تنسيق المنطقة.
 
 
 
-يكشف نوع Area الأعضاء التالية:
+يكشف النوع Area عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [background_color](/cells/python-net/ar/aspose.cells.drawing/area/background_color) | الحصول على او تحديد لون خلفية [Area](/cells/python-net/ar/aspose.cells.drawing/area).|
-| [foreground_color](/cells/python-net/ar/aspose.cells.drawing/area/foreground_color) | الحصول على او تحديد لون المقدمة.|
+| [background_color](/cells/python-net/ar/aspose.cells.drawing/area/background_color) | يحصل على لون الخلفية لـ [`Area`](/cells/python-net/ar/aspose.cells.drawing/area) أو يعينه.|
+| [foreground_color](/cells/python-net/ar/aspose.cells.drawing/area/foreground_color) | يحصل على لون المقدمة أو يعينه.|
 | [formatting](/cells/python-net/ar/aspose.cells.drawing/area/formatting) | يمثل تنسيق المنطقة.|
-| [invert_if_negative](/cells/python-net/ar/aspose.cells.drawing/area/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة المخطط رقمًا سالبًا ،<br/> سيتم استبدال لون المقدمة ولون الخلفية.|
-| [fill_format](/cells/python-net/ar/aspose.cells.drawing/area/fill_format) | يمثل عنصر [Area.fill_format](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) يحتوي على خصائص تنسيق التعبئة للشكل أو الرسم البياني المحدد.|
-| [transparency](/cells/python-net/ar/aspose.cells.drawing/area/transparency) | إرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (معتم) إلى 1.0 (واضح).|
+| [invert_if_negative](/cells/python-net/ar/aspose.cells.drawing/area/invert_if_negative) | إذا كانت الخاصية صحيحة وكانت قيمة نقطة الرسم البياني رقمًا سلبيًا،<br/> سيتم تبادل لون المقدمة ولون الخلفية.|
+| [fill_format](/cells/python-net/ar/aspose.cells.drawing/area/fill_format) | يمثل كائن [`Area.fill_format`](/cells/python-net/ar/aspose.cells.drawing/area#fill_format) يحتوي على خصائص تنسيق التعبئة للمخطط أو الشكل المحدد.|
+| [transparency](/cells/python-net/ar/aspose.cells.drawing/area/transparency) |يقوم بإرجاع أو تعيين درجة شفافية المنطقة كقيمة من 0.0 (غير شفافة) إلى 1.0 (واضحة).|
 
 
 
@@ -71,5 +71,5 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](..)
-* فئة [Area](/cells/python-net/ar/aspose.cells.drawing/area)
+* الوحدة [`aspose.cells.drawing`](..)
+* فئة [`Area`](/cells/python-net/ar/aspose.cells.drawing/area)

@@ -3,7 +3,7 @@ title: paths mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 980
+weight: 990
 url: /tr/aspose.cells.drawing/oleobject/paths/
 is_root: false
 ---

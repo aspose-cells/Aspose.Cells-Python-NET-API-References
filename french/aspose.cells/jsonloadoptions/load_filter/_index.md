@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonLoadOptions](/cells/python-net/fr/aspose.cells/jsonloadoptions)
-* classe [LoadFilter](/cells/python-net/fr/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* classe [`JsonLoadOptions`](/cells/python-net/fr/aspose.cells/jsonloadoptions)
+* classe [`LoadFilter`](/cells/python-net/fr/aspose.cells/loadfilter)

@@ -3,20 +3,20 @@ title: begin_arrowhead_length عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 320
 url: /ar/aspose.cells.drawing/arcshape/begin_arrowhead_length/
 is_root: false
 ---
 ##  begin_arrowhead_length عقار
 
-الحصول على طول رأس السهم للخط وتعيينه.
+يحصل على طول رأس السهم الأولي للخط ويحدده.
 
 ###  ملاحظات
 
- ملاحظة: هذا العضو قديم الآن. بدلاً من،
- الرجاء استخدام الخاصية Shape.Line.BeginArrowheadLength.
- ستتم إزالة هذه الخاصية بعد 12 شهرًا منذ أغسطس 2016.
-Aspose نعتذر عن أي إزعاج قد تعرضت له.
+ ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+ الرجاء استخدام خاصية Shape.Line.BeginArrowheadLength.
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ أغسطس 2016.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 ###  تعريف:
 ```python
 @property

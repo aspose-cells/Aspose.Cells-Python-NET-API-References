@@ -21,5 +21,5 @@ def password(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [JsonLoadOptions](/cells/python-net/es/aspose.cells/jsonloadoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`JsonLoadOptions`](/cells/python-net/es/aspose.cells/jsonloadoptions)

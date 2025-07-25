@@ -3,16 +3,17 @@ title: set_locked_property方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 220
+weight: 230
 url: /zh/aspose.cells.drawing/radiobutton/set_locked_property/
 is_root: false
 ---
-##  set_locked_property {#aspose.cells.drawing.ShapeLockType-bool}
+##  set_locked_property(self, type, value) {#aspose.cells.drawing.ShapeLockType-bool}
 设置锁定属性。
 
 
 
 ```python
+
 def set_locked_property(self, type, value):
     ...
 ```
@@ -20,7 +21,7 @@ def set_locked_property(self, type, value):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| type | [`ShapeLockType`](/cells/python-net/zh/aspose.cells.drawing/shapelocktype) |锁定型。|
+| type | [`ShapeLockType`](/cells/python-net/zh/aspose.cells.drawing/shapelocktype) |锁定类型。|
 | value | bool |属性的价值。|
 
 ### 例子

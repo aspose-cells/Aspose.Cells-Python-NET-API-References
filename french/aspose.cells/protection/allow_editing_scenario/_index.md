@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_scenario propriété
 
-Représente si l'utilisateur est autorisé à modifier des scénarios sur une feuille de calcul protégée.
+Indique si l'utilisateur est autorisé à modifier des scénarios sur une feuille de calcul protégée.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_scenario(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Protection](/cells/python-net/fr/aspose.cells/protection)
+* module [`aspose.cells`](../../)
+* classe [`Protection`](/cells/python-net/fr/aspose.cells/protection)

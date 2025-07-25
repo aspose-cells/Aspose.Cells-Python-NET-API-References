@@ -1,19 +1,19 @@
 ---
-title: font_encoding الملكية
+title: font_encoding عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 260
 url: /ar/aspose.cells/pdfsaveoptions/font_encoding/
 is_root: false
 ---
-##  font_encoding الملكية
+##  font_encoding عقار
 
-الحصول على أو تعيين ترميز الخط المضمّن في ملف pdf.
+يحصل على أو يعين ترميز الخط المضمن في ملف pdf.
 
 ###  ملاحظات
 
-القيمة الافتراضية هي [PdfFontEncoding.IDENTITY](/cells/python-net/ar/aspose.cells.rendering/pdffontencoding#IDENTITY)
+القيمة الافتراضية هي [`PdfFontEncoding.IDENTITY`](/cells/python-net/ar/aspose.cells.rendering/pdffontencoding#IDENTITY)
 ###  تعريف:
 ```python
 @property
@@ -25,6 +25,6 @@ def font_encoding(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfFontEncoding](/cells/python-net/ar/aspose.cells.rendering/pdffontencoding)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfFontEncoding`](/cells/python-net/ar/aspose.cells.rendering/pdffontencoding)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

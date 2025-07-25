@@ -3,7 +3,7 @@ title: f Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 30
+weight: 40
 url: /de/aspose.cells.querytables/powerqueryformulafunction/f/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def f(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.querytables](../../)
-* Klasse [PowerQueryFormulaFunction](/cells/python-net/de/aspose.cells.querytables/powerqueryformulafunction)
+* Modul [`aspose.cells.querytables`](../../)
+* Klasse [`PowerQueryFormulaFunction`](/cells/python-net/de/aspose.cells.querytables/powerqueryformulafunction)

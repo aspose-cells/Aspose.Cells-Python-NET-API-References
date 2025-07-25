@@ -9,14 +9,14 @@ is_root: false
 ---
 ##  plot_visible_cells propiedad
 
-Indica si solo se trazan las celdas visibles.
+Indica si solo se deben graficar las celdas visibles.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice la propiedad PlotVisibleCellsOnly.
-Este método se eliminará 12 meses después a partir de diciembre de 2022.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad PlotVisibleCellsOnly.
+ Este método se eliminará 12 meses después desde diciembre de 2022.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

@@ -3,13 +3,13 @@ title: auto_scale_font propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 60
+weight: 70
 url: /es/aspose.cells.charts/datalabels/auto_scale_font/
 is_root: false
 ---
 ##  auto_scale_font propiedad
 
-True si el texto del objeto cambia el tamaño de fuente cuando cambia el tamaño del objeto. El valor por defecto es verdadero.
+Verdadero si el texto del objeto cambia de tamaño de fuente al cambiar el tamaño del objeto. El valor predeterminado es Verdadero.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [DataLabels](/cells/python-net/es/aspose.cells.charts/datalabels)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`DataLabels`](/cells/python-net/es/aspose.cells.charts/datalabels)

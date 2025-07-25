@@ -3,11 +3,11 @@ title: get_text_of_row_labels yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 180
+weight: 190
 url: /tr/aspose.cells/settablepivotglobalizationsettings/get_text_of_row_labels/
 is_root: false
 ---
-##  get_text_of_row_labels {#}
+##  get_text_of_row_labels(self) {#}
 PivotTable'daki "Satır Etiketleri" etiketinin metnini alır.
 
 
@@ -17,6 +17,7 @@ Satır etiketlerinin metni
 
 
 ```python
+
 def get_text_of_row_labels(self):
     ...
 ```

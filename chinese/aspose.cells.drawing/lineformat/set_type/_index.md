@@ -1,22 +1,22 @@
 ---
-title: set_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: set_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 300
 url: /zh/aspose.cells.drawing/lineformat/set_type/
 is_root: false
 ---
-## set_type 属性
+## set_type属性
 
 获取填充格式集类型。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请改用 FillFormat.FillType 属性。
-自 2016 年 7 月起 12 个月后，此属性将被删除。
-Aspose 对您可能遇到的任何不便深表歉意。
+自 2016 年 7 月起，该房产将于 12 个月后被移除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property
@@ -28,6 +28,6 @@ def set_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FormatSetType](/cells/python-net/zh/aspose.cells.drawing/formatsettype)
-* 类 [LineFormat](/cells/python-net/zh/aspose.cells.drawing/lineformat)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FormatSetType`](/cells/python-net/zh/aspose.cells.drawing/formatsettype)
+* 类 [`LineFormat`](/cells/python-net/zh/aspose.cells.drawing/lineformat)

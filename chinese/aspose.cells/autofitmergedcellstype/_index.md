@@ -3,7 +3,7 @@ title: AutoFitMergedCellsType枚举
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1830
+weight: 1730
 url: /zh/aspose.cells/autofitmergedcellstype/
 is_root: false
 ---
@@ -14,13 +14,13 @@ is_root: false
 
 AutoFitMergedCellsType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
 | NONE |忽略合并的单元格。|
 | FIRST_LINE |仅扩展第一行的高度。|
 | LAST_LINE |仅扩展最后一行的高度。|
-| EACH_LINE |仅扩展每行的高度。|
+| EACH_LINE |扩大每行的高度。|
 
 
 

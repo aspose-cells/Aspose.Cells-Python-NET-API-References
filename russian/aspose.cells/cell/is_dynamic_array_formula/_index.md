@@ -1,15 +1,15 @@
 ---
 title: is_dynamic_array_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 560
+weight: 590
 url: /ru/aspose.cells/cell/is_dynamic_array_formula/
 is_root: false
 ---
 ##  is_dynamic_array_formula недвижимость
 
-Указывает, является ли формула ячейки формулой динамического массива (true) или устаревшей формулой массива (false).
+Указывает, является ли формула ячейки динамической формулой массива (истина) или устаревшей формулой массива (ложь).
 ###  Определение:
 ```python
 @property

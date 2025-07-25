@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  color_scale Eigentum
 
-Rufen Sie die „ColorScale“-Instanz der bedingten Formatierung ab.
-Die Standardinstanz ist eine "grün-gelb-rote" 3ColorScale .
-Nur gültig für Typ = ColorScale.
+Holen Sie sich die „ColorScale“-Instanz der bedingten Formatierung.
+Die Standardinstanz ist eine „grün-gelb-rote“ 3-Farbskala.
+Nur gültig für Typ = Farbskala.
 ###  Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def color_scale(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ColorScale](/cells/python-net/de/aspose.cells/colorscale)
-* Klasse [FormatCondition](/cells/python-net/de/aspose.cells/formatcondition)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ColorScale`](/cells/python-net/de/aspose.cells/colorscale)
+* Klasse [`FormatCondition`](/cells/python-net/de/aspose.cells/formatcondition)

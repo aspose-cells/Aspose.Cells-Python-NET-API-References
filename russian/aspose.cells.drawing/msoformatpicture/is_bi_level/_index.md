@@ -1,6 +1,6 @@
 ---
 title: is_bi_level недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_bi_level недвижимость
 
-Указывает, должно ли это изображение отображаться в двухцветном черно-белом режиме.
+Указывает, должно ли это изображение отображаться в двухцветном черно-белом варианте.
 ###  Определение:
 ```python
 @property

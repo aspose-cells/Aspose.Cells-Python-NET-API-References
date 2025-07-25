@@ -3,13 +3,13 @@ title: view_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 930
 url: /zh/aspose.cells/worksheet/view_type/
 is_root: false
 ---
 ## view_type属性
 
-获取和设置视图类型。
+获取并设置视图类型。
 ### 定义：
 ```python
 @property

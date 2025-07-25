@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  calc_stack_size propiedad
 
-El tamaño de la pila para calcular celdas de forma recursiva. El valor predeterminado es 200.
+Tamaño de la pila para calcular celdas recursivamente. El valor predeterminado es 200.
 
 ###  Observaciones
 
-Cuando hay una gran cantidad de celdas que deben calcularse de forma recursiva en el árbol de dependencia,
-StackOverflowException puede deberse al proceso de cálculo.
-Si es así, el usuario debe especificar un valor menor para esta propiedad.
+Cuando hay una gran cantidad de celdas que necesitan calcularse recursivamente en el árbol de dependencia,
+Es posible que se produzca una excepción StackOverflowException en el proceso de cálculo.
+Si es así, el usuario debe especificar un valor más pequeño para esta propiedad.
 Para tal situación, el usuario debe determinar el valor adecuado para esta propiedad de acuerdo con las fórmulas y datos reales.
-Sin embargo, un valor demasiado pequeño puede causar una degradación del rendimiento para el cálculo de la fórmula y un valor inferior a 2.
-hará imposible calcular una fórmula que dependa de otra. Entonces, si el valor especificado es menor que 2,
-se restablecerá a 2.
+Sin embargo, un valor demasiado pequeño puede provocar una degradación del rendimiento para el cálculo de la fórmula y un valor inferior a 2
+Hará imposible calcular una fórmula que dependa de otra. Por lo tanto, si el valor especificado es menor que 2,
+Se restablecerá a 2.
 ###  Definición:
 ```python
 @property

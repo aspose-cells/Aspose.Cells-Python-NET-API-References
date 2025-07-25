@@ -1,15 +1,15 @@
 ---
 title: shadow proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 930
+weight: 940
 url: /it/aspose.cells.drawing/spinner/shadow/
 is_root: false
 ---
 ##  shadow proprietà
 
-Indica se la forma ha un'ombreggiatura 3D.
+Indica se la forma ha ombreggiatura 3D.
 ###  Definizione:
 ```python
 @property

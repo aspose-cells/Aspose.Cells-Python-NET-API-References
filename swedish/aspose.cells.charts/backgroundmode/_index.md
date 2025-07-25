@@ -8,7 +8,7 @@ url: /sv/aspose.cells.charts/backgroundmode/
 is_root: false
 ---
 ##  BackgroundMode uppräkning
-Representerar visningsläget för bakgrunden.
+Representerar bakgrundens visningsläge.
 
 
 
@@ -17,7 +17,7 @@ Typen BackgroundMode avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| AUTOMATIC |Automatisk|
+| AUTOMATIC | Automatisk|
 | OPAQUE | Ogenomskinlig|
 | TRANSPARENT | Transparent|
 

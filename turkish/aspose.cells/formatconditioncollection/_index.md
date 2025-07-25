@@ -3,13 +3,13 @@ title: FormatConditionCollection sınıfı
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 730
+weight: 710
 url: /tr/aspose.cells/formatconditioncollection/
 is_root: false
 ---
 ##  FormatConditionCollection sınıfı
 Koşullu biçimlendirmeyi temsil eder.
-FormatConditions en fazla üç koşullu format içerebilir.
+FormatConditions en fazla üç koşullu biçimlendirme içerebilir.
 
 
 
@@ -23,24 +23,24 @@ FormatConditionCollection türü aşağıdaki üyeleri ortaya çıkarır:
 
 
 
-Biçimlendirme koşulunu dizine göre alır.
-###  Dizin oluşturucu
+Dizin bazında biçimlendirme koşulunu alır.
+###  Dizinleyici
 | İsim| Tanım|
 | :- | :- |
-| [index] |döndürülecek biçimlendirme koşulunun dizini.|
+| [index] | döndürülecek biçimlendirme koşulunun dizini.|
 
 
 ###  Yöntemler
 | Yöntem| Tanım|
 | :- | :- |
-| [add_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | Bir biçimlendirme koşulu ekler.|
-| [add_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.FormatConditionType) | Bir biçim koşulu ekleyin.|
-| [remove_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre kaldırır.|
-| [remove_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Aralıktaki koşullu biçimlendirmeyi kaldırın.|
-| [add](/cells/python-net/tr/aspose.cells/formatconditioncollection/add/#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str) | FormatConditions'a bir biçimlendirme koşulu ve etkilenen hücre çalması ekler<br/>FormatConditions en fazla üç koşullu format içerebilir.<br/> Koşullu biçimlendirme formüllerinde diğer sayfalara referans verilmesine izin verilmez.|
-| [add_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_area/#aspose.cells.CellArea) | Koşullu biçimlendirilmiş bir hücre aralığı ekler.|
-| [get_cell_area](/cells/python-net/tr/aspose.cells/formatconditioncollection/get_cell_area/#int) | Koşullu biçimlendirilmiş hücre aralığını dizine göre alır.|
-| [remove_condition](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_condition/#int) | Biçimlendirme koşulunu dizine göre kaldırır.|
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Biçimlendirme koşulu ekler.|
+| [`add_condition(self, type)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Biçimlendirme koşulu ekleyin.|
+| [`remove_area(self, index)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int) | Dizine göre koşullu biçimlendirilmiş hücre aralığını kaldırır.|
+| [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Aralıktaki koşullu biçimlendirmeyi kaldırın.|
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) |FormatConditions'a bir biçimlendirme koşulu ve etkilenen hücre aralığı ekler<br/>FormatConditions en fazla üç koşullu biçimlendirme içerebilir.<br/> Koşullu biçimlendirme formüllerinde diğer sayfalara atıf yapılmasına izin verilmez.|
+| [`add_area(self, cell_area)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Koşullu biçimlendirilmiş bir hücre aralığı ekler.|
+| [`get_cell_area(self, index)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/get_cell_area/#int) | Dizine göre koşullu biçimlendirilmiş hücre aralığını alır.|
+| [`remove_condition(self, index)`](/cells/python-net/tr/aspose.cells/formatconditioncollection/remove_condition/#int) | Dizin bazında biçimlendirme koşulunu kaldırır.|
 
 
 

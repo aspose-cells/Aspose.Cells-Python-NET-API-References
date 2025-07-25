@@ -3,7 +3,7 @@ title: upper_left_column Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /de/aspose.cells.drawing/combobox/upper_left_column/
 is_root: false
 ---

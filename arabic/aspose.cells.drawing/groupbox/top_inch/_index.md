@@ -3,13 +3,13 @@ title: top_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1100
+weight: 1110
 url: /ar/aspose.cells.drawing/groupbox/top_inch/
 is_root: false
 ---
 ##  top_inch عقار
 
-يمثل الإزاحة الرأسية للشكل من صفه العلوي، بوحدة البوصة.
+يمثل الإزاحة الرأسية للشكل من الصف العلوي، بوحدة البوصات.
 
 ###  مثال
 

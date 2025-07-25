@@ -7,12 +7,13 @@ weight: 90
 url: /de/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
+##  clear(self) {#}
 Löscht alle Daten des Arbeitsblatts.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

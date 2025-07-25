@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  data_binding Eigentum
 
-Ruft eine [XmlDataBinding](/cells/python-net/de/aspose.cells/xmldatabinding) dieser Karte ab.
+Ruft eine [`XmlDataBinding`](/cells/python-net/de/aspose.cells/xmldatabinding) dieser Karte ab.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def data_binding(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [XmlDataBinding](/cells/python-net/de/aspose.cells/xmldatabinding)
-* Klasse [XmlMap](/cells/python-net/de/aspose.cells/xmlmap)
+* Modul [`aspose.cells`](../../)
+* Klasse [`XmlDataBinding`](/cells/python-net/de/aspose.cells/xmldatabinding)
+* Klasse [`XmlMap`](/cells/python-net/de/aspose.cells/xmlmap)

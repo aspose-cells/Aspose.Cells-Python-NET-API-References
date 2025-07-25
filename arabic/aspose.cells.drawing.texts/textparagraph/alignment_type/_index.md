@@ -1,5 +1,5 @@
 ---
-title: alignment_type الملكية
+title: alignment_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells.drawing.texts/textparagraph/alignment_type/
 is_root: false
 ---
-##  alignment_type الملكية
+##  alignment_type عقار
 
-الحصول على نوع المحاذاة الأفقية للنص وتعيينه.
+يحصل على نوع محاذاة النص الأفقية للفقرة ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def alignment_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextAlignmentType](/cells/python-net/ar/aspose.cells/textalignmenttype)
-* فئة [TextParagraph](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextAlignmentType`](/cells/python-net/ar/aspose.cells/textalignmenttype)
+* فئة [`TextParagraph`](/cells/python-net/ar/aspose.cells.drawing.texts/textparagraph)

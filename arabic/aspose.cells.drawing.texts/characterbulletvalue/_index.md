@@ -1,39 +1,37 @@
 ---
-title: CharacterBulletValue الدرجة
+title: CharacterBulletValue صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 40
+weight: 30
 url: /ar/aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
-##  CharacterBulletValue الدرجة
-يمثل الرمز النقطي.
+##  CharacterBulletValue صف
+يمثل حرف الرصاصة.
 
 
 
-**ميراث:** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
+**الميراث:** [`CharacterBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
-يكشف نوع CharacterBulletValue الأعضاء التالية:
+يكشف النوع CharacterBulletValue عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | إنشاء مثيل جديد من CharacterBulletValue|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | إنشاء مثيل جديد لـ CharacterBulletValue|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [type](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue/type) | يحصل على نوع الرصاصة.|
-| [character](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue/character) | يحصل ويضع طابع الرصاصة.|
+| [character](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue/character) | يحصل على ويحدد طابع الرصاصة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](..)
-* فئة [BulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/bulletvalue)
-* فئة [CharacterBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](..)
+* فئة [`CharacterBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/characterbulletvalue)

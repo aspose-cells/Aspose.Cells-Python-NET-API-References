@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  text_column fastighet
 
-Representerar kolumnen i en ComboBox eller ListBox som ska visas för användaren.
+Representerar kolumnen i en kombinationsbox eller listbox som ska visas för användaren.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def text_column(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [ComboBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`ComboBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

@@ -1,5 +1,5 @@
 ---
-title: file_format_to_save_format méthode
+title: méthode file_format_to_save_format
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 40
 url: /fr/aspose.cells/fileformatutil/file_format_to_save_format/
 is_root: false
 ---
-##  file_format_to_save_format(format) {#FileFormatType}
-Conversion du format de fichier au format de sauvegarde.
+##  file_format_to_save_format(, format){#aspose.cells.FileFormatType}
+Conversion du format de fichier au format d'enregistrement.
 
 
 ###  Retour
@@ -17,17 +17,19 @@ Conversion du format de fichier au format de sauvegarde.
 
 
 ```python
-def file_format_to_save_format(self, format):
+
+@staticmethod
+def file_format_to_save_format(format):
     ...
 ```
 
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| format | [FileFormatType](/cells/python-net/fr/aspose.cells/fileformattype) | Le type de format de fichier.|
+| format | [`FileFormatType`](/cells/python-net/fr/aspose.cells/fileformattype) | Le type de format de fichier.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FileFormatUtil](/cells/python-net/fr/aspose.cells/fileformatutil)
+* module [`aspose.cells`](../../)
+* classe [`FileFormatUtil`](/cells/python-net/fr/aspose.cells/fileformatutil)

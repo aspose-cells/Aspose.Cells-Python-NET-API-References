@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right Eigentum
 
-Ruft den right-Offset zum Strecken des Bilds ab oder legt ihn fest.
+Ruft den Offset right zum Strecken des Bildes ab oder legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def right(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [PicFormatOption](/cells/python-net/de/aspose.cells.drawing/picformatoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`PicFormatOption`](/cells/python-net/de/aspose.cells.drawing/picformatoption)

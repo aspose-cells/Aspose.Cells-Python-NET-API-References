@@ -7,8 +7,8 @@ weight: 30
 url: /sv/aspose.cells/name/get_ranges/
 is_root: false
 ---
-##  get_ranges() {#}
-Hämtar alla intervall som hänvisas till med detta namn.
+##  get_ranges(self) {#}
+Hämtar alla intervall som refereras med detta namn.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Alla intervall.
 
 
 ```python
+
 def get_ranges(self):
     ...
 ```
@@ -24,8 +25,8 @@ def get_ranges(self):
 
 
 
-##  get_ranges(recalculate) {#bool}
-Hämtar alla intervall som hänvisas till med detta namn.
+##  get_ranges(self, recalculate) {#bool}
+Hämtar alla intervall som refereras med detta namn.
 
 
 ###  Returnerar
@@ -34,6 +35,7 @@ Alla intervall.
 
 
 ```python
+
 def get_ranges(self, recalculate):
     ...
 ```
@@ -41,10 +43,10 @@ def get_ranges(self, recalculate):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| recalculate | bool | om du räknar om det om detta namn har beräknats före denna anrop.|
+| recalculate | bool | om det ska beräknas om namnet har beräknats före denna anropning.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Name](/cells/python-net/sv/aspose.cells/name)
+* modul [`aspose.cells`](../../)
+* klass [`Name`](/cells/python-net/sv/aspose.cells/name)

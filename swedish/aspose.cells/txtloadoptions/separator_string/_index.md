@@ -3,13 +3,13 @@ title: separator_string fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 370
 url: /sv/aspose.cells/txtloadoptions/separator_string/
 is_root: false
 ---
 ##  separator_string fastighet
 
-Hämtar och ställer in ett strängvärde som separator.
+Hämtar och anger ett strängvärde som avgränsare.
 ###  Definition:
 ```python
 @property

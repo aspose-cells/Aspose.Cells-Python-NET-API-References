@@ -3,13 +3,13 @@ title: height mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 140
+weight: 150
 url: /tr/aspose.cells/row/height/
 is_root: false
 ---
 ##  height mülk
 
-height satırını Puan birimi olarak alır ve ayarlar.
+height satırını Puan biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def height(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Row](/cells/python-net/tr/aspose.cells/row)
+* modül [`aspose.cells`](../../)
+* sınıf [`Row`](/cells/python-net/tr/aspose.cells/row)

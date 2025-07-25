@@ -1,14 +1,14 @@
 ---
 title: Metodo get_grouped_column_outline_level
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 380
+weight: 420
 url: /it/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level {#int}
-Ottiene il livello della struttura (in base zero) della colonna.
+##  get_grouped_column_outline_level(self, column_index) {#int}
+Ottiene il livello di struttura (a partire da zero) della colonna.
 
 
 ###  ritorna
@@ -17,6 +17,7 @@ Il livello di struttura della colonna
 
 
 ```python
+
 def get_grouped_column_outline_level(self, column_index):
     ...
 ```

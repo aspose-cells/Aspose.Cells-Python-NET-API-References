@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  modify_document_permission fastighet
 
- Anger om innehållet i dokumentet ska tillåtas ändras genom andra åtgärder än de som kontrolleras
-via [`PdfSecurityOptions.annotations_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission), [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) och [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
+ Anger om det ska vara tillåtet att ändra dokumentets innehåll med andra åtgärder än de som kontrolleras.
+av [`PdfSecurityOptions.annotations_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#annotations_permission), [`PdfSecurityOptions.fill_forms_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#fill_forms_permission) och [`PdfSecurityOptions.assemble_document_permission`](/cells/python-net/sv/aspose.cells.rendering.pdfsecurity/pdfsecurityoptions#assemble_document_permission).
 ###  Definition:
 ```python
 @property

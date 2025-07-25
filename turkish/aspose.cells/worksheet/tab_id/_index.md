@@ -3,7 +3,7 @@ title: tab_id mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 820
+weight: 840
 url: /tr/aspose.cells/worksheet/tab_id/
 is_root: false
 ---

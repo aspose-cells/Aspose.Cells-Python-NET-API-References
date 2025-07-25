@@ -1,16 +1,16 @@
 ---
-title: GroupShape مفهرس
+title: GroupShape فهرس
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 270
+weight: 280
 url: /ar/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
-##  GroupShape مفهرس
+##  GroupShape فهرس
 
-الحصول على شكل الطفل حسب الفهرس.
-###  مفهرس
+يحصل على شكل الطفل حسب الفهرس.
+###  المفهرس
 | اسم| وصف|
 | :- | :- |
 | index | مؤشر شكل الطفل.|

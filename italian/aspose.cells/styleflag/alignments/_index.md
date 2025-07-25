@@ -1,6 +1,6 @@
 ---
 title: alignments proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  alignments proprietà
 
-Verrà applicata l'impostazione di allineamento.
+Verranno applicate le impostazioni di allineamento.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def alignments(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [StyleFlag](/cells/python-net/it/aspose.cells/styleflag)
+* modulo [`aspose.cells`](../../)
+* classe [`StyleFlag`](/cells/python-net/it/aspose.cells/styleflag)

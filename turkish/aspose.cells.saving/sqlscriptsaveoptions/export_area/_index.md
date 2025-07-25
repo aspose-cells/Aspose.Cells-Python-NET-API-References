@@ -3,7 +3,7 @@ title: export_area mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 110
+weight: 130
 url: /tr/aspose.cells.saving/sqlscriptsaveoptions/export_area/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def export_area(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [CellArea](/cells/python-net/tr/aspose.cells/cellarea)
-* sınıf [SqlScriptSaveOptions](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`CellArea`](/cells/python-net/tr/aspose.cells/cellarea)
+* sınıf [`SqlScriptSaveOptions`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)

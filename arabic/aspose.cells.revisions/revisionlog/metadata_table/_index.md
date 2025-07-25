@@ -1,5 +1,5 @@
 ---
-title: metadata_table الملكية
+title: metadata_table عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells.revisions/revisionlog/metadata_table/
 is_root: false
 ---
-##  metadata_table الملكية
+##  metadata_table عقار
 
-الحصول على جدول يحتوي على بيانات وصفية حول قائمة التغييرات المحددة التي حدثت
+يحصل على جدول يحتوي على بيانات وصفية حول قائمة التغييرات المحددة التي حدثت
 لهذا المصنف.
 ###  تعريف:
 ```python
@@ -19,6 +19,6 @@ def metadata_table(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](../../)
-* فئة [RevisionHeader](/cells/python-net/ar/aspose.cells.revisions/revisionheader)
-* فئة [RevisionLog](/cells/python-net/ar/aspose.cells.revisions/revisionlog)
+* الوحدة [`aspose.cells.revisions`](../../)
+* فئة [`RevisionHeader`](/cells/python-net/ar/aspose.cells.revisions/revisionheader)
+* فئة [`RevisionLog`](/cells/python-net/ar/aspose.cells.revisions/revisionlog)

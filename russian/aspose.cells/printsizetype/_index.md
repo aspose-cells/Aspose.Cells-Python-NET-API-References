@@ -1,9 +1,9 @@
 ---
 title: PrintSizeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2490
+weight: 2460
 url: /ru/aspose.cells/printsizetype/
 is_root: false
 ---
@@ -17,7 +17,7 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| FULL | Используйте полную страницу.|
+| FULL | Использовать всю страницу.|
 | FIT | Масштабировать по размеру страницы.|
 | CUSTOM | Обычай.|
 

@@ -3,7 +3,7 @@ title: check_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 330
 url: /zh/aspose.cells.drawing/checkbox/check_value/
 is_root: false
 ---
@@ -11,12 +11,12 @@ is_root: false
 
 获取或设置复选框的值。
 
-### 评论
+### 注意事项
 
-注意：该成员现已过时。反而，
+注意：此成员现已过时。取而代之的是
 请使用 CheckBox.CheckValueType 属性。
-该房产将于 2010 年 6 月起 12 个月后被拆除。
-Aspose 对于给您带来的任何不便，我们深表歉意。
+自 2010 年 6 月起，该属性将在 12 个月后被移除。
+Aspose 对于您所遇到的不便深表歉意。
 ### 定义：
 ```python
 @property

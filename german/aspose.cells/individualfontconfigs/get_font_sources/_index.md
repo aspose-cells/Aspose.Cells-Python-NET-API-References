@@ -7,7 +7,7 @@ weight: 20
 url: /de/aspose.cells/individualfontconfigs/get_font_sources/
 is_root: false
 ---
-##  get_font_sources() {#}
+##  get_font_sources(self) {#}
 Ruft eine Kopie des Arrays ab, das die Liste der Quellen enthält
 
 
@@ -17,6 +17,7 @@ Ruft eine Kopie des Arrays ab, das die Liste der Quellen enthält
 
 
 ```python
+
 def get_font_sources(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_font_sources(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [IndividualFontConfigs](/cells/python-net/de/aspose.cells/individualfontconfigs)
+* Modul [`aspose.cells`](../../)
+* Klasse [`IndividualFontConfigs`](/cells/python-net/de/aspose.cells/individualfontconfigs)

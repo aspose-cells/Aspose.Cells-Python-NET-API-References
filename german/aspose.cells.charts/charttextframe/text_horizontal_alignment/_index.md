@@ -3,7 +3,7 @@ title: text_horizontal_alignment Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 390
 url: /de/aspose.cells.charts/charttextframe/text_horizontal_alignment/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def text_horizontal_alignment(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ChartTextFrame](/cells/python-net/de/aspose.cells.charts/charttextframe)
-* Klasse [TextAlignmentType](/cells/python-net/de/aspose.cells/textalignmenttype)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ChartTextFrame`](/cells/python-net/de/aspose.cells.charts/charttextframe)
+* Klasse [`TextAlignmentType`](/cells/python-net/de/aspose.cells/textalignmenttype)

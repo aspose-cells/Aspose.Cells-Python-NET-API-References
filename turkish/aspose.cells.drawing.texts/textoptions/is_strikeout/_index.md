@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_strikeout mülk
 
-Yazı tipinin tek çizili olup olmadığını gösteren bir değer alır veya ayarlar.
+Yazı tipinin tek çizgili olup olmadığını belirten bir değer alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_strikeout(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

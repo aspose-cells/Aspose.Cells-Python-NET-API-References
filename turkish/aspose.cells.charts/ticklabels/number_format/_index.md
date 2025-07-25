@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  number_format mülk
 
-TickLabels nesnesinin biçim dizesini temsil eder.
+TickLabels nesnesi için biçim dizesini temsil eder.
 
 ###  Notlar
 
-Biçimlendirme dizesi, bir hücreye yönelik özel biçim dizesi ayarıyla aynıdır. Örneğin, "$0".
+Biçimlendirme dizesi, bir hücreye özel biçimlendirme dizesi ayarıyla aynıdır. Örneğin, "$0".
 ###  Tanım:
 ```python
 @property

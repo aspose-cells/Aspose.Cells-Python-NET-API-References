@@ -1,17 +1,17 @@
 ---
-title: edit_web_page الملكية
+title: edit_web_page عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 140
 url: /ar/aspose.cells.externalconnections/webqueryconnection/edit_web_page/
 is_root: false
 ---
-##  edit_web_page الملكية
+##  edit_web_page عقار
 
-عنوان URL لصفحة الويب التي تواجه المستخدم والتي تعرض بيانات استعلام الويب. عنوان URL هذا مستمر
-في حالة إعادة توجيه sourceData = "true" وعنوان url للإشارة إلى ملف XML.
-ثم يمكن عرض الصفحة التي تواجه المستخدم في واجهة المستخدم ، ويمكن استرداد بيانات XML
+عنوان URL لصفحة الويب التي تظهر بيانات استعلام الويب. هذا الرابط مُستدام.
+في حالة إعادة توجيه sourceData="true" وurl للإشارة إلى ملف XML.
+ومن ثم يمكن عرض الصفحة التي تواجه المستخدم في واجهة المستخدم، ويمكن استرجاع بيانات XML
 خلف الكواليس.
 ###  تعريف:
 ```python
@@ -24,5 +24,5 @@ def edit_web_page(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [WebQueryConnection](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`WebQueryConnection`](/cells/python-net/ar/aspose.cells.externalconnections/webqueryconnection)

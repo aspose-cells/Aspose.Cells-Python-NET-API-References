@@ -13,7 +13,7 @@ Hämtar och ställer in den inbyggda style.
 
 ###  Anmärkningar
 
-Det bör vara mellan 1 och 48.
+Den bör vara mellan 1 och 48.
 Returnera -1 om den inte är inställd.
 ###  Definition:
 ```python

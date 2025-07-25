@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items propiedad
 
-Obtiene el items discreto.
+Obtiene el discreto items.
 ###  Definición:
 ```python
 @property

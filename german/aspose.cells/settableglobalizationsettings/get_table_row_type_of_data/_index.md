@@ -7,17 +7,18 @@ weight: 250
 url: /de/aspose.cells/settableglobalizationsettings/get_table_row_type_of_data/
 is_root: false
 ---
-##  get_table_row_type_of_data {#}
-Ruft den Typnamen von Tabellenzeilen ab, die aus dem Datenbereich der referenzierten Tabelle bestehen.
-Der Standardwert ist „Data“, daher stellt „#Data“ in der Formel den Datenbereich der Tabelle dar.
+##  get_table_row_type_of_data(self) {#}
+Ruft den Typnamen der Tabellenzeilen ab, die aus dem Datenbereich der referenzierten Tabelle bestehen.
+Der Standardwert ist „Daten“, daher stellt in der Formel „#Daten“ den Datenbereich der Tabelle dar.
 
 
 ###  Kehrt zurück
 
-der Typname von Tabellenzeilen
+der Typname der Tabellenzeilen
 
 
 ```python
+
 def get_table_row_type_of_data(self):
     ...
 ```

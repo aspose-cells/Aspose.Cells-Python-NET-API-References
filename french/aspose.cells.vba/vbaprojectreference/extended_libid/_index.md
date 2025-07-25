@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  extended_libid propriété
 
-Obtient et définit la Libid étendue de la référence.
+Obtient et définit le Libid étendu de la référence.
 
 ###  Remarques
 
-Uniquement pour référence de contrôle.
+Uniquement à titre de référence de contrôle.
 ###  Définition:
 ```python
 @property
@@ -25,5 +25,5 @@ def extended_libid(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaProjectReference](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaProjectReference`](/cells/python-net/fr/aspose.cells.vba/vbaprojectreference)

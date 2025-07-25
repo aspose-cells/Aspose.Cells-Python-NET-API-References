@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  has_up_down_bars fastighet
 
-Sant om ett linjediagram har staplar upp och ner.
+Sant om ett linjediagram har uppåt- och nedåtriktade staplar.
 Gäller endast linjediagram.
 ###  Definition:
 ```python

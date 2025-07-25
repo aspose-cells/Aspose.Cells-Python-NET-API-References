@@ -1,6 +1,6 @@
 ---
 title: operator proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 250
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  operator proprietà
 
-Rappresenta lo operator per la validazione dei dati.
+Rappresenta operator per la convalida dei dati.
 ###  Definizione:
 ```python
 @property

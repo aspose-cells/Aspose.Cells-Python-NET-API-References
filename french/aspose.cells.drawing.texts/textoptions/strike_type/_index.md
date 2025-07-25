@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  strike_type propriété
 
-Obtient le type de barre du texte.
+Obtient le type de frappe du texte.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def strike_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [TextOptions](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
-* classe [TextStrikeType](/cells/python-net/fr/aspose.cells/textstriketype)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`TextOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textoptions)
+* classe [`TextStrikeType`](/cells/python-net/fr/aspose.cells/textstriketype)

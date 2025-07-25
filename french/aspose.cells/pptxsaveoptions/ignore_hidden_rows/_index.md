@@ -3,7 +3,7 @@ title: ignore_hidden_rows propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 170
+weight: 210
 url: /fr/aspose.cells/pptxsaveoptions/ignore_hidden_rows/
 is_root: false
 ---

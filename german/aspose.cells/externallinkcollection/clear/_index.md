@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells/externallinkcollection/clear/
 is_root: false
 ---
-##  clear() {#}
+##  clear(self) {#}
 Entfernt alle externen Links.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```
@@ -20,15 +21,16 @@ def clear(self):
 
 ###  Bemerkungen
 
-Beim Entfernen externer Links werden auch alle darauf verweisenden Formeln entfernt, weil
-die Verweise werden ungültig.
+Beim Entfernen externer Links werden auch alle Formeln entfernt, die auf diese verweisen, weil
+die Verweise verlieren ihre Gültigkeit.
 
-##  clear(update_references_as_local) {#bool}
+##  clear(self, update_references_as_local) {#bool}
 Entfernt alle externen Links.
 
 
 
 ```python
+
 def clear(self, update_references_as_local):
     ...
 ```
@@ -36,16 +38,22 @@ def clear(self, update_references_as_local):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| update_references_as_local | bool | Ob alle Referenzen externer Links als Referenzen der aktuellen Arbeitsmappe selbst aktualisiert werden.|
+| update_references_as_local | bool |Ob alle Verweise externer Links in Formeln auf Verweise der aktuellen Arbeitsmappe selbst aktualisiert werden sollen.|
 ###  Bemerkungen
 
-Wenn Verweise aktualisiert werden müssen, werden Verweise auf externe Links in Formeln in die aktuelle Arbeitsmappe geändert.
+Wenn Referenzen aktualisiert werden müssen, dann sind dies die Referenzen externer Links in Formeln
+wird, wenn möglich, in die aktuelle Arbeitsmappe geändert.
 Beispielsweise lautet die ursprüngliche Formel einer Zelle "='externalsource.xlam'!customfunction()",
-Nach dem Entfernen externer Links wird die Formel zu "=customfunction()".
-Wenn Verweise nicht aktualisiert werden müssen, alle Formeln mit Verweisen auf externe Links
-werden ebenfalls entfernt, da diese Verweise ungültig werden.
+nach dem Entfernen externer Links wird die Formel zu „=customfunction()“;
+Wenn die ursprüngliche Formel "='[externalsource.xlam]Sheet1'!$A$1" ist,
+je nachdem, ob in der aktuellen Arbeitsmappe ein Blatt mit dem Namen „Sheet1“ vorhanden ist:
+wenn wahr, wird die Formel zu "=Sheet1!$A$1";
+Wenn falsch, wird die Formel zu „=#REF!$A$1“.
+
+Wenn keine Aktualisierung der Referenzen erforderlich ist, werden alle Formeln mit Referenzen auf externe Links
+werden ebenfalls entfernt, da diese Referenzen ungültig werden.
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ExternalLinkCollection](/cells/python-net/de/aspose.cells/externallinkcollection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ExternalLinkCollection`](/cells/python-net/de/aspose.cells/externallinkcollection)

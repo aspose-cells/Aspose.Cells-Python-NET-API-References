@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/calculationdata/get_param_text/
 is_root: false
 ---
-##  get_param_text(index) {#int}
-Verilen dizindeki parametrenin değişmez metnini alır.
+##  get_param_text(self, index) {#int}
+Verilen dizindeki parametrenin gerçek metnini alır.
 
 
 ###  İadeler
 
-parametrenin değişmez metni
+parametrenin tam metni
 
 
 ```python
+
 def get_param_text(self, index):
     ...
 ```
@@ -24,10 +25,10 @@ def get_param_text(self, index):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | parametre indeksi(0 tabanlı)|
+| index | int | parametrenin indeksi (0 tabanlı)|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CalculationData](/cells/python-net/tr/aspose.cells/calculationdata)
+* modül [`aspose.cells`](../../)
+* sınıf [`CalculationData`](/cells/python-net/tr/aspose.cells/calculationdata)

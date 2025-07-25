@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  down_bars propiedad
 
-Devuelve un objeto [`DropBars`](/cells/python-net/es/aspose.cells.charts/dropbars) que representa las barras hacia abajo en un gráfico de líneas.
-Se aplica solo a gráficos de líneas.
+Devuelve un objeto [`DropBars`](/cells/python-net/es/aspose.cells.charts/dropbars) que representa las barras descendentes en un gráfico de líneas.
+Se aplica sólo a gráficos de líneas.
 ###  Definición:
 ```python
 @property

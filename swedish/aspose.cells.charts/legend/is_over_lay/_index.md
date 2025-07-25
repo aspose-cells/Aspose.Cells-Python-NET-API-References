@@ -3,13 +3,13 @@ title: is_over_lay fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 240
+weight: 300
 url: /sv/aspose.cells.charts/legend/is_over_lay/
 is_root: false
 ---
 ##  is_over_lay fastighet
 
-Hämtar eller ställer in om andra diagramelement ska tillåtas att överlappa detta diagramelement.
+Hämtar eller anger om förklaringen ska visas utan att överlappa diagrammet.
 ###  Definition:
 ```python
 @property

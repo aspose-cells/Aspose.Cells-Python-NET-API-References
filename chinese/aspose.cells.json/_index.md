@@ -1,6 +1,6 @@
 ---
 title: aspose.cells.json
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
@@ -12,6 +12,6 @@ is_root: false
 ### 枚举
 |枚举|描述|
 | :- | :- |
-| [JsonExportHyperlinkType](/cells/python-net/zh/aspose.cells.json/jsonexporthyperlinktype) |表示将超链接导出到 json 的类型。|
+| [`JsonExportHyperlinkType`](/cells/python-net/zh/aspose.cells.json/jsonexporthyperlinktype) |表示将超链接导出为 json 的类型。|
 
 

@@ -3,7 +3,7 @@ title: index propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 550
+weight: 580
 url: /fr/aspose.cells/worksheet/index/
 is_root: false
 ---

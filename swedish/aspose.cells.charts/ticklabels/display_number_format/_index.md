@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  display_number_format fastighet
 
-Hämtar och ställer in visningsnummerformatet för bocketiketter.
+Hämtar och ställer in visningsformatet för tick-etiketter.
 ###  Definition:
 ```python
 @property

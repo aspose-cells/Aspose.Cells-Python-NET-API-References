@@ -3,13 +3,13 @@ title: left_margin_pt fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 80
 url: /sv/aspose.cells.drawing.texts/shapetextalignment/left_margin_pt/
 is_root: false
 ---
 ##  left_margin_pt fastighet
 
-Returnerar den vänstra marginalen i poängenhet
+Returnerar vänstermarginalen i enheten poäng
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def left_margin_pt(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [ShapeTextAlignment](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`ShapeTextAlignment`](/cells/python-net/sv/aspose.cells.drawing.texts/shapetextalignment)

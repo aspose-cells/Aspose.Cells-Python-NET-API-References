@@ -7,12 +7,13 @@ weight: 390
 url: /zh/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  set_standard_header_footer_font_style_name {#str-str}
-根据给定的标准函数名称设置与区域设置相关的函数名称。
+##  set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
+根据给定的标准函数名称设置与语言环境相关的函数名称。
 
 
 
 ```python
+
 def set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name):
     ...
 ```
@@ -20,7 +21,7 @@ def set_standard_header_footer_font_style_name(self, localfont_style_name, stand
 
 |范围|类型|描述|
 | :- | :- | :- |
-| localfont_style_name | str |页眉/页脚的区域设置字体样式名称。|
+| localfont_style_name | str |页眉/页脚的区域字体样式名称。|
 | standard_name | str |标准（en-US 区域设置）函数名称。|
 
 

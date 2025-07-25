@@ -3,13 +3,13 @@ title: is_group Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 590
+weight: 600
 url: /de/aspose.cells.drawing/listbox/is_group/
 is_root: false
 ---
 ##  is_group Eigentum
 
-Gibt an, ob es sich bei der Form um eine Gruppe handelt.
+Gibt an, ob es sich bei dieser Form um eine Gruppenform handelt.
 
 ###  Beispiel
 

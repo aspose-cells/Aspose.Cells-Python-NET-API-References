@@ -1,6 +1,6 @@
 ---
 title: aspose.cells.numbers
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
@@ -12,12 +12,12 @@ is_root: false
 ### 类
 |类|描述|
 | :- | :- |
-| [NumbersLoadOptions](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions) |表示加载 Apple Numbers 文件的选项。|
+| [`NumbersLoadOptions`](/cells/python-net/zh/aspose.cells.numbers/numbersloadoptions) |表示加载Apple Numbers文件的选项。|
 
 
 ### 枚举
 |枚举|描述|
 | :- | :- |
-| [LoadNumbersTableType](/cells/python-net/zh/aspose.cells.numbers/loadnumberstabletype) |当一些表格在工作表中时，指示加载表格的类型。|
+| [`LoadNumbersTableType`](/cells/python-net/zh/aspose.cells.numbers/loadnumberstabletype) |当工作表中有多个表格时，指示加载表格的类型。|
 
 

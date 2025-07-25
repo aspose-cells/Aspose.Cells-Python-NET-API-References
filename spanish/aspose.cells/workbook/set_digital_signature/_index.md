@@ -1,18 +1,19 @@
 ---
-title: set_digital_signature método
+title: método set_digital_signature
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 350
+weight: 370
 url: /es/aspose.cells/workbook/set_digital_signature/
 is_root: false
 ---
-##  set_digital_signature(digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
-Establece la firma digital en un archivo de hoja de cálculo (Excel2007 y posterior).
+##  set_digital_signature(self, digital_signature_collection) {#aspose.cells.digitalsignatures.DigitalSignatureCollection}
+Establece una firma digital en un archivo de hoja de cálculo (Excel 2007 y posterior).
 
 
 
 ```python
+
 def set_digital_signature(self, digital_signature_collection):
     ...
 ```
@@ -23,10 +24,10 @@ def set_digital_signature(self, digital_signature_collection):
 | digital_signature_collection | aspose.cells.digitalsignatures.DigitalSignatureCollection |  |
 ###  Observaciones
 
-Solo admite agregar la firma digital Xmldsig
+Solo se admite la adición de firma digital Xmldsig
 
 
 ###  Ver también
 
-* módulo [aspose.cells](../../)
-* clase [Workbook](/cells/python-net/es/aspose.cells/workbook)
+* módulo [`aspose.cells`](../../)
+* clase [`Workbook`](/cells/python-net/es/aspose.cells/workbook)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  right_margin_pt propriété
 
-Renvoie la marge de droite en unité de Points
+Renvoie la marge de droite en unités de points
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def right_margin_pt(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoTextFrame](/cells/python-net/fr/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoTextFrame`](/cells/python-net/fr/aspose.cells.drawing/msotextframe)

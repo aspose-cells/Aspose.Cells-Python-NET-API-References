@@ -18,11 +18,11 @@ El tipo WeightType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | HAIR_LINE | Representa el peso de la línea del cabello.|
-| MEDIUM_LINE | Representa el peso de línea media.|
+| MEDIUM_LINE | Representa el peso de la línea media.|
 | SINGLE_LINE | Representa el peso de una sola línea.|
-| WIDE_LINE | Representa el peso de la línea ancha.|
+| WIDE_LINE |Representa el peso de la línea ancha.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

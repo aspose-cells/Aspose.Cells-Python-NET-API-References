@@ -3,7 +3,7 @@ title: html_text propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 490
+weight: 480
 url: /es/aspose.cells.drawing/cellsdrawing/html_text/
 is_root: false
 ---

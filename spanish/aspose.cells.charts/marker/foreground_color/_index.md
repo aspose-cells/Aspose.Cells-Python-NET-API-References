@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color propiedad
 
-Representa el color de primer plano del marcador en un gráfico de líneas, de dispersión o de radar.
+Representa el color de primer plano del marcador en un gráfico de líneas, un gráfico de dispersión o un gráfico de radar.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Marker](/cells/python-net/es/aspose.cells.charts/marker)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Marker`](/cells/python-net/es/aspose.cells.charts/marker)

@@ -18,5 +18,5 @@ def guid(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.revisions](../../)
-* clase [RevisionCustomView](/cells/python-net/es/aspose.cells.revisions/revisioncustomview)
+* módulo [`aspose.cells.revisions`](../../)
+* clase [`RevisionCustomView`](/cells/python-net/es/aspose.cells.revisions/revisioncustomview)

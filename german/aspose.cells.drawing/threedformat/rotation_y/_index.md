@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_y Eigentum
 
-Ruft die Drehung der extrudierten Form um die y-Achse in Grad ab und legt diese fest.
+Ruft die Drehung der extrudierten Form um die Y-Achse in Grad ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_y(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

@@ -3,20 +3,21 @@ title: get_subtotals metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 70
+weight: 130
 url: /sv/aspose.cells.pivot/pivotfield/get_subtotals/
 is_root: false
 ---
-##  get_subtotals {#aspose.cells.pivot.PivotFieldSubtotalType}
-Anger om angiven delsumma visas.
+##  get_subtotals(self, subtotal_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
+Anger om en specifik delsumma visas.
 
 
 ###  Returnerar
 
-Returnerar om angiven delsumma visas.
+Returnerar om den angivna delsumman visas.
 
 
 ```python
+
 def get_subtotals(self, subtotal_type):
     ...
 ```
@@ -24,7 +25,7 @@ def get_subtotals(self, subtotal_type):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) | subtotal typ.|
+| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/sv/aspose.cells.pivot/pivotfieldsubtotaltype) | delsummatyp.|
 
 
 

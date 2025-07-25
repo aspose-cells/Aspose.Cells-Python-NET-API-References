@@ -7,7 +7,7 @@ weight: 60
 url: /sv/aspose.cells.drawing/shapecollection/add_button/
 is_root: false
 ---
-##  add_button(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+##  add_button(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 Lägger till en knapp i kalkylbladet.
 
 
@@ -17,6 +17,7 @@ Ett knappobjekt.
 
 
 ```python
+
 def add_button(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -24,12 +25,12 @@ def add_button(self, upper_left_row, top, upper_left_column, left, height, width
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| upper_left_row | int | Övre vänstra radens index.|
-| top | int | Representerar den vertikala förskjutningen av knappen från dess vänstra rad, i pixelenhet.|
-| upper_left_column | int | Övre vänstra kolumnindex.|
-| left | int | Representerar den horisontella förskjutningen av knappen från dess vänstra kolumn, i pixelenhet.|
-| height | int | Representerar höjden på knappen, i pixelenhet.|
-| width | int | Representerar knappens bredd i pixelenhet.|
+| upper_left_row | int | Index för övre vänstra raden.|
+| top | int | Representerar knappens vertikala förskjutning från dess vänstra rad, i pixelenhet.|
+| upper_left_column | int | Index i övre vänstra kolumnen.|
+| left | int |Representerar knappens horisontella förskjutning från dess vänstra kolumn, i pixelenhet.|
+| height | int | Representerar knappens höjd, i pixlar.|
+| width | int | Representerar knappens bredd, i pixlar.|
 
 ###  Exempel
 
@@ -43,5 +44,5 @@ button = shapes.add_button(1, 0, 1, 0, 100, 50)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

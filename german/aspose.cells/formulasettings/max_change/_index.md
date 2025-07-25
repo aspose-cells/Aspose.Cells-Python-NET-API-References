@@ -21,5 +21,5 @@ def max_change(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

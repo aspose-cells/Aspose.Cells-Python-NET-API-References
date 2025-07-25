@@ -3,16 +3,17 @@ title: set_visible Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 280
+weight: 300
 url: /de/aspose.cells/worksheet/set_visible/
 is_root: false
 ---
-##  set_visible {#bool-bool}
+##  set_visible(self, is_visible, ignore_error) {#bool-bool}
 Legt die sichtbaren Optionen fest.
 
 
 
 ```python
+
 def set_visible(self, is_visible, ignore_error):
     ...
 ```

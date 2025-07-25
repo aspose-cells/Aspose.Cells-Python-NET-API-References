@@ -1,19 +1,21 @@
 ---
-title: set_font_folders méthode
+title: méthode set_font_folders
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 50
+weight: 70
 url: /fr/aspose.cells/fontconfigs/set_font_folders/
 is_root: false
 ---
-##  set_font_folders(font_folders, recursive) {#list-bool}
+##  set_font_folders(, font_folders, récursif){#list-bool}
 Définit les dossiers de polices
 
 
 
 ```python
-def set_font_folders(self, font_folders, recursive):
+
+@staticmethod
+def set_font_folders(font_folders, recursive):
     ...
 ```
 
@@ -21,10 +23,10 @@ def set_font_folders(self, font_folders, recursive):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | font_folders | list | Les dossiers contenant les polices TrueType.|
-| recursive | bool | Détermine s'il faut analyser ou non les sous-dossiers.|
+| recursive | bool | Détermine s’il faut ou non analyser les sous-dossiers.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FontConfigs](/cells/python-net/fr/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* classe [`FontConfigs`](/cells/python-net/fr/aspose.cells/fontconfigs)

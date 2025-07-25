@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  relative_libid fastighet
 
-Hämtar och ställer in det refererade VBA-projektets identifierare med en relativ sökväg.
+Hämtar och anger det refererade VBA-projektets identifierare med en relativ sökväg.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def relative_libid(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.vba](../../)
-* klass [VbaProjectReference](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)
+* modul [`aspose.cells.vba`](../../)
+* klass [`VbaProjectReference`](/cells/python-net/sv/aspose.cells.vba/vbaprojectreference)

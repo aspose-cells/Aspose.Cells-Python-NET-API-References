@@ -3,7 +3,7 @@ title: LookAtType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2300
+weight: 2260
 url: /ar/aspose.cells/lookattype/
 is_root: false
 ---
@@ -17,10 +17,10 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| CONTAINS | قيمة Cell تحتوي على كائن البحث.|
-| START_WITH | قيمة Cell تبدأ بكائن البحث.|
-| END_WITH | تنتهي قيمة Cell بكائن البحث.|
-| ENTIRE_CONTENT | قيمة Cell هي نفس قيمة كائن البحث.|
+| CONTAINS | Cell القيمة تحتوي على كائن البحث.|
+| START_WITH | Cell القيمة تبدأ بكائن البحث.|
+| END_WITH | تنتهي القيمة Cell بكائن البحث.|
+| ENTIRE_CONTENT | القيمة Cell هي نفس قيمة الكائن الذي تم العثور عليه.|
 
 
 

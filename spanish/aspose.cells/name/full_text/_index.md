@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  full_text propiedad
 
-Obtiene el texto completo del nombre del objeto con la configuración de ámbito.
+Obtiene el texto completo del nombre del objeto con la configuración del alcance.
 ###  Definición:
 ```python
 @property
@@ -18,5 +18,5 @@ def full_text(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

@@ -3,17 +3,17 @@ title: upper_delta_x属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /zh/aspose.cells.drawing/radiobutton/upper_delta_x/
 is_root: false
 ---
 ## upper_delta_x属性
 
-获取或设置形状相对于其左上角列的水平偏移量。
+获取或设置形状与其左上角列的水平偏移量。
 
-### 评论
+### 注意事项
 
-值的范围是0到1024。
+值的范围是 0 至 1024。
 
 ### 例子
 

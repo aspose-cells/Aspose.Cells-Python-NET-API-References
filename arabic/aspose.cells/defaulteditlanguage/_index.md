@@ -3,7 +3,7 @@ title: DefaultEditLanguage التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2020
+weight: 1930
 url: /ar/aspose.cells/defaulteditlanguage/
 is_root: false
 ---
@@ -18,7 +18,7 @@ is_root: false
 | مجال| وصف|
 | :- | :- |
 | AUTO | يمثل الكشف التلقائي عن لغة التحرير وفقًا للنص نفسه.|
-| ENGLISH | يمثل اللغة الإنجليزية.|
+| ENGLISH | يمثل اللغة الانجليزية.|
 | CJK | يمثل اللغة الصينية واليابانية والكورية.|
 
 

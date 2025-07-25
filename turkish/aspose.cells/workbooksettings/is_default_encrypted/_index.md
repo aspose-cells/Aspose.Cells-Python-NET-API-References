@@ -3,17 +3,17 @@ title: is_default_encrypted mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 220
+weight: 250
 url: /tr/aspose.cells/workbooksettings/is_default_encrypted/
 is_root: false
 ---
 ##  is_default_encrypted mülk
 
-Çalışma kitabının Yapısı ve Windows'i kilitliyse, çalışma kitabının varsayılan parolayla şifrelenip şifrelenmeyeceğini belirtir.
+Çalışma kitabının Yapısı ve Windows'i kilitliyse çalışma kitabının varsayılan parola ile şifrelenip şifrelenmeyeceğini belirtir.
 
 ###  Notlar
 
-Varsayılan değer artık false'tur. MS Excel 2013 ile aynıdır.
+Varsayılan değer artık false. MS Excel 2013 ile aynı.
 ###  Tanım:
 ```python
 @property

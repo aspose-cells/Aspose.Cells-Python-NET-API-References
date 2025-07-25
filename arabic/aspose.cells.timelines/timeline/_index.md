@@ -1,5 +1,5 @@
 ---
-title: Timeline الدرجة
+title: Timeline صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,21 +7,22 @@ weight: 10
 url: /ar/aspose.cells.timelines/timeline/
 is_root: false
 ---
-##  Timeline الدرجة
-وصف موجز لعرض Timeline
-بسبب MS Excel ، لا يدعم Excel 2003 Timeline
+##  Timeline صف
+وصف موجز لـ Timeline عرض
+بسبب MS Excel، لا يدعم Excel 2003 الرقم Timeline
 
 
 
-يكشف نوع Timeline الأعضاء التالية:
+يكشف النوع Timeline عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [caption](/cells/python-net/ar/aspose.cells.timelines/timeline/caption) | إرجاع أو تعيين التسمية التوضيحية للخط الزمني المحدد.|
-| [name](/cells/python-net/ar/aspose.cells.timelines/timeline/name) |إرجاع أو تعيين اسم الجدول الزمني المحدد|
-| [left_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/left_pixel) | إرجاع أو تعيين الإزاحة الأفقية لشكل المخطط الزمني من العمود الأيسر بالبكسل.|
-| [top_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/top_pixel) | إرجاع أو تعيين الإزاحة الرأسية لشكل المخطط الزمني من صفه العلوي بالبكسل.|
+| [caption](/cells/python-net/ar/aspose.cells.timelines/timeline/caption) | إرجاع أو تعيين تسمية توضيحية للخط الزمني المحدد.|
+| [shape](/cells/python-net/ar/aspose.cells.timelines/timeline/shape) | يُرجع الكائن [`TimelineShape`](/cells/python-net/ar/aspose.cells.drawing/timelineshape) المرتبط بهذا الجدول الزمني. للقراءة فقط.|
+| [name](/cells/python-net/ar/aspose.cells.timelines/timeline/name) | إرجاع أو تعيين اسم الجدول الزمني المحدد|
+| [left_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/left_pixel) | إرجاع أو تعيين الإزاحة الأفقية لشكل الخط الزمني من العمود الأيسر، بالبكسل.|
+| [top_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/top_pixel) | إرجاع أو تعيين الإزاحة الرأسية لشكل الخط الزمني من الصف العلوي، بالبكسل.|
 | [width_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/width_pixel) | إرجاع أو تعيين عرض الجدول الزمني المحدد بالبكسل.|
 | [height_pixel](/cells/python-net/ar/aspose.cells.timelines/timeline/height_pixel) | إرجاع أو تعيين ارتفاع الجدول الزمني المحدد بالبكسل.|
 
@@ -32,7 +33,7 @@ is_root: false
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.timelines](..)
+* الوحدة [`aspose.cells.timelines`](..)
+* فئة [`TimelineShape`](/cells/python-net/ar/aspose.cells.drawing/timelineshape)

@@ -3,13 +3,13 @@ title: update_links_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 500
+weight: 520
 url: /zh/aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---
 ## update_links_type属性
 
-获取和设置打开工作簿时如何更新外部链接。
+获取并设置工作簿打开时如何更新外部链接。
 ### 定义：
 ```python
 @property

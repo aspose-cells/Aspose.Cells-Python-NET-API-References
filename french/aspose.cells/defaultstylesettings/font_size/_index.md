@@ -3,13 +3,13 @@ title: font_size propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells/defaultstylesettings/font_size/
 is_root: false
 ---
 ##  font_size propriété
 
-Obtient/Définit la taille de police standard par défaut pour le classeur.
+Obtient/définit la taille de police standard par défaut pour le classeur.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def font_size(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DefaultStyleSettings](/cells/python-net/fr/aspose.cells/defaultstylesettings)
+* module [`aspose.cells`](../../)
+* classe [`DefaultStyleSettings`](/cells/python-net/fr/aspose.cells/defaultstylesettings)

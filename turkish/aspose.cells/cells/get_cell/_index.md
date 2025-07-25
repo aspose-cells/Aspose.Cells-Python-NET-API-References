@@ -7,17 +7,18 @@ weight: 310
 url: /tr/aspose.cells/cells/get_cell/
 is_root: false
 ---
-##  get_cell {#int-int}
-Belirtilen hücre satır dizininde ve sütun dizininde [`Cell`](/cells/python-net/tr/aspose.cells/cell) öğesini veya null öğesini alır.
+##  get_cell(self, row, column) {#int-int}
+Belirtilen hücre satır dizini ve sütun dizinindeki [`Cell`](/cells/python-net/tr/aspose.cells/cell) öğesini veya null değerini alır.
 
 
 ###  İadeler
 
-Bir Cell nesnesi mevcutsa Cell nesnesini döndürün.
-Hücre mevcut değilse null değerini döndürün.
+Cell nesnesi varsa Cell nesnesini döndür.
+Hücre yoksa null değerini döndür.
 
 
 ```python
+
 def get_cell(self, row, column):
     ...
 ```
@@ -29,10 +30,10 @@ def get_cell(self, row, column):
 | column | int | Sütun dizini|
 ###  Notlar
 
-NOT: Bu üye artık kullanılmıyor. Yerine,
-lütfen CheckCell(int satır, int sütun) yöntemini kullanın.
- Bu yöntem Şubat 2024'ten 12 ay sonra kaldırılacaktır.
-Aspose, yaşamış olabileceğiniz rahatsızlıklardan dolayı özür diler.
+NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+Lütfen CheckCell(int satır, int sütun) metodunu kullanın.
+ Bu yöntem 12 ay sonra, Şubat 2024'ten itibaren kaldırılacak.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
 
 
 ###  Ayrıca bakınız

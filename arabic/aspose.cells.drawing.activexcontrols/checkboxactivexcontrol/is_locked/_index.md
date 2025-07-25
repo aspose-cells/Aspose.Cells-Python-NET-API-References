@@ -1,5 +1,5 @@
 ---
-title: is_locked الملكية
+title: is_locked عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,7 @@ weight: 150
 url: /ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol/is_locked/
 is_root: false
 ---
-##  is_locked الملكية
-
-يشير إلى ما إذا كانت البيانات الموجودة في عنصر التحكم مؤمنة للتحرير.
+##  is_locked عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def is_locked(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.activexcontrols](../../)
-* فئة [CheckBoxActiveXControl](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)
+* الوحدة [`aspose.cells.drawing.activexcontrols`](../../)
+* فئة [`CheckBoxActiveXControl`](/cells/python-net/ar/aspose.cells.drawing.activexcontrols/checkboxactivexcontrol)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked fastighet
 
-Indikerar om scenariot är låst för redigering när arket är skyddat.
+Anger om scenariot är låst för redigering när arket är skyddat.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)

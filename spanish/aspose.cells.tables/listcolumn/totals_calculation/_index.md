@@ -3,7 +3,7 @@ title: totals_calculation propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 100
+weight: 130
 url: /es/aspose.cells.tables/listcolumn/totals_calculation/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def totals_calculation(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [ListColumn](/cells/python-net/es/aspose.cells.tables/listcolumn)
-* clase [TotalsCalculation](/cells/python-net/es/aspose.cells.tables/totalscalculation)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`ListColumn`](/cells/python-net/es/aspose.cells.tables/listcolumn)
+* clase [`TotalsCalculation`](/cells/python-net/es/aspose.cells.tables/totalscalculation)

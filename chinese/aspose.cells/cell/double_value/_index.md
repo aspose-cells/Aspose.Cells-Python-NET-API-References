@@ -3,7 +3,7 @@ title: double_value属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 460
+weight: 470
 url: /zh/aspose.cells/cell/double_value/
 is_root: false
 ---

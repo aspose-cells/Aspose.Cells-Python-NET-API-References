@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrowhead_width mülk
 
-Satırın bitiş oku genişlik türünü alır ve ayarlar.
+Çizginin bitiş okunun genişlik türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def end_arrowhead_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadWidth](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadWidth`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)

@@ -21,5 +21,5 @@ def has_header_row(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [ExportRangeToJsonOptions](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`ExportRangeToJsonOptions`](/cells/python-net/de/aspose.cells.utility/exportrangetojsonoptions)

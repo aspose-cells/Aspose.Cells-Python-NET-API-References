@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  bubble_scale Eigentum
 
- Ruft den Skalierungsfaktor für Blasen in der angegebenen Diagrammgruppe ab oder legt diesen fest.
- Es kann ein ganzzahliger Wert von 0 (Null) bis 300 sein.
-entsprechend einem Prozentsatz der Standardgröße.
+ Ruft den Skalierungsfaktor für Blasen in der angegebenen Diagrammgruppe ab oder legt ihn fest.
+ Es kann ein ganzzahliger Wert von 0 (Null) bis 300 sein,
+entspricht einem Prozentsatz der Standardgröße.
 Gilt nur für Blasendiagramme.
 ###  Definition:
 ```python

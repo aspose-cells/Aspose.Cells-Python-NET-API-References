@@ -1,6 +1,6 @@
 ---
 title: Enumerazione CommentTitleType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -18,7 +18,7 @@ Il tipo CommentTitleType espone i seguenti membri:
 | Campo| Descrizione|
 | :- | :- |
 | CELL | Rappresenta la cella del titolo del commento.|
-| COMMENT | Rappresenta il commento del titolo del commento.|
+| COMMENT | Rappresenta il titolo del commento.|
 | NOTE | Rappresenta la nota del titolo del commento.|
 | REPLY | Rappresenta la risposta al titolo del commento.|
 

@@ -1,15 +1,15 @@
 ---
 title: column_width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 380
 url: /ru/aspose.cells/range/column_width/
 is_root: false
 ---
 ##  column_width недвижимость
 
-Устанавливает или получает ширину столбца этого диапазона.
+Устанавливает или получает ширину столбца этого диапазона
 ###  Определение:
 ```python
 @property

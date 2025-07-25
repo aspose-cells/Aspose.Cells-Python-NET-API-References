@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_stops propiedad
 
-Representa la colección de parada de degradado.
+Representa la colección de paradas de degradado.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def gradient_stops(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [GradientFill](/cells/python-net/es/aspose.cells.drawing/gradientfill)
-* clase [GradientStopCollection](/cells/python-net/es/aspose.cells.drawing/gradientstopcollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`GradientFill`](/cells/python-net/es/aspose.cells.drawing/gradientfill)
+* clase [`GradientStopCollection`](/cells/python-net/es/aspose.cells.drawing/gradientstopcollection)

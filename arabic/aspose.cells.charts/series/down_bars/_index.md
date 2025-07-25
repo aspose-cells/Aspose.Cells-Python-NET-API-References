@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  down_bars عقار
 
-تقوم بإرجاع كائن [`DropBars`](/cells/python-net/ar/aspose.cells.charts/dropbars) الذي يمثل الأشرطة السفلية على المخطط الخطي.
+يقوم بإرجاع الكائن [`DropBars`](/cells/python-net/ar/aspose.cells.charts/dropbars) الذي يمثل الأشرطة السفلية على مخطط خطي.
 ينطبق فقط على المخططات الخطية.
 ###  تعريف:
 ```python

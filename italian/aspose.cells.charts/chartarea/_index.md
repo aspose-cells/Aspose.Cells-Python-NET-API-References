@@ -1,54 +1,66 @@
 ---
-title: classe ChartArea
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: ChartArea classe
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 40
 url: /it/aspose.cells.charts/chartarea/
 is_root: false
 ---
-##  classe ChartArea
+##  ChartArea classe
 Incapsula l'oggetto che rappresenta l'area del grafico nel foglio di lavoro.
 
 
 
-**Eredità:** [ChartArea](/cells/python-net/aspose.cells.charts/chartarea) → 
-[ChartFrame](/cells/python-net/it/aspose.cells.charts/chartframe)
+**Eredità:** [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) → 
+[`ChartFrame`](/cells/python-net/it/aspose.cells.charts/chartframe)
 
 
 
-Il tipo ChartArea espone i membri seguenti:
+Il tipo ChartArea espone i seguenti membri:
 
 ###  Proprietà
 | Proprietà| Descrizione|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/it/aspose.cells.charts/chartarea/is_inner_mode) | Indica se la dimensione dell'area del tracciato include i segni di graduazione e le etichette degli assi.<br/> False specifica che la dimensione determinerà la dimensione dell'area del tracciato, i segni di graduazione e le etichette degli assi.|
-| [border](/cells/python-net/it/aspose.cells.charts/chartarea/border) | Ottiene lo [Line](/cells/python-net/it/aspose.cells.drawing/line).|
-| [area](/cells/python-net/it/aspose.cells.charts/chartarea/area) | Ottiene lo [ChartFrame.area](/cells/python-net/it/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/it/aspose.cells.charts/chartarea/text_font) | Ottiene un oggetto [ChartFrame.font](/cells/python-net/it/aspose.cells.charts/chartframe#font) dell'oggetto ChartFrame specificato.|
+| [is_inner_mode](/cells/python-net/it/aspose.cells.charts/chartarea/is_inner_mode) | Indica se la dimensione dell'area del grafico include i segni di spunta e le etichette degli assi.<br/> False specifica che la dimensione determinerà la dimensione dell'area del grafico, dei segni di spunta e delle etichette degli assi.|
+| [border](/cells/python-net/it/aspose.cells.charts/chartarea/border) | Ottiene [`Line`](/cells/python-net/it/aspose.cells.drawing/line).|
+| [area](/cells/python-net/it/aspose.cells.charts/chartarea/area) | Ottiene [`ChartFrame.area`](/cells/python-net/it/aspose.cells.charts/chartframe#area).|
+| [text_font](/cells/python-net/it/aspose.cells.charts/chartarea/text_font) |Ottiene un oggetto [`ChartFrame.font`](/cells/python-net/it/aspose.cells.charts/chartframe#font) dell'oggetto ChartFrame specificato.|
 | [text_options](/cells/python-net/it/aspose.cells.charts/chartarea/text_options) | Ottiene e imposta le opzioni del testo.|
-| [font](/cells/python-net/it/aspose.cells.charts/chartarea/font) | Ottiene un oggetto [ChartArea.font](/cells/python-net/it/aspose.cells.charts/chartarea#font) dell'oggetto chartarea specificato.|
-| [auto_scale_font](/cells/python-net/it/aspose.cells.charts/chartarea/auto_scale_font) | True se il testo nell'oggetto cambia la dimensione del carattere quando cambia la dimensione dell'oggetto. Il valore predefinito è Vero.|
+| [font](/cells/python-net/it/aspose.cells.charts/chartarea/font) | Ottiene un oggetto [`ChartArea.font`](/cells/python-net/it/aspose.cells.charts/chartarea#font) dell'oggetto chartarea specificato.|
+| [auto_scale_font](/cells/python-net/it/aspose.cells.charts/chartarea/auto_scale_font) | Vero se il testo nell'oggetto cambia dimensione del carattere quando cambia la dimensione dell'oggetto. Il valore predefinito è Vero.|
 | [background_mode](/cells/python-net/it/aspose.cells.charts/chartarea/background_mode) | Ottiene e imposta la modalità di visualizzazione dello sfondo|
 | [background](/cells/python-net/it/aspose.cells.charts/chartarea/background) | Ottiene e imposta la modalità di visualizzazione dello sfondo|
-| [is_automatic_size](/cells/python-net/it/aspose.cells.charts/chartarea/is_automatic_size) | Indica se la cornice del grafico è ridimensionata automaticamente.|
-| [x](/cells/python-net/it/aspose.cells.charts/chartarea/x) | Ottiene o ottiene l'offset orizzontale dalla colonna nell'angolo superiore sinistro.|
-| [y](/cells/python-net/it/aspose.cells.charts/chartarea/y) |Ottiene o ottiene l'offset verticale dalla riga dell'angolo superiore sinistro.|
-| [height](/cells/python-net/it/aspose.cells.charts/chartarea/height) | Ottiene o imposta l'offset verticale dalla relativa riga nell'angolo inferiore destro.|
-| [width](/cells/python-net/it/aspose.cells.charts/chartarea/width) | Ottiene o imposta l'offset orizzontale dalla colonna nell'angolo inferiore destro.|
+| [is_automatic_size](/cells/python-net/it/aspose.cells.charts/chartarea/is_automatic_size) | Indica se la cornice del grafico ha dimensioni automatiche.|
+| [x](/cells/python-net/it/aspose.cells.charts/chartarea/x) | Ottiene o ottiene lo scostamento orizzontale dalla colonna dell'angolo superiore sinistro, in unità di 1/4000 dell'area del grafico.|
+| [y](/cells/python-net/it/aspose.cells.charts/chartarea/y) | Ottiene o ottiene lo scostamento verticale dalla riga dell'angolo superiore sinistro, in unità di 1/4000 dell'area del grafico.|
+| [height](/cells/python-net/it/aspose.cells.charts/chartarea/height) | Ottiene o imposta lo scostamento verticale dalla riga nell'angolo inferiore destro, in unità di 1/4000 dell'area del grafico.|
+| [width](/cells/python-net/it/aspose.cells.charts/chartarea/width) | Ottiene o imposta lo scostamento orizzontale dalla colonna dell'angolo inferiore destro, in unità di 1/4000 dell'area del grafico.|
 | [shadow](/cells/python-net/it/aspose.cells.charts/chartarea/shadow) | Vero se la cornice ha un'ombra.|
-| [shape_properties](/cells/python-net/it/aspose.cells.charts/chartarea/shape_properties) | Ottiene l'oggetto [ChartFrame.shape_properties](/cells/python-net/it/aspose.cells.charts/chartframe#shape_properties).|
-| [is_default_pos_be_set](/cells/python-net/it/aspose.cells.charts/chartarea/is_default_pos_be_set) | Indica se la posizione predefinita (DefaultX, DefaultY, DefaultWidth e DefaultHeight) è impostata.|
-| [default_x](/cells/python-net/it/aspose.cells.charts/chartarea/default_x) | Rappresenta x della posizione predefinita|
-| [default_y](/cells/python-net/it/aspose.cells.charts/chartarea/default_y) | Rappresenta y della posizione predefinita|
-| [default_width](/cells/python-net/it/aspose.cells.charts/chartarea/default_width) | Rappresenta la larghezza della posizione predefinita|
-| [default_height](/cells/python-net/it/aspose.cells.charts/chartarea/default_height) | Rappresenta l'altezza della posizione predefinita|
+| [shape_properties](/cells/python-net/it/aspose.cells.charts/chartarea/shape_properties) | Ottiene l'oggetto [`ChartFrame.shape_properties`](/cells/python-net/it/aspose.cells.charts/chartframe#shape_properties).|
+| [is_default_pos_be_set](/cells/python-net/it/aspose.cells.charts/chartarea/is_default_pos_be_set) |Indica se sono impostate le posizioni predefinite (DefaultX, DefaultY, DefaultWidth e DefaultHeight).|
+| [default_x](/cells/python-net/it/aspose.cells.charts/chartarea/default_x) | Rappresenta x della posizione predefinita in unità di 1/4000 dell'area del grafico.|
+| [default_y](/cells/python-net/it/aspose.cells.charts/chartarea/default_y) | Rappresenta la y della posizione predefinita in unità di 1/4000 dell'area del grafico.|
+| [default_width](/cells/python-net/it/aspose.cells.charts/chartarea/default_width) | Rappresenta la larghezza della posizione predefinita in unità di 1/4000 dell'area del grafico.|
+| [default_height](/cells/python-net/it/aspose.cells.charts/chartarea/default_height) | Rappresenta l'altezza della posizione predefinita in unità di 1/4000 dell'area del grafico.|
+| [default_x_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/default_x_ratio_to_chart) | Rappresenta x della posizione predefinita in unità di frazione dell'area del grafico.|
+| [default_y_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/default_y_ratio_to_chart) | Rappresenta la posizione predefinita in unità di frazione dell'area del grafico.|
+| [default_width_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/default_width_ratio_to_chart) | Rappresenta la larghezza della posizione predefinita in unità di frazione dell'area del grafico.|
+| [default_height_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/default_height_ratio_to_chart) | Rappresenta l'altezza della posizione predefinita in unità di frazione dell'area del grafico.|
+| [x_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/x_ratio_to_chart) | Ottiene o ottiene lo scostamento orizzontale dalla colonna dell'angolo superiore sinistro, in unità di rapporto dell'area del grafico.|
+| [y_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/y_ratio_to_chart) | Ottiene o ottiene lo scostamento verticale dalla riga dell'angolo superiore sinistro, in unità di rapporto dell'area del grafico.|
+| [width_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/width_ratio_to_chart) |Ottiene o imposta lo scostamento orizzontale dalla colonna dell'angolo inferiore destro, in unità di rapporto dell'area del grafico.|
+| [height_ratio_to_chart](/cells/python-net/it/aspose.cells.charts/chartarea/height_ratio_to_chart) | Ottiene o imposta lo scostamento verticale dalla riga dell'angolo inferiore destro, in unità di rapporto dell'area del grafico.|
+| [x_pixel](/cells/python-net/it/aspose.cells.charts/chartarea/x_pixel) | Ottiene o imposta la coordinata x dell'angolo superiore sinistro in unità Pixel.|
+| [y_pixel](/cells/python-net/it/aspose.cells.charts/chartarea/y_pixel) | Ottiene o imposta la coordinata y dell'angolo superiore sinistro in unità Pixel.|
+| [width_pixel](/cells/python-net/it/aspose.cells.charts/chartarea/width_pixel) | Ottiene o imposta la larghezza del fotogramma in unità Pixel.|
+| [height_pixel](/cells/python-net/it/aspose.cells.charts/chartarea/height_pixel) | Ottiene o imposta l'altezza del fotogramma in unità Pixel.|
 
 
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/it/aspose.cells.charts/chartarea/set_position_auto/#) | Imposta la posizione della cornice su automatico|
+| [`set_position_auto(self)`](/cells/python-net/it/aspose.cells.charts/chartarea/set_position_auto/#) | Imposta la posizione del frame su automatico|
 
 
 
@@ -93,7 +105,7 @@ workbook.save("book1.xls")
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](..)
-* classe [ChartArea](/cells/python-net/it/aspose.cells.charts/chartarea)
-* classe [ChartFrame](/cells/python-net/it/aspose.cells.charts/chartframe)
-* classe [Line](/cells/python-net/it/aspose.cells.drawing/line)
+* modulo [`aspose.cells.charts`](..)
+* classe [`ChartArea`](/cells/python-net/it/aspose.cells.charts/chartarea)
+* classe [`ChartFrame`](/cells/python-net/it/aspose.cells.charts/chartframe)
+* classe [`Line`](/cells/python-net/it/aspose.cells.drawing/line)

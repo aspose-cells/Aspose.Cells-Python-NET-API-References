@@ -3,13 +3,13 @@ title: paths fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 990
+weight: 1010
 url: /sv/aspose.cells.drawing/picture/paths/
 is_root: false
 ---
 ##  paths fastighet
 
-Får paths av en anpassad geometrisk form.
+Hämtar paths för en anpassad geometrisk form.
 
 ###  Exempel
 

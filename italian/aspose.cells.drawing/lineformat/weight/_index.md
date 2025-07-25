@@ -1,6 +1,6 @@
 ---
 title: weight proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 360
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  weight proprietà
 
-Ottiene o imposta weight della linea in unità di punti.
+Ottiene o imposta il valore weight della linea in unità di punti.
 
 ###  Esempio
 
@@ -29,5 +29,5 @@ def weight(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/it/aspose.cells.drawing/lineformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/it/aspose.cells.drawing/lineformat)

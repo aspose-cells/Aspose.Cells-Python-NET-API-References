@@ -1,22 +1,23 @@
 ---
 title: get_standard_built_in_name метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 190
 url: /ru/aspose.cells/globalizationsettings/get_standard_built_in_name/
 is_root: false
 ---
-##  get_standard_built_in_name {#str}
-Получает стандартный текст встроенного имени в соответствии с текстом, зависящим от языкового стандарта.
+##  get_standard_built_in_name(self, local_name) {#str}
+Получает стандартный текст встроенного Имени в соответствии с заданным зависящим от локали текстом.
 
 
 ###  Возврат
 
-Стандартный текст (локаль EN-США).
+Стандартный текст (локаль en-US).
 
 
 ```python
+
 def get_standard_built_in_name(self, local_name):
     ...
 ```
@@ -24,7 +25,7 @@ def get_standard_built_in_name(self, local_name):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| local_name | str | Зависящий от локали текст встроенного имени. Языковой стандарт указан в книге, для которой используются эти параметры.|
+| local_name | str | Текст встроенного имени, зависящий от локали. Локаль указана в рабочей книге, для которой используются эти настройки.|
 
 
 

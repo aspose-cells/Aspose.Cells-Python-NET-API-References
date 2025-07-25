@@ -1,6 +1,6 @@
 ---
 title: caption недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caption недвижимость
 
-Получает и задает описательный текст, отображаемый в элементе управления.
+Получает и задает описательный текст, отображаемый на элементе управления.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def caption(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ToggleButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

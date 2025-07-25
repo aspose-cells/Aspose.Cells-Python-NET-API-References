@@ -1,6 +1,6 @@
 ---
 title: down_bars недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 130
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  down_bars недвижимость
 
-Возвращает объект [`DropBars`](/cells/python-net/ru/aspose.cells.charts/dropbars), представляющий нисходящие бары на линейном графике.
-Применяется только к линейным графикам.
+Возвращает объект [`DropBars`](/cells/python-net/ru/aspose.cells.charts/dropbars), представляющий нисходящие полосы на линейном графике.
+Применимо только к линейным диаграммам.
 ###  Определение:
 ```python
 @property

@@ -13,7 +13,7 @@ Sayı biçimlendirmesinin uygulanıp uygulanmayacağını belirtin.
 
 ###  Notlar
 
-Yalnızca adlandırılmış stil için.
+Sadece adlandırılmış stil için.
 ###  Tanım:
 ```python
 @property

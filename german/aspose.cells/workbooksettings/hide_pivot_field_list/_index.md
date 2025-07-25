@@ -3,13 +3,13 @@ title: hide_pivot_field_list Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 210
+weight: 240
 url: /de/aspose.cells/workbooksettings/hide_pivot_field_list/
 is_root: false
 ---
 ##  hide_pivot_field_list Eigentum
 
-Ruft ab und legt fest, ob die Feldliste für die PivotTable ausgeblendet wird.
+Ruft ab und legt fest, ob die Feldliste für die PivotTable ausgeblendet werden soll.
 ###  Definition:
 ```python
 @property

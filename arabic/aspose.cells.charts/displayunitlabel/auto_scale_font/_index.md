@@ -1,5 +1,5 @@
 ---
-title: auto_scale_font الملكية
+title: auto_scale_font عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.charts/displayunitlabel/auto_scale_font/
 is_root: false
 ---
-##  auto_scale_font الملكية
+##  auto_scale_font عقار
 
-صواب إذا كان النص في الكائن يغير حجم الخط عندما يتغير حجم الكائن. القيمة الافتراضية هي الحقيقية.
+صحيح إذا تغير حجم خط النص في الكائن عند تغيير حجم الكائن. القيمة الافتراضية هي صحيح.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def auto_scale_font(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DisplayUnitLabel](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DisplayUnitLabel`](/cells/python-net/ar/aspose.cells.charts/displayunitlabel)

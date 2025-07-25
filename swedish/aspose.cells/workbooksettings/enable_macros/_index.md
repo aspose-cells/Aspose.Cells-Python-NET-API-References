@@ -3,7 +3,7 @@ title: enable_macros fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 170
+weight: 200
 url: /sv/aspose.cells/workbooksettings/enable_macros/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Aktivera makron;
 
 ###  Anmärkningar
 
-Nu fungerar det bara när du kopierar ett kalkylblad till ett annat kalkylblad i en arbetsbok.
+Nu fungerar det bara när man kopierar ett kalkylblad till ett annat kalkylblad i en arbetsbok.
 ###  Definition:
 ```python
 @property

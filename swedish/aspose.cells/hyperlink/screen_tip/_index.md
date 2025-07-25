@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  screen_tip fastighet
 
-Returnerar eller ställer in skärmtipstexten för den angivna hyperlänken.
+Returnerar eller anger skärmtipstexten för den angivna hyperlänken.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def screen_tip(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Hyperlink](/cells/python-net/sv/aspose.cells/hyperlink)
+* modul [`aspose.cells`](../../)
+* klass [`Hyperlink`](/cells/python-net/sv/aspose.cells/hyperlink)

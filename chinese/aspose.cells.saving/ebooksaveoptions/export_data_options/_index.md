@@ -3,13 +3,13 @@ title: export_data_options属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 280
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_data_options/
 is_root: false
 ---
 ## export_data_options属性
 
-导出html文件数据的规则，默认为全部。
+导出html文件数据的规则，默认为All。
 ### 定义：
 ```python
 @property

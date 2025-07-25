@@ -1,16 +1,16 @@
 ---
 title: is_include_new_items_in_filter недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 420
+weight: 500
 url: /ru/aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---
 ##  is_include_new_items_in_filter недвижимость
 
-указывает, может ли поле включать новые элементы в ручной фильтр
-Значение по умолчанию неверно.
+Указывает, следует ли включать новые элементы в поле при ручном фильтре.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

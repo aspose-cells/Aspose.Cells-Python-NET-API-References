@@ -7,12 +7,13 @@ weight: 50
 url: /de/aspose.cells/workbookdesigner/set_data_source/
 is_root: false
 ---
-##  set_data_source(data_source, cells_data_table) {#str-ICellsDataTable}
-Legt die Datenquelle eines [ICellsDataTable](/cells/python-net/de/aspose.cells/icellsdatatable)-Objekts fest.
+##  set_data_source(self, data_source, cells_data_table) {#str-ICellsDataTable}
+
 
 
 
 ```python
+
 def set_data_source(self, data_source, cells_data_table):
     ...
 ```
@@ -20,16 +21,17 @@ def set_data_source(self, data_source, cells_data_table):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| data_source | str | Der Name der Datenquelle.|
-| cells_data_table | [ICellsDataTable](/cells/python-net/de/aspose.cells/icellsdatatable) | Datentabelle.|
+| data_source | str |  |
+| cells_data_table | ICellsDataTable |  |
 
 
-##  set_data_source(variable, data) {#str-any}
-Legt die Datenbindung an eine Variable fest.
+##  set_data_source(self, variable, data) {#str-any}
+Legt die Datenbindung für eine Variable fest.
 
 
 
 ```python
+
 def set_data_source(self, variable, data):
     ...
 ```
@@ -43,6 +45,5 @@ def set_data_source(self, variable, data):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ICellsDataTable](/cells/python-net/de/aspose.cells/icellsdatatable)
-* Klasse [WorkbookDesigner](/cells/python-net/de/aspose.cells/workbookdesigner)
+* Modul [`aspose.cells`](../../)
+* Klasse [`WorkbookDesigner`](/cells/python-net/de/aspose.cells/workbookdesigner)

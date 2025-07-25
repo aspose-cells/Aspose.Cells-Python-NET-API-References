@@ -3,35 +3,35 @@ title: BevelType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 780
+weight: 770
 url: /tr/aspose.cells.drawing/beveltype/
 is_root: false
 ---
 ##  BevelType numaralandırma
-3B'de bir şekle uygulanabilen bir eğim türü için hazır ayarı temsil eder.
+3 boyutlu bir şekle uygulanabilen bir eğim türü için ön ayarı temsil eder.
 
 
 
-BevelType türü aşağıdaki üyeleri gösterir:
+BevelType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| NONE | eğim yok|
+| NONE | Eğim yok|
 | ANGLE | Açı|
-| ART_DECO | Art deco|
+| ART_DECO | Art deko|
 | CIRCLE | Daire|
-| CONVEX | dışbükey|
-| COOL_SLANT | Soğuk eğimli|
+| CONVEX | Dışbükey|
+| COOL_SLANT | Soğuk eğilim|
 | CROSS | Geçmek|
 | DIVOT | Çimen|
 | HARD_EDGE | Sert kenar|
-| RELAXED_INSET | rahat ek|
-| RIBLET | Riblet|
+| RELAXED_INSET | Rahat ek parça|
+| RIBLET | Kaburga|
 | SLOPE | Eğim|
-| SOFT_ROUND | yumuşak yuvarlak|
+| SOFT_ROUND | Yumuşak yuvarlak|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

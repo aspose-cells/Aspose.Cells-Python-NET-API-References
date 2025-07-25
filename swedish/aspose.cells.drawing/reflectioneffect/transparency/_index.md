@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency fastighet
 
-Hämtar och ställer in graden av startreflektion transparency som ett värde från 0,0 (opak) till 1,0 (ren).
+Hämtar och ställer in graden av startreflektionen transparency som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ReflectionEffect](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ReflectionEffect`](/cells/python-net/sv/aspose.cells.drawing/reflectioneffect)

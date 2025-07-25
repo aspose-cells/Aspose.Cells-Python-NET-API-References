@@ -3,7 +3,7 @@ title: ShadowEffect classe
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 510
+weight: 490
 url: /fr/aspose.cells.drawing/shadoweffect/
 is_root: false
 ---
@@ -18,14 +18,14 @@ Le type ShadowEffect expose les membres suivants :
 | Propriété| Description|
 | :- | :- |
 | [preset_type](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/preset_type) | Obtient et définit le type d'ombre prédéfini de l'ombre.|
-| [color](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/color) | Obtient et définit la couleur de l'ombre.|
-| [transparency](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/transparency) | Obtient et définit le degré de transparence de l'ombre. Plage de 0,0 (opaque) à 1,0 (transparent).|
-| [size](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/size) | Obtient et définit la taille de l'ombre. Plage de 0 à 2,0.<br/> Insignifiant dans l'ombre intérieure.|
-| [blur](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/blur) |Obtient et définit le flou de l'ombre. Plage de 0 à 100 points.|
+| [color](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/color) |Obtient et définit la couleur de l'ombre.|
+| [transparency](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/transparency) | Obtient et définit le degré de transparence de l'ombre. Plage de valeurs : 0,0 (opaque) à 1,0 (transparent).|
+| [size](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/size) | Obtient et définit la taille de l'ombre. Plage de valeurs : de 0 à 2,0.<br/> Sans signification dans l'ombre intérieure.|
+| [blur](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/blur) | Obtient et définit le flou de l'ombre. Plage de valeurs : de 0 à 100 points.|
 | [angle](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/angle) | Obtient et définit l'angle d'éclairage. Plage de 0 à 359,9 degrés.|
 | [distance](/cells/python-net/fr/aspose.cells.drawing/shadoweffect/distance) | Obtient et définit la distance de l'ombre. Plage de 0 à 200 points.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing](..)
+* module [`aspose.cells.drawing`](..)

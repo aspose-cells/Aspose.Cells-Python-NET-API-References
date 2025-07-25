@@ -7,16 +7,17 @@ weight: 40
 url: /tr/aspose.cells.drawing/oval/calculate_text_size/
 is_root: false
 ---
-##  calculate_text_size() {#}
+##  calculate_text_size(self) {#}
 Metin alanını yeniden hesapla
 
 
 ###  İadeler
 
-Bir dizideki Metnin Boyutu (genişlik ve yükseklik).
+Bir dizideki metnin boyutu (genişlik ve yükseklik).
 
 
 ```python
+
 def calculate_text_size(self):
     ...
 ```
@@ -35,5 +36,5 @@ size = shape.calculate_text_size()
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [Oval](/cells/python-net/tr/aspose.cells.drawing/oval)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`Oval`](/cells/python-net/tr/aspose.cells.drawing/oval)

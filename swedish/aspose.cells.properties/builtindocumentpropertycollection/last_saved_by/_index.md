@@ -3,13 +3,13 @@ title: last_saved_by fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 260
 url: /sv/aspose.cells.properties/builtindocumentpropertycollection/last_saved_by/
 is_root: false
 ---
 ##  last_saved_by fastighet
 
-Hämtar eller ställer in namnet på den senaste författaren.
+Hämtar eller anger namnet på den senaste författaren.
 
 ###  Anmärkningar
 
@@ -25,5 +25,5 @@ def last_saved_by(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.properties](../../)
-* klass [BuiltInDocumentPropertyCollection](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)
+* modul [`aspose.cells.properties`](../../)
+* klass [`BuiltInDocumentPropertyCollection`](/cells/python-net/sv/aspose.cells.properties/builtindocumentpropertycollection)

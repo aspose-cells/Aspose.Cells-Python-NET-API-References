@@ -3,13 +3,13 @@ title: is_group属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 570
+weight: 580
 url: /zh/aspose.cells.drawing/smartartshape/is_group/
 is_root: false
 ---
 ## is_group属性
 
-指示形状是否是一个组。
+指示此形状是否为组形状。
 
 ### 例子
 

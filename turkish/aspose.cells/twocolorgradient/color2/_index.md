@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color2 mülk
 
-İkinci gradyan rengini alır ve ayarlar.
+İkinci degrade rengini alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def color2(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [TwoColorGradient](/cells/python-net/tr/aspose.cells/twocolorgradient)
+* modül [`aspose.cells`](../../)
+* sınıf [`TwoColorGradient`](/cells/python-net/tr/aspose.cells/twocolorgradient)

@@ -3,13 +3,13 @@ title: is_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 250
+weight: 280
 url: /sv/aspose.cells/workbooksettings/is_hidden/
 is_root: false
 ---
 ##  is_hidden fastighet
 
-Anger om denna arbetsbok är dold.
+Anger om den här arbetsboken är dold.
 ###  Definition:
 ```python
 @property

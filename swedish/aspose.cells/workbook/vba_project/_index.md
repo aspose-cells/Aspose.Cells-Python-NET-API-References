@@ -3,7 +3,7 @@ title: vba_project fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 700
 url: /sv/aspose.cells/workbook/vba_project/
 is_root: false
 ---

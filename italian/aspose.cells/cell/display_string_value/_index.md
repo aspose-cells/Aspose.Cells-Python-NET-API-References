@@ -1,15 +1,15 @@
 ---
 title: display_string_value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 450
+weight: 460
 url: /it/aspose.cells/cell/display_string_value/
 is_root: false
 ---
 ##  display_string_value proprietà
 
-Ottiene il valore della stringa formattata di questa cella in base allo stile di visualizzazione della cella.
+Ottiene il valore stringa formattato di questa cella in base allo stile di visualizzazione della cella.
 ###  Definizione:
 ```python
 @property

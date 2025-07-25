@@ -3,20 +3,21 @@ title: xml_map_query metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 350
 url: /sv/aspose.cells/worksheet/xml_map_query/
 is_root: false
 ---
-##  xml_map_query {#str-aspose.cells.XmlMap}
-Fråga cellområden som mappade/länkade till den specifika sökvägen för xml-kartan.
+##  xml_map_query(self, path, xml_map) {#str-aspose.cells.XmlMap}
+Fråga efter cellområden som är mappade/länkade till den specifika sökvägen för XML-kartan.
 
 
 ###  Returnerar
 
-[`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) lista som mappade/länkade till den specifika sökvägen till xml-kartan, returneras en tom lista om inget är mappat/länkat.
+[`CellArea`](/cells/python-net/sv/aspose.cells/cellarea) lista som mappades/länkades till den specifika sökvägen för xml-kartan, en tom lista returneras om ingenting är mappat/länkat.
 
 
 ```python
+
 def xml_map_query(self, path, xml_map):
     ...
 ```
@@ -24,8 +25,8 @@ def xml_map_query(self, path, xml_map):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| path | str | xml-elementets sökväg|
-| xml_map | [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap) | Ange en xml-karta om du vill fråga efter den specifika sökvägen inom en specifik karta|
+| path | str | sökvägen för xml-elementet|
+| xml_map | [`XmlMap`](/cells/python-net/sv/aspose.cells/xmlmap) | Ange en XML-karta om du vill fråga efter den specifika sökvägen inom en specifik karta.|
 
 
 

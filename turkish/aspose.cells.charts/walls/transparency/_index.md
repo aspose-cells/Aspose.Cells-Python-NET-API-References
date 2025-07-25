@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  transparency mülk
 
-Alanın transparency derecesini 0,0 (opak) ila 1,0 (açık) arasında bir değer olarak döndürür veya ayarlar.
+Alanın transparency derecesini 0,0 (opak) ile 1,0 (temiz) arasında bir değer olarak döndürür veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def transparency(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

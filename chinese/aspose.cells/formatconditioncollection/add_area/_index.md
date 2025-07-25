@@ -1,22 +1,23 @@
 ---
 title: add_area方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 30
 url: /zh/aspose.cells/formatconditioncollection/add_area/
 is_root: false
 ---
-##  add_area(cell_area) {#CellArea}
-添加条件格式的单元格区域。
+##  add_area(self, cell_area) {#aspose.cells.CellArea}
+添加条件格式的单元格范围。
 
 
 ### 返回
 
-条件格式化的单元格范围索引。
+条件格式化的单元格区域索引。
 
 
 ```python
+
 def add_area(self, cell_area):
     ...
 ```
@@ -24,10 +25,10 @@ def add_area(self, cell_area):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| cell_area | [CellArea](/cells/python-net/zh/aspose.cells/cellarea) |条件格式的单元格范围。|
+| cell_area | [`CellArea`](/cells/python-net/zh/aspose.cells/cellarea) |条件格式化的单元格范围。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FormatConditionCollection](/cells/python-net/zh/aspose.cells/formatconditioncollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`FormatConditionCollection`](/cells/python-net/zh/aspose.cells/formatconditioncollection)

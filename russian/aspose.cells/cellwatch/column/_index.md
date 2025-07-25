@@ -1,6 +1,6 @@
 ---
 title: column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CellWatch](/cells/python-net/ru/aspose.cells/cellwatch)
+* модуль [`aspose.cells`](../../)
+* класс [`CellWatch`](/cells/python-net/ru/aspose.cells/cellwatch)

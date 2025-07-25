@@ -1,5 +1,5 @@
 ---
-title: z الملكية
+title: z عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 220
 url: /ar/aspose.cells.drawing/threedformat/z/
 is_root: false
 ---
-##  z الملكية
+##  z عقار
 
-يحدد المسافة من الأرض للشكل ثلاثي الأبعاد.
+يقوم بتحديد المسافة من الأرض للشكل الثلاثي الأبعاد.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def z(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ThreeDFormat](/cells/python-net/ar/aspose.cells.drawing/threedformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ThreeDFormat`](/cells/python-net/ar/aspose.cells.drawing/threedformat)

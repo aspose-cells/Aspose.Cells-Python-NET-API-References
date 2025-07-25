@@ -1,59 +1,57 @@
 ---
 title: RadioButtonActiveXControl класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 70
 url: /ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/
 is_root: false
 ---
 ##  RadioButtonActiveXControl класс
-Представляет элемент управления ActiveX RadioButton.
+Представляет собой элемент управления ActiveX RadioButton.
 
 
 
-**Наследование:** [RadioButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol) → 
-[ToggleButtonActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol) → 
-[ActiveXControl](/cells/python-net/aspose.cells.drawing.activexcontrols/activexcontrol) → 
-[ActiveXControlBase](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase)
+**Наследование:** [`RadioButtonActiveXControl`](/cells/python-net/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol) → 
+[`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
 
 
 
-Тип RadioButtonActiveXControl предоставляет следующие члены:
+Тип RadioButtonActiveXControl предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/workbook) | Получает объект [ActiveXControlBase.workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase#workbook).|
+| [workbook](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/workbook) |  |
 | [type](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/type) | Получает тип элемента управления ActiveX.|
-| [width](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/width) |Получает и задает ширину элемента управления в пунктах.|
-| [height](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/height) | Получает и задает высоту элемента управления в пунктах.|
-| [mouse_icon](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/mouse_icon) | Получает и задает настраиваемый значок для отображения в качестве указателя мыши для элемента управления.|
-| [mouse_pointer](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/mouse_pointer) | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления.|
-| [fore_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/fore_ole_color) | Получает и задает основной цвет переднего плана.|
-| [back_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/back_ole_color) | Получает и задает цвет фона.|
-| [is_visible](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_visible) | Указывает, виден ли этот элемент управления.|
-| [shadow](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/shadow) | Указывает, показывать ли тень.|
-| [linked_cell](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/linked_cell) | Получает и задает связанную ячейку.|
-| [list_fill_range](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/list_fill_range) | Получает и задает диапазон заполнения списка.|
-| [data](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/data) | Получает и задает двоичные данные элемента управления.|
-| [is_enabled](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_enabled) | Указывает, может ли элемент управления получать фокус и реагировать на события, созданные пользователем.|
-| [is_locked](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_locked) | Указывает, заблокированы ли данные в элементе управления для редактирования.|
-| [is_transparent](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_transparent) | Указывает, является ли элемент управления прозрачным.|
-| [is_auto_size](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_auto_size) | Указывает, будет ли автоматически изменяться размер элемента управления для отображения всего его содержимого.|
-| [ime_mode](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/ime_mode) |Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус.|
-| [font](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/font) | Представляет шрифт элемента управления.|
-| [text_align](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/text_align) | Представляет, как выровнять текст, используемый элементом управления.|
-| [caption](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/caption) | Получает и задает описательный текст, отображаемый в элементе управления.|
-| [picture_position](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/picture_position) | Получает и задает расположение изображения элемента управления относительно его заголовка.|
+| [width](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/width) |  |
+| [height](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/height) |  |
+| [mouse_icon](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/mouse_icon) |  |
+| [mouse_pointer](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/mouse_pointer) |  |
+| [fore_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/fore_ole_color) |  |
+| [back_ole_color](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/back_ole_color) |  |
+| [is_visible](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_visible) |  |
+| [shadow](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/shadow) |  |
+| [linked_cell](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/linked_cell) |  |
+| [list_fill_range](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/list_fill_range) |  |
+| [data](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/data) |  |
+| [is_enabled](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_enabled) |  |
+| [is_locked](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_locked) |  |
+| [is_transparent](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_transparent) |  |
+| [is_auto_size](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_auto_size) |  |
+| [ime_mode](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/ime_mode) |  |
+| [font](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/font) |  |
+| [text_align](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/text_align) |  |
+| [caption](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/caption) | Получает и задает описательный текст, отображаемый на элементе управления.|
+| [picture_position](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/picture_position) |Получает и задает расположение изображения элемента управления относительно его подписи.|
 | [special_effect](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/special_effect) | Получает и задает специальный эффект элемента управления.|
-| [picture](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/picture) | Получает и устанавливает данные изображения.|
-| [accelerator](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/accelerator) | Получает и задает клавишу быстрого доступа для элемента управления.|
-| [value](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/value) |Указывает, проверен элемент управления или нет.|
-| [is_triple_state](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_triple_state) | Указывает, как указанный элемент управления будет отображать значения Null.|
+| [picture](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/picture) | Получает и задает данные изображения.|
+| [accelerator](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/accelerator) | Получает и задает клавишу-акселератор для элемента управления.|
+| [value](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/value) | Указывает, проверен ли элемент управления или нет.|
+| [is_triple_state](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_triple_state) | Указывает, как указанный элемент управления будет отображать значения NULL.|
 | [group_name](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/group_name) | Получает и задает имя группы.|
-| [alignment](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/alignment) | Получает и задает положение Caption относительно элемента управления.|
-| [is_word_wrapped](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_word_wrapped) | Указывает, автоматически ли содержимое элемента управления переносится в конце строки.|
+| [alignment](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/alignment) | Получает и задает положение заголовка относительно элемента управления.|
+| [is_word_wrapped](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol/is_word_wrapped) | Указывает, будет ли содержимое элемента управления автоматически переноситься в конце строки.|
 
 
 
@@ -76,8 +74,6 @@ book.save("exmaple.xlsx")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](..)
-* класс [ActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrol)
-* класс [ActiveXControlBase](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/activexcontrolbase)
-* класс [RadioButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
-* класс [ToggleButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](..)
+* класс [`RadioButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/radiobuttonactivexcontrol)
+* класс [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

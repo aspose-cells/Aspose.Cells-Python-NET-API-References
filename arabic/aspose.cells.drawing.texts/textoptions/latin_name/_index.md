@@ -1,5 +1,5 @@
 ---
-title: latin_name الملكية
+title: latin_name عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 190
 url: /ar/aspose.cells.drawing.texts/textoptions/latin_name/
 is_root: false
 ---
-##  latin_name الملكية
+##  latin_name عقار
 
-الحصول على الاسم اللاتيني وتعيينه.
+يحصل على الاسم اللاتيني ويحدده.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def latin_name(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextOptions](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextOptions`](/cells/python-net/ar/aspose.cells.drawing.texts/textoptions)

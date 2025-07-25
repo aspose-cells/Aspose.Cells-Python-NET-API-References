@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_legend fastighet
 
-Hämtar eller ställer in ett värde som anger om diagramförklaringen kommer att visas. Standard är sant.
+Hämtar eller ställer in ett värde som anger om diagramförklaringen ska visas. Standardvärdet är sant.
 ###  Definition:
 ```python
 @property

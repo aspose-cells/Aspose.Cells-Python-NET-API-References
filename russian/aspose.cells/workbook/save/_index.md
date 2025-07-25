@@ -1,18 +1,19 @@
 ---
 title: save метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 340
+weight: 360
 url: /ru/aspose.cells/workbook/save/
 is_root: false
 ---
-##  save(file_name) {#str}
-Сохраните книгу на диск.
+##  save(self, file_name) {#str}
+Сохраните книгу на диске.
 
 
 
 ```python
+
 def save(self, file_name):
     ...
 ```
@@ -23,12 +24,13 @@ def save(self, file_name):
 | file_name | str |  |
 
 
-##  save(file_name, save_format) {#str-SaveFormat}
+##  save(self, file_name, save_format) {#str-aspose.cells.SaveFormat}
 Сохраняет книгу на диск.
 
 
 
 ```python
+
 def save(self, file_name, save_format):
     ...
 ```
@@ -37,15 +39,16 @@ def save(self, file_name, save_format):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | file_name | str | Имя файла.|
-| save_format | [SaveFormat](/cells/python-net/ru/aspose.cells/saveformat) | Тип формата сохранения.|
+| save_format | [`SaveFormat`](/cells/python-net/ru/aspose.cells/saveformat) | Тип формата сохранения.|
 
 
-##  save(file_name, save_options) {#str-SaveOptions}
+##  save(self, file_name, save_options) {#str-aspose.cells.SaveOptions}
 Сохраняет книгу на диск.
 
 
 
 ```python
+
 def save(self, file_name, save_options):
     ...
 ```
@@ -54,15 +57,16 @@ def save(self, file_name, save_options):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | file_name | str | Имя файла.|
-| save_options | [SaveOptions](/cells/python-net/ru/aspose.cells/saveoptions) | Варианты сохранения.|
+| save_options | [`SaveOptions`](/cells/python-net/ru/aspose.cells/saveoptions) |Параметры сохранения.|
 
 
-##  save(stream, save_format) {#io.RawIOBase-SaveFormat}
+##  save(self, stream, save_format) {#io.RawIOBase-aspose.cells.SaveFormat}
 Сохраняет книгу в потоке.
 
 
 
 ```python
+
 def save(self, stream, save_format):
     ...
 ```
@@ -71,15 +75,16 @@ def save(self, stream, save_format):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | stream | io.RawIOBase | Файловый поток.|
-| save_format | [SaveFormat](/cells/python-net/ru/aspose.cells/saveformat) | Тип формата файла сохранения.|
+| save_format | [`SaveFormat`](/cells/python-net/ru/aspose.cells/saveformat) | Тип формата сохраняемого файла.|
 
 
-##  save(stream, save_options) {#io.RawIOBase-SaveOptions}
+##  save(self, stream, save_options) {#io.RawIOBase-aspose.cells.SaveOptions}
 Сохраняет книгу в потоке.
 
 
 
 ```python
+
 def save(self, stream, save_options):
     ...
 ```
@@ -88,10 +93,10 @@ def save(self, stream, save_options):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | stream | io.RawIOBase | Файловый поток.|
-| save_options | [SaveOptions](/cells/python-net/ru/aspose.cells/saveoptions) | Варианты сохранения.|
+| save_options | [`SaveOptions`](/cells/python-net/ru/aspose.cells/saveoptions) |Параметры сохранения.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Workbook](/cells/python-net/ru/aspose.cells/workbook)
+* модуль [`aspose.cells`](../../)
+* класс [`Workbook`](/cells/python-net/ru/aspose.cells/workbook)

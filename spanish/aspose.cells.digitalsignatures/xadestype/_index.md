@@ -23,4 +23,4 @@ El tipo XAdESType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.digitalsignatures](..)
+* módulo [`aspose.cells.digitalsignatures`](..)

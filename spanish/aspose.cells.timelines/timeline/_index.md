@@ -19,7 +19,8 @@ El tipo Timeline expone los siguientes miembros:
 | Propiedad| Descripción|
 | :- | :- |
 | [caption](/cells/python-net/es/aspose.cells.timelines/timeline/caption) | Devuelve o establece el título de la línea de tiempo especificada.|
-| [name](/cells/python-net/es/aspose.cells.timelines/timeline/name) |Devuelve o establece el nombre de la línea de tiempo especificada|
+| [shape](/cells/python-net/es/aspose.cells.timelines/timeline/shape) | Devuelve el objeto [`TimelineShape`](/cells/python-net/es/aspose.cells.drawing/timelineshape) asociado a esta línea de tiempo. Solo lectura.|
+| [name](/cells/python-net/es/aspose.cells.timelines/timeline/name) | Devuelve o establece el nombre de la línea de tiempo especificada|
 | [left_pixel](/cells/python-net/es/aspose.cells.timelines/timeline/left_pixel) | Devuelve o establece el desplazamiento horizontal de la forma de la línea de tiempo desde su columna izquierda, en píxeles.|
 | [top_pixel](/cells/python-net/es/aspose.cells.timelines/timeline/top_pixel) | Devuelve o establece el desplazamiento vertical de la forma de la línea de tiempo desde su fila superior, en píxeles.|
 | [width_pixel](/cells/python-net/es/aspose.cells.timelines/timeline/width_pixel) | Devuelve o establece el ancho de la línea de tiempo especificada, en píxeles.|
@@ -32,7 +33,7 @@ El tipo Timeline expone los siguientes miembros:
 ```python
 from aspose.cells import CellsFactory, Workbook
 from aspose.cells.pivot import PivotFieldType, PivotTableStyleType
-import datetime
+from datetime import datetime
 
 book = Workbook()
 sheet = book.worksheets[0]
@@ -81,4 +82,5 @@ book.save("out.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.timelines](..)
+* módulo [`aspose.cells.timelines`](..)
+* clase [`TimelineShape`](/cells/python-net/es/aspose.cells.drawing/timelineshape)

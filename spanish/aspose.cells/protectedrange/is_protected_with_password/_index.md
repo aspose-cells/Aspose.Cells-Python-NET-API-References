@@ -18,5 +18,5 @@ def is_protected_with_password(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ProtectedRange](/cells/python-net/es/aspose.cells/protectedrange)
+* módulo [`aspose.cells`](../../)
+* clase [`ProtectedRange`](/cells/python-net/es/aspose.cells/protectedrange)

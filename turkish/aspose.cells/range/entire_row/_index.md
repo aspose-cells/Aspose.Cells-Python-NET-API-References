@@ -3,13 +3,13 @@ title: entire_row mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 310
+weight: 410
 url: /tr/aspose.cells/range/entire_row/
 is_root: false
 ---
 ##  entire_row mülk
 
-Belirtilen aralığı içeren satırın tamamını (veya satırları) temsil eden bir Range nesnesi alır.
+Belirtilen aralığı içeren tüm satırı (veya satırları) temsil eden bir Aralık nesnesi alır.
 ###  Tanım:
 ```python
 @property

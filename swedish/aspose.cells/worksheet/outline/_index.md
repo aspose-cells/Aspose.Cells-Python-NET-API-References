@@ -3,13 +3,13 @@ title: outline fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 670
+weight: 700
 url: /sv/aspose.cells/worksheet/outline/
 is_root: false
 ---
 ##  outline fastighet
 
-Får outline på detta kalkylblad.
+Hämtar outline på detta arbetsblad.
 ###  Definition:
 ```python
 @property

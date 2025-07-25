@@ -1,5 +1,5 @@
 ---
-title: remove_range método
+title: método remove_range
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 60
 url: /es/aspose.cells/errorcheckoption/remove_range/
 is_root: false
 ---
-##  remove_range(index) {#int}
+##  remove_range(self, index) {#int}
 Elimina un rango por índice dado.
 
 
 
 ```python
+
 def remove_range(self, index):
     ...
 ```
@@ -25,5 +26,5 @@ def remove_range(self, index):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ErrorCheckOption](/cells/python-net/es/aspose.cells/errorcheckoption)
+* módulo [`aspose.cells`](../../)
+* clase [`ErrorCheckOption`](/cells/python-net/es/aspose.cells/errorcheckoption)

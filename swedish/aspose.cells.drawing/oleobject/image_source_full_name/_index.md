@@ -3,19 +3,19 @@ title: image_source_full_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 610
+weight: 600
 url: /sv/aspose.cells.drawing/oleobject/image_source_full_name/
 is_root: false
 ---
 ##  image_source_full_name fastighet
 
-Hämtar eller ställer in sökvägen och namnet på källfilen för den länkade bilden.
+Hämtar eller anger sökvägen och namnet på källfilen för den länkade bilden.
 
 ###  Anmärkningar
 
 Standardvärdet är en tom sträng.
-Om SourceFullName inte är en tom sträng länkas bilden.
-Om SourceFullName inte är en tom sträng, men Data är null, är bilden länkad och lagras inte i filen.
+Om SourceFullName inte är en tom sträng är bilden länkad.
+Om SourceFullName inte är en tom sträng, men Data är null, så är bilden länkad och lagras inte i filen.
 ###  Definition:
 ```python
 @property

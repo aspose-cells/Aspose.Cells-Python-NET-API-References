@@ -3,14 +3,14 @@ title: support_div_tag عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 360
 url: /ar/aspose.cells/ebookloadoptions/support_div_tag/
 is_root: false
 ---
 ##  support_div_tag عقار
 
-يشير إلى ما إذا كان يدعم تخطيط علامة `<div>` عندما يحتوي عليه ملف html.
-القيمة الافتراضية هي كاذبة.
+يشير إلى ما إذا كان يدعم تخطيط العلامة `<div>` عندما يحتوي ملف html عليها.
+القيمة الافتراضية هي false.
 ###  تعريف:
 ```python
 @property

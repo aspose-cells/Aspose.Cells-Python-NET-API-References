@@ -3,13 +3,13 @@ title: is_ascend_show propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 360
+weight: 440
 url: /fr/aspose.cells.pivot/pivotfield/is_ascend_show/
 is_root: false
 ---
 ##  is_ascend_show propriété
 
-Indique si le champ de tableau croisé dynamique spécifié est automatiquement affiché par ordre croissant.
+Indique si le champ de tableau croisé dynamique spécifié est affiché automatiquement par ordre croissant.
 ###  Définition:
 ```python
 @property

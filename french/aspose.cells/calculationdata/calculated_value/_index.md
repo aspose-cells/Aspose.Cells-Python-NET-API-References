@@ -15,11 +15,11 @@ Obtient ou définit la valeur calculée pour cette fonction.
 
 L'utilisateur doit définir cette propriété dans son moteur de calcul personnalisé pour les fonctions prises en charge par le moteur,
 et la valeur définie sera renvoyée lors de l'obtention ultérieure de cette propriété.
-La valeur définie peut être des types possibles de [`Cell.value`](/cells/python-net/fr/aspose.cells/cell#value),
+La valeur définie peut être de types possibles de [`Cell.value`](/cells/python-net/fr/aspose.cells/cell#value),
 ou un tableau de ce type de valeurs, ou une plage, un nom, une zone référencée.
-Obtenir cette propriété avant de lui attribuer une valeur fera calculer la fonction
-par le moteur de calcul par défaut de Aspose.Cells, puis la valeur calculée sera
-être renvoyé (généralement, il devrait s'agir de #NAME? pour les fonctions définies par l'utilisateur).
+Obtenir cette propriété avant de lui attribuer une valeur entraînera le calcul de la fonction
+par le moteur de calcul par défaut de Aspose.Cells et ensuite la valeur calculée sera
+être renvoyé (généralement, il doit s'agir de #NAME? pour les fonctions définies par l'utilisateur).
 ###  Définition:
 ```python
 @property

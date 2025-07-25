@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  email Eigentum
 
-Erhält und setzt die email des Sängers.
+Ruft die email des Sängers ab oder legt sie fest.
 
 ###  Beispiel
 
@@ -32,5 +32,5 @@ def email(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [SignatureLine](/cells/python-net/de/aspose.cells.drawing/signatureline)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`SignatureLine`](/cells/python-net/de/aspose.cells.drawing/signatureline)

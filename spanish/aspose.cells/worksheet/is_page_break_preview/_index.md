@@ -3,13 +3,13 @@ title: is_page_break_preview propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 580
+weight: 610
 url: /es/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
 ##  is_page_break_preview propiedad
 
-Indica si la hoja de trabajo especificada se muestra en vista normal o vista previa de salto de página.
+Indica si la hoja de cálculo especificada se muestra en la vista normal o en la vista previa de salto de página.
 ###  Definición:
 ```python
 @property

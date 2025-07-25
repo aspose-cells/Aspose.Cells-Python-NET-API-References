@@ -7,12 +7,13 @@ weight: 10
 url: /es/aspose.cells.markup/smarttagoptions/__init__/
 is_root: false
 ---
-##  SmartTagOptions() {#}
+##  \_\_init\_\_(yo mismo){#}
 Construye una nueva instancia de SmartTagOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.markup](../../)
-* clase [SmartTagOptions](/cells/python-net/es/aspose.cells.markup/smarttagoptions)
+* módulo [`aspose.cells.markup`](../../)
+* clase [`SmartTagOptions`](/cells/python-net/es/aspose.cells.markup/smarttagoptions)

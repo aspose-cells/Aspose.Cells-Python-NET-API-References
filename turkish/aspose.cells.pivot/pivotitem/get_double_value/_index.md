@@ -7,13 +7,14 @@ weight: 30
 url: /tr/aspose.cells.pivot/pivotitem/get_double_value/
 is_root: false
 ---
-##  get_double_value() {#}
+##  get_double_value(self) {#}
 Pivot öğesinin çift değerini alır
-Değer null ise veya sayı değilse, 0 döndürür
+Değer null veya sayı değilse 0 döndürecektir
 
 
 
 ```python
+
 def get_double_value(self):
     ...
 ```
@@ -23,5 +24,5 @@ def get_double_value(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotItem](/cells/python-net/tr/aspose.cells.pivot/pivotitem)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotItem`](/cells/python-net/tr/aspose.cells.pivot/pivotitem)

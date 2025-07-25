@@ -3,7 +3,7 @@ title: default_style propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 550
+weight: 580
 url: /fr/aspose.cells/workbook/default_style/
 is_root: false
 ---
@@ -13,11 +13,11 @@ Obtient ou définit l'objet [`Style`](/cells/python-net/fr/aspose.cells/style) p
 
 ###  Remarques
 
-La propriété DefaultStyle est utile pour implémenter un style pour l’ensemble du classeur.
+La propriété DefaultStyle est utile pour implémenter un style pour l'ensemble du classeur.
 
 ###  Exemple
 
-Le code suivant crée et instancie un nouveau classeur et lui définit la valeur par défaut [`Style`](/cells/python-net/fr/aspose.cells/style).
+Le code suivant crée et instancie un nouveau classeur et lui définit une valeur par défaut [`Style`](/cells/python-net/fr/aspose.cells/style).
 
 ```python
 from aspose.cells import Workbook

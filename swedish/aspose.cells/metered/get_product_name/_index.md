@@ -7,8 +7,8 @@ weight: 40
 url: /sv/aspose.cells/metered/get_product_name/
 is_root: false
 ---
-##  get_product_name {#}
-Får produktnamn
+##  get_product_name(self) {#}
+Hämtar produktnamn
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ produktnamn
 
 
 ```python
+
 def get_product_name(self):
     ...
 ```

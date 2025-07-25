@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  font_align_type fastighet
 
-Bestämmer var vertikalt på en textrad de faktiska orden är placerade. Det här handlar om
+Bestämmer var de faktiska orden är placerade vertikalt på en textrad. Detta handlar om
 med vertikal placering av tecknen i förhållande till baslinjerna.
 ###  Definition:
 ```python
@@ -22,6 +22,6 @@ def font_align_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextFontAlignType](/cells/python-net/sv/aspose.cells.drawing.texts/textfontaligntype)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextFontAlignType`](/cells/python-net/sv/aspose.cells.drawing.texts/textfontaligntype)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

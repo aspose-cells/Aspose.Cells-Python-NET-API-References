@@ -3,7 +3,7 @@ title: alternative_text propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 300
+weight: 310
 url: /fr/aspose.cells.drawing/groupshape/alternative_text/
 is_root: false
 ---

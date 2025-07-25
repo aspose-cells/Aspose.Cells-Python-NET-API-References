@@ -1,13 +1,13 @@
 ---
-title: preset_color 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: preset_color属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 180
 url: /zh/aspose.cells.drawing/fillformat/preset_color/
 is_root: false
 ---
-## preset_color 属性
+## preset_color属性
 
 返回指定填充的渐变预设颜色。
 ### 定义：
@@ -18,6 +18,6 @@ def preset_color(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.drawing](../../)
-* 类 [FillFormat](/cells/python-net/zh/aspose.cells.drawing/fillformat)
-* 类 [GradientPresetType](/cells/python-net/zh/aspose.cells.drawing/gradientpresettype)
+* 模块[`aspose.cells.drawing`](../../)
+* 类 [`FillFormat`](/cells/python-net/zh/aspose.cells.drawing/fillformat)
+* 类 [`GradientPresetType`](/cells/python-net/zh/aspose.cells.drawing/gradientpresettype)

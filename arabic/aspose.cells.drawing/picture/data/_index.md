@@ -3,7 +3,7 @@ title: data عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 390
+weight: 400
 url: /ar/aspose.cells.drawing/picture/data/
 is_root: false
 ---

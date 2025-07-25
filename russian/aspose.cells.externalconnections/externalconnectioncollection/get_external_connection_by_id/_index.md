@@ -1,22 +1,23 @@
 ---
 title: get_external_connection_by_id метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 40
+weight: 50
 url: /ru/aspose.cells.externalconnections/externalconnectioncollection/get_external_connection_by_id/
 is_root: false
 ---
-##  get_external_connection_by_id(conn_id) {#int}
-Получает элемент [ExternalConnection](/cells/python-net/ru/aspose.cells.externalconnections/externalconnection) с указанным идентификатором.
+##  get_external_connection_by_id(self, conn_id) {#int}
+Получает элемент ExternalConnection с указанным идентификатором.
 
 
-###  Возвращает
+###  Возврат
 
 Элемент с указанным идентификатором.
 
 
 ```python
+
 def get_external_connection_by_id(self, conn_id):
     ...
 ```
@@ -29,6 +30,5 @@ def get_external_connection_by_id(self, conn_id):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [ExternalConnection](/cells/python-net/ru/aspose.cells.externalconnections/externalconnection)
-* класс [ExternalConnectionCollection](/cells/python-net/ru/aspose.cells.externalconnections/externalconnectioncollection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`ExternalConnectionCollection`](/cells/python-net/ru/aspose.cells.externalconnections/externalconnectioncollection)

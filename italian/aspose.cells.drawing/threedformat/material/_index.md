@@ -1,6 +1,6 @@
 ---
 title: material proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 130
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  material proprietà
 
-Rappresenta il preset material che viene combinato con le proprietà di illuminazione per dare il
+Rappresenta il preset material che viene combinato con le proprietà di illuminazione per fornire
 aspetto finale di una forma.
 ###  Definizione:
 ```python
@@ -22,6 +22,6 @@ def material(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [PresetMaterialType](/cells/python-net/it/aspose.cells.drawing/presetmaterialtype)
-* classe [ThreeDFormat](/cells/python-net/it/aspose.cells.drawing/threedformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`PresetMaterialType`](/cells/python-net/it/aspose.cells.drawing/presetmaterialtype)
+* classe [`ThreeDFormat`](/cells/python-net/it/aspose.cells.drawing/threedformat)

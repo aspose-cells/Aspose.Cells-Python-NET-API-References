@@ -3,13 +3,13 @@ title: threaded_comment_authors Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 360
+weight: 390
 url: /de/aspose.cells/worksheetcollection/threaded_comment_authors/
 is_root: false
 ---
 ##  threaded_comment_authors Eigentum
 
-Ruft die Liste der Thread-Kommentarautoren ab.
+Ruft die Liste der Autoren von Thread-Kommentaren ab.
 ###  Definition:
 ```python
 @property

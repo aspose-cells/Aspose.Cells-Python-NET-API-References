@@ -1,5 +1,5 @@
 ---
-title: version الملكية
+title: version عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.webextensions/webextensionreference/version/
 is_root: false
 ---
-##  version الملكية
+##  version عقار
 
-يحصل على version ويضبطه.
+يحصل على version ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def version(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.webextensions](../../)
-* فئة [WebExtensionReference](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)
+* الوحدة [`aspose.cells.webextensions`](../../)
+* فئة [`WebExtensionReference`](/cells/python-net/ar/aspose.cells.webextensions/webextensionreference)

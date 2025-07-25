@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  selection_type propriété
 
-Indique si le contrôle autorise les sélections multiples.
+Indique si le contrôle permet des sélections multiples.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def selection_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ListBoxActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
-* classe [SelectionType](/cells/python-net/fr/aspose.cells.drawing/selectiontype)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ListBoxActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/listboxactivexcontrol)
+* classe [`SelectionType`](/cells/python-net/fr/aspose.cells.drawing/selectiontype)

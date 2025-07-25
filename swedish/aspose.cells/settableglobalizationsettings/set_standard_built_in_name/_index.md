@@ -7,12 +7,13 @@ weight: 370
 url: /sv/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/
 is_root: false
 ---
-##  set_standard_built_in_name {#str-str-bool}
-Ställer in det språkberoende funktionsnamnet enligt givet standardfunktionsnamn.
+##  set_standard_built_in_name(self, local_name, standard_name, bidirectional) {#str-str-bool}
+Ställer in det språkberoende funktionsnamnet enligt det givna standardfunktionsnamnet.
 
 
 
 ```python
+
 def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
     ...
 ```
@@ -20,9 +21,9 @@ def set_standard_built_in_name(self, local_name, standard_name, bidirectional):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| local_name | str | Platsberoende funktionsnamn|
-| standard_name | str | Standard(en-US locale) funktionsnamn.|
-| bidirectional | bool | Om standardnamntexten automatiskt kopplas till lokal namntext.<br/>Om sant, kommer standardnamntexten att mappas till lokal namntext automatiskt<br/>så användaren behöver inte ringa [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/sv/aspose.cells/settableglobalizationsettings/set_local_built_in_name) igen<br/> för samma standard- och lokala namnpar|
+| local_name | str | Språkberoende funktionsnamn|
+| standard_name | str | Standardfunktionsnamn (en-US locale).|
+| bidirectional | bool | Om standardnamnstexten ska mappas till den lokala namntexten automatiskt.<br/>Om sant kommer standardnamnstexten automatiskt att mappas till lokal namntext<br/>så att användaren inte behöver ringa [`SettableGlobalizationSettings.set_local_built_in_name`](/cells/python-net/sv/aspose.cells/settableglobalizationsettings/set_local_built_in_name) igen<br/> för samma standard- och lokala namnpar|
 
 
 

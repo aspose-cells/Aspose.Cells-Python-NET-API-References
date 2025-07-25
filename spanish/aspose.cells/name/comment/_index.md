@@ -10,7 +10,7 @@ is_root: false
 ##  comment propiedad
 
 Obtiene y establece el comment del nombre.
-Sólo aplica para Excel 2007 o versiones superiores.
+Sólo se aplica a Excel 2007 o versiones superiores.
 ###  Definición:
 ```python
 @property

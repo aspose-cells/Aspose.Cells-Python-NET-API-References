@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_scenario propiedad
 
-Representa si el usuario puede editar escenarios en una hoja de trabajo protegida.
+Representa si el usuario tiene permiso para editar escenarios en una hoja de trabajo protegida.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_scenario(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

@@ -1,15 +1,15 @@
 ---
 title: is_default_row_height_matched proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 1050
+weight: 1080
 url: /it/aspose.cells/cells/is_default_row_height_matched/
 is_root: false
 ---
 ##  is_default_row_height_matched proprietà
 
-Indica che l'altezza della riga e l'altezza del carattere predefinita corrispondono
+Indica che l'altezza della riga e l'altezza del carattere predefinito corrispondono
 ###  Definizione:
 ```python
 @property

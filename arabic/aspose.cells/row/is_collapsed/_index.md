@@ -1,15 +1,15 @@
 ---
-title: is_collapsed الملكية
+title: is_collapsed عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 170
+weight: 180
 url: /ar/aspose.cells/row/is_collapsed/
 is_root: false
 ---
-##  is_collapsed الملكية
+##  is_collapsed عقار
 
-ما إذا كان الصف مطويًا أم لا
+ما إذا كان الصف قد انهار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_collapsed(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Row](/cells/python-net/ar/aspose.cells/row)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Row`](/cells/python-net/ar/aspose.cells/row)

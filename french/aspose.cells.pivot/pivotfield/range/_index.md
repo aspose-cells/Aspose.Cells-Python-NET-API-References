@@ -3,20 +3,20 @@ title: range propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 550
+weight: 640
 url: /fr/aspose.cells.pivot/pivotfield/range/
 is_root: false
 ---
 ##  range propriété
 
-Récupère le groupe range du champ pivot
+Obtient le groupe range du champ pivot
 
 ###  Remarques
 
- REMARQUE : Cette méthode est désormais obsolète. Plutôt,
+ REMARQUE : Cette méthode est désormais obsolète. À la place,
 veuillez utiliser la propriété PivotField.GroupSettings.
- Cette méthode sera supprimée 12 mois plus tard depuis octobre 2023.
-Le Aspose s'excuse pour tout inconvénient que vous pourriez avoir rencontré.
+ Cette méthode sera supprimée 12 mois plus tard soit en octobre 2023.
+Aspose s'excuse pour tout inconvénient que vous avez pu rencontrer.
 ###  Définition:
 ```python
 @property

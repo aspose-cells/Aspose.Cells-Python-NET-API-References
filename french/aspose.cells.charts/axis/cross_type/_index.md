@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cross_type propriété
 
-Représente le [`Axis.cross_type`](/cells/python-net/fr/aspose.cells.charts/axis#cross_type) sur l’axe spécifié où se croise l’autre axe.
+Représente le [`Axis.cross_type`](/cells/python-net/fr/aspose.cells.charts/axis#cross_type) sur l'axe spécifié où l'autre axe croise.
 ###  Définition:
 ```python
 @property

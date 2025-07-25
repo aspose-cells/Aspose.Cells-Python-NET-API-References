@@ -3,13 +3,13 @@ title: window_width propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 610
+weight: 620
 url: /es/aspose.cells/workbooksettings/window_width/
 is_root: false
 ---
 ##  window_width propiedad
 
-El ancho de la ventana, en unidad de punto.
+El ancho de la ventana, en unidad de puntos.
 ###  Definición:
 ```python
 @property

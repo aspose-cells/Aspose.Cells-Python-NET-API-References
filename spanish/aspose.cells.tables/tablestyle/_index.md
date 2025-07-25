@@ -8,7 +8,7 @@ url: /es/aspose.cells.tables/tablestyle/
 is_root: false
 ---
 ##  TableStyle clase
-Representa el estilo de tabla.
+Representa el estilo de la tabla.
 
 
 
@@ -65,4 +65,4 @@ workbook.save(r"Book1.xlsx")
 ```
 
 ###  Ver también
-* módulo [aspose.cells.tables](..)
+* módulo [`aspose.cells.tables`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_threaded_comment fastighet
 
-Anger om denna kommentar är en trådad kommentar.
+Anger om den här kommentaren är en trådad kommentar.
 
 ###  Exempel
 

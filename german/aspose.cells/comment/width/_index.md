@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  width Eigentum
 
-Stellt die width des Kommentars in der Einheit Pixel dar.
+Stellt die width des Kommentars in Pixeln dar.
 
 ###  Beispiel
 

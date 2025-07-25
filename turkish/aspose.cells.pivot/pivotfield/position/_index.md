@@ -3,13 +3,13 @@ title: position mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 540
+weight: 630
 url: /tr/aspose.cells.pivot/pivotfield/position/
 is_root: false
 ---
 ##  position mülk
 
-Bölgedeki [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) endeksini temsil eder.
+Bölgede [`PivotField`](/cells/python-net/tr/aspose.cells.pivot/pivotfield) endeksini temsil eder.
 ###  Tanım:
 ```python
 @property

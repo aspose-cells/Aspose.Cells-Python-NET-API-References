@@ -7,7 +7,7 @@ weight: 60
 url: /tr/aspose.cells/validation/get_formula2/
 is_root: false
 ---
-##  get_formula2(is_r1c1, is_local) {#bool-bool}
+##  get_formula2(self, is_r1c1, is_local) {#bool-bool}
 Bu doğrulamayla ilişkili değeri veya ifadeyi alır.
 
 
@@ -17,6 +17,7 @@ Bu doğrulamayla ilişkili değer veya ifade.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local):
     ...
 ```
@@ -28,7 +29,7 @@ def get_formula2(self, is_r1c1, is_local):
 | is_local | bool | Formülün yerel ayarlara göre biçimlendirilmesi gerekip gerekmediği.|
 
 
-##  get_formula2(is_r1c1, is_local, row, column) {#bool-bool-int-int}
+##  get_formula2(self, is_r1c1, is_local, row, column) {#bool-bool-int-int}
 Belirli bir hücre için bu doğrulamayla ilişkili değeri veya ifadeyi alır.
 
 
@@ -38,6 +39,7 @@ Bu doğrulamayla ilişkili değer veya ifade.
 
 
 ```python
+
 def get_formula2(self, is_r1c1, is_local, row, column):
     ...
 ```
@@ -53,5 +55,5 @@ def get_formula2(self, is_r1c1, is_local, row, column):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Validation](/cells/python-net/tr/aspose.cells/validation)
+* modül [`aspose.cells`](../../)
+* sınıf [`Validation`](/cells/python-net/tr/aspose.cells/validation)

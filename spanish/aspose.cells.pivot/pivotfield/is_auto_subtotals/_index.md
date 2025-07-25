@@ -3,13 +3,13 @@ title: is_auto_subtotals propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 480
 url: /es/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ##  is_auto_subtotals propiedad
 
-Indica si el campo especificado muestra subtotales automáticos. El valor predeterminado es verdadero.
+Indica si el campo especificado muestra subtotales automáticos. El valor predeterminado es "true".
 ###  Definición:
 ```python
 @property

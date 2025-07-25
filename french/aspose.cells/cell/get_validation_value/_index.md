@@ -1,13 +1,13 @@
 ---
-title: get_validation_value méthode
+title: méthode get_validation_value
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 250
 url: /fr/aspose.cells/cell/get_validation_value/
 is_root: false
 ---
-##  get_validation_value() {#}
+##  get_validation_value(self) {#}
 Obtient la valeur de validation appliquée à cette cellule.
 
 
@@ -17,6 +17,7 @@ Obtient la valeur de validation appliquée à cette cellule.
 
 
 ```python
+
 def get_validation_value(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_validation_value(self):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

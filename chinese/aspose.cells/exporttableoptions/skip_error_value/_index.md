@@ -10,8 +10,8 @@ is_root: false
 ## skip_error_value属性
 
 指示是否跳过列的无效值。
-例如，如果列类型为decimal，则该值大于decimal.MaxValue
-并且这个属性是true，我们不会再抛出异常。
+例如，如果列类型为 decimal，则该值大于 decimal.MaxValue
+并且此属性为真，我们不会再次抛出异常。
 默认值为 false。
 ### 定义：
 ```python

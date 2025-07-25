@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_border fastighet
 
-Inställningar för nedre kant kommer att tillämpas.
+Inställningar för den nedre kanten kommer att tillämpas.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def bottom_border(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [StyleFlag](/cells/python-net/sv/aspose.cells/styleflag)
+* modul [`aspose.cells`](../../)
+* klass [`StyleFlag`](/cells/python-net/sv/aspose.cells/styleflag)

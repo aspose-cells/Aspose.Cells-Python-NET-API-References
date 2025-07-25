@@ -8,8 +8,6 @@ url: /sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/list_fill_ra
 is_root: false
 ---
 ##  list_fill_range fastighet
-
-Hämtar och ställer in listfyllningsintervallet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +19,5 @@ def list_fill_range(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

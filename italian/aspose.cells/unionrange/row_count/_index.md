@@ -1,9 +1,9 @@
 ---
 title: row_count proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 230
+weight: 220
 url: /it/aspose.cells/unionrange/row_count/
 is_root: false
 ---
@@ -22,5 +22,5 @@ def row_count(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [UnionRange](/cells/python-net/it/aspose.cells/unionrange)
+* modulo [`aspose.cells`](../../)
+* classe [`UnionRange`](/cells/python-net/it/aspose.cells/unionrange)

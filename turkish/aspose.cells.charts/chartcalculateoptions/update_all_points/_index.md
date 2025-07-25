@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  update_all_points mülk
 
- Grafik hesaplamasını gerçekleştirirken tüm veri noktalarının güncellenip güncellenmeyeceği. Varsayılan: Yanlış.
-Grafikteki her veri noktasının değerini özel olarak almak istediğinizde bunu true olarak ayarlayın.
-Bu parametre True olarak ayarlanırsa grafik hesaplanırken yeni veri noktaları oluşturulabilir. Bu, Excel dosyasının daha büyük olmasına neden olabilir.
+ Grafik hesaplaması yapılırken tüm veri noktaları güncellensin mi? Varsayılan: False.
+Grafikteki her veri noktasının değerini özel olarak almak istediğinizde, bunu true olarak ayarlayın.
+Bu parametre True olarak ayarlanırsa, grafik hesaplanırken yeni veri noktaları oluşturulabilir. Bu, Excel dosyasının boyutunu büyütebilir.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale mülk
 
-scale ve scale ile resim yığınını alır veya ayarlar.
+Resim yığınının kaç tane olduğunu ve scale ile ne kadar olacağını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [PicFormatOption](/cells/python-net/tr/aspose.cells.drawing/picformatoption)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`PicFormatOption`](/cells/python-net/tr/aspose.cells.drawing/picformatoption)

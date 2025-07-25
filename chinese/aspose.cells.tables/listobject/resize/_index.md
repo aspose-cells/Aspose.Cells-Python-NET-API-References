@@ -1,18 +1,19 @@
 ---
 title: resize方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 60
+weight: 70
 url: /zh/aspose.cells.tables/listobject/resize/
 is_root: false
 ---
-##  resize(start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
+##  resize(self, start_row, start_column, end_row, end_column, has_headers) {#int-int-int-int-bool}
 调整列表对象的范围。
 
 
 
 ```python
+
 def resize(self, start_row, start_column, end_row, end_column, has_headers):
     ...
 ```
@@ -24,10 +25,10 @@ def resize(self, start_row, start_column, end_row, end_column, has_headers):
 | start_column | int |新范围的起始列索引。|
 | end_row | int |新范围的结束行索引。|
 | end_column | int |新范围的结束列索引。|
-| has_headers | bool | ListObject 是否有标题。|
+| has_headers | bool |该表是否有表头。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells.tables](../../)
-* 类 [ListObject](/cells/python-net/zh/aspose.cells.tables/listobject)
+* 模块[`aspose.cells.tables`](../../)
+* 类 [`ListObject`](/cells/python-net/zh/aspose.cells.tables/listobject)

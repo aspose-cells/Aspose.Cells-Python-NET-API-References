@@ -1,5 +1,5 @@
 ---
-title: get_password_hash método
+title: método get_password_hash
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 30
 url: /es/aspose.cells/protection/get_password_hash/
 is_root: false
 ---
-##  get_password_hash() {#}
+##  get_password_hash(self) {#}
 Obtiene el hash de la contraseña actual.
 
 
 
 ```python
+
 def get_password_hash(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_password_hash(self):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

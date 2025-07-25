@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  background_mode fastighet
 
-Hämtar och ställer in visningsläget för bakgrunden
+Hämtar och ställer in bakgrundens visningsläge
 ###  Definition:
 ```python
 @property

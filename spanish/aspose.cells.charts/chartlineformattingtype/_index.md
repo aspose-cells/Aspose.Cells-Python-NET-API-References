@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---
 ##  ChartLineFormattingType enumeración
-Representa el tipo de formato de línea de la línea del gráfico.
+Representa el tipo de formato de línea del gráfico.
 
 
 
@@ -18,9 +18,9 @@ El tipo ChartLineFormattingType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | AUTOMATIC | Representa el tipo de formato automático.|
-| SOLID | Representa el tipo de formato sólido.|
-| NONE |No representa ningún tipo de formato.|
-| GRADIENT | Degradado|
+| SOLID | Representa un tipo de formato sólido.|
+| NONE | No representa ningún tipo de formato.|
+| GRADIENT | Gradiente|
 
 
 

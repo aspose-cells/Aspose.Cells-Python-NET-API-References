@@ -1,15 +1,15 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 920
+weight: 940
 url: /ru/aspose.cells.drawing/picture/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает и устанавливает name фигуры.
+Получает и задает name формы.
 
 ###  Пример
 

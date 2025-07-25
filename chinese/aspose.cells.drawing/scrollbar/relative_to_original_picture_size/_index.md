@@ -3,13 +3,13 @@ title: relative_to_original_picture_size属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 910
+weight: 920
 url: /zh/aspose.cells.drawing/scrollbar/relative_to_original_picture_size/
 is_root: false
 ---
 ## relative_to_original_picture_size属性
 
-指示形状是否相对于原始图片尺寸。
+表示形状是否与原始图片大小相关。
 
 ### 例子
 

@@ -3,17 +3,17 @@ title: output_blank_page_when_nothing_to_print mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 210
+weight: 220
 url: /tr/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
 ##  output_blank_page_when_nothing_to_print mülk
 
-Yazdırılacak bir şey olmadığında boş sayfa çıktısının alınıp alınmayacağını belirtir.
+Yazdırılacak bir şey olmadığında boş bir sayfa çıktısı alınıp alınmayacağını belirtir.
 
 ###  Notlar
 
-Varsayılan yanlıştır.
+Varsayılan değer false'tur.
 ###  Tanım:
 ```python
 @property

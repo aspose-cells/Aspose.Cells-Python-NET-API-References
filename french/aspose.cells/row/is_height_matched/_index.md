@@ -10,13 +10,13 @@ is_root: false
 ##  is_height_matched propriété
 
 Indique si la hauteur de ligne correspond au paramètre de police par défaut actuel du classeur.
-La valeur True de cette propriété indique également que la hauteur de ligne est « automatique » sans valeur de hauteur personnalisée définie par l'utilisateur.
+La valeur de cette propriété indique également que la hauteur de ligne est « automatique » sans valeur de hauteur personnalisée définie par l'utilisateur.
 
 ###  Remarques
 
 Lorsque cette propriété est vraie, si le contenu de cette ligne change,
-généralement, la hauteur de la rangée doit être recalculée (comme par [`Worksheet.auto_fit_rows`](/cells/python-net/fr/aspose.cells/worksheet/auto_fit_rows))
-pour obtenir le même résultat avec ce qui est affiché dans MS Excel lorsque vous y ouvrez le classeur.
+généralement, la hauteur de la ligne doit être recalculée (par exemple par [`Worksheet.auto_fit_rows`](/cells/python-net/fr/aspose.cells/worksheet/auto_fit_rows))
+pour obtenir le même résultat avec ce qui est affiché dans MS Excel lorsque vous ouvrez le classeur.
 ###  Définition:
 ```python
 @property

@@ -1,5 +1,5 @@
 ---
-title: add méthode
+title: méthode add
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,8 +7,8 @@ weight: 20
 url: /fr/aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
-##  add(cell_name) {#str}
-Ajoute [CellWatch](/cells/python-net/fr/aspose.cells/cellwatch) avec le nom de la cellule.
+##  add(self, cell_name) {#str}
+Ajoute [`CellWatch`](/cells/python-net/fr/aspose.cells/cellwatch) avec le nom de la cellule.
 
 
 ###  Retour
@@ -17,6 +17,7 @@ Ajoute [CellWatch](/cells/python-net/fr/aspose.cells/cellwatch) avec le nom de l
 
 
 ```python
+
 def add(self, cell_name):
     ...
 ```
@@ -27,8 +28,8 @@ def add(self, cell_name):
 | cell_name | str | Le nom de la cellule.|
 
 
-##  add(row, column) {#int-int}
-Ajoute [CellWatch](/cells/python-net/fr/aspose.cells/cellwatch) avec ligne et colonne.
+##  add(self, row, column) {#int-int}
+Ajoute [`CellWatch`](/cells/python-net/fr/aspose.cells/cellwatch) avec ligne et colonne.
 
 
 ###  Retour
@@ -37,6 +38,7 @@ Renvoie la position de cet élément dans la collection.
 
 
 ```python
+
 def add(self, row, column):
     ...
 ```
@@ -45,11 +47,11 @@ def add(self, row, column):
 | Paramètre| Taper| Description|
 | :- | :- | :- |
 | row | int | L'index de ligne.|
-| column | int | L'indice de colonne.|
+| column | int | L'index des colonnes.|
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellWatch](/cells/python-net/fr/aspose.cells/cellwatch)
-* classe [CellWatchCollection](/cells/python-net/fr/aspose.cells/cellwatchcollection)
+* module [`aspose.cells`](../../)
+* classe [`CellWatch`](/cells/python-net/fr/aspose.cells/cellwatch)
+* classe [`CellWatchCollection`](/cells/python-net/fr/aspose.cells/cellwatchcollection)

@@ -3,13 +3,13 @@ title: function عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 330
+weight: 410
 url: /ar/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
 ##  function عقار
 
-يمثل function المستخدم لتلخيص حقل بيانات PivotTable.
+يمثل function المستخدم لتلخيص حقل بيانات الجدول المحوري.
 ###  تعريف:
 ```python
 @property

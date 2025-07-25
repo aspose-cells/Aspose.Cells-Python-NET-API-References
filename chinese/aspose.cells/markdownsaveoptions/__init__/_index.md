@@ -1,18 +1,19 @@
 ---
-title: MarkdownSaveOptions 构造函数
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: MarkdownSaveOptions 施工人员
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 10
 url: /zh/aspose.cells/markdownsaveoptions/__init__/
 is_root: false
 ---
-##  MarkdownSaveOptions() {#}
-创建用于保存降价文档的选项
+##  \_\_init\_\_（自身）{#}
+创建用于保存 Markdown 文档的选项
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [MarkdownSaveOptions](/cells/python-net/zh/aspose.cells/markdownsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`MarkdownSaveOptions`](/cells/python-net/zh/aspose.cells/markdownsaveoptions)

@@ -3,14 +3,11 @@ title: ignore_error mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 200
 url: /tr/aspose.cells/pptxsaveoptions/ignore_error/
 is_root: false
 ---
 ##  ignore_error mülk
-
-Oluşturma sırasında hatayı gizlemeniz gerekip gerekmediğini belirtir.
-Hata; şekil, resim, grafik oluşturma vb. hatalar olabilir.
 ###  Tanım:
 ```python
 @property

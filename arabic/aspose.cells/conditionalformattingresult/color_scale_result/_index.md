@@ -1,5 +1,5 @@
 ---
-title: color_scale_result الملكية
+title: color_scale_result عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 30
 url: /ar/aspose.cells/conditionalformattingresult/color_scale_result/
 is_root: false
 ---
-##  color_scale_result الملكية
+##  color_scale_result عقار
 
-الحصول على لون عرض مقياس اللون.
+يحصل على لون العرض لمقياس الألوان.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def color_scale_result(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ConditionalFormattingResult](/cells/python-net/ar/aspose.cells/conditionalformattingresult)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ConditionalFormattingResult`](/cells/python-net/ar/aspose.cells/conditionalformattingresult)

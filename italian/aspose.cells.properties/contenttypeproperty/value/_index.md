@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value proprietà
 
-Restituisce o imposta value della proprietà del tipo di contenuto.
+Restituisce o imposta il valore value della proprietà del tipo di contenuto.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [ContentTypeProperty](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`ContentTypeProperty`](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_column propiedad
 
-Obtiene el índice de columna de la celda donde se encuentra la función.
+Obtiene el índice de la columna de la celda donde se encuentra la función.
 ###  Definición:
 ```python
 @property

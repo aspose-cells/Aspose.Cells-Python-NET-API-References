@@ -3,7 +3,7 @@ title: font mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 160
+weight: 200
 url: /tr/aspose.cells.charts/legend/font/
 is_root: false
 ---

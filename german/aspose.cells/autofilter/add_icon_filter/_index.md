@@ -7,12 +7,13 @@ weight: 60
 url: /de/aspose.cells/autofilter/add_icon_filter/
 is_root: false
 ---
-##  add_icon_filter(field_index, icon_set_type, icon_id) {#int-IconSetType-int}
+##  add_icon_filter(self, field_index, icon_set_type, icon_id) {#int-aspose.cells.IconSetType-int}
 Fügt einen Symbolfilter hinzu.
 
 
 
 ```python
+
 def add_icon_filter(self, field_index, icon_set_type, icon_id):
     ...
 ```
@@ -20,8 +21,8 @@ def add_icon_filter(self, field_index, icon_set_type, icon_id):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| field_index | int | Der ganzzahlige Offset des Felds, auf dem der Filter basieren soll<br/> (von links in der Liste; das Feld ganz links ist Feld 0).|
-| icon_set_type | [IconSetType](/cells/python-net/de/aspose.cells/iconsettype) | Der Icon-Set-Typ.|
+| field_index | int | Der ganzzahlige Offset des Feldes, auf dem der Filter basieren soll<br/> (von links in der Liste; das äußerste linke Feld ist Feld 0).|
+| icon_set_type | [`IconSetType`](/cells/python-net/de/aspose.cells/iconsettype) | Der Symbolsatztyp.|
 | icon_id | int | Die Symbol-ID.|
 ###  Bemerkungen
 
@@ -30,5 +31,5 @@ Unterstützt nicht die Überprüfung, welche Zeile sichtbar ist, wenn der Filter
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [AutoFilter](/cells/python-net/de/aspose.cells/autofilter)
+* Modul [`aspose.cells`](../../)
+* Klasse [`AutoFilter`](/cells/python-net/de/aspose.cells/autofilter)

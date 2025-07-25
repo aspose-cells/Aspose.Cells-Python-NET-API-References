@@ -1,18 +1,19 @@
 ---
 title: set_outline_border метод
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 190
+weight: 240
 url: /ru/aspose.cells/range/set_outline_border/
 is_root: false
 ---
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
-Устанавливает контурную границу вокруг диапазона ячеек.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.cells.CellsColor}
+Устанавливает границу контура вокруг диапазона ячеек.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```
@@ -21,16 +22,17 @@ def set_outline_border(self, border_edge, border_style, border_color):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | border_edge | [`BorderType`](/cells/python-net/ru/aspose.cells/bordertype) | Пограничный край.|
-| border_style | [`CellBorderType`](/cells/python-net/ru/aspose.cells/cellbordertype) | Пограничный стиль.|
+| border_style | [`CellBorderType`](/cells/python-net/ru/aspose.cells/cellbordertype) | Стиль границы.|
 | border_color | [`CellsColor`](/cells/python-net/ru/aspose.cells/cellscolor) | Цвет границы.|
 
 
-##  set_outline_border {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
-Устанавливает контурную границу вокруг диапазона ячеек.
+##  set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
+Устанавливает границу контура вокруг диапазона ячеек.
 
 
 
 ```python
+
 def set_outline_border(self, border_edge, border_style, border_color):
     ...
 ```
@@ -39,7 +41,7 @@ def set_outline_border(self, border_edge, border_style, border_color):
 | Параметр| Тип| Описание|
 | :- | :- | :- |
 | border_edge | [`BorderType`](/cells/python-net/ru/aspose.cells/bordertype) | Пограничный край.|
-| border_style | [`CellBorderType`](/cells/python-net/ru/aspose.cells/cellbordertype) | Пограничный стиль.|
+| border_style | [`CellBorderType`](/cells/python-net/ru/aspose.cells/cellbordertype) | Стиль границы.|
 | border_color | aspose.pydrawing.Color | Цвет границы.|
 
 

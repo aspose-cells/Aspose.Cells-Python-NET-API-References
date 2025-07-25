@@ -8,7 +8,7 @@ url: /de/aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---
 ##  ErrorBarDisplayType Aufzählung
-Stellt den Anzeigetyp der Fehlerleiste dar.
+Stellt den Anzeigetyp des Fehlerbalken dar.
 
 
 
@@ -25,4 +25,4 @@ Der Typ ErrorBarDisplayType macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](..)
+* Modul [`aspose.cells.charts`](..)

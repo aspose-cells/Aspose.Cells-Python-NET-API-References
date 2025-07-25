@@ -7,8 +7,8 @@ weight: 70
 url: /de/aspose.cells/cells/check_column/
 is_root: false
 ---
-##  check_column(column_index) {#int}
-Ruft das [Column](/cells/python-net/de/aspose.cells/column)-Element oder null am angegebenen Spaltenindex ab.
+##  check_column(self, column_index) {#int}
+Ruft das Element [`Column`](/cells/python-net/de/aspose.cells/column) oder null am angegebenen Spaltenindex ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Das Column-Objekt.
 
 
 ```python
+
 def check_column(self, column_index):
     ...
 ```
@@ -29,6 +30,6 @@ def check_column(self, column_index):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Cells](/cells/python-net/de/aspose.cells/cells)
-* Klasse [Column](/cells/python-net/de/aspose.cells/column)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Cells`](/cells/python-net/de/aspose.cells/cells)
+* Klasse [`Column`](/cells/python-net/de/aspose.cells/column)

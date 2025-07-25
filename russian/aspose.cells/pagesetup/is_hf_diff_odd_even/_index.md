@@ -1,6 +1,6 @@
 ---
 title: is_hf_diff_odd_even недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 400
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hf_diff_odd_even недвижимость
 
-True означает, что верхний/нижний колонтитул нечетных страниц отличается от нечетных страниц.
+True означает, что верхний/нижний колонтитул нечетных страниц будет отличаться от нечетных страниц.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hf_diff_odd_even(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

@@ -13,7 +13,7 @@ Obtient et définit les options d'ajustement automatique
 
 ###  Remarques
 
-Uniquement pour le fichier xlsx, spreadsheetML maintenant.
+Uniquement pour les fichiers xlsx et spreadsheetML désormais.
 ###  Définition:
 ```python
 @property

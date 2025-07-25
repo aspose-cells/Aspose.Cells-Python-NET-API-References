@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_z Eigentum
 
-Ruft die Drehung der extrudierten Form um die z-Achse in Grad ab und legt diese fest.
+Ruft die Drehung der extrudierten Form um die Z-Achse in Grad ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_z(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

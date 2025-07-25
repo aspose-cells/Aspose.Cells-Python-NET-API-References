@@ -1,21 +1,21 @@
 ---
-title: refer_to_destination_sheet 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: refer_to_destination_sheet属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 80
 url: /zh/aspose.cells/copyoptions/refer_to_destination_sheet/
 is_root: false
 ---
-## refer_to_destination_sheet 属性
+## refer_to_destination_sheet属性
 
-在同一文件中复制范围并且图表引用源工作表时，
+当复制同一文件中的范围并且图表引用源工作表时，
 False 表示复制的图表的数据源不会改变。
-True 表示复制图表的数据源引用目标工作表。
+True 表示复制的图表的数据源指的是目标工作表。
 
-### 评论
+### 注意事项
 
-默认值为 false，它像 MS Excel 一样工作。
+默认值为 false，其工作方式与 MS Excel 相同。
 ### 定义：
 ```python
 @property
@@ -27,5 +27,5 @@ def refer_to_destination_sheet(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CopyOptions](/cells/python-net/zh/aspose.cells/copyoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`CopyOptions`](/cells/python-net/zh/aspose.cells/copyoptions)

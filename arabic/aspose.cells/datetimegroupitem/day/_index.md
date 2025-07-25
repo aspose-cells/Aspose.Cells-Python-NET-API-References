@@ -1,5 +1,5 @@
 ---
-title: day الملكية
+title: day عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/datetimegroupitem/day/
 is_root: false
 ---
-##  day الملكية
+##  day عقار
 
-الحصول على وتعيين day لوقت التاريخ المجمع.
+يحصل على day لتاريخ الوقت المجمع ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def day(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DateTimeGroupItem](/cells/python-net/ar/aspose.cells/datetimegroupitem)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DateTimeGroupItem`](/cells/python-net/ar/aspose.cells/datetimegroupitem)

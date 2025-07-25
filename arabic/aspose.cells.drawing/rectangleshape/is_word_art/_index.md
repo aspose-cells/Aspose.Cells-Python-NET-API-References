@@ -3,17 +3,17 @@ title: is_word_art عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 660
+weight: 670
 url: /ar/aspose.cells.drawing/rectangleshape/is_word_art/
 is_root: false
 ---
 ##  is_word_art عقار
 
-يشير إلى ما إذا كان هذا الشكل عبارة عن كلمة فنية.
+يشير إلى ما إذا كان هذا الشكل عبارة عن فن كلمة.
 
 ###  ملاحظات
 
-فقط للشكل القديم لملف xls.
+مخصص فقط لشكل Legacy لملف XLS.
 
 ###  مثال
 

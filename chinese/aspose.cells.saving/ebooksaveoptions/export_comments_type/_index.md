@@ -3,13 +3,13 @@ title: export_comments_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 270
 url: /zh/aspose.cells.saving/ebooksaveoptions/export_comments_type/
 is_root: false
 ---
 ## export_comments_type属性
 
-表示将注释导出到 html 文件的类型。
+表示将注意事项导出到 html 文件的类型。
 ### 定义：
 ```python
 @property

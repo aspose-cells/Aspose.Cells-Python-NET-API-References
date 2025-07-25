@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  active_index propiedad
 
-Obtiene y establece qué escenario se selecciona.
+Obtiene y establece qué escenario está seleccionado.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def active_index(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ScenarioCollection](/cells/python-net/es/aspose.cells/scenariocollection)
+* módulo [`aspose.cells`](../../)
+* clase [`ScenarioCollection`](/cells/python-net/es/aspose.cells/scenariocollection)

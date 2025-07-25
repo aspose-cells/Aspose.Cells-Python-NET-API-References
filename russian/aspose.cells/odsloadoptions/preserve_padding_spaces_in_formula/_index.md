@@ -1,21 +1,21 @@
 ---
 title: preserve_padding_spaces_in_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 230
+weight: 220
 url: /ru/aspose.cells/odsloadoptions/preserve_padding_spaces_in_formula/
 is_root: false
 ---
 ##  preserve_padding_spaces_in_formula недвижимость
 
-Указывает, следует ли сохранять пробелы и разрывы строк, заполняемые между токенами формулы.
+Указывает, следует ли сохранять пробелы и переносы строк, которые находятся между токенами формулы.
 при получении и установке формул.
-Значение по умолчанию — ложь.
+Значение по умолчанию — false.
 
 ###  Примечания
 
-После загрузки книги из файла шаблона с помощью этой опции: [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/ru/aspose.cells/formulasettings#preserve_padding_spaces).
+После загрузки книги из файла шаблона с этой опцией, [`FormulaSettings.preserve_padding_spaces`](/cells/python-net/ru/aspose.cells/formulasettings#preserve_padding_spaces)
 будет установлено то же значение, что и для этого свойства.
 ###  Определение:
 ```python

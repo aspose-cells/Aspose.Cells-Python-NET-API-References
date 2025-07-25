@@ -3,7 +3,7 @@ title: outline Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 670
+weight: 700
 url: /de/aspose.cells/worksheet/outline/
 is_root: false
 ---

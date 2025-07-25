@@ -7,12 +7,13 @@ weight: 70
 url: /tr/aspose.cells.ods/odscellfieldcollection/update_fields_value/
 is_root: false
 ---
-##  update_fields_value() {#}
-Alanların değerini hücrelere güncelleyin.
+##  update_fields_value(self) {#}
+Alan değerlerini hücrelere güncelle.
 
 
 
 ```python
+
 def update_fields_value(self):
     ...
 ```
@@ -22,5 +23,5 @@ def update_fields_value(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellFieldCollection](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellFieldCollection`](/cells/python-net/tr/aspose.cells.ods/odscellfieldcollection)

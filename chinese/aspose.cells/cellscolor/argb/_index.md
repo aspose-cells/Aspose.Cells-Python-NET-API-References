@@ -1,13 +1,13 @@
 ---
-title: argb 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: argb属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/cellscolor/argb/
 is_root: false
 ---
-## argb 属性
+## argb属性
 
 从 32 位 ARGB 值获取和设置颜色。
 ### 定义：
@@ -21,5 +21,5 @@ def argb(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [CellsColor](/cells/python-net/zh/aspose.cells/cellscolor)
+* 模块[`aspose.cells`](../../)
+* 类 [`CellsColor`](/cells/python-net/zh/aspose.cells/cellscolor)

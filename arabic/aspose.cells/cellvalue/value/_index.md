@@ -9,19 +9,19 @@ is_root: false
 ---
 ##  value عقار
 
-يحصل/يعين الخلية value.
+يحصل/يضبط الخلية value.
 
 ###  ملاحظات
 
-يجب أن يكون value من النوع الصحيح للكائن المطابق لـ [`CellValue.type`](/cells/python-net/ar/aspose.cells/cellvalue#type):
+يجب أن يكون value من النوع الصحيح للكائن المقابل لـ [`CellValue.type`](/cells/python-net/ar/aspose.cells/cellvalue#type):
 | يكتب| قيمة|
 | :- | :- |
-| فارغة، سيتم تجاهل أي كائن آخر|
+| لا شيء، سيتم تجاهل أي كائن آخر|
 | double |
 | التاريخ والوقت|
 | خيط|
 | منطقي|
-| سلسلة خطأ مثل "#VALUE!"، "#NAME؟"، ...|
+| سلسلة أخطاء مثل "#VALUE!"، "#NAME؟"، ...|
 ###  تعريف:
 ```python
 @property

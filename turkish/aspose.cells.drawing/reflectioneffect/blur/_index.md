@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  blur mülk
 
-Nokta birimi cinsinden blur yarıçapını alır ve ayarlar.
+blur yarıçapını nokta biriminde alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def blur(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ReflectionEffect](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ReflectionEffect`](/cells/python-net/tr/aspose.cells.drawing/reflectioneffect)

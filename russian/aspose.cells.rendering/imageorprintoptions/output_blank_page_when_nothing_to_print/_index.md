@@ -1,19 +1,19 @@
 ---
 title: output_blank_page_when_nothing_to_print недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 210
+weight: 220
 url: /ru/aspose.cells.rendering/imageorprintoptions/output_blank_page_when_nothing_to_print/
 is_root: false
 ---
 ##  output_blank_page_when_nothing_to_print недвижимость
 
-Указывает, выводить ли пустую страницу, если печатать нечего.
+Указывает, следует ли выводить пустую страницу, если печатать нечего.
 
 ###  Примечания
 
-По умолчанию — ложь.
+Значение по умолчанию — false.
 ###  Определение:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_tab_size Eigentum
 
-Ruft die Standardgröße für ein Tabulatorzeichen in diesem Absatz ab und legt diese fest.
+Ruft die Standardgröße für ein Tabulatorzeichen innerhalb dieses Absatzes ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def default_tab_size(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextParagraph](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextParagraph`](/cells/python-net/de/aspose.cells.drawing.texts/textparagraph)

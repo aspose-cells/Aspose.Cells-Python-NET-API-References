@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells.drawing/shapecollection/add_arc/
 is_root: false
 ---
-##  add_arc(upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+##  add_arc(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
 Fügt dem Arbeitsblatt eine ArcShape hinzu.
 
 
@@ -17,6 +17,7 @@ Ein ArcShape-Objekt.
 
 
 ```python
+
 def add_arc(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -25,11 +26,11 @@ def add_arc(self, upper_left_row, top, upper_left_column, left, height, width):
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
 | upper_left_row | int | Zeilenindex oben links.|
-| top | int | Stellt den vertikalen Versatz von ArcShape von seiner linken Zeile in Pixeleinheiten dar.|
-| upper_left_column | int | Spaltenindex oben links.|
+| top | int |Stellt den vertikalen Versatz von ArcShape von seiner linken Reihe in Pixeleinheiten dar.|
+| upper_left_column | int | Index der oberen linken Spalte.|
 | left | int | Stellt den horizontalen Versatz von ArcShape von seiner linken Spalte in Pixeleinheiten dar.|
 | height | int | Stellt die Höhe von ArcShape in Pixeleinheiten dar.|
-| width | int |Stellt die Breite von ArcShape in Pixeleinheiten dar.|
+| width | int | Stellt die Breite von ArcShape in Pixeleinheiten dar.|
 
 ###  Beispiel
 
@@ -43,5 +44,5 @@ arcShape = shapes.add_arc(1, 0, 1, 0, 100, 50)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeCollection](/cells/python-net/de/aspose.cells.drawing/shapecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapeCollection`](/cells/python-net/de/aspose.cells.drawing/shapecollection)

@@ -3,7 +3,7 @@ title: window_width_inch Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 640
 url: /de/aspose.cells/workbooksettings/window_width_inch/
 is_root: false
 ---

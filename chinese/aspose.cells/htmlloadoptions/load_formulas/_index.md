@@ -1,15 +1,15 @@
 ---
-title: load_formulas 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: load_formulas属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 250
 url: /zh/aspose.cells/htmlloadoptions/load_formulas/
 is_root: false
 ---
-## load_formulas 属性
+## load_formulas属性
 
-表示如果原html文件中有公式，是否导入公式
+指示如果原始 html 文件包含公式，是否导入公式
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def load_formulas(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [HtmlLoadOptions](/cells/python-net/zh/aspose.cells/htmlloadoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`HtmlLoadOptions`](/cells/python-net/zh/aspose.cells/htmlloadoptions)

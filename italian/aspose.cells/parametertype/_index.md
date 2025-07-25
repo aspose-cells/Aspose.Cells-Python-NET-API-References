@@ -1,14 +1,14 @@
 ---
 title: Enumerazione ParameterType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2430
+weight: 2400
 url: /it/aspose.cells/parametertype/
 is_root: false
 ---
 ##  Enumerazione ParameterType
-Rappresenta il tipo di funzione o il tipo di valore restituito di tutti i parametri.
+Rappresenta il tipo di tutti i parametri o il tipo di valore restituito della funzione.
 
 
 

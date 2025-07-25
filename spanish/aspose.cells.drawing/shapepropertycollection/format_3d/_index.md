@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  format_3d propiedad
 
-Representa un objeto [ShapePropertyCollection.format_3d](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection#format_3d) que especifica propiedades de forma 3D para la forma o el elemento del gráfico.
+Representa un objeto [`ShapePropertyCollection.format_3d`](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection#format_3d) que especifica propiedades de forma 3D para el elemento o forma del gráfico.
 ###  Definición:
 ```python
 @property
@@ -18,6 +18,6 @@ def format_3d(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [Format3D](/cells/python-net/es/aspose.cells.drawing/format3d)
-* clase [ShapePropertyCollection](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`Format3D`](/cells/python-net/es/aspose.cells.drawing/format3d)
+* clase [`ShapePropertyCollection`](/cells/python-net/es/aspose.cells.drawing/shapepropertycollection)

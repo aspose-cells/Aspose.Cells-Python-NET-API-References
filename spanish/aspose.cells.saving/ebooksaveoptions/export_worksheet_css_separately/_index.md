@@ -3,13 +3,13 @@ title: export_worksheet_css_separately propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 380
+weight: 440
 url: /es/aspose.cells.saving/ebooksaveoptions/export_worksheet_css_separately/
 is_root: false
 ---
 ##  export_worksheet_css_separately propiedad
 
-Indicando si exportar la hoja de trabajo css por separado. El valor predeterminado es falso.
+Indica si se debe exportar el CSS de la hoja de cálculo por separado. El valor predeterminado es falso.
 ###  Definición:
 ```python
 @property

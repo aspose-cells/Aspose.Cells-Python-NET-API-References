@@ -3,14 +3,14 @@ title: export_cell_coordinate عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 260
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_cell_coordinate/
 is_root: false
 ---
 ##  export_cell_coordinate عقار
 
-يشير إلى ما إذا كان سيتم تصدير إحداثيات Excel للخلايا غير الفارغة عند حفظ الملف إلى html. القيمة الافتراضية هي كاذبة.
-إذا كنت تريد استيراد ملف HTML الناتج إلى برنامج Excel، فيرجى الاحتفاظ بالقيمة الافتراضية.
+يُشير إلى إمكانية تصدير إحداثيات خلايا Excel غير الفارغة عند حفظ الملف بتنسيق HTML. القيمة الافتراضية هي خطأ.
+إذا كنت تريد استيراد الناتج html إلى excel، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property

@@ -3,13 +3,13 @@ title: top_in_shape mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1080
+weight: 1090
 url: /tr/aspose.cells.drawing/button/top_in_shape/
 is_root: false
 ---
 ##  top_in_shape mülk
 
- Şeklin üst kenarlığından dikey uzaklığını temsil eder,
+ Şeklin, ana şeklin üst sınırından dikey uzaklığını temsil eder.
 ana şeklin yüksekliğinin 1/4000'i biriminde.
 
 ###  Notlar

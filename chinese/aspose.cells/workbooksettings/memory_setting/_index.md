@@ -3,13 +3,17 @@ title: memory_setting属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 330
+weight: 360
 url: /zh/aspose.cells/workbooksettings/memory_setting/
 is_root: false
 ---
 ## memory_setting属性
 
-获取或设置内存使用选项。新选项将作为新创建的工作表的默认选项，但不会对现有工作表生效。
+获取或设置内存使用选项。新选项将作为新建工作表的默认选项，但不会对现有工作表生效。
+
+### 注意事项
+
+有关记忆模式的更多详细信息，请参阅[`Cells.memory_setting`](/cells/python-net/zh/aspose.cells/cells#memory_setting)。
 ### 定义：
 ```python
 @property

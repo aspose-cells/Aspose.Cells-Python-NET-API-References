@@ -3,13 +3,13 @@ title: linked_cell Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 880
+weight: 890
 url: /de/aspose.cells.drawing/oleobject/linked_cell/
 is_root: false
 ---
 ##  linked_cell Eigentum
 
-Ruft den mit dem Wert des Steuerelements verknüpften Arbeitsblattbereich ab oder legt diesen fest.
+Ruft den mit dem Wert des Steuerelements verknüpften Arbeitsblattbereich ab oder legt ihn fest.
 
 ###  Beispiel
 

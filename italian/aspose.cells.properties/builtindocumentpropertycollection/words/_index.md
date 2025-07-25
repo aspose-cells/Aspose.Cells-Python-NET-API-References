@@ -1,15 +1,15 @@
 ---
 title: words proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 410
+weight: 420
 url: /it/aspose.cells.properties/builtindocumentpropertycollection/words/
 is_root: false
 ---
 ##  words proprietà
 
-Rappresenta una stima del numero di words nel documento.
+Rappresenta una stima del numero words nel documento.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def words(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [BuiltInDocumentPropertyCollection](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`BuiltInDocumentPropertyCollection`](/cells/python-net/it/aspose.cells.properties/builtindocumentpropertycollection)

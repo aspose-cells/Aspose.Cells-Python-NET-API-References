@@ -1,15 +1,15 @@
 ---
 title: major_grid_lines недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 290
 url: /ru/aspose.cells.charts/axis/major_grid_lines/
 is_root: false
 ---
 ##  major_grid_lines недвижимость
 
-Представляет основные линии сетки на оси диаграммы.
+Представляет собой основные линии сетки на оси диаграммы.
 
 ###  Пример
 

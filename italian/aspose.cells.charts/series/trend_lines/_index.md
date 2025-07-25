@@ -1,6 +1,6 @@
 ---
 title: trend_lines proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 470
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  trend_lines proprietà
 
-Restituisce un oggetto che rappresenta una raccolta di tutte le linee di tendenza per la serie.
+Restituisce tutte le linee di tendenza di questa serie.
 ###  Definizione:
 ```python
 @property
@@ -18,6 +18,6 @@ def trend_lines(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.charts](../../)
-* classe [Series](/cells/python-net/it/aspose.cells.charts/series)
-* classe [TrendlineCollection](/cells/python-net/it/aspose.cells.charts/trendlinecollection)
+* modulo [`aspose.cells.charts`](../../)
+* classe [`Series`](/cells/python-net/it/aspose.cells.charts/series)
+* classe [`TrendlineCollection`](/cells/python-net/it/aspose.cells.charts/trendlinecollection)

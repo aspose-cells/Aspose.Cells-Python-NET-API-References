@@ -17,11 +17,11 @@ Der Typ SmartTagShowType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| ALL | Zeigt an, dass Smart Tags aktiviert und angezeigt werden|
-| NO_SMART_TAG_INDICATOR | Zeigt an, dass die Smarttags aktiviert sind, aber der Indikator nicht angezeigt wird.|
-| NONE | Gibt an, dass Smarttags deaktiviert sind und nicht angezeigt werden.|
+| ALL | Zeigt an, dass Smart Tags aktiviert sind und angezeigt werden|
+| NO_SMART_TAG_INDICATOR |Zeigt an, dass die Smarttags aktiviert sind, der Indikator jedoch nicht angezeigt wird.|
+| NONE | Zeigt an, dass Smarttags deaktiviert und nicht angezeigt werden.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](..)
+* Modul [`aspose.cells.markup`](..)

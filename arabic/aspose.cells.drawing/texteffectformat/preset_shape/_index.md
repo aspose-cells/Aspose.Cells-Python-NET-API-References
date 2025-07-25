@@ -1,5 +1,5 @@
 ---
-title: preset_shape الملكية
+title: preset_shape عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.drawing/texteffectformat/preset_shape/
 is_root: false
 ---
-##  preset_shape الملكية
+##  preset_shape عقار
 
-الحصول على نوع الشكل المحدد مسبقًا وتعيينه.
+يحصل على نوع الشكل المحدد مسبقًا ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_shape(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [MsoPresetTextEffectShape](/cells/python-net/ar/aspose.cells.drawing/msopresettexteffectshape)
-* فئة [TextEffectFormat](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`MsoPresetTextEffectShape`](/cells/python-net/ar/aspose.cells.drawing/msopresettexteffectshape)
+* فئة [`TextEffectFormat`](/cells/python-net/ar/aspose.cells.drawing/texteffectformat)

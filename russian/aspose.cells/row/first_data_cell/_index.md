@@ -1,9 +1,9 @@
 ---
 title: first_data_cell недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 110
+weight: 120
 url: /ru/aspose.cells/row/first_data_cell/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def first_data_cell(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Cell](/cells/python-net/ru/aspose.cells/cell)
-* класс [Row](/cells/python-net/ru/aspose.cells/row)
+* модуль [`aspose.cells`](../../)
+* класс [`Cell`](/cells/python-net/ru/aspose.cells/cell)
+* класс [`Row`](/cells/python-net/ru/aspose.cells/row)

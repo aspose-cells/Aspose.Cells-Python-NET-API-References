@@ -1,6 +1,6 @@
 ---
 title: address недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  address недвижимость
 
-Представляет address гиперссылки.
+Представляет собой address гиперссылки.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def address(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Hyperlink](/cells/python-net/ru/aspose.cells/hyperlink)
+* модуль [`aspose.cells`](../../)
+* класс [`Hyperlink`](/cells/python-net/ru/aspose.cells/hyperlink)

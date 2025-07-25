@@ -1,13 +1,13 @@
 ---
-title: pdf_compression الملكية
+title: pdf_compression عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 340
+weight: 390
 url: /ar/aspose.cells/pdfsaveoptions/pdf_compression/
 is_root: false
 ---
-##  pdf_compression الملكية
+##  pdf_compression عقار
 
 أشر إلى خوارزمية الضغط
 ###  تعريف:
@@ -21,6 +21,6 @@ def pdf_compression(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PdfCompressionCore](/cells/python-net/ar/aspose.cells.rendering/pdfcompressioncore)
-* فئة [PdfSaveOptions](/cells/python-net/ar/aspose.cells/pdfsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PdfCompressionCore`](/cells/python-net/ar/aspose.cells.rendering/pdfcompressioncore)
+* فئة [`PdfSaveOptions`](/cells/python-net/ar/aspose.cells/pdfsaveoptions)

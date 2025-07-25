@@ -1,15 +1,15 @@
 ---
 title: is_plot_order_reversed недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 250
+weight: 260
 url: /ru/aspose.cells.charts/axis/is_plot_order_reversed/
 is_root: false
 ---
 ##  is_plot_order_reversed недвижимость
 
-Указывает, что Microsoft Excel отображает точки данных от последней к первой.
+Показывает, отображает ли Microsoft точки данных в Excel от последней к первой.
 ###  Определение:
 ```python
 @property

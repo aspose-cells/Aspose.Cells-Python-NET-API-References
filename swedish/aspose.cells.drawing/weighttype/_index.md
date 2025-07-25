@@ -17,12 +17,12 @@ Typen WeightType avslöjar följande medlemmar:
 ###  Fält
 | Fält| Beskrivning|
 | :- | :- |
-| HAIR_LINE | Representerar vikten av hårlinjen.|
-| MEDIUM_LINE | Representerar vikten av medium linje.|
-| SINGLE_LINE | Representerar vikten av en enda linje.|
-| WIDE_LINE | Representerar vikten av bred linje.|
+| HAIR_LINE | Representerar hårfästets vikt.|
+| MEDIUM_LINE | Representerar vikten på en medellång linje.|
+| SINGLE_LINE | Representerar vikten av en enskild rad.|
+| WIDE_LINE |Representerar vikten på en bred linje.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

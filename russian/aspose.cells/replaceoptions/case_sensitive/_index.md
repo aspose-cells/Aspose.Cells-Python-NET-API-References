@@ -1,6 +1,6 @@
 ---
 title: case_sensitive недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -21,5 +21,5 @@ def case_sensitive(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ReplaceOptions](/cells/python-net/ru/aspose.cells/replaceoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`ReplaceOptions`](/cells/python-net/ru/aspose.cells/replaceoptions)

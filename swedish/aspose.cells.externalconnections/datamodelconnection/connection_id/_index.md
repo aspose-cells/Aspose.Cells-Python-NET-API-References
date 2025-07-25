@@ -3,13 +3,11 @@ title: connection_id fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 50
+weight: 90
 url: /sv/aspose.cells.externalconnections/datamodelconnection/connection_id/
 is_root: false
 ---
 ##  connection_id fastighet
-
-Anger den unika identifieraren för denna anslutning.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def connection_id(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.externalconnections](../../)
-* klass [DataModelConnection](/cells/python-net/sv/aspose.cells.externalconnections/datamodelconnection)
+* modul [`aspose.cells.externalconnections`](../../)
+* klass [`DataModelConnection`](/cells/python-net/sv/aspose.cells.externalconnections/datamodelconnection)

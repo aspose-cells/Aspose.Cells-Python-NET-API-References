@@ -3,21 +3,22 @@ title: get_rich_formattings yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 160
 url: /tr/aspose.cells.drawing/textbox/get_rich_formattings/
 is_root: false
 ---
-##  get_rich_formattings {#}
+##  get_rich_formattings(self) {#}
  Tüm Karakter nesnelerini döndürür
-metin içindeki bir karakter aralığını temsil eder.
+metin içindeki karakter aralığını temsil eder.
 
 
 ###  İadeler
 
-Tüm Karakterler nesneleri
+Tüm Karakter nesneleri
 
 
 ```python
+
 def get_rich_formattings(self):
     ...
 ```

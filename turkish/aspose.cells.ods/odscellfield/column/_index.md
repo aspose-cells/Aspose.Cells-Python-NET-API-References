@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  column mülk
 
-Hücrenin column dizinini alın ve ayarlar.
+Hücrenin column indeksini al ve ayarla.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def column(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.ods](../../)
-* sınıf [OdsCellField](/cells/python-net/tr/aspose.cells.ods/odscellfield)
+* modül [`aspose.cells.ods`](../../)
+* sınıf [`OdsCellField`](/cells/python-net/tr/aspose.cells.ods/odscellfield)

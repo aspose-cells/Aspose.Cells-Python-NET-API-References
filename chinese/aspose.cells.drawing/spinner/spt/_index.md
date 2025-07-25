@@ -3,13 +3,13 @@ title: spt属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 970
+weight: 980
 url: /zh/aspose.cells.drawing/spinner/spt/
 is_root: false
 ---
 ## spt属性
 
-指定应用程序可用于将特定形状与定义的形状类型相关联的可选数字。
+指定一个可选数字，应用程序可以使用它来将特定形状与定义的形状类型关联起来。
 
 ### 例子
 

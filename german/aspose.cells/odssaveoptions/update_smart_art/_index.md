@@ -3,14 +3,14 @@ title: update_smart_art Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 140
+weight: 170
 url: /de/aspose.cells/odssaveoptions/update_smart_art/
 is_root: false
 ---
 ##  update_smart_art Eigentum
 
-Gibt an, ob die Smart-Art-Einstellung aktualisiert wird.
-Der Standardwert ist false.
+Gibt an, ob die SmartArt-Einstellung aktualisiert wird.
+Der Standardwert ist „false“.
 
 ###  Bemerkungen
 

@@ -1,6 +1,6 @@
 ---
 title: check_all_data_for_column_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -13,8 +13,8 @@ Controlla tutti i dati per trovare il tipo di dati delle colonne.
 
 ###  Osservazioni
 
-Il valore predefinito è false, controlliamo solo la prima riga per le prestazioni.
-Se questa proprietà è true e le colonne contengono un tipo di valore misto, il tipo delle colonne sarà testo.
+Il valore predefinito è false; controlliamo solo la prima riga per le prestazioni.
+Se questa proprietà è vera e le colonne contengono tipi di valore misti, il tipo delle colonne sarà testo.
 ###  Definizione:
 ```python
 @property
@@ -26,5 +26,5 @@ def check_all_data_for_column_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.saving](../../)
-* classe [SqlScriptSaveOptions](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)
+* modulo [`aspose.cells.saving`](../../)
+* classe [`SqlScriptSaveOptions`](/cells/python-net/it/aspose.cells.saving/sqlscriptsaveoptions)

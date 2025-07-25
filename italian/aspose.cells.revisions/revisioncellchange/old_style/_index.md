@@ -1,6 +1,6 @@
 ---
 title: old_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 120
@@ -18,6 +18,6 @@ def old_style(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.revisions](../../)
-* classe [RevisionCellChange](/cells/python-net/it/aspose.cells.revisions/revisioncellchange)
-* classe [Style](/cells/python-net/it/aspose.cells/style)
+* modulo [`aspose.cells.revisions`](../../)
+* classe [`RevisionCellChange`](/cells/python-net/it/aspose.cells.revisions/revisioncellchange)
+* classe [`Style`](/cells/python-net/it/aspose.cells/style)

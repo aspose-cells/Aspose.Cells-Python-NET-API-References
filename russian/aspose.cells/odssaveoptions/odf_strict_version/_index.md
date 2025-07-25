@@ -1,9 +1,9 @@
 ---
 title: odf_strict_version недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 90
+weight: 120
 url: /ru/aspose.cells/odssaveoptions/odf_strict_version/
 is_root: false
 ---

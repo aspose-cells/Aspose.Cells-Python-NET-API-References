@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  name Eigentum
 
-Ruft die name des Diagramms ab und legt diese fest.
+Ruft die name des Diagramms ab und legt sie fest.
 ###  Definition:
 ```python
 @property

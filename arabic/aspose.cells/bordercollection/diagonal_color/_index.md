@@ -1,15 +1,15 @@
 ---
-title: diagonal_color الملكية
+title: diagonal_color عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 60
 url: /ar/aspose.cells/bordercollection/diagonal_color/
 is_root: false
 ---
-##  diagonal_color الملكية
+##  diagonal_color عقار
 
-الحصول على او تحديد لون الخطوط القطرية.
+يحصل على لون الخطوط القطرية أو يعينه.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def diagonal_color(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [BorderCollection](/cells/python-net/ar/aspose.cells/bordercollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`BorderCollection`](/cells/python-net/ar/aspose.cells/bordercollection)

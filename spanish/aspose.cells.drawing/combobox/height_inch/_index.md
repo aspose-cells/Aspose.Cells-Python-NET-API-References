@@ -3,7 +3,7 @@ title: height_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 470
+weight: 460
 url: /es/aspose.cells.drawing/combobox/height_inch/
 is_root: false
 ---

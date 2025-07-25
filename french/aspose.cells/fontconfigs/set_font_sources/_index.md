@@ -1,29 +1,31 @@
 ---
-title: set_font_sources méthode
+title: méthode set_font_sources
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 60
+weight: 80
 url: /fr/aspose.cells/fontconfigs/set_font_sources/
 is_root: false
 ---
-##  set_font_sources(sources) {#list}
-Définit les sources des polices.
+##  set_font_sources(, sources){#list}
+
 
 
 
 ```python
-def set_font_sources(self, sources):
+
+@staticmethod
+def set_font_sources(sources):
     ...
 ```
 
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| sources | list | Un tableau de sources contenant des polices TrueType.|
+| sources | list |  |
 
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FontConfigs](/cells/python-net/fr/aspose.cells/fontconfigs)
+* module [`aspose.cells`](../../)
+* classe [`FontConfigs`](/cells/python-net/fr/aspose.cells/fontconfigs)

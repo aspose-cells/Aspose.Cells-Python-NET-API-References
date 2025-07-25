@@ -1,5 +1,5 @@
 ---
-title: ChartArea الدرجة
+title: ChartArea صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,48 +7,60 @@ weight: 40
 url: /ar/aspose.cells.charts/chartarea/
 is_root: false
 ---
-##  ChartArea الدرجة
-لتغليف الكائن الذي يمثل منطقة المخطط في ورقة العمل.
+##  ChartArea صف
+يقوم بتغليف الكائن الذي يمثل منطقة الرسم البياني في ورقة العمل.
 
 
 
-**ميراث:** [ChartArea](/cells/python-net/aspose.cells.charts/chartarea) → 
-[ChartFrame](/cells/python-net/ar/aspose.cells.charts/chartframe)
+**الميراث:** [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) → 
+[`ChartFrame`](/cells/python-net/ar/aspose.cells.charts/chartframe)
 
 
 
-يكشف نوع ChartArea الأعضاء التالية:
+يكشف النوع ChartArea عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [is_inner_mode](/cells/python-net/ar/aspose.cells.charts/chartarea/is_inner_mode) | يشير إلى ما إذا كان حجم مساحة الرسم يتضمن علامات التجزئة وتسميات المحور.<br/> تحدد False أن الحجم يجب أن يحدد حجم مساحة قطعة الأرض وعلامات التجزئة وتسميات المحور.|
-| [border](/cells/python-net/ar/aspose.cells.charts/chartarea/border) | يحصل على [Line](/cells/python-net/ar/aspose.cells.drawing/line).|
-| [area](/cells/python-net/ar/aspose.cells.charts/chartarea/area) | يحصل على [ChartFrame.area](/cells/python-net/ar/aspose.cells.charts/chartframe#area).|
-| [text_font](/cells/python-net/ar/aspose.cells.charts/chartarea/text_font) | الحصول على عنصر [ChartFrame.font](/cells/python-net/ar/aspose.cells.charts/chartframe#font) لعنصر ChartFrame المحدد.|
-| [text_options](/cells/python-net/ar/aspose.cells.charts/chartarea/text_options) | الحصول على خيارات النص وتعيينها.|
-| [font](/cells/python-net/ar/aspose.cells.charts/chartarea/font) | يحصل على كائن [ChartArea.font](/cells/python-net/ar/aspose.cells.charts/chartarea#font) من كائن المخطط المحدد.|
-| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/chartarea/auto_scale_font) | صواب إذا كان النص في الكائن يغير حجم الخط عندما يتغير حجم الكائن. القيمة الافتراضية هي الحقيقية.|
-| [background_mode](/cells/python-net/ar/aspose.cells.charts/chartarea/background_mode) | الحصول على وضبط وضع عرض الخلفية|
-| [background](/cells/python-net/ar/aspose.cells.charts/chartarea/background) | الحصول على وضبط وضع عرض الخلفية|
-| [is_automatic_size](/cells/python-net/ar/aspose.cells.charts/chartarea/is_automatic_size) | يشير إلى ما إذا كان حجم إطار المخطط تلقائيًا أم لا.|
-| [x](/cells/python-net/ar/aspose.cells.charts/chartarea/x) | الحصول على أو الحصول على الإزاحة الأفقية من عمود الزاوية اليسرى العليا.|
-| [y](/cells/python-net/ar/aspose.cells.charts/chartarea/y) |الحصول على أو الحصول على الإزاحة الرأسية من صف الزاوية اليسرى العليا.|
-| [height](/cells/python-net/ar/aspose.cells.charts/chartarea/height) | الحصول على أو تحديد الإزاحة الرأسية من صف الزاوية اليمنى السفلية.|
-| [width](/cells/python-net/ar/aspose.cells.charts/chartarea/width) | الحصول على أو ضبط الإزاحة الأفقية من عمود الزاوية اليمنى السفلي.|
-| [shadow](/cells/python-net/ar/aspose.cells.charts/chartarea/shadow) | صحيح إذا كان للإطار ظل.|
-| [shape_properties](/cells/python-net/ar/aspose.cells.charts/chartarea/shape_properties) | الحصول على كائن [ChartFrame.shape_properties](/cells/python-net/ar/aspose.cells.charts/chartframe#shape_properties).|
-| [is_default_pos_be_set](/cells/python-net/ar/aspose.cells.charts/chartarea/is_default_pos_be_set) | يشير إلى ما إذا كان قد تم تعيين الموضع الافتراضي (DefaultX و DefaultY و DefaultWidth و DefaultHeight).|
-| [default_x](/cells/python-net/ar/aspose.cells.charts/chartarea/default_x) | يمثل س من الوضع الافتراضي|
-| [default_y](/cells/python-net/ar/aspose.cells.charts/chartarea/default_y) | يمثل y الوضع الافتراضي|
-| [default_width](/cells/python-net/ar/aspose.cells.charts/chartarea/default_width) | يمثل عرض الموضع الافتراضي|
-| [default_height](/cells/python-net/ar/aspose.cells.charts/chartarea/default_height) | يمثل ارتفاع الموضع الافتراضي|
+| [is_inner_mode](/cells/python-net/ar/aspose.cells.charts/chartarea/is_inner_mode) | يشير إلى ما إذا كان حجم مساحة الرسم البياني يتضمن علامات التجزئة وعلامات المحور.<br/> يشير "خطأ" إلى أن الحجم يجب أن يحدد حجم منطقة الرسم البياني وعلامات التجزئة وعلامات المحور.|
+| [border](/cells/python-net/ar/aspose.cells.charts/chartarea/border) | يحصل على [`Line`](/cells/python-net/ar/aspose.cells.drawing/line).|
+| [area](/cells/python-net/ar/aspose.cells.charts/chartarea/area) | يحصل على [`ChartFrame.area`](/cells/python-net/ar/aspose.cells.charts/chartframe#area).|
+| [text_font](/cells/python-net/ar/aspose.cells.charts/chartarea/text_font) |يحصل على كائن [`ChartFrame.font`](/cells/python-net/ar/aspose.cells.charts/chartframe#font) من كائن ChartFrame المحدد.|
+| [text_options](/cells/python-net/ar/aspose.cells.charts/chartarea/text_options) | يحصل على خيارات النص ويحددها.|
+| [font](/cells/python-net/ar/aspose.cells.charts/chartarea/font) | يحصل على كائن [`ChartArea.font`](/cells/python-net/ar/aspose.cells.charts/chartarea#font) من كائن chartarea المحدد.|
+| [auto_scale_font](/cells/python-net/ar/aspose.cells.charts/chartarea/auto_scale_font) | صحيح إذا تغير حجم خط النص في الكائن عند تغيير حجم الكائن. القيمة الافتراضية هي صحيح.|
+| [background_mode](/cells/python-net/ar/aspose.cells.charts/chartarea/background_mode) | يحصل على وضع عرض الخلفية ويحدده|
+| [background](/cells/python-net/ar/aspose.cells.charts/chartarea/background) | يحصل على وضع عرض الخلفية ويحدده|
+| [is_automatic_size](/cells/python-net/ar/aspose.cells.charts/chartarea/is_automatic_size) | يشير إلى ما إذا كان إطار الرسم البياني يتم تغيير حجمه تلقائيًا.|
+| [x](/cells/python-net/ar/aspose.cells.charts/chartarea/x) | يحصل أو يحصل على الإزاحة الأفقية من عمود الزاوية اليسرى العليا، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [y](/cells/python-net/ar/aspose.cells.charts/chartarea/y) | يحصل أو يحصل على الإزاحة الرأسية من صف الزاوية اليسرى العليا، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [height](/cells/python-net/ar/aspose.cells.charts/chartarea/height) | يحصل على أو يضبط الإزاحة الرأسية من صف الزاوية اليمنى السفلية، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [width](/cells/python-net/ar/aspose.cells.charts/chartarea/width) | يحصل على أو يضبط الإزاحة الأفقية من عمود الزاوية اليمنى السفلية، بوحدات مقدارها 1/4000 من مساحة الرسم البياني.|
+| [shadow](/cells/python-net/ar/aspose.cells.charts/chartarea/shadow) | صحيح إذا كان الإطار يحتوي على ظل.|
+| [shape_properties](/cells/python-net/ar/aspose.cells.charts/chartarea/shape_properties) | يحصل على الكائن [`ChartFrame.shape_properties`](/cells/python-net/ar/aspose.cells.charts/chartframe#shape_properties).|
+| [is_default_pos_be_set](/cells/python-net/ar/aspose.cells.charts/chartarea/is_default_pos_be_set) |يشير إلى ما إذا كان الموضع الافتراضي (DefaultX وDefaultY وDefaultWidth وDefaultHeight) مضبوطًا.|
+| [default_x](/cells/python-net/ar/aspose.cells.charts/chartarea/default_x) | يمثل x للموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_y](/cells/python-net/ar/aspose.cells.charts/chartarea/default_y) | يمثل y للموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_width](/cells/python-net/ar/aspose.cells.charts/chartarea/default_width) | يمثل عرض الموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_height](/cells/python-net/ar/aspose.cells.charts/chartarea/default_height) | يمثل ارتفاع الموضع الافتراضي بوحدات 1/4000 من مساحة الرسم البياني.|
+| [default_x_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/default_x_ratio_to_chart) | يمثل x للموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_y_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/default_y_ratio_to_chart) | يمثل y للموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_width_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/default_width_ratio_to_chart) | يمثل عرض الموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [default_height_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/default_height_ratio_to_chart) | يمثل ارتفاع الموضع الافتراضي بوحدات جزء من مساحة الرسم البياني.|
+| [x_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/x_ratio_to_chart) | يحصل على الإزاحة الأفقية من عمود الزاوية اليسرى العليا، بوحدات نسبة مساحة الرسم البياني.|
+| [y_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/y_ratio_to_chart) | يحصل على الإزاحة الرأسية من صف الزاوية اليسرى العليا، بوحدات نسبة مساحة الرسم البياني.|
+| [width_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/width_ratio_to_chart) |يحصل على أو يضبط الإزاحة الأفقية من عمود الزاوية اليمنى السفلية، بوحدات نسبة مساحة الرسم البياني.|
+| [height_ratio_to_chart](/cells/python-net/ar/aspose.cells.charts/chartarea/height_ratio_to_chart) | يحصل على أو يضبط الإزاحة الرأسية من صف الزاوية اليمنى السفلية، بوحدات نسبة مساحة الرسم البياني.|
+| [x_pixel](/cells/python-net/ar/aspose.cells.charts/chartarea/x_pixel) | يحصل على أو يضبط إحداثيات x للزاوية اليسرى العليا بوحدات البكسل.|
+| [y_pixel](/cells/python-net/ar/aspose.cells.charts/chartarea/y_pixel) | يحصل على أو يضبط إحداثيات y للزاوية اليسرى العلوية بوحدات البكسل.|
+| [width_pixel](/cells/python-net/ar/aspose.cells.charts/chartarea/width_pixel) | يحصل على عرض الإطار بوحدات البكسل أو يعينه.|
+| [height_pixel](/cells/python-net/ar/aspose.cells.charts/chartarea/height_pixel) | يحصل على أو يضبط ارتفاع الإطار بوحدات البكسل.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [set_position_auto()](/cells/python-net/ar/aspose.cells.charts/chartarea/set_position_auto/#) | اضبط موضع الإطار على تلقائي|
+| [`set_position_auto(self)`](/cells/python-net/ar/aspose.cells.charts/chartarea/set_position_auto/#) | ضبط موضع الإطار إلى الوضع التلقائي|
 
 
 
@@ -93,7 +105,7 @@ workbook.save("book1.xls")
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](..)
-* فئة [ChartArea](/cells/python-net/ar/aspose.cells.charts/chartarea)
-* فئة [ChartFrame](/cells/python-net/ar/aspose.cells.charts/chartframe)
-* فئة [Line](/cells/python-net/ar/aspose.cells.drawing/line)
+* الوحدة [`aspose.cells.charts`](..)
+* فئة [`ChartArea`](/cells/python-net/ar/aspose.cells.charts/chartarea)
+* فئة [`ChartFrame`](/cells/python-net/ar/aspose.cells.charts/chartframe)
+* فئة [`Line`](/cells/python-net/ar/aspose.cells.drawing/line)

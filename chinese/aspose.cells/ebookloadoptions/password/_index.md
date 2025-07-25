@@ -3,13 +3,13 @@ title: password属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 320
+weight: 300
 url: /zh/aspose.cells/ebookloadoptions/password/
 is_root: false
 ---
 ## password属性
 
-获取和设置工作簿的password。
+获取并设置工作簿的 password。
 ### 定义：
 ```python
 @property

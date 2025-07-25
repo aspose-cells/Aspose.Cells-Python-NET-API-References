@@ -1,15 +1,16 @@
 ---
 title: is_printable недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 650
+weight: 660
 url: /ru/aspose.cells.drawing/spinner/is_printable/
 is_root: false
 ---
 ##  is_printable недвижимость
 
-True, если объект можно распечатать
+Указывает, можно ли распечатать объект.
+Если False, эта форма не будет напечатана при печати.
 
 ###  Пример
 

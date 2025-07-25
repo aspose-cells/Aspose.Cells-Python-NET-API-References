@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  sheet_set propriété
 
-Obtient ou définit les feuilles à restituer. La valeur par défaut correspond à toutes les feuilles visibles dans le classeur : [`SheetSet.visible`](/cells/python-net/fr/aspose.cells.rendering/sheetset#visible).
+Obtient ou définit les feuilles à afficher. Par défaut, toutes les feuilles du classeur sont visibles : [`SheetSet.visible`](/cells/python-net/fr/aspose.cells.rendering/sheetset#visible).
 
 ###  Remarques
 
-Le poste est ignoré lorsqu'il est utilisé dans [`SheetRender`](/cells/python-net/fr/aspose.cells.rendering/sheetrender)
+L'ensemble est ignoré lorsqu'il est utilisé dans [`SheetRender`](/cells/python-net/fr/aspose.cells.rendering/sheetrender)
 ###  Définition:
 ```python
 @property

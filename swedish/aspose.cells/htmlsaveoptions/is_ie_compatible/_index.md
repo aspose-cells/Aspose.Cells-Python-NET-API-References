@@ -3,14 +3,14 @@ title: is_ie_compatible fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 510
+weight: 590
 url: /sv/aspose.cells/htmlsaveoptions/is_ie_compatible/
 is_root: false
 ---
 ##  is_ie_compatible fastighet
 
-Indikerar om utgången HTML är kompatibel med IE-webbläsaren.
-Defalut-värdet är falskt
+Anger om utdata HTML är kompatibel med webbläsaren IE.
+Standardvärdet är falskt
 ###  Definition:
 ```python
 @property

@@ -1,14 +1,14 @@
 ---
 title: ExternalLinkCollection класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 600
+weight: 580
 url: /ru/aspose.cells/externallinkcollection/
 is_root: false
 ---
 ##  ExternalLinkCollection класс
-Представляет коллекцию внешних ссылок в книге.
+Представляет коллекцию внешних ссылок в рабочей книге.
 
 
 
@@ -17,7 +17,7 @@ is_root: false
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [count](/cells/python-net/ru/aspose.cells/externallinkcollection/count) | Получает количество элементов, фактически содержащихся в коллекции.|
+| [count](/cells/python-net/ru/aspose.cells/externallinkcollection/count) | Возвращает количество элементов, фактически содержащихся в коллекции.|
 
 
 
@@ -31,12 +31,12 @@ is_root: false
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [add](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#str-list) | Добавляет внешнюю ссылку.|
-| [add](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#aspose.cells.DirectoryType-str-list) | Добавьте внешнюю ссылку.|
-| [clear](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#) | Удаляет все внешние ссылки.|
-| [clear](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#bool) | Удаляет все внешние ссылки.|
-| [remove_at](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int) | Удаляет указанную внешнюю ссылку из книги.|
-| [remove_at](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int-bool) | Удаляет указанную внешнюю ссылку из книги.|
+| [`add(self, file_name, sheet_names)`](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#str-list) | Добавляет внешнюю ссылку.|
+| [`add(self, directory_type, file_name, sheet_names)`](/cells/python-net/ru/aspose.cells/externallinkcollection/add/#aspose.cells.directorytype-str-list) | Добавить внешнюю ссылку.|
+| [`clear(self)`](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#) | Удаляет все внешние ссылки.|
+| [`clear(self, update_references_as_local)`](/cells/python-net/ru/aspose.cells/externallinkcollection/clear/#bool) | Удаляет все внешние ссылки.|
+| [`remove_at(self, index)`](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int) | Удаляет указанную внешнюю ссылку из книги.|
+| [`remove_at(self, index, update_references_as_local)`](/cells/python-net/ru/aspose.cells/externallinkcollection/remove_at/#int-bool) | Удаляет указанную внешнюю ссылку из книги.|
 
 
 

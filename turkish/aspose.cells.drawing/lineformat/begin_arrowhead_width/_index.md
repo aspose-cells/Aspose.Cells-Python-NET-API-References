@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrowhead_width mülk
 
-Satırın başlangıç oku genişlik türünü alır ve ayarlar.
+Çizginin başlangıç ok genişliği türünü alır ve ayarlar.
 
 ###  Örnek
 
@@ -30,6 +30,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [LineFormat](/cells/python-net/tr/aspose.cells.drawing/lineformat)
-* sınıf [MsoArrowheadWidth](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`LineFormat`](/cells/python-net/tr/aspose.cells.drawing/lineformat)
+* sınıf [`MsoArrowheadWidth`](/cells/python-net/tr/aspose.cells.drawing/msoarrowheadwidth)

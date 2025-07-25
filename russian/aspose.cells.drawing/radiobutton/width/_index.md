@@ -1,15 +1,15 @@
 ---
 title: width недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1200
+weight: 1210
 url: /ru/aspose.cells.drawing/radiobutton/width/
 is_root: false
 ---
 ##  width недвижимость
 
-Представляет width формы в пикселях.
+Представляет собой width формы в пикселях.
 
 ###  Пример
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  author Eigentum
 
-Ruft den Namen des Originalkommentars author ab und legt ihn fest
+Ruft ab und setzt den Namen des ursprünglichen Kommentars author
 
 ###  Beispiel
 

@@ -1,6 +1,6 @@
 ---
 title: export_as_html_string недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  export_as_html_string недвижимость
 
-Экспортирует строковое значение ячеек HTML в DataTable.
+Экспортирует строковое значение HTML ячеек в DataTable.
 ###  Определение:
 ```python
 @property

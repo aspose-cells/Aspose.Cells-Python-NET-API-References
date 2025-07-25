@@ -3,14 +3,14 @@ title: is_auto_size عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 610
+weight: 620
 url: /ar/aspose.cells.drawing/picture/is_auto_size/
 is_root: false
 ---
 ##  is_auto_size عقار
 
-يشير True إلى أن حجم كائن ole سيتم تغييره تلقائيًا مثل حجم لقطة المحتوى المضمن
-عندما يتم تنشيط كائن ole.
+يشير "صحيح" إلى أن حجم الكائن الأصلي سيتم تغييره تلقائيًا مع حجم لقطة المحتوى المضمن
+عندما يتم تنشيط الكائن القديم.
 ###  تعريف:
 ```python
 @property

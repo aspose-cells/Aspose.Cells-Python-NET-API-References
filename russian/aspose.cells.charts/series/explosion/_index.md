@@ -1,6 +1,6 @@
 ---
 title: explosion недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 150
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  explosion недвижимость
 
-Расстояние открытого фрагмента круговой диаграммы от центра круговой диаграммы выражается в процентах от диаметра круговой диаграммы.
+Расстояние от центра круговой диаграммы до открытого сектора круговой диаграммы выражается в процентах от диаметра круга.
 ###  Определение:
 ```python
 @property

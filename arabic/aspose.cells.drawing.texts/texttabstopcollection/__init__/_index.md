@@ -1,5 +1,5 @@
 ---
-title: TextTabStopCollection المنشئ
+title: TextTabStopCollection منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.drawing.texts/texttabstopcollection/__init__/
 is_root: false
 ---
-##  TextTabStopCollection() {#}
-بناء نسخة جديدة من TextTabStopCollection
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ TextTabStopCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [TextTabStopCollection](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstopcollection)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`TextTabStopCollection`](/cells/python-net/ar/aspose.cells.drawing.texts/texttabstopcollection)

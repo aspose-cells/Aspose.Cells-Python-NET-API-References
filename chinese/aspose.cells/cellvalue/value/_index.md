@@ -11,17 +11,17 @@ is_root: false
 
 获取/设置单元格 value。
 
-### 评论
+### 注意事项
 
 value 必须是与 [`CellValue.type`](/cells/python-net/zh/aspose.cells/cellvalue#type) 对应的正确对象类型：
 |类型|价值|
 | :- | :- |
 |null，任何其他对象将被忽略|
 | double |
-|约会时间|
+|日期时间|
 |细绳|
 |布尔值|
-|错误字符串，例如“#VALUE!”、“#NAME?”、...|
+|错误字符串，例如“#VALUE!”，“#NAME?”，...|
 ### 定义：
 ```python
 @property

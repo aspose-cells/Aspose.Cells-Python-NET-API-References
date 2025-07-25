@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [HtmlLoadOptions](/cells/python-net/fr/aspose.cells/htmlloadoptions)
-* classe [LoadFilter](/cells/python-net/fr/aspose.cells/loadfilter)
+* module [`aspose.cells`](../../)
+* classe [`HtmlLoadOptions`](/cells/python-net/fr/aspose.cells/htmlloadoptions)
+* classe [`LoadFilter`](/cells/python-net/fr/aspose.cells/loadfilter)

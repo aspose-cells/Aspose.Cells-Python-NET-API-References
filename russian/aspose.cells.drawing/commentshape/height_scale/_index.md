@@ -1,16 +1,16 @@
 ---
 title: height_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 490
+weight: 480
 url: /ru/aspose.cells.drawing/commentshape/height_scale/
 is_root: false
 ---
 ##  height_scale недвижимость
 
-Получает и задает шкалу высоты в процентах от высоты исходного изображения.
-Если фигура не является изображением, свойство HeightScale возвращает только 100;
+Возвращает и задает масштаб высоты в процентах от исходной высоты изображения.
+Если фигура не является рисунком, свойство HeightScale возвращает только 100;
 
 ###  Пример
 

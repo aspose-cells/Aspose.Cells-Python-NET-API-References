@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  tick_label_items Eigentum
 
-Ruft die Achseninformationen jedes Teilstrichbeschriftungselements ab.
+Ruft die Anzeigeteilstrichbeschriftungen der Achse ab.
 
 ###  Bemerkungen
 
-Nur verfügbar nach Aufruf der Methode [`Chart.calculate`](/cells/python-net/de/aspose.cells.charts/chart/calculate).
+Nur nach Anruf unter [`Chart.calculate`](/cells/python-net/de/aspose.cells.charts/chart/calculate) verfügbar.
 ###  Definition:
 ```python
 @property

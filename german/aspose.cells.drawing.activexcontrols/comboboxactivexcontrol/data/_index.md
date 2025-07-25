@@ -8,8 +8,6 @@ url: /de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol/data/
 is_root: false
 ---
 ##  data Eigentum
-
-Ruft die Binärdatei data des Steuerelements ab und legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

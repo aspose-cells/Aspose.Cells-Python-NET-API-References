@@ -3,11 +3,11 @@ title: group Methode
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 420
+weight: 460
 url: /de/aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
-##  group(group_items) {#list}
+##  group(self, group_items) {#list}
 Gruppieren Sie die Formen.
 
 
@@ -17,6 +17,7 @@ Geben Sie die Form group zurück.
 
 
 ```python
+
 def group(self, group_items):
     ...
 ```
@@ -24,11 +25,11 @@ def group(self, group_items):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| group_items | list | die Gruppenartikel.|
+| group_items | list | die Gruppenelemente.|
 ###  Bemerkungen
 
-Die Form in den groupItems sollte nicht gruppiert werden.
-Die Form muss sich in dieser Shapes-Sammlung befinden.
+Die Form in den Gruppenelementen sollte nicht gruppiert werden.
+Die Form muss in dieser Formensammlung enthalten sein.
 ###  Beispiel
 
 ```python
@@ -45,5 +46,5 @@ groupShape = shapes.group(shapesArr)
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ShapeCollection](/cells/python-net/de/aspose.cells.drawing/shapecollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ShapeCollection`](/cells/python-net/de/aspose.cells.drawing/shapecollection)

@@ -1,6 +1,6 @@
 ---
 title: rot_with_shape proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 70
@@ -21,5 +21,5 @@ def rot_with_shape(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [ReflectionEffect](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`ReflectionEffect`](/cells/python-net/it/aspose.cells.drawing/reflectioneffect)

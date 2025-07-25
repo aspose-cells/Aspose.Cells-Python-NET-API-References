@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  n_series propiedad
 
-Obtiene una colección [`SeriesCollection`](/cells/python-net/es/aspose.cells.charts/seriescollection) que representa la serie de datos del gráfico.
+Obtiene una colección [`SeriesCollection`](/cells/python-net/es/aspose.cells.charts/seriescollection) que representa la serie de datos en el gráfico.
 ###  Definición:
 ```python
 @property

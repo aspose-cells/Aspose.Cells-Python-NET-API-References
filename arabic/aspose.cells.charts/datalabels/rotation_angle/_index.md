@@ -1,15 +1,15 @@
 ---
-title: rotation_angle الملكية
+title: rotation_angle عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 320
+weight: 390
 url: /ar/aspose.cells.charts/datalabels/rotation_angle/
 is_root: false
 ---
-##  rotation_angle الملكية
+##  rotation_angle عقار
 
-يمثل زاوية استدارة النص.
+يمثل زاوية دوران النص.
 
 ###  ملاحظات
 
@@ -25,5 +25,5 @@ def rotation_angle(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

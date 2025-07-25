@@ -3,12 +3,12 @@ title: get_grouped_column_outline_level yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 380
+weight: 420
 url: /tr/aspose.cells/cells/get_grouped_column_outline_level/
 is_root: false
 ---
-##  get_grouped_column_outline_level {#int}
-Sütunun anahat düzeyini (sıfır tabanlı) alır.
+##  get_grouped_column_outline_level(self, column_index) {#int}
+Sütunun ana hat düzeyini (sıfırdan başlayarak) alır.
 
 
 ###  İadeler
@@ -17,6 +17,7 @@ Sütunun anahat düzeyi
 
 
 ```python
+
 def get_grouped_column_outline_level(self, column_index):
     ...
 ```
@@ -27,7 +28,7 @@ def get_grouped_column_outline_level(self, column_index):
 | column_index | int | Sütun dizini|
 ###  Notlar
 
-Sütun gruplandırılmamışsa sıfır değerini döndürür.
+Sütun gruplandırılmamışsa sıfır döndürür.
 
 
 ###  Ayrıca bakınız

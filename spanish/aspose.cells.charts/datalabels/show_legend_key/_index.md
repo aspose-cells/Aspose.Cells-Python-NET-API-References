@@ -3,7 +3,7 @@ title: show_legend_key propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 410
+weight: 480
 url: /es/aspose.cells.charts/datalabels/show_legend_key/
 is_root: false
 ---

@@ -3,14 +3,14 @@ title: has_blank_rows Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 560
+weight: 660
 url: /de/aspose.cells.pivot/pivottable/has_blank_rows/
 is_root: false
 ---
 ##  has_blank_rows Eigentum
 
 Gibt an, ob leere Zeilen hinzugefügt werden sollen.
-Diese Eigenschaft gilt nur für die automatischen PivotTable-Formattypen, die leere Zeilen hinzufügen müssen.
+Diese Eigenschaft gilt nur für die automatischen PivotTable-Formattypen, bei denen leere Zeilen hinzugefügt werden müssen.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def has_blank_rows(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.pivot](../../)
-* Klasse [PivotTable](/cells/python-net/de/aspose.cells.pivot/pivottable)
+* Modul [`aspose.cells.pivot`](../../)
+* Klasse [`PivotTable`](/cells/python-net/de/aspose.cells.pivot/pivottable)

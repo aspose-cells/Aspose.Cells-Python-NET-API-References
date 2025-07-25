@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_style_strategy mülk
 
-Dize değerini sayıya veya tarih saatine dönüştürürken ayrıştırılmış değerler için stil uygulama stratejisini gösterir.
+Dize değerini sayıya veya tarih/saat değerine dönüştürürken ayrıştırılmış değerlere uygulanacak stil stratejisini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_style_strategy(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
-* sınıf [TxtLoadStyleStrategy](/cells/python-net/tr/aspose.cells/txtloadstylestrategy)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* sınıf [`TxtLoadStyleStrategy`](/cells/python-net/tr/aspose.cells/txtloadstylestrategy)

@@ -3,13 +3,13 @@ title: anchor_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 310
+weight: 330
 url: /ar/aspose.cells.drawing/picture/anchor_type/
 is_root: false
 ---
 ##  anchor_type عقار
 
-الحصول على العنصر النائب لترسيخ الشكل وتعيينه.
+يحصل على نوع عنصر نائب مرساة الشكل ويحدده.
 
 ###  مثال
 

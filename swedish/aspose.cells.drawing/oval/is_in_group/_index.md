@@ -3,7 +3,7 @@ title: is_in_group fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 590
+weight: 600
 url: /sv/aspose.cells.drawing/oval/is_in_group/
 is_root: false
 ---

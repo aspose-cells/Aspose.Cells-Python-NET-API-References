@@ -3,20 +3,21 @@ title: intersect方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 120
+weight: 170
 url: /zh/aspose.cells/range/intersect/
 is_root: false
 ---
-##  intersect {#aspose.cells.Range}
+##  intersect(self, range) {#aspose.cells.Range}
 返回一个 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象，该对象表示两个范围的矩形交集。
 
 
-### 退货
+### 返回
 
 返回 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象
 
 
 ```python
+
 def intersect(self, range):
     ...
 ```
@@ -25,7 +26,7 @@ def intersect(self, range):
 |范围|类型|描述|
 | :- | :- | :- |
 | range | [`Range`](/cells/python-net/zh/aspose.cells/range) |相交范围。|
-### 评论
+### 注意事项
 
 如果两个范围不相交，则返回 null。
 ### 例子

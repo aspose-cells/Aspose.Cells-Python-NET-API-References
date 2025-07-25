@@ -3,14 +3,14 @@ title: export_document_properties عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 290
 url: /ar/aspose.cells.saving/ebooksaveoptions/export_document_properties/
 is_root: false
 ---
 ##  export_document_properties عقار
 
- تشير إلى ما إذا كان سيتم تصدير خصائص المستند أم لا. القيمة الافتراضية صحيحة. إذا كنت تريد الاستيراد
-ملف html أو mht للتفوق، يرجى الاحتفاظ بالقيمة الافتراضية.
+ يشير إلى ما إذا كان يتم تصدير خصائص المستند. القيمة الافتراضية هي true. إذا كنت تريد الاستيراد
+ملف html أو mht إلى excel، يرجى الاحتفاظ بالقيمة الافتراضية.
 ###  تعريف:
 ```python
 @property

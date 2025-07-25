@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  match_blank propiedad
 
-Indica si filtrar por blanco.
+Indica si se debe filtrar por espacio en blanco.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def match_blank(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [MultipleFilterCollection](/cells/python-net/es/aspose.cells/multiplefiltercollection)
+* módulo [`aspose.cells`](../../)
+* clase [`MultipleFilterCollection`](/cells/python-net/es/aspose.cells/multiplefiltercollection)

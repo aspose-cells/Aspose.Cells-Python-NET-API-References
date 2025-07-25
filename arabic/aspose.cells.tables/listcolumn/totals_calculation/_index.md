@@ -1,15 +1,15 @@
 ---
-title: totals_calculation الملكية
+title: totals_calculation عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 100
+weight: 130
 url: /ar/aspose.cells.tables/listcolumn/totals_calculation/
 is_root: false
 ---
-##  totals_calculation الملكية
+##  totals_calculation عقار
 
-الحصول على نوع الحساب وتعيينه في صف الإجماليات في عمود القائمة.
+يحصل على نوع الحساب ويحدده في صف الإجماليات في عمود القائمة.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def totals_calculation(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.tables](../../)
-* فئة [ListColumn](/cells/python-net/ar/aspose.cells.tables/listcolumn)
-* فئة [TotalsCalculation](/cells/python-net/ar/aspose.cells.tables/totalscalculation)
+* الوحدة [`aspose.cells.tables`](../../)
+* فئة [`ListColumn`](/cells/python-net/ar/aspose.cells.tables/listcolumn)
+* فئة [`TotalsCalculation`](/cells/python-net/ar/aspose.cells.tables/totalscalculation)

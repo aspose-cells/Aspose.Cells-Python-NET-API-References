@@ -3,18 +3,18 @@ title: is_inner_mode Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 220
+weight: 280
 url: /de/aspose.cells.charts/title/is_inner_mode/
 is_root: false
 ---
 ##  is_inner_mode Eigentum
 
-Gibt an, ob die Größe des Plotbereichs die Teilstriche und die Achsenbeschriftungen umfasst.
-False gibt an, dass die Größe die Größe des Plotbereichs, der Teilstriche und der Achsenbeschriftungen bestimmen soll.
+Gibt an, ob die Größe des Zeichnungsbereichs die Teilstriche und die Achsenbeschriftungen umfasst.
+„False“ gibt an, dass die Größe die Größe des Zeichnungsbereichs, der Teilstriche und der Achsenbeschriftungen bestimmen soll.
 
 ###  Bemerkungen
 
-Nur für XLSX-Datei.
+Nur für XLSX-Dateien.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def is_inner_mode(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Title](/cells/python-net/de/aspose.cells.charts/title)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Title`](/cells/python-net/de/aspose.cells.charts/title)

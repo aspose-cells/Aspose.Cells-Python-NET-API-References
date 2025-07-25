@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_selection fastighet
 
-Indikerar om vald text i kontrollen visas markerad när kontrollen inte har fokus.
+Anger om markerad text i kontrollen visas markerad när kontrollen inte har fokus.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_selection(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.activexcontrols](../../)
-* klass [TextBoxActiveXControl](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* modul [`aspose.cells.drawing.activexcontrols`](../../)
+* klass [`TextBoxActiveXControl`](/cells/python-net/sv/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

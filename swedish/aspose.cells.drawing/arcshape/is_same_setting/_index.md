@@ -3,11 +3,11 @@ title: is_same_setting metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 150
+weight: 160
 url: /sv/aspose.cells.drawing/arcshape/is_same_setting/
 is_root: false
 ---
-##  is_same_setting {#any}
+##  is_same_setting(self, obj) {#any}
 Returnerar om formen är densamma.
 
 
@@ -17,6 +17,7 @@ Returnerar om formen är densamma.
 
 
 ```python
+
 def is_same_setting(self, obj):
     ...
 ```

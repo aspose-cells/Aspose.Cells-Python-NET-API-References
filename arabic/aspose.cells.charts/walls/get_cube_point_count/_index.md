@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/walls/get_cube_point_count/
 is_root: false
 ---
-##  get_cube_point_count() {#}
-الحصول على عدد نقاط المكعب بعد استدعاء طريقة Chart.Calculate ().
+##  get_cube_point_count(self) {#}
+يحصل على عدد نقاط المكعب بعد استدعاء طريقة Chart.Calculate().
 
 
 
 ```python
+
 def get_cube_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_cube_point_count(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Walls](/cells/python-net/ar/aspose.cells.charts/walls)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Walls`](/cells/python-net/ar/aspose.cells.charts/walls)

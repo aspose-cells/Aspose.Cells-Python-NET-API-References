@@ -3,13 +3,13 @@ title: save_format Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 630
+weight: 720
 url: /de/aspose.cells.saving/ebooksaveoptions/save_format/
 is_root: false
 ---
 ##  save_format Eigentum
 
-Ruft das Speicherdateiformat ab.
+Ruft das Format der gespeicherten Datei ab.
 ###  Definition:
 ```python
 @property

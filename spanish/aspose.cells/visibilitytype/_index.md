@@ -3,7 +3,7 @@ title: VisibilityType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2750
+weight: 2720
 url: /es/aspose.cells/visibilitytype/
 is_root: false
 ---
@@ -17,9 +17,9 @@ El tipo VisibilityType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| VISIBLE | Indica que la hoja está visible.|
+| VISIBLE | Indica que la hoja es visible.|
 | HIDDEN | Indica que la hoja está oculta, pero el usuario puede mostrarla a través de la interfaz de usuario.|
-| VERY_HIDDEN | Indica que la hoja está oculta y no se puede mostrar en la interfaz de usuario (UI).<br/> Este estado solo está disponible mediante programación.|
+| VERY_HIDDEN | Indica que la hoja está oculta y no se puede mostrar en la interfaz de usuario (UI).<br/> Este estado sólo está disponible mediante programación.|
 
 
 

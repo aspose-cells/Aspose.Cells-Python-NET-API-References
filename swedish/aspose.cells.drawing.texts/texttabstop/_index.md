@@ -17,10 +17,10 @@ Typen TextTabStop avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [tab_alignment](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstop/tab_alignment) | Anger justeringen som ska tillämpas på text med detta tabbstopp.|
-| [tab_position](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstop/tab_position) | Anger tabbstoppets position i förhållande till vänstermarginalen.|
+| [tab_alignment](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstop/tab_alignment) | Anger den justering som ska tillämpas på text med hjälp av denna tabbstopp.|
+| [tab_position](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstop/tab_position) |Anger tabbstoppets position i förhållande till vänstermarginalen.|
 
 
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](..)
+* modul [`aspose.cells.drawing.texts`](..)

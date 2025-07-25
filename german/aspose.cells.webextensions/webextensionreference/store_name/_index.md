@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  store_name Eigentum
 
-Ruft die Instanz des Marketplace ab, in der das Office-Add-In gespeichert ist, und legt diese fest. .
+Ruft die Instanz des Marktplatzes ab und legt sie fest, in der das Office-Add-In gespeichert ist. .
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def store_name(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionReference](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionReference`](/cells/python-net/de/aspose.cells.webextensions/webextensionreference)

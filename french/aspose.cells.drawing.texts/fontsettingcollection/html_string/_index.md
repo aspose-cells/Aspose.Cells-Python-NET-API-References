@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  html_string propriété
 
-Obtient et définit la chaîne html qui contient des données et certains formats sous cette forme.
+Obtient et définit la chaîne HTML qui contient des données et certains formats dans cette forme.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def html_string(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](../../)
-* classe [FontSettingCollection](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)
+* module [`aspose.cells.drawing.texts`](../../)
+* classe [`FontSettingCollection`](/cells/python-net/fr/aspose.cells.drawing.texts/fontsettingcollection)

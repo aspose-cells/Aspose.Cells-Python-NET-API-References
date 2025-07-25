@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_hidden fastighet
 
-Indikerar om scenariot är dolt.
+Anger om scenariot är dolt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_hidden(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Scenario](/cells/python-net/sv/aspose.cells/scenario)
+* modul [`aspose.cells`](../../)
+* klass [`Scenario`](/cells/python-net/sv/aspose.cells/scenario)

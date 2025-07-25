@@ -3,12 +3,12 @@ title: get_text_of_hours metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 100
+weight: 110
 url: /sv/aspose.cells/settablepivotglobalizationsettings/get_text_of_hours/
 is_root: false
 ---
-##  get_text_of_hours {#}
-Får den lokala texten till "Timmar".
+##  get_text_of_hours(self) {#}
+Hämtar den lokala texten "Timmar".
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får den lokala texten till "Timmar".
 
 
 ```python
+
 def get_text_of_hours(self):
     ...
 ```

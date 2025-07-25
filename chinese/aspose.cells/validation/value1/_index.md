@@ -9,7 +9,7 @@ is_root: false
 ---
 ## value1属性
 
-表示与数据验证关联的第一个值。
+表示与数据验证相关的第一个值。
 ### 定义：
 ```python
 @property

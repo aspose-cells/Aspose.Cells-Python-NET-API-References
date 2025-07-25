@@ -7,8 +7,8 @@ weight: 100
 url: /es/aspose.cells/settableglobalizationsettings/get_error_value_string/
 is_root: false
 ---
-##  get_error_value_string {#str}
-Obtiene el valor de la cadena para mostrar para el valor de error de la celda
+##  get_error_value_string(self, err) {#str}
+Obtiene el valor de la cadena de visualización para el valor de error de la celda
 
 
 ###  Devoluciones
@@ -17,6 +17,7 @@ Por defecto devuelve el valor del error en sí.
 
 
 ```python
+
 def get_error_value_string(self, err):
     ...
 ```
@@ -24,7 +25,7 @@ def get_error_value_string(self, err):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| err | str | valores de error como #¡VALOR!,#¿NOMBRE?|
+| err | str |valores de error como #¡VALOR!,#¿NOMBRE?|
 
 
 

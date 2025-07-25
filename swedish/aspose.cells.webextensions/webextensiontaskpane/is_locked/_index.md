@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_locked fastighet
 
-Indikerar om aktivitetsfönstret är låst till dokumentet i användargränssnittet och inte kan stängas av användaren.
+Anger om aktivitetsfönstret är låst till dokumentet i användargränssnittet och inte kan stängas av användaren.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_locked(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtensionTaskPane](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtensionTaskPane`](/cells/python-net/sv/aspose.cells.webextensions/webextensiontaskpane)

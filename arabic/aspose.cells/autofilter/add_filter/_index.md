@@ -7,12 +7,13 @@ weight: 40
 url: /ar/aspose.cells/autofilter/add_filter/
 is_root: false
 ---
-##  add_filter(field_index, criteria) {#int-str}
-يضيف عامل تصفية لعمود مرشح.
+##  add_filter(self, field_index, criteria) {#int-str}
+إضافة مرشح لعمود المرشح.
 
 
 
 ```python
+
 def add_filter(self, field_index, criteria):
     ...
 ```
@@ -20,14 +21,14 @@ def add_filter(self, field_index, criteria):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| criteria | str | المعايير المحددة (سلسلة ؛ على سبيل المثال ، "101").<br/> يمكن أن تكون فارغة فقط أو تكون إحدى قيم الخلايا في هذا العمود.|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| criteria | str | المعايير المحددة (سلسلة؛ على سبيل المثال، "101").<br/>لا يمكن أن يكون إلا فارغًا أو أحد قيم الخلايا في هذا العمود.|
 ###  ملاحظات
 
-يدعم MS Excel 2007 الاختيار المتعدد في عمود عامل التصفية.
+يدعم MS Excel 2007 التحديد المتعدد في عمود التصفية.
 
 
 ###  أنظر أيضا
 
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

@@ -3,13 +3,11 @@ title: clear_data属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 80
+weight: 90
 url: /zh/aspose.cells/pptxsaveoptions/clear_data/
 is_root: false
 ---
 ## clear_data属性
-
-保存文件后将工作簿清空。
 ### 定义：
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ## bins属性
 
-代表图表（直方图/帕累托）轴上的 bins
+表示图表（直方图/帕累托图）轴上的 bins
 ### 定义：
 ```python
 @property

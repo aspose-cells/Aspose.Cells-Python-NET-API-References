@@ -1,15 +1,15 @@
 ---
 title: tick_label_spacing proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 390
+weight: 400
 url: /it/aspose.cells.charts/axis/tick_label_spacing/
 is_root: false
 ---
 ##  tick_label_spacing proprietà
 
-Rappresenta il numero di categorie o serie tra le etichette dei segni di graduazione. Si applica solo agli assi delle categorie e delle serie.
+Rappresenta il numero di categorie o serie tra le etichette con segno di spunta. Si applica solo agli assi di categoria e serie.
 
 ###  Osservazioni
 

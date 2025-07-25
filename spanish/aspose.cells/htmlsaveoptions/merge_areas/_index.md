@@ -3,13 +3,13 @@ title: merge_areas propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 550
+weight: 630
 url: /es/aspose.cells/htmlsaveoptions/merge_areas/
 is_root: false
 ---
 ##  merge_areas propiedad
 
-Indica si fusionar las áreas de formato condicional y validación antes de guardar el archivo.
+Indica si se deben fusionar las áreas de formato condicional y validación antes de guardar el archivo.
 
 ###  Observaciones
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_inch Eigentum
 
-Stellt die Höhe der Form in der Einheit Zoll dar.
+Stellt die Höhe der Form in Zoll dar.
 
 ###  Beispiel
 

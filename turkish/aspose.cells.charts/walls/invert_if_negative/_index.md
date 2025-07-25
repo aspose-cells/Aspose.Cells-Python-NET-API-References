@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  invert_if_negative mülk
 
-Özellik true ise ve grafik noktasının değeri negatif bir sayıysa,
+Özellik doğruysa ve grafik noktasının değeri negatif bir sayıysa,
 ön plan rengi ve arka plan rengi değiştirilecektir.
 
 ###  Örnek
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Walls](/cells/python-net/tr/aspose.cells.charts/walls)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Walls`](/cells/python-net/tr/aspose.cells.charts/walls)

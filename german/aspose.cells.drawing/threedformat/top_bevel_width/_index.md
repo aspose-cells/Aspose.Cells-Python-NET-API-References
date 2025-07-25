@@ -10,7 +10,7 @@ is_root: false
 ##  top_bevel_width Eigentum
 
 Ruft die Breite der oberen Abschrägung ab und legt sie fest, oder wie weit sie in die Form hinein angewendet wird.
-In Einheiten von Punkten.
+In Punkten.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def top_bevel_width(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [ThreeDFormat](/cells/python-net/de/aspose.cells.drawing/threedformat)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`ThreeDFormat`](/cells/python-net/de/aspose.cells.drawing/threedformat)

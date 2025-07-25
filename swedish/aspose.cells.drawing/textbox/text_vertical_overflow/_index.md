@@ -3,13 +3,13 @@ title: text_vertical_overflow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1040
+weight: 1050
 url: /sv/aspose.cells.drawing/textbox/text_vertical_overflow/
 is_root: false
 ---
 ##  text_vertical_overflow fastighet
 
-Hämtar och ställer in textens vertikala överflödestyp för formen som innehåller text.
+Hämtar och anger den vertikala överflödestypen för text för den form som innehåller text.
 
 ###  Exempel
 

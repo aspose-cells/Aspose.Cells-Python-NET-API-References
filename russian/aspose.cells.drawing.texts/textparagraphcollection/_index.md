@@ -1,6 +1,6 @@
 ---
 title: TextParagraphCollection класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 110
@@ -8,33 +8,27 @@ url: /ru/aspose.cells.drawing.texts/textparagraphcollection/
 is_root: false
 ---
 ##  TextParagraphCollection класс
-Представляет весь абзац текста.
+Представляет собой весь текстовый абзац.
 
 
 
-Тип TextParagraphCollection предоставляет следующие члены:
+Тип TextParagraphCollection предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [count](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraphcollection/count) | Получает количество текстовых абзацев.|
+| [count](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraphcollection/count) | Получает количество абзацев текста.|
 
 
 
-Получает объект [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph) по указанному индексу.
+Получает объект [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph) по указанному индексу.
 ###  Индексатор
 | Имя| Описание|
 | :- | :- |
 | [index] | Индекс.|
 
 
-###  Методы
-| Метод| Описание|
-| :- | :- |
-| [get_enumerator()](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraphcollection/get_enumerator/#) | Получает перечислитель абзацев.|
-
-
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.texts](..)
-* класс [TextParagraph](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)
+* модуль [`aspose.cells.drawing.texts`](..)
+* класс [`TextParagraph`](/cells/python-net/ru/aspose.cells.drawing.texts/textparagraph)

@@ -1,5 +1,5 @@
 ---
-title: instructions الملكية
+title: instructions عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/signatureline/instructions/
 is_root: false
 ---
-##  instructions الملكية
+##  instructions عقار
 
-الحصول على النص المعروض للمستخدم في وقت التوقيع وتعيينه.
+يحصل على النص الذي يظهر للمستخدم في وقت التوقيع أو يعينه.
 
 ###  مثال
 
@@ -32,5 +32,5 @@ def instructions(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [SignatureLine](/cells/python-net/ar/aspose.cells.drawing/signatureline)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`SignatureLine`](/cells/python-net/ar/aspose.cells.drawing/signatureline)

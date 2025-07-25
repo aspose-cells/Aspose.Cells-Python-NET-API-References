@@ -1,9 +1,9 @@
 ---
 title: is_protected proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 270
+weight: 300
 url: /it/aspose.cells/workbooksettings/is_protected/
 is_root: false
 ---

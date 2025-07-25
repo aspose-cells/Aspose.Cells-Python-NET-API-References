@@ -3,7 +3,7 @@ title: LineJoinType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 940
+weight: 930
 url: /tr/aspose.cells.drawing/linejointype/
 is_root: false
 ---
@@ -12,17 +12,17 @@ Bir çizginin birleştirme stillerini temsil eder.
 
 
 
-LineJoinType türü aşağıdaki üyeleri gösterir:
+LineJoinType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| ROUND | yuvarlak eklem|
-| BEVEL | Konik bağlantı|
+| ROUND | Yuvarlak eklem|
+| BEVEL | Eğimli bağlantı|
 | MITER | Gönye eklemi|
-| NONE | Ortak yok|
+| NONE | Hiçbiri ortak değil|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

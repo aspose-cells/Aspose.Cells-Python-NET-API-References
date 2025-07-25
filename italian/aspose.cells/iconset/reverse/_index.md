@@ -1,6 +1,6 @@
 ---
 title: reverse proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 60
@@ -22,5 +22,5 @@ def reverse(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [IconSet](/cells/python-net/it/aspose.cells/iconset)
+* modulo [`aspose.cells`](../../)
+* classe [`IconSet`](/cells/python-net/it/aspose.cells/iconset)

@@ -9,8 +9,12 @@ is_root: false
 ---
 ##  start_column propriété
 
-Obtient ou définit la colonne de début de cette zone.
+Obtient ou définit la colonne de départ de cette zone.
+###  Définition:
+```python
+f start_column 
+```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [CellArea](/cells/python-net/fr/aspose.cells/cellarea)
+* module [`aspose.cells`](../../)
+* classe [`CellArea`](/cells/python-net/fr/aspose.cells/cellarea)

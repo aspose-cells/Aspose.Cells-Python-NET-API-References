@@ -3,20 +3,21 @@ title: group metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 420
+weight: 460
 url: /sv/aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---
-##  group(group_items) {#list}
+##  group(self, group_items) {#list}
 Gruppera formerna.
 
 
 ###  Returnerar
 
-Lämna tillbaka formen group.
+Returnera formen group.
 
 
 ```python
+
 def group(self, group_items):
     ...
 ```
@@ -24,11 +25,11 @@ def group(self, group_items):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| group_items | list | gruppobjekten.|
+| group_items | list | gruppartiklarna.|
 ###  Anmärkningar
 
 Formen i groupItems ska inte grupperas.
-Formen måste finnas i den här Shapes-kollektionen.
+Formen måste finnas i den här samlingen Former.
 ###  Exempel
 
 ```python
@@ -45,5 +46,5 @@ groupShape = shapes.group(shapesArr)
 
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ShapeCollection](/cells/python-net/sv/aspose.cells.drawing/shapecollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ShapeCollection`](/cells/python-net/sv/aspose.cells.drawing/shapecollection)

@@ -3,7 +3,7 @@ title: ExceptionType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 2090
+weight: 2010
 url: /es/aspose.cells/exceptiontype/
 is_root: false
 ---
@@ -36,11 +36,15 @@ El tipo ExceptionType expone los siguientes miembros:
 | SHEET_TYPE | Tipo de hoja de trabajo no válido.|
 | INTERRUPTED | El proceso se interrumpe.|
 | IO | El archivo no es válido.|
-| PERMISSION |Se requiere permiso para abrir este archivo.|
+| PERMISSION | Se requiere permiso para abrir este archivo.|
 | UNSUPPORTED_FEATURE | Característica no compatible.|
 | UNSUPPORTED_STREAM | Se abrirá una transmisión no compatible.|
 | UNDISCLOSED_INFORMATION | Los archivos contienen información no divulgada.|
 | FILE_CORRUPTED | El contenido del archivo está dañado.|
+| DEFINED_NAME | Nombre definido no válido|
+| FONT | Fuente no válida|
+| AUTO_FILTER | Configuración de filtro automático no válida.|
+| FONT_SUBSTITUTION | Tipo de advertencia de sustitución de fuente<br/>Cuando no se encuentra una fuente, se puede obtener este tipo de advertencia.|
 
 
 

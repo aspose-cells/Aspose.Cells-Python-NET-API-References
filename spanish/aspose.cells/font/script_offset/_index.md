@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  script_offset propiedad
 
-Obtiene y establece el desplazamiento del script, en unidades de porcentaje
+Obtiene y establece el desplazamiento del script, en unidades de porcentaje.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def script_offset(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

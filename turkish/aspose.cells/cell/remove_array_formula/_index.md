@@ -3,16 +3,17 @@ title: remove_array_formula yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 290
+weight: 300
 url: /tr/aspose.cells/cell/remove_array_formula/
 is_root: false
 ---
-##  remove_array_formula {#bool}
-Dizi formülünü kaldırın.
+##  remove_array_formula(self, leave_normal_formula) {#bool}
+Dizi formülünü kaldır.
 
 
 
 ```python
+
 def remove_array_formula(self, leave_normal_formula):
     ...
 ```

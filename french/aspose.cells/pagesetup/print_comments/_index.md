@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_comments propriété
 
-Représente la façon dont les commentaires sont imprimés avec la feuille.
+Représente la manière dont les commentaires sont imprimés avec la feuille.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def print_comments(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
-* classe [PrintCommentsType](/cells/python-net/fr/aspose.cells/printcommentstype)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)
+* classe [`PrintCommentsType`](/cells/python-net/fr/aspose.cells/printcommentstype)

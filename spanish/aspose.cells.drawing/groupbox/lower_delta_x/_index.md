@@ -3,7 +3,7 @@ title: lower_delta_x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 750
+weight: 760
 url: /es/aspose.cells.drawing/groupbox/lower_delta_x/
 is_root: false
 ---

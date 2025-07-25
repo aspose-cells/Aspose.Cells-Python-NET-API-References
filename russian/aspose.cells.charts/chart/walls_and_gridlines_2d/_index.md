@@ -1,6 +1,6 @@
 ---
 title: walls_and_gridlines_2d недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 670
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  walls_and_gridlines_2d недвижимость
 
-Истинно, если линии сетки нарисованы на трехмерной диаграмме в двухмерном виде.
+Истина, если линии сетки отображены на трехмерной диаграмме в двух измерениях.
 ###  Определение:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: color_scale proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -10,8 +10,8 @@ is_root: false
 ##  color_scale proprietà
 
 Ottieni l'istanza "ColorScale" della formattazione condizionale.
-L'istanza predefinita è un 3ColorScale "verde-giallo-rosso".
-Valido solo per type = ColorScale.
+L'istanza predefinita è 3ColorScale "verde-giallo-rosso".
+Valido solo per tipo = ColorScale.
 ###  Definizione:
 ```python
 @property
@@ -20,6 +20,6 @@ def color_scale(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [ColorScale](/cells/python-net/it/aspose.cells/colorscale)
-* classe [FormatCondition](/cells/python-net/it/aspose.cells/formatcondition)
+* modulo [`aspose.cells`](../../)
+* classe [`ColorScale`](/cells/python-net/it/aspose.cells/colorscale)
+* classe [`FormatCondition`](/cells/python-net/it/aspose.cells/formatcondition)

@@ -7,14 +7,15 @@ weight: 110
 url: /sv/aspose.cells/style/update/
 is_root: false
 ---
-##  update() {#}
-Tillämpa den namngivna stilen på stilarna i cellerna som använder denna namngivna stil.
+##  update(self) {#}
+Tillämpa den namngivna stilen på stilarna i de celler som använder den namngivna stilen.
 Det fungerar som att klicka på "ok"-knappen efter att du har ändrat stilen.
-Gäller endast namngiven stil.
+Gäller endast för namngiven stil.
 
 
 
 ```python
+
 def update(self):
     ...
 ```
@@ -24,5 +25,5 @@ def update(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

@@ -8,7 +8,7 @@ url: /tr/aspose.cells.rendering/pdfcompliance/
 is_root: false
 ---
 ##  PdfCompliance numaralandırma
-Kullanıcının PDF dönüşümün Uyumluluğunu ayarlamasına izin veriliyor
+Kullanıcının PDF dönüşümünün Uyumluluğunu ayarlamasına izin verme
 
 
 
@@ -29,7 +29,7 @@ PdfCompliance türü aşağıdaki üyeleri ortaya çıkarır:
 | PDF_A2A | PDF/A-2a(ISO 19005-2) ile uyumlu PDF formatı|
 | PDF_A3B | PDF/A-3b(ISO 19005-3) ile uyumlu PDF formatı|
 | PDF_A3U | PDF/A-3u(ISO 19005-3) ile uyumlu PDF formatı|
-| PDF_A3A | PDF/A-3a(ISO 19005-3) ile uyumlu PDF formatı|
+| PDF_A3A |PDF/A-3a(ISO 19005-3) ile uyumlu PDF formatı|
 
 
 

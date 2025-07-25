@@ -1,13 +1,13 @@
 ---
-title: TextNodeType dénombrement
+title: TextNodeType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 180
+weight: 190
 url: /fr/aspose.cells.drawing.texts/textnodetype/
 is_root: false
 ---
-##  TextNodeType dénombrement
+##  TextNodeType énumération
 Représente le type de nœud.
 
 
@@ -24,4 +24,4 @@ Le type TextNodeType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.texts](..)
+* module [`aspose.cells.drawing.texts`](..)

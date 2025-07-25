@@ -3,13 +3,13 @@ title: shapes属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 750
+weight: 780
 url: /zh/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ## shapes属性
 
-返回此工作表中的所有绘图 shapes。
+返回此工作表中的所有图纸 shapes。
 ### 定义：
 ```python
 @property

@@ -7,12 +7,13 @@ weight: 390
 url: /tr/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/
 is_root: false
 ---
-##  set_standard_header_footer_font_style_name {#str-str}
-Verilen standart işlev adına göre yerel ayara bağlı işlev adını ayarlar.
+##  set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
+Yerel bağımlı fonksiyon adını, verilen standart fonksiyon adına göre ayarlar.
 
 
 
 ```python
+
 def set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name):
     ...
 ```
@@ -20,8 +21,8 @@ def set_standard_header_footer_font_style_name(self, localfont_style_name, stand
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| localfont_style_name | str | Üstbilgi/Altbilgi için yerel ayar yazı tipi stili adı.|
-| standard_name | str | Standart(en-ABD yerel ayarı) işlev adı.|
+| localfont_style_name | str | Başlık/Altbilgi için yerel yazı tipi stili adı.|
+| standard_name | str | Standart(en-US yerel) fonksiyon adı.|
 
 
 

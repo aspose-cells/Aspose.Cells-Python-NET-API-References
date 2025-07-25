@@ -7,17 +7,18 @@ weight: 70
 url: /ar/aspose.cells/cell/get_characters/
 is_root: false
 ---
-##  get_characters() {#}
- ترجع جميع كائنات الأحرف
-يمثل نطاقًا من الأحرف داخل نص الخلية.
+##  get_characters(self) {#}
+ إرجاع جميع كائنات الأحرف
+وهو ما يمثل نطاقًا من الأحرف داخل نص الخلية.
 
 
 ###  عائدات
 
-كل كائنات الشخصيات
+جميع كائنات الشخصيات
 
 
 ```python
+
 def get_characters(self):
     ...
 ```
@@ -25,17 +26,18 @@ def get_characters(self):
 
 
 
-##  get_characters(flag) {#bool}
- ترجع جميع كائنات الأحرف
-يمثل نطاقًا من الأحرف داخل نص الخلية.
+##  get_characters(self, flag) {#bool}
+ إرجاع جميع كائنات الأحرف
+وهو ما يمثل نطاقًا من الأحرف داخل نص الخلية.
 
 
 ###  عائدات
 
-كل كائنات الشخصيات
+جميع كائنات الشخصيات
 
 
 ```python
+
 def get_characters(self, flag):
     ...
 ```
@@ -48,5 +50,5 @@ def get_characters(self, flag):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)

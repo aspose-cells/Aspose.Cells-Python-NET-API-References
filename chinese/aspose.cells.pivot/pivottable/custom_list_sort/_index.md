@@ -1,15 +1,15 @@
 ---
-title: custom_list_sort 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: custom_list_sort属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 380
+weight: 480
 url: /zh/aspose.cells.pivot/pivottable/custom_list_sort/
 is_root: false
 ---
-## custom_list_sort 属性
+## custom_list_sort属性
 
-表示排序数据时是否考虑内置自定义列表
+指示排序数据时是否考虑内置自定义列表
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def custom_list_sort(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.pivot](../../)
-* 类 [PivotTable](/cells/python-net/zh/aspose.cells.pivot/pivottable)
+* 模块[`aspose.cells.pivot`](../../)
+* 类 [`PivotTable`](/cells/python-net/zh/aspose.cells.pivot/pivottable)

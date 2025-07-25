@@ -10,7 +10,7 @@ is_root: false
 ##  gradient_degree propriété
 
 Renvoie le degré de dégradé pour le remplissage spécifié.
-Ne s'applique qu'à Excel 2007.
+S'applique uniquement à Excel 2007.
 
 ###  Remarques
 
@@ -23,5 +23,5 @@ def gradient_degree(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/fr/aspose.cells.drawing/lineformat)
+* module [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/fr/aspose.cells.drawing/lineformat)

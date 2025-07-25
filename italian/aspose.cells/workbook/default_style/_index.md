@@ -1,9 +1,9 @@
 ---
 title: default_style proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 550
+weight: 580
 url: /it/aspose.cells/workbook/default_style/
 is_root: false
 ---
@@ -17,7 +17,7 @@ La proprietà DefaultStyle è utile per implementare uno stile per l'intera cart
 
 ###  Esempio
 
-Il codice seguente crea e crea un'istanza di una nuova cartella di lavoro e imposta su di essa il valore predefinito [`Style`](/cells/python-net/it/aspose.cells/style).
+Il codice seguente crea e istanzia una nuova cartella di lavoro e le imposta il valore predefinito [`Style`](/cells/python-net/it/aspose.cells/style).
 
 ```python
 from aspose.cells import Workbook

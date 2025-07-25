@@ -1,18 +1,19 @@
 ---
 title: auto_fit_row метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
 url: /ru/aspose.cells/worksheet/auto_fit_row/
 is_root: false
 ---
-##  auto_fit_row(row_index) {#int}
-Автоподбор высоты строки.
+##  auto_fit_row(self, row_index) {#int}
+Автоматически подбирает высоту строки.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index):
     ...
 ```
@@ -25,13 +26,14 @@ def auto_fit_row(self, row_index):
 
 AutoFitRow — неточная функция.
 
-##  auto_fit_row(row_index, first_column, last_column) {#int-int-int}
+##  auto_fit_row(self, row_index, first_column, last_column) {#int-int-int}
 
-Автоподбор высоты строки.
+Автоматически подбирает высоту строки.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column):
     ...
 ```
@@ -44,15 +46,16 @@ def auto_fit_row(self, row_index, first_column, last_column):
 | last_column | int | Индекс последнего столбца.|
 ###  Примечания
 
-Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек в строке.
+Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек внутри строки.
 
-##  auto_fit_row(row_index, first_column, last_column, options) {#int-int-int-AutoFitterOptions}
+##  auto_fit_row(self, row_index, first_column, last_column, options) {#int-int-int-aspose.cells.AutoFitterOptions}
 
-Автоподбор высоты строки.
+Автоматически подбирает высоту строки.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column, options):
     ...
 ```
@@ -63,18 +66,19 @@ def auto_fit_row(self, row_index, first_column, last_column, options):
 | row_index | int | Индекс строки.|
 | first_column | int | Индекс первого столбца.|
 | last_column | int | Индекс последнего столбца.|
-| options | [AutoFitterOptions](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоустановщика|
+| options | [`AutoFitterOptions`](/cells/python-net/ru/aspose.cells/autofitteroptions) | Параметры автоустановщика|
 ###  Примечания
 
-Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек в строке.
+Этот метод автоматически подбирает строку на основе содержимого диапазона ячеек внутри строки.
 
-##  auto_fit_row(start_row, end_row, start_column, end_column) {#int-int-int-int}
+##  auto_fit_row(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 
-Автоподбор высоты строки в прямоугольном диапазоне.
+Автоматически подбирает высоту строки в прямоугольном диапазоне.
 
 
 
 ```python
+
 def auto_fit_row(self, start_row, end_row, start_column, end_column):
     ...
 ```
@@ -82,13 +86,13 @@ def auto_fit_row(self, start_row, end_row, start_column, end_column):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| start_row | int | Индекс начальной строки.|
-| end_row | int | Индекс конечной строки.|
-| start_column | int | Начальный индекс столбца.|
-| end_column | int | Конечный индекс столбца.|
+| start_row | int | Начальный индекс строки.|
+| end_row | int | Индекс конца строки.|
+| start_column | int |Начальный индекс столбца.|
+| end_column | int | Индекс конечного столбца.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Worksheet](/cells/python-net/ru/aspose.cells/worksheet)
+* модуль [`aspose.cells`](../../)
+* класс [`Worksheet`](/cells/python-net/ru/aspose.cells/worksheet)

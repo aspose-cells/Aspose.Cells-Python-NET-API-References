@@ -1,5 +1,5 @@
 ---
-title: العد OdsCellFieldType
+title: OdsCellFieldType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,12 @@ weight: 40
 url: /ar/aspose.cells.ods/odscellfieldtype/
 is_root: false
 ---
-##  العد OdsCellFieldType
-يمثل نوع حقل الخلية من ods.
+##  OdsCellFieldType التعداد
+يمثل نوع حقل الخلية لـ ods.
 
 
 
-يكشف نوع OdsCellFieldType الأعضاء التالية:
+يكشف النوع OdsCellFieldType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
@@ -24,4 +24,4 @@ is_root: false
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.ods](..)
+* الوحدة [`aspose.cells.ods`](..)

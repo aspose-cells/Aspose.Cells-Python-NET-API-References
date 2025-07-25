@@ -1,9 +1,9 @@
 ---
 title: FontSchemeType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2140
+weight: 2080
 url: /ru/aspose.cells/fontschemetype/
 is_root: false
 ---
@@ -19,7 +19,7 @@ is_root: false
 | :- | :- |
 | NONE | Никто|
 | MAJOR | Основная схема.|
-| MINOR | Малая схема.|
+| MINOR | Второстепенная схема.|
 
 
 

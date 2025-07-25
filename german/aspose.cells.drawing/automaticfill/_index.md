@@ -8,12 +8,11 @@ url: /de/aspose.cells.drawing/automaticfill/
 is_root: false
 ---
 ##  AutomaticFill Klasse
-steht für automatische Füllung.
+steht für automatisches Füllen.
 
 
 
-**Nachlass:** [AutomaticFill](/cells/python-net/aspose.cells.drawing/automaticfill) → 
-[Fill](/cells/python-net/de/aspose.cells.drawing/fill)
+**Nachlass:** [`AutomaticFill`](/cells/python-net/de/aspose.cells.drawing/automaticfill)
 
 
 
@@ -21,6 +20,5 @@ Der Typ AutomaticFill macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
-* Klasse [AutomaticFill](/cells/python-net/de/aspose.cells.drawing/automaticfill)
-* Klasse [Fill](/cells/python-net/de/aspose.cells.drawing/fill)
+* Modul [`aspose.cells.drawing`](..)
+* Klasse [`AutomaticFill`](/cells/python-net/de/aspose.cells.drawing/automaticfill)

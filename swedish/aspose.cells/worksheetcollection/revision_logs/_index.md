@@ -3,7 +3,7 @@ title: revision_logs fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 340
+weight: 360
 url: /sv/aspose.cells/worksheetcollection/revision_logs/
 is_root: false
 ---

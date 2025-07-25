@@ -1,9 +1,9 @@
 ---
 title: horizontal_alignment proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 50
+weight: 60
 url: /it/aspose.cells/defaultstylesettings/horizontal_alignment/
 is_root: false
 ---
@@ -21,6 +21,6 @@ def horizontal_alignment(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DefaultStyleSettings](/cells/python-net/it/aspose.cells/defaultstylesettings)
-* classe [TextAlignmentType](/cells/python-net/it/aspose.cells/textalignmenttype)
+* modulo [`aspose.cells`](../../)
+* classe [`DefaultStyleSettings`](/cells/python-net/it/aspose.cells/defaultstylesettings)
+* classe [`TextAlignmentType`](/cells/python-net/it/aspose.cells/textalignmenttype)

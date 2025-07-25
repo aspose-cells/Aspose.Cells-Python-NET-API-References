@@ -9,7 +9,7 @@ is_root: false
 ---
 ## hyperlink属性
 
-获取形状的hyperlink。
+获取形状的 hyperlink。
 
 ### 例子
 

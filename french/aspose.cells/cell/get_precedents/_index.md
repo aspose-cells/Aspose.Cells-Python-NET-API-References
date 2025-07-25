@@ -1,5 +1,5 @@
 ---
-title: get_precedents méthode
+title: méthode get_precedents
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 180
 url: /fr/aspose.cells/cell/get_precedents/
 is_root: false
 ---
-##  get_precedents() {#}
+##  get_precedents(self) {#}
 Obtient toutes les références apparaissant dans la formule de cette cellule.
 
 
@@ -17,6 +17,7 @@ Collection de toutes les références apparaissant dans la formule de cette cell
 
 
 ```python
+
 def get_precedents(self):
     ...
 ```
@@ -26,16 +27,16 @@ def get_precedents(self):
 
 * Renvoie null s'il ne s'agit pas d'une cellule de formule. Toutes les références apparaissant dans la formule de cette cellule seront renvoyées, qu'elles soient référencées ou non lors du calcul.
 
-Par exemple, bien que la cellule A2 dans la formule "=IF(TRUE,A1,A2)" ne soit pas utilisée lors du calcul,
-il est toujours considéré comme les précédents de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [Cell.get_precedents_in_calculation()](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
+Par exemple, bien que la cellule A2 de la formule « =SI(VRAI,A1,A2) » ne soit pas utilisée lors du calcul,
+il est toujours considéré comme le précédent de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [`Cell.get_precedents_in_calculation`](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
 
 * Renvoie null s'il ne s'agit pas d'une cellule de formule. Toutes les références apparaissant dans la formule de cette cellule seront renvoyées, qu'elles soient référencées ou non lors du calcul.
-Par exemple, bien que la cellule A2 dans la formule "=IF(TRUE,A1,A2)" ne soit pas utilisée lors du calcul,
-il est toujours considéré comme les précédents de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [Cell.get_precedents_in_calculation()](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
+Par exemple, bien que la cellule A2 de la formule « =SI(VRAI,A1,A2) » ne soit pas utilisée lors du calcul,
+il est toujours considéré comme le précédent de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [`Cell.get_precedents_in_calculation`](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
 
 * Renvoie null s'il ne s'agit pas d'une cellule de formule. Toutes les références apparaissant dans la formule de cette cellule seront renvoyées, qu'elles soient référencées ou non lors du calcul.
-Par exemple, bien que la cellule A2 dans la formule "=IF(TRUE,A1,A2)" ne soit pas utilisée lors du calcul,
-il est toujours considéré comme les précédents de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [Cell.get_precedents_in_calculation()](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
+Par exemple, bien que la cellule A2 de la formule « =SI(VRAI,A1,A2) » ne soit pas utilisée lors du calcul,
+il est toujours considéré comme le précédent de la formule. Pour obtenir les références qui influencent uniquement le calcul, veuillez utiliser [`Cell.get_precedents_in_calculation`](/cells/python-net/fr/aspose.cells/cell/get_precedents_in_calculation).
 ###  Exemple
 
 ```python
@@ -65,5 +66,5 @@ for i in range(len(areas)):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Cell](/cells/python-net/fr/aspose.cells/cell)
+* module [`aspose.cells`](../../)
+* classe [`Cell`](/cells/python-net/fr/aspose.cells/cell)

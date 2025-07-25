@@ -1,6 +1,6 @@
 ---
 title: image_bytes proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  image_bytes proprietà
 
-Indica i byte dell'immagine del grafico sottoposto a rendering, la forma durante il rendering.
+Indica i byte dell'immagine del grafico renderizzato, della forma durante il rendering.
 ###  Definizione:
 ```python
 @property
@@ -18,5 +18,5 @@ def image_bytes(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.rendering](../../)
-* classe [DrawObject](/cells/python-net/it/aspose.cells.rendering/drawobject)
+* modulo [`aspose.cells.rendering`](../../)
+* classe [`DrawObject`](/cells/python-net/it/aspose.cells.rendering/drawobject)

@@ -1,18 +1,19 @@
 ---
 title: get_cube_point_count метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 20
 url: /ru/aspose.cells.charts/walls/get_cube_point_count/
 is_root: false
 ---
-##  get_cube_point_count() {#}
+##  get_cube_point_count(self) {#}
 Получает количество точек куба после вызова метода Chart.Calculate().
 
 
 
 ```python
+
 def get_cube_point_count(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_cube_point_count(self):
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Walls](/cells/python-net/ru/aspose.cells.charts/walls)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Walls`](/cells/python-net/ru/aspose.cells.charts/walls)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  legend mülk
 
-legend grafiğini alır.
+legend numaralı grafiği alır.
 ###  Tanım:
 ```python
 @property

@@ -1,19 +1,19 @@
 ---
-title: optimization_type 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: optimization_type属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 290
+weight: 340
 url: /zh/aspose.cells/pdfsaveoptions/optimization_type/
 is_root: false
 ---
-## optimization_type 属性
+## optimization_type属性
 
-获取和设置 pdf 优化类型。
+获取并设置pdf优化类型。
 
-### 评论
+### 注意事项
 
-默认值为 [PdfOptimizationType.STANDARD](/cells/python-net/zh/aspose.cells.rendering/pdfoptimizationtype#STANDARD)
+默认值为 [`PdfOptimizationType.STANDARD`](/cells/python-net/zh/aspose.cells.rendering/pdfoptimizationtype#STANDARD)
 ### 定义：
 ```python
 @property
@@ -25,6 +25,6 @@ def optimization_type(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [PdfOptimizationType](/cells/python-net/zh/aspose.cells.rendering/pdfoptimizationtype)
-* 类 [PdfSaveOptions](/cells/python-net/zh/aspose.cells/pdfsaveoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`PdfOptimizationType`](/cells/python-net/zh/aspose.cells.rendering/pdfoptimizationtype)
+* 类 [`PdfSaveOptions`](/cells/python-net/zh/aspose.cells/pdfsaveoptions)

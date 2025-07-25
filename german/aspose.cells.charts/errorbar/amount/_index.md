@@ -9,8 +9,11 @@ is_root: false
 ---
 ##  amount Eigentum
 
-Stellt amount der Fehlerleiste dar.
- Die amount muss größer oder gleich Null sein.
+Stellt amount des Fehlerbalkens dar.
+
+###  Bemerkungen
+
+Die amount muss größer oder gleich Null sein.
 ###  Definition:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [ErrorBar](/cells/python-net/de/aspose.cells.charts/errorbar)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`ErrorBar`](/cells/python-net/de/aspose.cells.charts/errorbar)

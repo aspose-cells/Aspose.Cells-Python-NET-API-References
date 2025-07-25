@@ -1,5 +1,5 @@
 ---
-title: allow_deleting_row الملكية
+title: allow_deleting_row عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 70
 url: /ar/aspose.cells/protection/allow_deleting_row/
 is_root: false
 ---
-##  allow_deleting_row الملكية
+##  allow_deleting_row عقار
 
-يمثل ما إذا كان حذف الصفوف مسموحًا به في ورقة العمل المحمية.
+يمثل ما إذا كان يُسمح بحذف الصفوف في ورقة عمل محمية.
 
 ###  ملاحظات
 
-يجب إلغاء قفل الصفوف التي تحتوي على الخلايا المراد حذفها عندما تكون الورقة محمية ،
-ويجب تمكين خيار "تحديد الخلايا غير المؤمنة".
+يجب إلغاء قفل الصفوف التي تحتوي على الخلايا المراد حذفها عند حماية الورقة،
+ويجب تفعيل خيار "تحديد الخلايا غير المؤمنة".
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def allow_deleting_row(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Protection](/cells/python-net/ar/aspose.cells/protection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Protection`](/cells/python-net/ar/aspose.cells/protection)

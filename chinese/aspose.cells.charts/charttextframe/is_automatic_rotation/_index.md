@@ -1,13 +1,13 @@
 ---
-title: is_automatic_rotation 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: is_automatic_rotation属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 180
+weight: 240
 url: /zh/aspose.cells.charts/charttextframe/is_automatic_rotation/
 is_root: false
 ---
-## is_automatic_rotation 属性
+## is_automatic_rotation属性
 
 指示图表的文本是否自动旋转。
 ### 定义：
@@ -18,5 +18,5 @@ def is_automatic_rotation(self):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartTextFrame](/cells/python-net/zh/aspose.cells.charts/charttextframe)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartTextFrame`](/cells/python-net/zh/aspose.cells.charts/charttextframe)

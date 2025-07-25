@@ -3,13 +3,13 @@ title: has_revisions属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 590
+weight: 630
 url: /zh/aspose.cells/workbook/has_revisions/
 is_root: false
 ---
 ## has_revisions属性
 
-获取工作簿是否有任何跟踪的更改
+获取工作簿是否有任何跟踪更改
 ### 定义：
 ```python
 @property

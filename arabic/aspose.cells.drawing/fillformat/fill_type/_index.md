@@ -1,5 +1,5 @@
 ---
-title: fill_type الملكية
+title: fill_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 60
 url: /ar/aspose.cells.drawing/fillformat/fill_type/
 is_root: false
 ---
-##  fill_type الملكية
+##  fill_type عقار
 
-الحصول على نوع التعبئة وتعيينه
+يحصل على نوع التعبئة ويحدده
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def fill_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [FillFormat](/cells/python-net/ar/aspose.cells.drawing/fillformat)
-* فئة [FillType](/cells/python-net/ar/aspose.cells.drawing/filltype)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`FillFormat`](/cells/python-net/ar/aspose.cells.drawing/fillformat)
+* فئة [`FillType`](/cells/python-net/ar/aspose.cells.drawing/filltype)

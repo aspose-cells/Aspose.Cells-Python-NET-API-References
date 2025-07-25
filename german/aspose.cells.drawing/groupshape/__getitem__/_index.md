@@ -1,13 +1,13 @@
 ---
-title: GroupShape Indexer
+title: GroupShape Indexierer
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 270
+weight: 280
 url: /de/aspose.cells.drawing/groupshape/__getitem__/
 is_root: false
 ---
-##  GroupShape Indexer
+##  GroupShape Indexierer
 
 Ruft die untergeordnete Form nach Index ab.
 ###  Indexer
@@ -19,7 +19,7 @@ Ruft die untergeordnete Form nach Index ab.
 
 ###  Kehrt zurück
 
-Gibt die untergeordnete Form zurück.
+gibt die untergeordnete Form zurück.
 
 ###  Siehe auch
 * Modul [`aspose.cells.drawing`](../../)

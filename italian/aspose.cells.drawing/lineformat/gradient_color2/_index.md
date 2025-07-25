@@ -1,6 +1,6 @@
 ---
 title: gradient_color2 proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 170
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  gradient_color2 proprietà
 
-Restituisce il colore sfumatura 2 per il riempimento specificato.
+Restituisce il colore sfumato 2 per il riempimento specificato.
 
 ###  Osservazioni
 
-Solo quando il tipo di colore del gradiente è GradientColorType.TwoColors, questa proprietà è significativa.
+Questa proprietà è significativa solo se il tipo di colore del gradiente è GradientColorType.TwoColors.
 ###  Definizione:
 ```python
 @property
@@ -22,5 +22,5 @@ def gradient_color2(self):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.drawing](../../)
-* classe [LineFormat](/cells/python-net/it/aspose.cells.drawing/lineformat)
+* modulo [`aspose.cells.drawing`](../../)
+* classe [`LineFormat`](/cells/python-net/it/aspose.cells.drawing/lineformat)

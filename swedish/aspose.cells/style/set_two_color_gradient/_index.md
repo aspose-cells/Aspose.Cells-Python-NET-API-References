@@ -7,12 +7,13 @@ weight: 90
 url: /sv/aspose.cells/style/set_two_color_gradient/
 is_root: false
 ---
-##  set_two_color_gradient(color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
-Ställer in den angivna fyllningen till en tvåfärgsgradient.
+##  set_two_color_gradient(self, color1, color2, gradient_style_type, variant) {#aspose.pydrawing.Color-aspose.pydrawing.Color-aspose.cells.drawing.GradientStyleType-int}
+Ställer in den angivna fyllningen till en tvåfärgad övertoning.
 
 
 
 ```python
+
 def set_two_color_gradient(self, color1, color2, gradient_style_type, variant):
     ...
 ```
@@ -22,11 +23,11 @@ def set_two_color_gradient(self, color1, color2, gradient_style_type, variant):
 | :- | :- | :- |
 | color1 | aspose.pydrawing.Color | En gradientfärg.|
 | color2 | aspose.pydrawing.Color | Två gradientfärger.|
-| gradient_style_type | aspose.cells.drawing.GradientStyleType | Gradient skuggstil.|
-| variant | int |Gradientvarianten. Kan vara ett värde från 1 till 4, motsvarande en av de fyra varianterna på fliken Gradient i dialogrutan Fyllningseffekter. Om stilen är GradientStyle.FromCenter kan variantargumentet bara vara 1 eller 2.|
+| gradient_style_type | aspose.cells.drawing.GradientStyleType | Stil med gradientskuggning.|
+| variant | int | Gradientvarianten. Kan vara ett värde från 1 till 4, motsvarande en av de fyra varianterna på fliken Gradient i dialogrutan Fyllningseffekter. Om stilen är GradientStyle.FromCenter kan variantargumentet bara vara 1 eller 2.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

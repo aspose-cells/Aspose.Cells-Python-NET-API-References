@@ -3,14 +3,14 @@ title: drag_to_hide Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 300
+weight: 380
 url: /de/aspose.cells.pivot/pivotfield/drag_to_hide/
 is_root: false
 ---
 ##  drag_to_hide Eigentum
 
-Gibt an, ob das angegebene Feld an die Ausblendposition gezogen werden kann.
-Der Standardwert ist wahr.
+Gibt an, ob das angegebene Feld in die Ausblendposition gezogen werden kann.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

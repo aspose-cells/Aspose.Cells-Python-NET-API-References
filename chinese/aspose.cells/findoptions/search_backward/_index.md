@@ -1,13 +1,13 @@
 ---
-title: search_backward 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: search_backward属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 130
 url: /zh/aspose.cells/findoptions/search_backward/
 is_root: false
 ---
-## search_backward 属性
+## search_backward属性
 
 是否向后搜索单元格。
 ### 定义：
@@ -21,5 +21,5 @@ def search_backward(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [FindOptions](/cells/python-net/zh/aspose.cells/findoptions)
+* 模块[`aspose.cells`](../../)
+* 类 [`FindOptions`](/cells/python-net/zh/aspose.cells/findoptions)

@@ -1,19 +1,19 @@
 ---
 title: is_h_scroll_bar_visible недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 240
+weight: 270
 url: /ru/aspose.cells/workbooksettings/is_h_scroll_bar_visible/
 is_root: false
 ---
 ##  is_h_scroll_bar_visible недвижимость
 
-Получает или задает значение, указывающее, будет ли созданная электронная таблица содержать горизонтальную полосу прокрутки.
+Возвращает или задает значение, указывающее, будет ли созданная электронная таблица содержать горизонтальную полосу прокрутки.
 
 ###  Примечания
 
-Значение по умолчанию верно.
+Значение по умолчанию — true.
 
 ###  Пример
 

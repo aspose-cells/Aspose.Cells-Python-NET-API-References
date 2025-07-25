@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  properties mülk
 
-Web uzantısının tüm properties'ini alır.
+Web uzantısının properties'inin tamamını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def properties(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.webextensions](../../)
-* sınıf [WebExtension](/cells/python-net/tr/aspose.cells.webextensions/webextension)
-* sınıf [WebExtensionPropertyCollection](/cells/python-net/tr/aspose.cells.webextensions/webextensionpropertycollection)
+* modül [`aspose.cells.webextensions`](../../)
+* sınıf [`WebExtension`](/cells/python-net/tr/aspose.cells.webextensions/webextension)
+* sınıf [`WebExtensionPropertyCollection`](/cells/python-net/tr/aspose.cells.webextensions/webextensionpropertycollection)

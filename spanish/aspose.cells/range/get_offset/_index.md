@@ -3,11 +3,11 @@ title: método get_offset
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 110
+weight: 160
 url: /es/aspose.cells/range/get_offset/
 is_root: false
 ---
-##  get_offset {#int-int}
+##  get_offset(self, row_offset, column_offset) {#int-int}
 Obtiene el rango [`Range`](/cells/python-net/es/aspose.cells/range) por desplazamiento.
 
 
@@ -17,6 +17,7 @@ Obtiene el rango [`Range`](/cells/python-net/es/aspose.cells/range) por desplaza
 
 
 ```python
+
 def get_offset(self, row_offset, column_offset):
     ...
 ```

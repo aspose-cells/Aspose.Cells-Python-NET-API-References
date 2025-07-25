@@ -3,13 +3,13 @@ title: double_value fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 460
+weight: 470
 url: /sv/aspose.cells/cell/double_value/
 is_root: false
 ---
 ##  double_value fastighet
 
-Får det dubbla värdet som finns i cellen.
+Hämtar det dubbla värdet som finns i cellen.
 ###  Definition:
 ```python
 @property

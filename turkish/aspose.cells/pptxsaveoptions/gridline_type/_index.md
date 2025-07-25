@@ -3,17 +3,11 @@ title: gridline_type mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 150
+weight: 190
 url: /tr/aspose.cells/pptxsaveoptions/gridline_type/
 is_root: false
 ---
 ##  gridline_type mülk
-
-Kılavuz çizgisi türünü alır veya ayarlar.
-
-###  Notlar
-
-Varsayılan Noktalı türdür.
 ###  Tanım:
 ```python
 @property

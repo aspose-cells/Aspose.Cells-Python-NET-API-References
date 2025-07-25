@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  list_separator propiedad
 
-Obtiene el separador de lista, parámetros de función, etc.
+Obtiene el separador de listas, parámetros de función, etc.
 ###  Definición:
 ```python
 @property

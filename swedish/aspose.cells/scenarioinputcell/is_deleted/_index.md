@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_deleted fastighet
 
-Indikerar om inmatningscellen är raderad.
+Anger om inmatningscellen har raderats.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_deleted(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [ScenarioInputCell](/cells/python-net/sv/aspose.cells/scenarioinputcell)
+* modul [`aspose.cells`](../../)
+* klass [`ScenarioInputCell`](/cells/python-net/sv/aspose.cells/scenarioinputcell)

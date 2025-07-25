@@ -1,18 +1,19 @@
 ---
 title: add_pivot_connection方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells.slicers/slicer/add_pivot_connection/
 is_root: false
 ---
-##  add_pivot_connection(pivot) {#aspose.cells.pivot.PivotTable}
+##  add_pivot_connection(self, pivot) {#aspose.cells.pivot.PivotTable}
 添加数据透视表连接。
 
 
 
 ```python
+
 def add_pivot_connection(self, pivot):
     ...
 ```
@@ -33,5 +34,5 @@ slicer.add_pivot_connection(pivot)
 
 
 ### 也可以看看
-* 模块 [aspose.cells.slicers](../../)
-* 类 [Slicer](/cells/python-net/zh/aspose.cells.slicers/slicer)
+* 模块[`aspose.cells.slicers`](../../)
+* 类 [`Slicer`](/cells/python-net/zh/aspose.cells.slicers/slicer)

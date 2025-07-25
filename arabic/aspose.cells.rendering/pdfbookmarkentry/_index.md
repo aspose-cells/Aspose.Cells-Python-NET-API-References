@@ -1,36 +1,36 @@
 ---
-title: PdfBookmarkEntry الدرجة
+title: PdfBookmarkEntry صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 80
+weight: 70
 url: /ar/aspose.cells.rendering/pdfbookmarkentry/
 is_root: false
 ---
-##  PdfBookmarkEntry الدرجة
-PdfBookmarkEntry هو إدخال في المرجعية pdf.
-إذا كانت خاصية Text للمثيل الحالي خالية أو "" ،
-سيتم إخفاء المثيل الحالي وسيتم إدراج الأطفال في المستوى الحالي.
+##  PdfBookmarkEntry صف
+PdfBookmarkEntry هو إدخال في إشارة مرجعية لملف pdf.
+إذا كانت خاصية النص للمثيل الحالي فارغة أو ""،
+سيتم إخفاء المثيل الحالي وسيتم إدراج الأبناء على المستوى الحالي.
 
 
 
-يكشف نوع PdfBookmarkEntry الأعضاء التالية:
+يكشف النوع PdfBookmarkEntry عن الأعضاء التاليين:
 
-###  المنشئون
+###  البنائين
 | البناء| وصف|
 | :- | :- |
-| [PdfBookmarkEntry()](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | ينشئ مثيلاً جديدًا من PdfBookmarkEntry|
+| [`__init__(self)`](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/__init__/#) | إنشاء مثيل جديد لـ PdfBookmarkEntry|
 
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [text](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/text) | عنوان إشارة مرجعية.|
-| [destination](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/destination) | الخلية التي ترتبط بها الإشارة المرجعية.|
-| [destination_name](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/destination_name) | يحصل أو يحدد اسم الوجهة.|
-| [sub_entry](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | إدخال إشارة مرجعية فرعي.|
-| [is_open](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/is_open) |عندما تكون هذه الخاصية صحيحة ، سيتم توسيع نقطة الإشارة المرجعية ، وإلا فسوف تنهار.|
-| [is_collapse](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | عندما تكون هذه الخاصية صحيحة ، ستنهار نقطة الإشارة المرجعية ، وإلا فإنها ستتوسع.|
+| [text](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/text) | عنوان الإشارة المرجعية.|
+| [destination](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/destination) |الخلية التي يرتبط بها الإشارة المرجعية.|
+| [destination_name](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/destination_name) | يحصل على اسم الوجهة أو يحدده.|
+| [sub_entry](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/sub_entry) | إدخال فرعي للإشارة المرجعية.|
+| [is_open](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/is_open) | عندما تكون هذه الخاصية صحيحة، سيتم توسيع إدخال العلامة المرجعية، وإلا فسوف ينهار.|
+| [is_collapse](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry/is_collapse) | عندما تكون هذه الخاصية صحيحة، سوف ينهار إدخال العلامة المرجعية، وإلا فسوف يتوسع.|
 
 
 
@@ -69,4 +69,4 @@ workbook.save("output_bookmark.pdf", saveOptions)
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

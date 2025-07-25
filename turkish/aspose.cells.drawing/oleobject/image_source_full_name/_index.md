@@ -3,19 +3,19 @@ title: image_source_full_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 610
+weight: 600
 url: /tr/aspose.cells.drawing/oleobject/image_source_full_name/
 is_root: false
 ---
 ##  image_source_full_name mülk
 
-Bağlantılı görüntünün kaynak dosyasının yolunu ve adını alır veya ayarlar.
+Bağlantılı görüntü için kaynak dosyanın yolunu ve adını alır veya ayarlar.
 
 ###  Notlar
 
 Varsayılan değer boş bir dizedir.
-SourceFullName boş bir dize değilse görüntü bağlanır.
-SourceFullName boş bir dize değilse ancak Veri null ise görüntü bağlanır ve dosyada depolanmaz.
+SourceFullName boş bir dize değilse, görüntü bağlantılıdır.
+SourceFullName boş bir dize değilse, ancak Data boşsa, görüntü bağlantılıdır ve dosyada saklanmaz.
 ###  Tanım:
 ```python
 @property

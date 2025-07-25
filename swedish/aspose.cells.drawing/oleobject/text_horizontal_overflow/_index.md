@@ -3,13 +3,13 @@ title: text_horizontal_overflow fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1160
+weight: 1170
 url: /sv/aspose.cells.drawing/oleobject/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow fastighet
 
-Hämtar och ställer in textens horisontella överflödestyp för formen som innehåller text.
+Hämtar och anger den horisontella överflödestypen för text för formen som innehåller text.
 
 ###  Exempel
 

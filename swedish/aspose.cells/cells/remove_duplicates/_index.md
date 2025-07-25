@@ -3,16 +3,17 @@ title: remove_duplicates metod
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 800
+weight: 820
 url: /sv/aspose.cells/cells/remove_duplicates/
 is_root: false
 ---
-##  remove_duplicates {#}
+##  remove_duplicates(self) {#}
 Tar bort dubbletter av rader i arket.
 
 
 
 ```python
+
 def remove_duplicates(self):
     ...
 ```
@@ -20,12 +21,13 @@ def remove_duplicates(self):
 
 
 
-##  remove_duplicates {#int-int-int-int}
-Tar bort dubbletter av värden i intervallet.
+##  remove_duplicates(self, start_row, start_column, end_row, end_column) {#int-int-int-int}
+Tar bort dubbletter i intervallet.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column):
     ...
 ```
@@ -34,17 +36,18 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | start_row | int | Startraden.|
-| start_column | int | Startkolumnen|
-| end_row | int | Slutradens index.|
-| end_column | int | Slutkolumnindex.|
+| start_column | int |Startkolumnen|
+| end_row | int | Indexet för slutet av raden.|
+| end_column | int | Indexet för den sista kolumnen.|
 
 
-##  remove_duplicates {#int-int-int-int-bool-list}
-Tar bort dubblettdata från intervallet.
+##  remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets) {#int-int-int-int-bool-list}
+Tar bort dubbletter av data i intervallet.
 
 
 
 ```python
+
 def remove_duplicates(self, start_row, start_column, end_row, end_column, has_headers, column_offsets):
     ...
 ```
@@ -53,11 +56,11 @@ def remove_duplicates(self, start_row, start_column, end_row, end_column, has_he
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | start_row | int | Startraden.|
-| start_column | int | Startkolumnen|
-| end_row | int | Slutradens index.|
-| end_column | int | Slutkolumnindex.|
+| start_column | int |Startkolumnen|
+| end_row | int | Indexet för slutet av raden.|
+| end_column | int | Indexet för den sista kolumnen.|
 | has_headers | bool | Anger om intervallet innehåller rubriker.|
-| column_offsets | list | Kolumnen förskjuts.|
+| column_offsets | list | Kolumnförskjutningarna.|
 
 
 

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  max_iteration Eigentum
 
-Die maximalen Iterationen zum Auflösen eines Zirkelverweises.
+Die maximale Anzahl an Iterationen zum Auflösen eines Zirkelverweises.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_iteration(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

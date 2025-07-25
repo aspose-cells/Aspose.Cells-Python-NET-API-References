@@ -3,13 +3,13 @@ title: ribbon_xml عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 640
+weight: 670
 url: /ar/aspose.cells/workbook/ribbon_xml/
 is_root: false
 ---
 ##  ribbon_xml عقار
 
-الحصول على ملف XML الذي يحدد واجهة مستخدم الشريط وتعيينه.
+يحصل على ملف XML الذي يحدد واجهة المستخدم الشريطية ويقوم بتعيينه.
 ###  تعريف:
 ```python
 @property

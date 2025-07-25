@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paths fastighet
 
-Får information om bansamling när formen är en NotPrimitive-autoform
+Hämtar information om sökvägssamling när formen är en icke-primitiv autoform
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [CustomGeometry](/cells/python-net/sv/aspose.cells.drawing/customgeometry)
-* klass [ShapePathCollection](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`CustomGeometry`](/cells/python-net/sv/aspose.cells.drawing/customgeometry)
+* klass [`ShapePathCollection`](/cells/python-net/sv/aspose.cells.drawing/shapepathcollection)

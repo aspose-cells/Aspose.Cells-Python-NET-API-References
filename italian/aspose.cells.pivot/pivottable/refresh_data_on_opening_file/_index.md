@@ -1,9 +1,9 @@
 ---
 title: refresh_data_on_opening_file proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 800
+weight: 910
 url: /it/aspose.cells.pivot/pivottable/refresh_data_on_opening_file/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def refresh_data_on_opening_file(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.pivot](../../)
-* classe [PivotTable](/cells/python-net/it/aspose.cells.pivot/pivottable)
+* modulo [`aspose.cells.pivot`](../../)
+* classe [`PivotTable`](/cells/python-net/it/aspose.cells.pivot/pivottable)

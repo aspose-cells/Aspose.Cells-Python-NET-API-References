@@ -1,13 +1,13 @@
 ---
-title: number_format الملكية
+title: number_format عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 280
+weight: 350
 url: /ar/aspose.cells.charts/datalabels/number_format/
 is_root: false
 ---
-##  number_format الملكية
+##  number_format عقار
 
 يمثل سلسلة التنسيق لكائن DataLabels.
 ###  تعريف:
@@ -21,5 +21,5 @@ def number_format(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [DataLabels](/cells/python-net/ar/aspose.cells.charts/datalabels)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`DataLabels`](/cells/python-net/ar/aspose.cells.charts/datalabels)

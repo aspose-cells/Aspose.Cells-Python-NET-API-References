@@ -1,33 +1,35 @@
 ---
-title: metodo get_used_colors
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo get_used_colors
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 130
+weight: 140
 url: /it/aspose.cells/cellshelper/get_used_colors/
 is_root: false
 ---
-##  get_used_colors(workbook) {#Workbook}
-Ottiene tutti i colori usati nella cartella di lavoro.
+##  get_used_colors(, quaderno di lavoro){#aspose.cells.Workbook}
+Ottiene tutti i colori utilizzati nella cartella di lavoro.
 
 
 ###  ritorna
 
-I colori usati.
+I colori utilizzati.
 
 
 ```python
-def get_used_colors(self, workbook):
+
+@staticmethod
+def get_used_colors(workbook):
     ...
 ```
 
 
 | Parametro| Tipo| Descrizione|
 | :- | :- | :- |
-| workbook | [Workbook](/cells/python-net/it/aspose.cells/workbook) | L'oggetto cartella di lavoro.|
+| workbook | [`Workbook`](/cells/python-net/it/aspose.cells/workbook) | L'oggetto cartella di lavoro.|
 
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [CellsHelper](/cells/python-net/it/aspose.cells/cellshelper)
+* modulo [`aspose.cells`](../../)
+* classe [`CellsHelper`](/cells/python-net/it/aspose.cells/cellshelper)

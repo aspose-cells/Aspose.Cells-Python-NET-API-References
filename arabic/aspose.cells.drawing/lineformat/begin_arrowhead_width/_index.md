@@ -1,5 +1,5 @@
 ---
-title: begin_arrowhead_width الملكية
+title: begin_arrowhead_width عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.drawing/lineformat/begin_arrowhead_width/
 is_root: false
 ---
-##  begin_arrowhead_width الملكية
+##  begin_arrowhead_width عقار
 
-الحصول على نوع عرض سهم البداية للخط وتعيينه.
+يحصل على نوع عرض السهم الأولي للخط ويقوم بتعيينه.
 
 ###  مثال
 
@@ -30,6 +30,6 @@ def begin_arrowhead_width(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [LineFormat](/cells/python-net/ar/aspose.cells.drawing/lineformat)
-* فئة [MsoArrowheadWidth](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`LineFormat`](/cells/python-net/ar/aspose.cells.drawing/lineformat)
+* فئة [`MsoArrowheadWidth`](/cells/python-net/ar/aspose.cells.drawing/msoarrowheadwidth)

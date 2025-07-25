@@ -1,6 +1,6 @@
 ---
 title: pivot_source недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 430
@@ -10,13 +10,13 @@ is_root: false
 ##  pivot_source недвижимость
 
 Источником являются данные сводной таблицы.
-Если PivotSource не пуст, это диаграмма PivotChart.
+Если PivotSource не пуст, то диаграмма будет PivotChart.
 
 ###  Примечания
 
-Если сводная таблица «Сводная таблица1» на листе «Лист1» в файле «Book1.xls».
-PivotSource может быть «[Book1.xls]Sheet1!PivotTable1», если диаграмма и сводная таблица не находятся в одной книге.
-Если вы установите это свойство, предыдущая настройка источника данных будет потеряна.
+Если сводная таблица «PivotTable1» на листе «Sheet1» в файле «Book1.xls».
+Источником pivotSource может быть «[Book1.xls]Sheet1!PivotTable1», если диаграмма и сводная таблица находятся не в одной и той же книге.
+Если задать это свойство, предыдущая настройка источника данных будет утеряна.
 ###  Определение:
 ```python
 @property

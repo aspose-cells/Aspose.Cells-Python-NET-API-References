@@ -3,13 +3,13 @@ title: direction_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 150
+weight: 190
 url: /zh/aspose.cells.charts/legend/direction_type/
 is_root: false
 ---
 ## direction_type属性
 
-获取和设置文本的方向。
+获取并设置文本的方向。
 ### 定义：
 ```python
 @property

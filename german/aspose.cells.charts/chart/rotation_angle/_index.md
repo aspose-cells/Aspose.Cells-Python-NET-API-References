@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_angle Eigentum
 
-Stellt die Drehung der 3D-Diagrammansicht dar (die Drehung des Diagrammbereichs um die Z-Achse in Grad).
+Stellt die Drehung der 3D-Diagrammansicht dar (die Drehung des Zeichnungsbereichs um die Z-Achse in Grad).
 
 ###  Bemerkungen
 

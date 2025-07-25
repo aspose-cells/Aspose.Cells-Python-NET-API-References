@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_auto_first_page_number fastighet
 
-Indikerar om det första sidnumret tilldelas automatiskt.
+Anger om den första sidnumret tilldelas automatiskt.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_auto_first_page_number(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

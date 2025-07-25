@@ -21,5 +21,5 @@ def is_auto_margin(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [MsoTextFrame](/cells/python-net/fr/aspose.cells.drawing/msotextframe)
+* module [`aspose.cells.drawing`](../../)
+* classe [`MsoTextFrame`](/cells/python-net/fr/aspose.cells.drawing/msotextframe)

@@ -3,7 +3,7 @@ title: cell_count propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 120
 url: /es/aspose.cells/unionrange/cell_count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def cell_count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [UnionRange](/cells/python-net/es/aspose.cells/unionrange)
+* módulo [`aspose.cells`](../../)
+* clase [`UnionRange`](/cells/python-net/es/aspose.cells/unionrange)

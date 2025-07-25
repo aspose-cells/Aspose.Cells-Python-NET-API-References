@@ -1,5 +1,5 @@
 ---
-title: add método
+title: método add
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /es/aspose.cells/worksheetcollection/add/
 is_root: false
 ---
-##  add() {#}
-Agrega una hoja de cálculo a la colección.
+##  add(self) {#}
+Agrega una hoja de trabajo a la colección.
 
 
 ###  Devoluciones
 
-[Worksheet](/cells/python-net/es/aspose.cells/worksheet) índice de objetos.
+Índice de objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet).
 
 
 ```python
+
 def add(self):
     ...
 ```
@@ -24,16 +25,17 @@ def add(self):
 
 
 
-##  add(type) {#SheetType}
-Agrega una hoja de cálculo a la colección.
+##  add(self, type) {#aspose.cells.SheetType}
+Agrega una hoja de trabajo a la colección.
 
 
 ###  Devoluciones
 
-[Worksheet](/cells/python-net/es/aspose.cells/worksheet) índice de objetos.
+Índice de objeto [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet).
 
 
 ```python
+
 def add(self, type):
     ...
 ```
@@ -41,7 +43,7 @@ def add(self, type):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| type | [SheetType](/cells/python-net/es/aspose.cells/sheettype) | Tipo de hoja de trabajo.|
+| type | [`SheetType`](/cells/python-net/es/aspose.cells/sheettype) | Tipo de hoja de trabajo.|
 
 ###  Ejemplo
 
@@ -65,16 +67,17 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-##  add(sheet_name) {#str}
-Agrega una hoja de cálculo a la colección.
+##  add(self, sheet_name) {#str}
+Agrega una hoja de trabajo a la colección.
 
 
 ###  Devoluciones
 
-[Worksheet](/cells/python-net/es/aspose.cells/worksheet) objeto.
+[`Worksheet`](/cells/python-net/es/aspose.cells/worksheet) objeto.
 
 
 ```python
+
 def add(self, sheet_name):
     ...
 ```
@@ -87,6 +90,6 @@ def add(self, sheet_name):
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Worksheet](/cells/python-net/es/aspose.cells/worksheet)
-* clase [WorksheetCollection](/cells/python-net/es/aspose.cells/worksheetcollection)
+* módulo [`aspose.cells`](../../)
+* clase [`Worksheet`](/cells/python-net/es/aspose.cells/worksheet)
+* clase [`WorksheetCollection`](/cells/python-net/es/aspose.cells/worksheetcollection)

@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  drop_lines Eigentum
 
-Gibt ein [`Line`](/cells/python-net/de/aspose.cells.drawing/line)-Objekt zurück, das die Drop-Linien für eine Reihe im Liniendiagramm oder Flächendiagramm darstellt.
-Gilt nur für Liniendiagramme oder Flächendiagramme.
+Gibt ein [`Line`](/cells/python-net/de/aspose.cells.drawing/line)-Objekt zurück, das die Bezugslinien für eine Reihe im Linien- oder Flächendiagramm darstellt.
+Gilt nur für Linien- oder Flächendiagramme.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  hide_formula propiedad
 
-Se aplicará la configuración Ocultar fórmula.
+Se aplicará la configuración de ocultar fórmula.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def hide_formula(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [StyleFlag](/cells/python-net/es/aspose.cells/styleflag)
+* módulo [`aspose.cells`](../../)
+* clase [`StyleFlag`](/cells/python-net/es/aspose.cells/styleflag)

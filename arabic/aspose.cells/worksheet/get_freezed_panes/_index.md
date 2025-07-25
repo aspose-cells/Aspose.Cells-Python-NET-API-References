@@ -3,20 +3,21 @@ title: طريقة get_freezed_panes
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 150
+weight: 160
 url: /ar/aspose.cells/worksheet/get_freezed_panes/
 is_root: false
 ---
-##  get_freezed_panes {#any-any-any-any}
+##  get_freezed_panes(self, row, column, freezed_rows, freezed_columns) {#any-any-any-any}
 يحصل على أجزاء التجميد.
 
 
 ###  عائدات
 
-إرجاع ما إذا كانت ورقة العمل مجمدة
+العودة إذا كانت ورقة العمل مجمدة
 
 
 ```python
+
 def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
     ...
 ```
@@ -25,9 +26,9 @@ def get_freezed_panes(self, row, column, freezed_rows, freezed_columns):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | row | any | مؤشر الصف.|
-| column | any | مؤشر العمود.|
-| freezed_rows | any | عدد الصفوف المرئية في الجزء العلوي، لا يزيد عن فهرس الصفوف.|
-| freezed_columns | any | عدد الأعمدة المرئية في الجزء الأيمن، لا يزيد عن فهرس العمود.|
+| column | any | فهرس العمود.|
+| freezed_rows | any | عدد الصفوف المرئية في الجزء العلوي، لا يزيد عن مؤشر الصف.|
+| freezed_columns | any | عدد الأعمدة المرئية في الجزء الأيسر، لا يزيد عن فهرس العمود.|
 
 
 

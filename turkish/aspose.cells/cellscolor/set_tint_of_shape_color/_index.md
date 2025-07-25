@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells/cellscolor/set_tint_of_shape_color/
 is_root: false
 ---
-##  set_tint_of_shape_color(tint) {#float}
+##  set_tint_of_shape_color(self, tint) {#float}
 Şekil renginin tonunu ayarlayın
 
 
 
 ```python
+
 def set_tint_of_shape_color(self, tint):
     ...
 ```
@@ -25,5 +26,5 @@ def set_tint_of_shape_color(self, tint):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)

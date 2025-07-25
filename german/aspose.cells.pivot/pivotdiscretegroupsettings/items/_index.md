@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items Eigentum
 
-Ruft die diskrete items ab.
+Ruft die diskrete Zahl items ab.
 ###  Definition:
 ```python
 @property

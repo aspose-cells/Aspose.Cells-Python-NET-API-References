@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  area fastighet
 
-Får [`Axis.area`](/cells/python-net/sv/aspose.cells.charts/axis#area).
+Hämtar [`Axis.area`](/cells/python-net/sv/aspose.cells.charts/axis#area).
 ###  Definition:
 ```python
 @property

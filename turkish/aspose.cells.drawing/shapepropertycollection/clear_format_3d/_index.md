@@ -7,12 +7,13 @@ weight: 20
 url: /tr/aspose.cells.drawing/shapepropertycollection/clear_format_3d/
 is_root: false
 ---
-##  clear_format_3d() {#}
-Şeklin 3B şekil özelliklerini temizler.
+##  clear_format_3d(self) {#}
+Şeklin 3D şekil özelliklerini temizler.
 
 
 
 ```python
+
 def clear_format_3d(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_format_3d(self):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](../../)
-* sınıf [ShapePropertyCollection](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)
+* modül [`aspose.cells.drawing`](../../)
+* sınıf [`ShapePropertyCollection`](/cells/python-net/tr/aspose.cells.drawing/shapepropertycollection)

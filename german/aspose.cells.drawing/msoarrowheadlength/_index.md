@@ -3,7 +3,7 @@ title: MsoArrowheadLength Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 970
+weight: 960
 url: /de/aspose.cells.drawing/msoarrowheadlength/
 is_root: false
 ---
@@ -18,10 +18,10 @@ Der Typ MsoArrowheadLength macht die folgenden Member verfügbar:
 | Feld| Beschreibung|
 | :- | :- |
 | SHORT | Kurze Leitungsendlänge|
-| MEDIUM |Mittlere Schnurendenlänge|
-| LONG | Länge des langen Leitungsendes|
+| MEDIUM | Mittlere Leinenendlänge|
+| LONG | Lange Leitungsendelänge|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

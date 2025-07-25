@@ -3,7 +3,7 @@ title: PrintSizeType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 2490
+weight: 2460
 url: /ar/aspose.cells/printsizetype/
 is_root: false
 ---
@@ -17,8 +17,8 @@ is_root: false
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| FULL | استخدام صفحة كاملة.|
-| FIT | مقياس لتناسب الصفحة.|
+| FULL | استخدم الصفحة كاملة.|
+| FIT | قم بتعديل الحجم ليناسب الصفحة.|
 | CUSTOM | مخصص.|
 
 

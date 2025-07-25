@@ -3,18 +3,18 @@ title: selected_index fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 930
+weight: 940
 url: /sv/aspose.cells.drawing/listbox/selected_index/
 is_root: false
 ---
 ##  selected_index fastighet
 
-Hämtar eller ställer in indexnumret för det för närvarande valda objektet i en listruta eller kombinationsruta.
+Hämtar eller anger indexnumret för det valda objektet i en listruta eller kombinationsruta.
 Nollbaserad.
 
 ###  Anmärkningar
 
--1 presenterar inget objekt har valts.
+-1 visar att inget objekt är valt.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  always_export_as_json_object propriété
 
-Indique si vous exportez toujours Excel vers json en tant qu'objet, même s'il n'y a qu'une feuille de calcul dans le fichier.
+Indique si l'exportation d'Excel vers JSON en tant qu'objet est toujours effectuée, même s'il n'y a qu'une feuille de calcul dans le fichier.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def always_export_as_json_object(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [JsonSaveOptions](/cells/python-net/fr/aspose.cells/jsonsaveoptions)
+* module [`aspose.cells`](../../)
+* classe [`JsonSaveOptions`](/cells/python-net/fr/aspose.cells/jsonsaveoptions)

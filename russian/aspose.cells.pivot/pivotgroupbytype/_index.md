@@ -1,9 +1,9 @@
 ---
 title: PivotGroupByType перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 310
+weight: 380
 url: /ru/aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
@@ -19,13 +19,13 @@ is_root: false
 | :- | :- |
 | RANGE_OF_VALUES | Группировать по номерам.|
 | NUMBERS | Группировать по номерам.|
-| SECONDS | Представляет группу секунд по типу.|
-| MINUTES | Представляет группы минут по типу.|
-| HOURS |Представляет группу часов по типу.|
-| DAYS | Подарки группируются по типам.|
-| MONTHS | Представляет группу месяцев по типу.|
-| QUARTERS | Представляет группу кварталов по типу.|
-| YEARS | Подарки по годам группируются по типу.|
+| SECONDS | Представлены секунды, сгруппированные по типу.|
+| MINUTES | Группировка протоколов по типу.|
+| HOURS | Подарочные часы сгруппированы по типу.|
+| DAYS | Группировка дней подарков по типу.|
+| MONTHS | Группировка месяцев по типу.|
+| QUARTERS |Представлены кварталы, сгруппированные по типу.|
+| YEARS | Группировка по типу Подарки Года.|
 
 
 

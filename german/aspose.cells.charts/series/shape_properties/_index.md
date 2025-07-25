@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shape_properties Eigentum
 
-Ruft das [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)-Objekt ab, das die visuellen Formeigenschaften der Serie enthält.
+Ruft das Objekt [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection) ab, das die visuellen Formeigenschaften der Serie enthält.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def shape_properties(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [Series](/cells/python-net/de/aspose.cells.charts/series)
-* Klasse [ShapePropertyCollection](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`Series`](/cells/python-net/de/aspose.cells.charts/series)
+* Klasse [`ShapePropertyCollection`](/cells/python-net/de/aspose.cells.drawing/shapepropertycollection)

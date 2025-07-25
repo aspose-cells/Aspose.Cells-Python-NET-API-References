@@ -3,13 +3,13 @@ title: allow_edit_ranges propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 360
+weight: 380
 url: /es/aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---
 ##  allow_edit_ranges propiedad
 
-Obtiene la colección de rangos de edición permitidos en la hoja de trabajo.
+Obtiene la colección de rango de edición permitida en la hoja de cálculo.
 ###  Definición:
 ```python
 @property

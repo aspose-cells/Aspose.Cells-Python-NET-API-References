@@ -3,15 +3,15 @@ title: export_cell_name fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 90
+weight: 110
 url: /sv/aspose.cells/ooxmlsaveoptions/export_cell_name/
 is_root: false
 ---
 ##  export_cell_name fastighet
 
- Indikerar om export av cellnamn till Excel2007 .xlsx (.xlsm, .xltx, .xltm) fil.
-Om utdatafilen kan nås av SQL Server DTS måste detta värde vara sant.
-Om du ställer in värdet på false ökar prestandan kraftigt och filstorleken minskar när du skapar stora filer.
+ Anger om cellnamnet ska exporteras till Excel2007 .xlsx (.xlsm, .xltx, .xltm)-fil.
+Om utdatafilen kan nås av SQL Server DTS måste det här värdet vara sant.
+Om värdet ställs in på falskt ökar prestandan avsevärt och filstorleken minskar när stora filer skapas.
 Standardvärdet är sant.
 ###  Definition:
 ```python
@@ -24,5 +24,5 @@ def export_cell_name(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [OoxmlSaveOptions](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`OoxmlSaveOptions`](/cells/python-net/sv/aspose.cells/ooxmlsaveoptions)

@@ -3,7 +3,7 @@ title: original_width_inch propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 980
+weight: 1000
 url: /es/aspose.cells.drawing/picture/original_width_inch/
 is_root: false
 ---

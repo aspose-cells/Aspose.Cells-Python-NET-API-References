@@ -3,13 +3,13 @@ title: has_macro عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 580
+weight: 620
 url: /ar/aspose.cells/workbook/has_macro/
 is_root: false
 ---
 ##  has_macro عقار
 
-يشير إلى ما إذا كان جدول البيانات هذا يحتوي على ماكرو/VBA.
+يشير إلى ما إذا كانت هذه جدول البيانات تحتوي على ماكرو/VBA.
 ###  تعريف:
 ```python
 @property

@@ -14,7 +14,7 @@ Ruft die Hintergrundfarbe eines Stils ab oder legt sie fest.
 ###  Bemerkungen
 
  Wenn Sie die Farbe einer Zelle festlegen möchten, verwenden Sie bitte die Eigenschaft Style.ForegroundColor.
-Diese Eigenschaft wird nur wirksam, wenn das Zellstilmuster nicht „Keine“ oder „Durchgehend“ ist.
+Nur wenn das Zellenstilmuster nicht „Keines“ oder „Durchgehend“ ist, wird diese Eigenschaft wirksam.
 ###  Definition:
 ```python
 @property
@@ -26,5 +26,5 @@ def background_color(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Style](/cells/python-net/de/aspose.cells/style)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Style`](/cells/python-net/de/aspose.cells/style)

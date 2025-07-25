@@ -1,6 +1,6 @@
 ---
 title: show_drop_button_type_when недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_drop_button_type_when недвижимость
 
-Указывает символ, отображаемый на кнопке раскрывающегося списка.
+Задает символ, отображаемый на кнопке сброса.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def show_drop_button_type_when(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
-* класс [ShowDropButtonType](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/showdropbuttontype)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* класс [`ShowDropButtonType`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/showdropbuttontype)

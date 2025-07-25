@@ -3,7 +3,7 @@ title: License klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1020
+weight: 930
 url: /sv/aspose.cells/license/
 is_root: false
 ---
@@ -17,25 +17,25 @@ Typen License avslöjar följande medlemmar:
 ###  Konstruktörer
 | Konstruktör| Beskrivning|
 | :- | :- |
-| [__init__](/cells/python-net/sv/aspose.cells/license/__init__/#) | Initierar en ny instans av den här klassen.|
+| [`__init__(self)`](/cells/python-net/sv/aspose.cells/license/__init__/#) | Initierar en ny instans av den här klassen.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_license](/cells/python-net/sv/aspose.cells/license/set_license/#str) | Licensierar komponenten.|
-| [set_license](/cells/python-net/sv/aspose.cells/license/set_license/#io.RawIOBase) | Licensierar komponenten.|
+| [`set_license(self, license_name)`](/cells/python-net/sv/aspose.cells/license/set_license/#str) | Licensierar komponenten.|
+| [`set_license(self, stream)`](/cells/python-net/sv/aspose.cells/license/set_license/#io.rawiobase) | Licensierar komponenten.|
 
 
 
 ###  Exempel
 
-I det här exemplet kommer ett försök att göras att hitta en licensfil med namnet MyLicense.lic
+I det här exemplet kommer ett försök att hitta en licensfil med namnet MyLicense.lic att göras.
  i mappen som innehåller
 
 
-komponenten, i mappen som innehåller den anropande församlingen,
-i mappen för postförsamlingen och sedan i de inbäddade resurserna för den anropande församlingen.
+komponenten, i mappen som innehåller den anropande assemblyn,
+i mappen för postsammansättningen och sedan i de inbäddade resurserna i den anropande sammansättningen.
 
 ```python
 from aspose.cells import License

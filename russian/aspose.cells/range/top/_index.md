@@ -1,15 +1,15 @@
 ---
 title: top недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 410
+weight: 510
 url: /ru/aspose.cells/range/top/
 is_root: false
 ---
 ##  top недвижимость
 
-Получает расстояние в пунктах от края top строки 1 до края top диапазона.
+Получает расстояние в точках от края top строки 1 до края top диапазона.
 ###  Определение:
 ```python
 @property

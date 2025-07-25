@@ -3,13 +3,13 @@ title: data fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 390
+weight: 400
 url: /sv/aspose.cells.drawing/picture/data/
 is_root: false
 ---
 ##  data fastighet
 
-Får bildens data.
+Hämtar bildens data.
 
 ###  Exempel
 

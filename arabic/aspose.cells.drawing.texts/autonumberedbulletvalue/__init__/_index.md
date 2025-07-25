@@ -1,5 +1,5 @@
 ---
-title: AutoNumberedBulletValue المنشئ
+title: AutoNumberedBulletValue منشئ
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 10
 url: /ar/aspose.cells.drawing.texts/autonumberedbulletvalue/__init__/
 is_root: false
 ---
-##  AutoNumberedBulletValue() {#}
-بناء نسخة جديدة من AutoNumberedBulletValue
+##  \_\_init\_\_(الذات){#}
+إنشاء مثيل جديد لـ AutoNumberedBulletValue
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing.texts](../../)
-* فئة [AutoNumberedBulletValue](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)
+* الوحدة [`aspose.cells.drawing.texts`](../../)
+* فئة [`AutoNumberedBulletValue`](/cells/python-net/ar/aspose.cells.drawing.texts/autonumberedbulletvalue)

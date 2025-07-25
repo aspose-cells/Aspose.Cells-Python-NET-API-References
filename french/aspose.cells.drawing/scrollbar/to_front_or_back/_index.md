@@ -3,16 +3,17 @@ title: méthode to_front_or_back
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 230
 url: /fr/aspose.cells.drawing/scrollbar/to_front_or_back/
 is_root: false
 ---
-##  to_front_or_back {#int}
-Place la forme au premier plan ou la renvoie à l'arrière-plan.
+##  to_front_or_back(self, orders) {#int}
+Amène la forme vers l'avant ou envoie la forme vers l'arrière.
 
 
 
 ```python
+
 def to_front_or_back(self, orders):
     ...
 ```
@@ -20,7 +21,7 @@ def to_front_or_back(self, orders):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| orders | int | S'il est inférieur à zéro, définit la forme à l'arrière.<br/> S'il est supérieur à zéro, place la forme au premier plan.|
+| orders | int | Si elle est inférieure à zéro, définit la forme sur l'arrière.<br/> Si elle est supérieure à zéro, amène la forme au premier plan.|
 
 ###  Exemple
 

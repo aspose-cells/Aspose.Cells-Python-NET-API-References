@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_dropdown_visible fastighet
 
-Indikerar om AutoFilter-knappen för denna kolumn är synlig.
+Anger om knappen Autofilter för den här kolumnen är synlig.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_dropdown_visible(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FilterColumn](/cells/python-net/sv/aspose.cells/filtercolumn)
+* modul [`aspose.cells`](../../)
+* klass [`FilterColumn`](/cells/python-net/sv/aspose.cells/filtercolumn)

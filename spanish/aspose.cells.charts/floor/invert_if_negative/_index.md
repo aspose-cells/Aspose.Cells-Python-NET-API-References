@@ -10,7 +10,7 @@ is_root: false
 ##  invert_if_negative propiedad
 
 Si la propiedad es verdadera y el valor del punto del gráfico es un número negativo,
-se intercambiarán el color de primer plano y el color de fondo.
+Se intercambiarán el color de primer plano y el color de fondo.
 
 ###  Ejemplo
 
@@ -58,5 +58,5 @@ def invert_if_negative(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Floor](/cells/python-net/es/aspose.cells.charts/floor)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Floor`](/cells/python-net/es/aspose.cells.charts/floor)

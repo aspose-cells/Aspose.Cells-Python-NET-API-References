@@ -1,18 +1,18 @@
 ---
-title: LoadNumbersTableType enumerazione
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Enumerazione LoadNumbersTableType
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells.numbers/loadnumberstabletype/
 is_root: false
 ---
-##  LoadNumbersTableType enumerazione
-Indica il tipo di caricamento delle tabelle quando alcune tabelle sono in un foglio.
+##  Enumerazione LoadNumbersTableType
+Indica il tipo di caricamento delle tabelle quando alcune tabelle sono presenti in un foglio.
 
 
 
-Il tipo LoadNumbersTableType espone i membri seguenti:
+Il tipo LoadNumbersTableType espone i seguenti membri:
 
 ###  Campi
 | Campo| Descrizione|
@@ -24,4 +24,4 @@ Il tipo LoadNumbersTableType espone i membri seguenti:
 
 
 ###  Guarda anche
-* modulo [aspose.cells.numbers](..)
+* modulo [`aspose.cells.numbers`](..)

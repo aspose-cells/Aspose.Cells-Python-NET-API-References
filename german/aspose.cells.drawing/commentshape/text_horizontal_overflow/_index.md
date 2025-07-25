@@ -3,13 +3,13 @@ title: text_horizontal_overflow Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 990
+weight: 1000
 url: /de/aspose.cells.drawing/commentshape/text_horizontal_overflow/
 is_root: false
 ---
 ##  text_horizontal_overflow Eigentum
 
-Ruft den horizontalen Textüberlauftyp der Form ab, die Text enthält, und legt diesen fest.
+Ruft den horizontalen Textüberlauftyp der Form ab, die Text enthält, und legt ihn fest.
 
 ###  Beispiel
 

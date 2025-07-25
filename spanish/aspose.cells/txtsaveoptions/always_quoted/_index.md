@@ -9,18 +9,18 @@ is_root: false
 ---
 ##  always_quoted propiedad
 
-Indica si siempre se añade '"' para cada campo.
-Si es verdadero, se citarán todos los valores;
+Indica si siempre se agrega '"' para cada campo.
+Si es verdadero entonces se citarán todos los valores;
 Si es falso, los valores solo se citarán cuando sea necesario (por ejemplo,
-cuando los valores contienen caracteres especiales como '"' , '\n' o carácter separador).
+cuando los valores contienen caracteres especiales como '"', '\n' o carácter separador).
 El valor predeterminado es falso.
 
 ###  Observaciones
 
- NOTA: Este miembro ahora está obsoleto. En cambio,
-utilice la propiedad QuoteType en su lugar.
- Esta propiedad se eliminará 12 meses después desde agosto de 2012.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+ NOTA: Este miembro ya no está disponible. En su lugar,
+Utilice la propiedad QuoteType en su lugar.
+ Esta propiedad será eliminada 12 meses después desde agosto de 2012.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property
@@ -32,5 +32,5 @@ def always_quoted(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [TxtSaveOptions](/cells/python-net/es/aspose.cells/txtsaveoptions)
+* módulo [`aspose.cells`](../../)
+* clase [`TxtSaveOptions`](/cells/python-net/es/aspose.cells/txtsaveoptions)

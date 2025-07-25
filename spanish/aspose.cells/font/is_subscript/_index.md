@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_subscript propiedad
 
-Obtiene o establece un valor que indica si la fuente es un subíndice.
+Obtiene o establece un valor que indica si la fuente es subíndice.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_subscript(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

@@ -1,15 +1,15 @@
 ---
-title: row_header_caption الملكية
+title: row_header_caption عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 850
+weight: 970
 url: /ar/aspose.cells.pivot/pivottable/row_header_caption/
 is_root: false
 ---
-##  row_header_caption الملكية
+##  row_header_caption عقار
 
-الحصول على التسمية التوضيحية لرأس الصف في PivotTable.
+يحصل على تسمية توضيحية لرأس الصف في جدول البيانات المحوري.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def row_header_caption(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

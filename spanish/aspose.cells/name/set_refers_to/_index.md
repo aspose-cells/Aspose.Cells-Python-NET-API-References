@@ -1,5 +1,5 @@
 ---
-title: set_refers_to método
+title: método set_refers_to
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 60
 url: /es/aspose.cells/name/set_refers_to/
 is_root: false
 ---
-##  set_refers_to(refers_to, is_r1c1, is_local) {#str-bool-bool}
-Establezca la referencia de este Nombre.
+##  set_refers_to(self, refers_to, is_r1c1, is_local) {#str-bool-bool}
+Establezca la referencia de este nombre.
 
 
 
 ```python
+
 def set_refers_to(self, refers_to, is_r1c1, is_local):
     ...
 ```
@@ -21,11 +22,11 @@ def set_refers_to(self, refers_to, is_r1c1, is_local):
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
 | refers_to | str | La referencia.|
-| is_r1c1 | bool |Si la referencia es formato R1C1.|
-| is_local | bool | Si la referencia tiene formato local.|
+| is_r1c1 | bool | Si la referencia es formato R1C1.|
+| is_local | bool | Si la referencia tiene formato regional.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Name](/cells/python-net/es/aspose.cells/name)
+* módulo [`aspose.cells`](../../)
+* clase [`Name`](/cells/python-net/es/aspose.cells/name)

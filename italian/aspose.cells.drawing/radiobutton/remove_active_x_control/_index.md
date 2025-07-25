@@ -1,18 +1,19 @@
 ---
 title: Metodo remove_active_x_control
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 180
+weight: 190
 url: /it/aspose.cells.drawing/radiobutton/remove_active_x_control/
 is_root: false
 ---
-##  remove_active_x_control {#}
-Rimuovi il controllo ActiveX.
+##  remove_active_x_control(self) {#}
+Rimuovere il controllo ActiveX.
 
 
 
 ```python
+
 def remove_active_x_control(self):
     ...
 ```

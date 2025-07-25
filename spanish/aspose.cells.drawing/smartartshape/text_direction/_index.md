@@ -3,7 +3,7 @@ title: text_direction propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 940
+weight: 960
 url: /es/aspose.cells.drawing/smartartshape/text_direction/
 is_root: false
 ---

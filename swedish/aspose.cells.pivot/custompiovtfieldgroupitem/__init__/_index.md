@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
-##  __i det__ {#str-list}
-Konstruktören av ett anpassat gruppobjekt för pivotfält.
+##  \_\_init\_\_(själv, namn, objektindex){#str-list}
+Konstruktorn för anpassat gruppobjekt i pivotfältet.
 
 
 
 ```python
+
 def __init__(self, name, item_indexes):
     ...
 ```

@@ -1,9 +1,9 @@
 ---
 title: count недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 50
 url: /ru/aspose.cells.charts/chartpointcollection/count/
 is_root: false
 ---
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartPointCollection](/cells/python-net/ru/aspose.cells.charts/chartpointcollection)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartPointCollection`](/cells/python-net/ru/aspose.cells.charts/chartpointcollection)

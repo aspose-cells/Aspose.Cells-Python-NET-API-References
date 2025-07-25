@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  marker mülk
 
-[Series.marker](/cells/python-net/tr/aspose.cells.charts/series#marker)'i alır.
+[`Series.marker`](/cells/python-net/tr/aspose.cells.charts/series#marker)'i alır.
 ###  Tanım:
 ```python
 @property
@@ -18,6 +18,6 @@ def marker(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.charts](../../)
-* sınıf [Marker](/cells/python-net/tr/aspose.cells.charts/marker)
-* sınıf [Series](/cells/python-net/tr/aspose.cells.charts/series)
+* modül [`aspose.cells.charts`](../../)
+* sınıf [`Marker`](/cells/python-net/tr/aspose.cells.charts/marker)
+* sınıf [`Series`](/cells/python-net/tr/aspose.cells.charts/series)

@@ -1,6 +1,6 @@
 ---
 title: calculation_id proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -14,11 +14,11 @@ Specifica la versione del motore di calcolo utilizzato per calcolare i valori ne
 ###  Osservazioni
 
 Questa proprietà serve solo per salvare le impostazioni nel file del foglio di calcolo risultante
-in modo che altre applicazioni (come ms excel) possano agire di conseguenza durante il caricamento e la manipolazione del file risultante.
-Nel caso di ms excel, se il valore di questa proprietà è minore dell'identificativo del motore di ricalcolo associato
+in modo che altre applicazioni (ad esempio MS Excel) possano agire di conseguenza durante il caricamento e la manipolazione del file risultante.
+Nel caso di MS Excel, se il valore di questa proprietà è inferiore all'identificatore del motore di ricalcolo associato
 con l'applicazione che apre il file risultante, l'applicazione ricalcolerà i risultati di tutte le formule
 su questa cartella di lavoro subito dopo aver caricato il file.
-Per considerazione delle prestazioni per la maggior parte delle applicazioni degli utenti, non calcoliamo automaticamente alcuna formula sulla cartella di lavoro,
+Per motivi di prestazioni per la maggior parte delle applicazioni degli utenti, non calcoliamo automaticamente alcuna formula nella cartella di lavoro,
 indipendentemente dal valore impostato per questa proprietà.
 ###  Definizione:
 ```python
@@ -31,5 +31,5 @@ def calculation_id(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FormulaSettings](/cells/python-net/it/aspose.cells/formulasettings)
+* modulo [`aspose.cells`](../../)
+* classe [`FormulaSettings`](/cells/python-net/it/aspose.cells/formulasettings)

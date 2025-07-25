@@ -1,15 +1,15 @@
 ---
 title: is_filled недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 540
+weight: 550
 url: /ru/aspose.cells.drawing/groupbox/is_filled/
 is_root: false
 ---
 ##  is_filled недвижимость
 
-Указывает, виден ли формат заливки.
+Указывает, виден ли формат заполнения.
 
 ###  Пример
 

@@ -3,7 +3,7 @@ title: comments mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 440
+weight: 460
 url: /tr/aspose.cells/worksheet/comments/
 is_root: false
 ---

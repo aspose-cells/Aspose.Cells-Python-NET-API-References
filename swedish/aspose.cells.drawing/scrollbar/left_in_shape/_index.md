@@ -3,18 +3,18 @@ title: left_in_shape fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 720
+weight: 730
 url: /sv/aspose.cells.drawing/scrollbar/left_in_shape/
 is_root: false
 ---
 ##  left_in_shape fastighet
 
  Representerar den horisontella förskjutningen av formen från den vänstra kanten av den överordnade formen,
-i enhet av 1/4000 av bredden av den överordnade formen.
+i enheten 1/4000 av den överordnade formens bredd.
 
 ###  Anmärkningar
 
-Gäller endast när denna form i gruppen eller diagrammet.
+Gäller endast när den här formen finns i gruppen eller diagrammet.
 
 ###  Exempel
 

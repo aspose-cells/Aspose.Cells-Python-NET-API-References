@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  add_blank_line_between_rows Eigentum
 
-Leerzeile zwischen den einzelnen Daten einfügen.
+Fügen Sie zwischen den einzelnen Daten eine Leerzeile ein.
 
 ###  Bemerkungen
 
-Wenn [SqlScriptSaveOptions.separator](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions#separator) '\n' ist, ist es besser, diese Eigenschaft auf true zu setzen, um die Lesbarkeit zu verbessern.
+Wenn [`SqlScriptSaveOptions.separator`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions#separator) „\n“ ist, ist es besser, diese Eigenschaft auf „true“ zu setzen, um die Lesbarkeit zu verbessern.
 ###  Definition:
 ```python
 @property
@@ -25,5 +25,5 @@ def add_blank_line_between_rows(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.saving](../../)
-* Klasse [SqlScriptSaveOptions](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)
+* Modul [`aspose.cells.saving`](../../)
+* Klasse [`SqlScriptSaveOptions`](/cells/python-net/de/aspose.cells.saving/sqlscriptsaveoptions)

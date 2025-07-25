@@ -21,5 +21,5 @@ def is_dropdown_visible(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FilterColumn](/cells/python-net/tr/aspose.cells/filtercolumn)
+* modül [`aspose.cells`](../../)
+* sınıf [`FilterColumn`](/cells/python-net/tr/aspose.cells/filtercolumn)

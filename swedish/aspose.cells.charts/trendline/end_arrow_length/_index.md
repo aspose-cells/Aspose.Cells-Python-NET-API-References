@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_arrow_length fastighet
 
-Anger längden på pilspetsen för slutet av en linje.
+Anger längden på pilspetsen för slutet av en rad.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def end_arrow_length(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [MsoArrowheadLength](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
+* modul [`aspose.cells.charts`](../../)
+* klass [`MsoArrowheadLength`](/cells/python-net/sv/aspose.cells.drawing/msoarrowheadlength)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)

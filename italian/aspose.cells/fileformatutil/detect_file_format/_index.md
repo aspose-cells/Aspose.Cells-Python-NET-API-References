@@ -1,23 +1,25 @@
 ---
-title: metodo detect_file_format
-second_title: Aspose.Cells for Python via .NET API Referenze
+title: Metodo detect_file_format
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 20
 url: /it/aspose.cells/fileformatutil/detect_file_format/
 is_root: false
 ---
-##  detect_file_format(stream) {#io.RawIOBase}
-Rileva e restituisce le informazioni su un formato di un excel archiviato in un flusso.
+##  detect_file_format(, flusso){#io.RawIOBase}
+Rileva e restituisce le informazioni su un formato di un file Excel memorizzato in un flusso.
 
 
 ###  ritorna
 
-Un oggetto [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
+Un oggetto [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
 
 
 ```python
-def detect_file_format(self, stream):
+
+@staticmethod
+def detect_file_format(stream):
     ...
 ```
 
@@ -27,17 +29,19 @@ def detect_file_format(self, stream):
 | stream | io.RawIOBase |  |
 
 
-##  detect_file_format(file_path) {#str}
-Rileva e restituisce le informazioni su un formato di un excel memorizzato in un file.
+##  detect_file_format(, percorso_file){#str}
+Rileva e restituisce le informazioni su un formato di un file Excel memorizzato in un file.
 
 
 ###  ritorna
 
-Un oggetto [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
+Un oggetto [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
 
 
 ```python
-def detect_file_format(self, file_path):
+
+@staticmethod
+def detect_file_format(file_path):
     ...
 ```
 
@@ -47,17 +51,19 @@ def detect_file_format(self, file_path):
 | file_path | str | Il percorso del file.|
 
 
-##  detect_file_format(stream, password) {#io.RawIOBase-str}
-Rileva e restituisce le informazioni su un formato di un excel archiviato in un flusso.
+##  detect_file_format(, flusso, password){#io.RawIOBase-str}
+Rileva e restituisce le informazioni su un formato di un file Excel memorizzato in un flusso.
 
 
 ###  ritorna
 
-Un oggetto [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
+Un oggetto [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
 
 
 ```python
-def detect_file_format(self, stream, password):
+
+@staticmethod
+def detect_file_format(stream, password):
     ...
 ```
 
@@ -68,17 +74,19 @@ def detect_file_format(self, stream, password):
 | password | str | La password per i file ooxml crittografati.|
 
 
-##  detect_file_format(file_path, password) {#str-str}
-Rileva e restituisce le informazioni su un formato di un excel memorizzato in un file.
+##  detect_file_format(, percorso_file, password){#str-str}
+Rileva e restituisce le informazioni su un formato di un file Excel memorizzato in un file.
 
 
 ###  ritorna
 
-Un oggetto [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
+Un oggetto [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo) che contiene le informazioni rilevate.
 
 
 ```python
-def detect_file_format(self, file_path, password):
+
+@staticmethod
+def detect_file_format(file_path, password):
     ...
 ```
 
@@ -91,6 +99,6 @@ def detect_file_format(self, file_path, password):
 
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [FileFormatInfo](/cells/python-net/it/aspose.cells/fileformatinfo)
-* classe [FileFormatUtil](/cells/python-net/it/aspose.cells/fileformatutil)
+* modulo [`aspose.cells`](../../)
+* classe [`FileFormatInfo`](/cells/python-net/it/aspose.cells/fileformatinfo)
+* classe [`FileFormatUtil`](/cells/python-net/it/aspose.cells/fileformatutil)

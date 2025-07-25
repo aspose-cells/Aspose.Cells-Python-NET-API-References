@@ -7,8 +7,8 @@ weight: 60
 url: /ar/aspose.cells/globalizationsettings/get_comment_title_name/
 is_root: false
 ---
-##  get_comment_title_name(type) {#aspose.cells.rendering.CommentTitleType}
-الحصول على اسم عنوان التعليق المعتمد على الإعدادات المحلية وفقًا لنوع عنوان التعليق.
+##  get_comment_title_name(self, type) {#aspose.cells.rendering.CommentTitleType}
+يحصل على اسم عنوان التعليق المعتمد على الإعدادات المحلية وفقًا لنوع عنوان التعليق.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_comment_title_name(self, type):
     ...
 ```
@@ -29,5 +30,5 @@ def get_comment_title_name(self, type):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

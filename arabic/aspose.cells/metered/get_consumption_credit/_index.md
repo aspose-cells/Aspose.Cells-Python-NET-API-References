@@ -8,7 +8,7 @@ url: /ar/aspose.cells/metered/get_consumption_credit/
 is_root: false
 ---
 ##  get_consumption_credit() {#}
-يحصل على الائتمان الاستهلاكي
+يحصل على ائتمان الاستهلاك
 
 
 ###  عائدات
@@ -17,7 +17,9 @@ is_root: false
 
 
 ```python
-def get_consumption_credit(self):
+
+@staticmethod
+def get_consumption_credit():
     ...
 ```
 
@@ -26,5 +28,5 @@ def get_consumption_credit(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Metered](/cells/python-net/ar/aspose.cells/metered)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Metered`](/cells/python-net/ar/aspose.cells/metered)

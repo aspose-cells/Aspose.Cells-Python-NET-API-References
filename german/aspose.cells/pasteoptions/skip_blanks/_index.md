@@ -3,7 +3,7 @@ title: skip_blanks Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 60
+weight: 70
 url: /de/aspose.cells/pasteoptions/skip_blanks/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def skip_blanks(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [PasteOptions](/cells/python-net/de/aspose.cells/pasteoptions)
+* Modul [`aspose.cells`](../../)
+* Klasse [`PasteOptions`](/cells/python-net/de/aspose.cells/pasteoptions)

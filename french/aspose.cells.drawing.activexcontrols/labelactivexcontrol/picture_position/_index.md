@@ -21,6 +21,6 @@ def picture_position(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](../../)
-* classe [ControlPicturePositionType](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
-* classe [LabelActiveXControl](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* module [`aspose.cells.drawing.activexcontrols`](../../)
+* classe [`ControlPicturePositionType`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/controlpicturepositiontype)
+* classe [`LabelActiveXControl`](/cells/python-net/fr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

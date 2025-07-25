@@ -1,5 +1,5 @@
 ---
-title: get_numberic_type método
+title: método get_numberic_type
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 20
 url: /es/aspose.cells.saving/sqlscriptcolumntypemap/get_numberic_type/
 is_root: false
 ---
-##  get_numberic_type() {#}
+##  get_numberic_type(self) {#}
 Obtiene el tipo numérico en la base de datos.
 
 
@@ -17,6 +17,7 @@ Obtiene el tipo numérico en la base de datos.
 
 
 ```python
+
 def get_numberic_type(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_numberic_type(self):
 
 
 ###  Ver también
-* módulo [aspose.cells.saving](../../)
-* clase [SqlScriptColumnTypeMap](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap)
+* módulo [`aspose.cells.saving`](../../)
+* clase [`SqlScriptColumnTypeMap`](/cells/python-net/es/aspose.cells.saving/sqlscriptcolumntypemap)

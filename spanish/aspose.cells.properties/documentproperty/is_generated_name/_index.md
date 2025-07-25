@@ -19,5 +19,5 @@ def is_generated_name(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.properties](../../)
-* clase [DocumentProperty](/cells/python-net/es/aspose.cells.properties/documentproperty)
+* módulo [`aspose.cells.properties`](../../)
+* clase [`DocumentProperty`](/cells/python-net/es/aspose.cells.properties/documentproperty)

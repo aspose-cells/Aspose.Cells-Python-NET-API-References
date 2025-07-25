@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caps_type Eigentum
 
-Ruft den Textbegrenzungstyp ab und legt ihn fest.
+Ruft den Texttyp „Großbuchstaben“ ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def caps_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextCapsType](/cells/python-net/de/aspose.cells/textcapstype)
-* Klasse [TextOptions](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextCapsType`](/cells/python-net/de/aspose.cells/textcapstype)
+* Klasse [`TextOptions`](/cells/python-net/de/aspose.cells.drawing.texts/textoptions)

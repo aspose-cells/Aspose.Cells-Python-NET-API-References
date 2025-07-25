@@ -3,7 +3,7 @@ title: default_table_style_name mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 130
 url: /tr/aspose.cells.tables/tablestylecollection/default_table_style_name/
 is_root: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: RevisionMergeConflict الدرجة
+title: RevisionMergeConflict صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,28 +7,26 @@ weight: 150
 url: /ar/aspose.cells.revisions/revisionmergeconflict/
 is_root: false
 ---
-##  RevisionMergeConflict الدرجة
-يمثل سجل المراجعة الذي يشير إلى وجود تعارض في الدمج.
+##  RevisionMergeConflict صف
+يمثل سجل مراجعة يشير إلى وجود تعارض في الدمج.
 
 
 
-**ميراث:** [RevisionMergeConflict](/cells/python-net/aspose.cells.revisions/revisionmergeconflict) → 
-[Revision](/cells/python-net/ar/aspose.cells.revisions/revision)
+**الميراث:** [`RevisionMergeConflict`](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict)
 
 
 
-يكشف نوع RevisionMergeConflict الأعضاء التالية:
+يكشف النوع RevisionMergeConflict عن الأعضاء التاليين:
 
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
 | [type](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict/type) | يحصل على نوع المراجعة.|
-| [worksheet](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict/worksheet) | يحصل على ورقة العمل.|
-| [id](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict/id) | الحصول على رقم هذه المراجعة.|
+| [worksheet](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict/worksheet) |  |
+| [id](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict/id) |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.revisions](..)
-* فئة [Revision](/cells/python-net/ar/aspose.cells.revisions/revision)
-* فئة [RevisionMergeConflict](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict)
+* الوحدة [`aspose.cells.revisions`](..)
+* فئة [`RevisionMergeConflict`](/cells/python-net/ar/aspose.cells.revisions/revisionmergeconflict)

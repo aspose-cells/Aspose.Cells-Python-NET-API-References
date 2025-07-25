@@ -1,15 +1,15 @@
 ---
 title: export_row_column_headings proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 340
+weight: 400
 url: /it/aspose.cells.saving/ebooksaveoptions/export_row_column_headings/
 is_root: false
 ---
 ##  export_row_column_headings proprietà
 
-Indica se esporta le intestazioni di riga e colonna del foglio durante il salvataggio nei file HTML.
+Indica se esportare le intestazioni di riga e di colonna del foglio quando si salva nei file HTML.
 
 ###  Osservazioni
 

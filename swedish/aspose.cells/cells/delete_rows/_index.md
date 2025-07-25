@@ -7,12 +7,13 @@ weight: 260
 url: /sv/aspose.cells/cells/delete_rows/
 is_root: false
 ---
-##  delete_rows {#int-int}
+##  delete_rows(self, row_index, total_rows) {#int-int}
 Tar bort flera rader.
 
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows):
     ...
 ```
@@ -20,15 +21,15 @@ def delete_rows(self, row_index, total_rows):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| row_index | int | Det första radindexet som ska raderas.|
+| row_index | int | Det första radindexet som ska tas bort.|
 | total_rows | int | Antal rader som ska raderas.|
 ###  Anmärkningar
 
-Om det borttagna intervallet innehåller den övre delen (inte hela) av tabellen (ListObject),
-intervallet kunde inte raderas och ingenting kommer att göras.
+Om det borttagna området innehåller den övre delen (inte hela) av tabellen (ListObject),
+Avståndet kunde inte raderas och ingenting kommer att göras.
 Det fungerar på samma sätt med MS Excel.
 
-##  delete_rows {#int-int-bool}
+##  delete_rows(self, row_index, total_rows, update_reference) {#int-int-bool}
 Tar bort flera rader i kalkylbladet.
 
 
@@ -38,6 +39,7 @@ Tar bort flera rader i kalkylbladet.
 
 
 ```python
+
 def delete_rows(self, row_index, total_rows, update_reference):
     ...
 ```
@@ -47,7 +49,30 @@ def delete_rows(self, row_index, total_rows, update_reference):
 | :- | :- | :- |
 | row_index | int | Index för den första raden som ska raderas.|
 | total_rows | int | Antal rader som ska raderas.|
-| update_reference | bool | Anger om uppdatering av referenser i andra kalkylblad.|
+| update_reference | bool | Anger om referenser i andra kalkylblad ska uppdateras.|
+
+
+##  delete_rows(self, row_index, total_rows, options) {#int-int-aspose.cells.DeleteOptions}
+Tar bort flera rader i kalkylbladet.
+
+
+###  Returnerar
+
+
+
+
+```python
+
+def delete_rows(self, row_index, total_rows, options):
+    ...
+```
+
+
+| Parameter| Typ| Beskrivning|
+| :- | :- | :- |
+| row_index | int | Index för den första raden som ska raderas.|
+| total_rows | int | Antal rader som ska raderas.|
+| options | [`DeleteOptions`](/cells/python-net/sv/aspose.cells/deleteoptions) | Alternativ för borttagningsåtgärden|
 
 
 

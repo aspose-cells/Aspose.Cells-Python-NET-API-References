@@ -1,5 +1,5 @@
 ---
-title: border_color_type الملكية
+title: border_color_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 40
 url: /ar/aspose.cells/negativebarformat/border_color_type/
 is_root: false
 ---
-##  border_color_type الملكية
+##  border_color_type عقار
 
-الحصول على ما إذا كان سيتم استخدام نفس لون الحدود كأشرطة البيانات الموجبة.
+يحصل على ما إذا كان سيتم استخدام نفس لون الحدود مثل أشرطة البيانات الإيجابية.
 ###  تعريف:
 ```python
 @property
@@ -21,6 +21,6 @@ def border_color_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [DataBarNegativeColorType](/cells/python-net/ar/aspose.cells/databarnegativecolortype)
-* فئة [NegativeBarFormat](/cells/python-net/ar/aspose.cells/negativebarformat)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`DataBarNegativeColorType`](/cells/python-net/ar/aspose.cells/databarnegativecolortype)
+* فئة [`NegativeBarFormat`](/cells/python-net/ar/aspose.cells/negativebarformat)

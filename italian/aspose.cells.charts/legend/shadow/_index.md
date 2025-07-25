@@ -1,15 +1,15 @@
 ---
 title: shadow proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 330
+weight: 390
 url: /it/aspose.cells.charts/legend/shadow/
 is_root: false
 ---
 ##  shadow proprietà
 
-Vero se la cornice ha shadow.
+Vero se il frame ha shadow.
 ###  Definizione:
 ```python
 @property

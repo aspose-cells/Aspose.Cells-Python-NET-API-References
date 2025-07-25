@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  max_cfvo mülk
 
-Bu ColorScale'in maksimum değer nesnesini alın veya ayarlayın.
-FormatConditionValueType.Min türünde null veya CFValueObject ayarlanamıyor.
+Bu ColorScale'in maksimum değer nesnesini al veya ayarla.
+FormatConditionValueType.Min türünde null veya CFValueObject değeri ayarlanamaz.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def max_cfvo(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ColorScale](/cells/python-net/tr/aspose.cells/colorscale)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* modül [`aspose.cells`](../../)
+* sınıf [`ColorScale`](/cells/python-net/tr/aspose.cells/colorscale)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)

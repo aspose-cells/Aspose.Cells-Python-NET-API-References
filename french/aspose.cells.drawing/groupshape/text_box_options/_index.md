@@ -1,0 +1,23 @@
+---
+title: text_box_options propriété
+second_title: Aspose.Cells for Python via .NET API Références
+description:
+type: docs
+weight: 970
+url: /fr/aspose.cells.drawing/groupshape/text_box_options/
+is_root: false
+---
+##  text_box_options propriété
+
+Obtient les informations textuelles dans la forme
+###  Définition:
+```python
+@property
+def text_box_options(self):
+    ...
+```
+
+###  Voir également
+* module [`aspose.cells.drawing`](../../)
+* classe [`GroupShape`](/cells/python-net/fr/aspose.cells.drawing/groupshape)
+* classe [`TextBoxOptions`](/cells/python-net/fr/aspose.cells.drawing.texts/textboxoptions)

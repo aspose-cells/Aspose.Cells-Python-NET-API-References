@@ -7,8 +7,8 @@ weight: 60
 url: /tr/aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
-##  column_name_to_index(column_name) {#str}
-Sütun adına göre sütun dizini alır.
+##  column_name_to_index(, sütun_adı){#str}
+Sütun adına göre sütun indeksini alır.
 
 
 ###  İadeler
@@ -17,7 +17,9 @@ Sütun dizini.
 
 
 ```python
-def column_name_to_index(self, column_name):
+
+@staticmethod
+def column_name_to_index(column_name):
     ...
 ```
 
@@ -29,5 +31,5 @@ def column_name_to_index(self, column_name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsHelper](/cells/python-net/tr/aspose.cells/cellshelper)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsHelper`](/cells/python-net/tr/aspose.cells/cellshelper)

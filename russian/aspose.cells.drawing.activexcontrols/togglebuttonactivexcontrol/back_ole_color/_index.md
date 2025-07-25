@@ -1,6 +1,6 @@
 ---
 title: back_ole_color недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 40
@@ -8,8 +8,6 @@ url: /ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol/back_ol
 is_root: false
 ---
 ##  back_ole_color недвижимость
-
-Получает и задает цвет фона.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def back_ole_color(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ToggleButtonActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ToggleButtonActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/togglebuttonactivexcontrol)

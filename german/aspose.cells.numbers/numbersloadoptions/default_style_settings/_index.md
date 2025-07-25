@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings Eigentum
 
-Ruft die Standardstileinstellungen zum Initialisieren von Stilen der Arbeitsmappe ab
+Ruft die Standard-Stileinstellungen zum Initialisieren der Stile der Arbeitsmappe ab
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.numbers](../../)
-* Klasse [DefaultStyleSettings](/cells/python-net/de/aspose.cells/defaultstylesettings)
-* Klasse [NumbersLoadOptions](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)
+* Modul [`aspose.cells.numbers`](../../)
+* Klasse [`DefaultStyleSettings`](/cells/python-net/de/aspose.cells/defaultstylesettings)
+* Klasse [`NumbersLoadOptions`](/cells/python-net/de/aspose.cells.numbers/numbersloadoptions)

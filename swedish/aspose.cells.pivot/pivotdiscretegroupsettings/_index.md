@@ -3,12 +3,12 @@ title: PivotDiscreteGroupSettings klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 60
+weight: 90
 url: /sv/aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
 ##  PivotDiscreteGroupSettings klass
-Rrepresenterar den diskreta gruppen av pivotfält
+Representerar den diskreta gruppen av pivotfältet
 
 
 
@@ -22,8 +22,8 @@ Typen PivotDiscreteGroupSettings avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.pivot/pivotdiscretegroupsettings/type) | Får grupptypen.|
-| [items](/cells/python-net/sv/aspose.cells.pivot/pivotdiscretegroupsettings/items) | Får de diskreta föremålen.|
+| [type](/cells/python-net/sv/aspose.cells.pivot/pivotdiscretegroupsettings/type) | Hämtar grupptypen.|
+| [items](/cells/python-net/sv/aspose.cells.pivot/pivotdiscretegroupsettings/items) | Hämtar de diskreta föremålen.|
 
 
 

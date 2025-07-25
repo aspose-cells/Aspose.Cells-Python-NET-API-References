@@ -9,16 +9,16 @@ is_root: false
 ---
 ##  calculation_id Eigentum
 
-Gibt die Version des Berechnungsmoduls an, das zum Berechnen von Werten in der Arbeitsmappe verwendet wird.
+Gibt die Version der Berechnungs-Engine an, die zum Berechnen der Werte in der Arbeitsmappe verwendet wird.
 
 ###  Bemerkungen
 
 Diese Eigenschaft dient nur zum Speichern der Einstellungen in der resultierenden Tabellenkalkulationsdatei
-damit andere Anwendungen (z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend handeln können.
-Im Fall von MS Excel, wenn der Wert dieser Eigenschaft kleiner als die zugeordnete Neuberechnungs-Engine-ID ist
+damit andere Anwendungen (wie z. B. MS Excel) beim Laden und Bearbeiten der resultierenden Datei entsprechend reagieren können.
+Im Fall von MS Excel, wenn der Wert dieser Eigenschaft kleiner ist als die zugehörige Kennung der Neuberechnungs-Engine
 Mit der Anwendung, die die resultierende Datei öffnet, berechnet die Anwendung die Ergebnisse aller Formeln neu
 auf dieser Arbeitsmappe unmittelbar nach dem Laden der Datei.
-Aus Leistungsgründen für die Anwendungen der meisten Benutzer berechnen wir keine Formeln automatisch in der Arbeitsmappe.
+Aus Leistungsgründen berechnen wir für die meisten Benutzeranwendungen keine Formeln in der Arbeitsmappe automatisch.
 unabhängig davon, welcher Wert für diese Eigenschaft festgelegt wurde.
 ###  Definition:
 ```python
@@ -31,5 +31,5 @@ def calculation_id(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [FormulaSettings](/cells/python-net/de/aspose.cells/formulasettings)
+* Modul [`aspose.cells`](../../)
+* Klasse [`FormulaSettings`](/cells/python-net/de/aspose.cells/formulasettings)

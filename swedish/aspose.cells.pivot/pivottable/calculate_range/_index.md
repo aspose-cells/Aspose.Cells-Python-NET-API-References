@@ -7,12 +7,13 @@ weight: 50
 url: /sv/aspose.cells.pivot/pivottable/calculate_range/
 is_root: false
 ---
-##  calculate_range() {#}
-Beräknar pivotables räckvidd.
+##  calculate_range(self) {#}
+Beräknar pivottabellens intervall.
 
 
 
 ```python
+
 def calculate_range(self):
     ...
 ```
@@ -20,10 +21,10 @@ def calculate_range(self):
 
 ###  Anmärkningar
 
-Om denna metod inte anropas kanske det vridbara området inte korrigeras.
+Om den här metoden inte anropas kanske pivottabellens område inte korrigeras.
 
 
 ###  Se även
 
-* modul [aspose.cells.pivot](../../)
-* klass [PivotTable](/cells/python-net/sv/aspose.cells.pivot/pivottable)
+* modul [`aspose.cells.pivot`](../../)
+* klass [`PivotTable`](/cells/python-net/sv/aspose.cells.pivot/pivottable)

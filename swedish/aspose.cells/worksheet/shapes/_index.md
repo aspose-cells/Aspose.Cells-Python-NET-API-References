@@ -3,13 +3,13 @@ title: shapes fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 750
+weight: 780
 url: /sv/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ##  shapes fastighet
 
-Returnerar all ritning shapes i detta kalkylblad.
+Returnerar alla ritningar shapes i detta kalkylblad.
 ###  Definition:
 ```python
 @property

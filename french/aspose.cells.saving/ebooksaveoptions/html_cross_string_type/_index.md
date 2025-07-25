@@ -3,15 +3,15 @@ title: html_cross_string_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 440
+weight: 500
 url: /fr/aspose.cells.saving/ebooksaveoptions/html_cross_string_type/
 is_root: false
 ---
 ##  html_cross_string_type propriété
 
-Indique si une chaîne inter-cellules sera affichée de la même manière que MS Excel lors de l'enregistrement d'un fichier Excel au format HTML.
-Par défaut, la valeur est Default. Ainsi, pour les chaînes inter-cellules, il y a peu de différence entre les fichiers HTML créés par Aspose.Cells et MS Excel.
-Mais les performances de création de gros fichiers HTML, en définissant la valeur sur Cross, seraient plusieurs fois plus rapides que de la définir sur Default ou Fit2Cell.
+Indique si une chaîne intercellulaire sera affichée de la même manière que MS Excel lors de l'enregistrement d'un fichier Excel au format HTML.
+Par défaut, la valeur est Default, donc, pour les chaînes intercellulaires, il y a peu de différence entre les fichiers HTML créés par Aspose.Cells et MS Excel.
+Mais les performances pour la création de fichiers HTML volumineux, en définissant la valeur sur Cross, seraient plusieurs fois plus rapides que de la définir sur Default ou Fit2Cell.
 ###  Définition:
 ```python
 @property

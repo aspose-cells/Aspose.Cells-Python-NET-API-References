@@ -1,6 +1,6 @@
 ---
 title: base_unit_scale недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  base_unit_scale недвижимость
 
-Представляет шкалу базовых единиц для оси категорий.
+Представляет собой базовую шкалу единиц для оси категорий.
 
 ###  Примечания
 
-Установка этого свойства вступает в силу только в том случае, если для свойства CategoryType установлено значение TimeScale.
+Настройка этого свойства вступает в силу только в том случае, если свойству CategoryType присвоено значение TimeScale.
 ###  Определение:
 ```python
 @property

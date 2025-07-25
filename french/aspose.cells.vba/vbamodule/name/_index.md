@@ -3,7 +3,7 @@ title: name propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 40
+weight: 50
 url: /fr/aspose.cells.vba/vbamodule/name/
 is_root: false
 ---
@@ -21,5 +21,5 @@ def name(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.vba](../../)
-* classe [VbaModule](/cells/python-net/fr/aspose.cells.vba/vbamodule)
+* module [`aspose.cells.vba`](../../)
+* classe [`VbaModule`](/cells/python-net/fr/aspose.cells.vba/vbamodule)

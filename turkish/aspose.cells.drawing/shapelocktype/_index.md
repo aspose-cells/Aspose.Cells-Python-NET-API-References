@@ -3,7 +3,7 @@ title: ShapeLockType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 1150
+weight: 1140
 url: /tr/aspose.cells.drawing/shapelocktype/
 is_root: false
 ---
@@ -12,26 +12,26 @@ Kilitlenecek özelliğin türünü temsil eder.
 
 
 
-ShapeLockType türü aşağıdaki üyeleri gösterir:
+ShapeLockType türü aşağıdaki üyeleri ortaya çıkarır:
 
-###  alanlar
+###  Alanlar
 | Alan| Tanım|
 | :- | :- |
 | GROUP | Grup|
-| ADJUST_HANDLES | Kolları Ayarla|
+| ADJUST_HANDLES | Ayarlama Kolları|
 | TEXT | Metin|
 | POINTS | Puanlar|
-| CROP |Mahsul|
-| SELECTION | seçim|
+| CROP | Mahsul|
+| SELECTION | Seçim|
 | MOVE | Taşınmak|
 | ASPECT_RATIO | En Boy Oranı|
-| ROTATION | Döndürme|
-| UNGROUP | grubu çöz|
-| RESIZE | yeniden boyutlandır|
+| ROTATION | Rotasyon|
+| UNGROUP | Gruptan çıkar|
+| RESIZE | Yeniden boyutlandır|
 | SHAPE_TYPE | Şekil Türü|
-| ARROWHEAD | ok ucu|
+| ARROWHEAD | Ok ucu|
 
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing](..)
+* modül [`aspose.cells.drawing`](..)

@@ -1,15 +1,15 @@
 ---
 title: display_drawing_objects недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 160
+weight: 190
 url: /ru/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---
 ##  display_drawing_objects недвижимость
 
-Указывает, следует ли отображать объекты в книге и если да, то как.
+Указывает, следует ли отображать объекты в рабочей книге и как это сделать.
 ###  Определение:
 ```python
 @property

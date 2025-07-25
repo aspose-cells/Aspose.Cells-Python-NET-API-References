@@ -1,6 +1,6 @@
 ---
 title: begin_arrow_width недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  begin_arrow_width недвижимость
 
-Определяет ширину стрелки для начала строки.
+Задает ширину стрелки в начале линии.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def begin_arrow_width(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ErrorBar](/cells/python-net/ru/aspose.cells.charts/errorbar)
-* класс [MsoArrowheadWidth](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ErrorBar`](/cells/python-net/ru/aspose.cells.charts/errorbar)
+* класс [`MsoArrowheadWidth`](/cells/python-net/ru/aspose.cells.drawing/msoarrowheadwidth)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_title_rows propriété
 
-Représente les lignes contenant les cellules à répéter en haut de chaque page.
+Représente les lignes qui contiennent les cellules à répéter en haut de chaque page.
 
 ###  Exemple
 
@@ -30,5 +30,5 @@ def print_title_rows(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

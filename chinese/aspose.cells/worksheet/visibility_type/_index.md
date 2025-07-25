@@ -3,7 +3,7 @@ title: visibility_type属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 920
+weight: 940
 url: /zh/aspose.cells/worksheet/visibility_type/
 is_root: false
 ---

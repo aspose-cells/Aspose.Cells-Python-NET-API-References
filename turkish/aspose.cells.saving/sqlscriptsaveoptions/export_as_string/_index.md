@@ -3,13 +3,13 @@ title: export_as_string mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 120
+weight: 140
 url: /tr/aspose.cells.saving/sqlscriptsaveoptions/export_as_string/
 is_root: false
 ---
 ##  export_as_string mülk
 
-Tüm verilerin dize değeri olarak dışa aktarılıp aktarılmadığını gösterir.
+Tüm verilerin dize değeri olarak dışa aktarılıp aktarılmayacağını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def export_as_string(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.saving](../../)
-* sınıf [SqlScriptSaveOptions](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)
+* modül [`aspose.cells.saving`](../../)
+* sınıf [`SqlScriptSaveOptions`](/cells/python-net/tr/aspose.cells.saving/sqlscriptsaveoptions)

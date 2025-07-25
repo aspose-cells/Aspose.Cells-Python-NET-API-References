@@ -7,12 +7,13 @@ weight: 60
 url: /sv/aspose.cells/worksheet/auto_fit_row/
 is_root: false
 ---
-##  auto_fit_row(row_index) {#int}
-Autopassar radhöjden.
+##  auto_fit_row(self, row_index) {#int}
+Anpassar radhöjden automatiskt.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index):
     ...
 ```
@@ -25,13 +26,14 @@ def auto_fit_row(self, row_index):
 
 AutoFitRow är en oprecis funktion.
 
-##  auto_fit_row(row_index, first_column, last_column) {#int-int-int}
+##  auto_fit_row(self, row_index, first_column, last_column) {#int-int-int}
 
-Autopassar radhöjden.
+Anpassar radhöjden automatiskt.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column):
     ...
 ```
@@ -40,19 +42,20 @@ def auto_fit_row(self, row_index, first_column, last_column):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | row_index | int | Radindex.|
-| first_column | int | Första kolumnindex.|
-| last_column | int | Sista kolumnindex.|
+| first_column | int | Första kolumnens index.|
+| last_column | int | Index för sista kolumnen.|
 ###  Anmärkningar
 
-Den här metoden anpassar automatiskt en rad baserat på innehåll i ett cellintervall inom raden.
+Den här metoden anpassar automatiskt en rad baserat på innehållet i ett cellområde inom raden.
 
-##  auto_fit_row(row_index, first_column, last_column, options) {#int-int-int-AutoFitterOptions}
+##  auto_fit_row(self, row_index, first_column, last_column, options) {#int-int-int-aspose.cells.AutoFitterOptions}
 
-Autopassar radhöjden.
+Anpassar radhöjden automatiskt.
 
 
 
 ```python
+
 def auto_fit_row(self, row_index, first_column, last_column, options):
     ...
 ```
@@ -61,20 +64,21 @@ def auto_fit_row(self, row_index, first_column, last_column, options):
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
 | row_index | int | Radindex.|
-| first_column | int | Första kolumnindex.|
-| last_column | int | Sista kolumnindex.|
-| options | [AutoFitterOptions](/cells/python-net/sv/aspose.cells/autofitteroptions) | Automonteringsalternativen|
+| first_column | int | Första kolumnens index.|
+| last_column | int | Index för sista kolumnen.|
+| options | [`AutoFitterOptions`](/cells/python-net/sv/aspose.cells/autofitteroptions) | Alternativen för automatisk montör|
 ###  Anmärkningar
 
-Den här metoden anpassar automatiskt en rad baserat på innehåll i ett cellintervall inom raden.
+Den här metoden anpassar automatiskt en rad baserat på innehållet i ett cellområde inom raden.
 
-##  auto_fit_row(start_row, end_row, start_column, end_column) {#int-int-int-int}
+##  auto_fit_row(self, start_row, end_row, start_column, end_column) {#int-int-int-int}
 
-Autopassar radhöjd i ett rektangelområde.
+Anpassar automatiskt radhöjden i ett rektangulärt område.
 
 
 
 ```python
+
 def auto_fit_row(self, start_row, end_row, start_column, end_column):
     ...
 ```
@@ -82,13 +86,13 @@ def auto_fit_row(self, start_row, end_row, start_column, end_column):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| start_row | int | Starta radindex.|
-| end_row | int | Slutradindex.|
-| start_column | int | Starta kolumnindex.|
-| end_column | int | Slut kolumnindex.|
+| start_row | int | Index för startrad.|
+| end_row | int | Index för slutrad.|
+| start_column | int |Starta kolumnindex.|
+| end_column | int | Index för slutkolumn.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Worksheet](/cells/python-net/sv/aspose.cells/worksheet)
+* modul [`aspose.cells`](../../)
+* klass [`Worksheet`](/cells/python-net/sv/aspose.cells/worksheet)

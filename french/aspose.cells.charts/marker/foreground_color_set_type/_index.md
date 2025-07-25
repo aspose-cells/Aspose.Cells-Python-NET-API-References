@@ -21,6 +21,6 @@ def foreground_color_set_type(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [FormattingType](/cells/python-net/fr/aspose.cells.charts/formattingtype)
-* classe [Marker](/cells/python-net/fr/aspose.cells.charts/marker)
+* module [`aspose.cells.charts`](../../)
+* classe [`FormattingType`](/cells/python-net/fr/aspose.cells.charts/formattingtype)
+* classe [`Marker`](/cells/python-net/fr/aspose.cells.charts/marker)

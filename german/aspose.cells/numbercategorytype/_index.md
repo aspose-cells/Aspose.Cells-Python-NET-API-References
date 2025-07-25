@@ -3,7 +3,7 @@ title: NumberCategoryType Aufzählung
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 2350
+weight: 2320
 url: /de/aspose.cells/numbercategorytype/
 is_root: false
 ---
@@ -22,7 +22,7 @@ Der Typ NumberCategoryType macht die folgenden Member verfügbar:
 | NUMBER | Nummer|
 | DATE | Datum oder Datum und Uhrzeit|
 | TIME | Zeit|
-| FRACTION | Fraktion|
+| FRACTION |Fraktion|
 | SCIENTIFIC | Wissenschaftlich|
 
 

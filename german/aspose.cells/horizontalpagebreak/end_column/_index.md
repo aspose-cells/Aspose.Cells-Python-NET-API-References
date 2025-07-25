@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_column Eigentum
 
-Ruft den Endspaltenindex dieses horizontalen Seitenumbruchs ab.
+Ruft den Index der letzten Spalte dieses horizontalen Seitenumbruchs ab.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_column(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [HorizontalPageBreak](/cells/python-net/de/aspose.cells/horizontalpagebreak)
+* Modul [`aspose.cells`](../../)
+* Klasse [`HorizontalPageBreak`](/cells/python-net/de/aspose.cells/horizontalpagebreak)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  end_row fastighet
 
-Hämtar slutradens index för den vertikala sidbrytningen.
+Hämtar radslutindexet för den vertikala sidbrytningen.
 ###  Definition:
 ```python
 @property
@@ -18,5 +18,5 @@ def end_row(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [VerticalPageBreak](/cells/python-net/sv/aspose.cells/verticalpagebreak)
+* modul [`aspose.cells`](../../)
+* klass [`VerticalPageBreak`](/cells/python-net/sv/aspose.cells/verticalpagebreak)

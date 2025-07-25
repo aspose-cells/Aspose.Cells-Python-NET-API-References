@@ -10,8 +10,8 @@ is_root: false
 ##  is_auto_word_selected Eigentum
 
  Gibt die Basiseinheit an, die zum Erweitern einer Auswahl verwendet wird.
-True gibt an, dass die Grundeinheit ein einzelnes Zeichen ist.
-false gibt an, dass die Grundeinheit ein ganzes Wort ist.
+„True“ gibt an, dass die Basiseinheit ein einzelnes Zeichen ist.
+„false“ gibt an, dass die Basiseinheit ein ganzes Wort ist.
 ###  Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def is_auto_word_selected(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.activexcontrols](../../)
-* Klasse [ComboBoxActiveXControl](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* Modul [`aspose.cells.drawing.activexcontrols`](../../)
+* Klasse [`ComboBoxActiveXControl`](/cells/python-net/de/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

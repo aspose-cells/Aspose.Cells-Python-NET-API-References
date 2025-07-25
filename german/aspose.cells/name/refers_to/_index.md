@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  refers_to Eigentum
 
-Gibt die Formel zurück oder legt sie fest, auf die sich der Name beziehen soll, beginnend mit einem Gleichheitszeichen.
+Gibt die Formel zurück oder legt sie fest, auf die sich der Name laut Definition bezieht, beginnend mit einem Gleichheitszeichen.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def refers_to(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Name](/cells/python-net/de/aspose.cells/name)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Name`](/cells/python-net/de/aspose.cells/name)

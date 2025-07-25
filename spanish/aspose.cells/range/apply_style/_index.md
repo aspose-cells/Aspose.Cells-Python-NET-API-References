@@ -7,12 +7,13 @@ weight: 30
 url: /es/aspose.cells/range/apply_style/
 is_root: false
 ---
-##  apply_style {#aspose.cells.Style-aspose.cells.StyleFlag}
+##  apply_style(self, style, flag) {#aspose.cells.Style-aspose.cells.StyleFlag}
 Aplica formatos para toda una gama.
 
 
 
 ```python
+
 def apply_style(self, style, flag):
     ...
 ```
@@ -25,7 +26,7 @@ def apply_style(self, style, flag):
 ###  Observaciones
 
 Cada celda de este rango contendrá un objeto [`Style`](/cells/python-net/es/aspose.cells/style).
-Entonces este es un método que consume memoria. Úselo con cuidado.
+Este método consume mucha memoria. Úselo con cuidado.
 
 
 ###  Ver también

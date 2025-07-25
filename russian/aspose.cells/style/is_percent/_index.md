@@ -1,6 +1,6 @@
 ---
 title: is_percent недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 370
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent недвижимость
 
-Указывает, является ли числовой формат процентным.
+Указывает, является ли формат числа процентным.
 ###  Определение:
 ```python
 @property

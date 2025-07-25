@@ -18,6 +18,6 @@ def gradient_fill(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ErrorBar](/cells/python-net/sv/aspose.cells.charts/errorbar)
-* klass [GradientFill](/cells/python-net/sv/aspose.cells.drawing/gradientfill)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ErrorBar`](/cells/python-net/sv/aspose.cells.charts/errorbar)
+* klass [`GradientFill`](/cells/python-net/sv/aspose.cells.drawing/gradientfill)

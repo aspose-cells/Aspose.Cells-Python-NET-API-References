@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible Eigentum
 
-Gibt an, ob der Aufgabenbereich standardmäßig sichtbar ist, wenn das Dokument geöffnet wird.
+Gibt an, ob der Aufgabenbereich beim Öffnen des Dokuments standardmäßig sichtbar ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.webextensions](../../)
-* Klasse [WebExtensionTaskPane](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)
+* Modul [`aspose.cells.webextensions`](../../)
+* Klasse [`WebExtensionTaskPane`](/cells/python-net/de/aspose.cells.webextensions/webextensiontaskpane)

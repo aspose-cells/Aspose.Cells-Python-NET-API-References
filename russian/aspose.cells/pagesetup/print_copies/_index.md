@@ -1,6 +1,6 @@
 ---
 title: print_copies недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 530
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  print_copies недвижимость
 
-Получить и установить количество копий для печати.
+Получить и задать количество копий для печати.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def print_copies(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [PageSetup](/cells/python-net/ru/aspose.cells/pagesetup)
+* модуль [`aspose.cells`](../../)
+* класс [`PageSetup`](/cells/python-net/ru/aspose.cells/pagesetup)

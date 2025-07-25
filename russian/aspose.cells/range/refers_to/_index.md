@@ -1,15 +1,15 @@
 ---
 title: refers_to недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 380
+weight: 480
 url: /ru/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to недвижимость
 
-Получает ссылку на диапазон.
+Получает диапазон, на который ссылается.
 ###  Определение:
 ```python
 @property

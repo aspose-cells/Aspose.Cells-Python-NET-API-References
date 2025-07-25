@@ -3,13 +3,13 @@ title: line عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 740
+weight: 750
 url: /ar/aspose.cells.drawing/groupshape/line/
 is_root: false
 ---
 ##  line عقار
 
-يحصل على نمط line
+يحصل على الطراز line
 
 ###  مثال
 

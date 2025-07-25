@@ -1,5 +1,5 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,10 @@ weight: 30
 url: /ar/aspose.cells.drawing/bevel/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
-الحصول على وتعيين height للشطبة ، أو إلى أي مدى يتم تطبيقه فوق الشكل.
-في وحدة النقاط.
+يحصل على height من الشطبة ويضبطها، أو إلى أي مدى فوق الشكل يتم تطبيقها.
+بوحدة النقاط.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [Bevel](/cells/python-net/ar/aspose.cells.drawing/bevel)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`Bevel`](/cells/python-net/ar/aspose.cells.drawing/bevel)

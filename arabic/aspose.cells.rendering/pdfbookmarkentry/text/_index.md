@@ -1,5 +1,5 @@
 ---
-title: text الملكية
+title: text عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 80
 url: /ar/aspose.cells.rendering/pdfbookmarkentry/text/
 is_root: false
 ---
-##  text الملكية
+##  text عقار
 
-عنوان إشارة مرجعية.
+عنوان الإشارة المرجعية.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def text(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](../../)
-* فئة [PdfBookmarkEntry](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)
+* الوحدة [`aspose.cells.rendering`](../../)
+* فئة [`PdfBookmarkEntry`](/cells/python-net/ar/aspose.cells.rendering/pdfbookmarkentry)

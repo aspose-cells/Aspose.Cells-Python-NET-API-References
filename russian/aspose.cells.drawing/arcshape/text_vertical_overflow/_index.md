@@ -1,9 +1,9 @@
 ---
 title: text_vertical_overflow недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 1090
+weight: 1100
 url: /ru/aspose.cells.drawing/arcshape/text_vertical_overflow/
 is_root: false
 ---

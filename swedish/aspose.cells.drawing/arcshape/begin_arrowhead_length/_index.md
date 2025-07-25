@@ -3,19 +3,19 @@ title: begin_arrowhead_length fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 310
+weight: 320
 url: /sv/aspose.cells.drawing/arcshape/begin_arrowhead_length/
 is_root: false
 ---
 ##  begin_arrowhead_length fastighet
 
-Hämtar och ställer in startpilens huvudlängd på linjen.
+Hämtar och ställer in linjens startlängd för pilspetsen.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
- använd egenskapen Shape.Line.BeginArrowheadLength.
- Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2016.
+ OBS! Denna medlem är nu föråldrad. Istället,
+ Använd egenskapen Shape.Line.BeginArrowheadLength.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med augusti 2016.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python

@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.drawing/shapepropertycollection/clear_glow_effect/
 is_root: false
 ---
-##  clear_glow_effect() {#}
+##  clear_glow_effect(self) {#}
 يزيل تأثير التوهج للشكل.
 
 
 
 ```python
+
 def clear_glow_effect(self):
     ...
 ```
@@ -22,5 +23,5 @@ def clear_glow_effect(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.drawing](../../)
-* فئة [ShapePropertyCollection](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)
+* الوحدة [`aspose.cells.drawing`](../../)
+* فئة [`ShapePropertyCollection`](/cells/python-net/ar/aspose.cells.drawing/shapepropertycollection)

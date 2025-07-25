@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  threaded_comments propriété
 
-Obtient la liste des commentaires du fil de discussion ;
+Obtient la liste des commentaires en fil de discussion ;
 
 ###  Exemple
 

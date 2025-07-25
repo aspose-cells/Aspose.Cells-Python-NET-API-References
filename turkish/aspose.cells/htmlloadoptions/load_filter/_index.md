@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  load_filter mülk
 
-Verilerin nasıl yükleneceğini gösteren filtre.
+Verilerin nasıl yükleneceğini belirten filtre.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def load_filter(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [HtmlLoadOptions](/cells/python-net/tr/aspose.cells/htmlloadoptions)
-* sınıf [LoadFilter](/cells/python-net/tr/aspose.cells/loadfilter)
+* modül [`aspose.cells`](../../)
+* sınıf [`HtmlLoadOptions`](/cells/python-net/tr/aspose.cells/htmlloadoptions)
+* sınıf [`LoadFilter`](/cells/python-net/tr/aspose.cells/loadfilter)

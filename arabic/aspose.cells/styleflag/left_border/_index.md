@@ -1,5 +1,5 @@
 ---
-title: left_border الملكية
+title: left_border عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 220
 url: /ar/aspose.cells/styleflag/left_border/
 is_root: false
 ---
-##  left_border الملكية
+##  left_border عقار
 
 سيتم تطبيق إعدادات الحد الأيسر.
 ###  تعريف:
@@ -21,5 +21,5 @@ def left_border(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

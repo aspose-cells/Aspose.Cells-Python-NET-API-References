@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  reference fastighet
 
-Hämta det primära reference till ett Office-tillägg.
+Hämta den primära reference till ett Office-tillägg.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def reference(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.webextensions](../../)
-* klass [WebExtension](/cells/python-net/sv/aspose.cells.webextensions/webextension)
-* klass [WebExtensionReference](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)
+* modul [`aspose.cells.webextensions`](../../)
+* klass [`WebExtension`](/cells/python-net/sv/aspose.cells.webextensions/webextension)
+* klass [`WebExtensionReference`](/cells/python-net/sv/aspose.cells.webextensions/webextensionreference)

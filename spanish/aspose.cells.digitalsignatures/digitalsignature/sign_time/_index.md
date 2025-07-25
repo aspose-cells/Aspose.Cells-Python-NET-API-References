@@ -3,13 +3,13 @@ title: sign_time propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 80
+weight: 90
 url: /es/aspose.cells.digitalsignatures/digitalsignature/sign_time/
 is_root: false
 ---
 ##  sign_time propiedad
 
-La hora en que se firmó el documento.
+El momento en que se firmó el documento.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def sign_time(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.digitalsignatures](../../)
-* clase [DigitalSignature](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignature)
+* módulo [`aspose.cells.digitalsignatures`](../../)
+* clase [`DigitalSignature`](/cells/python-net/es/aspose.cells.digitalsignatures/digitalsignature)

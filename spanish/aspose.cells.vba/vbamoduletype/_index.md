@@ -8,7 +8,7 @@ url: /es/aspose.cells.vba/vbamoduletype/
 is_root: false
 ---
 ##  VbaModuleType enumeración
-Representa el tipo de módulo de VBA.
+Representa el tipo de módulo VBA.
 
 
 
@@ -17,12 +17,12 @@ El tipo VbaModuleType expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| PROCEDURAL | Representa un módulo de procedimiento.|
+| PROCEDURAL | Representa un módulo procedimental.|
 | DOCUMENT | Representa un módulo de documento.|
 | CLASS | Representa un módulo de clase.|
-| DESIGNER | Representa un módulo de diseñador.|
+| DESIGNER | Representa un módulo de diseño.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.vba](..)
+* módulo [`aspose.cells.vba`](..)

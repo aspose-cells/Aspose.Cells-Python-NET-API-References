@@ -7,8 +7,8 @@ weight: 20
 url: /sv/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---
-##  get_short_text_of_12_months {#}
-Får alla kortformaterade strängar på 12 månader.
+##  get_short_text_of_12_months(self) {#}
+Hämtar alla kortformaterade strängar på 12 månader.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Får alla kortformaterade strängar på 12 månader.
 
 
 ```python
+
 def get_short_text_of_12_months(self):
     ...
 ```

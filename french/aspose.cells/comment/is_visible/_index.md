@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_visible propriété
 
-Représente si le commentaire est visible ou non.
+Indique si le commentaire est visible ou non.
 
 ###  Exemple
 

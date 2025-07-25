@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatConditionCollection](/cells/python-net/es/aspose.cells/formatconditioncollection)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatConditionCollection`](/cells/python-net/es/aspose.cells/formatconditioncollection)

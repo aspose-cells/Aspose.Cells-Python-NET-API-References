@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height_inch mülk
 
-Yorumun yüksekliğini inç cinsinden temsil eder.
+Yorumun yüksekliğini inç cinsinden gösterir.
 
 ###  Örnek
 

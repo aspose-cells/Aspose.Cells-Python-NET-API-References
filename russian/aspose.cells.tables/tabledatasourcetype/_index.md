@@ -1,6 +1,6 @@
 ---
 title: TableDataSourceType перечисление
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 100
@@ -12,17 +12,17 @@ is_root: false
 
 
 
-Тип TableDataSourceType предоставляет следующие члены:
+Тип TableDataSourceType предоставляет следующие элементы:
 
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| WORKSHEET | Таблица рабочего листа Excel|
-| SHARE_POINT | Связанный список SharePoint для чтения и записи|
-| XML | Таблица сопоставления XML|
+| WORKSHEET | Таблица Excel|
+| SHARE_POINT | Список ссылок SharePoint для чтения и записи|
+| XML | Таблица XML-картографа|
 | QUERY_TABLE | Таблица запросов|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.tables](..)
+* модуль [`aspose.cells.tables`](..)

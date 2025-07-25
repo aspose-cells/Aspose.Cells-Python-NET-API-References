@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  stops fastighet
 
-Får tabbstopplista.
+Hämtar tabbstopplista.
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def stops(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
-* klass [TextTabStopCollection](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstopcollection)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* klass [`TextTabStopCollection`](/cells/python-net/sv/aspose.cells.drawing.texts/texttabstopcollection)

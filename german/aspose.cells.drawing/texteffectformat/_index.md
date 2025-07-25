@@ -3,7 +3,7 @@ title: TextEffectFormat Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 700
+weight: 680
 url: /de/aspose.cells.drawing/texteffectformat/
 is_root: false
 ---
@@ -17,19 +17,19 @@ Der Typ TextEffectFormat macht die folgenden Member verfügbar:
 ###  Eigenschaften
 | Eigentum| Beschreibung|
 | :- | :- |
-| [text](/cells/python-net/de/aspose.cells.drawing/texteffectformat/text) | Der Text in der WordArt.|
-| [font_name](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_name) | Der Name der Schriftart, die in der WordArt verwendet wird.|
+| [text](/cells/python-net/de/aspose.cells.drawing/texteffectformat/text) | Der Text im WordArt-Objekt.|
+| [font_name](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_name) | Der Name der im WordArt-Objekt verwendeten Schriftart.|
 | [font_bold](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_bold) | Gibt an, ob die Schriftart fett ist.|
 | [font_italic](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_italic) | Gibt an, ob die Schriftart kursiv ist.|
-| [rotated_chars](/cells/python-net/de/aspose.cells.drawing/texteffectformat/rotated_chars) | Bei „true“ werden die Zeichen im angegebenen WordArt-Objekt um 90 Grad relativ zur Begrenzungsform des WordArt-Objekts gedreht.|
-| [font_size](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_size) | Die Größe (in Punkten) der in der WordArt verwendeten Schriftart.|
+| [rotated_chars](/cells/python-net/de/aspose.cells.drawing/texteffectformat/rotated_chars) | Wenn der Wert „true“ ist, werden die Zeichen im angegebenen WordArt-Objekt um 90 Grad relativ zur Begrenzungsform des WordArt-Objekts gedreht.|
+| [font_size](/cells/python-net/de/aspose.cells.drawing/texteffectformat/font_size) | Die Größe (in Punkten) der im WordArt-Objekt verwendeten Schriftart.|
 | [preset_shape](/cells/python-net/de/aspose.cells.drawing/texteffectformat/preset_shape) | Ruft den voreingestellten Formtyp ab und legt ihn fest.|
 
 
 ###  Methoden
 | Methode| Beschreibung|
 | :- | :- |
-| [set_text_effect(effect)](/cells/python-net/de/aspose.cells.drawing/texteffectformat/set_text_effect/#MsoPresetTextEffect) | Legt den voreingestellten Texteffekt fest.|
+| [`set_text_effect(self, effect)`](/cells/python-net/de/aspose.cells.drawing/texteffectformat/set_text_effect/#aspose.cells.drawing.msopresettexteffect) | Legt den voreingestellten Texteffekt fest.|
 
 
 
@@ -50,4 +50,4 @@ workbook.save("Book1.xls")
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](..)
+* Modul [`aspose.cells.drawing`](..)

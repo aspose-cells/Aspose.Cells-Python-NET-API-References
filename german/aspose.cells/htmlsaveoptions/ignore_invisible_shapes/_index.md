@@ -3,7 +3,7 @@ title: ignore_invisible_shapes Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 450
+weight: 520
 url: /de/aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Geben Sie an, ob diese nicht sichtbaren Formen exportiert werden sollen
 
 ###  Bemerkungen
 
-Der Standardwert ist falsch.
+Der Standardwert ist „false“.
 ###  Definition:
 ```python
 @property

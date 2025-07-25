@@ -3,17 +3,24 @@ title: sever_command Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 260
+weight: 300
 url: /de/aspose.cells.externalconnections/dbconnection/sever_command/
 is_root: false
 ---
 ##  sever_command Eigentum
 
- Gibt eine zweite Befehlstextzeichenfolge an, die beibehalten wird, wenn PivotTable serverbasiert ist
+ Gibt eine zweite Befehlstextzeichenfolge an, die beibehalten wird, wenn PivotTable serverbasiert
  Seitenfelder werden verwendet.
- Für ODBC-Verbindungen ist serverCommand normalerweise eine breitere Abfrage als Befehl (Nr
-WHERE-Klausel ist in der ersteren vorhanden). Basierend auf diesen 2 Befehlen (Command und ServerCommand),
-Die Parameter-UI kann ausgefüllt und parametrisierte Abfragen erstellt werden
+ Bei ODBC-Verbindungen ist serverCommand normalerweise eine umfassendere Abfrage als command (keine
+WHERE-Klausel ist im ersteren vorhanden). Basierend auf diesen beiden Befehlen (Command und ServerCommand),
+Parameter-UI kann befüllt und parametrisierte Abfragen können erstellt werden
+
+###  Bemerkungen
+
+ HINWEIS: Diese Eigenschaft ist mittlerweile veraltet. Stattdessen
+Bitte verwenden Sie die Eigenschaft ExternalConnection.SecondCommand.
+ Diese Methode wird 12 Monate später ab Oktober 2024 entfernt.
+Aspose entschuldigt sich für etwaige Unannehmlichkeiten, die Ihnen möglicherweise entstanden sind.
 ###  Definition:
 ```python
 @property
@@ -25,5 +32,5 @@ def sever_command(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.externalconnections](../../)
-* Klasse [DBConnection](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)
+* Modul [`aspose.cells.externalconnections`](../../)
+* Klasse [`DBConnection`](/cells/python-net/de/aspose.cells.externalconnections/dbconnection)

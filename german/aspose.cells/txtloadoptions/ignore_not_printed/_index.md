@@ -13,7 +13,7 @@ Ignorieren Sie die Daten, die nicht gedruckt werden, wenn Sie die Datei direkt d
 
 ###  Bemerkungen
 
-Nur für XLSX-Datei.
+Nur für XLSX-Dateien.
 ###  Definition:
 ```python
 @property

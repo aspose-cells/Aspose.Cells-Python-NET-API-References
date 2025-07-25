@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  page_setup fastighet
 
-Representerar sidkonfigurationsbeskrivningen i det här diagrammet.
+Representerar beskrivningen av sidinställningarna i det här diagrammet.
 ###  Definition:
 ```python
 @property

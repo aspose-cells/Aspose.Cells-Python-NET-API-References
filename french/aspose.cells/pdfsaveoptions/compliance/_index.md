@@ -3,17 +3,17 @@ title: compliance propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 110
+weight: 120
 url: /fr/aspose.cells/pdfsaveoptions/compliance/
 is_root: false
 ---
 ##  compliance propriété
 
-Obtient ou définit le niveau PDF des normes compliance pour les documents de sortie.
+Obtient ou définit le niveau des normes PDF compliance pour les documents de sortie.
 
 ###  Remarques
 
-La valeur par défaut est PDF17.
+La valeur par défaut est Pdf17.
 ###  Définition:
 ```python
 @property

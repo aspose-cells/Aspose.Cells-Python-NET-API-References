@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  min_cfvo Eigentum
 
-Abrufen oder Festlegen des Mindestwertobjekts dieser ColorScale.
-Es kann nicht null oder CFValueObject mit dem Typ FormatConditionValueType.Max darauf gesetzt werden.
+Rufen Sie das Minimalwertobjekt dieser Farbskala ab oder legen Sie es fest.
+Null oder CFValueObject mit dem Typ FormatConditionValueType.Max kann nicht darauf festgelegt werden.
 ###  Definition:
 ```python
 @property
@@ -19,6 +19,6 @@ def min_cfvo(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ColorScale](/cells/python-net/de/aspose.cells/colorscale)
-* Klasse [ConditionalFormattingValue](/cells/python-net/de/aspose.cells/conditionalformattingvalue)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ColorScale`](/cells/python-net/de/aspose.cells/colorscale)
+* Klasse [`ConditionalFormattingValue`](/cells/python-net/de/aspose.cells/conditionalformattingvalue)

@@ -1,9 +1,9 @@
 ---
 title: ColorDepth枚举
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 140
+weight: 160
 url: /zh/aspose.cells.rendering/colordepth/
 is_root: false
 ---
@@ -12,12 +12,12 @@ is_root: false
 
 
 
-ColorDepth 类型公开了以下成员：
+ColorDepth 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| DEFAULT |默认值，不是设定值。|
+| DEFAULT |默认值，未设置值。|
 | FORMAT_1BPP |每像素 1 位|
 | FORMAT_4BPP |每像素 4 位|
 | FORMAT_8BPP |每像素 8 位|
@@ -27,4 +27,4 @@ ColorDepth 类型公开了以下成员：
 
 
 ### 也可以看看
-* 模块 [aspose.cells.rendering](..)
+* 模块[`aspose.cells.rendering`](..)

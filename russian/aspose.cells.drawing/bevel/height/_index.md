@@ -1,6 +1,6 @@
 ---
 title: height недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 30
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height недвижимость
 
-Получает и задает height скоса или то, насколько далеко над фигурой он применяется.
+Получает и задает height скоса или расстояние над формой, на которое он применяется.
 В единицах баллов.
 ###  Определение:
 ```python
@@ -22,5 +22,5 @@ def height(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](../../)
-* класс [Bevel](/cells/python-net/ru/aspose.cells.drawing/bevel)
+* модуль [`aspose.cells.drawing`](../../)
+* класс [`Bevel`](/cells/python-net/ru/aspose.cells.drawing/bevel)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  indent Eigentum
 
-Die Einstellung für die Einzugsebene wird angewendet.
+Die Einstellung für die Einrückungsebene wird angewendet.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def indent(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [StyleFlag](/cells/python-net/de/aspose.cells/styleflag)
+* Modul [`aspose.cells`](../../)
+* Klasse [`StyleFlag`](/cells/python-net/de/aspose.cells/styleflag)

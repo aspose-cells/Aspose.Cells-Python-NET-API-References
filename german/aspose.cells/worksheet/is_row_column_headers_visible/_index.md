@@ -3,14 +3,14 @@ title: is_row_column_headers_visible Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 600
+weight: 630
 url: /de/aspose.cells/worksheet/is_row_column_headers_visible/
 is_root: false
 ---
 ##  is_row_column_headers_visible Eigentum
 
-Ruft einen Wert ab, der angibt, ob im Arbeitsblatt Zeilen- und Spaltenüberschriften angezeigt werden, oder legt diesen fest.
-Der Standardwert ist wahr.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob im Arbeitsblatt Zeilen- und Spaltenüberschriften angezeigt werden.
+Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

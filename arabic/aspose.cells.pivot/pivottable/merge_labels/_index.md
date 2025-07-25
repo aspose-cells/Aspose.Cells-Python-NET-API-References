@@ -1,16 +1,15 @@
 ---
-title: merge_labels الملكية
+title: merge_labels عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 650
+weight: 750
 url: /ar/aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---
-##  merge_labels الملكية
+##  merge_labels عقار
 
-الإشارة إلى ما إذا كان عنصر الصف الخارجي أو عنصر العمود أو الإجمالي الفرعي لتقرير PivotTable المحدد
-وتستخدم التسميات الإجمالية الكلية الخلايا المدمجة.
+صحيح إذا كانت تسميات عنصر الصف الخارجي وعنصر العمود والمجموع الفرعي والمجموع الكلي لتقرير PivotTable المحدد تستخدم خلايا مدمجة.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +21,5 @@ def merge_labels(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotTable](/cells/python-net/ar/aspose.cells.pivot/pivottable)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotTable`](/cells/python-net/ar/aspose.cells.pivot/pivottable)

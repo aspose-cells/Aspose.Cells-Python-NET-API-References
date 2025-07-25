@@ -9,15 +9,15 @@ is_root: false
 ---
 ##  emf_render_setting fastighet
 
-Inställning för rendering av Emf-metafil.
+Inställning för att rendera EMF-metafiler i källfilen.
 
 ###  Anmärkningar
 
- EMF metafiler identifierade som "EMF+ Dual" kan innehålla både EMF+ poster och EMF poster.
-Vilken typ av post som helst kan användas för att återge bilden, endast EMF+ poster, eller bara EMF poster.
-När [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) är inställt, kommer EMF+ poster att tolkas under rendering till bild, annars kommer endast EMF poster att tolkas.
+ EMF-metafiler identifierade som "EMF+ Dual" kan innehålla både EMF+-poster och EMF-poster.
+Båda typerna av poster kan användas för att rendera bilden, endast EMF+ poster, eller endast EMF poster.
+När [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) är inställt kommer fler än EMF poster att tolkas vid rendering till bild, annars kommer endast EMF poster att tolkas.
 Standardvärdet är [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/sv/aspose.cells/emfrendersetting#EMF_ONLY).
-För ramverk som är beroende av .Net System.Drawing.Common ignoreras denna inställning.
+För ramverk som är beroende av .Net System.Drawing.Common ignoreras den här inställningen.
 ###  Definition:
 ```python
 @property

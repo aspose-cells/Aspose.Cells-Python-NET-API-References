@@ -3,7 +3,7 @@ title: tiff_compression属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 370
+weight: 380
 url: /zh/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
@@ -11,9 +11,9 @@ is_root: false
 
 获取或设置仅在将页面保存为 `Tiff` 格式时应用的压缩类型。
 
-### 评论
+### 注意事项
 
-仅在保存到TIFF时有效。
+仅当保存为 TIFF 时才有效。
 默认值为 Lzw。
 ### 定义：
 ```python

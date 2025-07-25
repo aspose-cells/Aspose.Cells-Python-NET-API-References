@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  arc_end_point_x_px propriété
 
-Obtient la coordonnée x du point de fin de la section du secteur après avoir appelé la méthode Chart.Calculate().
+Obtient la coordonnée x du point de fin de la section circulaire après avoir appelé la méthode Chart.Calculate().
 S'applique aux graphiques à secteurs et en anneau.
 ###  Définition:
 ```python
@@ -19,5 +19,5 @@ def arc_end_point_x_px(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/fr/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/chartpoint)

@@ -3,13 +3,13 @@ title: page_change عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 870
+weight: 880
 url: /ar/aspose.cells.drawing/scrollbar/page_change/
 is_root: false
 ---
 ##  page_change عقار
 
-الحصول على تغيير الصفحة أو تعيينه
+يحصل على تغيير الصفحة أو يعينه
 ###  تعريف:
 ```python
 @property

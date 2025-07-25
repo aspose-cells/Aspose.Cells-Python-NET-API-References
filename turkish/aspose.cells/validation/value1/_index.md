@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  value1 mülk
 
-Veri doğrulamayla ilişkili ilk değeri temsil eder.
+Veri doğrulamasıyla ilişkili ilk değeri temsil eder.
 ###  Tanım:
 ```python
 @property

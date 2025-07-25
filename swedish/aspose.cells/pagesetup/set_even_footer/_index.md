@@ -7,13 +7,14 @@ weight: 130
 url: /sv/aspose.cells/pagesetup/set_even_footer/
 is_root: false
 ---
-##  set_even_footer(section, footer_script) {#int-str}
-Ställer in ett skript som formaterar den jämna sidfoten i en Excel-fil.
-Endast effekt i Excel 2007 när IsHFDiffOddEven är sant.
+##  set_even_footer(self, section, footer_script) {#int-str}
+Ställer in ett skript som formaterar sidfoten på jämna sidor i en Excel-fil.
+Effekt endast i Excel 2007 när IsHFDiffOddEven är sant.
 
 
 
 ```python
+
 def set_even_footer(self, section, footer_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_even_footer(self, section, footer_script):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| section | int | 0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
-| footer_script | str | Skript i sidfotsformat.|
+| section | int |0: Vänster sektion, 1: Mittsektion, 2: Höger sektion.|
+| footer_script | str | Skript för sidfotsformat.|
 
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [PageSetup](/cells/python-net/sv/aspose.cells/pagesetup)
+* modul [`aspose.cells`](../../)
+* klass [`PageSetup`](/cells/python-net/sv/aspose.cells/pagesetup)

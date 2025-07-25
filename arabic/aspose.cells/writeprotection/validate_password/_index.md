@@ -7,8 +7,8 @@ weight: 20
 url: /ar/aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
-##  validate_password(password) {#str}
-يعود صحيحًا إذا كانت كلمة المرور المحددة هي نفسها كلمة مرور الحماية ضد الكتابة التي تم حماية الملف بها.
+##  validate_password(self, password) {#str}
+يعود صحيحًا إذا كانت كلمة المرور المحددة هي نفس كلمة مرور الحماية ضد الكتابة التي تم حماية الملف بها.
 
 
 ###  عائدات
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def validate_password(self, password):
     ...
 ```
@@ -29,5 +30,5 @@ def validate_password(self, password):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [WriteProtection](/cells/python-net/ar/aspose.cells/writeprotection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`WriteProtection`](/cells/python-net/ar/aspose.cells/writeprotection)

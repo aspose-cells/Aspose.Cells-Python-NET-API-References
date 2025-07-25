@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_type fastighet
 
-Hämtar och ställer in typen av fält.
+Hämtar och anger fälttypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def field_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.ods](../../)
-* klass [OdsCellField](/cells/python-net/sv/aspose.cells.ods/odscellfield)
-* klass [OdsCellFieldType](/cells/python-net/sv/aspose.cells.ods/odscellfieldtype)
+* modul [`aspose.cells.ods`](../../)
+* klass [`OdsCellField`](/cells/python-net/sv/aspose.cells.ods/odscellfield)
+* klass [`OdsCellFieldType`](/cells/python-net/sv/aspose.cells.ods/odscellfieldtype)

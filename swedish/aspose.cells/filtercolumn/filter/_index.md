@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  filter fastighet
 
-Hämtar och ställer in villkoret för filtrering av data.
+Hämtar och anger villkoret för filtrering av data.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def filter(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [FilterColumn](/cells/python-net/sv/aspose.cells/filtercolumn)
+* modul [`aspose.cells`](../../)
+* klass [`FilterColumn`](/cells/python-net/sv/aspose.cells/filtercolumn)

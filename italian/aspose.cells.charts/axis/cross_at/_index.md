@@ -1,6 +1,6 @@
 ---
 title: cross_at proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  cross_at proprietà
 
-Rappresenta il punto sull'asse dei valori in cui l'asse delle categorie lo attraversa.
+Rappresenta il punto sull'asse dei valori in cui l'asse delle categorie lo interseca.
 
 ###  Osservazioni
 
-Il numero deve essere un numero intero quando si applica all'asse delle categorie.
+Quando si applica all'asse delle categorie, il numero deve essere un numero intero.
 E il valore deve essere compreso tra 1 e 31999.
 ###  Definizione:
 ```python

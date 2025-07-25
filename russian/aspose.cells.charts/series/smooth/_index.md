@@ -1,6 +1,6 @@
 ---
 title: smooth недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 440
@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  smooth недвижимость
 
- Представляет сглаживание кривой.
-Значение true, если сглаживание кривой включено для линейной диаграммы или точечной диаграммы.
-Применяется только к линейным и точечным графикам, связанным линиями.
+ Представляет собой сглаживание кривой.
+True, если сглаживание кривых включено для линейной диаграммы или диаграммы рассеяния.
+Применимо только к линейным и точечным диаграммам, соединенным линиями.
 ###  Определение:
 ```python
 @property
@@ -23,5 +23,5 @@ def smooth(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [Series](/cells/python-net/ru/aspose.cells.charts/series)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`Series`](/cells/python-net/ru/aspose.cells.charts/series)

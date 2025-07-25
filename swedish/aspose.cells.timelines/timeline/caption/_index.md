@@ -30,5 +30,5 @@ def caption(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.timelines](../../)
-* klass [Timeline](/cells/python-net/sv/aspose.cells.timelines/timeline)
+* modul [`aspose.cells.timelines`](../../)
+* klass [`Timeline`](/cells/python-net/sv/aspose.cells.timelines/timeline)

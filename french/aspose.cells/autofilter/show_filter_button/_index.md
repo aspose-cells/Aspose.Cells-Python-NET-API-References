@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_filter_button propriété
 
-Indique si le bouton Filtre automatique de cette colonne est visible.
+Indique si le bouton Filtre automatique pour cette colonne est visible.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_filter_button(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [AutoFilter](/cells/python-net/fr/aspose.cells/autofilter)
+* module [`aspose.cells`](../../)
+* classe [`AutoFilter`](/cells/python-net/fr/aspose.cells/autofilter)

@@ -11,6 +11,13 @@ is_root: false
 
 Belirtilen dilimleyicinin yüksekliğini piksel cinsinden döndürür veya ayarlar.
 
+###  Notlar
+
+ NOT: Bu üye artık geçerliliğini yitirmiştir. Bunun yerine,
+ Lütfen Shape.Height özelliğini kullanın.
+ Bu özellik Mayıs 2025'ten itibaren 12 ay sonra kaldırılacaktır.
+Aspose yaşadığınız olumsuzluktan dolayı özür diler.
+
 ###  Örnek
 
 ```python
@@ -29,5 +36,5 @@ def height_pixel(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.slicers](../../)
-* sınıf [Slicer](/cells/python-net/tr/aspose.cells.slicers/slicer)
+* modül [`aspose.cells.slicers`](../../)
+* sınıf [`Slicer`](/cells/python-net/tr/aspose.cells.slicers/slicer)

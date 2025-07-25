@@ -7,8 +7,8 @@ weight: 30
 url: /tr/aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
-##  extension_to_save_format(extension) {#str}
-Bir dosya adı uzantısını bir SaveFormat değerine dönüştürür.
+##  extension_to_save_format(, uzantı){#str}
+Bir dosya adı uzantısını SaveFormat değerine dönüştürür.
 
 
 ###  İadeler
@@ -17,20 +17,22 @@ Bir dosya adı uzantısını bir SaveFormat değerine dönüştürür.
 
 
 ```python
-def extension_to_save_format(self, extension):
+
+@staticmethod
+def extension_to_save_format(extension):
     ...
 ```
 
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| extension | str | Dosya uzantısı. Ön noktalı veya noktasız olabilir. Büyük/küçük harfe duyarsız.|
+| extension | str | Dosya uzantısı. Başında nokta olabilir veya olmayabilir. Büyük/küçük harfe duyarlı değildir.|
 ###  Notlar
 
-Uzantı tanınamıyorsa, [SaveFormat.UNKNOWN](/cells/python-net/tr/aspose.cells/saveformat#UNKNOWN) döndürür.
+Eğer uzantı tanınamıyorsa [`SaveFormat.UNKNOWN`](/cells/python-net/tr/aspose.cells/saveformat#UNKNOWN) döndürülür.
 
 
 ###  Ayrıca bakınız
 
-* modül [aspose.cells](../../)
-* sınıf [FileFormatUtil](/cells/python-net/tr/aspose.cells/fileformatutil)
+* modül [`aspose.cells`](../../)
+* sınıf [`FileFormatUtil`](/cells/python-net/tr/aspose.cells/fileformatutil)

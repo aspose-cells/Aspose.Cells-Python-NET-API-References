@@ -7,12 +7,13 @@ weight: 10
 url: /fr/aspose.cells.drawing/shapepathpointcollection/__init__/
 is_root: false
 ---
-##  ShapePathPointCollection() {#}
+##  \_\_init\_\_(self){#}
 Construit une nouvelle instance de ShapePathPointCollection
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Voir également
-* module [aspose.cells.drawing](../../)
-* classe [ShapePathPointCollection](/cells/python-net/fr/aspose.cells.drawing/shapepathpointcollection)
+* module [`aspose.cells.drawing`](../../)
+* classe [`ShapePathPointCollection`](/cells/python-net/fr/aspose.cells.drawing/shapepathpointcollection)

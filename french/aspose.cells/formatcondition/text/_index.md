@@ -9,9 +9,9 @@ is_root: false
 ---
 ##  text propriété
 
- La valeur text dans une règle de mise en forme conditionnelle "text contient".
-Valide uniquement pour type = containsText, notContainsText, beginWith et endsWith.
-La valeur par défaut est nulle.
+ La valeur text dans une règle de mise en forme conditionnelle « text contient ».
+Valable uniquement pour type = containsText, notContainsText, beginsWith et endsWith.
+La valeur par défaut est null.
 ###  Définition:
 ```python
 @property
@@ -23,5 +23,5 @@ def text(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [FormatCondition](/cells/python-net/fr/aspose.cells/formatcondition)
+* module [`aspose.cells`](../../)
+* classe [`FormatCondition`](/cells/python-net/fr/aspose.cells/formatcondition)

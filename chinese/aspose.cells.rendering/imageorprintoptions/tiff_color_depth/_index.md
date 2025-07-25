@@ -3,7 +3,7 @@ title: tiff_color_depth属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 360
+weight: 370
 url: /zh/aspose.cells.rendering/imageorprintoptions/tiff_color_depth/
 is_root: false
 ---
@@ -11,10 +11,10 @@ is_root: false
 
 获取或设置仅在将页面保存为 `Tiff` 格式时应用的位深度。
 
-### 评论
+### 注意事项
 
-仅在保存到TIFF时有效。
-如果TiffCompression设置为CCITT3、CCITT4，则不会生效，生成的tiff图像的位深度将始终为1。
+仅当保存为 TIFF 时才有效。
+如果 TiffCompression 设置为 CCITT3、CCITT4，则此项不会生效，生成的 tiff 图像的位深度将始终为 1。
 ### 定义：
 ```python
 @property

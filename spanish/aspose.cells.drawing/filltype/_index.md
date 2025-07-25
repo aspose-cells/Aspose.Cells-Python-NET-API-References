@@ -3,7 +3,7 @@ title: FillType enumeración
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 830
+weight: 820
 url: /es/aspose.cells.drawing/filltype/
 is_root: false
 ---
@@ -18,7 +18,7 @@ El tipo FillType expone los siguientes miembros:
 | Campo| Descripción|
 | :- | :- |
 | AUTOMATIC | Representa el tipo de formato automático.|
-| NONE | Representa ningún tipo de formato.|
+| NONE | No representa ningún tipo de formato.|
 | SOLID | Formato de relleno sólido.|
 | GRADIENT | Formato de relleno degradado.|
 | TEXTURE | Formato de relleno de textura (incluye relleno de imagen).|
@@ -28,4 +28,4 @@ El tipo FillType expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](..)
+* módulo [`aspose.cells.drawing`](..)

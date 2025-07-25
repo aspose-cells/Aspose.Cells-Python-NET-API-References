@@ -1,14 +1,14 @@
 ---
 title: DisplayDrawingObjects перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2040
+weight: 1950
 url: /ru/aspose.cells/displaydrawingobjects/
 is_root: false
 ---
 ##  DisplayDrawingObjects перечисление
-Указывает, следует ли отображать объекты в книге и если да, то как.
+Указывает, следует ли отображать объекты в рабочей книге и как это сделать.
 
 
 
@@ -17,9 +17,9 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| DISPLAY_SHAPES | Показать все объекты|
+| DISPLAY_SHAPES |Показать все объекты|
 | PLACEHOLDERS | Показать заполнители|
-| HIDE | Скройте все фигуры.|
+| HIDE | Скрыть все фигуры.|
 
 
 

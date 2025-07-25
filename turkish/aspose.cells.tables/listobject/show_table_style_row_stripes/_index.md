@@ -3,13 +3,13 @@ title: show_table_style_row_stripes mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 240
+weight: 250
 url: /tr/aspose.cells.tables/listobject/show_table_style_row_stripes/
 is_root: false
 ---
 ##  show_table_style_row_stripes mülk
 
-Satır şerit biçimlendirmesinin uygulanıp uygulanmadığını gösterir.
+Satır şerit biçimlendirmesinin uygulanıp uygulanmadığını belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def show_table_style_row_stripes(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.tables](../../)
-* sınıf [ListObject](/cells/python-net/tr/aspose.cells.tables/listobject)
+* modül [`aspose.cells.tables`](../../)
+* sınıf [`ListObject`](/cells/python-net/tr/aspose.cells.tables/listobject)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_range fastighet
 
-Hämtar eller ställer in kalkylbladsintervallet som används för att fylla den angivna kombinationsrutan.
+Hämtar eller anger kalkylbladsområdet som används för att fylla den angivna kombinationsrutan.
 
 ###  Exempel
 

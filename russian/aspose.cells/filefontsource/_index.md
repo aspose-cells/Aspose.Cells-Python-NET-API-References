@@ -1,19 +1,18 @@
 ---
 title: FileFontSource класс
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 610
+weight: 590
 url: /ru/aspose.cells/filefontsource/
 is_root: false
 ---
 ##  FileFontSource класс
-Представляет один файл шрифта TrueType, хранящийся в файловой системе.
+Представляет собой отдельный файл шрифта TrueType, хранящийся в файловой системе.
 
 
 
-**Наследование:** [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) → 
-[`FontSourceBase`](/cells/python-net/ru/aspose.cells/fontsourcebase)
+**Наследование:** [`FileFontSource`](/cells/python-net/ru/aspose.cells/filefontsource)
 
 
 
@@ -22,13 +21,13 @@ is_root: false
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [__init__](/cells/python-net/ru/aspose.cells/filefontsource/__init__/#str) | Ктор.|
+| [`__init__(self, file_path)`](/cells/python-net/ru/aspose.cells/filefontsource/__init__/#str) | Ctor.|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [type](/cells/python-net/ru/aspose.cells/filefontsource/type) | Возвращает тип источника шрифта.|
+| [type](/cells/python-net/ru/aspose.cells/filefontsource/type) |Возвращает тип источника шрифта.|
 | [file_path](/cells/python-net/ru/aspose.cells/filefontsource/file_path) | Путь к файлу шрифта.|
 
 
@@ -36,4 +35,3 @@ is_root: false
 ###  Смотрите также
 * модуль [`aspose.cells`](..)
 * класс [`FileFontSource`](/cells/python-net/ru/aspose.cells/filefontsource)
-* класс [`FontSourceBase`](/cells/python-net/ru/aspose.cells/fontsourcebase)

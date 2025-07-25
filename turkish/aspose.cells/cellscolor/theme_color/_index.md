@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  theme_color mülk
 
-Tema rengini alır. Yalnızca tema renk türü için geçerlidir.
+Tema rengini alır. Sadece tema renk türü için geçerlidir.
 ###  Tanım:
 ```python
 @property
@@ -21,6 +21,6 @@ def theme_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [CellsColor](/cells/python-net/tr/aspose.cells/cellscolor)
-* sınıf [ThemeColor](/cells/python-net/tr/aspose.cells/themecolor)
+* modül [`aspose.cells`](../../)
+* sınıf [`CellsColor`](/cells/python-net/tr/aspose.cells/cellscolor)
+* sınıf [`ThemeColor`](/cells/python-net/tr/aspose.cells/themecolor)

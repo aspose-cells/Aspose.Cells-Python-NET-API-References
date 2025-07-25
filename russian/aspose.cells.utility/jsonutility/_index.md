@@ -1,33 +1,33 @@
 ---
 title: JsonUtility класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 30
+weight: 40
 url: /ru/aspose.cells.utility/jsonutility/
 is_root: false
 ---
 ##  JsonUtility класс
-Представляет служебный класс обработки json.
+Представляет служебный класс обработки JSON.
 
 
 
-Тип JsonUtility предоставляет следующие члены:
+Тип JsonUtility предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [JsonUtility()](/cells/python-net/ru/aspose.cells.utility/jsonutility/__init__/#) | Создает новый экземпляр JsonUtility.|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.utility/jsonutility/__init__/#) | Создает новый экземпляр JsonUtility|
 
 
 ###  Методы
 | Метод| Описание|
 | :- | :- |
-| [export_range_to_json(range, options)](/cells/python-net/ru/aspose.cells.utility/jsonutility/export_range_to_json/#Range-ExportRangeToJsonOptions) | Экспорт диапазона в файл json.|
-| [export_range_to_json(range, options)](/cells/python-net/ru/aspose.cells.utility/jsonutility/export_range_to_json/#Range-JsonSaveOptions) | Экспорт диапазона в файл json.|
-| [import_data(json, cells, row, column, option)](/cells/python-net/ru/aspose.cells.utility/jsonutility/import_data/#str-Cells-int-int-JsonLayoutOptions) | Импортируйте строку json.|
+| [`export_range_to_json(, range, options)`](/cells/python-net/ru/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.range-aspose.cells.utility.exportrangetojsonoptions) |Экспорт диапазона в JSON-файл.|
+| [`export_range_to_json(, range, options)`](/cells/python-net/ru/aspose.cells.utility/jsonutility/export_range_to_json/#aspose.cells.range-aspose.cells.jsonsaveoptions) |Экспорт диапазона в JSON-файл.|
+| [`import_data(, json, cells, row, column, option)`](/cells/python-net/ru/aspose.cells.utility/jsonutility/import_data/#str-aspose.cells.cells-int-int-aspose.cells.utility.jsonlayoutoptions) | Импортируйте строку JSON.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.utility](..)
+* модуль [`aspose.cells.utility`](..)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  start fastighet
 
-Hämtar start datum och tid för gruppen.
+Hämtar datum och tid start för gruppen.
 ###  Definition:
 ```python
 @property

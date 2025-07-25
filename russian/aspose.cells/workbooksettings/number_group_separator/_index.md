@@ -1,15 +1,15 @@
 ---
 title: number_group_separator недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 350
+weight: 380
 url: /ru/aspose.cells/workbooksettings/number_group_separator/
 is_root: false
 ---
 ##  number_group_separator недвижимость
 
-Получает или задает символ, разделяющий группы цифр слева от десятичной запятой в числовых значениях. По умолчанию используется разделитель групп текущего региона.
+Возвращает или задаёт символ, разделяющий группы цифр слева от десятичной точки в числовых значениях. По умолчанию используется разделитель групп текущего региона.
 ###  Определение:
 ```python
 @property

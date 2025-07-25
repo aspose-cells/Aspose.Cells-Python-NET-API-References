@@ -3,13 +3,13 @@ title: DataBar صف
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 420
+weight: 390
 url: /ar/aspose.cells/databar/
 is_root: false
 ---
 ##  DataBar صف
  وصف قاعدة التنسيق الشرطي DataBar.
-تعرض قاعدة التنسيق الشرطي هذه درجة متدرجة
+تعرض قاعدة التنسيق الشرطي هذه تدرجًا
 شريط البيانات في نطاق الخلايا.
 
 
@@ -19,24 +19,24 @@ is_root: false
 ###  ملكيات
 | ملكية| وصف|
 | :- | :- |
-| [axis_color](/cells/python-net/ar/aspose.cells/databar/axis_color) | الحصول على لون محور الخلايا ذات التنسيق الشرطي كأشرطة بيانات.|
-| [axis_position](/cells/python-net/ar/aspose.cells/databar/axis_position) | الحصول على أو تعيين موضع محور أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي.|
-| [bar_fill_type](/cells/python-net/ar/aspose.cells/databar/bar_fill_type) | الحصول على أو تعيين كيفية ملء شريط البيانات بالألوان.|
-| [direction](/cells/python-net/ar/aspose.cells/databar/direction) |الحصول على أو تعيين اتجاه عرض شريط البيانات.|
-| [bar_border](/cells/python-net/ar/aspose.cells/databar/bar_border) | الحصول على كائن يحدد حدود شريط البيانات.|
-| [negative_bar_format](/cells/python-net/ar/aspose.cells/databar/negative_bar_format) | الحصول على كائن NegativeBarFormat المرتبط بقاعدة التنسيق الشرطي لشريط البيانات.|
-| [min_cfvo](/cells/python-net/ar/aspose.cells/databar/min_cfvo) | احصل على كائن القيمة الدنيا لـ DataBar أو قم بتعيينه.<br/> لا يمكن تعيين قيمة فارغة أو CFValueObject بالنوع FormatConditionValueType.Max إليها.|
-| [max_cfvo](/cells/python-net/ar/aspose.cells/databar/max_cfvo) | احصل على أو قم بتعيين كائن القيمة القصوى لـ DataBar.<br/> لا يمكن تعيين قيمة فارغة أو CFValueObject بالنوع FormatConditionValueType.Min إليها.|
-| [color](/cells/python-net/ar/aspose.cells/databar/color) | احصل على أو قم بتعيين لون DataBar هذا.|
+| [axis_color](/cells/python-net/ar/aspose.cells/databar/axis_color) | يحصل على لون المحور للخلايا ذات التنسيق الشرطي كأشرطة بيانات.|
+| [axis_position](/cells/python-net/ar/aspose.cells/databar/axis_position) | يحصل على موضع محور أشرطة البيانات المحددة بواسطة قاعدة التنسيق الشرطي أو يعينه.|
+| [bar_fill_type](/cells/python-net/ar/aspose.cells/databar/bar_fill_type) | يحصل على أو يعين كيفية ملء شريط البيانات باللون.|
+| [direction](/cells/python-net/ar/aspose.cells/databar/direction) | يحصل على أو يحدد الاتجاه الذي يظهر به شريط البيانات.|
+| [bar_border](/cells/python-net/ar/aspose.cells/databar/bar_border) | يحصل على كائن يحدد حدود شريط البيانات.|
+| [negative_bar_format](/cells/python-net/ar/aspose.cells/databar/negative_bar_format) | يحصل على كائن NegativeBarFormat المرتبط بقاعدة تنسيق شرطي لشريط البيانات.|
+| [min_cfvo](/cells/python-net/ar/aspose.cells/databar/min_cfvo) | الحصول على أو تعيين الحد الأدنى لقيمة كائن DataBar هذا.<br/> لا يمكن تعيين null أو CFValueObject مع نوع FormatConditionValueType.Max إليه.|
+| [max_cfvo](/cells/python-net/ar/aspose.cells/databar/max_cfvo) | الحصول على أو تعيين الحد الأقصى لقيمة كائن DataBar هذا.<br/> لا يمكن تعيين null أو CFValueObject مع نوع FormatConditionValueType.Min إليه.|
+| [color](/cells/python-net/ar/aspose.cells/databar/color) | احصل على لون شريط البيانات هذا أو قم بتعيينه.|
 | [min_length](/cells/python-net/ar/aspose.cells/databar/min_length) | يمثل الحد الأدنى لطول شريط البيانات.|
 | [max_length](/cells/python-net/ar/aspose.cells/databar/max_length) | يمثل الحد الأقصى لطول شريط البيانات.|
-| [show_value](/cells/python-net/ar/aspose.cells/databar/show_value) | احصل على أو قم بتعيين العلامة التي تشير إلى ما إذا كان سيتم إظهار قيم الخلايا التي تم تطبيق شريط البيانات عليها أم لا.<br/> القيمة الافتراضية صحيحة.|
+| [show_value](/cells/python-net/ar/aspose.cells/databar/show_value) |احصل على العلم الذي يشير إلى ما إذا كان سيتم عرض قيم الخلايا التي يتم تطبيق شريط البيانات هذا عليها أم لا.<br/> القيمة الافتراضية هي true.|
 
 
 ###  طُرق
 | طريقة| وصف|
 | :- | :- |
-| [to_image](/cells/python-net/ar/aspose.cells/databar/to_image/#aspose.cells.Cell-aspose.cells.rendering.ImageOrPrintOptions) | تقديم شريط البيانات في الخلية إلى صفيف بايت الصورة.|
+| [`to_image(self, cell, img_opts)`](/cells/python-net/ar/aspose.cells/databar/to_image/#aspose.cells.cell-aspose.cells.rendering.imageorprintoptions) | عرض شريط البيانات في الخلية إلى مجموعة بايتات الصورة.|
 
 
 

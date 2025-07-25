@@ -1,15 +1,13 @@
 ---
-title: connection_description الملكية
+title: connection_description عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ar/aspose.cells.externalconnections/dbconnection/connection_description/
 is_root: false
 ---
-##  connection_description الملكية
-
-يحدد وصف المستخدم لهذا الاتصال
+##  connection_description عقار
 ###  تعريف:
 ```python
 @property
@@ -21,5 +19,5 @@ def connection_description(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.externalconnections](../../)
-* فئة [DBConnection](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)
+* الوحدة [`aspose.cells.externalconnections`](../../)
+* فئة [`DBConnection`](/cells/python-net/ar/aspose.cells.externalconnections/dbconnection)

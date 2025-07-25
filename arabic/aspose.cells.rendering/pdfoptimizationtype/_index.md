@@ -1,26 +1,26 @@
 ---
-title: العد PdfOptimizationType
+title: PdfOptimizationType التعداد
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 210
+weight: 240
 url: /ar/aspose.cells.rendering/pdfoptimizationtype/
 is_root: false
 ---
-##  العد PdfOptimizationType
+##  PdfOptimizationType التعداد
 يحدد نوع التحسين.
 
 
 
-يكشف نوع PdfOptimizationType الأعضاء التالية:
+يكشف النوع PdfOptimizationType عن الأعضاء التاليين:
 
 ###  مجالات
 | مجال| وصف|
 | :- | :- |
-| STANDARD |جودة طباعة عالية|
-| MINIMUM_SIZE | حجم الملف أكثر أهمية من جودة الطباعة|
+| STANDARD | جودة طباعة عالية|
+| MINIMUM_SIZE | حجم الملف أهم من جودة الطباعة|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.rendering](..)
+* الوحدة [`aspose.cells.rendering`](..)

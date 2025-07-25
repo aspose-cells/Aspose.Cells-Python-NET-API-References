@@ -3,7 +3,7 @@ title: export_page_headers Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 320
+weight: 380
 url: /de/aspose.cells.saving/ebooksaveoptions/export_page_headers/
 is_root: false
 ---

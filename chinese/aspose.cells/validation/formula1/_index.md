@@ -9,7 +9,7 @@ is_root: false
 ---
 ## formula1属性
 
-表示与数据验证关联的值或表达式。
+表示与数据验证相关的值或表达式。
 ### 定义：
 ```python
 @property

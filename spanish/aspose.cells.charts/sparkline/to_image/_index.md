@@ -1,5 +1,5 @@
 ---
-title: to_image método
+title: método to_image
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
@@ -7,12 +7,13 @@ weight: 20
 url: /es/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
 Convierte un minigráfico en una imagen.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -24,12 +25,13 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | Las opciones de imagen|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
 Convierte un minigráfico en una imagen.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -43,5 +45,5 @@ def to_image(self, stream, options):
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Sparkline](/cells/python-net/es/aspose.cells.charts/sparkline)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Sparkline`](/cells/python-net/es/aspose.cells.charts/sparkline)

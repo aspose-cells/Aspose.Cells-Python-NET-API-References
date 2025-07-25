@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  match_entire_cell_contents propiedad
 
-Indica si se debe hacer coincidir el contenido completo de las celdas
+Indica si debe coincidir todo el contenido de las celdas
+
+###  Observaciones
+
+El valor predeterminado es verdadero.
 ###  Definición:
 ```python
 @property

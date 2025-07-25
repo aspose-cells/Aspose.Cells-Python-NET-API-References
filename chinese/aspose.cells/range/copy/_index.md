@@ -3,16 +3,17 @@ title: copy方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 50
+weight: 100
 url: /zh/aspose.cells/range/copy/
 is_root: false
 ---
-##  copy {#aspose.cells.Range}
+##  copy(self, range) {#aspose.cells.Range}
 从源范围复制数据（包括公式）、格式、绘图对象等。
 
 
 
 ```python
+
 def copy(self, range):
     ...
 ```
@@ -20,7 +21,7 @@ def copy(self, range):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/zh/aspose.cells/range) |来源 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。|
+| range | [`Range`](/cells/python-net/zh/aspose.cells/range) |源 [`Range`](/cells/python-net/zh/aspose.cells/range) 对象。|
 
 ### 例子
 
@@ -41,12 +42,13 @@ workbook.save("book1.xlsm")
 ```
 
 
-##  copy {#aspose.cells.Range-aspose.cells.PasteOptions}
-使用粘贴特殊选项复制范围。
+##  copy(self, range, options) {#aspose.cells.Range-aspose.cells.PasteOptions}
+使用选择性粘贴选项复制范围。
 
 
 
 ```python
+
 def copy(self, range, options):
     ...
 ```
@@ -54,8 +56,8 @@ def copy(self, range, options):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/zh/aspose.cells/range) |来源范围。|
-| options | [`PasteOptions`](/cells/python-net/zh/aspose.cells/pasteoptions) |粘贴特殊选项。|
+| range | [`Range`](/cells/python-net/zh/aspose.cells/range) |源范围。|
+| options | [`PasteOptions`](/cells/python-net/zh/aspose.cells/pasteoptions) |选择性粘贴选项。|
 
 
 

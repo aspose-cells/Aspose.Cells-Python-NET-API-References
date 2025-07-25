@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  show_legend Eigentum
 
-Ruft einen Wert ab, der angibt, ob die Diagrammlegende angezeigt wird, oder legt diesen fest. Der Standardwert ist wahr.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Diagrammlegende angezeigt wird. Der Standardwert ist „true“.
 ###  Definition:
 ```python
 @property

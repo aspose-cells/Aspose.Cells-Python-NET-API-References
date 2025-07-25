@@ -21,6 +21,6 @@ def formatting_type(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [ChartLineFormattingType](/cells/python-net/es/aspose.cells.charts/chartlineformattingtype)
-* clase [ErrorBar](/cells/python-net/es/aspose.cells.charts/errorbar)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`ChartLineFormattingType`](/cells/python-net/es/aspose.cells.charts/chartlineformattingtype)
+* clase [`ErrorBar`](/cells/python-net/es/aspose.cells.charts/errorbar)

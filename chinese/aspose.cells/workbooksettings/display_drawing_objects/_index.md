@@ -3,7 +3,7 @@ title: display_drawing_objects属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 160
+weight: 190
 url: /zh/aspose.cells/workbooksettings/display_drawing_objects/
 is_root: false
 ---

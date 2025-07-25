@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  items fastighet
 
-Får den diskreta items.
+Hämtar den diskreta items.
 ###  Definition:
 ```python
 @property

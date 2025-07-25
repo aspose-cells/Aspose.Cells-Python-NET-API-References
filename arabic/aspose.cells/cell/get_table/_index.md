@@ -3,11 +3,11 @@ title: طريقة get_table
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 220
+weight: 230
 url: /ar/aspose.cells/cell/get_table/
 is_root: false
 ---
-##  get_table() {#}
+##  get_table(self) {#}
 يحصل على الجدول الذي يحتوي على هذه الخلية.
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def get_table(self):
     ...
 ```
@@ -26,6 +27,6 @@ def get_table(self):
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Cell](/cells/python-net/ar/aspose.cells/cell)
-* فئة [ListObject](/cells/python-net/ar/aspose.cells.tables/listobject)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Cell`](/cells/python-net/ar/aspose.cells/cell)
+* فئة [`ListObject`](/cells/python-net/ar/aspose.cells.tables/listobject)

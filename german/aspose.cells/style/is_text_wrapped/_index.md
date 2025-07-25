@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_text_wrapped Eigentum
 
-Ruft einen Wert ab, der angibt, ob der Text innerhalb einer Zelle umbrochen wird, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Text innerhalb einer Zelle umbrochen wird.
 ###  Definition:
 ```python
 @property

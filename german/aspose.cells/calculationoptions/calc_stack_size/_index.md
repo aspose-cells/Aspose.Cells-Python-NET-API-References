@@ -14,11 +14,11 @@ Die Stapelgröße für die rekursive Berechnung von Zellen. Der Standardwert ist
 ###  Bemerkungen
 
 Wenn eine große Anzahl von Zellen im Abhängigkeitsbaum rekursiv berechnet werden muss,
-Im Berechnungsprozess kann eine StackOverflowException verursacht werden.
+Im Berechnungsprozess kann es zu einer StackOverflowException kommen.
 Wenn ja, sollte der Benutzer einen kleineren Wert für diese Eigenschaft angeben.
-In einer solchen Situation sollte der Benutzer den richtigen Wert für diese Eigenschaft anhand der tatsächlichen Formeln und Daten ermitteln.
-Ein zu kleiner Wert kann jedoch zu Leistungseinbußen bei der Formelberechnung und einem Wert unter 2 führen
-wird es unmöglich machen, eine Formel zu berechnen, die von einer anderen abhängt. Wenn der angegebene Wert also kleiner als 2 ist,
+In einer solchen Situation sollte der Benutzer den richtigen Wert für diese Eigenschaft anhand der tatsächlichen Formeln und Daten bestimmen.
+Ein zu kleiner Wert kann jedoch zu Leistungseinbußen bei der Formelberechnung führen, und ein Wert unter 2
+macht es unmöglich, eine Formel zu berechnen, die von einer anderen abhängt. Wenn der angegebene Wert kleiner als 2 ist,
 es wird auf 2 zurückgesetzt.
 ###  Definition:
 ```python

@@ -1,21 +1,21 @@
 ---
 title: image_source_full_name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 610
+weight: 600
 url: /ru/aspose.cells.drawing/oleobject/image_source_full_name/
 is_root: false
 ---
 ##  image_source_full_name недвижимость
 
-Получает или задает путь и имя исходного файла связанного изображения.
+Возвращает или задает путь и имя исходного файла для связанного изображения.
 
 ###  Примечания
 
 Значение по умолчанию — пустая строка.
-Если SourceFullName не пустая строка, изображение связано.
-Если SourceFullName не пустая строка, а Data имеет значение NULL, то изображение связано и не сохраняется в файле.
+Если SourceFullName не является пустой строкой, изображение ссылается.
+Если SourceFullName не является пустой строкой, а Data имеет значение null, то изображение связывается и не сохраняется в файле.
 ###  Определение:
 ```python
 @property

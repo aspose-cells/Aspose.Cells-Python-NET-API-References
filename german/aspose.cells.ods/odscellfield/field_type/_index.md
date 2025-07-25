@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  field_type Eigentum
 
-Ruft den Feldtyp ab und legt ihn fest.
+Ruft den Typ des Felds ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def field_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](../../)
-* Klasse [OdsCellField](/cells/python-net/de/aspose.cells.ods/odscellfield)
-* Klasse [OdsCellFieldType](/cells/python-net/de/aspose.cells.ods/odscellfieldtype)
+* Modul [`aspose.cells.ods`](../../)
+* Klasse [`OdsCellField`](/cells/python-net/de/aspose.cells.ods/odscellfield)
+* Klasse [`OdsCellFieldType`](/cells/python-net/de/aspose.cells.ods/odscellfieldtype)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  bottom_crop_inch propriété
 
-Représente l’emplacement du bas du rectangle de recadrage exprimé en pouces.
+Représente l'emplacement du bas du rectangle de recadrage exprimé, en unités de pouces.
 ###  Définition:
 ```python
 @property

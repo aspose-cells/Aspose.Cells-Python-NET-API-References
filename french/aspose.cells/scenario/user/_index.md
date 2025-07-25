@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  user propriété
 
-Obtient le nom du user qui a modifié le scénario en dernier.
+Obtient le nom de user qui a modifié le scénario en dernier.
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def user(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Scenario](/cells/python-net/fr/aspose.cells/scenario)
+* module [`aspose.cells`](../../)
+* classe [`Scenario`](/cells/python-net/fr/aspose.cells/scenario)

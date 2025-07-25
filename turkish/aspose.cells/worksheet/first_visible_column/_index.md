@@ -3,13 +3,13 @@ title: first_visible_column mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 500
+weight: 520
 url: /tr/aspose.cells/worksheet/first_visible_column/
 is_root: false
 ---
 ##  first_visible_column mülk
 
-İlk görünür sütun dizinini temsil eder.
+İlk görünen sütun indeksini temsil eder.
 ###  Tanım:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  scale_y Eigentum
 
-Ruft die Y-Skalierung für das Kachelbild ab oder legt diese fest.
+Ruft die Y-Skala für die Kachelung des Bildes ab oder legt sie fest.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def scale_y(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [TilePicOption](/cells/python-net/de/aspose.cells.drawing/tilepicoption)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`TilePicOption`](/cells/python-net/de/aspose.cells.drawing/tilepicoption)

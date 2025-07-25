@@ -3,7 +3,7 @@ title: input_range属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 530
+weight: 520
 url: /zh/aspose.cells.drawing/chartshape/input_range/
 is_root: false
 ---

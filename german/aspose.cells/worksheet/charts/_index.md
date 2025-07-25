@@ -3,7 +3,7 @@ title: charts Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 410
+weight: 430
 url: /de/aspose.cells/worksheet/charts/
 is_root: false
 ---

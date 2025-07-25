@@ -1,16 +1,16 @@
 ---
 title: export_view_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 140
+weight: 170
 url: /it/aspose.cells/pptxsaveoptions/export_view_type/
 is_root: false
 ---
 ##  export_view_type proprietà
 
-Ottiene e imposta il tipo di visualizzazione durante l'esportazione su PowerPoint.
-Il tipo di esportazione predefinito funziona come stampa.
+Ottiene e imposta il tipo di visualizzazione durante l'esportazione in PowerPoint.
+Il tipo di esportazione predefinito funziona come la stampa.
 ###  Definizione:
 ```python
 @property

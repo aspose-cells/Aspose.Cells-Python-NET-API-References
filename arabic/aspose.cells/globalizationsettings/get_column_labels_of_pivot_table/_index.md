@@ -7,16 +7,17 @@ weight: 50
 url: /ar/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/
 is_root: false
 ---
-##  get_column_labels_of_pivot_table() {#}
-الحصول على اسم تسمية "تسميات الأعمدة" في PivotTable.
+##  get_column_labels_of_pivot_table(self) {#}
+يحصل على اسم تسمية "تسميات الأعمدة" في الجدول المحوري.
 
 
 ###  عائدات
 
-اسم تسميات العمود
+اسم تسميات الأعمدة
 
 
 ```python
+
 def get_column_labels_of_pivot_table(self):
     ...
 ```
@@ -24,12 +25,12 @@ def get_column_labels_of_pivot_table(self):
 
 ###  ملاحظات
 
-ملاحظة: هذا العضو قد عفا عليه الزمن الآن. بدلاً من،
-الرجاء استخدام طريقة GlobalizationSettings.GetColumnLabelsOfPivotTable ().
- ستتم إزالة هذا العقار بعد 12 شهرًا منذ ديسمبر 2022.
-Aspose يعتذر عن أي إزعاج قد يكون سببه لك.
+ملاحظة: هذا العضو أصبح قديمًا. بدلًا من ذلك،
+يرجى استخدام طريقة PivotGlobalizationSettings.GetColumnLabelsOfPivotTable().
+ سيتم إزالة هذه الخاصية بعد مرور 12 شهرًا منذ ديسمبر 2022.
+Aspose يعتذر عن أي إزعاج قد يكون واجهته.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [GlobalizationSettings](/cells/python-net/ar/aspose.cells/globalizationsettings)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`GlobalizationSettings`](/cells/python-net/ar/aspose.cells/globalizationsettings)

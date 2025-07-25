@@ -3,7 +3,7 @@ title: max_row propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1120
+weight: 1150
 url: /es/aspose.cells/cells/max_row/
 is_root: false
 ---
@@ -13,7 +13,10 @@ is_root: false
 
 ###  Observaciones
 
-Devuelve -1 si no hay ninguna celda que contenga datos o estilo en la hoja de trabajo.
+Devuelve -1 si no hay ninguna celda que contenga datos o estilo en la hoja de cálculo.
+Esta propiedad necesita iterar y verificar celdas y filas dinámicamente.
+Por lo tanto, es un proceso que requiere tiempo y no debe invocarse repetidamente.
+como usarlo directamente como condición en un bucle.
 ###  Definición:
 ```python
 @property

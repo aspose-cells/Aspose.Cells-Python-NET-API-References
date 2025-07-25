@@ -9,7 +9,11 @@ is_root: false
 ---
 ##  match_entire_cell_contents mülk
 
-Hücre içeriğinin tamamının eşleşip eşleşmeyeceğini belirtir
+Tüm hücre içeriklerinin eşleştirilip eşleştirilmeyeceğini belirtir
+
+###  Notlar
+
+Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
 @property

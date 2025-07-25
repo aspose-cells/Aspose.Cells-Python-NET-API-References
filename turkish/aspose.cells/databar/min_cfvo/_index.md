@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  min_cfvo mülk
 
-Bu DataBar'ın minimum değer nesnesini alın veya ayarlayın.
-FormatConditionValueType.Max türünde null veya CFValueObject ayarlanamıyor.
+Bu DataBar'ın en düşük değer nesnesini al veya ayarla.
+FormatConditionValueType.Max türünde null veya CFValueObject değeri ayarlanamaz.
 ###  Tanım:
 ```python
 @property
@@ -19,6 +19,6 @@ def min_cfvo(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingValue](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
-* sınıf [DataBar](/cells/python-net/tr/aspose.cells/databar)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingValue`](/cells/python-net/tr/aspose.cells/conditionalformattingvalue)
+* sınıf [`DataBar`](/cells/python-net/tr/aspose.cells/databar)

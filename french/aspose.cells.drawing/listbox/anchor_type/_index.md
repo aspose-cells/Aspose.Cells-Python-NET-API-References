@@ -3,13 +3,13 @@ title: anchor_type propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 310
+weight: 320
 url: /fr/aspose.cells.drawing/listbox/anchor_type/
 is_root: false
 ---
 ##  anchor_type propriété
 
-Obtient et définit l’espace réservé de l’ancre de forme.
+Obtient et définit le type de l'espace réservé d'ancrage de forme.
 
 ###  Exemple
 

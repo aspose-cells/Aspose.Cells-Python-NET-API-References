@@ -3,12 +3,12 @@ title: FillFormat klass
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 180
+weight: 170
 url: /sv/aspose.cells.drawing/fillformat/
 is_root: false
 ---
 ##  FillFormat klass
-Kapslar in objektet som representerar fyllningsformatering för en form.
+Inkapslar objektet som representerar fyllningsformatering för en form.
 
 
 
@@ -17,35 +17,35 @@ Typen FillFormat avslöjar följande medlemmar:
 ###  Egenskaper
 | Fast egendom| Beskrivning|
 | :- | :- |
-| [type](/cells/python-net/sv/aspose.cells.drawing/fillformat/type) |Hämtar och ställer in fyllningstypen.|
-| [fill_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/fill_type) | Hämtar och ställer in fyllningstyp|
-| [transparency](/cells/python-net/sv/aspose.cells.drawing/fillformat/transparency) | Returnerar eller ställer in graden av transparens för området som ett värde från 0,0 (opak) till 1,0 (ren).|
-| [set_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_type) | Hämtar uppsättningstypen för fyllningsformat.|
-| [gradient_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_fill) | Får [FillFormat.gradient_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat#gradient_fill) objekt.|
-| [texture_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/texture_fill) | Får [FillFormat.texture_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat#texture_fill) objekt.|
-| [solid_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/solid_fill) | Får [FillFormat.solid_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat#solid_fill) objekt.|
-| [pattern_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/pattern_fill) | Får [FillFormat.pattern_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat#pattern_fill) objekt.|
-| [gradient_color_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_color_type) | Returnerar gradientfärgtypen för den angivna fyllningen.|
-| [gradient_style](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_style) | Returnerar gradientstilen för den angivna fyllningen.|
+| [type](/cells/python-net/sv/aspose.cells.drawing/fillformat/type) | Hämtar och anger fyllningstypen.|
+| [fill_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/fill_type) | Hämtar och anger fyllningstyp|
+| [transparency](/cells/python-net/sv/aspose.cells.drawing/fillformat/transparency) |Returnerar eller anger områdets genomskinlighetsgrad som ett värde från 0,0 (ogenomskinlig) till 1,0 (klar).|
+| [set_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_type) | Hämtar fyllningsformatuppsättningstypen.|
+| [gradient_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_fill) | Hämtar [`FillFormat.gradient_fill`](/cells/python-net/sv/aspose.cells.drawing/fillformat#gradient_fill)-objektet.|
+| [texture_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/texture_fill) | Hämtar [`FillFormat.texture_fill`](/cells/python-net/sv/aspose.cells.drawing/fillformat#texture_fill)-objektet.|
+| [solid_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/solid_fill) | Hämtar [`FillFormat.solid_fill`](/cells/python-net/sv/aspose.cells.drawing/fillformat#solid_fill)-objektet.|
+| [pattern_fill](/cells/python-net/sv/aspose.cells.drawing/fillformat/pattern_fill) | Hämtar [`FillFormat.pattern_fill`](/cells/python-net/sv/aspose.cells.drawing/fillformat#pattern_fill)-objektet.|
+| [gradient_color_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_color_type) | Returnerar övertoningsfärgtypen för den angivna fyllningen.|
+| [gradient_style](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_style) | Returnerar övertoningsstilen för den angivna fyllningen.|
 | [gradient_color1](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_color1) | Returnerar gradientfärg 1 för den angivna fyllningen.|
-| [gradient_color2](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_color2) | Returnerar gradientfärg 2 för den angivna fyllningen.|
-| [gradient_degree](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_degree) | Returnerar gradientgraden för den angivna fyllningen.<br/> Gäller endast Excel 2007.|
-| [gradient_variant](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_variant) | Returnerar gradientvarianten för den angivna fyllningen.<br/> Gäller endast Excel 2007.|
+| [gradient_color2](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_color2) |Returnerar gradientfärg 2 för den angivna fyllningen.|
+| [gradient_degree](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_degree) | Returnerar gradientgraden för den angivna fyllningen.<br/> Gäller endast för Excel 2007.|
+| [gradient_variant](/cells/python-net/sv/aspose.cells.drawing/fillformat/gradient_variant) | Returnerar gradientvarianten för den angivna fyllningen.<br/> Gäller endast för Excel 2007.|
 | [preset_color](/cells/python-net/sv/aspose.cells.drawing/fillformat/preset_color) | Returnerar den förinställda övertoningsfärgen för den angivna fyllningen.|
 | [texture](/cells/python-net/sv/aspose.cells.drawing/fillformat/texture) | Representerar texturtypen för den angivna fyllningen.|
 | [pattern](/cells/python-net/sv/aspose.cells.drawing/fillformat/pattern) | Representerar ett områdes visningsmönster.|
-| [picture_format_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/picture_format_type) | Hämtar och ställer in bildformatstyp.|
+| [picture_format_type](/cells/python-net/sv/aspose.cells.drawing/fillformat/picture_format_type) | Hämtar och anger bildformattypen.|
 | [scale](/cells/python-net/sv/aspose.cells.drawing/fillformat/scale) | Hämtar och ställer in bildformatsskalan.|
-| [image_data](/cells/python-net/sv/aspose.cells.drawing/fillformat/image_data) | Hämtar och ställer in bildbildsdata.|
+| [image_data](/cells/python-net/sv/aspose.cells.drawing/fillformat/image_data) | Hämtar och ställer in bilddata.|
 
 
 ###  Metoder
 | Metod| Beskrivning|
 | :- | :- |
-| [set_two_color_gradient(color1, color2, style, variant)](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-aspose.pydrawing.Color-GradientStyleType-int) | Ställer in den angivna fyllningen till en tvåfärgsgradient.<br/> Gäller endast Excel 2007.|
-| [set_two_color_gradient(color1, transparency1, color2, transparency2, style, variant)](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.Color-float-aspose.pydrawing.Color-float-GradientStyleType-int) | Ställer in den angivna fyllningen till en tvåfärgsgradient.<br/> Gäller endast Excel 2007.|
-| [set_one_color_gradient(color, degree, style, variant)](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.Color-float-GradientStyleType-int) | Ställer in den angivna fyllningen till en enfärgsgradient.<br/> Gäller endast Excel 2007.|
-| [set_preset_color_gradient(preset_color, style, variant)](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_preset_color_gradient/#GradientPresetType-GradientStyleType-int) | Ställer in den angivna fyllningen till en förinställd färggradient.<br/> Gäller endast Excel 2007.|
+| [`set_two_color_gradient(self, color1, color2, style, variant)`](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Ställer in den angivna fyllningen till en tvåfärgad övertoning.<br/> Gäller endast för Excel 2007.|
+| [`set_two_color_gradient(self, color1, transparency1, color2, transparency2, style, variant)`](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_two_color_gradient/#aspose.pydrawing.color-float-aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Ställer in den angivna fyllningen till en tvåfärgad övertoning.<br/> Gäller endast för Excel 2007.|
+| [`set_one_color_gradient(self, color, degree, style, variant)`](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_one_color_gradient/#aspose.pydrawing.color-float-aspose.cells.drawing.gradientstyletype-int) | Ställer in den angivna fyllningen till en enfärgad övertoning.<br/> Gäller endast för Excel 2007.|
+| [`set_preset_color_gradient(self, preset_color, style, variant)`](/cells/python-net/sv/aspose.cells.drawing/fillformat/set_preset_color_gradient/#aspose.cells.drawing.gradientpresettype-aspose.cells.drawing.gradientstyletype-int) | Ställer in den angivna fyllningen till en förinställd färgövertoning.<br/> Gäller endast för Excel 2007.|
 
 
 
@@ -101,4 +101,4 @@ chart.n_series[seriesIndex].area.fill_format.set_one_color_gradient(Color.lime, 
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](..)
+* modul [`aspose.cells.drawing`](..)

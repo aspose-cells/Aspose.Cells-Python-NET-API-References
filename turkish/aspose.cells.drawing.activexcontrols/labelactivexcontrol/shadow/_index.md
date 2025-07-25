@@ -8,8 +8,6 @@ url: /tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol/shadow/
 is_root: false
 ---
 ##  shadow mülk
-
-shadow'in gösterilip gösterilmeyeceğini belirtir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +19,5 @@ def shadow(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [LabelActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`LabelActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/labelactivexcontrol)

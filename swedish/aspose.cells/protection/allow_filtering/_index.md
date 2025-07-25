@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_filtering fastighet
 
-Representerar om användaren får använda ett autofilter som skapades innan arket skyddades.
+Representerar om användaren har tillstånd att använda ett autofilter som skapades innan arket skyddades.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_filtering(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Protection](/cells/python-net/sv/aspose.cells/protection)
+* modul [`aspose.cells`](../../)
+* klass [`Protection`](/cells/python-net/sv/aspose.cells/protection)

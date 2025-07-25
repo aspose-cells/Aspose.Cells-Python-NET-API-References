@@ -3,7 +3,7 @@ title: data_range propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 130
+weight: 140
 url: /es/aspose.cells.tables/listobject/data_range/
 is_root: false
 ---
@@ -18,6 +18,6 @@ def data_range(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.tables](../../)
-* clase [ListObject](/cells/python-net/es/aspose.cells.tables/listobject)
-* clase [Range](/cells/python-net/es/aspose.cells/range)
+* módulo [`aspose.cells.tables`](../../)
+* clase [`ListObject`](/cells/python-net/es/aspose.cells.tables/listobject)
+* clase [`Range`](/cells/python-net/es/aspose.cells/range)

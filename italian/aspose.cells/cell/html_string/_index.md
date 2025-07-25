@@ -1,15 +1,15 @@
 ---
 title: html_string proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 520
+weight: 540
 url: /it/aspose.cells/cell/html_string/
 is_root: false
 ---
 ##  html_string proprietà
 
-Ottiene e imposta la stringa html che contiene dati e alcuni formati in questa cella.
+Ottiene e imposta la stringa HTML che contiene dati e alcuni formati in questa cella.
 ###  Definizione:
 ```python
 @property

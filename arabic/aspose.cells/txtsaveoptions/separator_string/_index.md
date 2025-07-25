@@ -1,15 +1,15 @@
 ---
-title: separator_string الملكية
+title: separator_string عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 190
+weight: 200
 url: /ar/aspose.cells/txtsaveoptions/separator_string/
 is_root: false
 ---
-##  separator_string الملكية
+##  separator_string عقار
 
-الحصول على قيمة سلسلة وتعيينها كفاصل.
+يحصل على قيمة سلسلة ويعينها كفاصل.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def separator_string(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [TxtSaveOptions](/cells/python-net/ar/aspose.cells/txtsaveoptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`TxtSaveOptions`](/cells/python-net/ar/aspose.cells/txtsaveoptions)

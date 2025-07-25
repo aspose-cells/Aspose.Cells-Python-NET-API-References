@@ -3,20 +3,20 @@ title: custom_implementation_factory propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 220
+weight: 240
 url: /fr/aspose.cells/cellshelper/custom_implementation_factory/
 is_root: false
 ---
 ##  custom_implementation_factory propriété
 
-Obtient ou définit la fabrique pour créer des instances avec une implémentation spéciale.
+Obtient ou définit l'usine pour créer des instances avec une implémentation spéciale.
 ###  Définition:
 ```python
 @property
 def custom_implementation_factory(self):
     ...
-@custom_implementation_factory.setter
-def custom_implementation_factory(self, value):
+@staticmethod
+def set_custom_implementation_factory(value):
     ...
 ```
 

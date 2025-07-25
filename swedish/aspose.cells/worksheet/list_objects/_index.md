@@ -3,13 +3,13 @@ title: list_objects fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 640
+weight: 670
 url: /sv/aspose.cells/worksheet/list_objects/
 is_root: false
 ---
 ##  list_objects fastighet
 
-Hämtar alla ListObjects i detta kalkylblad.
+Hämtar alla ListObjects i det här kalkylbladet.
 ###  Definition:
 ```python
 @property

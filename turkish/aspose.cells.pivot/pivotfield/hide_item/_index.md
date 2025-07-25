@@ -3,16 +3,17 @@ title: hide_item yöntemi
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 100
+weight: 160
 url: /tr/aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---
-##  hide_item {#int-bool}
-Bir veri alanındaki belirli PivotItem'in gizli olup olmayacağını ayarlar.
+##  hide_item(self, index, is_hidden) {#int-bool}
+Bir veri alanındaki belirli PivotItem'ın gizli olup olmadığını ayarlar.
 
 
 
 ```python
+
 def hide_item(self, index, is_hidden):
     ...
 ```
@@ -20,16 +21,17 @@ def hide_item(self, index, is_hidden):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| index | int | pivotField'daki pivotItem dizini.|
-| is_hidden | bool | belirli PivotItem'in gizli olup olmadığı|
+| index | int | pivotField'daki pivotItem'ın indeksi.|
+| is_hidden | bool | belirli PivotItem'ın gizli olup olmadığı|
 
 
-##  hide_item {#str-bool}
-Bir veri alanındaki belirli PivotItem'in gizli olup olmayacağını ayarlar.
+##  hide_item(self, item_value, is_hidden) {#str-bool}
+Bir veri alanındaki belirli PivotItem'ın gizli olup olmadığını ayarlar.
 
 
 
 ```python
+
 def hide_item(self, item_value, is_hidden):
     ...
 ```
@@ -37,8 +39,8 @@ def hide_item(self, item_value, is_hidden):
 
 | Parametre| Tip| Tanım|
 | :- | :- | :- |
-| item_value | str | pivotField'daki pivotItem'in değeri.|
-| is_hidden | bool | belirli PivotItem'in gizli olup olmadığı|
+| item_value | str | pivotField'daki pivotItem'ın değeri.|
+| is_hidden | bool | belirli PivotItem'ın gizli olup olmadığı|
 
 
 

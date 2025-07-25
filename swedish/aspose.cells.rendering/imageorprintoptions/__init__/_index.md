@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells.rendering/imageorprintoptions/__init__/
 is_root: false
 ---
-##  ImageOrPrintOptions() {#}
-Konstruerar en ny instans av ImageOrPrintOptions
+##  \_\_init\_\_(själv){#}
+Rektor.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells.rendering](../../)
-* klass [ImageOrPrintOptions](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)
+* modul [`aspose.cells.rendering`](../../)
+* klass [`ImageOrPrintOptions`](/cells/python-net/sv/aspose.cells.rendering/imageorprintoptions)

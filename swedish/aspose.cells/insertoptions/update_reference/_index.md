@@ -21,5 +21,5 @@ def update_reference(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [InsertOptions](/cells/python-net/sv/aspose.cells/insertoptions)
+* modul [`aspose.cells`](../../)
+* klass [`InsertOptions`](/cells/python-net/sv/aspose.cells/insertoptions)

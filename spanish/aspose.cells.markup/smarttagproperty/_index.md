@@ -8,7 +8,7 @@ url: /es/aspose.cells.markup/smarttagproperty/
 is_root: false
 ---
 ##  SmartTagProperty clase
-Representa la propiedad de la etiqueta inteligente de celda.
+Representa la propiedad de la etiqueta inteligente de la celda.
 
 
 
@@ -23,4 +23,4 @@ El tipo SmartTagProperty expone los siguientes miembros:
 
 
 ###  Ver también
-* módulo [aspose.cells.markup](..)
+* módulo [`aspose.cells.markup`](..)

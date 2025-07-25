@@ -1,18 +1,19 @@
 ---
 title: Metodo insert_columns
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 680
+weight: 700
 url: /it/aspose.cells/cells/insert_columns/
 is_root: false
 ---
-##  insert_columns {#int-int}
+##  insert_columns(self, column_index, total_columns) {#int-int}
 Inserisce alcune colonne nel foglio di lavoro.
 
 
 
 ```python
+
 def insert_columns(self, column_index, total_columns):
     ...
 ```
@@ -24,12 +25,13 @@ def insert_columns(self, column_index, total_columns):
 | total_columns | int | Il numero di colonne.|
 
 
-##  insert_columns {#int-int-bool}
+##  insert_columns(self, column_index, total_columns, update_reference) {#int-int-bool}
 Inserisce alcune colonne nel foglio di lavoro.
 
 
 
 ```python
+
 def insert_columns(self, column_index, total_columns, update_reference):
     ...
 ```
@@ -39,7 +41,26 @@ def insert_columns(self, column_index, total_columns, update_reference):
 | :- | :- | :- |
 | column_index | int | Indice delle colonne.|
 | total_columns | int | Il numero di colonne.|
-| update_reference | bool | Indica se i riferimenti in altri fogli di lavoro verranno aggiornati.|
+| update_reference | bool | Indica se i riferimenti negli altri fogli di lavoro verranno aggiornati.|
+
+
+##  insert_columns(self, column_index, total_columns, options) {#int-int-aspose.cells.InsertOptions}
+Inserisce alcune colonne nel foglio di lavoro.
+
+
+
+```python
+
+def insert_columns(self, column_index, total_columns, options):
+    ...
+```
+
+
+| Parametro| Tipo| Descrizione|
+| :- | :- | :- |
+| column_index | int | Indice delle colonne.|
+| total_columns | int | Il numero di colonne.|
+| options | [`InsertOptions`](/cells/python-net/it/aspose.cells/insertoptions) | Opzioni per l'inserimento dell'operazione.|
 
 
 

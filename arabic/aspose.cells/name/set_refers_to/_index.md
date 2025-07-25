@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells/name/set_refers_to/
 is_root: false
 ---
-##  set_refers_to(refers_to, is_r1c1, is_local) {#str-bool-bool}
-قم بتعيين مرجع هذا الاسم.
+##  set_refers_to(self, refers_to, is_r1c1, is_local) {#str-bool-bool}
+تعيين مرجع هذا الاسم.
 
 
 
 ```python
+
 def set_refers_to(self, refers_to, is_r1c1, is_local):
     ...
 ```
@@ -21,11 +22,11 @@ def set_refers_to(self, refers_to, is_r1c1, is_local):
 | معامل| يكتب| وصف|
 | :- | :- | :- |
 | refers_to | str | المرجع.|
-| is_r1c1 | bool |ما إذا كان المرجع هو تنسيق R1C1.|
-| is_local | bool | ما إذا كان المرجع منسقًا محليًا أم لا.|
+| is_r1c1 | bool | إذا كان المرجع بتنسيق R1C1.|
+| is_local | bool | ما إذا كان المرجع بتنسيق محلي.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [Name](/cells/python-net/ar/aspose.cells/name)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`Name`](/cells/python-net/ar/aspose.cells/name)

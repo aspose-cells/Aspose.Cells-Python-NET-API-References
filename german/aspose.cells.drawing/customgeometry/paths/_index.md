@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  paths Eigentum
 
-Ruft Pfadsammlungsinformationen ab, wenn die Form eine NotPrimitive-AutoForm ist
+Ruft Pfadsammlungsinformationen ab, wenn die Form eine NotPrimitive-Autoform ist
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def paths(self):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing](../../)
-* Klasse [CustomGeometry](/cells/python-net/de/aspose.cells.drawing/customgeometry)
-* Klasse [ShapePathCollection](/cells/python-net/de/aspose.cells.drawing/shapepathcollection)
+* Modul [`aspose.cells.drawing`](../../)
+* Klasse [`CustomGeometry`](/cells/python-net/de/aspose.cells.drawing/customgeometry)
+* Klasse [`ShapePathCollection`](/cells/python-net/de/aspose.cells.drawing/shapepathcollection)

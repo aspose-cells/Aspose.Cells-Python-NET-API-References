@@ -1,26 +1,24 @@
 ---
 title: NoneFill класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 390
+weight: 370
 url: /ru/aspose.cells.drawing/nonefill/
 is_root: false
 ---
 ##  NoneFill класс
-Представляет отсутствие заполнения.
+Представляет собой отсутствие заполнения.
 
 
 
-**Наследование:** [NoneFill](/cells/python-net/aspose.cells.drawing/nonefill) → 
-[Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
+**Наследование:** [`NoneFill`](/cells/python-net/ru/aspose.cells.drawing/nonefill)
 
 
 
-Тип NoneFill предоставляет следующие члены:
+Тип NoneFill предоставляет следующие элементы:
 
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing](..)
-* класс [Fill](/cells/python-net/ru/aspose.cells.drawing/fill)
-* класс [NoneFill](/cells/python-net/ru/aspose.cells.drawing/nonefill)
+* модуль [`aspose.cells.drawing`](..)
+* класс [`NoneFill`](/cells/python-net/ru/aspose.cells.drawing/nonefill)

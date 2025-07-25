@@ -1,18 +1,19 @@
 ---
-title: unprotect_shared_workbook méthode
+title: méthode unprotect_shared_workbook
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 400
+weight: 420
 url: /fr/aspose.cells/workbook/unprotect_shared_workbook/
 is_root: false
 ---
-##  unprotect_shared_workbook(password) {#str}
-Déprotége un classeur partagé.
+##  unprotect_shared_workbook(self, password) {#str}
+Déprotège un classeur partagé.
 
 
 
 ```python
+
 def unprotect_shared_workbook(self, password):
     ...
 ```
@@ -25,5 +26,5 @@ def unprotect_shared_workbook(self, password):
 
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [Workbook](/cells/python-net/fr/aspose.cells/workbook)
+* module [`aspose.cells`](../../)
+* classe [`Workbook`](/cells/python-net/fr/aspose.cells/workbook)

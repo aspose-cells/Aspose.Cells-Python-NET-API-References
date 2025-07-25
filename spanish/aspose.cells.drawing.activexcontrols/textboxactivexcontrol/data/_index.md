@@ -8,8 +8,6 @@ url: /es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol/data/
 is_root: false
 ---
 ##  data propiedad
-
-Obtiene y establece el binario data del control.
 ###  Definición:
 ```python
 @property
@@ -18,5 +16,5 @@ def data(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.drawing.activexcontrols](../../)
-* clase [TextBoxActiveXControl](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)
+* módulo [`aspose.cells.drawing.activexcontrols`](../../)
+* clase [`TextBoxActiveXControl`](/cells/python-net/es/aspose.cells.drawing.activexcontrols/textboxactivexcontrol)

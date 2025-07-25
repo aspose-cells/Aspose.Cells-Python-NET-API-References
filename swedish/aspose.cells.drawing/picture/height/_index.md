@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  height fastighet
 
-Representerar formens height, i pixelenhet.
+Representerar formen height, i pixelenhet.
 
 ###  Exempel
 

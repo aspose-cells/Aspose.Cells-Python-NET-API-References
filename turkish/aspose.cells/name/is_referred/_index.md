@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_referred mülk
 
-Bu adın diğer formüller tarafından başvuruda bulunup bulunmadığını gösterir.
+Bu ismin başka formüllerde de yer alıp almadığını gösterir.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def is_referred(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [Name](/cells/python-net/tr/aspose.cells/name)
+* modül [`aspose.cells`](../../)
+* sınıf [`Name`](/cells/python-net/tr/aspose.cells/name)

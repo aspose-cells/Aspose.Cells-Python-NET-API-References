@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells/errorcheckoption/get_count_of_range/
 is_root: false
 ---
-##  get_count_of_range() {#}
+##  get_count_of_range(self) {#}
 Ruft die Anzahl der Bereiche ab, die von dieser Einstellung beeinflusst werden.
 
 
@@ -17,6 +17,7 @@ die Anzahl der Bereiche, die von dieser Einstellung beeinflusst werden.
 
 
 ```python
+
 def get_count_of_range(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_count_of_range(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ErrorCheckOption](/cells/python-net/de/aspose.cells/errorcheckoption)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ErrorCheckOption`](/cells/python-net/de/aspose.cells/errorcheckoption)

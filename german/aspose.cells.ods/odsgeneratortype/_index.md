@@ -8,7 +8,7 @@ url: /de/aspose.cells.ods/odsgeneratortype/
 is_root: false
 ---
 ##  OdsGeneratorType Aufzählung
-Stellt den Generatortyp ODS dar.
+Stellt den Typ des Generators ODS dar.
 
 
 
@@ -17,10 +17,10 @@ Der Typ OdsGeneratorType macht die folgenden Member verfügbar:
 ###  Felder
 | Feld| Beschreibung|
 | :- | :- |
-| LIBRE_OFFICE | Freies Büro|
+| LIBRE_OFFICE | Libre Office|
 | OPEN_OFFICE | Offenes Büro|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.ods](..)
+* Modul [`aspose.cells.ods`](..)

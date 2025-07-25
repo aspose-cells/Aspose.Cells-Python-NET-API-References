@@ -3,7 +3,7 @@ title: preferred_parsers mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 350
+weight: 330
 url: /tr/aspose.cells/txtloadoptions/preferred_parsers/
 is_root: false
 ---
@@ -13,10 +13,10 @@ Metin dosyasını yüklemek için tercih edilen değer ayrıştırıcılarını 
 
 ###  Notlar
 
-ayrıştırıcılar[0], metin şablon dosyasındaki ilk sütun için kullanılacak ayrıştırıcıdır,
-ayrıştırıcılar[1] ikinci sütun için kullanılacak ayrıştırıcıdır, ...vb.
-Sonuncusu(parsers[parsers.length-1]), parsers.length-1'den başlayan diğer tüm sütunlar için kullanılacaktır.
-Bir öğe null ise, ilgili sütun Aspose.Cells'in varsayılan ayrıştırıcısı tarafından ayrıştırılacaktır.
+parsers[0], metin şablonu dosyasındaki ilk sütun için kullanılacak ayrıştırıcıdır,
+parsers[1] ikinci sütun için kullanılacak ayrıştırıcıdır, ...vb.
+Sonuncusu (parsers[parsers.length-1]) parsers.length-1'den başlayan diğer tüm sütunlar için kullanılacaktır.
+Bir öğe boşsa, ilgili sütun Aspose.Cells varsayılan ayrıştırıcısı tarafından ayrıştırılacaktır.
 ###  Tanım:
 ```python
 @property

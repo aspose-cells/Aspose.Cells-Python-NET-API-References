@@ -21,5 +21,5 @@ def field_index(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [FilterColumn](/cells/python-net/tr/aspose.cells/filtercolumn)
+* modül [`aspose.cells`](../../)
+* sınıf [`FilterColumn`](/cells/python-net/tr/aspose.cells/filtercolumn)

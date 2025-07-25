@@ -21,5 +21,5 @@ def last_selected(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ScenarioCollection](/cells/python-net/fr/aspose.cells/scenariocollection)
+* module [`aspose.cells`](../../)
+* classe [`ScenarioCollection`](/cells/python-net/fr/aspose.cells/scenariocollection)

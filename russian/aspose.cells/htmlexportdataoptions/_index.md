@@ -1,14 +1,14 @@
 ---
 title: HtmlExportDataOptions перечисление
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 2220
+weight: 2160
 url: /ru/aspose.cells/htmlexportdataoptions/
 is_root: false
 ---
 ##  HtmlExportDataOptions перечисление
-Представляет параметры экспорта данных HTML.
+Представляет варианты экспорта HTML-данных.
 
 
 
@@ -17,8 +17,8 @@ is_root: false
 ###  Поля
 | Поле| Описание|
 | :- | :- |
-| TABLE | Экспортируйте файл в формат html, который содержит только табличную часть.|
-| ALL | Экспортируйте все данные в HTML.|
+| TABLE | Экспорт файла в HTML, содержащий только табличную часть.|
+| ALL | Экспортируйте все данные в html.|
 
 
 

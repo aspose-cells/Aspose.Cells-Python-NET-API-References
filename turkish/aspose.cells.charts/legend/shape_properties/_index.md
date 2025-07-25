@@ -3,7 +3,7 @@ title: shape_properties mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 340
+weight: 400
 url: /tr/aspose.cells.charts/legend/shape_properties/
 is_root: false
 ---

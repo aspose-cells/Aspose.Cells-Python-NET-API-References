@@ -3,13 +3,13 @@ title: object_data propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 960
+weight: 970
 url: /es/aspose.cells.drawing/oleobject/object_data/
 is_root: false
 ---
 ##  object_data propiedad
 
-Representa datos de objetos antiguos incrustados como una matriz de bytes.
+Representa datos de objetos ole incrustados como una matriz de bytes.
 ###  Definición:
 ```python
 @property

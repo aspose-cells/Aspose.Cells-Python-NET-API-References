@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  tick_label_items propriété
 
-Obtient les informations de l'axe de chaque élément d'étiquette de tick.
+Obtient les étiquettes de graduation d'affichage de l'axe.
 
 ###  Remarques
 

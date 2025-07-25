@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  gradient_style_type Eigentum
 
-Ruft den Verlaufsschattierungsstil ab und legt ihn fest.
+Ruft den Schattierungsstil des Farbverlaufs ab und legt ihn fest.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def gradient_style_type(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [GradientStyleType](/cells/python-net/de/aspose.cells.drawing/gradientstyletype)
-* Klasse [TwoColorGradient](/cells/python-net/de/aspose.cells/twocolorgradient)
+* Modul [`aspose.cells`](../../)
+* Klasse [`GradientStyleType`](/cells/python-net/de/aspose.cells.drawing/gradientstyletype)
+* Klasse [`TwoColorGradient`](/cells/python-net/de/aspose.cells/twocolorgradient)

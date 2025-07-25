@@ -1,22 +1,23 @@
 ---
 title: characters метод
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 20
+weight: 30
 url: /ru/aspose.cells.charts/datalabels/characters/
 is_root: false
 ---
-##  characters(start_index, length) {#int-int}
-Возвращает объект символов, представляющий диапазон characters в тексте.
+##  characters(self, start_index, length) {#int-int}
+Возвращает объект Characters, представляющий диапазон characters в тексте.
 
 
-###  Возвращает
+###  Возврат
 
-Возражают персонажи.
+Персонажи возражают.
 
 
 ```python
+
 def characters(self, start_index, length):
     ...
 ```
@@ -24,11 +25,11 @@ def characters(self, start_index, length):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| start_index | int | Индекс начала персонажа.|
+| start_index | int | Индекс начала символа.|
 | length | int | Количество символов.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [DataLabels](/cells/python-net/ru/aspose.cells.charts/datalabels)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`DataLabels`](/cells/python-net/ru/aspose.cells.charts/datalabels)

@@ -7,12 +7,13 @@ weight: 30
 url: /de/aspose.cells.tables/tablestyleelement/set_element_style/
 is_root: false
 ---
-##  set_element_style(style) {#Style}
+##  set_element_style(self, style) {#aspose.cells.Style}
 Legt den Elementstil fest.
 
 
 
 ```python
+
 def set_element_style(self, style):
     ...
 ```
@@ -20,10 +21,10 @@ def set_element_style(self, style):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| style | [Style](/cells/python-net/de/aspose.cells/style) | Der Elementstil.|
+| style | [`Style`](/cells/python-net/de/aspose.cells/style) | Der Elementstil.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.tables](../../)
-* Klasse [TableStyleElement](/cells/python-net/de/aspose.cells.tables/tablestyleelement)
+* Modul [`aspose.cells.tables`](../../)
+* Klasse [`TableStyleElement`](/cells/python-net/de/aspose.cells.tables/tablestyleelement)

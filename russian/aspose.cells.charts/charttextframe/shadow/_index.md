@@ -1,15 +1,15 @@
 ---
 title: shadow недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 280
+weight: 340
 url: /ru/aspose.cells.charts/charttextframe/shadow/
 is_root: false
 ---
 ##  shadow недвижимость
 
-Истинно, если у фрейма есть shadow.
+Истина, если кадр имеет shadow.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def shadow(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.charts](../../)
-* класс [ChartTextFrame](/cells/python-net/ru/aspose.cells.charts/charttextframe)
+* модуль [`aspose.cells.charts`](../../)
+* класс [`ChartTextFrame`](/cells/python-net/ru/aspose.cells.charts/charttextframe)

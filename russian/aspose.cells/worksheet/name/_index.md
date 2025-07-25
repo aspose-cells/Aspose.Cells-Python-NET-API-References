@@ -1,20 +1,20 @@
 ---
 title: name недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 650
+weight: 680
 url: /ru/aspose.cells/worksheet/name/
 is_root: false
 ---
 ##  name недвижимость
 
-Получает или задает номер name листа.
+Возвращает или задает значение name рабочего листа.
 
 ###  Примечания
 
- Максимальная длина листа name равна 31. И вы не можете назначить один и тот же name (без учета регистра) двум листам.
-Например, вы не можете установить «SheetName1» для первого листа и установить «SHEETNAME1» для второго листа.
+ Максимальная длина листа name — 31. И вы не можете назначить один и тот же номер name (без учета регистра) двум рабочим листам.
+Например, нельзя задать «SheetName1» для первого листа и «SHEETNAME1» для второго листа.
 ###  Определение:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  locked_aspect_ratio fastighet
 
-Indikerar om låsning av bildförhållande.
+Anger om bildförhållandet låses.
 
 ###  Exempel
 
@@ -29,5 +29,5 @@ def locked_aspect_ratio(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.slicers](../../)
-* klass [Slicer](/cells/python-net/sv/aspose.cells.slicers/slicer)
+* modul [`aspose.cells.slicers`](../../)
+* klass [`Slicer`](/cells/python-net/sv/aspose.cells.slicers/slicer)

@@ -3,13 +3,13 @@ title: data_sorter عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 540
+weight: 570
 url: /ar/aspose.cells/workbook/data_sorter/
 is_root: false
 ---
 ##  data_sorter عقار
 
-الحصول على كائن DataSorter لفرز البيانات.
+يحصل على كائن DataSorter لفرز البيانات.
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  rotation_y fastighet
 
-Får och ställer in den extruderade formens rotation runt y-axeln i grader.
+Hämtar och ställer in rotationen av den extruderade formen runt y-axeln i grader.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def rotation_y(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [ThreeDFormat](/cells/python-net/sv/aspose.cells.drawing/threedformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`ThreeDFormat`](/cells/python-net/sv/aspose.cells.drawing/threedformat)

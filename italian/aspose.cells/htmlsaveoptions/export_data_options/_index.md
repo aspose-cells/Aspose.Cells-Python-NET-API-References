@@ -1,15 +1,15 @@
 ---
 title: export_data_options proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 210
+weight: 280
 url: /it/aspose.cells/htmlsaveoptions/export_data_options/
 is_root: false
 ---
 ##  export_data_options proprietà
 
-Indica la regola di esportazione dei dati del file html. Il valore predefinito è Tutti.
+Indica la regola per l'esportazione dei dati del file HTML. Il valore predefinito è Tutto.
 ###  Definizione:
 ```python
 @property

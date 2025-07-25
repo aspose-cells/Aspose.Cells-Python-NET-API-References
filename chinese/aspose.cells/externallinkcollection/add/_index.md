@@ -1,13 +1,13 @@
 ---
 title: add方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 20
 url: /zh/aspose.cells/externallinkcollection/add/
 is_root: false
 ---
-##  add(file_name, sheet_names) {#str-list}
+##  add(self, file_name, sheet_names) {#str-list}
 添加外部链接。
 
 
@@ -17,6 +17,7 @@ is_root: false
 
 
 ```python
+
 def add(self, file_name, sheet_names):
     ...
 ```
@@ -28,7 +29,7 @@ def add(self, file_name, sheet_names):
 | sheet_names | list |外部文件的所有工作表名称。|
 
 
-##  add(directory_type, file_name, sheet_names) {#DirectoryType-str-list}
+##  add(self, directory_type, file_name, sheet_names) {#aspose.cells.DirectoryType-str-list}
 添加外部链接。
 
 
@@ -38,6 +39,7 @@ def add(self, file_name, sheet_names):
 
 
 ```python
+
 def add(self, directory_type, file_name, sheet_names):
     ...
 ```
@@ -45,12 +47,12 @@ def add(self, directory_type, file_name, sheet_names):
 
 |范围|类型|描述|
 | :- | :- | :- |
-| directory_type | [DirectoryType](/cells/python-net/zh/aspose.cells/directorytype) |文件名的目录类型。|
+| directory_type | [`DirectoryType`](/cells/python-net/zh/aspose.cells/directorytype) |文件名的目录类型。|
 | file_name | str |文件名。|
 | sheet_names | list |外部文件的所有工作表名称。|
 
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [ExternalLinkCollection](/cells/python-net/zh/aspose.cells/externallinkcollection)
+* 模块[`aspose.cells`](../../)
+* 类 [`ExternalLinkCollection`](/cells/python-net/zh/aspose.cells/externallinkcollection)

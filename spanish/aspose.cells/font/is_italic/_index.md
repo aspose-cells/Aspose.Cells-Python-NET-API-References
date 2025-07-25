@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_italic propiedad
 
-Obtiene o establece un valor que indica si la fuente está en cursiva.
+Obtiene o establece un valor que indica si la fuente es cursiva.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_italic(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Font](/cells/python-net/es/aspose.cells/font)
+* módulo [`aspose.cells`](../../)
+* clase [`Font`](/cells/python-net/es/aspose.cells/font)

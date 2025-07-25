@@ -9,17 +9,17 @@ is_root: false
 ---
 ##  always_quoted fastighet
 
-Anger om man alltid lägger till """ för varje fält.
-Om sant kommer alla värden att citeras;
-Om falskt kommer värden endast att citeras när det behövs (till exempel,
-när värden innehåller specialtecken som '"' , '\n' eller separator).
-Standard är falskt.
+Anger om '"' alltid ska läggas till för varje fält.
+Om det är sant kommer alla värden att anges i citat;
+Om falskt anges kommer värden endast att citeras när det behövs (till exempel
+när värden innehåller specialtecken som '"', '\n' eller avgränsare).
+Standardvärdet är falskt.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd QuoteType-egenskapen istället.
- Den här egenskapen kommer att tas bort 12 månader senare sedan augusti 2012.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd egenskapen QuoteType istället.
+ Den här egenskapen kommer att tas bort 12 månader senare från och med augusti 2012.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -32,5 +32,5 @@ def always_quoted(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [TxtSaveOptions](/cells/python-net/sv/aspose.cells/txtsaveoptions)
+* modul [`aspose.cells`](../../)
+* klass [`TxtSaveOptions`](/cells/python-net/sv/aspose.cells/txtsaveoptions)

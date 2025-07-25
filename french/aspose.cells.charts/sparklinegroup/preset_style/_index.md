@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  preset_style propriété
 
-Obtient et définit le type de style prédéfini du groupe sparkline.
+Obtient et définit le type de style prédéfini du groupe Sparkline.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def preset_style(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [SparklineGroup](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
-* classe [SparklinePresetStyleType](/cells/python-net/fr/aspose.cells.charts/sparklinepresetstyletype)
+* module [`aspose.cells.charts`](../../)
+* classe [`SparklineGroup`](/cells/python-net/fr/aspose.cells.charts/sparklinegroup)
+* classe [`SparklinePresetStyleType`](/cells/python-net/fr/aspose.cells.charts/sparklinepresetstyletype)

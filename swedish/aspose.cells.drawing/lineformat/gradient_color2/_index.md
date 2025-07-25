@@ -13,7 +13,7 @@ Returnerar gradientfärg 2 för den angivna fyllningen.
 
 ###  Anmärkningar
 
-Endast när övertoningsfärgtypen är GradientColorType.TwoColors är den här egenskapen meningsfull.
+Endast när gradientfärgtypen är GradientColorType.TwoColors är den här egenskapen meningsfull.
 ###  Definition:
 ```python
 @property
@@ -22,5 +22,5 @@ def gradient_color2(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [LineFormat](/cells/python-net/sv/aspose.cells.drawing/lineformat)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`LineFormat`](/cells/python-net/sv/aspose.cells.drawing/lineformat)

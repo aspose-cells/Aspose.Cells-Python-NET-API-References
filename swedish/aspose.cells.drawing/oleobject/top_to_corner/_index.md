@@ -3,13 +3,13 @@ title: top_to_corner fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1280
+weight: 1290
 url: /sv/aspose.cells.drawing/oleobject/top_to_corner/
 is_root: false
 ---
 ##  top_to_corner fastighet
 
-Hämtar och ställer in den vertikala förskjutningen av formen från kalkylbladets övre kant, i pixelenhet.
+Hämtar och ställer in den vertikala förskjutningen av formen från kalkylbladets övre kant, i pixlar.
 
 ###  Exempel
 

@@ -18,6 +18,6 @@ def conditional_formatting_icon(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [ConditionalFormattingIcon](/cells/python-net/es/aspose.cells/conditionalformattingicon)
-* clase [ConditionalFormattingResult](/cells/python-net/es/aspose.cells/conditionalformattingresult)
+* módulo [`aspose.cells`](../../)
+* clase [`ConditionalFormattingIcon`](/cells/python-net/es/aspose.cells/conditionalformattingicon)
+* clase [`ConditionalFormattingResult`](/cells/python-net/es/aspose.cells/conditionalformattingresult)

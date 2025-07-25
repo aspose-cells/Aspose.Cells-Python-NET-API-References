@@ -1,15 +1,15 @@
 ---
 title: image_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 620
+weight: 610
 url: /ru/aspose.cells.drawing/oleobject/image_type/
 is_root: false
 ---
 ##  image_type недвижимость
 
-Получает формат изображения объекта ole.
+Получает формат изображения объекта OLE.
 ###  Определение:
 ```python
 @property

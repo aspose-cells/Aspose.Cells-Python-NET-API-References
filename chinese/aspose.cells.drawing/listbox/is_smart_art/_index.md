@@ -3,7 +3,7 @@ title: is_smart_art属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 660
+weight: 670
 url: /zh/aspose.cells.drawing/listbox/is_smart_art/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 
 指示形状是否为智能艺术。
 
-### 评论
+### 注意事项
 
 仅适用于 ooxml 文件。
 
@@ -19,7 +19,7 @@ is_root: false
 
 ```python
 
-# if true,the shape is smart art.
+# if true,the shape is a smart art.
 if shape.is_smart_art:
     pass
 

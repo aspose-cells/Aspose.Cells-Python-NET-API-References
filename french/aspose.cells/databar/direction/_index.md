@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  direction propriété
 
-Obtient ou définit le direction la barre de données est affichée.
+Obtient ou définit le direction dans lequel la barre de données est affichée.
 ###  Définition:
 ```python
 @property
@@ -21,6 +21,6 @@ def direction(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [DataBar](/cells/python-net/fr/aspose.cells/databar)
-* classe [TextDirectionType](/cells/python-net/fr/aspose.cells/textdirectiontype)
+* module [`aspose.cells`](../../)
+* classe [`DataBar`](/cells/python-net/fr/aspose.cells/databar)
+* classe [`TextDirectionType`](/cells/python-net/fr/aspose.cells/textdirectiontype)

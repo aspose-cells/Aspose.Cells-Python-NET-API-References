@@ -3,16 +3,17 @@ title: طريقة get_panes
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 160
+weight: 170
 url: /ar/aspose.cells/worksheet/get_panes/
 is_root: false
 ---
-##  get_panes {#}
-يحصل على زجاج النوافذ.
+##  get_panes(self) {#}
+يحصل على زجاج النافذة.
 
 
 
 ```python
+
 def get_panes(self):
     ...
 ```
@@ -20,7 +21,7 @@ def get_panes(self):
 
 ###  ملاحظات
 
-إذا لم يتم تقسيم النافذة أو تجميدها.
+إذا لم تكن النافذة مقسمة أو متجمدة.
 
 
 ###  أنظر أيضا

@@ -18,6 +18,6 @@ def type(self):
 ```
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [Trendline](/cells/python-net/sv/aspose.cells.charts/trendline)
-* klass [TrendlineType](/cells/python-net/sv/aspose.cells.charts/trendlinetype)
+* modul [`aspose.cells.charts`](../../)
+* klass [`Trendline`](/cells/python-net/sv/aspose.cells.charts/trendline)
+* klass [`TrendlineType`](/cells/python-net/sv/aspose.cells.charts/trendlinetype)

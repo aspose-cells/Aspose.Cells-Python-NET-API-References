@@ -1,6 +1,6 @@
 ---
 title: check_compatibility proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 90
@@ -14,7 +14,7 @@ Indica se verificare la compatibilità con le versioni precedenti durante il sal
 ###  Osservazioni
 
 Il valore predefinito è vero.
-Solo per file xls o xlt Excel97-2003.
+Solo per file xls o xlt di Excel97-2003.
 ###  Definizione:
 ```python
 @property

@@ -1,18 +1,19 @@
 ---
 title: XpsSaveOptions конструктор
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
 url: /ru/aspose.cells/xpssaveoptions/__init__/
 is_root: false
 ---
-##  XpsSaveOptions() {#}
-Создает параметры для сохранения файла xps.
+##  \_\_init\_\_(self){#}
+Создает параметры для сохранения xps-файла.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -20,12 +21,13 @@ def __init__(self):
 
 
 
-##  XpsSaveOptions(save_format) {#SaveFormat}
-Создает параметры для сохранения файла xps.
+##  \_\_init\_\_(self, save_format){#aspose.cells.SaveFormat}
+Создает параметры для сохранения xps-файла.
 
 
 
 ```python
+
 def __init__(self, save_format):
     ...
 ```
@@ -33,15 +35,15 @@ def __init__(self, save_format):
 
 | Параметр| Тип| Описание|
 | :- | :- | :- |
-| save_format | [SaveFormat](/cells/python-net/ru/aspose.cells/saveformat) | Формат сохранения, это должен быть формат xps.|
+| save_format | [`SaveFormat`](/cells/python-net/ru/aspose.cells/saveformat) | Формат сохранения должен быть в формате xps.|
 ###  Примечания
 
-ПРИМЕЧАНИЕ. Этот конструктор устарел.
+ПРИМЕЧАНИЕ: Этот конструктор устарел.
 Вместо этого используйте конструктор XpsSaveOptions().
- Это свойство будет удалено через 12 месяцев, начиная с августа 2022 года.
-Aspose приносит извинения за возможные неудобства.
+ Эта недвижимость будет снесена через 12 месяцев, начиная с августа 2022 года.
+Aspose приносит извинения за любые причиненные вам неудобства.
 
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [XpsSaveOptions](/cells/python-net/ru/aspose.cells/xpssaveoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`XpsSaveOptions`](/cells/python-net/ru/aspose.cells/xpssaveoptions)

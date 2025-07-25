@@ -7,16 +7,17 @@ weight: 20
 url: /tr/aspose.cells/scenariocollection/add/
 is_root: false
 ---
-##  add(name) {#str}
+##  add(self, name) {#str}
 Bir senaryo ekler.
 
 
 ###  İadeler
 
-Senaryolar listesindeki dizin.
+Senaryolar listesindeki indeks.
 
 
 ```python
+
 def add(self, name):
     ...
 ```
@@ -29,5 +30,5 @@ def add(self, name):
 
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ScenarioCollection](/cells/python-net/tr/aspose.cells/scenariocollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ScenarioCollection`](/cells/python-net/tr/aspose.cells/scenariocollection)

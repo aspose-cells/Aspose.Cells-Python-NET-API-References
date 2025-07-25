@@ -1,6 +1,6 @@
 ---
 title: sql_type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  sql_type недвижимость
 
-Тип данных SQL параметра. Допустимо только для источников ODBC.
+Тип данных SQL параметра. Действительно только для источников ODBC.
 ###  Определение:
 ```python
 @property
@@ -21,6 +21,6 @@ def sql_type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [ConnectionParameter](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)
-* класс [SqlDataType](/cells/python-net/ru/aspose.cells.externalconnections/sqldatatype)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`ConnectionParameter`](/cells/python-net/ru/aspose.cells.externalconnections/connectionparameter)
+* класс [`SqlDataType`](/cells/python-net/ru/aspose.cells.externalconnections/sqldatatype)

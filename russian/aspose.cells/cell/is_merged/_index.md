@@ -1,15 +1,15 @@
 ---
 title: is_merged недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 610
+weight: 640
 url: /ru/aspose.cells/cell/is_merged/
 is_root: false
 ---
 ##  is_merged недвижимость
 
-Проверяет, является ли ячейка частью объединенного диапазона или нет.
+Проверяет, является ли ячейка частью объединенного диапазона.
 ###  Определение:
 ```python
 @property

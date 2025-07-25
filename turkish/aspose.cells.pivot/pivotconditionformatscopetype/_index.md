@@ -3,12 +3,12 @@ title: PivotConditionFormatScopeType numaralandırma
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 250
+weight: 320
 url: /tr/aspose.cells.pivot/pivotconditionformatscopetype/
 is_root: false
 ---
 ##  PivotConditionFormatScopeType numaralandırma
-PivotTable koşulu biçimlendirme kapsam türünü temsil eder.
+PivotTable koşul biçimlendirme kapsam türünü temsil eder.
 
 
 
@@ -17,9 +17,9 @@ PivotConditionFormatScopeType türü aşağıdaki üyeleri ortaya çıkarır:
 ###  Alanlar
 | Alan| Tanım|
 | :- | :- |
-| DATA | Seçilen veri alanlarına koşullu biçimlendirmenin uygulandığını belirtir.|
-| FIELD |Seçilen PivotTable alan kesişimlerine koşullu biçimlendirmenin uygulandığını belirtir.|
-| SELECTION | Seçilen hücrelere koşullu biçimlendirmenin uygulandığını belirtir.|
+| DATA | Seçili veri alanlarına koşullu biçimlendirmenin uygulandığını belirtir.|
+| FIELD | Seçili PivotTable alan kesişimlerine koşullu biçimlendirmenin uygulandığını belirtir.|
+| SELECTION |Seçili hücrelere koşullu biçimlendirmenin uygulandığını belirtir.|
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: copy_names недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def copy_names(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CopyOptions](/cells/python-net/ru/aspose.cells/copyoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CopyOptions`](/cells/python-net/ru/aspose.cells/copyoptions)

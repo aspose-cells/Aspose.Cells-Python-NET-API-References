@@ -1,6 +1,6 @@
 ---
 title: bound_column недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 60
@@ -9,8 +9,8 @@ is_root: false
 ---
 ##  bound_column недвижимость
 
-Представляет, как свойство Value определяется для ComboBox или ListBox.
-когда значение свойства MultiSelect (fmMultiSelectSingle).
+Показывает, как определяется свойство Value для ComboBox или ListBox.
+когда свойство MultiSelect имеет значение (fmMultiSelectSingle).
 ###  Определение:
 ```python
 @property
@@ -22,5 +22,5 @@ def bound_column(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.drawing.activexcontrols](../../)
-* класс [ComboBoxActiveXControl](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)
+* модуль [`aspose.cells.drawing.activexcontrols`](../../)
+* класс [`ComboBoxActiveXControl`](/cells/python-net/ru/aspose.cells.drawing.activexcontrols/comboboxactivexcontrol)

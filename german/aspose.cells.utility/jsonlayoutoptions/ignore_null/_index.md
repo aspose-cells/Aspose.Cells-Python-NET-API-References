@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  ignore_null Eigentum
 
-Gibt an, ob der Nullwert ignoriert wird.
+Gibt an, ob Nullwerte ignoriert werden.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def ignore_null(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.utility](../../)
-* Klasse [JsonLayoutOptions](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)
+* Modul [`aspose.cells.utility`](../../)
+* Klasse [`JsonLayoutOptions`](/cells/python-net/de/aspose.cells.utility/jsonlayoutoptions)

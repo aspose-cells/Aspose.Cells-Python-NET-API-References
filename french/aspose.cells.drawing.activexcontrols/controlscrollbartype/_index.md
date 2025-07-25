@@ -1,13 +1,13 @@
 ---
-title: ControlScrollBarType dénombrement
+title: ControlScrollBarType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 240
+weight: 220
 url: /fr/aspose.cells.drawing.activexcontrols/controlscrollbartype/
 is_root: false
 ---
-##  ControlScrollBarType dénombrement
+##  ControlScrollBarType énumération
 Représente le type de barre de défilement.
 
 
@@ -17,7 +17,7 @@ Le type ControlScrollBarType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| NONE | N'affiche aucune barre de défilement.|
+| NONE |N'affiche aucune barre de défilement.|
 | HORIZONTAL | Affiche une barre de défilement horizontale.|
 | BARS_VERTICAL | Affiche une barre de défilement verticale.|
 | BARS_BOTH | Affiche une barre de défilement horizontale et verticale.|
@@ -25,4 +25,4 @@ Le type ControlScrollBarType expose les membres suivants :
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

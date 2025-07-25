@@ -11,8 +11,8 @@ is_root: false
 
 Obtenga la instancia "Top10" del formato condicional.
 La regla de la instancia predeterminada resalta las celdas cuyas
-los valores caen en el grupo de los 10 primeros.
-Válido solo para el tipo es Top10.
+Los valores se encuentran dentro del top 10.
+Válido sólo para tipo Top10.
 ###  Definición:
 ```python
 @property
@@ -21,6 +21,6 @@ def top10(self):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [FormatCondition](/cells/python-net/es/aspose.cells/formatcondition)
-* clase [Top10](/cells/python-net/es/aspose.cells/top10)
+* módulo [`aspose.cells`](../../)
+* clase [`FormatCondition`](/cells/python-net/es/aspose.cells/formatcondition)
+* clase [`Top10`](/cells/python-net/es/aspose.cells/top10)

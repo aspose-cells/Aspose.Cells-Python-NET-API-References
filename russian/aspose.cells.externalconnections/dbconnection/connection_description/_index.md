@@ -1,15 +1,13 @@
 ---
 title: connection_description недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 60
+weight: 70
 url: /ru/aspose.cells.externalconnections/dbconnection/connection_description/
 is_root: false
 ---
 ##  connection_description недвижимость
-
-Указывает описание пользователя для этого соединения.
 ###  Определение:
 ```python
 @property
@@ -21,5 +19,5 @@ def connection_description(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.externalconnections](../../)
-* класс [DBConnection](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)
+* модуль [`aspose.cells.externalconnections`](../../)
+* класс [`DBConnection`](/cells/python-net/ru/aspose.cells.externalconnections/dbconnection)

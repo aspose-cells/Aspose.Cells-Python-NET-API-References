@@ -3,17 +3,16 @@ title: CharacterBulletValue Klasse
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 40
+weight: 30
 url: /de/aspose.cells.drawing.texts/characterbulletvalue/
 is_root: false
 ---
 ##  CharacterBulletValue Klasse
-Stellt das Zeichen Aufzählungszeichen dar.
+Stellt das Zeichenaufzählungszeichen dar.
 
 
 
-**Nachlass:** [CharacterBulletValue](/cells/python-net/aspose.cells.drawing.texts/characterbulletvalue) → 
-[BulletValue](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)
+**Nachlass:** [`CharacterBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/characterbulletvalue)
 
 
 
@@ -22,7 +21,7 @@ Der Typ CharacterBulletValue macht die folgenden Member verfügbar:
 ###  Konstrukteure
 | Konstrukteur| Beschreibung|
 | :- | :- |
-| [CharacterBulletValue()](/cells/python-net/de/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Erstellt eine neue Instanz von CharacterBulletValue|
+| [`__init__(self)`](/cells/python-net/de/aspose.cells.drawing.texts/characterbulletvalue/__init__/#) | Erstellt eine neue Instanz von CharacterBulletValue|
 
 
 ###  Eigenschaften
@@ -34,6 +33,5 @@ Der Typ CharacterBulletValue macht die folgenden Member verfügbar:
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](..)
-* Klasse [BulletValue](/cells/python-net/de/aspose.cells.drawing.texts/bulletvalue)
-* Klasse [CharacterBulletValue](/cells/python-net/de/aspose.cells.drawing.texts/characterbulletvalue)
+* Modul [`aspose.cells.drawing.texts`](..)
+* Klasse [`CharacterBulletValue`](/cells/python-net/de/aspose.cells.drawing.texts/characterbulletvalue)

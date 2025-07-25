@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_column Eigentum
 
-Stellt dar, ob das Einfügen von Spalten in einem geschützten Arbeitsblatt zulässig ist
+Gibt an, ob das Einfügen von Spalten in einem geschützten Arbeitsblatt zulässig ist.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_column(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [Protection](/cells/python-net/de/aspose.cells/protection)
+* Modul [`aspose.cells`](../../)
+* Klasse [`Protection`](/cells/python-net/de/aspose.cells/protection)

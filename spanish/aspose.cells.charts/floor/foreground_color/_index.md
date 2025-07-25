@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  foreground_color propiedad
 
-Obtiene o establece el Color de primer plano.
+Obtiene o establece el color de primer plano.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def foreground_color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells.charts](../../)
-* clase [Floor](/cells/python-net/es/aspose.cells.charts/floor)
+* módulo [`aspose.cells.charts`](../../)
+* clase [`Floor`](/cells/python-net/es/aspose.cells.charts/floor)

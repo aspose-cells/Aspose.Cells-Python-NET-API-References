@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  default_style_settings fastighet
 
-Hämtar standardformatinställningarna för att initiera arbetsbokens stilar
+Hämtar standardinställningarna för stilar för att initiera arbetsbokens stilar
 ###  Definition:
 ```python
 @property
@@ -18,6 +18,6 @@ def default_style_settings(self):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [DefaultStyleSettings](/cells/python-net/sv/aspose.cells/defaultstylesettings)
-* klass [OdsLoadOptions](/cells/python-net/sv/aspose.cells/odsloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`DefaultStyleSettings`](/cells/python-net/sv/aspose.cells/defaultstylesettings)
+* klass [`OdsLoadOptions`](/cells/python-net/sv/aspose.cells/odsloadoptions)

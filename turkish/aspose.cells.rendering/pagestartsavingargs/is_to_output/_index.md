@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_to_output mülk
 
- Sayfanın çıktısının alınması gerekip gerekmediğini gösteren bir değer alır veya ayarlar.
+ Sayfanın çıktı olarak verilip verilmeyeceğini belirten bir değer alır veya ayarlar.
 Varsayılan değer doğrudur.
 ###  Tanım:
 ```python
@@ -22,5 +22,5 @@ def is_to_output(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.rendering](../../)
-* sınıf [PageStartSavingArgs](/cells/python-net/tr/aspose.cells.rendering/pagestartsavingargs)
+* modül [`aspose.cells.rendering`](../../)
+* sınıf [`PageStartSavingArgs`](/cells/python-net/tr/aspose.cells.rendering/pagestartsavingargs)

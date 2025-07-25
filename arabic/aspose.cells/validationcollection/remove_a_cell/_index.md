@@ -7,12 +7,13 @@ weight: 80
 url: /ar/aspose.cells/validationcollection/remove_a_cell/
 is_root: false
 ---
-##  remove_a_cell(row, column) {#int-int}
-يزيل كل إعدادات التحقق من صحة الخلية.
+##  remove_a_cell(self, row, column) {#int-int}
+يقوم بإزالة كافة إعدادات التحقق من صحة الخلية.
 
 
 
 ```python
+
 def remove_a_cell(self, row, column):
     ...
 ```
@@ -20,11 +21,11 @@ def remove_a_cell(self, row, column):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row | int | فهرس صف الخلية.|
-| column | int | فهرس العمود للخلية.|
+| row | int | مؤشر الصف للخلية.|
+| column | int | مؤشر عمود الخلية.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [ValidationCollection](/cells/python-net/ar/aspose.cells/validationcollection)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`ValidationCollection`](/cells/python-net/ar/aspose.cells/validationcollection)

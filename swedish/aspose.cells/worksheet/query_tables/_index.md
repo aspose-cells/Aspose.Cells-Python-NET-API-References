@@ -3,13 +3,13 @@ title: query_tables fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 730
+weight: 760
 url: /sv/aspose.cells/worksheet/query_tables/
 is_root: false
 ---
 ##  query_tables fastighet
 
-Får [`QueryTableCollection`](/cells/python-net/sv/aspose.cells/querytablecollection) i arbetsbladet.
+Hämtar [`QueryTableCollection`](/cells/python-net/sv/aspose.cells/querytablecollection) i kalkylbladet.
 ###  Definition:
 ```python
 @property

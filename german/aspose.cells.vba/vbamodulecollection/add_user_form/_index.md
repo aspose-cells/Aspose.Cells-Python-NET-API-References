@@ -7,7 +7,7 @@ weight: 40
 url: /de/aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
-##  add_user_form {#str-str-bytes}
+##  add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
 Benutzerformular in VBA-Projekt einfügen.
 
 
@@ -17,6 +17,7 @@ Benutzerformular in VBA-Projekt einfügen.
 
 
 ```python
+
 def add_user_form(self, name, codes, designer_storage):
     ...
 ```

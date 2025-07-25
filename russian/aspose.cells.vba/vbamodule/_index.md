@@ -1,6 +1,6 @@
 ---
 title: VbaModule класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 10
@@ -12,14 +12,15 @@ is_root: false
 
 
 
-Тип VbaModule предоставляет следующие члены:
+Тип VbaModule предоставляет следующие элементы:
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
 | [name](/cells/python-net/ru/aspose.cells.vba/vbamodule/name) | Получает и задает имя модуля.|
 | [type](/cells/python-net/ru/aspose.cells.vba/vbamodule/type) | Получает тип модуля.|
-| [codes](/cells/python-net/ru/aspose.cells.vba/vbamodule/codes) | Получает и устанавливает коды модуля.|
+| [binary_codes](/cells/python-net/ru/aspose.cells.vba/vbamodule/binary_codes) | Получает и задает двоичные коды модуля.|
+| [codes](/cells/python-net/ru/aspose.cells.vba/vbamodule/codes) | Получает и задает коды модуля.|
 
 
 
@@ -45,4 +46,4 @@ workbook.save("book1.xlsm")
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](..)
+* модуль [`aspose.cells.vba`](..)

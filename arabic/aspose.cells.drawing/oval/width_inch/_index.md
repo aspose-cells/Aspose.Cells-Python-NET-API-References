@@ -3,7 +3,7 @@ title: width_inch عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 1190
+weight: 1200
 url: /ar/aspose.cells.drawing/oval/width_inch/
 is_root: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: keep_macros недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  keep_macros недвижимость
 
-Указывает, сохраняются ли макросы;
+Указывает, следует ли сохранять макросы;
 
 ###  Примечания
 
-Только для копирования книги.
+Только для копирования рабочей тетради.
 ###  Определение:
 ```python
 @property
@@ -25,5 +25,5 @@ def keep_macros(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [CopyOptions](/cells/python-net/ru/aspose.cells/copyoptions)
+* модуль [`aspose.cells`](../../)
+* класс [`CopyOptions`](/cells/python-net/ru/aspose.cells/copyoptions)

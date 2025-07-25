@@ -3,7 +3,7 @@ title: text_options属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 1170
+weight: 1180
 url: /zh/aspose.cells.drawing/oleobject/text_options/
 is_root: false
 ---

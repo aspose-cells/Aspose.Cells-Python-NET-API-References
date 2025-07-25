@@ -1,6 +1,6 @@
 ---
 title: caps_type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  caps_type proprietà
 
-Ottiene e imposta il tipo di maiuscole di testo.
+Ottiene e imposta il tipo di maiuscole del testo.
 ###  Definizione:
 ```python
 @property
@@ -21,6 +21,6 @@ def caps_type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [Font](/cells/python-net/it/aspose.cells/font)
-* classe [TextCapsType](/cells/python-net/it/aspose.cells/textcapstype)
+* modulo [`aspose.cells`](../../)
+* classe [`Font`](/cells/python-net/it/aspose.cells/font)
+* classe [`TextCapsType`](/cells/python-net/it/aspose.cells/textcapstype)

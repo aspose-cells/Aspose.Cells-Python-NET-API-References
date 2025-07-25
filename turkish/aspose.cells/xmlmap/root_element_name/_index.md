@@ -18,5 +18,5 @@ def root_element_name(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [XmlMap](/cells/python-net/tr/aspose.cells/xmlmap)
+* modül [`aspose.cells`](../../)
+* sınıf [`XmlMap`](/cells/python-net/tr/aspose.cells/xmlmap)

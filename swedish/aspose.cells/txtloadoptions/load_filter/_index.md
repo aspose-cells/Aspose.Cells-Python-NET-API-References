@@ -3,13 +3,13 @@ title: load_filter fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 260
+weight: 240
 url: /sv/aspose.cells/txtloadoptions/load_filter/
 is_root: false
 ---
 ##  load_filter fastighet
 
-Filtret för att ange hur man laddar data.
+Filtret som anger hur data ska laddas.
 ###  Definition:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  shift_first_row_down propriété
 
-Indique s'il faut décaler la première ligne vers le bas lors de l'insertion de lignes.
+Indique si la première ligne doit être décalée vers le bas lors de l'insertion de lignes.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def shift_first_row_down(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [ImportTableOptions](/cells/python-net/fr/aspose.cells/importtableoptions)
+* module [`aspose.cells`](../../)
+* classe [`ImportTableOptions`](/cells/python-net/fr/aspose.cells/importtableoptions)

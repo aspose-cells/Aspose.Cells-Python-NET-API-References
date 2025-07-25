@@ -1,6 +1,6 @@
 ---
 title: allow_editing_object недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 90
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_editing_object недвижимость
 
-Указывает, разрешено ли пользователю манипулировать объектами чертежа на защищенном листе.
+Указывает, разрешено ли пользователю манипулировать объектами чертежей на защищенном листе.
 ###  Определение:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_editing_object(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [Protection](/cells/python-net/ru/aspose.cells/protection)
+* модуль [`aspose.cells`](../../)
+* класс [`Protection`](/cells/python-net/ru/aspose.cells/protection)

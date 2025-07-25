@@ -7,12 +7,13 @@ weight: 60
 url: /ar/aspose.cells/autofilter/add_icon_filter/
 is_root: false
 ---
-##  add_icon_filter(field_index, icon_set_type, icon_id) {#int-IconSetType-int}
-يضيف عامل تصفية رمز.
+##  add_icon_filter(self, field_index, icon_set_type, icon_id) {#int-aspose.cells.IconSetType-int}
+إضافة مرشح أيقونة.
 
 
 
 ```python
+
 def add_icon_filter(self, field_index, icon_set_type, icon_id):
     ...
 ```
@@ -20,15 +21,15 @@ def add_icon_filter(self, field_index, icon_set_type, icon_id):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_index | int | إزاحة العدد الصحيح للحقل الذي تريد أن يؤسس عامل التصفية عليه<br/> (من يسار القائمة ؛ الحقل الموجود في أقصى اليسار هو الحقل 0).|
-| icon_set_type | [IconSetType](/cells/python-net/ar/aspose.cells/iconsettype) | نوع مجموعة الأيقونات.|
+| field_index | int | الإزاحة الصحيحة للحقل الذي تريد أن تستند إليه المرشح<br/> (من يسار القائمة؛ الحقل الأيسر هو الحقل 0).|
+| icon_set_type | [`IconSetType`](/cells/python-net/ar/aspose.cells/iconsettype) | نوع مجموعة الأيقونات.|
 | icon_id | int | معرف الرمز.|
 ###  ملاحظات
 
-يدعم فقط إضافة عامل تصفية الأيقونة.
-لا يدعم التحقق من الصف المرئي إذا كان المرشح هو عامل تصفية الرموز.
+يدعم فقط إضافة مرشح الأيقونات.
+لا يدعم التحقق من الصف المرئي إذا كان الفلتر عبارة عن فلتر أيقونة.
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFilter](/cells/python-net/ar/aspose.cells/autofilter)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFilter`](/cells/python-net/ar/aspose.cells/autofilter)

@@ -1,5 +1,5 @@
 ---
-title: check_all_data_for_column_type الملكية
+title: check_all_data_for_column_type عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 50
 url: /ar/aspose.cells.saving/sqlscriptsaveoptions/check_all_data_for_column_type/
 is_root: false
 ---
-##  check_all_data_for_column_type الملكية
+##  check_all_data_for_column_type عقار
 
-تحقق من جميع البيانات للعثور على نوع بيانات الأعمدة.
+قم بالتحقق من كافة البيانات للعثور على نوع بيانات الأعمدة.
 
 ###  ملاحظات
 
-القيمة الافتراضية خاطئة ، نحن نتحقق فقط من الصف الأول من أجل الأداء.
-إذا كانت هذه الخاصية صحيحة وكانت الأعمدة تحتوي على نوع قيمة مختلط ، فسيكون نوع الأعمدة نصًا.
+القيمة الافتراضية هي false، ونحن نتحقق فقط من الصف الأول للأداء.
+إذا كانت هذه الخاصية صحيحة وكانت الأعمدة تحتوي على نوع قيمة مختلطة، فسيكون نوع الأعمدة نصًا.
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def check_all_data_for_column_type(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.saving](../../)
-* فئة [SqlScriptSaveOptions](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)
+* الوحدة [`aspose.cells.saving`](../../)
+* فئة [`SqlScriptSaveOptions`](/cells/python-net/ar/aspose.cells.saving/sqlscriptsaveoptions)

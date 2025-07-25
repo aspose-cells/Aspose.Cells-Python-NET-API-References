@@ -9,11 +9,11 @@ is_root: false
 ---
 ##  is_locked Eigentum
 
-Ruft einen Wert ab, der angibt, ob eine Zelle geändert werden kann oder nicht, oder legt diesen fest.
+Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob eine Zelle geändert werden kann oder nicht.
 
 ###  Bemerkungen
 
-Das Sperren von Zellen hat keine Auswirkung, es sei denn, das Arbeitsblatt ist geschützt.
+Das Sperren von Zellen hat keine Wirkung, es sei denn, das Arbeitsblatt ist geschützt.
 ###  Definition:
 ```python
 @property

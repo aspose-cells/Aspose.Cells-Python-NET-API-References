@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  areas عقار
 
-يحصل على كل [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) الذي يحتوي على إعدادات التحقق من صحة البيانات.
+يحصل على كل [`CellArea`](/cells/python-net/ar/aspose.cells/cellarea) التي تحتوي على إعدادات التحقق من صحة البيانات.
 ###  تعريف:
 ```python
 @property

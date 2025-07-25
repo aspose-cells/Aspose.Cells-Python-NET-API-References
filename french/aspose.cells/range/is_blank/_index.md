@@ -3,11 +3,11 @@ title: méthode is_blank
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 180
 url: /fr/aspose.cells/range/is_blank/
 is_root: false
 ---
-##  is_blank {#}
+##  is_blank(self) {#}
 Indique si la plage contient des valeurs.
 
 
@@ -17,6 +17,7 @@ Indique si la plage contient des valeurs.
 
 
 ```python
+
 def is_blank(self):
     ...
 ```

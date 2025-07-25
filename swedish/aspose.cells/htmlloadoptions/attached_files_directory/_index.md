@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  attached_files_directory fastighet
 
-Mappen som de bifogade filerna kommer att sparas i.
+Katalogen där de bifogade filerna kommer att sparas.
 
 ###  Anmärkningar
 
- OBS: Denna medlem är nu föråldrad. Istället,
-använd egenskapen HtmlLoadOptions.StreamProvider.
- Den här egenskapen kommer att tas bort 12 månader senare sedan december 2014.
+ OBS! Denna medlem är nu föråldrad. Istället,
+Använd egenskapen HtmlLoadOptions.StreamProvider.
+ Den här egenskapen kommer att tas bort 12 månader senare, sedan december 2014.
 Aspose ber om ursäkt för eventuella besvär du kan ha upplevt.
 ###  Definition:
 ```python
@@ -28,5 +28,5 @@ def attached_files_directory(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [HtmlLoadOptions](/cells/python-net/sv/aspose.cells/htmlloadoptions)
+* modul [`aspose.cells`](../../)
+* klass [`HtmlLoadOptions`](/cells/python-net/sv/aspose.cells/htmlloadoptions)

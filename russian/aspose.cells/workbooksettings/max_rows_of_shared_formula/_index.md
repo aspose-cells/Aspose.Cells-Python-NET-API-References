@@ -1,9 +1,9 @@
 ---
 title: max_rows_of_shared_formula недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 320
+weight: 350
 url: /ru/aspose.cells/workbooksettings/max_rows_of_shared_formula/
 is_root: false
 ---
@@ -13,7 +13,7 @@ is_root: false
 
 ###  Примечания
 
-Если число слишком велико, автофильтр в MS Excel 2013 работает очень медленно.
+Если число слишком большое, автофильтр в MS Excel 2013 работает очень медленно.
 ###  Определение:
 ```python
 @property

@@ -12,8 +12,7 @@ Stellt einen Revisionsdatensatz eines eingefügten Blatts dar.
 
 
 
-**Nachlass:** [RevisionInsertSheet](/cells/python-net/aspose.cells.revisions/revisioninsertsheet) → 
-[Revision](/cells/python-net/de/aspose.cells.revisions/revision)
+**Nachlass:** [`RevisionInsertSheet`](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet)
 
 
 
@@ -23,15 +22,14 @@ Der Typ RevisionInsertSheet macht die folgenden Member verfügbar:
 | Eigentum| Beschreibung|
 | :- | :- |
 | [type](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/type) | Ruft den Revisionstyp ab.|
-| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/worksheet) | Ruft das Arbeitsblatt ab.|
-| [id](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/id) | Ruft die Nummer dieser Revision ab.|
+| [worksheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/worksheet) |  |
+| [id](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/id) |  |
 | [action_type](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/action_type) | Ruft den Aktionstyp der Revision ab.|
 | [name](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/name) | Ruft den Namen des Arbeitsblatts ab.|
-| [sheet_position](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Ruft die nullbasierte Position des neuen Blatts in der Blattregisterleiste ab.|
+| [sheet_position](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet/sheet_position) | Ruft die Nullposition des neuen Blatts in der Blattregisterleiste ab.|
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](..)
-* Klasse [Revision](/cells/python-net/de/aspose.cells.revisions/revision)
-* Klasse [RevisionInsertSheet](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet)
+* Modul [`aspose.cells.revisions`](..)
+* Klasse [`RevisionInsertSheet`](/cells/python-net/de/aspose.cells.revisions/revisioninsertsheet)

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  count mülk
 
-Koleksiyonda fiilen bulunan öğelerin sayısını alır.
+Koleksiyonda gerçekte bulunan öğelerin sayısını alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def count(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ExternalLinkCollection](/cells/python-net/tr/aspose.cells/externallinkcollection)
+* modül [`aspose.cells`](../../)
+* sınıf [`ExternalLinkCollection`](/cells/python-net/tr/aspose.cells/externallinkcollection)

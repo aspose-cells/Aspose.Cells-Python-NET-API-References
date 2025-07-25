@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  argb_color mülk
 
-Rengi 32 bit ARGB değeriyle alır ve ayarlar.
+32-bit ARGB değerine sahip rengi alır ve ayarlar.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def argb_color(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.texts](../../)
-* sınıf [TextOptions](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)
+* modül [`aspose.cells.drawing.texts`](../../)
+* sınıf [`TextOptions`](/cells/python-net/tr/aspose.cells.drawing.texts/textoptions)

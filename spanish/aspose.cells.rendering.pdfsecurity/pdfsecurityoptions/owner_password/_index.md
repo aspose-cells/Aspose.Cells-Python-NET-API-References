@@ -13,7 +13,7 @@ Obtiene o establece la contraseña del propietario para el documento cifrado PDF
 
 ###  Observaciones
 
-La contraseña del propietario permite al usuario abrir un documento cifrado PDF sin especificar restricciones de acceso.
+La contraseña del propietario permite al usuario abrir un documento encriptado PDF sin ninguna restricción de acceso especificada.
 ###  Definición:
 ```python
 @property

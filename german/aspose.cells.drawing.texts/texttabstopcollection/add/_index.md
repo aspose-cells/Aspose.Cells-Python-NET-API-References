@@ -7,8 +7,8 @@ weight: 20
 url: /de/aspose.cells.drawing.texts/texttabstopcollection/add/
 is_root: false
 ---
-##  add(tab_alignment, tab_position) {#TextTabAlignmentType-float}
-Fügt einen Tabstopp hinzu.
+##  add(self, tab_alignment, tab_position) {#aspose.cells.drawing.texts.TextTabAlignmentType-float}
+Fügt einen Tabulator hinzu.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Fügt einen Tabstopp hinzu.
 
 
 ```python
+
 def add(self, tab_alignment, tab_position):
     ...
 ```
@@ -24,11 +25,11 @@ def add(self, tab_alignment, tab_position):
 
 | Parameter| Typ| Beschreibung|
 | :- | :- | :- |
-| tab_alignment | [TextTabAlignmentType](/cells/python-net/de/aspose.cells.drawing.texts/texttabalignmenttype) |  |
+| tab_alignment | [`TextTabAlignmentType`](/cells/python-net/de/aspose.cells.drawing.texts/texttabalignmenttype) |  |
 | tab_position | float |  |
 
 
 
 ###  Siehe auch
-* Modul [aspose.cells.drawing.texts](../../)
-* Klasse [TextTabStopCollection](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)
+* Modul [`aspose.cells.drawing.texts`](../../)
+* Klasse [`TextTabStopCollection`](/cells/python-net/de/aspose.cells.drawing.texts/texttabstopcollection)

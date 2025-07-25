@@ -1,6 +1,6 @@
 ---
 title: number_format proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 110
@@ -13,7 +13,7 @@ Rappresenta la stringa di formato per l'oggetto TickLabels.
 
 ###  Osservazioni
 
-La stringa di formattazione è uguale all'impostazione della stringa di formato personalizzata su una cella. Ad esempio, "$ 0".
+La stringa di formattazione è la stessa di un'impostazione di stringa di formattazione personalizzata per una cella. Ad esempio, "$0".
 ###  Definizione:
 ```python
 @property

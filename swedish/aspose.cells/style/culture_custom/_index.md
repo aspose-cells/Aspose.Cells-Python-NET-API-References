@@ -10,17 +10,17 @@ is_root: false
 ##  culture_custom fastighet
 
 Hämtar och ställer in den kulturberoende mönstersträngen för talformat.
-Om inget talformat har ställts in för detta objekt, returneras null.
-Om talformat är inbyggt kommer mönstersträngen som motsvarar det inbyggda numret att returneras.
+Om inget talformat har angetts för detta objekt returneras null.
+Om talformat är inbyggt returneras mönstersträngen som motsvarar det inbyggda talet.
 
 ###  Anmärkningar
 
-För inbyggt talformat är både mönsterinnehållet (t.ex. ett inbyggt datumformat "m/d/y" för vissa lokaler,
-men för vissa andra lokaler blir det "d/m/y") och formatspecifikationen (som,
-vissa lokaler använder ett annat tecken än 'y' för att representera årsdelen för datumformatering)
+För inbyggt nummerformat gäller både mönsterinnehållet (t.ex. ett inbyggt datumformat är "m/d/y" för vissa språkinställningar,
+men för vissa andra språkinställningar blir det "d/m/y") och formatspecifikatorn (t.ex.
+vissa språkinställningar använder andra tecken än 'y' för att representera årsdelen i datumformateringen)
 är kulturberoende;
-För användarspecificerat anpassat format ändras endast formatspecifikationer enligt kulturen,
-andra delar av formateringsmönstret kommer inte att ändras.
+För användarspecificerade anpassade format ändras endast formatspecifikationer enligt kulturen,
+Andra delar av formateringsmönstret kommer inte att ändras.
 ###  Definition:
 ```python
 @property
@@ -32,5 +32,5 @@ def culture_custom(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [Style](/cells/python-net/sv/aspose.cells/style)
+* modul [`aspose.cells`](../../)
+* klass [`Style`](/cells/python-net/sv/aspose.cells/style)

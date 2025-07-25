@@ -1,6 +1,6 @@
 ---
 title: type proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type proprietà
 
-Ottiene e imposta lo type della proprietà.
+Ottiene e imposta il valore type della proprietà.
 ###  Definizione:
 ```python
 @property
@@ -21,5 +21,5 @@ def type(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells.properties](../../)
-* classe [ContentTypeProperty](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)
+* modulo [`aspose.cells.properties`](../../)
+* classe [`ContentTypeProperty`](/cells/python-net/it/aspose.cells.properties/contenttypeproperty)

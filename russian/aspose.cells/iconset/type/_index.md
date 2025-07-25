@@ -1,6 +1,6 @@
 ---
 title: type недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 80
@@ -9,10 +9,10 @@ is_root: false
 ---
 ##  type недвижимость
 
-Получите или установите набор значков type для отображения.
-Установка type автоматически проверит, соответствует ли текущий счетчик Cfvos.
- в соответствии с новым type. В противном случае старые Cfvos будут очищены и
-будут добавлены Cfvo по умолчанию.
+Получить или установить набор значков type для отображения.
+Установка type автоматически проверит, является ли текущий счетчик Cfvos
+ В соответствии с новым type. Если не соответствует, старый Cfvos будет очищен и
+Будут добавлены Cfvos по умолчанию.
 ###  Определение:
 ```python
 @property
@@ -24,6 +24,6 @@ def type(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [IconSet](/cells/python-net/ru/aspose.cells/iconset)
-* класс [IconSetType](/cells/python-net/ru/aspose.cells/iconsettype)
+* модуль [`aspose.cells`](../../)
+* класс [`IconSet`](/cells/python-net/ru/aspose.cells/iconset)
+* класс [`IconSetType`](/cells/python-net/ru/aspose.cells/iconsettype)

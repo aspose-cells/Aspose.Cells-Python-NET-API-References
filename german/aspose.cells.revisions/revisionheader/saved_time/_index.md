@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  saved_time Eigentum
 
-Ruft Datum und Uhrzeit ab und legt fest, wann dieser Revisionssatz gespeichert wurde.
+Ruft das Datum und die Uhrzeit ab und legt sie fest, wann dieser Satz von Revisionen gespeichert wurde.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def saved_time(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.revisions](../../)
-* Klasse [RevisionHeader](/cells/python-net/de/aspose.cells.revisions/revisionheader)
+* Modul [`aspose.cells.revisions`](../../)
+* Klasse [`RevisionHeader`](/cells/python-net/de/aspose.cells.revisions/revisionheader)

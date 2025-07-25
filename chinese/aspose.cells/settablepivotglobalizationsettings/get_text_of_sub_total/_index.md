@@ -3,20 +3,21 @@ title: get_text_of_sub_total方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 200
+weight: 210
 url: /zh/aspose.cells/settablepivotglobalizationsettings/get_text_of_sub_total/
 is_root: false
 ---
-##  get_text_of_sub_total {#aspose.cells.pivot.PivotFieldSubtotalType}
+##  get_text_of_sub_total(self, sub_total_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 获取数据透视表中 [`PivotFieldSubtotalType`](/cells/python-net/zh/aspose.cells.pivot/pivotfieldsubtotaltype) 类型的文本。
 
 
-### 退货
+### 返回
 
 给定类型的文本
 
 
 ```python
+
 def get_text_of_sub_total(self, sub_total_type):
     ...
 ```

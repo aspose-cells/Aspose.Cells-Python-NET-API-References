@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  picture_format_type fastighet
 
-Hämtar och ställer in bildformatstyp.
+Hämtar och anger bildformattypen.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def picture_format_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [FillFormat](/cells/python-net/sv/aspose.cells.drawing/fillformat)
-* klass [FillPictureType](/cells/python-net/sv/aspose.cells.drawing/fillpicturetype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`FillFormat`](/cells/python-net/sv/aspose.cells.drawing/fillformat)
+* klass [`FillPictureType`](/cells/python-net/sv/aspose.cells.drawing/fillpicturetype)

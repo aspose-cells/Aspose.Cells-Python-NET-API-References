@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  type propriété
 
-Obtient le groupe horaire de données type.
+Obtient le groupe de temps de données type.
 ###  Définition:
 ```python
 @property

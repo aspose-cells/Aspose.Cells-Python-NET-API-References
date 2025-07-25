@@ -1,18 +1,19 @@
 ---
 title: get_two_color_gradient_setting方法
-second_title: Aspose.Cells for Python via .NET API 参考资料
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
 weight: 40
 url: /zh/aspose.cells/style/get_two_color_gradient_setting/
 is_root: false
 ---
-##  get_two_color_gradient_setting() {#}
+##  get_two_color_gradient_setting(self) {#}
 获取双色渐变设置。
 
 
 
 ```python
+
 def get_two_color_gradient_setting(self):
     ...
 ```
@@ -22,5 +23,5 @@ def get_two_color_gradient_setting(self):
 
 
 ### 也可以看看
-* 模块 [aspose.cells](../../)
-* 类 [Style](/cells/python-net/zh/aspose.cells/style)
+* 模块[`aspose.cells`](../../)
+* 类 [`Style`](/cells/python-net/zh/aspose.cells/style)

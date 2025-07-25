@@ -7,13 +7,14 @@ weight: 140
 url: /ar/aspose.cells/pagesetup/set_even_header/
 is_root: false
 ---
-##  set_even_header(section, header_script) {#int-str}
-يقوم بتعيين برنامج نصي بتنسيق رأس الصفحة الزوجية لملف Excel.
-التأثير فقط في Excel 2007 عندما يكون IsHFDiffOddEven صحيحًا.
+##  set_even_header(self, section, header_script) {#int-str}
+تعيين نص برمجي لتنسيق رأس الصفحة الزوجية لملف Excel.
+التأثير الوحيد في Excel 2007 عندما يكون IsHFDiffOddEven صحيحًا.
 
 
 
 ```python
+
 def set_even_header(self, section, header_script):
     ...
 ```
@@ -21,11 +22,11 @@ def set_even_header(self, section, header_script):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| section | int | 0: القسم الأيسر ، 1: القسم الأوسط ، 2: القسم الأيمن.|
-| header_script | str | برنامج نصي بتنسيق الرأس.|
+| section | int |0: القسم الأيسر، 1: القسم الأوسط، 2: القسم الأيمن.|
+| header_script | str | نص تنسيق الرأس.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [PageSetup](/cells/python-net/ar/aspose.cells/pagesetup)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`PageSetup`](/cells/python-net/ar/aspose.cells/pagesetup)

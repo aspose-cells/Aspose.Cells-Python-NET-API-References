@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  allow_inserting_hyperlink propiedad
 
-Representa si se permite la inserción de hipervínculos en una hoja de trabajo protegida
+Representa si se permite la inserción de hipervínculos en una hoja de cálculo protegida
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def allow_inserting_hyperlink(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [Protection](/cells/python-net/es/aspose.cells/protection)
+* módulo [`aspose.cells`](../../)
+* clase [`Protection`](/cells/python-net/es/aspose.cells/protection)

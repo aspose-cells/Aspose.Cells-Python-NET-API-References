@@ -7,27 +7,21 @@ weight: 20
 url: /tr/aspose.cells.pivot/pivotformatconditioncollection/add/
 is_root: false
 ---
-##  add() {#}
-Koleksiyona bir pivot FormatCondition ekler.
+##  add(self) {#}
 
 
-###  İadeler
-
-pivot FormatCondition nesne dizini.
 
 
 ```python
+
 def add(self):
     ...
 ```
 
 
-###  Notlar
 
-desteklenmiyor
 
 
 ###  Ayrıca bakınız
-
-* modül [aspose.cells.pivot](../../)
-* sınıf [PivotFormatConditionCollection](/cells/python-net/tr/aspose.cells.pivot/pivotformatconditioncollection)
+* modül [`aspose.cells.pivot`](../../)
+* sınıf [`PivotFormatConditionCollection`](/cells/python-net/tr/aspose.cells.pivot/pivotformatconditioncollection)

@@ -3,7 +3,7 @@ title: spt propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 980
+weight: 990
 url: /fr/aspose.cells.drawing/scrollbar/spt/
 is_root: false
 ---

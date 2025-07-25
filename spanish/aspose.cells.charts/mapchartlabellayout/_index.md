@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/mapchartlabellayout/
 is_root: false
 ---
 ##  MapChartLabelLayout enumeración
-Representa el diseño de las etiquetas del gráfico de mapa.
+Representa el diseño de las etiquetas del gráfico del mapa.
 
 
 
@@ -17,11 +17,11 @@ El tipo MapChartLabelLayout expone los siguientes miembros:
 ###  Campos
 | Campo| Descripción|
 | :- | :- |
-| BEST_FIT_ONLY | Solo el mejor ajuste.|
+| BEST_FIT_ONLY | Sólo el mejor ajuste.|
 | SHOW_ALL | Muestra todas las etiquetas.|
-| NONE | Sin etiquetas|
+| NONE | Sin etiquetas.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
+* módulo [`aspose.cells.charts`](..)

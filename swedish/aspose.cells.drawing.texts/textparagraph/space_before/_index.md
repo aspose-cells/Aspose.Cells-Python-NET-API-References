@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  space_before fastighet
 
-Hämtar och ställer in mängden vertikalt vitt utrymme som kommer att finnas före ett stycke.
+Hämtar och anger mängden vertikalt vitt utrymme som ska finnas före ett stycke.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def space_before(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing.texts](../../)
-* klass [TextParagraph](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)
+* modul [`aspose.cells.drawing.texts`](../../)
+* klass [`TextParagraph`](/cells/python-net/sv/aspose.cells.drawing.texts/textparagraph)

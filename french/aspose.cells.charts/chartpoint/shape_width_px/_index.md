@@ -3,13 +3,13 @@ title: shape_width_px propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 350
+weight: 360
 url: /fr/aspose.cells.charts/chartpoint/shape_width_px/
 is_root: false
 ---
 ##  shape_width_px propriété
 
-Obtient la largeur en pixels après avoir appelé la méthode Chart.Calculate().
+Obtient la largeur en unités de pixels après avoir appelé la méthode Chart.Calculate().
 ###  Définition:
 ```python
 @property
@@ -18,5 +18,5 @@ def shape_width_px(self):
 ```
 
 ###  Voir également
-* module [aspose.cells.charts](../../)
-* classe [ChartPoint](/cells/python-net/fr/aspose.cells.charts/chartpoint)
+* module [`aspose.cells.charts`](../../)
+* classe [`ChartPoint`](/cells/python-net/fr/aspose.cells.charts/chartpoint)

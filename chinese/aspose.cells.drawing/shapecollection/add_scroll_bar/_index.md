@@ -3,20 +3,21 @@ title: add_scroll_bar方法
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 260
+weight: 270
 url: /zh/aspose.cells.drawing/shapecollection/add_scroll_bar/
 is_root: false
 ---
-##  add_scroll_bar {#int-int-int-int-int-int}
-将滚动条添加到工作表。
+##  add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+向工作表添加滚动条。
 
 
-### 退货
+### 返回
 
-一个 ScrollBar 对象。
+ScrollBar 对象。
 
 
 ```python
+
 def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, width):
     ...
 ```
@@ -26,7 +27,7 @@ def add_scroll_bar(self, upper_left_row, top, upper_left_column, left, height, w
 | :- | :- | :- |
 | upper_left_row | int |左上行索引。|
 | top | int |表示ScrollBar相对于其左行的垂直偏移量，以像素为单位。|
-| upper_left_column | int |左上列索引。|
+| upper_left_column | int |左上角的列索引。|
 | left | int |表示ScrollBar相对于其左列的水平偏移量，以像素为单位。|
 | height | int |表示ScrollBar的高度，单位为像素。|
 | width | int |表示ScrollBar的宽度，单位为像素。|

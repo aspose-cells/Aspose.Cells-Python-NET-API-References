@@ -1,5 +1,5 @@
 ---
-title: height الملكية
+title: height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,9 +7,9 @@ weight: 170
 url: /ar/aspose.cells.charts/walls/height/
 is_root: false
 ---
-##  height الملكية
+##  height عقار
 
-الحصول على height من الأعلى إلى الأسفل بالوحدات 1/4000 من height على الرسم البياني بعد استدعاء طريقة Chart.Calculate ().
+يحصل على height من الأعلى إلى الأسفل بوحدات 1/4000 من الرسم البياني height بعد استدعاء طريقة Chart.Calculate().
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def height(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Walls](/cells/python-net/ar/aspose.cells.charts/walls)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Walls`](/cells/python-net/ar/aspose.cells.charts/walls)

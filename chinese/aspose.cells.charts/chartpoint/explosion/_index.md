@@ -1,15 +1,15 @@
 ---
-title: explosion 属性
-second_title: Aspose.Cells for Python via .NET API 参考资料
+title: explosion属性
+second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 210
+weight: 220
 url: /zh/aspose.cells.charts/chartpoint/explosion/
 is_root: false
 ---
-## explosion 属性
+## explosion属性
 
-开放饼图切片与饼图中心的距离表示为饼图直径的百分比。
+打开的饼图切片与饼图中心的距离以饼图直径的百分比表示。
 ### 定义：
 ```python
 @property
@@ -21,5 +21,5 @@ def explosion(self, value):
 ```
 
 ### 也可以看看
-* 模块 [aspose.cells.charts](../../)
-* 类 [ChartPoint](/cells/python-net/zh/aspose.cells.charts/chartpoint)
+* 模块[`aspose.cells.charts`](../../)
+* 类 [`ChartPoint`](/cells/python-net/zh/aspose.cells.charts/chartpoint)

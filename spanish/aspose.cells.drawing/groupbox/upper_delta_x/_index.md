@@ -3,7 +3,7 @@ title: upper_delta_x propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 1130
+weight: 1140
 url: /es/aspose.cells.drawing/groupbox/upper_delta_x/
 is_root: false
 ---

@@ -3,13 +3,13 @@ title: shapes عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 750
+weight: 780
 url: /ar/aspose.cells/worksheet/shapes/
 is_root: false
 ---
 ##  shapes عقار
 
-تقوم بإرجاع كافة الرسومات shapes في ورقة العمل هذه.
+إرجاع كافة الرسومات shapes في ورقة العمل هذه.
 ###  تعريف:
 ```python
 @property

@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  drop_zones_visible Eigentum
 
-Gibt an, ob Pivot-Steuerelemente im Pivot-Diagramm angezeigt werden können.
+Gibt an, ob im Pivot-Diagramm Pivot-Steuerelemente angezeigt werden können.
 ###  Definition:
 ```python
 @property
@@ -21,5 +21,5 @@ def drop_zones_visible(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.charts](../../)
-* Klasse [PivotOptions](/cells/python-net/de/aspose.cells.charts/pivotoptions)
+* Modul [`aspose.cells.charts`](../../)
+* Klasse [`PivotOptions`](/cells/python-net/de/aspose.cells.charts/pivotoptions)

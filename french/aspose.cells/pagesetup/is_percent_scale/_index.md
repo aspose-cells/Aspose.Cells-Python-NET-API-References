@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  is_percent_scale propriété
 
-Si cette propriété a la valeur False, les propriétés FitToPagesWide et FitToPagesTall contrôlent la mise à l'échelle de la feuille de calcul.
+Si cette propriété est False, les propriétés FitToPagesWide et FitToPagesTall contrôlent la façon dont la feuille de calcul est mise à l'échelle.
 ###  Définition:
 ```python
 @property
@@ -21,5 +21,5 @@ def is_percent_scale(self, value):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [PageSetup](/cells/python-net/fr/aspose.cells/pagesetup)
+* module [`aspose.cells`](../../)
+* classe [`PageSetup`](/cells/python-net/fr/aspose.cells/pagesetup)

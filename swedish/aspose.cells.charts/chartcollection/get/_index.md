@@ -7,8 +7,8 @@ weight: 60
 url: /sv/aspose.cells.charts/chartcollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
+##  get(self, index) {#int}
+Lägg till API for Python Via .Net. eftersom detta[int index] inte stöds.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, index):
 | index | int | Elementets nollbaserade index.|
 
 
-##  get(name) {#str}
-Lägg till API for Python Via .Net.eftersom detta [strängdiagram] inte stöds
+##  get(self, name) {#str}
+Lägg till API for Python Via .Net. eftersom detta [strängdiagram] inte stöds.
 
 
 ###  Returnerar
@@ -37,6 +38,7 @@ Lägg till API for Python Via .Net.eftersom detta [strängdiagram] inte stöds
 
 
 ```python
+
 def get(self, name):
     ...
 ```
@@ -44,10 +46,10 @@ def get(self, name):
 
 | Parameter| Typ| Beskrivning|
 | :- | :- | :- |
-| name | str |Diagramnamn|
+| name | str | Diagramnamn|
 
 
 
 ###  Se även
-* modul [aspose.cells.charts](../../)
-* klass [ChartCollection](/cells/python-net/sv/aspose.cells.charts/chartcollection)
+* modul [`aspose.cells.charts`](../../)
+* klass [`ChartCollection`](/cells/python-net/sv/aspose.cells.charts/chartcollection)

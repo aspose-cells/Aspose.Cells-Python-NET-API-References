@@ -13,7 +13,7 @@ Ruft das Besitzerkennwort für das verschlüsselte Dokument PDF ab oder legt es 
 
 ###  Bemerkungen
 
-Mit dem Besitzerkennwort kann der Benutzer ein verschlüsseltes PDF-Dokument ohne Angabe von Zugriffsbeschränkungen öffnen.
+Das Besitzerkennwort ermöglicht dem Benutzer das Öffnen eines verschlüsselten PDF-Dokuments ohne Angabe von Zugriffsbeschränkungen.
 ###  Definition:
 ```python
 @property

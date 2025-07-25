@@ -1,6 +1,6 @@
 ---
 title: SmartTagOptions класс
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -12,21 +12,21 @@ is_root: false
 
 
 
-Тип SmartTagOptions предоставляет следующие члены:
+Тип SmartTagOptions предоставляет следующие элементы:
 
 ###  Конструкторы
 | Конструктор| Описание|
 | :- | :- |
-| [SmartTagOptions()](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/__init__/#) | Создает новый экземпляр SmartTagOptions|
+| [`__init__(self)`](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/__init__/#) | Создает новый экземпляр SmartTagOptions|
 
 
 ###  Характеристики
 | Свойство| Описание|
 | :- | :- |
-| [embed_smart_tags](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/embed_smart_tags) | Указывает, сохраняются ли смарт-теги вместе с книгой.|
-| [show_type](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/show_type) | Представляет смарт-тег типа show.|
+| [embed_smart_tags](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/embed_smart_tags) | Указывает, сохраняются ли смарт-теги вместе с рабочей книгой.|
+| [show_type](/cells/python-net/ru/aspose.cells.markup/smarttagoptions/show_type) | Представляет собой тип показа смарт-тега.|
 
 
 
 ###  Смотрите также
-* модуль [aspose.cells.markup](..)
+* модуль [`aspose.cells.markup`](..)

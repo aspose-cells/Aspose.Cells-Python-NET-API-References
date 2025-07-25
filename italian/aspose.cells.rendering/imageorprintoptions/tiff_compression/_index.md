@@ -1,9 +1,9 @@
 ---
 title: tiff_compression proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 370
+weight: 380
 url: /it/aspose.cells.rendering/imageorprintoptions/tiff_compression/
 is_root: false
 ---
@@ -13,7 +13,7 @@ Ottiene o imposta il tipo di compressione da applicare solo quando si salvano le
 
 ###  Osservazioni
 
-Ha effetto solo quando si salva su TIFF.
+Ha effetto solo se si salva su TIFF.
 Il valore predefinito è Lzw.
 ###  Definizione:
 ```python

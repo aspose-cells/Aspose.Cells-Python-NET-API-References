@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  total_columns mülk
 
-Veri kaynağından içe aktarılacak toplam sütun sayısını alır veya ayarlar. -1, verilen veri kaynağının tüm satırları anlamına gelir.
+Veri kaynağından içe aktarılacak toplam sütun sayısını alır veya ayarlar. -1, belirtilen veri kaynağının tüm satırları anlamına gelir.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def total_columns(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ImportTableOptions](/cells/python-net/tr/aspose.cells/importtableoptions)
+* modül [`aspose.cells`](../../)
+* sınıf [`ImportTableOptions`](/cells/python-net/tr/aspose.cells/importtableoptions)

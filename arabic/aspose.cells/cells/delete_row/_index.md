@@ -7,12 +7,13 @@ weight: 250
 url: /ar/aspose.cells/cells/delete_row/
 is_root: false
 ---
-##  delete_row {#int}
-يحذف صفًا.
+##  delete_row(self, row_index) {#int}
+حذف صف.
 
 
 
 ```python
+
 def delete_row(self, row_index):
     ...
 ```
@@ -20,15 +21,16 @@ def delete_row(self, row_index):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_index | int | فهرس الصف المراد حذفه.|
+| row_index | int | فهرس الصف الذي سيتم حذفه.|
 
 
-##  delete_row {#int-bool}
-يحذف صفًا.
+##  delete_row(self, row_index, update_reference) {#int-bool}
+حذف صف.
 
 
 
 ```python
+
 def delete_row(self, row_index, update_reference):
     ...
 ```
@@ -36,8 +38,8 @@ def delete_row(self, row_index, update_reference):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| row_index | int | فهرس الصف المراد حذفه.|
-| update_reference | bool | يشير إلى ما إذا كانت مراجع التحديث موجودة في أوراق العمل الأخرى.|
+| row_index | int | فهرس الصف الذي سيتم حذفه.|
+| update_reference | bool | يشير إلى ما إذا كان يتم تحديث المراجع في أوراق العمل الأخرى.|
 
 
 

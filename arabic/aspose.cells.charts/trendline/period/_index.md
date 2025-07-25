@@ -1,5 +1,5 @@
 ---
-title: period الملكية
+title: period عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,14 +7,14 @@ weight: 290
 url: /ar/aspose.cells.charts/trendline/period/
 is_root: false
 ---
-##  period الملكية
+##  period عقار
 
-إرجاع أو تحديد period لخط اتجاه المتوسط المتحرك.
+يقوم بإرجاع أو تعيين period لخط الاتجاه المتوسط المتحرك.
 
 ###  ملاحظات
 
 يجب أن تكون هذه القيمة بين 2 و 255.
-ويجب أن يكون أقل من عدد نقاط المخطط في السلسلة
+ويجب أن يكون أقل من عدد نقاط الرسم البياني في السلسلة
 ###  تعريف:
 ```python
 @property
@@ -26,5 +26,5 @@ def period(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Trendline](/cells/python-net/ar/aspose.cells.charts/trendline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Trendline`](/cells/python-net/ar/aspose.cells.charts/trendline)

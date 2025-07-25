@@ -1,15 +1,15 @@
 ---
-title: field_index الملكية
+title: field_index عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 50
+weight: 90
 url: /ar/aspose.cells.pivot/pivotfilter/field_index/
 is_root: false
 ---
-##  field_index الملكية
+##  field_index عقار
 
-يحصل على فهرس المجال لعامل التصفية المحوري.
+يحصل على مؤشر حقل المصدر الذي تم تطبيق مرشح المحور هذا عليه.
 ###  تعريف:
 ```python
 @property
@@ -18,5 +18,5 @@ def field_index(self):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFilter](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFilter`](/cells/python-net/ar/aspose.cells.pivot/pivotfilter)

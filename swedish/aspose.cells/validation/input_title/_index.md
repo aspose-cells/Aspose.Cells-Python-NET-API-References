@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  input_title fastighet
 
-Representerar titeln på dialogrutan för datavalidering.
+Representerar titeln på dialogrutan för datavalideringsinmatning.
 ###  Definition:
 ```python
 @property

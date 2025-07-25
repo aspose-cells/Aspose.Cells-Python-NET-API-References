@@ -1,9 +1,9 @@
 ---
 title: Enumerazione DateTimeGroupingType
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 2010
+weight: 1920
 url: /it/aspose.cells/datetimegroupingtype/
 is_root: false
 ---

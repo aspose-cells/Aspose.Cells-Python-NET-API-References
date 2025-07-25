@@ -1,5 +1,5 @@
 ---
-title: add_pivot_table_style méthode
+title: méthode add_pivot_table_style
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
@@ -7,16 +7,17 @@ weight: 20
 url: /fr/aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
-##  add_pivot_table_style(name) {#str}
+##  add_pivot_table_style(self, name) {#str}
 Ajoute un style de tableau croisé dynamique personnalisé.
 
 
 ###  Retour
 
-Index du style de tableau croisé dynamique.
+L'index du style du tableau croisé dynamique.
 
 
 ```python
+
 def add_pivot_table_style(self, name):
     ...
 ```
@@ -24,10 +25,10 @@ def add_pivot_table_style(self, name):
 
 | Paramètre| Taper| Description|
 | :- | :- | :- |
-| name | str |Nom du style de tableau croisé dynamique.|
+| name | str | Le nom du style du tableau croisé dynamique.|
 
 
 
 ###  Voir également
-* module [aspose.cells.tables](../../)
-* classe [TableStyleCollection](/cells/python-net/fr/aspose.cells.tables/tablestylecollection)
+* module [`aspose.cells.tables`](../../)
+* classe [`TableStyleCollection`](/cells/python-net/fr/aspose.cells.tables/tablestylecollection)

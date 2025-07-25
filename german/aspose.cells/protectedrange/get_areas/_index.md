@@ -7,7 +7,7 @@ weight: 30
 url: /de/aspose.cells/protectedrange/get_areas/
 is_root: false
 ---
-##  get_areas() {#}
+##  get_areas(self) {#}
 Ruft alle referenzierten Bereiche ab.
 
 
@@ -17,6 +17,7 @@ Gibt alle referenzierten Bereiche zurück.
 
 
 ```python
+
 def get_areas(self):
     ...
 ```
@@ -26,5 +27,5 @@ def get_areas(self):
 
 
 ###  Siehe auch
-* Modul [aspose.cells](../../)
-* Klasse [ProtectedRange](/cells/python-net/de/aspose.cells/protectedrange)
+* Modul [`aspose.cells`](../../)
+* Klasse [`ProtectedRange`](/cells/python-net/de/aspose.cells/protectedrange)

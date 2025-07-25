@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color propiedad
 
-Obtiene o establece un objeto FormatColor que puede usar para especificar el relleno color para las barras de datos negativos.
+Obtiene o establece un objeto FormatColor que puede utilizar para especificar el relleno color para barras de datos negativos.
 ###  Definición:
 ```python
 @property
@@ -21,5 +21,5 @@ def color(self, value):
 ```
 
 ###  Ver también
-* módulo [aspose.cells](../../)
-* clase [NegativeBarFormat](/cells/python-net/es/aspose.cells/negativebarformat)
+* módulo [`aspose.cells`](../../)
+* clase [`NegativeBarFormat`](/cells/python-net/es/aspose.cells/negativebarformat)

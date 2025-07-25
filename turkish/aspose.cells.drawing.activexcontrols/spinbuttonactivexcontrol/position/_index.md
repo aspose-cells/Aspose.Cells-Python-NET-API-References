@@ -21,5 +21,5 @@ def position(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.drawing.activexcontrols](../../)
-* sınıf [SpinButtonActiveXControl](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)
+* modül [`aspose.cells.drawing.activexcontrols`](../../)
+* sınıf [`SpinButtonActiveXControl`](/cells/python-net/tr/aspose.cells.drawing.activexcontrols/spinbuttonactivexcontrol)

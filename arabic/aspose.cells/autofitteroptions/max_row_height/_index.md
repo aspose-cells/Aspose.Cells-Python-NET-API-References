@@ -1,15 +1,15 @@
 ---
-title: max_row_height الملكية
+title: max_row_height عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 90
+weight: 100
 url: /ar/aspose.cells/autofitteroptions/max_row_height/
 is_root: false
 ---
-##  max_row_height الملكية
+##  max_row_height عقار
 
-الحصول على أقصى ارتفاع للصف وتعيينه (بوحدة النقطة) عند احتواء الصفوف تلقائيًا.
+يحصل على الحد الأقصى لارتفاع الصف (بوحدة النقطة) ويحدده عند تركيب الصفوف تلقائيًا.
 ###  تعريف:
 ```python
 @property
@@ -21,5 +21,5 @@ def max_row_height(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [AutoFitterOptions](/cells/python-net/ar/aspose.cells/autofitteroptions)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`AutoFitterOptions`](/cells/python-net/ar/aspose.cells/autofitteroptions)

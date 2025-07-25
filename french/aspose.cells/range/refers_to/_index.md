@@ -3,13 +3,13 @@ title: refers_to propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 380
+weight: 480
 url: /fr/aspose.cells/range/refers_to/
 is_root: false
 ---
 ##  refers_to propriété
 
-Obtient la référence à la plage.
+Obtient la plage à laquelle se réfère.
 ###  Définition:
 ```python
 @property

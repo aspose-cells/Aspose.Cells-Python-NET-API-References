@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  join_type fastighet
 
-Specificerar sammanfogningslocken.
+Anger kopplingsfästena.
 ###  Definition:
 ```python
 @property
@@ -21,6 +21,6 @@ def join_type(self, value):
 ```
 
 ###  Se även
-* modul [aspose.cells.drawing](../../)
-* klass [Line](/cells/python-net/sv/aspose.cells.drawing/line)
-* klass [LineJoinType](/cells/python-net/sv/aspose.cells.drawing/linejointype)
+* modul [`aspose.cells.drawing`](../../)
+* klass [`Line`](/cells/python-net/sv/aspose.cells.drawing/line)
+* klass [`LineJoinType`](/cells/python-net/sv/aspose.cells.drawing/linejointype)

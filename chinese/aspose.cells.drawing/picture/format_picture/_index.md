@@ -3,13 +3,13 @@ title: format_picture属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 440
+weight: 450
 url: /zh/aspose.cells.drawing/picture/format_picture/
 is_root: false
 ---
 ## format_picture属性
 
-获取和设置图片格式选项。
+获取和设置图片格式的选项。
 
 ### 例子
 

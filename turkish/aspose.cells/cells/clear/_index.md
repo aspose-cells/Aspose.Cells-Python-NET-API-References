@@ -7,12 +7,13 @@ weight: 90
 url: /tr/aspose.cells/cells/clear/
 is_root: false
 ---
-##  clear {#}
+##  clear(self) {#}
 Çalışma sayfasındaki tüm verileri temizler.
 
 
 
 ```python
+
 def clear(self):
     ...
 ```

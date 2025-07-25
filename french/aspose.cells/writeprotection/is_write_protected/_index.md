@@ -18,5 +18,5 @@ def is_write_protected(self):
 ```
 
 ###  Voir également
-* module [aspose.cells](../../)
-* classe [WriteProtection](/cells/python-net/fr/aspose.cells/writeprotection)
+* module [`aspose.cells`](../../)
+* classe [`WriteProtection`](/cells/python-net/fr/aspose.cells/writeprotection)

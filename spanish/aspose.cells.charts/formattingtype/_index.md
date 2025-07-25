@@ -8,7 +8,7 @@ url: /es/aspose.cells.charts/formattingtype/
 is_root: false
 ---
 ##  FormattingType enumeración
-Representa el tipo de formato aplicado a un objeto [Area](/cells/python-net/es/aspose.cells.drawing/area) o un objeto [Line](/cells/python-net/es/aspose.cells.drawing/line).
+Representa el tipo de formato aplicado a un objeto [`Area`](/cells/python-net/es/aspose.cells.drawing/area) o a un objeto [`Line`](/cells/python-net/es/aspose.cells.drawing/line).
 
 
 
@@ -19,11 +19,11 @@ El tipo FormattingType expone los siguientes miembros:
 | :- | :- |
 | AUTOMATIC | Representa el tipo de formato automático.|
 | CUSTOM | Representa el tipo de formato personalizado.|
-| NONE | Representa ningún tipo de formato.|
+| NONE | No representa ningún tipo de formato.|
 
 
 
 ###  Ver también
-* módulo [aspose.cells.charts](..)
-* clase [Area](/cells/python-net/es/aspose.cells.drawing/area)
-* clase [Line](/cells/python-net/es/aspose.cells.drawing/line)
+* módulo [`aspose.cells.charts`](..)
+* clase [`Area`](/cells/python-net/es/aspose.cells.drawing/area)
+* clase [`Line`](/cells/python-net/es/aspose.cells.drawing/line)

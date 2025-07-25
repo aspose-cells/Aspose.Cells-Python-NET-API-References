@@ -7,12 +7,13 @@ weight: 50
 url: /fr/aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
-##  to_image {#int-str}
-Rendre certaines pages dans un fichier.
+##  to_image(self, page_index, file_name) {#int-str}
+Rendre une certaine page dans un fichier.
 
 
 
 ```python
+
 def to_image(self, page_index, file_name):
     ...
 ```
@@ -25,7 +26,7 @@ def to_image(self, page_index, file_name):
 
 ###  Exemple
 
-Le code suivant génère la première page de la première feuille sous forme d'image png.
+Le code suivant génère la première page de la première feuille en image png.
 
 ```python
 from aspose.cells import Workbook
@@ -45,12 +46,13 @@ sr.to_image(0, "output.png")
 ```
 
 
-##  to_image {#int-io.RawIOBase}
-Afficher certaines pages dans un flux.
+##  to_image(self, page_index, stream) {#int-io.RawIOBase}
+Rendre une certaine page dans un flux.
 
 
 
 ```python
+
 def to_image(self, page_index, stream):
     ...
 ```

@@ -3,13 +3,13 @@ title: export_comments_type fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 200
+weight: 270
 url: /sv/aspose.cells/htmlsaveoptions/export_comments_type/
 is_root: false
 ---
 ##  export_comments_type fastighet
 
-Representerar typ av export av kommentarer till html-filer.
+Representerar typen av export av kommentarer till html-filer.
 ###  Definition:
 ```python
 @property

@@ -3,13 +3,13 @@ title: worksheets fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 680
+weight: 710
 url: /sv/aspose.cells/workbook/worksheets/
 is_root: false
 ---
 ##  worksheets fastighet
 
-Hämtar [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection)-samlingen i kalkylarket.
+Hämtar samlingen [`WorksheetCollection`](/cells/python-net/sv/aspose.cells/worksheetcollection) i kalkylbladet.
 ###  Definition:
 ```python
 @property

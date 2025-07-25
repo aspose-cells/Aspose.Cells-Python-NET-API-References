@@ -3,13 +3,13 @@ title: count_large fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 1030
+weight: 1050
 url: /sv/aspose.cells/cells/count_large/
 is_root: false
 ---
 ##  count_large fastighet
 
-Får det totala antalet instansierade Cell objekt.
+Hämtar det totala antalet instansierade Cell objekt.
 ###  Definition:
 ```python
 @property

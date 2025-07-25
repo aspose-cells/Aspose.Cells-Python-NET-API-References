@@ -7,12 +7,13 @@ weight: 10
 url: /sv/aspose.cells/calculationoptions/__init__/
 is_root: false
 ---
-##  CalculationOptions() {#}
+##  \_\_init\_\_(själv){#}
 Konstruerar en ny instans av CalculationOptions
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,5 +23,5 @@ def __init__(self):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [CalculationOptions](/cells/python-net/sv/aspose.cells/calculationoptions)
+* modul [`aspose.cells`](../../)
+* klass [`CalculationOptions`](/cells/python-net/sv/aspose.cells/calculationoptions)

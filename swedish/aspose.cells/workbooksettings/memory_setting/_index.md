@@ -3,13 +3,17 @@ title: memory_setting fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 330
+weight: 360
 url: /sv/aspose.cells/workbooksettings/memory_setting/
 is_root: false
 ---
 ##  memory_setting fastighet
 
-Hämtar eller ställer in alternativen för minnesanvändning. Det nya alternativet kommer att tas som standardalternativ för nyskapade kalkylblad men träder inte i kraft för befintliga kalkylblad.
+Hämtar eller ställer in alternativ för minnesanvändning. Det nya alternativet används som standardalternativ för nyligen skapade kalkylblad men träder inte i kraft för befintliga kalkylblad.
+
+###  Anmärkningar
+
+För mer information om minnesläge, se [`Cells.memory_setting`](/cells/python-net/sv/aspose.cells/cells#memory_setting).
 ###  Definition:
 ```python
 @property

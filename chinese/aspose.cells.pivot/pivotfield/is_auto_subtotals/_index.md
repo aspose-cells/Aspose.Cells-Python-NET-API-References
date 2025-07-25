@@ -3,13 +3,13 @@ title: is_auto_subtotals属性
 second_title: Aspose.Cells for Python via .NET API 参考文献
 description:
 type: docs
-weight: 400
+weight: 480
 url: /zh/aspose.cells.pivot/pivotfield/is_auto_subtotals/
 is_root: false
 ---
 ## is_auto_subtotals属性
 
-指示指定字段是否显示自动小计。默认为 true。
+指示指定字段是否显示自动小计。默认值为 true。
 ### 定义：
 ```python
 @property

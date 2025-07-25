@@ -14,12 +14,12 @@ is_root: false
 
 TickLabelPositionType 类型公开以下成员：
 
-### 领域
-|场地|描述|
+### 字段
+|字段|描述|
 | :- | :- |
-| HIGH |职位类型为高位。|
-| LOW |职位类型低。|
-| NEXT_TO_AXIS |位置类型位于轴旁边。|
+| HIGH |职位类型较高。|
+| LOW |职位类型较低。|
+| NEXT_TO_AXIS |位置类型紧邻轴。|
 | NONE |职位类型为无。|
 
 

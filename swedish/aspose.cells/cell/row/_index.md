@@ -3,13 +3,13 @@ title: row fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 690
+weight: 720
 url: /sv/aspose.cells/cell/row/
 is_root: false
 ---
 ##  row fastighet
 
-Får row nummer (nollbaserat) för cellen.
+Hämtar numret row (nollbaserat) för cellen.
 ###  Definition:
 ```python
 @property

@@ -1,6 +1,6 @@
 ---
 title: value proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 50
@@ -21,5 +21,5 @@ def value(self, value):
 ```
 
 ###  Guarda anche
-* modulo [aspose.cells](../../)
-* classe [DynamicFilter](/cells/python-net/it/aspose.cells/dynamicfilter)
+* modulo [`aspose.cells`](../../)
+* classe [`DynamicFilter`](/cells/python-net/it/aspose.cells/dynamicfilter)

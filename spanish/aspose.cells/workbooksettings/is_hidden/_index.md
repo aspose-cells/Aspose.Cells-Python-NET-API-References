@@ -3,13 +3,13 @@ title: is_hidden propiedad
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 250
+weight: 280
 url: /es/aspose.cells/workbooksettings/is_hidden/
 is_root: false
 ---
 ##  is_hidden propiedad
 
-Indica si este libro está oculto.
+Indica si este libro de trabajo está oculto.
 ###  Definición:
 ```python
 @property

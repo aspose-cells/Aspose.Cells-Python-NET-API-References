@@ -1,6 +1,6 @@
 ---
 title: Sparkline classe
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
 weight: 270
@@ -8,7 +8,7 @@ url: /it/aspose.cells.charts/sparkline/
 is_root: false
 ---
 ##  Sparkline classe
-Uno sparkline rappresenta un piccolo grafico o elemento grafico in una cella del foglio di lavoro che fornisce una rappresentazione visiva dei dati.
+Uno sparkline è un piccolo grafico o una grafica in una cella del foglio di lavoro che fornisce una rappresentazione visiva dei dati.
 
 
 
@@ -25,8 +25,8 @@ Il tipo Sparkline espone i seguenti membri:
 ###  Metodi
 | Metodo| Descrizione|
 | :- | :- |
-| [to_image](/cells/python-net/it/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.ImageOrPrintOptions) | Converte uno sparkline in un'immagine.|
-| [to_image](/cells/python-net/it/aspose.cells.charts/sparkline/to_image/#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions) | Converte uno sparkline in un'immagine.|
+| [`to_image(self, file_name, options)`](/cells/python-net/it/aspose.cells.charts/sparkline/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Converte uno sparkline in un'immagine.|
+| [`to_image(self, stream, options)`](/cells/python-net/it/aspose.cells.charts/sparkline/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Converte uno sparkline in un'immagine.|
 
 
 
@@ -49,10 +49,10 @@ ca.start_column = 4
 ca.end_column = 4
 ca.start_row = 0
 ca.end_row = 0
-idx = sheet.sparkline_group_collection.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
-group = sheet.sparkline_group_collection[idx]
-idx = group.sparkline_collection.add(sheet.name + "!A1:D1", 0, 4)
-line = group.sparkline_collection[idx]
+idx = sheet.sparkline_groups.add(SparklineType.LINE, sheet.name + "!A1:D1", False, ca)
+group = sheet.sparkline_groups[idx]
+idx = group.sparklines.add(sheet.name + "!A1:D1", 0, 4)
+line = group.sparklines[idx]
 print("Saprkline data range: "  + line.data_range + ", row: "  + str(line.row) + ", column: "  + str(line.column))
 line.to_image("output.png", ImageOrPrintOptions())
 

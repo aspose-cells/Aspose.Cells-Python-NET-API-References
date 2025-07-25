@@ -3,13 +3,13 @@ title: is_auto_tick_label_spacing عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
-weight: 180
+weight: 190
 url: /ar/aspose.cells.charts/axis/is_auto_tick_label_spacing/
 is_root: false
 ---
 ##  is_auto_tick_label_spacing عقار
 
-يشير إلى ما إذا كان التباعد بين علامات التجزئة تلقائيًا
+يشير إلى ما إذا كانت المسافة بين علامات التجزئة تلقائية
 ###  تعريف:
 ```python
 @property

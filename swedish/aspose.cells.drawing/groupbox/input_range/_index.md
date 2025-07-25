@@ -3,13 +3,13 @@ title: input_range fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 520
+weight: 510
 url: /sv/aspose.cells.drawing/groupbox/input_range/
 is_root: false
 ---
 ##  input_range fastighet
 
-Hämtar eller ställer in kalkylbladsintervallet som används för att fylla den angivna kombinationsrutan.
+Hämtar eller anger kalkylbladsområdet som används för att fylla den angivna kombinationsrutan.
 
 ###  Exempel
 

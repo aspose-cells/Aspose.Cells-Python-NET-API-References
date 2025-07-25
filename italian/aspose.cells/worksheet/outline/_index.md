@@ -1,15 +1,15 @@
 ---
 title: outline proprietà
-second_title: Aspose.Cells for Python via .NET API Referenze
+second_title: Aspose.Cells for Python via .NET API Riferimenti
 description:
 type: docs
-weight: 670
+weight: 700
 url: /it/aspose.cells/worksheet/outline/
 is_root: false
 ---
 ##  outline proprietà
 
-Ottiene il numero outline in questo foglio di lavoro.
+Ottiene outline in questo foglio di lavoro.
 ###  Definizione:
 ```python
 @property

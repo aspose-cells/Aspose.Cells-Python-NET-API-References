@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  auto_scale_font Eigentum
 
-True, wenn der Text im Objekt die Schriftgröße ändert, wenn sich die Objektgröße ändert. Der Standardwert ist True.
+True, wenn sich die Schriftgröße des Texts im Objekt ändert, wenn sich die Objektgröße ändert. Der Standardwert ist True.
 ###  Definition:
 ```python
 @property

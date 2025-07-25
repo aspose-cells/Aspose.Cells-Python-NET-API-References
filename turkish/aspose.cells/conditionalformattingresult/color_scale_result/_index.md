@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  color_scale_result mülk
 
-Renk skalasının ekran rengini alır.
+Renk skalasının görüntü rengini alır.
 ###  Tanım:
 ```python
 @property
@@ -18,5 +18,5 @@ def color_scale_result(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [ConditionalFormattingResult](/cells/python-net/tr/aspose.cells/conditionalformattingresult)
+* modül [`aspose.cells`](../../)
+* sınıf [`ConditionalFormattingResult`](/cells/python-net/tr/aspose.cells/conditionalformattingresult)

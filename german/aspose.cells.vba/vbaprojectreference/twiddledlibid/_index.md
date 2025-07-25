@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  twiddledlibid Eigentum
 
-Ruft die veränderte Libid der Referenz ab und legt sie fest.
+Ruft die verdrehte Libid der Referenz ab und legt sie fest.
 
 ###  Bemerkungen
 
@@ -25,5 +25,5 @@ def twiddledlibid(self, value):
 ```
 
 ###  Siehe auch
-* Modul [aspose.cells.vba](../../)
-* Klasse [VbaProjectReference](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)
+* Modul [`aspose.cells.vba`](../../)
+* Klasse [`VbaProjectReference`](/cells/python-net/de/aspose.cells.vba/vbaprojectreference)

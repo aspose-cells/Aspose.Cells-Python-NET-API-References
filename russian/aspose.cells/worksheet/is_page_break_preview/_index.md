@@ -1,15 +1,15 @@
 ---
 title: is_page_break_preview недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 580
+weight: 610
 url: /ru/aspose.cells/worksheet/is_page_break_preview/
 is_root: false
 ---
 ##  is_page_break_preview недвижимость
 
-Указывает, отображается ли указанный лист в обычном режиме или при предварительном просмотре разрыва страницы.
+Указывает, отображается ли указанный рабочий лист в обычном режиме или в режиме предварительного просмотра разрыва страницы.
 ###  Определение:
 ```python
 @property

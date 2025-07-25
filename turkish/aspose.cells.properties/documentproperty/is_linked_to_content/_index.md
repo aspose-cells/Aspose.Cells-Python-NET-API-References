@@ -18,5 +18,5 @@ def is_linked_to_content(self):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells.properties](../../)
-* sınıf [DocumentProperty](/cells/python-net/tr/aspose.cells.properties/documentproperty)
+* modül [`aspose.cells.properties`](../../)
+* sınıf [`DocumentProperty`](/cells/python-net/tr/aspose.cells.properties/documentproperty)

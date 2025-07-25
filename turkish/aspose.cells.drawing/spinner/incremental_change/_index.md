@@ -3,13 +3,13 @@ title: incremental_change mülk
 second_title: Aspose.Cells for Python via .NET API Referanslar
 description:
 type: docs
-weight: 530
+weight: 520
 url: /tr/aspose.cells.drawing/spinner/incremental_change/
 is_root: false
 ---
 ##  incremental_change mülk
 
-Kaydırma çubuğunun veya döndürücünün satır kaydırma başına artırılacağı miktarı alır veya ayarlar.
+Kaydırma çubuğunun veya döndürücünün satır başına artırılma miktarını alır veya ayarlar.
 ###  Tanım:
 ```python
 @property

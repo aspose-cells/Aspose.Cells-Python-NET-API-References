@@ -13,10 +13,10 @@ Especifica un valor personalizado para la unidad de visualización.
 
 ###  Observaciones
 
- NOTA: Esta propiedad ahora está obsoleta. En cambio,
-utilice la propiedad Axis.CustomUnit.
+ NOTA: Esta propiedad ya no está disponible. En su lugar,
+Utilice la propiedad Axis.CustomUnit.
  Esta propiedad será eliminada 12 meses después desde enero de 2023.
-Aspose se disculpa por cualquier inconveniente que pueda haber experimentado.
+Aspose le pide disculpas por cualquier inconveniente que pueda haber experimentado.
 ###  Definición:
 ```python
 @property

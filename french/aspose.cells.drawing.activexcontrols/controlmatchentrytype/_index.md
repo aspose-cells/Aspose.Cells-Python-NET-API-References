@@ -1,14 +1,14 @@
 ---
-title: ControlMatchEntryType dénombrement
+title: ControlMatchEntryType énumération
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 190
+weight: 170
 url: /fr/aspose.cells.drawing.activexcontrols/controlmatchentrytype/
 is_root: false
 ---
-##  ControlMatchEntryType dénombrement
-Représente la manière dont un ListBox ou un ComboBox recherche dans sa liste au fur et à mesure que l'utilisateur tape.
+##  ControlMatchEntryType énumération
+Représente la manière dont une ListBox ou une ComboBox recherche sa liste au fur et à mesure que l'utilisateur tape.
 
 
 
@@ -17,11 +17,11 @@ Le type ControlMatchEntryType expose les membres suivants :
 ###  Des champs
 | Champ| Description|
 | :- | :- |
-| FIRST_LETTER | La commande recherche l'entrée suivante commençant par le caractère saisi.<br/> Taper plusieurs fois la même lettre fait défiler toutes les entrées commençant par cette lettre.|
-| COMPLETE | Au fur et à mesure que chaque caractère est saisi, la commande recherche une entrée correspondant à tous les caractères saisis.|
-| NONE | La liste ne sera pas recherchée lors de la saisie de caractères.|
+| FIRST_LETTER | Le contrôle recherche l'entrée suivante qui commence par le caractère saisi.<br/> En tapant plusieurs fois la même lettre, vous parcourez toutes les entrées commençant par cette lettre.|
+| COMPLETE | À chaque fois qu'un caractère est saisi, le contrôle recherche une entrée correspondant à tous les caractères saisis.|
+| NONE | La liste ne sera pas recherchée lorsque des caractères sont saisis.|
 
 
 
 ###  Voir également
-* module [aspose.cells.drawing.activexcontrols](..)
+* module [`aspose.cells.drawing.activexcontrols`](..)

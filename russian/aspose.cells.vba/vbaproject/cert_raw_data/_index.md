@@ -1,6 +1,6 @@
 ---
 title: cert_raw_data недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 70
@@ -18,5 +18,5 @@ def cert_raw_data(self):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells.vba](../../)
-* класс [VbaProject](/cells/python-net/ru/aspose.cells.vba/vbaproject)
+* модуль [`aspose.cells.vba`](../../)
+* класс [`VbaProject`](/cells/python-net/ru/aspose.cells.vba/vbaproject)

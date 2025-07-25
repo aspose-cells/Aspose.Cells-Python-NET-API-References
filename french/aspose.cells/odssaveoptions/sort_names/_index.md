@@ -3,13 +3,13 @@ title: sort_names propriété
 second_title: Aspose.Cells for Python via .NET API Références
 description:
 type: docs
-weight: 130
+weight: 160
 url: /fr/aspose.cells/odssaveoptions/sort_names/
 is_root: false
 ---
 ##  sort_names propriété
 
-Indique si le tri des noms définis avant d'enregistrer le fichier.
+Indique si les noms définis doivent être triés avant l'enregistrement du fichier.
 ###  Définition:
 ```python
 @property

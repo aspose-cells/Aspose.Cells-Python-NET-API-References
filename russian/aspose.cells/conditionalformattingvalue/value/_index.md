@@ -1,6 +1,6 @@
 ---
 title: value недвижимость
-second_title: Aspose.Cells for Python via .NET API
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
 weight: 50
@@ -9,13 +9,13 @@ is_root: false
 ---
 ##  value недвижимость
 
-Получите или установите value этого объекта условного форматирования value.
+Получить или задать value этого объекта условного форматирования value.
 Его следует использовать вместе с Type.
 
 ###  Примечания
 
-Если value является строкой и начинается с "=", она будет обработана как формула,
-в противном случае мы будем обрабатывать его как простой value.
+Если value — это строка, начинающаяся с «=», она будет обработана как формула,
+в противном случае мы обработаем его как простой value.
 ###  Определение:
 ```python
 @property
@@ -27,5 +27,5 @@ def value(self, value):
 ```
 
 ###  Смотрите также
-* модуль [aspose.cells](../../)
-* класс [ConditionalFormattingValue](/cells/python-net/ru/aspose.cells/conditionalformattingvalue)
+* модуль [`aspose.cells`](../../)
+* класс [`ConditionalFormattingValue`](/cells/python-net/ru/aspose.cells/conditionalformattingvalue)

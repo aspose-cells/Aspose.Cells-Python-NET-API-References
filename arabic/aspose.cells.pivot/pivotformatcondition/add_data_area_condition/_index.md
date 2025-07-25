@@ -7,12 +7,13 @@ weight: 30
 url: /ar/aspose.cells.pivot/pivotformatcondition/add_data_area_condition/
 is_root: false
 ---
-##  add_data_area_condition(field_name) {#str}
-يضيف حد تنسيق شرطي لـ PivotTable في حقول البيانات.
+##  add_data_area_condition(self, field_name) {#str}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, field_name):
     ...
 ```
@@ -20,15 +21,16 @@ def add_data_area_condition(self, field_name):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| field_name | str | اسم PivotField.|
+| field_name | str |  |
 
 
-##  add_data_area_condition(data_field) {#PivotField}
-يضيف حد تنسيق شرطي لـ PivotTable في حقول البيانات.
+##  add_data_area_condition(self, data_field) {#aspose.cells.pivot.PivotField}
+
 
 
 
 ```python
+
 def add_data_area_condition(self, data_field):
     ...
 ```
@@ -36,10 +38,10 @@ def add_data_area_condition(self, data_field):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| data_field | [PivotField](/cells/python-net/ar/aspose.cells.pivot/pivotfield) | PivotField في حقول البيانات.|
+| data_field | [`PivotField`](/cells/python-net/ar/aspose.cells.pivot/pivotfield) |  |
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.pivot](../../)
-* فئة [PivotFormatCondition](/cells/python-net/ar/aspose.cells.pivot/pivotformatcondition)
+* الوحدة [`aspose.cells.pivot`](../../)
+* فئة [`PivotFormatCondition`](/cells/python-net/ar/aspose.cells.pivot/pivotformatcondition)

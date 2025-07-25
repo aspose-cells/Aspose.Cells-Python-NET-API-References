@@ -7,8 +7,8 @@ weight: 60
 url: /sv/aspose.cells/namecollection/get/
 is_root: false
 ---
-##  get(index) {#int}
-Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
+##  get(self, index) {#int}
+Lägg till API for Python Via .Net. eftersom detta[int index] inte stöds.
 
 
 ###  Returnerar
@@ -17,6 +17,7 @@ Lägg till API for Python Via .Net.eftersom detta [int index] inte stöds
 
 
 ```python
+
 def get(self, index):
     ...
 ```
@@ -27,8 +28,8 @@ def get(self, index):
 | index | int | Elementets nollbaserade index.|
 
 
-##  get(text) {#str}
-Lägg till API for Python Via .Net.eftersom denna [strängtext] inte stöds
+##  get(self, text) {#str}
+Lägg till API for Python Via .Net. eftersom detta [strängtext] inte stöds.
 
 
 ###  Returnerar
@@ -37,6 +38,7 @@ Lägg till API for Python Via .Net.eftersom denna [strängtext] inte stöds
 
 
 ```python
+
 def get(self, text):
     ...
 ```
@@ -49,5 +51,5 @@ def get(self, text):
 
 
 ###  Se även
-* modul [aspose.cells](../../)
-* klass [NameCollection](/cells/python-net/sv/aspose.cells/namecollection)
+* modul [`aspose.cells`](../../)
+* klass [`NameCollection`](/cells/python-net/sv/aspose.cells/namecollection)

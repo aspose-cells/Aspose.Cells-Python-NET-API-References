@@ -7,12 +7,13 @@ weight: 310
 url: /de/aspose.cells/settableglobalizationsettings/set_comment_title_name/
 is_root: false
 ---
-##  set_comment_title_name {#aspose.cells.rendering.CommentTitleType-str}
-Ruft den vom Gebietsschema abhängigen Kommentartitelnamen entsprechend dem Kommentartiteltyp ab.
+##  set_comment_title_name(self, type, name) {#aspose.cells.rendering.CommentTitleType-str}
+Ruft den länderabhängigen Kommentartitelnamen entsprechend dem Kommentartiteltyp ab.
 
 
 
 ```python
+
 def set_comment_title_name(self, type, name):
     ...
 ```

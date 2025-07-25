@@ -1,19 +1,19 @@
 ---
 title: separator_type недвижимость
-second_title: Aspose.Cells for Python via .NET API Рекомендации
+second_title: Aspose.Cells for Python via .NET API Ссылки
 description:
 type: docs
-weight: 330
+weight: 400
 url: /ru/aspose.cells.charts/datalabels/separator_type/
 is_root: false
 ---
 ##  separator_type недвижимость
 
-Получает или задает тип разделителя, используемый для меток данных на диаграмме.
+Возвращает или задает тип разделителя, используемый для меток данных на диаграмме.
 
 ###  Примечания
 
-Чтобы установить собственный разделитель, установите для свойства [`DataLabels.separator_type`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_type) значение [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype#CUSTOM), а затем укажите ожидаемое значение для [`DataLabels.separator_value`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_value).
+Чтобы задать пользовательский разделитель, установите свойство [`DataLabels.separator_type`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_type) как [`DataLabelsSeparatorType.CUSTOM`](/cells/python-net/ru/aspose.cells.charts/datalabelsseparatortype#CUSTOM), а затем укажите ожидаемое значение для [`DataLabels.separator_value`](/cells/python-net/ru/aspose.cells.charts/datalabels#separator_value).
 ###  Определение:
 ```python
 @property

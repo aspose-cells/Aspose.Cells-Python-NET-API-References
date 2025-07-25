@@ -3,13 +3,13 @@ title: function Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 330
+weight: 410
 url: /de/aspose.cells.pivot/pivotfield/function/
 is_root: false
 ---
 ##  function Eigentum
 
-Stellt function dar, das zum Zusammenfassen des PivotTable-Datenfelds verwendet wird.
+Stellt den function dar, der zum Zusammenfassen des PivotTable-Datenfelds verwendet wird.
 ###  Definition:
 ```python
 @property

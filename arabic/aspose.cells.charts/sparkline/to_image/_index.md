@@ -7,12 +7,13 @@ weight: 20
 url: /ar/aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
-##  to_image(file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
-يحول خط مؤشر إلى صورة.
+##  to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+يقوم بتحويل الرسم البياني الشريطي إلى صورة.
 
 
 
 ```python
+
 def to_image(self, file_name, options):
     ...
 ```
@@ -24,12 +25,13 @@ def to_image(self, file_name, options):
 | options | aspose.cells.rendering.ImageOrPrintOptions | خيارات الصورة|
 
 
-##  to_image(stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
-يحول خط مؤشر إلى صورة.
+##  to_image(self, stream, options) {#io.RawIOBase-aspose.cells.rendering.ImageOrPrintOptions}
+يقوم بتحويل الرسم البياني الشريطي إلى صورة.
 
 
 
 ```python
+
 def to_image(self, stream, options):
     ...
 ```
@@ -37,11 +39,11 @@ def to_image(self, stream, options):
 
 | معامل| يكتب| وصف|
 | :- | :- | :- |
-| stream | io.RawIOBase | تيار الصورة.|
+| stream | io.RawIOBase | تدفق الصورة.|
 | options | aspose.cells.rendering.ImageOrPrintOptions | خيارات الصورة.|
 
 
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [Sparkline](/cells/python-net/ar/aspose.cells.charts/sparkline)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`Sparkline`](/cells/python-net/ar/aspose.cells.charts/sparkline)

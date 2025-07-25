@@ -3,13 +3,13 @@ title: is_hidden fastighet
 second_title: Aspose.Cells for Python via .NET API Referenser
 description:
 type: docs
-weight: 580
+weight: 590
 url: /sv/aspose.cells.drawing/dialogbox/is_hidden/
 is_root: false
 ---
 ##  is_hidden fastighet
 
-Indikerar om objektet är synligt.
+Anger om objektet är synligt.
 
 ###  Exempel
 

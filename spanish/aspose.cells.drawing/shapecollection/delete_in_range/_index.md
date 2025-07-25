@@ -1,18 +1,19 @@
 ---
-title: delete_in_range método
+title: método delete_in_range
 second_title: Aspose.Cells for Python via .NET API Referencias
 description:
 type: docs
-weight: 400
+weight: 430
 url: /es/aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---
-##  delete_in_range(ca) {#CellArea}
-Eliminar formas en el rango. Las formas de comentarios no se eliminarán.
+##  delete_in_range(self, ca) {#aspose.cells.CellArea}
+Eliminar formas del rango.Las formas de comentario no se eliminarán.
 
 
 
 ```python
+
 def delete_in_range(self, ca):
     ...
 ```
@@ -20,7 +21,7 @@ def delete_in_range(self, ca):
 
 | Parámetro| Tipo| Descripción|
 | :- | :- | :- |
-| ca | [CellArea](/cells/python-net/es/aspose.cells/cellarea) |El rango. Si las formas están contenidas en el rango, se eliminarán.|
+| ca | [`CellArea`](/cells/python-net/es/aspose.cells/cellarea) |El rango. Si las formas están contenidas en el rango, se eliminarán.|
 
 ###  Ejemplo
 
@@ -44,5 +45,5 @@ shapes.delete_in_range(area3)
 
 
 ###  Ver también
-* módulo [aspose.cells.drawing](../../)
-* clase [ShapeCollection](/cells/python-net/es/aspose.cells.drawing/shapecollection)
+* módulo [`aspose.cells.drawing`](../../)
+* clase [`ShapeCollection`](/cells/python-net/es/aspose.cells.drawing/shapecollection)

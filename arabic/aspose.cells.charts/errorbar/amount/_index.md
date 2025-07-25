@@ -1,5 +1,5 @@
 ---
-title: amount الملكية
+title: amount عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,10 +7,13 @@ weight: 30
 url: /ar/aspose.cells.charts/errorbar/amount/
 is_root: false
 ---
-##  amount الملكية
+##  amount عقار
 
 يمثل amount من شريط الخطأ.
- يجب أن يكون amount أكبر من أو يساوي الصفر.
+
+###  ملاحظات
+
+يجب أن يكون الرقم amount أكبر من أو يساوي الصفر.
 ###  تعريف:
 ```python
 @property
@@ -22,5 +25,5 @@ def amount(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells.charts](../../)
-* فئة [ErrorBar](/cells/python-net/ar/aspose.cells.charts/errorbar)
+* الوحدة [`aspose.cells.charts`](../../)
+* فئة [`ErrorBar`](/cells/python-net/ar/aspose.cells.charts/errorbar)

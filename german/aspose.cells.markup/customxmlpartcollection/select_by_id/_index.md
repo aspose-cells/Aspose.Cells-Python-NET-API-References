@@ -7,8 +7,8 @@ weight: 70
 url: /de/aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
-##  select_by_id(id) {#str}
-Ruft ein Element nach ID ab.
+##  select_by_id(self, id) {#str}
+Ruft ein Element per ID ab.
 
 
 ###  Kehrt zurück
@@ -17,6 +17,7 @@ Ruft ein Element nach ID ab.
 
 
 ```python
+
 def select_by_id(self, id):
     ...
 ```
@@ -29,5 +30,5 @@ def select_by_id(self, id):
 
 
 ###  Siehe auch
-* Modul [aspose.cells.markup](../../)
-* Klasse [CustomXmlPartCollection](/cells/python-net/de/aspose.cells.markup/customxmlpartcollection)
+* Modul [`aspose.cells.markup`](../../)
+* Klasse [`CustomXmlPartCollection`](/cells/python-net/de/aspose.cells.markup/customxmlpartcollection)

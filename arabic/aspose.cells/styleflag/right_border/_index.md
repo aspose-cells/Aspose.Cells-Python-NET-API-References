@@ -1,5 +1,5 @@
 ---
-title: right_border الملكية
+title: right_border عقار
 second_title: Aspose.Cells for Python via .NET API المراجع
 description:
 type: docs
@@ -7,7 +7,7 @@ weight: 260
 url: /ar/aspose.cells/styleflag/right_border/
 is_root: false
 ---
-##  right_border الملكية
+##  right_border عقار
 
 سيتم تطبيق إعدادات الحد الأيمن.
 ###  تعريف:
@@ -21,5 +21,5 @@ def right_border(self, value):
 ```
 
 ###  أنظر أيضا
-* وحدة [aspose.cells](../../)
-* فئة [StyleFlag](/cells/python-net/ar/aspose.cells/styleflag)
+* الوحدة [`aspose.cells`](../../)
+* فئة [`StyleFlag`](/cells/python-net/ar/aspose.cells/styleflag)

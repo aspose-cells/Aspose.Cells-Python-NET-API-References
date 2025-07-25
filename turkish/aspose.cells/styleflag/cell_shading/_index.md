@@ -9,7 +9,7 @@ is_root: false
 ---
 ##  cell_shading mülk
 
-Cell gölgeleme ayarı uygulanacaktır.
+Cell gölgelendirme ayarı uygulanacaktır.
 ###  Tanım:
 ```python
 @property
@@ -21,5 +21,5 @@ def cell_shading(self, value):
 ```
 
 ###  Ayrıca bakınız
-* modül [aspose.cells](../../)
-* sınıf [StyleFlag](/cells/python-net/tr/aspose.cells/styleflag)
+* modül [`aspose.cells`](../../)
+* sınıf [`StyleFlag`](/cells/python-net/tr/aspose.cells/styleflag)

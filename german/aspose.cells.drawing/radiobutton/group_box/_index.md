@@ -3,7 +3,7 @@ title: group_box Eigentum
 second_title: Aspose.Cells for Python via .NET API Referenzen
 description:
 type: docs
-weight: 430
+weight: 420
 url: /de/aspose.cells.drawing/radiobutton/group_box/
 is_root: false
 ---
