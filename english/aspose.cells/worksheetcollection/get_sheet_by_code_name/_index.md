@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/get_sheet_by_code_name/
 is_root: false
 ---
 
-## get_sheet_by_code_name(self, code_name) {#str}
+## get_sheet_by_code_name(self, code_name) {#System.String}
 
 Gets the worksheet by the code name.
 
@@ -28,10 +28,11 @@ def get_sheet_by_code_name(self, code_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| code_name | str | Worksheet code name. |
+| code_name | System.String | Worksheet code name. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)
 * class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

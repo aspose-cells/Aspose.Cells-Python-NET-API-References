@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/add_page_breaks/
 is_root: false
 ---
 
-## add_page_breaks(self, cell_name) {#str}
+## add_page_breaks(self, cell_name) {#System.String}
 
 Adds page break.
 
@@ -23,7 +23,7 @@ def add_page_breaks(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str |  |
+| cell_name | System.String |  |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.querytables/powerqueryformulaitemcollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets [`PowerQueryFormulaItem`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitem) by the name of the item.
 
@@ -28,7 +28,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the item. |
+| name | System.String | The name of the item. |
 
 
 

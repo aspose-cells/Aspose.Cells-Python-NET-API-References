@@ -23,7 +23,7 @@ def copy(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | Source Style object |
+| style | aspose.cells.Style | Source Style object |
 ### Remarks
 
 This method does not copy the name of the style.

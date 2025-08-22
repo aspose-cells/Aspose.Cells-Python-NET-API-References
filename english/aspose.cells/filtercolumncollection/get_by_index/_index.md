@@ -29,4 +29,5 @@ def get_by_index(self, index):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn)
 * class [`FilterColumnCollection`](/cells/python-net/aspose.cells/filtercolumncollection)

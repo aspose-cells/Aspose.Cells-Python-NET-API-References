@@ -23,7 +23,7 @@ def copy_style(self, pivot_table):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Source pivot table. |
+| pivot_table | aspose.cells.pivot.PivotTable | Source pivot table. |
 
 
 

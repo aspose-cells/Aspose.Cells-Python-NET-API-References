@@ -28,6 +28,7 @@ The AccentEquationNode type exposes the following members:
 | [length](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/length) |  |
 | [font](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/font) |  |
 | [text_options](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/text_options) |  |
+| [parent_node](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/parent_node) |  |
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/equation_type) |  |
 | [accent_character](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/accent_character) | This attribute specifies the type of combining diacritical mark attached to the base of the accent function. The default accent character is U+0302.<br/>It is strongly recommended to use attribute AccentType to set accent character.<br/>Use this property setting if you cannot find the character you need in a known type. |
 | [accent_character_type](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/accent_character_type) | Specify combining characters by type value. |
@@ -37,8 +38,8 @@ The AccentEquationNode type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add_child(self, equation_type)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
-| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/add_child/#equationnode) |  |
-| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/remove_child/#equationnode) |  |
+| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/add_child/#aspose.cells.drawing.equations.equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/remove_child/#aspose.cells.drawing.equations.equationnode) |  |
 | [`remove_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/remove_child/#int) |  |
 | [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
 | [`to_la_te_x(self)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/to_la_te_x/#) |  |
@@ -49,7 +50,7 @@ The AccentEquationNode type exposes the following members:
 | [`get_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/get_child/#int) |  |
 | [`remove(self)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/remove/#) |  |
 | [`remove_all_children(self)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/remove_all_children/#) |  |
-| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/accentequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-aspose.cells.drawing.equations.equationnode) |  |
 
 
 

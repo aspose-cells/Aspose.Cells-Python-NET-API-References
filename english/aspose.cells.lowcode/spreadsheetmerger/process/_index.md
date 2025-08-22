@@ -24,10 +24,10 @@ def process(options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`LowCodeMergeOptions`](/cells/python-net/aspose.cells.lowcode/lowcodemergeoptions) | Options for merging files |
+| options | aspose.cells.lowcode.LowCodeMergeOptions | Options for merging files |
 
 
-## process(, template_files, result_file) {#list-str}
+## process(, template_files, result_file) {#list-System.String}
 
 Merge given template files.
 
@@ -44,7 +44,7 @@ def process(template_files, result_file):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | template_files | list | The template files to be merged |
-| result_file | str | The resultant file |
+| result_file | System.String | The resultant file |
 
 
 

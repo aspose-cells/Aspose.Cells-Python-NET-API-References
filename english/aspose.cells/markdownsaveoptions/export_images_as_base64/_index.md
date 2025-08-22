@@ -12,6 +12,7 @@ is_root: false
 
 
 Specifies whether images are saved in Base64 format to Markdown.
+The default value is true.
 
 ### Remarks 
 

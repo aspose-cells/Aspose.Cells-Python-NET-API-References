@@ -8,7 +8,7 @@ url: /aspose.cells.metadata/workbookmetadata/save/
 is_root: false
 ---
 
-## save(self, file_name) {#str}
+## save(self, file_name) {#System.String}
 
 Save the modified metadata to the file.
 
@@ -23,7 +23,7 @@ def save(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The file name. |
+| file_name | System.String | The file name. |
 
 
 ## save(self, stream) {#io.RawIOBase}

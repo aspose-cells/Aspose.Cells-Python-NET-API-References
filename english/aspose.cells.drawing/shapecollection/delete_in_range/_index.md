@@ -23,7 +23,7 @@ def delete_in_range(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range.If the shapes are contained in the range, they will be removed. |
+| ca | aspose.cells.CellArea | The range.If the shapes are contained in the range, they will be removed. |
 
 ### Example 
 

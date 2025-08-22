@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`DataModelTable`](/cells/python-net/aspose.cells.datamodels/datamodeltable) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.datamodels.DataModelTable | The System.Object to locate. The value can be null. |
 
 
 

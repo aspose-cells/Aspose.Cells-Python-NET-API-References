@@ -3,7 +3,7 @@ title: ProtectedRangeCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1140
+weight: 1240
 url: /aspose.cells/protectedrangecollection/
 is_root: false
 ---
@@ -32,7 +32,7 @@ The ProtectedRangeCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/protectedrangecollection/last_index_of/#aspose.cells.protectedrange) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/protectedrangecollection/last_index_of/#aspose.cells.protectedrange-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/protectedrangecollection/last_index_of/#aspose.cells.protectedrange-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`add(self, name, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/protectedrangecollection/add/#str-int-int-int-int) | Adds a [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) item to the collection. |
+| [`add(self, name, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/protectedrangecollection/add/#system.string-int-int-int-int) | Adds a [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) item to the collection. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/protectedrangecollection/binary_search/#aspose.cells.protectedrange) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

@@ -3,7 +3,7 @@ title: width_in_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1190
+weight: 1200
 url: /aspose.cells.drawing/dialogbox/width_in_shape/
 is_root: false
 ---

@@ -38,7 +38,7 @@ def __init__(self, workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | The template workbook file. |
+| workbook | aspose.cells.Workbook | The template workbook file. |
 
 
 

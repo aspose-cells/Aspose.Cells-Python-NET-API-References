@@ -62,7 +62,7 @@ def put_value(self, double_value):
 | double_value | float | Input value |
 
 
-## put_value(self, string_value) {#str}
+## put_value(self, string_value) {#System.String}
 
 Puts a string value into the cell.
 
@@ -77,10 +77,10 @@ def put_value(self, string_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| string_value | str | Input value |
+| string_value | System.String | Input value |
 
 
-## put_value(self, date_time) {#DateTime}
+## put_value(self, date_time) {#System.DateTime}
 
 Puts a DateTime value into the cell.
 
@@ -95,7 +95,7 @@ def put_value(self, date_time):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_time | DateTime | Input value |
+| date_time | System.DateTime | Input value |
 ### Remarks
 
 Setting a DateTime value for a cell dose not means the cell will be formatted as date time automatically.
@@ -124,7 +124,7 @@ cell.set_style(style)
 ```
 
 
-## put_value(self, object_value) {#any}
+## put_value(self, object_value) {#System.Object}
 
 Puts an object value into the cell.
 
@@ -139,10 +139,10 @@ def put_value(self, object_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| object_value | any | input value |
+| object_value | System.Object | input value |
 
 
-## put_value(self, string_value, is_converted) {#str-bool}
+## put_value(self, string_value, is_converted) {#System.String-bool}
 
 Puts a string value into the cell and converts the value to other data type if appropriate.
 
@@ -157,11 +157,11 @@ def put_value(self, string_value, is_converted):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| string_value | str | Input value |
+| string_value | System.String | Input value |
 | is_converted | bool | True: converted to other data type if appropriate. |
 
 
-## put_value(self, string_value, is_converted, set_style) {#str-bool-bool}
+## put_value(self, string_value, is_converted, set_style) {#System.String-bool-bool}
 
 Puts a value into the cell, if appropriate the value will be converted to other data type and cell's number format will be reset.
 
@@ -176,7 +176,7 @@ def put_value(self, string_value, is_converted, set_style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| string_value | str | Input value |
+| string_value | System.String | Input value |
 | is_converted | bool | True: converted to other data type if appropriate. |
 | set_style | bool | True: set the number format to cell's style when converting to other data type |
 

@@ -47,3 +47,4 @@ fontSetting = shape.characters(0, 4)
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`CellsDrawing`](/cells/python-net/aspose.cells.drawing/cellsdrawing)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Comment`](/cells/python-net/aspose.cells/comment) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.Comment | The System.Object to locate. The value can be null. |
 
 
 

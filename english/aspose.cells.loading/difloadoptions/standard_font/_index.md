@@ -3,7 +3,7 @@ title: standard_font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /aspose.cells.loading/difloadoptions/standard_font/
 is_root: false
 ---

@@ -8,7 +8,7 @@ url: /aspose.cells/fontconfigs/set_font_substitutes/
 is_root: false
 ---
 
-## set_font_substitutes(, original_font_name, substitute_font_names) {#str-list}
+## set_font_substitutes(, original_font_name, substitute_font_names) {#System.String-list}
 
 Font substitute names for given original font name.
 
@@ -24,7 +24,7 @@ def set_font_substitutes(original_font_name, substitute_font_names):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| original_font_name | str | Original font name. |
+| original_font_name | System.String | Original font name. |
 | substitute_font_names | list | List of font substitute names to be used if original font is not presented. |
 
 

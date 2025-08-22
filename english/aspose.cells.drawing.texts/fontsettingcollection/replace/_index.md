@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/replace/
 is_root: false
 ---
 
-## replace(self, old_value, new_value) {#str-str}
+## replace(self, old_value, new_value) {#System.String-System.String}
 
 Replace the text.
 
@@ -23,11 +23,11 @@ def replace(self, old_value, new_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| old_value | str | The old text. |
-| new_value | str | The new text. |
+| old_value | System.String | The old text. |
+| new_value | System.String | The new text. |
 
 
-## replace(self, index, count, text) {#int-int-str}
+## replace(self, index, count, text) {#int-int-System.String}
 
 Replace the text.
 
@@ -44,7 +44,7 @@ def replace(self, index, count, text):
 | :- | :- | :- |
 | index | int | The start index. |
 | count | int | The count of characters. |
-| text | str | The text. |
+| text | System.String | The text. |
 
 
 

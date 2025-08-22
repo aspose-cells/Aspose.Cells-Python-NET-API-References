@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/equationcomponentnode/create_node/
 is_root: false
 ---
 
-## create_node(, equation_type, workbook, parent) {#aspose.cells.drawing.equations.EquationNodeType-aspose.cells.Workbook-EquationNode}
+## create_node(, equation_type, workbook, parent) {#aspose.cells.drawing.equations.EquationNodeType-aspose.cells.Workbook-Aspose.Cells.Drawing.Equations.EquationNode}
 
 
 
@@ -24,9 +24,9 @@ def create_node(equation_type, workbook, parent):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) |  |
-| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) |  |
-| parent | EquationNode |  |
+| equation_type | aspose.cells.drawing.equations.EquationNodeType |  |
+| workbook | aspose.cells.Workbook |  |
+| parent | Aspose.Cells.Drawing.Equations.EquationNode |  |
 
 
 

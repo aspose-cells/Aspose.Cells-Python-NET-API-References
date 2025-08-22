@@ -28,7 +28,7 @@ def add_free_floating_shape(self, type, top, left, height, width, image_data, is
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype) | The shape type. |
+| type | aspose.cells.drawing.MsoDrawingType | The shape type. |
 | top | int | Represents the vertical  offset of shape from the worksheet's top row, in unit of pixel. |
 | left | int | Represents the horizontal offset of shape from the worksheet's left column, in unit of pixel. |
 | height | int | Represents the height of LineShape, in unit of pixel. |
@@ -61,4 +61,5 @@ floatingShape_Picture = shapes.add_free_floating_shape(MsoDrawingType.PICTURE, 2
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

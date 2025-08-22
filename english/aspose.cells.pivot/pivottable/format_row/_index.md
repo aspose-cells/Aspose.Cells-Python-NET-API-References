@@ -24,7 +24,7 @@ def format_row(self, row, style):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | row | int | Row Index of the Row object |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | Style which is to format |
+| style | aspose.cells.Style | Style which is to format |
 
 
 

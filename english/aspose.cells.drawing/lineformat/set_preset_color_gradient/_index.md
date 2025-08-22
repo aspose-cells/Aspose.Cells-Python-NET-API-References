@@ -24,8 +24,8 @@ def set_preset_color_gradient(self, preset_color, style, variant):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| preset_color | [`GradientPresetType`](/cells/python-net/aspose.cells.drawing/gradientpresettype) | Preset color type |
-| style | [`GradientStyleType`](/cells/python-net/aspose.cells.drawing/gradientstyletype) | Gradient shading style. |
+| preset_color | aspose.cells.drawing.GradientPresetType | Preset color type |
+| style | aspose.cells.drawing.GradientStyleType | Gradient shading style. |
 | variant | int | The gradient variant. Can be a value from 1 through 4, corresponding to one of the four variants on the Gradient tab in the Fill Effects dialog box. If style is GradientStyle.FromCenter, the Variant argument can only be 1 or 2. |
 
 

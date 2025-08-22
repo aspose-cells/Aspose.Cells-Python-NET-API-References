@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/intersect/
 is_root: false
 ---
 
-## intersect(self, range) {#str}
+## intersect(self, range) {#System.String}
 
 Intersects another range.
 
@@ -23,7 +23,7 @@ def intersect(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | str | The range. |
+| range | System.String | The range. |
 ### Remarks
 
 If the two union ranges are not intersected, returns null.
@@ -43,7 +43,7 @@ def intersect(self, union_range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| union_range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The range. |
+| union_range | aspose.cells.UnionRange | The range. |
 ### Remarks
 
 If the two union ranges are not intersected, returns null.

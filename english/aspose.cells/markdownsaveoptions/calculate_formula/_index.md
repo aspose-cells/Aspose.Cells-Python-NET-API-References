@@ -11,7 +11,7 @@ is_root: false
 ## calculate_formula property
 
 
-Indicates whether to calculate formulas before saving html file.
+Indicates whether to calculate formulas before saving markdown file.
 
 ### Remarks 
 

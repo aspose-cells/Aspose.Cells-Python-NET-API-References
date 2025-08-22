@@ -43,7 +43,7 @@ def refresh_dynamic_array_formulas(self, calculate, copts):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | calculate | bool | Whether calculates and updates cell values for those dynamic array formulas |
-| copts | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | The options for calculating formulas |
+| copts | aspose.cells.CalculationOptions | The options for calculating formulas |
 ### Remarks
 
 For performance consideration, we do not refresh all dynamic array formulas automatically

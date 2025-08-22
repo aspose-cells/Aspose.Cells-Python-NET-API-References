@@ -3,7 +3,7 @@ title: UnionRange class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1510
+weight: 1610
 url: /aspose.cells/unionrange/
 is_root: false
 ---
@@ -38,15 +38,15 @@ The UnionRange type exposes the following members:
 | :- | :- |
 | [`set_outline_borders(self, border_styles, border_colors)`](/cells/python-net/aspose.cells/unionrange/set_outline_borders/#list-aspose.pydrawing.color[]) | Sets out line borders around a range of cells. |
 | [`set_outline_borders(self, border_style, border_color)`](/cells/python-net/aspose.cells/unionrange/set_outline_borders/#aspose.cells.cellbordertype-aspose.pydrawing.color) | Sets the outline borders around a range of cells with same border style and color. |
-| [`intersect(self, range)`](/cells/python-net/aspose.cells/unionrange/intersect/#str) | Intersects another range. |
+| [`intersect(self, range)`](/cells/python-net/aspose.cells/unionrange/intersect/#system.string) | Intersects another range. |
 | [`intersect(self, union_range)`](/cells/python-net/aspose.cells/unionrange/intersect/#aspose.cells.unionrange) | Intersects another range. |
 | [`intersect(self, ranges)`](/cells/python-net/aspose.cells/unionrange/intersect/#list) | Intersects another range. |
-| [`union(self, range)`](/cells/python-net/aspose.cells/unionrange/union/#str) | Union another range. |
+| [`union(self, range)`](/cells/python-net/aspose.cells/unionrange/union/#system.string) | Union another range. |
 | [`union(self, union_range)`](/cells/python-net/aspose.cells/unionrange/union/#aspose.cells.unionrange) | Union another range. |
 | [`union(self, ranges)`](/cells/python-net/aspose.cells/unionrange/union/#list) | Union the ranges. |
 | [`merge(self)`](/cells/python-net/aspose.cells/unionrange/merge/#) | Combines a range of cells into a single cell. |
 | [`un_merge(self)`](/cells/python-net/aspose.cells/unionrange/un_merge/#) | Unmerges merged cells of this range. |
-| [`put_value(self, string_value, is_converted, set_style)`](/cells/python-net/aspose.cells/unionrange/put_value/#str-bool-bool) | Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset. |
+| [`put_value(self, string_value, is_converted, set_style)`](/cells/python-net/aspose.cells/unionrange/put_value/#system.string-bool-bool) | Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset. |
 | [`set_style(self, style)`](/cells/python-net/aspose.cells/unionrange/set_style/#aspose.cells.style) | Sets the style of the range. |
 | [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/unionrange/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole range. |
 | [`copy(self, range, options)`](/cells/python-net/aspose.cells/unionrange/copy/#aspose.cells.unionrange-aspose.cells.pasteoptions) | Copying the range with paste special options. |

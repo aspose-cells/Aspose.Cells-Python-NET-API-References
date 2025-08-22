@@ -37,3 +37,4 @@ if shape.is_smart_art:
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)

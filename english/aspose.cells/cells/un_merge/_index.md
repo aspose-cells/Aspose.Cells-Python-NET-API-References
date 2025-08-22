@@ -3,7 +3,7 @@ title: un_merge method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 970
 url: /aspose.cells/cells/un_merge/
 is_root: false
 ---

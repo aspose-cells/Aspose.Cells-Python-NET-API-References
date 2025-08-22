@@ -25,14 +25,14 @@ The SlicerCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-str) | Add a new Slicer using PivotTable as data source |
-| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-str) | Add a new Slicer using PivotTable as data source |
+| [`add(self, pivot, dest_cell_name, base_field_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-system.string-system.string) | Add a new Slicer using PivotTable as data source |
+| [`add(self, pivot, row, column, base_field_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-system.string) | Add a new Slicer using PivotTable as data source |
 | [`add(self, pivot, row, column, base_field_index)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-int) | Add a new Slicer using PivotTable as data source |
-| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-int) | Add a new Slicer using PivotTable as data source |
+| [`add(self, pivot, dest_cell_name, base_field_index)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-system.string-int) | Add a new Slicer using PivotTable as data source |
 | [`add(self, pivot, row, column, base_field)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-int-int-aspose.cells.pivot.pivotfield) | Add a new Slicer using PivotTable as data source |
-| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-str-aspose.cells.pivot.pivotfield) | Add a new Slicer using PivotTable as data source |
-| [`add(self, table, index, dest_cell_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-str) | Add a new Slicer using ListObjet as data source |
-| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-str) | Add a new Slicer using ListObjet as data source |
+| [`add(self, pivot, dest_cell_name, base_field)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.pivot.pivottable-system.string-aspose.cells.pivot.pivotfield) | Add a new Slicer using PivotTable as data source |
+| [`add(self, table, index, dest_cell_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-int-system.string) | Add a new Slicer using ListObjet as data source |
+| [`add(self, table, list_column, dest_cell_name)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-system.string) | Add a new Slicer using ListObjet as data source |
 | [`add(self, table, list_column, row, column)`](/cells/python-net/aspose.cells.slicers/slicercollection/add/#aspose.cells.tables.listobject-aspose.cells.tables.listcolumn-int-int) | Add a new Slicer using ListObjet as data source |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.slicers/slicercollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.slicers/slicercollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
@@ -41,7 +41,7 @@ The SlicerCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.slicers/slicercollection/last_index_of/#aspose.cells.slicers.slicer-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`get(self, name)`](/cells/python-net/aspose.cells.slicers/slicercollection/get/#str) | Gets the Slicer  by slicer's name. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.slicers/slicercollection/get/#system.string) | Gets the Slicer  by slicer's name. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.slicers/slicercollection/binary_search/#aspose.cells.slicers.slicer) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

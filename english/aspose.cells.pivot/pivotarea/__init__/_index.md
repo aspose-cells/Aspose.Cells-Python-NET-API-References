@@ -23,7 +23,7 @@ def __init__(self, table):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) |  |
+| table | aspose.cells.pivot.PivotTable |  |
 
 
 

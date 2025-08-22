@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/cellsdrawing/set_linked_cell/
 is_root: false
 ---
 
-## set_linked_cell(self, formula, is_r1c1, is_local) {#str-bool-bool}
+## set_linked_cell(self, formula, is_r1c1, is_local) {#System.String-bool-bool}
 
 Sets the range linked to the control's value.
 
@@ -23,7 +23,7 @@ def set_linked_cell(self, formula, is_r1c1, is_local):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | The range linked to the control's value. |
+| formula | System.String | The range linked to the control's value. |
 | is_r1c1 | bool | Whether the formula needs to be formatted as R1C1. |
 | is_local | bool | Whether the formula needs to be formatted by locale. |
 

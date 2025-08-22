@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/
 is_root: false
 ---
 
-## set_text_of_row_labels(self, text) {#str}
+## set_text_of_row_labels(self, text) {#System.String}
 
 Sets the text of "Row Labels" label in the PivotTable.
 
@@ -23,7 +23,7 @@ def set_text_of_row_labels(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text of row labels |
+| text | System.String | The text of row labels |
 
 
 

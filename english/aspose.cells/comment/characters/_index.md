@@ -45,3 +45,4 @@ fontSetting = comment1.characters(0, 4)
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Comment`](/cells/python-net/aspose.cells/comment)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

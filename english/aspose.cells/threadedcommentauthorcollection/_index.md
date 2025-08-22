@@ -3,7 +3,7 @@ title: ThreadedCommentAuthorCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1440
+weight: 1540
 url: /aspose.cells/threadedcommentauthorcollection/
 is_root: false
 ---
@@ -39,8 +39,8 @@ The ThreadedCommentAuthorCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/last_index_of/#aspose.cells.threadedcommentauthor) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/last_index_of/#aspose.cells.threadedcommentauthor-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/last_index_of/#aspose.cells.threadedcommentauthor-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`get(self, name)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/get/#str) | Gets the person who create threaded comments. |
-| [`add(self, name, user_id, provider_id)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/add/#str-str-str) | Adds one thread comment person. |
+| [`get(self, name)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/get/#system.string) | Gets the person who create threaded comments. |
+| [`add(self, name, user_id, provider_id)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/add/#system.string-system.string-system.string) | Adds one thread comment person. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/threadedcommentauthorcollection/binary_search/#aspose.cells.threadedcommentauthor) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

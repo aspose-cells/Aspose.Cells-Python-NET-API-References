@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/get_designer_storage/
 is_root: false
 ---
 
-## get_designer_storage(self, name) {#str}
+## get_designer_storage(self, name) {#System.String}
 
 Represents the data of Designer.
 
@@ -23,7 +23,7 @@ def get_designer_storage(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 ### Remarks
 
 We do not support to parse them. Just only for copying.

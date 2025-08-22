@@ -54,4 +54,5 @@ def create_style(self, clone_default_style):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)
 * class [`Workbook`](/cells/python-net/aspose.cells/workbook)

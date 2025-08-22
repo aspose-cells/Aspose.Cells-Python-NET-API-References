@@ -3,7 +3,7 @@ title: retrieve_subtotal_setting method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 860
 url: /aspose.cells/cells/retrieve_subtotal_setting/
 is_root: false
 ---
@@ -28,10 +28,11 @@ def retrieve_subtotal_setting(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range |
+| ca | aspose.cells.CellArea | The range |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`SubtotalSetting`](/cells/python-net/aspose.cells/subtotalsetting)

@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/select_by_id/
 is_root: false
 ---
 
-## select_by_id(self, id) {#str}
+## select_by_id(self, id) {#System.String}
 
 Gets an item by id.
 
@@ -28,10 +28,11 @@ def select_by_id(self, id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | Contains the GUID for the custom XML part. |
+| id | System.String | Contains the GUID for the custom XML part. |
 
 
 
 ### See Also
 * module [`aspose.cells.markup`](../../)
+* class [`CustomXmlPart`](/cells/python-net/aspose.cells.markup/customxmlpart)
 * class [`CustomXmlPartCollection`](/cells/python-net/aspose.cells.markup/customxmlpartcollection)

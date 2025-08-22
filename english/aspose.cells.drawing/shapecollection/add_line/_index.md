@@ -49,4 +49,5 @@ lineShape = shapes.add_line(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

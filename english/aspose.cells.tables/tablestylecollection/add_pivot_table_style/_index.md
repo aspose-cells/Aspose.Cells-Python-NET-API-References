@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/add_pivot_table_style/
 is_root: false
 ---
 
-## add_pivot_table_style(self, name) {#str}
+## add_pivot_table_style(self, name) {#System.String}
 
 Adds a custom pivot table style.
 
@@ -28,7 +28,7 @@ def add_pivot_table_style(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The pivot table style name. |
+| name | System.String | The pivot table style name. |
 
 
 

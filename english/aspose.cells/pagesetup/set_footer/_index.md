@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/set_footer/
 is_root: false
 ---
 
-## set_footer(self, section, footer_script) {#int-str}
+## set_footer(self, section, footer_script) {#int-System.String}
 
 Sets a script formatting the footer of an Excel file.
 
@@ -24,7 +24,7 @@ def set_footer(self, section, footer_script):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | section | int | 0: Left Section, 1: Center Section, 2: Right Section. |
-| footer_script | str | Footer format script. |
+| footer_script | System.String | Footer format script. |
 ### Remarks
 
 Script commands:

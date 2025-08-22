@@ -23,9 +23,9 @@ def set_outline_border(self, border_edge, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_edge | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | Border edge. |
-| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Border style. |
-| border_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | Border color. |
+| border_edge | aspose.cells.BorderType | Border edge. |
+| border_style | aspose.cells.CellBorderType | Border style. |
+| border_color | aspose.cells.CellsColor | Border color. |
 
 
 ## set_outline_border(self, border_edge, border_style, border_color) {#aspose.cells.BorderType-aspose.cells.CellBorderType-aspose.pydrawing.Color}
@@ -43,8 +43,8 @@ def set_outline_border(self, border_edge, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_edge | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | Border edge. |
-| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Border style. |
+| border_edge | aspose.cells.BorderType | Border edge. |
+| border_style | aspose.cells.CellBorderType | Border style. |
 | border_color | aspose.pydrawing.Color | Border color. |
 
 

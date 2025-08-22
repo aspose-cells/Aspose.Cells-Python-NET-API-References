@@ -40,3 +40,4 @@ def add_equation(self, top_row, top, left_column, left, height, width):
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

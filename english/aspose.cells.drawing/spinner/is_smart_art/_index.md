@@ -3,7 +3,7 @@ title: is_smart_art property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /aspose.cells.drawing/spinner/is_smart_art/
 is_root: false
 ---

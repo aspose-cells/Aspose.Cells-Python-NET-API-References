@@ -38,7 +38,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be [`SaveFormat.EPUB`](/cells/python-net/aspose.cells/saveformat#EPUB) or [`SaveFormat.AZW3`](/cells/python-net/aspose.cells/saveformat#AZW3). |
+| save_format | aspose.cells.SaveFormat | The file format.<br/>It should be [`SaveFormat.EPUB`](/cells/python-net/aspose.cells/saveformat#EPUB) or [`SaveFormat.AZW3`](/cells/python-net/aspose.cells/saveformat#AZW3). |
 
 
 

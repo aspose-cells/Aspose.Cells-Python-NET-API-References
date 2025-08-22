@@ -8,7 +8,7 @@ url: /aspose.cells/cells/get/
 is_root: false
 ---
 
-## get(self, cell_name) {#str}
+## get(self, cell_name) {#System.String}
 
 Add API for Python Via .Net.since this[string cellName] is unsupported
 
@@ -28,7 +28,7 @@ def get(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name,including its column letter and row number, for example A5. |
+| cell_name | System.String | Cell name,including its column letter and row number, for example A5. |
 
 
 ## get(self, row, column) {#int-int}

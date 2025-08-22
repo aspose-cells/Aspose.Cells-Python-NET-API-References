@@ -8,7 +8,7 @@ url: /aspose.cells.charts/sparklinecollection/add/
 is_root: false
 ---
 
-## add(self, data_range, row, column) {#str-int-int}
+## add(self, data_range, row, column) {#System.String-int-int}
 
 Add a sparkline.
 
@@ -23,7 +23,7 @@ def add(self, data_range, row, column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data_range | str | Specifies the new data range of the sparkline. |
+| data_range | System.String | Specifies the new data range of the sparkline. |
 | row | int | The row index of the location. |
 | column | int | The column index of the location. |
 

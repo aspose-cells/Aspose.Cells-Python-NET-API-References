@@ -41,7 +41,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties) | Represents the properties of series layout. |
 | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | A sparkline represents a tiny chart or graphic in a worksheet cell that provides a visual representation of data. |
 | [`SparklineCollection`](/cells/python-net/aspose.cells.charts/sparklinecollection) | Encapsulates a collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) objects. |
-| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
+| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
 | [`SparklineGroupCollection`](/cells/python-net/aspose.cells.charts/sparklinegroupcollection) | Encapsulates a collection of [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) objects. |
 | [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem) | Represents a tick label in the chart. |
 | [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels) | Represents the tick-mark labels associated with tick marks on a chart axis. |
@@ -59,6 +59,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`Bar3DShapeType`](/cells/python-net/aspose.cells.charts/bar3dshapetype) | Represents the shape used with the 3-D bar or column chart. |
 | [`BubbleSizeRepresents`](/cells/python-net/aspose.cells.charts/bubblesizerepresents) | Represents what the bubble size represents on a bubble chart. |
 | [`CategoryType`](/cells/python-net/aspose.cells.charts/categorytype) | Represents the category axis type. |
+| [`ChartColorPaletteType`](/cells/python-net/aspose.cells.charts/chartcolorpalettetype) | Enumerates all Monochromatic Palettes used in Excel chart. |
 | [`ChartLineFormattingType`](/cells/python-net/aspose.cells.charts/chartlineformattingtype) | Represents line format type of chart line. |
 | [`ChartMarkerType`](/cells/python-net/aspose.cells.charts/chartmarkertype) | Represents the marker style in a line chart, scatter chart, or radar chart. |
 | [`ChartSplitType`](/cells/python-net/aspose.cells.charts/chartsplittype) | Represents the way the two sections of either a pie of pie chart or a bar of pie chart are split. |

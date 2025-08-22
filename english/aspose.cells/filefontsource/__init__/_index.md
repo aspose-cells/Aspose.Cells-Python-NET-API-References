@@ -8,7 +8,7 @@ url: /aspose.cells/filefontsource/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, file_path) {#str}
+## \_\_init\_\_(self, file_path) {#System.String}
 
 Ctor.
 
@@ -23,7 +23,7 @@ def __init__(self, file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | path to font file |
+| file_path | System.String | path to font file |
 
 
 

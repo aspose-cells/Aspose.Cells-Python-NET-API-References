@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotarea/select_field/
 is_root: false
 ---
 
-## select_field(self, axis_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
+## select_field(self, axis_type, field_name) {#aspose.cells.pivot.PivotFieldType-System.String}
 
 Select a field in the region as an area.
 
@@ -23,8 +23,8 @@ def select_field(self, axis_type, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| axis_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The region type. |
-| field_name | str | The name of pivot field. |
+| axis_type | aspose.cells.pivot.PivotFieldType | The region type. |
+| field_name | System.String | The name of pivot field. |
 
 
 ## select_field(self, axis_type, field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}
@@ -42,8 +42,8 @@ def select_field(self, axis_type, field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| axis_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The region type. |
-| field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The pivot field. |
+| axis_type | aspose.cells.pivot.PivotFieldType | The region type. |
+| field | aspose.cells.pivot.PivotField | The pivot field. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/unionrange/union/
 is_root: false
 ---
 
-## union(self, range) {#str}
+## union(self, range) {#System.String}
 
 Union another range.
 
@@ -28,7 +28,7 @@ def union(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | str | The range. |
+| range | System.String | The range. |
 
 
 ## union(self, union_range) {#aspose.cells.UnionRange}
@@ -51,7 +51,7 @@ def union(self, union_range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| union_range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The range. |
+| union_range | aspose.cells.UnionRange | The range. |
 
 
 ## union(self, ranges) {#list}

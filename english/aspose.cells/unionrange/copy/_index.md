@@ -23,8 +23,8 @@ def copy(self, range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`UnionRange`](/cells/python-net/aspose.cells/unionrange) | The source range. |
-| options | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
+| range | aspose.cells.UnionRange | The source range. |
+| options | aspose.cells.PasteOptions | The paste special options. |
 
 
 

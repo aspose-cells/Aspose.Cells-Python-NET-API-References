@@ -3,7 +3,7 @@ title: HtmlVersion enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2210
+weight: 2310
 url: /aspose.cells/htmlversion/
 is_root: false
 ---

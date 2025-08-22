@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items
 is_root: false
 ---
 
-## set_text_of_multiple_items(self, text) {#str}
+## set_text_of_multiple_items(self, text) {#System.String}
 
 Sets the text of "(Multiple Items)" label in the PivotTable.
 
@@ -23,7 +23,7 @@ def set_text_of_multiple_items(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | custom text |
+| text | System.String | custom text |
 
 
 

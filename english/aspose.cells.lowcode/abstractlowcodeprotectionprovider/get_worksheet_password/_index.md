@@ -8,7 +8,7 @@ url: /aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_worksheet_passw
 is_root: false
 ---
 
-## get_worksheet_password(self, sheet_name) {#str}
+## get_worksheet_password(self, sheet_name) {#System.String}
 
 Gets the password to protect the specified worksheet.
 
@@ -28,7 +28,7 @@ def get_worksheet_password(self, sheet_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet_name | str |  |
+| sheet_name | System.String |  |
 
 
 

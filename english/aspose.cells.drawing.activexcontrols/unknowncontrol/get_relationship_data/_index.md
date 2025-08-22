@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/
 is_root: false
 ---
 
-## get_relationship_data(self, rel_id) {#str}
+## get_relationship_data(self, rel_id) {#System.String}
 
 Gets the related data.
 
@@ -28,7 +28,7 @@ def get_relationship_data(self, rel_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rel_id | str | The relationship id. |
+| rel_id | System.String | The relationship id. |
 
 
 

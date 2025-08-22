@@ -58,4 +58,5 @@ with open("image.svg", "rb") as fs:
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

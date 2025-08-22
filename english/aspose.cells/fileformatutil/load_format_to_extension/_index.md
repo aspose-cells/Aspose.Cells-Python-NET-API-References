@@ -29,7 +29,7 @@ def load_format_to_extension(load_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_format | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The loaded file format. |
+| load_format | aspose.cells.LoadFormat | The loaded file format. |
 ### Remarks
 
 If it can not be converted, returns null.

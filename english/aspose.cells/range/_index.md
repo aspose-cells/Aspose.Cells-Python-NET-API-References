@@ -3,7 +3,7 @@ title: Range class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1280
 url: /aspose.cells/range/
 is_root: false
 ---
@@ -54,7 +54,7 @@ The Range type exposes the following members:
 | [`set_outline_border(self, border_edge, border_style, border_color)`](/cells/python-net/aspose.cells/range/set_outline_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.pydrawing.color) | Sets outline border around a range of cells. |
 | [`copy(self, range, options)`](/cells/python-net/aspose.cells/range/copy/#aspose.cells.range-aspose.cells.pasteoptions) | Copying the range with paste special options. |
 | [`copy(self, range)`](/cells/python-net/aspose.cells/range/copy/#aspose.cells.range) | Copies data (including formulas), formatting, drawing objects etc. from a source range. |
-| [`add_hyperlink(self, address, text_to_display, screen_tip)`](/cells/python-net/aspose.cells/range/add_hyperlink/#str-str-str) | Adds a hyperlink to a specified cell or a range of cells. |
+| [`add_hyperlink(self, address, text_to_display, screen_tip)`](/cells/python-net/aspose.cells/range/add_hyperlink/#system.string-system.string-system.string) | Adds a hyperlink to a specified cell or a range of cells. |
 | [`is_intersect(self, range)`](/cells/python-net/aspose.cells/range/is_intersect/#aspose.cells.range) | Indicates whether the range is intersect. |
 | [`intersect(self, range)`](/cells/python-net/aspose.cells/range/intersect/#aspose.cells.range) | Returns a [`Range`](/cells/python-net/aspose.cells/range) object that represents the rectangular intersection of two ranges. |
 | [`union_rang(self, range)`](/cells/python-net/aspose.cells/range/union_rang/#aspose.cells.range) | Returns the union result of two ranges. |
@@ -63,7 +63,7 @@ The Range type exposes the following members:
 | [`is_blank(self)`](/cells/python-net/aspose.cells/range/is_blank/#) | Indicates whether the range contains values. |
 | [`merge(self)`](/cells/python-net/aspose.cells/range/merge/#) | Combines a range of cells into a single cell. |
 | [`un_merge(self)`](/cells/python-net/aspose.cells/range/un_merge/#) | Unmerges merged cells of this range. |
-| [`put_value(self, string_value, is_converted, set_style)`](/cells/python-net/aspose.cells/range/put_value/#str-bool-bool) | Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset. |
+| [`put_value(self, string_value, is_converted, set_style)`](/cells/python-net/aspose.cells/range/put_value/#system.string-bool-bool) | Puts a value into the range, if appropriate the value will be converted to other data type and cell's number format will be reset. |
 | [`apply_style(self, style, flag)`](/cells/python-net/aspose.cells/range/apply_style/#aspose.cells.style-aspose.cells.styleflag) | Applies formats for a whole range. |
 | [`set_inside_borders(self, border_edge, line_style, border_color)`](/cells/python-net/aspose.cells/range/set_inside_borders/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.cells.cellscolor) | Set inside borders of the range. |
 | [`move_to(self, dest_row, dest_column)`](/cells/python-net/aspose.cells/range/move_to/#int-int) | Move the current range to the dest range. |

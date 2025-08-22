@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.timelines.Timeline | The System.Object to locate. The value can be null. |
 
 
 

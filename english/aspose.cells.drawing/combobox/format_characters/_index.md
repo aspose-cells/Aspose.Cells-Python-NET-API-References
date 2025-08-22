@@ -25,8 +25,8 @@ def format_characters(self, start_index, length, font, flag):
 | :- | :- | :- |
 | start_index | int | The start index. |
 | length | int | The length. |
-| font | [`Font`](/cells/python-net/aspose.cells/font) | The font setting. |
-| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | The flag of the font setting. |
+| font | aspose.cells.Font | The font setting. |
+| flag | aspose.cells.StyleFlag | The flag of the font setting. |
 
 
 

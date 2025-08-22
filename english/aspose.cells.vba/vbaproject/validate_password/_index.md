@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaproject/validate_password/
 is_root: false
 ---
 
-## validate_password(self, password) {#str}
+## validate_password(self, password) {#System.String}
 
 Validates protection password.
 
@@ -28,7 +28,7 @@ def validate_password(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | the password |
+| password | System.String | the password |
 
 
 

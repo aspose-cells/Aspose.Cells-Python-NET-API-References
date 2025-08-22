@@ -8,7 +8,7 @@ url: /aspose.cells/verticalpagebreakcollection/get/
 is_root: false
 ---
 
-## get(self, cell_name) {#str}
+## get(self, cell_name) {#System.String}
 
 Gets the [`VerticalPageBreak`](/cells/python-net/aspose.cells/verticalpagebreak) element with the specified cell name.
 
@@ -28,7 +28,7 @@ def get(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name. |
+| cell_name | System.String | Cell name. |
 
 
 

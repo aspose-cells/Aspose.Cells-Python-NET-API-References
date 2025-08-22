@@ -3,7 +3,7 @@ title: DisplayUnitType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 500
 url: /aspose.cells.charts/displayunittype/
 is_root: false
 ---

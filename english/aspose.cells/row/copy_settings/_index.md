@@ -23,7 +23,7 @@ def copy_settings(self, source, check_style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Row`](/cells/python-net/aspose.cells/row) | the source row whose settings will be copied to this one |
+| source | aspose.cells.Row | the source row whose settings will be copied to this one |
 | check_style | bool | whether check and gather style.<br/>Only takes effect and be needed when two row objects belong to different workbook and the styles of two workbooks are different. |
 
 

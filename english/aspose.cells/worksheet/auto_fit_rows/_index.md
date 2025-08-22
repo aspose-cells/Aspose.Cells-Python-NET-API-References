@@ -56,7 +56,7 @@ def auto_fit_rows(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitter options |
+| options | aspose.cells.AutoFitterOptions | The auto fitter options |
 
 
 ## auto_fit_rows(self, start_row, end_row) {#int-int}
@@ -95,7 +95,7 @@ def auto_fit_rows(self, start_row, end_row, options):
 | :- | :- | :- |
 | start_row | int | Start row index. |
 | end_row | int | End row index. |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The options of auto fitter. |
+| options | aspose.cells.AutoFitterOptions | The options of auto fitter. |
 
 
 

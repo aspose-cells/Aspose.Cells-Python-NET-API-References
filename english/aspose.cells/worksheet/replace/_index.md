@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/replace/
 is_root: false
 ---
 
-## replace(self, old_string, new_string) {#str-str}
+## replace(self, old_string, new_string) {#System.String-System.String}
 
 Replaces all cells' text with a new string.
 
@@ -23,8 +23,8 @@ def replace(self, old_string, new_string):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| old_string | str | Old string value. |
-| new_string | str | New string value. |
+| old_string | System.String | Old string value. |
+| new_string | System.String | New string value. |
 
 
 

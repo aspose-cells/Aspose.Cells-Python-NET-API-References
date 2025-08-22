@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_standard_header_footer_font
 is_root: false
 ---
 
-## get_standard_header_footer_font_style_name(self, localfont_style_name) {#str}
+## get_standard_header_footer_font_style_name(self, localfont_style_name) {#System.String}
 
 Gets standard English font style name(Regular, Bold, Italic) for Header/Footer according to given locale font style name.
 
@@ -28,7 +28,7 @@ def get_standard_header_footer_font_style_name(self, localfont_style_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| localfont_style_name | str | Locale font style name for Header/Footer. |
+| localfont_style_name | System.String | Locale font style name for Header/Footer. |
 
 
 

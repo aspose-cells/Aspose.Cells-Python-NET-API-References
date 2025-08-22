@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_text_width/
 is_root: false
 ---
 
-## get_text_width(, text, font, scaling) {#str-aspose.cells.Font-float}
+## get_text_width(, text, font, scaling) {#System.String-aspose.cells.Font-float}
 
 Get width of text in unit of points.
 
@@ -29,8 +29,8 @@ def get_text_width(text, font, scaling):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text. |
-| font | [`Font`](/cells/python-net/aspose.cells/font) | The font of the text. |
+| text | System.String | The text. |
+| font | aspose.cells.Font | The font of the text. |
 | scaling | float | The scaling of text. |
 
 

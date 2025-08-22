@@ -49,4 +49,5 @@ button = shapes.add_button(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Button`](/cells/python-net/aspose.cells.drawing/button)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

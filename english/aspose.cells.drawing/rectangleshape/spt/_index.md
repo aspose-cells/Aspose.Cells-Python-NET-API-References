@@ -3,7 +3,7 @@ title: spt property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 930
 url: /aspose.cells.drawing/rectangleshape/spt/
 is_root: false
 ---

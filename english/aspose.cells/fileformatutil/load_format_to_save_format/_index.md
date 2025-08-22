@@ -29,10 +29,11 @@ def load_format_to_save_format(load_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_format | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The load format. |
+| load_format | aspose.cells.LoadFormat | The load format. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)

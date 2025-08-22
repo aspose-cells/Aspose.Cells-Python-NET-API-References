@@ -23,7 +23,7 @@ def set_element_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The element style. |
+| style | aspose.cells.Style | The element style. |
 
 
 

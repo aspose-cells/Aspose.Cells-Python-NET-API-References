@@ -33,7 +33,7 @@ The WebExtensionCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/last_index_of/#aspose.cells.webextensions.webextension-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/last_index_of/#aspose.cells.webextensions.webextension-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`add(self)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/add/#) | Adds a web extension. |
-| [`add_web_video_player(self, url, auto_play, start_time, end_time)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/add_web_video_player/#str-bool-int-int) | Add a web video player into exel. |
+| [`add_web_video_player(self, url, auto_play, start_time, end_time)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/add_web_video_player/#system.string-bool-int-int) | Add a web video player into exel. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.webextensions/webextensioncollection/binary_search/#aspose.cells.webextensions.webextension) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

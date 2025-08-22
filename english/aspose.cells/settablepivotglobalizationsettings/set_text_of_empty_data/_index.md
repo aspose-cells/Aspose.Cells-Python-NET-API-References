@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/
 is_root: false
 ---
 
-## set_text_of_empty_data(self, text) {#str}
+## set_text_of_empty_data(self, text) {#System.String}
 
 Sets the text of "(blank)" label in the PivotTable.
 
@@ -23,7 +23,7 @@ def set_text_of_empty_data(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text of empty data |
+| text | System.String | The text of empty data |
 
 
 

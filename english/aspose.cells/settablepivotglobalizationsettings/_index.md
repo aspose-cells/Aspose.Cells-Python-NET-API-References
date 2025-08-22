@@ -3,7 +3,7 @@ title: SettablePivotGlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1320
+weight: 1420
 url: /aspose.cells/settablepivotglobalizationsettings/
 is_root: false
 ---
@@ -35,7 +35,7 @@ The SettablePivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_multiple_items(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_multiple_items/#) | Gets the text of "(Multiple Items)" label in the PivotTable. |
 | [`get_text_of_all(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_all/#) | Gets the text of "(All)" label in the PivotTable. |
 | [`get_text_of_protection(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_protection/#) | Gets the protection name in the PivotTable. |
-| [`get_text_of_protected_name(self, protected_name)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_protected_name/#str) | Gets the text for specified protected name. |
+| [`get_text_of_protected_name(self, protected_name)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_protected_name/#system.string) | Gets the text for specified protected name. |
 | [`get_text_of_column_labels(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_column_labels/#) | Gets the text of "Column Labels" label in the PivotTable. |
 | [`get_text_of_row_labels(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_row_labels/#) | Gets the text of "Row Labels" label in the PivotTable. |
 | [`get_text_of_empty_data(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_empty_data/#) | Gets the text of "(blank)" label in the PivotTable. |
@@ -52,16 +52,16 @@ The SettablePivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_range(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_range/#) | Gets the local text of "Range" |
 | [`get_text_of_all_periods(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_all_periods/#) | Gets the localized text of "All Periods". |
 | [`get_text_of_sub_total(self, sub_total_type)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype) | Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
-| [`set_text_of_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/#str) | Sets the text of "Total" label in the PivotTable. |
-| [`set_text_of_grand_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/#str) | Sets the text of "Grand Total" label in the PivotTable. |
-| [`set_text_of_multiple_items(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items/#str) | Sets the text of "(Multiple Items)" label in the PivotTable. |
-| [`set_text_of_all(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_all/#str) | Sets the text of "(All)" label in the PivotTable. |
-| [`set_text_of_protected_name(self, protected_name, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name/#str-str) | Sets the text for specific protected name. |
-| [`set_text_of_column_labels(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_column_labels/#str) | Gets the text of "Column Labels" label in the PivotTable. |
-| [`set_text_of_row_labels(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/#str) | Sets the text of "Row Labels" label in the PivotTable. |
-| [`set_text_of_empty_data(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/#str) | Sets the text of "(blank)" label in the PivotTable. |
-| [`set_text_of_data_field_header(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_data_field_header/#str) | Sets the the text of the value area field header in the PivotTable. |
-| [`set_text_of_sub_total(self, sub_total_type, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype-str) | Sets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
+| [`set_text_of_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/#system.string) | Sets the text of "Total" label in the PivotTable. |
+| [`set_text_of_grand_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/#system.string) | Sets the text of "Grand Total" label in the PivotTable. |
+| [`set_text_of_multiple_items(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items/#system.string) | Sets the text of "(Multiple Items)" label in the PivotTable. |
+| [`set_text_of_all(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_all/#system.string) | Sets the text of "(All)" label in the PivotTable. |
+| [`set_text_of_protected_name(self, protected_name, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name/#system.string-system.string) | Sets the text for specific protected name. |
+| [`set_text_of_column_labels(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_column_labels/#system.string) | Gets the text of "Column Labels" label in the PivotTable. |
+| [`set_text_of_row_labels(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_row_labels/#system.string) | Sets the text of "Row Labels" label in the PivotTable. |
+| [`set_text_of_empty_data(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_empty_data/#system.string) | Sets the text of "(blank)" label in the PivotTable. |
+| [`set_text_of_data_field_header(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_data_field_header/#system.string) | Sets the the text of the value area field header in the PivotTable. |
+| [`set_text_of_sub_total(self, sub_total_type, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype-system.string) | Sets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
 
 
 

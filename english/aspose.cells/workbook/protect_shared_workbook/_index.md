@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/protect_shared_workbook/
 is_root: false
 ---
 
-## protect_shared_workbook(self, password) {#str}
+## protect_shared_workbook(self, password) {#System.String}
 
 Protects a shared workbook.
 
@@ -23,7 +23,7 @@ def protect_shared_workbook(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | Password to protect the workbook. |
+| password | System.String | Password to protect the workbook. |
 
 
 

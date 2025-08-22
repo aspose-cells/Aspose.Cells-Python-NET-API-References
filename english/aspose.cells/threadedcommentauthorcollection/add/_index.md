@@ -8,7 +8,7 @@ url: /aspose.cells/threadedcommentauthorcollection/add/
 is_root: false
 ---
 
-## add(self, name, user_id, provider_id) {#str-str-str}
+## add(self, name, user_id, provider_id) {#System.String-System.String-System.String}
 
 Adds one thread comment person.
 
@@ -28,9 +28,9 @@ def add(self, name, user_id, provider_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the person. |
-| user_id | str |  |
-| provider_id | str | The id of the provider |
+| name | System.String | The name of the person. |
+| user_id | System.String |  |
+| provider_id | System.String | The id of the provider |
 
 
 

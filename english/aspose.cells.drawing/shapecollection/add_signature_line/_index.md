@@ -30,7 +30,7 @@ def add_signature_line(self, upper_left_row, upper_left_column, signature_line):
 | :- | :- | :- |
 | upper_left_row | int | Upper left row index. |
 | upper_left_column | int | Upper left column index. |
-| signature_line | [`SignatureLine`](/cells/python-net/aspose.cells.drawing/signatureline) | Represents a signature line object. |
+| signature_line | aspose.cells.drawing.SignatureLine | Represents a signature line object. |
 
 ### Example 
 
@@ -55,4 +55,5 @@ signatureLine1 = shapes.add_signature_line(0, 0, wSignatureLine)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

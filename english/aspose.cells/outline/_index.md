@@ -3,7 +3,7 @@ title: Outline class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1060
+weight: 1160
 url: /aspose.cells/outline/
 is_root: false
 ---

@@ -23,7 +23,7 @@ def highlight_changes(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`HighlightChangesOptions`](/cells/python-net/aspose.cells.revisions/highlightchangesoptions) | Set the options for filtering which changes should be tracked. |
+| options | aspose.cells.revisions.HighlightChangesOptions | Set the options for filtering which changes should be tracked. |
 
 
 

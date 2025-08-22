@@ -3,7 +3,7 @@ title: load_filter property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 210
 url: /aspose.cells/xmlloadoptions/load_filter/
 is_root: false
 ---

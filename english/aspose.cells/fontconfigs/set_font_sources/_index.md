@@ -10,7 +10,7 @@ is_root: false
 
 ## set_font_sources(, sources) {#list}
 
-
+Sets the fonts sources.
 
 
 
@@ -24,7 +24,7 @@ def set_font_sources(sources):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sources | list |  |
+| sources | list | An array of sources that contain TrueType fonts. |
 
 
 

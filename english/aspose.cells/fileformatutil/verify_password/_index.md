@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/verify_password/
 is_root: false
 ---
 
-## verify_password(, stream, password) {#io.RawIOBase-str}
+## verify_password(, stream, password) {#io.RawIOBase-System.String}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -30,7 +30,7 @@ def verify_password(stream, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | str | The password for encrypted ooxml files. |
+| password | System.String | The password for encrypted ooxml files. |
 
 
 

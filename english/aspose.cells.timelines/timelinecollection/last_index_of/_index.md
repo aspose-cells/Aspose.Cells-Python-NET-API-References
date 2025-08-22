@@ -28,7 +28,7 @@ def last_index_of(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.timelines.Timeline | The object to locate in the array list. The value can be null. |
 
 
 ## last_index_of(self, item, index) {#aspose.cells.timelines.Timeline-int}
@@ -51,7 +51,7 @@ def last_index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.timelines.Timeline | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 
 
@@ -75,7 +75,7 @@ def last_index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.timelines.Timeline | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the backward search. |
 | count | int | The number of elements in the section to search. |
 

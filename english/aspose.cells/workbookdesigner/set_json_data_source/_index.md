@@ -8,23 +8,23 @@ url: /aspose.cells/workbookdesigner/set_json_data_source/
 is_root: false
 ---
 
-## set_json_data_source(self, variable, data) {#str-str}
+## set_json_data_source(self, name, json) {#System.String-System.String}
 
-
+Set json string value as data source of smart markers.
 
 
 
 ```python
 
-def set_json_data_source(self, variable, data):
+def set_json_data_source(self, name, json):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| variable | str |  |
-| data | str |  |
+| name | System.String | The name of the table.<br/>If the value of JSON represents an object,it coult be null. |
+| json | System.String | The value of Json string. |
 
 
 

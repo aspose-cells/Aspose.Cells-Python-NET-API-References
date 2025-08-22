@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionpropertycollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the property of web extension.
 
@@ -28,10 +28,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of property. |
+| name | System.String | The name of property. |
 
 
 
 ### See Also
 * module [`aspose.cells.webextensions`](../../)
+* class [`WebExtensionProperty`](/cells/python-net/aspose.cells.webextensions/webextensionproperty)
 * class [`WebExtensionPropertyCollection`](/cells/python-net/aspose.cells.webextensions/webextensionpropertycollection)

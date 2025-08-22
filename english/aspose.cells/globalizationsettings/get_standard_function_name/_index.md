@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_standard_function_name/
 is_root: false
 ---
 
-## get_standard_function_name(self, local_name) {#str}
+## get_standard_function_name(self, local_name) {#System.String}
 
 Gets the standard function name according to given locale dependent function name.
 
@@ -28,7 +28,7 @@ def get_standard_function_name(self, local_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| local_name | str | Locale dependent function name. The locale was specified by the Workbook for which this settings is used. |
+| local_name | System.String | Locale dependent function name. The locale was specified by the Workbook for which this settings is used. |
 
 
 

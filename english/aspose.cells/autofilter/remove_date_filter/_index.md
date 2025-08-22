@@ -24,7 +24,7 @@ def remove_date_filter(self, field_index, date_time_grouping_type, year, month, 
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | The integer offset of the field on which you want to base the filter <br/>(from the left of the list; the leftmost field is field 0). |
-| date_time_grouping_type | [`DateTimeGroupingType`](/cells/python-net/aspose.cells/datetimegroupingtype) | The grouping type |
+| date_time_grouping_type | aspose.cells.DateTimeGroupingType | The grouping type |
 | year | int | The year. |
 | month | int | The month. |
 | day | int | The day. |

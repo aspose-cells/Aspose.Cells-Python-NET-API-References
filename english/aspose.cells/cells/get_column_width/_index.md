@@ -54,7 +54,7 @@ def get_column_width(self, column, is_original, unit_type):
 | :- | :- | :- |
 | column | int | The column index. |
 | is_original | bool | Indicates whether getting original width. |
-| unit_type | [`CellsUnitType`](/cells/python-net/aspose.cells/cellsunittype) |  |
+| unit_type | aspose.cells.CellsUnitType |  |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/create_range/
 is_root: false
 ---
 
-## create_range(self, address, sheet_index) {#str-int}
+## create_range(self, address, sheet_index) {#System.String-int}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
@@ -28,7 +28,7 @@ def create_range(self, address, sheet_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| address | str | The address of the range. |
+| address | System.String | The address of the range. |
 | sheet_index | int | The sheet index. |
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.slicers/slicercollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the Slicer  by slicer's name.
 
@@ -23,10 +23,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 
 ### See Also
 * module [`aspose.cells.slicers`](../../)
+* class [`Slicer`](/cells/python-net/aspose.cells.slicers/slicer)
 * class [`SlicerCollection`](/cells/python-net/aspose.cells.slicers/slicercollection)

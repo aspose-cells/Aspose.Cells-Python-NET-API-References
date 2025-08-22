@@ -8,7 +8,7 @@ url: /aspose.cells.querytables/powerqueryformulacollection/remove_by/
 is_root: false
 ---
 
-## remove_by(self, name) {#str}
+## remove_by(self, name) {#System.String}
 
 Remove power query formula by name.
 
@@ -23,7 +23,7 @@ def remove_by(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of power query formula. |
+| name | System.String | The name of power query formula. |
 
 
 

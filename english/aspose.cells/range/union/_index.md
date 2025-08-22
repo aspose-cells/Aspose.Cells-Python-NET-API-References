@@ -28,7 +28,7 @@ def union(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The range |
+| range | aspose.cells.Range | The range |
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 

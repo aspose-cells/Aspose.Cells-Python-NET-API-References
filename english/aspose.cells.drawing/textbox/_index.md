@@ -122,6 +122,7 @@ The TextBox type exposes the following members:
 | [control_data](/cells/python-net/aspose.cells.drawing/textbox/control_data) | Gets the data of control. |
 | [active_x_control](/cells/python-net/aspose.cells.drawing/textbox/active_x_control) | Gets the ActiveX control. |
 | [paths](/cells/python-net/aspose.cells.drawing/textbox/paths) | Gets the paths of a custom geometric shape. |
+| [geometry](/cells/python-net/aspose.cells.drawing/textbox/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/textbox/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/textbox/is_decorative) | Indicates whether the object is decorative. |
 
@@ -130,7 +131,7 @@ The TextBox type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`to_image(self, stream, image_type)`](/cells/python-net/aspose.cells.drawing/textbox/to_image/#io.rawiobase-aspose.cells.drawing.imagetype) | Creates the shape image and saves it to a stream in the specified format. |
-| [`to_image(self, image_file, options)`](/cells/python-net/aspose.cells.drawing/textbox/to_image/#str-aspose.cells.rendering.imageorprintoptions) | Saves the shape to a file. |
+| [`to_image(self, image_file, options)`](/cells/python-net/aspose.cells.drawing/textbox/to_image/#system.string-aspose.cells.rendering.imageorprintoptions) | Saves the shape to a file. |
 | [`to_image(self, stream, options)`](/cells/python-net/aspose.cells.drawing/textbox/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Saves the shape to a stream. |
 | [`get_equation_paragraph(self, index)`](/cells/python-net/aspose.cells.drawing/textbox/get_equation_paragraph/#int) | Get the specified math paragraph from the TextBody property of the TextBox object.<br/>Notice:<br/>(1) Returns NULL when the index is out of bounds or not found.<br/>(2) Also returns NULL if the specified index position is not a math paragraph. |
 | [`get_equation_paragraph(self)`](/cells/python-net/aspose.cells.drawing/textbox/get_equation_paragraph/#) | Gets the first math paragraph from the TextBody property of the TextBox object. |
@@ -138,15 +139,15 @@ The TextBox type exposes the following members:
 | [`to_front_or_back(self, orders)`](/cells/python-net/aspose.cells.drawing/textbox/to_front_or_back/#int) | Brings the shape to the front or sends the shape to back. |
 | [`get_locked_property(self, type)`](/cells/python-net/aspose.cells.drawing/textbox/get_locked_property/#aspose.cells.drawing.shapelocktype) | Gets the value of locked property. |
 | [`set_locked_property(self, type, value)`](/cells/python-net/aspose.cells.drawing/textbox/set_locked_property/#aspose.cells.drawing.shapelocktype-bool) | Set the locked property. |
-| [`add_hyperlink(self, address)`](/cells/python-net/aspose.cells.drawing/textbox/add_hyperlink/#str) | Adds a hyperlink to the shape. |
+| [`add_hyperlink(self, address)`](/cells/python-net/aspose.cells.drawing/textbox/add_hyperlink/#system.string) | Adds a hyperlink to the shape. |
 | [`remove_hyperlink(self)`](/cells/python-net/aspose.cells.drawing/textbox/remove_hyperlink/#) | Removes the hyperlink of the shape. |
 | [`move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/aspose.cells.drawing/textbox/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
 | [`align_top_right_corner(self, top_row, right_column)`](/cells/python-net/aspose.cells.drawing/textbox/align_top_right_corner/#int-int) | Moves the picture to the top-right corner. |
 | [`get_connection_points(self)`](/cells/python-net/aspose.cells.drawing/textbox/get_connection_points/#) | Get the connection points |
 | [`get_linked_cell(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/get_linked_cell/#bool-bool) | Gets the range linked to the control's value. |
-| [`set_linked_cell(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/set_linked_cell/#str-bool-bool) | Sets the range linked to the control's value. |
+| [`set_linked_cell(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/set_linked_cell/#system.string-bool-bool) | Sets the range linked to the control's value. |
 | [`get_input_range(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/get_input_range/#bool-bool) | Gets the range used to fill the control. |
-| [`set_input_range(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/set_input_range/#str-bool-bool) | Sets the range used to fill the control. |
+| [`set_input_range(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/textbox/set_input_range/#system.string-bool-bool) | Sets the range used to fill the control. |
 | [`update_selected_value(self)`](/cells/python-net/aspose.cells.drawing/textbox/update_selected_value/#) | Update the selected value by the value of the linked cell. |
 | [`calculate_text_size(self)`](/cells/python-net/aspose.cells.drawing/textbox/calculate_text_size/#) | Recalculate the text area |
 | [`format_characters(self, start_index, length, font, flag)`](/cells/python-net/aspose.cells.drawing/textbox/format_characters/#int-int-aspose.cells.font-aspose.cells.styleflag) | Formats some characters with the font setting. |
@@ -154,7 +155,7 @@ The TextBox type exposes the following members:
 | [`get_characters(self)`](/cells/python-net/aspose.cells.drawing/textbox/get_characters/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
 | [`get_rich_formattings(self)`](/cells/python-net/aspose.cells.drawing/textbox/get_rich_formattings/#) | Returns all Characters objects <br/>that represents a range of characters within the text . |
 | [`remove_active_x_control(self)`](/cells/python-net/aspose.cells.drawing/textbox/remove_active_x_control/#) | Remove activeX control. |
-| [`is_same_setting(self, obj)`](/cells/python-net/aspose.cells.drawing/textbox/is_same_setting/#any) | Returns whether the shape is same. |
+| [`is_same_setting(self, obj)`](/cells/python-net/aspose.cells.drawing/textbox/is_same_setting/#system.object) | Returns whether the shape is same. |
 | [`get_actual_box(self)`](/cells/python-net/aspose.cells.drawing/textbox/get_actual_box/#) | Get the actual position and size of the shape (after applying rotation, flip, etc.) |
 | [`fit_to_text_size(self)`](/cells/python-net/aspose.cells.drawing/textbox/fit_to_text_size/#) | Recalculate a text area suitable for displaying all text content. |
 

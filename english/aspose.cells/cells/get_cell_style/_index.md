@@ -39,3 +39,4 @@ does not include the applied properties by other settings such as conditional fo
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -3,7 +3,7 @@ title: is_equation property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /aspose.cells.drawing/spinner/is_equation/
 is_root: false
 ---

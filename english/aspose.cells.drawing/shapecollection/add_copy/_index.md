@@ -28,7 +28,7 @@ def add_copy(self, source_shape, top_row, top, left_column, left):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_shape | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) | Source shape. |
+| source_shape | aspose.cells.drawing.Shape | Source shape. |
 | top_row | int | The top row index. |
 | top | int | Represents the vertical  offset from its top row, in unit of pixel. |
 | left_column | int | The left column index. |

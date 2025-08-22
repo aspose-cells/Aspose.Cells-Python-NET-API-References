@@ -29,8 +29,8 @@ def export_range_to_json(range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The range. |
-| options | [`ExportRangeToJsonOptions`](/cells/python-net/aspose.cells.utility/exportrangetojsonoptions) | The options of exporting. |
+| range | aspose.cells.Range | The range. |
+| options | aspose.cells.utility.ExportRangeToJsonOptions | The options of exporting. |
 ### Remarks
 
 NOTE: This member is now obsolete. Instead, 
@@ -59,8 +59,8 @@ def export_range_to_json(range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The range. |
-| options | [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) | The options of exporting. |
+| range | aspose.cells.Range | The range. |
+| options | aspose.cells.JsonSaveOptions | The options of exporting. |
 
 
 

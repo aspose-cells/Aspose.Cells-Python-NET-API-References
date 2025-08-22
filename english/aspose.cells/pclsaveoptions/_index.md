@@ -3,7 +3,7 @@ title: PclSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1200
 url: /aspose.cells/pclsaveoptions/
 is_root: false
 ---
@@ -38,6 +38,7 @@ The PclSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/pclsaveoptions/sort_names) |  |
 | [sort_external_names](/cells/python-net/aspose.cells/pclsaveoptions/sort_external_names) |  |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/pclsaveoptions/refresh_chart_cache) |  |
+| [warning_callback](/cells/python-net/aspose.cells/pclsaveoptions/warning_callback) |  |
 | [check_excel_restriction](/cells/python-net/aspose.cells/pclsaveoptions/check_excel_restriction) |  |
 | [update_smart_art](/cells/python-net/aspose.cells/pclsaveoptions/update_smart_art) |  |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/pclsaveoptions/encrypt_document_properties) |  |
@@ -67,7 +68,7 @@ The PclSaveOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add_printer_font(self, font_full_name, font_pcl_name)`](/cells/python-net/aspose.cells/pclsaveoptions/add_printer_font/#str-str) | Adds information about font that is already added to the printer by manufacturer. |
+| [`add_printer_font(self, font_full_name, font_pcl_name)`](/cells/python-net/aspose.cells/pclsaveoptions/add_printer_font/#system.string-system.string) | Adds information about font that is already added to the printer by manufacturer. |
 
 
 

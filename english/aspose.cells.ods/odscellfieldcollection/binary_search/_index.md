@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`OdsCellField`](/cells/python-net/aspose.cells.ods/odscellfield) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.ods.OdsCellField | The System.Object to locate. The value can be null. |
 
 
 

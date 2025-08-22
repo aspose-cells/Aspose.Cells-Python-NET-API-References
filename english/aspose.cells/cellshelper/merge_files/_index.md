@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/merge_files/
 is_root: false
 ---
 
-## merge_files(, files, cached_file, dest_file) {#list-str-str}
+## merge_files(, files, cached_file, dest_file) {#list-System.String-System.String}
 
 Merges some large xls files to a xls file.
 
@@ -25,8 +25,8 @@ def merge_files(files, cached_file, dest_file):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | files | list | The files. |
-| cached_file | str | The cached file. |
-| dest_file | str | The dest file. |
+| cached_file | System.String | The cached file. |
+| dest_file | System.String | The dest file. |
 ### Remarks
 
 This method only supports merging data, style and formulas to the new file.

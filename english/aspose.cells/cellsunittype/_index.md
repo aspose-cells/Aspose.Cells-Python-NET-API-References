@@ -3,7 +3,7 @@ title: CellsUnitType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1830
+weight: 1930
 url: /aspose.cells/cellsunittype/
 is_root: false
 ---

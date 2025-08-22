@@ -8,7 +8,7 @@ url: /aspose.cells/fileformatutil/extension_to_save_format/
 is_root: false
 ---
 
-## extension_to_save_format(, extension) {#str}
+## extension_to_save_format(, extension) {#System.String}
 
 Converts a file name extension into a SaveFormat value.
 
@@ -29,7 +29,7 @@ def extension_to_save_format(extension):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| extension | str | The file extension. Can be with or without a leading dot. Case-insensitive. |
+| extension | System.String | The file extension. Can be with or without a leading dot. Case-insensitive. |
 ### Remarks
 
 If the extension cannot be recognized, returns [`SaveFormat.UNKNOWN`](/cells/python-net/aspose.cells/saveformat#UNKNOWN).
@@ -38,3 +38,4 @@ If the extension cannot be recognized, returns [`SaveFormat.UNKNOWN`](/cells/pyt
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)

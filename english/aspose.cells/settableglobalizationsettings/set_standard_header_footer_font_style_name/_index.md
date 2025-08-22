@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_standard_header_footer_font
 is_root: false
 ---
 
-## set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#str-str}
+## set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name) {#System.String-System.String}
 
 Sets the locale dependent function name according to given standard function name.
 
@@ -23,8 +23,8 @@ def set_standard_header_footer_font_style_name(self, localfont_style_name, stand
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| localfont_style_name | str | Locale font style name for Header/Footer. |
-| standard_name | str | Standard(en-US locale) function name. |
+| localfont_style_name | System.String | Locale font style name for Header/Footer. |
+| standard_name | System.String | Standard(en-US locale) function name. |
 
 
 

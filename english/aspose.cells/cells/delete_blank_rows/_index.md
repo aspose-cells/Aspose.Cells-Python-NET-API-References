@@ -38,7 +38,7 @@ def delete_blank_rows(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | The options of deleting range. |
+| options | aspose.cells.DeleteOptions | The options of deleting range. |
 ### Remarks
 
 For blank rows that will be deleted, it is not only required that [`Row.is_blank`](/cells/python-net/aspose.cells/row#is_blank) should be true,

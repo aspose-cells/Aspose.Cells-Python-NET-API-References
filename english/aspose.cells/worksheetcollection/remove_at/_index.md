@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/remove_at/
 is_root: false
 ---
 
-## remove_at(self, name) {#str}
+## remove_at(self, name) {#System.String}
 
 Removes the element at a specified name.
 
@@ -23,7 +23,7 @@ def remove_at(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the element to remove. |
+| name | System.String | The name of the element to remove. |
 
 
 

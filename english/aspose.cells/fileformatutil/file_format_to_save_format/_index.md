@@ -29,10 +29,11 @@ def file_format_to_save_format(format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`FileFormatType`](/cells/python-net/aspose.cells/fileformattype) | The file format type. |
+| format | aspose.cells.FileFormatType | The file format type. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil)
+* class [`SaveFormat`](/cells/python-net/aspose.cells/saveformat)

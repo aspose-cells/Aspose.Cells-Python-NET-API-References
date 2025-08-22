@@ -23,7 +23,7 @@ def set_range(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | the searched range. |
+| ca | aspose.cells.CellArea | the searched range. |
 
 
 

@@ -23,7 +23,7 @@ def add_cell_area(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The cell area. |
+| ca | aspose.cells.CellArea | The cell area. |
 
 
 

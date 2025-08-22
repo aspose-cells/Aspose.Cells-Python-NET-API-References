@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/set_chart_data_range/
 is_root: false
 ---
 
-## set_chart_data_range(self, area, is_vertical) {#str-bool}
+## set_chart_data_range(self, area, is_vertical) {#System.String-bool}
 
 Specifies data range for a chart.
 
@@ -23,7 +23,7 @@ def set_chart_data_range(self, area, is_vertical):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | str | Specifies values from which to plot the data series |
+| area | System.String | Specifies values from which to plot the data series |
 | is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
 
 

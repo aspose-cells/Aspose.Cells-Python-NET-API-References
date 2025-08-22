@@ -3,7 +3,7 @@ title: Validation class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1520
+weight: 1620
 url: /aspose.cells/validation/
 is_root: false
 ---
@@ -46,8 +46,8 @@ The Validation type exposes the following members:
 | [`get_formula2(self, is_r1c1, is_local, row, column)`](/cells/python-net/aspose.cells/validation/get_formula2/#bool-bool-int-int) | Gets the value or expression associated with this validation for specific cell. |
 | [`add_area(self, cell_area)`](/cells/python-net/aspose.cells/validation/add_area/#aspose.cells.cellarea) | Applies the validation to the area. |
 | [`add_area(self, cell_area, check_intersection, check_edge)`](/cells/python-net/aspose.cells/validation/add_area/#aspose.cells.cellarea-bool-bool) | Applies the validation to the area. |
-| [`set_formula1(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/validation/set_formula1/#str-bool-bool) | Sets the value or expression associated with this validation. |
-| [`set_formula2(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/validation/set_formula2/#str-bool-bool) | Sets the value or expression associated with this validation. |
+| [`set_formula1(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/validation/set_formula1/#system.string-bool-bool) | Sets the value or expression associated with this validation. |
+| [`set_formula2(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/validation/set_formula2/#system.string-bool-bool) | Sets the value or expression associated with this validation. |
 | [`get_list_value(self, row, column)`](/cells/python-net/aspose.cells/validation/get_list_value/#int-int) | Get the value for list of the validation for the specified cell. |
 | [`get_value(self, row, column, is_value1)`](/cells/python-net/aspose.cells/validation/get_value/#int-int-bool) | Get the value of validation on the specific cell. |
 | [`add_areas(self, areas, check_intersection, check_edge)`](/cells/python-net/aspose.cells/validation/add_areas/#list-bool-bool) | Applies the validation to given areas. |

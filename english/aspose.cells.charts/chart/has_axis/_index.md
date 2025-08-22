@@ -23,7 +23,7 @@ def has_axis(self, aixs_type, is_primary):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| aixs_type | [`AxisType`](/cells/python-net/aspose.cells.charts/axistype) |  |
+| aixs_type | aspose.cells.charts.AxisType |  |
 | is_primary | bool |  |
 ### Remarks
 

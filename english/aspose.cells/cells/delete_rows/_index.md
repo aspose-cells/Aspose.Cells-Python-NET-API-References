@@ -78,7 +78,7 @@ def delete_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Index of the first row to be deleted. |
 | total_rows | int | Count of rows to be deleted. |
-| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Options for the deleting operation |
+| options | aspose.cells.DeleteOptions | Options for the deleting operation |
 
 
 

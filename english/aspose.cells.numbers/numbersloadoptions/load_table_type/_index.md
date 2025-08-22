@@ -3,7 +3,7 @@ title: load_table_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells.numbers/numbersloadoptions/load_table_type/
 is_root: false
 ---

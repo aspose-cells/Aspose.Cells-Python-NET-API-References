@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.ConditionalFormattingIcon | The System.Object to locate. The value can be null. |
 
 
 

@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.drawing.CheckBox | The System.Object to locate. The value can be null. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picturecollection/camera/
 is_root: false
 ---
 
-## camera(self, row, column, range) {#int-int-str}
+## camera(self, row, column, range) {#int-int-System.String}
 
 Takes a photo of the range.
 
@@ -30,7 +30,7 @@ def camera(self, row, column, range):
 | :- | :- | :- |
 | row | int | The row index of this picture. |
 | column | int | The column index  of this picture. |
-| range | str | The area that requires photography |
+| range | System.String | The area that requires photography |
 
 
 

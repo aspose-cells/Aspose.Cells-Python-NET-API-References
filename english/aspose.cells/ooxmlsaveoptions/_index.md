@@ -3,7 +3,7 @@ title: OoxmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1150
 url: /aspose.cells/ooxmlsaveoptions/
 is_root: false
 ---
@@ -40,10 +40,12 @@ The OoxmlSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/ooxmlsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/ooxmlsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/ooxmlsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
+| [warning_callback](/cells/python-net/aspose.cells/ooxmlsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/ooxmlsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/ooxmlsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/ooxmlsaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
 | [export_cell_name](/cells/python-net/aspose.cells/ooxmlsaveoptions/export_cell_name) | Indicates if export cell name to Excel2007 .xlsx (.xlsm, .xltx, .xltm) file. <br/>If the output file may be accessed by SQL Server DTS, this value must be true.<br/>Setting the value to false will highly increase the performance and reduce the file size when creating large file.<br/>Default value is true. |
+| [light_cells_data_provider](/cells/python-net/aspose.cells/ooxmlsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 | [update_zoom](/cells/python-net/aspose.cells/ooxmlsaveoptions/update_zoom) | Indicates whether update scaling factor before saving the file <br/>if the PageSetup.FitToPagesWide and PageSetup.FitToPagesTall properties control how the worksheet is scaled. |
 | [enable_zip64](/cells/python-net/aspose.cells/ooxmlsaveoptions/enable_zip64) | Always use ZIP64 extensions when writing zip archives, even when unnecessary. |
 | [embed_ooxml_as_ole_object](/cells/python-net/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object) | Indicates whether embedding Ooxml files of OleObject as ole object. |

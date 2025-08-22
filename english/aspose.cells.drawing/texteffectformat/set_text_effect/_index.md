@@ -23,7 +23,7 @@ def set_text_effect(self, effect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| effect | [`MsoPresetTextEffect`](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The preset text effect. |
+| effect | aspose.cells.drawing.MsoPresetTextEffect | The preset text effect. |
 
 
 

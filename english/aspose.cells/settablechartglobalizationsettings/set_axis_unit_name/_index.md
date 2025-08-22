@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/set_axis_unit_name/
 is_root: false
 ---
 
-## set_axis_unit_name(self, type, name) {#aspose.cells.charts.DisplayUnitType-str}
+## set_axis_unit_name(self, type, name) {#aspose.cells.charts.DisplayUnitType-System.String}
 
 Sets the Name of Axis Unit.
 
@@ -24,7 +24,7 @@ def set_axis_unit_name(self, type, name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | type | aspose.cells.charts.DisplayUnitType | The unit type for displaying axis labels. |
-| name | str | local dependent name |
+| name | System.String | local dependent name |
 
 
 

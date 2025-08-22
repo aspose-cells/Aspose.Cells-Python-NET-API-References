@@ -23,7 +23,7 @@ def copy(self, cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell | [`Cell`](/cells/python-net/aspose.cells/cell) | Source [`Cell`](/cells/python-net/aspose.cells/cell) object. |
+| cell | aspose.cells.Cell | Source [`Cell`](/cells/python-net/aspose.cells/cell) object. |
 
 
 

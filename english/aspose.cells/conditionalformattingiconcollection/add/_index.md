@@ -23,7 +23,7 @@ def add(self, cficon):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cficon | [`ConditionalFormattingIcon`](/cells/python-net/aspose.cells/conditionalformattingicon) | Returns the index of new object in the list. |
+| cficon | aspose.cells.ConditionalFormattingIcon | Returns the index of new object in the list. |
 
 
 ## add(self, type, index) {#aspose.cells.IconSetType-int}
@@ -46,7 +46,7 @@ def add(self, type, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | The value type. |
+| type | aspose.cells.IconSetType | The value type. |
 | index | int | The Index. |
 
 

@@ -56,4 +56,5 @@ with open("image.jpg", "rb") as fs:
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`OleObject`](/cells/python-net/aspose.cells.drawing/oleobject)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

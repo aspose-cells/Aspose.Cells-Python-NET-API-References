@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/set_chart_title_name/
 is_root: false
 ---
 
-## set_chart_title_name(self, name) {#str}
+## set_chart_title_name(self, name) {#System.String}
 
 Sets the name of Chart Title.
 
@@ -23,7 +23,7 @@ def set_chart_title_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | local dependent name |
+| name | System.String | local dependent name |
 
 
 

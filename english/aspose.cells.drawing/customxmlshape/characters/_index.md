@@ -47,3 +47,4 @@ fontSetting = shape.characters(0, 4)
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`CustomXmlShape`](/cells/python-net/aspose.cells.drawing/customxmlshape)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

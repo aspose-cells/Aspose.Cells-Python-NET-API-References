@@ -55,20 +55,20 @@ The Cells type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`create_range(self, upper_left_cell, lower_right_cell)`](/cells/python-net/aspose.cells/cells/create_range/#str-str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
+| [`create_range(self, upper_left_cell, lower_right_cell)`](/cells/python-net/aspose.cells/cells/create_range/#system.string-system.string) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
 | [`create_range(self, first_row, first_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/create_range/#int-int-int-int) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells. |
-| [`create_range(self, address)`](/cells/python-net/aspose.cells/cells/create_range/#str) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range. |
+| [`create_range(self, address)`](/cells/python-net/aspose.cells/cells/create_range/#system.string) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range. |
 | [`create_range(self, first_index, number, is_vertical)`](/cells/python-net/aspose.cells/cells/create_range/#int-int-bool) | Creates a [`Range`](/cells/python-net/aspose.cells/range) object from rows of cells or columns of cells. |
 | [`get(self, row, column)`](/cells/python-net/aspose.cells/cells/get/#int-int) | Add API for Python Via .Net.since this[int row, int column] is unsupported |
-| [`get(self, cell_name)`](/cells/python-net/aspose.cells/cells/get/#str) | Add API for Python Via .Net.since this[string cellName] is unsupported |
+| [`get(self, cell_name)`](/cells/python-net/aspose.cells/cells/get/#system.string) | Add API for Python Via .Net.since this[string cellName] is unsupported |
 | [`import_object_array(self, obj_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool) | Imports an array of data into a worksheet. |
 | [`import_object_array(self, obj_array, first_row, first_column, is_vertical, skip)`](/cells/python-net/aspose.cells/cells/import_object_array/#list-int-int-bool-int) | Imports an array of data into a worksheet. |
 | [`import_array(self, string_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of string into a worksheet. |
 | [`import_array(self, int_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of integer into a worksheet. |
 | [`import_array(self, double_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array/#list-int-int-bool) | Imports an array of double into a worksheet. |
-| [`import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#str-str-bool-int-int) | Import a CSV file to the cells. |
-| [`import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#io.rawiobase-str-bool-int-int) | Import a CSV file to the cells. |
-| [`import_csv(self, file_name, options, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#str-aspose.cells.txtloadoptions-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, file_name, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#system.string-system.string-bool-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, stream, splitter, convert_numeric_data, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#io.rawiobase-system.string-bool-int-int) | Import a CSV file to the cells. |
+| [`import_csv(self, file_name, options, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#system.string-aspose.cells.txtloadoptions-int-int) | Import a CSV file to the cells. |
 | [`import_csv(self, stream, options, first_row, first_column)`](/cells/python-net/aspose.cells/cells/import_csv/#io.rawiobase-aspose.cells.txtloadoptions-int-int) | Import a CSV file to the cells. |
 | [`merge(self, first_row, first_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int) | Merges a specified range of cells into a single cell. |
 | [`merge(self, first_row, first_column, total_rows, total_columns, merge_conflict)`](/cells/python-net/aspose.cells/cells/merge/#int-int-int-int-bool) | Merges a specified range of cells into a single cell. |
@@ -118,8 +118,8 @@ The Cells type exposes the following members:
 | [`clear_contents(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/clear_contents/#int-int-int-int) | Clears contents of a range. |
 | [`clear_formats(self, range)`](/cells/python-net/aspose.cells/cells/clear_formats/#aspose.cells.cellarea) | Clears formatting of a range. |
 | [`clear_formats(self, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/cells/clear_formats/#int-int-int-int) | Clears formatting of a range. |
-| [`find(self, what, previous_cell)`](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.cell) | Finds the cell containing with the input object. |
-| [`find(self, what, previous_cell, find_options)`](/cells/python-net/aspose.cells/cells/find/#any-aspose.cells.cell-aspose.cells.findoptions) | Finds the cell containing with the input object. |
+| [`find(self, what, previous_cell)`](/cells/python-net/aspose.cells/cells/find/#system.object-aspose.cells.cell) | Finds the cell containing with the input object. |
+| [`find(self, what, previous_cell, find_options)`](/cells/python-net/aspose.cells/cells/find/#system.object-aspose.cells.cell-aspose.cells.findoptions) | Finds the cell containing with the input object. |
 | [`end_cell_in_row(self, row_index)`](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int) | Gets the last cell in this row. |
 | [`end_cell_in_row(self, start_row, end_row, start_column, end_column)`](/cells/python-net/aspose.cells/cells/end_cell_in_row/#int-int-int-int) | Gets the last cell with maximum row index in this range. |
 | [`end_cell_in_column(self, column_index)`](/cells/python-net/aspose.cells/cells/end_cell_in_column/#int) | Gets the last cell in this column. |
@@ -127,6 +127,8 @@ The Cells type exposes the following members:
 | [`insert_range(self, area, shift_number, shift_type, update_reference)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-int-aspose.cells.shifttype-bool) | Inserts a range of cells and shift cells according to the shift option. |
 | [`insert_range(self, area, shift_type)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-aspose.cells.shifttype) | Inserts a range of cells and shift cells according to the shift option. |
 | [`insert_range(self, area, shift_number, shift_type)`](/cells/python-net/aspose.cells/cells/insert_range/#aspose.cells.cellarea-int-aspose.cells.shifttype) | Inserts a range of cells and shift cells according to the shift option. |
+| [`import_custom_objects(self, list, property_names, is_property_name_shown, first_row, first_column, row_number, insert_rows, date_format_string, convert_string_to_number)`](/cells/python-net/aspose.cells/cells/import_custom_objects/#list-list-bool-int-int-int-bool-system.string-bool) | Imports custom objects. |
+| [`import_custom_objects(self, list, first_row, first_column, options)`](/cells/python-net/aspose.cells/cells/import_custom_objects/#list-int-int-aspose.cells.importtableoptions) | Imports custom objects. |
 | [`subtotal(self, ca, group_by, function, total_list)`](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.cellarea-int-aspose.cells.consolidationfunction-list) | Creates subtotals for the range. |
 | [`subtotal(self, ca, group_by, function, total_list, replace, page_breaks, summary_below_data)`](/cells/python-net/aspose.cells/cells/subtotal/#aspose.cells.cellarea-int-aspose.cells.consolidationfunction-list-bool-bool-bool) | Creates subtotals for the range. |
 | [`remove_duplicates(self)`](/cells/python-net/aspose.cells/cells/remove_duplicates/#) | Removes duplicate rows in the sheet. |
@@ -145,6 +147,7 @@ The Cells type exposes the following members:
 | [`is_column_hidden(self, column_index)`](/cells/python-net/aspose.cells/cells/is_column_hidden/#int) | Checks whether a column at given index is hidden. |
 | [`add_range(self, range_object)`](/cells/python-net/aspose.cells/cells/add_range/#aspose.cells.range) | Adds a range object reference to cells |
 | [`clear(self)`](/cells/python-net/aspose.cells/cells/clear/#) | Clears all data of the worksheet. |
+| [`import_data(self, table, first_row, first_column, options)`](/cells/python-net/aspose.cells/cells/import_data/#aspose.cells.icellsdatatable-int-int-aspose.cells.importtableoptions) | Import data from custom data table. |
 | [`import_array_list(self, array_list, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_array_list/#list-int-int-bool) | Imports an arraylist of data into a worksheet. |
 | [`import_formula_array(self, string_array, first_row, first_column, is_vertical)`](/cells/python-net/aspose.cells/cells/import_formula_array/#list-int-int-bool) | Imports an array of formula into a worksheet. |
 | [`text_to_columns(self, row, column, total_rows, options)`](/cells/python-net/aspose.cells/cells/text_to_columns/#int-int-int-aspose.cells.txtloadoptions) | Splits content in specified column into multiple columns.. |
@@ -190,7 +193,7 @@ The Cells type exposes the following members:
 | [`is_deleting_range_enabled(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/cells/is_deleting_range_enabled/#int-int-int-int) | Check whether the range could be deleted. |
 | [`is_blank_column(self, column_index)`](/cells/python-net/aspose.cells/cells/is_blank_column/#int) | Checks whether given column is blank(does not contain any data). |
 | [`insert_row(self, row_index)`](/cells/python-net/aspose.cells/cells/insert_row/#int) | Inserts a new row into the worksheet. |
-| [`link_to_xml_map(self, map_name, row, column, path)`](/cells/python-net/aspose.cells/cells/link_to_xml_map/#str-int-int-str) | Link to a xml map. |
+| [`link_to_xml_map(self, map_name, row, column, path)`](/cells/python-net/aspose.cells/cells/link_to_xml_map/#system.string-int-int-system.string) | Link to a xml map. |
 | [`move_range(self, source_area, dest_row, dest_column)`](/cells/python-net/aspose.cells/cells/move_range/#aspose.cells.cellarea-int-int) | Moves the range. |
 | [`insert_cut_cells(self, cut_range, row, column, shift_type)`](/cells/python-net/aspose.cells/cells/insert_cut_cells/#aspose.cells.range-int-int-aspose.cells.shifttype) | Insert cut range. |
 | [`delete_range(self, start_row, start_column, end_row, end_column, shift_type)`](/cells/python-net/aspose.cells/cells/delete_range/#int-int-int-int-aspose.cells.shifttype) | Deletes a range of cells and shift cells according to the shift option. |

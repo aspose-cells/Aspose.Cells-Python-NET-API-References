@@ -28,7 +28,7 @@ def add_area(self, cell_area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Conditional formatted cell range. |
+| cell_area | aspose.cells.CellArea | Conditional formatted cell range. |
 
 
 

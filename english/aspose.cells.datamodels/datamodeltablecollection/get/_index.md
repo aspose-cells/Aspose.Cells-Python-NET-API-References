@@ -8,7 +8,7 @@ url: /aspose.cells.datamodels/datamodeltablecollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the data model table by the name.
 
@@ -28,10 +28,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of data model table. |
+| name | System.String | The name of data model table. |
 
 
 
 ### See Also
 * module [`aspose.cells.datamodels`](../../)
+* class [`DataModelTable`](/cells/python-net/aspose.cells.datamodels/datamodeltable)
 * class [`DataModelTableCollection`](/cells/python-net/aspose.cells.datamodels/datamodeltablecollection)

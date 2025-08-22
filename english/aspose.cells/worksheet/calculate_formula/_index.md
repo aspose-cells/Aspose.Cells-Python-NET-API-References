@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/calculate_formula/
 is_root: false
 ---
 
-## calculate_formula(self, formula) {#str}
+## calculate_formula(self, formula) {#System.String}
 
 Calculates a formula.
 
@@ -28,10 +28,10 @@ def calculate_formula(self, formula):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | Formula to be calculated. |
+| formula | System.String | Formula to be calculated. |
 
 
-## calculate_formula(self, formula, opts) {#str-aspose.cells.CalculationOptions}
+## calculate_formula(self, formula, opts) {#System.String-aspose.cells.CalculationOptions}
 
 Calculates a formula expression directly.
 
@@ -52,8 +52,8 @@ def calculate_formula(self, formula, opts):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | Formula to be calculated. |
-| opts | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Options for calculating formula |
+| formula | System.String | Formula to be calculated. |
+| opts | aspose.cells.CalculationOptions | Options for calculating formula |
 ### Remarks
 
 The formula will be calculated just like it has been set to cell A1.
@@ -76,11 +76,11 @@ def calculate_formula(self, options, recursive):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Options for calculation |
+| options | aspose.cells.CalculationOptions | Options for calculation |
 | recursive | bool | True means if the worksheet' cells depend on the cells of other worksheets,<br/>the dependent cells in other worksheets will be calculated too.<br/>False means all the formulas in the worksheet have been calculated and the values are right. |
 
 
-## calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data) {#str-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
+## calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data) {#System.String-aspose.cells.FormulaParseOptions-aspose.cells.CalculationOptions-int-int-aspose.cells.CalculationData}
 
 Calculates a formula expression directly.
 
@@ -101,12 +101,12 @@ def calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_co
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | Formula to be calculated. |
-| p_opts | [`FormulaParseOptions`](/cells/python-net/aspose.cells/formulaparseoptions) | Options for parsing formula. |
-| c_opts | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Options for calculating formula. |
+| formula | System.String | Formula to be calculated. |
+| p_opts | aspose.cells.FormulaParseOptions | Options for parsing formula. |
+| c_opts | aspose.cells.CalculationOptions | Options for calculating formula. |
 | base_cell_row | int | The row index of the base cell. |
 | base_cell_column | int | The column index of the base cell. |
-| calculation_data | [`CalculationData`](/cells/python-net/aspose.cells/calculationdata) | The calculation data. It is used for the situation<br/>that user needs to calculate some static formulas when implementing custom calculation engine.<br/>For such kind of situation, user needs to specify it with the calculation data provided<br/>for Aspose.Cells.AbstractCalculationEngine.Calculate. |
+| calculation_data | aspose.cells.CalculationData | The calculation data. It is used for the situation<br/>that user needs to calculate some static formulas when implementing custom calculation engine.<br/>For such kind of situation, user needs to specify it with the calculation data provided<br/>for Aspose.Cells.AbstractCalculationEngine.Calculate. |
 ### Remarks
 
 The formula will be calculated just like it has been set to the specified base cell.

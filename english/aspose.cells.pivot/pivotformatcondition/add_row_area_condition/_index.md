@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotformatcondition/add_row_area_condition/
 is_root: false
 ---
 
-## add_row_area_condition(self, field_name) {#str}
+## add_row_area_condition(self, field_name) {#System.String}
 
 
 
@@ -23,7 +23,7 @@ def add_row_area_condition(self, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_name | str |  |
+| field_name | System.String |  |
 
 
 ## add_row_area_condition(self, row_field) {#aspose.cells.pivot.PivotField}
@@ -41,7 +41,7 @@ def add_row_area_condition(self, row_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| row_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) |  |
+| row_field | aspose.cells.pivot.PivotField |  |
 
 
 

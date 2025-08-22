@@ -28,10 +28,11 @@ def get_builtin_table_style(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`TableStyleType`](/cells/python-net/aspose.cells.tables/tablestyletype) | The builtin table style type. |
+| type | aspose.cells.tables.TableStyleType | The builtin table style type. |
 
 
 
 ### See Also
 * module [`aspose.cells.tables`](../../)
+* class [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle)
 * class [`TableStyleCollection`](/cells/python-net/aspose.cells.tables/tablestylecollection)

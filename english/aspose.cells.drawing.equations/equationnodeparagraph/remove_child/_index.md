@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.equations/equationnodeparagraph/remove_child/
 is_root: false
 ---
 
-## remove_child(self, node) {#EquationNode}
+## remove_child(self, node) {#Aspose.Cells.Drawing.Equations.EquationNode}
 
 
 
@@ -23,7 +23,7 @@ def remove_child(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | EquationNode |  |
+| node | Aspose.Cells.Drawing.Equations.EquationNode |  |
 
 
 ## remove_child(self, index) {#int}

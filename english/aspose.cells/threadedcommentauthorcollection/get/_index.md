@@ -8,7 +8,7 @@ url: /aspose.cells/threadedcommentauthorcollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the person who create threaded comments.
 
@@ -28,10 +28,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the author. |
+| name | System.String | The name of the author. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor)
 * class [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection)

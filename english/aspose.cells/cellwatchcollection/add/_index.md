@@ -8,7 +8,7 @@ url: /aspose.cells/cellwatchcollection/add/
 is_root: false
 ---
 
-## add(self, cell_name) {#str}
+## add(self, cell_name) {#System.String}
 
 Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with the name the of cell.
 
@@ -28,7 +28,7 @@ def add(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | The name of the cell. |
+| cell_name | System.String | The name of the cell. |
 
 
 ## add(self, row, column) {#int-int}

@@ -24,9 +24,9 @@ def add_fill_color_filter(self, field_index, pattern, foreground_color, backgrou
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | The integer offset of the field on which you want to base the filter <br/>(from the left of the list; the leftmost field is field 0). |
-| pattern | [`BackgroundType`](/cells/python-net/aspose.cells/backgroundtype) | The background pattern type. |
-| foreground_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | The foreground color. |
-| background_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | The background color. |
+| pattern | aspose.cells.BackgroundType | The background pattern type. |
+| foreground_color | aspose.cells.CellsColor | The foreground color. |
+| background_color | aspose.cells.CellsColor | The background color. |
 
 
 

@@ -49,4 +49,5 @@ rectangleShape = shapes.add_rectangle(2, 0, 2, 0, 130, 130)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`RectangleShape`](/cells/python-net/aspose.cells.drawing/rectangleshape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

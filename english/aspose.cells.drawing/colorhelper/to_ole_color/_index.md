@@ -30,7 +30,7 @@ def to_ole_color(color, workbook):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | color | aspose.pydrawing.Color | The Color object. |
-| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) |  |
+| workbook | aspose.cells.Workbook |  |
 
 
 

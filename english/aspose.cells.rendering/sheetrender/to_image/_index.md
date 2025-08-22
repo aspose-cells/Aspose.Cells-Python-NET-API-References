@@ -8,7 +8,7 @@ url: /aspose.cells.rendering/sheetrender/to_image/
 is_root: false
 ---
 
-## to_image(self, page_index, file_name) {#int-str}
+## to_image(self, page_index, file_name) {#int-System.String}
 
 Render certain page to a file.
 
@@ -24,7 +24,7 @@ def to_image(self, page_index, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | page_index | int | indicate which page is to be converted |
-| file_name | str | filename of the output image |
+| file_name | System.String | filename of the output image |
 
 ### Example 
 

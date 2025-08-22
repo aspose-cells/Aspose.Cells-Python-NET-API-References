@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`CustomXmlPart`](/cells/python-net/aspose.cells.markup/customxmlpart) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.markup.CustomXmlPart | The System.Object to locate. The value can be null. |
 
 
 

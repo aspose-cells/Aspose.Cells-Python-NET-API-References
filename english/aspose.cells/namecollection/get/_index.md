@@ -31,7 +31,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get(self, text) {#str}
+## get(self, text) {#System.String}
 
 Add API for Python Via .Net.since this[string text] is unsupported
 
@@ -51,10 +51,11 @@ def get(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | Name text. |
+| text | System.String | Name text. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Name`](/cells/python-net/aspose.cells/name)
 * class [`NameCollection`](/cells/python-net/aspose.cells/namecollection)

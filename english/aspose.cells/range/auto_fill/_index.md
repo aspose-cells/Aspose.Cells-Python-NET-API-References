@@ -23,7 +23,7 @@ def auto_fill(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/aspose.cells/range) | the target range. |
+| target | aspose.cells.Range | the target range. |
 
 ### Example 
 
@@ -62,8 +62,8 @@ def auto_fill(self, target, auto_fill_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [`Range`](/cells/python-net/aspose.cells/range) | The targed range. |
-| auto_fill_type | [`AutoFillType`](/cells/python-net/aspose.cells/autofilltype) | The auto fill type. |
+| target | aspose.cells.Range | The targed range. |
+| auto_fill_type | aspose.cells.AutoFillType | The auto fill type. |
 
 
 

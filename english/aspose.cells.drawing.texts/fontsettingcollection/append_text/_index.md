@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/append_text/
 is_root: false
 ---
 
-## append_text(self, text) {#str}
+## append_text(self, text) {#System.String}
 
 Appends the text.
 
@@ -23,7 +23,7 @@ def append_text(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text. |
+| text | System.String | The text. |
 
 
 

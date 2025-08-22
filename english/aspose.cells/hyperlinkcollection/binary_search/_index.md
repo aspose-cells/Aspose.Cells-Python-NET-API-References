@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.Hyperlink | The System.Object to locate. The value can be null. |
 
 
 

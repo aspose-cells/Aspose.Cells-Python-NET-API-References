@@ -23,8 +23,8 @@ def set_preset_theme_gradient(self, gradient_type, theme_color_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| gradient_type | [`PresetThemeGradientType`](/cells/python-net/aspose.cells.drawing/presetthemegradienttype) | The preset gradient type. |
-| theme_color_type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
+| gradient_type | aspose.cells.drawing.PresetThemeGradientType | The preset gradient type. |
+| theme_color_type | aspose.cells.ThemeColorType | The theme color type. |
 
 
 

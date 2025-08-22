@@ -28,6 +28,7 @@ The EquationNodeParagraph type exposes the following members:
 | [length](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/length) |  |
 | [font](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/font) |  |
 | [text_options](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/text_options) |  |
+| [parent_node](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/parent_node) |  |
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/equation_type) |  |
 | [justification](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/justification) | This specifies justification of the math paragraph (a series of adjacent equations within the same paragraph). A math paragraph can be Left Justified, Right Justified, Centered, or Centered as Group. By default, the math paragraph is Centered as Group. This means that the equations can be aligned with respect to each other, but the entire group of equations is centered as a whole. |
 
@@ -36,8 +37,8 @@ The EquationNodeParagraph type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add_child(self, equation_type)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
-| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/add_child/#equationnode) |  |
-| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/remove_child/#equationnode) |  |
+| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/add_child/#aspose.cells.drawing.equations.equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/remove_child/#aspose.cells.drawing.equations.equationnode) |  |
 | [`remove_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/remove_child/#int) |  |
 | [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
 | [`to_la_te_x(self)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/to_la_te_x/#) |  |
@@ -48,7 +49,7 @@ The EquationNodeParagraph type exposes the following members:
 | [`get_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/get_child/#int) |  |
 | [`remove(self)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/remove/#) |  |
 | [`remove_all_children(self)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/remove_all_children/#) |  |
-| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/equationnodeparagraph/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-aspose.cells.drawing.equations.equationnode) |  |
 
 
 

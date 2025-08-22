@@ -23,7 +23,7 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference) |  |
+| source | aspose.cells.vba.VbaProjectReference |  |
 
 
 

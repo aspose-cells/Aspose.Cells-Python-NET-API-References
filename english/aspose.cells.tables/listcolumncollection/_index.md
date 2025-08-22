@@ -26,7 +26,7 @@ The ListColumnCollection type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`get(self, index)`](/cells/python-net/aspose.cells.tables/listcolumncollection/get/#int) | Add API for Python Via .Net.since this[int] is unsupported |
-| [`get(self, name)`](/cells/python-net/aspose.cells.tables/listcolumncollection/get/#str) | Add API for Python Via .Net.since this[string] is unsupported |
+| [`get(self, name)`](/cells/python-net/aspose.cells.tables/listcolumncollection/get/#system.string) | Add API for Python Via .Net.since this[string] is unsupported |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.tables/listcolumncollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.tables/listcolumncollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.tables/listcolumncollection/index_of/#aspose.cells.tables.listcolumn-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object by the name of the shape.
 
@@ -23,7 +23,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the shape. |
+| name | System.String | The name of the shape. |
 
 
 

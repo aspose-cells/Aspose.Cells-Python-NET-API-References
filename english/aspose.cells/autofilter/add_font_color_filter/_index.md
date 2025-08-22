@@ -24,7 +24,7 @@ def add_font_color_filter(self, field_index, color):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | The integer offset of the field on which you want to base the filter <br/>(from the left of the list; the leftmost field is field 0). |
-| color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | The [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object. |
+| color | aspose.cells.CellsColor | The [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) object. |
 
 
 

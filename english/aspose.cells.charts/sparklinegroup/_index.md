@@ -53,7 +53,7 @@ The SparklineGroup type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`reset_ranges(self, data_range, is_vertical, location_range)`](/cells/python-net/aspose.cells.charts/sparklinegroup/reset_ranges/#str-bool-aspose.cells.cellarea) | Resets the data range and location range of the sparkline group. <br/>This method will clear original sparkline items in the group and creates new sparkline items for the new ranges. |
+| [`reset_ranges(self, data_range, is_vertical, location_range)`](/cells/python-net/aspose.cells.charts/sparklinegroup/reset_ranges/#system.string-bool-aspose.cells.cellarea) | Resets the data range and location range of the sparkline group. <br/>This method will clear original sparkline items in the group and creates new sparkline items for the new ranges. |
 
 
 

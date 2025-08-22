@@ -30,7 +30,7 @@ The PivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_multiple_items(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_multiple_items/#) | Gets the text of "(Multiple Items)" label in the PivotTable. |
 | [`get_text_of_all(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all/#) | Gets the text of "(All)" label in the PivotTable. |
 | [`get_text_of_protection(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protection/#) | Gets the protection name in the PivotTable. |
-| [`get_text_of_protected_name(self, protected_name)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protected_name/#str) | Gets the text for specified protected name. |
+| [`get_text_of_protected_name(self, protected_name)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_protected_name/#system.string) | Gets the text for specified protected name. |
 | [`get_text_of_column_labels(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_column_labels/#) | Gets the text of "Column Labels" label in the PivotTable. |
 | [`get_text_of_row_labels(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_row_labels/#) | Gets the text of "Row Labels" label in the PivotTable. |
 | [`get_text_of_empty_data(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/#) | Gets the text of "(blank)" label in the PivotTable. |

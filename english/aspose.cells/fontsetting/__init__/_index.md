@@ -25,7 +25,7 @@ def __init__(self, start_index, length, sheets):
 | :- | :- | :- |
 | start_index | int |  |
 | length | int |  |
-| sheets | [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection) |  |
+| sheets | aspose.cells.WorksheetCollection |  |
 
 
 

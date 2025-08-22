@@ -28,7 +28,7 @@ def get_theme_font(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`FontSchemeType`](/cells/python-net/aspose.cells/fontschemetype) | The scheme type of the font. |
+| type | aspose.cells.FontSchemeType | The scheme type of the font. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/add/
 is_root: false
 ---
 
-## add(self, cell_name) {#str}
+## add(self, cell_name) {#System.String}
 
 Adds a comment to the collection.
 
@@ -28,7 +28,7 @@ def add(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name. |
+| cell_name | System.String | Cell name. |
 
 ### Example 
 

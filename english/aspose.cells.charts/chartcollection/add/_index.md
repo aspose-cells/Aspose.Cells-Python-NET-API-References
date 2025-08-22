@@ -28,14 +28,14 @@ def add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_ri
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ChartType`](/cells/python-net/aspose.cells.charts/charttype) | Chart type |
+| type | aspose.cells.charts.ChartType | Chart type |
 | upper_left_row | int | Upper left row index. |
 | upper_left_column | int | Upper left column index. |
 | lower_right_row | int | Lower right row index |
 | lower_right_column | int | Lower right column index |
 
 
-## add(self, type, data_range, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-int-int-int-int}
+## add(self, type, data_range, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-System.String-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -55,8 +55,8 @@ def add(self, type, data_range, top_row, left_column, right_row, bottom_column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ChartType`](/cells/python-net/aspose.cells.charts/charttype) | Chart type |
-| data_range | str | Specifies the data range of the chart |
+| type | aspose.cells.charts.ChartType | Chart type |
+| data_range | System.String | Specifies the data range of the chart |
 | top_row | int | Upper left row index. |
 | left_column | int | Upper left column index. |
 | right_row | int | Lower right row index |
@@ -68,7 +68,7 @@ please use [`ChartCollection.add`](/cells/python-net/aspose.cells.charts/chartco
 This property will be removed 12 months later since May 2022. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#bytes-str-bool-int-int-int-int}
+## add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#bytes-System.String-bool-int-int-int-int}
 
 Adds a chart with preset template.
 
@@ -89,7 +89,7 @@ def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bo
 | Parameter | Type | Description |
 | :- | :- | :- |
 | data | bytes | The data of chart template file(.crtx). |
-| data_range | str | Specifies the data range of the chart |
+| data_range | System.String | Specifies the data range of the chart |
 | is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
 | top_row | int | Upper left row index. |
 | left_column | int | Upper left column index. |
@@ -97,7 +97,7 @@ def add(self, data, data_range, is_vertical, top_row, left_column, right_row, bo
 | bottom_column | int | Lower right column index |
 
 
-## add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-str-bool-int-int-int-int}
+## add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column) {#aspose.cells.charts.ChartType-System.String-bool-int-int-int-int}
 
 Adds a chart to the collection.
 
@@ -117,8 +117,8 @@ def add(self, type, data_range, is_vertical, top_row, left_column, right_row, bo
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ChartType`](/cells/python-net/aspose.cells.charts/charttype) | Chart type |
-| data_range | str | Specifies the data range of the chart |
+| type | aspose.cells.charts.ChartType | Chart type |
+| data_range | System.String | Specifies the data range of the chart |
 | is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
 | top_row | int | Upper left row index. |
 | left_column | int | Upper left column index. |

@@ -47,3 +47,4 @@ fontSetting = shape.characters(0, 4)
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`DialogBox`](/cells/python-net/aspose.cells.drawing/dialogbox)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

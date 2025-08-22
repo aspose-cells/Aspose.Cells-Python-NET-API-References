@@ -8,7 +8,7 @@ url: /aspose.cells/scenariocollection/add/
 is_root: false
 ---
 
-## add(self, name) {#str}
+## add(self, name) {#System.String}
 
 Adds a scenario.
 
@@ -28,7 +28,7 @@ def add(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of scenario. |
+| name | System.String | The name of scenario. |
 
 
 

@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`GradientStop`](/cells/python-net/aspose.cells.drawing/gradientstop) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.drawing.GradientStop | The System.Object to locate. The value can be null. |
 
 
 

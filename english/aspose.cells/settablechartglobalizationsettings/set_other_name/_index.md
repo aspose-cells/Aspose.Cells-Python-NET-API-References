@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/set_other_name/
 is_root: false
 ---
 
-## set_other_name(self, name) {#str}
+## set_other_name(self, name) {#System.String}
 
 Sets the name of "Other" labels for Chart.
 
@@ -23,7 +23,7 @@ def set_other_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | local dependent name |
+| name | System.String | local dependent name |
 
 
 

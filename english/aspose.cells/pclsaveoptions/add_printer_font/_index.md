@@ -8,7 +8,7 @@ url: /aspose.cells/pclsaveoptions/add_printer_font/
 is_root: false
 ---
 
-## add_printer_font(self, font_full_name, font_pcl_name) {#str-str}
+## add_printer_font(self, font_full_name, font_pcl_name) {#System.String-System.String}
 
 Adds information about font that is already added to the printer by manufacturer.
 
@@ -23,8 +23,8 @@ def add_printer_font(self, font_full_name, font_pcl_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_full_name | str | Full name of the font (e.g. "Times New Roman Bold Italic") used in the source file. |
-| font_pcl_name | str | Name of the font that will be used in the output Pcl document. |
+| font_full_name | System.String | Full name of the font (e.g. "Times New Roman Bold Italic") used in the source file. |
+| font_pcl_name | System.String | Name of the font that will be used in the output Pcl document. |
 ### Remarks
 
 There are 52 fonts that are to be built in any printer according to Pcl specification. 

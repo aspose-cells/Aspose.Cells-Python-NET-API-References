@@ -8,7 +8,7 @@ url: /aspose.cells/cell/insert_text/
 is_root: false
 ---
 
-## insert_text(self, index, text) {#int-str}
+## insert_text(self, index, text) {#int-System.String}
 
 Insert some characters to the cell.
 If the cell is rich formatted, this method could keep the original formatting.
@@ -25,7 +25,7 @@ def insert_text(self, index, text):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | index | int | The index. |
-| text | str | Inserted text. |
+| text | System.String | Inserted text. |
 
 
 

@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`HtmlTableLoadOption`](/cells/python-net/aspose.cells/htmltableloadoption) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.HtmlTableLoadOption | The System.Object to locate. The value can be null. |
 
 
 

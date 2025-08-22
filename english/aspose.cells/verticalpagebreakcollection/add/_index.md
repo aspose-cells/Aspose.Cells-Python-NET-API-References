@@ -34,7 +34,7 @@ def add(self, column):
 Page break is added in the top left of the cell.
 Please set a horizontal page break and a vertical page break concurrently.
 
-## add(self, cell_name) {#str}
+## add(self, cell_name) {#System.String}
 
 Adds a vertical page break to the collection.
 
@@ -54,7 +54,7 @@ def add(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name. |
+| cell_name | System.String | Cell name. |
 ### Remarks
 
 Page break is added in the top left of the cell.

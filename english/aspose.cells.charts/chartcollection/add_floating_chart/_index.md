@@ -28,7 +28,7 @@ def add_floating_chart(self, type, left, top, width, height):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ChartType`](/cells/python-net/aspose.cells.charts/charttype) | Chart type |
+| type | aspose.cells.charts.ChartType | Chart type |
 | left | int | The x offset to corner |
 | top | int | The y offset to corner |
 | width | int | The chart width |

@@ -19,7 +19,7 @@ The HtmlConverter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`process(, template_file, result_file)`](/cells/python-net/aspose.cells.lowcode/htmlconverter/process/#str-str) | Converts given template file between html and other formats. |
+| [`process(, template_file, result_file)`](/cells/python-net/aspose.cells.lowcode/htmlconverter/process/#system.string-system.string) | Converts given template file between html and other formats. |
 | [`process(, load_options, save_options)`](/cells/python-net/aspose.cells.lowcode/htmlconverter/process/#aspose.cells.lowcode.lowcodeloadoptions-aspose.cells.lowcode.lowcodesaveoptions) | Converts file between html and other spreadsheet file formats. |
 
 

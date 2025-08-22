@@ -8,7 +8,7 @@ url: /aspose.cells.externalconnections/externalconnectioncollection/get/
 is_root: false
 ---
 
-## get(self, connection_name) {#str}
+## get(self, connection_name) {#System.String}
 
 Gets the ExternalConnection element with the specified name.
 
@@ -28,7 +28,7 @@ def get(self, connection_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| connection_name | str | the name of data connection |
+| connection_name | System.String | the name of data connection |
 
 
 

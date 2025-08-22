@@ -38,4 +38,5 @@ def add_picture_in_chart(self, top, left, stream, width_scale, height_scale):
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

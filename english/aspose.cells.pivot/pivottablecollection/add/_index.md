@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottablecollection/add/
 is_root: false
 ---
 
-## add(self, source_data, dest_cell_name, table_name) {#str-str-str}
+## add(self, source_data, dest_cell_name, table_name) {#System.String-System.String-System.String}
 
 Adds a new PivotTable.
 
@@ -28,12 +28,12 @@ def add(self, source_data, dest_cell_name, table_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data for the new PivotTable cache. |
-| dest_cell_name | str | The cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| source_data | System.String | The data for the new PivotTable cache. |
+| dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
+| table_name | System.String | The name of the new PivotTable report. |
 
 
-## add(self, pivot_table, dest_cell_name, table_name) {#aspose.cells.pivot.PivotTable-str-str}
+## add(self, pivot_table, dest_cell_name, table_name) {#aspose.cells.pivot.PivotTable-System.String-System.String}
 
 Adds a new PivotTable based on another PivotTable.
 
@@ -53,12 +53,12 @@ def add(self, pivot_table, dest_cell_name, table_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | The source pivotTable. |
-| dest_cell_name | str | The cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| pivot_table | aspose.cells.pivot.PivotTable | The source pivotTable. |
+| dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
+| table_name | System.String | The name of the new PivotTable report. |
 
 
-## add(self, source_data, dest_cell_name, table_name, use_same_source) {#str-str-str-bool}
+## add(self, source_data, dest_cell_name, table_name, use_same_source) {#System.String-System.String-System.String-bool}
 
 Adds a new PivotTable.
 
@@ -78,13 +78,13 @@ def add(self, source_data, dest_cell_name, table_name, use_same_source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data for the new PivotTable cache. |
-| dest_cell_name | str | The cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| source_data | System.String | The data for the new PivotTable cache. |
+| dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
+| table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
 
 
-## add(self, source_data, row, column, table_name) {#str-int-int-str}
+## add(self, source_data, row, column, table_name) {#System.String-int-int-System.String}
 
 Adds a new PivotTable.
 
@@ -104,13 +104,13 @@ def add(self, source_data, row, column, table_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
+| source_data | System.String | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| table_name | System.String | The name of the new PivotTable report. |
 
 
-## add(self, pivot_table, row, column, table_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+## add(self, pivot_table, row, column, table_name) {#aspose.cells.pivot.PivotTable-int-int-System.String}
 
 Adds a new PivotTable based on another PivotTable.
 
@@ -130,13 +130,13 @@ def add(self, pivot_table, row, column, table_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | The source pivotTable. |
+| pivot_table | aspose.cells.pivot.PivotTable | The source pivotTable. |
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| table_name | System.String | The name of the new PivotTable report. |
 
 
-## add(self, source_data, row, column, table_name, use_same_source) {#str-int-int-str-bool}
+## add(self, source_data, row, column, table_name, use_same_source) {#System.String-int-int-System.String-bool}
 
 Adds a new PivotTable.
 
@@ -156,14 +156,14 @@ def add(self, source_data, row, column, table_name, use_same_source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
+| source_data | System.String | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
 
 
-## add(self, source_data, cell, table_name, use_same_source, is_xls_classic) {#str-str-str-bool-bool}
+## add(self, source_data, cell, table_name, use_same_source, is_xls_classic) {#System.String-System.String-System.String-bool-bool}
 
 Adds a new PivotTable.
 
@@ -183,14 +183,14 @@ def add(self, source_data, cell, table_name, use_same_source, is_xls_classic):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
-| cell | str | The cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| source_data | System.String | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
+| cell | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
+| table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
 | is_xls_classic | bool | Indicates whether add classic pivot table of Excel 97-2003. |
 
 
-## add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-str-str}
+## add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-System.String-System.String}
 
 Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source.
 
@@ -212,12 +212,12 @@ def add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name
 | :- | :- | :- |
 | source_data | list | The multiple consolidation ranges,such as {"Sheet1!A1:C8","Sheet2!A1:B8"} |
 | is_auto_page | bool | Whether auto create a single page field.<br/>If true,the following param pageFields will be ignored. |
-| page_fields | [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | The pivot page field items. |
-| dest_cell_name | str | destCellName The name of the new PivotTable report. |
-| table_name | str | the name of the new PivotTable report. |
+| page_fields | aspose.cells.pivot.PivotPageFields | The pivot page field items. |
+| dest_cell_name | System.String | destCellName The name of the new PivotTable report. |
+| table_name | System.String | the name of the new PivotTable report. |
 
 
-## add(self, source_data, row, column, table_name, use_same_source, is_xls_classic) {#str-int-int-str-bool-bool}
+## add(self, source_data, row, column, table_name, use_same_source, is_xls_classic) {#System.String-int-int-System.String-bool-bool}
 
 Adds a new PivotTable.
 
@@ -237,15 +237,15 @@ def add(self, source_data, row, column, table_name, use_same_source, is_xls_clas
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_data | str | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
+| source_data | System.String | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
 | is_xls_classic | bool | Indicates whether add classic pivot table of Excel 97-2003. |
 
 
-## add(self, source_data, is_auto_page, page_fields, row, column, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-int-int-str}
+## add(self, source_data, is_auto_page, page_fields, row, column, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-int-int-System.String}
 
 Adds a new PivotTable Object to the collection with multiple consolidation ranges as data source.
 
@@ -267,10 +267,10 @@ def add(self, source_data, is_auto_page, page_fields, row, column, table_name):
 | :- | :- | :- |
 | source_data | list | The multiple consolidation ranges,such as {"Sheet1!A1:C8","Sheet2!A1:B8"} |
 | is_auto_page | bool | Whether auto create a single page field.<br/>If true,the following param pageFields will be ignored |
-| page_fields | [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | The pivot page field items. |
+| page_fields | aspose.cells.pivot.PivotPageFields | The pivot page field items. |
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
-| table_name | str | The name of the new PivotTable report. |
+| table_name | System.String | The name of the new PivotTable report. |
 
 
 

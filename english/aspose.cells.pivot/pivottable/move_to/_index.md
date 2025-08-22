@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/move_to/
 is_root: false
 ---
 
-## move_to(self, dest_cell_name) {#str}
+## move_to(self, dest_cell_name) {#System.String}
 
 Moves the PivotTable to a different location in the worksheet.
 
@@ -23,7 +23,7 @@ def move_to(self, dest_cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| dest_cell_name | str | the dest cell name. |
+| dest_cell_name | System.String | the dest cell name. |
 
 
 ## move_to(self, row, column) {#int-int}

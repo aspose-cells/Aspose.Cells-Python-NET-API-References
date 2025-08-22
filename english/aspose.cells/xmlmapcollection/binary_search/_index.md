@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`XmlMap`](/cells/python-net/aspose.cells/xmlmap) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.XmlMap | The System.Object to locate. The value can be null. |
 
 
 

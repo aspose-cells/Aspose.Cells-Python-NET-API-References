@@ -23,7 +23,7 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Protection`](/cells/python-net/aspose.cells/protection) |  |
+| source | aspose.cells.Protection |  |
 
 
 

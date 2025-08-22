@@ -68,7 +68,7 @@ def auto_fit_row(self, row_index, first_column, last_column, options):
 | row_index | int | Row index. |
 | first_column | int | First column index. |
 | last_column | int | Last column index. |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitter options |
+| options | aspose.cells.AutoFitterOptions | The auto fitter options |
 ### Remarks
 
 This method autofits a row based on content in a range of cells within the row.

@@ -26,7 +26,7 @@ def apply_to(self, row, column, scope):
 | :- | :- | :- |
 | row | int | The selected row. |
 | column | int | The selected column. |
-| scope | [`PivotConditionFormatScopeType`](/cells/python-net/aspose.cells.pivot/pivotconditionformatscopetype) | The scope |
+| scope | aspose.cells.pivot.PivotConditionFormatScopeType | The scope |
 
 
 

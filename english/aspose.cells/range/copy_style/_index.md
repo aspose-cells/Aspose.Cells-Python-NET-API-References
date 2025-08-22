@@ -23,7 +23,7 @@ def copy_style(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
+| range | aspose.cells.Range | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
 
 
 

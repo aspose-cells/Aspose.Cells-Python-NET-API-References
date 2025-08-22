@@ -26,7 +26,7 @@ def to_tiff(self, stream):
 | stream | io.RawIOBase | the stream of the output image |
 
 
-## to_tiff(self, filename) {#str}
+## to_tiff(self, filename) {#System.String}
 
 Render whole worksheet as Tiff Image to a file.
 
@@ -41,7 +41,7 @@ def to_tiff(self, filename):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| filename | str | the filename of the output image |
+| filename | System.String | the filename of the output image |
 
 ### Example 
 

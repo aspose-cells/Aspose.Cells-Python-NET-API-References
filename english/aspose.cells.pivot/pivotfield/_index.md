@@ -71,13 +71,13 @@ The PivotField type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`group_by(self, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-bool) | Automatically group the field with internal |
-| [`group_by(self, start, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#datetime-datetime-list-float-bool) | Group the file by the date group types. |
+| [`group_by(self, start, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#system.datetime-system.datetime-list-float-bool) | Group the file by the date group types. |
 | [`group_by(self, start, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
 | [`group_by(self, custom_group_items, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
 | [`sort_by(self, sort_type, field_sorted_by)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int) | Sorts this pivot field. |
-| [`sort_by(self, sort_type, field_sorted_by, data_type, cell_name)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int-aspose.cells.pivot.pivotlinetype-str) | Sorts this pivot field. |
+| [`sort_by(self, sort_type, field_sorted_by, data_type, cell_name)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int-aspose.cells.pivot.pivotlinetype-system.string) | Sorts this pivot field. |
 | [`hide_item(self, index, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
-| [`hide_item(self, item_value, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#str-bool) | Sets whether the specific PivotItem in a data field is hidden. |
+| [`hide_item(self, item_value, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#system.string-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [`init_pivot_items(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
 | [`ungroup(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [`get_pivot_filter_by_type(self, type)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.pivotfiltertype) | Gets the pivot filter of the pivot field by type |
@@ -86,8 +86,8 @@ The PivotField type exposes the following members:
 | [`clear_filter(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/clear_filter/#) | Clears filter setting on this pivot field. |
 | [`filter_top10(self, value_field_index, type, is_top, item_count)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_top10/#int-aspose.cells.pivot.pivotfiltertype-bool-int) | Filters by values of data pivot field. |
 | [`filter_by_value(self, value_field_index, type, value1, value2)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_value/#int-aspose.cells.pivot.pivotfiltertype-float-float) | Filters by values of data pivot field. |
-| [`filter_by_label(self, type, label1, label2)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_label/#aspose.cells.pivot.pivotfiltertype-str-str) | Filters by captions of row or column pivot field. |
-| [`filter_by_date(self, type, date_time1, date_time2)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_date/#aspose.cells.pivot.pivotfiltertype-datetime-datetime) | Filters by date setting of row or column pivot field. |
+| [`filter_by_label(self, type, label1, label2)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_label/#aspose.cells.pivot.pivotfiltertype-system.string-system.string) | Filters by captions of row or column pivot field. |
+| [`filter_by_date(self, type, date_time1, date_time2)`](/cells/python-net/aspose.cells.pivot/pivotfield/filter_by_date/#aspose.cells.pivot.pivotfiltertype-system.datetime-system.datetime) | Filters by date setting of row or column pivot field. |
 | [`get_calculated_field_formula(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_calculated_field_formula/#) | Get the formula string of the specified calculated field . |
 | [`get_formula(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_formula/#) | Gets formula of the calculated field . |
 | [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | Sets whether the specified field shows that subtotals. |
@@ -97,7 +97,7 @@ The PivotField type exposes the following members:
 | [`is_hidden_item_detail(self, index)`](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Gets whether hidding the detail of  the specific PivotItem.. |
 | [`hide_item_detail(self, index, is_hidden_detail)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |
 | [`hide_detail(self, is_hidden_detail)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Sets whether the PivotItems in a pivot field is hidden detail.That is collapse/expand this field. |
-| [`add_calculated_item(self, name, formula)`](/cells/python-net/aspose.cells.pivot/pivotfield/add_calculated_item/#str-str) | Add a calculated formula item to the pivot field. |
+| [`add_calculated_item(self, name, formula)`](/cells/python-net/aspose.cells.pivot/pivotfield/add_calculated_item/#system.string-system.string) | Add a calculated formula item to the pivot field. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/protection/verify_password/
 is_root: false
 ---
 
-## verify_password(self, password) {#str}
+## verify_password(self, password) {#System.String}
 
 Verifies password.
 
@@ -28,7 +28,7 @@ def verify_password(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | The password. |
+| password | System.String | The password. |
 
 
 

@@ -38,7 +38,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be one of following types: [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML)  or [`SaveFormat.M_HTML`](/cells/python-net/aspose.cells/saveformat#M_HTML),<br/>otherwise the saved format will be set as [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML) automatically. |
+| save_format | aspose.cells.SaveFormat | The file format.<br/>It should be one of following types: [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML)  or [`SaveFormat.M_HTML`](/cells/python-net/aspose.cells/saveformat#M_HTML),<br/>otherwise the saved format will be set as [`SaveFormat.HTML`](/cells/python-net/aspose.cells/saveformat#HTML) automatically. |
 
 
 

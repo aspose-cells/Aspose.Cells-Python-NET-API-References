@@ -16,7 +16,7 @@ Gets an enumerator that iterates rows through this collection
 ### Returns 
 
 
-The row enumerator
+The row enumerator which will traverse all existing rows in this collection.
 
 
 ```python

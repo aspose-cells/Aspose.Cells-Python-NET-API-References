@@ -60,3 +60,4 @@ def get_style(self, check_borders):
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Style`](/cells/python-net/aspose.cells/style)

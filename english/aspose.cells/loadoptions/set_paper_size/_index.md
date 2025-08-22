@@ -23,7 +23,7 @@ def set_paper_size(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`PaperSizeType`](/cells/python-net/aspose.cells/papersizetype) | The default paper size. |
+| type | aspose.cells.PaperSizeType | The default paper size. |
 ### Remarks
 
 If there is no setting about paper size,MS Excel will use default printer's setting.

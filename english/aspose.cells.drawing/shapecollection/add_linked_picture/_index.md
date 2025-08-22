@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_linked_picture/
 is_root: false
 ---
 
-## add_linked_picture(self, upper_left_row, upper_left_column, height, width, source_full_name) {#int-int-int-int-str}
+## add_linked_picture(self, upper_left_row, upper_left_column, height, width, source_full_name) {#int-int-int-int-System.String}
 
 Add a linked picture.
 
@@ -32,7 +32,7 @@ def add_linked_picture(self, upper_left_row, upper_left_column, height, width, s
 | upper_left_column | int | Upper left column index. |
 | height | int | The height of the shape. In unit of pixels |
 | width | int | The width of the shape. In unit of pixels |
-| source_full_name | str | The path and name of the source file for the linked image |
+| source_full_name | System.String | The path and name of the source file for the linked image |
 
 
 

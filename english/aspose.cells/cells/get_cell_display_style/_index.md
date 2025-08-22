@@ -58,7 +58,7 @@ def get_cell_display_style(self, row, column, adjacent_borders):
 | :- | :- | :- |
 | row | int | row index of given cell |
 | column | int | column of given cell |
-| adjacent_borders | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | Indicates which borders need to be checked and adjusted according to the borders of adjacent cells.<br/>Please see the description for the same parameter of<br/>[`Cell.get_display_style`](/cells/python-net/aspose.cells/cell/get_display_style). |
+| adjacent_borders | aspose.cells.BorderType | Indicates which borders need to be checked and adjusted according to the borders of adjacent cells.<br/>Please see the description for the same parameter of<br/>[`Cell.get_display_style`](/cells/python-net/aspose.cells/cell/get_display_style). |
 ### Remarks
 
 If the cell is also affected by other settings such as conditional formatting, list objects, etc.,
@@ -72,3 +72,4 @@ and then calling [`Cell.get_display_style`](/cells/python-net/aspose.cells/cell/
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cells`](/cells/python-net/aspose.cells/cells)
+* class [`Style`](/cells/python-net/aspose.cells/style)

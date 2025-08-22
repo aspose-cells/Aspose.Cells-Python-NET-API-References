@@ -8,7 +8,7 @@ url: /aspose.cells/conditionalformattingvaluecollection/add/
 is_root: false
 ---
 
-## add(self, type, value) {#aspose.cells.FormatConditionValueType-str}
+## add(self, type, value) {#aspose.cells.FormatConditionValueType-System.String}
 
 Adds [`ConditionalFormattingValue`](/cells/python-net/aspose.cells/conditionalformattingvalue) object.
 
@@ -28,8 +28,8 @@ def add(self, type, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`FormatConditionValueType`](/cells/python-net/aspose.cells/formatconditionvaluetype) | The value type. |
-| value | str | The value. |
+| type | aspose.cells.FormatConditionValueType | The value type. |
+| value | System.String | The value. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/unprotect/
 is_root: false
 ---
 
-## unprotect(self, password) {#str}
+## unprotect(self, password) {#System.String}
 
 Unprotects a workbook.
 
@@ -23,7 +23,7 @@ def unprotect(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | Password to unprotect the workbook. |
+| password | System.String | Password to unprotect the workbook. |
 
 
 

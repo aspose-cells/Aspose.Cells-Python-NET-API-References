@@ -28,7 +28,7 @@ def is_error_check(self, error_check_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| error_check_type | [`ErrorCheckType`](/cells/python-net/aspose.cells/errorchecktype) | error type can be checked |
+| error_check_type | aspose.cells.ErrorCheckType | error type can be checked |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.lowcode/imageconverter/process/
 is_root: false
 ---
 
-## process(, template_file, result_file) {#str-str}
+## process(, template_file, result_file) {#System.String-System.String}
 
 Converts template file to images.
 
@@ -24,8 +24,8 @@ def process(template_file, result_file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| template_file | str | The template file to be converted to images. |
-| result_file | str | The resultant file(name pattern) for generated images. |
+| template_file | System.String | The template file to be converted to images. |
+| result_file | System.String | The resultant file(name pattern) for generated images. |
 ### Remarks
 
 The output files will be build from the specified result file
@@ -49,8 +49,8 @@ def process(load_options, save_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_options | [`LowCodeLoadOptions`](/cells/python-net/aspose.cells.lowcode/lowcodeloadoptions) | Options for input and loading |
-| save_options | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) | Options for output and saving |
+| load_options | aspose.cells.lowcode.LowCodeLoadOptions | Options for input and loading |
+| save_options | aspose.cells.lowcode.LowCodeSaveOptions | Options for output and saving |
 ### Remarks
 
 When converting to image of format that supports multiple pages(such as tiff),
@@ -65,9 +65,9 @@ of the save options by appending sequence number of the sheet and split part.
 For example, if the specified output file is Image.png, then the generated image
 files will be Image_0_0.png, Image_0_1.png, ..., Image_1_0.png, ...
 
-## process(, load_options, save_options, provider) {#aspose.cells.lowcode.LowCodeLoadOptions-aspose.cells.lowcode.LowCodeSaveOptions-AbstractLowCodeSaveOptionsProvider}
+## process(, load_options, save_options, provider) {#aspose.cells.lowcode.LowCodeLoadOptions-aspose.cells.lowcode.LowCodeSaveOptions-Aspose.Cells.LowCode.AbstractLowCodeSaveOptionsProvider}
 
-
+Converts template file to images
 
 
 
@@ -81,9 +81,9 @@ def process(load_options, save_options, provider):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_options | [`LowCodeLoadOptions`](/cells/python-net/aspose.cells.lowcode/lowcodeloadoptions) |  |
-| save_options | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) |  |
-| provider | AbstractLowCodeSaveOptionsProvider |  |
+| load_options | aspose.cells.lowcode.LowCodeLoadOptions | Options for input and loading |
+| save_options | aspose.cells.lowcode.LowCodeSaveOptions | Options for saving.<br/>Its output([`LowCodeSaveOptions.output_file`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions#output_file) or [`LowCodeSaveOptions.output_stream`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions#output_stream))<br/>takes no effect because all outputs will be specified by the "provider" parameter |
+| provider | Aspose.Cells.LowCode.AbstractLowCodeSaveOptionsProvider | Provider of save options for saving the generated images |
 
 
 

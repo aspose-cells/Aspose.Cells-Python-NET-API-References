@@ -28,7 +28,7 @@ def get_locked_property(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ShapeLockType`](/cells/python-net/aspose.cells.drawing/shapelocktype) | The type of the shape locked property. |
+| type | aspose.cells.drawing.ShapeLockType | The type of the shape locked property. |
 
 ### Example 
 

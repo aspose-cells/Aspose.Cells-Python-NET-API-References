@@ -34,7 +34,7 @@ The SmartTagCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.markup/smarttagcollection/last_index_of/#aspose.cells.markup.smarttag) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.markup/smarttagcollection/last_index_of/#aspose.cells.markup.smarttag-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.markup/smarttagcollection/last_index_of/#aspose.cells.markup.smarttag-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`add(self, uri, name)`](/cells/python-net/aspose.cells.markup/smarttagcollection/add/#str-str) | Adds a smart tag. |
+| [`add(self, uri, name)`](/cells/python-net/aspose.cells.markup/smarttagcollection/add/#system.string-system.string) | Adds a smart tag. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.markup/smarttagcollection/binary_search/#aspose.cells.markup.smarttag) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

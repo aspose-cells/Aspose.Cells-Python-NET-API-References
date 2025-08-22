@@ -3,7 +3,7 @@ title: License class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 1000
 url: /aspose.cells/license/
 is_root: false
 ---
@@ -25,7 +25,7 @@ The License type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`set_license(self, license_name)`](/cells/python-net/aspose.cells/license/set_license/#str) | Licenses the component. |
+| [`set_license(self, license_name)`](/cells/python-net/aspose.cells/license/set_license/#system.string) | Licenses the component. |
 | [`set_license(self, stream)`](/cells/python-net/aspose.cells/license/set_license/#io.rawiobase) | Licenses the component. |
 
 

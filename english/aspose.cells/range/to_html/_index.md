@@ -28,7 +28,7 @@ def to_html(self, save_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_options | [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions) | Options for coverting range to html. |
+| save_options | aspose.cells.HtmlSaveOptions | Options for coverting range to html. |
 
 
 

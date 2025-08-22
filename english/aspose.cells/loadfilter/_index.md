@@ -3,7 +3,7 @@ title: LoadFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 1030
 url: /aspose.cells/loadfilter/
 is_root: false
 ---

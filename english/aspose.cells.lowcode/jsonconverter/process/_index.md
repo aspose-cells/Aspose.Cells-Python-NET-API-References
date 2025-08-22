@@ -8,7 +8,7 @@ url: /aspose.cells.lowcode/jsonconverter/process/
 is_root: false
 ---
 
-## process(, template_file, result_file) {#str-str}
+## process(, template_file, result_file) {#System.String-System.String}
 
 Converts given template file between json and other formats.
 
@@ -24,8 +24,8 @@ def process(template_file, result_file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| template_file | str | The template file to be converted |
-| result_file | str | The resultant file |
+| template_file | System.String | The template file to be converted |
+| result_file | System.String | The resultant file |
 
 
 ## process(, load_options, save_options) {#aspose.cells.lowcode.LowCodeLoadOptions-aspose.cells.lowcode.LowCodeSaveOptions}
@@ -44,8 +44,8 @@ def process(load_options, save_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| load_options | [`LowCodeLoadOptions`](/cells/python-net/aspose.cells.lowcode/lowcodeloadoptions) | Options for input and loading |
-| save_options | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) | Options for output and saving |
+| load_options | aspose.cells.lowcode.LowCodeLoadOptions | Options for input and loading |
+| save_options | aspose.cells.lowcode.LowCodeSaveOptions | Options for output and saving |
 
 
 

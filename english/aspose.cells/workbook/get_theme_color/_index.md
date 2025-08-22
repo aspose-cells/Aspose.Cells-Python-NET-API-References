@@ -28,7 +28,7 @@ def get_theme_color(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
+| type | aspose.cells.ThemeColorType | The theme color type. |
 
 
 

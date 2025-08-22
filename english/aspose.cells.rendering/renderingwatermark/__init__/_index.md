@@ -26,7 +26,7 @@ def __init__(self, image_data):
 | image_data | bytes |  |
 
 
-## \_\_init\_\_(self, text, rendering_font) {#str-aspose.cells.rendering.RenderingFont}
+## \_\_init\_\_(self, text, rendering_font) {#System.String-aspose.cells.rendering.RenderingFont}
 
 Creates instance of text watermark.
 
@@ -41,8 +41,8 @@ def __init__(self, text, rendering_font):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | watermark text |
-| rendering_font | [`RenderingFont`](/cells/python-net/aspose.cells.rendering/renderingfont) | watermark font |
+| text | System.String | watermark text |
+| rendering_font | aspose.cells.rendering.RenderingFont | watermark font |
 
 
 

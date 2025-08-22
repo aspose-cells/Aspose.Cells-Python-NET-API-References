@@ -24,7 +24,7 @@ The LowCodeSaveOptionsProviderOfPlaceHolders type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, path_template)`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofplaceholders/__init__/#str) | Instantiates an instance to provide save options according to specified templates. |
+| [`__init__(self, path_template)`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofplaceholders/__init__/#system.string) | Instantiates an instance to provide save options according to specified templates. |
 
 
 ### Properties

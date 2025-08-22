@@ -45,7 +45,7 @@ def set_outline_borders(self, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Border style. |
+| border_style | aspose.cells.CellBorderType | Border style. |
 | border_color | aspose.pydrawing.Color | Border color. |
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/get_error_value_string/
 is_root: false
 ---
 
-## get_error_value_string(self, err) {#str}
+## get_error_value_string(self, err) {#System.String}
 
 Gets the display string value for cell's error value
 
@@ -28,7 +28,7 @@ def get_error_value_string(self, err):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| err | str | error values such as #VALUE!,#NAME? |
+| err | System.String | error values such as #VALUE!,#NAME? |
 
 
 

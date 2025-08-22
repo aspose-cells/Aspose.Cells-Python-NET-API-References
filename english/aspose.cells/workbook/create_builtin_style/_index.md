@@ -28,7 +28,7 @@ def create_builtin_style(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`BuiltinStyleType`](/cells/python-net/aspose.cells/builtinstyletype) | The builtin style stype. |
+| type | aspose.cells.BuiltinStyleType | The builtin style stype. |
 
 
 

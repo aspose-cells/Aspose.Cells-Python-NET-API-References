@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionpropertycollection/add/
 is_root: false
 ---
 
-## add(self, name, value) {#str-str}
+## add(self, name, value) {#System.String-System.String}
 
 Adds web extension property.
 
@@ -28,8 +28,8 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of property. |
-| value | str | The value of property. |
+| name | System.String | The name of property. |
+| value | System.String | The value of property. |
 
 
 

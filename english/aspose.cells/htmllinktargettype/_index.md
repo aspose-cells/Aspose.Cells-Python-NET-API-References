@@ -3,7 +3,7 @@ title: HtmlLinkTargetType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2190
+weight: 2290
 url: /aspose.cells/htmllinktargettype/
 is_root: false
 ---

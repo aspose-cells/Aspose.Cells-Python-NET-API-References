@@ -228,3 +228,4 @@ def get_instance(self, vals, has_header, column_names):
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`CellsDataTableFactory`](/cells/python-net/aspose.cells/cellsdatatablefactory)
+* class [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/oleobject/set_embedded_object/
 is_root: false
 ---
 
-## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label) {#bool-bytes-str-bool-str}
+## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label) {#bool-bytes-System.String-bool-System.String}
 
 Sets embedded object data.
 
@@ -25,12 +25,12 @@ def set_embedded_object(self, link_to_file, object_data, source_file_name, displ
 | :- | :- | :- |
 | link_to_file | bool | Indicates whether the object links to the file. If true, the parameter objectData is ignored. |
 | object_data | bytes | The embedded object data. |
-| source_file_name | str | The file name. |
+| source_file_name | System.String | The file name. |
 | display_as_icon | bool | Indicates whether diplaying object as an icon.<br/>If true, the orginal image data will be covered by icon. |
-| label | str | The icon label. Only works when displayAsIcon as true. |
+| label | System.String | The icon label. Only works when displayAsIcon as true. |
 
 
-## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label, update_icon) {#bool-bytes-str-bool-str-bool}
+## set_embedded_object(self, link_to_file, object_data, source_file_name, display_as_icon, label, update_icon) {#bool-bytes-System.String-bool-System.String-bool}
 
 Sets embedded object data.
 
@@ -47,9 +47,9 @@ def set_embedded_object(self, link_to_file, object_data, source_file_name, displ
 | :- | :- | :- |
 | link_to_file | bool | Indicates whether the object links to the file. If true, the parameter objectData is ignored. |
 | object_data | bytes | The embedded object data. |
-| source_file_name | str | The file name. |
+| source_file_name | System.String | The file name. |
 | display_as_icon | bool | Indicates whether diplaying object as an icon.<br/>If true, the orginal image data will be covered by icon. |
-| label | str | The icon label. Only works when displayAsIcon as true. |
+| label | System.String | The icon label. Only works when displayAsIcon as true. |
 | update_icon | bool | Indicates whether automatically updating icon. |
 ### Remarks
 

@@ -23,8 +23,8 @@ def format(self, pivot_area, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_area | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | The selected pivot view area. |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The formatted setting. |
+| pivot_area | aspose.cells.pivot.PivotArea | The selected pivot view area. |
+| style | aspose.cells.Style | The formatted setting. |
 
 
 ## format(self, ca, style) {#aspose.cells.CellArea-aspose.cells.Style}
@@ -42,8 +42,8 @@ def format(self, ca, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The range of the cells. |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The style |
+| ca | aspose.cells.CellArea | The range of the cells. |
+| style | aspose.cells.Style | The style |
 
 
 ## format(self, row, column, style) {#int-int-aspose.cells.Style}
@@ -63,7 +63,7 @@ def format(self, row, column, style):
 | :- | :- | :- |
 | row | int | Row Index of the cell |
 | column | int | Column index of the cell |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | Style which is to format the cell |
+| style | aspose.cells.Style | Style which is to format the cell |
 
 
 

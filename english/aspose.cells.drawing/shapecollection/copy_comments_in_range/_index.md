@@ -23,8 +23,8 @@ def copy_comments_in_range(self, shapes, ca, dest_row, dest_column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shapes | [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection) | The source shapes. |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The source range. |
+| shapes | aspose.cells.drawing.ShapeCollection | The source shapes. |
+| ca | aspose.cells.CellArea | The source range. |
 | dest_row | int | The dest range start row. |
 | dest_column | int | The dest range start column. |
 

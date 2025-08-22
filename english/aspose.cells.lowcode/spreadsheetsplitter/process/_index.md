@@ -24,10 +24,10 @@ def process(options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`LowCodeSplitOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions) | Options for splitting spreadsheet |
+| options | aspose.cells.lowcode.LowCodeSplitOptions | Options for splitting spreadsheet |
 
 
-## process(, template_file, result_file) {#str-str}
+## process(, template_file, result_file) {#System.String-System.String}
 
 Splits given template file into multiple parts.
 
@@ -43,8 +43,8 @@ def process(template_file, result_file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| template_file | str | The template file to be split |
-| result_file | str | The resultant file(name pattern) |
+| template_file | System.String | The template file to be split |
+| result_file | System.String | The resultant file(name pattern) |
 ### Remarks
 
 The output files will be build from the specified resultant file by

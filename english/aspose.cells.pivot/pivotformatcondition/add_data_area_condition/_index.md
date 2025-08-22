@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotformatcondition/add_data_area_condition/
 is_root: false
 ---
 
-## add_data_area_condition(self, field_name) {#str}
+## add_data_area_condition(self, field_name) {#System.String}
 
 
 
@@ -23,7 +23,7 @@ def add_data_area_condition(self, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_name | str |  |
+| field_name | System.String |  |
 
 
 ## add_data_area_condition(self, data_field) {#aspose.cells.pivot.PivotField}
@@ -41,7 +41,7 @@ def add_data_area_condition(self, data_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) |  |
+| data_field | aspose.cells.pivot.PivotField |  |
 
 
 

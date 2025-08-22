@@ -23,7 +23,7 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | the style to be used as the default style for cells in this row. |
+| style | aspose.cells.Style | the style to be used as the default style for cells in this row. |
 ### Remarks
 
 This method only sets the given style as the default style for this row,

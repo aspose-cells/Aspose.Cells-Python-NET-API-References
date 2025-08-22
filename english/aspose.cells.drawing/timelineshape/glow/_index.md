@@ -3,7 +3,7 @@ title: glow property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /aspose.cells.drawing/timelineshape/glow/
 is_root: false
 ---

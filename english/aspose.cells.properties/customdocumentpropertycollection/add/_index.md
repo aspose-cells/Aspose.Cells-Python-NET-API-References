@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/add/
 is_root: false
 ---
 
-## add(self, name, value) {#str-str}
+## add(self, name, value) {#System.String-System.String}
 
 Creates a new custom document property of the **PropertyType.String**  data type.
 
@@ -28,11 +28,11 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
-| value | str | The value of the property. |
+| name | System.String | The name of the property. |
+| value | System.String | The value of the property. |
 
 
-## add(self, name, value) {#str-int}
+## add(self, name, value) {#System.String-int}
 
 Creates a new custom document property of the **PropertyType.Number**  data type.
 
@@ -52,11 +52,11 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
+| name | System.String | The name of the property. |
 | value | int | The value of the property. |
 
 
-## add(self, name, value) {#str-DateTime}
+## add(self, name, value) {#System.String-System.DateTime}
 
 Creates a new custom document property of the **PropertyType.DateTime**  data type.
 
@@ -76,11 +76,11 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
-| value | DateTime | The value of the property. |
+| name | System.String | The name of the property. |
+| value | System.DateTime | The value of the property. |
 
 
-## add(self, name, value) {#str-bool}
+## add(self, name, value) {#System.String-bool}
 
 Creates a new custom document property of the **PropertyType.Boolean**  data type.
 
@@ -100,11 +100,11 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
+| name | System.String | The name of the property. |
 | value | bool | The value of the property. |
 
 
-## add(self, name, value) {#str-float}
+## add(self, name, value) {#System.String-float}
 
 Creates a new custom document property of the **PropertyType.Float**  data type.
 
@@ -124,7 +124,7 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
+| name | System.String | The name of the property. |
 | value | float | The value of the property. |
 
 
@@ -132,3 +132,4 @@ def add(self, name, value):
 ### See Also
 * module [`aspose.cells.properties`](../../)
 * class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

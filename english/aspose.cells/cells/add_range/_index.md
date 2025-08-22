@@ -23,7 +23,7 @@ def add_range(self, range_object):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range_object | [`Range`](/cells/python-net/aspose.cells/range) | The range object will be contained in the cells |
+| range_object | aspose.cells.Range | The range object will be contained in the cells |
 
 
 

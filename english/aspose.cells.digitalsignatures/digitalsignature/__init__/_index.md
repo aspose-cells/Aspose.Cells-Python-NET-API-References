@@ -8,7 +8,7 @@ url: /aspose.cells.digitalsignatures/digitalsignature/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, certificate, comments, sign_time) {#System.Security.Cryptography.X509Certificates.X509Certificate2-str-DateTime}
+## \_\_init\_\_(self, certificate, comments, sign_time) {#System.Security.Cryptography.X509Certificates.X509Certificate2-System.String-System.DateTime}
 
 Constructor of digitalSignature. Uses .Net implementation.
 
@@ -24,11 +24,11 @@ def __init__(self, certificate, comments, sign_time):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | certificate | System.Security.Cryptography.X509Certificates.X509Certificate2 | Certificate object that was used to sign the document. |
-| comments | str | The purpose to signature. |
-| sign_time | DateTime | The utc time when the document was signed. |
+| comments | System.String | The purpose to signature. |
+| sign_time | System.DateTime | The utc time when the document was signed. |
 
 
-## \_\_init\_\_(self, raw_data, password, comments, sign_time) {#bytes-str-str-DateTime}
+## \_\_init\_\_(self, raw_data, password, comments, sign_time) {#bytes-System.String-System.String-System.DateTime}
 
 Constructor of digitalSignature. Uses Bouncy Castle implementation.
 
@@ -44,9 +44,9 @@ def __init__(self, raw_data, password, comments, sign_time):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | raw_data | bytes | A byte array containing data from an X.509 certificate. |
-| password | str | The password required to access the X.509 certificate data. |
-| comments | str | The purpose to signature. |
-| sign_time | DateTime | The utc time when the document was signed. |
+| password | System.String | The password required to access the X.509 certificate data. |
+| comments | System.String | The purpose to signature. |
+| sign_time | System.DateTime | The utc time when the document was signed. |
 
 
 

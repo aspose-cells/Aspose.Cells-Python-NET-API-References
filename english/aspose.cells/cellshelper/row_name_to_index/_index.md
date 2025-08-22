@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/row_name_to_index/
 is_root: false
 ---
 
-## row_name_to_index(, row_name) {#str}
+## row_name_to_index(, row_name) {#System.String}
 
 Gets row index according to row name.
 
@@ -29,7 +29,7 @@ def row_name_to_index(row_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| row_name | str | Row name. |
+| row_name | System.String | Row name. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/
 is_root: false
 ---
 
-## add_project_refrernce(self, name, absolute_libid, relative_libid) {#str-str-str}
+## add_project_refrernce(self, name, absolute_libid, relative_libid) {#System.String-System.String-System.String}
 
 Adds a reference to an external VBA project.
 
@@ -28,9 +28,9 @@ def add_project_refrernce(self, name, absolute_libid, relative_libid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of reference. |
-| absolute_libid | str | The referenced VBA project's identifier with an absolute path. |
-| relative_libid | str | The referenced VBA project's identifier with an relative path. |
+| name | System.String | The name of reference. |
+| absolute_libid | System.String | The referenced VBA project's identifier with an absolute path. |
+| relative_libid | System.String | The referenced VBA project's identifier with an relative path. |
 
 
 

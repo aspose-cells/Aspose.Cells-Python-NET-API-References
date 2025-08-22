@@ -23,7 +23,7 @@ def finish(self, part):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| part | [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions) |  |
+| part | aspose.cells.lowcode.LowCodeSaveOptions |  |
 
 
 

@@ -23,8 +23,8 @@ def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom)
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype) | The drawing type. |
-| placement | [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype) | the placement type. |
+| type | aspose.cells.drawing.MsoDrawingType | The drawing type. |
+| placement | aspose.cells.drawing.PlacementType | the placement type. |
 | left | float | Unit is percent scale of chart area width. |
 | top | float | Unit is percent scale of chart area height. |
 | right | float | Unit is percent scale of chart area width. |
@@ -46,8 +46,8 @@ def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom,
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype) | The drawing type. |
-| placement | [`PlacementType`](/cells/python-net/aspose.cells.drawing/placementtype) | the placement type. |
+| type | aspose.cells.drawing.MsoDrawingType | The drawing type. |
+| placement | aspose.cells.drawing.PlacementType | the placement type. |
 | left | float | Unit is percent scale of chart area width. |
 | top | float | Unit is percent scale of chart area height. |
 | right | float | Unit is percent scale of chart area width. |
@@ -58,4 +58,5 @@ def add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom,
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

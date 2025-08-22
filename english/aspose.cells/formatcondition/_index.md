@@ -44,9 +44,9 @@ The FormatCondition type exposes the following members:
 | [`get_formula2(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/get_formula2/#bool-bool) | Gets the value or expression associated with this format condition. |
 | [`get_formula2(self, is_r1c1, is_local, row, column)`](/cells/python-net/aspose.cells/formatcondition/get_formula2/#bool-bool-int-int) | Gets the value or expression of the conditional formatting of the cell. |
 | [`get_formula2(self, row, column)`](/cells/python-net/aspose.cells/formatcondition/get_formula2/#int-int) | Gets the formula of the conditional formatting of the cell. |
-| [`set_formulas(self, formula1, formula2, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formulas/#str-str-bool-bool) | Sets the value or expression associated with this format condition. |
-| [`set_formula1(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formula1/#str-bool-bool) | Sets the value or expression associated with this format condition. |
-| [`set_formula2(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formula2/#str-bool-bool) | Sets the value or expression associated with this format condition. |
+| [`set_formulas(self, formula1, formula2, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formulas/#system.string-system.string-bool-bool) | Sets the value or expression associated with this format condition. |
+| [`set_formula1(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formula1/#system.string-bool-bool) | Sets the value or expression associated with this format condition. |
+| [`set_formula2(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells/formatcondition/set_formula2/#system.string-bool-bool) | Sets the value or expression associated with this format condition. |
 
 
 

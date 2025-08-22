@@ -8,7 +8,7 @@ url: /aspose.cells.drawing.texts/fontsettingcollection/insert_text/
 is_root: false
 ---
 
-## insert_text(self, index, text) {#int-str}
+## insert_text(self, index, text) {#int-System.String}
 
 Insert index at the position.
 
@@ -24,7 +24,7 @@ def insert_text(self, index, text):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | index | int | The start index. |
-| text | str | The text. |
+| text | System.String | The text. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/replace/
 is_root: false
 ---
 
-## replace(self, place_holder, new_value) {#str-str}
+## replace(self, place_holder, new_value) {#System.String-System.String}
 
 Replaces a cell's value with a new string.
 
@@ -23,8 +23,8 @@ def replace(self, place_holder, new_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
-| new_value | str | String value to replace |
+| place_holder | System.String | Cell placeholder |
+| new_value | System.String | String value to replace |
 
 ### Example 
 
@@ -39,7 +39,7 @@ workbook.replace("AnOldValue", "NewValue")
 ```
 
 
-## replace(self, place_holder, new_value) {#str-int}
+## replace(self, place_holder, new_value) {#System.String-int}
 
 Replaces a cell's value with a new integer.
 
@@ -54,7 +54,7 @@ def replace(self, place_holder, new_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
+| place_holder | System.String | Cell placeholder |
 | new_value | int | Integer value to replace |
 
 ### Example 
@@ -71,7 +71,7 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-## replace(self, place_holder, new_value) {#str-float}
+## replace(self, place_holder, new_value) {#System.String-float}
 
 Replaces a cell's value with a new double.
 
@@ -86,7 +86,7 @@ def replace(self, place_holder, new_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
+| place_holder | System.String | Cell placeholder |
 | new_value | float | Double value to replace |
 
 ### Example 
@@ -103,7 +103,7 @@ workbook.replace("AnOldValue", newValue)
 ```
 
 
-## replace(self, bool_value, new_value) {#bool-any}
+## replace(self, bool_value, new_value) {#bool-System.Object}
 
 Replaces cells' values with new data.
 
@@ -119,10 +119,10 @@ def replace(self, bool_value, new_value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | bool_value | bool | The boolean value to be replaced. |
-| new_value | any | New value. Can be string, integer, double or DateTime value. |
+| new_value | System.Object | New value. Can be string, integer, double or DateTime value. |
 
 
-## replace(self, int_value, new_value) {#int-any}
+## replace(self, int_value, new_value) {#int-System.Object}
 
 Replaces cells' values with new data.
 
@@ -138,10 +138,10 @@ def replace(self, int_value, new_value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | int_value | int | The integer value to be replaced. |
-| new_value | any | New value. Can be string, integer, double or DateTime value. |
+| new_value | System.Object | New value. Can be string, integer, double or DateTime value. |
 
 
-## replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+## replace(self, place_holder, new_values, is_vertical) {#System.String-list-bool}
 
 Replaces a cell's value with a new string array.
 
@@ -156,7 +156,7 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
+| place_holder | System.String | Cell placeholder |
 | new_values | list | String array to replace |
 | is_vertical | bool | True - Vertical, False - Horizontal |
 
@@ -174,7 +174,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+## replace(self, place_holder, new_values, is_vertical) {#System.String-list-bool}
 
 Replaces cells' values with an integer array.
 
@@ -189,7 +189,7 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
+| place_holder | System.String | Cell placeholder |
 | new_values | list | Integer array to replace |
 | is_vertical | bool | True - Vertical, False - Horizontal |
 
@@ -207,7 +207,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(self, place_holder, new_values, is_vertical) {#str-list-bool}
+## replace(self, place_holder, new_values, is_vertical) {#System.String-list-bool}
 
 Replaces cells' values with a double array.
 
@@ -222,7 +222,7 @@ def replace(self, place_holder, new_values, is_vertical):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
+| place_holder | System.String | Cell placeholder |
 | new_values | list | Double array to replace |
 | is_vertical | bool | True - Vertical, False - Horizontal |
 
@@ -240,7 +240,7 @@ workbook.replace("AnOldValue", newValues, True)
 ```
 
 
-## replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
+## replace(self, place_holder, new_value, options) {#System.String-System.String-aspose.cells.ReplaceOptions}
 
 Replaces a cell's value with a new string.
 
@@ -255,9 +255,9 @@ def replace(self, place_holder, new_value, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
-| new_value | str | String value to replace |
-| options | [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions) | The replace options |
+| place_holder | System.String | Cell placeholder |
+| new_value | System.String | String value to replace |
+| options | aspose.cells.ReplaceOptions | The replace options |
 
 
 

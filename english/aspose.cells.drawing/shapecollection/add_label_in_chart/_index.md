@@ -37,4 +37,5 @@ def add_label_in_chart(self, top, left, height, width):
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Label`](/cells/python-net/aspose.cells.drawing/label)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

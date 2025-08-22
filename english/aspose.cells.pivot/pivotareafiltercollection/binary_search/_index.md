@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`PivotAreaFilter`](/cells/python-net/aspose.cells.pivot/pivotareafilter) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.pivot.PivotAreaFilter | The System.Object to locate. The value can be null. |
 
 
 

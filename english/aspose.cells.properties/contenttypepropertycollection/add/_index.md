@@ -8,7 +8,7 @@ url: /aspose.cells.properties/contenttypepropertycollection/add/
 is_root: false
 ---
 
-## add(self, name, value) {#str-str}
+## add(self, name, value) {#System.String-System.String}
 
 Adds content type property information.
 
@@ -23,11 +23,11 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the content type property. |
-| value | str | The value of the content type property. |
+| name | System.String | The name of the content type property. |
+| value | System.String | The value of the content type property. |
 
 
-## add(self, name, value, type) {#str-str-str}
+## add(self, name, value, type) {#System.String-System.String-System.String}
 
 Adds content type property information.
 
@@ -42,9 +42,9 @@ def add(self, name, value, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the content type property. |
-| value | str | The value of the content type property. |
-| type | str | The type of the content type property. |
+| name | System.String | The name of the content type property. |
+| value | System.String | The value of the content type property. |
+| type | System.String | The type of the content type property. |
 
 
 

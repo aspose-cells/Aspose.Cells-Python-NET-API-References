@@ -23,7 +23,7 @@ def start_access_cache(self, opts):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| opts | [`AccessCacheOptions`](/cells/python-net/aspose.cells/accesscacheoptions) | options of data access |
+| opts | aspose.cells.AccessCacheOptions | options of data access |
 ### Remarks
 
 If the cache of specified data access requires some data models in worksheet to be "read-only",

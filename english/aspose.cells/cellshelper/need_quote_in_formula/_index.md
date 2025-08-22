@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/need_quote_in_formula/
 is_root: false
 ---
 
-## need_quote_in_formula(, sheet_name) {#str}
+## need_quote_in_formula(, sheet_name) {#System.String}
 
 Indicates whether the name of the sheet should be enclosed in single quotes
 
@@ -29,7 +29,7 @@ def need_quote_in_formula(sheet_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet_name | str | The name of the sheet |
+| sheet_name | System.String | The name of the sheet |
 
 
 

@@ -25,8 +25,8 @@ def format(self, start_index, length, font, flag):
 | :- | :- | :- |
 | start_index | int | The start index. |
 | length | int | The length. |
-| font | [`Font`](/cells/python-net/aspose.cells/font) | The font. |
-| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | The flags of the font. |
+| font | aspose.cells.Font | The font. |
+| flag | aspose.cells.StyleFlag | The flags of the font. |
 
 
 

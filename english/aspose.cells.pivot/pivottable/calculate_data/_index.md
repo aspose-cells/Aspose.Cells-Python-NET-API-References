@@ -42,7 +42,7 @@ def calculate_data(self, option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| option | [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) |  |
+| option | aspose.cells.pivot.PivotTableCalculateOption |  |
 
 
 

@@ -3,7 +3,7 @@ title: SettableGlobalizationSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1310
+weight: 1410
 url: /aspose.cells/settableglobalizationsettings/
 is_root: false
 ---
@@ -58,32 +58,32 @@ The SettableGlobalizationSettings type exposes the following members:
 | [`get_table_row_type_of_all(self)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_table_row_type_of_all/#) | Gets the type name of table rows that consists of all rows in referenced table. |
 | [`get_table_row_type_of_totals(self)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_table_row_type_of_totals/#) | Gets the type name of table rows that consists of the total row of referenced table. |
 | [`get_table_row_type_of_current(self)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_table_row_type_of_current/#) | Gets the type name of table rows that consists of the current row in referenced table. |
-| [`get_error_value_string(self, err)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_error_value_string/#str) | Gets the display string value for cell's error value |
+| [`get_error_value_string(self, err)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_error_value_string/#system.string) | Gets the display string value for cell's error value |
 | [`get_boolean_value_string(self, bv)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_boolean_value_string/#bool) | Gets the display string value for cell's boolean value |
-| [`get_local_function_name(self, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_local_function_name/#str) | Gets the locale dependent function name according to given standard function name. |
-| [`get_standard_function_name(self, local_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_function_name/#str) | Gets the standard function name according to given locale dependent function name. |
-| [`get_local_built_in_name(self, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_local_built_in_name/#str) | Gets the locale dependent text for built-in Name according to given standard text. |
-| [`get_standard_built_in_name(self, local_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_built_in_name/#str) | Gets the standard text of built-in Name according to given locale dependent text. |
-| [`get_standard_header_footer_font_style_name(self, localfont_style_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_header_footer_font_style_name/#str) | Gets standard English font style name(Regular, Bold, Italic) for Header/Footer according to given locale font style name. |
+| [`get_local_function_name(self, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_local_function_name/#system.string) | Gets the locale dependent function name according to given standard function name. |
+| [`get_standard_function_name(self, local_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_function_name/#system.string) | Gets the standard function name according to given locale dependent function name. |
+| [`get_local_built_in_name(self, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_local_built_in_name/#system.string) | Gets the locale dependent text for built-in Name according to given standard text. |
+| [`get_standard_built_in_name(self, local_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_built_in_name/#system.string) | Gets the standard text of built-in Name according to given locale dependent text. |
+| [`get_standard_header_footer_font_style_name(self, localfont_style_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_standard_header_footer_font_style_name/#system.string) | Gets standard English font style name(Regular, Bold, Italic) for Header/Footer according to given locale font style name. |
 | [`get_comment_title_name(self, type)`](/cells/python-net/aspose.cells/settableglobalizationsettings/get_comment_title_name/#aspose.cells.rendering.commenttitletype) | Gets the locale dependent comment title name according to comment title type. |
-| [`compare(self, v1, v2, ignore_case)`](/cells/python-net/aspose.cells/settableglobalizationsettings/compare/#str-str-bool) | Compares two string values according to certain collation rules. |
-| [`set_total_name(self, function_type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_total_name/#aspose.cells.consolidationfunction-str) | Sets the total name of specific function. |
-| [`set_grand_total_name(self, function_type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_grand_total_name/#aspose.cells.consolidationfunction-str) | Sets the grand total name of specific function. |
-| [`set_table_row_type_of_headers(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_headers/#str) | Sets the type name of table rows that consists of the table header. |
-| [`set_table_row_type_of_data(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/#str) | Sets the type name of table rows that consists of data region of referenced table. |
-| [`set_table_row_type_of_all(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/#str) | Sets the type name of table rows that consists of all rows in referenced table. |
-| [`set_table_row_type_of_totals(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/#str) | Sets the type name of table rows that consists of the total row of referenced table. |
-| [`set_table_row_type_of_current(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/#str) | Sets the type name of table rows that consists of the current row in referenced table. |
-| [`set_boolean_value_string(self, bv, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_boolean_value_string/#bool-str) | Sets the display string value for cell's boolean value |
-| [`set_local_function_name(self, standard_name, local_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_local_function_name/#str-str-bool) | Sets the locale dependent function name corresponding to given standard function name. |
-| [`set_standard_function_name(self, local_name, standard_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_function_name/#str-str-bool) | Sets the locale dependent function name according to given standard function name. |
-| [`set_local_built_in_name(self, standard_name, local_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_local_built_in_name/#str-str-bool) | Sets the locale dependent text for the built-in name with given standard name text. |
-| [`set_standard_built_in_name(self, local_name, standard_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/#str-str-bool) | Sets the locale dependent function name according to given standard function name. |
-| [`set_list_separator(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_list_separator/#char) | Sets the separator for list, parameters of function, ...etc. |
-| [`set_row_separator_of_formula_array(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/#char) | Sets the separator for rows in array data in formula. |
-| [`set_column_separator_of_formula_array(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/#char) | Sets the separator for the items in array's row data in formula. |
-| [`set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/#str-str) | Sets the locale dependent function name according to given standard function name. |
-| [`set_comment_title_name(self, type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_comment_title_name/#aspose.cells.rendering.commenttitletype-str) | Gets the locale dependent comment title name according to comment title type. |
+| [`compare(self, v1, v2, ignore_case)`](/cells/python-net/aspose.cells/settableglobalizationsettings/compare/#system.string-system.string-bool) | Compares two string values according to certain collation rules. |
+| [`set_total_name(self, function_type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_total_name/#aspose.cells.consolidationfunction-system.string) | Sets the total name of specific function. |
+| [`set_grand_total_name(self, function_type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_grand_total_name/#aspose.cells.consolidationfunction-system.string) | Sets the grand total name of specific function. |
+| [`set_table_row_type_of_headers(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_headers/#system.string) | Sets the type name of table rows that consists of the table header. |
+| [`set_table_row_type_of_data(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/#system.string) | Sets the type name of table rows that consists of data region of referenced table. |
+| [`set_table_row_type_of_all(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_all/#system.string) | Sets the type name of table rows that consists of all rows in referenced table. |
+| [`set_table_row_type_of_totals(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_totals/#system.string) | Sets the type name of table rows that consists of the total row of referenced table. |
+| [`set_table_row_type_of_current(self, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_table_row_type_of_current/#system.string) | Sets the type name of table rows that consists of the current row in referenced table. |
+| [`set_boolean_value_string(self, bv, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_boolean_value_string/#bool-system.string) | Sets the display string value for cell's boolean value |
+| [`set_local_function_name(self, standard_name, local_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_local_function_name/#system.string-system.string-bool) | Sets the locale dependent function name corresponding to given standard function name. |
+| [`set_standard_function_name(self, local_name, standard_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_function_name/#system.string-system.string-bool) | Sets the locale dependent function name according to given standard function name. |
+| [`set_local_built_in_name(self, standard_name, local_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_local_built_in_name/#system.string-system.string-bool) | Sets the locale dependent text for the built-in name with given standard name text. |
+| [`set_standard_built_in_name(self, local_name, standard_name, bidirectional)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_built_in_name/#system.string-system.string-bool) | Sets the locale dependent function name according to given standard function name. |
+| [`set_list_separator(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_list_separator/#system.char) | Sets the separator for list, parameters of function, ...etc. |
+| [`set_row_separator_of_formula_array(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_array/#system.char) | Sets the separator for rows in array data in formula. |
+| [`set_column_separator_of_formula_array(self, c)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_column_separator_of_formula_array/#system.char) | Sets the separator for the items in array's row data in formula. |
+| [`set_standard_header_footer_font_style_name(self, localfont_style_name, standard_name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_standard_header_footer_font_style_name/#system.string-system.string) | Sets the locale dependent function name according to given standard function name. |
+| [`set_comment_title_name(self, type, name)`](/cells/python-net/aspose.cells/settableglobalizationsettings/set_comment_title_name/#aspose.cells.rendering.commenttitletype-system.string) | Gets the locale dependent comment title name according to comment title type. |
 
 
 

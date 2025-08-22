@@ -35,7 +35,7 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data):
 | image_data | bytes | Image of ole object as byte array. |
 
 
-## add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-str}
+## add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-System.String}
 
 Adds a linked OleObject to the collection.
 
@@ -60,7 +60,7 @@ def add(self, upper_left_row, upper_left_column, height, width, image_data, link
 | height | int | Height of oleObject, in unit of pixel. |
 | width | int | Width of oleObject, in unit of pixel. |
 | image_data | bytes | Image of ole object as byte array. |
-| linked_file | str |  |
+| linked_file | System.String |  |
 
 
 

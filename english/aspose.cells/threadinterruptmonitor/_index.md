@@ -3,7 +3,7 @@ title: ThreadInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1410
+weight: 1510
 url: /aspose.cells/threadinterruptmonitor/
 is_root: false
 ---
@@ -46,6 +46,28 @@ The ThreadInterruptMonitor type exposes the following members:
 
 One monitor instance can be used repeatedly, as long as you monitor each process in sequence.
 It should not be used to monitor multiple procedures concurrently in multi-threads.
+
+### Example 
+
+
+The following example shows how to monitor the load and save procedure with specified time limit:
+
+```python
+from aspose.cells import LoadOptions, ThreadInterruptMonitor, Workbook
+
+monitor = ThreadInterruptMonitor(False)
+lopts = LoadOptions()
+lopts.interrupt_monitor = monitor
+monitor.start_monitor(1000)
+wb = Workbook("Large.xlsx", lopts)
+# if the time cost of loading the template file exceeds one second, interruption will be required and exception will be thrown here
+# otherwise finishes the monitor thread and starts to monitor the save procedure
+monitor.finish_monitor()
+monitor.start_monitor(1500)
+wb.save("result.xlsx")
+monitor.finish_monitor()
+
+```
 
 ### See Also
 * module [`aspose.cells`](..)

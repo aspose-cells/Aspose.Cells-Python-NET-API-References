@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ErrorCheckOption`](/cells/python-net/aspose.cells/errorcheckoption) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.ErrorCheckOption | The System.Object to locate. The value can be null. |
 
 
 

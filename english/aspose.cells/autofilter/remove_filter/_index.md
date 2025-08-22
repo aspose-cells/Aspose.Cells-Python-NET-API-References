@@ -26,7 +26,7 @@ def remove_filter(self, field_index):
 | field_index | int | The specific filter index |
 
 
-## remove_filter(self, field_index, criteria) {#int-str}
+## remove_filter(self, field_index, criteria) {#int-System.String}
 
 Removes a filter for a filter column.
 
@@ -42,7 +42,7 @@ def remove_filter(self, field_index, criteria):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | The integer offset of the field on which you want to base the filter <br/>(from the left of the list; the leftmost field is field 0). |
-| criteria | str | The specified criteria (a string; for example, "101"). <br/>It only can be null or be one of the cells' value in this column. |
+| criteria | System.String | The specified criteria (a string; for example, "101"). <br/>It only can be null or be one of the cells' value in this column. |
 
 
 

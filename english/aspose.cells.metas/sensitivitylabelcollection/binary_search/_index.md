@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`SensitivityLabel`](/cells/python-net/aspose.cells.metas/sensitivitylabel) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.metas.SensitivityLabel | The System.Object to locate. The value can be null. |
 
 
 

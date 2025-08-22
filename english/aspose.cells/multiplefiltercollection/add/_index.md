@@ -8,7 +8,7 @@ url: /aspose.cells/multiplefiltercollection/add/
 is_root: false
 ---
 
-## add(self, filter) {#str}
+## add(self, filter) {#System.String}
 
 Adds string filter.
 
@@ -23,7 +23,7 @@ def add(self, filter):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| filter | str | The filter data. |
+| filter | System.String | The filter data. |
 
 
 

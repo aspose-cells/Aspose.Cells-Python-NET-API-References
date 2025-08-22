@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/add_copy/
 is_root: false
 ---
 
-## add_copy(self, sheet_name) {#str}
+## add_copy(self, sheet_name) {#System.String}
 
 Adds a worksheet to the collection and copies data from an existed worksheet.
 
@@ -28,7 +28,7 @@ def add_copy(self, sheet_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet_name | str | Name of source worksheet. |
+| sheet_name | System.String | Name of source worksheet. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

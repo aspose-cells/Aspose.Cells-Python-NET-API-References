@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listcolumn/set_custom_totals_row_formula/
 is_root: false
 ---
 
-## set_custom_totals_row_formula(self, formula, is_r1c1, is_local) {#str-bool-bool}
+## set_custom_totals_row_formula(self, formula, is_r1c1, is_local) {#System.String-bool-bool}
 
 Gets the formula of totals row of this list column.
 
@@ -23,7 +23,7 @@ def set_custom_totals_row_formula(self, formula, is_r1c1, is_local):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | the formula for this list column. |
+| formula | System.String | the formula for this list column. |
 | is_r1c1 | bool | Whether the formula needs to be formatted as R1C1. |
 | is_local | bool | Whether the formula needs to be formatted by locale. |
 

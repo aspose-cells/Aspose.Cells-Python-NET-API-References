@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobjectcollection/add/
 is_root: false
 ---
 
-## add(self, start_cell, end_cell, has_headers) {#str-str-bool}
+## add(self, start_cell, end_cell, has_headers) {#System.String-System.String-bool}
 
 Adds a ListObject to the worksheet.
 
@@ -28,8 +28,8 @@ def add(self, start_cell, end_cell, has_headers):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| start_cell | str | The start cell of the list range. |
-| end_cell | str | The end cell of the list range. |
+| start_cell | System.String | The start cell of the list range. |
+| end_cell | System.String | The end cell of the list range. |
 | has_headers | bool | Whether the range has headers. |
 
 

@@ -41,10 +41,11 @@ def refresh_data(self, option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| option | [`PivotTableRefreshOption`](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption) | The options for refreshing data source of pivot table. |
+| option | aspose.cells.pivot.PivotTableRefreshOption | The options for refreshing data source of pivot table. |
 
 
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`PivotRefreshState`](/cells/python-net/aspose.cells.pivot/pivotrefreshstate)
 * class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

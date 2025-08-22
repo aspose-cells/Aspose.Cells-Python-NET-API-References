@@ -28,7 +28,7 @@ def add(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`HtmlTableLoadOption`](/cells/python-net/aspose.cells/htmltableloadoption) | one HtmlTableLoadOption |
+| item | aspose.cells.HtmlTableLoadOption | one HtmlTableLoadOption |
 
 
 ## add(self, table_index) {#int}
@@ -54,7 +54,7 @@ def add(self, table_index):
 | table_index | int | Table index |
 
 
-## add(self, table_id) {#str}
+## add(self, table_id) {#System.String}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -74,7 +74,7 @@ def add(self, table_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table_id | str | Table ID |
+| table_id | System.String | Table ID |
 
 
 ## add(self, table_index, target_sheet_index) {#int-int}
@@ -96,7 +96,7 @@ def add(self, table_index, target_sheet_index):
 | target_sheet_index | int | The target index of worksheet in Excel |
 
 
-## add(self, table_id, target_sheet_index) {#str-int}
+## add(self, table_id, target_sheet_index) {#System.String-int}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -116,7 +116,7 @@ def add(self, table_id, target_sheet_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table_id | str | Table ID |
+| table_id | System.String | Table ID |
 | target_sheet_index | int | The target index of worksheet in Excel |
 
 
@@ -140,7 +140,7 @@ def add(self, table_index, target_sheet_index, original_sheet_index):
 | original_sheet_index | int | The original index of worksheet in the html |
 
 
-## add(self, table_id, target_sheet_index, original_sheet_index) {#str-int-int}
+## add(self, table_id, target_sheet_index, original_sheet_index) {#System.String-int-int}
 
 Add a HtmlTableLoadOption to the list.
 
@@ -160,7 +160,7 @@ def add(self, table_id, target_sheet_index, original_sheet_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table_id | str | Table ID |
+| table_id | System.String | Table ID |
 | target_sheet_index | int | The target index of worksheet in Excel |
 | original_sheet_index | int | The original index of worksheet in the html |
 

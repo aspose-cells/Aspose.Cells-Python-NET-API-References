@@ -28,7 +28,7 @@ def equals(self, row):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| row | [`Row`](/cells/python-net/aspose.cells/row) | another row object |
+| row | aspose.cells.Row | another row object |
 
 
 

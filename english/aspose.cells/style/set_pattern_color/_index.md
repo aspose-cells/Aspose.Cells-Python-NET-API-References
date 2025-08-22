@@ -23,7 +23,7 @@ def set_pattern_color(self, pattern, color1, color2):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pattern | [`BackgroundType`](/cells/python-net/aspose.cells/backgroundtype) | The pattern. |
+| pattern | aspose.cells.BackgroundType | The pattern. |
 | color1 | aspose.pydrawing.Color | The foreground color. |
 | color2 | aspose.pydrawing.Color | The background color. Only works when pattern is not BackgroundType.None and BackgroundType.Solid. |
 

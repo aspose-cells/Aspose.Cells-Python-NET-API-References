@@ -53,3 +53,4 @@ cells.get("A1").characters(5, 5).font.color = Color.blue
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

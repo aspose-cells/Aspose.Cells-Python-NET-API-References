@@ -3,7 +3,7 @@ title: text_to_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 960
 url: /aspose.cells/cells/text_to_columns/
 is_root: false
 ---
@@ -31,7 +31,7 @@ def text_to_columns(self, row, column, total_rows, options):
 | row | int | The row index. |
 | column | int | The column index. |
 | total_rows | int | The number of rows. |
-| options | [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions) | The split options. |
+| options | aspose.cells.TxtLoadOptions | The split options. |
 
 
 

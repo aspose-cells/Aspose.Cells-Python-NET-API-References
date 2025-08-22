@@ -23,7 +23,7 @@ def calculate(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`CalculationOptions`](/cells/python-net/aspose.cells/calculationoptions) | Options for calculation |
+| options | aspose.cells.CalculationOptions | Options for calculation |
 
 
 

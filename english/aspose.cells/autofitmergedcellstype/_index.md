@@ -3,7 +3,7 @@ title: AutoFitMergedCellsType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1730
+weight: 1830
 url: /aspose.cells/autofitmergedcellstype/
 is_root: false
 ---

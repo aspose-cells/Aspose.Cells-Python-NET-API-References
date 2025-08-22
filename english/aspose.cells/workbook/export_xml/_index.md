@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/export_xml/
 is_root: false
 ---
 
-## export_xml(self, map_name, path) {#str-str}
+## export_xml(self, map_name, path) {#System.String-System.String}
 
 Export XML data linked by the specified XML map.
 
@@ -23,8 +23,8 @@ def export_xml(self, map_name, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| map_name | str | name of the XML map that need to be exported |
-| path | str | the export path |
+| map_name | System.String | name of the XML map that need to be exported |
+| path | System.String | the export path |
 
 ### Example 
 
@@ -42,7 +42,7 @@ wb.export_xml(xmlMap.name, "output.xml")
 ```
 
 
-## export_xml(self, map_name, stream) {#str-io.RawIOBase}
+## export_xml(self, map_name, stream) {#System.String-io.RawIOBase}
 
 Export XML data.
 
@@ -57,7 +57,7 @@ def export_xml(self, map_name, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| map_name | str | name of the XML map that need to be exported |
+| map_name | System.String | name of the XML map that need to be exported |
 | stream | io.RawIOBase | the export stream |
 
 

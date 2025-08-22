@@ -3,7 +3,7 @@ title: left_cm property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /aspose.cells.drawing/scrollbar/left_cm/
 is_root: false
 ---

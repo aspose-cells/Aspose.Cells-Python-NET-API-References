@@ -8,7 +8,7 @@ url: /aspose.cells/calculationcell/set_calculated_value/
 is_root: false
 ---
 
-## set_calculated_value(self, v) {#any}
+## set_calculated_value(self, v) {#System.Object}
 
 Sets the calculated value for the cell.
 
@@ -23,7 +23,7 @@ def set_calculated_value(self, v):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| v | any |  |
+| v | System.Object |  |
 ### Remarks
 
 User can set the calculated result by this method to ignore the automatic calculation for the cell.

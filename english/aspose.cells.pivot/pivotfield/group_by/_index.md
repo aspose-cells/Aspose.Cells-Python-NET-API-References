@@ -77,7 +77,7 @@ def group_by(self, start, end, interval, new_field):
 | new_field | bool | Indicates whether adding a new field to the pivottable |
 
 
-## group_by(self, start, end, groups, interval, first_as_new_field) {#DateTime-DateTime-list-float-bool}
+## group_by(self, start, end, groups, interval, first_as_new_field) {#System.DateTime-System.DateTime-list-float-bool}
 
 Group the file by the date group types.
 
@@ -97,8 +97,8 @@ def group_by(self, start, end, groups, interval, first_as_new_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| start | DateTime | The start datetime |
-| end | DateTime | The end of datetime |
+| start | System.DateTime | The start datetime |
+| end | System.DateTime | The end of datetime |
 | groups | list | Group types |
 | interval | float | The interval |
 | first_as_new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for the first group item. |

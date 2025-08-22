@@ -8,7 +8,7 @@ url: /aspose.cells.properties/customdocumentpropertycollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 
 
@@ -23,7 +23,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 ## get(self, index) {#int}
@@ -48,3 +48,4 @@ def get(self, index):
 ### See Also
 * module [`aspose.cells.properties`](../../)
 * class [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection)
+* class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)

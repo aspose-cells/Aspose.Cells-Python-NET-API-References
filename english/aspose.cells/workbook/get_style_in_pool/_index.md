@@ -38,4 +38,5 @@ If the returned style is changed, the style of all cells(which refers to this st
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Style`](/cells/python-net/aspose.cells/style)
 * class [`Workbook`](/cells/python-net/aspose.cells/workbook)

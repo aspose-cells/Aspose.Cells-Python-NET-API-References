@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/remove_by_name/
 is_root: false
 ---
 
-## remove_by_name(self, name) {#str}
+## remove_by_name(self, name) {#System.String}
 
 Remove the module by the name
 
@@ -23,7 +23,7 @@ def remove_by_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 

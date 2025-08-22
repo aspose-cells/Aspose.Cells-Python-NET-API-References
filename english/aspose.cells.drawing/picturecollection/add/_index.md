@@ -44,7 +44,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, file_name) {#int-int-str}
+## add(self, upper_left_row, upper_left_column, file_name) {#int-int-System.String}
 
 Adds a picture to the collection.
 
@@ -66,7 +66,7 @@ def add(self, upper_left_row, upper_left_column, file_name):
 | :- | :- | :- |
 | upper_left_row | int | Upper left row index. |
 | upper_left_column | int | Upper left column index. |
-| file_name | str | Image filename. |
+| file_name | System.String | Image filename. |
 
 ### Example 
 
@@ -117,7 +117,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-str}
+## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-System.String}
 
 Adds a picture to the collection.
 
@@ -141,7 +141,7 @@ def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_co
 | upper_left_column | int | Upper left column index. |
 | lower_right_row | int | Lower right row index |
 | lower_right_column | int | Lower right column index |
-| file_name | str | Image filename. |
+| file_name | System.String | Image filename. |
 
 ### Example 
 
@@ -192,7 +192,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-str-int-int}
+## add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-System.String-int-int}
 
 Adds a picture to the collection.
 
@@ -214,7 +214,7 @@ def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_
 | :- | :- | :- |
 | upper_left_row | int | Upper left row index. |
 | upper_left_column | int | Upper left column index. |
-| file_name | str | Image filename. |
+| file_name | System.String | Image filename. |
 | width_scale | int | Scale of image width, a percentage. |
 | height_scale | int | Scale of image height, a percentage. |
 

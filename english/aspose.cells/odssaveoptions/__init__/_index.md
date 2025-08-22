@@ -38,7 +38,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS), [`SaveFormat.OTS`](/cells/python-net/aspose.cells/saveformat#OTS),<br/>[`SaveFormat.FODS`](/cells/python-net/aspose.cells/saveformat#FODS) or [`SaveFormat.SXC`](/cells/python-net/aspose.cells/saveformat#SXC),<br/>otherwise the saved format will be set as [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS) automatically. |
+| save_format | aspose.cells.SaveFormat | The file format.<br/>It should be [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS), [`SaveFormat.OTS`](/cells/python-net/aspose.cells/saveformat#OTS),<br/>[`SaveFormat.FODS`](/cells/python-net/aspose.cells/saveformat#FODS) or [`SaveFormat.SXC`](/cells/python-net/aspose.cells/saveformat#SXC),<br/>otherwise the saved format will be set as [`SaveFormat.ODS`](/cells/python-net/aspose.cells/saveformat#ODS) automatically. |
 
 
 

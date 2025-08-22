@@ -8,7 +8,7 @@ url: /aspose.cells.utility/jsonutility/import_data/
 is_root: false
 ---
 
-## import_data(, json, cells, row, column, option) {#str-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
+## import_data(, json, cells, row, column, option) {#System.String-aspose.cells.Cells-int-int-aspose.cells.utility.JsonLayoutOptions}
 
 Import the json string.
 
@@ -29,11 +29,11 @@ def import_data(json, cells, row, column, option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| json | str | The json string. |
-| cells | [`Cells`](/cells/python-net/aspose.cells/cells) | The Cells. |
+| json | System.String | The json string. |
+| cells | aspose.cells.Cells | The Cells. |
 | row | int | The row index. |
 | column | int | The column index. |
-| option | [`JsonLayoutOptions`](/cells/python-net/aspose.cells.utility/jsonlayoutoptions) | The options of import json string. |
+| option | aspose.cells.utility.JsonLayoutOptions | The options of import json string. |
 
 
 

@@ -28,10 +28,10 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`SparklineType`](/cells/python-net/aspose.cells.charts/sparklinetype) | Specifies the type of the Sparkline group. |
+| type | aspose.cells.charts.SparklineType | Specifies the type of the Sparkline group. |
 
 
-## add(self, type, data_range, is_vertical, location_range) {#aspose.cells.charts.SparklineType-str-bool-aspose.cells.CellArea}
+## add(self, type, data_range, is_vertical, location_range) {#aspose.cells.charts.SparklineType-System.String-bool-aspose.cells.CellArea}
 
 Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) with [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) to the collection.
 
@@ -51,10 +51,10 @@ def add(self, type, data_range, is_vertical, location_range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`SparklineType`](/cells/python-net/aspose.cells.charts/sparklinetype) | Specifies the type of the Sparkline group. |
-| data_range | str | Specifies the data range of the sparkline group. |
+| type | aspose.cells.charts.SparklineType | Specifies the type of the Sparkline group. |
+| data_range | System.String | Specifies the data range of the sparkline group. |
 | is_vertical | bool | Specifies whether to plot the sparklines from the data range by row or by column. |
-| location_range | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Specifies where the sparklines to be placed. |
+| location_range | aspose.cells.CellArea | Specifies where the sparklines to be placed. |
 
 
 

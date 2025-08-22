@@ -26,7 +26,7 @@ The CustomFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`set_criteria(self, filter_operator, criteria)`](/cells/python-net/aspose.cells/customfilter/set_criteria/#aspose.cells.filteroperatortype-any) | Sets the filter criteria. |
+| [`set_criteria(self, filter_operator, criteria)`](/cells/python-net/aspose.cells/customfilter/set_criteria/#aspose.cells.filteroperatortype-system.object) | Sets the filter criteria. |
 
 
 

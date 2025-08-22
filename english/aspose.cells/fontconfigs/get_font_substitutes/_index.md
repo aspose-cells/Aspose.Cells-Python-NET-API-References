@@ -8,7 +8,7 @@ url: /aspose.cells/fontconfigs/get_font_substitutes/
 is_root: false
 ---
 
-## get_font_substitutes(, original_font_name) {#str}
+## get_font_substitutes(, original_font_name) {#System.String}
 
 Returns array containing font substitute names to be used if original font is not presented.
 
@@ -29,7 +29,7 @@ def get_font_substitutes(original_font_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| original_font_name | str | originalFontName |
+| original_font_name | System.String | originalFontName |
 
 
 

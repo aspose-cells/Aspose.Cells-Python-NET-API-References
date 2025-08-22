@@ -8,7 +8,7 @@ url: /aspose.cells/license/set_license/
 is_root: false
 ---
 
-## set_license(self, license_name) {#str}
+## set_license(self, license_name) {#System.String}
 
 Licenses the component.
 
@@ -23,7 +23,7 @@ def set_license(self, license_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| license_name | str |  |
+| license_name | System.String |  |
 ### Remarks
 
 Tries to find the license in the following locations:

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/oleobject/is_same_setting/
 is_root: false
 ---
 
-## is_same_setting(self, obj) {#any}
+## is_same_setting(self, obj) {#System.Object}
 
 Returns whether the shape is same.
 
@@ -28,7 +28,7 @@ def is_same_setting(self, obj):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | any |  |
+| obj | System.Object |  |
 
 ### Example 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotfield/add_calculated_item/
 is_root: false
 ---
 
-## add_calculated_item(self, name, formula) {#str-str}
+## add_calculated_item(self, name, formula) {#System.String-System.String}
 
 Add a calculated formula item to the pivot field.
 
@@ -23,8 +23,8 @@ def add_calculated_item(self, name, formula):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The item's name. |
-| formula | str | The formula of pivot item. |
+| name | System.String | The item's name. |
+| formula | System.String | The formula of pivot item. |
 ### Remarks
 
 Only supports to add calculated item to Row/Column field.

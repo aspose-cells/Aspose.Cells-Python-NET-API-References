@@ -28,7 +28,7 @@ def is_intersect(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The range. |
+| range | aspose.cells.Range | The range. |
 ### Remarks
 
 If the two ranges area not in the same worksheet ,return false.

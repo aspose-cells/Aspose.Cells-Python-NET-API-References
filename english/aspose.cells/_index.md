@@ -98,6 +98,13 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HtmlTableLoadOptionCollection`](/cells/python-net/aspose.cells/htmltableloadoptioncollection) | Represents the table options when importing html. |
 | [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) | Encapsulates the object that represents a hyperlink. |
 | [`HyperlinkCollection`](/cells/python-net/aspose.cells/hyperlinkcollection) | Encapsulates a collection of [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) objects. |
+| [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) | Represents data table. |
+| [`ICustomParser`](/cells/python-net/aspose.cells/icustomparser) | Allows users to add their custom value parser for parsing string values to other proper cell value object. |
+| [`IExportObjectListener`](/cells/python-net/aspose.cells/iexportobjectlistener) | Allows users to manipulate objects while exporting. |
+| [`IFilePathProvider`](/cells/python-net/aspose.cells/ifilepathprovider) | Represents the exported file path provider. |
+| [`ISmartMarkerCallBack`](/cells/python-net/aspose.cells/ismartmarkercallback) | Represents callback interface of processing smartmarker. |
+| [`IStreamProvider`](/cells/python-net/aspose.cells/istreamprovider) | Represents the exported stream provider. |
+| [`IWarningCallback`](/cells/python-net/aspose.cells/iwarningcallback) | Callback interface of warning. |
 | [`IconFilter`](/cells/python-net/aspose.cells/iconfilter) | Represents icon filter. |
 | [`IconSet`](/cells/python-net/aspose.cells/iconset) | Describe the IconSet conditional formatting rule. <br/>This conditional formatting rule applies icons to cells<br/>according to their values. |
 | [`ImageSaveOptions`](/cells/python-net/aspose.cells/imagesaveoptions) | Represents image save options.<br/>For advanced usage, please use [`WorkbookRender`](/cells/python-net/aspose.cells.rendering/workbookrender) or [`SheetRender`](/cells/python-net/aspose.cells.rendering/sheetrender). |
@@ -108,8 +115,11 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions) | Represents the options of loading json files |
 | [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) | Represents the options of saving the workbook as a json file. |
 | [`License`](/cells/python-net/aspose.cells/license) | Provides methods to license the component. |
+| [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler) | Represents cells data handler for reading large spreadsheet files in light weight mode. |
+| [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider) | Represents Data provider for saving large spreadsheet files in light weight mode. |
 | [`LoadFilter`](/cells/python-net/aspose.cells/loadfilter) | Represents the filter that provides options for loading data when loading workbook from template. |
 | [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) | Represents the options of loading the file. |
+| [`MarkdownLoadOptions`](/cells/python-net/aspose.cells/markdownloadoptions) | Represents the options for loading markdown document. |
 | [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions) | Represents the save options for markdown. |
 | [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) | Represents the single TrueType font file stored in memory. |
 | [`Metered`](/cells/python-net/aspose.cells/metered) | Provides methods to set metered key. |

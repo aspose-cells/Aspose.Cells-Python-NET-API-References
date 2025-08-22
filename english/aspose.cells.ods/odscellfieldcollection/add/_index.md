@@ -8,7 +8,7 @@ url: /aspose.cells.ods/odscellfieldcollection/add/
 is_root: false
 ---
 
-## add(self, row, column, field_type, format) {#int-int-aspose.cells.ods.OdsCellFieldType-str}
+## add(self, row, column, field_type, format) {#int-int-aspose.cells.ods.OdsCellFieldType-System.String}
 
 Adds a field.
 
@@ -30,8 +30,8 @@ def add(self, row, column, field_type, format):
 | :- | :- | :- |
 | row | int | The row index. |
 | column | int | The column index. |
-| field_type | [`OdsCellFieldType`](/cells/python-net/aspose.cells.ods/odscellfieldtype) | The type of the field. |
-| format | str | The number format of the field. |
+| field_type | aspose.cells.ods.OdsCellFieldType | The type of the field. |
+| format | System.String | The number format of the field. |
 
 
 

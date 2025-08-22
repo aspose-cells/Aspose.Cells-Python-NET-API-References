@@ -53,7 +53,7 @@ def add(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area contains this validation. |
+| ca | aspose.cells.CellArea | The area contains this validation. |
 
 
 

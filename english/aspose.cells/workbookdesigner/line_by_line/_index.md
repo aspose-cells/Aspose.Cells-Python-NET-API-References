@@ -3,7 +3,7 @@ title: line_by_line property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells/workbookdesigner/line_by_line/
 is_root: false
 ---

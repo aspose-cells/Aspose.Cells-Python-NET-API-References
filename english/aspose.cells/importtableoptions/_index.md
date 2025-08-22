@@ -3,7 +3,7 @@ title: ImportTableOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 940
 url: /aspose.cells/importtableoptions/
 is_root: false
 ---

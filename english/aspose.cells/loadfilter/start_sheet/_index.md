@@ -25,7 +25,7 @@ def start_sheet(self, sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The worksheet to be loaded.<br/>There are only few properties can be used for the given worksheet object here<br/>because most data and properties have not been loaded. The available properties are:<br/>Name, Index, VisibilityType |
+| sheet | aspose.cells.Worksheet | The worksheet to be loaded.<br/>There are only few properties can be used for the given worksheet object here<br/>because most data and properties have not been loaded. The available properties are:<br/>Name, Index, VisibilityType |
 
 
 

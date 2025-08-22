@@ -3,7 +3,7 @@ title: min_data_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1200
+weight: 1220
 url: /aspose.cells/cells/min_data_row/
 is_root: false
 ---

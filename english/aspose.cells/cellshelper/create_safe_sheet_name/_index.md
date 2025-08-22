@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/create_safe_sheet_name/
 is_root: false
 ---
 
-## create_safe_sheet_name(, name_proposal) {#str}
+## create_safe_sheet_name(, name_proposal) {#System.String}
 
 Checks given sheet name and create a valid one when needed.
 If given sheet name conforms to the rules of excel sheet name, then return it.
@@ -32,10 +32,10 @@ def create_safe_sheet_name(name_proposal):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name_proposal | str | sheet name to be used |
+| name_proposal | System.String | sheet name to be used |
 
 
-## create_safe_sheet_name(, name_proposal, replace_char) {#str-char}
+## create_safe_sheet_name(, name_proposal, replace_char) {#System.String-System.Char}
 
 Checks given sheet name and create a valid one when needed.
 If given sheet name conforms to the rules of excel sheet name, then return it.
@@ -59,8 +59,8 @@ def create_safe_sheet_name(name_proposal, replace_char):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name_proposal | str | sheet name to be used |
-| replace_char | char | character which will be used to replace invalid characters in given sheet name |
+| name_proposal | System.String | sheet name to be used |
+| replace_char | System.Char | character which will be used to replace invalid characters in given sheet name |
 
 
 

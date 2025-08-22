@@ -38,7 +38,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save format, it must be xps format. |
+| save_format | aspose.cells.SaveFormat | The save format, it must be xps format. |
 ### Remarks
 
 NOTE: This constructor is now obsolete. 

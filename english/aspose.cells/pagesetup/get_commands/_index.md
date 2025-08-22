@@ -8,7 +8,7 @@ url: /aspose.cells/pagesetup/get_commands/
 is_root: false
 ---
 
-## get_commands(self, header_footer_script) {#str}
+## get_commands(self, header_footer_script) {#System.String}
 
 Gets all commands of header or footer.
 
@@ -28,7 +28,7 @@ def get_commands(self, header_footer_script):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| header_footer_script | str | The header/footer script |
+| header_footer_script | System.String | The header/footer script |
 
 
 

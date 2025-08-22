@@ -36,3 +36,4 @@ def characters(self, start_index, length):
 ### See Also
 * module [`aspose.cells.charts`](../../)
 * class [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels)
+* class [`FontSetting`](/cells/python-net/aspose.cells/fontsetting)

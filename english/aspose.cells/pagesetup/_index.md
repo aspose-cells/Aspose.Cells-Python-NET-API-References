@@ -3,7 +3,7 @@ title: PageSetup class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1070
+weight: 1170
 url: /aspose.cells/pagesetup/
 is_root: false
 ---
@@ -75,17 +75,17 @@ The PageSetup type exposes the following members:
 | [`custom_paper_size(self, width, height)`](/cells/python-net/aspose.cells/pagesetup/custom_paper_size/#float-float) | Sets the custom paper size, in unit of inches. |
 | [`clear_header_footer(self)`](/cells/python-net/aspose.cells/pagesetup/clear_header_footer/#) | Clears header and footer setting. |
 | [`get_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_header/#int) | Gets a script formatting the header of an Excel file. |
-| [`get_commands(self, header_footer_script)`](/cells/python-net/aspose.cells/pagesetup/get_commands/#str) | Gets all commands of header or footer. |
+| [`get_commands(self, header_footer_script)`](/cells/python-net/aspose.cells/pagesetup/get_commands/#system.string) | Gets all commands of header or footer. |
 | [`get_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_footer/#int) | Gets a script formatting the footer of an Excel file. |
-| [`set_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_header/#int-str) | Sets a script formatting the header of an Excel file. |
-| [`set_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_footer/#int-str) | Sets a script formatting the footer of an Excel file. |
-| [`set_even_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_header/#int-str) | Sets a script formatting the even page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
+| [`set_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_header/#int-system.string) | Sets a script formatting the header of an Excel file. |
+| [`set_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_footer/#int-system.string) | Sets a script formatting the footer of an Excel file. |
+| [`set_even_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_header/#int-system.string) | Sets a script formatting the even page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
 | [`get_even_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_even_header/#int) | Gets a script formatting the even header of an Excel file. |
-| [`set_even_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_footer/#int-str) | Sets a script formatting the even page footer of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
+| [`set_even_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_even_footer/#int-system.string) | Sets a script formatting the even page footer of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffOddEven is true. |
 | [`get_even_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_even_footer/#int) | Gets a script formatting the even footer of an Excel file. |
-| [`set_first_page_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_header/#int-str) | Sets a script formatting the first page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffFirst is true. |
+| [`set_first_page_header(self, section, header_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_header/#int-system.string) | Sets a script formatting the first page header of an Excel file.<br/>Only effect in Excel 2007 when IsHFDiffFirst is true. |
 | [`get_first_page_header(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_first_page_header/#int) | Gets a script formatting the first page header of an Excel file. |
-| [`set_first_page_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_footer/#int-str) | Sets a script formatting the first page footer of an Excel file. |
+| [`set_first_page_footer(self, section, footer_script)`](/cells/python-net/aspose.cells/pagesetup/set_first_page_footer/#int-system.string) | Sets a script formatting the first page footer of an Excel file. |
 | [`get_first_page_footer(self, section)`](/cells/python-net/aspose.cells/pagesetup/get_first_page_footer/#int) | Gets a script formatting the first page footer of an Excel file. |
 | [`set_header_picture(self, section, header_picture)`](/cells/python-net/aspose.cells/pagesetup/set_header_picture/#int-bytes) | Sets an image in the header of a worksheet. |
 | [`set_footer_picture(self, section, footer_picture)`](/cells/python-net/aspose.cells/pagesetup/set_footer_picture/#int-bytes) | Sets an image in the footer of a worksheet. |

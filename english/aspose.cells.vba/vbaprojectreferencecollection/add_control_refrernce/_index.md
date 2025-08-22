@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/
 is_root: false
 ---
 
-## add_control_refrernce(self, name, libid, twiddledlibid, extended_libid) {#str-str-str-str}
+## add_control_refrernce(self, name, libid, twiddledlibid, extended_libid) {#System.String-System.String-System.String-System.String}
 
 Add a reference to a twiddled type library and its extended type library.
 
@@ -28,10 +28,10 @@ def add_control_refrernce(self, name, libid, twiddledlibid, extended_libid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of reference. |
-| libid | str | The identifier of an Automation type library. |
-| twiddledlibid | str | The identifier of a twiddled type library |
-| extended_libid | str | The identifier of an extended type library |
+| name | System.String | The name of reference. |
+| libid | System.String | The identifier of an Automation type library. |
+| twiddledlibid | System.String | The identifier of a twiddled type library |
+| extended_libid | System.String | The identifier of an extended type library |
 
 
 

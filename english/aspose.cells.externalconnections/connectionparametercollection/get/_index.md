@@ -8,7 +8,7 @@ url: /aspose.cells.externalconnections/connectionparametercollection/get/
 is_root: false
 ---
 
-## get(self, conn_param_name) {#str}
+## get(self, conn_param_name) {#System.String}
 
 Gets the [`ConnectionParameter`](/cells/python-net/aspose.cells.externalconnections/connectionparameter) element with the specified name.
 
@@ -28,7 +28,7 @@ def get(self, conn_param_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| conn_param_name | str | connection parameter name |
+| conn_param_name | System.String | connection parameter name |
 
 
 

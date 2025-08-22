@@ -3,7 +3,7 @@ title: left property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells.drawing/listbox/left/
 is_root: false
 ---

@@ -23,7 +23,7 @@ def add(self, digital_signature):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| digital_signature | [`DigitalSignature`](/cells/python-net/aspose.cells.digitalsignatures/digitalsignature) | Digital signature in collection. |
+| digital_signature | aspose.cells.digitalsignatures.DigitalSignature | Digital signature in collection. |
 
 
 

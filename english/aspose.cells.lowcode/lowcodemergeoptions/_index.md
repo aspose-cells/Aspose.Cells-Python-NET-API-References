@@ -26,6 +26,7 @@ The LowCodeMergeOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [save_options](/cells/python-net/aspose.cells.lowcode/lowcodemergeoptions/save_options) | Save options for saving the split parts. |
+| [load_options_provider](/cells/python-net/aspose.cells.lowcode/lowcodemergeoptions/load_options_provider) | Provider of save options for saving the split parts. |
 
 
 
