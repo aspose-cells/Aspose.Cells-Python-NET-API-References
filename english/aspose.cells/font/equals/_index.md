@@ -28,7 +28,7 @@ def equals(self, font):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font | [`Font`](/cells/python-net/aspose.cells/font) | Compared font object. |
+| font | aspose.cells.Font | Compared font object. |
 
 
 

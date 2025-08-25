@@ -26,7 +26,7 @@ def get(self, index):
 | index | int |  |
 
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Add API for Python Via .Net.since this[string] is unsupported
 
@@ -46,10 +46,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the ListColumn |
+| name | System.String | The name of the ListColumn |
 
 
 
 ### See Also
 * module [`aspose.cells.tables`](../../)
+* class [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn)
 * class [`ListColumnCollection`](/cells/python-net/aspose.cells.tables/listcolumncollection)

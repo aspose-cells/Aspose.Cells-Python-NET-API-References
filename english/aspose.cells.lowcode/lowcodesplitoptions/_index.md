@@ -27,6 +27,7 @@ The LowCodeSplitOptions type exposes the following members:
 | :- | :- |
 | [load_options](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/load_options) | Load options for loading the spreadsheet that will be split. |
 | [save_options](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/save_options) | Save options for saving the split parts. |
+| [save_options_provider](/cells/python-net/aspose.cells.lowcode/lowcodesplitoptions/save_options_provider) | Provider of save options for saving the split parts. |
 
 
 

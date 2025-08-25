@@ -23,7 +23,7 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The cell style. |
+| style | aspose.cells.Style | The cell style. |
 ### Remarks
 
 If the border settings are changed, the border of adjust cells will be updated too.
@@ -43,7 +43,7 @@ def set_style(self, style, explicit_flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The cell style. |
+| style | aspose.cells.Style | The cell style. |
 | explicit_flag | bool | True, only overwriting formatting which is explicitly set. |
 
 
@@ -62,8 +62,8 @@ def set_style(self, style, flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The cell style. |
-| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | The style flag. |
+| style | aspose.cells.Style | The cell style. |
+| flag | aspose.cells.StyleFlag | The style flag. |
 
 
 

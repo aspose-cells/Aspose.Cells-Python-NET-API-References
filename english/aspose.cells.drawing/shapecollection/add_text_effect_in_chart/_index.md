@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_text_effect_in_chart/
 is_root: false
 ---
 
-## add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, font_italic, top, left, height, width) {#aspose.cells.drawing.MsoPresetTextEffect-str-str-int-bool-bool-int-int-int-int}
+## add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, font_italic, top, left, height, width) {#aspose.cells.drawing.MsoPresetTextEffect-System.String-System.String-int-bool-bool-int-int-int-int}
 
 Inserts a WordArt object to the chart
 
@@ -28,9 +28,9 @@ def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, fon
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| effect | [`MsoPresetTextEffect`](/cells/python-net/aspose.cells.drawing/msopresettexteffect) | The mso preset text effect type. |
-| text | str | The WordArt text. |
-| font_name | str | The font name. |
+| effect | aspose.cells.drawing.MsoPresetTextEffect | The mso preset text effect type. |
+| text | System.String | The WordArt text. |
+| font_name | System.String | The font name. |
 | size | int | The font size |
 | font_bold | bool | Indicates whether font is bold. |
 | font_italic | bool | Indicates whether font is italic. |
@@ -43,4 +43,5 @@ def add_text_effect_in_chart(self, effect, text, font_name, size, font_bold, fon
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

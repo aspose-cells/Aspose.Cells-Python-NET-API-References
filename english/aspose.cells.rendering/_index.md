@@ -15,6 +15,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | :- | :- |
 | [`CustomRenderSettings`](/cells/python-net/aspose.cells.rendering/customrendersettings) | Represents custom settings during rendering. |
 | [`DrawObject`](/cells/python-net/aspose.cells.rendering/drawobject) | DrawObject will be initialized and returned when rendering. |
+| [`IPageSavingCallback`](/cells/python-net/aspose.cells.rendering/ipagesavingcallback) | Control/Indicate progress of page saving process. |
 | [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions) | Allows to specify options when rendering worksheet to images, printing worksheet or rendering chart to image. |
 | [`PageEndSavingArgs`](/cells/python-net/aspose.cells.rendering/pageendsavingargs) | Info for a page ends saving process. |
 | [`PageSavingArgs`](/cells/python-net/aspose.cells.rendering/pagesavingargs) | Info for a page saving process. |

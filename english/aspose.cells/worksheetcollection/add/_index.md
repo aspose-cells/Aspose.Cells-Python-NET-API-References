@@ -48,7 +48,7 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`SheetType`](/cells/python-net/aspose.cells/sheettype) | Worksheet type. |
+| type | aspose.cells.SheetType | Worksheet type. |
 
 ### Example 
 
@@ -73,7 +73,7 @@ chart.n_series.add("Sheet1!C2:C6", True)
 ```
 
 
-## add(self, sheet_name) {#str}
+## add(self, sheet_name) {#System.String}
 
 Adds a worksheet to the collection.
 
@@ -93,7 +93,7 @@ def add(self, sheet_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet_name | str | Worksheet name |
+| sheet_name | System.String | Worksheet name |
 
 
 

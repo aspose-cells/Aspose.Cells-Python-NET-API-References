@@ -28,7 +28,7 @@ def to_json(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) | The options of converting |
+| options | aspose.cells.JsonSaveOptions | The options of converting |
 
 
 

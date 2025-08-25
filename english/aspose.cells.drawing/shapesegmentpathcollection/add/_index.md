@@ -28,7 +28,7 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ShapePathType`](/cells/python-net/aspose.cells.drawing/shapepathtype) | The path type. |
+| type | aspose.cells.drawing.ShapePathType | The path type. |
 
 
 

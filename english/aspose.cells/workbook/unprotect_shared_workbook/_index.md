@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/unprotect_shared_workbook/
 is_root: false
 ---
 
-## unprotect_shared_workbook(self, password) {#str}
+## unprotect_shared_workbook(self, password) {#System.String}
 
 Unprotects a shared workbook.
 
@@ -23,7 +23,7 @@ def unprotect_shared_workbook(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | Password to unprotect the workbook. |
+| password | System.String | Password to unprotect the workbook. |
 
 
 

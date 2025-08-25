@@ -24,7 +24,7 @@ def dynamic_filter(self, field_index, dynamic_filter_type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | The integer offset of the field on which you want to base the filter <br/>(from the left of the list; the leftmost field is field 0). |
-| dynamic_filter_type | [`DynamicFilterType`](/cells/python-net/aspose.cells/dynamicfiltertype) | Dynamic filter type. |
+| dynamic_filter_type | aspose.cells.DynamicFilterType | Dynamic filter type. |
 
 
 

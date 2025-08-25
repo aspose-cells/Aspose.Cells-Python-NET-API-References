@@ -38,7 +38,7 @@ def auto_fit_columns(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitting options |
+| options | aspose.cells.AutoFitterOptions | The auto fitting options |
 
 
 ## auto_fit_columns(self, first_column, last_column) {#int-int}
@@ -79,7 +79,7 @@ def auto_fit_columns(self, first_column, last_column, options):
 | :- | :- | :- |
 | first_column | int | First column index. |
 | last_column | int | Last column index. |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitting options |
+| options | aspose.cells.AutoFitterOptions | The auto fitting options |
 ### Remarks
 
 AutoFitColumn is an imprecise function.
@@ -126,7 +126,7 @@ def auto_fit_columns(self, first_row, first_column, last_row, last_column, optio
 | first_column | int | First column index. |
 | last_row | int | Last row index. |
 | last_column | int | Last column index. |
-| options | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | The auto fitting options |
+| options | aspose.cells.AutoFitterOptions | The auto fitting options |
 ### Remarks
 
 AutoFitColumn is an imprecise function.

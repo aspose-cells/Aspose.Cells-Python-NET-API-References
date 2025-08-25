@@ -8,7 +8,7 @@ url: /aspose.cells/validation/set_formula2/
 is_root: false
 ---
 
-## set_formula2(self, formula, is_r1c1, is_local) {#str-bool-bool}
+## set_formula2(self, formula, is_r1c1, is_local) {#System.String-bool-bool}
 
 Sets the value or expression associated with this validation.
 
@@ -23,7 +23,7 @@ def set_formula2(self, formula, is_r1c1, is_local):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | The value or expression associated with this format condition. |
+| formula | System.String | The value or expression associated with this format condition. |
 | is_r1c1 | bool | Whether the formula is R1C1 formula. |
 | is_local | bool | Whether the formula is locale formatted. |
 

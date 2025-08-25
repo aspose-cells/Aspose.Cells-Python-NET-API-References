@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/textboxcollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox) element by the name.
 
@@ -28,7 +28,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the text box. |
+| name | System.String | The name of the text box. |
 
 
 

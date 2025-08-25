@@ -28,6 +28,7 @@ The BoxEquationNode type exposes the following members:
 | [length](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/length) |  |
 | [font](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/font) |  |
 | [text_options](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/text_options) |  |
+| [parent_node](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/parent_node) |  |
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/equation_type) |  |
 
 
@@ -35,8 +36,8 @@ The BoxEquationNode type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add_child(self, equation_type)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
-| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/add_child/#equationnode) |  |
-| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_child/#equationnode) |  |
+| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/add_child/#aspose.cells.drawing.equations.equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_child/#aspose.cells.drawing.equations.equationnode) |  |
 | [`remove_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_child/#int) |  |
 | [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
 | [`to_la_te_x(self)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/to_la_te_x/#) |  |
@@ -47,7 +48,7 @@ The BoxEquationNode type exposes the following members:
 | [`get_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/get_child/#int) |  |
 | [`remove(self)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove/#) |  |
 | [`remove_all_children(self)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/remove_all_children/#) |  |
-| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/boxequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-aspose.cells.drawing.equations.equationnode) |  |
 
 
 

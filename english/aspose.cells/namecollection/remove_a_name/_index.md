@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/remove_a_name/
 is_root: false
 ---
 
-## remove_a_name(self, text) {#str}
+## remove_a_name(self, text) {#System.String}
 
 Remove the name.
 
@@ -23,7 +23,7 @@ def remove_a_name(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The name text. |
+| text | System.String | The name text. |
 
 
 

@@ -23,8 +23,8 @@ def __init__(self, worksheet, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| worksheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | Indicate which spreadsheet to be rendered. |
-| options | [`ImageOrPrintOptions`](/cells/python-net/aspose.cells.rendering/imageorprintoptions) | ImageOrPrintOptions contains some property of output image |
+| worksheet | aspose.cells.Worksheet | Indicate which spreadsheet to be rendered. |
+| options | aspose.cells.rendering.ImageOrPrintOptions | ImageOrPrintOptions contains some property of output image |
 
 
 

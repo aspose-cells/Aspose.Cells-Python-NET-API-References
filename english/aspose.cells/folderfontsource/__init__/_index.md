@@ -8,7 +8,7 @@ url: /aspose.cells/folderfontsource/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, folder_path, scan_subfolders) {#str-bool}
+## \_\_init\_\_(self, folder_path, scan_subfolders) {#System.String-bool}
 
 Ctor.
 
@@ -23,7 +23,7 @@ def __init__(self, folder_path, scan_subfolders):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| folder_path | str | path to fonts folder |
+| folder_path | System.String | path to fonts folder |
 | scan_subfolders | bool | Determines whether or not to scan subfolders. |
 
 

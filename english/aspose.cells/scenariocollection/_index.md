@@ -3,7 +3,7 @@ title: ScenarioCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1270
+weight: 1370
 url: /aspose.cells/scenariocollection/
 is_root: false
 ---
@@ -34,7 +34,7 @@ The ScenarioCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/scenariocollection/last_index_of/#aspose.cells.scenario-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`add(self, name)`](/cells/python-net/aspose.cells/scenariocollection/add/#str) | Adds a scenario. |
+| [`add(self, name)`](/cells/python-net/aspose.cells/scenariocollection/add/#system.string) | Adds a scenario. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/scenariocollection/binary_search/#aspose.cells.scenario) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

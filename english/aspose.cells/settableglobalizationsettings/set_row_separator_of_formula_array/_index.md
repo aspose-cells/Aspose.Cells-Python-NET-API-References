@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_row_separator_of_formula_ar
 is_root: false
 ---
 
-## set_row_separator_of_formula_array(self, c) {#char}
+## set_row_separator_of_formula_array(self, c) {#System.Char}
 
 Sets the separator for rows in array data in formula.
 
@@ -23,7 +23,7 @@ def set_row_separator_of_formula_array(self, c):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| c | char | the specified separator |
+| c | System.Char | the specified separator |
 
 
 

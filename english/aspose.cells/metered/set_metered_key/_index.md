@@ -8,7 +8,7 @@ url: /aspose.cells/metered/set_metered_key/
 is_root: false
 ---
 
-## set_metered_key(self, public_key, private_key) {#str-str}
+## set_metered_key(self, public_key, private_key) {#System.String-System.String}
 
 Sets metered public and private key.
 If you purchase metered license, when start application, this API should be called, normally, this is enough. 
@@ -26,8 +26,8 @@ def set_metered_key(self, public_key, private_key):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| public_key | str | public key |
-| private_key | str | private key |
+| public_key | System.String | public key |
+| private_key | System.String | private key |
 
 
 

@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1210
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -38,6 +38,7 @@ The PdfSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/pdfsaveoptions/sort_names) |  |
 | [sort_external_names](/cells/python-net/aspose.cells/pdfsaveoptions/sort_external_names) |  |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/pdfsaveoptions/refresh_chart_cache) |  |
+| [warning_callback](/cells/python-net/aspose.cells/pdfsaveoptions/warning_callback) |  |
 | [check_excel_restriction](/cells/python-net/aspose.cells/pdfsaveoptions/check_excel_restriction) |  |
 | [update_smart_art](/cells/python-net/aspose.cells/pdfsaveoptions/update_smart_art) |  |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/pdfsaveoptions/encrypt_document_properties) |  |

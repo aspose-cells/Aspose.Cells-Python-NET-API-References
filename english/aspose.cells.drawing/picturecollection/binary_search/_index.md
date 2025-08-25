@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Picture`](/cells/python-net/aspose.cells.drawing/picture) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.drawing.Picture | The System.Object to locate. The value can be null. |
 
 
 

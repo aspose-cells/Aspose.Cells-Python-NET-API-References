@@ -3,7 +3,7 @@ title: RenderingWatermark class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.rendering/renderingwatermark/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The RenderingWatermark type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, text, rendering_font)`](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#str-aspose.cells.rendering.renderingfont) | Creates instance of text watermark. |
+| [`__init__(self, text, rendering_font)`](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#system.string-aspose.cells.rendering.renderingfont) | Creates instance of text watermark. |
 | [`__init__(self, image_data)`](/cells/python-net/aspose.cells.rendering/renderingwatermark/__init__/#bytes) | Creates instance of image watermark. |
 
 

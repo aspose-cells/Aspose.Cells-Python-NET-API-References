@@ -3,7 +3,7 @@ title: window_left property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 600
 url: /aspose.cells/workbooksettings/window_left/
 is_root: false
 ---

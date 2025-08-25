@@ -28,8 +28,8 @@ def set_border(self, border_type, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
-| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
+| border_type | aspose.cells.BorderType | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
+| border_style | aspose.cells.CellBorderType | The style of the border. |
 | border_color | aspose.pydrawing.Color | The color of the border. |
 
 
@@ -53,9 +53,9 @@ def set_border(self, border_type, border_style, border_color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
-| border_style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | The style of the border. |
-| border_color | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | The color of the border. |
+| border_type | aspose.cells.BorderType | The border(s) to be set, can be combination of [`BorderType`](/cells/python-net/aspose.cells/bordertype). |
+| border_style | aspose.cells.CellBorderType | The style of the border. |
+| border_color | aspose.cells.CellsColor | The color of the border. |
 
 
 

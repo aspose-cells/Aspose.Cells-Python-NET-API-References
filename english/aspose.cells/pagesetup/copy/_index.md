@@ -23,8 +23,8 @@ def copy(self, source, copy_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`PageSetup`](/cells/python-net/aspose.cells/pagesetup) | The source. |
-| copy_options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy options. |
+| source | aspose.cells.PageSetup | The source. |
+| copy_options | aspose.cells.CopyOptions | The copy options. |
 
 
 

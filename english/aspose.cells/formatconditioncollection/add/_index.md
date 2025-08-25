@@ -8,7 +8,7 @@ url: /aspose.cells/formatconditioncollection/add/
 is_root: false
 ---
 
-## add(self, cell_area, type, operator_type, formula1, formula2) {#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
+## add(self, cell_area, type, operator_type, formula1, formula2) {#aspose.cells.CellArea-aspose.cells.FormatConditionType-aspose.cells.OperatorType-System.String-System.String}
 
 Adds a formatting condition and effected cell rang to the FormatConditions
 The FormatConditions can contain up to three conditional formats.
@@ -30,11 +30,11 @@ def add(self, cell_area, type, operator_type, formula1, formula2):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Conditional formatted cell range. |
-| type | [`FormatConditionType`](/cells/python-net/aspose.cells/formatconditiontype) | Type of conditional formatting.It could be one of the members of FormatConditionType. |
-| operator_type | [`OperatorType`](/cells/python-net/aspose.cells/operatortype) | Comparison operator.It could be one of the members of OperatorType. |
-| formula1 | str | The value or expression associated with conditional formatting. |
-| formula2 | str | The value or expression associated with conditional formatting |
+| cell_area | aspose.cells.CellArea | Conditional formatted cell range. |
+| type | aspose.cells.FormatConditionType | Type of conditional formatting.It could be one of the members of FormatConditionType. |
+| operator_type | aspose.cells.OperatorType | Comparison operator.It could be one of the members of OperatorType. |
+| formula1 | System.String | The value or expression associated with conditional formatting. |
+| formula2 | System.String | The value or expression associated with conditional formatting |
 
 
 

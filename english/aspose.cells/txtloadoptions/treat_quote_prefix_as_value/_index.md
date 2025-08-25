@@ -3,7 +3,7 @@ title: treat_quote_prefix_as_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 440
 url: /aspose.cells/txtloadoptions/treat_quote_prefix_as_value/
 is_root: false
 ---

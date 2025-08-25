@@ -28,7 +28,7 @@ def is_grouped_by(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`PivotGroupByType`](/cells/python-net/aspose.cells.pivot/pivotgroupbytype) | The group type |
+| type | aspose.cells.pivot.PivotGroupByType | The group type |
 
 
 

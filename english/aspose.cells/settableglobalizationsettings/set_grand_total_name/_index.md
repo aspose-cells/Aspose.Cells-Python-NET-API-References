@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_grand_total_name/
 is_root: false
 ---
 
-## set_grand_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-str}
+## set_grand_total_name(self, function_type, name) {#aspose.cells.ConsolidationFunction-System.String}
 
 Sets the grand total name of specific function.
 
@@ -23,8 +23,8 @@ def set_grand_total_name(self, function_type, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| function_type | [`ConsolidationFunction`](/cells/python-net/aspose.cells/consolidationfunction) | The function type. |
-| name | str | The grand total name of the function. |
+| function_type | aspose.cells.ConsolidationFunction | The function type. |
+| name | System.String | The grand total name of the function. |
 
 
 

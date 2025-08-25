@@ -3,7 +3,7 @@ title: set_view_column_width_pixel method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 930
 url: /aspose.cells/cells/set_view_column_width_pixel/
 is_root: false
 ---

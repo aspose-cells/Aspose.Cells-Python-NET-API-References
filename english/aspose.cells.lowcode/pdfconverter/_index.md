@@ -19,7 +19,7 @@ The PdfConverter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`process(, template_file, result_file)`](/cells/python-net/aspose.cells.lowcode/pdfconverter/process/#str-str) | Converts given template file to pdf. |
+| [`process(, template_file, result_file)`](/cells/python-net/aspose.cells.lowcode/pdfconverter/process/#system.string-system.string) | Converts given template file to pdf. |
 | [`process(, load_options, save_options)`](/cells/python-net/aspose.cells.lowcode/pdfconverter/process/#aspose.cells.lowcode.lowcodeloadoptions-aspose.cells.lowcode.lowcodesaveoptions) | Converts template file to pdf |
 
 

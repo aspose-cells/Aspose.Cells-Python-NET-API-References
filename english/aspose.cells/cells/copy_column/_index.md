@@ -23,7 +23,7 @@ def copy_column(self, source_cells, source_column_index, destination_column_inde
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 

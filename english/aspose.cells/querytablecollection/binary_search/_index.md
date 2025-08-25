@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`QueryTable`](/cells/python-net/aspose.cells/querytable) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.QueryTable | The System.Object to locate. The value can be null. |
 
 
 

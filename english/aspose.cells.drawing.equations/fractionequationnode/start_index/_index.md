@@ -3,7 +3,7 @@ title: start_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.drawing.equations/fractionequationnode/start_index/
 is_root: false
 ---

@@ -23,7 +23,7 @@ def set_data_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) |  |
+| style | aspose.cells.Style |  |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_local_built_in_name/
 is_root: false
 ---
 
-## get_local_built_in_name(self, standard_name) {#str}
+## get_local_built_in_name(self, standard_name) {#System.String}
 
 Gets the locale dependent text for built-in Name according to given standard text.
 
@@ -28,7 +28,7 @@ def get_local_built_in_name(self, standard_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| standard_name | str | Standard(en-US locale) text of built-in Name. |
+| standard_name | System.String | Standard(en-US locale) text of built-in Name. |
 
 
 

@@ -23,7 +23,7 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The Style object. |
+| style | aspose.cells.Style | The Style object. |
 
 
 ## set_style(self, style, explicit_flag) {#aspose.cells.Style-bool}
@@ -41,7 +41,7 @@ def set_style(self, style, explicit_flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The cell style. |
+| style | aspose.cells.Style | The cell style. |
 | explicit_flag | bool | True, only overwriting formatting which is explicitly set. |
 
 

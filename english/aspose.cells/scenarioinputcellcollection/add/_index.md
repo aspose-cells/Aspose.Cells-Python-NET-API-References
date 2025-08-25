@@ -8,7 +8,7 @@ url: /aspose.cells/scenarioinputcellcollection/add/
 is_root: false
 ---
 
-## add(self, row, column, value) {#int-int-str}
+## add(self, row, column, value) {#int-int-System.String}
 
 Adds an input cell.
 
@@ -30,7 +30,7 @@ def add(self, row, column, value):
 | :- | :- | :- |
 | row | int | The row index of input cell. |
 | column | int | The column index of input cell. |
-| value | str | The value of input cell. |
+| value | System.String | The value of input cell. |
 
 
 

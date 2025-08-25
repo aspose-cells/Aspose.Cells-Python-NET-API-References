@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.FormatConditionCollection | The System.Object to locate. The value can be null. |
 
 
 

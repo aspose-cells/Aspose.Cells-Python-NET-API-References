@@ -37,4 +37,5 @@ if groupShape != None:
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)
 * class [`SmartArtShape`](/cells/python-net/aspose.cells.drawing/smartartshape)

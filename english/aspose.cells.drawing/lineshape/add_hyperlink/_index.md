@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/lineshape/add_hyperlink/
 is_root: false
 ---
 
-## add_hyperlink(self, address) {#str}
+## add_hyperlink(self, address) {#System.String}
 
 Adds a hyperlink to the shape.
 
@@ -28,7 +28,7 @@ def add_hyperlink(self, address):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| address | str | Address of the hyperlink. |
+| address | System.String | Address of the hyperlink. |
 
 ### Example 
 
@@ -43,4 +43,5 @@ hyperlink = shape.add_hyperlink("https://www.aspose.com/")
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink)
 * class [`LineShape`](/cells/python-net/aspose.cells.drawing/lineshape)

@@ -29,7 +29,7 @@ def is_modified(self, modify_flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| modify_flag | [`StyleModifyFlag`](/cells/python-net/aspose.cells/stylemodifyflag) | Style modified flags |
+| modify_flag | aspose.cells.StyleModifyFlag | Style modified flags |
 
 
 

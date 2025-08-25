@@ -8,7 +8,7 @@ url: /aspose.cells.lowcode/lowcodesaveoptionsproviderofplaceholders/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, path_template) {#str}
+## \_\_init\_\_(self, path_template) {#System.String}
 
 Instantiates an instance to provide save options according to specified templates.
 
@@ -23,7 +23,7 @@ def __init__(self, path_template):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path_template | str | The template of the resultant file path. |
+| path_template | System.String | The template of the resultant file path. |
 ### Remarks
 
 The supported placeholders in file path template:

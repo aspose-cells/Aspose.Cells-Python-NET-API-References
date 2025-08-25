@@ -68,7 +68,7 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`ShapeGuideCollection`](/cells/python-net/aspose.cells.drawing/shapeguidecollection) | Encapsulates a collection of shape guide |
 | [`ShapePath`](/cells/python-net/aspose.cells.drawing/shapepath) | Represents a creation path consisting of a series of moves, lines and curves that when combined will form a geometric shape. |
 | [`ShapePathCollection`](/cells/python-net/aspose.cells.drawing/shapepathcollection) | Represents path collection information in NotPrimitive autoshape |
-| [`ShapePathPoint`](/cells/python-net/aspose.cells.drawing/shapepathpoint) | Represents an x-y coordinate within the path coordinate space. |
+| [`ShapePathPoint`](/cells/python-net/aspose.cells.drawing/shapepathpoint) | Specify position coordinates or angle markers.<br/>Position coordinates represent the coordinates of a path in a coordinate space (e.g. X/Y). <br/>Angle markers indicate angular changes in a path (e.g. the start and swing angles of an arc). |
 | [`ShapePathPointCollection`](/cells/python-net/aspose.cells.drawing/shapepathpointcollection) | Represents all shape path points. |
 | [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection) | This class specifies the visual shape properties for a chart element or shape. |
 | [`ShapeSegmentPath`](/cells/python-net/aspose.cells.drawing/shapesegmentpath) | Represents a segment path in a path of the freeform. |
@@ -132,6 +132,7 @@ The **Aspose.Cells.Drawing**  namespace provides classes that allow to create an
 | [`SelectionType`](/cells/python-net/aspose.cells.drawing/selectiontype) | The selection type of list box. |
 | [`ShapeAnchorType`](/cells/python-net/aspose.cells.drawing/shapeanchortype) | Represents the anchor type. |
 | [`ShapeLockType`](/cells/python-net/aspose.cells.drawing/shapelocktype) | Represents type of the property to be locked. |
+| [`ShapePathPointValueType`](/cells/python-net/aspose.cells.drawing/shapepathpointvaluetype) | Specifies the value type of [`ShapePathPoint`](/cells/python-net/aspose.cells.drawing/shapepathpoint) object |
 | [`ShapePathType`](/cells/python-net/aspose.cells.drawing/shapepathtype) | Represents path segment type. |
 | [`SignatureType`](/cells/python-net/aspose.cells.drawing/signaturetype) | Specifies the signature type. |
 | [`TextOverflowType`](/cells/python-net/aspose.cells.drawing/textoverflowtype) | Represents the way the text vertical or horizontal overflow. |

@@ -23,7 +23,7 @@ def combine(self, second_workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| second_workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Another Workbook object. |
+| second_workbook | aspose.cells.Workbook | Another Workbook object. |
 ### Remarks
 
 Merge Excel, ODS , CSV and other files to one file.

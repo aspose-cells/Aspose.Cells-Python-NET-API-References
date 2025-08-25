@@ -28,7 +28,7 @@ def get_image_data(self, cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell | [`Cell`](/cells/python-net/aspose.cells/cell) | The setting of cell. |
+| cell | aspose.cells.Cell | The setting of cell. |
 
 
 

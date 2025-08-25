@@ -8,7 +8,7 @@ url: /aspose.cells.properties/contenttypepropertycollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the content type property by the property name.
 
@@ -28,10 +28,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The property name. |
+| name | System.String | The property name. |
 
 
 
 ### See Also
 * module [`aspose.cells.properties`](../../)
+* class [`ContentTypeProperty`](/cells/python-net/aspose.cells.properties/contenttypeproperty)
 * class [`ContentTypePropertyCollection`](/cells/python-net/aspose.cells.properties/contenttypepropertycollection)

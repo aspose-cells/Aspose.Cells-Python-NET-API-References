@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`DataModelRelationship`](/cells/python-net/aspose.cells.datamodels/datamodelrelationship) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.datamodels.DataModelRelationship | The System.Object to locate. The value can be null. |
 
 
 

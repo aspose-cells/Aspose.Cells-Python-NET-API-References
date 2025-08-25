@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/add_calculated_field/
 is_root: false
 ---
 
-## add_calculated_field(self, name, formula) {#str-str}
+## add_calculated_field(self, name, formula) {#System.String-System.String}
 
 Adds a calculated field to pivot field and drag it to data area.
 
@@ -23,11 +23,11 @@ def add_calculated_field(self, name, formula):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the calculated field |
-| formula | str | The formula of the calculated field. |
+| name | System.String | The name of the calculated field |
+| formula | System.String | The formula of the calculated field. |
 
 
-## add_calculated_field(self, name, formula, drag_to_data_area) {#str-str-bool}
+## add_calculated_field(self, name, formula, drag_to_data_area) {#System.String-System.String-bool}
 
 Adds a calculated field to pivot field.
 
@@ -42,8 +42,8 @@ def add_calculated_field(self, name, formula, drag_to_data_area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the calculated field |
-| formula | str | The formula of the calculated field. |
+| name | System.String | The name of the calculated field |
+| formula | System.String | The formula of the calculated field. |
 | drag_to_data_area | bool | True,drag this field to data area immediately |
 
 

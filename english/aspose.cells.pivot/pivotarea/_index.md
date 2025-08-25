@@ -38,7 +38,7 @@ The PivotArea type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`select_field(self, axis_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivotarea/select_field/#aspose.cells.pivot.pivotfieldtype-str) | Select a field in the region as an area. |
+| [`select_field(self, axis_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivotarea/select_field/#aspose.cells.pivot.pivotfieldtype-system.string) | Select a field in the region as an area. |
 | [`select_field(self, axis_type, field)`](/cells/python-net/aspose.cells.pivot/pivotarea/select_field/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Select a field in the region as an area. |
 | [`select(self, axis_type, field_position, selection_type)`](/cells/python-net/aspose.cells.pivot/pivotarea/select/#aspose.cells.pivot.pivotfieldtype-int-aspose.cells.pivot.pivottableselectiontype) | Select the area with filters. |
 | [`get_cell_areas(self)`](/cells/python-net/aspose.cells.pivot/pivotarea/get_cell_areas/#) | Gets cell areas of this pivot area. |

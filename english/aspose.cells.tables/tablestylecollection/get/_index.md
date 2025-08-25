@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the table style by the name.
 
@@ -28,10 +28,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The table style name. |
+| name | System.String | The table style name. |
 
 
 
 ### See Also
 * module [`aspose.cells.tables`](../../)
+* class [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle)
 * class [`TableStyleCollection`](/cells/python-net/aspose.cells.tables/tablestylecollection)

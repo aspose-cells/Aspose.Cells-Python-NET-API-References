@@ -37,4 +37,5 @@ using [`Row.get_enumerator`](/cells/python-net/aspose.cells/row/get_enumerator) 
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
 * class [`Row`](/cells/python-net/aspose.cells/row)

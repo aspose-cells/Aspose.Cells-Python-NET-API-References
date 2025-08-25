@@ -8,7 +8,7 @@ url: /aspose.cells/cells/create_range/
 is_root: false
 ---
 
-## create_range(self, address) {#str}
+## create_range(self, address) {#System.String}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
@@ -28,10 +28,10 @@ def create_range(self, address):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| address | str | The address of the range. |
+| address | System.String | The address of the range. |
 
 
-## create_range(self, upper_left_cell, lower_right_cell) {#str-str}
+## create_range(self, upper_left_cell, lower_right_cell) {#System.String-System.String}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from a range of cells.
 
@@ -51,8 +51,8 @@ def create_range(self, upper_left_cell, lower_right_cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_cell | str | Upper left cell name. |
-| lower_right_cell | str | Lower right cell name. |
+| upper_left_cell | System.String | Upper left cell name. |
+| lower_right_cell | System.String | Lower right cell name. |
 
 
 ## create_range(self, first_index, number, is_vertical) {#int-int-bool}

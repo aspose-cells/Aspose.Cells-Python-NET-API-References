@@ -36,7 +36,7 @@ The PowerQueryFormulaParameterCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/last_index_of/#aspose.cells.querytables.powerqueryformulaparameter) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/last_index_of/#aspose.cells.querytables.powerqueryformulaparameter-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/last_index_of/#aspose.cells.querytables.powerqueryformulaparameter-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`get(self, name)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/get/#str) |  |
+| [`get(self, name)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/get/#system.string) |  |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.querytables/powerqueryformulaparametercollection/binary_search/#aspose.cells.querytables.powerqueryformulaparameter) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

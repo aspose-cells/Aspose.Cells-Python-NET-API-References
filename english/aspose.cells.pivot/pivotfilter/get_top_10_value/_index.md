@@ -27,3 +27,4 @@ def get_top_10_value(self):
 ### See Also
 * module [`aspose.cells.pivot`](../../)
 * class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)
+* class [`Top10Filter`](/cells/python-net/aspose.cells/top10filter)

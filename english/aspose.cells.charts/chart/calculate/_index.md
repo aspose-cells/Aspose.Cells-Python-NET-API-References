@@ -38,7 +38,7 @@ def calculate(self, calculate_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| calculate_options | [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) |  |
+| calculate_options | aspose.cells.charts.ChartCalculateOptions |  |
 
 
 

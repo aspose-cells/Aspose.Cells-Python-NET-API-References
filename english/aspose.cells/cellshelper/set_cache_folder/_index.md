@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/set_cache_folder/
 is_root: false
 ---
 
-## set_cache_folder(, cache) {#str}
+## set_cache_folder(, cache) {#System.String}
 
 Sets the folder for temporary files that may be used as data cache.
 
@@ -24,7 +24,7 @@ def set_cache_folder(cache):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cache | str | Folder for for temporary files that may be used as data cache. |
+| cache | System.String | Folder for for temporary files that may be used as data cache. |
 ### Remarks
 
 Cache files are used generally for some features for memory performance consideration,

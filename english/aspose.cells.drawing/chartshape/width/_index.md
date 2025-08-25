@@ -3,7 +3,7 @@ title: width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1180
+weight: 1190
 url: /aspose.cells.drawing/chartshape/width/
 is_root: false
 ---

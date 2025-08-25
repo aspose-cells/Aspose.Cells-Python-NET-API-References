@@ -3,7 +3,7 @@ title: ScenarioInputCellCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1290
+weight: 1390
 url: /aspose.cells/scenarioinputcellcollection/
 is_root: false
 ---
@@ -32,7 +32,7 @@ The ScenarioInputCellCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/last_index_of/#aspose.cells.scenarioinputcell) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/last_index_of/#aspose.cells.scenarioinputcell-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/last_index_of/#aspose.cells.scenarioinputcell-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`add(self, row, column, value)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/add/#int-int-str) | Adds an input cell. |
+| [`add(self, row, column, value)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/add/#int-int-system.string) | Adds an input cell. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/scenarioinputcellcollection/binary_search/#aspose.cells.scenarioinputcell) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

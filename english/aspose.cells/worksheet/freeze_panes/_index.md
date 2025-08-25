@@ -8,7 +8,7 @@ url: /aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---
 
-## freeze_panes(self, cell_name, freezed_rows, freezed_columns) {#str-int-int}
+## freeze_panes(self, cell_name, freezed_rows, freezed_columns) {#System.String-int-int}
 
 Freezes panes at the specified cell in the worksheet.
 
@@ -23,7 +23,7 @@ def freeze_panes(self, cell_name, freezed_rows, freezed_columns):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name. |
+| cell_name | System.String | Cell name. |
 | freezed_rows | int | Number of visible rows in top pane, no more than row index. |
 | freezed_columns | int | Number of visible columns in left pane, no more than column index. |
 ### Remarks

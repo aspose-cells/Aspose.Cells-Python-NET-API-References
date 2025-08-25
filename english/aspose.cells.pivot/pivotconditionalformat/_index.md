@@ -28,7 +28,7 @@ The PivotConditionalFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add_field_area(self, axis_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-str) | Adds an area of pivot field. |
+| [`add_field_area(self, axis_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-system.string) | Adds an area of pivot field. |
 | [`add_field_area(self, axis_type, field)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Adds an area of pivot field. |
 | [`get_cell_areas(self)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/get_cell_areas/#) | Gets all cell areas where this conditional format applies to. |
 | [`add_cell_area(self, ca)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_cell_area/#aspose.cells.cellarea) | Adds an area based on pivot table view. |

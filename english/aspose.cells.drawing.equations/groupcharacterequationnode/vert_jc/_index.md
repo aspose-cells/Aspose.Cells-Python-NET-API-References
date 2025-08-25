@@ -3,7 +3,7 @@ title: vert_jc property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.drawing.equations/groupcharacterequationnode/vert_jc/
 is_root: false
 ---

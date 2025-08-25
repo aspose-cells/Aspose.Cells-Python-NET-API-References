@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/custom_theme/
 is_root: false
 ---
 
-## custom_theme(self, theme_name, colors) {#str-aspose.pydrawing.Color[]}
+## custom_theme(self, theme_name, colors) {#System.String-aspose.pydrawing.Color[]}
 
 Customs the theme.
 
@@ -23,7 +23,7 @@ def custom_theme(self, theme_name, colors):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| theme_name | str | The theme name |
+| theme_name | System.String | The theme name |
 | colors | aspose.pydrawing.Color[] | The theme colors |
 ### Remarks
 

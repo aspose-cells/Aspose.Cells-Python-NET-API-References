@@ -8,7 +8,7 @@ url: /aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
 
-## add(self, area, is_vertical) {#str-bool}
+## add(self, area, is_vertical) {#System.String-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -28,13 +28,13 @@ def add(self, area, is_vertical):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | str | Specifies values from which to plot the data series |
+| area | System.String | Specifies values from which to plot the data series |
 | is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
 ### Remarks
 
 
 
-## add(self, area, is_vertical, check_labels) {#str-bool-bool}
+## add(self, area, is_vertical, check_labels) {#System.String-bool-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -54,7 +54,7 @@ def add(self, area, is_vertical, check_labels):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | str | Specifies values from which to plot the data series |
+| area | System.String | Specifies values from which to plot the data series |
 | is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
 | check_labels | bool | Indicates whether the range contains series's name |
 ### Remarks

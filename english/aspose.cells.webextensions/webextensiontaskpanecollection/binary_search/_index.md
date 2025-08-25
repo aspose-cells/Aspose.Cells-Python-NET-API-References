@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`WebExtensionTaskPane`](/cells/python-net/aspose.cells.webextensions/webextensiontaskpane) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.webextensions.WebExtensionTaskPane | The System.Object to locate. The value can be null. |
 
 
 

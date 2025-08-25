@@ -23,7 +23,7 @@ def set_subtotals(self, subtotal_type, shown):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | The subtotal function. |
+| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | The subtotal function. |
 | shown | bool | Indicates if showing this subtotal data. |
 
 

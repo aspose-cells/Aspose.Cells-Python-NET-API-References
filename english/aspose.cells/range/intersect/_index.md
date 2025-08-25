@@ -28,7 +28,7 @@ def intersect(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The intersecting range. |
+| range | aspose.cells.Range | The intersecting range. |
 ### Remarks
 
 If the two ranges are not intersected, returns null.

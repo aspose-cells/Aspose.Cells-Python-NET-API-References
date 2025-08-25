@@ -23,9 +23,9 @@ def set_gradient(self, type, angle, direction):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`GradientFillType`](/cells/python-net/aspose.cells.drawing/gradientfilltype) | Gradient fill type. |
+| type | aspose.cells.drawing.GradientFillType | Gradient fill type. |
 | angle | float | The angle. Only applies for GradientFillType.Linear. |
-| direction | [`GradientDirectionType`](/cells/python-net/aspose.cells.drawing/gradientdirectiontype) | The direction type. Only applies for GradientFillType.Radial and GradientFillType.Rectangle. |
+| direction | aspose.cells.drawing.GradientDirectionType | The direction type. Only applies for GradientFillType.Radial and GradientFillType.Rectangle. |
 
 
 

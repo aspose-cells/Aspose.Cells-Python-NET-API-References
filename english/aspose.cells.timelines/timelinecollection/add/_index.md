@@ -8,7 +8,7 @@ url: /aspose.cells.timelines/timelinecollection/add/
 is_root: false
 ---
 
-## add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-str-str}
+## add(self, pivot, dest_cell_name, base_field_name) {#aspose.cells.pivot.PivotTable-System.String-System.String}
 
 Add a new Timeline using PivotTable as data source
 
@@ -29,8 +29,8 @@ def add(self, pivot, dest_cell_name, base_field_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable | PivotTable object |
-| dest_cell_name | str | The cell name in the upper-left corner of the Timeline range. |
-| base_field_name | str | The name of PivotField in PivotTable.BaseFields |
+| dest_cell_name | System.String | The cell name in the upper-left corner of the Timeline range. |
+| base_field_name | System.String | The name of PivotField in PivotTable.BaseFields |
 
 ### Example 
 
@@ -43,7 +43,7 @@ sheet.timelines.add(pivot, "i15", "date")
 ```
 
 
-## add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-str-int}
+## add(self, pivot, dest_cell_name, base_field_index) {#aspose.cells.pivot.PivotTable-System.String-int}
 
 Add a new Timeline using PivotTable as data source
 
@@ -64,7 +64,7 @@ def add(self, pivot, dest_cell_name, base_field_index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable | PivotTable object |
-| dest_cell_name | str | The cell name in the upper-left corner of the Timeline range. |
+| dest_cell_name | System.String | The cell name in the upper-left corner of the Timeline range. |
 | base_field_index | int | The index of PivotField in PivotTable.BaseFields |
 
 ### Example 
@@ -78,7 +78,7 @@ sheet.timelines.add(pivot, "i5", 1)
 ```
 
 
-## add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-str-aspose.cells.pivot.PivotField}
+## add(self, pivot, dest_cell_name, base_field) {#aspose.cells.pivot.PivotTable-System.String-aspose.cells.pivot.PivotField}
 
 Add a new Timeline using PivotTable as data source
 
@@ -99,7 +99,7 @@ def add(self, pivot, dest_cell_name, base_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot | aspose.cells.pivot.PivotTable | PivotTable object |
-| dest_cell_name | str | The cell name in the upper-left corner of the Timeline range. |
+| dest_cell_name | System.String | The cell name in the upper-left corner of the Timeline range. |
 | base_field | aspose.cells.pivot.PivotField | The PivotField in PivotTable.BaseFields |
 
 ### Example 
@@ -113,7 +113,7 @@ sheet.timelines.add(pivot, "i10", pivot.base_fields[1])
 ```
 
 
-## add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-str}
+## add(self, pivot, row, column, base_field_name) {#aspose.cells.pivot.PivotTable-int-int-System.String}
 
 Add a new Timeline using PivotTable as data source
 
@@ -136,7 +136,7 @@ def add(self, pivot, row, column, base_field_name):
 | pivot | aspose.cells.pivot.PivotTable | PivotTable object |
 | row | int | Row index of the cell in the upper-left corner of the Timeline range. |
 | column | int | Column index of the cell in the upper-left corner of the Timeline range. |
-| base_field_name | str | The name of PivotField in PivotTable.BaseFields |
+| base_field_name | System.String | The name of PivotField in PivotTable.BaseFields |
 
 ### Example 
 

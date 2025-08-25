@@ -23,7 +23,7 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells0 | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells0 | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 | column_number | int | The copied column number. |
@@ -44,11 +44,11 @@ def copy_columns(self, source_cells0, source_column_index, destination_column_in
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells0 | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells0 | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 | column_number | int | The copied column number. |
-| paste_options | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | the options of pasting. |
+| paste_options | aspose.cells.PasteOptions | the options of pasting. |
 
 
 ## copy_columns(self, source_cells, source_column_index, source_total_columns, destination_column_index, destination_total_columns) {#aspose.cells.Cells-int-int-int-int}
@@ -66,7 +66,7 @@ def copy_columns(self, source_cells, source_column_index, source_total_columns, 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | source_total_columns | int | The number of the source columns. |
 | destination_column_index | int | Destination column index. |

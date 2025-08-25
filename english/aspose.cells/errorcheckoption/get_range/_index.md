@@ -34,4 +34,5 @@ def get_range(self, index):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
 * class [`ErrorCheckOption`](/cells/python-net/aspose.cells/errorcheckoption)

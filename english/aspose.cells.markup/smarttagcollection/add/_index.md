@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagcollection/add/
 is_root: false
 ---
 
-## add(self, uri, name) {#str-str}
+## add(self, uri, name) {#System.String-System.String}
 
 Adds a smart tag.
 
@@ -28,8 +28,8 @@ def add(self, uri, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uri | str | Specifies the namespace URI of the smart tag |
-| name | str | Specifies the name of the smart tag. |
+| uri | System.String | Specifies the namespace URI of the smart tag |
+| name | System.String | Specifies the name of the smart tag. |
 
 
 

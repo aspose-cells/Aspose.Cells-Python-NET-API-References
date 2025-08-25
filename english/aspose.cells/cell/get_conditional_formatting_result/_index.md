@@ -29,3 +29,4 @@ Returns null if no conditional formatting is applied to this cell,
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`ConditionalFormattingResult`](/cells/python-net/aspose.cells/conditionalformattingresult)

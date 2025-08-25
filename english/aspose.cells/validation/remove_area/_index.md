@@ -23,7 +23,7 @@ def remove_area(self, cell_area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | the areas where this validation settings should be removed. |
+| cell_area | aspose.cells.CellArea | the areas where this validation settings should be removed. |
 
 
 

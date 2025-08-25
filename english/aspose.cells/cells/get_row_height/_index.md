@@ -53,7 +53,7 @@ def get_row_height(self, row, is_original, unit_type):
 | :- | :- | :- |
 | row | int | The row index. |
 | is_original | bool | Whether returns the original row height or 0 for hidden row. |
-| unit_type | [`CellsUnitType`](/cells/python-net/aspose.cells/cellsunittype) | Unit type of the returned height value |
+| unit_type | aspose.cells.CellsUnitType | Unit type of the returned height value |
 
 
 

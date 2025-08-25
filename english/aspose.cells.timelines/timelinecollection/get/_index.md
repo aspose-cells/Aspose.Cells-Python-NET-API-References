@@ -8,7 +8,7 @@ url: /aspose.cells.timelines/timelinecollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets the Timeline  by Timeline's name.
 
@@ -23,10 +23,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 
 ### See Also
 * module [`aspose.cells.timelines`](../../)
+* class [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline)
 * class [`TimelineCollection`](/cells/python-net/aspose.cells.timelines/timelinecollection)

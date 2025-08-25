@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.pivot.PivotArea | The System.Object to locate. The value can be null. |
 
 
 

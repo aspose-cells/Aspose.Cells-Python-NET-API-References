@@ -8,7 +8,7 @@ url: /aspose.cells/fontconfigs/is_font_available/
 is_root: false
 ---
 
-## is_font_available(, font_name) {#str}
+## is_font_available(, font_name) {#System.String}
 
 Indicate whether the font is available.
 
@@ -29,7 +29,7 @@ def is_font_available(font_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_name | str | font name |
+| font_name | System.String | font name |
 
 
 

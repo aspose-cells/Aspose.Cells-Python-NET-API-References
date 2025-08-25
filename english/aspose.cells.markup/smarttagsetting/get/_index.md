@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagsetting/get/
 is_root: false
 ---
 
-## get(self, cell_name) {#str}
+## get(self, cell_name) {#System.String}
 
 Gets the [`SmartTagCollection`](/cells/python-net/aspose.cells.markup/smarttagcollection) object of the cell.
 
@@ -29,7 +29,7 @@ def get(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | The name of the cell. |
+| cell_name | System.String | The name of the cell. |
 
 
 ## get(self, row, column) {#int-int}

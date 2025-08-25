@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1590
+weight: 1690
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---
@@ -19,6 +19,8 @@ The WorkbookSettings type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [stream_provider](/cells/python-net/aspose.cells/workbooksettings/stream_provider) | Gets and sets the stream provider for external resource. |
+| [resource_provider](/cells/python-net/aspose.cells/workbooksettings/resource_provider) | Gets and sets the stream provider for external resource, such as loading image data for picture of type "LinkToFile". |
 | [author](/cells/python-net/aspose.cells/workbooksettings/author) | Gets and sets the author of the file. |
 | [check_custom_number_format](/cells/python-net/aspose.cells/workbooksettings/check_custom_number_format) | Indicates whether checking custom number format when setting Style.Custom. |
 | [enable_macros](/cells/python-net/aspose.cells/workbooksettings/enable_macros) | Enable macros; |
@@ -49,6 +51,7 @@ The WorkbookSettings type exposes the following members:
 | [update_links_type](/cells/python-net/aspose.cells/workbooksettings/update_links_type) | Gets and sets how updates external links when the workbook is opened. |
 | [max_row](/cells/python-net/aspose.cells/workbooksettings/max_row) | Gets the max row index, zero-based. |
 | [max_column](/cells/python-net/aspose.cells/workbooksettings/max_column) | Gets the max column index, zero-based. |
+| [smart_tag_options](/cells/python-net/aspose.cells/workbooksettings/smart_tag_options) | Gets the options of the smart tag. |
 | [default_style_settings](/cells/python-net/aspose.cells/workbooksettings/default_style_settings) | Gets the settings for default values of style-related properties for this workbook. |
 | [window_left](/cells/python-net/aspose.cells/workbooksettings/window_left) | The distance from the left edge of the client area to the left edge of the window, in unit of point. |
 | [window_left_inch](/cells/python-net/aspose.cells/workbooksettings/window_left_inch) | The distance from the left edge of the client area to the left edge of the window.<br/>In unit of inch. |
@@ -73,6 +76,7 @@ The WorkbookSettings type exposes the following members:
 | [build_version](/cells/python-net/aspose.cells/workbooksettings/build_version) | Specifies the incremental public release of the application. |
 | [memory_setting](/cells/python-net/aspose.cells/workbooksettings/memory_setting) | Gets or sets the memory usage options. The new option will be taken as the default option for newly created worksheets but does not take effect for existing worksheets. |
 | [paper_size](/cells/python-net/aspose.cells/workbooksettings/paper_size) | Gets and sets the default print paper size. |
+| [warning_callback](/cells/python-net/aspose.cells/workbooksettings/warning_callback) | Gets or sets warning callback. |
 | [max_rows_of_shared_formula](/cells/python-net/aspose.cells/workbooksettings/max_rows_of_shared_formula) | Gets and sets the max row number of shared formula. |
 | [compliance](/cells/python-net/aspose.cells/workbooksettings/compliance) | Specifies the OOXML version for the output document. The default value is Ecma376_2006. |
 | [quote_prefix_to_style](/cells/python-net/aspose.cells/workbooksettings/quote_prefix_to_style) | Indicates whether setting [`Style.quote_prefix`](/cells/python-net/aspose.cells/style#quote_prefix) property when entering the string value(which starts  with single quote mark ) to the cell |

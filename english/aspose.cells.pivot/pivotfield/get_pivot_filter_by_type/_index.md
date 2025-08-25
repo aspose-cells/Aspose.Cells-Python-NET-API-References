@@ -23,10 +23,11 @@ def get_pivot_filter_by_type(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) |  |
+| type | aspose.cells.pivot.PivotFilterType |  |
 
 
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
 * class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter)

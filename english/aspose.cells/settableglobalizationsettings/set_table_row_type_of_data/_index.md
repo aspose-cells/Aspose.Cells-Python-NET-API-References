@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_table_row_type_of_data/
 is_root: false
 ---
 
-## set_table_row_type_of_data(self, name) {#str}
+## set_table_row_type_of_data(self, name) {#System.String}
 
 Sets the type name of table rows that consists of data region of referenced table.
 
@@ -23,7 +23,7 @@ def set_table_row_type_of_data(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | the type name of table rows |
+| name | System.String | the type name of table rows |
 
 
 

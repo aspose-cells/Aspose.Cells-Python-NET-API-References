@@ -28,10 +28,11 @@ def get(self, border_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | The border to be retrieved. |
+| border_type | aspose.cells.BorderType | The border to be retrieved. |
 
 
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Border`](/cells/python-net/aspose.cells/border)
 * class [`BorderCollection`](/cells/python-net/aspose.cells/bordercollection)

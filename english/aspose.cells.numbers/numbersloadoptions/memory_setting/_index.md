@@ -3,7 +3,7 @@ title: memory_setting property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 190
 url: /aspose.cells.numbers/numbersloadoptions/memory_setting/
 is_root: false
 ---

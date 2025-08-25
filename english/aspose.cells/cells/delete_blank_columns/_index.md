@@ -38,7 +38,7 @@ def delete_blank_columns(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | The options of deleting range. |
+| options | aspose.cells.DeleteOptions | The options of deleting range. |
 
 
 

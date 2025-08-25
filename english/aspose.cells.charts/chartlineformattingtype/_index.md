@@ -3,7 +3,7 @@ title: ChartLineFormattingType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells.charts/chartlineformattingtype/
 is_root: false
 ---

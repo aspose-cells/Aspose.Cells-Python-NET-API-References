@@ -25,7 +25,7 @@ def unprotect(self):
 
 This method unprotects worksheet which is protected without password.
 
-## unprotect(self, password) {#str}
+## unprotect(self, password) {#System.String}
 
 Unprotects worksheet.
 
@@ -40,7 +40,7 @@ def unprotect(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | Password |
+| password | System.String | Password |
 ### Remarks
 
 If the worksheet is protected without a password, you can set a null value or blank string to password parameter.

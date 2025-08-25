@@ -8,7 +8,7 @@ url: /aspose.cells/individualfontconfigs/set_font_folder/
 is_root: false
 ---
 
-## set_font_folder(self, font_folder, recursive) {#str-bool}
+## set_font_folder(self, font_folder, recursive) {#System.String-bool}
 
 Sets the fonts folder
 
@@ -23,7 +23,7 @@ def set_font_folder(self, font_folder, recursive):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_folder | str | The folder that contains TrueType fonts. |
+| font_folder | System.String | The folder that contains TrueType fonts. |
 | recursive | bool | Determines whether or not to scan subfolders. |
 
 

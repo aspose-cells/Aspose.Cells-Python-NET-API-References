@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`PowerQueryFormula`](/cells/python-net/aspose.cells.querytables/powerqueryformula) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.querytables.PowerQueryFormula | The System.Object to locate. The value can be null. |
 
 
 

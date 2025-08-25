@@ -35,11 +35,11 @@ Gets the formatting condition by index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Adds a formatting condition. |
+| [`add_condition(self, type, operator_type, formula1, formula2)`](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype-aspose.cells.operatortype-system.string-system.string) | Adds a formatting condition. |
 | [`add_condition(self, type)`](/cells/python-net/aspose.cells/formatconditioncollection/add_condition/#aspose.cells.formatconditiontype) | Add a format condition. |
 | [`remove_area(self, index)`](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int) | Removes conditional formatted cell range by index. |
 | [`remove_area(self, start_row, start_column, total_rows, total_columns)`](/cells/python-net/aspose.cells/formatconditioncollection/remove_area/#int-int-int-int) | Remove conditional formatting int the range. |
-| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-str-str) | Adds a formatting condition and effected cell rang to the FormatConditions<br/>The FormatConditions can contain up to three conditional formats.<br/>References to the other sheets are not allowed in the formulas of conditional formatting. |
+| [`add(self, cell_area, type, operator_type, formula1, formula2)`](/cells/python-net/aspose.cells/formatconditioncollection/add/#aspose.cells.cellarea-aspose.cells.formatconditiontype-aspose.cells.operatortype-system.string-system.string) | Adds a formatting condition and effected cell rang to the FormatConditions<br/>The FormatConditions can contain up to three conditional formats.<br/>References to the other sheets are not allowed in the formulas of conditional formatting. |
 | [`add_area(self, cell_area)`](/cells/python-net/aspose.cells/formatconditioncollection/add_area/#aspose.cells.cellarea) | Adds a conditional formatted cell range. |
 | [`get_cell_area(self, index)`](/cells/python-net/aspose.cells/formatconditioncollection/get_cell_area/#int) | Gets the conditional formatted cell range by index. |
 | [`remove_condition(self, index)`](/cells/python-net/aspose.cells/formatconditioncollection/remove_condition/#int) | Removes the formatting condition by index. |

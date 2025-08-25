@@ -28,7 +28,7 @@ def get_cell_border_width(self, border_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| border_type | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | cell border type |
+| border_type | aspose.cells.CellBorderType | cell border type |
 ### Remarks
 
 Any negative value will be ignored.

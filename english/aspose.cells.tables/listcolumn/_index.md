@@ -31,9 +31,9 @@ The ListColumn type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`get_custom_totals_row_formula(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_totals_row_formula/#bool-bool) | Gets the formula of totals row of this list column. |
-| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#str-bool-bool) | Gets the formula of totals row of this list column. |
+| [`set_custom_totals_row_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_totals_row_formula/#system.string-bool-bool) | Gets the formula of totals row of this list column. |
 | [`get_custom_calculated_formula(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/get_custom_calculated_formula/#bool-bool) | Gets the formula of this list column. |
-| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#str-bool-bool) | Sets the formula for this list column. |
+| [`set_custom_calculated_formula(self, formula, is_r1c1, is_local)`](/cells/python-net/aspose.cells.tables/listcolumn/set_custom_calculated_formula/#system.string-bool-bool) | Sets the formula for this list column. |
 | [`get_data_style(self)`](/cells/python-net/aspose.cells.tables/listcolumn/get_data_style/#) | Gets the style of the data in this column of the table. |
 | [`set_data_style(self, style)`](/cells/python-net/aspose.cells.tables/listcolumn/set_data_style/#aspose.cells.style) | Sets the style of the data in this column of the table. |
 

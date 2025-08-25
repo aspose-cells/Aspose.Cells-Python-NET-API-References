@@ -29,4 +29,5 @@ def get(self, column_index):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Column`](/cells/python-net/aspose.cells/column)
 * class [`ColumnCollection`](/cells/python-net/aspose.cells/columncollection)

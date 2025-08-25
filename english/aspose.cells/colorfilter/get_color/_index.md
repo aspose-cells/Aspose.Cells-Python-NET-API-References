@@ -28,7 +28,7 @@ def get_color(self, sheets):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheets | [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection) |  |
+| sheets | aspose.cells.WorksheetCollection |  |
 
 
 

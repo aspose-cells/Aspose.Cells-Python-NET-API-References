@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ListObject`](/cells/python-net/aspose.cells.tables/listobject) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.tables.ListObject | The System.Object to locate. The value can be null. |
 
 
 

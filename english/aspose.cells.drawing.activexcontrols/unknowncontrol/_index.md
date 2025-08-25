@@ -48,7 +48,7 @@ The UnknownControl type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get_relationship_data(self, rel_id)`](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/#str) | Gets the related data. |
+| [`get_relationship_data(self, rel_id)`](/cells/python-net/aspose.cells.drawing.activexcontrols/unknowncontrol/get_relationship_data/#system.string) | Gets the related data. |
 
 
 

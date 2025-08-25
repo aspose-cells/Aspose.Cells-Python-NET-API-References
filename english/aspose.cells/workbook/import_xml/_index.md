@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/import_xml/
 is_root: false
 ---
 
-## import_xml(self, url, sheet_name, row, col) {#str-str-int-int}
+## import_xml(self, url, sheet_name, row, col) {#System.String-System.String-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
@@ -23,8 +23,8 @@ def import_xml(self, url, sheet_name, row, col):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| url | str | the url/path of the xml file. |
-| sheet_name | str | the destination sheet name. |
+| url | System.String | the url/path of the xml file. |
+| sheet_name | System.String | the destination sheet name. |
 | row | int | the destination row |
 | col | int | the destination column |
 
@@ -43,7 +43,7 @@ wb.save("output.xlsx")
 ```
 
 
-## import_xml(self, stream, sheet_name, row, col) {#io.RawIOBase-str-int-int}
+## import_xml(self, stream, sheet_name, row, col) {#io.RawIOBase-System.String-int-int}
 
 Imports/Updates an XML data file into the workbook.
 
@@ -59,7 +59,7 @@ def import_xml(self, stream, sheet_name, row, col):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | the xml file stream. |
-| sheet_name | str | the destination sheet name. |
+| sheet_name | System.String | the destination sheet name. |
 | row | int | the destination row. |
 | col | int | the destination column. |
 

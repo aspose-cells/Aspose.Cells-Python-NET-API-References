@@ -26,11 +26,11 @@ The ChartCollection type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-int-int-int-int) | Adds a chart to the collection. |
-| [`add(self, type, data_range, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-str-int-int-int-int) | Adds a chart to the collection. |
-| [`add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#bytes-str-bool-int-int-int-int) | Adds a chart with preset template. |
-| [`add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-str-bool-int-int-int-int) | Adds a chart to the collection. |
+| [`add(self, type, data_range, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-system.string-int-int-int-int) | Adds a chart to the collection. |
+| [`add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#bytes-system.string-bool-int-int-int-int) | Adds a chart with preset template. |
+| [`add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-system.string-bool-int-int-int-int) | Adds a chart to the collection. |
 | [`get(self, index)`](/cells/python-net/aspose.cells.charts/chartcollection/get/#int) | Add API for Python Via .Net.since this[int index] is unsupported |
-| [`get(self, name)`](/cells/python-net/aspose.cells.charts/chartcollection/get/#str) | Add API for Python Via .Net.since this[string Chart] is unsupported |
+| [`get(self, name)`](/cells/python-net/aspose.cells.charts/chartcollection/get/#system.string) | Add API for Python Via .Net.since this[string Chart] is unsupported |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.charts/chartcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.charts/chartcollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.charts/chartcollection/index_of/#aspose.cells.charts.chart-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

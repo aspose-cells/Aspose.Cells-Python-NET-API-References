@@ -46,7 +46,7 @@ def set_auto_group_field(self, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the specific fields |
+| pivot_field | aspose.cells.pivot.PivotField | The row or column field in the specific fields |
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 

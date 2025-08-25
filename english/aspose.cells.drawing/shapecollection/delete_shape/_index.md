@@ -23,7 +23,7 @@ def delete_shape(self, shape):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shape | [`Shape`](/cells/python-net/aspose.cells.drawing/shape) |  |
+| shape | aspose.cells.drawing.Shape |  |
 
 ### Example 
 

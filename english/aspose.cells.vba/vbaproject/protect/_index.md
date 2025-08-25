@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaproject/protect/
 is_root: false
 ---
 
-## protect(self, islocked_for_viewing, password) {#bool-str}
+## protect(self, islocked_for_viewing, password) {#bool-System.String}
 
 Protects or unprotects this VBA project.
 
@@ -24,7 +24,7 @@ def protect(self, islocked_for_viewing, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | islocked_for_viewing | bool | indicates whether locks project for viewing. |
-| password | str | If the value is null, unprotects this VBA project, otherwise projects the this VBA project. |
+| password | System.String | If the value is null, unprotects this VBA project, otherwise projects the this VBA project. |
 ### Remarks
 
 If islockedForViewing is true, the password could not be null.

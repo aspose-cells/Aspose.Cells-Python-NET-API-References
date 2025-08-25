@@ -49,4 +49,5 @@ scrollBar = shapes.add_scroll_bar(1, 0, 1, 0, 100, 20)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`ScrollBar`](/cells/python-net/aspose.cells.drawing/scrollbar)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

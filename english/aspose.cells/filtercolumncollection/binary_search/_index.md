@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.FilterColumn | The System.Object to locate. The value can be null. |
 
 
 

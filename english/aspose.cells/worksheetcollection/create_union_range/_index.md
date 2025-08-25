@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/create_union_range/
 is_root: false
 ---
 
-## create_union_range(self, address, sheet_index) {#str-int}
+## create_union_range(self, address, sheet_index) {#System.String-int}
 
 Creates a [`Range`](/cells/python-net/aspose.cells/range) object from an address of the range.
 
@@ -28,7 +28,7 @@ def create_union_range(self, address, sheet_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| address | str | The address of the range. |
+| address | System.String | The address of the range. |
 | sheet_index | int | The sheet index. |
 
 
@@ -36,4 +36,5 @@ def create_union_range(self, address, sheet_index):
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Range`](/cells/python-net/aspose.cells/range)
+* class [`UnionRange`](/cells/python-net/aspose.cells/unionrange)
 * class [`WorksheetCollection`](/cells/python-net/aspose.cells/worksheetcollection)

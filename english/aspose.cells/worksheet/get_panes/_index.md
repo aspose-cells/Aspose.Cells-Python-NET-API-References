@@ -28,4 +28,5 @@ If the window is not split or frozen.
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`PaneCollection`](/cells/python-net/aspose.cells/panecollection)
 * class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

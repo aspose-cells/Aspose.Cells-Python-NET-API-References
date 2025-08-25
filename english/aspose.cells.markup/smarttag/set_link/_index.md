@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttag/set_link/
 is_root: false
 ---
 
-## set_link(self, uri, name) {#str-str}
+## set_link(self, uri, name) {#System.String-System.String}
 
 Change the name and  the namespace URI of the smart tag.
 
@@ -23,8 +23,8 @@ def set_link(self, uri, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uri | str | The namespace URI of the smart tag. |
-| name | str | The name of the smart tag. |
+| uri | System.String | The namespace URI of the smart tag. |
+| name | System.String | The name of the smart tag. |
 
 
 

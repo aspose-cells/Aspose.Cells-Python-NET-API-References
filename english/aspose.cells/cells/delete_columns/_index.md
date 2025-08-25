@@ -45,7 +45,7 @@ def delete_columns(self, column_index, total_columns, options):
 | :- | :- | :- |
 | column_index | int | Index of the first column to be deleted. |
 | total_columns | int | Count of columns to be deleted. |
-| options | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Options for the deleting operation |
+| options | aspose.cells.DeleteOptions | Options for the deleting operation |
 
 
 

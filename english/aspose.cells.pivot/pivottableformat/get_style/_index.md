@@ -32,3 +32,4 @@ def get_style(self):
 ### See Also
 * module [`aspose.cells.pivot`](../../)
 * class [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat)
+* class [`Style`](/cells/python-net/aspose.cells/style)

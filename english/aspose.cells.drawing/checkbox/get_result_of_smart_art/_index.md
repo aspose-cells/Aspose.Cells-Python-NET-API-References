@@ -37,3 +37,4 @@ if shape.is_smart_art:
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)

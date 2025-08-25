@@ -23,7 +23,7 @@ def copy(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
+| range | aspose.cells.Range | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
 
 ### Example 
 
@@ -60,8 +60,8 @@ def copy(self, range, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The source range. |
-| options | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | The paste special options. |
+| range | aspose.cells.Range | The source range. |
+| options | aspose.cells.PasteOptions | The paste special options. |
 
 
 

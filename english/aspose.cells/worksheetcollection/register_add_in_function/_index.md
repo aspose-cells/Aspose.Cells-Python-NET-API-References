@@ -8,7 +8,7 @@ url: /aspose.cells/worksheetcollection/register_add_in_function/
 is_root: false
 ---
 
-## register_add_in_function(self, id, function_name) {#int-str}
+## register_add_in_function(self, id, function_name) {#int-System.String}
 
 Adds addin function into the workbook
 
@@ -29,10 +29,10 @@ def register_add_in_function(self, id, function_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | id | int | ID of the data which contains addin functions,<br/>can be got by the first call of [`WorksheetCollection.register_add_in_function`](/cells/python-net/aspose.cells/worksheetcollection/register_add_in_function) for the same addin file. |
-| function_name | str | the addin function name |
+| function_name | System.String | the addin function name |
 
 
-## register_add_in_function(self, add_in_file, function_name, lib) {#str-str-bool}
+## register_add_in_function(self, add_in_file, function_name, lib) {#System.String-System.String-bool}
 
 Adds addin function into the workbook
 
@@ -52,8 +52,8 @@ def register_add_in_function(self, add_in_file, function_name, lib):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| add_in_file | str | the file contains the addin functions |
-| function_name | str | the addin function name |
+| add_in_file | System.String | the file contains the addin functions |
+| function_name | System.String | the addin function name |
 | lib | bool | whether the given addin file is in the directory or sub-directory of Workbook Add-In library.<br/>This flag takes effect and makes difference when given addInFile is of relative path:<br/>true denotes the path is relative to Add-In library and false denotes the path is relative to this Workbook. |
 
 

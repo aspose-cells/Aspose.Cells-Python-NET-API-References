@@ -34,9 +34,9 @@ The TableStyleCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.tables/tablestylecollection/last_index_of/#aspose.cells.tables.tablestyle) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.tables/tablestylecollection/last_index_of/#aspose.cells.tables.tablestyle-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.tables/tablestylecollection/last_index_of/#aspose.cells.tables.tablestyle-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
-| [`add_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_table_style/#str) | Adds a custom table style. |
-| [`add_pivot_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_pivot_table_style/#str) | Adds a custom pivot table style. |
-| [`get(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/get/#str) | Gets the table style by the name. |
+| [`add_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_table_style/#system.string) | Adds a custom table style. |
+| [`add_pivot_table_style(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/add_pivot_table_style/#system.string) | Adds a custom pivot table style. |
+| [`get(self, name)`](/cells/python-net/aspose.cells.tables/tablestylecollection/get/#system.string) | Gets the table style by the name. |
 | [`get_builtin_table_style(self, type)`](/cells/python-net/aspose.cells.tables/tablestylecollection/get_builtin_table_style/#aspose.cells.tables.tablestyletype) | Gets the builtin table style |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.tables/tablestylecollection/binary_search/#aspose.cells.tables.tablestyle) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 

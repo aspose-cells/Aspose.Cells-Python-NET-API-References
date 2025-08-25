@@ -28,7 +28,7 @@ def add_range(self, ca):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | the range to be added. |
+| ca | aspose.cells.CellArea | the range to be added. |
 
 
 

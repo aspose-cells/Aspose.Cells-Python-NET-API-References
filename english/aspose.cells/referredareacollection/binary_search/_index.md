@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ReferredArea`](/cells/python-net/aspose.cells/referredarea) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.ReferredArea | The System.Object to locate. The value can be null. |
 
 
 

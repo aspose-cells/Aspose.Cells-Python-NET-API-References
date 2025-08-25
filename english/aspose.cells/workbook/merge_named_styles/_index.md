@@ -23,7 +23,7 @@ def merge_named_styles(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | The other file |
+| source | aspose.cells.Workbook | The other file |
 
 
 

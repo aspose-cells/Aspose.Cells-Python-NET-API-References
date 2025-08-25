@@ -49,4 +49,5 @@ label = shapes.add_label(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Label`](/cells/python-net/aspose.cells.drawing/label)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

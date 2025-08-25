@@ -23,12 +23,12 @@ def protect(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype) | Protection type. |
+| type | aspose.cells.ProtectionType | Protection type. |
 ### Remarks
 
 This method protects worksheet without password. It can protect worksheet in all versions of Excel file.
 
-## protect(self, type, password, old_password) {#aspose.cells.ProtectionType-str-str}
+## protect(self, type, password, old_password) {#aspose.cells.ProtectionType-System.String-System.String}
 
 Protects worksheet.
 
@@ -43,9 +43,9 @@ def protect(self, type, password, old_password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype) | Protection type. |
-| password | str | Password. |
-| old_password | str | If the worksheet is already protected by a password, please supply the old password.<br/>Otherwise, you can set a null value or blank string to this parameter. |
+| type | aspose.cells.ProtectionType | Protection type. |
+| password | System.String | Password. |
+| old_password | System.String | If the worksheet is already protected by a password, please supply the old password.<br/>Otherwise, you can set a null value or blank string to this parameter. |
 ### Remarks
 
 This method can protect worksheet in all versions of Excel file.

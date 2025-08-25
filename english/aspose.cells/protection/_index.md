@@ -3,7 +3,7 @@ title: Protection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1150
+weight: 1250
 url: /aspose.cells/protection/
 is_root: false
 ---
@@ -43,7 +43,7 @@ The Protection type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`copy(self, source)`](/cells/python-net/aspose.cells/protection/copy/#aspose.cells.protection) | Copy protection info. |
-| [`verify_password(self, password)`](/cells/python-net/aspose.cells/protection/verify_password/#str) | Verifies password. |
+| [`verify_password(self, password)`](/cells/python-net/aspose.cells/protection/verify_password/#system.string) | Verifies password. |
 | [`get_password_hash(self)`](/cells/python-net/aspose.cells/protection/get_password_hash/#) | Gets the hash of current password. |
 
 

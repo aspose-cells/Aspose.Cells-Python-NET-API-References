@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`SmartTagProperty`](/cells/python-net/aspose.cells.markup/smarttagproperty) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.markup.SmartTagProperty | The System.Object to locate. The value can be null. |
 
 
 

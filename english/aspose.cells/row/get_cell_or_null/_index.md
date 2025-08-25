@@ -35,4 +35,5 @@ def get_cell_or_null(self, column):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
 * class [`Row`](/cells/python-net/aspose.cells/row)

@@ -33,7 +33,7 @@ The CustomXmlPartCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/last_index_of/#aspose.cells.markup.customxmlpart-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/last_index_of/#aspose.cells.markup.customxmlpart-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`add(self, data, shema_data)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/add/#bytes-bytes) | Adds an item to the collection. |
-| [`select_by_id(self, id)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/select_by_id/#str) | Gets an item by id. |
+| [`select_by_id(self, id)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/select_by_id/#system.string) | Gets an item by id. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.markup/customxmlpartcollection/binary_search/#aspose.cells.markup.customxmlpart) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

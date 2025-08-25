@@ -24,7 +24,7 @@ def to_image(self, stream, image_type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The output stream. |
-| image_type | [`ImageType`](/cells/python-net/aspose.cells.drawing/imagetype) | The type in which to save the image. |
+| image_type | aspose.cells.drawing.ImageType | The type in which to save the image. |
 ### Remarks
 
 The following formats are supported: 
@@ -42,7 +42,7 @@ shape.to_image(imageStream, ImageType.PNG)
 ```
 
 
-## to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, image_file, options) {#System.String-aspose.cells.rendering.ImageOrPrintOptions}
 
 Saves the shape to a file.
 
@@ -57,7 +57,7 @@ def to_image(self, image_file, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file | str |  |
+| image_file | System.String |  |
 | options | aspose.cells.rendering.ImageOrPrintOptions |  |
 
 ### Example 

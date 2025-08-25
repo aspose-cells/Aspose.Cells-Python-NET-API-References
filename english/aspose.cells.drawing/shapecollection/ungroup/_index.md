@@ -23,7 +23,7 @@ def ungroup(self, group):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| group | [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape) | The group shape. |
+| group | aspose.cells.drawing.GroupShape | The group shape. |
 ### Remarks
 
 If the group shape is grouped by another group shape,nothing will be done.

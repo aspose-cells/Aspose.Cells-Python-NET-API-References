@@ -23,10 +23,10 @@ def add_child(self, equation_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) |  |
+| equation_type | aspose.cells.drawing.equations.EquationNodeType |  |
 
 
-## add_child(self, node) {#EquationNode}
+## add_child(self, node) {#Aspose.Cells.Drawing.Equations.EquationNode}
 
 
 
@@ -41,7 +41,7 @@ def add_child(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | EquationNode |  |
+| node | Aspose.Cells.Drawing.Equations.EquationNode |  |
 
 
 

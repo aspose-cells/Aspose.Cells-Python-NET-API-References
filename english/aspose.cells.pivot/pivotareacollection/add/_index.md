@@ -28,7 +28,7 @@ def add(self, pivot_area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_area | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | The pivot area. |
+| pivot_area | aspose.cells.pivot.PivotArea | The pivot area. |
 
 
 ## add(self, cell_area) {#aspose.cells.CellArea}
@@ -46,7 +46,7 @@ def add(self, cell_area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area based on pivot table view. |
+| cell_area | aspose.cells.CellArea | The area based on pivot table view. |
 
 
 

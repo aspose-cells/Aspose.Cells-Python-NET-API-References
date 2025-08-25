@@ -23,9 +23,9 @@ def select(self, axis_type, field_position, selection_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| axis_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The region of the PivotTable to which this rule applies. |
+| axis_type | aspose.cells.pivot.PivotFieldType | The region of the PivotTable to which this rule applies. |
 | field_position | int | Position of the field within the axis to which this rule applies. |
-| selection_type | [`PivotTableSelectionType`](/cells/python-net/aspose.cells.pivot/pivottableselectiontype) | Specifies what can be selected in a PivotTable during a structured selection. |
+| selection_type | aspose.cells.pivot.PivotTableSelectionType | Specifies what can be selected in a PivotTable during a structured selection. |
 
 
 

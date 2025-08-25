@@ -34,3 +34,4 @@ such as existing cells that have not been set style explicitly, or those that ha
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Column`](/cells/python-net/aspose.cells/column)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -8,7 +8,7 @@ url: /aspose.cells.charts/chart/to_image/
 is_root: false
 ---
 
-## to_image(self, image_file) {#str}
+## to_image(self, image_file) {#System.String}
 
 Creates the chart image and saves it to a file.
 The extension of the file name determines the format of the image.
@@ -24,7 +24,7 @@ def to_image(self, image_file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file | str | The image file name with full path. |
+| image_file | System.String | The image file name with full path. |
 ### Remarks
 
 The format of the image is specified by using the extension of the file name.
@@ -35,7 +35,7 @@ in the PNG format. The following file extensions are recognized:
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image(self, image_file, image_type) {#str-aspose.cells.drawing.ImageType}
+## to_image(self, image_file, image_type) {#System.String-aspose.cells.drawing.ImageType}
 
 Creates the chart image and saves it to a file in the specified image type.
 
@@ -50,7 +50,7 @@ def to_image(self, image_file, image_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file | str | The image file name with full path. |
+| image_file | System.String | The image file name with full path. |
 | image_type | aspose.cells.drawing.ImageType | The image type in which to save the image. |
 ### Remarks
 
@@ -61,7 +61,7 @@ ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, Ima
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image(self, image_file, jpeg_quality) {#str-int}
+## to_image(self, image_file, jpeg_quality) {#System.String-int}
 
 Creates the chart image and saves it to a file in the Jpeg format.
 
@@ -76,7 +76,7 @@ def to_image(self, image_file, jpeg_quality):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file | str | The image file name with full path. |
+| image_file | System.String | The image file name with full path. |
 | jpeg_quality | int | Jpeg quality. |
 ### Remarks
 
@@ -133,7 +133,7 @@ ImageType.Bmp, ImageType.Gif, ImageType.Png, ImageType.Jpeg, ImageType.Tiff, Ima
 
 If the width or height is zero or the chart is not supported according to Supported Charts List, this method will do nothing.
 
-## to_image(self, image_file, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, image_file, options) {#System.String-aspose.cells.rendering.ImageOrPrintOptions}
 
 Creates the chart image and saves it to a file.
 The extension of the file name determines the format of the image.
@@ -149,7 +149,7 @@ def to_image(self, image_file, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| image_file | str | The image file name with full path. |
+| image_file | System.String | The image file name with full path. |
 | options | aspose.cells.rendering.ImageOrPrintOptions | Additional image creation options |
 ### Remarks
 

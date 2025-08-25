@@ -8,7 +8,7 @@ url: /aspose.cells.properties/custompropertycollection/add/
 is_root: false
 ---
 
-## add(self, name, value) {#str-str}
+## add(self, name, value) {#System.String-System.String}
 
 Adds custom property information.
 
@@ -23,8 +23,8 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the custom property. |
-| value | str | The value of the custom property. |
+| name | System.String | The name of the custom property. |
+| value | System.String | The value of the custom property. |
 
 
 

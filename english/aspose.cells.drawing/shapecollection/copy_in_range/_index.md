@@ -23,8 +23,8 @@ def copy_in_range(self, source_shapes, ca, dest_row, dest_column, is_contained):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_shapes | [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection) | Source shapes. |
-| ca | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The source range. |
+| source_shapes | aspose.cells.drawing.ShapeCollection | Source shapes. |
+| ca | aspose.cells.CellArea | The source range. |
 | dest_row | int | The dest row index of the dest range. |
 | dest_column | int | The dest column of the dest range. |
 | is_contained | bool | Whether only copy the shapes which are contained in the range.<br/>If true,only copies the shapes in the range. <br/>Otherwise,it works as MS Office. |

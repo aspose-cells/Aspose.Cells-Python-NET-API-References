@@ -38,7 +38,7 @@ def __init__(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`LoadFormat`](/cells/python-net/aspose.cells/loadformat) | The load format type. |
+| type | aspose.cells.LoadFormat | The load format type. |
 
 
 

@@ -3,7 +3,7 @@ title: show_group_detail method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 940
 url: /aspose.cells/cells/show_group_detail/
 is_root: false
 ---

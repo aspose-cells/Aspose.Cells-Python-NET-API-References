@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`RevisionLog`](/cells/python-net/aspose.cells.revisions/revisionlog) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.revisions.RevisionLog | The System.Object to locate. The value can be null. |
 
 
 

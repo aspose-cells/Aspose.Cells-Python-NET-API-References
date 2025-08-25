@@ -8,7 +8,7 @@ url: /aspose.cells/settablechartglobalizationsettings/set_axis_title_name/
 is_root: false
 ---
 
-## set_axis_title_name(self, name) {#str}
+## set_axis_title_name(self, name) {#System.String}
 
 Sets the name of Title for Axis.
 
@@ -23,7 +23,7 @@ def set_axis_title_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | local dependent name |
+| name | System.String | local dependent name |
 
 
 

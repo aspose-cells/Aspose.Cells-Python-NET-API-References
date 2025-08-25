@@ -49,4 +49,5 @@ oval = shapes.add_oval(1, 0, 1, 0, 50, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Oval`](/cells/python-net/aspose.cells.drawing/oval)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_word_art/
 is_root: false
 ---
 
-## add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.PresetWordArtStyle-str-int-int-int-int-int-int}
+## add_word_art(self, style, text, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.PresetWordArtStyle-System.String-int-int-int-int-int-int}
 
 Adds preset WordArt since Excel 2007.s
 
@@ -28,8 +28,8 @@ def add_word_art(self, style, text, upper_left_row, top, upper_left_column, left
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`PresetWordArtStyle`](/cells/python-net/aspose.cells.drawing/presetwordartstyle) | The preset WordArt Style. |
-| text | str | The text. |
+| style | aspose.cells.drawing.PresetWordArtStyle | The preset WordArt Style. |
+| text | System.String | The text. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of shape from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -52,4 +52,5 @@ wordArt2 = shapes.add_word_art(PresetWordArtStyle.WORD_ART_STYLE1, "WordArt", 3,
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

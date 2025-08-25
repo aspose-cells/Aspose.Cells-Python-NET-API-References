@@ -28,7 +28,7 @@ def index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.pivot.PivotFormatCondition | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 
 
@@ -52,7 +52,7 @@ def index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.pivot.PivotFormatCondition | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 | count | int | The number of elements in the section to search. |
 

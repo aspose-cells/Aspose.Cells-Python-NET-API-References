@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.charts.Trendline | The System.Object to locate. The value can be null. |
 
 
 

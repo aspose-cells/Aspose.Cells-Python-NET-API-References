@@ -28,7 +28,7 @@ def get_subtotals(self, subtotal_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | subtotal type. |
+| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | subtotal type. |
 
 
 

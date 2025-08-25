@@ -8,7 +8,7 @@ url: /aspose.cells.webextensions/webextensionpropertycollection/remove_at/
 is_root: false
 ---
 
-## remove_at(self, name) {#str}
+## remove_at(self, name) {#System.String}
 
 Remove the property by the name.
 
@@ -23,7 +23,7 @@ def remove_at(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
+| name | System.String | The name of the property. |
 
 
 

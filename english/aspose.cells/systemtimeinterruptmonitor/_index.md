@@ -3,7 +3,7 @@ title: SystemTimeInterruptMonitor class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1390
+weight: 1490
 url: /aspose.cells/systemtimeinterruptmonitor/
 is_root: false
 ---
@@ -45,6 +45,26 @@ The SystemTimeInterruptMonitor type exposes the following members:
 
 This implementation is just a simple solution for simple scenarios.
 It needs to frequently retrieve and check the system time so itself may have a negative impact on performance to some extent.
+
+### Example 
+
+
+The following example shows how to monitor the load and save procedure with specified time limit:
+
+```python
+from aspose.cells import LoadOptions, SystemTimeInterruptMonitor, Workbook
+
+monitor = SystemTimeInterruptMonitor(False)
+lopts = LoadOptions()
+lopts.interrupt_monitor = monitor
+monitor.start_monitor(1000)
+wb = Workbook("Large.xlsx", lopts)
+# if the time cost of loading the template file exceeds one second, interruption will be required and exception will be thrown here
+# otherwise starts to monitor the save procedure
+monitor.start_monitor(1500)
+wb.save("result.xlsx")
+
+```
 
 ### See Also
 * module [`aspose.cells`](..)

@@ -51,4 +51,5 @@ groupShape = shapes.group(shapesArr)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`GroupShape`](/cells/python-net/aspose.cells.drawing/groupshape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

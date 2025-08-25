@@ -28,7 +28,7 @@ def filter(self, type, sheet_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`NameScopeType`](/cells/python-net/aspose.cells/namescopetype) | The scope type. |
+| type | aspose.cells.NameScopeType | The scope type. |
 | sheet_index | int | The sheet index.<br/>Only effects when scope type is [`NameScopeType.WORKSHEET`](/cells/python-net/aspose.cells/namescopetype#WORKSHEET) |
 
 

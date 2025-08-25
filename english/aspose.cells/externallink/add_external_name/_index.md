@@ -8,7 +8,7 @@ url: /aspose.cells/externallink/add_external_name/
 is_root: false
 ---
 
-## add_external_name(self, text, refer_to) {#str-str}
+## add_external_name(self, text, refer_to) {#System.String-System.String}
 
 Adds an external name.
 
@@ -23,8 +23,8 @@ def add_external_name(self, text, refer_to):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text of the external name.<br/>If the external name belongs to a worksheet, the text should be as Sheet1!Text. |
-| refer_to | str | The referTo of the external name. It must be a cell or the range. |
+| text | System.String | The text of the external name.<br/>If the external name belongs to a worksheet, the text should be as Sheet1!Text. |
+| refer_to | System.String | The referTo of the external name. It must be a cell or the range. |
 
 
 

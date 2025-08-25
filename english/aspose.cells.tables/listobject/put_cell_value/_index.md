@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobject/put_cell_value/
 is_root: false
 ---
 
-## put_cell_value(self, row_offset, column_offset, value) {#int-int-any}
+## put_cell_value(self, row_offset, column_offset, value) {#int-int-System.Object}
 
 Put the value to the cell.
 
@@ -25,10 +25,10 @@ def put_cell_value(self, row_offset, column_offset, value):
 | :- | :- | :- |
 | row_offset | int | The row offset in the table. |
 | column_offset | int | The column offset in the table. |
-| value | any | The cell value. |
+| value | System.Object | The cell value. |
 
 
-## put_cell_value(self, row_offset, column_offset, value, is_totals_row_label) {#int-int-any-bool}
+## put_cell_value(self, row_offset, column_offset, value, is_totals_row_label) {#int-int-System.Object-bool}
 
 Put the value to the cell.
 
@@ -45,7 +45,7 @@ def put_cell_value(self, row_offset, column_offset, value, is_totals_row_label):
 | :- | :- | :- |
 | row_offset | int | The row offset in the table. |
 | column_offset | int | The column offset in the table. |
-| value | any | The cell value. |
+| value | System.Object | The cell value. |
 | is_totals_row_label | bool | Indicates whether it is a label for total row,only works for total row.<br/>If False and this row is total row, a new row will be inserted. |
 
 

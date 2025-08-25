@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagpropertycollection/get/
 is_root: false
 ---
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets a [`SmartTagProperty`](/cells/python-net/aspose.cells.markup/smarttagproperty) object by the name of the property.
 
@@ -28,7 +28,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property. |
+| name | System.String | The name of the property. |
 
 
 

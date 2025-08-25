@@ -23,10 +23,11 @@ def get_save_options(self, part):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| part | [`SplitPartInfo`](/cells/python-net/aspose.cells.lowcode/splitpartinfo) |  |
+| part | aspose.cells.lowcode.SplitPartInfo |  |
 
 
 
 ### See Also
 * module [`aspose.cells.lowcode`](../../)
+* class [`LowCodeSaveOptions`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptions)
 * class [`LowCodeSaveOptionsProviderOfPlaceHolders`](/cells/python-net/aspose.cells.lowcode/lowcodesaveoptionsproviderofplaceholders)

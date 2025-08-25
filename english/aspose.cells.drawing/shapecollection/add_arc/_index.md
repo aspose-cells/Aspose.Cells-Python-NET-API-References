@@ -49,4 +49,5 @@ arcShape = shapes.add_arc(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`ArcShape`](/cells/python-net/aspose.cells.drawing/arcshape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

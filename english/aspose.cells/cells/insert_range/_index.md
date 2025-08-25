@@ -3,7 +3,7 @@ title: insert_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 740
 url: /aspose.cells/cells/insert_range/
 is_root: false
 ---
@@ -23,8 +23,8 @@ def insert_range(self, area, shift_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Shift area. |
-| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
+| area | aspose.cells.CellArea | Shift area. |
+| shift_type | aspose.cells.ShiftType | Shift cells option. |
 
 
 ## insert_range(self, area, shift_number, shift_type) {#aspose.cells.CellArea-int-aspose.cells.ShiftType}
@@ -42,9 +42,9 @@ def insert_range(self, area, shift_number, shift_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Shift area. |
+| area | aspose.cells.CellArea | Shift area. |
 | shift_number | int | Number of rows or columns to be inserted. |
-| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
+| shift_type | aspose.cells.ShiftType | Shift cells option. |
 
 
 ## insert_range(self, area, shift_number, shift_type, update_reference) {#aspose.cells.CellArea-int-aspose.cells.ShiftType-bool}
@@ -62,9 +62,9 @@ def insert_range(self, area, shift_number, shift_type, update_reference):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | Shift area. |
+| area | aspose.cells.CellArea | Shift area. |
 | shift_number | int | Number of rows or columns to be inserted. |
-| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
+| shift_type | aspose.cells.ShiftType | Shift cells option. |
 | update_reference | bool | Indicates whether update references in other worksheets. |
 
 

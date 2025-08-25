@@ -8,7 +8,7 @@ url: /aspose.cells/writeprotection/validate_password/
 is_root: false
 ---
 
-## validate_password(self, password) {#str}
+## validate_password(self, password) {#System.String}
 
 Returns true if the specified password is the same as the write-protection password the file was protected with.
 
@@ -28,7 +28,7 @@ def validate_password(self, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| password | str | The specified password. |
+| password | System.String | The specified password. |
 
 
 

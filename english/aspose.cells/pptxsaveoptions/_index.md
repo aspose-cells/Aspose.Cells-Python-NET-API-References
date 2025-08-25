@@ -3,7 +3,7 @@ title: PptxSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1120
+weight: 1220
 url: /aspose.cells/pptxsaveoptions/
 is_root: false
 ---
@@ -39,6 +39,7 @@ The PptxSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/pptxsaveoptions/sort_names) |  |
 | [sort_external_names](/cells/python-net/aspose.cells/pptxsaveoptions/sort_external_names) |  |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/pptxsaveoptions/refresh_chart_cache) |  |
+| [warning_callback](/cells/python-net/aspose.cells/pptxsaveoptions/warning_callback) |  |
 | [check_excel_restriction](/cells/python-net/aspose.cells/pptxsaveoptions/check_excel_restriction) |  |
 | [update_smart_art](/cells/python-net/aspose.cells/pptxsaveoptions/update_smart_art) |  |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/pptxsaveoptions/encrypt_document_properties) |  |

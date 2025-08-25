@@ -34,4 +34,5 @@ def get_row_by_index(self, index):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Row`](/cells/python-net/aspose.cells/row)
 * class [`RowCollection`](/cells/python-net/aspose.cells/rowcollection)

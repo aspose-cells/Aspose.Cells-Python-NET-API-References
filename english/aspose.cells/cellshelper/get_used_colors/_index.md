@@ -29,7 +29,7 @@ def get_used_colors(workbook):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| workbook | [`Workbook`](/cells/python-net/aspose.cells/workbook) | The workbook object. |
+| workbook | aspose.cells.Workbook | The workbook object. |
 
 
 

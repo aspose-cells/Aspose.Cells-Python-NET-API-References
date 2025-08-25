@@ -23,9 +23,9 @@ def show_values_as(self, display_format, base_field, base_item_position_type, ba
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| display_format | [`PivotFieldDataDisplayFormat`](/cells/python-net/aspose.cells.pivot/pivotfielddatadisplayformat) | The data display format type. |
+| display_format | aspose.cells.pivot.PivotFieldDataDisplayFormat | The data display format type. |
 | base_field | int | The index to the field which ShowDataAs calculation bases on. |
-| base_item_position_type | [`PivotItemPositionType`](/cells/python-net/aspose.cells.pivot/pivotitempositiontype) | The position type of base iteam. |
+| base_item_position_type | aspose.cells.pivot.PivotItemPositionType | The position type of base iteam. |
 | base_item | int | The index to the base item which ShowDataAs calculation bases on.<br/>Only works when baseItemPositionType is custom. |
 ### Remarks
 

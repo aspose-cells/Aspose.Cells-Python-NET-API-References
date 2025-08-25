@@ -3,7 +3,7 @@ title: printing_page property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 320
 url: /aspose.cells.rendering/svgimageoptions/printing_page/
 is_root: false
 ---

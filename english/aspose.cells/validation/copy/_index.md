@@ -23,8 +23,8 @@ def copy(self, source, copy_option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Validation`](/cells/python-net/aspose.cells/validation) | The source validation. |
-| copy_option | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy option. |
+| source | aspose.cells.Validation | The source validation. |
+| copy_option | aspose.cells.CopyOptions | The copy option. |
 
 
 

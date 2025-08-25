@@ -8,7 +8,7 @@ url: /aspose.cells.tables/listobject/put_cell_formula/
 is_root: false
 ---
 
-## put_cell_formula(self, row_offset, column_offset, formula) {#int-int-str}
+## put_cell_formula(self, row_offset, column_offset, formula) {#int-int-System.String}
 
 Put the formula to the cell in the table.
 
@@ -25,10 +25,10 @@ def put_cell_formula(self, row_offset, column_offset, formula):
 | :- | :- | :- |
 | row_offset | int | The row offset in the table. |
 | column_offset | int | The column offset in the table. |
-| formula | str | The formula of the cell. |
+| formula | System.String | The formula of the cell. |
 
 
-## put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_formula) {#int-int-str-bool}
+## put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_formula) {#int-int-System.String-bool}
 
 Put the formula to the cell in the table.
 
@@ -45,7 +45,7 @@ def put_cell_formula(self, row_offset, column_offset, formula, is_totals_row_for
 | :- | :- | :- |
 | row_offset | int | The row offset in the table. |
 | column_offset | int | The column offset in the table. |
-| formula | str | The formula of the cell. |
+| formula | System.String | The formula of the cell. |
 | is_totals_row_formula | bool |  |
 
 

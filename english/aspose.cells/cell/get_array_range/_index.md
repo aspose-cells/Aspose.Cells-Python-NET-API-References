@@ -34,3 +34,4 @@ Only applies when the cell's formula is an array formula
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)

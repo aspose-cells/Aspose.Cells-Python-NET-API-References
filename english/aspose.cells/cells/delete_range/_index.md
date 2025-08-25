@@ -27,7 +27,7 @@ def delete_range(self, start_row, start_column, end_row, end_column, shift_type)
 | start_column | int | Start column index. |
 | end_row | int | End row index. |
 | end_column | int | End column index. |
-| shift_type | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Shift cells option. |
+| shift_type | aspose.cells.ShiftType | Shift cells option. |
 
 
 

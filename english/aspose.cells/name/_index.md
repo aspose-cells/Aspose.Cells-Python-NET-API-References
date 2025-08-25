@@ -3,7 +3,7 @@ title: Name class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 1100
 url: /aspose.cells/name/
 is_root: false
 ---
@@ -39,7 +39,7 @@ The Name type exposes the following members:
 | [`get_range(self)`](/cells/python-net/aspose.cells/name/get_range/#) | Gets the range if this name refers to a range. |
 | [`get_range(self, recalculate)`](/cells/python-net/aspose.cells/name/get_range/#bool) | Gets the range if this name refers to a range |
 | [`get_range(self, sheet_index, row, column)`](/cells/python-net/aspose.cells/name/get_range/#int-int-int) | Gets the range if this name refers to a range.<br/>If the reference of this name is not absolute, the range may be different for different cell. |
-| [`set_refers_to(self, refers_to, is_r1c1, is_local)`](/cells/python-net/aspose.cells/name/set_refers_to/#str-bool-bool) | Set the reference of this Name. |
+| [`set_refers_to(self, refers_to, is_r1c1, is_local)`](/cells/python-net/aspose.cells/name/set_refers_to/#system.string-bool-bool) | Set the reference of this Name. |
 | [`get_referred_areas(self, recalculate)`](/cells/python-net/aspose.cells/name/get_referred_areas/#bool) | Gets all references referred by this name. |
 
 

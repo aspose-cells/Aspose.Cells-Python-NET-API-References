@@ -8,7 +8,7 @@ url: /aspose.cells/cellwatchcollection/get/
 is_root: false
 ---
 
-## get(self, cell_name) {#str}
+## get(self, cell_name) {#System.String}
 
 Gets and sets [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) by the name of the cell.
 
@@ -28,7 +28,7 @@ def get(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | The name of the cell. |
+| cell_name | System.String | The name of the cell. |
 
 
 

@@ -3,7 +3,7 @@ title: trim_leading_blank_row_and_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/txtsaveoptions/trim_leading_blank_row_and_column/
 is_root: false
 ---
@@ -20,7 +20,7 @@ Default is true.
 Same with the rule in ms excel, a row/column will not be taken as blank if it has custom style,
 even if it contains no cell data.
 When saving with LightCells mode, this option takes no effect.
-User should control the output range by the implementation of [`TxtSaveOptions.LightCellsDataProvider`](/cells/python-net/aspose.cells/txtsaveoptions)
+User should control the output range by the implementation of [`TxtSaveOptions.light_cells_data_provider`](/cells/python-net/aspose.cells/txtsaveoptions#light_cells_data_provider)
 or by speicifing [`TxtSaveOptions.export_area`](/cells/python-net/aspose.cells/txtsaveoptions#export_area)
 ### Definition:
 ```python

@@ -3,7 +3,7 @@ title: is_flipped_horizontally property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /aspose.cells.drawing/slicershape/is_flipped_horizontally/
 is_root: false
 ---

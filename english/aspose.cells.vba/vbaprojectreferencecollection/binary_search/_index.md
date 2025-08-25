@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`VbaProjectReference`](/cells/python-net/aspose.cells.vba/vbaprojectreference) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.vba.VbaProjectReference | The System.Object to locate. The value can be null. |
 
 
 

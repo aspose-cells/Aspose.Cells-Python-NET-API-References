@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Scenario`](/cells/python-net/aspose.cells/scenario) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.Scenario | The System.Object to locate. The value can be null. |
 
 
 

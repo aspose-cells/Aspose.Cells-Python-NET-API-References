@@ -11,7 +11,7 @@ is_root: false
 ## line_to(self, x, y) {#float-float}
 
 Appends a line segment to the current figure.
-The starting point is the end point of the current figure.
+The starting point is the end point of the current figure.Unit: Pixel.
 
 
 

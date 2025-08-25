@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Validation`](/cells/python-net/aspose.cells/validation) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.Validation | The System.Object to locate. The value can be null. |
 
 
 

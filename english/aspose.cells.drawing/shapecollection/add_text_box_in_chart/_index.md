@@ -38,3 +38,4 @@ def add_text_box_in_chart(self, top, left, height, width):
 ### See Also
 * module [`aspose.cells.drawing`](../../)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)
+* class [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox)

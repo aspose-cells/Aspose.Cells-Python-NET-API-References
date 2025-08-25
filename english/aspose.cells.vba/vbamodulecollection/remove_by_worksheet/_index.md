@@ -28,7 +28,7 @@ def remove_by_worksheet(self, sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The worksheet |
+| sheet | aspose.cells.Worksheet | The worksheet |
 
 
 

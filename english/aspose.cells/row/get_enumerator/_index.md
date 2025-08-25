@@ -16,7 +16,7 @@ Gets an enumerator that iterates cells through this row.
 ### Returns 
 
 
-The cell enumerator
+The cells enumerator which will traverse all existing cells in this row.
 
 
 ```python

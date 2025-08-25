@@ -28,10 +28,10 @@ def add(self, sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | The worksheet |
+| sheet | aspose.cells.Worksheet | The worksheet |
 
 
-## add(self, type, name) {#aspose.cells.vba.VbaModuleType-str}
+## add(self, type, name) {#aspose.cells.vba.VbaModuleType-System.String}
 
 Adds module.
 
@@ -51,8 +51,8 @@ def add(self, type, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`VbaModuleType`](/cells/python-net/aspose.cells.vba/vbamoduletype) | The type of module. |
-| name | str | The name of module. |
+| type | aspose.cells.vba.VbaModuleType | The type of module. |
+| name | System.String | The name of module. |
 
 
 

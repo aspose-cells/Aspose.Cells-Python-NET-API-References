@@ -8,7 +8,7 @@ url: /aspose.cells/cellarea/compare_to/
 is_root: false
 ---
 
-## compare_to(self, obj) {#any}
+## compare_to(self, obj) {#System.Object}
 
 Compare two CellArea objects according to their top-left corner.
 
@@ -29,7 +29,7 @@ def compare_to(self, obj):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | any |  |
+| obj | System.Object |  |
 
 
 

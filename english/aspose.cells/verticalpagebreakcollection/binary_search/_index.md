@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`VerticalPageBreak`](/cells/python-net/aspose.cells/verticalpagebreak) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.VerticalPageBreak | The System.Object to locate. The value can be null. |
 
 
 

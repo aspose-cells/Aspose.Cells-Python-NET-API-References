@@ -36,8 +36,8 @@ The DataSorter type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add_key(self, key, order)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder) | Adds sorted column index and sort order. |
-| [`add_key(self, key, order, custom_list)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder-str) | Adds sorted column index and sort order with custom sort list. |
-| [`add_key(self, key, type, order, custom_list)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortontype-aspose.cells.sortorder-any) | Adds sorted column index and sort order with custom sort list. |
+| [`add_key(self, key, order, custom_list)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder-system.string) | Adds sorted column index and sort order with custom sort list. |
+| [`add_key(self, key, type, order, custom_list)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortontype-aspose.cells.sortorder-system.object) | Adds sorted column index and sort order with custom sort list. |
 | [`add_key(self, key, order, custom_list)`](/cells/python-net/aspose.cells/datasorter/add_key/#int-aspose.cells.sortorder-list) | Adds sorted column index and sort order with custom sort list. |
 | [`sort(self, cells, start_row, start_column, end_row, end_column)`](/cells/python-net/aspose.cells/datasorter/sort/#aspose.cells.cells-int-int-int-int) | Sorts the data of the area. |
 | [`sort(self, cells, area)`](/cells/python-net/aspose.cells/datasorter/sort/#aspose.cells.cells-aspose.cells.cellarea) | Sort the data of the area. |

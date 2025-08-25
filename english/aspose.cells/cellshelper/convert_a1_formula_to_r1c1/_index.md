@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/convert_a1_formula_to_r1c1/
 is_root: false
 ---
 
-## convert_a1_formula_to_r1c1(, formula, row, column) {#str-int-int}
+## convert_a1_formula_to_r1c1(, formula, row, column) {#System.String-int-int}
 
 Converts A1 formula of the cell to the r1c1 formula.
 
@@ -29,7 +29,7 @@ def convert_a1_formula_to_r1c1(formula, row, column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | The A1 formula. |
+| formula | System.String | The A1 formula. |
 | row | int | The row index of the cell. |
 | column | int | The column index of the cell. |
 ### Remarks

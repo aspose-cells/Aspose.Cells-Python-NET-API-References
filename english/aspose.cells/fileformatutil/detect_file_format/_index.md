@@ -32,7 +32,7 @@ def detect_file_format(stream):
 | stream | io.RawIOBase |  |
 
 
-## detect_file_format(, file_path) {#str}
+## detect_file_format(, file_path) {#System.String}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -53,10 +53,10 @@ def detect_file_format(file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | The file path. |
+| file_path | System.String | The file path. |
 
 
-## detect_file_format(, stream, password) {#io.RawIOBase-str}
+## detect_file_format(, stream, password) {#io.RawIOBase-System.String}
 
 Detects and returns the information about a format of an excel stored in a stream.
 
@@ -78,10 +78,10 @@ def detect_file_format(stream, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | str | The password for encrypted ooxml files. |
+| password | System.String | The password for encrypted ooxml files. |
 
 
-## detect_file_format(, file_path, password) {#str-str}
+## detect_file_format(, file_path, password) {#System.String-System.String}
 
 Detects and returns the information about a format of an excel stored in a file.
 
@@ -102,8 +102,8 @@ def detect_file_format(file_path, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | The file path. |
-| password | str | The password for encrypted ooxml files. |
+| file_path | System.String | The file path. |
+| password | System.String | The password for encrypted ooxml files. |
 
 
 

@@ -31,7 +31,7 @@ def get(self, index):
 | index | int | The index. |
 
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Gets [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) in the list by the name.
 
@@ -51,7 +51,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of module. |
+| name | System.String | The name of module. |
 
 
 

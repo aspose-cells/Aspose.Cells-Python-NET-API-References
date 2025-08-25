@@ -8,7 +8,7 @@ url: /aspose.cells.revisions/revisioncollection/binary_search/
 is_root: false
 ---
 
-## binary_search(self, item) {#Revision}
+## binary_search(self, item) {#Aspose.Cells.Revisions.Revision}
 
 Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element.
 
@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | Revision | The System.Object to locate. The value can be null. |
+| item | Aspose.Cells.Revisions.Revision | The System.Object to locate. The value can be null. |
 
 
 

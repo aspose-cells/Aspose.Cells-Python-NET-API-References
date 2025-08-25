@@ -52,7 +52,7 @@ def __init__(self, file_format_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_format_type | [`FileFormatType`](/cells/python-net/aspose.cells/fileformattype) | The new file format. |
+| file_format_type | aspose.cells.FileFormatType | The new file format. |
 ### Remarks
 
 The default file format type is Excel97To2003.
@@ -69,7 +69,7 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
-## \_\_init\_\_(self, file) {#str}
+## \_\_init\_\_(self, file) {#System.String}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
 
@@ -84,7 +84,7 @@ def __init__(self, file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file | str | The file name. |
+| file | System.String | The file name. |
 
 
 ## \_\_init\_\_(self, stream) {#io.RawIOBase}
@@ -105,7 +105,7 @@ def __init__(self, stream):
 | stream | io.RawIOBase | The stream. |
 
 
-## \_\_init\_\_(self, file, load_options) {#str-aspose.cells.LoadOptions}
+## \_\_init\_\_(self, file, load_options) {#System.String-aspose.cells.LoadOptions}
 
 Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
 
@@ -120,8 +120,8 @@ def __init__(self, file, load_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file | str | The file name. |
-| load_options | [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) | The load options |
+| file | System.String | The file name. |
+| load_options | aspose.cells.LoadOptions | The load options |
 
 
 ## \_\_init\_\_(self, stream, load_options) {#io.RawIOBase-aspose.cells.LoadOptions}
@@ -140,7 +140,7 @@ def __init__(self, stream, load_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | The stream. |
-| load_options | [`LoadOptions`](/cells/python-net/aspose.cells/loadoptions) | The load options |
+| load_options | aspose.cells.LoadOptions | The load options |
 
 
 

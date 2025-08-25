@@ -3,7 +3,7 @@ title: SheetRender class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.rendering/sheetrender/
 is_root: false
 ---
@@ -33,15 +33,15 @@ The SheetRender type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`to_image(self, page_index, file_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_image/#int-str) | Render certain page to a file. |
+| [`to_image(self, page_index, file_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_image/#int-system.string) | Render certain page to a file. |
 | [`to_image(self, page_index, stream)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_image/#int-io.rawiobase) | Render certain page to a stream. |
 | [`to_tiff(self, stream)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_tiff/#io.rawiobase) | Render whole worksheet as Tiff Image to stream. |
-| [`to_tiff(self, filename)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_tiff/#str) | Render whole worksheet as Tiff Image to a file. |
-| [`to_printer(self, printer_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#str) | Render worksheet to Printer |
-| [`to_printer(self, printer_name, job_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#str-str) | Render worksheet to Printer |
+| [`to_tiff(self, filename)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_tiff/#system.string) | Render whole worksheet as Tiff Image to a file. |
+| [`to_printer(self, printer_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#system.string) | Render worksheet to Printer |
+| [`to_printer(self, printer_name, job_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#system.string-system.string) | Render worksheet to Printer |
 | [`to_printer(self, printer_settings)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.printersettings) | Render worksheet to Printer |
-| [`to_printer(self, printer_settings, job_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.printersettings-str) | Render worksheet to Printer |
-| [`to_printer(self, printer_name, print_page_index, print_page_count)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#str-int-int) | Render worksheet to Printer |
+| [`to_printer(self, printer_settings, job_name)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#aspose.pydrawing.printing.printersettings-system.string) | Render worksheet to Printer |
+| [`to_printer(self, printer_name, print_page_index, print_page_count)`](/cells/python-net/aspose.cells.rendering/sheetrender/to_printer/#system.string-int-int) | Render worksheet to Printer |
 | [`get_page_size_inch(self, page_index)`](/cells/python-net/aspose.cells.rendering/sheetrender/get_page_size_inch/#int) | Get page size in inch of output image. |
 | [`custom_print(self, next_page_after_print, print_page_event_args)`](/cells/python-net/aspose.cells.rendering/sheetrender/custom_print/#bool-aspose.pydrawing.printing.printpageeventargs) | Client can control page setting of printer when print each page using this function. |
 | [`dispose(self)`](/cells/python-net/aspose.cells.rendering/sheetrender/dispose/#) | Releases resources created and used for rendering. |

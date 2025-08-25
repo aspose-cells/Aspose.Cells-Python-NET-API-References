@@ -3,7 +3,7 @@ title: TickMarkType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 670
 url: /aspose.cells.charts/tickmarktype/
 is_root: false
 ---

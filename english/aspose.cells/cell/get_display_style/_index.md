@@ -82,7 +82,7 @@ def get_display_style(self, adjacent_borders):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| adjacent_borders | [`BorderType`](/cells/python-net/aspose.cells/bordertype) | Indicates which borders need to be checked and adjusted<br/>according to the borders of adjacent cells. |
+| adjacent_borders | aspose.cells.BorderType | Indicates which borders need to be checked and adjusted<br/>according to the borders of adjacent cells. |
 ### Remarks
 
 If this cell is also affected by other settings such as conditional formatting, list objects, etc.,
@@ -116,3 +116,4 @@ the display style of one cell is time-consumed too.
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Style`](/cells/python-net/aspose.cells/style)

@@ -3,7 +3,7 @@ title: load_style_strategy property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells/abstracttextloadoptions/load_style_strategy/
 is_root: false
 ---

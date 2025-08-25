@@ -106,18 +106,18 @@ The PivotTable type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`remove_field(self, field_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/remove_field/#aspose.cells.pivot.pivotfieldtype-str) | Removes a field from specific field area |
+| [`remove_field(self, field_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/remove_field/#aspose.cells.pivot.pivotfieldtype-system.string) | Removes a field from specific field area |
 | [`remove_field(self, field_type, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivottable/remove_field/#aspose.cells.pivot.pivotfieldtype-int) | Removes a field from specific field area |
 | [`remove_field(self, field_type, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/remove_field/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Remove field from specific field area |
-| [`add_field_to_area(self, field_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/add_field_to_area/#aspose.cells.pivot.pivotfieldtype-str) | Adds the field to the specific area. |
+| [`add_field_to_area(self, field_type, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/add_field_to_area/#aspose.cells.pivot.pivotfieldtype-system.string) | Adds the field to the specific area. |
 | [`add_field_to_area(self, field_type, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivottable/add_field_to_area/#aspose.cells.pivot.pivotfieldtype-int) | Adds the field to the specific area. |
 | [`add_field_to_area(self, field_type, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/add_field_to_area/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Adds the field to the specific area. |
-| [`add_calculated_field(self, name, formula, drag_to_data_area)`](/cells/python-net/aspose.cells.pivot/pivottable/add_calculated_field/#str-str-bool) | Adds a calculated field to pivot field. |
-| [`add_calculated_field(self, name, formula)`](/cells/python-net/aspose.cells.pivot/pivottable/add_calculated_field/#str-str) | Adds a calculated field to pivot field and drag it to data area. |
+| [`add_calculated_field(self, name, formula, drag_to_data_area)`](/cells/python-net/aspose.cells.pivot/pivottable/add_calculated_field/#system.string-system.string-bool) | Adds a calculated field to pivot field. |
+| [`add_calculated_field(self, name, formula)`](/cells/python-net/aspose.cells.pivot/pivottable/add_calculated_field/#system.string-system.string) | Adds a calculated field to pivot field and drag it to data area. |
 | [`move(self, row, column)`](/cells/python-net/aspose.cells.pivot/pivottable/move/#int-int) | Moves the PivotTable to a different location in the worksheet. |
-| [`move(self, dest_cell_name)`](/cells/python-net/aspose.cells.pivot/pivottable/move/#str) | Moves the PivotTable to a different location in the worksheet. |
+| [`move(self, dest_cell_name)`](/cells/python-net/aspose.cells.pivot/pivottable/move/#system.string) | Moves the PivotTable to a different location in the worksheet. |
 | [`move_to(self, row, column)`](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#int-int) | Moves the PivotTable to a different location in the worksheet. |
-| [`move_to(self, dest_cell_name)`](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#str) | Moves the PivotTable to a different location in the worksheet. |
+| [`move_to(self, dest_cell_name)`](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#system.string) | Moves the PivotTable to a different location in the worksheet. |
 | [`get_source(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get pivottable's source data. |
 | [`get_source(self, is_original)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#bool) | Get pivottable's source data. |
 | [`refresh_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#) | Refreshes pivottable's data and setting from it's data source. |
@@ -131,13 +131,13 @@ The PivotTable type exposes the following members:
 | [`set_auto_group_field(self, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/set_auto_group_field/#aspose.cells.pivot.pivotfield) | Sets auto field group by the PivotTable. |
 | [`set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#int-float-float-list-float) | Sets manual field group by the PivotTable. |
 | [`set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#aspose.cells.pivot.pivotfield-float-float-list-float) | Sets manual field group by the PivotTable. |
-| [`set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#int-datetime-datetime-list-int) | Sets manual field group by the PivotTable. |
-| [`set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#aspose.cells.pivot.pivotfield-datetime-datetime-list-int) | Sets manual field group by the PivotTable. |
+| [`set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#int-system.datetime-system.datetime-list-int) | Sets manual field group by the PivotTable. |
+| [`set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#aspose.cells.pivot.pivotfield-system.datetime-system.datetime-list-int) | Sets manual field group by the PivotTable. |
 | [`set_ungroup(self, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivottable/set_ungroup/#int) | Sets ungroup by the PivotTable |
 | [`set_ungroup(self, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/set_ungroup/#aspose.cells.pivot.pivotfield) | Sets ungroup by the PivotTable |
 | [`copy_style(self, pivot_table)`](/cells/python-net/aspose.cells.pivot/pivottable/copy_style/#aspose.cells.pivot.pivottable) | Copies named style from another pivot table. |
 | [`show_report_filter_page(self, page_field)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page/#aspose.cells.pivot.pivotfield) | Show all the report filter pages according to PivotField, the PivotField must be located in the PageFields. |
-| [`show_report_filter_page_by_name(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_name/#str) | Show all the report filter pages according to PivotField's name, the PivotField must be located in the PageFields. |
+| [`show_report_filter_page_by_name(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_name/#system.string) | Show all the report filter pages according to PivotField's name, the PivotField must be located in the PageFields. |
 | [`show_report_filter_page_by_index(self, pos_index)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_index/#int) | Show all the report filter pages according to the position index in the PageFields |
 | [`get_fields(self, field_type)`](/cells/python-net/aspose.cells.pivot/pivottable/get_fields/#aspose.cells.pivot.pivotfieldtype) | Gets the specific pivot field list by the region. |
 | [`fields(self, field_type)`](/cells/python-net/aspose.cells.pivot/pivottable/fields/#aspose.cells.pivot.pivotfieldtype) | Gets the specific fields by the field type. |
@@ -155,7 +155,7 @@ The PivotTable type exposes the following members:
 | [`show_in_compact_form(self)`](/cells/python-net/aspose.cells.pivot/pivottable/show_in_compact_form/#) | Layouts the PivotTable in compact form. |
 | [`show_in_outline_form(self)`](/cells/python-net/aspose.cells.pivot/pivottable/show_in_outline_form/#) | Layouts the PivotTable in outline form. |
 | [`show_in_tabular_form(self)`](/cells/python-net/aspose.cells.pivot/pivottable/show_in_tabular_form/#) | Layouts the PivotTable in tabular form. |
-| [`get_cell_by_display_name(self, display_name)`](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#str) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField. |
+| [`get_cell_by_display_name(self, display_name)`](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#system.string) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField. |
 | [`get_children(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_children/#) | Gets the Children Pivot Tables which use this PivotTable data as data source. |
 
 

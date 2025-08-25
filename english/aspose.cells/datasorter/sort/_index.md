@@ -50,8 +50,8 @@ def sort(self, cells, area):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cells | [`Cells`](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
-| area | [`CellArea`](/cells/python-net/aspose.cells/cellarea) | The area needed to sort |
+| cells | aspose.cells.Cells | The cells contains the data area. |
+| area | aspose.cells.CellArea | The area needed to sort |
 
 
 ## sort(self, cells, start_row, start_column, end_row, end_column) {#aspose.cells.Cells-int-int-int-int}
@@ -75,7 +75,7 @@ def sort(self, cells, start_row, start_column, end_row, end_column):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cells | [`Cells`](/cells/python-net/aspose.cells/cells) | The cells contains the data area. |
+| cells | aspose.cells.Cells | The cells contains the data area. |
 | start_row | int | The start row of the area. |
 | start_column | int | The start column of the area. |
 | end_row | int | The end row of the area. |

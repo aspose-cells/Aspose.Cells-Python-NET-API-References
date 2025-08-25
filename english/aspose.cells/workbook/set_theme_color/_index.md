@@ -23,7 +23,7 @@ def set_theme_color(self, type, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`ThemeColorType`](/cells/python-net/aspose.cells/themecolortype) | The theme color type. |
+| type | aspose.cells.ThemeColorType | The theme color type. |
 | color | aspose.pydrawing.Color | the theme color |
 
 

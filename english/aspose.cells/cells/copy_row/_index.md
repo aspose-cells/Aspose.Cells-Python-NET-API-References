@@ -23,7 +23,7 @@ def copy_row(self, source_cells, source_row_index, destination_row_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells | [`Cells`](/cells/python-net/aspose.cells/cells) | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_row_index | int | Source row index. |
 | destination_row_index | int | Destination row index. |
 

@@ -11,7 +11,7 @@ is_root: false
 ## built_in_preference property
 
 
-Indicates whether property for number format is preferrable when the style defines both built-in number and custom pattern.
+Indicates whether property for number format is preferable when the style defines both built-in number and custom pattern.
 Default value is false, that means by default custom pattern will be used to format values as long as it is not empty for one style.
 
 ### Remarks 

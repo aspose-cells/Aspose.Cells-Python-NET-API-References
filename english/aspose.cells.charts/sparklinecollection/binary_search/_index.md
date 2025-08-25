@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.charts.Sparkline | The System.Object to locate. The value can be null. |
 
 
 

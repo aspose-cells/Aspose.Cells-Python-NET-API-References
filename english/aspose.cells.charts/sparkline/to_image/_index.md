@@ -8,7 +8,7 @@ url: /aspose.cells.charts/sparkline/to_image/
 is_root: false
 ---
 
-## to_image(self, file_name, options) {#str-aspose.cells.rendering.ImageOrPrintOptions}
+## to_image(self, file_name, options) {#System.String-aspose.cells.rendering.ImageOrPrintOptions}
 
 Converts a sparkline to an image.
 
@@ -23,7 +23,7 @@ def to_image(self, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str | The image file name. |
+| file_name | System.String | The image file name. |
 | options | aspose.cells.rendering.ImageOrPrintOptions | The image options |
 
 

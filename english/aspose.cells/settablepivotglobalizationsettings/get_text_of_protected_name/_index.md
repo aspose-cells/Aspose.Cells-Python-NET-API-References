@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_protected_name
 is_root: false
 ---
 
-## get_text_of_protected_name(self, protected_name) {#str}
+## get_text_of_protected_name(self, protected_name) {#System.String}
 
 Gets the text for specified protected name.
 
@@ -28,7 +28,7 @@ def get_text_of_protected_name(self, protected_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| protected_name | str | The protected name in PivotTable. |
+| protected_name | System.String | The protected name in PivotTable. |
 ### Remarks
 
 In Ms Excel, some names are not allowed to be used as the name of PivotFields in PivotTable.

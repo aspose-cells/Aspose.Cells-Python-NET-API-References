@@ -23,7 +23,7 @@ def copy(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
+| source | aspose.cells.Workbook | Source Workbook object. |
 
 
 ## copy(self, source, copy_options) {#aspose.cells.Workbook-aspose.cells.CopyOptions}
@@ -41,8 +41,8 @@ def copy(self, source, copy_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source Workbook object. |
-| copy_options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The options of copying other workbook. |
+| source | aspose.cells.Workbook | Source Workbook object. |
+| copy_options | aspose.cells.CopyOptions | The options of copying other workbook. |
 ### Remarks
 
 It's very simple to clone an Excel file.

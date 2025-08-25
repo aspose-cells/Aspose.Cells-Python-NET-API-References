@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.ProtectedRange | The System.Object to locate. The value can be null. |
 
 
 

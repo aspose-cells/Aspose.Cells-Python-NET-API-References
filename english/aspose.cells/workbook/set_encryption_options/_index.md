@@ -23,7 +23,7 @@ def set_encryption_options(self, encryption_type, key_length):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| encryption_type | [`EncryptionType`](/cells/python-net/aspose.cells/encryptiontype) | The encryption type. |
+| encryption_type | aspose.cells.EncryptionType | The encryption type. |
 | key_length | int | The key length. |
 
 

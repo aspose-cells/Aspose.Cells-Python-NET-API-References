@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_boolean_value_string/
 is_root: false
 ---
 
-## set_boolean_value_string(self, bv, name) {#bool-str}
+## set_boolean_value_string(self, bv, name) {#bool-System.String}
 
 Sets the display string value for cell's boolean value
 
@@ -24,7 +24,7 @@ def set_boolean_value_string(self, bv, name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | bv | bool | boolean value |
-| name | str | string value of the boolean value |
+| name | System.String | string value of the boolean value |
 
 
 

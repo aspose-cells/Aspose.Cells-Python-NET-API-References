@@ -23,8 +23,8 @@ def copy(self, source, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Picture`](/cells/python-net/aspose.cells.drawing/picture) | The source picture. |
-| options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) | The copy options. |
+| source | aspose.cells.drawing.Picture | The source picture. |
+| options | aspose.cells.CopyOptions | The copy options. |
 
 ### Example 
 

@@ -8,7 +8,7 @@ url: /aspose.cells/cell/set_table_formula/
 is_root: false
 ---
 
-## set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values) {#int-int-str-str-list}
+## set_table_formula(self, row_number, column_number, row_input_cell, column_input_cell, values) {#int-int-System.String-System.String-list}
 
 Create two-variable data table for given range starting from this cell.
 
@@ -25,12 +25,12 @@ def set_table_formula(self, row_number, column_number, row_input_cell, column_in
 | :- | :- | :- |
 | row_number | int | Number of rows to populate the formula. |
 | column_number | int | Number of columns to populate the formula. |
-| row_input_cell | str | the row input cell |
-| column_input_cell | str | the column input cell |
+| row_input_cell | System.String | the row input cell |
+| column_input_cell | System.String | the column input cell |
 | values | list | values for cells in table formula range |
 
 
-## set_table_formula(self, row_number, column_number, input_cell, is_row_input, values) {#int-int-str-bool-list}
+## set_table_formula(self, row_number, column_number, input_cell, is_row_input, values) {#int-int-System.String-bool-list}
 
 Create one-variable data table for given range starting from this cell.
 
@@ -47,7 +47,7 @@ def set_table_formula(self, row_number, column_number, input_cell, is_row_input,
 | :- | :- | :- |
 | row_number | int | Number of rows to populate the formula. |
 | column_number | int | Number of columns to populate the formula. |
-| input_cell | str | the input cell |
+| input_cell | System.String | the input cell |
 | is_row_input | bool | Indicates whether the input cell is a row input cell(true) or a column input cell(false). |
 | values | list | values for cells in table formula range |
 

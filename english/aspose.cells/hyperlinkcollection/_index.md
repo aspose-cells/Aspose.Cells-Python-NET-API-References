@@ -25,9 +25,9 @@ The HyperlinkCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, first_row, first_column, total_rows, total_columns, address)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#int-int-int-int-str) | Adds a hyperlink to a specified cell or a range of cells. |
-| [`add(self, cell_name, total_rows, total_columns, address)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#str-int-int-str) | Adds a hyperlink to a specified cell or a range of cells. |
-| [`add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#str-str-str-str-str) | Adds a hyperlink to a specified cell or a range of cells. |
+| [`add(self, first_row, first_column, total_rows, total_columns, address)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#int-int-int-int-system.string) | Adds a hyperlink to a specified cell or a range of cells. |
+| [`add(self, cell_name, total_rows, total_columns, address)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#system.string-int-int-system.string) | Adds a hyperlink to a specified cell or a range of cells. |
+| [`add(self, start_cell_name, end_cell_name, address, text_to_display, screen_tip)`](/cells/python-net/aspose.cells/hyperlinkcollection/add/#system.string-system.string-system.string-system.string-system.string) | Adds a hyperlink to a specified cell or a range of cells. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells/hyperlinkcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells/hyperlinkcollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells/hyperlinkcollection/index_of/#aspose.cells.hyperlink-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

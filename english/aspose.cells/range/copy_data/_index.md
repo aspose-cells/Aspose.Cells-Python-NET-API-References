@@ -23,7 +23,7 @@ def copy_data(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
+| range | aspose.cells.Range | Source [`Range`](/cells/python-net/aspose.cells/range) object. |
 
 
 

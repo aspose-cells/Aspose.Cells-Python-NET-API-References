@@ -23,7 +23,7 @@ def format_all(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | Style which is to format |
+| style | aspose.cells.Style | Style which is to format |
 
 
 

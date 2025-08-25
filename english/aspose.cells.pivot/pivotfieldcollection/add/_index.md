@@ -28,7 +28,7 @@ def add(self, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | a PivotField Object. |
+| pivot_field | aspose.cells.pivot.PivotField | a PivotField Object. |
 
 
 

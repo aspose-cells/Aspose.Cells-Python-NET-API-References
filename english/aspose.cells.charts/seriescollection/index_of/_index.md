@@ -3,7 +3,7 @@ title: index_of method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.charts/seriescollection/index_of/
 is_root: false
 ---
@@ -28,7 +28,7 @@ def index_of(self, item, index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Series`](/cells/python-net/aspose.cells.charts/series) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.charts.Series | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 
 
@@ -52,7 +52,7 @@ def index_of(self, item, index, count):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`Series`](/cells/python-net/aspose.cells.charts/series) | The object to locate in the array list. The value can be null. |
+| item | aspose.cells.charts.Series | The object to locate in the array list. The value can be null. |
 | index | int | The zero-based starting index of the search. 0 (zero) is valid in an empty list. |
 | count | int | The number of elements in the section to search. |
 

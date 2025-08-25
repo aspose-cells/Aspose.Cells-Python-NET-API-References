@@ -38,7 +38,7 @@ def convert_to_range(self, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| options | [`TableToRangeOptions`](/cells/python-net/aspose.cells.tables/tabletorangeoptions) | the options when converting table to range. |
+| options | aspose.cells.tables.TableToRangeOptions | the options when converting table to range. |
 
 
 

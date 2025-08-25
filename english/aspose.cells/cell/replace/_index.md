@@ -8,7 +8,7 @@ url: /aspose.cells/cell/replace/
 is_root: false
 ---
 
-## replace(self, place_holder, new_value, options) {#str-str-aspose.cells.ReplaceOptions}
+## replace(self, place_holder, new_value, options) {#System.String-System.String-aspose.cells.ReplaceOptions}
 
 Replace text of the cell with options.
 
@@ -23,9 +23,9 @@ def replace(self, place_holder, new_value, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| place_holder | str | Cell placeholder |
-| new_value | str | String value to replace |
-| options | [`ReplaceOptions`](/cells/python-net/aspose.cells/replaceoptions) | The replace options |
+| place_holder | System.String | Cell placeholder |
+| new_value | System.String | String value to replace |
+| options | aspose.cells.ReplaceOptions | The replace options |
 
 
 

@@ -3,7 +3,7 @@ title: StreamProviderOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1340
+weight: 1440
 url: /aspose.cells/streamprovideroptions/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The StreamProviderOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, loading_type, default_path)`](/cells/python-net/aspose.cells/streamprovideroptions/__init__/#aspose.cells.resourceloadingtype-str) | Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class. |
+| [`__init__(self, loading_type, default_path)`](/cells/python-net/aspose.cells/streamprovideroptions/__init__/#aspose.cells.resourceloadingtype-system.string) | Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class. |
 | [`__init__(self)`](/cells/python-net/aspose.cells/streamprovideroptions/__init__/#) | Initializes a new instance of the [`StreamProviderOptions`](/cells/python-net/aspose.cells/streamprovideroptions) class. |
 
 

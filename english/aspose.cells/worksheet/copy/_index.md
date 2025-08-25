@@ -23,7 +23,7 @@ def copy(self, source_sheet):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | Source worksheet. |
+| source_sheet | aspose.cells.Worksheet | Source worksheet. |
 
 
 ## copy(self, source_sheet, copy_options) {#aspose.cells.Worksheet-aspose.cells.CopyOptions}
@@ -41,8 +41,8 @@ def copy(self, source_sheet, copy_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_sheet | [`Worksheet`](/cells/python-net/aspose.cells/worksheet) | Source worksheet. |
-| copy_options | [`CopyOptions`](/cells/python-net/aspose.cells/copyoptions) |  |
+| source_sheet | aspose.cells.Worksheet | Source worksheet. |
+| copy_options | aspose.cells.CopyOptions |  |
 ### Remarks
 
 You can copy data from another worksheet in the same file or another file. However, this method does not support to copy drawing objects, such as comments, images and charts.

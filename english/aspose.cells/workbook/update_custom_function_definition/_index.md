@@ -23,7 +23,7 @@ def update_custom_function_definition(self, definition):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| definition | [`CustomFunctionDefinition`](/cells/python-net/aspose.cells/customfunctiondefinition) | Special definition of custom functions for user's special requirement. |
+| definition | aspose.cells.CustomFunctionDefinition | Special definition of custom functions for user's special requirement. |
 ### Remarks
 
 This method can be used for some special scenarios. For example, if user needs some parameters

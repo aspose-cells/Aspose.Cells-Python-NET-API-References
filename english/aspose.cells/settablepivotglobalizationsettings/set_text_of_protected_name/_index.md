@@ -8,7 +8,7 @@ url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name
 is_root: false
 ---
 
-## set_text_of_protected_name(self, protected_name, text) {#str-str}
+## set_text_of_protected_name(self, protected_name, text) {#System.String-System.String}
 
 Sets the text for specific protected name.
 
@@ -23,8 +23,8 @@ def set_text_of_protected_name(self, protected_name, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| protected_name | str | The protected name in PivotTable. |
-| text | str | The local prorected names of PivotTable. |
+| protected_name | System.String | The protected name in PivotTable. |
+| text | System.String | The local prorected names of PivotTable. |
 
 
 

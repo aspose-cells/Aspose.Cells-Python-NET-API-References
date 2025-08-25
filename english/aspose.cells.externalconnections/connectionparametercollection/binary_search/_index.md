@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ConnectionParameter`](/cells/python-net/aspose.cells.externalconnections/connectionparameter) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.externalconnections.ConnectionParameter | The System.Object to locate. The value can be null. |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbamodulecollection/add_user_form/
 is_root: false
 ---
 
-## add_user_form(self, name, codes, designer_storage) {#str-str-bytes}
+## add_user_form(self, name, codes, designer_storage) {#System.String-System.String-bytes}
 
 Inser user form into VBA Project.
 
@@ -28,8 +28,8 @@ def add_user_form(self, name, codes, designer_storage):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of user form |
-| codes | str | The codes for the user form |
+| name | System.String | The name of user form |
+| codes | System.String | The codes for the user form |
 | designer_storage | bytes | the designer setting about the user form |
 
 

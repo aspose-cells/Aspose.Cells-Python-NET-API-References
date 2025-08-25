@@ -28,7 +28,7 @@ def add_shape(self, type, upper_left_row, top, upper_left_column, left, height, 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`MsoDrawingType`](/cells/python-net/aspose.cells.drawing/msodrawingtype) | Mso drawing type. |
+| type | aspose.cells.drawing.MsoDrawingType | Mso drawing type. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Shape from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -53,4 +53,5 @@ shapeByType = shapes.add_shape(MsoDrawingType.CELLS_DRAWING, 1, 0, 1, 0, 100, 50
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

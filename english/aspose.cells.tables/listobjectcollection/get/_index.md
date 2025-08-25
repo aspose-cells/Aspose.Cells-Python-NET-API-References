@@ -26,7 +26,7 @@ def get(self, index):
 | index | int |  |
 
 
-## get(self, table_name) {#str}
+## get(self, table_name) {#System.String}
 
 Add API for Python Via .Net.since this[string] is unsupported
 
@@ -46,10 +46,11 @@ def get(self, table_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| table_name | str | ListObject name |
+| table_name | System.String | ListObject name |
 
 
 
 ### See Also
 * module [`aspose.cells.tables`](../../)
+* class [`ListObject`](/cells/python-net/aspose.cells.tables/listobject)
 * class [`ListObjectCollection`](/cells/python-net/aspose.cells.tables/listobjectcollection)

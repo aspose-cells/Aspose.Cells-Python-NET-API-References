@@ -28,7 +28,7 @@ def add(self, tab_alignment, tab_position):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| tab_alignment | [`TextTabAlignmentType`](/cells/python-net/aspose.cells.drawing.texts/texttabalignmenttype) |  |
+| tab_alignment | aspose.cells.drawing.texts.TextTabAlignmentType |  |
 | tab_position | float |  |
 
 

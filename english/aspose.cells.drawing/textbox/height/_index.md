@@ -3,7 +3,7 @@ title: height property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells.drawing/textbox/height/
 is_root: false
 ---

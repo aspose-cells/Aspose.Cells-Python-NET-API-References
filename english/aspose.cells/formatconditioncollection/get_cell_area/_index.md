@@ -34,4 +34,5 @@ def get_cell_area(self, index):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
 * class [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection)

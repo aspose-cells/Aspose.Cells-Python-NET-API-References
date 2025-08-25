@@ -31,7 +31,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get(self, cell_name) {#str}
+## get(self, cell_name) {#System.String}
 
 Gets the [`Comment`](/cells/python-net/aspose.cells/comment) element at the specified cell.
 
@@ -51,7 +51,7 @@ def get(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | Cell name. |
+| cell_name | System.String | Cell name. |
 
 
 ## get(self, row, column) {#int-int}

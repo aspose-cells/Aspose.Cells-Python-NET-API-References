@@ -8,7 +8,7 @@ url: /aspose.cells/namecollection/add/
 is_root: false
 ---
 
-## add(self, text) {#str}
+## add(self, text) {#System.String}
 
 Defines a new name.
 
@@ -28,7 +28,7 @@ def add(self, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | The text to use as the name. |
+| text | System.String | The text to use as the name. |
 ### Remarks
 
 Name cannot include spaces and cannot look like cell references.

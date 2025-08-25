@@ -28,7 +28,7 @@ def equals(self, cell):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell | [`Cell`](/cells/python-net/aspose.cells/cell) | another cell object |
+| cell | aspose.cells.Cell | another cell object |
 
 
 

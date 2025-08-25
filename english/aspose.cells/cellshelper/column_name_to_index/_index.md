@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/column_name_to_index/
 is_root: false
 ---
 
-## column_name_to_index(, column_name) {#str}
+## column_name_to_index(, column_name) {#System.String}
 
 Gets column index according to column name.
 
@@ -29,7 +29,7 @@ def column_name_to_index(column_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| column_name | str | Column name. |
+| column_name | System.String | Column name. |
 
 
 

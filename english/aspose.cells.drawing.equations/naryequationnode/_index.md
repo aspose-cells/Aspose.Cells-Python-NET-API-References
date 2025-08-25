@@ -28,6 +28,7 @@ The NaryEquationNode type exposes the following members:
 | [length](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/length) |  |
 | [font](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/font) |  |
 | [text_options](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/text_options) |  |
+| [parent_node](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/parent_node) |  |
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/equation_type) |  |
 | [is_hide_subscript](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/is_hide_subscript) | Whether to display the lower bound |
 | [is_hide_superscript](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/is_hide_superscript) | Whether to display the upper bound |
@@ -41,8 +42,8 @@ The NaryEquationNode type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`add_child(self, equation_type)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/add_child/#aspose.cells.drawing.equations.equationnodetype) |  |
-| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/add_child/#equationnode) |  |
-| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_child/#equationnode) |  |
+| [`add_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/add_child/#aspose.cells.drawing.equations.equationnode) |  |
+| [`remove_child(self, node)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_child/#aspose.cells.drawing.equations.equationnode) |  |
 | [`remove_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_child/#int) |  |
 | [`set_word_art_style(self, style)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/set_word_art_style/#aspose.cells.drawing.presetwordartstyle) |  |
 | [`to_la_te_x(self)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/to_la_te_x/#) |  |
@@ -53,7 +54,7 @@ The NaryEquationNode type exposes the following members:
 | [`get_child(self, index)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/get_child/#int) |  |
 | [`remove(self)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove/#) |  |
 | [`remove_all_children(self)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/remove_all_children/#) |  |
-| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-equationnode) |  |
+| [`create_node(, equation_type, workbook, parent)`](/cells/python-net/aspose.cells.drawing.equations/naryequationnode/create_node/#aspose.cells.drawing.equations.equationnodetype-aspose.cells.workbook-aspose.cells.drawing.equations.equationnode) |  |
 
 
 

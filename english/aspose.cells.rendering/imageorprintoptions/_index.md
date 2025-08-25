@@ -3,7 +3,7 @@ title: ImageOrPrintOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.rendering/imageorprintoptions/
 is_root: false
 ---
@@ -38,6 +38,7 @@ The ImageOrPrintOptions type exposes the following members:
 | [is_cell_auto_fit](/cells/python-net/aspose.cells.rendering/imageorprintoptions/is_cell_auto_fit) | Indicates whether the width and height of the cells is automatically fitted by cell value. <br/>The default value is false. |
 | [one_page_per_sheet](/cells/python-net/aspose.cells.rendering/imageorprintoptions/one_page_per_sheet) | If OnePagePerSheet is true , all content of one sheet will output to only one page in result. <br/>The paper size of pagesetup will be invalid, and the other settings of pagesetup <br/>will still take effect. |
 | [all_columns_in_one_page_per_sheet](/cells/python-net/aspose.cells.rendering/imageorprintoptions/all_columns_in_one_page_per_sheet) | If AllColumnsInOnePagePerSheet is true , all column content of one sheet will output to only one page in result. <br/>The width of paper size of pagesetup will be invalid, and the other settings of pagesetup <br/>will still take effect. |
+| [draw_object_event_handler](/cells/python-net/aspose.cells.rendering/imageorprintoptions/draw_object_event_handler) | Implements this interface to get DrawObject and Bound when rendering. |
 | [chart_image_type](/cells/python-net/aspose.cells.rendering/imageorprintoptions/chart_image_type) | Indicate the chart imagetype when converting.<br/>default value: PNG. |
 | [embeded_image_name_in_svg](/cells/python-net/aspose.cells.rendering/imageorprintoptions/embeded_image_name_in_svg) | Indicate the filename of embedded image in svg. <br/>This should be full path with directory like "c:\\xpsEmbedded" |
 | [svg_fit_to_view_port](/cells/python-net/aspose.cells.rendering/imageorprintoptions/svg_fit_to_view_port) | if this property is true, the generated svg will fit to view port. |
@@ -47,6 +48,8 @@ The ImageOrPrintOptions type exposes the following members:
 | [smoothing_mode](/cells/python-net/aspose.cells.rendering/imageorprintoptions/smoothing_mode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas.<br/>The default value is SmoothingMode.None |
 | [transparent](/cells/python-net/aspose.cells.rendering/imageorprintoptions/transparent) | Indicates if the background of generated image should be transparent. |
 | [pixel_format](/cells/python-net/aspose.cells.rendering/imageorprintoptions/pixel_format) | Gets or sets the pixel format for the generated images. |
+| [warning_callback](/cells/python-net/aspose.cells.rendering/imageorprintoptions/warning_callback) | Gets or sets warning callback. |
+| [page_saving_callback](/cells/python-net/aspose.cells.rendering/imageorprintoptions/page_saving_callback) | Control/Indicate progress of page saving process. |
 | [is_font_substitution_char_granularity](/cells/python-net/aspose.cells.rendering/imageorprintoptions/is_font_substitution_char_granularity) | Indicates whether to only substitute the font of character when the cell font is not compatibility for it. |
 | [page_index](/cells/python-net/aspose.cells.rendering/imageorprintoptions/page_index) | Gets or sets the 0-based index of the first page to save. |
 | [page_count](/cells/python-net/aspose.cells.rendering/imageorprintoptions/page_count) | Gets or sets the number of pages to save. |

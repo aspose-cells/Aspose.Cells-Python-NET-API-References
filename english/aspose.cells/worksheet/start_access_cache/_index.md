@@ -23,7 +23,7 @@ def start_access_cache(self, opts):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| opts | [`AccessCacheOptions`](/cells/python-net/aspose.cells/accesscacheoptions) | options of data access |
+| opts | aspose.cells.AccessCacheOptions | options of data access |
 ### Remarks
 
 After finishing the access to the data, [`Worksheet.close_access_cache`](/cells/python-net/aspose.cells/worksheet/close_access_cache) should

@@ -3,7 +3,7 @@ title: Worksheet class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1600
+weight: 1700
 url: /aspose.cells/worksheet/
 is_root: false
 ---
@@ -85,7 +85,7 @@ The Worksheet type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`freeze_panes(self, row, column, freezed_rows, freezed_columns)`](/cells/python-net/aspose.cells/worksheet/freeze_panes/#int-int-int-int) | Freezes panes at the specified cell in the worksheet. |
-| [`freeze_panes(self, cell_name, freezed_rows, freezed_columns)`](/cells/python-net/aspose.cells/worksheet/freeze_panes/#str-int-int) | Freezes panes at the specified cell in the worksheet. |
+| [`freeze_panes(self, cell_name, freezed_rows, freezed_columns)`](/cells/python-net/aspose.cells/worksheet/freeze_panes/#system.string-int-int) | Freezes panes at the specified cell in the worksheet. |
 | [`copy(self, source_sheet)`](/cells/python-net/aspose.cells/worksheet/copy/#aspose.cells.worksheet) | Copies contents and formats from another worksheet. |
 | [`copy(self, source_sheet, copy_options)`](/cells/python-net/aspose.cells/worksheet/copy/#aspose.cells.worksheet-aspose.cells.copyoptions) | Copies contents and formats from another worksheet. |
 | [`auto_fit_column(self, column_index, first_row, last_row)`](/cells/python-net/aspose.cells/worksheet/auto_fit_column/#int-int-int) | Autofits the column width. |
@@ -106,16 +106,16 @@ The Worksheet type exposes the following members:
 | [`auto_fit_rows(self, start_row, end_row)`](/cells/python-net/aspose.cells/worksheet/auto_fit_rows/#int-int) | Autofits row height in a range. |
 | [`auto_fit_rows(self, start_row, end_row, options)`](/cells/python-net/aspose.cells/worksheet/auto_fit_rows/#int-int-aspose.cells.autofitteroptions) | Autofits row height in a range. |
 | [`protect(self, type)`](/cells/python-net/aspose.cells/worksheet/protect/#aspose.cells.protectiontype) | Protects worksheet. |
-| [`protect(self, type, password, old_password)`](/cells/python-net/aspose.cells/worksheet/protect/#aspose.cells.protectiontype-str-str) | Protects worksheet. |
+| [`protect(self, type, password, old_password)`](/cells/python-net/aspose.cells/worksheet/protect/#aspose.cells.protectiontype-system.string-system.string) | Protects worksheet. |
 | [`unprotect(self)`](/cells/python-net/aspose.cells/worksheet/unprotect/#) | Unprotects worksheet. |
-| [`unprotect(self, password)`](/cells/python-net/aspose.cells/worksheet/unprotect/#str) | Unprotects worksheet. |
-| [`calculate_formula(self, formula)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str) | Calculates a formula. |
-| [`calculate_formula(self, formula, opts)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.calculationoptions) | Calculates a formula expression directly. |
-| [`calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#str-aspose.cells.formulaparseoptions-aspose.cells.calculationoptions-int-int-aspose.cells.calculationdata) | Calculates a formula expression directly. |
+| [`unprotect(self, password)`](/cells/python-net/aspose.cells/worksheet/unprotect/#system.string) | Unprotects worksheet. |
+| [`calculate_formula(self, formula)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#system.string) | Calculates a formula. |
+| [`calculate_formula(self, formula, opts)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#system.string-aspose.cells.calculationoptions) | Calculates a formula expression directly. |
+| [`calculate_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, calculation_data)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#system.string-aspose.cells.formulaparseoptions-aspose.cells.calculationoptions-int-int-aspose.cells.calculationdata) | Calculates a formula expression directly. |
 | [`calculate_formula(self, options, recursive)`](/cells/python-net/aspose.cells/worksheet/calculate_formula/#aspose.cells.calculationoptions-bool) | Calculates all formulas in this worksheet. |
-| [`calculate_array_formula(self, formula, opts)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.calculationoptions) | Calculates a formula as array formula. |
-| [`calculate_array_formula(self, formula, opts, max_row_count, max_column_count)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.calculationoptions-int-int) | Calculates a formula as array formula. |
-| [`calculate_array_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, max_row_count, max_column_count, calculation_data)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#str-aspose.cells.formulaparseoptions-aspose.cells.calculationoptions-int-int-int-int-aspose.cells.calculationdata) | Calculates a formula as array formula. |
+| [`calculate_array_formula(self, formula, opts)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#system.string-aspose.cells.calculationoptions) | Calculates a formula as array formula. |
+| [`calculate_array_formula(self, formula, opts, max_row_count, max_column_count)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#system.string-aspose.cells.calculationoptions-int-int) | Calculates a formula as array formula. |
+| [`calculate_array_formula(self, formula, p_opts, c_opts, base_cell_row, base_cell_column, max_row_count, max_column_count, calculation_data)`](/cells/python-net/aspose.cells/worksheet/calculate_array_formula/#system.string-aspose.cells.formulaparseoptions-aspose.cells.calculationoptions-int-int-int-int-aspose.cells.calculationdata) | Calculates a formula as array formula. |
 | [`refresh_pivot_tables(self)`](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#) | Refreshes all the PivotTables in this Worksheet. |
 | [`refresh_pivot_tables(self, option)`](/cells/python-net/aspose.cells/worksheet/refresh_pivot_tables/#aspose.cells.pivot.pivottablerefreshoption) | Refreshes all the PivotTables in this Worksheet. |
 | [`get_panes(self)`](/cells/python-net/aspose.cells/worksheet/get_panes/#) | Gets the window panes. |
@@ -123,9 +123,9 @@ The Worksheet type exposes the following members:
 | [`split(self)`](/cells/python-net/aspose.cells/worksheet/split/#) | Splits window. |
 | [`un_freeze_panes(self)`](/cells/python-net/aspose.cells/worksheet/un_freeze_panes/#) | Unfreezes panes in the worksheet. |
 | [`remove_split(self)`](/cells/python-net/aspose.cells/worksheet/remove_split/#) | Removes split window. |
-| [`add_page_breaks(self, cell_name)`](/cells/python-net/aspose.cells/worksheet/add_page_breaks/#str) | Adds page break. |
+| [`add_page_breaks(self, cell_name)`](/cells/python-net/aspose.cells/worksheet/add_page_breaks/#system.string) | Adds page break. |
 | [`get_advanced_filter(self)`](/cells/python-net/aspose.cells/worksheet/get_advanced_filter/#) | Gets the settings of advanced filter. |
-| [`advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only)`](/cells/python-net/aspose.cells/worksheet/advanced_filter/#bool-str-str-str-bool) | Filters data using complex criteria. |
+| [`advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only)`](/cells/python-net/aspose.cells/worksheet/advanced_filter/#bool-system.string-system.string-system.string-bool) | Filters data using complex criteria. |
 | [`remove_auto_filter(self)`](/cells/python-net/aspose.cells/worksheet/remove_auto_filter/#) | Removes the auto filter of the worksheet. |
 | [`set_visible(self, is_visible, ignore_error)`](/cells/python-net/aspose.cells/worksheet/set_visible/#bool-bool) | Sets the visible options. |
 | [`select_range(self, start_row, start_column, total_rows, total_columns, remove_others)`](/cells/python-net/aspose.cells/worksheet/select_range/#int-int-int-int-bool) | Selects a range. |
@@ -133,14 +133,14 @@ The Worksheet type exposes the following members:
 | [`remove_all_drawing_objects(self)`](/cells/python-net/aspose.cells/worksheet/remove_all_drawing_objects/#) | Removes all drawing objects in this worksheet. |
 | [`clear_comments(self)`](/cells/python-net/aspose.cells/worksheet/clear_comments/#) | Clears all comments in designer spreadsheet. |
 | [`move_to(self, index)`](/cells/python-net/aspose.cells/worksheet/move_to/#int) | Moves the sheet to another location in the spreadsheet. |
-| [`replace(self, old_string, new_string)`](/cells/python-net/aspose.cells/worksheet/replace/#str-str) | Replaces all cells' text with a new string. |
+| [`replace(self, old_string, new_string)`](/cells/python-net/aspose.cells/worksheet/replace/#system.string-system.string) | Replaces all cells' text with a new string. |
 | [`get_selected_ranges(self)`](/cells/python-net/aspose.cells/worksheet/get_selected_ranges/#) | Gets selected ranges of cells in the designer spreadsheet. |
 | [`get_selected_areas(self)`](/cells/python-net/aspose.cells/worksheet/get_selected_areas/#) | Gets selected ranges of cells in the designer spreadsheet. |
 | [`get_printing_page_breaks(self, options)`](/cells/python-net/aspose.cells/worksheet/get_printing_page_breaks/#aspose.cells.rendering.imageorprintoptions) | Gets automatic page breaks. |
 | [`start_access_cache(self, opts)`](/cells/python-net/aspose.cells/worksheet/start_access_cache/#aspose.cells.accesscacheoptions) | Starts the session that uses caches to access the data in this worksheet. |
 | [`close_access_cache(self, opts)`](/cells/python-net/aspose.cells/worksheet/close_access_cache/#aspose.cells.accesscacheoptions) | Closes the session that uses caches to access the data in this worksheet. |
-| [`convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column)`](/cells/python-net/aspose.cells/worksheet/convert_formula_reference_style/#str-bool-int-int) | Converts the formula reference style. |
-| [`xml_map_query(self, path, xml_map)`](/cells/python-net/aspose.cells/worksheet/xml_map_query/#str-aspose.cells.xmlmap) | Query cell areas that mapped/linked to the specific path of xml map. |
+| [`convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column)`](/cells/python-net/aspose.cells/worksheet/convert_formula_reference_style/#system.string-bool-int-int) | Converts the formula reference style. |
+| [`xml_map_query(self, path, xml_map)`](/cells/python-net/aspose.cells/worksheet/xml_map_query/#system.string-aspose.cells.xmlmap) | Query cell areas that mapped/linked to the specific path of xml map. |
 
 
 

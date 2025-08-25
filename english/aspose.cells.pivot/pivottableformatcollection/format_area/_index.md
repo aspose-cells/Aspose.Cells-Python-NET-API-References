@@ -28,16 +28,17 @@ def format_area(self, axis_type, field_position, subtotal_type, selection_type, 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| axis_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The region of the PivotTable to which this rule applies. |
+| axis_type | aspose.cells.pivot.PivotFieldType | The region of the PivotTable to which this rule applies. |
 | field_position | int | Position of the field within the axis to which this rule applies. |
-| subtotal_type | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | The subtotal filter type of the pivot field |
-| selection_type | [`PivotTableSelectionType`](/cells/python-net/aspose.cells.pivot/pivottableselectiontype) | Indicates how to select data. |
+| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | The subtotal filter type of the pivot field |
+| selection_type | aspose.cells.pivot.PivotTableSelectionType | Indicates how to select data. |
 | is_grand_row | bool | Indicates whether selecting grand total rows. |
 | is_grand_column | bool | Indicates whether selecting grand total columns. |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The style which appies to the area of the pivot table. |
+| style | aspose.cells.Style | The style which appies to the area of the pivot table. |
 
 
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat)
 * class [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection)

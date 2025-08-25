@@ -29,7 +29,7 @@ def save_format_to_extension(format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The save format. |
+| format | aspose.cells.SaveFormat | The save format. |
 
 
 

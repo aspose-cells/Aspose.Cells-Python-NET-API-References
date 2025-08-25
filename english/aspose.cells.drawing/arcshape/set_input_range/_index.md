@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/arcshape/set_input_range/
 is_root: false
 ---
 
-## set_input_range(self, formula, is_r1c1, is_local) {#str-bool-bool}
+## set_input_range(self, formula, is_r1c1, is_local) {#System.String-bool-bool}
 
 Sets the range used to fill the control.
 
@@ -23,7 +23,7 @@ def set_input_range(self, formula, is_r1c1, is_local):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| formula | str | The range used to fill the control. |
+| formula | System.String | The range used to fill the control. |
 | is_r1c1 | bool | Whether the formula needs to be formatted as R1C1. |
 | is_local | bool | Whether the formula needs to be formatted by locale. |
 

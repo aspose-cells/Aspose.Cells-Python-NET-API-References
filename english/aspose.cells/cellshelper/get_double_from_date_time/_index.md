@@ -8,7 +8,7 @@ url: /aspose.cells/cellshelper/get_double_from_date_time/
 is_root: false
 ---
 
-## get_double_from_date_time(, date_time, date1904) {#DateTime-bool}
+## get_double_from_date_time(, date_time, date1904) {#System.DateTime-bool}
 
 Convert the date time to double value.
 
@@ -29,7 +29,7 @@ def get_double_from_date_time(date_time, date1904):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_time | DateTime | The date time. |
+| date_time | System.DateTime | The date time. |
 | date1904 | bool | Date 1904 system. |
 
 

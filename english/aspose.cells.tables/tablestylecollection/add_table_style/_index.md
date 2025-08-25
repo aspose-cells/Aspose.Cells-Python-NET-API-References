@@ -8,7 +8,7 @@ url: /aspose.cells.tables/tablestylecollection/add_table_style/
 is_root: false
 ---
 
-## add_table_style(self, name) {#str}
+## add_table_style(self, name) {#System.String}
 
 Adds a custom table style.
 
@@ -28,7 +28,7 @@ def add_table_style(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The table style name. |
+| name | System.String | The table style name. |
 
 
 

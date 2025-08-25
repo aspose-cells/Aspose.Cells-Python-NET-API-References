@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/custompiovtfieldgroupitem/__init__/
 is_root: false
 ---
 
-## \_\_init\_\_(self, name, item_indexes) {#str-list}
+## \_\_init\_\_(self, name, item_indexes) {#System.String-list}
 
 The constructor of custom group item of pivot field.
 
@@ -23,7 +23,7 @@ def __init__(self, name, item_indexes):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of group item |
+| name | System.String | The name of group item |
 | item_indexes | list | All indexes to the items of base pivot field. |
 
 

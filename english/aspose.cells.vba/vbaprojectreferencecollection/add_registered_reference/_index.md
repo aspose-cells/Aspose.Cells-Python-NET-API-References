@@ -8,7 +8,7 @@ url: /aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---
 
-## add_registered_reference(self, name, libid) {#str-str}
+## add_registered_reference(self, name, libid) {#System.String-System.String}
 
 Add a reference to an Automation type library.
 
@@ -28,8 +28,8 @@ def add_registered_reference(self, name, libid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of reference. |
-| libid | str | The identifier of an Automation type library. |
+| name | System.String | The name of reference. |
+| libid | System.String | The identifier of an Automation type library. |
 
 
 

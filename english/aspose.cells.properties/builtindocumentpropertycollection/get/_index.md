@@ -26,7 +26,7 @@ def get(self, name):
 | name | int | The case-insensitive name of the property to retrieve. |
 
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 
 
@@ -41,7 +41,7 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 
 
 

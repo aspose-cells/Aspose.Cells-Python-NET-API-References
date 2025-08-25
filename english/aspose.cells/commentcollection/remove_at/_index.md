@@ -8,7 +8,7 @@ url: /aspose.cells/commentcollection/remove_at/
 is_root: false
 ---
 
-## remove_at(self, cell_name) {#str}
+## remove_at(self, cell_name) {#System.String}
 
 Removes the comment of the specific cell.
 
@@ -23,7 +23,7 @@ def remove_at(self, cell_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| cell_name | str | The name of cell which contains a comment. |
+| cell_name | System.String | The name of cell which contains a comment. |
 
 ### Example 
 

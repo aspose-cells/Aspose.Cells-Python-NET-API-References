@@ -28,7 +28,7 @@ def add(self, range):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | Range object |
+| range | aspose.cells.Range | Range object |
 
 
 

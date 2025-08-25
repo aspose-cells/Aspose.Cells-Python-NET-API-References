@@ -41,6 +41,7 @@ The EbookSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells.saving/ebooksaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells.saving/ebooksaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
 | [refresh_chart_cache](/cells/python-net/aspose.cells.saving/ebooksaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
+| [warning_callback](/cells/python-net/aspose.cells.saving/ebooksaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells.saving/ebooksaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells.saving/ebooksaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |
 | [encrypt_document_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encrypt_document_properties) | Indicates whether encrypt document properties when saving as .xls file.<br/>The default value is true. |
@@ -67,6 +68,9 @@ The EbookSaveOptions type exposes the following members:
 | [hidden_col_display_type](/cells/python-net/aspose.cells.saving/ebooksaveoptions/hidden_col_display_type) | Hidden column(the width of this column is 0) in excel,before save this into html format,<br/>if HtmlHiddenColDisplayType is "Remove",the hidden column would not been output,<br/>if the value is "Hidden", the column would been output,but was hidden,the default value is "Hidden" |
 | [hidden_row_display_type](/cells/python-net/aspose.cells.saving/ebooksaveoptions/hidden_row_display_type) | Hidden row(the height of this row is 0) in excel,before save this into html format,<br/>if HtmlHiddenRowDisplayType is "Remove",the hidden row would not been output,<br/>if the value is "Hidden", the row would been output,but was hidden,the default value is "Hidden" |
 | [encoding](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encoding) | If not set,use Encoding.UTF8 as default enconding type. |
+| [export_object_listener](/cells/python-net/aspose.cells.saving/ebooksaveoptions/export_object_listener) | Gets or sets the ExportObjectListener for exporting objects. |
+| [file_path_provider](/cells/python-net/aspose.cells.saving/ebooksaveoptions/file_path_provider) | Gets or sets the IFilePathProvider for exporting Worksheet to html separately. |
+| [stream_provider](/cells/python-net/aspose.cells.saving/ebooksaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects. |
 | [image_options](/cells/python-net/aspose.cells.saving/ebooksaveoptions/image_options) | Get the ImageOrPrintOptions object before exporting |
 | [save_as_single_file](/cells/python-net/aspose.cells.saving/ebooksaveoptions/save_as_single_file) | Indicates whether save the html as single file.<br/>The default value is false. |
 | [show_all_sheets](/cells/python-net/aspose.cells.saving/ebooksaveoptions/show_all_sheets) | Indicates whether showing all sheets when saving  as a single html file. |

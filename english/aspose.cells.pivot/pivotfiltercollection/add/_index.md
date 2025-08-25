@@ -29,7 +29,7 @@ def add(self, field_index, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_index | int | the PivotField index |
-| type | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | the PivotFilter type |
+| type | aspose.cells.pivot.PivotFilterType | the PivotFilter type |
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 

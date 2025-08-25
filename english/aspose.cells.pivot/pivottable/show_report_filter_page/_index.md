@@ -23,7 +23,7 @@ def show_report_filter_page(self, page_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| page_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The PivotField object |
+| page_field | aspose.cells.pivot.PivotField | The PivotField object |
 
 
 

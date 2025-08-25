@@ -60,4 +60,5 @@ def end_cell_in_column(self, start_row, end_row, start_column, end_column):
 
 ### See Also
 * module [`aspose.cells`](../../)
+* class [`Cell`](/cells/python-net/aspose.cells/cell)
 * class [`Cells`](/cells/python-net/aspose.cells/cells)

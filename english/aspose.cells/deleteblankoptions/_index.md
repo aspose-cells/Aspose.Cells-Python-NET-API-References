@@ -31,6 +31,7 @@ The DeleteBlankOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [update_reference](/cells/python-net/aspose.cells/deleteblankoptions/update_reference) | Indicates if update references in other worksheets. |
+| [formula_change_monitor](/cells/python-net/aspose.cells/deleteblankoptions/formula_change_monitor) | Gets/sets the monitor for tracking changes caused by the deletion. |
 | [empty_string_as_blank](/cells/python-net/aspose.cells/deleteblankoptions/empty_string_as_blank) | Whether one cell will be taken as blank when its value is empty string.<br/>Default value is true. |
 | [empty_formula_value_as_blank](/cells/python-net/aspose.cells/deleteblankoptions/empty_formula_value_as_blank) | Whether one cell will be taken as blank when it is formula and the calculated result is null or empty string.<br/>Default value is false. |
 | [drawings_as_blank](/cells/python-net/aspose.cells/deleteblankoptions/drawings_as_blank) | Whether drawing related objects such as picture, shape, chart... will be taken as blank.<br/>Default value is true. |

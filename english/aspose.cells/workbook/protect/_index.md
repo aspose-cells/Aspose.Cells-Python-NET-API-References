@@ -8,7 +8,7 @@ url: /aspose.cells/workbook/protect/
 is_root: false
 ---
 
-## protect(self, protection_type, password) {#aspose.cells.ProtectionType-str}
+## protect(self, protection_type, password) {#aspose.cells.ProtectionType-System.String}
 
 Protects a workbook.
 
@@ -23,8 +23,8 @@ def protect(self, protection_type, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| protection_type | [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype) | Protection type. |
-| password | str | Password to protect the workbook. |
+| protection_type | aspose.cells.ProtectionType | Protection type. |
+| password | System.String | Password to protect the workbook. |
 
 
 

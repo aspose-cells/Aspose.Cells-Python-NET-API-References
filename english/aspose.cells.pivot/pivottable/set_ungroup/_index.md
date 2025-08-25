@@ -46,7 +46,7 @@ def set_ungroup(self, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the base fields |
+| pivot_field | aspose.cells.pivot.PivotField | The row or column field in the base fields |
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 

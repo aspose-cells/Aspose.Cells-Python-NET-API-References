@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivotitemcollection/get/
 is_root: false
 ---
 
-## get(self, item_value) {#str}
+## get(self, item_value) {#System.String}
 
 Gets the [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) by the specific name.
 
@@ -23,7 +23,7 @@ def get(self, item_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item_value | str |  |
+| item_value | System.String |  |
 
 
 

@@ -8,7 +8,7 @@ url: /aspose.cells.pivot/pivottable/remove_field/
 is_root: false
 ---
 
-## remove_field(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-str}
+## remove_field(self, field_type, field_name) {#aspose.cells.pivot.PivotFieldType-System.String}
 
 Removes a field from specific field area
 
@@ -23,8 +23,8 @@ def remove_field(self, field_type, field_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
-| field_name | str | The name in the base fields. |
+| field_type | aspose.cells.pivot.PivotFieldType | The fields area type. |
+| field_name | System.String | The name in the base fields. |
 
 
 ## remove_field(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
@@ -42,7 +42,7 @@ def remove_field(self, field_type, base_field_index):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | The fields area type. |
+| field_type | aspose.cells.pivot.PivotFieldType | The fields area type. |
 | base_field_index | int | The field index in the base fields. |
 
 
@@ -61,8 +61,8 @@ def remove_field(self, field_type, pivot_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field_type | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | the fields area type. |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | the field in the base fields. |
+| field_type | aspose.cells.pivot.PivotFieldType | the fields area type. |
+| pivot_field | aspose.cells.pivot.PivotField | the field in the base fields. |
 
 
 

@@ -49,4 +49,5 @@ comboBox = shapes.add_combo_box(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`ComboBox`](/cells/python-net/aspose.cells.drawing/combobox)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

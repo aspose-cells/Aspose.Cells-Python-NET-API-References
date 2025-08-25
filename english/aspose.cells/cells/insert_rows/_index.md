@@ -3,7 +3,7 @@ title: insert_rows method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 760
 url: /aspose.cells/cells/insert_rows/
 is_root: false
 ---
@@ -64,7 +64,7 @@ def insert_rows(self, row_index, total_rows, options):
 | :- | :- | :- |
 | row_index | int | Row index. |
 | total_rows | int | Number of rows to be inserted. |
-| options | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | Options for inserting operation. |
+| options | aspose.cells.InsertOptions | Options for inserting operation. |
 
 
 

@@ -49,4 +49,5 @@ listBox = shapes.add_list_box(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`ListBox`](/cells/python-net/aspose.cells.drawing/listbox)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

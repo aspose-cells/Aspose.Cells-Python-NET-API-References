@@ -31,7 +31,7 @@ def get(self, index):
 | index | int | The zero based index of the element. |
 
 
-## get(self, name) {#str}
+## get(self, name) {#System.String}
 
 Add API for Python Via .Net.since this[string Chart] is unsupported
 
@@ -51,10 +51,11 @@ def get(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Chart name |
+| name | System.String | Chart name |
 
 
 
 ### See Also
 * module [`aspose.cells.charts`](../../)
+* class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
 * class [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection)

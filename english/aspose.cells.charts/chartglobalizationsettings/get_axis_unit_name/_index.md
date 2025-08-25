@@ -28,7 +28,7 @@ def get_axis_unit_name(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`DisplayUnitType`](/cells/python-net/aspose.cells.charts/displayunittype) |  |
+| type | aspose.cells.charts.DisplayUnitType |  |
 
 
 

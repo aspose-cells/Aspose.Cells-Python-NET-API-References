@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/set_list_separator/
 is_root: false
 ---
 
-## set_list_separator(self, c) {#char}
+## set_list_separator(self, c) {#System.Char}
 
 Sets the separator for list, parameters of function, ...etc.
 
@@ -23,7 +23,7 @@ def set_list_separator(self, c):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| c | char | the specified separator |
+| c | System.Char | the specified separator |
 
 
 

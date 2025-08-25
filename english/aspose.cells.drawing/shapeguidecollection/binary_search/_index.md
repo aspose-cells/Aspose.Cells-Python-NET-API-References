@@ -28,7 +28,7 @@ def binary_search(self, item):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item | [`ShapeGuide`](/cells/python-net/aspose.cells.drawing/shapeguide) | The System.Object to locate. The value can be null. |
+| item | aspose.cells.drawing.ShapeGuide | The System.Object to locate. The value can be null. |
 
 
 

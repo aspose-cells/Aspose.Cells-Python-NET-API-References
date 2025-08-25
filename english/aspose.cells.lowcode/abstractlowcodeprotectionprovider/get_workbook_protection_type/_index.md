@@ -33,3 +33,4 @@ def get_workbook_protection_type(self):
 ### See Also
 * module [`aspose.cells.lowcode`](../../)
 * class [`AbstractLowCodeProtectionProvider`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider)
+* class [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype)

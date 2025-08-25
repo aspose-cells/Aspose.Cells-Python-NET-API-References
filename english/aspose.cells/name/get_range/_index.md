@@ -81,3 +81,4 @@ def get_range(self, sheet_index, row, column):
 ### See Also
 * module [`aspose.cells`](../../)
 * class [`Name`](/cells/python-net/aspose.cells/name)
+* class [`Range`](/cells/python-net/aspose.cells/range)

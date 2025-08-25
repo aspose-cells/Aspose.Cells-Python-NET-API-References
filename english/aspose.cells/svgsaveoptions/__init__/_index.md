@@ -40,7 +40,7 @@ def __init__(self, save_format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| save_format | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | The file format.<br/>It should be one of following types: [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF), [`SaveFormat.SVG`](/cells/python-net/aspose.cells/saveformat#SVG),<br/>[`SaveFormat.BMP`](/cells/python-net/aspose.cells/saveformat#BMP), [`SaveFormat.PNG`](/cells/python-net/aspose.cells/saveformat#PNG), [`SaveFormat.JPG`](/cells/python-net/aspose.cells/saveformat#JPG),<br/>[`SaveFormat.EMF`](/cells/python-net/aspose.cells/saveformat#EMF) or [`SaveFormat.GIF`](/cells/python-net/aspose.cells/saveformat#GIF),<br/>otherwise the saved format will be set as [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF) automatically. |
+| save_format | aspose.cells.SaveFormat | The file format.<br/>It should be one of following types: [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF), [`SaveFormat.SVG`](/cells/python-net/aspose.cells/saveformat#SVG),<br/>[`SaveFormat.BMP`](/cells/python-net/aspose.cells/saveformat#BMP), [`SaveFormat.PNG`](/cells/python-net/aspose.cells/saveformat#PNG), [`SaveFormat.JPG`](/cells/python-net/aspose.cells/saveformat#JPG),<br/>[`SaveFormat.EMF`](/cells/python-net/aspose.cells/saveformat#EMF) or [`SaveFormat.GIF`](/cells/python-net/aspose.cells/saveformat#GIF),<br/>otherwise the saved format will be set as [`SaveFormat.TIFF`](/cells/python-net/aspose.cells/saveformat#TIFF) automatically. |
 
 
 

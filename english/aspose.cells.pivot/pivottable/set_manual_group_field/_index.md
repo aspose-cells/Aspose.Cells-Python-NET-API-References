@@ -50,7 +50,7 @@ def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list,
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the base fields |
+| pivot_field | aspose.cells.pivot.PivotField | The row or column field in the base fields |
 | start_val | float | Specifies the starting value for numeric grouping. |
 | end_val | float | Specifies the ending value for numeric grouping. |
 | group_by_list | list | Specifies the grouping type list. Specified by PivotTableGroupType |
@@ -62,7 +62,7 @@ please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num) {#int-DateTime-DateTime-list-int}
+## set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num) {#int-System.DateTime-System.DateTime-list-int}
 
 Sets manual field group by the PivotTable.
 
@@ -78,8 +78,8 @@ def set_manual_group_field(self, base_field_index, start_val, end_val, group_by_
 | Parameter | Type | Description |
 | :- | :- | :- |
 | base_field_index | int | The row or column field index in the base fields |
-| start_val | DateTime | Specifies the starting value for date grouping. |
-| end_val | DateTime | Specifies the ending value for date grouping. |
+| start_val | System.DateTime | Specifies the starting value for date grouping. |
+| end_val | System.DateTime | Specifies the ending value for date grouping. |
 | group_by_list | list | Specifies the grouping type list. Specified by PivotTableGroupType |
 | interval_num | int | Specifies the interval number group by in days grouping.The number of days must be positive integer of nonzero |
 ### Remarks
@@ -89,7 +89,7 @@ please use PivotField.GroupBy() method.
 This method will be removed 12 months later since October 2023. 
 Aspose apologizes for any inconvenience you may have experienced.
 
-## set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num) {#aspose.cells.pivot.PivotField-DateTime-DateTime-list-int}
+## set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num) {#aspose.cells.pivot.PivotField-System.DateTime-System.DateTime-list-int}
 
 Sets manual field group by the PivotTable.
 
@@ -104,9 +104,9 @@ def set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list,
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_field | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | The row or column field in the base fields |
-| start_val | DateTime | Specifies the starting value for date grouping. |
-| end_val | DateTime | Specifies the ending value for date grouping. |
+| pivot_field | aspose.cells.pivot.PivotField | The row or column field in the base fields |
+| start_val | System.DateTime | Specifies the starting value for date grouping. |
+| end_val | System.DateTime | Specifies the ending value for date grouping. |
 | group_by_list | list | Specifies the grouping type list. Specified by PivotTableGroupType |
 | interval_num | int | Specifies the interval number group by in days grouping.The number of days must be positive integer of nonzero |
 ### Remarks

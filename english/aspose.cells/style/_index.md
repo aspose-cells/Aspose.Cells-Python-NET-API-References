@@ -3,7 +3,7 @@ title: Style class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1350
+weight: 1450
 url: /aspose.cells/style/
 is_root: false
 ---
@@ -73,7 +73,7 @@ The Style type exposes the following members:
 | [`copy(self, style)`](/cells/python-net/aspose.cells/style/copy/#aspose.cells.style) | Copies data from another style object |
 | [`update(self)`](/cells/python-net/aspose.cells/style/update/#) | Apply the named style to the styles of the cells which use this named style.<br/>It works like clicking the "ok" button after you finished modifying the style.<br/>Only applies for named style. |
 | [`is_modified(self, modify_flag)`](/cells/python-net/aspose.cells/style/is_modified/#aspose.cells.stylemodifyflag) | Checks whether the specified properties of the style have been modified.<br/>Used for style of ConditionalFormattings to check whether the specified properties of this style should be used when applying the ConditionalFormattings on a cell. |
-| [`set_custom(self, custom, builtin_preference)`](/cells/python-net/aspose.cells/style/set_custom/#str-bool) | Sets the Custom number format string of a cell. |
+| [`set_custom(self, custom, builtin_preference)`](/cells/python-net/aspose.cells/style/set_custom/#system.string-bool) | Sets the Custom number format string of a cell. |
 | [`set_two_color_gradient(self, color1, color2, gradient_style_type, variant)`](/cells/python-net/aspose.cells/style/set_two_color_gradient/#aspose.pydrawing.color-aspose.pydrawing.color-aspose.cells.drawing.gradientstyletype-int) | Sets the specified fill to a two-color gradient. |
 | [`get_two_color_gradient(self, color1, color2, gradient_style_type, variant)`](/cells/python-net/aspose.cells/style/get_two_color_gradient/#aspose.pydrawing.color&-aspose.pydrawing.color&-any-any) | Get the two-color gradient setting. |
 | [`get_two_color_gradient_setting(self)`](/cells/python-net/aspose.cells/style/get_two_color_gradient_setting/#) | Get the two-color gradient setting. |

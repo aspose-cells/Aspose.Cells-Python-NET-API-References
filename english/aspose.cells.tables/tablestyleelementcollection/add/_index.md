@@ -28,7 +28,7 @@ def add(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`TableStyleElementType`](/cells/python-net/aspose.cells.tables/tablestyleelementtype) | The type of the element |
+| type | aspose.cells.tables.TableStyleElementType | The type of the element |
 
 
 

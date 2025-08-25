@@ -8,7 +8,7 @@ url: /aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_worksheet_prote
 is_root: false
 ---
 
-## get_worksheet_protection_type(self, sheet_name) {#str}
+## get_worksheet_protection_type(self, sheet_name) {#System.String}
 
 Gets the protection type to protect the specified worksheet.
 
@@ -29,10 +29,11 @@ def get_worksheet_protection_type(self, sheet_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sheet_name | str |  |
+| sheet_name | System.String |  |
 
 
 
 ### See Also
 * module [`aspose.cells.lowcode`](../../)
 * class [`AbstractLowCodeProtectionProvider`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider)
+* class [`ProtectionType`](/cells/python-net/aspose.cells/protectiontype)

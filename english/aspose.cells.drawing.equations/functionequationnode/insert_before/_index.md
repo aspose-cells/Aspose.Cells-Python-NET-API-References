@@ -23,7 +23,7 @@ def insert_before(self, equation_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| equation_type | [`EquationNodeType`](/cells/python-net/aspose.cells.drawing.equations/equationnodetype) |  |
+| equation_type | aspose.cells.drawing.equations.EquationNodeType |  |
 
 
 

@@ -56,9 +56,14 @@ def process(self, range, is_preserved):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| range | [`Range`](/cells/python-net/aspose.cells/range) | The range to be processed |
+| range | aspose.cells.Range | The range to be processed |
 | is_preserved | bool | True if the unrecognized smart marker is preserved. |
+### Remarks
 
+NOTE: This class is now obsolete. Instead, 
+please use Range smart markers.
+This property will be removed 12 months later since July 2025.
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## process(self, sheet_index, is_preserved) {#int-bool}
 

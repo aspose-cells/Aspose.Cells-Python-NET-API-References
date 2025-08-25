@@ -23,7 +23,7 @@ def __init__(self, metadata_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| metadata_type | [`MetadataType`](/cells/python-net/aspose.cells.metadata/metadatatype) | The type of metadata. |
+| metadata_type | aspose.cells.metadata.MetadataType | The type of metadata. |
 
 
 

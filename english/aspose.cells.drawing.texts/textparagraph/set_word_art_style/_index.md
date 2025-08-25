@@ -23,7 +23,7 @@ def set_word_art_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`PresetWordArtStyle`](/cells/python-net/aspose.cells.drawing/presetwordartstyle) | The preset WordArt style. |
+| style | aspose.cells.drawing.PresetWordArtStyle | The preset WordArt style. |
 ### Remarks
 
 Only for the text of shape/chart.

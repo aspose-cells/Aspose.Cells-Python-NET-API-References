@@ -8,7 +8,7 @@ url: /aspose.cells.markup/smarttagpropertycollection/add/
 is_root: false
 ---
 
-## add(self, name, value) {#str-str}
+## add(self, name, value) {#System.String-System.String}
 
 Adds a property of cell's smart tag.
 
@@ -28,8 +28,8 @@ def add(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The name of the property |
-| value | str | The value of the property. |
+| name | System.String | The name of the property |
+| value | System.String | The value of the property. |
 
 
 

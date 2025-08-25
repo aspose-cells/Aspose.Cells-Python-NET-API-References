@@ -3,7 +3,7 @@ title: recursive property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /aspose.cells/calculationoptions/recursive/
 is_root: false
 ---

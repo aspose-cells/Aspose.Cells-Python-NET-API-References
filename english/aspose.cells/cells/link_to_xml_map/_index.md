@@ -3,12 +3,12 @@ title: link_to_xml_map method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /aspose.cells/cells/link_to_xml_map/
 is_root: false
 ---
 
-## link_to_xml_map(self, map_name, row, column, path) {#str-int-int-str}
+## link_to_xml_map(self, map_name, row, column, path) {#System.String-int-int-System.String}
 
 Link to a xml map.
 
@@ -23,10 +23,10 @@ def link_to_xml_map(self, map_name, row, column, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| map_name | str | name of xml map |
+| map_name | System.String | name of xml map |
 | row | int | row of the destination cell |
 | column | int | column of the destination cell |
-| path | str | path of xml element in xml map |
+| path | System.String | path of xml element in xml map |
 
 
 

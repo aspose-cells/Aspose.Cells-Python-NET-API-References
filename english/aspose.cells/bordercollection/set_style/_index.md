@@ -23,7 +23,7 @@ def set_style(self, style):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`CellBorderType`](/cells/python-net/aspose.cells/cellbordertype) | Borders' style |
+| style | aspose.cells.CellBorderType | Borders' style |
 
 
 

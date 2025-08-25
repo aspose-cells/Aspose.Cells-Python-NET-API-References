@@ -23,7 +23,7 @@ def remove_pivot_table(self, pivot_table):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pivot_table | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | PivotTable object |
+| pivot_table | aspose.cells.pivot.PivotTable | PivotTable object |
 
 
 

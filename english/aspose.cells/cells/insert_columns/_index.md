@@ -3,7 +3,7 @@ title: insert_columns method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 720
 url: /aspose.cells/cells/insert_columns/
 is_root: false
 ---
@@ -64,7 +64,7 @@ def insert_columns(self, column_index, total_columns, options):
 | :- | :- | :- |
 | column_index | int | Column index. |
 | total_columns | int | The number of columns. |
-| options | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | The options for inserting operation. |
+| options | aspose.cells.InsertOptions | The options for inserting operation. |
 
 
 

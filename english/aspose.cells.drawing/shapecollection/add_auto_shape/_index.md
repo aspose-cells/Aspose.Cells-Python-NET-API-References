@@ -28,7 +28,7 @@ def add_auto_shape(self, type, upper_left_row, top, upper_left_column, left, hei
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`AutoShapeType`](/cells/python-net/aspose.cells.drawing/autoshapetype) | Auto shape type. |
+| type | aspose.cells.drawing.AutoShapeType | Auto shape type. |
 | upper_left_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Shape from its left row, in unit of pixel. |
 | upper_left_column | int | Upper left column index. |
@@ -53,4 +53,5 @@ autoShape = shapes.add_auto_shape(AutoShapeType.CUBE, 1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)

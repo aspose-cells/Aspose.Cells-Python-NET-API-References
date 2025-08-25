@@ -30,7 +30,7 @@ def preprocess_exported_value(self, cell_row, cell_column, value):
 | :- | :- | :- |
 | cell_row | int | the row index of current cell |
 | cell_column | int | the column index of cell |
-| value | [`CellValue`](/cells/python-net/aspose.cells/cellvalue) | value and type of current cell |
+| value | aspose.cells.CellValue | value and type of current cell |
 ### Remarks
 
 The row and column index is cell's absolute index in the worksheet, not index in the exported table.

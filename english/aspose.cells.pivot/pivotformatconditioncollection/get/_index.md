@@ -29,4 +29,5 @@ def get(self, index):
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition)
 * class [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection)

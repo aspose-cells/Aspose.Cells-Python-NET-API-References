@@ -3,7 +3,7 @@ title: left_to_corner property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 790
 url: /aspose.cells.drawing/arcshape/left_to_corner/
 is_root: false
 ---

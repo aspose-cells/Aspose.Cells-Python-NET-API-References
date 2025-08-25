@@ -3,7 +3,7 @@ title: XpsSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1700
+weight: 1800
 url: /aspose.cells/xpssaveoptions/
 is_root: false
 ---
@@ -39,6 +39,7 @@ The XpsSaveOptions type exposes the following members:
 | [sort_names](/cells/python-net/aspose.cells/xpssaveoptions/sort_names) |  |
 | [sort_external_names](/cells/python-net/aspose.cells/xpssaveoptions/sort_external_names) |  |
 | [refresh_chart_cache](/cells/python-net/aspose.cells/xpssaveoptions/refresh_chart_cache) |  |
+| [warning_callback](/cells/python-net/aspose.cells/xpssaveoptions/warning_callback) |  |
 | [check_excel_restriction](/cells/python-net/aspose.cells/xpssaveoptions/check_excel_restriction) |  |
 | [update_smart_art](/cells/python-net/aspose.cells/xpssaveoptions/update_smart_art) |  |
 | [encrypt_document_properties](/cells/python-net/aspose.cells/xpssaveoptions/encrypt_document_properties) |  |

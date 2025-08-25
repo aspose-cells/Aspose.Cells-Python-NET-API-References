@@ -28,10 +28,10 @@ def add_condition(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`FormatConditionType`](/cells/python-net/aspose.cells/formatconditiontype) | Format condition type. |
+| type | aspose.cells.FormatConditionType | Format condition type. |
 
 
-## add_condition(self, type, operator_type, formula1, formula2) {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-str-str}
+## add_condition(self, type, operator_type, formula1, formula2) {#aspose.cells.FormatConditionType-aspose.cells.OperatorType-System.String-System.String}
 
 Adds a formatting condition.
 
@@ -51,10 +51,10 @@ def add_condition(self, type, operator_type, formula1, formula2):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [`FormatConditionType`](/cells/python-net/aspose.cells/formatconditiontype) | The type of format condition. |
-| operator_type | [`OperatorType`](/cells/python-net/aspose.cells/operatortype) | The operator type |
-| formula1 | str | The value or expression associated with conditional formatting.<br/>If the input value starts with '=', then it will be taken as formula.<br/>Otherwise it will be taken as plain value(text, number, bool).<br/>For text value that starts with '=', user may input it as formula in format: "=\"=...\"". |
-| formula2 | str | The value or expression associated with conditional formatting.<br/>The input format is same with formula1 |
+| type | aspose.cells.FormatConditionType | The type of format condition. |
+| operator_type | aspose.cells.OperatorType | The operator type |
+| formula1 | System.String | The value or expression associated with conditional formatting.<br/>If the input value starts with '=', then it will be taken as formula.<br/>Otherwise it will be taken as plain value(text, number, bool).<br/>For text value that starts with '=', user may input it as formula in format: "=\"=...\"". |
+| formula2 | System.String | The value or expression associated with conditional formatting.<br/>The input format is same with formula1 |
 
 
 

@@ -3,7 +3,7 @@ title: BuiltinStyleType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1770
+weight: 1870
 url: /aspose.cells/builtinstyletype/
 is_root: false
 ---

@@ -8,7 +8,7 @@ url: /aspose.cells/customfunctiondefinition/get_array_mode_parameters/
 is_root: false
 ---
 
-## get_array_mode_parameters(self, function_name) {#str}
+## get_array_mode_parameters(self, function_name) {#System.String}
 
 Gets the indices of given custom function's parameters that need to be calculated in array mode.
 
@@ -29,7 +29,7 @@ def get_array_mode_parameters(self, function_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| function_name | str | Name of the custom function. |
+| function_name | System.String | Name of the custom function. |
 ### Remarks
 
 For an expression that needs to be calculated, taking A:A+B:B as an example:

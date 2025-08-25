@@ -3,7 +3,7 @@ title: PasteOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1090
+weight: 1190
 url: /aspose.cells/pasteoptions/
 is_root: false
 ---
@@ -27,6 +27,7 @@ The PasteOptions type exposes the following members:
 | :- | :- |
 | [paste_type](/cells/python-net/aspose.cells/pasteoptions/paste_type) | The paste special type. |
 | [skip_blanks](/cells/python-net/aspose.cells/pasteoptions/skip_blanks) | Indicates whether skips blank cells. |
+| [keep_old_tables](/cells/python-net/aspose.cells/pasteoptions/keep_old_tables) | Keeps the tables in the destination range. |
 | [only_visible_cells](/cells/python-net/aspose.cells/pasteoptions/only_visible_cells) | True means only copying visible cells. |
 | [transpose](/cells/python-net/aspose.cells/pasteoptions/transpose) | True to transpose rows and columns when the range is pasted. The default value is False. |
 | [operation_type](/cells/python-net/aspose.cells/pasteoptions/operation_type) | Gets and sets the operation type when pasting range. |

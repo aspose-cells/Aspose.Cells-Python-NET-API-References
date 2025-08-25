@@ -23,8 +23,8 @@ def apply_style(self, style, flag):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| style | [`Style`](/cells/python-net/aspose.cells/style) | The style object which will be applied. |
-| flag | [`StyleFlag`](/cells/python-net/aspose.cells/styleflag) | Flags which indicates applied formatting properties. |
+| style | aspose.cells.Style | The style object which will be applied. |
+| flag | aspose.cells.StyleFlag | Flags which indicates applied formatting properties. |
 ### Remarks
 
 Each cell in this range will contains a [`Style`](/cells/python-net/aspose.cells/style) object. 

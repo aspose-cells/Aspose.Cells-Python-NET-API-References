@@ -8,7 +8,7 @@ url: /aspose.cells/settableglobalizationsettings/get_local_function_name/
 is_root: false
 ---
 
-## get_local_function_name(self, standard_name) {#str}
+## get_local_function_name(self, standard_name) {#System.String}
 
 Gets the locale dependent function name according to given standard function name.
 
@@ -28,7 +28,7 @@ def get_local_function_name(self, standard_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| standard_name | str | Standard(en-US locale) function name. |
+| standard_name | System.String | Standard(en-US locale) function name. |
 
 
 

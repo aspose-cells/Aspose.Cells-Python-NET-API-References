@@ -8,7 +8,7 @@ url: /aspose.cells/globalizationsettings/compare/
 is_root: false
 ---
 
-## compare(self, v1, v2, ignore_case) {#str-str-bool}
+## compare(self, v1, v2, ignore_case) {#System.String-System.String-bool}
 
 Compares two string values according to certain collation rules.
 
@@ -28,8 +28,8 @@ def compare(self, v1, v2, ignore_case):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| v1 | str | the first string |
-| v2 | str | the second string |
+| v1 | System.String | the first string |
+| v2 | System.String | the second string |
 | ignore_case | bool | whether ignore case when comparing values |
 
 

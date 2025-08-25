@@ -23,7 +23,7 @@ def copy_theme(self, source):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source | [`Workbook`](/cells/python-net/aspose.cells/workbook) | Source workbook. |
+| source | aspose.cells.Workbook | Source workbook. |
 
 
 

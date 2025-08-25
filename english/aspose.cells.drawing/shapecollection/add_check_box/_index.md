@@ -49,4 +49,5 @@ checkBox = shapes.add_check_box(1, 0, 1, 0, 100, 50)
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)
+* class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
 * class [`ShapeCollection`](/cells/python-net/aspose.cells.drawing/shapecollection)
