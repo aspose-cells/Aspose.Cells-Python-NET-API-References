@@ -37,6 +37,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`ColorDepth`](/cells/python-net/aspose.cells.rendering/colordepth) | Enumerates Bit Depth Type for tiff image. |
 | [`CommentTitleType`](/cells/python-net/aspose.cells.rendering/commenttitletype) | Represents comment title type while rendering when comment is set to display at end of sheet. |
 | [`DrawObjectEnum`](/cells/python-net/aspose.cells.rendering/drawobjectenum) | Indicate Cell or Image of DrawObject. |
+| [`HtmlEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype) | Represents the embedded font type in html. |
 | [`ImageBinarizationMethod`](/cells/python-net/aspose.cells.rendering/imagebinarizationmethod) | Specifies the method used to binarize image. |
 | [`PdfCompliance`](/cells/python-net/aspose.cells.rendering/pdfcompliance) | Allowing user to set PDF conversion's Compatibility |
 | [`PdfCompressionCore`](/cells/python-net/aspose.cells.rendering/pdfcompressioncore) | Specifies a type of compression applied to all content in the PDF file except images. |

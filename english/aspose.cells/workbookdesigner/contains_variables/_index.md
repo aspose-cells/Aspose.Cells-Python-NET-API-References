@@ -12,6 +12,14 @@ is_root: false
 
 
 Indicates whether the first worksheet contains custom variables.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use WorkbookDesigner.VariablesWorksheetName property, instead.
+This property will be removed 3 months later since September 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

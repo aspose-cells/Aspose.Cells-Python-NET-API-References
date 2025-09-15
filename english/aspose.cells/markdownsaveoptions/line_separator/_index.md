@@ -3,7 +3,7 @@ title: line_separator property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /aspose.cells/markdownsaveoptions/line_separator/
 is_root: false
 ---

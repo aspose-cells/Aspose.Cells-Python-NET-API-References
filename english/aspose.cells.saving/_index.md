@@ -22,6 +22,7 @@ The **Aspose.Cells.Saving**  namespace provides options classes of saving files.
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
+| [`SaveElementType`](/cells/python-net/aspose.cells.saving/saveelementtype) | Represents what kind of elements should be saved. |
 | [`SqlScriptOperatorType`](/cells/python-net/aspose.cells.saving/sqlscriptoperatortype) | Represents the type of operating data. |
 
 

@@ -3,7 +3,7 @@ title: encode_entity_as_code property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.saving/ebooksaveoptions/encode_entity_as_code/
 is_root: false
 ---
