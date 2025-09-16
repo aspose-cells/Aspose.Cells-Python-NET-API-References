@@ -3,7 +3,7 @@ title: gridline_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /aspose.cells/pptxsaveoptions/gridline_color/
 is_root: false
 ---

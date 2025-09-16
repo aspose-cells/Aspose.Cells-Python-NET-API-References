@@ -3,7 +3,7 @@ title: export_object_listener property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/htmlsaveoptions/export_object_listener/
 is_root: false
 ---

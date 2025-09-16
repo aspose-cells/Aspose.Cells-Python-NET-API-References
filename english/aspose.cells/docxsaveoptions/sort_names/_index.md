@@ -3,7 +3,7 @@ title: sort_names property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 340
+weight: 370
 url: /aspose.cells/docxsaveoptions/sort_names/
 is_root: false
 ---

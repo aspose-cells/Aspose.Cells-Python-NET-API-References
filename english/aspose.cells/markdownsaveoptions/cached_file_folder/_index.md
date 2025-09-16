@@ -3,7 +3,7 @@ title: cached_file_folder property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/markdownsaveoptions/cached_file_folder/
 is_root: false
 ---

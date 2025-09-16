@@ -3,7 +3,7 @@ title: check_font_compatibility property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells/pptxsaveoptions/check_font_compatibility/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: embed_ooxml_as_ole_object property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object/
 is_root: false
 ---

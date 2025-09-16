@@ -3,7 +3,7 @@ title: as_normal_view property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/docxsaveoptions/as_normal_view/
 is_root: false
 ---

@@ -88,6 +88,7 @@ The FileFormatType type exposes the following members:
 | JSON | Json |
 | SQL_SCRIPT | Sql |
 | DBF | Xbase Data file |
+| FLAT_OPC | Flat opc file |
 | X_HTML | Rrepesents XHtml file. |
 | ONE_NOTE | Rrepesents One Note file. |
 | MICROSOFT_CABINET | Rrepesents Microsoft Cabinet file. |
