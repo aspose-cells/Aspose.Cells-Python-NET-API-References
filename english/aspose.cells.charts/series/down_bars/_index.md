@@ -3,7 +3,7 @@ title: down_bars property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.charts/series/down_bars/
 is_root: false
 ---

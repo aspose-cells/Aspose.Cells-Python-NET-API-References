@@ -3,7 +3,7 @@ title: is_vertical_values property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 310
 url: /aspose.cells.charts/series/is_vertical_values/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: properties_follow_chart_point property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/workbooksettings/properties_follow_chart_point/
 is_root: false
 ---

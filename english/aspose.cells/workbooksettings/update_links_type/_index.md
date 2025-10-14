@@ -3,7 +3,7 @@ title: update_links_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /aspose.cells/workbooksettings/update_links_type/
 is_root: false
 ---

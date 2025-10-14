@@ -29,6 +29,8 @@ The Series type exposes the following members:
 | [count_of_data_values](/cells/python-net/aspose.cells.charts/series/count_of_data_values) | Gets the number of the data values. |
 | [is_vertical_values](/cells/python-net/aspose.cells.charts/series/is_vertical_values) | Indicates whether the data source is vertical. |
 | [values](/cells/python-net/aspose.cells.charts/series/values) | Represents the Y values of this chart series. |
+| [cached_values](/cells/python-net/aspose.cells.charts/series/cached_values) | Gets the cached values for the series |
+| [cached_category_values](/cells/python-net/aspose.cells.charts/series/cached_category_values) | Gets the cached category values for the series |
 | [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values's NumberList. |
 | [x_values_format_code](/cells/python-net/aspose.cells.charts/series/x_values_format_code) | Represents format code of X Values's NumberList. |
 | [x_values](/cells/python-net/aspose.cells.charts/series/x_values) | Represents the x values of the chart series. |

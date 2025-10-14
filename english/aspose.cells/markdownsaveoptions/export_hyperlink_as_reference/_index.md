@@ -11,7 +11,7 @@ is_root: false
 ## export_hyperlink_as_reference property
 
 
-Exports hyperlink using reference definitions instead of inline format.
+Indicates whether to export hyperlink using reference definitions instead of inline format.
 The default value is false.
 ### Definition:
 ```python

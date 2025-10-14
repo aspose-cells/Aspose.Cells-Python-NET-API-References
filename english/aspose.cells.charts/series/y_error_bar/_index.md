@@ -3,7 +3,7 @@ title: y_error_bar property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /aspose.cells.charts/series/y_error_bar/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: update_adjacent_cells_border property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 560
 url: /aspose.cells/workbooksettings/update_adjacent_cells_border/
 is_root: false
 ---

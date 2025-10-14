@@ -29,7 +29,10 @@ def get_matching_color(self, raw_color):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | raw_color | aspose.pydrawing.Color | Raw color. |
+### Remarks
 
+There are only 56 colors in the color palette in Excel 97-2003.
+If the color is not in the palette, the similar color will be set.
 
 
 ### See Also

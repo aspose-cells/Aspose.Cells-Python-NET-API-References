@@ -3,7 +3,7 @@ title: VisibilityType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2820
+weight: 2830
 url: /aspose.cells/visibilitytype/
 is_root: false
 ---

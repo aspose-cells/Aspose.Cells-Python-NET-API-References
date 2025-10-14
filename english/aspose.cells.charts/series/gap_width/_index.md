@@ -3,7 +3,7 @@ title: gap_width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 190
 url: /aspose.cells.charts/series/gap_width/
 is_root: false
 ---

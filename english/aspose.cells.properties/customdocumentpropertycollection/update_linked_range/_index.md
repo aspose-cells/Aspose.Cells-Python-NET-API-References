@@ -10,7 +10,8 @@ is_root: false
 
 ## update_linked_range(self) {#}
 
-Update custom document property value to linked range.
+Updates all ranges that are linked to custom properties(use the value of
+custom document property to update cell value of linked range).
 
 
 

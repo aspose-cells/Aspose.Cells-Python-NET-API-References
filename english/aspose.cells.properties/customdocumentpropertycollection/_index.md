@@ -46,8 +46,8 @@ The CustomDocumentPropertyCollection type exposes the following members:
 | [`add(self, name, value)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/add/#system.string-float) | Creates a new custom document property of the **PropertyType.Float**  data type. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/binary_search/#aspose.cells.properties.documentproperty) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 | [`add_link_to_content(self, name, source)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/add_link_to_content/#system.string-system.string) | Creates a new custom document property which links to content. |
-| [`update_linked_property_value(self)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/#) | Update custom document property value which links to content. |
-| [`update_linked_range(self)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/update_linked_range/#) | Update custom document property value to linked range. |
+| [`update_linked_property_value(self)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/update_linked_property_value/#) | Updates values of all custom properties that are linked to content(use <br/> cell value of linked range to update value of custom property). |
+| [`update_linked_range(self)`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection/update_linked_range/#) | Updates all ranges that are linked to custom properties(use the value of <br/>custom document property to update cell value of linked range). |
 
 
 
