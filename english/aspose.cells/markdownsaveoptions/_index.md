@@ -53,8 +53,9 @@ The MarkdownSaveOptions type exposes the following members:
 | [export_images_as_base64](/cells/python-net/aspose.cells/markdownsaveoptions/export_images_as_base64) | Specifies whether images are saved in Base64 format to Markdown.<br/>The default value is true. |
 | [stream_provider](/cells/python-net/aspose.cells/markdownsaveoptions/stream_provider) | Gets or sets the IStreamProvider for exporting objects.<br/>If `null`, the exported objects will be saved to the same directory as the output file. |
 | [calculate_formula](/cells/python-net/aspose.cells/markdownsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving markdown file. |
-| [export_hyperlink_as_reference](/cells/python-net/aspose.cells/markdownsaveoptions/export_hyperlink_as_reference) | Exports hyperlink using reference definitions instead of inline format.<br/>The default value is false. |
+| [export_hyperlink_as_reference](/cells/python-net/aspose.cells/markdownsaveoptions/export_hyperlink_as_reference) | Indicates whether to export hyperlink using reference definitions instead of inline format.<br/>The default value is false. |
 | [align_column_padding](/cells/python-net/aspose.cells/markdownsaveoptions/align_column_padding) | Indicates whether column alignment is enabled for generated Markdown tables.<br/>When enabled, columns are aligned by padding cell content with the specified character(typically ' ' for spaces).<br/>Set to '\0' to disable column alignment (default). |
+| [split_tables_by_blank_row](/cells/python-net/aspose.cells/markdownsaveoptions/split_tables_by_blank_row) | Indicates whether blank rows in the worksheet should be treated as table separators when exporting to Markdown.<br/>The default value is false. |
 
 
 

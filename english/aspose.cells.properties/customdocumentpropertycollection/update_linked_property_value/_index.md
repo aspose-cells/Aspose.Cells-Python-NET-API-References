@@ -10,7 +10,8 @@ is_root: false
 
 ## update_linked_property_value(self) {#}
 
-Update custom document property value which links to content.
+Updates values of all custom properties that are linked to content(use
+cell value of linked range to update value of custom property).
 
 
 

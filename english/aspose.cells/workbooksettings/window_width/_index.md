@@ -3,7 +3,7 @@ title: window_width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /aspose.cells/workbooksettings/window_width/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: quote_prefix_to_style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells/workbooksettings/quote_prefix_to_style/
 is_root: false
 ---

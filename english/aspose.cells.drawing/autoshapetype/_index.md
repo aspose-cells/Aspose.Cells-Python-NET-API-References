@@ -59,18 +59,18 @@ The AutoShapeType type exposes the following members:
 | CURVED_CONNECTOR |  |
 | CURVED_CONNECTOR4 |  |
 | CURVED_CONNECTOR5 |  |
-| LINE_CALLOUT_NO_BORDER2 |  |
-| LINE_CALLOUT_NO_BORDER3 |  |
-| LINE_CALLOUT_NO_BORDER4 |  |
-| LINE_CALLOUT_WITH_ACCENT_BAR2 |  |
-| LINE_CALLOUT_WITH_ACCENT_BAR3 |  |
-| LINE_CALLOUT_WITH_ACCENT_BAR4 |  |
-| LINE_CALLOUT_WITH_BORDER2 |  |
-| LINE_CALLOUT_WITH_BORDER3 |  |
-| LINE_CALLOUT_WITH_BORDER4 |  |
-| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR2 |  |
-| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR3 |  |
-| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR4 |  |
+| LINE_CALLOUT_NO_BORDER2 | Specifies the "Line Callout 2(No Border)" type of the Ms Excel 97-2003 version or the "Callout: Line with No Border" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_NO_BORDER3 | Specifies the "Line Callout 3(No Border)" type of the Ms Excel 97-2003 version or the "Callout: Bent Line with No Border" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_NO_BORDER4 | Specifies the "Line Callout 4(No Border)" type of the Ms Excel 97-2003 version or the "Callout: Double Bent Line with No Border" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_ACCENT_BAR2 | Specifies the "Line Callout 2(Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Line with Accent Bar" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_ACCENT_BAR3 | Specifies the "Line Callout 3(Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Bent Line with Accent Bar" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_ACCENT_BAR4 | Specifies the "Line Callout 4(Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Double Bent Line with Accent Bar" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER2 | Specifies the "Line Callout 2" type of the Ms Excel 97-2003 version or the "Callout: Line" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER3 | Specifies the "Line Callout 3" type of the Ms Excel 97-2003 version or the "Callout: Bent Line" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER4 | Specifies the "Line Callout 4" type of the Ms Excel 97-2003 version or the "Callout: Double Bent Line" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR2 | Specifies the "Line Callout 2(Border and Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Line with Border and Accent Bar" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR3 | Specifies the "Line Callout 3(Border and Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Bent Line with Border and Accent Bar" type of the Ms Excel 2007 version. |
+| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR4 | Specifies the "Line Callout 4(Border and Accent Bar)" type of the Ms Excel 97-2003 version or the "Callout: Double Bent Line with Border and Accent Bar" type of the Ms Excel 2007 version. |
 | DOWN_RIBBON |  |
 | UP_RIBBON |  |
 | CHEVRON |  |
@@ -196,10 +196,10 @@ The AutoShapeType type exposes the following members:
 | TEXT_CAN_DOWN | A text shape that is curved downwards as if being read on the side of a can. |
 | FLOW_CHART_ALTERNATE_PROCESS |  |
 | FLOW_CHART_OFFPAGE_CONNECTOR |  |
-| LINE_CALLOUT_NO_BORDER1 |  |
-| LINE_CALLOUT_WITH_ACCENT_BAR1 |  |
-| LINE_CALLOUT_WITH_BORDER1 |  |
-| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR1 |  |
+| LINE_CALLOUT_NO_BORDER1 | Specifies the "Line Callout 1(No Border)" type of the Ms Excel 97-2003 version. |
+| LINE_CALLOUT_WITH_ACCENT_BAR1 | Specifies the "Line Callout 1(Accent Bar)" type of the Ms Excel 97-2003 version. |
+| LINE_CALLOUT_WITH_BORDER1 | Specifies the "Line Callout 1" type of the Ms Excel 97-2003 version. |
+| LINE_CALLOUT_WITH_BORDER_AND_ACCENT_BAR1 | Specifies the "Line Callout 1(Border and Accent Bar)" type of the Ms Excel 97-2003 version. |
 | LEFT_RIGHT_UP_ARROW |  |
 | SUN |  |
 | MOON |  |

@@ -20,6 +20,7 @@ Gets or sets the worksheet range linked to the control's value.
 
 if shape.linked_cell == "$B$6":
     shape.linked_cell = "A1"
+shape.update_selected_value()
 
 ```
 ### Definition:

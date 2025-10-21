@@ -3,7 +3,7 @@ title: display_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /aspose.cells.charts/series/display_name/
 is_root: false
 ---

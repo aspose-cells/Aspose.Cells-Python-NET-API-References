@@ -3,7 +3,7 @@ title: significant_digits property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /aspose.cells/workbooksettings/significant_digits/
 is_root: false
 ---
@@ -18,6 +18,10 @@ The default value is [`CellsHelper.significant_digits`](/cells/python-net/aspose
 
 
 Only could be 15 or 17 now.
+NOTE: This member is now obsolete. Instead, 
+please use [`WorkbookSettings.significant_digits_type`](/cells/python-net/aspose.cells/workbooksettings#significant_digits_type).
+This property will be removed 12 months later since June 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: x_values property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 550
 url: /aspose.cells.charts/series/x_values/
 is_root: false
 ---

@@ -12,6 +12,7 @@ is_root: false
 
 
 Gets or sets a value that indicates whether the string in text file is converted to numeric data.
+Default value is true.
 ### Definition:
 ```python
 @property

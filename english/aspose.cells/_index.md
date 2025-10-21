@@ -283,6 +283,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | Represents the format in which the workbook is saved. |
 | [`SheetType`](/cells/python-net/aspose.cells/sheettype) | Specifies the worksheet type. |
 | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Represent the shift options when deleting a range of cells. |
+| [`SignificantDigitsType`](/cells/python-net/aspose.cells/significantdigitstype) | Represents the type of significant digits for outputing numeric values. |
 | [`SortOnType`](/cells/python-net/aspose.cells/sortontype) | Sorted value type. |
 | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | Represents sort order for the data range. |
 | [`StyleModifyFlag`](/cells/python-net/aspose.cells/stylemodifyflag) | The style modified flags. |

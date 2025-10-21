@@ -18,6 +18,10 @@ The default value is 17.
 
 
 Only could be 15 or 17 now.
+NOTE: This member is now obsolete. Instead, 
+please use [`CellsHelper.significant_digits_type`](/cells/python-net/aspose.cells/cellshelper#significant_digits_type).
+This property will be removed 12 months later since June 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

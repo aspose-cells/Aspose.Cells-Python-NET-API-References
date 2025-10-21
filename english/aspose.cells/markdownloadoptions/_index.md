@@ -56,8 +56,8 @@ The MarkdownLoadOptions type exposes the following members:
 | [preserve_padding_spaces_in_formula](/cells/python-net/aspose.cells/markdownloadoptions/preserve_padding_spaces_in_formula) | Indicates whether preserve those spaces and line breaks that are padded between formula tokens<br/>while getting and setting formulas.<br/>Default value is false. |
 | [encoding](/cells/python-net/aspose.cells/markdownloadoptions/encoding) | Gets and sets the default encoding. Only applies for csv file. |
 | [load_style_strategy](/cells/python-net/aspose.cells/markdownloadoptions/load_style_strategy) | Indicates the strategy to apply style for parsed values when converting string value to number or datetime. |
-| [convert_numeric_data](/cells/python-net/aspose.cells/markdownloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data. |
-| [convert_date_time_data](/cells/python-net/aspose.cells/markdownloadoptions/convert_date_time_data) | Gets or sets a value that indicates whether the string in text file is converted to date data. |
+| [convert_numeric_data](/cells/python-net/aspose.cells/markdownloadoptions/convert_numeric_data) | Gets or sets a value that indicates whether the string in text file is converted to numeric data.<br/>Default value is true. |
+| [convert_date_time_data](/cells/python-net/aspose.cells/markdownloadoptions/convert_date_time_data) | Gets or sets a value that indicates whether the string in text file is converted to date data.<br/>Default value is true. |
 | [keep_precision](/cells/python-net/aspose.cells/markdownloadoptions/keep_precision) | Indicates whether not parsing a string value if the length is 15. |
 | [has_formula](/cells/python-net/aspose.cells/markdownloadoptions/has_formula) | Indicates whether the text is formula if it starts with "=". |
 

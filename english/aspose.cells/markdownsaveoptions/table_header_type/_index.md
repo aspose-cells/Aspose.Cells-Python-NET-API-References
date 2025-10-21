@@ -3,7 +3,7 @@ title: table_header_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells/markdownsaveoptions/table_header_type/
 is_root: false
 ---
