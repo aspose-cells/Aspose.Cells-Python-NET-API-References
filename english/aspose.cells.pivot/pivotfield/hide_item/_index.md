@@ -42,8 +42,8 @@ def hide_item(self, item_value, is_hidden):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| item_value | System.String | the value of the pivotItem in the pivotField. |
-| is_hidden | bool | whether the specific PivotItem is hidden |
+| item_value | System.String | The name of the pivotItem in the pivotField. |
+| is_hidden | bool | Whether the specific PivotItem is hidden |
 
 
 

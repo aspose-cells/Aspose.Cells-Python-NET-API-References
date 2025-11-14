@@ -3,7 +3,7 @@ title: transition_entry property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 870
+weight: 880
 url: /aspose.cells/worksheet/transition_entry/
 is_root: false
 ---

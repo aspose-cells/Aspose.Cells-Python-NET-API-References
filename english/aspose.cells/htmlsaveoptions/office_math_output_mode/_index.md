@@ -3,7 +3,7 @@ title: office_math_output_mode property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /aspose.cells/htmlsaveoptions/office_math_output_mode/
 is_root: false
 ---

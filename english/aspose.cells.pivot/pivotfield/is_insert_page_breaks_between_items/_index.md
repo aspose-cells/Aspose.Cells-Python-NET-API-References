@@ -11,7 +11,7 @@ is_root: false
 ## is_insert_page_breaks_between_items property
 
 
-Indicates whether inserting page breaks after each item.
+Indicates whether to insert page breaks after each item.
 The default value is false.
 ### Definition:
 ```python

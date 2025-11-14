@@ -11,8 +11,8 @@ is_root: false
 ## embedded_font_type property
 
 
-Gets or sets the type of font that embedded in html.
-Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that it will not embed font in html.
+Gets or sets the type of embedding font file into html file.
+Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that no font will be embedded in html.
 ### Definition:
 ```python
 @property

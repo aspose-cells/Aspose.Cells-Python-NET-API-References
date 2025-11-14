@@ -10,7 +10,7 @@ is_root: false
 
 ## get_source(self) {#}
 
-Get pivottable's source data.
+Get the data source of this pivottable.
 
 
 
@@ -25,7 +25,7 @@ def get_source(self):
 
 ## get_source(self, is_original) {#bool}
 
-Get pivottable's source data.
+Get the data source of this pivottable.
 
 
 ### Returns 
@@ -43,7 +43,7 @@ def get_source(self, is_original):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| is_original | bool | Indicates whether to return original or display data source |
+| is_original | bool | Indicates whether to return original or display data source. |
 
 
 

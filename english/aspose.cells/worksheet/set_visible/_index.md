@@ -3,7 +3,7 @@ title: set_visible method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/worksheet/set_visible/
 is_root: false
 ---

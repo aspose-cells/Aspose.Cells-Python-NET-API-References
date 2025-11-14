@@ -3,7 +3,7 @@ title: show_header_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.tables/listobject/show_header_row/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_header_row property
 
 
-Gets and sets whether this ListObject show header row.
+Gets and sets whether this Table shows header row.
 ### Definition:
 ```python
 @property

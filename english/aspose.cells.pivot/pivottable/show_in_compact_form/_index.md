@@ -10,7 +10,7 @@ is_root: false
 
 ## show_in_compact_form(self) {#}
 
-Layouts the PivotTable in compact form.
+Layouts the PivotTable view in compact form.
 
 
 

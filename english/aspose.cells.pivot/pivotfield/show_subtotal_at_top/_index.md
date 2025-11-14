@@ -11,7 +11,7 @@ is_root: false
 ## show_subtotal_at_top property
 
 
-when ShowInOutlineForm is true, then display subtotals at the top of the list of items instead of at the bottom
+Indicates whether to display subtotals at the top or bottom of items when ShowInOutlineForm is true, then
 
 ### Remarks 
 

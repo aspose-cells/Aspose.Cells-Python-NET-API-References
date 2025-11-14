@@ -11,7 +11,7 @@ is_root: false
 ## drag_to_row property
 
 
-Indicates whether the specified field can be dragged to the row position.
+Indicates whether the specified field can be dragged to the row region.
 The default value is true.
 ### Definition:
 ```python

@@ -11,7 +11,7 @@ is_root: false
 ## icon_set_type property
 
 
-Gets and sets which icon set is used in the filter criteria.
+Gets and sets which icon set is used for this filter criteria.
 ### Definition:
 ```python
 @property

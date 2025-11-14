@@ -11,7 +11,7 @@ is_root: false
 ## show_in_outline_form property
 
 
-Indicates whether layout this field in outline form on the Pivot Table view
+Indicates whether to layout this field in outline form on the Pivot Table view.
 ### Definition:
 ```python
 @property

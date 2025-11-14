@@ -11,7 +11,8 @@ is_root: false
 ## current_page_item property
 
 
-Represents the current page item showing for the page field (valid only for page fields).
+Represents the current selected page item of the page field to filter data.
+Only valid for page fields.
 ### Definition:
 ```python
 @property

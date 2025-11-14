@@ -11,7 +11,7 @@ is_root: false
 ## is_auto_sort property
 
 
-Indicates whether the specified PivotTable field is automatically sorted.
+Indicates whether the items of this PivotTable field are automatically sorted.
 ### Definition:
 ```python
 @property

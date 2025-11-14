@@ -3,7 +3,7 @@ title: merge_empty_td_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /aspose.cells.saving/ebooksaveoptions/merge_empty_td_type/
 is_root: false
 ---

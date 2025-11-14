@@ -3,7 +3,7 @@ title: scenarios property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 780
 url: /aspose.cells/worksheet/scenarios/
 is_root: false
 ---

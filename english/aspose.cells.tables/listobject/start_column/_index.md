@@ -3,7 +3,7 @@ title: start_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 290
 url: /aspose.cells.tables/listobject/start_column/
 is_root: false
 ---

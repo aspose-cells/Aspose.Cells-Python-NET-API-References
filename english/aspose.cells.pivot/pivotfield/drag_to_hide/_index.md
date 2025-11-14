@@ -11,7 +11,7 @@ is_root: false
 ## drag_to_hide property
 
 
-Indicates whether the specified field can be dragged to the hide position.
+Indicates whether the specified field can be dragged to the hide region.
 The default value is true.
 ### Definition:
 ```python

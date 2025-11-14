@@ -124,6 +124,7 @@ The Worksheet type exposes the following members:
 | [`un_freeze_panes(self)`](/cells/python-net/aspose.cells/worksheet/un_freeze_panes/#) | Unfreezes panes in the worksheet. |
 | [`remove_split(self)`](/cells/python-net/aspose.cells/worksheet/remove_split/#) | Removes split window. |
 | [`add_page_breaks(self, cell_name)`](/cells/python-net/aspose.cells/worksheet/add_page_breaks/#system.string) | Adds page break. |
+| [`filter(self, ca)`](/cells/python-net/aspose.cells/worksheet/filter/#aspose.cells.cellarea) | Filters the range. |
 | [`get_advanced_filter(self)`](/cells/python-net/aspose.cells/worksheet/get_advanced_filter/#) | Gets the settings of advanced filter. |
 | [`advanced_filter(self, is_filter, list_range, criteria_range, copy_to, unique_record_only)`](/cells/python-net/aspose.cells/worksheet/advanced_filter/#bool-system.string-system.string-system.string-bool) | Filters data using complex criteria. |
 | [`remove_auto_filter(self)`](/cells/python-net/aspose.cells/worksheet/remove_auto_filter/#) | Removes the auto filter of the worksheet. |

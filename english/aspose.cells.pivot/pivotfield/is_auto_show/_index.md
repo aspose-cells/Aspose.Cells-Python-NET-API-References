@@ -11,7 +11,12 @@ is_root: false
 ## is_auto_show property
 
 
-Indicates whether the specified PivotTable field is automatically shown,only valid for excel 2003.
+Indicates whether the specified PivotTable field is automatically shown.
+
+### Remarks 
+
+
+Only valid for excel 2003.
 ### Definition:
 ```python
 @property

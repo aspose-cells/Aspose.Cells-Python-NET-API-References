@@ -10,7 +10,8 @@ is_root: false
 
 ## hide_detail(self, is_hidden_detail) {#bool}
 
-Sets whether the PivotItems in a pivot field is hidden detail.That is collapse/expand this field.
+Sets whether the detail of all PivotItems in a pivot field are hidden.
+That is collapse/expand this field.
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## is_calculated_field property
 
 
-Indicates whether the specified PivotTable field is calculated field.
+Indicates whether the this pivot field is calculated field.
 ### Definition:
 ```python
 @property

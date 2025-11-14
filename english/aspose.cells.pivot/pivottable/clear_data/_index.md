@@ -10,7 +10,7 @@ is_root: false
 
 ## clear_data(self) {#}
 
-Clear PivotTable's data and formatting
+Clear data and formatting of PivotTable view.
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## function property
 
 
-Represents the function used to summarize the PivotTable data field.
+Represents the function used to summarize this PivotTable data field.
 ### Definition:
 ```python
 @property

@@ -22,6 +22,14 @@ The ChartCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.charts/chartcollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the [`Chart`](/cells/python-net/aspose.cells.charts/chart) element at the specified index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] | The zero based index of the element. |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |

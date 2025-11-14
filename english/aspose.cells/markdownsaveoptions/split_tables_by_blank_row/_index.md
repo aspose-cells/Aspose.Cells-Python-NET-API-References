@@ -3,7 +3,7 @@ title: split_tables_by_blank_row property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/markdownsaveoptions/split_tables_by_blank_row/
 is_root: false
 ---

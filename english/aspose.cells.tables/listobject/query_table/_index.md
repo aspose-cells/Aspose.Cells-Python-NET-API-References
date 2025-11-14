@@ -3,7 +3,7 @@ title: query_table property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells.tables/listobject/query_table/
 is_root: false
 ---

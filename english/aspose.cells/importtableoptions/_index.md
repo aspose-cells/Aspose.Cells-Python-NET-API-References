@@ -33,6 +33,7 @@ The ImportTableOptions type exposes the following members:
 | [export_caption_as_field_name](/cells/python-net/aspose.cells/importtableoptions/export_caption_as_field_name) | Indicates whether exporting caption as field name |
 | [date_format](/cells/python-net/aspose.cells/importtableoptions/date_format) | Gets or sets date format string for cells with imported datetime values. |
 | [number_formats](/cells/python-net/aspose.cells/importtableoptions/number_formats) | Gets or sets the number formats |
+| [styles](/cells/python-net/aspose.cells/importtableoptions/styles) | Gets and sets the styles for each column of the table. |
 | [is_formulas](/cells/python-net/aspose.cells/importtableoptions/is_formulas) | Indicates whether the data are formulas. |
 | [total_rows](/cells/python-net/aspose.cells/importtableoptions/total_rows) | Gets or sets total row count to import from data source. -1 means all rows of given data source. |
 | [total_columns](/cells/python-net/aspose.cells/importtableoptions/total_columns) | Gets or sets total column count to import from data source. -1 means all rows of given data source. |

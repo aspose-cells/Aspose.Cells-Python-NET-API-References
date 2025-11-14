@@ -11,7 +11,7 @@ is_root: false
 ## is_ascend_sort property
 
 
-Indicates whether the specified PivotTable field is autosorted ascending.
+Indicates whether the items of this pivot field is autosorted ascending.
 ### Definition:
 ```python
 @property

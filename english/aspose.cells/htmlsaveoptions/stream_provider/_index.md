@@ -3,7 +3,7 @@ title: stream_provider property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 810
 url: /aspose.cells/htmlsaveoptions/stream_provider/
 is_root: false
 ---

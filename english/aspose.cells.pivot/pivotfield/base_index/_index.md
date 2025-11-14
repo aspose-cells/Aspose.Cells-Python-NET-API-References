@@ -11,7 +11,7 @@ is_root: false
 ## base_index property
 
 
-Represents the PivotField index in the base PivotFields.
+Represents the index in the source pivot fields.
 ### Definition:
 ```python
 @property

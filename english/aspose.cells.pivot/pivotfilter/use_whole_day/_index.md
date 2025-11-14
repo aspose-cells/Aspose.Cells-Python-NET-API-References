@@ -11,7 +11,7 @@ is_root: false
 ## use_whole_day property
 
 
-Indicates whether uses whole days in its filtering criteria.
+Indicates whether to use whole days in its date filtering criteria.
 ### Definition:
 ```python
 @property

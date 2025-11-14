@@ -3,7 +3,7 @@ title: get_advanced_filter method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells/worksheet/get_advanced_filter/
 is_root: false
 ---

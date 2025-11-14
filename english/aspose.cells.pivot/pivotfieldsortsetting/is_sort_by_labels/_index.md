@@ -11,7 +11,7 @@ is_root: false
 ## is_sort_by_labels property
 
 
-Indicates whether sorting the field by itself or data field.
+Indicates whether to sort the field by itself or data field.
 ### Definition:
 ```python
 @property

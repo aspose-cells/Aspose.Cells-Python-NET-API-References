@@ -11,7 +11,7 @@ is_root: false
 ## pivot_formats property
 
 
-Gets the collection of formats applied to PivotTable.
+Gets all formats applied to PivotTable.
 ### Definition:
 ```python
 @property

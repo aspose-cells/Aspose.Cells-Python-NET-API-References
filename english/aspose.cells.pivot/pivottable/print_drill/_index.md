@@ -12,7 +12,7 @@ is_root: false
 
 
 Specifies a boolean value that indicates whether drill indicators should be printed.
-print expand/collapse buttons when displayed on pivottable.
+Print expand/collapse buttons when displayed on pivottable.
 ### Definition:
 ```python
 @property

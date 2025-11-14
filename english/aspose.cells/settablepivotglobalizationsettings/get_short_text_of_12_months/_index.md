@@ -3,7 +3,7 @@ title: get_short_text_of_12_months method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells/settablepivotglobalizationsettings/get_short_text_of_12_months/
 is_root: false
 ---

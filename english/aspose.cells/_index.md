@@ -36,7 +36,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CellsException`](/cells/python-net/aspose.cells/cellsexception) | The exception that is thrown when Aspose.Cells specified error occurs. |
 | [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory) | Utility for instantiating classes of Cells model. |
 | [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper) | Provides helper functions. |
-| [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) | Represents filtering the range by color. |
+| [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) | Represents setting for filtering the range by color. |
 | [`ColorScale`](/cells/python-net/aspose.cells/colorscale) | Describe the ColorScale conditional formatting rule. <br/>This conditional formatting rule creates a gradated color scale on the cells. |
 | [`Column`](/cells/python-net/aspose.cells/column) | Represents a single column in a worksheet. |
 | [`ColumnCollection`](/cells/python-net/aspose.cells/columncollection) | Collection of the [`Column`](/cells/python-net/aspose.cells/column) objects that represent the individual column(setting)s in a worksheet.<br/>The Column object only represents the settings such as column width, styles, .etc. for the whole column,<br/>has nothing to do with the fact that there are non-empty cells(data) or not in corresponding column.<br/>And the "Count" of this collection only represents the count Column objects that have been instantiated in this collection,<br/>has nothing to do with the fact that there are non-empty cells(data) or not in the worksheet. |
@@ -76,7 +76,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) | Represents the single TrueType font file stored in the file system. |
 | [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) | Contains data returned by [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil) file format detection methods. |
 | [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil) | Provides utility methods for converting file format enums to strings or file extensions and back. |
-| [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | Represents a filter for a single column. The Filter object is a member of the Filters collection |
+| [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | Represents a filter for a single column. |
 | [`FilterColumnCollection`](/cells/python-net/aspose.cells/filtercolumncollection) | A collection of Filter objects that represents all the filters in an autofiltered range. |
 | [`FindOptions`](/cells/python-net/aspose.cells/findoptions) | Represents find options. |
 | [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) | Represents the folder that contains TrueType font files. |
@@ -171,7 +171,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection) | Represents all persons who . |
 | [`ThreadedCommentCollection`](/cells/python-net/aspose.cells/threadedcommentcollection) | Represents the list of threaded comments. |
 | [`Top10`](/cells/python-net/aspose.cells/top10) | Describe the Top10 conditional formatting rule. <br/>This conditional formatting rule highlights cells whose<br/>values fall in the top N or bottom N bracket, as specified. |
-| [`Top10Filter`](/cells/python-net/aspose.cells/top10filter) | Represents the top 10 filter. |
+| [`Top10Filter`](/cells/python-net/aspose.cells/top10filter) | Represents the top N (percent or number of items) to filter by. |
 | [`TwoColorGradient`](/cells/python-net/aspose.cells/twocolorgradient) | Represents two color gradient. |
 | [`TxtLoadOptions`](/cells/python-net/aspose.cells/txtloadoptions) | Represents the options for loading text file. |
 | [`TxtSaveOptions`](/cells/python-net/aspose.cells/txtsaveoptions) | Represents the save options for csv/tab delimited/other text format. |

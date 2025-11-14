@@ -3,7 +3,7 @@ title: PdfCustomPropertiesExport enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.rendering/pdfcustompropertiesexport/
 is_root: false
 ---

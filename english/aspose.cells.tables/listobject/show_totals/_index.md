@@ -3,7 +3,7 @@ title: show_totals property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /aspose.cells.tables/listobject/show_totals/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_totals property
 
 
-Gets and sets whether this ListObject show total row.
+Gets and sets whether this TAble shows total row.
 ### Definition:
 ```python
 @property

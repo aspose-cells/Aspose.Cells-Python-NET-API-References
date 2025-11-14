@@ -3,7 +3,7 @@ title: freeze_panes method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/worksheet/freeze_panes/
 is_root: false
 ---

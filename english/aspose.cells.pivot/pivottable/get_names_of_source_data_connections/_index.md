@@ -10,7 +10,7 @@ is_root: false
 
 ## get_names_of_source_data_connections(self) {#}
 
-Gets the name of external source data connections.
+Gets the names of external source data connections.
 
 
 

@@ -25,6 +25,14 @@ The SeriesCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.charts/seriescollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element at the specified index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] | The zero based index of the element. |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |

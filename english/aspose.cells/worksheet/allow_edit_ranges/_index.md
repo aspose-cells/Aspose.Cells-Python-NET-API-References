@@ -3,7 +3,7 @@ title: allow_edit_ranges property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/worksheet/allow_edit_ranges/
 is_root: false
 ---

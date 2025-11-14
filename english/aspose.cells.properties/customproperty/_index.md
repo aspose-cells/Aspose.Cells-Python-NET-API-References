@@ -10,17 +10,11 @@ is_root: false
 
 ## CustomProperty class
 
-Represents identifier information.
+Represents a custom property which store name and value pairs of arbitrary user-defined data for worksheet.
 
 
 
 The CustomProperty type exposes the following members:
-
-### Constructors
-| Constructor | Description |
-| :- | :- |
-| [`__init__(self)`](/cells/python-net/aspose.cells.properties/customproperty/__init__/#) | Constructs a new instance of CustomProperty |
-
 
 ### Properties
 | Property | Description |
@@ -28,6 +22,7 @@ The CustomProperty type exposes the following members:
 | [name](/cells/python-net/aspose.cells.properties/customproperty/name) | Returns or sets the name of the object. |
 | [string_value](/cells/python-net/aspose.cells.properties/customproperty/string_value) | Returns or sets the value of the custom property. |
 | [value](/cells/python-net/aspose.cells.properties/customproperty/value) | Returns or sets the value of the custom property. |
+| [binary_value](/cells/python-net/aspose.cells.properties/customproperty/binary_value) | Gets and sets the binary value of the custom property. |
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## is_repeat_item_labels property
 
 
-Indicates whether repeating labels of the field in the region.
+Indicates whether to repeat labels of the field in the region.
 The default value is false.
 ### Definition:
 ```python

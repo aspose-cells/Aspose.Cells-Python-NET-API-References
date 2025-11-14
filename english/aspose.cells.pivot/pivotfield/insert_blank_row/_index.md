@@ -11,7 +11,7 @@ is_root: false
 ## insert_blank_row property
 
 
-Indicates whether inserting blank line after each item.
+Indicates whether to insert a blank line after each item.
 ### Definition:
 ```python
 @property

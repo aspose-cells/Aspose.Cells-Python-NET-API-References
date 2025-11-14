@@ -3,7 +3,7 @@ title: refresh_pivot_tables method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells/worksheet/refresh_pivot_tables/
 is_root: false
 ---

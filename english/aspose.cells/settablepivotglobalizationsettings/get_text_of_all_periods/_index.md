@@ -3,7 +3,7 @@ title: get_text_of_all_periods method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_all_periods/
 is_root: false
 ---

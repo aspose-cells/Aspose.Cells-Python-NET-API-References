@@ -3,7 +3,7 @@ title: width_scalable property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 860
 url: /aspose.cells.saving/ebooksaveoptions/width_scalable/
 is_root: false
 ---

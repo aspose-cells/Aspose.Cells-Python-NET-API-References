@@ -115,7 +115,8 @@ The EbookSaveOptions type exposes the following members:
 | [enable_css_custom_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/enable_css_custom_properties) | Optimize the output of html by using CSS custom properties. For example, for the scenario that there are multiple occurences for one base64 image, with custom property the image data only needs to be saved once so the performance of the resultant html can be improved.<br/>The default value is false. |
 | [html_version](/cells/python-net/aspose.cells.saving/ebooksaveoptions/html_version) | Specifies version of HTML standard that should be used when saving the HTML format.<br/>Default value is HtmlVersion.Default. |
 | [sheet_set](/cells/python-net/aspose.cells.saving/ebooksaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
-| [embedded_font_type](/cells/python-net/aspose.cells.saving/ebooksaveoptions/embedded_font_type) | Gets or sets the type of font that embedded in html.<br/>Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that it will not embed font in html. |
+| [layout_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/layout_mode) | Gets or sets the layout mode when saving to HTML.<br/>The default value is [`HtmlLayoutMode.NORMAL`](/cells/python-net/aspose.cells.rendering/htmllayoutmode#NORMAL) |
+| [embedded_font_type](/cells/python-net/aspose.cells.saving/ebooksaveoptions/embedded_font_type) | Gets or sets the type of embedding font file into html file.<br/>Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that no font will be embedded in html. |
 
 
 

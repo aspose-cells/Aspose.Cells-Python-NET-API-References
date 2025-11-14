@@ -12,6 +12,11 @@ is_root: false
 
 
 Indicates whether refreshing data source of the pivottable.
+
+### Remarks 
+
+
+If it is true, refresh pivot cache from data source,then calculate all pivot tables based same pivot cache.
 ### Definition:
 ```python
 @property

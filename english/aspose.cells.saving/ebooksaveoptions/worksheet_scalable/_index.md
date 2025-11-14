@@ -3,7 +3,7 @@ title: worksheet_scalable property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 870
 url: /aspose.cells.saving/ebooksaveoptions/worksheet_scalable/
 is_root: false
 ---
