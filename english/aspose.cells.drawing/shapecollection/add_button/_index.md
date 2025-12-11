@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_button/
 is_root: false
 ---
 
-## add_button(self, upper_left_row, top, upper_left_column, left, height, width) {#int-int-int-int-int-int}
+## add_button(self, top_row, top, left_column, left, height, width) {#int-int-int-int-int-int}
 
 Adds a Button to the worksheet.
 
@@ -21,16 +21,16 @@ A Button object.
 
 ```python
 
-def add_button(self, upper_left_row, top, upper_left_column, left, height, width):
+def add_button(self, top_row, top, left_column, left, height, width):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
+| top_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Button from its left row, in unit of pixel. |
-| upper_left_column | int | Upper left column index. |
+| left_column | int | Upper left column index. |
 | left | int | Represents the horizontal offset of Button from its left column, in unit of pixel. |
 | height | int | Represents the height of Button, in unit of pixel. |
 | width | int | Represents the width of Button, in unit of pixel. |

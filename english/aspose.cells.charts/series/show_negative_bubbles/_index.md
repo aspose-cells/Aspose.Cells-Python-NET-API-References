@@ -3,7 +3,7 @@ title: show_negative_bubbles property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 440
+weight: 460
 url: /aspose.cells.charts/series/show_negative_bubbles/
 is_root: false
 ---

@@ -33,7 +33,7 @@ Gets the [`Chart`](/cells/python-net/aspose.cells.charts/chart) element at the s
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, type, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-int-int-int-int) | Adds a chart to the collection. |
+| [`add(self, type, top_row, left_column, bottom_row, right_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-int-int-int-int) | Adds a chart to the collection. |
 | [`add(self, type, data_range, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-system.string-int-int-int-int) | Adds a chart to the collection. |
 | [`add(self, data, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#bytes-system.string-bool-int-int-int-int) | Adds a chart with preset template. |
 | [`add(self, type, data_range, is_vertical, top_row, left_column, right_row, bottom_column)`](/cells/python-net/aspose.cells.charts/chartcollection/add/#aspose.cells.charts.charttype-system.string-bool-int-int-int-int) | Adds a chart to the collection. |

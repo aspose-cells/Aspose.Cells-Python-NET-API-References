@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/textboxcollection/add/
 is_root: false
 ---
 
-## add(self, upper_left_row, upper_left_column, height, width) {#int-int-int-int}
+## add(self, top_row, left_column, height, width) {#int-int-int-int}
 
 Adds a textbox to the collection.
 
@@ -21,15 +21,15 @@ Adds a textbox to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, height, width):
+def add(self, top_row, left_column, height, width):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | height | int | Height of textbox, in unit of pixel. |
 | width | int | Width of textbox, in unit of pixel. |
 

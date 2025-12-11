@@ -11,7 +11,7 @@ is_root: false
 ## log_base property
 
 
-Represents the logarithmic base. Default value is 10.Only applies for Excel2007.
+Represents the logarithmic base. Default value is 10.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: TrendlineType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /aspose.cells.charts/trendlinetype/
 is_root: false
 ---

@@ -20,6 +20,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating chart. |
 | [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection) | Encapsulates a collection of [`Chart`](/cells/python-net/aspose.cells.charts/chart) objects. |
 | [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable) | Represents a chart data table. |
+| [`ChartDataValue`](/cells/python-net/aspose.cells.charts/chartdatavalue) | Encapsulates chart data value |
 | [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe) | Encapsulates the object that represents the frame object in a chart. |
 | [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings) | Represents the globalization settings for chart. |
 | [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) | Represents a single point in a series in a chart. |

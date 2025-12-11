@@ -3,7 +3,7 @@ title: delete_in_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /aspose.cells.drawing/shapecollection/delete_in_range/
 is_root: false
 ---

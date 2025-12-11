@@ -3,7 +3,7 @@ title: save_as_single_file property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 770
 url: /aspose.cells/htmlsaveoptions/save_as_single_file/
 is_root: false
 ---

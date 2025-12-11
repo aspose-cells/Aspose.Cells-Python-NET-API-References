@@ -3,7 +3,7 @@ title: doughnut_hole_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.charts/series/doughnut_hole_size/
 is_root: false
 ---

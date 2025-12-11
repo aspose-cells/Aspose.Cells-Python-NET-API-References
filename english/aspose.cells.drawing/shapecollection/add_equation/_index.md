@@ -10,7 +10,7 @@ is_root: false
 
 ## add_equation(self, top_row, top, left_column, left, height, width) {#int-int-int-int-int-int}
 
-Add an equation object to the worksheet.
+Adds an equation object to the worksheet.
 
 
 ### Returns 

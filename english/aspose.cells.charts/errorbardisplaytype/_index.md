@@ -3,7 +3,7 @@ title: ErrorBarDisplayType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /aspose.cells.charts/errorbardisplaytype/
 is_root: false
 ---

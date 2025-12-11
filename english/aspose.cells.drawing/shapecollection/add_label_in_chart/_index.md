@@ -3,7 +3,7 @@ title: add_label_in_chart method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells.drawing/shapecollection/add_label_in_chart/
 is_root: false
 ---

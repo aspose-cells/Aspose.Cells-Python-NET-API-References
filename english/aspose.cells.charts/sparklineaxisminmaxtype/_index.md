@@ -3,7 +3,7 @@ title: SparklineAxisMinMaxType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /aspose.cells.charts/sparklineaxisminmaxtype/
 is_root: false
 ---

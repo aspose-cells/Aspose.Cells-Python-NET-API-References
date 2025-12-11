@@ -3,7 +3,7 @@ title: hidden_col_display_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 520
 url: /aspose.cells.saving/ebooksaveoptions/hidden_col_display_type/
 is_root: false
 ---

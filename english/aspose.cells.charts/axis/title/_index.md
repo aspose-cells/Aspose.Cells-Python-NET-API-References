@@ -11,7 +11,7 @@ is_root: false
 ## title property
 
 
-Gets the axis' title.
+Gets the title of this axis in the chart.
 ### Definition:
 ```python
 @property

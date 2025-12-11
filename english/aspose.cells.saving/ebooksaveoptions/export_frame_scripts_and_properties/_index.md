@@ -3,7 +3,7 @@ title: export_frame_scripts_and_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.saving/ebooksaveoptions/export_frame_scripts_and_properties/
 is_root: false
 ---

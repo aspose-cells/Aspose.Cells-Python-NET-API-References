@@ -25,8 +25,8 @@ The OleObjectCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, upper_left_row, upper_left_column, height, width, image_data)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/add/#int-int-int-int-bytes) | Adds an OleObject to the collection. |
-| [`add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/add/#int-int-int-int-bytes-system.string) | Adds a linked OleObject to the collection. |
+| [`add(self, top_row, left_column, height, width, image_data)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/add/#int-int-int-int-bytes) | Adds an OleObject to the collection. |
+| [`add(self, top_row, left_column, height, width, image_data, linked_file)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/add/#int-int-int-int-bytes-system.string) | Adds a linked OleObject to the collection. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/oleobjectcollection/index_of/#aspose.cells.drawing.oleobject-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

@@ -3,7 +3,7 @@ title: ChartType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells.charts/charttype/
 is_root: false
 ---
@@ -100,7 +100,6 @@ The ChartType type exposes the following members:
 | WATERFALL | The series is laid out as a waterfall. |
 | HISTOGRAM | The series is laid out as a histogram. |
 | MAP | The series is laid out as a region map. |
-| RADIAL_HISTOGRAM | The series is laid out as a radial historgram. It is used only for rendering |
 
 
 

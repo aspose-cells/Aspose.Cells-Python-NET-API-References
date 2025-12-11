@@ -3,7 +3,7 @@ title: size_represents property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 470
 url: /aspose.cells.charts/series/size_represents/
 is_root: false
 ---

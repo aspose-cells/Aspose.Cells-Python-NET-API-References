@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_freeform/
 is_root: false
 ---
 
-## add_freeform(self, upper_left_row, top, upper_left_column, left, height, width, paths) {#int-int-int-int-int-int-list}
+## add_freeform(self, top_row, top, left_column, left, height, width, paths) {#int-int-int-int-int-int-list}
 
 Adds a freeform shape to the worksheet.
 
@@ -21,16 +21,16 @@ A freeform shape.
 
 ```python
 
-def add_freeform(self, upper_left_row, top, upper_left_column, left, height, width, paths):
+def add_freeform(self, top_row, top, left_column, left, height, width, paths):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
+| top_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of freeform shape from its left row, in unit of pixel. |
-| upper_left_column | int | Upper left column index. |
+| left_column | int | Upper left column index. |
 | left | int | Represents the horizontal offset of freeform shape from its left column, in unit of pixel. |
 | height | int | Represents the height of freeform shape, in unit of pixel. |
 | width | int | Represents the width of freeform shape, in unit of pixel. |

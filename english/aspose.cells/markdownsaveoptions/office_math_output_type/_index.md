@@ -11,7 +11,7 @@ is_root: false
 ## office_math_output_type property
 
 
-Indicates how export OfficeMath objects to Markdown, Default value is Image.
+Indicates how OfficeMath objects are exported to Markdown, Default value is Image.
 ### Definition:
 ```python
 @property

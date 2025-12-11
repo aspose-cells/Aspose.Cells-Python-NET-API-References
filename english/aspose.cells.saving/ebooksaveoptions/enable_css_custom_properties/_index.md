@@ -3,7 +3,7 @@ title: enable_css_custom_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.saving/ebooksaveoptions/enable_css_custom_properties/
 is_root: false
 ---

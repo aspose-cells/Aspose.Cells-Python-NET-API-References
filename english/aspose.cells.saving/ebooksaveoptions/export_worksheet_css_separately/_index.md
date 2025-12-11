@@ -3,7 +3,7 @@ title: export_worksheet_css_separately property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 480
 url: /aspose.cells.saving/ebooksaveoptions/export_worksheet_css_separately/
 is_root: false
 ---

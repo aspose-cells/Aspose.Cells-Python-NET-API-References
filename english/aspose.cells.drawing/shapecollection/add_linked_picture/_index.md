@@ -3,12 +3,12 @@ title: add_linked_picture method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells.drawing/shapecollection/add_linked_picture/
 is_root: false
 ---
 
-## add_linked_picture(self, upper_left_row, upper_left_column, height, width, source_full_name) {#int-int-int-int-System.String}
+## add_linked_picture(self, top_row, left_column, height, width, source_full_name) {#int-int-int-int-System.String}
 
 Add a linked picture.
 
@@ -21,15 +21,15 @@ Add a linked picture.
 
 ```python
 
-def add_linked_picture(self, upper_left_row, upper_left_column, height, width, source_full_name):
+def add_linked_picture(self, top_row, left_column, height, width, source_full_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | height | int | The height of the shape. In unit of pixels |
 | width | int | The width of the shape. In unit of pixels |
 | source_full_name | System.String | The path and name of the source file for the linked image |

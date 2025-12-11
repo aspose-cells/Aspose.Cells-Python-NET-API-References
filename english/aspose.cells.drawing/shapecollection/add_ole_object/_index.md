@@ -3,12 +3,12 @@ title: add_ole_object method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.drawing/shapecollection/add_ole_object/
 is_root: false
 ---
 
-## add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data) {#int-int-int-int-int-int-bytes}
+## add_ole_object(self, top_row, top, left_column, left, height, width, image_data) {#int-int-int-int-int-int-bytes}
 
 Adds an OleObject.
 
@@ -21,16 +21,16 @@ Adds an OleObject.
 
 ```python
 
-def add_ole_object(self, upper_left_row, top, upper_left_column, left, height, width, image_data):
+def add_ole_object(self, top_row, top, left_column, left, height, width, image_data):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int |  |
+| top_row | int |  |
 | top | int |  |
-| upper_left_column | int |  |
+| left_column | int |  |
 | left | int |  |
 | height | int |  |
 | width | int |  |

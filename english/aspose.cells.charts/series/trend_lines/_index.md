@@ -3,7 +3,7 @@ title: trend_lines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 510
 url: /aspose.cells.charts/series/trend_lines/
 is_root: false
 ---

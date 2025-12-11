@@ -34,7 +34,7 @@ The Axis type exposes the following members:
 | [tick_label_position](/cells/python-net/aspose.cells.charts/axis/tick_label_position) | Represents the position of tick-mark labels on the specified axis. |
 | [cross_at](/cells/python-net/aspose.cells.charts/axis/cross_at) | Represents the point on the value axis where the category axis crosses it. |
 | [cross_type](/cells/python-net/aspose.cells.charts/axis/cross_type) | Represents the [`Axis.cross_type`](/cells/python-net/aspose.cells.charts/axis#cross_type) on the specified axis where the other axis crosses. |
-| [log_base](/cells/python-net/aspose.cells.charts/axis/log_base) | Represents the logarithmic base. Default value is 10.Only applies for Excel2007. |
+| [log_base](/cells/python-net/aspose.cells.charts/axis/log_base) | Represents the logarithmic base. Default value is 10. |
 | [is_logarithmic](/cells/python-net/aspose.cells.charts/axis/is_logarithmic) | Represents if the value axis scale type is logarithmic or not. |
 | [is_plot_order_reversed](/cells/python-net/aspose.cells.charts/axis/is_plot_order_reversed) | Represents if Microsoft Excel plots data points from last to first. |
 | [axis_between_categories](/cells/python-net/aspose.cells.charts/axis/axis_between_categories) | Represents if the value axis crosses the category axis between categories. |
@@ -48,8 +48,8 @@ The Axis type exposes the following members:
 | [custom_display_unit](/cells/python-net/aspose.cells.charts/axis/custom_display_unit) | Specifies a custom value for the display unit. |
 | [display_unit_label](/cells/python-net/aspose.cells.charts/axis/display_unit_label) | Represents a unit label on an axis in the specified chart. <br/>Unit labels are useful for charting large values— for example, in the millions or billions. |
 | [is_display_unit_label_shown](/cells/python-net/aspose.cells.charts/axis/is_display_unit_label_shown) | Represents if the display unit label is shown on the specified axis. |
-| [title](/cells/python-net/aspose.cells.charts/axis/title) | Gets the axis' title. |
-| [category_type](/cells/python-net/aspose.cells.charts/axis/category_type) | Represents the category axis type. |
+| [title](/cells/python-net/aspose.cells.charts/axis/title) | Gets the title of this axis in the chart. |
+| [category_type](/cells/python-net/aspose.cells.charts/axis/category_type) | Represents the type of the category axis. |
 | [base_unit_scale](/cells/python-net/aspose.cells.charts/axis/base_unit_scale) | Represents the base unit scale for the category axis. |
 | [major_unit_scale](/cells/python-net/aspose.cells.charts/axis/major_unit_scale) | Represents the major unit scale for the category axis. |
 | [minor_unit_scale](/cells/python-net/aspose.cells.charts/axis/minor_unit_scale) | Represents the major unit scale for the category axis. |

@@ -10,7 +10,7 @@ is_root: false
 
 ## add(self, filter) {#System.String}
 
-Adds a label filter.
+Adds a label filter criteria.
 
 
 
@@ -45,6 +45,30 @@ def add(self, type, year, month, day):
 | year | int | The year. |
 | month | int | The month. |
 | day | int | The day. |
+
+
+## add(self, type, year, month, day, hour, minute, second) {#aspose.cells.DateTimeGroupingType-int-int-int-int-int-int}
+
+Adds a date time filter criteria value.
+
+
+
+```python
+
+def add(self, type, year, month, day, hour, minute, second):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| type | aspose.cells.DateTimeGroupingType | The type of date filter. |
+| year | int | The year. |
+| month | int | The month. |
+| day | int | The day. |
+| hour | int | The hour. |
+| minute | int | The minute. |
+| second | int | The second. |
 
 
 

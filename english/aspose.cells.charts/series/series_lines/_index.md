@@ -3,7 +3,7 @@ title: series_lines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 430
 url: /aspose.cells.charts/series/series_lines/
 is_root: false
 ---

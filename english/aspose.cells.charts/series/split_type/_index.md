@@ -3,7 +3,7 @@ title: split_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 490
 url: /aspose.cells.charts/series/split_type/
 is_root: false
 ---

@@ -22,15 +22,23 @@ The PictureCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.drawing/picturecollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the [`Picture`](/cells/python-net/aspose.cells.drawing/picture) element at the specified index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] | The zero based index of the element. |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-int-int-io.rawiobase) | Adds a picture to the collection. |
-| [`add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-int-int-system.string) | Adds a picture to the collection. |
-| [`add(self, upper_left_row, upper_left_column, stream)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-io.rawiobase) | Adds a picture to the collection. |
-| [`add(self, upper_left_row, upper_left_column, file_name)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-system.string) | Adds a picture to the collection. |
-| [`add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-io.rawiobase-int-int) | Adds a picture to the collection. |
-| [`add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-system.string-int-int) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, bottom_row, right_column, stream)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-int-int-io.rawiobase) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, bottom_row, right_column, file_name)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-int-int-system.string) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, stream)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-io.rawiobase) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, file_name)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-system.string) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, stream, width_scale, height_scale)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-io.rawiobase-int-int) | Adds a picture to the collection. |
+| [`add(self, top_row, left_column, file_name, width_scale, height_scale)`](/cells/python-net/aspose.cells.drawing/picturecollection/add/#int-int-system.string-int-int) | Adds a picture to the collection. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.drawing/picturecollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.drawing/picturecollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/picturecollection/index_of/#aspose.cells.drawing.picture-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

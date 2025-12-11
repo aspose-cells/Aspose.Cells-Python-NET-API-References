@@ -3,7 +3,7 @@ title: hide_overflow_wrapped_text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 540
 url: /aspose.cells.saving/ebooksaveoptions/hide_overflow_wrapped_text/
 is_root: false
 ---

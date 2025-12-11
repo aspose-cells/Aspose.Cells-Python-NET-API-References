@@ -3,7 +3,7 @@ title: PlotDataByType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 600
 url: /aspose.cells.charts/plotdatabytype/
 is_root: false
 ---

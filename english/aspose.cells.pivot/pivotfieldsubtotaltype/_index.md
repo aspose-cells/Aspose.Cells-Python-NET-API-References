@@ -28,10 +28,10 @@ The PivotFieldSubtotalType type exposes the following members:
 | MIN | Represents Min subtotal type. |
 | PRODUCT | Represents Product subtotal type. |
 | COUNT_NUMS | Represents Count Nums subtotal type. |
-| STDEV | Represents Stdev subtotal type. |
-| STDEVP | Represents Stdevp subtotal type. |
-| VAR | Represents Var subtotal type. |
-| VARP | Represents Varp subtotal type. |
+| STDEV | Represents Standard Deviation subtotal type. |
+| STDEVP | Represents Standard Deviation of a Population subtotal type. |
+| VAR | Represents Variance subtotal type. |
+| VARP | Represents Variance of a Population subtotal type. |
 
 
 

@@ -3,7 +3,7 @@ title: warning_callback property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 850
+weight: 870
 url: /aspose.cells.saving/ebooksaveoptions/warning_callback/
 is_root: false
 ---

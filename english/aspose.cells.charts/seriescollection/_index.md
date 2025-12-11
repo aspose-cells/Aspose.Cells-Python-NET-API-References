@@ -3,7 +3,7 @@ title: SeriesCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells.charts/seriescollection/
 is_root: false
 ---
@@ -23,14 +23,6 @@ The SeriesCollection type exposes the following members:
 | [second_category_data](/cells/python-net/aspose.cells.charts/seriescollection/second_category_data) | Gets or sets the range of second category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). <br/>Only effects when some ASerieses plot on the second axis. |
 | [is_color_varied](/cells/python-net/aspose.cells.charts/seriescollection/is_color_varied) | Represents if the color of points is varied. |
 | [capacity](/cells/python-net/aspose.cells.charts/seriescollection/capacity) | Gets or sets the number of elements that the array list can contain. |
-
-
-
-Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element at the specified index.
-### Indexer
-| Name | Description |
-| :- | :- |
-| [index] | The zero based index of the element. |
 
 
 ### Methods

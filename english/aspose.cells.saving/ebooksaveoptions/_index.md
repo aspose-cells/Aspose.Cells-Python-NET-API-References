@@ -109,7 +109,7 @@ The EbookSaveOptions type exposes the following members:
 | [hide_overflow_wrapped_text](/cells/python-net/aspose.cells.saving/ebooksaveoptions/hide_overflow_wrapped_text) | Indicates whether to hide overflow text when the cell format is set to wrap text.<br/>The default value is false |
 | [is_border_collapsed](/cells/python-net/aspose.cells.saving/ebooksaveoptions/is_border_collapsed) | Indicates whether the table borders are collapsed.<br/>The default value is true. |
 | [encode_entity_as_code](/cells/python-net/aspose.cells.saving/ebooksaveoptions/encode_entity_as_code) | Indicates whether the html character entities are replaced with decimal code.<br/>(e.g. "&nbsp;" is replaced with "&#160;").<br/>The default value is false. |
-| [office_math_output_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/office_math_output_mode) | Indicates how export OfficeMath objects to HTML, Default value is Image. |
+| [office_math_output_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/office_math_output_mode) | Indicates how OfficeMath objects are exported to HTML, Default value is Image. |
 | [cell_name_attribute](/cells/python-net/aspose.cells.saving/ebooksaveoptions/cell_name_attribute) | Specifies the attribute that indicates the CellName to be written.<br/>(e.g. If the value is "id", then for cell "A1", the output will be:<td id='A1'>).<br/>The default value is null. |
 | [disable_css](/cells/python-net/aspose.cells.saving/ebooksaveoptions/disable_css) | Indicates whether only inline styles are applied, without relying on CSS.<br/>The default value is false. |
 | [enable_css_custom_properties](/cells/python-net/aspose.cells.saving/ebooksaveoptions/enable_css_custom_properties) | Optimize the output of html by using CSS custom properties. For example, for the scenario that there are multiple occurences for one base64 image, with custom property the image data only needs to be saved once so the performance of the resultant html can be improved.<br/>The default value is false. |
@@ -117,6 +117,8 @@ The EbookSaveOptions type exposes the following members:
 | [sheet_set](/cells/python-net/aspose.cells.saving/ebooksaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [layout_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/layout_mode) | Gets or sets the layout mode when saving to HTML.<br/>The default value is [`HtmlLayoutMode.NORMAL`](/cells/python-net/aspose.cells.rendering/htmllayoutmode#NORMAL) |
 | [embedded_font_type](/cells/python-net/aspose.cells.saving/ebooksaveoptions/embedded_font_type) | Gets or sets the type of embedding font file into html file.<br/>Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that no font will be embedded in html. |
+| [export_named_range_anchors](/cells/python-net/aspose.cells.saving/ebooksaveoptions/export_named_range_anchors) | / Indicates whether to export anchor elements  generated for named ranges when saving to HTML.<br/>Default value is true. |
+| [data_bar_render_mode](/cells/python-net/aspose.cells.saving/ebooksaveoptions/data_bar_render_mode) |  |
 
 
 

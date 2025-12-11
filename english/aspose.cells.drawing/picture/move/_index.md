@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picture/move/
 is_root: false
 ---
 
-## move(self, upper_left_row, upper_left_column) {#int-int}
+## move(self, top_row, left_column) {#int-int}
 
 Moves the picture to a specified location.
 
@@ -16,15 +16,15 @@ Moves the picture to a specified location.
 
 ```python
 
-def move(self, upper_left_row, upper_left_column):
+def move(self, top_row, left_column):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 
 ### Example 
 

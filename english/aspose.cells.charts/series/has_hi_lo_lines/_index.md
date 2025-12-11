@@ -3,7 +3,7 @@ title: has_hi_lo_lines property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.charts/series/has_hi_lo_lines/
 is_root: false
 ---

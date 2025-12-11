@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/shapecollection/add_icons/
 is_root: false
 ---
 
-## add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
+## add_icons(self, top_row, top, left_column, left, height, width, image_byte_data, compatible_image_data) {#int-int-int-int-int-int-bytes-bytes}
 
 Adds svg image.
 
@@ -21,16 +21,16 @@ Adds svg image.
 
 ```python
 
-def add_icons(self, upper_left_row, top, upper_left_column, left, height, width, image_byte_data, compatible_image_data):
+def add_icons(self, top_row, top, left_column, left, height, width, image_byte_data, compatible_image_data):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
+| top_row | int | Upper left row index. |
 | top | int | Represents the vertical offset of shape from its left row, in unit of pixel. |
-| upper_left_column | int | Upper left column index. |
+| left_column | int | Upper left column index. |
 | left | int | The horizontal offset of shape from its left column, in unit of pixel. |
 | height | int | The height of shape, in unit of pixel. |
 | width | int | The width of shape, in unit of pixel. |

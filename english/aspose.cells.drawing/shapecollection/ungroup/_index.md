@@ -3,7 +3,7 @@ title: ungroup method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 510
 url: /aspose.cells.drawing/shapecollection/ungroup/
 is_root: false
 ---

@@ -11,7 +11,7 @@ is_root: false
 ## category_type property
 
 
-Represents the category axis type.
+Represents the type of the category axis.
 ### Definition:
 ```python
 @property

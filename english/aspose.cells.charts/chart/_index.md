@@ -94,7 +94,7 @@ The Chart type exposes the following members:
 | [`is_chart_data_changed(self)`](/cells/python-net/aspose.cells.charts/chart/is_chart_data_changed/#) | Detects if a chart's data source has changed. |
 | [`refresh_pivot_data(self)`](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes chart's data from pivot table. |
 | [`change_template(self, data)`](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
-| [`move(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
+| [`move(self, top_row, left_column, bottom_row, right_column)`](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
 | [`get_actual_size(self)`](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |
 | [`has_axis(self, aixs_type, is_primary)`](/cells/python-net/aspose.cells.charts/chart/has_axis/#aspose.cells.charts.axistype-bool) | Returns which axes exist on the chart. |
 | [`switch_row_column(self)`](/cells/python-net/aspose.cells.charts/chart/switch_row_column/#) | Switches row/column. |
