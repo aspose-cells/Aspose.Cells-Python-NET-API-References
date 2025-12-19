@@ -8,13 +8,14 @@ url: /aspose.cellsgridjs/gridabstractcalculationengine/calculate/
 is_root: false
 ---
 
-## calculate {#aspose.cellsgridjs.GridCalculationData}
+## calculate(self, data) {#aspose.cellsgridjs.GridCalculationData}
 
 Calculates one function with given data.
 
 
 
 ```python
+
 def calculate(self, data):
     ...
 ```
@@ -22,7 +23,7 @@ def calculate(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | [`GridCalculationData`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata) | The required data to calculate function such as function name, parameters, ...etc. |
+| data | aspose.cellsgridjs.GridCalculationData | The required data to calculate function such as function name, parameters, ...etc. |
 ### Remarks
 
 User should set the calculated value for given data for all functions(including excel native functions)

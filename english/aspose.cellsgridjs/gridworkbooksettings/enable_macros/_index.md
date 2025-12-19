@@ -3,7 +3,7 @@ title: enable_macros property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cellsgridjs/gridworkbooksettings/enable_macros/
 is_root: false
 ---

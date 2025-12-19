@@ -3,7 +3,7 @@ title: date1904 property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cellsgridjs/gridworkbooksettings/date1904/
 is_root: false
 ---

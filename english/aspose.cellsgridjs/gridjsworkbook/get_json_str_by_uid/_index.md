@@ -3,23 +3,24 @@ title: get_json_str_by_uid method
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cellsgridjs/gridjsworkbook/get_json_str_by_uid/
 is_root: false
 ---
 
-## get_json_str_by_uid {#str-str}
+## get_json_str_by_uid(self, uid, filename) {#System.String-System.String}
 
-Gets the JSON format string from the file cache by the specified unique id.
+Gets the JSON  string  of the file from the cache using the specified unique id,set the output filename in the JSON.
 
 
 ### Returns 
 
 
-The JSON format string
+The JSON  string
 
 
 ```python
+
 def get_json_str_by_uid(self, uid, filename):
     ...
 ```
@@ -27,8 +28,8 @@ def get_json_str_by_uid(self, uid, filename):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str | The unique id for the file cache. |
-| filename | str | Specifies the file name in the JSON. If set to null,the default filename is: book1. |
+| uid | System.String | The unique id for the file cache. |
+| filename | System.String | Specifies the file name in the JSON. If set to null,the default filename is: book1. |
 
 
 

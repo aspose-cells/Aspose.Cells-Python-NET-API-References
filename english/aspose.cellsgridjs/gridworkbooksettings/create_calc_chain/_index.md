@@ -3,7 +3,7 @@ title: create_calc_chain property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cellsgridjs/gridworkbooksettings/create_calc_chain/
 is_root: false
 ---

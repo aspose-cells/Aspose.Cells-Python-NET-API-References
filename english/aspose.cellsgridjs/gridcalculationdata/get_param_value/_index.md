@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridcalculationdata/get_param_value/
 is_root: false
 ---
 
-## get_param_value {#int}
+## get_param_value(self, index) {#int}
 
 Gets the represented value object of the parameter at given index.
 
@@ -21,6 +21,7 @@ If the parameter is reference, then return ReferredArea object.
 
 
 ```python
+
 def get_param_value(self, index):
     ...
 ```

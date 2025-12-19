@@ -3,18 +3,19 @@ title: save_to_xlsx method
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 240
 url: /aspose.cellsgridjs/gridjsworkbook/save_to_xlsx/
 is_root: false
 ---
 
-## save_to_xlsx {#str}
+## save_to_xlsx(self, path) {#System.String}
 
 Saves the memory data to the file path,the save format is xlsx.
 
 
 
 ```python
+
 def save_to_xlsx(self, path):
     ...
 ```
@@ -22,16 +23,17 @@ def save_to_xlsx(self, path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| path | str | The file path to save. |
+| path | System.String | The file path to save. |
 
 
-## save_to_xlsx {#io.RawIOBase}
+## save_to_xlsx(self, stream) {#io.RawIOBase}
 
 Saves the memory data to the sream,the save format is xlsx.
 
 
 
 ```python
+
 def save_to_xlsx(self, stream):
     ...
 ```

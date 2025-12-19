@@ -3,7 +3,7 @@ title: GridCellException class
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cellsgridjs/gridcellexception/
 is_root: false
 ---
@@ -20,14 +20,12 @@ The GridCellException type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [code](/cells/python-net/aspose.cellsgridjs/gridcellexception/code) | Represents the exception code. |
-| [source](/cells/python-net/aspose.cellsgridjs/gridcellexception/source) | Gets  the name of the application or the object that causes the error. |
-| [stack_trace](/cells/python-net/aspose.cellsgridjs/gridcellexception/stack_trace) | Gets a string representation of the immediate frames on the call stack. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_string](/cells/python-net/aspose.cellsgridjs/gridcellexception/to_string/#) | Creates and returns a string representation of the current exception. |
+| [`to_string(self)`](/cells/python-net/aspose.cellsgridjs/gridcellexception/to_string/#) | Creates and returns a string representation of the current exception. |
 
 
 

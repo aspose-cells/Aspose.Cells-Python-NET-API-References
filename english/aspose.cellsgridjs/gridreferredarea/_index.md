@@ -3,7 +3,7 @@ title: GridReferredArea class
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 120
 url: /aspose.cellsgridjs/gridreferredarea/
 is_root: false
 ---
@@ -32,8 +32,8 @@ The GridReferredArea type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_values](/cells/python-net/aspose.cellsgridjs/gridreferredarea/get_values/#) | Gets cell values in this area. |
-| [get_value](/cells/python-net/aspose.cellsgridjs/gridreferredarea/get_value/#int-int) | Gets cell value with given offset from the top-left of this area. |
+| [`get_values(self)`](/cells/python-net/aspose.cellsgridjs/gridreferredarea/get_values/#) | Gets cell values in this area. |
+| [`get_value(self, row_offset, col_offset)`](/cells/python-net/aspose.cellsgridjs/gridreferredarea/get_value/#int-int) | Gets cell value with given offset from the top-left of this area. |
 
 
 

@@ -3,7 +3,7 @@ title: GridCalculationData class
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cellsgridjs/gridcalculationdata/
 is_root: false
 ---
@@ -33,8 +33,8 @@ The GridCalculationData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_param_value](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
-| [get_param_text](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
+| [`get_param_value(self, index)`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_value/#int) | Gets the represented value object of the parameter at given index. |
+| [`get_param_text(self, index)`](/cells/python-net/aspose.cellsgridjs/gridcalculationdata/get_param_text/#int) | Gets the literal text of the parameter at given index. |
 
 
 

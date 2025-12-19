@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridcacheforstream/get_file_url/
 is_root: false
 ---
 
-## get_file_url {#str}
+## get_file_url(self, uid) {#System.String}
 
 Implements this method to get the file url  from the cache.
 
@@ -20,6 +20,7 @@ The URL of the file
 
 
 ```python
+
 def get_file_url(self, uid):
     ...
 ```
@@ -27,7 +28,7 @@ def get_file_url(self, uid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str | The unique id for the file cache. |
+| uid | System.String | The unique id for the file cache. |
 
 
 

@@ -3,7 +3,7 @@ title: same_image_detecting property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 240
 url: /aspose.cellsgridjs/config/same_image_detecting/
 is_root: false
 ---
@@ -11,15 +11,15 @@ is_root: false
 ## same_image_detecting property
 
 
-Sets/Gets  whether to check if picture has same source,the default is true
+Gets/Sets  whether to check if images have same source,the default is true
 the default value is true.
 ### Definition:
 ```python
 @property
 def same_image_detecting(self):
     ...
-@same_image_detecting.setter
-def same_image_detecting(self, value):
+@staticmethod
+def set_same_image_detecting(value):
     ...
 ```
 

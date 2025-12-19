@@ -22,10 +22,10 @@ def set_interrupt_monitor_for_save(self, monitor):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| monitor | [`GridInterruptMonitor`](/cells/python-net/aspose.cellsgridjs/gridinterruptmonitor) | The InterruptMonitor instance. |
+| monitor | [`GridInterruptMonitor`](/gridjs/python-net/aspose.cellsgridjs/gridinterruptmonitor) | The InterruptMonitor instance. |
 
 
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridJsWorkbook`](/cells/python-net/aspose.cellsgridjs/gridjsworkbook)
+* class [`GridJsWorkbook`](/gridjs/python-net/aspose.cellsgridjs/gridjsworkbook)

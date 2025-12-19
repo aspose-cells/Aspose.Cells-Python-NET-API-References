@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridreferredarea/get_value/
 is_root: false
 ---
 
-## get_value {#int-int}
+## get_value(self, row_offset, col_offset) {#int-int}
 
 Gets cell value with given offset from the top-left of this area.
 
@@ -22,6 +22,7 @@ Otherwise return the cell value at given position.
 
 
 ```python
+
 def get_value(self, row_offset, col_offset):
     ...
 ```

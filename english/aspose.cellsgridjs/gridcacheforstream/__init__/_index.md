@@ -25,4 +25,4 @@ def __init__(self):
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)
-* class [`GridCacheForStream`](/cells/python-net/aspose.cellsgridjs/gridcacheforstream)
+* class [`GridCacheForStream`](/gridjs/python-net/aspose.cellsgridjs/gridcacheforstream)
