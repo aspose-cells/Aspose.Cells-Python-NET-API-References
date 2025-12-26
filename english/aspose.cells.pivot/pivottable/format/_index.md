@@ -48,7 +48,7 @@ def format(self, ca, style):
 
 ## format(self, row, column, style) {#int-int-aspose.cells.Style}
 
-Format the cell in the pivottable area
+Formats the cell in the pivottable area
 
 
 

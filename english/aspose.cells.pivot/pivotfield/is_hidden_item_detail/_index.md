@@ -10,7 +10,7 @@ is_root: false
 
 ## is_hidden_item_detail(self, index) {#int}
 
-Gets whether hidding the detail of  the specific PivotItem..
+Gets whether to hide the detail of the specific PivotItem..
 
 
 ### Returns 

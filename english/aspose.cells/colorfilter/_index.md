@@ -10,7 +10,7 @@ is_root: false
 
 ## ColorFilter class
 
-Represents filtering the range by color.
+Represents setting for filtering the range by color.
 
 
 

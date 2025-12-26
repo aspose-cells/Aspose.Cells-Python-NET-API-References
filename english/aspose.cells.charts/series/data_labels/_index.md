@@ -3,7 +3,7 @@ title: data_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.charts/series/data_labels/
 is_root: false
 ---

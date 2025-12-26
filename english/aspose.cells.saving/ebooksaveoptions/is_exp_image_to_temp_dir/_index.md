@@ -3,7 +3,7 @@ title: is_exp_image_to_temp_dir property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 610
 url: /aspose.cells.saving/ebooksaveoptions/is_exp_image_to_temp_dir/
 is_root: false
 ---

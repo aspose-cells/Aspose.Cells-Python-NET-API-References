@@ -10,7 +10,8 @@ is_root: false
 
 ## get_formula(self) {#}
 
-Gets formula of the calculated field .
+Gets the formula of the calculated field .
+Only works for calculated field.
 
 
 

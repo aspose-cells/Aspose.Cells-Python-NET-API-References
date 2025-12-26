@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridcacheforstream/is_existed/
 is_root: false
 ---
 
-## is_existed {#str}
+## is_existed(self, uid) {#System.String}
 
 Checks whether the cache with uid is existed
 
@@ -20,6 +20,7 @@ The bool value
 
 
 ```python
+
 def is_existed(self, uid):
     ...
 ```
@@ -27,7 +28,7 @@ def is_existed(self, uid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str | The unique id for the file cache. |
+| uid | System.String | The unique id for the file cache. |
 
 
 

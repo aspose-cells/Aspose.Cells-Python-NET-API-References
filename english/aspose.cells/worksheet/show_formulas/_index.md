@@ -3,7 +3,7 @@ title: show_formulas property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 800
 url: /aspose.cells/worksheet/show_formulas/
 is_root: false
 ---

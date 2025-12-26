@@ -3,7 +3,7 @@ title: calculate_engine property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 300
 url: /aspose.cellsgridjs/gridjsworkbook/calculate_engine/
 is_root: false
 ---
@@ -12,6 +12,10 @@ is_root: false
 
 
 Custom  implemention for calculation engine ,If you want to do custom calculation, you  need to set and implement it.
+### Definition:
+```python
+f calculate_engine 
+```
 
 ### See Also
 * module [`aspose.cellsgridjs`](../../)

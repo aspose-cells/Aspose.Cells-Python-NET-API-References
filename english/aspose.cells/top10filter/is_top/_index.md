@@ -11,7 +11,7 @@ is_root: false
 ## is_top property
 
 
-Indicates whether it's top filter.
+Indicates whether or not to filter by top order
 ### Definition:
 ```python
 @property

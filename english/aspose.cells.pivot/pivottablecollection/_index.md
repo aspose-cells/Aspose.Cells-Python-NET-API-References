@@ -22,6 +22,14 @@ The PivotTableCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.pivot/pivottablecollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the PivotTable report by index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] |  |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |

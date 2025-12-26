@@ -3,12 +3,12 @@ title: add_shape method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.drawing/shapecollection/add_shape/
 is_root: false
 ---
 
-## add_shape(self, type, upper_left_row, top, upper_left_column, left, height, width) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-int-int}
+## add_shape(self, type, top_row, top, left_column, left, height, width) {#aspose.cells.drawing.MsoDrawingType-int-int-int-int-int-int}
 
 Adds a Shape to the worksheet.
 
@@ -21,7 +21,7 @@ A Shape object.
 
 ```python
 
-def add_shape(self, type, upper_left_row, top, upper_left_column, left, height, width):
+def add_shape(self, type, top_row, top, left_column, left, height, width):
     ...
 ```
 
@@ -29,9 +29,9 @@ def add_shape(self, type, upper_left_row, top, upper_left_column, left, height, 
 | Parameter | Type | Description |
 | :- | :- | :- |
 | type | aspose.cells.drawing.MsoDrawingType | Mso drawing type. |
-| upper_left_row | int | Upper left row index. |
+| top_row | int | Upper left row index. |
 | top | int | Represents the vertical  offset of Shape from its left row, in unit of pixel. |
-| upper_left_column | int | Upper left column index. |
+| left_column | int | Upper left column index. |
 | left | int | Represents the horizontal offset of Shape from its left column, in unit of pixel. |
 | height | int | Represents the height of Shape, in unit of pixel. |
 | width | int | Represents the width of Shape, in unit of pixel. |

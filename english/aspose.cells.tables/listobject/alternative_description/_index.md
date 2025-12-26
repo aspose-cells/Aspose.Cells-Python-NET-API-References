@@ -3,7 +3,7 @@ title: alternative_description property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.tables/listobject/alternative_description/
 is_root: false
 ---

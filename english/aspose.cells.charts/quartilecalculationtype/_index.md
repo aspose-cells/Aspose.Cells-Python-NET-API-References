@@ -3,7 +3,7 @@ title: QuartileCalculationType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.charts/quartilecalculationtype/
 is_root: false
 ---

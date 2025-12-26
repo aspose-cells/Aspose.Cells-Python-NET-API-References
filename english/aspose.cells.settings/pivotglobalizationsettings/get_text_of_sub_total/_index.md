@@ -3,7 +3,7 @@ title: get_text_of_sub_total method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_sub_total/
 is_root: false
 ---

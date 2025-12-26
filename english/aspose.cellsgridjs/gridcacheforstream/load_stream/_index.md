@@ -8,13 +8,14 @@ url: /aspose.cellsgridjs/gridcacheforstream/load_stream/
 is_root: false
 ---
 
-## load_stream {#str}
+## load_stream(self, uid) {#System.String}
 
 Implements this method to load cache with the key uid,return the stream from the cache.
 
 
 
 ```python
+
 def load_stream(self, uid):
     ...
 ```
@@ -22,7 +23,7 @@ def load_stream(self, uid):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str |  |
+| uid | System.String |  |
 
 
 

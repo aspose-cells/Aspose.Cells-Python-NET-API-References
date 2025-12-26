@@ -31,7 +31,9 @@ The MultipleFilterCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, filter)`](/cells/python-net/aspose.cells/multiplefiltercollection/add/#system.string) | Adds string filter. |
+| [`add(self, filter)`](/cells/python-net/aspose.cells/multiplefiltercollection/add/#system.string) | Adds a label filter criteria. |
+| [`add(self, type, year, month, day)`](/cells/python-net/aspose.cells/multiplefiltercollection/add/#aspose.cells.datetimegroupingtype-int-int-int) | Adds a date filter criteria value. |
+| [`add(self, type, year, month, day, hour, minute, second)`](/cells/python-net/aspose.cells/multiplefiltercollection/add/#aspose.cells.datetimegroupingtype-int-int-int-int-int-int) | Adds a date time filter criteria value. |
 
 
 

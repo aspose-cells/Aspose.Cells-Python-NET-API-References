@@ -3,7 +3,7 @@ title: parse_html_tag_in_cell property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 740
 url: /aspose.cells/htmlsaveoptions/parse_html_tag_in_cell/
 is_root: false
 ---

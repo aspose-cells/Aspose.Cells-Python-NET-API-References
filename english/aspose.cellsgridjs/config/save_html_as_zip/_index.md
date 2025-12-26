@@ -3,7 +3,7 @@ title: save_html_as_zip property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 250
 url: /aspose.cellsgridjs/config/save_html_as_zip/
 is_root: false
 ---
@@ -11,14 +11,14 @@ is_root: false
 ## save_html_as_zip property
 
 
-Sets/Gets  whether to save html file as zip archive,the default is false.
+Gets/Sets  whether to save html file as zip archive,the default is false.
 ### Definition:
 ```python
 @property
 def save_html_as_zip(self):
     ...
-@save_html_as_zip.setter
-def save_html_as_zip(self, value):
+@staticmethod
+def set_save_html_as_zip(value):
     ...
 ```
 

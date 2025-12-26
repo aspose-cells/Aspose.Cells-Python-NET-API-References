@@ -25,18 +25,18 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) | Represents a field in a PivotTable report. |
 | [`PivotFieldCollection`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection) | Represents a collection of all the PivotField objects<br/>in the PivotTable's specific PivotFields type. |
 | [`PivotFieldGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotfieldgroupsettings) | Represents the group setting of pivot field. |
-| [`PivotFieldSortSetting`](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting) | Represents the setting of sorting pivot fields. |
+| [`PivotFieldSortSetting`](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting) | Represents the setting for sorting pivot fields. |
 | [`PivotFilter`](/cells/python-net/aspose.cells.pivot/pivotfilter) | Represents a PivotFilter in PivotFilter Collection. |
-| [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection) | Represents a collection of all the PivotFilter objects |
+| [`PivotFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotfiltercollection) | Represents a collection of all the PivotFilters. |
 | [`PivotFormatCondition`](/cells/python-net/aspose.cells.pivot/pivotformatcondition) |  |
 | [`PivotFormatConditionCollection`](/cells/python-net/aspose.cells.pivot/pivotformatconditioncollection) |  |
 | [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) | Represents a item in a PivotField report. |
 | [`PivotItemCollection`](/cells/python-net/aspose.cells.pivot/pivotitemcollection) | Represents all the [`PivotItem`](/cells/python-net/aspose.cells.pivot/pivotitem) objects in the PivotField. |
 | [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) | Represents the numberic range group of the pivot field. |
-| [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | Represents the pivot page field items <br/>if the pivot table data source is consolidation ranges.<br/>It only can contain up to 4 fields. |
+| [`PivotPageFields`](/cells/python-net/aspose.cells.pivot/pivotpagefields) | Represents the pivot page items <br/>if the pivot table data source is consolidation ranges.<br/>It only can contain up to 4 items. |
 | [`PivotShowValuesSetting`](/cells/python-net/aspose.cells.pivot/pivotshowvaluessetting) | Represents the settings about showing values as when the ShowDataAs calculation is in use. |
 | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Summary description for PivotTable. |
-| [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) | Rerepsents the options of calcuating the pivot table. |
+| [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) | Rerepsents the options of calculating data of the pivot table. |
 | [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection) | Represents the collection of all the PivotTable objects on the specified worksheet. |
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
 | [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection) | Represents the collection of formats applied to PivotTable. |
@@ -54,7 +54,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotFieldGroupType`](/cells/python-net/aspose.cells.pivot/pivotfieldgrouptype) | Represents the group type of pivot field. |
 | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) | Summary description for PivotFieldSubtotalType. |
 | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | Represents PivotTable field type. |
-| [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | Represents PivotTable Filter type. |
+| [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | Represents the filter type of the pivot table. |
 | [`PivotGroupByType`](/cells/python-net/aspose.cells.pivot/pivotgroupbytype) | Represents group by type. |
 | [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition) |  |
 | [`PivotItemPositionType`](/cells/python-net/aspose.cells.pivot/pivotitempositiontype) | Represents the position type of the pivot base item in the base field when the ShowDataAs calculation is in use. |

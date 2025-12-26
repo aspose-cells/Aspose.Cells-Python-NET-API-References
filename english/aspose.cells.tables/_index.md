@@ -14,10 +14,10 @@ The **Aspose.Cells.Tables**  namespace contains classes that represent tables, r
 | Class | Description |
 | :- | :- |
 | [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn) | Represents a column in a Table. |
-| [`ListColumnCollection`](/cells/python-net/aspose.cells.tables/listcolumncollection) | Represents A collection of all the [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn) objects in the specified ListObject object. |
-| [`ListObject`](/cells/python-net/aspose.cells.tables/listobject) | Represents a list object on a worksheet.<br/>The ListObject object is a member of the ListObjects collection. <br/>The ListObjects collection contains all the list objects on a worksheet. |
+| [`ListColumnCollection`](/cells/python-net/aspose.cells.tables/listcolumncollection) | Represents a list of all the [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn) objects in the table. |
+| [`ListObject`](/cells/python-net/aspose.cells.tables/listobject) | Represents a table in a worksheet. |
 | [`ListObjectCollection`](/cells/python-net/aspose.cells.tables/listobjectcollection) | Represents a collection of [`ListObject`](/cells/python-net/aspose.cells.tables/listobject) objects in the worksheet. |
-| [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle) | Represents the table style. |
+| [`TableStyle`](/cells/python-net/aspose.cells.tables/tablestyle) | Represents the style of the table. |
 | [`TableStyleCollection`](/cells/python-net/aspose.cells.tables/tablestylecollection) | Represents all custom table styles. |
 | [`TableStyleElement`](/cells/python-net/aspose.cells.tables/tablestyleelement) | Represents the element of the table style. |
 | [`TableStyleElementCollection`](/cells/python-net/aspose.cells.tables/tablestyleelementcollection) | Represents all elements of the table style. |

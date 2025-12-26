@@ -11,7 +11,7 @@ is_root: false
 ## items property
 
 
-Gets and sets the items of the filter.
+Gets and sets top or bottom value to use as the filter criteria.
 ### Definition:
 ```python
 @property

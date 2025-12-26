@@ -11,7 +11,7 @@ is_root: false
 ## check_custom_number_format property
 
 
-Indicates whether checking custom number format when setting Style.Custom.
+Indicates whether checking custom number format when setting Style.Custom, default is false.
 ### Definition:
 ```python
 @property

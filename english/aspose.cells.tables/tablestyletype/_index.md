@@ -19,8 +19,8 @@ The TableStyleType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE |  |
-| TABLE_STYLE_LIGHT1 |  |
+| NONE | No style. |
+| TABLE_STYLE_LIGHT1 | Table Style Light 1 |
 | TABLE_STYLE_LIGHT2 |  |
 | TABLE_STYLE_LIGHT3 |  |
 | TABLE_STYLE_LIGHT4 |  |

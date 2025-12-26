@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/picturecollection/add/
 is_root: false
 ---
 
-## add(self, upper_left_row, upper_left_column, stream) {#int-int-io.RawIOBase}
+## add(self, top_row, left_column, stream) {#int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -21,15 +21,15 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, stream):
+def add(self, top_row, left_column, stream):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | stream | io.RawIOBase | Stream object which contains the image data. |
 
 ### Example 
@@ -44,7 +44,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, file_name) {#int-int-System.String}
+## add(self, top_row, left_column, file_name) {#int-int-System.String}
 
 Adds a picture to the collection.
 
@@ -57,15 +57,15 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, file_name):
+def add(self, top_row, left_column, file_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | file_name | System.String | Image filename. |
 
 ### Example 
@@ -79,7 +79,7 @@ pictures.add(1, 1, "image.jpg")
 ```
 
 
-## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream) {#int-int-int-int-io.RawIOBase}
+## add(self, top_row, left_column, bottom_row, right_column, stream) {#int-int-int-int-io.RawIOBase}
 
 Adds a picture to the collection.
 
@@ -92,17 +92,17 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, stream):
+def add(self, top_row, left_column, bottom_row, right_column, stream):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
-| lower_right_row | int | Lower right row index |
-| lower_right_column | int | Lower right column index |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
+| bottom_row | int | Lower right row index |
+| right_column | int | Lower right column index |
 | stream | io.RawIOBase | Stream object which contains the image data. |
 
 ### Example 
@@ -117,7 +117,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name) {#int-int-int-int-System.String}
+## add(self, top_row, left_column, bottom_row, right_column, file_name) {#int-int-int-int-System.String}
 
 Adds a picture to the collection.
 
@@ -130,17 +130,17 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column, file_name):
+def add(self, top_row, left_column, bottom_row, right_column, file_name):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
-| lower_right_row | int | Lower right row index |
-| lower_right_column | int | Lower right column index |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
+| bottom_row | int | Lower right row index |
+| right_column | int | Lower right column index |
 | file_name | System.String | Image filename. |
 
 ### Example 
@@ -154,7 +154,7 @@ pictures.add(1, 1, 5, 5, "image.jpg")
 ```
 
 
-## add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
+## add(self, top_row, left_column, stream, width_scale, height_scale) {#int-int-io.RawIOBase-int-int}
 
 Adds a picture to the collection.
 
@@ -167,15 +167,15 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, stream, width_scale, height_scale):
+def add(self, top_row, left_column, stream, width_scale, height_scale):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | stream | io.RawIOBase | Stream object which contains the image data. |
 | width_scale | int | Scale of image width, a percentage. |
 | height_scale | int | Scale of image height, a percentage. |
@@ -192,7 +192,7 @@ with open("image.jpg", "rb") as fs:
 ```
 
 
-## add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale) {#int-int-System.String-int-int}
+## add(self, top_row, left_column, file_name, width_scale, height_scale) {#int-int-System.String-int-int}
 
 Adds a picture to the collection.
 
@@ -205,15 +205,15 @@ Adds a picture to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, file_name, width_scale, height_scale):
+def add(self, top_row, left_column, file_name, width_scale, height_scale):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | file_name | System.String | Image filename. |
 | width_scale | int | Scale of image width, a percentage. |
 | height_scale | int | Scale of image height, a percentage. |

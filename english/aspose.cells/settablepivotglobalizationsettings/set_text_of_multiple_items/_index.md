@@ -3,7 +3,7 @@ title: set_text_of_multiple_items method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_multiple_items/
 is_root: false
 ---

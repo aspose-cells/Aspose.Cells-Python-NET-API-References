@@ -3,7 +3,7 @@ title: settings property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 310
 url: /aspose.cellsgridjs/gridjsworkbook/settings/
 is_root: false
 ---

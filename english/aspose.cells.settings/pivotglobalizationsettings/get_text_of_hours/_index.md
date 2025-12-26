@@ -3,7 +3,7 @@ title: get_text_of_hours method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_hours/
 is_root: false
 ---

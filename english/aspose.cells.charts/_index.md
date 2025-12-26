@@ -20,6 +20,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating chart. |
 | [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection) | Encapsulates a collection of [`Chart`](/cells/python-net/aspose.cells.charts/chart) objects. |
 | [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable) | Represents a chart data table. |
+| [`ChartDataValue`](/cells/python-net/aspose.cells.charts/chartdatavalue) | Encapsulates chart data value |
 | [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe) | Encapsulates the object that represents the frame object in a chart. |
 | [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings) | Represents the globalization settings for chart. |
 | [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) | Represents a single point in a series in a chart. |
@@ -41,7 +42,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties) | Represents the properties of series layout. |
 | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | A sparkline represents a tiny chart or graphic in a worksheet cell that provides a visual representation of data. |
 | [`SparklineCollection`](/cells/python-net/aspose.cells.charts/sparklinecollection) | Encapsulates a collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) objects. |
-| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
+| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
 | [`SparklineGroupCollection`](/cells/python-net/aspose.cells.charts/sparklinegroupcollection) | Encapsulates a collection of [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) objects. |
 | [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem) | Represents a tick label in the chart. |
 | [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels) | Represents the tick-mark labels associated with tick marks on a chart axis. |

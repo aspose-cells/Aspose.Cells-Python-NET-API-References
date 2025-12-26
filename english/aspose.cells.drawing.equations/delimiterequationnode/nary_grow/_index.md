@@ -11,7 +11,14 @@ is_root: false
 ## nary_grow property
 
 
+Specifies whether the delimiter should automatically expand and contract with the height of the formula.
 
+### Remarks 
+
+
+This property specifies the growth property of the delimiter at the document level. 
+When off, the delimiter will not grow to match the size of its component height. 
+When enabled, the delimiter grows vertically to match its component height.
 ### Definition:
 ```python
 @property

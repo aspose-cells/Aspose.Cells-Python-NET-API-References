@@ -10,7 +10,7 @@ is_root: false
 
 ## PivotFilterCollection class
 
-Represents a collection of all the PivotFilter objects
+Represents a collection of all the PivotFilters.
 
 
 

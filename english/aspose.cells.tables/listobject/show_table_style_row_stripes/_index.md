@@ -3,7 +3,7 @@ title: show_table_style_row_stripes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 270
 url: /aspose.cells.tables/listobject/show_table_style_row_stripes/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_table_style_row_stripes property
 
 
-Indicates whether row stripe formatting is applied.
+Indicates whether row stripe formatting is applied to.
 ### Definition:
 ```python
 @property

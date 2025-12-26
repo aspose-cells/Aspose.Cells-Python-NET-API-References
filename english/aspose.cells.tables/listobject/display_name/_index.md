@@ -3,7 +3,7 @@ title: display_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells.tables/listobject/display_name/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## display_name property
 
 
-Gets and sets the display name.
+Gets and sets the display name of the table.
 ### Definition:
 ```python
 @property

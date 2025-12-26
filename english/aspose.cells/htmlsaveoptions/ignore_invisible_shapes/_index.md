@@ -3,7 +3,7 @@ title: ignore_invisible_shapes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /aspose.cells/htmlsaveoptions/ignore_invisible_shapes/
 is_root: false
 ---

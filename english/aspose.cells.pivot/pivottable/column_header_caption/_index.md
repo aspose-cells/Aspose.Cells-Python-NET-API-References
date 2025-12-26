@@ -11,7 +11,7 @@ is_root: false
 ## column_header_caption property
 
 
-Gets the Column Header Caption of the PivotTable.
+Gets and sets the custom Caption of the Column Header of the PivotTable.
 ### Definition:
 ```python
 @property

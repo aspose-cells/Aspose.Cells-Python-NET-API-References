@@ -11,7 +11,7 @@ is_root: false
 ## repeat_items_on_each_printed_page property
 
 
-Indicates whether pivot item captions on the row area are repeated on each printed page for pivot fields in tabular form.
+Indicates whether captions of pivot item  on the row area are repeated on each printed page for pivot fields in tabular form.
 ### Definition:
 ```python
 @property

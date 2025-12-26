@@ -3,7 +3,7 @@ title: second_plot_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 420
 url: /aspose.cells.charts/series/second_plot_size/
 is_root: false
 ---

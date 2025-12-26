@@ -10,7 +10,7 @@ is_root: false
 
 ## set_subtotals(self, subtotal_type, shown) {#aspose.cells.pivot.PivotFieldSubtotalType-bool}
 
-Sets whether the specified field shows that subtotals.
+Sets how to subtotal the specified field.
 
 
 
@@ -23,11 +23,12 @@ def set_subtotals(self, subtotal_type, shown):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | subtotals type. |
-| shown | bool | whether the specified field shows that subtotals. |
+| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) |
+| shown | bool | Whether the specified field shows that subtotals. |
 
 
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
 * class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype)

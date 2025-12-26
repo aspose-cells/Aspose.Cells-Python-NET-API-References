@@ -3,7 +3,7 @@ title: max_total_shape_or_image_count property
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 210
 url: /aspose.cellsgridjs/config/max_total_shape_or_image_count/
 is_root: false
 ---
@@ -11,15 +11,15 @@ is_root: false
 ## max_total_shape_or_image_count property
 
 
-Sets/Gets the total display shape/image count inside the whole workbook,it will take affec when IslimitShapes=true.
+Gets/Sets the total count of the display shapes or images  in the workbook,it takes effect  when IslimitShapeOrImage=true.
 the default value is 300.
 ### Definition:
 ```python
 @property
 def max_total_shape_or_image_count(self):
     ...
-@max_total_shape_or_image_count.setter
-def max_total_shape_or_image_count(self, value):
+@staticmethod
+def set_max_total_shape_or_image_count(value):
     ...
 ```
 

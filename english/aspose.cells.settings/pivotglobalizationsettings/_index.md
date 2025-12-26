@@ -46,6 +46,7 @@ The PivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_seconds(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_seconds/#) | Gets the local text of "Seconds" |
 | [`get_text_of_range(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_range/#) | Gets the local text of "Range" |
 | [`get_text_of_all_periods(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_all_periods/#) | Gets the localized text of "All Periods". |
+| [`get_name_of_data_field(self, function, name)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_name_of_data_field/#aspose.cells.consolidationfunction-system.string) | Gets the display name of data pivot field.<br/>The default format is "Sum Of Field". |
 | [`get_text_of_sub_total(self, sub_total_type)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype) | Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
 
 

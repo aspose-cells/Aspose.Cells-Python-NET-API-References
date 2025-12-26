@@ -33,7 +33,7 @@ The TextBoxCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/textboxcollection/last_index_of/#aspose.cells.drawing.textbox-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.drawing/textboxcollection/last_index_of/#aspose.cells.drawing.textbox-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`get(self, name)`](/cells/python-net/aspose.cells.drawing/textboxcollection/get/#system.string) | Gets the [`TextBox`](/cells/python-net/aspose.cells.drawing/textbox) element by the name. |
-| [`add(self, upper_left_row, upper_left_column, height, width)`](/cells/python-net/aspose.cells.drawing/textboxcollection/add/#int-int-int-int) | Adds a textbox to the collection. |
+| [`add(self, top_row, left_column, height, width)`](/cells/python-net/aspose.cells.drawing/textboxcollection/add/#int-int-int-int) | Adds a textbox to the collection. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.drawing/textboxcollection/binary_search/#aspose.cells.drawing.textbox) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

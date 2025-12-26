@@ -3,7 +3,7 @@ title: TrendlineCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /aspose.cells.charts/trendlinecollection/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: get_text_of_all method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_all/
 is_root: false
 ---

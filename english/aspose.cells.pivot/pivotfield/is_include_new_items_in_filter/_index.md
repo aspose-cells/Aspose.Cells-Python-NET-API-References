@@ -11,7 +11,7 @@ is_root: false
 ## is_include_new_items_in_filter property
 
 
-Indicates whether including new items to the field in manual filter.
+Indicates whether to include new items to the field in manual filter.
 The default value is false.
 ### Definition:
 ```python

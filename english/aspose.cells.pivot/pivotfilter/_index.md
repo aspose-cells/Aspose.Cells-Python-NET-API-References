@@ -19,9 +19,9 @@ The PivotFilter type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [use_whole_day](/cells/python-net/aspose.cells.pivot/pivotfilter/use_whole_day) | Indicates whether uses whole days in its filtering criteria. |
+| [use_whole_day](/cells/python-net/aspose.cells.pivot/pivotfilter/use_whole_day) | Indicates whether to use whole days in its date filtering criteria. |
 | [auto_filter](/cells/python-net/aspose.cells.pivot/pivotfilter/auto_filter) | Gets the autofilter of the pivot filter. |
-| [filter_type](/cells/python-net/aspose.cells.pivot/pivotfilter/filter_type) | Gets the autofilter type of the pivot filter. |
+| [filter_type](/cells/python-net/aspose.cells.pivot/pivotfilter/filter_type) | Gets the filter type of the pivot filter. |
 | [field_index](/cells/python-net/aspose.cells.pivot/pivotfilter/field_index) | Gets the index of source field which this pivot filter is applied to. |
 | [filter_category](/cells/python-net/aspose.cells.pivot/pivotfilter/filter_category) | Gets the category of this filter. |
 | [value1](/cells/python-net/aspose.cells.pivot/pivotfilter/value1) | Gets the string value1 of the label pivot filter. |

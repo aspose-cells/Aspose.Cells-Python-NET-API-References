@@ -156,7 +156,7 @@ The Picture type exposes the following members:
 | [`set_locked_property(self, type, value)`](/cells/python-net/aspose.cells.drawing/picture/set_locked_property/#aspose.cells.drawing.shapelocktype-bool) | Set the locked property. |
 | [`add_hyperlink(self, address)`](/cells/python-net/aspose.cells.drawing/picture/add_hyperlink/#system.string) | Adds a hyperlink to the shape. |
 | [`remove_hyperlink(self)`](/cells/python-net/aspose.cells.drawing/picture/remove_hyperlink/#) | Removes the hyperlink of the shape. |
-| [`move_to_range(self, upper_left_row, upper_left_column, lower_right_row, lower_right_column)`](/cells/python-net/aspose.cells.drawing/picture/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
+| [`move_to_range(self, top_row, left_column, bottom_row, right_column)`](/cells/python-net/aspose.cells.drawing/picture/move_to_range/#int-int-int-int) | Moves the shape to a specified range. |
 | [`align_top_right_corner(self, top_row, right_column)`](/cells/python-net/aspose.cells.drawing/picture/align_top_right_corner/#int-int) | Moves the picture to the top-right corner. |
 | [`get_connection_points(self)`](/cells/python-net/aspose.cells.drawing/picture/get_connection_points/#) | Get the connection points |
 | [`get_linked_cell(self, is_r1c1, is_local)`](/cells/python-net/aspose.cells.drawing/picture/get_linked_cell/#bool-bool) | Gets the range linked to the control's value. |
@@ -174,7 +174,7 @@ The Picture type exposes the following members:
 | [`get_actual_box(self)`](/cells/python-net/aspose.cells.drawing/picture/get_actual_box/#) | Get the actual position and size of the shape (after applying rotation, flip, etc.) |
 | [`fit_to_text_size(self)`](/cells/python-net/aspose.cells.drawing/picture/fit_to_text_size/#) | Recalculate a text area suitable for displaying all text content. |
 | [`copy(self, source, options)`](/cells/python-net/aspose.cells.drawing/picture/copy/#aspose.cells.drawing.picture-aspose.cells.copyoptions) | Copy the picture. |
-| [`move(self, upper_left_row, upper_left_column)`](/cells/python-net/aspose.cells.drawing/picture/move/#int-int) | Moves the picture to a specified location. |
+| [`move(self, top_row, left_column)`](/cells/python-net/aspose.cells.drawing/picture/move/#int-int) | Moves the picture to a specified location. |
 | [`place_in_cell(self)`](/cells/python-net/aspose.cells.drawing/picture/place_in_cell/#) | Place this picture in the cell |
 
 

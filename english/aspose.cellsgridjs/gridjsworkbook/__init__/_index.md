@@ -8,13 +8,14 @@ url: /aspose.cellsgridjs/gridjsworkbook/__init__/
 is_root: false
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Constructs a new instance of GridJsWorkbook
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```

@@ -8,7 +8,7 @@ url: /aspose.cells.drawing/oleobjectcollection/add/
 is_root: false
 ---
 
-## add(self, upper_left_row, upper_left_column, height, width, image_data) {#int-int-int-int-bytes}
+## add(self, top_row, left_column, height, width, image_data) {#int-int-int-int-bytes}
 
 Adds an OleObject to the collection.
 
@@ -21,21 +21,21 @@ Adds an OleObject to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, height, width, image_data):
+def add(self, top_row, left_column, height, width, image_data):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | height | int | Height of oleObject, in unit of pixel. |
 | width | int | Width of oleObject, in unit of pixel. |
 | image_data | bytes | Image of ole object as byte array. |
 
 
-## add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-System.String}
+## add(self, top_row, left_column, height, width, image_data, linked_file) {#int-int-int-int-bytes-System.String}
 
 Adds a linked OleObject to the collection.
 
@@ -48,15 +48,15 @@ Adds a linked OleObject to the collection.
 
 ```python
 
-def add(self, upper_left_row, upper_left_column, height, width, image_data, linked_file):
+def add(self, top_row, left_column, height, width, image_data, linked_file):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| upper_left_row | int | Upper left row index. |
-| upper_left_column | int | Upper left column index. |
+| top_row | int | Upper left row index. |
+| left_column | int | Upper left column index. |
 | height | int | Height of oleObject, in unit of pixel. |
 | width | int | Width of oleObject, in unit of pixel. |
 | image_data | bytes | Image of ole object as byte array. |

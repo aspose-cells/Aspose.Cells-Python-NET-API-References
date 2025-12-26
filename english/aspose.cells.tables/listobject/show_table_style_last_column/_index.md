@@ -3,7 +3,7 @@ title: show_table_style_last_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 260
 url: /aspose.cells.tables/listobject/show_table_style_last_column/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_table_style_last_column property
 
 
-Indicates whether the last column in the table should have the style applied.
+Indicates whether the last column in the table is the style applied to.
 ### Definition:
 ```python
 @property

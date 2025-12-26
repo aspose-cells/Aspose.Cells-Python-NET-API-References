@@ -20,7 +20,7 @@ The CellsHelper type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [significant_digits](/cells/python-net/aspose.cells/cellshelper/significant_digits) | Gets and sets the number of significant digits.<br/>The default value is 17. |
-| [significant_digits_type](/cells/python-net/aspose.cells/cellshelper/significant_digits_type) | Gets and sets the default type of significant digits for outputing numeric values.<br/>Default value is [`SignificantDigitsType.G17`](/cells/python-net/aspose.cells/significantdigitstype#G17). |
+| [significant_digits_type](/cells/python-net/aspose.cells/cellshelper/significant_digits_type) | Gets and sets the default type of significant digits for outputing numeric values.<br/>Default value is [`SignificantDigitsType.G17`](/cells/python-net/aspose.cells/significantdigitstype#G17). |
 | [dpi](/cells/python-net/aspose.cells/cellshelper/dpi) | Gets the DPI of the machine. |
 | [startup_path](/cells/python-net/aspose.cells/cellshelper/startup_path) | Gets or sets the startup path, which is referred to by some external formula references. |
 | [alt_start_path](/cells/python-net/aspose.cells/cellshelper/alt_start_path) | Gets or sets the alternate startup path, which is referred to by some external formula references. |

@@ -11,7 +11,7 @@ is_root: false
 ## dynamic_filter_type property
 
 
-Gets and sets the dynamic filter type.
+Gets and sets the type of this dynamic filter.
 ### Definition:
 ```python
 @property

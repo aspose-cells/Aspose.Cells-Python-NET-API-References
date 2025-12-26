@@ -3,7 +3,7 @@ title: presentation_preference property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 750
 url: /aspose.cells.saving/ebooksaveoptions/presentation_preference/
 is_root: false
 ---

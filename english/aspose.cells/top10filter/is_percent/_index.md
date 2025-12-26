@@ -11,7 +11,7 @@ is_root: false
 ## is_percent property
 
 
-Indicates whether the items is percent.
+Indicates whether or not to filter by percent value of the column
 ### Definition:
 ```python
 @property

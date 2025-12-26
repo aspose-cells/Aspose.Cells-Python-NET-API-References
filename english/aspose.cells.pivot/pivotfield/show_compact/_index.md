@@ -11,7 +11,7 @@ is_root: false
 ## show_compact property
 
 
-Indicates whether display labels from the next field in the same column on the Pivot Table view
+Indicates whether to display labels of the next field in the same column on the Pivot Table view
 ### Definition:
 ```python
 @property

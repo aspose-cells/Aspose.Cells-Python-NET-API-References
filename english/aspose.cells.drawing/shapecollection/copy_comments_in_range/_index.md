@@ -3,7 +3,7 @@ title: copy_comments_in_range method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells.drawing/shapecollection/copy_comments_in_range/
 is_root: false
 ---

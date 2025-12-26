@@ -11,7 +11,7 @@ is_root: false
 ## display_name property
 
 
-Represents the PivotField display name.
+Represents the display name of pivot field in the pivot table view.
 ### Definition:
 ```python
 @property

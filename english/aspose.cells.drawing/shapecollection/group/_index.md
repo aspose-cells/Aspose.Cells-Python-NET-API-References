@@ -3,7 +3,7 @@ title: group method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells.drawing/shapecollection/group/
 is_root: false
 ---

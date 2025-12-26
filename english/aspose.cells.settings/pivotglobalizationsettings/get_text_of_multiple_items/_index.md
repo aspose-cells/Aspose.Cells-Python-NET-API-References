@@ -3,7 +3,7 @@ title: get_text_of_multiple_items method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_multiple_items/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## TableStyle class
 
-Represents the table style.
+Represents the style of the table.
 
 
 

@@ -51,6 +51,7 @@ The SettablePivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_seconds(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_seconds/#) | Gets the local text of "Seconds" |
 | [`get_text_of_range(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_range/#) | Gets the local text of "Range" |
 | [`get_text_of_all_periods(self)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_all_periods/#) | Gets the localized text of "All Periods". |
+| [`get_name_of_data_field(self, function, name)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_name_of_data_field/#aspose.cells.consolidationfunction-system.string) | Gets the display name of data pivot field.<br/>The default format is "Sum Of Field". |
 | [`get_text_of_sub_total(self, sub_total_type)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/get_text_of_sub_total/#aspose.cells.pivot.pivotfieldsubtotaltype) | Gets the text of [`PivotFieldSubtotalType`](/cells/python-net/aspose.cells.pivot/pivotfieldsubtotaltype) type in the PivotTable. |
 | [`set_text_of_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_total/#system.string) | Sets the text of "Total" label in the PivotTable. |
 | [`set_text_of_grand_total(self, text)`](/cells/python-net/aspose.cells/settablepivotglobalizationsettings/set_text_of_grand_total/#system.string) | Sets the text of "Grand Total" label in the PivotTable. |

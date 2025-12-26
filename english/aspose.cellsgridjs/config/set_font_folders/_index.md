@@ -8,14 +8,16 @@ url: /aspose.cellsgridjs/config/set_font_folders/
 is_root: false
 ---
 
-## set_font_folders {#list-bool}
+## set_font_folders(, font_folders, recursive) {#list-bool}
 
 Sets the fonts folders
 
 
 
 ```python
-def set_font_folders(self, font_folders, recursive):
+
+@staticmethod
+def set_font_folders(font_folders, recursive):
     ...
 ```
 

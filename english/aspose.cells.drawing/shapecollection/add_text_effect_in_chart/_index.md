@@ -3,7 +3,7 @@ title: add_text_effect_in_chart method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells.drawing/shapecollection/add_text_effect_in_chart/
 is_root: false
 ---

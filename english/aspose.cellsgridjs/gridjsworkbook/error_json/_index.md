@@ -3,12 +3,12 @@ title: error_json method
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cellsgridjs/gridjsworkbook/error_json/
 is_root: false
 ---
 
-## error_json {#str}
+## error_json(self, msg) {#System.String}
 
 Gets the error message string in JSON format.
 
@@ -16,10 +16,11 @@ Gets the error message string in JSON format.
 ### Returns 
 
 
-The JSON format string.
+The JSON string.
 
 
 ```python
+
 def error_json(self, msg):
     ...
 ```
@@ -27,7 +28,7 @@ def error_json(self, msg):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| msg | str | The error message. |
+| msg | System.String | The error message. |
 
 
 

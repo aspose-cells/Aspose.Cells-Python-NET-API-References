@@ -3,7 +3,7 @@ title: GridAbstractCalculationEngine class
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cellsgridjs/gridabstractcalculationengine/
 is_root: false
 ---
@@ -19,7 +19,7 @@ The GridAbstractCalculationEngine type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [calculate](/cells/python-net/aspose.cellsgridjs/gridabstractcalculationengine/calculate/#aspose.cellsgridjs.GridCalculationData) | Calculates one function with given data. |
+| [`calculate(self, data)`](/cells/python-net/aspose.cellsgridjs/gridabstractcalculationengine/calculate/#aspose.cellsgridjs.gridcalculationdata) | Calculates one function with given data. |
 
 
 

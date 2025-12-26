@@ -3,7 +3,7 @@ title: page_setup property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells/worksheet/page_setup/
 is_root: false
 ---

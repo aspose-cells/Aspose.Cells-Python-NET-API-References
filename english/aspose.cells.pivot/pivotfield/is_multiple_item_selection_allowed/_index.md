@@ -11,8 +11,7 @@ is_root: false
 ## is_multiple_item_selection_allowed property
 
 
-indicates whether the field can have multiple items
-selected in the page field
+Indicates whether multiple items could be selected in the page field.
 The default value is false.
 ### Definition:
 ```python

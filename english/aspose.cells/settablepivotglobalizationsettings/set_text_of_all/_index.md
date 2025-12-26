@@ -3,7 +3,7 @@ title: set_text_of_all method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_all/
 is_root: false
 ---

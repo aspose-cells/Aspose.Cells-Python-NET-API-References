@@ -33,7 +33,7 @@ The DelimiterEquationNode type exposes the following members:
 | [equation_type](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/equation_type) |  |
 | [begin_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/begin_char) | Delimiter beginning character. |
 | [end_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/end_char) | Delimiter ending character. |
-| [nary_grow](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/nary_grow) |  |
+| [nary_grow](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/nary_grow) | Specifies whether the delimiter should automatically expand and contract with the height of the formula. |
 | [separator_char](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/separator_char) | Delimiter separator character. |
 | [delimiter_shape](/cells/python-net/aspose.cells.drawing.equations/delimiterequationnode/delimiter_shape) | Specifies the shape of delimiters in the delimiter object. |
 

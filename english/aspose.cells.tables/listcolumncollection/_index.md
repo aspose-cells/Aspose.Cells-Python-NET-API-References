@@ -10,7 +10,7 @@ is_root: false
 
 ## ListColumnCollection class
 
-Represents A collection of all the [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn) objects in the specified ListObject object.
+Represents a list of all the [`ListColumn`](/cells/python-net/aspose.cells.tables/listcolumn) objects in the table.
 
 
 

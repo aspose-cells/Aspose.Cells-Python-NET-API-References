@@ -3,12 +3,12 @@ title: get_image_url method
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cellsgridjs/gridjsworkbook/get_image_url/
 is_root: false
 ---
 
-## get_image_url {#str-str-str}
+## get_image_url(, uid, picid, delimiter) {#System.String-System.String-System.String}
 
 Gets the image URL.
 
@@ -20,16 +20,18 @@ Gets the image URL.
 
 
 ```python
-def get_image_url(self, uid, picid, delimiter):
+
+@staticmethod
+def get_image_url(uid, picid, delimiter):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str | The unique id for the file cache. |
-| picid | str | The image id. |
-| delimiter | str | The string delimiter. |
+| uid | System.String | The unique id for the file cache. |
+| picid | System.String | The image id. |
+| delimiter | System.String | The string delimiter. |
 
 
 

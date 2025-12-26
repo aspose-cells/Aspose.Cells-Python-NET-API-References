@@ -10,7 +10,7 @@ is_root: false
 
 ## PivotFilterType enumeration
 
-Represents PivotTable Filter type.
+Represents the filter type of the pivot table.
 
 
 

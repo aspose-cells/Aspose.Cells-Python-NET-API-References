@@ -10,7 +10,7 @@ is_root: false
 
 ## calculate_data(self) {#}
 
-Calculates pivottable's data to cells.
+Calculates data of pivottable to cells.
 
 
 
@@ -29,7 +29,7 @@ So if the data source is changed, please call RefreshData() method first.
 
 ## calculate_data(self, option) {#aspose.cells.pivot.PivotTableCalculateOption}
 
-Calculating pivot tables with options
+Calculates pivot table with options.
 
 
 
@@ -42,8 +42,11 @@ def calculate_data(self, option):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| option | aspose.cells.pivot.PivotTableCalculateOption |  |
+| option | aspose.cells.pivot.PivotTableCalculateOption | The options for calculating the pivot table |
+### Remarks
 
+If PivotTableCalculateOption.RefreshData is true, 
+this method will refresh pivot cache from data source,then calculate all pivot tables based same pivot cache.
 
 
 ### See Also

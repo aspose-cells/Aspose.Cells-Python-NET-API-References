@@ -11,7 +11,7 @@ is_root: false
 ## filter_type property
 
 
-Gets the autofilter type of the pivot filter.
+Gets the filter type of the pivot filter.
 ### Definition:
 ```python
 @property

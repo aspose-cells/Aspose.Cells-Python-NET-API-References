@@ -10,7 +10,7 @@ is_root: false
 
 ## get_subtotals(self, subtotal_type) {#aspose.cells.pivot.PivotFieldSubtotalType}
 
-Indicates whether showing specified subtotal.
+Indicates whether to show specified subtotal for this pivot field.
 
 
 ### Returns 
@@ -28,7 +28,7 @@ def get_subtotals(self, subtotal_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | subtotal type. |
+| subtotal_type | aspose.cells.pivot.PivotFieldSubtotalType | Subtotal type. |
 
 
 

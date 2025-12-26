@@ -11,9 +11,8 @@ is_root: false
 ## show_all_items property
 
 
-Indicates whether all items displays in the PivotTable report, 
+Indicates whether to display all items in the PivotTable view, 
 even if they don't contain summary data.
-show items with no data
 The default value is false.
 ### Definition:
 ```python

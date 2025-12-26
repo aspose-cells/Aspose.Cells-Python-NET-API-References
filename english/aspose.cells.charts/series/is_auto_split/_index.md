@@ -3,7 +3,7 @@ title: is_auto_split property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.charts/series/is_auto_split/
 is_root: false
 ---

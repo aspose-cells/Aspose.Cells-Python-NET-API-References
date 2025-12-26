@@ -10,9 +10,9 @@ is_root: false
 
 ## PivotPageFields class
 
-Represents the pivot page field items 
+Represents the pivot page items 
 if the pivot table data source is consolidation ranges.
-It only can contain up to 4 fields.
+It only can contain up to 4 items.
 
 
 

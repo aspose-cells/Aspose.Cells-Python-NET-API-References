@@ -3,7 +3,7 @@ title: export_print_area_only property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 430
 url: /aspose.cells.saving/ebooksaveoptions/export_print_area_only/
 is_root: false
 ---

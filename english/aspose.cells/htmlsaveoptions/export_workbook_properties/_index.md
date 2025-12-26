@@ -3,7 +3,7 @@ title: export_workbook_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 450
+weight: 470
 url: /aspose.cells/htmlsaveoptions/export_workbook_properties/
 is_root: false
 ---

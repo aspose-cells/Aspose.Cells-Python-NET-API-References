@@ -11,7 +11,7 @@ is_root: false
 ## drag_to_data property
 
 
-Indicates whether the specified field can be dragged to the data position.
+Indicates whether the specified field can be dragged to the values region.
 The default value is true.
 ### Definition:
 ```python

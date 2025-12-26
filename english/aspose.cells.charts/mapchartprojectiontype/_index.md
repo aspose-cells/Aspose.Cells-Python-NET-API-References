@@ -3,7 +3,7 @@ title: MapChartProjectionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 570
+weight: 580
 url: /aspose.cells.charts/mapchartprojectiontype/
 is_root: false
 ---

@@ -3,32 +3,34 @@ title: get_image_stream method
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cellsgridjs/gridjsworkbook/get_image_stream/
 is_root: false
 ---
 
-## get_image_stream {#str-str}
+## get_image_stream(, uid, picid) {#System.String-System.String}
 
-Get Stream of image from memory data.
+Get Stream of image.
 
 
 ### Returns 
 
 
-
+The image stream
 
 
 ```python
-def get_image_stream(self, uid, picid):
+
+@staticmethod
+def get_image_stream(uid, picid):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uid | str | The unique id for the file cache. |
-| picid | str | The image id. |
+| uid | System.String | The unique id for the file cache. |
+| picid | System.String | The image id. |
 
 
 

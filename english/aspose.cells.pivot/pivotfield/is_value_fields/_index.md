@@ -12,6 +12,14 @@ is_root: false
 
 
 Indicates whether this field represents values fields.
+
+### Remarks 
+
+
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.IsValuesField property.
+This method will be removed 12 months later since November 2023. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

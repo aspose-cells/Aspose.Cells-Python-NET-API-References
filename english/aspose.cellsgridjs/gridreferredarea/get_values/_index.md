@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridreferredarea/get_values/
 is_root: false
 ---
 
-## get_values {#}
+## get_values(self) {#}
 
 Gets cell values in this area.
 
@@ -22,6 +22,7 @@ Otherwise return one array for all values in this area.
 
 
 ```python
+
 def get_values(self):
     ...
 ```

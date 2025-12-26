@@ -10,7 +10,7 @@ is_root: false
 
 ## filter_by_date(self, type, date_time1, date_time2) {#aspose.cells.pivot.PivotFilterType-System.DateTime-System.DateTime}
 
-Filters by date setting of row or column pivot field.
+Filters by date values of row or column pivot field.
 
 
 

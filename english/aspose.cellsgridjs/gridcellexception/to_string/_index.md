@@ -8,7 +8,7 @@ url: /aspose.cellsgridjs/gridcellexception/to_string/
 is_root: false
 ---
 
-## to_string {#}
+## to_string(self) {#}
 
 Creates and returns a string representation of the current exception.
 
@@ -20,6 +20,7 @@ Creates and returns a string representation of the current exception.
 
 
 ```python
+
 def to_string(self):
     ...
 ```

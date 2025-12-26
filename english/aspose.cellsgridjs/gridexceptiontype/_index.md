@@ -3,7 +3,7 @@ title: GridExceptionType enumeration
 second_title: Aspose.Cells.GridJs for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 250
 url: /aspose.cellsgridjs/gridexceptiontype/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## PivotTableCalculateOption class
 
-Rerepsents the options of calcuating the pivot table.
+Rerepsents the options of calculating data of the pivot table.
 
 
 

@@ -3,7 +3,7 @@ title: export_document_properties property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/htmlsaveoptions/export_document_properties/
 is_root: false
 ---

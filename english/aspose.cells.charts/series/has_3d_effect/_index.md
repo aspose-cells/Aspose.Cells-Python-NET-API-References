@@ -3,7 +3,7 @@ title: has_3d_effect property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.charts/series/has_3d_effect/
 is_root: false
 ---
