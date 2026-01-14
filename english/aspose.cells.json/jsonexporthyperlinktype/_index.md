@@ -10,7 +10,7 @@ is_root: false
 
 ## JsonExportHyperlinkType enumeration
 
-Represents type of exporting hyperlinks to json.
+Represents type how to export hyperlinks to json.
 
 
 

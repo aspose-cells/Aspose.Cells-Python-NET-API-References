@@ -11,7 +11,8 @@ is_root: false
 ## enable_calculation_chain property
 
 
-Whether enable calculation chain for formulas. Default is false.
+Indicates whether to enable calculation chain for formulas.
+Default is false.
 
 ### Remarks 
 

@@ -42,6 +42,7 @@ The Font type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`set_name(self, name, type)`](/cells/python-net/aspose.cells/font/set_name/#system.string-aspose.cells.fontschemetype) | Sets name and scheme of the font. |
 | [`equals(self, font)`](/cells/python-net/aspose.cells/font/equals/#aspose.cells.font) | Checks if two fonts are equals. |
 
 

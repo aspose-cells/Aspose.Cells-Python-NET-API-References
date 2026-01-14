@@ -10,7 +10,7 @@ is_root: false
 
 ## get_font_substitutes(self, original_font_name) {#System.String}
 
-Returns array containing font substitute names to be used if original font is not presented.
+Returns an array containing font substitute names to be used if original font is not presented.
 
 
 ### Returns 

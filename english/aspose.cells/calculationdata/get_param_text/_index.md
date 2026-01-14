@@ -10,7 +10,7 @@ is_root: false
 
 ## get_param_text(self, index) {#int}
 
-Gets the literal text of the parameter at given index.
+Gets the literal text of the parameter at the given index.
 
 
 ### Returns 

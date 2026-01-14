@@ -10,7 +10,7 @@ is_root: false
 
 ## get_multiple_items_name(self) {#}
 
-Gets the name of "(Multiple Items)" label in the PivotTable.
+Gets the name of the "(Multiple Items)" label in the PivotTable.
 
 
 ### Returns 

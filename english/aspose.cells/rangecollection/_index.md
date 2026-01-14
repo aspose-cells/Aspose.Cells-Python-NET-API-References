@@ -33,6 +33,7 @@ The RangeCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/rangecollection/last_index_of/#aspose.cells.range-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/rangecollection/last_index_of/#aspose.cells.range-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`add(self, range)`](/cells/python-net/aspose.cells/rangecollection/add/#aspose.cells.range) | Adds a [`Range`](/cells/python-net/aspose.cells/range) item to the collection. |
+| [`add_range(self, range)`](/cells/python-net/aspose.cells/rangecollection/add_range/#aspose.cells.range) | Adds a [`Range`](/cells/python-net/aspose.cells/range) item to the collection. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/rangecollection/binary_search/#aspose.cells.range) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

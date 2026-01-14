@@ -3,7 +3,7 @@ title: region_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /aspose.cells.pivot/pivotfield/region_type/
 is_root: false
 ---

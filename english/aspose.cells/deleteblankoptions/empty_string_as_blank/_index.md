@@ -11,7 +11,7 @@ is_root: false
 ## empty_string_as_blank property
 
 
-Whether one cell will be taken as blank when its value is empty string.
+Indicates whether one cell will be taken as blank when its value is an empty string.
 Default value is true.
 ### Definition:
 ```python

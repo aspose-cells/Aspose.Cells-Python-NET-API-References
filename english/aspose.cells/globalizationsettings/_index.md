@@ -26,7 +26,7 @@ The GlobalizationSettings type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [chart_settings](/cells/python-net/aspose.cells/globalizationsettings/chart_settings) | Gets or sets the globalization settings for Chart. |
-| [pivot_settings](/cells/python-net/aspose.cells/globalizationsettings/pivot_settings) | Gets or sets the globalization settings for pivot table. |
+| [pivot_settings](/cells/python-net/aspose.cells/globalizationsettings/pivot_settings) | Gets or sets the globalization settings for the pivot table. |
 | [list_separator](/cells/python-net/aspose.cells/globalizationsettings/list_separator) | Gets the separator for list, parameters of function, ...etc. |
 | [row_separator_of_formula_array](/cells/python-net/aspose.cells/globalizationsettings/row_separator_of_formula_array) | Gets the separator for rows in array data in formula. |
 | [column_separator_of_formula_array](/cells/python-net/aspose.cells/globalizationsettings/column_separator_of_formula_array) | Gets the separator for the items in array's row data in formula. |
@@ -36,11 +36,11 @@ The GlobalizationSettings type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`get_pivot_total_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_pivot_total_name/#) | Gets the name of "Total" label in the PivotTable.<br/>You need to override this method when the PivotTable contains two or more PivotFields in the data area. |
-| [`get_pivot_grand_total_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_pivot_grand_total_name/#) | Gets the name of "Grand Total" label in the PivotTable. |
-| [`get_multiple_items_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_multiple_items_name/#) | Gets the name of "(Multiple Items)" label in the PivotTable. |
-| [`get_all_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_all_name/#) | Gets the name of "(All)" label in the PivotTable. |
+| [`get_pivot_grand_total_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_pivot_grand_total_name/#) | Gets the name of the "Grand Total" label in the PivotTable. |
+| [`get_multiple_items_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_multiple_items_name/#) | Gets the name of the "(Multiple Items)" label in the PivotTable. |
+| [`get_all_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_all_name/#) | Gets the name of the "(All)" label in the PivotTable. |
 | [`get_protection_name_of_pivot_table(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_protection_name_of_pivot_table/#) | Gets the protection name in the PivotTable. |
-| [`get_column_labels_of_pivot_table(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/#) | Gets the name of "Column Labels" label in the PivotTable. |
+| [`get_column_labels_of_pivot_table(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_column_labels_of_pivot_table/#) | Gets the name of the "Column Labels" label in the PivotTable. |
 | [`get_row_labels_name_of_pivot_table(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_row_labels_name_of_pivot_table/#) | Gets the name of "Row Labels" label in the PivotTable. |
 | [`get_empty_data_name(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_empty_data_name/#) | Gets the name of "(blank)" label in the PivotTable. |
 | [`get_data_field_header_name_of_pivot_table(self)`](/cells/python-net/aspose.cells/globalizationsettings/get_data_field_header_name_of_pivot_table/#) | Gets the the name of the value area field header in the PivotTable. |

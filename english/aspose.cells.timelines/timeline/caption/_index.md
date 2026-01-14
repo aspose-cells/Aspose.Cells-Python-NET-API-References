@@ -11,14 +11,14 @@ is_root: false
 ## caption property
 
 
-Returns or sets the caption of the specified Timeline.
+Gets or sets the caption of this Timeline.
 
 ### Example 
 
 
 ```python
 
-# Set the caption of the specified Timeline.
+# Set the caption of this Timeline.
 timelineObj.caption = "timeline caption test"
 
 ```

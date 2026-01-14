@@ -3,7 +3,7 @@ title: width_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 160
 url: /aspose.cells.timelines/timeline/width_pixel/
 is_root: false
 ---

@@ -26,6 +26,7 @@ The PasteOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [paste_type](/cells/python-net/aspose.cells/pasteoptions/paste_type) | The paste special type. |
+| [shift_formulas_of_shapes](/cells/python-net/aspose.cells/pasteoptions/shift_formulas_of_shapes) | Indicates whether to shift formulas of the shapes when copying ranges. |
 | [skip_blanks](/cells/python-net/aspose.cells/pasteoptions/skip_blanks) | Indicates whether skips blank cells. |
 | [keep_old_tables](/cells/python-net/aspose.cells/pasteoptions/keep_old_tables) | Keeps the tables in the destination range. |
 | [only_visible_cells](/cells/python-net/aspose.cells/pasteoptions/only_visible_cells) | True means only copying visible cells. |

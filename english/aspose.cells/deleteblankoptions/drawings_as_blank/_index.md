@@ -11,7 +11,7 @@ is_root: false
 ## drawings_as_blank property
 
 
-Whether drawing related objects such as picture, shape, chart... will be taken as blank.
+Indicates whether drawing related objects such as picture, shape, chart... will be taken as blank.
 Default value is true.
 
 ### Remarks 

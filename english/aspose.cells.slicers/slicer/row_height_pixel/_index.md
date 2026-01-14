@@ -3,7 +3,7 @@ title: row_height_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 240
 url: /aspose.cells.slicers/slicer/row_height_pixel/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## row_height_pixel property
 
 
-Returns or sets the height, in pixels, of each row in the specified slicer.
+Returns or sets the height of each row in the specified slicer, in unit of pixels.
 
 ### Example 
 

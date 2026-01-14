@@ -11,7 +11,7 @@ is_root: false
 ## workbook property
 
 
-Gets the Workbook object where the function is in.
+Gets the Workbook object where the function is.
 ### Definition:
 ```python
 @property

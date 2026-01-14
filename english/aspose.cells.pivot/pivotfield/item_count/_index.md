@@ -3,7 +3,7 @@ title: item_count property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 580
 url: /aspose.cells.pivot/pivotfield/item_count/
 is_root: false
 ---

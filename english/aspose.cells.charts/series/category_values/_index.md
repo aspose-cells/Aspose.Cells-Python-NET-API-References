@@ -11,31 +11,36 @@ is_root: false
 ## category_values property
 
 
-Represents the actual category values that are used in the chart.
-corresponding to [`Series.x_values`](/cells/python-net/aspose.cells.charts/series#x_values)
-When Series.XValues is a link, you can use this attribute to get specific data.
-
-```python
-from aspose.cells import Workbook
-
-workbook = Workbook("YourFilePathName")
-worksheet = workbook.worksheets[0]
-chart = worksheet.charts[0]
-chart.calculate()
-#  XValues could be like "[External.xlsx]Sheet1!$B$2:$C$6",
-XValues = chart.n_series[0].x_values
-#  But when you can't get category values from "[External.xlsx]Sheet1!$B$2:$C$6",
-#  For example, "External.xlsx" does not exist, then you can use CategoryValues,
-#  It will return the category values actually displayed in the Excel interface in the form of a two-dimensional array.
-v1 = chart.n_series[0].category_values
-
-```
+Gets the actual category values that are used to plot every point
+of this series in the chart.
 
 ### Remarks 
 
 
-For user's convenience, this property provides the actual values corresponding
-to the data defined by [`Series.x_values`](/cells/python-net/aspose.cells.charts/series#x_values).
+This property provides one convenient way to get the actual values corresponding
+to the data defined by [`Series.x_values`](/cells/python-net/aspose.cells.charts/series#x_values),
+especially when the specified data source is external link, formula, ...etc.
+
+### Example 
+
+
+```python
+from aspose.cells import Workbook
+
+# Standalone example
+workbook = Workbook("ExternalSourceChart.xlsx")
+worksheet = workbook.worksheets[0]
+chart = worksheet.charts[0]
+chart.calculate()
+XValues = chart.n_series[0].x_values
+#  XValues may be like "[External.xlsx]Sheet1!$B$2:$C$6" which is complicated
+#  for user to get the actual values(the values may be linked to another workbook,
+#  or cached in current workbook). Here you can use CategoryValues property
+#  to get the category values actually displayed in the Excel interface
+#  in the form of a two-dimensional array.
+v1 = chart.n_series[0].category_values
+
+```
 ### Definition:
 ```python
 @property

@@ -17,7 +17,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | :- | :- |
 | [`AboveAverage`](/cells/python-net/aspose.cells/aboveaverage) | Describe the AboveAverage conditional formatting rule. <br/>This conditional formatting rule highlights cells that<br/>are above or below the average for all values in the range. |
 | [`AbstractTextLoadOptions`](/cells/python-net/aspose.cells/abstracttextloadoptions) | Common options for loading text values |
-| [`AdvancedFilter`](/cells/python-net/aspose.cells/advancedfilter) | Represents the settings of advanced filter. |
+| [`AdvancedFilter`](/cells/python-net/aspose.cells/advancedfilter) | Represents the settings of the advanced filter. |
 | [`AutoFilter`](/cells/python-net/aspose.cells/autofilter) | Represents autofiltering for the specified worksheet. |
 | [`AutoFitterOptions`](/cells/python-net/aspose.cells/autofitteroptions) | Represents all auto fitter options. |
 | [`Border`](/cells/python-net/aspose.cells/border) | Encapsulates the object that represents the cell border. |
@@ -34,7 +34,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CellsColor`](/cells/python-net/aspose.cells/cellscolor) | Represents all types of color. |
 | [`CellsDataTableFactory`](/cells/python-net/aspose.cells/cellsdatatablefactory) | Utility to build ICellsDataTable from custom objects for user's convenience. |
 | [`CellsException`](/cells/python-net/aspose.cells/cellsexception) | The exception that is thrown when Aspose.Cells specified error occurs. |
-| [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory) | Utility for instantiating classes of Cells model. |
+| [`CellsFactory`](/cells/python-net/aspose.cells/cellsfactory) | Utility for instantiating classes of the Cells model. |
 | [`CellsHelper`](/cells/python-net/aspose.cells/cellshelper) | Provides helper functions. |
 | [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) | Represents setting for filtering the range by color. |
 | [`ColorScale`](/cells/python-net/aspose.cells/colorscale) | Describe the ColorScale conditional formatting rule. <br/>This conditional formatting rule creates a gradated color scale on the cells. |
@@ -52,7 +52,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CustomFilter`](/cells/python-net/aspose.cells/customfilter) | Represents the custom filter. |
 | [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection) | Represents the custom filters. |
 | [`CustomFunctionDefinition`](/cells/python-net/aspose.cells/customfunctiondefinition) | Definition of custom function for calculating with user's custom engine. |
-| [`CustomImplementationFactory`](/cells/python-net/aspose.cells/customimplementationfactory) | Factory to create some instances which may be re-implemented by user for special purpose. |
+| [`CustomImplementationFactory`](/cells/python-net/aspose.cells/customimplementationfactory) | Factory to create some instances which may be re-implemented by the user for a special purpose. |
 | [`DataBar`](/cells/python-net/aspose.cells/databar) | Describe the DataBar conditional formatting rule. <br/>This conditional formatting rule displays a gradated<br/>data bar in the range of cells. |
 | [`DataBarBorder`](/cells/python-net/aspose.cells/databarborder) | Represents the border of the data bars specified by a conditional formatting rule. |
 | [`DataSorter`](/cells/python-net/aspose.cells/datasorter) | Summary description for DataSorter. |
@@ -82,7 +82,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) | Represents the folder that contains TrueType font files. |
 | [`Font`](/cells/python-net/aspose.cells/font) | Encapsulates the font object used in a spreadsheet. |
 | [`FontConfigs`](/cells/python-net/aspose.cells/fontconfigs) | Specifies font settings |
-| [`FontFileDataInfo`](/cells/python-net/aspose.cells/fontfiledatainfo) | Represents data infomation of font file data. |
+| [`FontFileDataInfo`](/cells/python-net/aspose.cells/fontfiledatainfo) | Represents data information of font file data. |
 | [`FontSetting`](/cells/python-net/aspose.cells/fontsetting) | Represents a range of characters within the cell text. |
 | [`FormatCondition`](/cells/python-net/aspose.cells/formatcondition) | Represents conditional formatting condition. |
 | [`FormatConditionCollection`](/cells/python-net/aspose.cells/formatconditioncollection) | Represents conditional formatting.<br/>The FormatConditions can contain up to three conditional formats. |
@@ -92,10 +92,10 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HeaderFooterCommand`](/cells/python-net/aspose.cells/headerfootercommand) | Represents the command of header/footer |
 | [`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) | Encapsulates the object that represents a horizontal page break. |
 | [`HorizontalPageBreakCollection`](/cells/python-net/aspose.cells/horizontalpagebreakcollection) | Encapsulates a collection of [`HorizontalPageBreak`](/cells/python-net/aspose.cells/horizontalpagebreak) objects. |
-| [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions) | Represents options when importing a html file. |
+| [`HtmlLoadOptions`](/cells/python-net/aspose.cells/htmlloadoptions) | Represents options when importing an HTML file. |
 | [`HtmlSaveOptions`](/cells/python-net/aspose.cells/htmlsaveoptions) | Represents the options for saving html file. |
-| [`HtmlTableLoadOption`](/cells/python-net/aspose.cells/htmltableloadoption) | Represents the option when import table from html. |
-| [`HtmlTableLoadOptionCollection`](/cells/python-net/aspose.cells/htmltableloadoptioncollection) | Represents the table options when importing html. |
+| [`HtmlTableLoadOption`](/cells/python-net/aspose.cells/htmltableloadoption) | Represents the option when importing a table from HTML. |
+| [`HtmlTableLoadOptionCollection`](/cells/python-net/aspose.cells/htmltableloadoptioncollection) | Represents the table options when importing HTML. |
 | [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) | Encapsulates the object that represents a hyperlink. |
 | [`HyperlinkCollection`](/cells/python-net/aspose.cells/hyperlinkcollection) | Encapsulates a collection of [`Hyperlink`](/cells/python-net/aspose.cells/hyperlink) objects. |
 | [`ICellsDataTable`](/cells/python-net/aspose.cells/icellsdatatable) | Represents data table. |
@@ -112,8 +112,8 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`IndividualFontConfigs`](/cells/python-net/aspose.cells/individualfontconfigs) | Font configs for each [`Workbook`](/cells/python-net/aspose.cells/workbook) object. |
 | [`InsertOptions`](/cells/python-net/aspose.cells/insertoptions) | Represents the options of inserting. |
 | [`InterruptMonitor`](/cells/python-net/aspose.cells/interruptmonitor) | Represents all operator about the interrupt. |
-| [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions) | Represents the options of loading json files |
-| [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) | Represents the options of saving the workbook as a json file. |
+| [`JsonLoadOptions`](/cells/python-net/aspose.cells/jsonloadoptions) | Represents the options of loading JSON files |
+| [`JsonSaveOptions`](/cells/python-net/aspose.cells/jsonsaveoptions) | Represents the options of saving the workbook as a JSON file. |
 | [`License`](/cells/python-net/aspose.cells/license) | Provides methods to license the component. |
 | [`LightCellsDataHandler`](/cells/python-net/aspose.cells/lightcellsdatahandler) | Represents cells data handler for reading large spreadsheet files in light weight mode. |
 | [`LightCellsDataProvider`](/cells/python-net/aspose.cells/lightcellsdataprovider) | Represents Data provider for saving large spreadsheet files in light weight mode. |
@@ -134,7 +134,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`PageSetup`](/cells/python-net/aspose.cells/pagesetup) | Encapsulates the object that represents the page setup description. <br/>The PageSetup object contains all page setup options. |
 | [`PaneCollection`](/cells/python-net/aspose.cells/panecollection) | Represents all Pane objects shown in the specified window. |
 | [`PasteOptions`](/cells/python-net/aspose.cells/pasteoptions) | Represents the paste special options. |
-| [`PclSaveOptions`](/cells/python-net/aspose.cells/pclsaveoptions) | Represents the options for saving Pcl file. |
+| [`PclSaveOptions`](/cells/python-net/aspose.cells/pclsaveoptions) | Represents the options for saving a Pcl file. |
 | [`PdfSaveOptions`](/cells/python-net/aspose.cells/pdfsaveoptions) | Represents the options for saving pdf file. |
 | [`PptxSaveOptions`](/cells/python-net/aspose.cells/pptxsaveoptions) | Represents the pptx save options. |
 | [`ProtectedRange`](/cells/python-net/aspose.cells/protectedrange) | A specified range to be allowed to edit when the sheet protection is ON. |
@@ -167,8 +167,8 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`ThemeColor`](/cells/python-net/aspose.cells/themecolor) | Represents a theme color. |
 | [`ThreadInterruptMonitor`](/cells/python-net/aspose.cells/threadinterruptmonitor) | Simple implementation of AbstractInterruptMonitor by starting another thread to require the interruption after sleeping user specified limit. |
 | [`ThreadedComment`](/cells/python-net/aspose.cells/threadedcomment) | Represents the threaded comment. |
-| [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | Represents the person who creates the threaded comments; |
-| [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection) | Represents all persons who . |
+| [`ThreadedCommentAuthor`](/cells/python-net/aspose.cells/threadedcommentauthor) | Represents the person who creates the threaded comments. |
+| [`ThreadedCommentAuthorCollection`](/cells/python-net/aspose.cells/threadedcommentauthorcollection) | Represents all persons. |
 | [`ThreadedCommentCollection`](/cells/python-net/aspose.cells/threadedcommentcollection) | Represents the list of threaded comments. |
 | [`Top10`](/cells/python-net/aspose.cells/top10) | Describe the Top10 conditional formatting rule. <br/>This conditional formatting rule highlights cells whose<br/>values fall in the top N or bottom N bracket, as specified. |
 | [`Top10Filter`](/cells/python-net/aspose.cells/top10filter) | Represents the top N (percent or number of items) to filter by. |
@@ -200,7 +200,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
-| [`AccessCacheOptions`](/cells/python-net/aspose.cells/accesscacheoptions) | Cache options for data access. Can be combined with \| operator for multiple options together. |
+| [`AccessCacheOptions`](/cells/python-net/aspose.cells/accesscacheoptions) | Caching options for data access. Multiple options can be combined using the "\|" operator. |
 | [`AutoFillType`](/cells/python-net/aspose.cells/autofilltype) | Represents the auto fill type. |
 | [`AutoFitMergedCellsType`](/cells/python-net/aspose.cells/autofitmergedcellstype) | Represents the type of auto fitting merged cells. |
 | [`AutoFitWrappedTextType`](/cells/python-net/aspose.cells/autofitwrappedtexttype) | Represents the type of auto fitting wrapped text. |
@@ -215,7 +215,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`CellsUnitType`](/cells/python-net/aspose.cells/cellsunittype) | Specifies the unit of measurement. |
 | [`ColorType`](/cells/python-net/aspose.cells/colortype) | Represents all color type |
 | [`ConsolidationFunction`](/cells/python-net/aspose.cells/consolidationfunction) | Represents consolidation function. |
-| [`CopyFormatType`](/cells/python-net/aspose.cells/copyformattype) | Represents type of copying format when inserting rows. |
+| [`CopyFormatType`](/cells/python-net/aspose.cells/copyformattype) | Represents the type of copying format when inserting rows. |
 | [`CountryCode`](/cells/python-net/aspose.cells/countrycode) | Represents Excel country identifiers. |
 | [`DataBarAxisPosition`](/cells/python-net/aspose.cells/databaraxisposition) | Specifies the axis position for a range of cells with conditional formatting as data bars. |
 | [`DataBarBorderType`](/cells/python-net/aspose.cells/databarbordertype) | Specifies the border type of a data bar. |
@@ -249,7 +249,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HtmlHiddenColDisplayType`](/cells/python-net/aspose.cells/htmlhiddencoldisplaytype) | Represents two types of showing the hidden columns in html. |
 | [`HtmlHiddenRowDisplayType`](/cells/python-net/aspose.cells/htmlhiddenrowdisplaytype) | Represents two types of showing the hidden rows in html. |
 | [`HtmlLinkTargetType`](/cells/python-net/aspose.cells/htmllinktargettype) | Represents the type of target attribute in HTML []() tag. |
-| [`HtmlOfficeMathOutputType`](/cells/python-net/aspose.cells/htmlofficemathoutputtype) | Represents how export OfficeMath to HTML. |
+| [`HtmlOfficeMathOutputType`](/cells/python-net/aspose.cells/htmlofficemathoutputtype) | Represents how to export OfficeMath to HTML. |
 | [`HtmlVersion`](/cells/python-net/aspose.cells/htmlversion) | Indicates the version of HTML is used when saving to Html formats. |
 | [`HyperlinkType`](/cells/python-net/aspose.cells/hyperlinktype) | Represents the type of hyperlink. |
 | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | Icon set type for conditional formatting. <br/>The threshold values for triggering the different icons within a set are<br/>configurable, and the icon order is reversible. |
@@ -258,8 +258,8 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`LookAtType`](/cells/python-net/aspose.cells/lookattype) | Represents look at type. |
 | [`LookInType`](/cells/python-net/aspose.cells/lookintype) | Represents look in type. |
 | [`MemorySetting`](/cells/python-net/aspose.cells/memorysetting) | Memory usage modes for cells data model. |
-| [`MergeEmptyTdType`](/cells/python-net/aspose.cells/mergeemptytdtype) | Represents the merge type for empty TD element when exporting file to html. |
-| [`MergedCellsShrinkType`](/cells/python-net/aspose.cells/mergedcellsshrinktype) | Represents the strategy to shrink merged cells for operations such as deleting blank rows/column. |
+| [`MergeEmptyTdType`](/cells/python-net/aspose.cells/mergeemptytdtype) | Represents the merge type for an empty TD element when exporting a file to HTML. |
+| [`MergedCellsShrinkType`](/cells/python-net/aspose.cells/mergedcellsshrinktype) | Represents the strategy to shrink merged cells for operations such as deleting blank rows/columns. |
 | [`NameScopeType`](/cells/python-net/aspose.cells/namescopetype) | Represents the scope type of defined names. |
 | [`NumberCategoryType`](/cells/python-net/aspose.cells/numbercategorytype) | Represents category type of cell's number formatting. |
 | [`OoxmlCompliance`](/cells/python-net/aspose.cells/ooxmlcompliance) | Allows to specify which OOXML specification will be used when saving in the Xlsx format. |
@@ -270,7 +270,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`PaneStateType`](/cells/python-net/aspose.cells/panestatetype) | Represents state of the sheet's pane. |
 | [`PaperSizeType`](/cells/python-net/aspose.cells/papersizetype) | Represents paper size constants. |
 | [`ParameterType`](/cells/python-net/aspose.cells/parametertype) | Represents all parameters' type or return value type of function. |
-| [`PasteOperationType`](/cells/python-net/aspose.cells/pasteoperationtype) | Represents operation type when pasting range. |
+| [`PasteOperationType`](/cells/python-net/aspose.cells/pasteoperationtype) | Represents the operation type when pasting a range. |
 | [`PasteType`](/cells/python-net/aspose.cells/pastetype) | Represents the paste special type. |
 | [`PrintCommentsType`](/cells/python-net/aspose.cells/printcommentstype) | Represents the way comments are printed with the sheet. |
 | [`PrintErrorsType`](/cells/python-net/aspose.cells/printerrorstype) | Represents print errors constants. |
@@ -283,7 +283,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | Represents the format in which the workbook is saved. |
 | [`SheetType`](/cells/python-net/aspose.cells/sheettype) | Specifies the worksheet type. |
 | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Represent the shift options when deleting a range of cells. |
-| [`SignificantDigitsType`](/cells/python-net/aspose.cells/significantdigitstype) | Represents the type of significant digits for outputing numeric values. |
+| [`SignificantDigitsType`](/cells/python-net/aspose.cells/significantdigitstype) | Represents the type of significant digits for outputting numeric values. |
 | [`SortOnType`](/cells/python-net/aspose.cells/sortontype) | Sorted value type. |
 | [`SortOrder`](/cells/python-net/aspose.cells/sortorder) | Represents sort order for the data range. |
 | [`StyleModifyFlag`](/cells/python-net/aspose.cells/stylemodifyflag) | The style modified flags. |

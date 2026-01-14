@@ -116,8 +116,8 @@ The HtmlSaveOptions type exposes the following members:
 | [sheet_set](/cells/python-net/aspose.cells/htmlsaveoptions/sheet_set) | Gets or sets the sheets to render. Default is all visible sheets in the workbook: [`SheetSet.visible`](/cells/python-net/aspose.cells.rendering/sheetset#visible). |
 | [layout_mode](/cells/python-net/aspose.cells/htmlsaveoptions/layout_mode) | Gets or sets the layout mode when saving to HTML.<br/>The default value is [`HtmlLayoutMode.NORMAL`](/cells/python-net/aspose.cells.rendering/htmllayoutmode#NORMAL) |
 | [embedded_font_type](/cells/python-net/aspose.cells/htmlsaveoptions/embedded_font_type) | Gets or sets the type of embedding font file into html file.<br/>Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that no font will be embedded in html. |
-| [export_named_range_anchors](/cells/python-net/aspose.cells/htmlsaveoptions/export_named_range_anchors) | / Indicates whether to export anchor elements  generated for named ranges when saving to HTML.<br/>Default value is true. |
-| [data_bar_render_mode](/cells/python-net/aspose.cells/htmlsaveoptions/data_bar_render_mode) |  |
+| [export_named_range_anchors](/cells/python-net/aspose.cells/htmlsaveoptions/export_named_range_anchors) | Indicates whether to export anchor elements for named ranges when saving as HTML.<br/>Default value is true. |
+| [data_bar_render_mode](/cells/python-net/aspose.cells/htmlsaveoptions/data_bar_render_mode) | Represents the mode of how to render DataBar when converting Excel files to html files.<br/>Default value is [`DataBarRenderMode.BACKGROUND_COLOR`](/cells/python-net/aspose.cells.rendering/databarrendermode#BACKGROUND_COLOR). |
 
 
 

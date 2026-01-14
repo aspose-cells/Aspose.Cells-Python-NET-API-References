@@ -11,7 +11,7 @@ is_root: false
 ## cell property
 
 
-Gets the Cell object where the function is in.
+Gets the Cell object where the function is.
 
 ### Remarks 
 

@@ -3,7 +3,7 @@ title: auto_show_count property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /aspose.cells.pivot/pivotfield/auto_show_count/
 is_root: false
 ---

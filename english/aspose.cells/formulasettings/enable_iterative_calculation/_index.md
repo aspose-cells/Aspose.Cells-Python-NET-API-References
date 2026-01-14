@@ -11,7 +11,7 @@ is_root: false
 ## enable_iterative_calculation property
 
 
-Indicates whether enable iterative calculation to resolve circular references.
+Indicates whether to enable iterative calculation to resolve circular references.
 ### Definition:
 ```python
 @property

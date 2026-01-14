@@ -21,7 +21,7 @@ The DefaultEditLanguage type exposes the following members:
 | :- | :- |
 | AUTO | Represents auto detecting edit language according to the text itself. |
 | ENGLISH | Represents English language. |
-| CJK | Represents Chinese, Japanese, Korean language. |
+| CJK | Represents Chinese, Japanese, and Korean languages. |
 
 
 

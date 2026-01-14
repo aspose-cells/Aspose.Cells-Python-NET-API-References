@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self) {#}
 
-Creates an options of loading the ebook file.
+Creates an option for loading the ebook file.
 
 
 
@@ -25,7 +25,7 @@ def __init__(self):
 
 ## \_\_init\_\_(self, load_format) {#aspose.cells.LoadFormat}
 
-Creates an options of loading the ebook file.
+Creates an option of loading the ebook file.
 
 
 

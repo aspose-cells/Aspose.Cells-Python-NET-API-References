@@ -26,7 +26,7 @@ def insert_cut_cells(self, cut_range, row, column, shift_type):
 | cut_range | aspose.cells.Range | The cut range. |
 | row | int | The row. |
 | column | int | The column. |
-| shift_type | aspose.cells.ShiftType | The shift type . |
+| shift_type | aspose.cells.ShiftType | Indicates how to shift other objects of the target range when inserting cut range. |
 
 
 

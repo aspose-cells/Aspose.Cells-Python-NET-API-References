@@ -3,7 +3,7 @@ title: is_include_new_items_in_filter property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 500
+weight: 520
 url: /aspose.cells.pivot/pivotfield/is_include_new_items_in_filter/
 is_root: false
 ---

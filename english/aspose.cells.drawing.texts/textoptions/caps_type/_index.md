@@ -3,7 +3,7 @@ title: caps_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.drawing.texts/textoptions/caps_type/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## caps_type property
 
 
-Gets and sets the text caps type.
+Gets and sets the caps type for texts of the shape.
 ### Definition:
 ```python
 @property

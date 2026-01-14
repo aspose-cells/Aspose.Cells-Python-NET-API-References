@@ -10,9 +10,8 @@ is_root: false
 
 ## get_param_value_in_array_mode(self, index, max_row_count, max_column_count) {#int-int-int}
 
-Gets the value(s) of the parameter at given index.
-If the parameter is some kind of expression that needs to be calculated,
-then it will be calculated in array mode.
+Gets the value(s) of the parameter at a given index.
+If the parameter is some kind of expression that needs to be calculated, then it will be calculated in array mode.
 
 
 ### Returns 

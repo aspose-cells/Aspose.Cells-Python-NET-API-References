@@ -10,7 +10,8 @@ is_root: false
 
 ## refresh(self) {#}
 
-Refreshing the slicer.Meanwhile, Refreshing and Calculating  relative PivotTables.
+Refreshing the slicer.
+Meanwhile, Refreshing and Calculating PivotTables which this slicer based on.
 
 
 

@@ -10,7 +10,7 @@ is_root: false
 
 ## get_all_name(self) {#}
 
-Gets the name of "(All)" label in the PivotTable.
+Gets the name of the "(All)" label in the PivotTable.
 
 
 ### Returns 

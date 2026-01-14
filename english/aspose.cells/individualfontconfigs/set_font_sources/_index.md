@@ -10,7 +10,7 @@ is_root: false
 
 ## set_font_sources(self, sources) {#list}
 
-Sets the fonts sources.
+Sets the font sources.
 
 
 

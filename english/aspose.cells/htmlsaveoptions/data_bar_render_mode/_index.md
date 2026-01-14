@@ -10,6 +10,9 @@ is_root: false
 
 ## data_bar_render_mode property
 
+
+Represents the mode of how to render DataBar when converting Excel files to html files.
+Default value is [`DataBarRenderMode.BACKGROUND_COLOR`](/cells/python-net/aspose.cells.rendering/databarrendermode#BACKGROUND_COLOR).
 ### Definition:
 ```python
 @property

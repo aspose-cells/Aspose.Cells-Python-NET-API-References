@@ -11,7 +11,7 @@ is_root: false
 ## precision_as_displayed property
 
 
-Whether the precision of calculated result be set as they are displayed while calculating formulas
+Indicates whether the precision of calculated result be set as they are displayed while calculating formulas.
 ### Definition:
 ```python
 @property

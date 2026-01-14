@@ -11,7 +11,7 @@ is_root: false
 ## value property
 
 
-Returns the label text for the slicer item. Read-only.
+Returns the label text for the slicer item.
 ### Definition:
 ```python
 @property

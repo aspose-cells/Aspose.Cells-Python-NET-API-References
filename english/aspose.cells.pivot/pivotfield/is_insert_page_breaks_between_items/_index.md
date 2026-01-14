@@ -3,7 +3,7 @@ title: is_insert_page_breaks_between_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 530
 url: /aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items/
 is_root: false
 ---

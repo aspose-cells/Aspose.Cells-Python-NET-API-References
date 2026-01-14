@@ -3,7 +3,7 @@ title: theme_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/font/theme_color/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: far_east_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /aspose.cells.drawing.texts/textoptions/far_east_name/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## PasteOperationType enumeration
 
-Represents operation type when pasting range.
+Represents the operation type when pasting a range.
 
 
 

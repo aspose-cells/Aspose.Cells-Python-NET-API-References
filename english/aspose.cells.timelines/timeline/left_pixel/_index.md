@@ -3,7 +3,7 @@ title: left_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.timelines/timeline/left_pixel/
 is_root: false
 ---

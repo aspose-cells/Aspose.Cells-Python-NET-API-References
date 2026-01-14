@@ -3,7 +3,7 @@ title: shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /aspose.cells.timelines/timeline/shape/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## shape property
 
 
-Returns the [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) object associated with this Timeline. Read-only.
+Returns the [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) object associated with this Timeline.
 ### Definition:
 ```python
 @property

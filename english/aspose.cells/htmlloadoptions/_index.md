@@ -10,7 +10,7 @@ is_root: false
 
 ## HtmlLoadOptions class
 
-Represents options when importing a html file.
+Represents options when importing an HTML file.
 
 
 
@@ -70,6 +70,7 @@ The HtmlLoadOptions type exposes the following members:
 | [stream_provider](/cells/python-net/aspose.cells/htmlloadoptions/stream_provider) | Gets or sets the StreamProviderImportHtmlFile for importing objects. |
 | [prog_id](/cells/python-net/aspose.cells/htmlloadoptions/prog_id) | Gets the program id of creating the file.<br/>Only for MHT files. |
 | [table_load_options](/cells/python-net/aspose.cells/htmlloadoptions/table_load_options) | Get the HtmlTableLoadOptionCollection instance |
+| [detect_la_te_x](/cells/python-net/aspose.cells/htmlloadoptions/detect_la_te_x) | Indicates whether to detect LaTeX formula in the HTML file. <br/>The default value is false. |
 
 
 ### Methods

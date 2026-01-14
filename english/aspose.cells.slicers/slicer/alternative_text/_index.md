@@ -13,6 +13,14 @@ is_root: false
 
 Returns or sets the descriptive (alternative) text string of the Slicer object.
 
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use [`Shape.alternative_text`](/cells/python-net/aspose.cells.drawing/shape#alternative_text) property. 
+This property will be removed 12 months later since January 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
+
 ### Example 
 
 

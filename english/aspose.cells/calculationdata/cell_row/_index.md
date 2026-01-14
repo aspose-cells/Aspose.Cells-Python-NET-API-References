@@ -11,7 +11,7 @@ is_root: false
 ## cell_row property
 
 
-Gets the row index of the cell where the function is in.
+Gets the row index of the cell where the function is.
 ### Definition:
 ```python
 @property

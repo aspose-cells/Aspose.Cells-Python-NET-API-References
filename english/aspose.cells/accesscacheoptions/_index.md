@@ -10,7 +10,7 @@ is_root: false
 
 ## AccessCacheOptions enumeration
 
-Cache options for data access. Can be combined with | operator for multiple options together.
+Caching options for data access. Multiple options can be combined using the "|" operator.
 
 
 

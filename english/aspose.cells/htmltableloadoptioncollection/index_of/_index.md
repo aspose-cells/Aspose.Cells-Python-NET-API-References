@@ -3,7 +3,7 @@ title: index_of method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells/htmltableloadoptioncollection/index_of/
 is_root: false
 ---

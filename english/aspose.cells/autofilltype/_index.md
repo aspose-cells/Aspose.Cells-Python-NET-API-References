@@ -21,9 +21,9 @@ The AutoFillType type exposes the following members:
 | :- | :- |
 | COPY | Copies the value and format of the source area to the target area |
 | DEFAULT | Automatically fills the target area with the value and format. |
-| FORMATS | Only copies the format of the source area to the target area. |
-| SERIES | Extend the value in the source area to the target area in the form of a series and copy format to the target area. |
-| VALUES | Copies only the value of the source area to the target area, |
+| FORMATS | Copies only the format of the source area to the target area. |
+| SERIES | Extend the value in the source area to the target area in the form of a series and copy the format to the target area. |
+| VALUES | Copies only the value of the source area to the target area. |
 
 
 

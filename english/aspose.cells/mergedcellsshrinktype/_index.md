@@ -10,7 +10,7 @@ is_root: false
 
 ## MergedCellsShrinkType enumeration
 
-Represents the strategy to shrink merged cells for operations such as deleting blank rows/column.
+Represents the strategy to shrink merged cells for operations such as deleting blank rows/columns.
 
 
 

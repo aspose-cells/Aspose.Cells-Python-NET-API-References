@@ -3,7 +3,7 @@ title: base_item_position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 340
 url: /aspose.cells.pivot/pivotfield/base_item_position/
 is_root: false
 ---

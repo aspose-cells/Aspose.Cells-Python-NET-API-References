@@ -25,5 +25,10 @@ The TextCapsType type exposes the following members:
 
 
 
+### Remarks 
+
+
+Only can be applied to chart and shape.
+
 ### See Also
 * module [`aspose.cells`](..)

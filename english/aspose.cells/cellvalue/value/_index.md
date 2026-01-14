@@ -11,7 +11,7 @@ is_root: false
 ## value property
 
 
-Gets/sets the cell value.
+Gets or sets the cell value.
 
 ### Remarks 
 

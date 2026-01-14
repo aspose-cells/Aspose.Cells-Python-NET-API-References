@@ -11,8 +11,16 @@ is_root: false
 ## caption_visible property
 
 
-Returns or sets whether the header that displays the slicer Caption is visible
-the default value is true
+Returns or sets whether the header that displays the slicer Caption is visible.
+The default value is true
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use [`Slicer.show_caption`](/cells/python-net/aspose.cells.slicers/slicer#show_caption) property. 
+This property will be removed 12 months later since January 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ### Example 
 

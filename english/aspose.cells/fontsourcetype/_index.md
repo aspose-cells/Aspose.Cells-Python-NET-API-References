@@ -19,9 +19,9 @@ The FontSourceType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| FONT_FILE | represents single font file. |
-| FONTS_FOLDER | represents folder with font files. |
-| MEMORY_FONT | represents single font in memory. |
+| FONT_FILE | represents a single font file. |
+| FONTS_FOLDER | Represents a folder with font files. |
+| MEMORY_FONT | Represents a single font in memory. |
 
 
 

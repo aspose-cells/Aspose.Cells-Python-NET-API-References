@@ -3,7 +3,7 @@ title: is_values_field property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /aspose.cells.pivot/pivotfield/is_values_field/
 is_root: false
 ---

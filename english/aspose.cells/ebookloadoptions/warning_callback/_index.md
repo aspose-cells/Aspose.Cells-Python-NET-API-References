@@ -3,7 +3,7 @@ title: warning_callback property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/ebookloadoptions/warning_callback/
 is_root: false
 ---

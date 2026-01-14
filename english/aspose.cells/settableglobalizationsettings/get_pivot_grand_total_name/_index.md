@@ -10,7 +10,7 @@ is_root: false
 
 ## get_pivot_grand_total_name(self) {#}
 
-Gets the name of "Grand Total" label in the PivotTable.
+Gets the name of the "Grand Total" label in the PivotTable.
 
 
 ### Returns 

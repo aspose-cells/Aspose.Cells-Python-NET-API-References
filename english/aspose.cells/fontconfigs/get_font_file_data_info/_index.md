@@ -10,7 +10,7 @@ is_root: false
 
 ## get_font_file_data_info(, font_name, is_bold, is_italic, is_exact_style) {#System.String-bool-bool-bool}
 
-Get data infomation of font file data.
+Get data information of font file data.
 
 
 ### Returns 

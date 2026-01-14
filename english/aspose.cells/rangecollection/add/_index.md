@@ -29,7 +29,12 @@ def add(self, range):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | range | aspose.cells.Range | Range object |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use AddRange() method.
+This method will be removed 6 months later since December 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

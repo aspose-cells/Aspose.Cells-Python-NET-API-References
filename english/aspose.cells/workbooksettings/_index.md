@@ -86,6 +86,7 @@ The WorkbookSettings type exposes the following members:
 | [properties_follow_chart_point](/cells/python-net/aspose.cells/workbooksettings/properties_follow_chart_point) | Indicates whether datapoint properties and datalabels in all charts in this workbook follow their reference. |
 | [discard_image_edit_data](/cells/python-net/aspose.cells/workbooksettings/discard_image_edit_data) | Indicates whether discarding editting image data. |
 | [default_image_resolution](/cells/python-net/aspose.cells/workbooksettings/default_image_resolution) | Gets and sets default resolution of image. |
+| [wps_compatibility](/cells/python-net/aspose.cells/workbooksettings/wps_compatibility) | Indicates whether to be compatible with WPS. |
 
 
 ### Methods

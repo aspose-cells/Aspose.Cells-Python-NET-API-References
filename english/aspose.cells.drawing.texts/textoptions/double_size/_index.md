@@ -3,7 +3,7 @@ title: double_size property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.drawing.texts/textoptions/double_size/
 is_root: false
 ---

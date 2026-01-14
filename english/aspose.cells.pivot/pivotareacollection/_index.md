@@ -34,6 +34,7 @@ The PivotAreaCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells.pivot/pivotareacollection/last_index_of/#aspose.cells.pivot.pivotarea) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.pivot/pivotareacollection/last_index_of/#aspose.cells.pivot.pivotarea-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.pivot/pivotareacollection/last_index_of/#aspose.cells.pivot.pivotarea-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`add_pivot_area(self, pivot_area)`](/cells/python-net/aspose.cells.pivot/pivotareacollection/add_pivot_area/#aspose.cells.pivot.pivotarea) | Adds pivot area into this collection. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.pivot/pivotareacollection/binary_search/#aspose.cells.pivot.pivotarea) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

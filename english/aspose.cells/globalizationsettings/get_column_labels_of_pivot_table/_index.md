@@ -10,7 +10,7 @@ is_root: false
 
 ## get_column_labels_of_pivot_table(self) {#}
 
-Gets the name of "Column Labels" label in the PivotTable.
+Gets the name of the "Column Labels" label in the PivotTable.
 
 
 ### Returns 

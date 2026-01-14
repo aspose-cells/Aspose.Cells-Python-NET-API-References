@@ -30,7 +30,7 @@ def get_cell_area(self):
 
 ## get_cell_area(self, refresh_applied_range) {#bool}
 
-Gets the [`CellArea`](/cells/python-net/aspose.cells/cellarea) where the specified AutoFilter applies to.
+Gets the [`CellArea`](/cells/python-net/aspose.cells/cellarea) where the specified AutoFilter applies.
 
 
 ### Returns 

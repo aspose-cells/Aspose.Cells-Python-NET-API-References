@@ -10,7 +10,7 @@ is_root: false
 
 ## HtmlTableLoadOptionCollection class
 
-Represents the table options when importing html.
+Represents the table options when importing HTML.
 
 
 
@@ -46,6 +46,7 @@ The HtmlTableLoadOptionCollection type exposes the following members:
 | [`last_index_of(self, item)`](/cells/python-net/aspose.cells/htmltableloadoptioncollection/last_index_of/#aspose.cells.htmltableloadoption) | Searches for the specified object and returns the zero-based index of the last occurrence within the entire array list. |
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells/htmltableloadoptioncollection/last_index_of/#aspose.cells.htmltableloadoption-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells/htmltableloadoptioncollection/last_index_of/#aspose.cells.htmltableloadoption-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
+| [`add_table_load_option(self, item)`](/cells/python-net/aspose.cells/htmltableloadoptioncollection/add_table_load_option/#aspose.cells.htmltableloadoption) | Adds one HtmlTableLoadOption into this collection. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells/htmltableloadoptioncollection/binary_search/#aspose.cells.htmltableloadoption) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

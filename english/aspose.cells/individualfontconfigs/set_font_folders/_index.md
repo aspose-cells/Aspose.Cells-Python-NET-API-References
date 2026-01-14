@@ -10,7 +10,7 @@ is_root: false
 
 ## set_font_folders(self, font_folders, recursive) {#list-bool}
 
-Sets the fonts folders
+Sets the font folders
 
 
 

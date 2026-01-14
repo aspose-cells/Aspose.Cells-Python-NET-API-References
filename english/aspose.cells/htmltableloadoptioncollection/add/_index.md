@@ -29,7 +29,12 @@ def add(self, item):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | item | aspose.cells.HtmlTableLoadOption | one HtmlTableLoadOption |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use AddTableLoadOption() method.
+This method will be removed 6 months later since December 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## add(self, table_index) {#int}
 

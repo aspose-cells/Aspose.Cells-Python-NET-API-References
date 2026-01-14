@@ -10,7 +10,7 @@ is_root: false
 
 ## custom(self, field_index, operator_type1, criteria1) {#int-aspose.cells.FilterOperatorType-System.Object}
 
-Filters a list with a custom criteria.
+Filters a list with a custom criterion.
 
 
 

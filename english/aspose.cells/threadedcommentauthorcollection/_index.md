@@ -10,7 +10,7 @@ is_root: false
 
 ## ThreadedCommentAuthorCollection class
 
-Represents all persons who .
+Represents all persons.
 
 
 

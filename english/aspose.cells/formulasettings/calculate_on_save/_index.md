@@ -11,7 +11,7 @@ is_root: false
 ## calculate_on_save property
 
 
-Indicates whether recalculate the workbook before saving the document, when in manual calculation mode.
+Indicates whether to recalculate the workbook before saving the document, when in manual calculation mode.
 
 ### Remarks 
 

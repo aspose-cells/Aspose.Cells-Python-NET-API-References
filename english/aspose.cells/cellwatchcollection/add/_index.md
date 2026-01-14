@@ -10,7 +10,7 @@ is_root: false
 
 ## add(self, cell_name) {#System.String}
 
-Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with the name the of cell.
+Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with the name of the cell.
 
 
 ### Returns 
@@ -33,7 +33,7 @@ def add(self, cell_name):
 
 ## add(self, row, column) {#int-int}
 
-Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with row and column.
+Adds [`CellWatch`](/cells/python-net/aspose.cells/cellwatch) with a row and a column.
 
 
 ### Returns 

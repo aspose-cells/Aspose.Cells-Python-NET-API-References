@@ -38,7 +38,7 @@ The FontUnderlineType type exposes the following members:
 | WAVE | Represents Wave Underline |
 | WAVY_DOUBLE | Represents Double Wave Underline |
 | WAVY_HEAVY | Represents Heavy Wave Underline |
-| WORDS | Represents Underline Non-Space Characters Only |
+| WORDS | Represents Underline Non-Space Characters. |
 
 
 

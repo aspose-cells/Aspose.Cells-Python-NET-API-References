@@ -11,7 +11,7 @@ is_root: false
 ## type property
 
 
-Gets/sets the type of cell value.
+Gets or sets the type of cell value.
 ### Definition:
 ```python
 @property

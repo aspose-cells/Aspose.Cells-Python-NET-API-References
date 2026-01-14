@@ -10,7 +10,7 @@ is_root: false
 
 ## ThreadedCommentAuthor class
 
-Represents the person who creates the threaded comments;
+Represents the person who creates the threaded comments.
 
 
 

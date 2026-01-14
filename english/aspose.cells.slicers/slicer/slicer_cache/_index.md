@@ -3,7 +3,7 @@ title: slicer_cache property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 300
 url: /aspose.cells.slicers/slicer/slicer_cache/
 is_root: false
 ---

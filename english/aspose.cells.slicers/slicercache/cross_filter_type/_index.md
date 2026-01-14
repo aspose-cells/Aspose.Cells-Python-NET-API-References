@@ -11,8 +11,15 @@ is_root: false
 ## cross_filter_type property
 
 
-Returns or sets whether a slicer is participating in cross filtering with other slicers
-that share the same slicer cache, and how cross filtering is displayed. Read/write
+Indicates how to show items with no data of slicer.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use [`Slicer.show_type_of_items_with_no_data`](/cells/python-net/aspose.cells.slicers/slicer#show_type_of_items_with_no_data) property. 
+This property will be removed 12 months later since January 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

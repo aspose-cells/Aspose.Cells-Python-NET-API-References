@@ -3,7 +3,7 @@ title: is_italic property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.drawing.texts/textoptions/is_italic/
 is_root: false
 ---

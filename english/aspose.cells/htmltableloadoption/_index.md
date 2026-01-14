@@ -10,7 +10,7 @@ is_root: false
 
 ## HtmlTableLoadOption class
 
-Represents the option when import table from html.
+Represents the option when importing a table from HTML.
 
 
 

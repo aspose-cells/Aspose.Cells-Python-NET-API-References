@@ -23,8 +23,8 @@ The **Aspose.Cells.Slicers**  namespace provides all classes for Pivot Table Sli
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
-| [`SlicerCacheCrossFilterType`](/cells/python-net/aspose.cells.slicers/slicercachecrossfiltertype) | Represent the type of SlicerCacheCrossFilterType |
-| [`SlicerCacheItemSortType`](/cells/python-net/aspose.cells.slicers/slicercacheitemsorttype) | Specify the sort type of SlicerCacheItem |
+| [`ItemsWithNoDataShowMode`](/cells/python-net/aspose.cells.slicers/itemswithnodatashowmode) | Represent the type how to show items with no data for slicer. |
+| [`SlicerCacheCrossFilterType`](/cells/python-net/aspose.cells.slicers/slicercachecrossfiltertype) |  |
 | [`SlicerStyleType`](/cells/python-net/aspose.cells.slicers/slicerstyletype) | Specify the style of slicer view |
 
 

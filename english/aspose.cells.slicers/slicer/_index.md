@@ -19,6 +19,10 @@ The Slicer type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [sort_order_type](/cells/python-net/aspose.cells.slicers/slicer/sort_order_type) | Indicates the type of sorting items. |
+| [show_missing](/cells/python-net/aspose.cells.slicers/slicer/show_missing) | Indicates whether to show items deteleted from the data source. |
+| [show_type_of_items_with_no_data](/cells/python-net/aspose.cells.slicers/slicer/show_type_of_items_with_no_data) | Indicates whether to show items deteleted from the data source. |
+| [show_all_items](/cells/python-net/aspose.cells.slicers/slicer/show_all_items) | Indicates whether to show all items even if there are no data or they are deleted.<br/>Default value is true; |
 | [title](/cells/python-net/aspose.cells.slicers/slicer/title) | Specifies the title of the current Slicer object. |
 | [alternative_text](/cells/python-net/aspose.cells.slicers/slicer/alternative_text) | Returns or sets the descriptive (alternative) text string of the Slicer object. |
 | [is_printable](/cells/python-net/aspose.cells.slicers/slicer/is_printable) | Indicates whether the slicer object is printable. |
@@ -28,12 +32,15 @@ The Slicer type exposes the following members:
 | [locked_position](/cells/python-net/aspose.cells.slicers/slicer/locked_position) | Indicates whether the specified slicer can be moved or resized by using the user interface. |
 | [shape](/cells/python-net/aspose.cells.slicers/slicer/shape) | Returns the Shape object associated with the specified slicer. Read-only. |
 | [slicer_cache](/cells/python-net/aspose.cells.slicers/slicer/slicer_cache) | Returns the SlicerCache object associated with the slicer. Read-only. |
-| [parent](/cells/python-net/aspose.cells.slicers/slicer/parent) | Returns the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) object which contains this slicer. Read-only. |
-| [style_type](/cells/python-net/aspose.cells.slicers/slicer/style_type) | Specify the type of Built-in slicer style<br/>the default type is SlicerStyleLight1 |
+| [parent](/cells/python-net/aspose.cells.slicers/slicer/parent) | Returns the [`Slicer.worksheet`](/cells/python-net/aspose.cells.slicers/slicer#worksheet) object which contains this slicer. Read-only. |
+| [worksheet](/cells/python-net/aspose.cells.slicers/slicer/worksheet) | Returns the [`Slicer.worksheet`](/cells/python-net/aspose.cells.slicers/slicer#worksheet) object which contains this slicer. Read-only. |
+| [style_type](/cells/python-net/aspose.cells.slicers/slicer/style_type) | Specify the type of Built-in slicer style.<br/>The default type is SlicerStyleLight1. |
 | [name](/cells/python-net/aspose.cells.slicers/slicer/name) | Returns or sets the name of the specified slicer |
 | [caption](/cells/python-net/aspose.cells.slicers/slicer/caption) | Returns or sets the caption of the specified slicer. |
-| [caption_visible](/cells/python-net/aspose.cells.slicers/slicer/caption_visible) | Returns or sets whether the header that displays the slicer Caption is visible<br/>the default value is true |
-| [number_of_columns](/cells/python-net/aspose.cells.slicers/slicer/number_of_columns) | Returns or sets the number of columns in the specified slicer. |
+| [first_item_index](/cells/python-net/aspose.cells.slicers/slicer/first_item_index) | Specifies the zero-based index of the first slicer item. |
+| [caption_visible](/cells/python-net/aspose.cells.slicers/slicer/caption_visible) | Returns or sets whether the header that displays the slicer Caption is visible.<br/>The default value is true |
+| [show_caption](/cells/python-net/aspose.cells.slicers/slicer/show_caption) | Indicates whether the header of the slicer is visible.<br/>The default value is true |
+| [number_of_columns](/cells/python-net/aspose.cells.slicers/slicer/number_of_columns) | Returns or sets the number of columns in the specified slicer. <br/>The default value is 1. |
 | [left_pixel](/cells/python-net/aspose.cells.slicers/slicer/left_pixel) | Returns or sets the horizontal offset of slicer shape from its left column, in pixels. |
 | [top_pixel](/cells/python-net/aspose.cells.slicers/slicer/top_pixel) | Returns or sets the vertical offset of slicer shape from its top row, in pixels. |
 | [width](/cells/python-net/aspose.cells.slicers/slicer/width) | Returns or sets the width of the specified slicer, in points. |
@@ -41,9 +48,9 @@ The Slicer type exposes the following members:
 | [height](/cells/python-net/aspose.cells.slicers/slicer/height) | Returns or sets the height of the specified slicer, in points. |
 | [height_pixel](/cells/python-net/aspose.cells.slicers/slicer/height_pixel) | Returns or sets the height of the specified slicer, in pixels. |
 | [column_width_pixel](/cells/python-net/aspose.cells.slicers/slicer/column_width_pixel) | Gets or sets the width of each column in the slicer, in unit of pixels. |
-| [column_width](/cells/python-net/aspose.cells.slicers/slicer/column_width) | Returns or sets the width, in points, of each column in the slicer. |
-| [row_height_pixel](/cells/python-net/aspose.cells.slicers/slicer/row_height_pixel) | Returns or sets the height, in pixels, of each row in the specified slicer. |
-| [row_height](/cells/python-net/aspose.cells.slicers/slicer/row_height) | Returns or sets the height, in points, of each row in the specified slicer. |
+| [column_width](/cells/python-net/aspose.cells.slicers/slicer/column_width) | Returns or sets the width of each column in the slicer in unit of points. |
+| [row_height_pixel](/cells/python-net/aspose.cells.slicers/slicer/row_height_pixel) | Returns or sets the height of each row in the specified slicer, in unit of pixels. |
+| [row_height](/cells/python-net/aspose.cells.slicers/slicer/row_height) | Returns or sets the height of each row in the specified slicer in unit of points. |
 
 
 ### Methods
@@ -51,7 +58,7 @@ The Slicer type exposes the following members:
 | :- | :- |
 | [`add_pivot_connection(self, pivot)`](/cells/python-net/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | Adds PivotTable connection. |
 | [`remove_pivot_connection(self, pivot)`](/cells/python-net/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | Removes PivotTable connection. |
-| [`refresh(self)`](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the slicer.Meanwhile, Refreshing and Calculating  relative PivotTables. |
+| [`refresh(self)`](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the slicer.<br/>Meanwhile, Refreshing and Calculating PivotTables which this slicer based on. |
 
 
 
@@ -116,4 +123,3 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.slicers`](..)
-* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

@@ -11,7 +11,7 @@ is_root: false
 ## column_width property
 
 
-Returns or sets the width, in points, of each column in the slicer.
+Returns or sets the width of each column in the slicer in unit of points.
 
 ### Example 
 

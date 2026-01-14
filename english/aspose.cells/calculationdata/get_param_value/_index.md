@@ -10,7 +10,7 @@ is_root: false
 
 ## get_param_value(self, index) {#int}
 
-Gets the represented value object of the parameter at given index.
+Gets the represented value object of the parameter at a given index.
 
 
 ### Returns 

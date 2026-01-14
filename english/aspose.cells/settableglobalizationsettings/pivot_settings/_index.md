@@ -11,7 +11,7 @@ is_root: false
 ## pivot_settings property
 
 
-Gets or sets the globalization settings for pivot table.
+Gets or sets the globalization settings for the pivot table.
 ### Definition:
 ```python
 @property

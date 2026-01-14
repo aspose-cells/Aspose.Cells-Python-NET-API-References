@@ -3,7 +3,7 @@ title: row_height property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.slicers/slicer/row_height/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## row_height property
 
 
-Returns or sets the height, in points, of each row in the specified slicer.
+Returns or sets the height of each row in the specified slicer in unit of points.
 
 ### Example 
 

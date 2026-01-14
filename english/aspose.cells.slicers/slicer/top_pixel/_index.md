@@ -3,7 +3,7 @@ title: top_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 340
 url: /aspose.cells.slicers/slicer/top_pixel/
 is_root: false
 ---

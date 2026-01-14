@@ -10,7 +10,7 @@ is_root: false
 
 ## CopyFormatType enumeration
 
-Represents type of copying format when inserting rows.
+Represents the type of copying format when inserting rows.
 
 
 

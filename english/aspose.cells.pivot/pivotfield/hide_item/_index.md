@@ -3,7 +3,7 @@ title: hide_item method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells.pivot/pivotfield/hide_item/
 is_root: false
 ---

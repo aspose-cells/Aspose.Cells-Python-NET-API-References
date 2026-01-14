@@ -33,6 +33,7 @@ The SparklineCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.charts/sparklinecollection/last_index_of/#aspose.cells.charts.sparkline-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.charts/sparklinecollection/last_index_of/#aspose.cells.charts.sparkline-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`add(self, data_range, row, column)`](/cells/python-net/aspose.cells.charts/sparklinecollection/add/#system.string-int-int) | Add a sparkline. |
+| [`remove_sparkline(self, o)`](/cells/python-net/aspose.cells.charts/sparklinecollection/remove_sparkline/#aspose.cells.charts.sparkline) | Removes the sparkline |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.charts/sparklinecollection/binary_search/#aspose.cells.charts.sparkline) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

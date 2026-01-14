@@ -3,7 +3,7 @@ title: get_pivot_filter_by_type method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/
 is_root: false
 ---

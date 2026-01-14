@@ -10,7 +10,7 @@ is_root: false
 
 ## AdvancedFilter class
 
-Represents the settings of advanced filter.
+Represents the settings of the advanced filter.
 
 
 

@@ -3,7 +3,7 @@ title: style_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 320
 url: /aspose.cells.slicers/slicer/style_type/
 is_root: false
 ---
@@ -11,8 +11,8 @@ is_root: false
 ## style_type property
 
 
-Specify the type of Built-in slicer style
-the default type is SlicerStyleLight1
+Specify the type of Built-in slicer style.
+The default type is SlicerStyleLight1.
 
 ### Example 
 

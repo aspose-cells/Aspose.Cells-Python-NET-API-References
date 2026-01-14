@@ -3,7 +3,7 @@ title: has_formula property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells/htmlloadoptions/has_formula/
 is_root: false
 ---

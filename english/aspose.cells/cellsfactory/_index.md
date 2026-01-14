@@ -10,7 +10,7 @@ is_root: false
 
 ## CellsFactory class
 
-Utility for instantiating classes of Cells model.
+Utility for instantiating classes of the Cells model.
 
 
 

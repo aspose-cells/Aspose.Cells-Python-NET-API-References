@@ -10,7 +10,7 @@ is_root: false
 
 ## add(self, text, author) {#System.String-aspose.cells.ThreadedCommentAuthor}
 
-Adds a threaded comment;
+Adds a threaded comment.
 
 
 ### Returns 

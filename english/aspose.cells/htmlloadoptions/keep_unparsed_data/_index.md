@@ -3,7 +3,7 @@ title: keep_unparsed_data property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells/htmlloadoptions/keep_unparsed_data/
 is_root: false
 ---

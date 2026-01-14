@@ -11,8 +11,7 @@ is_root: false
 ## preserve_padding_spaces property
 
 
-Indicates whether preserve those spaces and line breaks that are padded between formula tokens
-while getting and setting formulas.
+Indicates whether to preserve those spaces and line breaks that are padded between formula tokens while getting and setting formulas.
 Default value is false.
 
 ### Remarks 

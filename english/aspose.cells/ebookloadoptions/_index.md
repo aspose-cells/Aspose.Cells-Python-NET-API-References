@@ -26,8 +26,8 @@ The EbookLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/cells/python-net/aspose.cells/ebookloadoptions/__init__/#) | Creates an options of loading the ebook file. |
-| [`__init__(self, load_format)`](/cells/python-net/aspose.cells/ebookloadoptions/__init__/#aspose.cells.loadformat) | Creates an options of loading the ebook file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/ebookloadoptions/__init__/#) | Creates an option for loading the ebook file. |
+| [`__init__(self, load_format)`](/cells/python-net/aspose.cells/ebookloadoptions/__init__/#aspose.cells.loadformat) | Creates an option of loading the ebook file. |
 
 
 ### Properties
@@ -71,6 +71,7 @@ The EbookLoadOptions type exposes the following members:
 | [stream_provider](/cells/python-net/aspose.cells/ebookloadoptions/stream_provider) | Gets or sets the StreamProviderImportHtmlFile for importing objects. |
 | [prog_id](/cells/python-net/aspose.cells/ebookloadoptions/prog_id) | Gets the program id of creating the file.<br/>Only for MHT files. |
 | [table_load_options](/cells/python-net/aspose.cells/ebookloadoptions/table_load_options) | Get the HtmlTableLoadOptionCollection instance |
+| [detect_la_te_x](/cells/python-net/aspose.cells/ebookloadoptions/detect_la_te_x) | Indicates whether to detect LaTeX formula in the HTML file. <br/>The default value is false. |
 
 
 ### Methods

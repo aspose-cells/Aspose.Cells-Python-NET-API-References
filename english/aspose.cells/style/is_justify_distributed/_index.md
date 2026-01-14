@@ -17,6 +17,7 @@ Indicates if the cells justified or distributed alignment should be used on the 
 
 
 This is typical for East Asian alignments but not typical in other contexts.
+Only works when distributed dorizontal alignment.
 ### Definition:
 ```python
 @property

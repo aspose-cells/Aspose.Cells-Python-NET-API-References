@@ -33,7 +33,7 @@ def get_instance(self, collection):
 
 ## get_instance(self, vals, column_names) {#list-list}
 
-Creates ICellsDataTable from given sequence of int values.
+Creates ICellsDataTable from given sequence of integer values.
 
 
 ### Returns 
@@ -57,7 +57,7 @@ def get_instance(self, vals, column_names):
 
 ## get_instance(self, vals, vertial) {#list-bool}
 
-Creates ICellsDataTable from given sequence of int values.
+Creates ICellsDataTable from given sequence of integer values.
 
 
 ### Returns 
@@ -201,7 +201,7 @@ def get_instance(self, collection, has_header):
 
 ## get_instance(self, vals, has_header, column_names) {#list-bool-list}
 
-Creates ICellsDataTable from given sequence of objects.
+Creates an ICellsDataTable from a given sequence of objects.
 
 
 ### Returns 

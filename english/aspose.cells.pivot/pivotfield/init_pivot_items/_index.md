@@ -3,7 +3,7 @@ title: init_pivot_items method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /aspose.cells.pivot/pivotfield/init_pivot_items/
 is_root: false
 ---

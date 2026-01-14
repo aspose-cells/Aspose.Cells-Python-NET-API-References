@@ -29,7 +29,12 @@ def add(self, pivot_area):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | pivot_area | aspose.cells.pivot.PivotArea | The pivot area. |
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use AddPivotArea() method.
+This method will be removed 6 months later since December 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## add(self, cell_area) {#aspose.cells.CellArea}
 

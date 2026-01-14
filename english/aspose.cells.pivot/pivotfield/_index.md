@@ -71,13 +71,18 @@ The PivotField type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`group_by(self, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-bool) | Automatically group the field with internal |
+| [`group_by(self, groups, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-float-bool) | Automatically group the field with internal |
 | [`group_by(self, start, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#system.datetime-system.datetime-list-float-bool) | Group the file by the date group types. |
-| [`group_by(self, start, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
+| [`group_by(self, is_auto_start, start, is_auto_end, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#bool-system.datetime-bool-system.datetime-list-float-bool) | Group the file by the date group types. |
+| [`group_by(self, start, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) |  |
+| [`group_by(self, is_auto_start, start, is_auto_end, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#bool-float-bool-float-float-bool) | Group the file by number. |
 | [`group_by(self, custom_group_items, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
 | [`sort_by(self, sort_type, field_sorted_by)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int) | Sorts this pivot field. |
 | [`sort_by(self, sort_type, field_sorted_by, data_type, cell_name)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int-aspose.cells.pivot.pivotlinetype-system.string) | Sorts this pivot field. |
 | [`hide_item(self, index, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [`hide_item(self, item_value, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#system.string-bool) | Sets whether the specific PivotItem in a data field is hidden. |
+| [`get_max_value(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_max_value/#) | Gets the max value of this field. |
+| [`get_min_value(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_min_value/#) | Gets the max value of this field. |
 | [`init_pivot_items(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
 | [`ungroup(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [`get_pivot_filter_by_type(self, type)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.pivotfiltertype) | Gets the pivot filter of the pivot field by type |

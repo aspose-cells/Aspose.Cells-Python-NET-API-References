@@ -3,7 +3,7 @@ title: show_subtotal_at_top property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 690
+weight: 710
 url: /aspose.cells.pivot/pivotfield/show_subtotal_at_top/
 is_root: false
 ---

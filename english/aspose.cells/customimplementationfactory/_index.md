@@ -10,7 +10,7 @@ is_root: false
 
 ## CustomImplementationFactory class
 
-Factory to create some instances which may be re-implemented by user for special purpose.
+Factory to create some instances which may be re-implemented by the user for a special purpose.
 
 
 

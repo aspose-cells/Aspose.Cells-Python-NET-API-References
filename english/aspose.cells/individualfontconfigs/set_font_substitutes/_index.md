@@ -10,7 +10,7 @@ is_root: false
 
 ## set_font_substitutes(self, original_font_name, substitute_font_names) {#System.String-list}
 
-Font substitute names for given original font name.
+Sets font substitute names for a given original font name.
 
 
 

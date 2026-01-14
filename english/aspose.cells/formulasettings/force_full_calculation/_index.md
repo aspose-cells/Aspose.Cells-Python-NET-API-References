@@ -11,7 +11,7 @@ is_root: false
 ## force_full_calculation property
 
 
-Indicates whether calculates all formulas every time when a calculation is triggered.
+Indicates whether it calculates all formulas every time when a calculation is triggered.
 
 ### Remarks 
 

@@ -10,7 +10,7 @@ is_root: false
 
 ## SignificantDigitsType enumeration
 
-Represents the type of significant digits for outputing numeric values.
+Represents the type of significant digits for outputting numeric values.
 
 
 

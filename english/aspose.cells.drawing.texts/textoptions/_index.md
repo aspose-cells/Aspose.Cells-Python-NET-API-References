@@ -27,7 +27,7 @@ The TextOptions type exposes the following members:
 | [charset](/cells/python-net/aspose.cells.drawing.texts/textoptions/charset) | Represent the character set. |
 | [is_italic](/cells/python-net/aspose.cells.drawing.texts/textoptions/is_italic) | Gets or sets a value indicating whether the font is italic. |
 | [is_bold](/cells/python-net/aspose.cells.drawing.texts/textoptions/is_bold) | Gets or sets a value indicating whether the font is bold. |
-| [caps_type](/cells/python-net/aspose.cells.drawing.texts/textoptions/caps_type) | Gets and sets the text caps type. |
+| [caps_type](/cells/python-net/aspose.cells.drawing.texts/textoptions/caps_type) | Gets and sets the caps type for texts of the shape. |
 | [strike_type](/cells/python-net/aspose.cells.drawing.texts/textoptions/strike_type) | Gets the strike type of the text. |
 | [is_strikeout](/cells/python-net/aspose.cells.drawing.texts/textoptions/is_strikeout) | Gets or sets a value indicating whether the font is single strikeout. |
 | [script_offset](/cells/python-net/aspose.cells.drawing.texts/textoptions/script_offset) | Gets and sets the script offset,in unit of percentage |
@@ -56,6 +56,7 @@ The TextOptions type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`set_name(self, name, type)`](/cells/python-net/aspose.cells.drawing.texts/textoptions/set_name/#system.string-aspose.cells.fontschemetype) | Sets name and scheme of the font. |
 | [`equals(self, font)`](/cells/python-net/aspose.cells.drawing.texts/textoptions/equals/#aspose.cells.font) | Checks if two fonts are equals. |
 
 

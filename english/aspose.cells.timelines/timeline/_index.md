@@ -20,8 +20,15 @@ The Timeline type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [caption](/cells/python-net/aspose.cells.timelines/timeline/caption) | Returns or sets the caption of the specified Timeline. |
-| [shape](/cells/python-net/aspose.cells.timelines/timeline/shape) | Returns the [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) object associated with this Timeline. Read-only. |
+| [show_header](/cells/python-net/aspose.cells.timelines/timeline/show_header) | Indicates whether to display the header. |
+| [show_selection_label](/cells/python-net/aspose.cells.timelines/timeline/show_selection_label) | Indicates whether to display the selction label. |
+| [show_time_level](/cells/python-net/aspose.cells.timelines/timeline/show_time_level) | Indicates whether to display the time level. |
+| [show_horizontal_scrollbar](/cells/python-net/aspose.cells.timelines/timeline/show_horizontal_scrollbar) | Indicates whether to display the horizontal ccroll bar. |
+| [start_date](/cells/python-net/aspose.cells.timelines/timeline/start_date) | Gets and sets the start date of the timespan scrolling position of this [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline). |
+| [current_level](/cells/python-net/aspose.cells.timelines/timeline/current_level) | The current time level of the Timeline. |
+| [selection_level](/cells/python-net/aspose.cells.timelines/timeline/selection_level) | Gets and sets the time level at which the current selection was made for the Timeline. |
+| [caption](/cells/python-net/aspose.cells.timelines/timeline/caption) | Gets or sets the caption of this Timeline. |
+| [shape](/cells/python-net/aspose.cells.timelines/timeline/shape) | Returns the [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape) object associated with this Timeline. |
 | [name](/cells/python-net/aspose.cells.timelines/timeline/name) | Returns or sets the name of the specified Timeline |
 | [left_pixel](/cells/python-net/aspose.cells.timelines/timeline/left_pixel) | Returns or sets the horizontal offset of timeline shape from its left column, in pixels. |
 | [top_pixel](/cells/python-net/aspose.cells.timelines/timeline/top_pixel) | Returns or sets the vertical offset of timeline shape from its top row, in pixels. |
@@ -86,4 +93,5 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.timelines`](..)
+* class [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline)
 * class [`TimelineShape`](/cells/python-net/aspose.cells.drawing/timelineshape)

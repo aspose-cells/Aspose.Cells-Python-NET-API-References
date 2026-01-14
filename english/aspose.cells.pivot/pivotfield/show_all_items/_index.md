@@ -3,7 +3,7 @@ title: show_all_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /aspose.cells.pivot/pivotfield/show_all_items/
 is_root: false
 ---

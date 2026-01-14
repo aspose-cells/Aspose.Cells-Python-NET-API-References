@@ -26,6 +26,7 @@ The PivotTableRefreshOption type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [reserve_missing_pivot_item_type](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption/reserve_missing_pivot_item_type) | Represents how to reserve missing pivot items. |
+| [is_keep_original_order](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption/is_keep_original_order) | Indicates whether to keep pivot items' original order as old data source. |
 
 
 

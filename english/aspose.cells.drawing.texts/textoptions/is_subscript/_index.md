@@ -3,7 +3,7 @@ title: is_subscript property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /aspose.cells.drawing.texts/textoptions/is_subscript/
 is_root: false
 ---

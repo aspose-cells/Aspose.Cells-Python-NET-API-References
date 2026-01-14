@@ -10,7 +10,7 @@ is_root: false
 
 ## match_blanks(self, field_index) {#int}
 
-Match all blank cell in the list.
+Match all blank cells in the list.
 
 
 

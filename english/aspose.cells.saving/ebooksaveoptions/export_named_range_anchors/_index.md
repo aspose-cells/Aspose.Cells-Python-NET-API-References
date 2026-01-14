@@ -11,7 +11,7 @@ is_root: false
 ## export_named_range_anchors property
 
 
-/ Indicates whether to export anchor elements  generated for named ranges when saving to HTML.
+Indicates whether to export anchor elements for named ranges when saving as HTML.
 Default value is true.
 ### Definition:
 ```python

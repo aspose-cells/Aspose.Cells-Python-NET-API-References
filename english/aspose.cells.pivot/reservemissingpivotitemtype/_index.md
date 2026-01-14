@@ -19,7 +19,7 @@ The ReserveMissingPivotItemType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| DEFAULT | Removes old missint pivot items and reserves visible items which the current data source does not contain as missing items. |
+| DEFAULT | Removes old missing pivot items and reserves deleted items of new data source as missing items. |
 | ALL | Reserves all missing items. |
 | NONE | Removes all missing pivot items. |
 
