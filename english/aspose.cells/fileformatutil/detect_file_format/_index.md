@@ -54,7 +54,10 @@ def detect_file_format(file_path):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_path | System.String | The file path. |
+### Remarks
 
+Only supports checking some files with magic signature.
+If there is no magic signature, we can not precisely detect the file format.
 
 ## detect_file_format(, stream, password) {#io.RawIOBase-System.String}
 
@@ -104,7 +107,10 @@ def detect_file_format(file_path, password):
 | :- | :- | :- |
 | file_path | System.String | The file path. |
 | password | System.String | The password for encrypted ooxml files. |
+### Remarks
 
+Only supports checking some files with magic signature.
+If there is no magic signature, we can not precisely detect the file format.
 
 
 ### See Also

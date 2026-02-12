@@ -46,7 +46,7 @@ The Axis type exposes the following members:
 | [cust_unit](/cells/python-net/aspose.cells.charts/axis/cust_unit) | Specifies a custom value for the display unit. |
 | [custom_unit](/cells/python-net/aspose.cells.charts/axis/custom_unit) | Specifies a custom value for the display unit. |
 | [custom_display_unit](/cells/python-net/aspose.cells.charts/axis/custom_display_unit) | Specifies a custom value for the display unit. |
-| [display_unit_label](/cells/python-net/aspose.cells.charts/axis/display_unit_label) | Represents a unit label on an axis in the specified chart. <br/>Unit labels are useful for charting large values— for example, in the millions or billions. |
+| [display_unit_label](/cells/python-net/aspose.cells.charts/axis/display_unit_label) | Represents a unit label on an axis in the specified chart. <br/>Unit labels are useful for charting large values - for example, in the millions or billions. |
 | [is_display_unit_label_shown](/cells/python-net/aspose.cells.charts/axis/is_display_unit_label_shown) | Represents if the display unit label is shown on the specified axis. |
 | [title](/cells/python-net/aspose.cells.charts/axis/title) | Gets the title of this axis in the chart. |
 | [category_type](/cells/python-net/aspose.cells.charts/axis/category_type) | Represents the type of the category axis. |

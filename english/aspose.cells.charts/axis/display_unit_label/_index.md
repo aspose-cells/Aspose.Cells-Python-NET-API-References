@@ -12,7 +12,7 @@ is_root: false
 
 
 Represents a unit label on an axis in the specified chart. 
-Unit labels are useful for charting large values— for example, in the millions or billions.
+Unit labels are useful for charting large values - for example, in the millions or billions.
 ### Definition:
 ```python
 @property

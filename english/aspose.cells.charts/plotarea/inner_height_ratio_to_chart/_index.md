@@ -30,6 +30,7 @@ For excel 2007 or latter, the default value is zero. you should call get the val
 
  
 InnerHeight in Pixel = InnerXRatioToChart * chart.ChartObject.Width.
+Note: When InnerHeightRatioToChart is set, the IsInnerMode property will be automatically set to True.
 ### Definition:
 ```python
 @property

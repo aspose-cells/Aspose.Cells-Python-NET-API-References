@@ -3,7 +3,7 @@ title: is_text_wrapped property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 800
 url: /aspose.cells.drawing/picture/is_text_wrapped/
 is_root: false
 ---

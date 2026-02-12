@@ -29,7 +29,7 @@ def copy_rows(self, source_cells, source_row_index, destination_row_index, row_n
 | row_number | int | The copied row number. |
 
 
-## copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions}
+## copy_rows(self, source_cells, source_row_index, destination_row_index, row_number, copy_options) {#aspose.cells.Cells-int-int-int-aspose.cells.CopyOptions}
 
 Copies data and formats of some whole rows.
 
@@ -37,14 +37,14 @@ Copies data and formats of some whole rows.
 
 ```python
 
-def copy_rows(self, source_cells0, source_row_index, destination_row_index, row_number, copy_options):
+def copy_rows(self, source_cells, source_row_index, destination_row_index, row_number, copy_options):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells0 | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_row_index | int | Source row index. |
 | destination_row_index | int | Destination row index. |
 | row_number | int | The copied row number. |

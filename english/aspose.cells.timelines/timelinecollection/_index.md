@@ -10,8 +10,8 @@ is_root: false
 
 ## TimelineCollection class
 
-Specifies the collection of all the Timeline objects on the specified worksheet.
-Due to MS Excel, Excel 2003 does not support Timeline.
+Specifies the collection of all the [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline) objects on the worksheet.
+It was supported since Excel 2013.
 
 
 
@@ -96,3 +96,4 @@ book.save("out.xlsx")
 
 ### See Also
 * module [`aspose.cells.timelines`](..)
+* class [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline)

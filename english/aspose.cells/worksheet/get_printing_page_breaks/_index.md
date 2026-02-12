@@ -3,7 +3,7 @@ title: get_printing_page_breaks method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells/worksheet/get_printing_page_breaks/
 is_root: false
 ---

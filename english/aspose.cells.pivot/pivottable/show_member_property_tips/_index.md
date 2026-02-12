@@ -3,7 +3,7 @@ title: show_member_property_tips property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1080
 url: /aspose.cells.pivot/pivottable/show_member_property_tips/
 is_root: false
 ---

@@ -21,7 +21,12 @@ def place_in_cell(self):
 ```
 
 
+### Remarks
 
+NOTE: This member is now obsolete. 
+Instead,please use Picture.IsPlacedInCell property.
+This property will be removed 12 months later since January 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

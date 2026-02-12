@@ -33,7 +33,7 @@ def add(self, type):
 
 ## add(self, type, data_range, is_vertical, location_range) {#aspose.cells.charts.SparklineType-System.String-bool-aspose.cells.CellArea}
 
-Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) with [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) to the collection.
+Adds an [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) with some [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) to the collection.
 
 
 ### Returns 
@@ -55,7 +55,11 @@ def add(self, type, data_range, is_vertical, location_range):
 | data_range | System.String | Specifies the data range of the sparkline group. |
 | is_vertical | bool | Specifies whether to plot the sparklines from the data range by row or by column. |
 | location_range | aspose.cells.CellArea | Specifies where the sparklines to be placed. |
+### Remarks
 
+This method will create sparklines too.
+If `is_vertical` is true, the number of rows in dataRange and locationRange must be same.
+If `is_vertical` is false, the number of columns in dataRange and locationRange must be same.
 
 
 ### See Also

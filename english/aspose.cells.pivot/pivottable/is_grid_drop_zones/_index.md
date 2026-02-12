@@ -3,7 +3,7 @@ title: is_grid_drop_zones property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 720
 url: /aspose.cells.pivot/pivottable/is_grid_drop_zones/
 is_root: false
 ---

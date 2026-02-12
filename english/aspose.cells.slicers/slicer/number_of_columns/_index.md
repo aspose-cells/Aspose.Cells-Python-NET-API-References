@@ -11,7 +11,7 @@ is_root: false
 ## number_of_columns property
 
 
-Returns or sets the number of columns in the specified slicer. 
+Returns or sets the number of columns in the slicer. 
 The default value is 1.
 
 ### Example 

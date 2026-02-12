@@ -3,7 +3,7 @@ title: external_connection_data_source property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells.pivot/pivottable/external_connection_data_source/
 is_root: false
 ---

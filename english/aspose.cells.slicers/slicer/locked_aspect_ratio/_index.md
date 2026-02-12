@@ -17,7 +17,7 @@ Indicates whether locking aspect ratio.
 
 
 NOTE: This member is now obsolete. Instead, 
-please use [`Shape.is_lock_aspect_ratio`](/cells/python-net/aspose.cells.drawing/shape#is_lock_aspect_ratio) method. 
+please use [`Shape.is_aspect_ratio_locked`](/cells/python-net/aspose.cells.drawing/shape#is_aspect_ratio_locked) method. 
 This property will be removed 12 months later since January 2026. 
 Aspose apologizes for any inconvenience you may have experienced.
 

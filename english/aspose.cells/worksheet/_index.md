@@ -133,6 +133,7 @@ The Worksheet type exposes the following members:
 | [`remove(self)`](/cells/python-net/aspose.cells/worksheet/remove/#) | Remove current sheet (CELLSPYTHONNET-192,User requests to add this API) |
 | [`remove_all_drawing_objects(self)`](/cells/python-net/aspose.cells/worksheet/remove_all_drawing_objects/#) | Removes all drawing objects in this worksheet. |
 | [`clear_comments(self)`](/cells/python-net/aspose.cells/worksheet/clear_comments/#) | Clears all comments in designer spreadsheet. |
+| [`get_all_pictures(self)`](/cells/python-net/aspose.cells/worksheet/get_all_pictures/#) | Gets all pictures includes images are embedded in the cell and over the cells. |
 | [`move_to(self, index)`](/cells/python-net/aspose.cells/worksheet/move_to/#int) | Moves the sheet to another location in the spreadsheet. |
 | [`replace(self, old_string, new_string)`](/cells/python-net/aspose.cells/worksheet/replace/#system.string-system.string) | Replaces all cells' text with a new string. |
 | [`get_selected_ranges(self)`](/cells/python-net/aspose.cells/worksheet/get_selected_ranges/#) | Gets selected ranges of cells in the designer spreadsheet. |

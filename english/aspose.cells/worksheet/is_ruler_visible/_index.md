@@ -3,7 +3,7 @@ title: is_ruler_visible property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 660
 url: /aspose.cells/worksheet/is_ruler_visible/
 is_root: false
 ---

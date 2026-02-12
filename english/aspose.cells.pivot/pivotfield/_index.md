@@ -74,7 +74,7 @@ The PivotField type exposes the following members:
 | [`group_by(self, groups, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-float-bool) | Automatically group the field with internal |
 | [`group_by(self, start, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#system.datetime-system.datetime-list-float-bool) | Group the file by the date group types. |
 | [`group_by(self, is_auto_start, start, is_auto_end, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#bool-system.datetime-bool-system.datetime-list-float-bool) | Group the file by the date group types. |
-| [`group_by(self, start, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) |  |
+| [`group_by(self, start, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-float-float-bool) | Group the file by number. |
 | [`group_by(self, is_auto_start, start, is_auto_end, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#bool-float-bool-float-float-bool) | Group the file by number. |
 | [`group_by(self, custom_group_items, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
 | [`sort_by(self, sort_type, field_sorted_by)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int) | Sorts this pivot field. |

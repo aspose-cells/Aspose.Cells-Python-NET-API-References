@@ -3,7 +3,7 @@ title: is_protected property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /aspose.cells/worksheet/is_protected/
 is_root: false
 ---

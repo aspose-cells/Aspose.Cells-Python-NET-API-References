@@ -40,7 +40,7 @@ The Slicer type exposes the following members:
 | [first_item_index](/cells/python-net/aspose.cells.slicers/slicer/first_item_index) | Specifies the zero-based index of the first slicer item. |
 | [caption_visible](/cells/python-net/aspose.cells.slicers/slicer/caption_visible) | Returns or sets whether the header that displays the slicer Caption is visible.<br/>The default value is true |
 | [show_caption](/cells/python-net/aspose.cells.slicers/slicer/show_caption) | Indicates whether the header of the slicer is visible.<br/>The default value is true |
-| [number_of_columns](/cells/python-net/aspose.cells.slicers/slicer/number_of_columns) | Returns or sets the number of columns in the specified slicer. <br/>The default value is 1. |
+| [number_of_columns](/cells/python-net/aspose.cells.slicers/slicer/number_of_columns) | Returns or sets the number of columns in the slicer. <br/>The default value is 1. |
 | [left_pixel](/cells/python-net/aspose.cells.slicers/slicer/left_pixel) | Returns or sets the horizontal offset of slicer shape from its left column, in pixels. |
 | [top_pixel](/cells/python-net/aspose.cells.slicers/slicer/top_pixel) | Returns or sets the vertical offset of slicer shape from its top row, in pixels. |
 | [width](/cells/python-net/aspose.cells.slicers/slicer/width) | Returns or sets the width of the specified slicer, in points. |

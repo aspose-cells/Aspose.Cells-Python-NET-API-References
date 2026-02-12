@@ -3,7 +3,7 @@ title: get_horizontal_page_breaks method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /aspose.cells.pivot/pivottable/get_horizontal_page_breaks/
 is_root: false
 ---

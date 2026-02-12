@@ -3,7 +3,7 @@ title: tab_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 840
+weight: 850
 url: /aspose.cells/worksheet/tab_color/
 is_root: false
 ---

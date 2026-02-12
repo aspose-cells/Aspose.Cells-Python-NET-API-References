@@ -32,7 +32,7 @@ The FormatCondition type exposes the following members:
 | [top10](/cells/python-net/aspose.cells/formatcondition/top10) | Get the conditional formatting's "Top10" instance.<br/>The default instance's rule highlights cells whose<br/>values fall in the top 10 bracket.<br/>Valid only for type is Top10. |
 | [above_average](/cells/python-net/aspose.cells/formatcondition/above_average) | Get the conditional formatting's "AboveAverage" instance.<br/>The default instance's rule highlights cells that are <br/>above the average for all values in the range.<br/>Valid only for type = AboveAverage. |
 | [text](/cells/python-net/aspose.cells/formatcondition/text) | The text value in a "text contains" conditional formatting rule. <br/>Valid only for type = containsText, notContainsText, beginsWith and endsWith.<br/>The default value is null. |
-| [time_period](/cells/python-net/aspose.cells/formatcondition/time_period) | The applicable time period in a "date occurring…" conditional formatting rule. <br/>Valid only for type = timePeriod.<br/>The default value is TimePeriodType.Today. |
+| [time_period](/cells/python-net/aspose.cells/formatcondition/time_period) | The applicable time period in a "date occurrin" conditional formatting rule. <br/>Valid only for type is timePeriod.<br/>The default value is TimePeriodType.Today. |
 
 
 ### Methods

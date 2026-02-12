@@ -17,6 +17,7 @@ Represents if the display unit label is shown on the specified axis.
 
 
 The default value is True.
+Only works when [`Axis.display_unit`](/cells/python-net/aspose.cells.charts/axis#display_unit) is not [`DisplayUnitType.NONE`](/cells/python-net/aspose.cells.charts/displayunittype#NONE).
 ### Definition:
 ```python
 @property

@@ -20,7 +20,7 @@ The SeriesCollection type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [category_data](/cells/python-net/aspose.cells.charts/seriescollection/category_data) | Gets or sets the range of category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). |
-| [second_category_data](/cells/python-net/aspose.cells.charts/seriescollection/second_category_data) | Gets or sets the range of second category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). <br/>Only effects when some ASerieses plot on the second axis. |
+| [second_category_data](/cells/python-net/aspose.cells.charts/seriescollection/second_category_data) | Gets or sets the range of second category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). <br/>Only effects when some series were plotted on the second axis. |
 | [is_color_varied](/cells/python-net/aspose.cells.charts/seriescollection/is_color_varied) | Represents if the color of points is varied. |
 | [capacity](/cells/python-net/aspose.cells.charts/seriescollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
@@ -36,7 +36,7 @@ Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element at the
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, area, is_vertical)`](/cells/python-net/aspose.cells.charts/seriescollection/add/#system.string-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
+| [`add(self, data_area, is_vertical)`](/cells/python-net/aspose.cells.charts/seriescollection/add/#system.string-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [`add(self, area, is_vertical, check_labels)`](/cells/python-net/aspose.cells.charts/seriescollection/add/#system.string-bool-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.charts/seriescollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.charts/seriescollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |

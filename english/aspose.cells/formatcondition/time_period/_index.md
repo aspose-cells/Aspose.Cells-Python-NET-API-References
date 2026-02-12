@@ -11,8 +11,8 @@ is_root: false
 ## time_period property
 
 
-The applicable time period in a "date occurring…" conditional formatting rule. 
-Valid only for type = timePeriod.
+The applicable time period in a "date occurrin" conditional formatting rule. 
+Valid only for type is timePeriod.
 The default value is TimePeriodType.Today.
 ### Definition:
 ```python

@@ -12,6 +12,11 @@ is_root: false
 
 
 Represents if the color of points is varied.
+
+### Remarks 
+
+
+Only works for pie chart or when there is only one series.
 ### Definition:
 ```python
 @property

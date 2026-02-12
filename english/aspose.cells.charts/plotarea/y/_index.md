@@ -27,6 +27,9 @@ If you want to get actual size of plot area, you should call **InnerXRatioToChar
 
 
 For excel 2007 or latter, the default value is zero. you should call get the value after calling Chart.Calculate().
+
+ 
+Note: When Y is set, the IsInnerMode property will be automatically set to false.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: show_in_tabular_form method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /aspose.cells.pivot/pivottable/show_in_tabular_form/
 is_root: false
 ---

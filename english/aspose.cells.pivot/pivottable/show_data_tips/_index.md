@@ -3,7 +3,7 @@ title: show_data_tips property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1040
 url: /aspose.cells.pivot/pivottable/show_data_tips/
 is_root: false
 ---

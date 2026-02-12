@@ -3,7 +3,7 @@ title: indent property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 690
 url: /aspose.cells.pivot/pivottable/indent/
 is_root: false
 ---

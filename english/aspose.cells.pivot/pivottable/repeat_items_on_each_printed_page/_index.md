@@ -3,7 +3,7 @@ title: repeat_items_on_each_printed_page property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 970
 url: /aspose.cells.pivot/pivottable/repeat_items_on_each_printed_page/
 is_root: false
 ---

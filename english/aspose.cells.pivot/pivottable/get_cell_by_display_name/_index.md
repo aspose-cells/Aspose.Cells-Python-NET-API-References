@@ -3,7 +3,7 @@ title: get_cell_by_display_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.pivot/pivottable/get_cell_by_display_name/
 is_root: false
 ---

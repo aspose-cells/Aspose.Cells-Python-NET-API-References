@@ -14,7 +14,7 @@ is_root: false
 Gets or sets the range of second category Axis values. 
 It can be a range of cells (such as, "d1:e10"), 
 or a sequence of values (such as,"{2,6,8,10}"). 
-Only effects when some ASerieses plot on the second axis.
+Only effects when some series were plotted on the second axis.
 ### Definition:
 ```python
 @property

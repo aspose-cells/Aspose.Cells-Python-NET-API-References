@@ -8,28 +8,28 @@ url: /aspose.cells/cells/copy_columns/
 is_root: false
 ---
 
-## copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number) {#aspose.cells.Cells-int-int-int}
+## copy_columns(self, source_cells, source_column_index, destination_column_index, column_number) {#aspose.cells.Cells-int-int-int}
 
-Copies data and formats of a whole column.
+Copies data and formats of whole columns.
 
 
 
 ```python
 
-def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number):
+def copy_columns(self, source_cells, source_column_index, destination_column_index, column_number):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells0 | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 | column_number | int | The copied column number. |
 
 
-## copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions}
+## copy_columns(self, source_cells, source_column_index, destination_column_index, column_number, paste_options) {#aspose.cells.Cells-int-int-int-aspose.cells.PasteOptions}
 
 Copies data and formats of a whole column.
 
@@ -37,14 +37,14 @@ Copies data and formats of a whole column.
 
 ```python
 
-def copy_columns(self, source_cells0, source_column_index, destination_column_index, column_number, paste_options):
+def copy_columns(self, source_cells, source_column_index, destination_column_index, column_number, paste_options):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| source_cells0 | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
+| source_cells | aspose.cells.Cells | Source Cells object contains data and formats to copy. |
 | source_column_index | int | Source column index. |
 | destination_column_index | int | Destination column index. |
 | column_number | int | The copied column number. |

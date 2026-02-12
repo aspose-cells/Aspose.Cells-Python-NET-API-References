@@ -12,7 +12,7 @@ is_root: false
 
 
 Represents if the color of points is varied. 
-The chart must contain only one series.
+The chart must contain only one series or this chart is a pie chart.
 ### Definition:
 ```python
 @property

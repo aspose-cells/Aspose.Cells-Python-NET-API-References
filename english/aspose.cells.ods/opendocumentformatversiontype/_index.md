@@ -23,6 +23,7 @@ The OpenDocumentFormatVersionType type exposes the following members:
 | ODF11 | ODF Version 1.1 |
 | ODF12 | ODF Version 1.2 |
 | ODF13 | ODF Version 1.3 |
+| ODF14 | ODF Version 1.4 |
 
 
 

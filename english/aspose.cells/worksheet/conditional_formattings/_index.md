@@ -3,7 +3,7 @@ title: conditional_formattings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /aspose.cells/worksheet/conditional_formattings/
 is_root: false
 ---

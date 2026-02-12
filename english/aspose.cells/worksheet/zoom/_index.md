@@ -3,7 +3,7 @@ title: zoom property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 980
 url: /aspose.cells/worksheet/zoom/
 is_root: false
 ---

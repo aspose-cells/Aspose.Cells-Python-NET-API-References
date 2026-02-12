@@ -8,7 +8,7 @@ url: /aspose.cells.charts/seriescollection/add/
 is_root: false
 ---
 
-## add(self, area, is_vertical) {#System.String-bool}
+## add(self, data_area, is_vertical) {#System.String-bool}
 
 Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart.
 
@@ -21,15 +21,15 @@ Return the first index of the added ASeries in the NSeries.
 
 ```python
 
-def add(self, area, is_vertical):
+def add(self, data_area, is_vertical):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| area | System.String | Specifies values from which to plot the data series |
-| is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column. |
+| data_area | System.String | Specifies values from which to plot the data series |
+| is_vertical | bool | Specifies whether to plot the series from a range of cell values by row or by column.<br/>If true, [`Series`](/cells/python-net/aspose.cells.charts/series) will be added column by column |
 ### Remarks
 
 

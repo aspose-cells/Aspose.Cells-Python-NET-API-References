@@ -3,7 +3,7 @@ title: is_outline_shown property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells/worksheet/is_outline_shown/
 is_root: false
 ---

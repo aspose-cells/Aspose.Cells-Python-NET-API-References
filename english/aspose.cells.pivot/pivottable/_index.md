@@ -22,6 +22,7 @@ The PivotTable type exposes the following members:
 | [is_excel_2003_compatible](/cells/python-net/aspose.cells.pivot/pivottable/is_excel_2003_compatible) | Specifies whether the PivotTable is compatible for Excel2003 when refreshing PivotTable,<br/>if true, a string must be less than or equal to 255 characters, so if the string is greater than 255 characters,<br/>it will be truncated. if false, a string will not have the aforementioned restriction.<br/>The default value is true. |
 | [refreshed_by_who](/cells/python-net/aspose.cells.pivot/pivottable/refreshed_by_who) | Gets the name of the last user who refreshed this PivotTable |
 | [refresh_date](/cells/python-net/aspose.cells.pivot/pivottable/refresh_date) | Gets the last date time when the PivotTable was refreshed. |
+| [pivot_table_style](/cells/python-net/aspose.cells.pivot/pivottable/pivot_table_style) | Gets [`PivotTable.TableStyle`](/cells/python-net/aspose.cells.pivot/pivottable) settings of this pivot table. |
 | [pivot_table_style_name](/cells/python-net/aspose.cells.pivot/pivottable/pivot_table_style_name) | Gets and sets the pivottable style name. |
 | [pivot_table_style_type](/cells/python-net/aspose.cells.pivot/pivottable/pivot_table_style_type) | Gets and sets the built-in pivot table style. |
 | [column_fields](/cells/python-net/aspose.cells.pivot/pivottable/column_fields) | Returns a PivotFields object that are currently shown as column fields. |
@@ -32,6 +33,8 @@ The PivotTable type exposes the following members:
 | [values_field](/cells/python-net/aspose.cells.pivot/pivottable/values_field) | Gets a [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield) object that represents all the data fields in a PivotTable.<br/>Read-only.<br/>It would only be created when there are two or more data fields in the Data region.<br/>Defaultly it is in row region. You can drag it to the row/column region with PivotTable.AddFieldToArea() method . |
 | [base_fields](/cells/python-net/aspose.cells.pivot/pivottable/base_fields) | Returns all base pivot fields in the PivotTable. |
 | [pivot_filters](/cells/python-net/aspose.cells.pivot/pivottable/pivot_filters) | Returns all filters of pivot fields in the pivot table. |
+| [top_right_area](/cells/python-net/aspose.cells.pivot/pivottable/top_right_area) | Represents the blank area at the top-right of the PivotTable (top-left for RTL sheets). |
+| [filter_area](/cells/python-net/aspose.cells.pivot/pivottable/filter_area) | Gets the region of filter region. |
 | [column_range](/cells/python-net/aspose.cells.pivot/pivottable/column_range) | Returns a CellArea object that represents the range<br/>that contains the column area in the PivotTable report. Read-only. |
 | [row_range](/cells/python-net/aspose.cells.pivot/pivottable/row_range) | Returns a CellArea object that represents the range<br/>that contains the row area in the PivotTable report. Read-only. |
 | [data_body_range](/cells/python-net/aspose.cells.pivot/pivottable/data_body_range) | Returns a [`CellArea`](/cells/python-net/aspose.cells/cellarea) object that represents the range that contains the data area<br/>in the list between the header row and the insert row. Read-only. |
@@ -142,6 +145,7 @@ The PivotTable type exposes the following members:
 | [`show_report_filter_page_by_index(self, pos_index)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_index/#int) | Show all the report filter pages according to the position index in the PageFields |
 | [`get_fields(self, field_type)`](/cells/python-net/aspose.cells.pivot/pivottable/get_fields/#aspose.cells.pivot.pivotfieldtype) | Gets the specific pivot field list by the region. |
 | [`fields(self, field_type)`](/cells/python-net/aspose.cells.pivot/pivottable/fields/#aspose.cells.pivot.pivotfieldtype) | Gets the specific fields by the field type. |
+| [`get_button_area(self, axis_type)`](/cells/python-net/aspose.cells.pivot/pivottable/get_button_area/#aspose.cells.pivot.pivotfieldtype) | Gets the area contains field button. |
 | [`get_source_data_connections(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source_data_connections/#) | Gets the external connection data sources. |
 | [`get_names_of_source_data_connections(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_names_of_source_data_connections/#) | Gets the names of external source data connections. |
 | [`change_data_source(self, source)`](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Change data source of the pivottable. |

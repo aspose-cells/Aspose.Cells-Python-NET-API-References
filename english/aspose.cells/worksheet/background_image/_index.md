@@ -3,7 +3,7 @@ title: background_image property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 410
+weight: 420
 url: /aspose.cells/worksheet/background_image/
 is_root: false
 ---

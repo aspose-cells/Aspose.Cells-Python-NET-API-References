@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets and sets the custom maximum value for the vertical axis.
+
+### Remarks 
+
+
+If this property is set, [`SparklineGroup.vertical_axis_max_value_type`](/cells/python-net/aspose.cells.charts/sparklinegroup#vertical_axis_max_value_type) will be [`SparklineAxisMinMaxType.CUSTOM`](/cells/python-net/aspose.cells.charts/sparklineaxisminmaxtype#CUSTOM).
 ### Definition:
 ```python
 @property

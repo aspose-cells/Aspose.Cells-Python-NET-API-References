@@ -30,6 +30,7 @@ For excel 2007 or latter, the default value is zero. you should call get the val
 
  
 YPixel = YRatioToChart * chart.ChartObject.Width.
+Note: When YRatioToChart is set, the IsInnerMode property will be automatically set to false.
 ### Definition:
 ```python
 @property

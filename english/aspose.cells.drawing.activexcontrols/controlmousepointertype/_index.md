@@ -29,10 +29,10 @@ The ControlMousePointerType type exposes the following members:
 | SIZE_WE | Double arrow pointing west and east. |
 | UP_ARROW | Up arrow. |
 | HOUR_GLASS | Hourglass. |
-| NO_DROP | "Not” symbol (circle with a diagonal line) on top of the object being dragged. |
+| NO_DROP | "Not" symbol (circle with a diagonal line) on top of the object being dragged. |
 | APP_STARTING | Arrow with an hourglass. |
 | HELP | Arrow with a question mark. |
-| SIZE_ALL | "Size-all” cursor (arrows pointing north, south, east, and west). |
+| SIZE_ALL | "Size-all" cursor (arrows pointing north, south, east, and west). |
 | CUSTOM | Uses the icon specified by the MouseIcon property. |
 
 

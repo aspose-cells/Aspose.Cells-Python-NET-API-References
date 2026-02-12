@@ -3,7 +3,7 @@ title: get_source_data_connections method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells.pivot/pivottable/get_source_data_connections/
 is_root: false
 ---

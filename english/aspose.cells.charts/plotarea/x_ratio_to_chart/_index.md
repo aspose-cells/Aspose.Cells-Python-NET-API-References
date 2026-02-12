@@ -30,6 +30,7 @@ For excel 2007 or latter, the default value is zero. you should call get the val
 
  
 XPixel = XRatioToChart * chart.ChartObject.Width.
+Note: When XRatioToChart is set, the IsInnerMode property will be automatically set to false.
 ### Definition:
 ```python
 @property

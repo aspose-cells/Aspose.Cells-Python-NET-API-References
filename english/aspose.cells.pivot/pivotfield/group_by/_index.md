@@ -73,8 +73,13 @@ def group_by(self, groups, interval, new_field):
 
 ## group_by(self, start, end, interval, new_field) {#float-float-float-bool}
 
+Group the file by number.
 
 
+### Returns 
+
+
+False means this field could not be grouped by date time.
 
 
 ```python
@@ -86,10 +91,12 @@ def group_by(self, start, end, interval, new_field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| start | float |  |
-| end | float |  |
-| interval | float |  |
-| new_field | bool |  |
+| start | float | The start value |
+| end | float | The end of value |
+| interval | float | The interval |
+| new_field | bool | Indicates whether adding a new field to the pivottable |
+### Remarks
+
 
 
 ## group_by(self, start, end, groups, interval, first_as_new_field) {#System.DateTime-System.DateTime-list-float-bool}

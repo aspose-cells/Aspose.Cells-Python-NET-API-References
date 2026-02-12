@@ -125,6 +125,7 @@ The Picture type exposes the following members:
 | [geometry](/cells/python-net/aspose.cells.drawing/picture/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/picture/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/picture/is_decorative) | Indicates whether the object is decorative. |
+| [is_placed_in_cell](/cells/python-net/aspose.cells.drawing/picture/is_placed_in_cell) | Indicates whether to place the image in cell or over cells. |
 | [original_height](/cells/python-net/aspose.cells.drawing/picture/original_height) | Gets the original height of the picture. |
 | [original_width](/cells/python-net/aspose.cells.drawing/picture/original_width) | Gets the original width of the picture. |
 | [border_line_color](/cells/python-net/aspose.cells.drawing/picture/border_line_color) | Represents the Color of the border line of a picture. |
