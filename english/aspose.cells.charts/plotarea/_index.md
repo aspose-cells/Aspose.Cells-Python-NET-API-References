@@ -31,9 +31,9 @@ The PlotArea type exposes the following members:
 | [text_options](/cells/python-net/aspose.cells.charts/plotarea/text_options) | Gets and sets the options of the text. |
 | [font](/cells/python-net/aspose.cells.charts/plotarea/font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/plotarea/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
-| [background_mode](/cells/python-net/aspose.cells.charts/plotarea/background_mode) | Gets and sets the display mode of the background |
-| [background](/cells/python-net/aspose.cells.charts/plotarea/background) | Gets and sets the display mode of the background |
-| [is_automatic_size](/cells/python-net/aspose.cells.charts/plotarea/is_automatic_size) | Indicates whether the chart frame is automatic sized. |
+| [background_mode](/cells/python-net/aspose.cells.charts/plotarea/background_mode) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
+| [background](/cells/python-net/aspose.cells.charts/plotarea/background) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
+| [is_automatic_size](/cells/python-net/aspose.cells.charts/plotarea/is_automatic_size) | Indicates whether the plot area is automatic sized. |
 | [x](/cells/python-net/aspose.cells.charts/plotarea/x) | Gets or gets the x coordinate of the upper left corner of plot-area bounding box in units of 1/4000 of the chart area. |
 | [y](/cells/python-net/aspose.cells.charts/plotarea/y) | Gets or gets the y coordinate of the upper top corner  of plot-area bounding box in units of 1/4000 of the chart area. |
 | [height](/cells/python-net/aspose.cells.charts/plotarea/height) | Gets or sets the height of plot-area bounding box in units of 1/4000 of the chart area. |

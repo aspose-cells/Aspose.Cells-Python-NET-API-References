@@ -10,7 +10,7 @@ is_root: false
 
 ## JsonSaveOptions class
 
-Represents the options of saving the workbook as a json file.
+Represents the options of saving the workbook as a JSON file.
 
 
 
@@ -38,7 +38,7 @@ The JsonSaveOptions type exposes the following members:
 | [create_directory](/cells/python-net/aspose.cells/jsonsaveoptions/create_directory) | If true and the directory does not exist, the directory will be automatically created before saving the file. |
 | [sort_names](/cells/python-net/aspose.cells/jsonsaveoptions/sort_names) | Indicates whether sorting defined names before saving file. |
 | [sort_external_names](/cells/python-net/aspose.cells/jsonsaveoptions/sort_external_names) | Indicates whether sorting external defined names before saving file. |
-| [refresh_chart_cache](/cells/python-net/aspose.cells/jsonsaveoptions/refresh_chart_cache) | Indicates whether refreshing chart cache data |
+| [refresh_chart_cache](/cells/python-net/aspose.cells/jsonsaveoptions/refresh_chart_cache) | Indicates whether to cache the latest data of the chart. |
 | [warning_callback](/cells/python-net/aspose.cells/jsonsaveoptions/warning_callback) | Gets or sets warning callback. |
 | [check_excel_restriction](/cells/python-net/aspose.cells/jsonsaveoptions/check_excel_restriction) | Whether check restriction of excel file when user modify cells related objects.<br/>For example, excel does not allow inputting string value longer than 32K.<br/>When you input a value longer than 32K, it will be truncated. |
 | [update_smart_art](/cells/python-net/aspose.cells/jsonsaveoptions/update_smart_art) | Indicates whether updating smart art setting.<br/>The default value is false. |

@@ -10,7 +10,8 @@ is_root: false
 
 ## get_on_category_axis_point_x_px(self, index) {#int}
 
-Gets x-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart.
+Gets x-coordinate of the point on category axis after calls Chart.Calculate() method.
+Only applies to Area chart.
 
 
 

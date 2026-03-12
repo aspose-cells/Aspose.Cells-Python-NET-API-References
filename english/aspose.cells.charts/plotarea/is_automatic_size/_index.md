@@ -11,7 +11,12 @@ is_root: false
 ## is_automatic_size property
 
 
-Indicates whether the chart frame is automatic sized.
+Indicates whether the plot area is automatic sized.
+
+### Remarks 
+
+
+NOTE: When IsAutomaticSize is set to True, the values you manually set for Width and Height will be disabled.
 ### Definition:
 ```python
 @property

@@ -11,8 +11,12 @@ is_root: false
 ## has_3d_effect property
 
 
-True if the series has a three-dimensional appearance. 
-Applies only to bubble charts.
+True if the series has a three-dimensional appearance.
+
+### Remarks 
+
+
+Applies only to [`ChartType.BUBBLE`](/cells/python-net/aspose.cells.charts/charttype#BUBBLE) or [`ChartType.BUBBLE_3D`](/cells/python-net/aspose.cells.charts/charttype#BUBBLE_3D) charts.
 ### Definition:
 ```python
 @property

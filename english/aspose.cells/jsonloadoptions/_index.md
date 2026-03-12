@@ -10,7 +10,7 @@ is_root: false
 
 ## JsonLoadOptions class
 
-Represents the options of loading json files
+Represents the options of loading JSON files
 
 
 

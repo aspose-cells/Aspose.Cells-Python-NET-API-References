@@ -12,6 +12,11 @@ is_root: false
 
 
 Indicates whether the axis bins are automatic.
+
+### Remarks 
+
+
+If [`AxisBins.width`](/cells/python-net/aspose.cells.charts/axisbins#width) or [`AxisBins.count`](/cells/python-net/aspose.cells.charts/axisbins#count) is called, the value will be false.
 ### Definition:
 ```python
 @property

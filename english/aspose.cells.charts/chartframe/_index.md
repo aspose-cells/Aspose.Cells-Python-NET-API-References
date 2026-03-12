@@ -26,8 +26,8 @@ The ChartFrame type exposes the following members:
 | [text_options](/cells/python-net/aspose.cells.charts/chartframe/text_options) | Gets and sets the options of the text. |
 | [font](/cells/python-net/aspose.cells.charts/chartframe/font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/chartframe/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
-| [background_mode](/cells/python-net/aspose.cells.charts/chartframe/background_mode) | Gets and sets the display mode of the background |
-| [background](/cells/python-net/aspose.cells.charts/chartframe/background) | Gets and sets the display mode of the background |
+| [background_mode](/cells/python-net/aspose.cells.charts/chartframe/background_mode) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
+| [background](/cells/python-net/aspose.cells.charts/chartframe/background) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
 | [is_automatic_size](/cells/python-net/aspose.cells.charts/chartframe/is_automatic_size) | Indicates whether the chart frame is automatic sized. |
 | [x](/cells/python-net/aspose.cells.charts/chartframe/x) | Gets or sets the x coordinate of the upper left corner in units of 1/4000 of the chart area. |
 | [y](/cells/python-net/aspose.cells.charts/chartframe/y) | Gets or sets the y coordinate of the upper left corner in units of 1/4000 of the chart area. |

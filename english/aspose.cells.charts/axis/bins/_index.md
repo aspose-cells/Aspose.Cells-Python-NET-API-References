@@ -12,6 +12,11 @@ is_root: false
 
 
 Represents bins on a chart(Histogram/Pareto) axis
+
+### Remarks 
+
+
+Only for Histogram or Pareto chart.
 ### Definition:
 ```python
 @property

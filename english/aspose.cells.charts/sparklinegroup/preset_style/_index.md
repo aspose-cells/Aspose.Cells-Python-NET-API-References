@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets and sets the preset style type of the sparkline group.
+
+### Remarks 
+
+
+If this property is set,these properties: SeriesColor,NegativePointsColor,HorizontalAxisColor,MarkersColor,FirstPointColor,LastPointColor,HighPointColor,LowPointColor will be covered.
+So please set property first ,then set others.
 ### Definition:
 ```python
 @property

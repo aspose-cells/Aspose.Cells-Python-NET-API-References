@@ -40,6 +40,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`DrawObjectEnum`](/cells/python-net/aspose.cells.rendering/drawobjectenum) | Indicate Cell or Image of DrawObject. |
 | [`HtmlEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype) | Represents the embedded font type in html. |
 | [`HtmlLayoutMode`](/cells/python-net/aspose.cells.rendering/htmllayoutmode) | Represents the layout mode for HTML rendering. |
+| [`HtmlParagraphLayoutMode`](/cells/python-net/aspose.cells.rendering/htmlparagraphlayoutmode) | Specifies how HTML <p> elements are rendered when loading HTML. |
 | [`ImageBinarizationMethod`](/cells/python-net/aspose.cells.rendering/imagebinarizationmethod) | Specifies the method used to binarize image. |
 | [`PdfCompliance`](/cells/python-net/aspose.cells.rendering/pdfcompliance) | Allowing user to set PDF conversion's Compatibility |
 | [`PdfCompressionCore`](/cells/python-net/aspose.cells.rendering/pdfcompressioncore) | Specifies a type of compression applied to all content in the PDF file except images. |

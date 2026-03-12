@@ -40,7 +40,7 @@ The Series type exposes the following members:
 | [trend_lines](/cells/python-net/aspose.cells.charts/series/trend_lines) | Returns all the trendlines of this series. |
 | [smooth](/cells/python-net/aspose.cells.charts/series/smooth) | Represents curve smoothing. <br/>True if curve smoothing is turned on for the line chart or scatter chart.<br/>Applies only to line and scatter connected by lines charts. |
 | [shadow](/cells/python-net/aspose.cells.charts/series/shadow) | True if the series has a shadow. |
-| [has_3d_effect](/cells/python-net/aspose.cells.charts/series/has_3d_effect) | True if the series has a three-dimensional appearance. <br/>Applies only to bubble charts. |
+| [has_3d_effect](/cells/python-net/aspose.cells.charts/series/has_3d_effect) | True if the series has a three-dimensional appearance. |
 | [bar_3d_shape_type](/cells/python-net/aspose.cells.charts/series/bar_3d_shape_type) | Gets or sets the 3D shape type used with the 3-D bar or column chart. |
 | [data_labels](/cells/python-net/aspose.cells.charts/series/data_labels) | Represents the DataLabels object for the specified ASeries. |
 | [type](/cells/python-net/aspose.cells.charts/series/type) | Gets or sets a data series' type. |
@@ -72,7 +72,7 @@ The Series type exposes the following members:
 | [explosion](/cells/python-net/aspose.cells.charts/series/explosion) | The distance of an open pie slice from the center of the pie chart is expressed as a percentage of the pie diameter. |
 | [has_radar_axis_labels](/cells/python-net/aspose.cells.charts/series/has_radar_axis_labels) | True if a radar chart has category axis labels. Applies only to radar charts. |
 | [has_leader_lines](/cells/python-net/aspose.cells.charts/series/has_leader_lines) | True if the series has leader lines. |
-| [leader_lines](/cells/python-net/aspose.cells.charts/series/leader_lines) | Represents leader lines on a chart. Leader lines connect data labels to data points. <br/>This object isn’t a collection; there’s no object that represents a single leader line. |
+| [leader_lines](/cells/python-net/aspose.cells.charts/series/leader_lines) | Represents leader lines on a chart. Leader lines connect data labels to data points. <br/>This object isn't a collection; there's no object that represents a single leader line. |
 | [legend_entry](/cells/python-net/aspose.cells.charts/series/legend_entry) | Gets the legend entry according to this series. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/series/shape_properties) | Gets the [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the Series. |
 

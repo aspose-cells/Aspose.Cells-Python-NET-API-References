@@ -23,6 +23,12 @@ The TableStyle type exposes the following members:
 | [table_style_elements](/cells/python-net/aspose.cells.tables/tablestyle/table_style_elements) | Gets all elements of the table style. |
 
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [`create(, name, sheets)`](/cells/python-net/aspose.cells.tables/tablestyle/create/#system.string-aspose.cells.worksheetcollection) | Creates an empty table/pivot table style. |
+
+
 
 ### Example 
 

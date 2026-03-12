@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the text of data label.
+
+### Remarks 
+
+
+Only works when this is a data label of a chart point.
 ### Definition:
 ```python
 @property

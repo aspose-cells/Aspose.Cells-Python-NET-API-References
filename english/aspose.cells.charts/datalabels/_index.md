@@ -33,7 +33,7 @@ The DataLabels type exposes the following members:
 | [font](/cells/python-net/aspose.cells.charts/datalabels/font) | Gets the font of the DataLabels; |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/datalabels/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/datalabels/background_mode) | Gets and sets the display mode of the background |
-| [background](/cells/python-net/aspose.cells.charts/datalabels/background) | Gets and sets the display mode of the background |
+| [background](/cells/python-net/aspose.cells.charts/datalabels/background) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
 | [is_automatic_size](/cells/python-net/aspose.cells.charts/datalabels/is_automatic_size) | Indicates whether the chart frame is automatic sized. |
 | [x](/cells/python-net/aspose.cells.charts/datalabels/x) | Gets or sets the x coordinate of the upper left corner in units of 1/4000 of the chart area. |
 | [y](/cells/python-net/aspose.cells.charts/datalabels/y) | Gets or sets the y coordinate of the upper left corner in units of 1/4000 of the chart area. |
@@ -84,7 +84,7 @@ The DataLabels type exposes the following members:
 | [separator_type](/cells/python-net/aspose.cells.charts/datalabels/separator_type) | Gets or sets the separator type used for the data labels on a chart. |
 | [separator_value](/cells/python-net/aspose.cells.charts/datalabels/separator_value) | Gets or sets the separator value used for the data labels on a chart. |
 | [position](/cells/python-net/aspose.cells.charts/datalabels/position) | Represents the position of the data label. |
-| [is_never_overlap](/cells/python-net/aspose.cells.charts/datalabels/is_never_overlap) | Indicates whether the datalabels display never overlap. (For Pie chart) |
+| [is_never_overlap](/cells/python-net/aspose.cells.charts/datalabels/is_never_overlap) | Indicates whether datalabels never overlap when performing Pie Chart to image. <br/>Note: this property is only meaningful when Pie Chart to image. |
 | [shape_type](/cells/python-net/aspose.cells.charts/datalabels/shape_type) | Gets or sets  shape type of data label. |
 
 

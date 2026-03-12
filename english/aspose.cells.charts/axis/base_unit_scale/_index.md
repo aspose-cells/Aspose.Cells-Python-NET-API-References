@@ -16,7 +16,7 @@ Represents the base unit scale for the category axis.
 ### Remarks 
 
 
-Setting this property only takes effect when the CategoryType property is set to TimeScale.
+Only takes effect when the CategoryType property is set to TimeScale.
 ### Definition:
 ```python
 @property

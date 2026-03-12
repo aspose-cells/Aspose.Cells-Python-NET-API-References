@@ -11,7 +11,7 @@ is_root: false
 ## calculation_mode property
 
 
-Gets or sets the mode for workbook calculation in ms excel.
+Gets or sets the mode for workbook calculation in MS Excel.
 
 ### Remarks 
 

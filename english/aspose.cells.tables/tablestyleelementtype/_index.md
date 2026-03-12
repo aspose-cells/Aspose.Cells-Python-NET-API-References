@@ -47,8 +47,10 @@ The TableStyleElementType type exposes the following members:
 | THIRD_ROW_SUBHEADING | Table style element that applies to PivotTable's third row subheading. |
 | THIRD_SUBTOTAL_COLUMN | Table style element that applies to pivot table's third subtotal column. |
 | THIRD_SUBTOTAL_ROW | Table style element that applies to PivotTable's third subtotal row. |
-| TOTAL_ROW | Table style element that applies to table's total row. |
+| TOTAL_ROW | Table style element that applies to Table's total row. |
 | WHOLE_TABLE | Table style element that applies to table's entire content. |
+| GRAND_TOTAL_COLUMN_HEADER | Table style element that applies to pivot table's header of grand total column. |
+| GRAND_TOTAL_ROW_HEADER | Table style element that applies to pivot table's header of grand total row. |
 
 
 

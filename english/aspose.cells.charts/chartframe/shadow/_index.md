@@ -12,6 +12,11 @@ is_root: false
 
 
 True if the frame has a shadow.
+
+### Remarks 
+
+
+Only for charts in xls file.
 ### Definition:
 ```python
 @property

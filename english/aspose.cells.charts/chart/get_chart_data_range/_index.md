@@ -29,6 +29,7 @@ def get_chart_data_range(self):
 ### Remarks
 
 Only supports range.
+If the Series.Values, Name, and XValues are in a continuous range, a range contains them will be returned.
 
 
 ### See Also

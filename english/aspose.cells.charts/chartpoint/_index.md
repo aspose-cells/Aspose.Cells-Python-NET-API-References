@@ -65,7 +65,7 @@ The ChartPoint type exposes the following members:
 | [`get_bottom_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Gets x-coordinate of the bottom point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
 | [`get_bottom_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Gets y-coordinate of the bottom point of shape  after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
 | [`get_on_category_axis_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart. |
-| [`get_on_category_axis_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Gets x-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
+| [`get_on_category_axis_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Gets x-coordinate of the point on category axis after calls Chart.Calculate() method.<br/>Only applies to Area chart. |
 | [`get_on_category_axis_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Gets y-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
 
 

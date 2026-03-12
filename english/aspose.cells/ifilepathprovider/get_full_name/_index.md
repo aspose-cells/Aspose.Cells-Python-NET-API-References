@@ -10,7 +10,7 @@ is_root: false
 
 ## get_full_name(self, sheet_name) {#System.String}
 
-Gets the full path of the file by Worksheet name when exporting Worksheet to html separately.
+Gets the full path of the file by Worksheet name when exporting Worksheet to HTML separately.
 So the references among the Worksheets can be exported correctly.
 
 
