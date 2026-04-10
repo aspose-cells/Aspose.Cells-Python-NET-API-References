@@ -33,9 +33,9 @@ The PlotArea type exposes the following members:
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/plotarea/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/plotarea/background_mode) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
 | [background](/cells/python-net/aspose.cells.charts/plotarea/background) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
-| [is_automatic_size](/cells/python-net/aspose.cells.charts/plotarea/is_automatic_size) | Indicates whether the plot area is automatic sized. |
-| [x](/cells/python-net/aspose.cells.charts/plotarea/x) | Gets or gets the x coordinate of the upper left corner of plot-area bounding box in units of 1/4000 of the chart area. |
-| [y](/cells/python-net/aspose.cells.charts/plotarea/y) | Gets or gets the y coordinate of the upper top corner  of plot-area bounding box in units of 1/4000 of the chart area. |
+| [is_automatic_size](/cells/python-net/aspose.cells.charts/plotarea/is_automatic_size) | Indicates whether the plot area is automatically sized. |
+| [x](/cells/python-net/aspose.cells.charts/plotarea/x) | Gets or sets the x coordinate of the upper left corner of the plot-area bounding box in units of 1/4000 of the chart area. |
+| [y](/cells/python-net/aspose.cells.charts/plotarea/y) | Gets or sets the y coordinate of the upper top corner of the plot-area bounding box in units of 1/4000 of the chart area. |
 | [height](/cells/python-net/aspose.cells.charts/plotarea/height) | Gets or sets the height of plot-area bounding box in units of 1/4000 of the chart area. |
 | [width](/cells/python-net/aspose.cells.charts/plotarea/width) | Gets or sets the width of plot-area bounding box in units of 1/4000 of the chart area. |
 | [shadow](/cells/python-net/aspose.cells.charts/plotarea/shadow) | True if the frame has a shadow. |
@@ -49,28 +49,28 @@ The PlotArea type exposes the following members:
 | [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/default_y_ratio_to_chart) | Represents y of default position in units of Fraction of the chart area. |
 | [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
 | [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/default_height_ratio_to_chart) | Represents height of default position in units of Fraction of the chart area. |
-| [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/x_ratio_to_chart) | Gets or gets the x coordinate of the upper left corner of plot-area bounding box in units of ratio of the chart area. |
-| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/y_ratio_to_chart) | Gets or gets the y coordinate of the upper top corner  of plot-area bounding box in units of ratio of the chart area. |
-| [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/width_ratio_to_chart) | Gets or sets the width of plot-area bounding box in units of ratio of the chart area. |
-| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/height_ratio_to_chart) | Gets or sets the height of plot-area bounding box in units of ratio of the chart area. |
+| [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner of the plot area bounding box as a ratio of the chart area. |
+| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/y_ratio_to_chart) | Gets or sets the y coordinate of the upper top corner of the plot-area bounding box as a ratio of the chart area. |
+| [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/width_ratio_to_chart) | Gets or sets the width of plot-area bounding box in units of the ratio of the chart area. |
+| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/height_ratio_to_chart) | Gets or sets the height of the plot-area bounding box in units of the ratio of the chart area. |
 | [x_pixel](/cells/python-net/aspose.cells.charts/plotarea/x_pixel) | Gets or sets the x coordinate of the upper left corner in units of Pixel. |
 | [y_pixel](/cells/python-net/aspose.cells.charts/plotarea/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of Pixel. |
 | [width_pixel](/cells/python-net/aspose.cells.charts/plotarea/width_pixel) | Gets or sets the width of frame in units of Pixel. |
 | [height_pixel](/cells/python-net/aspose.cells.charts/plotarea/height_pixel) | Gets or sets the height of frame in units of Pixel. |
-| [inner_x](/cells/python-net/aspose.cells.charts/plotarea/inner_x) | Gets or gets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area. |
-| [inner_y](/cells/python-net/aspose.cells.charts/plotarea/inner_y) | Gets or gets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area. |
-| [inner_height](/cells/python-net/aspose.cells.charts/plotarea/inner_height) | Gets or sets the height of plot area in units of 1/4000 of the chart area. |
+| [inner_x](/cells/python-net/aspose.cells.charts/plotarea/inner_x) | Gets or sets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area. |
+| [inner_y](/cells/python-net/aspose.cells.charts/plotarea/inner_y) | Gets or sets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area. |
+| [inner_height](/cells/python-net/aspose.cells.charts/plotarea/inner_height) | Gets or sets the height of the plot area in units of 1/4000 of the chart area. |
 | [inner_width](/cells/python-net/aspose.cells.charts/plotarea/inner_width) | Gets or sets the width  of plot area in units of 1/4000 of the chart area. |
-| [inner_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_x_ratio_to_chart) | Gets or gets the x coordinate of the upper top corner of plot area in units of ratio of the chart area. |
-| [inner_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_y_ratio_to_chart) | Gets or gets the x coordinate of the upper top corner of plot area in units of ratio of the chart area. |
+| [inner_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_x_ratio_to_chart) | Gets or gets the x coordinate of the upper top corner of plot area in units of the ratio of the chart area. |
+| [inner_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_y_ratio_to_chart) | Gets or gets the x coordinate of the upper top corner of plot area in units of the ratio of the chart area. |
 | [inner_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_height_ratio_to_chart) | Gets or sets the height of plot area in units of ratio of the chart area. |
-| [inner_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_width_ratio_to_chart) | Gets or sets the width  of plot area in units of ratio of the chart area. |
+| [inner_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/plotarea/inner_width_ratio_to_chart) | Gets or sets the width of the plot area in units of the ratio of the chart area. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`set_position_auto(self)`](/cells/python-net/aspose.cells.charts/plotarea/set_position_auto/#) | Set position of the plot area to automatic |
+| [`set_position_auto(self)`](/cells/python-net/aspose.cells.charts/plotarea/set_position_auto/#) | Set the position of the plot area to automatic |
 
 
 

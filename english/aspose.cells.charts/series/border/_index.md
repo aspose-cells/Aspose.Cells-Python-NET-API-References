@@ -11,7 +11,7 @@ is_root: false
 ## border property
 
 
-Represents border of Series object.
+Represents the border of a Series object.
 ### Definition:
 ```python
 @property

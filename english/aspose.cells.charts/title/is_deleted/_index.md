@@ -11,7 +11,7 @@ is_root: false
 ## is_deleted property
 
 
-Indicates whether this data labels is deleted.
+Indicates whether this data labels are deleted.
 ### Definition:
 ```python
 @property

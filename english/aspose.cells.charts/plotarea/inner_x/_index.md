@@ -11,7 +11,7 @@ is_root: false
 ## inner_x property
 
 
-Gets or gets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area.
+Gets or sets the x coordinate of the upper top corner of plot area in units of 1/4000 of the chart area.
 
 ### Remarks 
 

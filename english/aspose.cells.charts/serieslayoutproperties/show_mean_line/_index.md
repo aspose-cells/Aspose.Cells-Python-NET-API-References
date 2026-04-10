@@ -11,7 +11,12 @@ is_root: false
 ## show_mean_line property
 
 
-Indicates whether showing the line connecting all mean points.
+Indicates whether to show the line connecting all mean points.
+
+### Remarks 
+
+
+Only works for BoxWhisker chart.
 ### Definition:
 ```python
 @property

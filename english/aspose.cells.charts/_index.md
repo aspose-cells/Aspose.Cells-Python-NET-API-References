@@ -8,7 +8,7 @@ url: /aspose.cells.charts/
 is_root: false
 ---
 
-The **Aspose.Cells.Charts**  namespace provides classes that allow to access and drawing charts and sparkline in Microsoft Excel spreadsheets.
+The <b>Aspose.Cells.Charts</b> namespace provides classes that allow access to and drawing of charts and sparkline in Microsoft Excel spreadsheets.
 
 ### Classes
 | Class | Description |
@@ -17,12 +17,12 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins) | Represents axis bins |
 | [`Chart`](/cells/python-net/aspose.cells.charts/chart) | Encapsulates the object that represents a single Excel chart. |
 | [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) | Encapsulates the object that represents the chart area in the worksheet. |
-| [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating chart. |
+| [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating the chart. |
 | [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection) | Encapsulates a collection of [`Chart`](/cells/python-net/aspose.cells.charts/chart) objects. |
 | [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable) | Represents a chart data table. |
 | [`ChartDataValue`](/cells/python-net/aspose.cells.charts/chartdatavalue) | Encapsulates chart data value |
 | [`ChartFrame`](/cells/python-net/aspose.cells.charts/chartframe) | Encapsulates the object that represents the frame object in a chart. |
-| [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings) | Represents the globalization settings for chart. |
+| [`ChartGlobalizationSettings`](/cells/python-net/aspose.cells.charts/chartglobalizationsettings) | Represents the globalization settings for a chart. |
 | [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) | Represents a single point in a series in a chart. |
 | [`ChartPointCollection`](/cells/python-net/aspose.cells.charts/chartpointcollection) | Represents a collection that contains all the points in one series. |
 | [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) | Encapsulates the object that represents the frame object which contains text. |
@@ -42,7 +42,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`SeriesLayoutProperties`](/cells/python-net/aspose.cells.charts/serieslayoutproperties) | Represents the properties of series layout. |
 | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) | A sparkline represents a tiny chart or graphic in a worksheet cell that provides a visual representation of data. |
 | [`SparklineCollection`](/cells/python-net/aspose.cells.charts/sparklinecollection) | Encapsulates a collection of [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) objects. |
-| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
+| [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) | [`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into a sparkline group.<br/>A SparklineGroup contains a variable number of sparkline items.<br/>A sparkline group specifies the type, display settings and axis settings for the sparklines. |
 | [`SparklineGroupCollection`](/cells/python-net/aspose.cells.charts/sparklinegroupcollection) | Encapsulates a collection of [`SparklineGroup`](/cells/python-net/aspose.cells.charts/sparklinegroup) objects. |
 | [`TickLabelItem`](/cells/python-net/aspose.cells.charts/ticklabelitem) | Represents a tick label in the chart. |
 | [`TickLabels`](/cells/python-net/aspose.cells.charts/ticklabels) | Represents the tick-mark labels associated with tick marks on a chart axis. |
@@ -60,7 +60,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`Bar3DShapeType`](/cells/python-net/aspose.cells.charts/bar3dshapetype) | Represents the shape used with the 3-D bar or column chart. |
 | [`BubbleSizeRepresents`](/cells/python-net/aspose.cells.charts/bubblesizerepresents) | Represents what the bubble size represents on a bubble chart. |
 | [`CategoryType`](/cells/python-net/aspose.cells.charts/categorytype) | Represents the category axis type. |
-| [`ChartColorPaletteType`](/cells/python-net/aspose.cells.charts/chartcolorpalettetype) | Enumerates all Monochromatic Palettes used in Excel chart. |
+| [`ChartColorPaletteType`](/cells/python-net/aspose.cells.charts/chartcolorpalettetype) | Enumerates all Monochromatic Palettes used in an Excel chart. |
 | [`ChartLineFormattingType`](/cells/python-net/aspose.cells.charts/chartlineformattingtype) | Represents line format type of chart line. |
 | [`ChartMarkerType`](/cells/python-net/aspose.cells.charts/chartmarkertype) | Represents the marker style in a line chart, scatter chart, or radar chart. |
 | [`ChartSplitType`](/cells/python-net/aspose.cells.charts/chartsplittype) | Represents the way the two sections of either a pie of pie chart or a bar of pie chart are split. |
@@ -75,7 +75,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow to access and
 | [`LabelPositionType`](/cells/python-net/aspose.cells.charts/labelpositiontype) | Represents data label position type. |
 | [`LegendPositionType`](/cells/python-net/aspose.cells.charts/legendpositiontype) | Enumerates the legend position types. |
 | [`MapChartLabelLayout`](/cells/python-net/aspose.cells.charts/mapchartlabellayout) | Represents the layout of map chart's labels. |
-| [`MapChartProjectionType`](/cells/python-net/aspose.cells.charts/mapchartprojectiontype) | Represents projection type of the map chart. |
+| [`MapChartProjectionType`](/cells/python-net/aspose.cells.charts/mapchartprojectiontype) | Represents the projection type of the map chart. |
 | [`MapChartRegionType`](/cells/python-net/aspose.cells.charts/mapchartregiontype) | Represents the region type of the map chart. |
 | [`PlotDataByType`](/cells/python-net/aspose.cells.charts/plotdatabytype) | Represents the type of data plot by row or column. |
 | [`PlotEmptyCellsType`](/cells/python-net/aspose.cells.charts/plotemptycellstype) | Represents all plot empty cells type of a chart. |

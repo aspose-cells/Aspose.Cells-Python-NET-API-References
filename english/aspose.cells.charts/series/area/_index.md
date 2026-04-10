@@ -11,7 +11,7 @@ is_root: false
 ## area property
 
 
-Represents the background area of Series object.
+Represents the background area of the Series object.
 ### Definition:
 ```python
 @property

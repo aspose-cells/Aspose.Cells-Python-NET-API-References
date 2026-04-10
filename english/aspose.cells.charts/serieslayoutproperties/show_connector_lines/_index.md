@@ -11,7 +11,12 @@ is_root: false
 ## show_connector_lines property
 
 
-Indicates whether showing connector lines between data points.
+Indicates whether connector lines are shown between data points.
+
+### Remarks 
+
+
+Only for Waterfall chart.
 ### Definition:
 ```python
 @property

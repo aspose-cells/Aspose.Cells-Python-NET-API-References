@@ -16,8 +16,9 @@ Represents the X values of this chart series.
 ### Remarks 
 
 
-To get the actual values(corresponding to every point of this series) defined
-by this property, please use [`Series.category_values`](/cells/python-net/aspose.cells.charts/series#category_values).
+Only for Scatter and Bubble chart.
+Please use [`SeriesCollection.category_data`](/cells/python-net/aspose.cells.charts/seriescollection#category_data) for other types of charts
+[`Series.category_values`](/cells/python-net/aspose.cells.charts/series#category_values) is used to get the actual category values of this series.
 ### Definition:
 ```python
 @property

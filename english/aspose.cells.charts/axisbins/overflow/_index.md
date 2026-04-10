@@ -11,7 +11,7 @@ is_root: false
 ## overflow property
 
 
-Gets or set the overflow of axis bins
+Gets or sets the overflow of axis bins
 ### Definition:
 ```python
 @property

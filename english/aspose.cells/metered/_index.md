@@ -38,14 +38,5 @@ The Metered type exposes the following members:
 
 In this example, an attempt will be made to set metered public and private key
 
-
-```python
-from aspose.cells import Metered
-
-matered = Metered()
-matered.set_metered_key("PublicKey", "PrivateKey")
-
-```
-
 ### See Also
 * module [`aspose.cells`](..)

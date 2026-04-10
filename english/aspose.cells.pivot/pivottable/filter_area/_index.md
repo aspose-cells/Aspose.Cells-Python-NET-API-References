@@ -11,12 +11,13 @@ is_root: false
 ## filter_area property
 
 
-Gets the region of filter region.
+Gets the area of filter region.
 
 ### Remarks 
 
 
 Only valid if filter pivot fields exists.
+An empty area will be returned if this pivot table does not contains filter pivot fields
 ### Definition:
 ```python
 @property

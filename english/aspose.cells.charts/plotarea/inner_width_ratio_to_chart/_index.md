@@ -11,7 +11,7 @@ is_root: false
 ## inner_width_ratio_to_chart property
 
 
-Gets or sets the width  of plot area in units of ratio of the chart area.
+Gets or sets the width of the plot area in units of the ratio of the chart area.
 
 ### Remarks 
 

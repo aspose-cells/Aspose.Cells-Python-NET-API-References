@@ -11,7 +11,7 @@ is_root: false
 ## height_ratio_to_chart property
 
 
-Gets or sets the height of plot-area bounding box in units of ratio of the chart area.
+Gets or sets the height of the plot-area bounding box in units of the ratio of the chart area.
 
 ### Remarks 
 

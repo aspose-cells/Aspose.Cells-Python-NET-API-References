@@ -10,7 +10,7 @@ is_root: false
 
 ## clear_sparklines(self, cell_area) {#aspose.cells.CellArea}
 
-Clears the sparklines that is inside an area of cells.
+Clears the sparklines that are inside an area of cells.
 
 
 

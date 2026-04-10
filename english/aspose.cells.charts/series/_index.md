@@ -19,11 +19,11 @@ The Series type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [is_filtered](/cells/python-net/aspose.cells.charts/series/is_filtered) | Indicates whether the series is selected or filtered.True represents this series is filtered, and it will not be displayed on the chart. |
+| [is_filtered](/cells/python-net/aspose.cells.charts/series/is_filtered) | Indicates whether the series is selected or filtered.<br/>True represents that this series is filtered, and it will not be displayed on the chart. |
 | [layout_properties](/cells/python-net/aspose.cells.charts/series/layout_properties) | Represents the properties of layout. |
 | [points](/cells/python-net/aspose.cells.charts/series/points) | Gets the collection of points in a series in a chart. |
-| [area](/cells/python-net/aspose.cells.charts/series/area) | Represents the background area of Series object. |
-| [border](/cells/python-net/aspose.cells.charts/series/border) | Represents border of Series object. |
+| [area](/cells/python-net/aspose.cells.charts/series/area) | Represents the background area of the Series object. |
+| [border](/cells/python-net/aspose.cells.charts/series/border) | Represents the border of a Series object. |
 | [name](/cells/python-net/aspose.cells.charts/series/name) | Gets or sets the name of the data series. |
 | [display_name](/cells/python-net/aspose.cells.charts/series/display_name) | Gets the series's name that displays on the chart graph. |
 | [count_of_data_values](/cells/python-net/aspose.cells.charts/series/count_of_data_values) | Gets the number of the data values. |
@@ -33,8 +33,8 @@ The Series type exposes the following members:
 | [cached_category_values](/cells/python-net/aspose.cells.charts/series/cached_category_values) | Gets the cached category values for the series |
 | [point_values](/cells/python-net/aspose.cells.charts/series/point_values) | Gets the actual values that are used to plot every point<br/>of this series in the chart. |
 | [category_values](/cells/python-net/aspose.cells.charts/series/category_values) | Gets the actual category values that are used to plot every point<br/>of this series in the chart. |
-| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values's NumberList. |
-| [x_values_format_code](/cells/python-net/aspose.cells.charts/series/x_values_format_code) | Represents format code of X Values's NumberList. |
+| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values' NumberList. |
+| [x_values_format_code](/cells/python-net/aspose.cells.charts/series/x_values_format_code) | Represents format code of X Values' NumberList. |
 | [x_values](/cells/python-net/aspose.cells.charts/series/x_values) | Represents the X values of this chart series. |
 | [bubble_sizes](/cells/python-net/aspose.cells.charts/series/bubble_sizes) | Gets or sets the bubble sizes values of the chart series. |
 | [trend_lines](/cells/python-net/aspose.cells.charts/series/trend_lines) | Returns all the trendlines of this series. |

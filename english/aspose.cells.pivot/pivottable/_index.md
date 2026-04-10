@@ -34,7 +34,7 @@ The PivotTable type exposes the following members:
 | [base_fields](/cells/python-net/aspose.cells.pivot/pivottable/base_fields) | Returns all base pivot fields in the PivotTable. |
 | [pivot_filters](/cells/python-net/aspose.cells.pivot/pivottable/pivot_filters) | Returns all filters of pivot fields in the pivot table. |
 | [top_right_area](/cells/python-net/aspose.cells.pivot/pivottable/top_right_area) | Represents the blank area at the top-right of the PivotTable (top-left for RTL sheets). |
-| [filter_area](/cells/python-net/aspose.cells.pivot/pivottable/filter_area) | Gets the region of filter region. |
+| [filter_area](/cells/python-net/aspose.cells.pivot/pivottable/filter_area) | Gets the area of filter region. |
 | [column_range](/cells/python-net/aspose.cells.pivot/pivottable/column_range) | Returns a CellArea object that represents the range<br/>that contains the column area in the PivotTable report. Read-only. |
 | [row_range](/cells/python-net/aspose.cells.pivot/pivottable/row_range) | Returns a CellArea object that represents the range<br/>that contains the row area in the PivotTable report. Read-only. |
 | [data_body_range](/cells/python-net/aspose.cells.pivot/pivottable/data_body_range) | Returns a [`CellArea`](/cells/python-net/aspose.cells/cellarea) object that represents the range that contains the data area<br/>in the list between the header row and the insert row. Read-only. |

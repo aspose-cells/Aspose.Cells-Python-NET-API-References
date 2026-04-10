@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets and sets the region type of the map.
+
+### Remarks 
+
+
+Only for map chart.
 ### Definition:
 ```python
 @property

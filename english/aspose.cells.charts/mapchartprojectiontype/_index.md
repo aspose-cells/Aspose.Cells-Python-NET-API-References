@@ -10,7 +10,7 @@ is_root: false
 
 ## MapChartProjectionType enumeration
 
-Represents projection type of the map chart.
+Represents the projection type of the map chart.
 
 
 

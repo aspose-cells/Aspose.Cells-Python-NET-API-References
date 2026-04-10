@@ -21,8 +21,8 @@ The ChartTextDirectionType type exposes the following members:
 | :- | :- |
 | HORIZONTAL | Horizontal direction type. |
 | VERTICAL | Vertical direction type. |
-| ROTATE90 | Rotate 90 angle. |
-| ROTATE270 | Rotate 270 angle. |
+| ROTATE90 | Rotate 90-degree angle. |
+| ROTATE270 | Rotate 270-degree angle. |
 | STACKED | Stacked text. |
 
 

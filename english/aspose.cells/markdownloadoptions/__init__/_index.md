@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self) {#}
 
-Creates an options of loading the file.
+Creates new text load options
 
 
 

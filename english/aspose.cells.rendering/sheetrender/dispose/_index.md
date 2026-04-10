@@ -3,7 +3,7 @@ title: dispose method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /aspose.cells.rendering/sheetrender/dispose/
 is_root: false
 ---

@@ -10,7 +10,7 @@ is_root: false
 
 ## set_position_auto(self) {#}
 
-Set position of the plot area to automatic
+Set the position of the plot area to automatic
 
 
 

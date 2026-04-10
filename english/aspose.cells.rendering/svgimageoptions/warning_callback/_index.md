@@ -3,7 +3,7 @@ title: warning_callback property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 410
 url: /aspose.cells.rendering/svgimageoptions/warning_callback/
 is_root: false
 ---

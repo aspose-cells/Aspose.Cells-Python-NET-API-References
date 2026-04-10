@@ -3,7 +3,7 @@ title: css_prefix property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /aspose.cells.rendering/svgimageoptions/css_prefix/
 is_root: false
 ---

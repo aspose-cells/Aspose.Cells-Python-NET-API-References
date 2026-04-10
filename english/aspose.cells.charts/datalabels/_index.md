@@ -59,10 +59,10 @@ The DataLabels type exposes the following members:
 | [width_pixel](/cells/python-net/aspose.cells.charts/datalabels/width_pixel) | Gets or sets the width of frame in units of Pixel. |
 | [height_pixel](/cells/python-net/aspose.cells.charts/datalabels/height_pixel) | Gets or sets the height of frame in units of Pixel. |
 | [is_auto_text](/cells/python-net/aspose.cells.charts/datalabels/is_auto_text) | Indicates the text is auto generated. |
-| [is_deleted](/cells/python-net/aspose.cells.charts/datalabels/is_deleted) | Indicates whether this data labels is deleted. |
+| [is_deleted](/cells/python-net/aspose.cells.charts/datalabels/is_deleted) | Indicates whether this data labels are deleted. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.charts/datalabels/text_horizontal_alignment) | Gets and sets the text horizontal alignment. |
 | [text_vertical_alignment](/cells/python-net/aspose.cells.charts/datalabels/text_vertical_alignment) | Gets or sets the text vertical alignment of text. |
-| [rotation_angle](/cells/python-net/aspose.cells.charts/datalabels/rotation_angle) | Represents text rotation angle. |
+| [rotation_angle](/cells/python-net/aspose.cells.charts/datalabels/rotation_angle) | Represents the text rotation angle. |
 | [is_automatic_rotation](/cells/python-net/aspose.cells.charts/datalabels/is_automatic_rotation) | Indicates whether the text of the chart is automatically rotated. |
 | [text](/cells/python-net/aspose.cells.charts/datalabels/text) | Gets or sets the text of data label. |
 | [linked_source](/cells/python-net/aspose.cells.charts/datalabels/linked_source) | Gets and sets a reference to the worksheet. |

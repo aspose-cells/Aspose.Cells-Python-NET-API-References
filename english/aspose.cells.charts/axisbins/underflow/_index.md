@@ -11,7 +11,7 @@ is_root: false
 ## underflow property
 
 
-Gets or set the underflow of axis bins
+Gets or sets the underflow of axis bins
 ### Definition:
 ```python
 @property

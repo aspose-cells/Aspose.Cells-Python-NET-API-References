@@ -11,7 +11,7 @@ is_root: false
 ## y property
 
 
-Y coordinates of Ticklabel item in ratio of chart height.
+Y coordinates of Ticklabel item as a ratio of the chart height.
 ### Definition:
 ```python
 @property

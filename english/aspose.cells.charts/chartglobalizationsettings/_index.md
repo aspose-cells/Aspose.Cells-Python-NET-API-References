@@ -10,7 +10,7 @@ is_root: false
 
 ## ChartGlobalizationSettings class
 
-Represents the globalization settings for chart.
+Represents the globalization settings for a chart.
 
 
 

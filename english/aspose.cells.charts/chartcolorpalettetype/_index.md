@@ -10,7 +10,7 @@ is_root: false
 
 ## ChartColorPaletteType enumeration
 
-Enumerates all Monochromatic Palettes used in Excel chart.
+Enumerates all Monochromatic Palettes used in an Excel chart.
 
 
 

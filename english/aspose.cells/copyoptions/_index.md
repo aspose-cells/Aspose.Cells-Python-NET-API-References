@@ -32,6 +32,7 @@ The CopyOptions type exposes the following members:
 | [column_character_width](/cells/python-net/aspose.cells/copyoptions/column_character_width) | Indicates whether copying column width in unit of characters. |
 | [refer_to_sheet_with_same_name](/cells/python-net/aspose.cells/copyoptions/refer_to_sheet_with_same_name) | In ms excel, when copying formulas which refer to other worksheets while copying a worksheet to another one,<br/>the copied formulas should refer to source workbook.<br/>However, for some situations user may need the copied formulas refer to worksheets with the same name<br/>in the same workbook, such as when those worksheets have been copied before this copy operation,<br/>then this property should be kept as true. |
 | [refer_to_destination_sheet](/cells/python-net/aspose.cells/copyoptions/refer_to_destination_sheet) | When copying the range in the same file and the chart refers to the source sheet,<br/>False means the copied chart's data source will not be changed.<br/>True means the copied chart's data source refers to the destination sheet. |
+| [update_invalid_references_to_target_sheet](/cells/python-net/aspose.cells/copyoptions/update_invalid_references_to_target_sheet) | Indicates whether to refer to target worksheet if the referred worksheet is not copied. |
 
 
 

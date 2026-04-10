@@ -34,19 +34,7 @@ The License type exposes the following members:
 
 
 In this example, an attempt will be made to find a license file named MyLicense.lic
-in the folder that contains 
-
-
-the component, in the folder that contains the calling assembly,
-in the folder of the entry assembly and then in the embedded resources of the calling assembly.
-
-```python
-from aspose.cells import License
-
-license = License()
-license.set_license("MyLicense.lic")
-
-```
+in the folder that contains
 
 ### See Also
 * module [`aspose.cells`](..)

@@ -11,7 +11,7 @@ is_root: false
 ## inner_height property
 
 
-Gets or sets the height of plot area in units of 1/4000 of the chart area.
+Gets or sets the height of the plot area in units of 1/4000 of the chart area.
 
 ### Remarks 
 

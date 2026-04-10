@@ -10,7 +10,8 @@ is_root: false
 
 ## SparklineGroup class
 
-[`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into sparkline group. A SparklineGroup contains a variable number of sparkline items.
+[`Sparkline`](/cells/python-net/aspose.cells.charts/sparkline) is organized into a sparkline group.
+A SparklineGroup contains a variable number of sparkline items.
 A sparkline group specifies the type, display settings and axis settings for the sparklines.
 
 

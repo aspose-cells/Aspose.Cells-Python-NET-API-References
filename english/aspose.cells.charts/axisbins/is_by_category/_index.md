@@ -11,7 +11,7 @@ is_root: false
 ## is_by_category property
 
 
-Indicates whether grouping data by category
+Indicates whether grouping data by category is enabled.
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## show_inner_points property
 
 
-Indicates whether showing non-outlier data points.
+Indicates whether to show non-outlier data points.
 ### Definition:
 ```python
 @property

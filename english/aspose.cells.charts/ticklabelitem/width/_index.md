@@ -11,7 +11,7 @@ is_root: false
 ## width property
 
 
-Width of Ticklabel item in ratio of chart width.
+Width of Ticklabel item as a ratio of chart width.
 ### Definition:
 ```python
 @property

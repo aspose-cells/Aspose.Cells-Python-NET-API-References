@@ -12,6 +12,11 @@ is_root: false
 
 
 Represents the statistical properties for the series.
+
+### Remarks 
+
+
+Only applicable to BoxWhisker chart.
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## show_mean_marker property
 
 
-Indicates whether showing markers denoting the mean.
+Indicates whether markers denoting the mean are shown.
 ### Definition:
 ```python
 @property

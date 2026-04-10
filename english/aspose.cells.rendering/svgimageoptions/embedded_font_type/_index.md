@@ -3,7 +3,7 @@ title: embedded_font_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /aspose.cells.rendering/svgimageoptions/embedded_font_type/
 is_root: false
 ---

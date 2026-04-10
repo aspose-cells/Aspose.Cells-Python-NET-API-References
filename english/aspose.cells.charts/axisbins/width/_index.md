@@ -11,7 +11,7 @@ is_root: false
 ## width property
 
 
-Gets or sets the width of axis bin
+Gets or sets the width of the axis bin.
 ### Definition:
 ```python
 @property

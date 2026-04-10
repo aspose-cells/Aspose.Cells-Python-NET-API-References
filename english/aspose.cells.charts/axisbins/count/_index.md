@@ -11,7 +11,7 @@ is_root: false
 ## count property
 
 
-Gets or set the count of axis bins
+Gets or sets the count of axis bins
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## is_automatic_size property
 
 
-Indicates whether the plot area is automatic sized.
+Indicates whether the plot area is automatically sized.
 
 ### Remarks 
 

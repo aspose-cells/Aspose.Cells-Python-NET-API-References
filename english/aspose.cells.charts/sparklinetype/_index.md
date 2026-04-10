@@ -21,7 +21,7 @@ The SparklineType type exposes the following members:
 | :- | :- |
 | LINE | Line sparkline. |
 | COLUMN | Column sparkline. |
-| STACKED | Win/Loss sparkline. |
+| STACKED | Represents a Win/Loss sparkline. |
 
 
 

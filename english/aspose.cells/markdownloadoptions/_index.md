@@ -25,7 +25,7 @@ The MarkdownLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/cells/python-net/aspose.cells/markdownloadoptions/__init__/#) | Creates an options of loading the file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/markdownloadoptions/__init__/#) | Creates new text load options |
 
 
 ### Properties

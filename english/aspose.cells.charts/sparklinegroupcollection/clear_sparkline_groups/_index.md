@@ -10,7 +10,7 @@ is_root: false
 
 ## clear_sparkline_groups(self, cell_area) {#aspose.cells.CellArea}
 
-Clears the sparkline groups that overlaps an area of cells.
+Clears the sparkline groups that overlap an area of cells.
 
 
 

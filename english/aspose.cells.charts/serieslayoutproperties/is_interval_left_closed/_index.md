@@ -12,6 +12,11 @@ is_root: false
 
 
 Indicates whether the interval is closed on the left side.
+
+### Remarks 
+
+
+Only for ParetoLine chart.
 ### Definition:
 ```python
 @property

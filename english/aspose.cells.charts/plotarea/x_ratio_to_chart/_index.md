@@ -11,7 +11,7 @@ is_root: false
 ## x_ratio_to_chart property
 
 
-Gets or gets the x coordinate of the upper left corner of plot-area bounding box in units of ratio of the chart area.
+Gets or sets the x coordinate of the upper left corner of the plot area bounding box as a ratio of the chart area.
 
 ### Remarks 
 

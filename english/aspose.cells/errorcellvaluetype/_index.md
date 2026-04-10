@@ -19,11 +19,14 @@ The ErrorCellValueType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
+| VALUE | Represents the value of a cell containing a #VALUE! error. |
+| REF | Represents the value of a cell containing a #REF! error. |
+| NAME | Represents the value of a cell containing a #NAME? error. |
+| NA | Represents the value of a cell containing a #NAME? error. |
 | BLOCKED | Represents the value of a cell containing a #BLOCKED! error. |
 | BUSY | Represents the value of a cell containing a #BUSY! error. |
 | CALC | Represents the value of a cell containing a #CALC! error. |
 | CONNECT | Represents the value of a cell containing a #CONNECT! error. |
-| NAME | Represents the value of a cell containing a #NAME? error. |
 | FIELD | Represents the value of a cell containing a #FIELD! error. |
 | SPILL | Represents the value of a cell containing a #SPILL! error. |
 | UNKNOWN | Represents the value of a cell containing a #UNKNOWN! error. |

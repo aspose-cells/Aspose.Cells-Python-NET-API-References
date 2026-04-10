@@ -11,7 +11,7 @@ is_root: false
 ## show_outlier_points property
 
 
-Indicates whether showing outlier data points.
+Indicates whether outlier data points are shown.
 ### Definition:
 ```python
 @property

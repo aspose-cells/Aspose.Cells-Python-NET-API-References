@@ -11,7 +11,7 @@ is_root: false
 ## height property
 
 
-Height of Ticklabel item in ratio of chart height.
+Height of Ticklabel item as a ratio of chart height.
 ### Definition:
 ```python
 @property

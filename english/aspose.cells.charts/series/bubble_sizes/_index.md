@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets or sets the bubble sizes values of the chart series.
+
+### Remarks 
+
+
+Only for [`ChartType.BUBBLE`](/cells/python-net/aspose.cells.charts/charttype#BUBBLE) or [`ChartType.BUBBLE_3D`](/cells/python-net/aspose.cells.charts/charttype#BUBBLE_3D).
 ### Definition:
 ```python
 @property

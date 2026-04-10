@@ -3,7 +3,7 @@ title: emf_render_setting property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells.rendering/svgimageoptions/emf_render_setting/
 is_root: false
 ---

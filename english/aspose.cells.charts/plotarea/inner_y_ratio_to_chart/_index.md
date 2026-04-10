@@ -11,7 +11,7 @@ is_root: false
 ## inner_y_ratio_to_chart property
 
 
-Gets or gets the x coordinate of the upper top corner of plot area in units of ratio of the chart area.
+Gets or gets the x coordinate of the upper top corner of plot area in units of the ratio of the chart area.
 
 ### Remarks 
 

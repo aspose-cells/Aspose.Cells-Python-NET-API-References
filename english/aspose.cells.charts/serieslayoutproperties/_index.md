@@ -25,11 +25,11 @@ The SeriesLayoutProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [show_connector_lines](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indicates whether showing connector lines between data points. |
-| [show_mean_line](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_line) | Indicates whether showing the line connecting all mean points. |
-| [show_outlier_points](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_outlier_points) | Indicates whether showing outlier data points. |
-| [show_mean_marker](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_marker) | Indicates whether showing markers denoting the mean. |
-| [show_inner_points](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_inner_points) | Indicates whether showing non-outlier data points. |
+| [show_connector_lines](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indicates whether connector lines are shown between data points. |
+| [show_mean_line](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_line) | Indicates whether to show the line connecting all mean points. |
+| [show_outlier_points](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_outlier_points) | Indicates whether outlier data points are shown. |
+| [show_mean_marker](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_marker) | Indicates whether markers denoting the mean are shown. |
+| [show_inner_points](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_inner_points) | Indicates whether to show non-outlier data points. |
 | [subtotals](/cells/python-net/aspose.cells.charts/serieslayoutproperties/subtotals) | Represents the index of a subtotal data point. |
 | [quartile_calculation](/cells/python-net/aspose.cells.charts/serieslayoutproperties/quartile_calculation) | Represents the statistical properties for the series. |
 | [map_label_layout](/cells/python-net/aspose.cells.charts/serieslayoutproperties/map_label_layout) | Gets and sets the layout of map labels. |
@@ -38,6 +38,11 @@ The SeriesLayoutProperties type exposes the following members:
 | [map_chart_projection_type](/cells/python-net/aspose.cells.charts/serieslayoutproperties/map_chart_projection_type) | Gets and sets the projection type of the map. |
 
 
+
+### Remarks 
+
+
+Only applicable to BoxWhisker,Funnel,ParetoLine,Sunburst,Treemap,Waterfall and Histogram chart.
 
 ### See Also
 * module [`aspose.cells.charts`](..)
