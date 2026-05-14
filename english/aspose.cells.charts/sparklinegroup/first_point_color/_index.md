@@ -3,7 +3,7 @@ title: first_point_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 70
 url: /aspose.cells.charts/sparklinegroup/first_point_color/
 is_root: false
 ---

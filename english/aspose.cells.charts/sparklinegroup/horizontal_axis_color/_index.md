@@ -3,7 +3,7 @@ title: horizontal_axis_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /aspose.cells.charts/sparklinegroup/horizontal_axis_color/
 is_root: false
 ---

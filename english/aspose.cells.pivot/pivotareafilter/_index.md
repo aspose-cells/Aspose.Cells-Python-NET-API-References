@@ -25,6 +25,7 @@ The PivotAreaFilter type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [field_index](/cells/python-net/aspose.cells.pivot/pivotareafilter/field_index) | Gets the index of the field to which this filter refers. <br/>A value of -2 indicates the values field. |
 | [selected](/cells/python-net/aspose.cells.pivot/pivotareafilter/selected) | Indicates whether this field has selection.<br/>Only works when the PivotTable is in Outline view. |
 
 

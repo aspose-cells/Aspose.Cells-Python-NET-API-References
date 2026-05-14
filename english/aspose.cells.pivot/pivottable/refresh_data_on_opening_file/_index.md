@@ -3,7 +3,7 @@ title: refresh_data_on_opening_file property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 970
 url: /aspose.cells.pivot/pivottable/refresh_data_on_opening_file/
 is_root: false
 ---

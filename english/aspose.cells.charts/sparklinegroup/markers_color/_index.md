@@ -3,7 +3,7 @@ title: markers_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /aspose.cells.charts/sparklinegroup/markers_color/
 is_root: false
 ---

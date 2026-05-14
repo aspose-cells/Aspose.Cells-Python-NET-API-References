@@ -3,7 +3,7 @@ title: Workbook class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1670
+weight: 1680
 url: /aspose.cells/workbook/
 is_root: false
 ---
@@ -21,7 +21,8 @@ The Workbook type exposes the following members:
 | :- | :- |
 | [`__init__(self)`](/cells/python-net/aspose.cells/workbook/__init__/#) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class. |
 | [`__init__(self, file_format_type)`](/cells/python-net/aspose.cells/workbook/__init__/#aspose.cells.fileformattype) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class. |
-| [`__init__(self, file)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file. |
+| [`__init__(self, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#aspose.cells.loadoptions) | Initializes a new empty instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class with options |
+| [`__init__(self, file)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string) | Constructs a new instance of Workbook |
 | [`__init__(self, stream)`](/cells/python-net/aspose.cells/workbook/__init__/#io.rawiobase) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a stream. |
 | [`__init__(self, file, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string-aspose.cells.loadoptions) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file. |
 | [`__init__(self, stream, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#io.rawiobase-aspose.cells.loadoptions) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open stream. |
@@ -123,6 +124,7 @@ The Workbook type exposes the following members:
 | [`add_digital_signature(self, digital_signature_collection)`](/cells/python-net/aspose.cells/workbook/add_digital_signature/#aspose.cells.digitalsignatures.digitalsignaturecollection) | Adds digital signature to an OOXML spreadsheet file (Excel2007 and later). |
 | [`get_digital_signature(self)`](/cells/python-net/aspose.cells/workbook/get_digital_signature/#) | Gets digital signature from file. |
 | [`remove_personal_information(self)`](/cells/python-net/aspose.cells/workbook/remove_personal_information/#) | Removes personal information. |
+| [`refresh_all(self)`](/cells/python-net/aspose.cells/workbook/refresh_all/#) | Refresh linked shapes, all pivot tables and charts with pivot source. |
 | [`close(self)`](/cells/python-net/aspose.cells/workbook/close/#) | Dispose() is Skipped by wrapper since  Python protocol |
 
 

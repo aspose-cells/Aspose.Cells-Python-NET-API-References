@@ -3,7 +3,7 @@ title: check_workbook_default_font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.rendering/svgimageoptions/check_workbook_default_font/
 is_root: false
 ---

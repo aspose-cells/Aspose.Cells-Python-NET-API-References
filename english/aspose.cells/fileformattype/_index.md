@@ -3,7 +3,7 @@ title: FileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2130
+weight: 2140
 url: /aspose.cells/fileformattype/
 is_root: false
 ---
@@ -98,6 +98,8 @@ The FileFormatType type exposes the following members:
 | CHM | CHM |
 | OXPS | OXPS (Open XML Paper Specification) format. |
 | G_ZIP | Rrepesents GZip file. |
+| OTG | Represents an OTG file. |
+| ODB | Represents an Odb file. |
 
 
 

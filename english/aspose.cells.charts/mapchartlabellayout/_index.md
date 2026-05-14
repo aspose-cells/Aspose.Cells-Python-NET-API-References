@@ -19,9 +19,9 @@ The MapChartLabelLayout type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| BEST_FIT_ONLY | Only the best fit. |
+| BEST_FIT_ONLY | Only the best fit is used. |
 | SHOW_ALL | Shows all labels. |
-| NONE | No labels. |
+| NONE | There are no labels. |
 
 
 

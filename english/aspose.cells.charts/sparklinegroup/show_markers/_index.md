@@ -3,7 +3,7 @@ title: show_markers property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /aspose.cells.charts/sparklinegroup/show_markers/
 is_root: false
 ---

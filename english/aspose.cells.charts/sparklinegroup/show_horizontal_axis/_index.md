@@ -3,7 +3,7 @@ title: show_horizontal_axis property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 220
 url: /aspose.cells.charts/sparklinegroup/show_horizontal_axis/
 is_root: false
 ---

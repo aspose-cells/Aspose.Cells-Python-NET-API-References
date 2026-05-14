@@ -59,7 +59,7 @@ The Legend type exposes the following members:
 | [width_pixel](/cells/python-net/aspose.cells.charts/legend/width_pixel) | Gets or sets the width of frame in units of Pixel. |
 | [height_pixel](/cells/python-net/aspose.cells.charts/legend/height_pixel) | Gets or sets the height of frame in units of Pixel. |
 | [is_auto_text](/cells/python-net/aspose.cells.charts/legend/is_auto_text) | Indicates the text is auto generated. |
-| [is_deleted](/cells/python-net/aspose.cells.charts/legend/is_deleted) | Indicates whether this data labels are deleted. |
+| [is_deleted](/cells/python-net/aspose.cells.charts/legend/is_deleted) | Indicates whether this data label is deleted. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.charts/legend/text_horizontal_alignment) | Gets and sets the text horizontal alignment. |
 | [text_vertical_alignment](/cells/python-net/aspose.cells.charts/legend/text_vertical_alignment) | Gets or sets the text vertical alignment of text. |
 | [rotation_angle](/cells/python-net/aspose.cells.charts/legend/rotation_angle) | Represents the text rotation angle. |

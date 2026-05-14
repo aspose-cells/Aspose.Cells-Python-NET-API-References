@@ -3,7 +3,7 @@ title: ErrorCellValueType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2090
+weight: 2100
 url: /aspose.cells/errorcellvaluetype/
 is_root: false
 ---
@@ -22,7 +22,7 @@ The ErrorCellValueType type exposes the following members:
 | VALUE | Represents the value of a cell containing a #VALUE! error. |
 | REF | Represents the value of a cell containing a #REF! error. |
 | NAME | Represents the value of a cell containing a #NAME? error. |
-| NA | Represents the value of a cell containing a #NAME? error. |
+| NA | Represents the value of a cell containing a #N/A error. |
 | BLOCKED | Represents the value of a cell containing a #BLOCKED! error. |
 | BUSY | Represents the value of a cell containing a #BUSY! error. |
 | CALC | Represents the value of a cell containing a #CALC! error. |

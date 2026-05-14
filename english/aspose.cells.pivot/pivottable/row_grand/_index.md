@@ -3,7 +3,7 @@ title: row_grand property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 1020
 url: /aspose.cells.pivot/pivottable/row_grand/
 is_root: false
 ---

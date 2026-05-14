@@ -3,7 +3,7 @@ title: show_first_point property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /aspose.cells.charts/sparklinegroup/show_first_point/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: get_button_area method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.pivot/pivottable/get_button_area/
 is_root: false
 ---

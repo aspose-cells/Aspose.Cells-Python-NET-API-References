@@ -8,7 +8,7 @@ url: /aspose.cells.charts/
 is_root: false
 ---
 
-The <b>Aspose.Cells.Charts</b> namespace provides classes that allow access to and drawing of charts and sparkline in Microsoft Excel spreadsheets.
+The **Aspose.Cells.Charts**  namespace provides classes that allow access to and drawing of charts and sparkline in Microsoft Excel spreadsheets.
 
 ### Classes
 | Class | Description |
@@ -17,7 +17,7 @@ The <b>Aspose.Cells.Charts</b> namespace provides classes that allow access to a
 | [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins) | Represents axis bins |
 | [`Chart`](/cells/python-net/aspose.cells.charts/chart) | Encapsulates the object that represents a single Excel chart. |
 | [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) | Encapsulates the object that represents the chart area in the worksheet. |
-| [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating the chart. |
+| [`ChartCalculateOptions`](/cells/python-net/aspose.cells.charts/chartcalculateoptions) | Represents the options for calculating a chart. |
 | [`ChartCollection`](/cells/python-net/aspose.cells.charts/chartcollection) | Encapsulates a collection of [`Chart`](/cells/python-net/aspose.cells.charts/chart) objects. |
 | [`ChartDataTable`](/cells/python-net/aspose.cells.charts/chartdatatable) | Represents a chart data table. |
 | [`ChartDataValue`](/cells/python-net/aspose.cells.charts/chartdatavalue) | Encapsulates chart data value |

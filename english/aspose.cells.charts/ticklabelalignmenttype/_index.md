@@ -19,9 +19,9 @@ The TickLabelAlignmentType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| CENTER | Represents that the text shall be centered. |
-| LEFT | Represents the text that shall be left justified. |
-| RIGHT | Represents that the text shall be right justified. |
+| CENTER | Specifies that the text is centered. |
+| LEFT | Specifies that the text is left-aligned.. |
+| RIGHT | Specifies that the text is right-aligned.. |
 
 
 

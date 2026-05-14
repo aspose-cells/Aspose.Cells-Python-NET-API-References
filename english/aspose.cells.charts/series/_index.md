@@ -19,7 +19,7 @@ The Series type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [is_filtered](/cells/python-net/aspose.cells.charts/series/is_filtered) | Indicates whether the series is selected or filtered.<br/>True represents that this series is filtered, and it will not be displayed on the chart. |
+| [is_filtered](/cells/python-net/aspose.cells.charts/series/is_filtered) | Indicates whether the series is selected or filtered.<br/>True indicates that this series is filtered, and it will not be displayed on the chart. |
 | [layout_properties](/cells/python-net/aspose.cells.charts/series/layout_properties) | Represents the properties of layout. |
 | [points](/cells/python-net/aspose.cells.charts/series/points) | Gets the collection of points in a series in a chart. |
 | [area](/cells/python-net/aspose.cells.charts/series/area) | Represents the background area of the Series object. |
@@ -33,19 +33,19 @@ The Series type exposes the following members:
 | [cached_category_values](/cells/python-net/aspose.cells.charts/series/cached_category_values) | Gets the cached category values for the series |
 | [point_values](/cells/python-net/aspose.cells.charts/series/point_values) | Gets the actual values that are used to plot every point<br/>of this series in the chart. |
 | [category_values](/cells/python-net/aspose.cells.charts/series/category_values) | Gets the actual category values that are used to plot every point<br/>of this series in the chart. |
-| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents format code of Values' NumberList. |
+| [values_format_code](/cells/python-net/aspose.cells.charts/series/values_format_code) | Represents the format code of the Values NumberList. |
 | [x_values_format_code](/cells/python-net/aspose.cells.charts/series/x_values_format_code) | Represents format code of X Values' NumberList. |
 | [x_values](/cells/python-net/aspose.cells.charts/series/x_values) | Represents the X values of this chart series. |
-| [bubble_sizes](/cells/python-net/aspose.cells.charts/series/bubble_sizes) | Gets or sets the bubble sizes values of the chart series. |
+| [bubble_sizes](/cells/python-net/aspose.cells.charts/series/bubble_sizes) | Gets or sets the bubble size values of the chart series. |
 | [trend_lines](/cells/python-net/aspose.cells.charts/series/trend_lines) | Returns all the trendlines of this series. |
-| [smooth](/cells/python-net/aspose.cells.charts/series/smooth) | Represents curve smoothing. <br/>True if curve smoothing is turned on for the line chart or scatter chart.<br/>Applies only to line and scatter connected by lines charts. |
+| [smooth](/cells/python-net/aspose.cells.charts/series/smooth) | Represents curve smoothing.<br/>True if curve smoothing is turned on for the line chart or scatter chart.<br/>Applies only to line charts and scatter charts with lines. |
 | [shadow](/cells/python-net/aspose.cells.charts/series/shadow) | True if the series has a shadow. |
 | [has_3d_effect](/cells/python-net/aspose.cells.charts/series/has_3d_effect) | True if the series has a three-dimensional appearance. |
 | [bar_3d_shape_type](/cells/python-net/aspose.cells.charts/series/bar_3d_shape_type) | Gets or sets the 3D shape type used with the 3-D bar or column chart. |
 | [data_labels](/cells/python-net/aspose.cells.charts/series/data_labels) | Represents the DataLabels object for the specified ASeries. |
 | [type](/cells/python-net/aspose.cells.charts/series/type) | Gets or sets a data series' type. |
 | [marker](/cells/python-net/aspose.cells.charts/series/marker) | Gets the [`Series.marker`](/cells/python-net/aspose.cells.charts/series#marker). |
-| [plot_on_second_axis](/cells/python-net/aspose.cells.charts/series/plot_on_second_axis) | Indicates if this series is plotted on second value axis. |
+| [plot_on_second_axis](/cells/python-net/aspose.cells.charts/series/plot_on_second_axis) | Indicates if this series is plotted on the second value axis. |
 | [x_error_bar](/cells/python-net/aspose.cells.charts/series/x_error_bar) | Represents X direction error bar of the series. |
 | [y_error_bar](/cells/python-net/aspose.cells.charts/series/y_error_bar) | Represents Y direction error bar of the series. |
 | [has_hi_lo_lines](/cells/python-net/aspose.cells.charts/series/has_hi_lo_lines) | True if the line chart has high-low lines. <br/>Applies only to line charts. |
@@ -53,13 +53,13 @@ The Series type exposes the following members:
 | [has_series_lines](/cells/python-net/aspose.cells.charts/series/has_series_lines) | True if a stacked column chart or bar chart has series lines or<br/>if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. <br/>Applies only to stacked column charts, bar charts, Pie of Pie charts, or Bar of Pie charts. |
 | [series_lines](/cells/python-net/aspose.cells.charts/series/series_lines) | Returns a SeriesLines object that represents the series lines for a stacked bar chart or a stacked column chart.<br/>Applies only to stacked bar and stacked column charts. |
 | [has_drop_lines](/cells/python-net/aspose.cells.charts/series/has_drop_lines) | True if the chart has drop lines.<br/>Applies only to line chart or area charts. |
-| [drop_lines](/cells/python-net/aspose.cells.charts/series/drop_lines) | Returns a [`Line`](/cells/python-net/aspose.cells.drawing/line) object that represents the drop lines for a series on the line chart or area chart.<br/>Applies only to line chart or area charts. |
+| [drop_lines](/cells/python-net/aspose.cells.charts/series/drop_lines) | Returns a [`Line`](/cells/python-net/aspose.cells.drawing/line) object that represents the drop lines for a series on the line chart or area chart.<br/>Applies only to line charts or area charts. |
 | [has_up_down_bars](/cells/python-net/aspose.cells.charts/series/has_up_down_bars) | True if a line chart has up and down bars.<br/>Applies only to line charts. |
-| [up_bars](/cells/python-net/aspose.cells.charts/series/up_bars) | Returns an DropBars object that represents the up bars on a line chart.<br/>Applies only to line charts. |
+| [up_bars](/cells/python-net/aspose.cells.charts/series/up_bars) | Returns a DropBars object that represents the up bars on a line chart.<br/>Applies only to line charts. |
 | [down_bars](/cells/python-net/aspose.cells.charts/series/down_bars) | Returns a [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars) object that represents the down bars on a line chart.<br/>Applies only to line charts. |
-| [is_color_varied](/cells/python-net/aspose.cells.charts/series/is_color_varied) | Represents if the color of points is varied. <br/>The chart must contain only one series or this chart is a pie chart. |
+| [is_color_varied](/cells/python-net/aspose.cells.charts/series/is_color_varied) | Represents whether the color of points is varied.<br/>The chart must contain only one series or this chart is a pie chart. |
 | [gap_width](/cells/python-net/aspose.cells.charts/series/gap_width) | Returns or sets the space between bar or column clusters, as a percentage of the bar or column width.<br/>The value of this property must be between 0 and 500. |
-| [first_slice_angle](/cells/python-net/aspose.cells.charts/series/first_slice_angle) | Gets or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). <br/>Applies only to pie, 3-D pie, and doughnut charts, 0 to 360. |
+| [first_slice_angle](/cells/python-net/aspose.cells.charts/series/first_slice_angle) | Gets or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical).<br/>Applies only to pie, 3-D pie, and doughnut charts, with values from 0 to 360. |
 | [overlap](/cells/python-net/aspose.cells.charts/series/overlap) | Specifies how bars and columns are positioned.<br/>Can be a value between -100 and 100. <br/>Applies only to 2-D bar and 2-D column charts. |
 | [second_plot_size](/cells/python-net/aspose.cells.charts/series/second_plot_size) | Returns or sets the size of the secondary section of either a pie of pie chart or a bar of pie chart, <br/>as a percentage of the size of the primary pie.<br/>Can be a value from 5 to 200. |
 | [split_type](/cells/python-net/aspose.cells.charts/series/split_type) | Returns or sets a value that how to determine which data points are in the second pie or bar on a pie of pie or bar of<br/>pie chart. |

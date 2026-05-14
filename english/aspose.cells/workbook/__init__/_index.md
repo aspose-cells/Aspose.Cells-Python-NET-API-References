@@ -69,9 +69,27 @@ workbook = Workbook(FileFormatType.XLSX)
 ```
 
 
+## \_\_init\_\_(self, load_options) {#aspose.cells.LoadOptions}
+
+Initializes a new empty instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class with options
+
+
+
+```python
+
+def __init__(self, load_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| load_options | aspose.cells.LoadOptions | The options. |
+
+
 ## \_\_init\_\_(self, file) {#System.String}
 
-Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
+Constructs a new instance of Workbook
 
 
 
@@ -84,7 +102,7 @@ def __init__(self, file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file | System.String | The file name. |
+| file | System.String |  |
 
 
 ## \_\_init\_\_(self, stream) {#io.RawIOBase}

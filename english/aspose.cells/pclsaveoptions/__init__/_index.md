@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self) {#}
 
-Creates the options for saving pdf file.
+Creates the options for saving pcl file.
 
 
 

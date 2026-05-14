@@ -19,7 +19,7 @@ The PlotDataByType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| ROW | By row. |
+| ROW | Sorted by row. |
 | COLUMN | By column. |
 
 

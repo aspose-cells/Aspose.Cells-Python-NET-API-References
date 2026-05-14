@@ -11,7 +11,7 @@ is_root: false
 ## bubble_sizes property
 
 
-Gets or sets the bubble sizes values of the chart series.
+Gets or sets the bubble size values of the chart series.
 
 ### Remarks 
 

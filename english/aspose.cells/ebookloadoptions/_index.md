@@ -73,6 +73,7 @@ The EbookLoadOptions type exposes the following members:
 | [table_load_options](/cells/python-net/aspose.cells/ebookloadoptions/table_load_options) | Get the HtmlTableLoadOptionCollection instance |
 | [detect_la_te_x](/cells/python-net/aspose.cells/ebookloadoptions/detect_la_te_x) | Indicates whether to detect LaTeX formula in the HTML file. <br/>The default value is false. |
 | [paragrah_layout_mode](/cells/python-net/aspose.cells/ebookloadoptions/paragrah_layout_mode) | Specifies how HTML <p> elements are rendered when loading HTML.<br/>The default value is [`HtmlParagraphLayoutMode.NORMAL`](/cells/python-net/aspose.cells.rendering/htmlparagraphlayoutmode#NORMAL). |
+| [hyperlink_load_mode](/cells/python-net/aspose.cells/ebookloadoptions/hyperlink_load_mode) | Specifies how hyperlinks are loaded when loading HTML. |
 
 
 ### Methods

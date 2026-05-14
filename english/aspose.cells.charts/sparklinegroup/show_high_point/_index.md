@@ -3,7 +3,7 @@ title: show_high_point property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 210
 url: /aspose.cells.charts/sparklinegroup/show_high_point/
 is_root: false
 ---

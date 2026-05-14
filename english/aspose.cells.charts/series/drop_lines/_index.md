@@ -12,7 +12,7 @@ is_root: false
 
 
 Returns a [`Line`](/cells/python-net/aspose.cells.drawing/line) object that represents the drop lines for a series on the line chart or area chart.
-Applies only to line chart or area charts.
+Applies only to line charts or area charts.
 ### Definition:
 ```python
 @property

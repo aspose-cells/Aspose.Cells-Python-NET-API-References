@@ -3,7 +3,7 @@ title: embeded_image_name_in_svg property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.rendering/imageorprintoptions/embeded_image_name_in_svg/
 is_root: false
 ---

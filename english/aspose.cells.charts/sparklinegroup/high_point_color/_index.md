@@ -3,7 +3,7 @@ title: high_point_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 80
 url: /aspose.cells.charts/sparklinegroup/high_point_color/
 is_root: false
 ---

@@ -21,7 +21,12 @@ def refresh_all(self):
 ```
 
 
+### Remarks
 
+NOTE: This member is now obsolete. Instead, 
+please use Workbook.RefreshAll() method.
+This method will be removed 12 months later since April 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

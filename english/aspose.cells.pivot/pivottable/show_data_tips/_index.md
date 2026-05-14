@@ -3,7 +3,7 @@ title: show_data_tips property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1040
+weight: 1070
 url: /aspose.cells.pivot/pivottable/show_data_tips/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_data_tips property
 
 
-Specifies a boolean value that indicates whether tooltips should be displayed for PivotTable data cells.
+Indicates whether tooltips should be displayed for PivotTable data cells.
 ### Definition:
 ```python
 @property

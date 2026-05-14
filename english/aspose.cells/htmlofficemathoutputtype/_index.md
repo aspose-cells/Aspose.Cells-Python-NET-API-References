@@ -3,7 +3,7 @@ title: HtmlOfficeMathOutputType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2300
+weight: 2310
 url: /aspose.cells/htmlofficemathoutputtype/
 is_root: false
 ---

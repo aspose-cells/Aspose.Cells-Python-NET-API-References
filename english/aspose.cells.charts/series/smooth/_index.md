@@ -11,9 +11,9 @@ is_root: false
 ## smooth property
 
 
-Represents curve smoothing. 
+Represents curve smoothing.
 True if curve smoothing is turned on for the line chart or scatter chart.
-Applies only to line and scatter connected by lines charts.
+Applies only to line charts and scatter charts with lines.
 ### Definition:
 ```python
 @property

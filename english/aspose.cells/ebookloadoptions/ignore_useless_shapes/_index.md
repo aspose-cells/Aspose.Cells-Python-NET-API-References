@@ -3,7 +3,7 @@ title: ignore_useless_shapes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /aspose.cells/ebookloadoptions/ignore_useless_shapes/
 is_root: false
 ---

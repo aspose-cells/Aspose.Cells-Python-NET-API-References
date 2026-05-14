@@ -3,7 +3,7 @@ title: indent_level property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /aspose.cells/style/indent_level/
 is_root: false
 ---

@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets and sets the format strategy when exporting the value as string value.
+
+### Remarks 
+
+
+The default value is [`CellValueFormatStrategy.CELL_STYLE`](/cells/python-net/aspose.cells/cellvalueformatstrategy#CELL_STYLE).
 ### Definition:
 ```python
 @property

@@ -25,7 +25,7 @@ The SeriesLayoutProperties type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [show_connector_lines](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indicates whether connector lines are shown between data points. |
+| [show_connector_lines](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_connector_lines) | Indicates whether connector lines are displayed between data points. |
 | [show_mean_line](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_line) | Indicates whether to show the line connecting all mean points. |
 | [show_outlier_points](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_outlier_points) | Indicates whether outlier data points are shown. |
 | [show_mean_marker](/cells/python-net/aspose.cells.charts/serieslayoutproperties/show_mean_marker) | Indicates whether markers denoting the mean are shown. |

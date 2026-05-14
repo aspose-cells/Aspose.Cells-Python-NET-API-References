@@ -3,7 +3,7 @@ title: get_children method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 170
 url: /aspose.cells.pivot/pivottable/get_children/
 is_root: false
 ---
@@ -26,7 +26,12 @@ def get_children(self):
 ```
 
 
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotTable.GetDependentPivotTables() method.
+This method will be removed 12 months later since April 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

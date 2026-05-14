@@ -129,6 +129,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`NegativeBarFormat`](/cells/python-net/aspose.cells/negativebarformat) | Represents the color settings of the data bars for negative values that are defined by a data bar conditional formatting rule. |
 | [`OdsLoadOptions`](/cells/python-net/aspose.cells/odsloadoptions) | Represents the options of loading ods file. |
 | [`OdsSaveOptions`](/cells/python-net/aspose.cells/odssaveoptions) | Represents the options of saving ods file. |
+| [`OfdSaveOptions`](/cells/python-net/aspose.cells/ofdsaveoptions) | Represents the options for saving a OFD(Open Fixed-layout Document) file. |
 | [`OoxmlSaveOptions`](/cells/python-net/aspose.cells/ooxmlsaveoptions) | Represents the options of saving office open xml file. |
 | [`Outline`](/cells/python-net/aspose.cells/outline) | Represents an outline on a worksheet. |
 | [`PageSetup`](/cells/python-net/aspose.cells/pagesetup) | Encapsulates the object that represents the page setup description. <br/>The PageSetup object contains all page setup options. |
@@ -251,6 +252,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`HtmlLinkTargetType`](/cells/python-net/aspose.cells/htmllinktargettype) | Represents the type of target attribute in HTML []() tag. |
 | [`HtmlOfficeMathOutputType`](/cells/python-net/aspose.cells/htmlofficemathoutputtype) | Represents how to export OfficeMath to HTML. |
 | [`HtmlVersion`](/cells/python-net/aspose.cells/htmlversion) | Indicates the version of HTML is used when saving to Html formats. |
+| [`HyperlinkLoadMode`](/cells/python-net/aspose.cells/hyperlinkloadmode) | Specifies how hyperlinks are handled when loading HTML. |
 | [`HyperlinkType`](/cells/python-net/aspose.cells/hyperlinktype) | Represents the type of hyperlink. |
 | [`IconSetType`](/cells/python-net/aspose.cells/iconsettype) | Icon set type for conditional formatting. <br/>The threshold values for triggering the different icons within a set are<br/>configurable, and the icon order is reversible. |
 | [`LoadDataFilterOptions`](/cells/python-net/aspose.cells/loaddatafilteroptions) | Represents the options to filter data when loading workbook from template. |

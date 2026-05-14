@@ -3,7 +3,7 @@ title: plot_empty_cells_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /aspose.cells.charts/sparklinegroup/plot_empty_cells_type/
 is_root: false
 ---

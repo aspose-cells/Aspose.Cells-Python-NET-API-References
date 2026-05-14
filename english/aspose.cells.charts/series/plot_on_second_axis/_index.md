@@ -11,7 +11,7 @@ is_root: false
 ## plot_on_second_axis property
 
 
-Indicates if this series is plotted on second value axis.
+Indicates if this series is plotted on the second value axis.
 ### Definition:
 ```python
 @property

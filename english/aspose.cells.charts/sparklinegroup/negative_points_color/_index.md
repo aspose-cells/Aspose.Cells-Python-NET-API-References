@@ -3,7 +3,7 @@ title: negative_points_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.charts/sparklinegroup/negative_points_color/
 is_root: false
 ---

@@ -12,7 +12,7 @@ is_root: false
 
 
 Indicates whether the series is selected or filtered.
-True represents that this series is filtered, and it will not be displayed on the chart.
+True indicates that this series is filtered, and it will not be displayed on the chart.
 ### Definition:
 ```python
 @property

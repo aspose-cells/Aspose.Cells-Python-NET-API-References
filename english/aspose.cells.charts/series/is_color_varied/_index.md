@@ -11,7 +11,7 @@ is_root: false
 ## is_color_varied property
 
 
-Represents if the color of points is varied. 
+Represents whether the color of points is varied.
 The chart must contain only one series or this chart is a pie chart.
 ### Definition:
 ```python

@@ -3,7 +3,7 @@ title: vertical_axis_min_value property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 320
 url: /aspose.cells.charts/sparklinegroup/vertical_axis_min_value/
 is_root: false
 ---

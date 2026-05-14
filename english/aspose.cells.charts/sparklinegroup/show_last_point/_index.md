@@ -3,7 +3,7 @@ title: show_last_point property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.charts/sparklinegroup/show_last_point/
 is_root: false
 ---

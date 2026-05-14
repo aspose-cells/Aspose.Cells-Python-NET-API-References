@@ -3,7 +3,7 @@ title: show_low_point property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 240
 url: /aspose.cells.charts/sparklinegroup/show_low_point/
 is_root: false
 ---

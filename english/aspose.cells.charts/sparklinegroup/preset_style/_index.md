@@ -3,7 +3,7 @@ title: preset_style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 180
 url: /aspose.cells.charts/sparklinegroup/preset_style/
 is_root: false
 ---

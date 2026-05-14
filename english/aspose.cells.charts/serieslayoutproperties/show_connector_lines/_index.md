@@ -11,7 +11,7 @@ is_root: false
 ## show_connector_lines property
 
 
-Indicates whether connector lines are shown between data points.
+Indicates whether connector lines are displayed between data points.
 
 ### Remarks 
 

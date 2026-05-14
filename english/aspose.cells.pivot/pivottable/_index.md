@@ -53,8 +53,8 @@ The PivotTable type exposes the following members:
 | [is_auto_format](/cells/python-net/aspose.cells.pivot/pivottable/is_auto_format) | Indicates whether the PivotTable report is automatically formatted.<br/>Checkbox "autoformat table " which is in pivottable option for Excel 2003 |
 | [autofit_column_width_on_update](/cells/python-net/aspose.cells.pivot/pivottable/autofit_column_width_on_update) | Indicates whether autofitting column width on update |
 | [auto_format_type](/cells/python-net/aspose.cells.pivot/pivottable/auto_format_type) | Gets and sets the auto format type of PivotTable. |
-| [has_blank_rows](/cells/python-net/aspose.cells.pivot/pivottable/has_blank_rows) | Indicates whether to add blank rows.<br/>This property only applies for the PivotTable auto format types which needs to add blank rows. |
-| [merge_labels](/cells/python-net/aspose.cells.pivot/pivottable/merge_labels) | True if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. |
+| [has_blank_rows](/cells/python-net/aspose.cells.pivot/pivottable/has_blank_rows) |  |
+| [merge_labels](/cells/python-net/aspose.cells.pivot/pivottable/merge_labels) | Indicates whether row or column titles that span multiple cells should be merged into a single cell. |
 | [preserve_formatting](/cells/python-net/aspose.cells.pivot/pivottable/preserve_formatting) | Indicates whether formatting is preserved when the PivotTable is refreshed or recalculated. |
 | [show_drill](/cells/python-net/aspose.cells.pivot/pivottable/show_drill) | Gets and sets whether showing expand/collapse buttons. |
 | [enable_drilldown](/cells/python-net/aspose.cells.pivot/pivottable/enable_drilldown) | Gets whether drilldown is enabled. |
@@ -68,7 +68,7 @@ The PivotTable type exposes the following members:
 | [allow_multiple_filters_per_field](/cells/python-net/aspose.cells.pivot/pivottable/allow_multiple_filters_per_field) | Specifies a boolean value that indicates whether the fields of a PivotTable can have multiple filters set on them. |
 | [missing_items_limit](/cells/python-net/aspose.cells.pivot/pivottable/missing_items_limit) | Specifies a boolean value that indicates whether the fields of a PivotTable can have multiple filters set on them. |
 | [enable_data_value_editing](/cells/python-net/aspose.cells.pivot/pivottable/enable_data_value_editing) | Specifies a boolean value that indicates whether the user is allowed to edit the cells in the data area of the pivottable.<br/>Enable cell editing in the values area |
-| [show_data_tips](/cells/python-net/aspose.cells.pivot/pivottable/show_data_tips) | Specifies a boolean value that indicates whether tooltips should be displayed for PivotTable data cells. |
+| [show_data_tips](/cells/python-net/aspose.cells.pivot/pivottable/show_data_tips) | Indicates whether tooltips should be displayed for PivotTable data cells. |
 | [show_member_property_tips](/cells/python-net/aspose.cells.pivot/pivottable/show_member_property_tips) | Specifies a boolean value that indicates whether member property information should be omitted from PivotTable tooltips. |
 | [show_values_row](/cells/python-net/aspose.cells.pivot/pivottable/show_values_row) | Indicates whether showing values row. |
 | [show_empty_col](/cells/python-net/aspose.cells.pivot/pivottable/show_empty_col) | Indicates whether to include empty columns in the table |
@@ -81,7 +81,7 @@ The PivotTable type exposes the following members:
 | [column_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/column_header_caption) | Gets and sets the custom Caption of the Column Header of the PivotTable. |
 | [indent](/cells/python-net/aspose.cells.pivot/pivottable/indent) | Specifies the indentation increment for compact axis and can be used to set the Report Layout to Compact Form. |
 | [row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/row_header_caption) | Gets and sets custom caption of the Row Header in this PivotTable. |
-| [show_row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/show_row_header_caption) | Indicates whether row header caption is shown in the PivotTable report<br/>Indicates whether Display field captions and filter drop downs |
+| [show_row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/show_row_header_caption) |  |
 | [custom_list_sort](/cells/python-net/aspose.cells.pivot/pivottable/custom_list_sort) | Indicates whether consider built-in custom list when sort data |
 | [pivot_format_conditions](/cells/python-net/aspose.cells.pivot/pivottable/pivot_format_conditions) | Gets the Format Conditions of the pivot table. |
 | [conditional_formats](/cells/python-net/aspose.cells.pivot/pivottable/conditional_formats) | Gets the conditional formats of the pivot table. |
@@ -150,6 +150,8 @@ The PivotTable type exposes the following members:
 | [`get_names_of_source_data_connections(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_names_of_source_data_connections/#) | Gets the names of external source data connections. |
 | [`change_data_source(self, source)`](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Change data source of the pivottable. |
 | [`clear_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_data/#) | Clear data and formatting of PivotTable view. |
+| [`clear_filters(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_filters/#) | Clears all filters of this pivot table. |
+| [`clear_all(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_all/#) | Remove all fields from regions. |
 | [`calculate_range(self)`](/cells/python-net/aspose.cells.pivot/pivottable/calculate_range/#) | Calculates pivottable's range. |
 | [`format_all(self, style)`](/cells/python-net/aspose.cells.pivot/pivottable/format_all/#aspose.cells.style) | Format all the cell in the pivottable area |
 | [`format_row(self, row, style)`](/cells/python-net/aspose.cells.pivot/pivottable/format_row/#int-aspose.cells.style) | Format the row data in the pivottable area |
@@ -161,6 +163,7 @@ The PivotTable type exposes the following members:
 | [`show_in_outline_form(self)`](/cells/python-net/aspose.cells.pivot/pivottable/show_in_outline_form/#) | Layouts the PivotTable in outline form. |
 | [`show_in_tabular_form(self)`](/cells/python-net/aspose.cells.pivot/pivottable/show_in_tabular_form/#) | Layouts the PivotTable in tabular form. |
 | [`get_cell_by_display_name(self, display_name)`](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#system.string) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField. |
+| [`get_dependent_pivot_tables(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_dependent_pivot_tables/#) | Gets all [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)s that use this PivotTable as their data source. |
 | [`get_children(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_children/#) | Gets the Children Pivot Tables which use this PivotTable data as data source. |
 
 
@@ -241,3 +244,4 @@ book.save("out.xlsx")
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
 * class [`CellArea`](/cells/python-net/aspose.cells/cellarea)
 * class [`PivotField`](/cells/python-net/aspose.cells.pivot/pivotfield)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)

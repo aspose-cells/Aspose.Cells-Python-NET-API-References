@@ -3,7 +3,7 @@ title: line_weight property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /aspose.cells.charts/sparklinegroup/line_weight/
 is_root: false
 ---

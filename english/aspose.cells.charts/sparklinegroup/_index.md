@@ -55,6 +55,8 @@ The SparklineGroup type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [`reset_ranges(self, data_range, is_vertical, location_range)`](/cells/python-net/aspose.cells.charts/sparklinegroup/reset_ranges/#system.string-bool-aspose.cells.cellarea) | Resets the data range and location range of the sparkline group. <br/>This method will clear original sparkline items in the group and creates new sparkline items for the new ranges. |
+| [`set_vertical_axis_max_value(self, type, value)`](/cells/python-net/aspose.cells.charts/sparklinegroup/set_vertical_axis_max_value/#aspose.cells.charts.sparklineaxisminmaxtype-float) | Sets the custom maximum value for the sparkline vertical axis with the specified axis value type. |
+| [`set_vertical_axis_min_value(self, type, value)`](/cells/python-net/aspose.cells.charts/sparklinegroup/set_vertical_axis_min_value/#aspose.cells.charts.sparklineaxisminmaxtype-float) | Sets the custom minimum value for the sparkline vertical axis with the specified axis value type. |
 
 
 

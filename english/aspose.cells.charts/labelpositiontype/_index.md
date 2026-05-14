@@ -20,7 +20,7 @@ The LabelPositionType type exposes the following members:
 | Field | Description |
 | :- | :- |
 | CENTER | Applies only to bar, 2D/3D pie charts |
-| INSIDE_BASE | Applies only to bar, 2d/3d pie charts |
+| INSIDE_BASE | Applies only to bar, 2D/3D pie charts |
 | INSIDE_END | Applies only to bar charts |
 | OUTSIDE_END | Applies only to bar, 2d/3d pie charts |
 | ABOVE | Applies only to line charts |
@@ -28,7 +28,7 @@ The LabelPositionType type exposes the following members:
 | LEFT | Applies only to line charts |
 | RIGHT | Applies only to line charts |
 | BEST_FIT | Applies only to 2D/3D pie charts |
-| MOVED | User moved the data labels only for reading the chart from the template file. |
+| MOVED | User moved the data labels. This is only for reading chart from template file. |
 
 
 

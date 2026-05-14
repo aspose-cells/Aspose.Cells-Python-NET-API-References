@@ -11,7 +11,7 @@ is_root: false
 ## up_bars property
 
 
-Returns an DropBars object that represents the up bars on a line chart.
+Returns a DropBars object that represents the up bars on a line chart.
 Applies only to line charts.
 ### Definition:
 ```python

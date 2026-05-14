@@ -11,7 +11,7 @@ is_root: false
 ## show_expand_collapse_field_buttons property
 
 
-Gets or sets a value indicating whether to show expand/collapse field buttons
+Gets or sets a value indicating whether to show expand or collapse field buttons
 ### Definition:
 ```python
 @property

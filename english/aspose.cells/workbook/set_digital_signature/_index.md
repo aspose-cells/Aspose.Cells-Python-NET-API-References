@@ -3,7 +3,7 @@ title: set_digital_signature method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/workbook/set_digital_signature/
 is_root: false
 ---

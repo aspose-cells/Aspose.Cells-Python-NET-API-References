@@ -3,7 +3,7 @@ title: PclSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1200
+weight: 1210
 url: /aspose.cells/pclsaveoptions/
 is_root: false
 ---
@@ -23,7 +23,7 @@ The PclSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/cells/python-net/aspose.cells/pclsaveoptions/__init__/#) | Creates the options for saving pdf file. |
+| [`__init__(self)`](/cells/python-net/aspose.cells/pclsaveoptions/__init__/#) | Creates the options for saving pcl file. |
 
 
 ### Properties

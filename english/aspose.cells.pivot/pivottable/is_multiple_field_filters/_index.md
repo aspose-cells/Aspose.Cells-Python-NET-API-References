@@ -3,7 +3,7 @@ title: is_multiple_field_filters property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 760
 url: /aspose.cells.pivot/pivottable/is_multiple_field_filters/
 is_root: false
 ---

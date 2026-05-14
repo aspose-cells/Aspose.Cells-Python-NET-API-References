@@ -3,7 +3,7 @@ title: remove_digital_signature method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/workbook/remove_digital_signature/
 is_root: false
 ---

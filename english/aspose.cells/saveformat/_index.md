@@ -3,7 +3,7 @@ title: SaveFormat enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2610
+weight: 2630
 url: /aspose.cells/saveformat/
 is_root: false
 ---
@@ -60,6 +60,7 @@ The SaveFormat type exposes the following members:
 | EPUB | Represents Epub file. |
 | AZW3 | Represents Azw3 file. |
 | PCL | PCL (Printer Command Language) |
+| OFD | OFD (Open Fixed-layout Document) |
 | DBF | Xbase Data file |
 
 

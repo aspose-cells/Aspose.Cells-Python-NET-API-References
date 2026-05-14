@@ -11,7 +11,7 @@ is_root: false
 ## values_format_code property
 
 
-Represents format code of Values' NumberList.
+Represents the format code of the Values NumberList.
 ### Definition:
 ```python
 @property
