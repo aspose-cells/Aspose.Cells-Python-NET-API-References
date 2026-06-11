@@ -10,7 +10,7 @@ is_root: false
 
 ## DropBars class
 
-Represents the up/down bars in a chart.
+Represents the up and down bars in a chart.
 
 
 

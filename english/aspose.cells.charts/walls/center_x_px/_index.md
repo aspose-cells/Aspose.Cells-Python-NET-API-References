@@ -11,7 +11,7 @@ is_root: false
 ## center_x_px property
 
 
-Gets the x coordinate of the left-bottom corner of Wall center in units of pixels after calls Chart.Calculate() method.
+Gets the x coordinate of the left-bottom corner of Wall center in units of pixels after calling the Chart.Calculate() method.
 ### Definition:
 ```python
 @property

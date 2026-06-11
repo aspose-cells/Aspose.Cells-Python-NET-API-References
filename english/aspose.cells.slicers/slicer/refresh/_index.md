@@ -3,15 +3,14 @@ title: refresh method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells.slicers/slicer/refresh/
 is_root: false
 ---
 
 ## refresh(self) {#}
 
-Refreshing the slicer.
-Meanwhile, Refreshing and Calculating PivotTables which this slicer based on.
+Refreshing the items of the slicer from the associated pivot tables.
 
 
 

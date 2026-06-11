@@ -34,7 +34,7 @@ Gets the [`ChartPoint`](/cells/python-net/aspose.cells.charts/chartpoint) elemen
 | Method | Description |
 | :- | :- |
 | [`clear(self)`](/cells/python-net/aspose.cells.charts/chartpointcollection/clear/#) | Remove all setting of the chart points. |
-| [`remove_at(self, index)`](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series.. |
+| [`remove_at(self, index)`](/cells/python-net/aspose.cells.charts/chartpointcollection/remove_at/#int) | Removes point at the index of the series. |
 
 
 

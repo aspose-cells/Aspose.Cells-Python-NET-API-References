@@ -19,11 +19,11 @@ The ChartSplitType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| POSITION | Represents the data points shall be split between the pie<br/>and the second chart by putting the last Split Position<br/>of the data points in the second chart |
+| POSITION | Represents the data points.<br/>The data points shall be split between the pie and the second chart by putting the last split position of the data points in the second chart. |
 | VALUE | Represents the data points shall be split between the pie<br/>and the second chart by putting the data points with<br/>value less than Split Position in the second chart. |
-| PERCENT_VALUE | Represents the data points shall be split between the pie<br/>and the second chart by putting the points with<br/>percentage less than Split Position percent in the<br/>second chart. |
+| PERCENT_VALUE | Represents the data points that shall be split between the pie and the second chart by putting the points with a percentage less than the Split Position percent in the second chart. |
 | CUSTOM | Represents the data points shall be split between the pie<br/>and the second chart according to the Custom Split<br/>values. |
-| AUTO | Represents the data points shall be split using the default<br/>mechanism for this chart type. |
+| AUTO | Represents the data points that shall be split using the default mechanism for this chart type. |
 
 
 

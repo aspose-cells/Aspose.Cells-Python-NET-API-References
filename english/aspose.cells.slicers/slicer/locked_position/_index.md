@@ -3,7 +3,7 @@ title: locked_position property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 200
 url: /aspose.cells.slicers/slicer/locked_position/
 is_root: false
 ---

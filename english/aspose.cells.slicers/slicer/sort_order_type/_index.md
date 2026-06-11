@@ -3,7 +3,7 @@ title: sort_order_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 330
 url: /aspose.cells.slicers/slicer/sort_order_type/
 is_root: false
 ---

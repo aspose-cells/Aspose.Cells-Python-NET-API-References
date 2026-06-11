@@ -3,7 +3,7 @@ title: column_width property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /aspose.cells.slicers/slicer/column_width/
 is_root: false
 ---

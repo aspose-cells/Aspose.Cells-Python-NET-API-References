@@ -11,7 +11,7 @@ is_root: false
 ## default_height property
 
 
-Represents height of default position in units of 1/4000 of the chart area.
+Represents height of the default position in units of 1/4000 of the chart area.
 
 ### Remarks 
 

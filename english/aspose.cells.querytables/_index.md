@@ -26,6 +26,7 @@ The **Aspose.Cells.QueryTables**  namespace provides classes to access and updat
 ### Enumerations
 | Enumeration | Description |
 | :- | :- |
+| [`PowerQueryFormulaItemType`](/cells/python-net/aspose.cells.querytables/powerqueryformulaitemtype) | Represents the type of a Power Query formula item. |
 | [`PowerQueryFormulaType`](/cells/python-net/aspose.cells.querytables/powerqueryformulatype) | Represents the type of power query formula. |
 
 

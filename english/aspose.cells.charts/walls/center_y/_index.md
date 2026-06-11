@@ -11,7 +11,7 @@ is_root: false
 ## center_y property
 
 
-Gets the y coordinate of the left-bottom corner of Wall center in units of 1/4000 of chart's height after calls Chart.Calculate() method.
+Gets the y coordinate of the left-bottom corner of Wall center in units of 1/4000 of chart's height after calling the Chart.Calculate() method.
 ### Definition:
 ```python
 @property

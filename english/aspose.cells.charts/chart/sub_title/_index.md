@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets the chart's sub-title.
-Only for ODS format file.
+Only applies to ODS files.
 ### Definition:
 ```python
 @property

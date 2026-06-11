@@ -11,7 +11,7 @@ is_root: false
 ## amount property
 
 
-Represents amount of error bar.
+Represents the amount of error bar.
 
 ### Remarks 
 

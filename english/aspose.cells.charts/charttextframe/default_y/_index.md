@@ -11,7 +11,7 @@ is_root: false
 ## default_y property
 
 
-Represents y of default position in units of 1/4000 of the chart area.
+Represents the y of the default position in units of 1/4000 of the chart area.
 
 ### Remarks 
 

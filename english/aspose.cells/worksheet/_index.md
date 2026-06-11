@@ -27,6 +27,7 @@ The Worksheet type exposes the following members:
 | [type](/cells/python-net/aspose.cells/worksheet/type) | Represents worksheet type. |
 | [name](/cells/python-net/aspose.cells/worksheet/name) | Gets or sets the name of the worksheet. |
 | [show_formulas](/cells/python-net/aspose.cells/worksheet/show_formulas) | Indicates whether to show formulas or their results. |
+| [show_data_type_icons](/cells/python-net/aspose.cells/worksheet/show_data_type_icons) | Indicates whether to show data type icons. |
 | [is_gridlines_visible](/cells/python-net/aspose.cells/worksheet/is_gridlines_visible) | Gets or sets a value indicating whether the gridlines are visible.Default is true. |
 | [is_row_column_headers_visible](/cells/python-net/aspose.cells/worksheet/is_row_column_headers_visible) | Gets or sets a value indicating whether the worksheet will display row and column headers.<br/>Default is true. |
 | [pane_state](/cells/python-net/aspose.cells/worksheet/pane_state) | Indicates whether the pane has horizontal or vertical splits, and whether those splits are frozen. |

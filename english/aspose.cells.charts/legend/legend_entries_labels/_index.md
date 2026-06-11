@@ -11,7 +11,7 @@ is_root: false
 ## legend_entries_labels property
 
 
-Gets the labels of the legend entries after call Chart.Calculate() method.
+Gets the labels of the legend entries after calling the Chart.Calculate() method.
 
 ### Remarks 
 

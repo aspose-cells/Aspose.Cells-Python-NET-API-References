@@ -11,7 +11,9 @@ is_root: false
 ## show_bubble_size property
 
 
-Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide.
+Represents a specified chart's data label percentage value display behavior.
+True displays the percentage value.
+False hides the percentage value.
 ### Definition:
 ```python
 @property

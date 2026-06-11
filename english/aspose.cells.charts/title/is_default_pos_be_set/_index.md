@@ -11,7 +11,7 @@ is_root: false
 ## is_default_pos_be_set property
 
 
-Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set.
+Indicates whether default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set.
 ### Definition:
 ```python
 @property

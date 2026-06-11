@@ -11,7 +11,13 @@ is_root: false
 ## selected property
 
 
-Specifies whether the SlicerItem is selected or not.
+Specifies whether the [`SlicerCacheItem`](/cells/python-net/aspose.cells.slicers/slicercacheitem) is selected or not.
+
+### Remarks 
+
+
+Please use [`Slicer.select_items`](/cells/python-net/aspose.cells.slicers/slicer/select_items) method instead if you want to select item.
+Because this refresh operation causes poor performance due to full data reload every time selection changes.
 ### Definition:
 ```python
 @property

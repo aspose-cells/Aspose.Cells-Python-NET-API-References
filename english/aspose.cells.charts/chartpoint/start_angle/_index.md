@@ -11,7 +11,7 @@ is_root: false
 ## start_angle property
 
 
-Gets the starting angle for the pie section, measured in degrees clockwise from the x-axis after calls Chart.Calculate() method.
+Gets the starting angle for the pie section, measured in degrees clockwise from the x-axis after calling the Chart.Calculate() method.
 Applies to Pie chart.
 ### Definition:
 ```python

@@ -3,7 +3,7 @@ title: is_locked property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 160
 url: /aspose.cells.slicers/slicer/is_locked/
 is_root: false
 ---

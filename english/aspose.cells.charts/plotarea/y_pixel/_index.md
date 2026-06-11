@@ -11,7 +11,7 @@ is_root: false
 ## y_pixel property
 
 
-Gets or sets the y coordinate of the upper left corner in units of Pixel.
+Gets or sets the y coordinate of the upper left corner in units of pixels.
 ### Definition:
 ```python
 @property

@@ -37,27 +37,27 @@ The DisplayUnitLabel type exposes the following members:
 | [is_automatic_size](/cells/python-net/aspose.cells.charts/displayunitlabel/is_automatic_size) | Indicates whether the chart frame is automatic sized. |
 | [x](/cells/python-net/aspose.cells.charts/displayunitlabel/x) | Gets or sets the x coordinate of the upper left corner in units of 1/4000 of the chart area. |
 | [y](/cells/python-net/aspose.cells.charts/displayunitlabel/y) | Gets or sets the y coordinate of the upper left corner in units of 1/4000 of the chart area. |
-| [height](/cells/python-net/aspose.cells.charts/displayunitlabel/height) | Gets or sets the height of frame in units of 1/4000 of the chart area. |
+| [height](/cells/python-net/aspose.cells.charts/displayunitlabel/height) | Gets or sets the height of the frame in units of 1/4000 of the chart area. |
 | [width](/cells/python-net/aspose.cells.charts/displayunitlabel/width) | Gets or sets the width of frame in units of 1/4000 of the chart area. |
 | [shadow](/cells/python-net/aspose.cells.charts/displayunitlabel/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/displayunitlabel/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
-| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Indicates whether default position(DefaultX, DefaultY, DefaultWidth and DefaultHeight) are set. |
+| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/displayunitlabel/is_default_pos_be_set) | Indicates whether default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set. |
 | [default_x](/cells/python-net/aspose.cells.charts/displayunitlabel/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
-| [default_y](/cells/python-net/aspose.cells.charts/displayunitlabel/default_y) | Represents y of default position in units of 1/4000 of the chart area. |
+| [default_y](/cells/python-net/aspose.cells.charts/displayunitlabel/default_y) | Represents the y of the default position in units of 1/4000 of the chart area. |
 | [default_width](/cells/python-net/aspose.cells.charts/displayunitlabel/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
-| [default_height](/cells/python-net/aspose.cells.charts/displayunitlabel/default_height) | Represents height of default position in units of 1/4000 of the chart area. |
+| [default_height](/cells/python-net/aspose.cells.charts/displayunitlabel/default_height) | Represents height of the default position in units of 1/4000 of the chart area. |
 | [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
-| [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_y_ratio_to_chart) | Represents y of default position in units of Fraction of the chart area. |
+| [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_y_ratio_to_chart) | Represents y of the default position in units of the fraction of the chart area. |
 | [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
-| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_height_ratio_to_chart) | Represents height of default position in units of Fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/default_height_ratio_to_chart) | Represents height of the default position in units of the fraction of the chart area. |
 | [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner in units of ratio of the chart area. |
-| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of ratio of the chart area. |
+| [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of the ratio of the chart area. |
 | [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/width_ratio_to_chart) | Gets or sets the width of frame in units of ratio of the chart area. |
-| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/height_ratio_to_chart) | Gets or sets the height of frame in units of ratio of the chart area. |
+| [height_ratio_to_chart](/cells/python-net/aspose.cells.charts/displayunitlabel/height_ratio_to_chart) | Gets or sets the height of the frame in units of the ratio of the chart area. |
 | [x_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/x_pixel) | Gets or sets the x coordinate of the upper left corner in units of Pixel. |
-| [y_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of Pixel. |
+| [y_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/y_pixel) | Gets or sets the y coordinate of the upper left corner in units of pixels. |
 | [width_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/width_pixel) | Gets or sets the width of frame in units of Pixel. |
-| [height_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/height_pixel) | Gets or sets the height of frame in units of Pixel. |
+| [height_pixel](/cells/python-net/aspose.cells.charts/displayunitlabel/height_pixel) | Gets or sets the height of the frame in units of pixels. |
 | [is_auto_text](/cells/python-net/aspose.cells.charts/displayunitlabel/is_auto_text) | Indicates the text is auto generated. |
 | [is_deleted](/cells/python-net/aspose.cells.charts/displayunitlabel/is_deleted) | Indicates whether this data label is deleted. |
 | [text_horizontal_alignment](/cells/python-net/aspose.cells.charts/displayunitlabel/text_horizontal_alignment) | Gets and sets the text horizontal alignment. |

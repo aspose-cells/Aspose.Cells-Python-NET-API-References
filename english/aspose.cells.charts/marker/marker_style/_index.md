@@ -11,7 +11,8 @@ is_root: false
 ## marker_style property
 
 
-Represents the marker style. Applies to line chart, scatter chart, or radar chart.
+Represents the marker style.
+Applies to a line chart, a scatter chart, or a radar chart.
 ### Definition:
 ```python
 @property

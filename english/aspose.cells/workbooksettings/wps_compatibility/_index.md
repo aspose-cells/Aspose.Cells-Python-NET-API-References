@@ -3,7 +3,7 @@ title: wps_compatibility property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells/workbooksettings/wps_compatibility/
 is_root: false
 ---

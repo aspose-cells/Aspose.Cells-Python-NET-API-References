@@ -11,7 +11,7 @@ is_root: false
 ## display_na_as_blank property
 
 
-Indicates whether displaying #N/A as blank value.
+Indicates whether to display #N/A as a blank value.
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## text property
 
 
-Gets or sets the text of display unit label.
+Gets or sets the text of the display unit label.
 ### Definition:
 ```python
 @property

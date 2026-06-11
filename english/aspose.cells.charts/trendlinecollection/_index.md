@@ -25,7 +25,7 @@ The TrendlineCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, type)`](/cells/python-net/aspose.cells.charts/trendlinecollection/add/#aspose.cells.charts.trendlinetype) | Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type. |
+| [`add(self, type)`](/cells/python-net/aspose.cells.charts/trendlinecollection/add/#aspose.cells.charts.trendlinetype) | Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with the specified type. |
 | [`add(self, type, name)`](/cells/python-net/aspose.cells.charts/trendlinecollection/add/#aspose.cells.charts.trendlinetype-system.string) | Adds a [`Trendline`](/cells/python-net/aspose.cells.charts/trendline) object to this collection with specified type and name. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.charts/trendlinecollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.charts/trendlinecollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |

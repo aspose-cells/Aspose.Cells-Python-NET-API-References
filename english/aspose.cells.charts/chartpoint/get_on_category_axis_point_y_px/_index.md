@@ -10,7 +10,8 @@ is_root: false
 
 ## get_on_category_axis_point_y_px(self, index) {#int}
 
-Gets y-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart.
+Gets y-coordinate of the point on category axis after calling the Chart.Calculate() method.
+Only applies to Area chart.
 
 
 

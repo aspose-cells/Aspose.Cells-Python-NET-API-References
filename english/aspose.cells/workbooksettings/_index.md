@@ -47,6 +47,7 @@ The WorkbookSettings type exposes the following members:
 | [is_hidden](/cells/python-net/aspose.cells/workbooksettings/is_hidden) | Indicates whether this workbook is hidden. |
 | [auto_compress_pictures](/cells/python-net/aspose.cells/workbooksettings/auto_compress_pictures) | Specifies a boolean value that indicates the application automatically compressed pictures in the workbook. |
 | [remove_personal_information](/cells/python-net/aspose.cells/workbooksettings/remove_personal_information) | True if personal information can be removed from the specified workbook. |
+| [shape_display_type](/cells/python-net/aspose.cells/workbooksettings/shape_display_type) | Gets and sets how the application displays shapes in this workbook |
 | [hide_pivot_field_list](/cells/python-net/aspose.cells/workbooksettings/hide_pivot_field_list) | Gets and sets whether hide the field list for the PivotTable. |
 | [max_unique_items_per_field](/cells/python-net/aspose.cells/workbooksettings/max_unique_items_per_field) | Gets and set the limitation of unique items per field |
 | [update_links_type](/cells/python-net/aspose.cells/workbooksettings/update_links_type) | Gets and sets how updates external links when the workbook is opened. |

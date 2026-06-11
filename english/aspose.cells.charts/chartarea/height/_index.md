@@ -11,7 +11,7 @@ is_root: false
 ## height property
 
 
-Gets or sets the vertical offset from its lower right corner row, in units of 1/4000 of the chart area.
+Gets or sets the vertical offset from its lower‑right corner row, in units of 1/4000 of the chart area.
 
 ### Remarks 
 

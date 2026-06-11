@@ -3,7 +3,7 @@ title: first_item_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /aspose.cells.slicers/slicer/first_item_index/
 is_root: false
 ---

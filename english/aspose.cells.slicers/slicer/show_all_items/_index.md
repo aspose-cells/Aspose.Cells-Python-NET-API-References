@@ -3,7 +3,7 @@ title: show_all_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /aspose.cells.slicers/slicer/show_all_items/
 is_root: false
 ---

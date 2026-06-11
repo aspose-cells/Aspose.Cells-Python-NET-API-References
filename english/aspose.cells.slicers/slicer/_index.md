@@ -58,7 +58,9 @@ The Slicer type exposes the following members:
 | :- | :- |
 | [`add_pivot_connection(self, pivot)`](/cells/python-net/aspose.cells.slicers/slicer/add_pivot_connection/#aspose.cells.pivot.pivottable) | Adds PivotTable connection. |
 | [`remove_pivot_connection(self, pivot)`](/cells/python-net/aspose.cells.slicers/slicer/remove_pivot_connection/#aspose.cells.pivot.pivottable) | Removes PivotTable connection. |
-| [`refresh(self)`](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the slicer.<br/>Meanwhile, Refreshing and Calculating PivotTables which this slicer based on. |
+| [`refresh(self)`](/cells/python-net/aspose.cells.slicers/slicer/refresh/#) | Refreshing the items of the slicer from the associated pivot tables. |
+| [`select_items(self, labels, append)`](/cells/python-net/aspose.cells.slicers/slicer/select_items/#list-bool) |  |
+| [`clear_filter(self)`](/cells/python-net/aspose.cells.slicers/slicer/clear_filter/#) | Remove filters |
 
 
 

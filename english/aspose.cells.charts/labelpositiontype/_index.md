@@ -28,7 +28,7 @@ The LabelPositionType type exposes the following members:
 | LEFT | Applies only to line charts |
 | RIGHT | Applies only to line charts |
 | BEST_FIT | Applies only to 2D/3D pie charts |
-| MOVED | User moved the data labels. This is only for reading chart from template file. |
+| MOVED | User moved the data labels.<br/>This is only for reading the chart from the template file. |
 
 
 

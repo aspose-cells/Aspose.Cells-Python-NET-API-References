@@ -11,7 +11,7 @@ is_root: false
 ## actual_chart_size property
 
 
-Gets actual size of chart in unit of pixels.
+Gets actual size of chart in units of pixels.
 
 ### Remarks 
 

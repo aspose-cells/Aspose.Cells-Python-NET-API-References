@@ -283,6 +283,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`RenameStrategy`](/cells/python-net/aspose.cells/renamestrategy) | Strategy option for duplicate names of columns. |
 | [`ResourceLoadingType`](/cells/python-net/aspose.cells/resourceloadingtype) | Represents how to loading the linked resource. |
 | [`SaveFormat`](/cells/python-net/aspose.cells/saveformat) | Represents the format in which the workbook is saved. |
+| [`ShapeDisplayType`](/cells/python-net/aspose.cells/shapedisplaytype) | Represents how the application displays shapes in this workbook. Shapes might include charts,<br/>images, and other object data that the application supports. |
 | [`SheetType`](/cells/python-net/aspose.cells/sheettype) | Specifies the worksheet type. |
 | [`ShiftType`](/cells/python-net/aspose.cells/shifttype) | Represent the shift options when deleting a range of cells. |
 | [`SignificantDigitsType`](/cells/python-net/aspose.cells/significantdigitstype) | Represents the type of significant digits for outputting numeric values. |

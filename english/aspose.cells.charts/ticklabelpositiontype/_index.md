@@ -21,7 +21,7 @@ The TickLabelPositionType type exposes the following members:
 | :- | :- |
 | HIGH | Position type is high. |
 | LOW | Position type is low. |
-| NEXT_TO_AXIS | Position type is next to axis. |
+| NEXT_TO_AXIS | Position type is next to the axis. |
 | NONE | Position type is none. |
 
 

@@ -3,7 +3,7 @@ title: height_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.slicers/slicer/height_pixel/
 is_root: false
 ---

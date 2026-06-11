@@ -22,7 +22,7 @@ The DataLabelsSeparatorType type exposes the following members:
 | AUTO | Represents automatic separator |
 | SPACE | Represents space(" ") |
 | COMMA | Represents comma(",") |
-| SEMICOLON | Represents semicolon(";") |
+| SEMICOLON | Represents a semicolon(";") |
 | PERIOD | Represents period(".") |
 | NEW_LINE | Represents newline("\n") |
 | CUSTOM | Represents custom separator |

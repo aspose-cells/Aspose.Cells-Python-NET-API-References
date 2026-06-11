@@ -10,7 +10,7 @@ is_root: false
 
 ## Axis class
 
-Encapsulates the object that represents an axis of chart.
+Encapsulates the object that represents an axis of a chart.
 
 
 

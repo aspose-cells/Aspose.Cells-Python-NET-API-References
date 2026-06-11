@@ -11,7 +11,7 @@ is_root: false
 ## border_width_px property
 
 
-Gets the width of border in units of pixels after calls Chart.Calculate() method.
+Gets the width of border in units of pixels after calling the Chart.Calculate() method.
 ### Definition:
 ```python
 @property

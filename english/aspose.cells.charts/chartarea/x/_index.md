@@ -11,7 +11,7 @@ is_root: false
 ## x property
 
 
-Gets or gets the horizontal offset from its upper left corner column, in units of 1/4000 of the chart area.
+Gets or sets the horizontal offset from its upper-left corner column, in units of 1/4000 of the chart area.
 
 ### Remarks 
 

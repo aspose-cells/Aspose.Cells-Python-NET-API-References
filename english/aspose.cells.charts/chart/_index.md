@@ -28,7 +28,7 @@ The Chart type exposes the following members:
 | [plot_empty_cells_type](/cells/python-net/aspose.cells.charts/chart/plot_empty_cells_type) | Gets and sets  how to plot the empty cells. |
 | [plot_visible_cells](/cells/python-net/aspose.cells.charts/chart/plot_visible_cells) | Indicates whether only plot visible cells. |
 | [plot_visible_cells_only](/cells/python-net/aspose.cells.charts/chart/plot_visible_cells_only) | Indicates whether plot visible cells only. |
-| [display_na_as_blank](/cells/python-net/aspose.cells.charts/chart/display_na_as_blank) | Indicates whether displaying #N/A as blank value. |
+| [display_na_as_blank](/cells/python-net/aspose.cells.charts/chart/display_na_as_blank) | Indicates whether to display #N/A as a blank value. |
 | [name](/cells/python-net/aspose.cells.charts/chart/name) | Gets and sets the name of the chart. |
 | [size_with_window](/cells/python-net/aspose.cells.charts/chart/size_with_window) | True if Microsoft Excel resizes the chart to match the size of the chart sheet window. |
 | [worksheet](/cells/python-net/aspose.cells.charts/chart/worksheet) | Gets the worksheet which contains this chart. |
@@ -38,7 +38,7 @@ The Chart type exposes the following members:
 | [n_series](/cells/python-net/aspose.cells.charts/chart/n_series) | Gets a [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series in the chart. |
 | [filtered_n_series](/cells/python-net/aspose.cells.charts/chart/filtered_n_series) | Gets a [`SeriesCollection`](/cells/python-net/aspose.cells.charts/seriescollection) collection representing the data series that are filtered in the chart. |
 | [title](/cells/python-net/aspose.cells.charts/chart/title) | Gets the chart's title. |
-| [sub_title](/cells/python-net/aspose.cells.charts/chart/sub_title) | Gets the chart's sub-title.<br/>Only for ODS format file. |
+| [sub_title](/cells/python-net/aspose.cells.charts/chart/sub_title) | Gets the chart's sub-title.<br/>Only applies to ODS files. |
 | [plot_area](/cells/python-net/aspose.cells.charts/chart/plot_area) | Gets the chart's plot area which includes axis tick labels. |
 | [chart_area](/cells/python-net/aspose.cells.charts/chart/chart_area) | Gets the chart area in the worksheet. |
 | [category_axis](/cells/python-net/aspose.cells.charts/chart/category_axis) | Gets the chart's X axis. |
@@ -64,10 +64,10 @@ The Chart type exposes the following members:
 | [right_angle_axes](/cells/python-net/aspose.cells.charts/chart/right_angle_axes) | True if the chart axes are at right angles. Applies only for 3-D charts(except Column3D and 3-D Pie Charts). |
 | [auto_scaling](/cells/python-net/aspose.cells.charts/chart/auto_scaling) | True if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. <br/>The RightAngleAxes property must be True. |
 | [height_percent](/cells/python-net/aspose.cells.charts/chart/height_percent) | Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). |
-| [perspective](/cells/python-net/aspose.cells.charts/chart/perspective) | Returns or sets the perspective for the 3-D chart view. Must be between 0 and 100.<br/>This property is ignored if the RightAngleAxes property is True. |
+| [perspective](/cells/python-net/aspose.cells.charts/chart/perspective) | Returns or sets the perspective for the three‑dimensional chart view.<br/>Must be between 0 and 100.<br/>This property is ignored if the RightAngleAxes property is True. |
 | [is_3d](/cells/python-net/aspose.cells.charts/chart/is_3d) | Indicates whether the chart is a 3d chart. |
 | [depth_percent](/cells/python-net/aspose.cells.charts/chart/depth_percent) | Represents the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). |
-| [actual_chart_size](/cells/python-net/aspose.cells.charts/chart/actual_chart_size) | Gets actual size of chart in unit of pixels. |
+| [actual_chart_size](/cells/python-net/aspose.cells.charts/chart/actual_chart_size) | Gets actual size of chart in units of pixels. |
 | [placement](/cells/python-net/aspose.cells.charts/chart/placement) | Represents the way the chart is attached to the cells below it. |
 | [page_setup](/cells/python-net/aspose.cells.charts/chart/page_setup) | Represents the page setup description in this chart. |
 | [line](/cells/python-net/aspose.cells.charts/chart/line) | Gets the line. |
@@ -76,7 +76,7 @@ The Chart type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`calculate(self)`](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom position of plot area, axes if the position of them are auto assigned. |
+| [`calculate(self)`](/cells/python-net/aspose.cells.charts/chart/calculate/#) | Calculates the custom positions of the plot area and axes if their positions are auto-assigned. |
 | [`calculate(self, calculate_options)`](/cells/python-net/aspose.cells.charts/chart/calculate/#aspose.cells.charts.chartcalculateoptions) | Calculates the custom position of plot area, axes if the position of them are auto assigned, with Chart Calculate Options. |
 | [`to_image(self, image_file)`](/cells/python-net/aspose.cells.charts/chart/to_image/#system.string) | Creates the chart image and saves it to a file.<br/>The extension of the file name determines the format of the image. |
 | [`to_image(self, image_file, image_type)`](/cells/python-net/aspose.cells.charts/chart/to_image/#system.string-aspose.cells.drawing.imagetype) | Creates the chart image and saves it to a file in the specified image type. |
@@ -87,13 +87,13 @@ The Chart type exposes the following members:
 | [`to_image(self, stream, options)`](/cells/python-net/aspose.cells.charts/chart/to_image/#io.rawiobase-aspose.cells.rendering.imageorprintoptions) | Creates the chart image and saves it to a stream in the specified format. |
 | [`to_pdf(self, file_name)`](/cells/python-net/aspose.cells.charts/chart/to_pdf/#system.string) | Saves the chart to a pdf file. |
 | [`to_pdf(self, file_name, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type)`](/cells/python-net/aspose.cells.charts/chart/to_pdf/#system.string-float-float-aspose.cells.pagelayoutalignmenttype-aspose.cells.pagelayoutalignmenttype) | Saves the chart to a pdf file. |
-| [`to_pdf(self, stream)`](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.rawiobase) | Creates the chart pdf and saves it to a stream. |
+| [`to_pdf(self, stream)`](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.rawiobase) | Creates the chart PDF and saves it to a stream. |
 | [`to_pdf(self, stream, desired_page_width, desired_page_height, h_alignment_type, v_alignment_type)`](/cells/python-net/aspose.cells.charts/chart/to_pdf/#io.rawiobase-float-float-aspose.cells.pagelayoutalignmenttype-aspose.cells.pagelayoutalignmenttype) | Creates the chart pdf and saves it to a stream. |
-| [`is_refered_by_chart(self, row_index, column_index)`](/cells/python-net/aspose.cells.charts/chart/is_refered_by_chart/#int-int) | Returns whether the cell refered by the chart. |
+| [`is_refered_by_chart(self, row_index, column_index)`](/cells/python-net/aspose.cells.charts/chart/is_refered_by_chart/#int-int) | Returns whether the cell is referred by the chart. |
 | [`is_cell_refered_by_chart(self, sheet_index, row_index, column_index)`](/cells/python-net/aspose.cells.charts/chart/is_cell_refered_by_chart/#int-int-int) | Returns whether the cell refered by the chart. |
 | [`is_chart_data_changed(self)`](/cells/python-net/aspose.cells.charts/chart/is_chart_data_changed/#) | Detects if a chart's data source has changed. |
 | [`refresh_pivot_data(self)`](/cells/python-net/aspose.cells.charts/chart/refresh_pivot_data/#) | Refreshes chart's data from pivot table. |
-| [`change_template(self, data)`](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with preset template. |
+| [`change_template(self, data)`](/cells/python-net/aspose.cells.charts/chart/change_template/#bytes) | Change chart type with a preset template. |
 | [`move(self, top_row, left_column, bottom_row, right_column)`](/cells/python-net/aspose.cells.charts/chart/move/#int-int-int-int) | Moves the chart to a specified location. |
 | [`get_actual_size(self)`](/cells/python-net/aspose.cells.charts/chart/get_actual_size/#) | Gets actual size of chart in unit of pixels. |
 | [`has_axis(self, aixs_type, is_primary)`](/cells/python-net/aspose.cells.charts/chart/has_axis/#aspose.cells.charts.axistype-bool) | Returns which axes exist on the chart. |

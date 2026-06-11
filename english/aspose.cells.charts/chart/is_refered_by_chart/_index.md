@@ -10,7 +10,7 @@ is_root: false
 
 ## is_refered_by_chart(self, row_index, column_index) {#int-int}
 
-Returns whether the cell refered by the chart.
+Returns whether the cell is referred by the chart.
 
 
 ### Returns 

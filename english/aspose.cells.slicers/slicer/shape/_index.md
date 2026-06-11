@@ -3,7 +3,7 @@ title: shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 270
 url: /aspose.cells.slicers/slicer/shape/
 is_root: false
 ---

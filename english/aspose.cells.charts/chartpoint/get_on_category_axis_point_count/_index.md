@@ -10,7 +10,8 @@ is_root: false
 
 ## get_on_category_axis_point_count(self) {#}
 
-Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart.
+Gets the number of the points on the category axis after calling the Chart.Calculate() method.
+Only applies to area charts.
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## text property
 
 
-Gets or sets the text of data label.
+Gets or sets the text of the data label.
 
 ### Remarks 
 

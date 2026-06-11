@@ -11,7 +11,7 @@ is_root: false
 ## rotation_angle property
 
 
-Represents text rotation angle in clockwise.
+Represents text rotation angle clockwise.
 
 ### Remarks 
 

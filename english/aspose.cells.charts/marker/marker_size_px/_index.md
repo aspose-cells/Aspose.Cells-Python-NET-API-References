@@ -11,7 +11,8 @@ is_root: false
 ## marker_size_px property
 
 
-Represents the marker size in unit of pixels. Applies to line chart, scatter chart, or radar chart.
+Represents the marker size in units of pixels.
+Applies to line charts, scatter charts, or radar charts.
 ### Definition:
 ```python
 @property

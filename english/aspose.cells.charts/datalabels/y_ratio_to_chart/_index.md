@@ -11,7 +11,7 @@ is_root: false
 ## y_ratio_to_chart property
 
 
-Gets or sets the y coordinate of the upper left corner in units of ratio of the chart area.
+Gets or sets the y coordinate of the upper left corner in units of the ratio of the chart area.
 
 ### Remarks 
 

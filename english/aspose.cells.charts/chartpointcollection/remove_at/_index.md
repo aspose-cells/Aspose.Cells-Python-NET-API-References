@@ -10,7 +10,7 @@ is_root: false
 
 ## remove_at(self, index) {#int}
 
-Removes point at the index of the series..
+Removes point at the index of the series.
 
 
 

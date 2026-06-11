@@ -11,7 +11,7 @@ is_root: false
 ## doughnut_inner_radius property
 
 
-Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method.
+Gets the inner radius of doughnut slice in units of pixels after calling the Chart.Calculate() method.
 Applies to Doughnut chart.
 ### Definition:
 ```python

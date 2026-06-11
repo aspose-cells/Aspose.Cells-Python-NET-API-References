@@ -11,7 +11,7 @@ is_root: false
 ## over_lay property
 
 
-Represents overlay centered title on chart without resizing chart.
+Represents an overlay centered title on a chart without resizing the chart.
 ### Definition:
 ```python
 @property

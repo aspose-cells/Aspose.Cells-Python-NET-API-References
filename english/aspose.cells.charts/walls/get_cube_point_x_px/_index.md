@@ -10,7 +10,7 @@ is_root: false
 
 ## get_cube_point_x_px(self, index) {#int}
 
-Gets x-coordinate of the apex point of walls cube after calls Chart.Calculate() method.
+Gets x-coordinate of the apex point of walls cube after calling the Chart.Calculate() method.
 The number of apex points of walls cube is eight
 
 

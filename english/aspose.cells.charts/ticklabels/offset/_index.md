@@ -11,8 +11,8 @@ is_root: false
 ## offset property
 
 
-Gets and sets the distance of labels from the category axis.  
-Only for category (x) axis.
+Gets and sets the distance of labels from the category axis.
+This applies only to the category (x) axis.
 
 ### Remarks 
 

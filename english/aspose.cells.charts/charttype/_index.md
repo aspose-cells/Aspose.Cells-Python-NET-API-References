@@ -19,23 +19,23 @@ The ChartType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| AREA | Represents Area Chart. |
+| AREA | Represents an Area Chart. |
 | AREA_STACKED | Represents Stacked Area Chart. |
 | AREA_100_PERCENT_STACKED | Represents 100% Stacked Area Chart. |
 | AREA_3D | Represents 3D Area Chart. |
 | AREA_3D_STACKED | Represents 3D Stacked Area Chart. |
 | AREA_3D100_PERCENT_STACKED | Represents 3D 100% Stacked Area Chart. |
-| BAR | Represents Bar Chart: Clustered Bar Chart. |
+| BAR | Represents a Bar Chart: Clustered Bar Chart. |
 | BAR_STACKED | Represents Stacked Bar Chart. |
 | BAR_100_PERCENT_STACKED | Represents 100% Stacked Bar Chart. |
 | BAR_3D_CLUSTERED | Represents 3D Clustered Bar Chart. |
 | BAR_3D_STACKED | Represents 3D Stacked Bar Chart. |
 | BAR_3D100_PERCENT_STACKED | Represents 3D 100% Stacked Bar Chart. |
-| BUBBLE | Represents Bubble Chart. |
+| BUBBLE | Represents a Bubble Chart. |
 | BUBBLE_3D | Represents 3D Bubble Chart. |
 | COLUMN | Represents Column Chart: Clustered Column Chart. |
 | COLUMN_STACKED | Represents Stacked Column Chart. |
-| COLUMN_100_PERCENT_STACKED | Represents 100% Stacked Column Chart. |
+| COLUMN_100_PERCENT_STACKED | Represents a 100% Stacked Column Chart. |
 | COLUMN_3D | Represents 3D Column Chart. |
 | COLUMN_3D_CLUSTERED | Represents 3D Clustered Column Chart. |
 | COLUMN_3D_STACKED | Represents 3D Stacked Column Chart. |
@@ -45,11 +45,11 @@ The ChartType type exposes the following members:
 | CONE_100_PERCENT_STACKED | Represents 100% Stacked Cone Chart. |
 | CONICAL_BAR | Represents Conical Bar Chart. |
 | CONICAL_BAR_STACKED | Represents Stacked Conical Bar Chart. |
-| CONICAL_BAR_100_PERCENT_STACKED | Represents 100% Stacked Conical Bar Chart. |
+| CONICAL_BAR_100_PERCENT_STACKED | Represents a 100% Stacked Conical Bar Chart. |
 | CONICAL_COLUMN_3D | Represents 3D Conical Column Chart. |
-| CYLINDER | Represents Cylinder Chart. |
+| CYLINDER | Represents a Cylinder Chart. |
 | CYLINDER_STACKED | Represents Stacked Cylinder Chart. |
-| CYLINDER_100_PERCENT_STACKED | Represents 100% Stacked Cylinder Chart. |
+| CYLINDER_100_PERCENT_STACKED | Represents a 100% Stacked Cylinder Chart. |
 | CYLINDRICAL_BAR | Represents Cylindrical Bar Chart. |
 | CYLINDRICAL_BAR_STACKED | Represents Stacked Cylindrical Bar Chart. |
 | CYLINDRICAL_BAR_100_PERCENT_STACKED | Represents 100% Stacked Cylindrical Bar Chart. |
@@ -65,11 +65,11 @@ The ChartType type exposes the following members:
 | LINE_3D | Represents 3D Line Chart. |
 | PIE | Represents Pie Chart. |
 | PIE_3D | Represents 3D Pie Chart. |
-| PIE_PIE | Represents Pie of Pie Chart. |
+| PIE_PIE | Represents the pie of a pie chart. |
 | PIE_EXPLODED | Represents Exploded Pie Chart. |
 | PIE_3D_EXPLODED | Represents 3D Exploded Pie Chart. |
 | PIE_BAR | Represents Bar of Pie Chart. |
-| PYRAMID | Represents Pyramid Chart. |
+| PYRAMID | Represents a Pyramid Chart. |
 | PYRAMID_STACKED | Represents Stacked Pyramid Chart. |
 | PYRAMID_100_PERCENT_STACKED | Represents 100% Stacked Pyramid Chart. |
 | PYRAMID_BAR | Represents Pyramid Bar Chart. |
@@ -77,11 +77,11 @@ The ChartType type exposes the following members:
 | PYRAMID_BAR_100_PERCENT_STACKED | Represents 100% Stacked Pyramid Bar Chart. |
 | PYRAMID_COLUMN_3D | Represents 3D Pyramid Column Chart. |
 | RADAR | Represents Radar Chart. |
-| RADAR_WITH_DATA_MARKERS | Represents Radar Chart with data markers. |
+| RADAR_WITH_DATA_MARKERS | Represents a Radar Chart with data markers. |
 | RADAR_FILLED | Represents Filled Radar Chart. |
-| SCATTER | Represents Scatter Chart. |
+| SCATTER | Represents a Scatter Chart. |
 | SCATTER_CONNECTED_BY_CURVES_WITH_DATA_MARKER | Represents Scatter Chart connected by curves, with data markers. |
-| SCATTER_CONNECTED_BY_CURVES_WITHOUT_DATA_MARKER | Represents Scatter Chart connected by curves, without data markers. |
+| SCATTER_CONNECTED_BY_CURVES_WITHOUT_DATA_MARKER | Represents a Scatter Chart connected by curves, without data markers. |
 | SCATTER_CONNECTED_BY_LINES_WITH_DATA_MARKER | Represents Scatter Chart connected by lines, with data markers. |
 | SCATTER_CONNECTED_BY_LINES_WITHOUT_DATA_MARKER | Represents Scatter Chart connected by lines, without data markers. |
 | STOCK_HIGH_LOW_CLOSE | Represents High-Low-Close Stock Chart. |

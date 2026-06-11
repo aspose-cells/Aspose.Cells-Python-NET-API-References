@@ -19,10 +19,11 @@ The SlicerCacheItem type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [selected](/cells/python-net/aspose.cells.slicers/slicercacheitem/selected) | Specifies whether the SlicerItem is selected or not. |
+| [selected](/cells/python-net/aspose.cells.slicers/slicercacheitem/selected) | Specifies whether the [`SlicerCacheItem`](/cells/python-net/aspose.cells.slicers/slicercacheitem) is selected or not. |
 | [value](/cells/python-net/aspose.cells.slicers/slicercacheitem/value) | Returns the label text for the slicer item. |
 
 
 
 ### See Also
 * module [`aspose.cells.slicers`](..)
+* class [`SlicerCacheItem`](/cells/python-net/aspose.cells.slicers/slicercacheitem)

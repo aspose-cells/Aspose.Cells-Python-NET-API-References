@@ -10,7 +10,7 @@ is_root: false
 
 ## set_series_names(self, start_index, area, is_vertical) {#int-System.String-bool}
 
-Sets the name of all the serieses in the chart.
+Sets the names of all the series in the chart.
 
 
 

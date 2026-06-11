@@ -31,42 +31,42 @@ The ChartPoint type exposes the following members:
 | [x_value_type](/cells/python-net/aspose.cells.charts/chartpoint/x_value_type) | Gets X value type of the chart point. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/chartpoint/shape_properties) | Gets the [`ShapePropertyCollection`](/cells/python-net/aspose.cells.drawing/shapepropertycollection) object that holds the visual shape properties of the ChartPoint. |
 | [is_in_secondary_plot](/cells/python-net/aspose.cells.charts/chartpoint/is_in_secondary_plot) | Gets or sets a value indicates whether this data points is in the second pie or bar<br/>on a pie of pie or bar of pie chart |
-| [shape_x](/cells/python-net/aspose.cells.charts/chartpoint/shape_x) | Gets the x coordinate of the upper left corner in units of 1/4000 of chart's width after calls Chart.Calculate() method. |
+| [shape_x](/cells/python-net/aspose.cells.charts/chartpoint/shape_x) | Gets the x coordinate of the upper left corner in units of 1/4000 of chart's width after calling the Chart.Calculate() method. |
 | [shape_y](/cells/python-net/aspose.cells.charts/chartpoint/shape_y) | Gets the y coordinate of the upper left corner in units of 1/4000 of chart's height after calls Chart.Calculate() method. |
-| [shape_width](/cells/python-net/aspose.cells.charts/chartpoint/shape_width) | Gets the width in units of 1/4000 of chart's width after calls Chart.Calculate() method. |
+| [shape_width](/cells/python-net/aspose.cells.charts/chartpoint/shape_width) | Gets the width in units of 1/4000 of the chart's width after calling the Chart.Calculate() method. |
 | [shape_height](/cells/python-net/aspose.cells.charts/chartpoint/shape_height) | Gets the height in units of 1/4000 of chart's height after calls Chart.Calculate() method. |
-| [shape_x_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_x_px) | Gets the x coordinate of the upper left corner in units of pixels after calls Chart.Calculate() method. |
+| [shape_x_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_x_px) | Gets the x coordinate of the upper left corner in units of pixels after calling the Chart.Calculate() method. |
 | [shape_y_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_y_px) | Gets the y coordinate of the upper left corner in units of pixels after calls Chart.Calculate() method. |
-| [shape_width_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_width_px) | Gets the width in units of pixels after calls Chart.Calculate() method. |
+| [shape_width_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_width_px) | Gets the width in units of pixels after calling the Chart.Calculate() method. |
 | [shape_height_px](/cells/python-net/aspose.cells.charts/chartpoint/shape_height_px) | Gets the height in units of pixels after calls Chart.Calculate() method. |
-| [border_width_px](/cells/python-net/aspose.cells.charts/chartpoint/border_width_px) | Gets the width of border in units of pixels after calls Chart.Calculate() method. |
+| [border_width_px](/cells/python-net/aspose.cells.charts/chartpoint/border_width_px) | Gets the width of border in units of pixels after calling the Chart.Calculate() method. |
 | [radius_px](/cells/python-net/aspose.cells.charts/chartpoint/radius_px) | Gets the radius of bubble, pie or doughnut in units of pixels after calls Chart.Calculate() method. |
-| [doughnut_inner_radius](/cells/python-net/aspose.cells.charts/chartpoint/doughnut_inner_radius) | Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
+| [doughnut_inner_radius](/cells/python-net/aspose.cells.charts/chartpoint/doughnut_inner_radius) | Gets the inner radius of doughnut slice in units of pixels after calling the Chart.Calculate() method.<br/>Applies to Doughnut chart. |
 | [inner_radius_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_radius_px) | Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
-| [start_angle](/cells/python-net/aspose.cells.charts/chartpoint/start_angle) | Gets the starting angle for the pie section, measured in degrees clockwise from the x-axis after calls Chart.Calculate() method.<br/>Applies to Pie chart. |
+| [start_angle](/cells/python-net/aspose.cells.charts/chartpoint/start_angle) | Gets the starting angle for the pie section, measured in degrees clockwise from the x-axis after calling the Chart.Calculate() method.<br/>Applies to Pie chart. |
 | [end_angle](/cells/python-net/aspose.cells.charts/chartpoint/end_angle) | Gets the ending angle for the pie section, measured in degrees clockwise from the x-axis after calls Chart.Calculate() method.<br/>Applies to Pie chart. |
-| [arc_start_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Gets the x coordinate of starting point for the pie section after calls Chart.Calculate() method.<br/>Applies to Pie and Doughnut  chart. |
+| [arc_start_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_start_point_x_px) | Gets the x coordinate of starting point for the pie section after calling the Chart.Calculate() method.<br/>Applies to Pie and Doughnut charts. |
 | [arc_start_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_start_point_y_px) | Gets the y coordinate of starting point for the pie section after calls Chart.Calculate() method.<br/>Applies to Pie and Doughnut  chart. |
-| [arc_end_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_end_point_x_px) | Gets the x coordinate of ending point for the pie section after calls Chart.Calculate() method.<br/>Applies to Pie and Doughnut  chart. |
+| [arc_end_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_end_point_x_px) | Gets the x coordinate of the ending point for the pie section after calling the Chart.Calculate() method.<br/>Applies to Pie and Doughnut charts. |
 | [arc_end_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/arc_end_point_y_px) | Gets the y coordinate of ending point for the pie section after calls Chart.Calculate() method.<br/>Applies to Pie and Doughnut chart. |
-| [inner_arc_start_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Gets the x coordinate of starting point for the pie section after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
+| [inner_arc_start_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_start_point_x_px) | Gets the x coordinate of the starting point for the pie section after calling the Chart.Calculate() method.<br/>Applies to the Doughnut chart. |
 | [inner_arc_start_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_start_point_y_px) | Gets the y coordinate of starting point for the pie section after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
-| [inner_arc_end_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | Gets the x coordinate of ending point for the pie section after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
+| [inner_arc_end_point_x_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_end_point_x_px) | Gets the x coordinate of the ending point for the pie section after calling the Chart.Calculate() method.<br/>Applies to Doughnut charts. |
 | [inner_arc_end_point_y_px](/cells/python-net/aspose.cells.charts/chartpoint/inner_arc_end_point_y_px) | Gets the y coordinate of ending point for the pie section after calls Chart.Calculate() method.<br/>Applies to Doughnut chart. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get_top_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_count/#) | Gets the number of top points after calls Chart.Calculate() method. |
+| [`get_top_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_count/#) | Gets the number of top points after calling the Chart.Calculate() method. |
 | [`get_top_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_x_px/#int) | Gets x-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
-| [`get_top_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Gets y-coordinate of the top point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D |
+| [`get_top_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_top_point_y_px/#int) | Gets y-coordinate of the top point of the shape after calling the Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid, and Area3D. |
 | [`get_bottom_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_count/#) | Gets the number of bottom points  after calls Chart.Calculate() method. |
-| [`get_bottom_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Gets x-coordinate of the bottom point of shape after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
+| [`get_bottom_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_x_px/#int) | Gets x-coordinate of the bottom point of shape after calling the Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
 | [`get_bottom_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_bottom_point_y_px/#int) | Gets y-coordinate of the bottom point of shape  after calls Chart.Calculate() method.<br/>Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid |
-| [`get_on_category_axis_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Gets the number of the points on category axis after calls Chart.Calculate() method. Only applies to area chart. |
+| [`get_on_category_axis_point_count(self)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_count/#) | Gets the number of the points on the category axis after calling the Chart.Calculate() method.<br/>Only applies to area charts. |
 | [`get_on_category_axis_point_x_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_x_px/#int) | Gets x-coordinate of the point on category axis after calls Chart.Calculate() method.<br/>Only applies to Area chart. |
-| [`get_on_category_axis_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Gets y-coordinate of the point on category axis after calls Chart.Calculate() method. Only applies to Area chart. |
+| [`get_on_category_axis_point_y_px(self, index)`](/cells/python-net/aspose.cells.charts/chartpoint/get_on_category_axis_point_y_px/#int) | Gets y-coordinate of the point on category axis after calling the Chart.Calculate() method.<br/>Only applies to Area chart. |
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## show_cell_range property
 
 
-Indicates whether showing cell range as the data labels.
+Indicates whether to show cell range as the data labels.
 ### Definition:
 ```python
 @property

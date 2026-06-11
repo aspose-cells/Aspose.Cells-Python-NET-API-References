@@ -11,7 +11,7 @@ is_root: false
 ## field_index property
 
 
-Gets the index of the field to which this filter refers. 
+Gets the index of the field which this filter refers to. 
 A value of -2 indicates the values field.
 ### Definition:
 ```python

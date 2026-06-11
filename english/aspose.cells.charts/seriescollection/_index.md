@@ -19,7 +19,7 @@ The SeriesCollection type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [category_data](/cells/python-net/aspose.cells.charts/seriescollection/category_data) | Gets or sets the range of category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). |
+| [category_data](/cells/python-net/aspose.cells.charts/seriescollection/category_data) | Gets or sets the range of category Axis values.<br/>It can be a range of cells (such as "d1:e10") or a sequence of values (such as "{2,6,8,10}"). |
 | [second_category_data](/cells/python-net/aspose.cells.charts/seriescollection/second_category_data) | Gets or sets the range of second category Axis values. <br/>It can be a range of cells (such as, "d1:e10"), <br/>or a sequence of values (such as,"{2,6,8,10}"). <br/>Only effects when some series were plotted on the second axis. |
 | [is_color_varied](/cells/python-net/aspose.cells.charts/seriescollection/is_color_varied) | Represents if the color of points is varied. |
 | [capacity](/cells/python-net/aspose.cells.charts/seriescollection/capacity) | Gets or sets the number of elements that the array list can contain. |
@@ -48,7 +48,7 @@ Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element at the
 | [`get_series_by_order(self, order)`](/cells/python-net/aspose.cells.charts/seriescollection/get_series_by_order/#int) | Gets the [`Series`](/cells/python-net/aspose.cells.charts/series) element by order. |
 | [`change_series_order(self, source_index, dest_index)`](/cells/python-net/aspose.cells.charts/seriescollection/change_series_order/#int-int) | Directly changes the orders of the two series. |
 | [`swap_series(self, source_index, dest_index)`](/cells/python-net/aspose.cells.charts/seriescollection/swap_series/#int-int) | Directly changes the orders of the two series. |
-| [`set_series_names(self, start_index, area, is_vertical)`](/cells/python-net/aspose.cells.charts/seriescollection/set_series_names/#int-system.string-bool) | Sets the name of all the serieses in the chart. |
+| [`set_series_names(self, start_index, area, is_vertical)`](/cells/python-net/aspose.cells.charts/seriescollection/set_series_names/#int-system.string-bool) | Sets the names of all the series in the chart. |
 | [`add_r1c1(self, area, is_vertical)`](/cells/python-net/aspose.cells.charts/seriescollection/add_r1c1/#system.string-bool) | Adds the [`Series`](/cells/python-net/aspose.cells.charts/series) collection to a chart. |
 | [`change_colors(self, type)`](/cells/python-net/aspose.cells.charts/seriescollection/change_colors/#aspose.cells.charts.chartcolorpalettetype) | Set Monochromatic Palette for chart series. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.charts/seriescollection/binary_search/#aspose.cells.charts.series) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |

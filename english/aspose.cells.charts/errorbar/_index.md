@@ -48,7 +48,7 @@ The ErrorBar type exposes the following members:
 | [gradient_fill](/cells/python-net/aspose.cells.charts/errorbar/gradient_fill) | Represents gradient fill. |
 | [type](/cells/python-net/aspose.cells.charts/errorbar/type) | Represents error bar amount type. |
 | [display_type](/cells/python-net/aspose.cells.charts/errorbar/display_type) | Represents the display type of error bar. |
-| [amount](/cells/python-net/aspose.cells.charts/errorbar/amount) | Represents amount of error bar. |
+| [amount](/cells/python-net/aspose.cells.charts/errorbar/amount) | Represents the amount of error bar. |
 | [show_marker_t_top](/cells/python-net/aspose.cells.charts/errorbar/show_marker_t_top) | Indicates if formatting error bars with a T-top. |
 | [plus_value](/cells/python-net/aspose.cells.charts/errorbar/plus_value) | Represents positive error amount when error bar type is Custom. |
 | [minus_value](/cells/python-net/aspose.cells.charts/errorbar/minus_value) | Represents negative error amount when error bar type is Custom. |

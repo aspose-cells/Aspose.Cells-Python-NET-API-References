@@ -10,8 +10,8 @@ is_root: false
 
 ## get_top_point_y_px(self, index) {#int}
 
-Gets y-coordinate of the top point of shape after calls Chart.Calculate() method.
-Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid and Area3D
+Gets y-coordinate of the top point of the shape after calling the Chart.Calculate() method.
+Applies 3D charts: Column3D, Bar3D, Cone, Cylinder, Pyramid, and Area3D.
 
 
 

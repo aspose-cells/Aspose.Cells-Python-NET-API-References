@@ -3,7 +3,7 @@ title: caption_visible property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /aspose.cells.slicers/slicer/caption_visible/
 is_root: false
 ---

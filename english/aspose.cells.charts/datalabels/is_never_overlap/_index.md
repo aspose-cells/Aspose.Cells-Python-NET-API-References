@@ -11,8 +11,8 @@ is_root: false
 ## is_never_overlap property
 
 
-Indicates whether datalabels never overlap when performing Pie Chart to image. 
-Note: this property is only meaningful when Pie Chart to image.
+Indicates whether Datalabels never overlap when performing a Pie Chart to image.
+Note: this property is only meaningful when a Pie Chart to image.
 ### Definition:
 ```python
 @property

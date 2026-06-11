@@ -3,7 +3,7 @@ title: parent property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 230
 url: /aspose.cells.slicers/slicer/parent/
 is_root: false
 ---

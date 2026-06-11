@@ -13,7 +13,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow access to and
 ### Classes
 | Class | Description |
 | :- | :- |
-| [`Axis`](/cells/python-net/aspose.cells.charts/axis) | Encapsulates the object that represents an axis of chart. |
+| [`Axis`](/cells/python-net/aspose.cells.charts/axis) | Encapsulates the object that represents an axis of a chart. |
 | [`AxisBins`](/cells/python-net/aspose.cells.charts/axisbins) | Represents axis bins |
 | [`Chart`](/cells/python-net/aspose.cells.charts/chart) | Encapsulates the object that represents a single Excel chart. |
 | [`ChartArea`](/cells/python-net/aspose.cells.charts/chartarea) | Encapsulates the object that represents the chart area in the worksheet. |
@@ -28,7 +28,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow access to and
 | [`ChartTextFrame`](/cells/python-net/aspose.cells.charts/charttextframe) | Encapsulates the object that represents the frame object which contains text. |
 | [`DataLabels`](/cells/python-net/aspose.cells.charts/datalabels) | Encapsulates a collection of all the DataLabel objects for the specified Series. |
 | [`DisplayUnitLabel`](/cells/python-net/aspose.cells.charts/displayunitlabel) | Represents the display unit label. |
-| [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars) | Represents the up/down bars in a chart. |
+| [`DropBars`](/cells/python-net/aspose.cells.charts/dropbars) | Represents the up and down bars in a chart. |
 | [`ErrorBar`](/cells/python-net/aspose.cells.charts/errorbar) | Represents error bar of data series. |
 | [`Floor`](/cells/python-net/aspose.cells.charts/floor) | Encapsulates the object that represents the floor of a 3-D chart. |
 | [`Legend`](/cells/python-net/aspose.cells.charts/legend) | Encapsulates the object that represents the chart legend. |
@@ -78,7 +78,7 @@ The **Aspose.Cells.Charts**  namespace provides classes that allow access to and
 | [`MapChartProjectionType`](/cells/python-net/aspose.cells.charts/mapchartprojectiontype) | Represents the projection type of the map chart. |
 | [`MapChartRegionType`](/cells/python-net/aspose.cells.charts/mapchartregiontype) | Represents the region type of the map chart. |
 | [`PlotDataByType`](/cells/python-net/aspose.cells.charts/plotdatabytype) | Represents the type of data plot by row or column. |
-| [`PlotEmptyCellsType`](/cells/python-net/aspose.cells.charts/plotemptycellstype) | Represents all plot empty cells type of a chart. |
+| [`PlotEmptyCellsType`](/cells/python-net/aspose.cells.charts/plotemptycellstype) | Represents all plot empty cell types of a chart. |
 | [`QuartileCalculationType`](/cells/python-net/aspose.cells.charts/quartilecalculationtype) | Represents quartile calculation methods. |
 | [`SparklineAxisMinMaxType`](/cells/python-net/aspose.cells.charts/sparklineaxisminmaxtype) | Represents the minimum and maximum value types for the sparkline vertical axis. |
 | [`SparklinePresetStyleType`](/cells/python-net/aspose.cells.charts/sparklinepresetstyletype) | Represents the preset style types for sparkline. |

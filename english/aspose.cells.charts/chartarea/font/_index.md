@@ -11,7 +11,7 @@ is_root: false
 ## font property
 
 
-Gets a [`ChartArea.font`](/cells/python-net/aspose.cells.charts/chartarea#font) object of the specified chartarea object.
+Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object.
 ### Definition:
 ```python
 @property

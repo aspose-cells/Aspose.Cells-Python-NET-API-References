@@ -11,7 +11,7 @@ is_root: false
 ## shape_x property
 
 
-Gets the x coordinate of the upper left corner in units of 1/4000 of chart's width after calls Chart.Calculate() method.
+Gets the x coordinate of the upper left corner in units of 1/4000 of chart's width after calling the Chart.Calculate() method.
 ### Definition:
 ```python
 @property

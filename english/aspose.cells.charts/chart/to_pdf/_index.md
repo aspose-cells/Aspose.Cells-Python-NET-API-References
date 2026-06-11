@@ -28,7 +28,7 @@ def to_pdf(self, file_name):
 
 ## to_pdf(self, stream) {#io.RawIOBase}
 
-Creates the chart pdf and saves it to a stream.
+Creates the chart PDF and saves it to a stream.
 
 
 

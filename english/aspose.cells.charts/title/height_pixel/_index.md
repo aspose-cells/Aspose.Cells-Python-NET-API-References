@@ -11,7 +11,7 @@ is_root: false
 ## height_pixel property
 
 
-Gets or sets the height of frame in units of Pixel.
+Gets or sets the height of the frame in units of pixels.
 ### Definition:
 ```python
 @property

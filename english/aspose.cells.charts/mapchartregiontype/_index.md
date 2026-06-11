@@ -20,7 +20,7 @@ The MapChartRegionType type exposes the following members:
 | Field | Description |
 | :- | :- |
 | AUTOMATIC | Automatic |
-| DATA_ONLY | Only Data. |
+| DATA_ONLY | Contains only data. |
 | COUNTRY_REGION_LIST | Country region list. |
 | WORLD | World. |
 

@@ -10,7 +10,7 @@ is_root: false
 
 ## change_template(self, data) {#bytes}
 
-Change chart type with preset template.
+Change chart type with a preset template.
 
 
 

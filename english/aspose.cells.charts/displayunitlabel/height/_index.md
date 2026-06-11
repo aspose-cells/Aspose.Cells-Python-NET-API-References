@@ -11,7 +11,7 @@ is_root: false
 ## height property
 
 
-Gets or sets the height of frame in units of 1/4000 of the chart area.
+Gets or sets the height of the frame in units of 1/4000 of the chart area.
 
 ### Remarks 
 

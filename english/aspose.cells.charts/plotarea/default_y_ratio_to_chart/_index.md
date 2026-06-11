@@ -11,7 +11,7 @@ is_root: false
 ## default_y_ratio_to_chart property
 
 
-Represents y of default position in units of Fraction of the chart area.
+Represents y of the default position in units of the fraction of the chart area.
 ### Definition:
 ```python
 @property
