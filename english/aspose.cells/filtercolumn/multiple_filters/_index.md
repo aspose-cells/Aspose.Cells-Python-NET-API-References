@@ -3,7 +3,7 @@ title: multiple_filters property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /aspose.cells/filtercolumn/multiple_filters/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection) for filtering data by labels or date time.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. 
+Instead,please use FilterColumn.FilterValues property . 
+This property will be removed 12 months later since June 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

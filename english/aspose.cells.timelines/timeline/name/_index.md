@@ -3,7 +3,7 @@ title: name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /aspose.cells.timelines/timeline/name/
 is_root: false
 ---

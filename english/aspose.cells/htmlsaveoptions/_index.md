@@ -3,7 +3,7 @@ title: HtmlSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /aspose.cells/htmlsaveoptions/
 is_root: false
 ---
@@ -118,6 +118,7 @@ The HtmlSaveOptions type exposes the following members:
 | [embedded_font_type](/cells/python-net/aspose.cells/htmlsaveoptions/embedded_font_type) | Gets or sets the type of embedding font file into html file.<br/>Default value is [`HtmlEmbeddedFontType.NONE`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype#NONE) which indicates that no font will be embedded in html. |
 | [export_named_range_anchors](/cells/python-net/aspose.cells/htmlsaveoptions/export_named_range_anchors) | Indicates whether to export anchor elements for named ranges when saving as HTML.<br/>Default value is true. |
 | [data_bar_render_mode](/cells/python-net/aspose.cells/htmlsaveoptions/data_bar_render_mode) | Represents the mode of how to render DataBar when converting Excel files to html files.<br/>Default value is [`DataBarRenderMode.BACKGROUND_COLOR`](/cells/python-net/aspose.cells.rendering/databarrendermode#BACKGROUND_COLOR). |
+| [space_mode](/cells/python-net/aspose.cells/htmlsaveoptions/space_mode) | Indicates how spaces are rendered in HTML output.<br/>This option is currently applied only to numeric formats (e.g. accounting format).<br/>The default value is [`HtmlSpaceMode.CSS`](/cells/python-net/aspose.cells.rendering/htmlspacemode#CSS). |
 
 
 

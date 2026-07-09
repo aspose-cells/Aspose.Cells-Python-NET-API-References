@@ -3,7 +3,7 @@ title: PivotFieldSortSetting class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.pivot/pivotfieldsortsetting/
 is_root: false
 ---

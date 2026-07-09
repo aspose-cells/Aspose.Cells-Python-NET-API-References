@@ -10,7 +10,7 @@ is_root: false
 
 ## DateTimeGroupItem class
 
-Represents the datetime's group setting.
+Represents the datetime group setting.
 
 
 

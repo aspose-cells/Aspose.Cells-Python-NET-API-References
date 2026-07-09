@@ -3,7 +3,7 @@ title: show_selection_label property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 140
 url: /aspose.cells.timelines/timeline/show_selection_label/
 is_root: false
 ---

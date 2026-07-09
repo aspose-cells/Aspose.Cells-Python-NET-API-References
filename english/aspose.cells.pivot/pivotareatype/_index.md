@@ -3,7 +3,7 @@ title: PivotAreaType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 320
 url: /aspose.cells.pivot/pivotareatype/
 is_root: false
 ---

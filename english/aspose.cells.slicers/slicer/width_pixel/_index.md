@@ -3,7 +3,7 @@ title: width_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells.slicers/slicer/width_pixel/
 is_root: false
 ---

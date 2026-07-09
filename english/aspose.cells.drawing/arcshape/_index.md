@@ -125,12 +125,6 @@ The ArcShape type exposes the following members:
 | [geometry](/cells/python-net/aspose.cells.drawing/arcshape/geometry) | Gets the geometry |
 | [create_id](/cells/python-net/aspose.cells.drawing/arcshape/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/arcshape/is_decorative) | Indicates whether the object is decorative. |
-| [begin_arrowhead_style](/cells/python-net/aspose.cells.drawing/arcshape/begin_arrowhead_style) | Gets and sets the begin arrow head style of the line. |
-| [begin_arrowhead_width](/cells/python-net/aspose.cells.drawing/arcshape/begin_arrowhead_width) | Gets and sets the begin arrow head width of the line. |
-| [begin_arrowhead_length](/cells/python-net/aspose.cells.drawing/arcshape/begin_arrowhead_length) | Gets and sets the begin arrow head length of the line. |
-| [end_arrowhead_style](/cells/python-net/aspose.cells.drawing/arcshape/end_arrowhead_style) | Gets and sets the end arrow head style of the line. |
-| [end_arrowhead_width](/cells/python-net/aspose.cells.drawing/arcshape/end_arrowhead_width) | Gets and sets the end arrow head width of the line. |
-| [end_arrowhead_length](/cells/python-net/aspose.cells.drawing/arcshape/end_arrowhead_length) | Gets and sets the end arrow head length of the line. |
 
 
 ### Methods

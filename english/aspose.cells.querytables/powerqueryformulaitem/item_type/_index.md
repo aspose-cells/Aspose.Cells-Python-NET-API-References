@@ -3,7 +3,7 @@ title: item_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 30
 url: /aspose.cells.querytables/powerqueryformulaitem/item_type/
 is_root: false
 ---

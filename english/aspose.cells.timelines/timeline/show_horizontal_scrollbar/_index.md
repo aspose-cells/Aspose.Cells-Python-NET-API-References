@@ -3,7 +3,7 @@ title: show_horizontal_scrollbar property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /aspose.cells.timelines/timeline/show_horizontal_scrollbar/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_horizontal_scrollbar property
 
 
-Indicates whether to display the horizontal ccroll bar.
+Indicates whether to display the horizontal scroll bar.
 ### Definition:
 ```python
 @property

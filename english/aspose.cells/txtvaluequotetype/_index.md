@@ -3,7 +3,7 @@ title: TxtValueQuoteType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2810
+weight: 2840
 url: /aspose.cells/txtvaluequotetype/
 is_root: false
 ---

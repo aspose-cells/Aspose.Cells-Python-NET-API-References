@@ -25,6 +25,8 @@ The ShapeCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`add_copy(self, source_shape, top_row, top, left_column, left)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_copy/#aspose.cells.drawing.shape-int-int-int-int) | Adds and copy a shape to the worksheet. |
+| [`add_copy(self, source_shape, top_row, top, left_column, left, copy_options)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_copy/#aspose.cells.drawing.shape-int-int-int-int-aspose.cells.copyoptions) | Adds and copy a shape to the worksheet. |
 | [`add_shape_in_chart(self, type, placement, left, top, right, bottom, image_data)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_shape_in_chart/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-int-int-int-int-bytes) | Add a shape to chart .All unit is 1/4000 of chart area. |
 | [`add_shape_in_chart(self, type, placement, left, top, right, bottom)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_shape_in_chart/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-int-int-int-int) | Add a shape to chart .All unit is 1/4000 of chart area. |
 | [`add_shape_in_chart_by_scale(self, type, placement, left, top, right, bottom)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_shape_in_chart_by_scale/#aspose.cells.drawing.msodrawingtype-aspose.cells.drawing.placementtype-float-float-float-float) | Add a shape to chart. All unit is percent scale of chart area. |
@@ -39,7 +41,6 @@ The ShapeCollection type exposes the following members:
 | [`last_index_of(self, item, index)`](/cells/python-net/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that extends from the first element to the specified index. |
 | [`last_index_of(self, item, index, count)`](/cells/python-net/aspose.cells.drawing/shapecollection/last_index_of/#aspose.cells.drawing.shape-int-int) | Searches for the specified object and returns the zero-based index of the last occurrence within the range of elements in the array list that contains the specified number of elements and ends at the specified index. |
 | [`get(self, name)`](/cells/python-net/aspose.cells.drawing/shapecollection/get/#system.string) | Gets the [`Shape`](/cells/python-net/aspose.cells.drawing/shape) object by the name of the shape. |
-| [`add_copy(self, source_shape, top_row, top, left_column, left)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_copy/#aspose.cells.drawing.shape-int-int-int-int) | Adds and copy a shape to the worksheet. |
 | [`add_check_box(self, top_row, top, left_column, left, height, width)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_check_box/#int-int-int-int-int-int) | Adds a checkbox to the worksheet. |
 | [`add_text_box(self, top_row, top, left_column, left, height, width)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_text_box/#int-int-int-int-int-int) | Adds a text box to the worksheet. |
 | [`add_equation(self, top_row, top, left_column, left, height, width)`](/cells/python-net/aspose.cells.drawing/shapecollection/add_equation/#int-int-int-int-int-int) | Adds an equation object to the worksheet. |

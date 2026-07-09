@@ -3,7 +3,7 @@ title: left_pixel property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /aspose.cells.slicers/slicer/left_pixel/
 is_root: false
 ---

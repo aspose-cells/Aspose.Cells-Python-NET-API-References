@@ -3,7 +3,7 @@ title: width_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 250
 url: /aspose.cells/comment/width_inch/
 is_root: false
 ---

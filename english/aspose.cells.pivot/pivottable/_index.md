@@ -3,7 +3,7 @@ title: PivotTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /aspose.cells.pivot/pivottable/
 is_root: false
 ---
@@ -19,6 +19,7 @@ The PivotTable type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [pivot_cache](/cells/python-net/aspose.cells.pivot/pivottable/pivot_cache) | Gets the data source. |
 | [is_excel_2003_compatible](/cells/python-net/aspose.cells.pivot/pivottable/is_excel_2003_compatible) | Specifies whether the PivotTable is compatible for Excel2003 when refreshing PivotTable,<br/>if true, a string must be less than or equal to 255 characters, so if the string is greater than 255 characters,<br/>it will be truncated. if false, a string will not have the aforementioned restriction.<br/>The default value is true. |
 | [refreshed_by_who](/cells/python-net/aspose.cells.pivot/pivottable/refreshed_by_who) | Gets the name of the last user who refreshed this PivotTable |
 | [refresh_date](/cells/python-net/aspose.cells.pivot/pivottable/refresh_date) | Gets the last date time when the PivotTable was refreshed. |
@@ -124,7 +125,7 @@ The PivotTable type exposes the following members:
 | [`move_to(self, dest_cell_name)`](/cells/python-net/aspose.cells.pivot/pivottable/move_to/#system.string) | Moves the PivotTable to a different location in the worksheet. |
 | [`get_source(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#) | Get the data source of this pivottable. |
 | [`get_source(self, is_original)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source/#bool) | Get the data source of this pivottable. |
-| [`refresh_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#) | Refreshes pivottable's data and setting from it's data source. |
+| [`refresh_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#) | Refreshes data from it's data source to pivot cache. |
 | [`refresh_data(self, option)`](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data/#aspose.cells.pivot.pivottablerefreshoption) | Refreshes pivottable's data and setting from it's data source with options. |
 | [`calculate_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#) | Calculates data of pivottable to cells. |
 | [`calculate_data(self, option)`](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data/#aspose.cells.pivot.pivottablecalculateoption) | Calculates pivot table with options. |
@@ -149,6 +150,7 @@ The PivotTable type exposes the following members:
 | [`get_source_data_connections(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_source_data_connections/#) | Gets the external connection data sources. |
 | [`get_names_of_source_data_connections(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_names_of_source_data_connections/#) | Gets the names of external source data connections. |
 | [`change_data_source(self, source)`](/cells/python-net/aspose.cells.pivot/pivottable/change_data_source/#list) | Change data source of the pivottable. |
+| [`get_pivots_with_same_pivot_cache(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_pivots_with_same_pivot_cache/#) | Gets all pivot tables with same pivot cache. |
 | [`clear_data(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_data/#) | Clear data and formatting of PivotTable view. |
 | [`clear_filters(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_filters/#) | Clears all filters of this pivot table. |
 | [`clear_all(self)`](/cells/python-net/aspose.cells.pivot/pivottable/clear_all/#) | Remove all fields from regions. |

@@ -136,7 +136,6 @@ The OleObject type exposes the following members:
 | [file_format_type](/cells/python-net/aspose.cells.drawing/oleobject/file_format_type) | Gets and sets the file type of the embedded ole object data |
 | [object_source_full_name](/cells/python-net/aspose.cells.drawing/oleobject/object_source_full_name) | Returns the source full name of the source file for the linked OLE object. |
 | [label](/cells/python-net/aspose.cells.drawing/oleobject/label) | Gets and sets the display label of the linked ole object. |
-| [source_full_name](/cells/python-net/aspose.cells.drawing/oleobject/source_full_name) | Returns the source full name of the source file for the linked OLE object. |
 | [auto_update](/cells/python-net/aspose.cells.drawing/oleobject/auto_update) | Specifies whether the link to the OleObject is automatically updated or not. |
 | [auto_load](/cells/python-net/aspose.cells.drawing/oleobject/auto_load) | Specifies whether the host application for the embedded object shall be called to load<br/>the object data automatically when the parent workbook is opened. |
 | [class_identifier](/cells/python-net/aspose.cells.drawing/oleobject/class_identifier) | Gets and sets the class identifier of the embedded object. <br/>It means which application opens the embedded file. |

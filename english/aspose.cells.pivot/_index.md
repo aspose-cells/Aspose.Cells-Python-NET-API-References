@@ -18,6 +18,8 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotAreaCollection`](/cells/python-net/aspose.cells.pivot/pivotareacollection) | Represents a list of pivot area. |
 | [`PivotAreaFilter`](/cells/python-net/aspose.cells.pivot/pivotareafilter) | Represents the filter of [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) for [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable). |
 | [`PivotAreaFilterCollection`](/cells/python-net/aspose.cells.pivot/pivotareafiltercollection) | Represents the list of filters for [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) |
+| [`PivotCache`](/cells/python-net/aspose.cells.pivot/pivotcache) | Represents the memory cache for some PivotTable reports. |
+| [`PivotCacheCollection`](/cells/python-net/aspose.cells.pivot/pivotcachecollection) | Represents the collection of memory caches from the PivotTable reports in a workbook. |
 | [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat) | Represents a PivotTable Format Condition in PivotFormatCondition Collection. |
 | [`PivotConditionalFormatCollection`](/cells/python-net/aspose.cells.pivot/pivotconditionalformatcollection) | Represents all conditional formats of pivot table. |
 | [`PivotDateTimeRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdatetimerangegroupsettings) | Represents the field grouped by date time range. |

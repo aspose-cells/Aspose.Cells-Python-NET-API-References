@@ -3,7 +3,7 @@ title: PdfSaveOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1220
+weight: 1240
 url: /aspose.cells/pdfsaveoptions/
 is_root: false
 ---
@@ -78,6 +78,8 @@ The PdfSaveOptions type exposes the following members:
 | [font_encoding](/cells/python-net/aspose.cells/pdfsaveoptions/font_encoding) | Gets or sets embedded font encoding in pdf. |
 | [watermark](/cells/python-net/aspose.cells/pdfsaveoptions/watermark) | Gets or sets watermark to output. |
 | [embed_attachments](/cells/python-net/aspose.cells/pdfsaveoptions/embed_attachments) | Indicates whether to embed attachment for Ole objects in Excel. |
+| [zoom_behavior](/cells/python-net/aspose.cells/pdfsaveoptions/zoom_behavior) | Gets or sets the initial view mode when the generated PDF document is opened.<br/><br/>The default value is [`PdfZoomBehavior.NONE`](/cells/python-net/aspose.cells.rendering/pdfzoombehavior#NONE). |
+| [zoom_factor](/cells/python-net/aspose.cells/pdfsaveoptions/zoom_factor) | Gets or sets the zoom percentage used when<br/>[`PdfSaveOptions.zoom_behavior`](/cells/python-net/aspose.cells/pdfsaveoptions#zoom_behavior) is [`PdfZoomBehavior.ZOOM_FACTOR`](/cells/python-net/aspose.cells.rendering/pdfzoombehavior#ZOOM_FACTOR). |
 
 
 ### Methods

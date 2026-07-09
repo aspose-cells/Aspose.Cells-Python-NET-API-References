@@ -3,7 +3,7 @@ title: html_note property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /aspose.cells/comment/html_note/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: lower_delta_y property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 790
 url: /aspose.cells.drawing/checkbox/lower_delta_y/
 is_root: false
 ---

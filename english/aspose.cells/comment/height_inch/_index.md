@@ -3,7 +3,7 @@ title: height_inch property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells/comment/height_inch/
 is_root: false
 ---

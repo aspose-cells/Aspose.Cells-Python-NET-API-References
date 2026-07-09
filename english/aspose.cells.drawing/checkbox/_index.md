@@ -126,7 +126,6 @@ The CheckBox type exposes the following members:
 | [create_id](/cells/python-net/aspose.cells.drawing/checkbox/create_id) | Gets and sets create id for this shape. |
 | [is_decorative](/cells/python-net/aspose.cells.drawing/checkbox/is_decorative) | Indicates whether the object is decorative. |
 | [value](/cells/python-net/aspose.cells.drawing/checkbox/value) | Indicates if the checkbox is checked or not. |
-| [check_value](/cells/python-net/aspose.cells.drawing/checkbox/check_value) | Gets or set checkbox' value. |
 | [checked_value](/cells/python-net/aspose.cells.drawing/checkbox/checked_value) | Gets or set checkbox' value. |
 | [shadow](/cells/python-net/aspose.cells.drawing/checkbox/shadow) | Indicates whether the combobox has 3-D shading. |
 

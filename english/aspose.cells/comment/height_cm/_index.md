@@ -3,7 +3,7 @@ title: height_cm property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /aspose.cells/comment/height_cm/
 is_root: false
 ---

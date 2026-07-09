@@ -3,7 +3,7 @@ title: MarkdownLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1050
+weight: 1070
 url: /aspose.cells/markdownloadoptions/
 is_root: false
 ---

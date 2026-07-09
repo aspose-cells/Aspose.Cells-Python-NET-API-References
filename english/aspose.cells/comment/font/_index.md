@@ -3,7 +3,7 @@ title: font property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /aspose.cells/comment/font/
 is_root: false
 ---

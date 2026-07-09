@@ -3,7 +3,7 @@ title: HtmlLoadOptions class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 780
+weight: 800
 url: /aspose.cells/htmlloadoptions/
 is_root: false
 ---

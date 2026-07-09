@@ -3,7 +3,7 @@ title: reserve_missing_pivot_item_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells.pivot/pivottablecalculateoption/reserve_missing_pivot_item_type/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: WorkbookSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1700
+weight: 1720
 url: /aspose.cells/workbooksettings/
 is_root: false
 ---

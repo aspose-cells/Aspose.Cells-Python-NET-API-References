@@ -3,7 +3,7 @@ title: WorksheetCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1720
+weight: 1740
 url: /aspose.cells/worksheetcollection/
 is_root: false
 ---
@@ -32,6 +32,7 @@ The WorksheetCollection type exposes the following members:
 | [custom_document_properties](/cells/python-net/aspose.cells/worksheetcollection/custom_document_properties) | Returns a [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty) collection that represents all the custom document properties of the spreadsheet. |
 | [ole_size](/cells/python-net/aspose.cells/worksheetcollection/ole_size) | Gets and Sets displayed size when Workbook file is used as an Ole object. |
 | [external_links](/cells/python-net/aspose.cells/worksheetcollection/external_links) | Represents external links in a workbook. |
+| [pivot_caches](/cells/python-net/aspose.cells/worksheetcollection/pivot_caches) | Gets all [`PivotCache`](/cells/python-net/aspose.cells.pivot/pivotcache). |
 | [table_styles](/cells/python-net/aspose.cells/worksheetcollection/table_styles) | Gets [`WorksheetCollection.table_styles`](/cells/python-net/aspose.cells/worksheetcollection#table_styles) object. |
 | [revision_logs](/cells/python-net/aspose.cells/worksheetcollection/revision_logs) | Represents revision logs. |
 | [sensitivity_labels](/cells/python-net/aspose.cells/worksheetcollection/sensitivity_labels) | Represents all sensitivity labels. |
@@ -107,5 +108,6 @@ sheets.active_sheet_index = 1
 ### See Also
 * module [`aspose.cells`](..)
 * class [`DocumentProperty`](/cells/python-net/aspose.cells.properties/documentproperty)
+* class [`PivotCache`](/cells/python-net/aspose.cells.pivot/pivotcache)
 * class [`Range`](/cells/python-net/aspose.cells/range)
 * class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

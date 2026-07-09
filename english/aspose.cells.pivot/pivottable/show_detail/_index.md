@@ -3,7 +3,7 @@ title: show_detail method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /aspose.cells.pivot/pivottable/show_detail/
 is_root: false
 ---

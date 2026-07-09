@@ -3,7 +3,7 @@ title: show_header property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /aspose.cells.timelines/timeline/show_header/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_header property
 
 
-Indicates whether to display the header.
+Indicates whether to display the header of this timeline.
 ### Definition:
 ```python
 @property

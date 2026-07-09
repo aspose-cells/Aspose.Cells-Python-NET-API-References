@@ -3,7 +3,7 @@ title: get_rich_formattings method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /aspose.cells/comment/get_rich_formattings/
 is_root: false
 ---

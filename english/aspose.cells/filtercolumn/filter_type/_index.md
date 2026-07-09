@@ -3,7 +3,7 @@ title: filter_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells/filtercolumn/filter_type/
 is_root: false
 ---
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets and sets the type fo filtering data.
+
+### Remarks 
+
+
+The corresponding filter object will be created when this property is set.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: is_decorative property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 600
+weight: 540
 url: /aspose.cells.drawing/lineshape/is_decorative/
 is_root: false
 ---
@@ -12,6 +12,16 @@ is_root: false
 
 
 Indicates whether the object is decorative.
+
+### Example 
+
+
+```python
+
+if notshape.is_decorative:
+    shape.is_decorative = True
+
+```
 ### Definition:
 ```python
 @property

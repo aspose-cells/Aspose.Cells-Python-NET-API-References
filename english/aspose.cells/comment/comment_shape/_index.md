@@ -3,7 +3,7 @@ title: comment_shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 90
 url: /aspose.cells/comment/comment_shape/
 is_root: false
 ---

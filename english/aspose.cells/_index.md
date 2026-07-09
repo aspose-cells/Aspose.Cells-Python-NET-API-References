@@ -58,7 +58,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`DataSorter`](/cells/python-net/aspose.cells/datasorter) | Summary description for DataSorter. |
 | [`DataSorterKey`](/cells/python-net/aspose.cells/datasorterkey) | Represents the key of the data sorter. |
 | [`DataSorterKeyCollection`](/cells/python-net/aspose.cells/datasorterkeycollection) | Represents the key list of data sorter. |
-| [`DateTimeGroupItem`](/cells/python-net/aspose.cells/datetimegroupitem) | Represents the datetime's group setting. |
+| [`DateTimeGroupItem`](/cells/python-net/aspose.cells/datetimegroupitem) | Represents the datetime group setting. |
 | [`DefaultStyleSettings`](/cells/python-net/aspose.cells/defaultstylesettings) | Settings for the default values of workbook's style properties. |
 | [`DeleteBlankOptions`](/cells/python-net/aspose.cells/deleteblankoptions) | Represents the setting of deleting blank cells/rows/columns. |
 | [`DeleteOptions`](/cells/python-net/aspose.cells/deleteoptions) | Represents the setting of deleting rows/columns. |
@@ -76,8 +76,10 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FileFontSource`](/cells/python-net/aspose.cells/filefontsource) | Represents the single TrueType font file stored in the file system. |
 | [`FileFormatInfo`](/cells/python-net/aspose.cells/fileformatinfo) | Contains data returned by [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil) file format detection methods. |
 | [`FileFormatUtil`](/cells/python-net/aspose.cells/fileformatutil) | Provides utility methods for converting file format enums to strings or file extensions and back. |
-| [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | Represents a filter for a single column. |
+| [`FilterColumn`](/cells/python-net/aspose.cells/filtercolumn) | Represents a filter for a single column or a column in the table. |
 | [`FilterColumnCollection`](/cells/python-net/aspose.cells/filtercolumncollection) | A collection of Filter objects that represents all the filters in an autofiltered range. |
+| [`FilterValue`](/cells/python-net/aspose.cells/filtervalue) | Represents filter value used in the criteria. |
+| [`FilterValueCollection`](/cells/python-net/aspose.cells/filtervaluecollection) | Represents the multiple filter collection. |
 | [`FindOptions`](/cells/python-net/aspose.cells/findoptions) | Represents find options. |
 | [`FolderFontSource`](/cells/python-net/aspose.cells/folderfontsource) | Represents the folder that contains TrueType font files. |
 | [`Font`](/cells/python-net/aspose.cells/font) | Encapsulates the font object used in a spreadsheet. |
@@ -123,7 +125,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`MarkdownSaveOptions`](/cells/python-net/aspose.cells/markdownsaveoptions) | Represents the save options for markdown. |
 | [`MemoryFontSource`](/cells/python-net/aspose.cells/memoryfontsource) | Represents the single TrueType font file stored in memory. |
 | [`Metered`](/cells/python-net/aspose.cells/metered) | Provides methods to set metered key. |
-| [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection) | Represents the multiple filter collection. |
+| [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection) |  |
 | [`Name`](/cells/python-net/aspose.cells/name) | Represents a defined name for a range of cells. |
 | [`NameCollection`](/cells/python-net/aspose.cells/namecollection) | Represents a collection of all the [`Name`](/cells/python-net/aspose.cells/name) objects in the spreadsheet. |
 | [`NegativeBarFormat`](/cells/python-net/aspose.cells/negativebarformat) | Represents the color settings of the data bars for negative values that are defined by a data bar conditional formatting rule. |
@@ -237,6 +239,7 @@ For example, [`Workbook`](/cells/python-net/aspose.cells/workbook) class is the 
 | [`FilterCategory`](/cells/python-net/aspose.cells/filtercategory) | Represents the category of the filter. |
 | [`FilterOperatorType`](/cells/python-net/aspose.cells/filteroperatortype) | Custom Filter operator type. |
 | [`FilterType`](/cells/python-net/aspose.cells/filtertype) | The filter type. |
+| [`FilterValueType`](/cells/python-net/aspose.cells/filtervaluetype) | Represents type of filter value. |
 | [`FontFileFormatType`](/cells/python-net/aspose.cells/fontfileformattype) | Represents font format type. |
 | [`FontSchemeType`](/cells/python-net/aspose.cells/fontschemetype) | Represents the scheme type of the font. |
 | [`FontSourceType`](/cells/python-net/aspose.cells/fontsourcetype) | Specifies the type of a font source. |

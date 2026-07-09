@@ -23,14 +23,20 @@ def calculate_data(self):
 
 ### Remarks
 
-Cell.Value in the pivot range could not return the correct result if the method is not been called.
-This method calculates data with an inner pivot cache,not original data source.
-So if the data source is changed, please call RefreshData() method first.
+This method only calculate data with the cached data in the [`PivotTable.pivot_cache`](/cells/python-net/aspose.cells.pivot/pivottable#pivot_cache).
+So if you want to calcualte with latest data source, please use [`PivotCache.refresh`](/cells/python-net/aspose.cells.pivot/pivotcache/refresh) method to calculate.
+If only the setting of pivot table is changed, [`PivotTable.calculate_data`](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data) is enough.
 
 ## calculate_data(self, option) {#aspose.cells.pivot.PivotTableCalculateOption}
 
 Calculates pivot table with options.
 
+
+### Returns 
+
+
+Returns all pivot tables which have been calculated.
+If [`PivotTableCalculateOption.refresh_data`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption#refresh_data) is true,all pivot tables based on same pivot cache will be calculated together.
 
 
 ```python
@@ -45,8 +51,9 @@ def calculate_data(self, option):
 | option | aspose.cells.pivot.PivotTableCalculateOption | The options for calculating the pivot table |
 ### Remarks
 
-If PivotTableCalculateOption.RefreshData is true, 
+If [`PivotTableCalculateOption.refresh_data`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption#refresh_data) is true, 
 this method will refresh pivot cache from data source,then calculate all pivot tables based same pivot cache.
+Otherwise, only calculating with the cached data in the pivot cache.
 
 
 ### See Also

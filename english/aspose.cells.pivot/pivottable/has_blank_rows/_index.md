@@ -3,7 +3,7 @@ title: has_blank_rows property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 720
 url: /aspose.cells.pivot/pivottable/has_blank_rows/
 is_root: false
 ---

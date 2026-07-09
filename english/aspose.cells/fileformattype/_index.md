@@ -3,7 +3,7 @@ title: FileFormatType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2140
+weight: 2160
 url: /aspose.cells/fileformattype/
 is_root: false
 ---
@@ -100,6 +100,7 @@ The FileFormatType type exposes the following members:
 | G_ZIP | Rrepesents GZip file. |
 | OTG | Represents an OTG file. |
 | ODB | Represents an Odb file. |
+| OFD | Represents an Ofd file. |
 
 
 

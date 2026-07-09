@@ -3,7 +3,7 @@ title: text property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 960
 url: /aspose.cells.drawing/checkbox/text/
 is_root: false
 ---

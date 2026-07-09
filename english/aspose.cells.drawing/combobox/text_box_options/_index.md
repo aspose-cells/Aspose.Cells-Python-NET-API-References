@@ -12,6 +12,21 @@ is_root: false
 
 
 Gets the text information in the shape
+
+### Example 
+
+
+```python
+from aspose.cells.drawing.texts import ShapeTextVerticalAlignmentType
+
+textBoxOpt = shape.text_box_options
+textBoxOpt.shape_text_vertical_alignment = ShapeTextVerticalAlignmentType.LEFT
+textBoxOpt.top_margin_pt = 0.2
+textBoxOpt.left_margin_pt = 0.2
+textBoxOpt.right_margin_pt = 0.2
+textBoxOpt.bottom_margin_pt = 0.2
+
+```
 ### Definition:
 ```python
 @property

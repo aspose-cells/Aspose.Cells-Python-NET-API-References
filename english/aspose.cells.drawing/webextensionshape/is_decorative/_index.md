@@ -12,6 +12,16 @@ is_root: false
 
 
 Indicates whether the object is decorative.
+
+### Example 
+
+
+```python
+
+if notshape.is_decorative:
+    shape.is_decorative = True
+
+```
 ### Definition:
 ```python
 @property

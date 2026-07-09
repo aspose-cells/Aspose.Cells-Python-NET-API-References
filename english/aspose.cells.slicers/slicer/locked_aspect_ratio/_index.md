@@ -3,7 +3,7 @@ title: locked_aspect_ratio property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /aspose.cells.slicers/slicer/locked_aspect_ratio/
 is_root: false
 ---

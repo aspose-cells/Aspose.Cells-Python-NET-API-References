@@ -3,7 +3,7 @@ title: PivotConditionalFormatCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /aspose.cells.pivot/pivotconditionalformatcollection/
 is_root: false
 ---

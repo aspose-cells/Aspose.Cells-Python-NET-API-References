@@ -3,7 +3,7 @@ title: color_filter property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 30
+weight: 40
 url: /aspose.cells/filtercolumn/color_filter/
 is_root: false
 ---
@@ -12,6 +12,11 @@ is_root: false
 
 
 Gets [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) for filtering data by color.
+
+### Remarks 
+
+
+Sets [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type) as [`FilterType.COLOR_FILTER`](/cells/python-net/aspose.cells/filtertype#COLOR_FILTER) first,otherwise Null will be returned.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: sensitivity_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/worksheetcollection/sensitivity_labels/
 is_root: false
 ---

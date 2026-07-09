@@ -29,6 +29,19 @@ def get_actual_box(self):
 ### Remarks
 
 Note:The interface is not fully functional, especially the location information is not correct.It is recommended not to use this interface until the function is complete.
+### Example 
+
+
+```python
+
+box = shape.get_actual_box()
+print("x = "  + str(box[0]))
+print("y = "  + str(box[1]))
+print("w = "  + str(box[2]))
+print("h = "  + str(box[3]))
+
+```
+
 
 
 ### See Also

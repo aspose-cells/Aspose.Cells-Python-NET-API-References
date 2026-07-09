@@ -3,7 +3,7 @@ title: right_border property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 470
+weight: 480
 url: /aspose.cells/style/right_border/
 is_root: false
 ---

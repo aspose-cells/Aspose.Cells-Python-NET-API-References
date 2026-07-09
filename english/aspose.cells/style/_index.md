@@ -3,7 +3,7 @@ title: Style class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1460
+weight: 1480
 url: /aspose.cells/style/
 is_root: false
 ---
@@ -62,6 +62,7 @@ The Style type exposes the following members:
 | [is_gradient](/cells/python-net/aspose.cells/style/is_gradient) | Indicates whether the cell shading is a gradient pattern. |
 | [is_percent](/cells/python-net/aspose.cells/style/is_percent) | Indicates whether the number format is a percent format. |
 | [is_date_time](/cells/python-net/aspose.cells/style/is_date_time) | Indicates whether the number format is a date format. |
+| [is_check_box](/cells/python-net/aspose.cells/style/is_check_box) | Indicates whether it's a style of check box |
 | [left_border](/cells/python-net/aspose.cells/style/left_border) | Gets the left border. |
 | [right_border](/cells/python-net/aspose.cells/style/right_border) | Gets the right border. |
 | [top_border](/cells/python-net/aspose.cells/style/top_border) | Gets the top border. |

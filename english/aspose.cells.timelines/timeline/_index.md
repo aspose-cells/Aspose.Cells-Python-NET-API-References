@@ -20,10 +20,10 @@ The Timeline type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [show_header](/cells/python-net/aspose.cells.timelines/timeline/show_header) | Indicates whether to display the header. |
+| [show_header](/cells/python-net/aspose.cells.timelines/timeline/show_header) | Indicates whether to display the header of this timeline. |
 | [show_selection_label](/cells/python-net/aspose.cells.timelines/timeline/show_selection_label) | Indicates whether to display the selction label. |
-| [show_time_level](/cells/python-net/aspose.cells.timelines/timeline/show_time_level) | Indicates whether to display the time level. |
-| [show_horizontal_scrollbar](/cells/python-net/aspose.cells.timelines/timeline/show_horizontal_scrollbar) | Indicates whether to display the horizontal ccroll bar. |
+| [show_time_level](/cells/python-net/aspose.cells.timelines/timeline/show_time_level) | Indicates whether to display the drop-down selection box of the time level. |
+| [show_horizontal_scrollbar](/cells/python-net/aspose.cells.timelines/timeline/show_horizontal_scrollbar) | Indicates whether to display the horizontal scroll bar. |
 | [start_date](/cells/python-net/aspose.cells.timelines/timeline/start_date) | Gets and sets the start date of the timespan scrolling position of this [`Timeline`](/cells/python-net/aspose.cells.timelines/timeline). |
 | [current_level](/cells/python-net/aspose.cells.timelines/timeline/current_level) | The current time level of the Timeline. |
 | [selection_level](/cells/python-net/aspose.cells.timelines/timeline/selection_level) | Gets and sets the time level at which the current selection was made for the Timeline. |
@@ -34,6 +34,13 @@ The Timeline type exposes the following members:
 | [top_pixel](/cells/python-net/aspose.cells.timelines/timeline/top_pixel) | Returns or sets the vertical offset of timeline shape from its top row, in pixels. |
 | [width_pixel](/cells/python-net/aspose.cells.timelines/timeline/width_pixel) | Returns or sets the width of the specified timeline, in pixels. |
 | [height_pixel](/cells/python-net/aspose.cells.timelines/timeline/height_pixel) | Returns or sets the height of the specified timeline, in pixels. |
+
+
+### Methods
+| Method | Description |
+| :- | :- |
+| [`get_selectd_date_time_range(self)`](/cells/python-net/aspose.cells.timelines/timeline/get_selectd_date_time_range/#) | Gets the selected range of date time. |
+| [`select(self, start, end, calculate)`](/cells/python-net/aspose.cells.timelines/timeline/select/#system.datetime-system.datetime-bool) | Select item between the date time. |
 
 
 

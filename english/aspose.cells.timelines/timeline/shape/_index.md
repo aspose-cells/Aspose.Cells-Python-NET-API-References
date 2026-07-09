@@ -3,7 +3,7 @@ title: shape property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /aspose.cells.timelines/timeline/shape/
 is_root: false
 ---

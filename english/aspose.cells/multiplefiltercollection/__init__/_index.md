@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self) {#}
 
-Constructs one new instance.
+Constructs a new instance of MultipleFilterCollection
 
 
 

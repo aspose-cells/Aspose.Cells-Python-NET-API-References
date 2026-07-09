@@ -41,12 +41,14 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`HtmlEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype) | Represents the embedded font type in html. |
 | [`HtmlLayoutMode`](/cells/python-net/aspose.cells.rendering/htmllayoutmode) | Represents the layout mode for HTML rendering. |
 | [`HtmlParagraphLayoutMode`](/cells/python-net/aspose.cells.rendering/htmlparagraphlayoutmode) | Specifies how HTML <p> elements are rendered when loading HTML. |
+| [`HtmlSpaceMode`](/cells/python-net/aspose.cells.rendering/htmlspacemode) | Specifies how whitespace is represented in the generated HTML. |
 | [`ImageBinarizationMethod`](/cells/python-net/aspose.cells.rendering/imagebinarizationmethod) | Specifies the method used to binarize image. |
 | [`PdfCompliance`](/cells/python-net/aspose.cells.rendering/pdfcompliance) | Allowing user to set PDF conversion's Compatibility |
 | [`PdfCompressionCore`](/cells/python-net/aspose.cells.rendering/pdfcompressioncore) | Specifies a type of compression applied to all content in the PDF file except images. |
 | [`PdfCustomPropertiesExport`](/cells/python-net/aspose.cells.rendering/pdfcustompropertiesexport) | Specifies the way [`CustomDocumentPropertyCollection`](/cells/python-net/aspose.cells.properties/customdocumentpropertycollection) are exported to PDF file. |
 | [`PdfFontEncoding`](/cells/python-net/aspose.cells.rendering/pdffontencoding) | Represents pdf embedded font encoding. |
 | [`PdfOptimizationType`](/cells/python-net/aspose.cells.rendering/pdfoptimizationtype) | Specifies a type of optimization. |
+| [`PdfZoomBehavior`](/cells/python-net/aspose.cells.rendering/pdfzoombehavior) | Specifies the initial view mode when the generated PDF document is opened. |
 | [`SvgEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/svgembeddedfonttype) | Represents the embedded font type in Svg image. |
 | [`TiffCompression`](/cells/python-net/aspose.cells.rendering/tiffcompression) | Specifies what type of compression to apply when saving images into TIFF format file. |
 

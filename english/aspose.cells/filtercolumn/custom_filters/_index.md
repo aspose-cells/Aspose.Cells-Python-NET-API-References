@@ -3,7 +3,7 @@ title: custom_filters property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /aspose.cells/filtercolumn/custom_filters/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection) for filtering data by custom criteria.
+
+### Remarks 
+
+
+NOTE: This setter of this propery is now obsolete. 
+Instead,please use set FilterType.#ctor as [`FilterType.CUSTOM_FILTERS`](/cells/python-net/aspose.cells/filtertype#CUSTOM_FILTERS).
+This property will be removed 12 months later since June 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

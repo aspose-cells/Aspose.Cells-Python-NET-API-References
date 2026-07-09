@@ -3,7 +3,7 @@ title: create_id property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 350
 url: /aspose.cells.drawing/checkbox/create_id/
 is_root: false
 ---
@@ -12,6 +12,19 @@ is_root: false
 
 
 Gets and sets create id for this shape.
+
+### Example 
+
+
+```python
+from uuid import uuid4
+
+print(shape.create_id)
+g = uuid4()
+shape.create_id = g
+print(shape.create_id)
+
+```
 ### Definition:
 ```python
 @property

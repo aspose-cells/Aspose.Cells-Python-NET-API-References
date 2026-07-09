@@ -12,6 +12,19 @@ is_root: false
 
 
 Gets and sets create id for this shape.
+
+### Example 
+
+
+```python
+from uuid import uuid4
+
+print(shape.create_id)
+g = uuid4()
+shape.create_id = g
+print(shape.create_id)
+
+```
 ### Definition:
 ```python
 @property

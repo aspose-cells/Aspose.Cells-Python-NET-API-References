@@ -3,7 +3,7 @@ title: DirectoryType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 2050
+weight: 2070
 url: /aspose.cells/directorytype/
 is_root: false
 ---

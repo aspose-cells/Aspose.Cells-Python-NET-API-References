@@ -3,7 +3,7 @@ title: show_time_level property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.timelines/timeline/show_time_level/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## show_time_level property
 
 
-Indicates whether to display the time level.
+Indicates whether to display the drop-down selection box of the time level.
 ### Definition:
 ```python
 @property
