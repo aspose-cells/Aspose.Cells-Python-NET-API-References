@@ -25,7 +25,12 @@ def hide_item_detail(self, index, is_hidden_detail):
 | :- | :- | :- |
 | index | int | the index of the pivotItem in the pivotField. |
 | is_hidden_detail | bool | whether the specific PivotItem is hidden |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.PivotItems[int].IsDetailHidden property instead .
+This method will be removed 12 months later since August 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

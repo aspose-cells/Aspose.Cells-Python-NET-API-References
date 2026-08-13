@@ -25,7 +25,8 @@ The VbaProject type exposes the following members:
 | [name](/cells/python-net/aspose.cells.vba/vbaproject/name) | Gets and sets the name of the VBA project. |
 | [is_signed](/cells/python-net/aspose.cells.vba/vbaproject/is_signed) | Indicates whether VBAcode is signed or not. |
 | [is_protected](/cells/python-net/aspose.cells.vba/vbaproject/is_protected) | Indicates whether this VBA project is protected. |
-| [islocked_for_viewing](/cells/python-net/aspose.cells.vba/vbaproject/islocked_for_viewing) | Indicates whether this VBA project is locked for viewing. |
+| [is_locked_for_view](/cells/python-net/aspose.cells.vba/vbaproject/is_locked_for_view) | Indicates whether this VBA project is locked for view.<br/>If true,the codes could not be visible. |
+| [islocked_for_viewing](/cells/python-net/aspose.cells.vba/vbaproject/islocked_for_viewing) | Indicates whether this VBA project is locked for view. |
 | [modules](/cells/python-net/aspose.cells.vba/vbaproject/modules) | Gets all [`VbaModule`](/cells/python-net/aspose.cells.vba/vbamodule) objects. |
 | [references](/cells/python-net/aspose.cells.vba/vbaproject/references) | Gets all references of VBA project. |
 

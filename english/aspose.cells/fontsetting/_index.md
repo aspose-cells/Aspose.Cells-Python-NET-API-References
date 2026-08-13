@@ -56,12 +56,12 @@ worksheet = workbook.worksheets[0]
 cell = worksheet.cells.get("A1")
 # Adding some value to the "A1" cell
 cell.put_value("Visit Aspose!")
-# getting charactor
-charactor = cell.characters(6, 7)
+# getting characters
+character = cell.characters(6, 7)
 # Setting the font of selected characters to bold
-charactor.font.is_bold = True
+character.font.is_bold = True
 # Setting the font color of selected characters to blue
-charactor.font.color = Color.blue
+character.font.color = Color.blue
 # Saving the Excel file
 workbook.save("book1.xls")
 

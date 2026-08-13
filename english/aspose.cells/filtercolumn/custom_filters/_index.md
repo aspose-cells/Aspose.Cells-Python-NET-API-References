@@ -17,7 +17,8 @@ Gets [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercolle
 
 
 NOTE: This setter of this propery is now obsolete. 
-Instead,please use set FilterType.#ctor as [`FilterType.CUSTOM_FILTERS`](/cells/python-net/aspose.cells/filtertype#CUSTOM_FILTERS).
+Instead,please use property [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type) by
+setting it as [`FilterType.CUSTOM_FILTERS`](/cells/python-net/aspose.cells/filtertype#CUSTOM_FILTERS).
 This property will be removed 12 months later since June 2026. 
 Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:

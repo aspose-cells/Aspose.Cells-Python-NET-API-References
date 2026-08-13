@@ -3,7 +3,7 @@ title: xml_map_query method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /aspose.cells/worksheet/xml_map_query/
 is_root: false
 ---
@@ -30,7 +30,12 @@ def xml_map_query(self, path, xml_map):
 | :- | :- | :- |
 | path | System.String | xml element path |
 | xml_map | aspose.cells.XmlMap | Specify an xml map if you want to query for the specific path within a specific map |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use Worksheet.GetAreasOfXmlMapQuery() method. 
+This property will be removed 12 months later since March 2025. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

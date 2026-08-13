@@ -3,7 +3,7 @@ title: get_text_of_years method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_years/
 is_root: false
 ---

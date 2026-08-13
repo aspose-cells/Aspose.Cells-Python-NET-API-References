@@ -3,7 +3,7 @@ title: add_registered_reference method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 40
+weight: 60
 url: /aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/
 is_root: false
 ---

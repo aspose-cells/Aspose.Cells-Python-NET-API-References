@@ -11,7 +11,7 @@ is_root: false
 ## border_color_type property
 
 
-Gets whether to use the same border color as positive data bars.
+Indicates whether to use the same border color as positive data bars.
 ### Definition:
 ```python
 @property

@@ -10,7 +10,7 @@ is_root: false
 
 ## set_array_formula(self, array_formula, row_number, column_number) {#System.String-int-int}
 
-Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in ms excel) to a range of cells.
+Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in MS Excel) to a range of cells.
 
 
 

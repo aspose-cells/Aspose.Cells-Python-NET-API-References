@@ -25,8 +25,8 @@ The BorderType type exposes the following members:
 | BOTTOM_BORDER | Represents bottom border line. |
 | DIAGONAL_DOWN | Represents the diagonal line from top left to right bottom. |
 | DIAGONAL_UP | Represents the diagonal line from bottom left to right top. |
-| VERTICAL | Only for dynamic style, such as conditional formatting. |
-| HORIZONTAL | Only for dynamic style, such as conditional formatting. |
+| VERTICAL | Only for dynamic style, such as conditional formatting,pivot table. |
+| HORIZONTAL | Only for dynamic style, such as conditional formatting,pivot table. |
 | SIDE_BORDERS | Indicates the four side borders: [`BorderType.LEFT_BORDER`](/cells/python-net/aspose.cells/bordertype#LEFT_BORDER),<br/>[`BorderType.RIGHT_BORDER`](/cells/python-net/aspose.cells/bordertype#RIGHT_BORDER), [`BorderType.TOP_BORDER`](/cells/python-net/aspose.cells/bordertype#TOP_BORDER) and [`BorderType.BOTTOM_BORDER`](/cells/python-net/aspose.cells/bordertype#BOTTOM_BORDER). |
 | DIAGONAL | Special combination of multiple borders for user's convenience for some APIs.<br/>Indicates diagonal borders of [`BorderType.DIAGONAL_UP`](/cells/python-net/aspose.cells/bordertype#DIAGONAL_UP) and [`BorderType.DIAGONAL_DOWN`](/cells/python-net/aspose.cells/bordertype#DIAGONAL_DOWN). |
 | DYNAMIC_STYLE_BORDERS | Indicates [`BorderType.VERTICAL`](/cells/python-net/aspose.cells/bordertype#VERTICAL) and [`BorderType.HORIZONTAL`](/cells/python-net/aspose.cells/bordertype#HORIZONTAL) of dynamic style. |

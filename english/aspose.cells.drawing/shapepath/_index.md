@@ -25,6 +25,7 @@ The ShapePath type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [path_segments](/cells/python-net/aspose.cells.drawing/shapepath/path_segments) | Gets [`ShapeSegmentPathCollection`](/cells/python-net/aspose.cells.drawing/shapesegmentpathcollection) list |
 | [path_segement_list](/cells/python-net/aspose.cells.drawing/shapepath/path_segement_list) | Gets [`ShapeSegmentPathCollection`](/cells/python-net/aspose.cells.drawing/shapesegmentpathcollection) list |
 | [width_pixel](/cells/python-net/aspose.cells.drawing/shapepath/width_pixel) | Gets the width of this path in unit of pixels. |
 | [height_pixel](/cells/python-net/aspose.cells.drawing/shapepath/height_pixel) | Gets the height of this path in unit of pixels. |

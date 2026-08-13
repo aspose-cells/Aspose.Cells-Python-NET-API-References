@@ -3,7 +3,7 @@ title: background_color property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /aspose.cells/style/background_color/
 is_root: false
 ---

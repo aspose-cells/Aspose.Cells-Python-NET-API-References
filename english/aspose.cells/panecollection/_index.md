@@ -21,6 +21,7 @@ The PaneCollection type exposes the following members:
 | :- | :- |
 | [first_visible_row_of_bottom_pane](/cells/python-net/aspose.cells/panecollection/first_visible_row_of_bottom_pane) | Gets and sets the first visible row of the bottom pane. |
 | [first_visible_column_of_right_pane](/cells/python-net/aspose.cells/panecollection/first_visible_column_of_right_pane) | Gets and sets the first visible column of the right pane. |
+| [active_pane_type](/cells/python-net/aspose.cells/panecollection/active_pane_type) | Gets and sets the active pane. |
 | [acitve_pane_type](/cells/python-net/aspose.cells/panecollection/acitve_pane_type) | Gets and sets the active pane. |
 
 

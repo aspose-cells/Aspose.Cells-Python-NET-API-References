@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets and sets the active pane.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use [`PaneCollection.active_pane_type`](/cells/python-net/aspose.cells/panecollection#active_pane_type) property.
+This method will be removed 12 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

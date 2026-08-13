@@ -3,7 +3,7 @@ title: refreshed_by_who property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1030
 url: /aspose.cells.pivot/pivottable/refreshed_by_who/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: pivot_table_style_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 930
+weight: 940
 url: /aspose.cells.pivot/pivottable/pivot_table_style_name/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## pivot_table_style_name property
 
 
-Gets and sets the pivottable style name.
+Gets or sets style name of the pivot table.
 ### Definition:
 ```python
 @property

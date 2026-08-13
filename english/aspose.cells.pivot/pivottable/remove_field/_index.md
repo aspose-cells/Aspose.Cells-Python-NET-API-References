@@ -3,7 +3,7 @@ title: remove_field method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /aspose.cells.pivot/pivottable/remove_field/
 is_root: false
 ---
@@ -29,7 +29,7 @@ def remove_field(self, field_type, field_name):
 
 ## remove_field(self, field_type, base_field_index) {#aspose.cells.pivot.PivotFieldType-int}
 
-Removes a field from specific field area
+Removes a field from specific pivot region.
 
 
 

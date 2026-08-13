@@ -3,7 +3,7 @@ title: is_valid_signed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.vba/vbaproject/is_valid_signed/
 is_root: false
 ---

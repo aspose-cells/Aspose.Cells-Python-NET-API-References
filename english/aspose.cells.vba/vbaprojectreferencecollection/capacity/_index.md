@@ -3,7 +3,7 @@ title: capacity property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 120
 url: /aspose.cells.vba/vbaprojectreferencecollection/capacity/
 is_root: false
 ---

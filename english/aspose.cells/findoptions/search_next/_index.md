@@ -3,7 +3,7 @@ title: search_next property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells/findoptions/search_next/
 is_root: false
 ---

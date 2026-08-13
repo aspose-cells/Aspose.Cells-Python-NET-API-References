@@ -23,7 +23,7 @@ The Chart type exposes the following members:
 | [chart_object](/cells/python-net/aspose.cells.charts/chart/chart_object) | Represents the chartShape; |
 | [hide_pivot_field_buttons](/cells/python-net/aspose.cells.charts/chart/hide_pivot_field_buttons) | Indicates whether hide the pivot chart field buttons only when the chart is PivotChart. |
 | [pivot_options](/cells/python-net/aspose.cells.charts/chart/pivot_options) | Specifies the pivot controls that appear on the chart |
-| [pivot_source](/cells/python-net/aspose.cells.charts/chart/pivot_source) | The source is the data of the pivotTable.<br/>If PivotSource is not empty ,the chart is PivotChart. |
+| [pivot_source](/cells/python-net/aspose.cells.charts/chart/pivot_source) | The source is the data of the pivot table.<br/>If PivotSource is not empty ,the chart is PivotChart. |
 | [plot_by](/cells/python-net/aspose.cells.charts/chart/plot_by) | Gets and sets whether plot by row or column. |
 | [plot_empty_cells_type](/cells/python-net/aspose.cells.charts/chart/plot_empty_cells_type) | Gets and sets  how to plot the empty cells. |
 | [plot_visible_cells](/cells/python-net/aspose.cells.charts/chart/plot_visible_cells) | Indicates whether only plot visible cells. |
@@ -106,7 +106,7 @@ The Chart type exposes the following members:
 ### Example 
 
 
-The following codes show how to create a chart with .Net codes.
+The following codes show how to create a chart with .NET codes.
 
 ```python
 from aspose.cells import Workbook

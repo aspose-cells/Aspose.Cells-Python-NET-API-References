@@ -35,6 +35,8 @@ The VbaProjectReferenceCollection type exposes the following members:
 | [`add_registered_reference(self, name, libid)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/add_registered_reference/#system.string-system.string) | Add a reference to an Automation type library. |
 | [`add_control_refrernce(self, name, libid, twiddledlibid, extended_libid)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/#system.string-system.string-system.string-system.string) | Add a reference to a twiddled type library and its extended type library. |
 | [`add_project_refrernce(self, name, absolute_libid, relative_libid)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/add_project_refrernce/#system.string-system.string-system.string) | Adds a reference to an external VBA project. |
+| [`add_control_referernce(self, name, libid, twiddledlibid, extended_libid)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/add_control_referernce/#system.string-system.string-system.string-system.string) | Add a reference to a twiddled type library and its extended type library. |
+| [`add_project_referernce(self, name, absolute_libid, relative_libid)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/add_project_referernce/#system.string-system.string-system.string) | Adds a reference to an external VBA project. |
 | [`binary_search(self, item)`](/cells/python-net/aspose.cells.vba/vbaprojectreferencecollection/binary_search/#aspose.cells.vba.vbaprojectreference) | Searches the entire sorted array list for an element using the default comparer and returns the zero-based index of the element. |
 
 

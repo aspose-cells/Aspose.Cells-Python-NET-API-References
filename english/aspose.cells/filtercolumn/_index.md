@@ -26,9 +26,9 @@ The FilterColumn type exposes the following members:
 | [multiple_filters](/cells/python-net/aspose.cells/filtercolumn/multiple_filters) | Gets [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection) for filtering data by labels or date time. |
 | [custom_filters](/cells/python-net/aspose.cells/filtercolumn/custom_filters) | Gets [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection) for filtering data by custom criteria. |
 | [color_filter](/cells/python-net/aspose.cells/filtercolumn/color_filter) | Gets [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter) for filtering data by color. |
-| [dynamic_filter](/cells/python-net/aspose.cells/filtercolumn/dynamic_filter) | Gets [`DynamicFilter`](/cells/python-net/aspose.cells/dynamicfilter) for filtering with dynamic criteria. |
-| [icon_filter](/cells/python-net/aspose.cells/filtercolumn/icon_filter) | Gets [`IconFilter`](/cells/python-net/aspose.cells/iconfilter) for filtering data by icon. |
-| [top_10_filter](/cells/python-net/aspose.cells/filtercolumn/top_10_filter) | Gets [`Top10Filter`](/cells/python-net/aspose.cells/top10filter) for filtering data by rank of data. |
+| [dynamic_filter](/cells/python-net/aspose.cells/filtercolumn/dynamic_filter) | Gets [`FilterColumn.dynamic_filter`](/cells/python-net/aspose.cells/filtercolumn#dynamic_filter) for filtering with dynamic criteria. |
+| [icon_filter](/cells/python-net/aspose.cells/filtercolumn/icon_filter) | Gets [`FilterColumn.icon_filter`](/cells/python-net/aspose.cells/filtercolumn#icon_filter) for filtering data by icon. |
+| [top_10_filter](/cells/python-net/aspose.cells/filtercolumn/top_10_filter) | Gets [`FilterColumn.top_10_filter`](/cells/python-net/aspose.cells/filtercolumn#top_10_filter) for filtering data by rank of data. |
 | [field_index](/cells/python-net/aspose.cells/filtercolumn/field_index) | Gets and sets the column offset in the range. |
 
 
@@ -43,8 +43,5 @@ The FilterColumn type exposes the following members:
 * module [`aspose.cells`](..)
 * class [`ColorFilter`](/cells/python-net/aspose.cells/colorfilter)
 * class [`CustomFilterCollection`](/cells/python-net/aspose.cells/customfiltercollection)
-* class [`DynamicFilter`](/cells/python-net/aspose.cells/dynamicfilter)
 * class [`FilterValueCollection`](/cells/python-net/aspose.cells/filtervaluecollection)
-* class [`IconFilter`](/cells/python-net/aspose.cells/iconfilter)
 * class [`MultipleFilterCollection`](/cells/python-net/aspose.cells/multiplefiltercollection)
-* class [`Top10Filter`](/cells/python-net/aspose.cells/top10filter)

@@ -19,6 +19,7 @@ The BorderCollection type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [is_outline](/cells/python-net/aspose.cells/bordercollection/is_outline) | Indicates if left, right, top, and bottom borders should be applied only to outside borders of a cell range.<br/>Default value is true. |
 | [diagonal_color](/cells/python-net/aspose.cells/bordercollection/diagonal_color) | Gets or sets the Color of Diagonal lines. |
 | [diagonal_style](/cells/python-net/aspose.cells/bordercollection/diagonal_style) | Gets or sets the style of Diagonal lines. |
 

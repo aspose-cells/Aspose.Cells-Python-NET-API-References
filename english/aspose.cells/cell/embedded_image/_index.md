@@ -11,7 +11,7 @@ is_root: false
 ## embedded_image property
 
 
-Gets and sets the embeddedn image in the cell.
+Gets and sets the embedded image in the cell.
 ### Definition:
 ```python
 @property

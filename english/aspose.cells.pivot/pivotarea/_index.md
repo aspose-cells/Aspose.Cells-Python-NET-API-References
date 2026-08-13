@@ -3,14 +3,14 @@ title: PivotArea class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.pivot/pivotarea/
 is_root: false
 ---
 
 ## PivotArea class
 
-Presents the selected area of the PivotTable.
+Presents the selected area of the pivot table.
 
 
 

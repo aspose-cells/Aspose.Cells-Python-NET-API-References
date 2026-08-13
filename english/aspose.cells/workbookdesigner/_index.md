@@ -65,7 +65,6 @@ wd = WorkbookDesigner()
 wd.workbook = Workbook("SmartMarker_Designer.xls")
 # Initialize your data from data source
 # DataSet ds = new DataSet();
-# ...
 # Set the datatable as the data source.
 # wd.SetDataSource(dt);
 # Process the smart markers to fill the data into the worksheets.

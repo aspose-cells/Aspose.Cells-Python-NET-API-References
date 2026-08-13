@@ -22,7 +22,7 @@ Gets the child shape by index.
 ### Returns 
 
 
-return the child shape.
+returns the child shape.
 
 ### See Also
 * module [`aspose.cells.drawing`](../../)

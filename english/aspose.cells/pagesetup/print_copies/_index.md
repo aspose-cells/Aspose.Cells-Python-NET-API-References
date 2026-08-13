@@ -11,7 +11,7 @@ is_root: false
 ## print_copies property
 
 
-Get and sets number of copies to print.
+Gets and sets number of copies to print.
 ### Definition:
 ```python
 @property

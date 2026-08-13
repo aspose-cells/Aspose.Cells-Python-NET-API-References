@@ -11,7 +11,7 @@ is_root: false
 ## font_name property
 
 
-Get and sets the name of the font.
+Gets and sets the name of the font.
 ### Definition:
 ```python
 @property

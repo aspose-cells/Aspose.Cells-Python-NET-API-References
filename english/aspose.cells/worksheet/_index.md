@@ -144,6 +144,7 @@ The Worksheet type exposes the following members:
 | [`close_access_cache(self, opts)`](/cells/python-net/aspose.cells/worksheet/close_access_cache/#aspose.cells.accesscacheoptions) | Closes the session that uses caches to access the data in this worksheet. |
 | [`convert_formula_reference_style(self, formula, to_r1c1, base_cell_row, base_cell_column)`](/cells/python-net/aspose.cells/worksheet/convert_formula_reference_style/#system.string-bool-int-int) | Converts the formula reference style. |
 | [`xml_map_query(self, path, xml_map)`](/cells/python-net/aspose.cells/worksheet/xml_map_query/#system.string-aspose.cells.xmlmap) | Query cell areas that mapped/linked to the specific path of xml map. |
+| [`get_areas_of_xml_map_query(self, path, xml_map)`](/cells/python-net/aspose.cells/worksheet/get_areas_of_xml_map_query/#system.string-aspose.cells.xmlmap) | Query cell areas that mapped/linked to the specific path of xml map. |
 
 
 

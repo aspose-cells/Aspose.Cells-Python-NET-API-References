@@ -10,13 +10,13 @@ is_root: false
 
 ## get_write_password(self) {#}
 
-Gets the password to modify spread sheet file.
+Gets the password to modify spreadsheet file.
 
 
 ### Returns 
 
 
-Password to modify the spread sheet file.
+Password to modify the spreadsheet file.
 Empty means no protection for modifying the file.
 
 

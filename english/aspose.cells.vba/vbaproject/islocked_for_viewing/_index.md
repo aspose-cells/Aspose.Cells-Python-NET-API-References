@@ -3,7 +3,7 @@ title: islocked_for_viewing property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /aspose.cells.vba/vbaproject/islocked_for_viewing/
 is_root: false
 ---
@@ -11,7 +11,15 @@ is_root: false
 ## islocked_for_viewing property
 
 
-Indicates whether this VBA project is locked for viewing.
+Indicates whether this VBA project is locked for view.
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use VbaProject.IsLockedForView property.
+This property will be removed 12 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

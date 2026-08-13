@@ -65,7 +65,7 @@ The PdfSaveOptions type exposes the following members:
 | [embed_standard_windows_fonts](/cells/python-net/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True to embed true type fonts. <br/>Affects only ASCII characters 32-127.<br/>Fonts for character codes greater than 127 are always embedded.<br/>Fonts are always embedded for PDF/A-1a, PDF/A-1b standard.<br/>Default is true. |
 | [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
 | [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Gets or sets the PDF standards compliance level for output documents. |
-| [security_options](/cells/python-net/aspose.cells/pdfsaveoptions/security_options) | Set this options, when security is need in xls2pdf result. |
+| [security_options](/cells/python-net/aspose.cells/pdfsaveoptions/security_options) | Set these options, when security is needed in xls2pdf result. |
 | [image_type](/cells/python-net/aspose.cells/pdfsaveoptions/image_type) | Represents the image type when converting the chart and shape . |
 | [calculate_formula](/cells/python-net/aspose.cells/pdfsaveoptions/calculate_formula) | Indicates whether to calculate formulas before saving pdf file. |
 | [pdf_compression](/cells/python-net/aspose.cells/pdfsaveoptions/pdf_compression) | Indicate the compression algorithm |

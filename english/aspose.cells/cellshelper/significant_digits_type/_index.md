@@ -11,7 +11,7 @@ is_root: false
 ## significant_digits_type property
 
 
-Gets and sets the default type of significant digits for outputing numeric values.
+Gets and sets the default type of significant digits for outputting numeric values.
 Default value is [`SignificantDigitsType.G17`](/cells/python-net/aspose.cells/significantdigitstype#G17).
 ### Definition:
 ```python

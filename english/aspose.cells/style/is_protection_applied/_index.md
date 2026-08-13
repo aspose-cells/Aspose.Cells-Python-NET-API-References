@@ -3,7 +3,7 @@ title: is_protection_applied property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /aspose.cells/style/is_protection_applied/
 is_root: false
 ---

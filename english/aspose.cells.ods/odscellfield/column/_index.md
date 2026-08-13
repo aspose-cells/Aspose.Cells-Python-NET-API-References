@@ -11,7 +11,7 @@ is_root: false
 ## column property
 
 
-Get and sets the column index of the cell.
+Gets and sets the column index of the cell.
 ### Definition:
 ```python
 @property

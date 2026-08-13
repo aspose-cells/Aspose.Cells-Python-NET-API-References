@@ -3,7 +3,7 @@ title: search_order_by_rows property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 140
 url: /aspose.cells/findoptions/search_order_by_rows/
 is_root: false
 ---

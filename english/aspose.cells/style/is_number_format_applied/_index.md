@@ -3,7 +3,7 @@ title: is_number_format_applied property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /aspose.cells/style/is_number_format_applied/
 is_root: false
 ---

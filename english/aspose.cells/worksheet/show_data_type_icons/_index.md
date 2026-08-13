@@ -3,7 +3,7 @@ title: show_data_type_icons property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 820
 url: /aspose.cells/worksheet/show_data_type_icons/
 is_root: false
 ---

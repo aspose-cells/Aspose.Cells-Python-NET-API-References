@@ -11,12 +11,12 @@ is_root: false
 ## security_options property
 
 
-Set this options, when security is need in xls2pdf result.
+Set these options, when security is needed in xls2pdf result.
 
 ### Example 
 
 
-The following code sets hight resolution print permisson for the output pdf.
+The following code sets height resolution print permisson for the output pdf.
 
 ```python
 from aspose.cells import PdfSaveOptions, Workbook

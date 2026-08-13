@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets [`ShapeSegmentPathCollection`](/cells/python-net/aspose.cells.drawing/shapesegmentpathcollection) list
+
+### Remarks 
+
+
+NOTE: This member is now obsolete. Instead, 
+please use ShapePath.PathSegments property.
+This property will be removed 12 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

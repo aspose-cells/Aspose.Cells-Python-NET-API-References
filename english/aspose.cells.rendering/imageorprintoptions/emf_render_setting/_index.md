@@ -20,7 +20,7 @@ EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF re
 Either type of record can be used to render the image, only EMF+ records, or only EMF records.
 When [`EmfRenderSetting.EMF_PLUS_PREFER`](/cells/python-net/aspose.cells/emfrendersetting#EMF_PLUS_PREFER) is set, then EMF+ records will be parsed while rendering to image, otherwise only EMF records will be parsed.
 Default value is [`EmfRenderSetting.EMF_ONLY`](/cells/python-net/aspose.cells/emfrendersetting#EMF_ONLY).
-For the frameworks that depend on .Net System.Drawing.Common, this setting is ignored.
+For the frameworks that depend on .NET System.Drawing.Common, this setting is ignored.
 ### Definition:
 ```python
 @property

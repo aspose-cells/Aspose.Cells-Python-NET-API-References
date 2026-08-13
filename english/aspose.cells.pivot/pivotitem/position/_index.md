@@ -11,7 +11,7 @@ is_root: false
 ## position property
 
 
-Specifying the position index in all the PivotItems,not the PivotItems under the same parent node.
+Specifying the index of this item in all the PivotItems of the field.
 ### Definition:
 ```python
 @property

@@ -12,6 +12,14 @@ is_root: false
 
 
 Gets the index of the pivot item in cache field.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotItem.Position property .
+This method will be removed 6 months later since August 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: add_control_refrernce method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.vba/vbaprojectreferencecollection/add_control_refrernce/
 is_root: false
 ---
@@ -32,7 +32,12 @@ def add_control_refrernce(self, name, libid, twiddledlibid, extended_libid):
 | libid | System.String | The identifier of an Automation type library. |
 | twiddledlibid | System.String | The identifier of a twiddled type library |
 | extended_libid | System.String | The identifier of an extended type library |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use VbaProjectReferenceCollection.AddControlReferernce() method.
+This method will be removed 12 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

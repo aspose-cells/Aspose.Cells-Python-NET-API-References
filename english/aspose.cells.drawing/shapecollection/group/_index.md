@@ -16,7 +16,7 @@ Group the shapes.
 ### Returns 
 
 
-Return the group shape.
+Returns the group shape.
 
 
 ```python

@@ -11,7 +11,7 @@ is_root: false
 ## row property
 
 
-Get and sets the row index of the cell.
+Gets and sets the row index of the cell.
 ### Definition:
 ```python
 @property

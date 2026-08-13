@@ -3,7 +3,7 @@ title: pivot_items property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 700
 url: /aspose.cells.pivot/pivotfield/pivot_items/
 is_root: false
 ---

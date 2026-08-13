@@ -8,7 +8,7 @@ url: /aspose.cells.markup/customxmlpartcollection/add/
 is_root: false
 ---
 
-## add(self, data, shema_data) {#bytes-bytes}
+## add(self, data, schema_data) {#bytes-bytes}
 
 Adds an item to the collection.
 
@@ -21,7 +21,7 @@ Adds an item to the collection.
 
 ```python
 
-def add(self, data, shema_data):
+def add(self, data, schema_data):
     ...
 ```
 
@@ -29,7 +29,7 @@ def add(self, data, shema_data):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | data | bytes | The XML content of this Custom XML Data Storage Part. |
-| shema_data | bytes | The set of XML schemas that are associated with this custom XML part. |
+| schema_data | bytes | The set of XML schemas that are associated with this custom XML part. |
 
 
 

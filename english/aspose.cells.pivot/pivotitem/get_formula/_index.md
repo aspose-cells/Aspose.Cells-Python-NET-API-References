@@ -11,7 +11,7 @@ is_root: false
 ## get_formula(self) {#}
 
 Gets the formula of this calculated item.
-Only works when this item is calculated item.
+Only works when this item is a calculated item.
 
 
 ### Returns 

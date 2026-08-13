@@ -49,6 +49,35 @@ def group_by(self, custom_group_items, new_field):
 | :- | :- | :- |
 | custom_group_items | list | The custom group items. |
 | new_field | bool | Indicates whether adding a new field to the pivottable |
+### Remarks
+
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.GroupBy(DiscreteGroupItem[], bool) method .
+This method will be removed 6 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
+
+## group_by(self, custom_group_items, new_field) {#list-bool}
+
+Custom group the field.
+
+
+### Returns 
+
+
+False means this field could not be grouped by date time.
+
+
+```python
+
+def group_by(self, custom_group_items, new_field):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| custom_group_items | list | The custom group items. |
+| new_field | bool | Indicates whether adding a new field to the pivottable |
 
 
 ## group_by(self, groups, interval, new_field) {#list-float-bool}

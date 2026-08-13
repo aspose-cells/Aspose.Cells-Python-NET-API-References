@@ -11,7 +11,7 @@ is_root: false
 ## is_missing property
 
 
-Indicates whether the item is removed from the data source.
+Indicates whether the item was removed from the data source.
 
 ### Remarks 
 

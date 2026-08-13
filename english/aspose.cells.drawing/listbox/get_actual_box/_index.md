@@ -16,7 +16,7 @@ Get the actual position and size of the shape (after applying rotation, flip, et
 ### Returns 
 
 
-Return the position and size in the order of x, y, w, h
+Returns the position and size in the order of x, y, w, h
 
 
 ```python

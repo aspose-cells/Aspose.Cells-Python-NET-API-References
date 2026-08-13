@@ -10,7 +10,7 @@ is_root: false
 
 ## \_\_init\_\_(self, name, item_indexes) {#System.String-list}
 
-The constructor of custom group item of pivot field.
+Constructs a new instance of CustomPiovtFieldGroupItem
 
 
 
@@ -23,8 +23,8 @@ def __init__(self, name, item_indexes):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | System.String | The name of group item |
-| item_indexes | list | All indexes to the items of base pivot field. |
+| name | System.String |  |
+| item_indexes | list |  |
 
 
 

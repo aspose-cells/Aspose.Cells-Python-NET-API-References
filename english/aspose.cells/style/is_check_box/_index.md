@@ -3,7 +3,7 @@ title: is_check_box property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /aspose.cells/style/is_check_box/
 is_root: false
 ---

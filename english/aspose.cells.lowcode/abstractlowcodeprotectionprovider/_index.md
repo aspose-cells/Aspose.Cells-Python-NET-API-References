@@ -25,8 +25,8 @@ The AbstractLowCodeProtectionProvider type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get_open_password(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_open_password/#) | Gets the password to open spread sheet file. |
-| [`get_write_password(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_write_password/#) | Gets the password to modify spread sheet file. |
+| [`get_open_password(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_open_password/#) | Gets the password to open spreadsheet file. |
+| [`get_write_password(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_write_password/#) | Gets the password to modify spreadsheet file. |
 | [`get_workbook_password(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_workbook_password/#) | Gets the password to protect the workbook with specified protection type. |
 | [`get_workbook_protection_type(self)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_workbook_protection_type/#) | Gets the protection type to protect the workbook. |
 | [`get_worksheet_password(self, sheet_name)`](/cells/python-net/aspose.cells.lowcode/abstractlowcodeprotectionprovider/get_worksheet_password/#system.string) | Gets the password to protect the specified worksheet. |

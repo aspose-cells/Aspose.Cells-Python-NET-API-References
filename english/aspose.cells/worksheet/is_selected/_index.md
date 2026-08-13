@@ -3,7 +3,7 @@ title: is_selected property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 680
 url: /aspose.cells/worksheet/is_selected/
 is_root: false
 ---

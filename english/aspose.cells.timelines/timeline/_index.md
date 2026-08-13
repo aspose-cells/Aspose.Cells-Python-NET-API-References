@@ -39,7 +39,7 @@ The Timeline type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`get_selectd_date_time_range(self)`](/cells/python-net/aspose.cells.timelines/timeline/get_selectd_date_time_range/#) | Gets the selected range of date time. |
+| [`get_selected_date_time_range(self)`](/cells/python-net/aspose.cells.timelines/timeline/get_selected_date_time_range/#) | Gets the selected range of date time. |
 | [`select(self, start, end, calculate)`](/cells/python-net/aspose.cells.timelines/timeline/select/#system.datetime-system.datetime-bool) | Select item between the date time. |
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## is_protected_by_rms property
 
 
-Gets whether the file is protected by Microsoft Rights Management Server.
+Indicates whether the file is protected by Microsoft Rights Management Server.
 ### Definition:
 ```python
 @property

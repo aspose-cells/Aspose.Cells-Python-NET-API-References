@@ -25,7 +25,12 @@ def hide_detail(self, is_hidden_detail):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | is_hidden_detail | bool | Whether hide the detail of the pivot field. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.PivotItems.HideAllDetail() method instead .
+This method will be removed 12 months later since August 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

@@ -3,18 +3,17 @@ title: PivotNumbericRangeGroupSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /aspose.cells.pivot/pivotnumbericrangegroupsettings/
 is_root: false
 ---
 
 ## PivotNumbericRangeGroupSettings class
 
-Represents the numberic range group of the pivot field.
-
 
 
 **Inheritance:** [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings) → 
+[`PivotNumericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumericrangegroupsettings) → 
 [`PivotFieldGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotfieldgroupsettings)
 
 
@@ -35,3 +34,4 @@ The PivotNumbericRangeGroupSettings type exposes the following members:
 * module [`aspose.cells.pivot`](..)
 * class [`PivotFieldGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotfieldgroupsettings)
 * class [`PivotNumbericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumbericrangegroupsettings)
+* class [`PivotNumericRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotnumericrangegroupsettings)

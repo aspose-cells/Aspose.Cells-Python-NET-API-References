@@ -11,12 +11,13 @@ is_root: false
 ## top_10_filter property
 
 
-Gets [`Top10Filter`](/cells/python-net/aspose.cells/top10filter) for filtering data by rank of data.
+Gets [`FilterColumn.top_10_filter`](/cells/python-net/aspose.cells/filtercolumn#top_10_filter) for filtering data by rank of data.
 
 ### Remarks 
 
 
-Sets [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type) as [`FilterType.TOP10`](/cells/python-net/aspose.cells/filtertype#TOP10) first,otherwise Null will be returned.
+Before using this property, please make sure [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type)
+is [`FilterType.TOP10`](/cells/python-net/aspose.cells/filtertype#TOP10), otherwise null will be returned.
 ### Definition:
 ```python
 @property

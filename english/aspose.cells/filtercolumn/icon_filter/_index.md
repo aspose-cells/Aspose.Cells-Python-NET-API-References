@@ -11,12 +11,13 @@ is_root: false
 ## icon_filter property
 
 
-Gets [`IconFilter`](/cells/python-net/aspose.cells/iconfilter) for filtering data by icon.
+Gets [`FilterColumn.icon_filter`](/cells/python-net/aspose.cells/filtercolumn#icon_filter) for filtering data by icon.
 
 ### Remarks 
 
 
-Sets [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type) as [`FilterType.ICON_FILTER`](/cells/python-net/aspose.cells/filtertype#ICON_FILTER) first,otherwise Null will be returned.
+Before using this property, please make sure [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type)
+is [`FilterType.ICON_FILTER`](/cells/python-net/aspose.cells/filtertype#ICON_FILTER), otherwise null will be returned.
 ### Definition:
 ```python
 @property

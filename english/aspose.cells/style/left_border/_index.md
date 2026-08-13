@@ -3,7 +3,7 @@ title: left_border property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /aspose.cells/style/left_border/
 is_root: false
 ---

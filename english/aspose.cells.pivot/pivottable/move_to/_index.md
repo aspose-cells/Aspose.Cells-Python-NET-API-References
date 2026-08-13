@@ -45,6 +45,26 @@ def move_to(self, row, column):
 | column | int | column index. |
 
 
+## move_to(self, sheet_index, row, column) {#int-int-int}
+
+Moves the PivotTable to a different location in the worksheet.
+
+
+
+```python
+
+def move_to(self, sheet_index, row, column):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| sheet_index | int | the index of the target worksheet |
+| row | int | row index. |
+| column | int | column index. |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)

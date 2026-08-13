@@ -3,7 +3,7 @@ title: autofit_column_width_on_update property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /aspose.cells.pivot/pivottable/autofit_column_width_on_update/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## autofit_column_width_on_update property
 
 
-Indicates whether autofitting column width on update
+Indicates whether to autofit column width on update
 ### Definition:
 ```python
 @property

@@ -11,7 +11,7 @@ is_root: false
 ## significant_digits_type property
 
 
-Gets and sets the type of significant digits for outputing numeric
+Gets and sets the type of significant digits for outputting numeric
 values in this workbook. Default value is [`CellsHelper.significant_digits_type`](/cells/python-net/aspose.cells/cellshelper#significant_digits_type).
 ### Definition:
 ```python

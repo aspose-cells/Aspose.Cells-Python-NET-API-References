@@ -16,7 +16,7 @@ Adds a hyperlink to the shape.
 ### Returns 
 
 
-Return the new hyperlink object.
+Returns the new hyperlink object.
 
 
 ```python

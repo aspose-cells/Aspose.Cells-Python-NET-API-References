@@ -16,7 +16,16 @@ Gets and sets the type fo filtering data.
 ### Remarks 
 
 
-The corresponding filter object will be created when this property is set.
+The corresponding filter object will be created when this property is set
+and corresponding property should be used to get the filter object accordingly:
+| FilterType | Property |
+| :- | :- |
+| MultipleFilters |
+| CustomFilters |
+| ColorFilter |
+| DynamicFilter |
+| IconFilter |
+| Top10 |
 ### Definition:
 ```python
 @property

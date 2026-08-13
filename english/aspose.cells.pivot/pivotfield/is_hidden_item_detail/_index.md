@@ -10,7 +10,7 @@ is_root: false
 
 ## is_hidden_item_detail(self, index) {#int}
 
-Gets whether to hide the detail of the specific PivotItem..
+Indicates whether to hide the detail of the specific PivotItem..
 
 
 ### Returns 
@@ -29,7 +29,12 @@ def is_hidden_item_detail(self, index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | index | int | The index of the pivotItem in the pivotField. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.PivotItems[int].IsDetailHidden property instead .
+This method will be removed 12 months later since August 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

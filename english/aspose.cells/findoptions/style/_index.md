@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /aspose.cells/findoptions/style/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: region_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 720
 url: /aspose.cells.pivot/pivotfield/region_type/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## region_type property
 
 
-Specifies the region of the PivotTable that this field is displayed.
+Specifies the region of the pivot table that this field is displayed.
 ### Definition:
 ```python
 @property

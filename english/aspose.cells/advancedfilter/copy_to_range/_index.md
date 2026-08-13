@@ -11,7 +11,7 @@ is_root: false
 ## copy_to_range property
 
 
-Gets the range where copying the resut of this advanced filter to.
+Gets the range where copying the result of this advanced filter to.
 ### Definition:
 ```python
 @property

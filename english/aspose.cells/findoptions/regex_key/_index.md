@@ -13,14 +13,14 @@ is_root: false
 
 Indicates whether the searched key is regex.
 If true the searched key will be taken as regex and parsed.
-Otherwise the key will be parsed according to the rules in ms excel.
+Otherwise the key will be parsed according to the rules in MS Excel.
 
 ### Remarks 
 
 
 Even though the search key has been specified as regex,
 it may be refactored according to specified [`FindOptions.look_at_type`](/cells/python-net/aspose.cells/findoptions#look_at_type).
-For example, when the type is [`LookAtType.CONTAINS`](/cells/python-net/aspose.cells/lookattype#CONTAINS)(this is the default value for this options),
+For example, when the type is [`LookAtType.CONTAINS`](/cells/python-net/aspose.cells/lookattype#CONTAINS) (this is the default value for these options),
 wildcards will be added at the beginning and end of the search key automatically to ensure the match will be
 checked as "contains". In this case, the regular expressions will become more complex
 and the performance will also decrease.

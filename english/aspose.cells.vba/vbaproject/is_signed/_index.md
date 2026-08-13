@@ -3,7 +3,7 @@ title: is_signed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.vba/vbaproject/is_signed/
 is_root: false
 ---

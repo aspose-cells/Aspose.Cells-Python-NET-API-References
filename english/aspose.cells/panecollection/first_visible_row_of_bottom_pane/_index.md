@@ -3,7 +3,7 @@ title: first_visible_row_of_bottom_pane property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /aspose.cells/panecollection/first_visible_row_of_bottom_pane/
 is_root: false
 ---

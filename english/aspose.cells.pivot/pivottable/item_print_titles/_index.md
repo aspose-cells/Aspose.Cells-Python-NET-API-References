@@ -3,7 +3,7 @@ title: item_print_titles property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 800
 url: /aspose.cells.pivot/pivottable/item_print_titles/
 is_root: false
 ---

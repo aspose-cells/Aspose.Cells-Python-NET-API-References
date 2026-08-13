@@ -10,7 +10,7 @@ is_root: false
 
 ## change_data_source(self, source) {#list}
 
-Change data source of the pivottable.
+Change data source of the pivot table.
 
 
 

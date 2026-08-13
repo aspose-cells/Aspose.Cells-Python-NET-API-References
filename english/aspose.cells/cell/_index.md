@@ -20,7 +20,6 @@ The Cell type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [worksheet](/cells/python-net/aspose.cells/cell/worksheet) | Gets the parent worksheet. |
-| [date_time_value](/cells/python-net/aspose.cells/cell/date_time_value) | Gets the DateTime value contained in the cell. |
 | [row](/cells/python-net/aspose.cells/cell/row) | Gets row number (zero based) of the cell. |
 | [column](/cells/python-net/aspose.cells/cell/column) | Gets column number (zero based) of the cell. |
 | [is_formula](/cells/python-net/aspose.cells/cell/is_formula) | Represents if the specified cell contains formula. |
@@ -36,6 +35,7 @@ The Cell type exposes the following members:
 | [int_value](/cells/python-net/aspose.cells/cell/int_value) | Gets the integer value contained in the cell. |
 | [double_value](/cells/python-net/aspose.cells/cell/double_value) | Gets the double value contained in the cell. |
 | [float_value](/cells/python-net/aspose.cells/cell/float_value) | Gets the float value contained in the cell. |
+| [date_time_value](/cells/python-net/aspose.cells/cell/date_time_value) | Gets the DateTime value contained in the cell. |
 | [bool_value](/cells/python-net/aspose.cells/cell/bool_value) | Gets the boolean value contained in the cell. |
 | [has_custom_style](/cells/python-net/aspose.cells/cell/has_custom_style) | Indicates whether this cell has custom style settings(different from the default one inherited<br/>from corresponding row, column, or workbook). |
 | [shared_style_index](/cells/python-net/aspose.cells/cell/shared_style_index) | Gets cell's shared style index in the style pool. |
@@ -56,7 +56,8 @@ The Cell type exposes the following members:
 | [comment](/cells/python-net/aspose.cells/cell/comment) | Gets the comment of this cell. |
 | [html_string](/cells/python-net/aspose.cells/cell/html_string) | Gets and sets the html string which contains data and some formats in this cell. |
 | [is_check_box_style](/cells/python-net/aspose.cells/cell/is_check_box_style) | Indicates whether setting this cell as a check box. |
-| [embedded_image](/cells/python-net/aspose.cells/cell/embedded_image) | Gets and sets the embeddedn image in the cell. |
+| [embedded_image](/cells/python-net/aspose.cells/cell/embedded_image) | Gets and sets the embedded image in the cell. |
+| [picture](/cells/python-net/aspose.cells/cell/picture) | Gets and sets a [`Cell.picture`](/cells/python-net/aspose.cells/cell#picture) which wrapped the embedded image in the cell. |
 
 
 ### Methods
@@ -83,7 +84,7 @@ The Cell type exposes the following members:
 | [`set_formula(self, formula, is_r1c1, is_local, value)`](/cells/python-net/aspose.cells/cell/set_formula/#system.string-bool-bool-system.object) | Set the formula and the value of the formula. |
 | [`set_formula(self, formula, options, value)`](/cells/python-net/aspose.cells/cell/set_formula/#system.string-aspose.cells.formulaparseoptions-system.object) | Set the formula and the value(calculated result) of the formula. |
 | [`set_array_formula(self, array_formula, row_number, column_number, is_r1c1, is_local)`](/cells/python-net/aspose.cells/cell/set_array_formula/#system.string-int-int-bool-bool) | Sets an array formula to a range of cells. |
-| [`set_array_formula(self, array_formula, row_number, column_number)`](/cells/python-net/aspose.cells/cell/set_array_formula/#system.string-int-int) | Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in ms excel) to a range of cells. |
+| [`set_array_formula(self, array_formula, row_number, column_number)`](/cells/python-net/aspose.cells/cell/set_array_formula/#system.string-int-int) | Sets an array formula(legacy array formula entered via CTRL+SHIFT+ENTER in MS Excel) to a range of cells. |
 | [`set_array_formula(self, array_formula, row_number, column_number, options)`](/cells/python-net/aspose.cells/cell/set_array_formula/#system.string-int-int-aspose.cells.formulaparseoptions) | Sets an array formula to a range of cells. |
 | [`set_array_formula(self, array_formula, row_number, column_number, options, values)`](/cells/python-net/aspose.cells/cell/set_array_formula/#system.string-int-int-aspose.cells.formulaparseoptions-list) | Sets an array formula to a range of cells. |
 | [`set_shared_formula(self, shared_formula, row_number, column_number, is_r1c1, is_local)`](/cells/python-net/aspose.cells/cell/set_shared_formula/#system.string-int-int-bool-bool) | Sets a formula to a range of cells. |

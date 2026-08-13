@@ -3,7 +3,7 @@ title: show_drill property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1100
+weight: 1120
 url: /aspose.cells.pivot/pivottable/show_drill/
 is_root: false
 ---

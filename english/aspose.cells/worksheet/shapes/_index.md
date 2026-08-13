@@ -3,7 +3,7 @@ title: shapes property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 810
 url: /aspose.cells/worksheet/shapes/
 is_root: false
 ---

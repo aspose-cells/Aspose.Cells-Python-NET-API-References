@@ -3,7 +3,7 @@ title: get_text_of_minutes method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.settings/pivotglobalizationsettings/get_text_of_minutes/
 is_root: false
 ---

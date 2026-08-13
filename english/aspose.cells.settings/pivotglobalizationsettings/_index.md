@@ -36,7 +36,8 @@ The PivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_empty_data(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/#) | Gets the text of "(blank)" label in the PivotTable. |
 | [`get_text_of_data_field_header(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_data_field_header/#) | Gets the the text of the value area field header in the PivotTable. |
 | [`get_short_text_of_12_months(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/#) | Gets all short formatted string of 12 months. |
-| [`get_text_of_4_quaters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_4_quaters/#) | Gets the local text of 4 Quaters. |
+| [`get_text_of_4_quaters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_4_quaters/#) | Gets the local text of 4 Quarters. |
+| [`get_text_of_4_quarters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_4_quarters/#) | Gets the local text of 4 Quarters. |
 | [`get_text_of_years(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_years/#) | Gets the local text of "Years". |
 | [`get_text_of_quarters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_quarters/#) | Get the local text of "Quarters". |
 | [`get_text_of_months(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_months/#) | Gets the local text of "Months". |

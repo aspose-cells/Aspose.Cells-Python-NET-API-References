@@ -11,12 +11,13 @@ is_root: false
 ## dynamic_filter property
 
 
-Gets [`DynamicFilter`](/cells/python-net/aspose.cells/dynamicfilter) for filtering with dynamic criteria.
+Gets [`FilterColumn.dynamic_filter`](/cells/python-net/aspose.cells/filtercolumn#dynamic_filter) for filtering with dynamic criteria.
 
 ### Remarks 
 
 
-Sets [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type) as [`FilterType.DYNAMIC_FILTER`](/cells/python-net/aspose.cells/filtertype#DYNAMIC_FILTER) first,otherwise Null will be returned.
+Before using this property, please make sure [`FilterColumn.filter_type`](/cells/python-net/aspose.cells/filtercolumn#filter_type)
+is [`FilterType.DYNAMIC_FILTER`](/cells/python-net/aspose.cells/filtertype#DYNAMIC_FILTER), otherwise null will be returned.
 ### Definition:
 ```python
 @property

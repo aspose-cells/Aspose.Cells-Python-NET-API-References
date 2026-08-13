@@ -53,7 +53,7 @@ def add_field_to_area(self, field_type, base_field_index):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | field_type | aspose.cells.pivot.PivotFieldType | The fields area type. |
-| base_field_index | int | The field index in the base fields. |
+| base_field_index | int | The index in the base fields. |
 
 
 ## add_field_to_area(self, field_type, pivot_field) {#aspose.cells.pivot.PivotFieldType-aspose.cells.pivot.PivotField}

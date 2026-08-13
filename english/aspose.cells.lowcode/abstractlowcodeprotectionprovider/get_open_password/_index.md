@@ -10,13 +10,13 @@ is_root: false
 
 ## get_open_password(self) {#}
 
-Gets the password to open spread sheet file.
+Gets the password to open spreadsheet file.
 
 
 ### Returns 
 
 
-Password to open spread sheet file. Empty means no protection for openning the filel.
+Password to open spreadsheet file. Empty means no protection for openning the filel.
 
 
 ```python

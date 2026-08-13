@@ -31,10 +31,9 @@ The FindOptions type exposes the following members:
 | [is_range_set](/cells/python-net/aspose.cells/findoptions/is_range_set) | Indicates whether the searched range is set. |
 | [search_next](/cells/python-net/aspose.cells/findoptions/search_next) | Search order. True: search next. False: search previous. |
 | [search_backward](/cells/python-net/aspose.cells/findoptions/search_backward) | Whether search backward for cells. |
-| [seach_order_by_rows](/cells/python-net/aspose.cells/findoptions/seach_order_by_rows) | Indicates whether search order by rows or columns. |
 | [search_order_by_rows](/cells/python-net/aspose.cells/findoptions/search_order_by_rows) | Indicates whether search order by rows or columns. |
 | [look_in_type](/cells/python-net/aspose.cells/findoptions/look_in_type) | Look in type. |
-| [regex_key](/cells/python-net/aspose.cells/findoptions/regex_key) | Indicates whether the searched key is regex.<br/>If true the searched key will be taken as regex and parsed.<br/>Otherwise the key will be parsed according to the rules in ms excel. |
+| [regex_key](/cells/python-net/aspose.cells/findoptions/regex_key) | Indicates whether the searched key is regex.<br/>If true the searched key will be taken as regex and parsed.<br/>Otherwise the key will be parsed according to the rules in MS Excel. |
 | [value_type_sensitive](/cells/python-net/aspose.cells/findoptions/value_type_sensitive) | Indicates whether searched cell value type should be same with the searched key. |
 | [style](/cells/python-net/aspose.cells/findoptions/style) | The format to search for. |
 | [convert_numeric_data](/cells/python-net/aspose.cells/findoptions/convert_numeric_data) | Gets or sets a value that indicates whether converting the searched string value to numeric data. |
@@ -70,7 +69,7 @@ ca.end_column = 13
 findOptions.set_range(ca)
 # Set searching properties
 findOptions.search_backward = False
-findOptions.seach_order_by_rows = True
+findOptions.search_order_by_rows = True
 findOptions.look_in_type = LookInType.VALUES
 # Find the cell with 0 value
 cell = cells.find(0, None, findOptions)

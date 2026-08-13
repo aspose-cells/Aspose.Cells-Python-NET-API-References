@@ -3,7 +3,7 @@ title: PivotDiscreteGroupSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---
@@ -26,6 +26,7 @@ The PivotDiscreteGroupSettings type exposes the following members:
 | :- | :- |
 | [type](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings/type) | Gets the group type. |
 | [items](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings/items) | Gets the discrete items. |
+| [discrete_items](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings/discrete_items) | Gets the discrete items. |
 
 
 

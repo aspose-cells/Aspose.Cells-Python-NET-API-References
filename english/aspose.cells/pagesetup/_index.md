@@ -58,7 +58,7 @@ The PageSetup type exposes the following members:
 | [zoom](/cells/python-net/aspose.cells/pagesetup/zoom) | Represents the scaling factor in percent. It should be between 10 and 400. |
 | [is_auto_first_page_number](/cells/python-net/aspose.cells/pagesetup/is_auto_first_page_number) | Indicates whether the first the page number is automatically assigned. |
 | [print_quality](/cells/python-net/aspose.cells/pagesetup/print_quality) | Represents the print quality. |
-| [print_copies](/cells/python-net/aspose.cells/pagesetup/print_copies) | Get and sets number of copies to print. |
+| [print_copies](/cells/python-net/aspose.cells/pagesetup/print_copies) | Gets and sets number of copies to print. |
 | [is_hf_diff_odd_even](/cells/python-net/aspose.cells/pagesetup/is_hf_diff_odd_even) | True means that the header/footer of the odd pages is different with odd pages. |
 | [is_hf_diff_first](/cells/python-net/aspose.cells/pagesetup/is_hf_diff_first) | True means that the header/footer of the first page is different with other pages. |
 | [is_hf_scale_with_doc](/cells/python-net/aspose.cells/pagesetup/is_hf_scale_with_doc) | Indicates whether header and footer are scaled with document scaling.<br/>Only applies for Excel 2007. |

@@ -3,7 +3,7 @@ title: binary_search method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 70
 url: /aspose.cells.vba/vbaprojectreferencecollection/binary_search/
 is_root: false
 ---

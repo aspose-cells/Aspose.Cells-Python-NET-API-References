@@ -74,6 +74,8 @@ The Style type exposes the following members:
 | :- | :- |
 | [`set_border(self, border_type, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.pydrawing.color) | Sets the borders of the style. |
 | [`set_border(self, border_type, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_border/#aspose.cells.bordertype-aspose.cells.cellbordertype-aspose.cells.cellscolor) | Sets the borders of the style. |
+| [`set_outline_borders(self, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_outline_borders/#aspose.cells.cellbordertype-aspose.pydrawing.color) | Set the outline borders |
+| [`set_outline_borders(self, border_style, border_color)`](/cells/python-net/aspose.cells/style/set_outline_borders/#aspose.cells.cellbordertype-aspose.cells.cellscolor) | Set the outline borders |
 | [`set_pattern_color(self, pattern, color1, color2)`](/cells/python-net/aspose.cells/style/set_pattern_color/#aspose.cells.backgroundtype-aspose.pydrawing.color-aspose.pydrawing.color) | Sets the background color. |
 | [`copy(self, style)`](/cells/python-net/aspose.cells/style/copy/#aspose.cells.style) | Copies data from another style object |
 | [`update(self)`](/cells/python-net/aspose.cells/style/update/#) | Apply the named style to the styles of the cells which use this named style.<br/>It works like clicking the "ok" button after you finished modifying the style.<br/>Only applies for named style. |

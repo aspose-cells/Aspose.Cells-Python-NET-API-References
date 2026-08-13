@@ -3,7 +3,7 @@ title: PivotFieldGroupType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /aspose.cells.pivot/pivotfieldgrouptype/
 is_root: false
 ---
@@ -21,7 +21,8 @@ The PivotFieldGroupType type exposes the following members:
 | :- | :- |
 | NONE | No group |
 | DATE_TIME_RANGE | Grouped by DateTime range. |
-| NUMBERIC_RANGE | Grouped by numberic range. |
+| NUMBERIC_RANGE | Grouped by numeric range. |
+| NUMERIC_RANGE | Grouped by numeric range. |
 | DISCRETE | Grouped by discrete points. |
 
 
