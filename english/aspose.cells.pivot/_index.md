@@ -45,6 +45,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
 | [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection) | Represents the collection of formats applied to PivotTable. |
 | [`PivotTableRefreshOption`](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption) | Represents the options of refreshing data source of the pivot table. |
+| [`PivotViewToJsonOptions`](/cells/python-net/aspose.cells.pivot/pivotviewtojsonoptions) | The options of exporting pivot view as json. |
 
 
 ### Enumerations

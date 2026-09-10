@@ -3,14 +3,14 @@ title: group_by method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /aspose.cells.pivot/pivotfield/group_by/
 is_root: false
 ---
 
 ## group_by(self, interval, new_field) {#float-bool}
 
-Automatically group the field with internal
+Automatically group the field with interval
 
 
 
@@ -24,7 +24,7 @@ def group_by(self, interval, new_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero, |
-| new_field | bool | Indicates whether adding a new field to the pivottable. |
+| new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for number group. |
 
 
 ## group_by(self, custom_group_items, new_field) {#list-bool}
@@ -96,7 +96,7 @@ def group_by(self, groups, interval, new_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | groups | list | Group types |
-| interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero, |
+| interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero,<br/>Only works for grouping by Numbers or Days. |
 | new_field | bool | Indicates whether adding a new field to the pivottable. |
 
 

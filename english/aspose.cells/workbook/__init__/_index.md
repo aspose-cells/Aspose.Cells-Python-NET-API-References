@@ -89,7 +89,7 @@ def __init__(self, load_options):
 
 ## \_\_init\_\_(self, file) {#System.String}
 
-Constructs a new instance of Workbook
+Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file.
 
 
 
@@ -102,7 +102,7 @@ def __init__(self, file):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file | System.String |  |
+| file | System.String | The file name. |
 
 
 ## \_\_init\_\_(self, stream) {#io.RawIOBase}

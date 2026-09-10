@@ -22,6 +22,14 @@ The PivotItemCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.pivot/pivotitemcollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the PivotItem Object at the specific index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] |  |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |

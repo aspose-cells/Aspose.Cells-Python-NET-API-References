@@ -48,7 +48,7 @@ The OoxmlSaveOptions type exposes the following members:
 | [export_cell_name](/cells/python-net/aspose.cells/ooxmlsaveoptions/export_cell_name) | Indicates if export cell name to Excel2007 .xlsx (.xlsm, .xltx, .xltm) file. <br/>If the output file may be accessed by SQL Server DTS, this value must be true.<br/>Setting the value to false will highly increase the performance and reduce the file size when creating large file.<br/>Default value is true. |
 | [light_cells_data_provider](/cells/python-net/aspose.cells/ooxmlsaveoptions/light_cells_data_provider) | The data provider for saving workbook in light mode. |
 | [update_zoom](/cells/python-net/aspose.cells/ooxmlsaveoptions/update_zoom) | Indicates whether update scaling factor before saving the file <br/>if the PageSetup.FitToPagesWide and PageSetup.FitToPagesTall properties control how the worksheet is scaled. |
-| [enable_zip64](/cells/python-net/aspose.cells/ooxmlsaveoptions/enable_zip64) | Always use ZIP64 extensions when writing zip archives, even when unnecessary. |
+| [enable_zip64](/cells/python-net/aspose.cells/ooxmlsaveoptions/enable_zip64) | Use ZIP64 extensions when writing zip archives, as necessary. |
 | [embed_ooxml_as_ole_object](/cells/python-net/aspose.cells/ooxmlsaveoptions/embed_ooxml_as_ole_object) | Indicates whether embedding Ooxml files of OleObject as ole object. |
 | [compression_type](/cells/python-net/aspose.cells/ooxmlsaveoptions/compression_type) | Gets and sets the compression type for ooxml file. |
 | [wps_compatibility](/cells/python-net/aspose.cells/ooxmlsaveoptions/wps_compatibility) | Indicates whether to make the xls more compatible with WPS. |

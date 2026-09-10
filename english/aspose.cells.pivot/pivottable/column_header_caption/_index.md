@@ -3,7 +3,7 @@ title: column_header_caption property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 510
+weight: 490
 url: /aspose.cells.pivot/pivottable/column_header_caption/
 is_root: false
 ---

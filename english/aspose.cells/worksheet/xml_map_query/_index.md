@@ -34,7 +34,7 @@ def xml_map_query(self, path, xml_map):
 
 NOTE: This method is now obsolete. Instead, 
 please use Worksheet.GetAreasOfXmlMapQuery() method. 
-This property will be removed 12 months later since March 2025. 
+This property will be removed 12 months later since August 2026. 
 Aspose apologizes for any inconvenience you may have experienced.
 
 

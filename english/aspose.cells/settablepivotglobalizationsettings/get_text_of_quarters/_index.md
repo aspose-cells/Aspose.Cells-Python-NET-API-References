@@ -3,7 +3,7 @@ title: get_text_of_quarters method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 220
 url: /aspose.cells/settablepivotglobalizationsettings/get_text_of_quarters/
 is_root: false
 ---

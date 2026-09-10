@@ -11,7 +11,9 @@ is_root: false
 ## picture property
 
 
-Gets and sets a [`Cell.picture`](/cells/python-net/aspose.cells/cell#picture) which wrapped the embedded image in the cell.
+Gets a [`Picture`](/cells/python-net/aspose.cells.drawing/picture) instance
+to represent the embedded image in this cell
+or null if there is no embedded image for this cell.
 ### Definition:
 ```python
 @property

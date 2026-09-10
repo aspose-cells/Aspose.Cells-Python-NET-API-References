@@ -3,7 +3,7 @@ title: pivot_formats property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 900
 url: /aspose.cells.pivot/pivottable/pivot_formats/
 is_root: false
 ---

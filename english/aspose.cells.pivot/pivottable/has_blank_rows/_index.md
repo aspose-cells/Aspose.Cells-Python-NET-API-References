@@ -3,13 +3,24 @@ title: has_blank_rows property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 730
+weight: 710
 url: /aspose.cells.pivot/pivottable/has_blank_rows/
 is_root: false
 ---
 
 ## has_blank_rows property
 
+
+Indicates whether to add blank rows.
+This property only applies for the PivotTable auto format types which needs to add blank rows.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotField.InsertBlankRow property.
+This method will be removed 12 months later since April 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

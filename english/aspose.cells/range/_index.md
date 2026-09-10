@@ -16,6 +16,13 @@ Encapsulates the object that represents a range of cells within a spreadsheet.
 
 The Range type exposes the following members:
 
+### Constructors
+| Constructor | Description |
+| :- | :- |
+| [`__init__(self, ca, cells)`](/cells/python-net/aspose.cells/range/__init__/#aspose.cells.cellarea-aspose.cells.cells) | Class constructor. |
+| [`__init__(self, first_row, first_column, row_number, column_number, cells)`](/cells/python-net/aspose.cells/range/__init__/#int-int-int-int-aspose.cells.cells) | Class constructor. |
+
+
 ### Properties
 | Property | Description |
 | :- | :- |

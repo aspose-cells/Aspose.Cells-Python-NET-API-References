@@ -22,7 +22,7 @@ The Workbook type exposes the following members:
 | [`__init__(self)`](/cells/python-net/aspose.cells/workbook/__init__/#) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class. |
 | [`__init__(self, file_format_type)`](/cells/python-net/aspose.cells/workbook/__init__/#aspose.cells.fileformattype) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class. |
 | [`__init__(self, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#aspose.cells.loadoptions) | Initializes a new empty instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class with options |
-| [`__init__(self, file)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string) | Constructs a new instance of Workbook |
+| [`__init__(self, file)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file. |
 | [`__init__(self, stream)`](/cells/python-net/aspose.cells/workbook/__init__/#io.rawiobase) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a stream. |
 | [`__init__(self, file, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#system.string-aspose.cells.loadoptions) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open a file. |
 | [`__init__(self, stream, load_options)`](/cells/python-net/aspose.cells/workbook/__init__/#io.rawiobase-aspose.cells.loadoptions) | Initializes a new instance of the [`Workbook`](/cells/python-net/aspose.cells/workbook) class and open stream. |

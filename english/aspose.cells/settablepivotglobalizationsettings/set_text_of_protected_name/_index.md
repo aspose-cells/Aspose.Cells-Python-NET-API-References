@@ -3,7 +3,7 @@ title: set_text_of_protected_name method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 320
+weight: 350
 url: /aspose.cells/settablepivotglobalizationsettings/set_text_of_protected_name/
 is_root: false
 ---

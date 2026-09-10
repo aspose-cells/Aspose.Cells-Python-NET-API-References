@@ -3,7 +3,7 @@ title: preserve_cell_formatting_on_update property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 940
 url: /aspose.cells.pivot/pivottable/preserve_cell_formatting_on_update/
 is_root: false
 ---

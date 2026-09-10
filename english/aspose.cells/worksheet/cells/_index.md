@@ -11,7 +11,7 @@ is_root: false
 ## cells property
 
 
-Gets the [`Worksheet.cells`](/cells/python-net/aspose.cells/worksheet#cells) collection.
+Gets the [`Cells`](/cells/python-net/aspose.cells/cells) collection.
 ### Definition:
 ```python
 @property

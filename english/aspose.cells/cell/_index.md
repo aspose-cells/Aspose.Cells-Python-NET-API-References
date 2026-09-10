@@ -57,7 +57,7 @@ The Cell type exposes the following members:
 | [html_string](/cells/python-net/aspose.cells/cell/html_string) | Gets and sets the html string which contains data and some formats in this cell. |
 | [is_check_box_style](/cells/python-net/aspose.cells/cell/is_check_box_style) | Indicates whether setting this cell as a check box. |
 | [embedded_image](/cells/python-net/aspose.cells/cell/embedded_image) | Gets and sets the embedded image in the cell. |
-| [picture](/cells/python-net/aspose.cells/cell/picture) | Gets and sets a [`Cell.picture`](/cells/python-net/aspose.cells/cell#picture) which wrapped the embedded image in the cell. |
+| [picture](/cells/python-net/aspose.cells/cell/picture) | Gets a [`Picture`](/cells/python-net/aspose.cells.drawing/picture) instance<br/>to represent the embedded image in this cell<br/>or null if there is no embedded image for this cell. |
 
 
 ### Methods
@@ -173,4 +173,5 @@ cell.set_style(style)
 ### See Also
 * module [`aspose.cells`](..)
 * class [`Cell`](/cells/python-net/aspose.cells/cell)
+* class [`Picture`](/cells/python-net/aspose.cells.drawing/picture)
 * class [`Range`](/cells/python-net/aspose.cells/range)

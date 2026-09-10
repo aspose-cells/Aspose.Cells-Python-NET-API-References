@@ -44,7 +44,7 @@ The Shape type exposes the following members:
 | [id](/cells/python-net/aspose.cells.drawing/shape/id) | Gets the identifier of this shape. |
 | [spid](/cells/python-net/aspose.cells.drawing/shape/spid) | Specifies an optional string identifier that an application can use to identify the particular shape. |
 | [spt](/cells/python-net/aspose.cells.drawing/shape/spt) | Specifies an optional number that an application can use to associate the particular shape with a defined shape type. |
-| [worksheet](/cells/python-net/aspose.cells.drawing/shape/worksheet) | Gets the [`Shape.worksheet`](/cells/python-net/aspose.cells.drawing/shape#worksheet) object which contains this shape. |
+| [worksheet](/cells/python-net/aspose.cells.drawing/shape/worksheet) | Gets the [`Worksheet`](/cells/python-net/aspose.cells/worksheet) object which contains this shape. |
 | [is_group](/cells/python-net/aspose.cells.drawing/shape/is_group) | Indicates whether this shape is a group shape. |
 | [is_in_group](/cells/python-net/aspose.cells.drawing/shape/is_in_group) | Indicates whether the shape is grouped. |
 | [is_word_art](/cells/python-net/aspose.cells.drawing/shape/is_word_art) | Indicates whether this shape is a word art. |
@@ -176,3 +176,4 @@ book.save("exmaple.xlsx")
 * class [`ReflectionEffect`](/cells/python-net/aspose.cells.drawing/reflectioneffect)
 * class [`ShadowEffect`](/cells/python-net/aspose.cells.drawing/shadoweffect)
 * class [`Shape`](/cells/python-net/aspose.cells.drawing/shape)
+* class [`Worksheet`](/cells/python-net/aspose.cells/worksheet)

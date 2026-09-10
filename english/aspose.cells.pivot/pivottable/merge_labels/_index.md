@@ -3,7 +3,7 @@ title: merge_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 820
+weight: 800
 url: /aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---

@@ -29,7 +29,7 @@ The ChartArea type exposes the following members:
 | [area](/cells/python-net/aspose.cells.charts/chartarea/area) | Gets the [`ChartFrame.area`](/cells/python-net/aspose.cells.charts/chartframe#area). |
 | [text_font](/cells/python-net/aspose.cells.charts/chartarea/text_font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
 | [text_options](/cells/python-net/aspose.cells.charts/chartarea/text_options) | Gets and sets the options of the text. |
-| [font](/cells/python-net/aspose.cells.charts/chartarea/font) | Gets a [`ChartFrame.font`](/cells/python-net/aspose.cells.charts/chartframe#font) object of the specified ChartFrame object. |
+| [font](/cells/python-net/aspose.cells.charts/chartarea/font) | Gets a [`ChartArea.font`](/cells/python-net/aspose.cells.charts/chartarea#font) object of the specified ChartArea object. |
 | [auto_scale_font](/cells/python-net/aspose.cells.charts/chartarea/auto_scale_font) | True if the text in the object changes font size when the object size changes. The default value is True. |
 | [background_mode](/cells/python-net/aspose.cells.charts/chartarea/background_mode) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |
 | [background](/cells/python-net/aspose.cells.charts/chartarea/background) | Gets and sets the display mode of the background.<br/>This property is only valid in Excel 2003 or earlier versions. |

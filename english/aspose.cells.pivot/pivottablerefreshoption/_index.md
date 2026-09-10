@@ -27,6 +27,7 @@ The PivotTableRefreshOption type exposes the following members:
 | :- | :- |
 | [reserve_missing_pivot_item_type](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption/reserve_missing_pivot_item_type) | Represents how to reserve missing pivot items. |
 | [is_keep_original_order](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption/is_keep_original_order) | Indicates whether to keep pivot items' original order as old data source. |
+| [keep_cached_local_group_data](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption/keep_cached_local_group_data) | Indicates whether to keep cached local group data if the maximum and minimum values remain unchanged.<br/>The default value is false which means refreshing group with local setting. |
 
 
 

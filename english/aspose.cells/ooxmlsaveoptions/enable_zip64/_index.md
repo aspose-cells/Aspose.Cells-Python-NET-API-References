@@ -11,7 +11,7 @@ is_root: false
 ## enable_zip64 property
 
 
-Always use ZIP64 extensions when writing zip archives, even when unnecessary.
+Use ZIP64 extensions when writing zip archives, as necessary.
 ### Definition:
 ```python
 @property

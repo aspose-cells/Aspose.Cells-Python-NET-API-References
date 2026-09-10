@@ -3,7 +3,7 @@ title: grand_total_name property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 720
+weight: 700
 url: /aspose.cells.pivot/pivottable/grand_total_name/
 is_root: false
 ---

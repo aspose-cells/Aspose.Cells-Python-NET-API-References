@@ -3,7 +3,7 @@ title: refresh method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /aspose.cells.pivot/pivottable/refresh/
 is_root: false
 ---

@@ -54,7 +54,7 @@ The PivotTable type exposes the following members:
 | [is_auto_format](/cells/python-net/aspose.cells.pivot/pivottable/is_auto_format) | Indicates whether the PivotTable report is automatically formatted.<br/>Checkbox "autoformat table " which is in pivottable option for Excel 2003 |
 | [autofit_column_width_on_update](/cells/python-net/aspose.cells.pivot/pivottable/autofit_column_width_on_update) | Indicates whether to autofit column width on update |
 | [auto_format_type](/cells/python-net/aspose.cells.pivot/pivottable/auto_format_type) | Gets and sets the auto format type of PivotTable. |
-| [has_blank_rows](/cells/python-net/aspose.cells.pivot/pivottable/has_blank_rows) |  |
+| [has_blank_rows](/cells/python-net/aspose.cells.pivot/pivottable/has_blank_rows) | Indicates whether to add blank rows.<br/>This property only applies for the PivotTable auto format types which needs to add blank rows. |
 | [merge_labels](/cells/python-net/aspose.cells.pivot/pivottable/merge_labels) | Indicates whether row or column titles that span multiple cells should be merged into a single cell. |
 | [preserve_formatting](/cells/python-net/aspose.cells.pivot/pivottable/preserve_formatting) | Indicates whether cell formatting ([`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat))  is preserved when the PivotTable is refreshed or recalculated. |
 | [preserve_cell_formatting_on_update](/cells/python-net/aspose.cells.pivot/pivottable/preserve_cell_formatting_on_update) | Indicates whether to preserve cell formatting ([`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat)) when the pivot table is refreshed or recalculated. |
@@ -134,14 +134,6 @@ The PivotTable type exposes the following members:
 | [`format(self, pivot_area, style)`](/cells/python-net/aspose.cells.pivot/pivottable/format/#aspose.cells.pivot.pivotarea-aspose.cells.style) | Formats selected area of the PivotTable. |
 | [`format(self, ca, style)`](/cells/python-net/aspose.cells.pivot/pivottable/format/#aspose.cells.cellarea-aspose.cells.style) | Formats selected area of the PivotTable. |
 | [`format(self, row, column, style)`](/cells/python-net/aspose.cells.pivot/pivottable/format/#int-int-aspose.cells.style) | Formats the cell in the pivottable area |
-| [`set_auto_group_field(self, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivottable/set_auto_group_field/#int) | Sets auto field group by the PivotTable. |
-| [`set_auto_group_field(self, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/set_auto_group_field/#aspose.cells.pivot.pivotfield) | Sets auto field group by the PivotTable. |
-| [`set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#int-float-float-list-float) | Sets manual field group by the PivotTable. |
-| [`set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#aspose.cells.pivot.pivotfield-float-float-list-float) | Sets manual field group by the PivotTable. |
-| [`set_manual_group_field(self, base_field_index, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#int-system.datetime-system.datetime-list-int) | Sets manual field group by the PivotTable. |
-| [`set_manual_group_field(self, pivot_field, start_val, end_val, group_by_list, interval_num)`](/cells/python-net/aspose.cells.pivot/pivottable/set_manual_group_field/#aspose.cells.pivot.pivotfield-system.datetime-system.datetime-list-int) | Sets manual field group by the PivotTable. |
-| [`set_ungroup(self, base_field_index)`](/cells/python-net/aspose.cells.pivot/pivottable/set_ungroup/#int) | Sets ungroup by the PivotTable |
-| [`set_ungroup(self, pivot_field)`](/cells/python-net/aspose.cells.pivot/pivottable/set_ungroup/#aspose.cells.pivot.pivotfield) | Sets ungroup by the PivotTable |
 | [`copy_style(self, pivot_table)`](/cells/python-net/aspose.cells.pivot/pivottable/copy_style/#aspose.cells.pivot.pivottable) | Copies named style from another pivot table. |
 | [`show_report_filter_page(self, page_field)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page/#aspose.cells.pivot.pivotfield) | Show all the report filter pages according to PivotField, the PivotField must be located in the PageFields. |
 | [`show_report_filter_page_by_name(self, field_name)`](/cells/python-net/aspose.cells.pivot/pivottable/show_report_filter_page_by_name/#system.string) | Show all the report filter pages according to PivotField's name, the PivotField must be located in the PageFields. |
@@ -170,6 +162,7 @@ The PivotTable type exposes the following members:
 | [`get_cell_by_display_name(self, display_name)`](/cells/python-net/aspose.cells.pivot/pivottable/get_cell_by_display_name/#system.string) | Gets the [`Cell`](/cells/python-net/aspose.cells/cell) object by the display name of PivotField. |
 | [`get_dependent_pivot_tables(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_dependent_pivot_tables/#) | Gets all [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)s that use this PivotTable as their data source. |
 | [`get_children(self)`](/cells/python-net/aspose.cells.pivot/pivottable/get_children/#) | Gets the Children Pivot Tables which use this PivotTable data as data source. |
+| [`export_view_to_json(self, options)`](/cells/python-net/aspose.cells.pivot/pivottable/export_view_to_json/#aspose.cells.pivot.pivotviewtojsonoptions) | Exports pivot view as JSON. |
 
 
 

@@ -22,7 +22,7 @@ The Worksheet type exposes the following members:
 | [protection](/cells/python-net/aspose.cells/worksheet/protection) | Represents the various types of protection options available for a worksheet. Supports advanced protection options in ExcelXP and above version. |
 | [unique_id](/cells/python-net/aspose.cells/worksheet/unique_id) | Gets and sets the unique id, it is same as {15DB5C3C-A5A1-48AF-8F25-3D86AC232D4F}. |
 | [workbook](/cells/python-net/aspose.cells/worksheet/workbook) | Gets the workbook object which contains this sheet. |
-| [cells](/cells/python-net/aspose.cells/worksheet/cells) | Gets the [`Worksheet.cells`](/cells/python-net/aspose.cells/worksheet#cells) collection. |
+| [cells](/cells/python-net/aspose.cells/worksheet/cells) | Gets the [`Cells`](/cells/python-net/aspose.cells/cells) collection. |
 | [query_tables](/cells/python-net/aspose.cells/worksheet/query_tables) | Gets [`QueryTableCollection`](/cells/python-net/aspose.cells/querytablecollection) in the worksheet. |
 | [type](/cells/python-net/aspose.cells/worksheet/type) | Represents worksheet type. |
 | [name](/cells/python-net/aspose.cells/worksheet/name) | Gets or sets the name of the worksheet. |
@@ -167,6 +167,7 @@ sheet.hyperlinks.add("A1", 1, 1, "http://www.aspose.com")
 
 ### See Also
 * module [`aspose.cells`](..)
+* class [`Cells`](/cells/python-net/aspose.cells/cells)
 * class [`Chart`](/cells/python-net/aspose.cells.charts/chart)
 * class [`CheckBox`](/cells/python-net/aspose.cells.drawing/checkbox)
 * class [`Comment`](/cells/python-net/aspose.cells/comment)

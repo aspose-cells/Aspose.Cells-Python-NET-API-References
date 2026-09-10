@@ -23,6 +23,14 @@ The PivotFieldCollection type exposes the following members:
 | [capacity](/cells/python-net/aspose.cells.pivot/pivotfieldcollection/capacity) | Gets or sets the number of elements that the array list can contain. |
 
 
+
+Gets the PivotField Object at the specific index.
+### Indexer
+| Name | Description |
+| :- | :- |
+| [index] |  |
+
+
 ### Methods
 | Method | Description |
 | :- | :- |

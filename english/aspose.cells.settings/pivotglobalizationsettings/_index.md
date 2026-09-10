@@ -36,6 +36,9 @@ The PivotGlobalizationSettings type exposes the following members:
 | [`get_text_of_empty_data(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_empty_data/#) | Gets the text of "(blank)" label in the PivotTable. |
 | [`get_text_of_data_field_header(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_data_field_header/#) | Gets the the text of the value area field header in the PivotTable. |
 | [`get_short_text_of_12_months(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_short_text_of_12_months/#) | Gets all short formatted string of 12 months. |
+| [`get_text_of_24_hours(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_24_hours/#) | Gets all local formatted string of 24 hours.<br/>The default value is 12 AM, 1 AM, 2 AM, 3 AM, 4 AM, 5 AM, 6 AM, 7 AM, 8 AM, 9 AM, 10 AM, 11 AM, 12 PM, 1 PM, 2 PM, 3 PM, 4 PM, 5 PM, 6 PM, 7 PM, 8 PM, 9 PM, 10 PM, 11 PM. |
+| [`get_text_of_or(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_or/#) | Gets all local formatted string of "or". |
+| [`get_format_of_day_group(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_format_of_day_group/#) | Gets the number format of pivot day group.<br/>Only used when grouping the pivot field by days.<br/>The default vaule is "d-MMM"; |
 | [`get_text_of_4_quaters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_4_quaters/#) | Gets the local text of 4 Quarters. |
 | [`get_text_of_4_quarters(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_4_quarters/#) | Gets the local text of 4 Quarters. |
 | [`get_text_of_years(self)`](/cells/python-net/aspose.cells.settings/pivotglobalizationsettings/get_text_of_years/#) | Gets the local text of "Years". |

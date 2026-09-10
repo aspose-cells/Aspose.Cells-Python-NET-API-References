@@ -3,7 +3,7 @@ title: get_name_of_data_field method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /aspose.cells.settings/pivotglobalizationsettings/get_name_of_data_field/
 is_root: false
 ---
