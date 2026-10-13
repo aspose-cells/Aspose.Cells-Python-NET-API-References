@@ -33,6 +33,7 @@ The WorkbookDesigner type exposes the following members:
 | [calculate_formula](/cells/python-net/aspose.cells/workbookdesigner/calculate_formula) | Indicates whether formulas should be calculated. |
 | [call_back](/cells/python-net/aspose.cells/workbookdesigner/call_back) | Gets and sets callback interface of processing smartmarker. |
 | [line_by_line](/cells/python-net/aspose.cells/workbookdesigner/line_by_line) | Indicates whether processing the smart marker line by line. |
+| [enable_header_footer_markers](/cells/python-net/aspose.cells/workbookdesigner/enable_header_footer_markers) | Indicates whether header/footer contains smart markers and should be processed together. |
 | [contains_variables](/cells/python-net/aspose.cells/workbookdesigner/contains_variables) | Indicates whether the first worksheet contains custom variables. |
 | [variables_worksheet_name](/cells/python-net/aspose.cells/workbookdesigner/variables_worksheet_name) | Gets and sets the name of the worksheet which contains variables smart marker. |
 | [sort_data_source](/cells/python-net/aspose.cells/workbookdesigner/sort_data_source) | Indicates whether sorting data source. |

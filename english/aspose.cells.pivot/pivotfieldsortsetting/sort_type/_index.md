@@ -3,7 +3,7 @@ title: sort_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /aspose.cells.pivot/pivotfieldsortsetting/sort_type/
 is_root: false
 ---
@@ -16,6 +16,9 @@ Represents the [`SortOrder`](/cells/python-net/aspose.cells/sortorder).
 ```python
 @property
 def sort_type(self):
+    ...
+@sort_type.setter
+def sort_type(self, value):
     ...
 ```
 

@@ -40,7 +40,7 @@ The ChartArea type exposes the following members:
 | [width](/cells/python-net/aspose.cells.charts/chartarea/width) | Gets or sets the horizontal offset from its lower right corner column, in units of 1/4000 of the chart area. |
 | [shadow](/cells/python-net/aspose.cells.charts/chartarea/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/chartarea/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
-| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/chartarea/is_default_pos_be_set) | Indicates whether default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set. |
+| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/chartarea/is_default_pos_be_set) | Indicates whether the default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set. |
 | [default_x](/cells/python-net/aspose.cells.charts/chartarea/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
 | [default_y](/cells/python-net/aspose.cells.charts/chartarea/default_y) | Represents the y of the default position in units of 1/4000 of the chart area. |
 | [default_width](/cells/python-net/aspose.cells.charts/chartarea/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
@@ -48,7 +48,7 @@ The ChartArea type exposes the following members:
 | [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
 | [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/default_y_ratio_to_chart) | Represents y of the default position in units of the fraction of the chart area. |
 | [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
-| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/default_height_ratio_to_chart) | Represents height of the default position in units of the fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/default_height_ratio_to_chart) | Represents the height of the default position in units of the fraction of the chart area. |
 | [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/x_ratio_to_chart) | Gets or sets the horizontal offset from the upper-left corner column, as a ratio of the chart area. |
 | [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/y_ratio_to_chart) | Gets or gets the vertical offset from its upper left corner row, in units of ratio of the chart area. |
 | [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/chartarea/width_ratio_to_chart) | Gets or sets the horizontal offset from its lower right corner column, in units of ratio of the chart area. |

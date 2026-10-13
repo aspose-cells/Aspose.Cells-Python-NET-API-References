@@ -3,7 +3,7 @@ title: allow_dragging_to_column property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 320
 url: /aspose.cells.pivot/pivotfield/allow_dragging_to_column/
 is_root: false
 ---

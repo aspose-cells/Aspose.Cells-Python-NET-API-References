@@ -17,10 +17,11 @@ Represents the major unit scale for the category axis.
 
 
 ```python
-from aspose.cells.charts import CategoryType, TimeUnit
+from aspose.cells.charts import CategoryType
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
-chart.category_axis.major_unit_scale = TimeUnit.MONTHS
+timeUnit = chart.category_axis.major_unit_scale
+chart.category_axis.major_unit_scale = timeUnit
 chart.category_axis.major_unit = 2.0
 
 ```

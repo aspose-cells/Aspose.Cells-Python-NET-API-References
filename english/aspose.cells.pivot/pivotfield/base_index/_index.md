@@ -3,7 +3,7 @@ title: base_index property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 400
 url: /aspose.cells.pivot/pivotfield/base_index/
 is_root: false
 ---
@@ -12,6 +12,13 @@ is_root: false
 
 
 Represents the index in the source pivot fields.
+
+### Remarks 
+
+
+NOTE: This setter of this property is now obsolete. 
+This setter of this property will be removed 12 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

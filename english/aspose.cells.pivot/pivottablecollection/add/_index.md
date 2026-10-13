@@ -8,9 +8,34 @@ url: /aspose.cells.pivot/pivottablecollection/add/
 is_root: false
 ---
 
+## add(self, source_data, row, column) {#System.String-int-int}
+
+Adds a new PivotTable at the specified worksheet row and column position with default options.
+
+
+### Returns 
+
+
+The newly created PivotTable instance.
+
+
+```python
+
+def add(self, source_data, row, column):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| source_data | System.String | The data cell range for the new PivotTable. Example: Sheet1!A1:C8 |
+| row | int | The zero-based row index of the upper-left corner for the PivotTable destination. |
+| column | int | The zero-based column index of the upper-left corner for the PivotTable destination. |
+
+
 ## add(self, source_data, dest_cell_name, table_name) {#System.String-System.String-System.String}
 
-Adds a new PivotTable.
+Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 
 
 ### Returns 
@@ -31,7 +56,13 @@ def add(self, source_data, dest_cell_name, table_name):
 | source_data | System.String | The data for the new PivotTable cache. |
 | dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+This method will be removed 12 months after September 2026.
+Apologies for any inconvenience.
 
 ## add(self, pivot_table, dest_cell_name, table_name) {#aspose.cells.pivot.PivotTable-System.String-System.String}
 
@@ -60,7 +91,7 @@ def add(self, pivot_table, dest_cell_name, table_name):
 
 ## add(self, source_data, dest_cell_name, table_name, use_same_source) {#System.String-System.String-System.String-bool}
 
-Adds a new PivotTable.
+Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 
 
 ### Returns 
@@ -82,11 +113,17 @@ def add(self, source_data, dest_cell_name, table_name, use_same_source):
 | dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+This method will be removed 12 months after September 2026.
+Apologies for any inconvenience.
 
 ## add(self, source_data, row, column, table_name) {#System.String-int-int-System.String}
 
-Adds a new PivotTable.
+Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 
 
 ### Returns 
@@ -108,7 +145,13 @@ def add(self, source_data, row, column, table_name):
 | row | int | Row index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+This method will be removed 12 months after September 2026.
+Apologies for any inconvenience.
 
 ## add(self, pivot_table, row, column, table_name) {#aspose.cells.pivot.PivotTable-int-int-System.String}
 
@@ -138,7 +181,7 @@ def add(self, pivot_table, row, column, table_name):
 
 ## add(self, source_data, row, column, table_name, use_same_source) {#System.String-int-int-System.String-bool}
 
-Adds a new PivotTable.
+Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 
 
 ### Returns 
@@ -161,7 +204,13 @@ def add(self, source_data, row, column, table_name, use_same_source):
 | column | int | Column index of the cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+This method will be removed 12 months after September 2026.
+Apologies for any inconvenience.
 
 ## add(self, source_data, cell, table_name, use_same_source, is_xls_classic) {#System.String-System.String-System.String-bool-bool}
 
@@ -186,7 +235,7 @@ def add(self, source_data, cell, table_name, use_same_source, is_xls_classic):
 | source_data | System.String | The data cell range for the new PivotTable.Example : Sheet1!A1:C8 |
 | cell | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
-| use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
+| use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory when same data source has been gathered into one pivot cache. |
 | is_xls_classic | bool | Indicates whether add classic pivot table of Excel 97-2003. |
 
 
@@ -219,7 +268,7 @@ def add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name
 
 ## add(self, source_data, row, column, table_name, use_same_source, is_xls_classic) {#System.String-int-int-System.String-bool-bool}
 
-Adds a new PivotTable.
+Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 
 
 ### Returns 
@@ -276,4 +325,5 @@ def add(self, source_data, is_auto_page, page_fields, row, column, table_name):
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)
 * class [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection)

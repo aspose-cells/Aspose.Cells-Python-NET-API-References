@@ -3,7 +3,7 @@ title: PivotFieldSortSetting class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 190
 url: /aspose.cells.pivot/pivotfieldsortsetting/
 is_root: false
 ---
@@ -22,6 +22,7 @@ The PivotFieldSortSetting type exposes the following members:
 | [sort_type](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/sort_type) | Represents the [`SortOrder`](/cells/python-net/aspose.cells/sortorder). |
 | [is_sort_by_labels](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/is_sort_by_labels) | Indicates whether to sort the field by itself or data field. |
 | [field_index](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/field_index) | Represents the index of the field sorted by.<br/>-1 means sorting the PivotField by the labels,others means sorting by the data field. |
+| [sort_by](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/sort_by) | Represents the index of the field sorted by.<br/>A value of -1 indicates sorting by the pivot item's own values.<br/>When greater than or equal to zero, it represents the index of data field in the data region. |
 | [line_type_sorted_by](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/line_type_sorted_by) | The pivot line type sorted by. |
 | [is_simple_sort](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/is_simple_sort) | Indicates whether a simple data sort operation will be applied. |
 | [cell](/cells/python-net/aspose.cells.pivot/pivotfieldsortsetting/cell) | Sorts by the values in which row or column. |

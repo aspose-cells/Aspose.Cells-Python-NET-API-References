@@ -24,8 +24,31 @@ def group(self):
 ### Remarks
 
 If the field only contains blank and date time, the field will be grouped by Months.
-If the field only contains blank and number, the field will be grouped by number.
+If the field only contains blank and number, the field will be grouped by Number.
 Else only returns false without any group.
+
+## group(self, options) {#aspose.cells.pivot.PivotFieldGroupOptions}
+
+Groups the pivot field with options.
+
+
+### Returns 
+
+
+
+
+
+```python
+
+def group(self, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| options | aspose.cells.pivot.PivotFieldGroupOptions | Options for pivot field grouping settings. |
+
 
 
 ### See Also

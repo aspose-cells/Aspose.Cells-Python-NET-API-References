@@ -10,7 +10,7 @@ is_root: false
 
 ## unselect_items(self, labels) {#list}
 
-
+Remove selected filter labels.
 
 
 
@@ -23,7 +23,7 @@ def unselect_items(self, labels):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| labels | list |  |
+| labels | list | The labels. |
 
 
 

@@ -63,6 +63,7 @@ The XpsSaveOptions type exposes the following members:
 | [page_saving_callback](/cells/python-net/aspose.cells/xpssaveoptions/page_saving_callback) |  |
 | [emf_render_setting](/cells/python-net/aspose.cells/xpssaveoptions/emf_render_setting) |  |
 | [custom_render_settings](/cells/python-net/aspose.cells/xpssaveoptions/custom_render_settings) |  |
+| [rendering_behavior](/cells/python-net/aspose.cells/xpssaveoptions/rendering_behavior) |  |
 
 
 

@@ -13,10 +13,21 @@ is_root: false
 
 Represents the index of the field sorted by.
 -1 means sorting the PivotField by the labels,others means sorting by the data field.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotFieldSortSetting.SortBy property  instead.
+This method will be removed 12 months later since September 2026.
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property
 def field_index(self):
+    ...
+@field_index.setter
+def field_index(self, value):
     ...
 ```
 

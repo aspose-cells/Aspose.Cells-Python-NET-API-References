@@ -3,7 +3,7 @@ title: PivotGroupByType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 460
 url: /aspose.cells.pivot/pivotgroupbytype/
 is_root: false
 ---
@@ -28,6 +28,7 @@ The PivotGroupByType type exposes the following members:
 | MONTHS | Presents Months groupby type. |
 | QUARTERS | Presents Quarters groupby type. |
 | YEARS | Presents Years groupby type. |
+| DATE_TIMES | Presents all group type of date times. |
 
 
 

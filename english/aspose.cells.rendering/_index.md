@@ -38,6 +38,7 @@ The **Aspose.Cells.Rendering**  namespace provides classes for rendering image a
 | [`CommentTitleType`](/cells/python-net/aspose.cells.rendering/commenttitletype) | Represents comment title type while rendering when comment is set to display at end of sheet. |
 | [`DataBarRenderMode`](/cells/python-net/aspose.cells.rendering/databarrendermode) | Represents the DataBar render mode. |
 | [`DrawObjectEnum`](/cells/python-net/aspose.cells.rendering/drawobjectenum) | Indicate Cell or Image of DrawObject. |
+| [`ExcelRenderingBehavior`](/cells/python-net/aspose.cells.rendering/excelrenderingbehavior) | Specifies Excel-specific rendering behaviors to apply when rendering a workbook. |
 | [`HtmlEmbeddedFontType`](/cells/python-net/aspose.cells.rendering/htmlembeddedfonttype) | Represents the embedded font type in html. |
 | [`HtmlLayoutMode`](/cells/python-net/aspose.cells.rendering/htmllayoutmode) | Represents the layout mode for HTML rendering. |
 | [`HtmlParagraphLayoutMode`](/cells/python-net/aspose.cells.rendering/htmlparagraphlayoutmode) | Specifies how HTML <p> elements are rendered when loading HTML. |

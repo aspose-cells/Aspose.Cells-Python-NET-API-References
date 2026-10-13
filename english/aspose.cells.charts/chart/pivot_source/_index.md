@@ -12,7 +12,7 @@ is_root: false
 
 
 The source is the data of the pivot table.
-If PivotSource is not empty ,the chart is PivotChart.
+If PivotSource is not empty, the chart is PivotChart.
 
 ### Remarks 
 

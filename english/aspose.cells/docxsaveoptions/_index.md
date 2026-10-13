@@ -63,6 +63,7 @@ The DocxSaveOptions type exposes the following members:
 | [page_saving_callback](/cells/python-net/aspose.cells/docxsaveoptions/page_saving_callback) |  |
 | [emf_render_setting](/cells/python-net/aspose.cells/docxsaveoptions/emf_render_setting) |  |
 | [custom_render_settings](/cells/python-net/aspose.cells/docxsaveoptions/custom_render_settings) |  |
+| [rendering_behavior](/cells/python-net/aspose.cells/docxsaveoptions/rendering_behavior) |  |
 | [save_as_editable_shaps](/cells/python-net/aspose.cells/docxsaveoptions/save_as_editable_shaps) | Save all drawing objecgts as editable shapes in word file.So you can edit them in Word. |
 | [save_as_editable_shapes](/cells/python-net/aspose.cells/docxsaveoptions/save_as_editable_shapes) | Save all drawing objects as editable shapes in the word file, so you can edit them in Word. |
 | [embed_xlsx_as_chart_data_source](/cells/python-net/aspose.cells/docxsaveoptions/embed_xlsx_as_chart_data_source) | Indicates whether embedding an xlsx file as data source of the chart. |

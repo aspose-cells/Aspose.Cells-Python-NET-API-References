@@ -3,7 +3,7 @@ title: allow_dragging_to_page property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 310
+weight: 340
 url: /aspose.cells.pivot/pivotfield/allow_dragging_to_page/
 is_root: false
 ---

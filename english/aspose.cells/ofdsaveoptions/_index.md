@@ -62,6 +62,7 @@ The OfdSaveOptions type exposes the following members:
 | [page_saving_callback](/cells/python-net/aspose.cells/ofdsaveoptions/page_saving_callback) |  |
 | [emf_render_setting](/cells/python-net/aspose.cells/ofdsaveoptions/emf_render_setting) |  |
 | [custom_render_settings](/cells/python-net/aspose.cells/ofdsaveoptions/custom_render_settings) |  |
+| [rendering_behavior](/cells/python-net/aspose.cells/ofdsaveoptions/rendering_behavior) |  |
 
 
 

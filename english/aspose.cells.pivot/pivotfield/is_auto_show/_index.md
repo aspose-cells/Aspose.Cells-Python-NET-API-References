@@ -3,7 +3,7 @@ title: is_auto_show property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 540
+weight: 530
 url: /aspose.cells.pivot/pivotfield/is_auto_show/
 is_root: false
 ---
@@ -16,7 +16,10 @@ Indicates whether the specified PivotTable field is automatically shown.
 ### Remarks 
 
 
-Only valid for excel 2003.
+NOTE: This property is now obsolete. Instead, 
+please use PivotField.Top10AutoShowSettings.IsAutoShow property or PivotField.Top10AutoShow() method instead.
+This method will be removed 12 months later since September 2026.
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

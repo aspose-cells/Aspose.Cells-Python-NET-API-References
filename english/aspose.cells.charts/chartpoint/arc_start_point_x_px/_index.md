@@ -11,7 +11,7 @@ is_root: false
 ## arc_start_point_x_px property
 
 
-Gets the x coordinate of starting point for the pie section after calling the Chart.Calculate() method.
+Gets the x coordinate of the starting point for the pie section after calling the Chart.Calculate() method.
 Applies to Pie and Doughnut charts.
 ### Definition:
 ```python

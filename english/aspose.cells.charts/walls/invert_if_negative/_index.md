@@ -40,6 +40,7 @@ chartIndex = worksheet.charts.add(ChartType.COLUMN, 5, 0, 15, 5)
 chart = worksheet.charts[chartIndex]
 # Adding NSeries (chart data source) to the chart ranging from "A1" cell to "A3"
 chart.n_series.add("A1:A3", True)
+isNegative = chart.n_series[0].area.invert_if_negative
 chart.n_series[0].area.invert_if_negative = True
 # Setting the foreground color of the 1st NSeries area
 chart.n_series[0].area.foreground_color = Color.red

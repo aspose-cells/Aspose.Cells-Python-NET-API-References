@@ -24,8 +24,13 @@ def group_by(self, interval, new_field):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero, |
-| new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for number group. |
+| new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for DateTime group. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, custom_group_items, new_field) {#list-bool}
 
@@ -98,7 +103,12 @@ def group_by(self, groups, interval, new_field):
 | groups | list | Group types |
 | interval | float | The internal of group.<br/>Automatic value will be assigned if it's zero,<br/>Only works for grouping by Numbers or Days. |
 | new_field | bool | Indicates whether adding a new field to the pivottable. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, start, end, interval, new_field) {#float-float-float-bool}
 
@@ -126,7 +136,10 @@ def group_by(self, start, end, interval, new_field):
 | new_field | bool | Indicates whether adding a new field to the pivottable |
 ### Remarks
 
-
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, start, end, groups, interval, first_as_new_field) {#System.DateTime-System.DateTime-list-float-bool}
 
@@ -153,7 +166,12 @@ def group_by(self, start, end, groups, interval, first_as_new_field):
 | groups | list | Group types |
 | interval | float | The interval |
 | first_as_new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for the first group item. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, is_auto_start, start, is_auto_end, end, interval, new_field) {#bool-float-bool-float-float-bool}
 
@@ -181,7 +199,12 @@ def group_by(self, is_auto_start, start, is_auto_end, end, interval, new_field):
 | end | float | The end of value |
 | interval | float | The interval |
 | new_field | bool | Indicates whether adding a new field to the pivottable |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, is_auto_start, start, is_auto_end, end, groups, interval, first_as_new_field) {#bool-System.DateTime-bool-System.DateTime-list-float-bool}
 
@@ -210,7 +233,12 @@ def group_by(self, is_auto_start, start, is_auto_end, end, groups, interval, fir
 | groups | list | Group types |
 | interval | float | The interval |
 | first_as_new_field | bool | Indicates whether adding a new field to the pivottable.<br/>Only for the first group item. |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions) method .
+This method will be removed 6 months later since September 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 
 ### See Also

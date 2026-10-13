@@ -3,15 +3,13 @@ title: is_auto_sort property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 540
 url: /aspose.cells.pivot/pivotfield/is_auto_sort/
 is_root: false
 ---
 
 ## is_auto_sort property
 
-
-Indicates whether the items of this PivotTable field are automatically sorted.
 ### Definition:
 ```python
 @property

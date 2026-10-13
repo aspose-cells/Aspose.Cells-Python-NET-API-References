@@ -3,7 +3,7 @@ title: zoom_behavior property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /aspose.cells/pdfsaveoptions/zoom_behavior/
 is_root: false
 ---

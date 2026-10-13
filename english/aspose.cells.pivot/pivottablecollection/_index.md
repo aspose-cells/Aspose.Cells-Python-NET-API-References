@@ -3,7 +3,7 @@ title: PivotTableCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 330
 url: /aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -33,11 +33,12 @@ Gets the PivotTable report by index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string) | Adds a new PivotTable. |
-| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string-bool) | Adds a new PivotTable. |
-| [`add(self, source_data, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string) | Adds a new PivotTable. |
-| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string-bool) | Adds a new PivotTable. |
-| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string-bool-bool) | Adds a new PivotTable. |
+| [`add(self, source_data, row, column)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int) | Adds a new PivotTable at the specified worksheet row and column position with default options. |
+| [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
+| [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string-bool) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
+| [`add(self, source_data, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
+| [`add(self, source_data, row, column, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string-bool) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
+| [`add(self, source_data, row, column, table_name, use_same_source, is_xls_classic)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string-bool-bool) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
 | [`add(self, source_data, cell, table_name, use_same_source, is_xls_classic)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string-bool-bool) | Adds a new PivotTable. |
 | [`add(self, pivot_table, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-system.string-system.string) | Adds a new PivotTable based on another PivotTable. |
 | [`add(self, pivot_table, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#aspose.cells.pivot.pivottable-int-int-system.string) | Adds a new PivotTable based on another PivotTable. |

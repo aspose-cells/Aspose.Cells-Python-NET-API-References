@@ -3,7 +3,7 @@ title: PivotTable class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 310
 url: /aspose.cells.pivot/pivottable/
 is_root: false
 ---
@@ -84,6 +84,7 @@ The PivotTable type exposes the following members:
 | [indent](/cells/python-net/aspose.cells.pivot/pivottable/indent) | Specifies the indentation increment for compact axis and can be used to set the Report Layout to Compact Form. |
 | [row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/row_header_caption) | Gets and sets custom caption of the Row Header in this PivotTable. |
 | [show_row_header_caption](/cells/python-net/aspose.cells.pivot/pivottable/show_row_header_caption) | Indicates whether row header caption is shown in the PivotTable report<br/>Indicates whether Display field captions and filter drop downs |
+| [show_headers](/cells/python-net/aspose.cells.pivot/pivottable/show_headers) | Whether to show data field captions and pivot field captions on the row axis and the column axis in the PivotTable view. |
 | [custom_list_sort](/cells/python-net/aspose.cells.pivot/pivottable/custom_list_sort) | Indicates whether consider built-in custom list when sort data |
 | [pivot_format_conditions](/cells/python-net/aspose.cells.pivot/pivottable/pivot_format_conditions) | Gets the Format Conditions of the pivot table. |
 | [conditional_formats](/cells/python-net/aspose.cells.pivot/pivottable/conditional_formats) | Gets the conditional formats of the pivot table. |
@@ -92,7 +93,6 @@ The PivotTable type exposes the following members:
 | [tag](/cells/python-net/aspose.cells.pivot/pivottable/tag) | Gets and sets a user-defined string that is associated with this PivotTable view. |
 | [save_data](/cells/python-net/aspose.cells.pivot/pivottable/save_data) | Indicates whether data for the PivotTable report is saved with the workbook. |
 | [refresh_data_on_opening_file](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_on_opening_file) | Indicates whether Refresh Data when Opening File. |
-| [refresh_data_flag](/cells/python-net/aspose.cells.pivot/pivottable/refresh_data_flag) | Indicates whether Refreshing Data or not. |
 | [source_type](/cells/python-net/aspose.cells.pivot/pivottable/source_type) | Gets the data source type of the pivot table. |
 | [external_connection_data_source](/cells/python-net/aspose.cells.pivot/pivottable/external_connection_data_source) | Gets the external connection data source. |
 | [data_source](/cells/python-net/aspose.cells.pivot/pivottable/data_source) | Gets and sets the data source of the pivot table. |

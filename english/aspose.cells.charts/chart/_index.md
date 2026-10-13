@@ -23,7 +23,7 @@ The Chart type exposes the following members:
 | [chart_object](/cells/python-net/aspose.cells.charts/chart/chart_object) | Represents the chartShape; |
 | [hide_pivot_field_buttons](/cells/python-net/aspose.cells.charts/chart/hide_pivot_field_buttons) | Indicates whether hide the pivot chart field buttons only when the chart is PivotChart. |
 | [pivot_options](/cells/python-net/aspose.cells.charts/chart/pivot_options) | Specifies the pivot controls that appear on the chart |
-| [pivot_source](/cells/python-net/aspose.cells.charts/chart/pivot_source) | The source is the data of the pivot table.<br/>If PivotSource is not empty ,the chart is PivotChart. |
+| [pivot_source](/cells/python-net/aspose.cells.charts/chart/pivot_source) | The source is the data of the pivot table.<br/>If PivotSource is not empty, the chart is PivotChart. |
 | [plot_by](/cells/python-net/aspose.cells.charts/chart/plot_by) | Gets and sets whether plot by row or column. |
 | [plot_empty_cells_type](/cells/python-net/aspose.cells.charts/chart/plot_empty_cells_type) | Gets and sets  how to plot the empty cells. |
 | [plot_visible_cells](/cells/python-net/aspose.cells.charts/chart/plot_visible_cells) | Indicates whether only plot visible cells. |
@@ -67,7 +67,7 @@ The Chart type exposes the following members:
 | [perspective](/cells/python-net/aspose.cells.charts/chart/perspective) | Returns or sets the perspective for the three‑dimensional chart view.<br/>Must be between 0 and 100.<br/>This property is ignored if the RightAngleAxes property is True. |
 | [is_3d](/cells/python-net/aspose.cells.charts/chart/is_3d) | Indicates whether the chart is a 3d chart. |
 | [depth_percent](/cells/python-net/aspose.cells.charts/chart/depth_percent) | Represents the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). |
-| [actual_chart_size](/cells/python-net/aspose.cells.charts/chart/actual_chart_size) | Gets actual size of chart in units of pixels. |
+| [actual_chart_size](/cells/python-net/aspose.cells.charts/chart/actual_chart_size) | Gets the actual size of the chart in units of pixels. |
 | [placement](/cells/python-net/aspose.cells.charts/chart/placement) | Represents the way the chart is attached to the cells below it. |
 | [page_setup](/cells/python-net/aspose.cells.charts/chart/page_setup) | Represents the page setup description in this chart. |
 | [line](/cells/python-net/aspose.cells.charts/chart/line) | Gets the line. |

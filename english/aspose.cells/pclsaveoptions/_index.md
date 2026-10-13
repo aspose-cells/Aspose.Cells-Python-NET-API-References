@@ -62,6 +62,7 @@ The PclSaveOptions type exposes the following members:
 | [page_saving_callback](/cells/python-net/aspose.cells/pclsaveoptions/page_saving_callback) |  |
 | [emf_render_setting](/cells/python-net/aspose.cells/pclsaveoptions/emf_render_setting) |  |
 | [custom_render_settings](/cells/python-net/aspose.cells/pclsaveoptions/custom_render_settings) |  |
+| [rendering_behavior](/cells/python-net/aspose.cells/pclsaveoptions/rendering_behavior) |  |
 | [embed_font](/cells/python-net/aspose.cells/pclsaveoptions/embed_font) | Indicates whether to embed font into the output Pcl file. |
 
 

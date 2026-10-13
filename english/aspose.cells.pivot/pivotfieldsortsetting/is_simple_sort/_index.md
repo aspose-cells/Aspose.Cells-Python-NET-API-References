@@ -22,6 +22,9 @@ The default value is true.
 @property
 def is_simple_sort(self):
     ...
+@is_simple_sort.setter
+def is_simple_sort(self, value):
+    ...
 ```
 
 ### See Also

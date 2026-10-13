@@ -3,7 +3,7 @@ title: PivotCache class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /aspose.cells.pivot/pivotcache/
 is_root: false
 ---
@@ -20,6 +20,7 @@ The PivotCache type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [source_type](/cells/python-net/aspose.cells.pivot/pivotcache/source_type) | Gets the [`PivotTableSourceType`](/cells/python-net/aspose.cells.pivot/pivottablesourcetype). |
+| [missing_items_limit](/cells/python-net/aspose.cells.pivot/pivotcache/missing_items_limit) | Gets and sets the number of unused items to allow before discarding unused items.<br/>This value MUST be greater than -2 and less than 1048577.      <br/>[`PivotCacheMissingItemsLimitConst`](/cells/python-net/aspose.cells.pivot/pivotcachemissingitemslimitconst); |
 
 
 ### Methods
@@ -39,5 +40,6 @@ If data source of some [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivot
 
 ### See Also
 * module [`aspose.cells.pivot`](..)
+* class [`PivotCacheMissingItemsLimitConst`](/cells/python-net/aspose.cells.pivot/pivotcachemissingitemslimitconst)
 * class [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable)
 * class [`PivotTableSourceType`](/cells/python-net/aspose.cells.pivot/pivottablesourcetype)

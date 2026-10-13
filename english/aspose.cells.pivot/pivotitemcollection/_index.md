@@ -3,7 +3,7 @@ title: PivotItemCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 260
 url: /aspose.cells.pivot/pivotitemcollection/
 is_root: false
 ---

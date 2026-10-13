@@ -41,7 +41,7 @@ The Legend type exposes the following members:
 | [width](/cells/python-net/aspose.cells.charts/legend/width) | Gets or sets the width of frame in units of 1/4000 of the chart area. |
 | [shadow](/cells/python-net/aspose.cells.charts/legend/shadow) | True if the frame has a shadow. |
 | [shape_properties](/cells/python-net/aspose.cells.charts/legend/shape_properties) | Gets the [`ChartFrame.shape_properties`](/cells/python-net/aspose.cells.charts/chartframe#shape_properties) object. |
-| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/legend/is_default_pos_be_set) | Indicates whether default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set. |
+| [is_default_pos_be_set](/cells/python-net/aspose.cells.charts/legend/is_default_pos_be_set) | Indicates whether the default position (DefaultX, DefaultY, DefaultWidth and DefaultHeight) is set. |
 | [default_x](/cells/python-net/aspose.cells.charts/legend/default_x) | Represents x of default position in units of 1/4000 of the chart area. |
 | [default_y](/cells/python-net/aspose.cells.charts/legend/default_y) | Represents the y of the default position in units of 1/4000 of the chart area. |
 | [default_width](/cells/python-net/aspose.cells.charts/legend/default_width) | Represents width of default position in units of 1/4000 of the chart area. |
@@ -49,7 +49,7 @@ The Legend type exposes the following members:
 | [default_x_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_x_ratio_to_chart) | Represents x of default position in units of Fraction of the chart area. |
 | [default_y_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_y_ratio_to_chart) | Represents y of the default position in units of the fraction of the chart area. |
 | [default_width_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_width_ratio_to_chart) | Represents width of default position in units of Fraction of the chart area. |
-| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_height_ratio_to_chart) | Represents height of the default position in units of the fraction of the chart area. |
+| [default_height_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/default_height_ratio_to_chart) | Represents the height of the default position in units of the fraction of the chart area. |
 | [x_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/x_ratio_to_chart) | Gets or sets the x coordinate of the upper left corner in units of ratio of the chart area. |
 | [y_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/y_ratio_to_chart) | Gets or sets the y coordinate of the upper left corner in units of the ratio of the chart area. |
 | [width_ratio_to_chart](/cells/python-net/aspose.cells.charts/legend/width_ratio_to_chart) | Gets or sets the width of frame in units of ratio of the chart area. |

@@ -62,6 +62,7 @@ The PdfSaveOptions type exposes the following members:
 | [page_saving_callback](/cells/python-net/aspose.cells/pdfsaveoptions/page_saving_callback) |  |
 | [emf_render_setting](/cells/python-net/aspose.cells/pdfsaveoptions/emf_render_setting) |  |
 | [custom_render_settings](/cells/python-net/aspose.cells/pdfsaveoptions/custom_render_settings) |  |
+| [rendering_behavior](/cells/python-net/aspose.cells/pdfsaveoptions/rendering_behavior) |  |
 | [embed_standard_windows_fonts](/cells/python-net/aspose.cells/pdfsaveoptions/embed_standard_windows_fonts) | True to embed true type fonts. <br/>Affects only ASCII characters 32-127.<br/>Fonts for character codes greater than 127 are always embedded.<br/>Fonts are always embedded for PDF/A-1a, PDF/A-1b standard.<br/>Default is true. |
 | [bookmark](/cells/python-net/aspose.cells/pdfsaveoptions/bookmark) | Gets and sets the [`PdfBookmarkEntry`](/cells/python-net/aspose.cells.rendering/pdfbookmarkentry) object. |
 | [compliance](/cells/python-net/aspose.cells/pdfsaveoptions/compliance) | Gets or sets the PDF standards compliance level for output documents. |

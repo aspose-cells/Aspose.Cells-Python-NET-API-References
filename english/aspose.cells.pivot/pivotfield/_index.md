@@ -3,7 +3,7 @@ title: PivotField class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /aspose.cells.pivot/pivotfield/
 is_root: false
 ---
@@ -47,20 +47,17 @@ The PivotField type exposes the following members:
 | [is_insert_page_breaks_between_items](/cells/python-net/aspose.cells.pivot/pivotfield/is_insert_page_breaks_between_items) | Indicates whether to insert page breaks after each item.<br/>The default value is false. |
 | [show_all_items](/cells/python-net/aspose.cells.pivot/pivotfield/show_all_items) | Indicates whether to display all items in the PivotTable view, <br/>even if they don't contain summary data.<br/>The default value is false. |
 | [non_auto_sort_default](/cells/python-net/aspose.cells.pivot/pivotfield/non_auto_sort_default) | Indicates whether a sort operation that will be applied to this pivot field is an autosort operation or a simple data sort. |
-| [is_auto_sort](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_sort) | Indicates whether the items of this PivotTable field are automatically sorted. |
+| [is_auto_sort](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_sort) |  |
 | [is_ascend_sort](/cells/python-net/aspose.cells.pivot/pivotfield/is_ascend_sort) | Indicates whether the items of this pivot field is autosorted ascending. |
-| [sort_setting](/cells/python-net/aspose.cells.pivot/pivotfield/sort_setting) | Gets all settings of auto sorting |
 | [auto_sort_field](/cells/python-net/aspose.cells.pivot/pivotfield/auto_sort_field) | Represents the index of field which is auto sorted. <br/>-1 means PivotField itself,others means the position of the data fields. |
+| [sort_setting](/cells/python-net/aspose.cells.pivot/pivotfield/sort_setting) | Gets all settings of auto sorting |
+| [top_10_auto_show_settings](/cells/python-net/aspose.cells.pivot/pivotfield/top_10_auto_show_settings) | Gets the Top 10 AutoShow settings for a pivot field. |
 | [is_auto_show](/cells/python-net/aspose.cells.pivot/pivotfield/is_auto_show) | Indicates whether the specified PivotTable field is automatically shown. |
 | [is_ascend_show](/cells/python-net/aspose.cells.pivot/pivotfield/is_ascend_show) | Indicates whether the specified PivotTable field is autoshown ascending. |
 | [auto_show_count](/cells/python-net/aspose.cells.pivot/pivotfield/auto_show_count) | Represent the number of top or bottom items<br/>that are automatically shown in the specified PivotTable field. |
 | [auto_show_field](/cells/python-net/aspose.cells.pivot/pivotfield/auto_show_field) | Represents auto show field index. -1 means PivotField itself.<br/>It should be the index of the data fields. |
 | [function](/cells/python-net/aspose.cells.pivot/pivotfield/function) | Represents the function used to summarize this PivotTable data field. |
 | [show_values_setting](/cells/python-net/aspose.cells.pivot/pivotfield/show_values_setting) | Gets the settings of showing values as when the ShowDataAs calculation is in use. |
-| [data_display_format](/cells/python-net/aspose.cells.pivot/pivotfield/data_display_format) | Represents how to display the values in a data field of the pivot report. |
-| [base_field_index](/cells/python-net/aspose.cells.pivot/pivotfield/base_field_index) | Represents the base field for a custom calculation when the ShowDataAs calculation is in use. |
-| [base_item_position](/cells/python-net/aspose.cells.pivot/pivotfield/base_item_position) | Represents the item in the base field for a custom calculation when the ShowDataAs calculation is in use.<br/>Valid only for data fields. <br/>Because PivotItemPosition.Custom is only for read,if you need to set PivotItemPosition.Custom,<br/>please set PivotField.BaseItemIndex attribute. |
-| [base_item_index](/cells/python-net/aspose.cells.pivot/pivotfield/base_item_index) | Represents the item in the base field for a custom calculation when the ShowDataAs calculation is in use.<br/>Valid only for data fields. |
 | [current_page_item](/cells/python-net/aspose.cells.pivot/pivotfield/current_page_item) | Represents the current selected page item of the page field to filter data.<br/>Only valid for page fields. |
 | [insert_blank_row](/cells/python-net/aspose.cells.pivot/pivotfield/insert_blank_row) | Indicates whether to insert a blank line after each item.<br/>Only for row fields. |
 | [show_subtotal_at_top](/cells/python-net/aspose.cells.pivot/pivotfield/show_subtotal_at_top) | Indicates whether to display subtotals at the top or bottom of items when ShowInOutlineForm is true, then |
@@ -76,6 +73,8 @@ The PivotField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`group(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/group/#) | Automatically group the field. |
+| [`group(self, options)`](/cells/python-net/aspose.cells.pivot/pivotfield/group/#aspose.cells.pivot.pivotfieldgroupoptions) | Groups the pivot field with options. |
 | [`group_by(self, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#float-bool) | Automatically group the field with interval |
 | [`group_by(self, groups, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-float-bool) | Automatically group the field with internal |
 | [`group_by(self, start, end, groups, interval, first_as_new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#system.datetime-system.datetime-list-float-bool) | Group the file by the date group types. |
@@ -84,14 +83,15 @@ The PivotField type exposes the following members:
 | [`group_by(self, is_auto_start, start, is_auto_end, end, interval, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#bool-float-bool-float-float-bool) | Group the file by number. |
 | [`group_by(self, custom_group_items, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
 | [`group_by(self, custom_group_items, new_field)`](/cells/python-net/aspose.cells.pivot/pivotfield/group_by/#list-bool) | Custom group the field. |
+| [`sort_by(self, sort_type)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder) | Sorts this pivot field. |
 | [`sort_by(self, sort_type, field_sorted_by)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int) | Sorts this pivot field. |
 | [`sort_by(self, sort_type, field_sorted_by, data_type, cell_name)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int-aspose.cells.pivot.pivotlinetype-system.string) | Sorts this pivot field. |
+| [`sort_by(self, sort_type, field_sorted_by, cell_name)`](/cells/python-net/aspose.cells.pivot/pivotfield/sort_by/#aspose.cells.sortorder-int-system.string) | Sorts this pivot field. |
 | [`hide_item(self, index, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#int-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [`hide_item(self, item_value, is_hidden)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item/#system.string-bool) | Sets whether the specific PivotItem in a data field is hidden. |
 | [`get_max_value(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_max_value/#) | Gets the max value of this field. |
 | [`get_min_value(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_min_value/#) | Gets the max value of this field. |
 | [`init_pivot_items(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/init_pivot_items/#) | Init the pivot items of the pivot field |
-| [`group(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/group/#) | Automatically group the field. |
 | [`ungroup(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/ungroup/#) | Ungroup the pivot field. |
 | [`get_pivot_filter_by_type(self, type)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filter_by_type/#aspose.cells.pivot.pivotfiltertype) | Gets the pivot filter of the pivot field by type |
 | [`get_pivot_filters(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_pivot_filters/#) | Gets the pivot filters of the pivot field |
@@ -105,11 +105,14 @@ The PivotField type exposes the following members:
 | [`get_formula(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_formula/#) | Gets the formula of the calculated field .<br/>Only works for calculated field. |
 | [`set_subtotals(self, subtotal_type, shown)`](/cells/python-net/aspose.cells.pivot/pivotfield/set_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype-bool) | Sets how to subtotal the specified field. |
 | [`get_subtotals(self, subtotal_type)`](/cells/python-net/aspose.cells.pivot/pivotfield/get_subtotals/#aspose.cells.pivot.pivotfieldsubtotaltype) | Indicates whether to show specified subtotal for this pivot field. |
+| [`top_10_auto_show(self, is_auto_show, is_top, count, rank_by)`](/cells/python-net/aspose.cells.pivot/pivotfield/top_10_auto_show/#bool-bool-int-int) | Configures Top10 AutoShow settings for this pivot field. |
 | [`show_values_as(self, display_format, base_field, base_item_position_type, base_item)`](/cells/python-net/aspose.cells.pivot/pivotfield/show_values_as/#aspose.cells.pivot.pivotfielddatadisplayformat-int-aspose.cells.pivot.pivotitempositiontype-int) | Shows values of data field as different display format when the ShowDataAs calculation is in use. |
 | [`is_hidden_item(self, index)`](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item/#int) | Indicates whether the specific PivotItem is hidden. |
 | [`is_hidden_item_detail(self, index)`](/cells/python-net/aspose.cells.pivot/pivotfield/is_hidden_item_detail/#int) | Indicates whether to hide the detail of the specific PivotItem.. |
 | [`hide_item_detail(self, index, is_hidden_detail)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_item_detail/#int-bool) | Sets whether the specific PivotItem in a pivot field is hidden detail. |
 | [`hide_detail(self, is_hidden_detail)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_detail/#bool) | Sets whether the detail of all PivotItems in a pivot field are hidden.<br/>That is collapse/expand this field. |
+| [`hide_all_details(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/hide_all_details/#) | Hides all details |
+| [`show_all_details(self)`](/cells/python-net/aspose.cells.pivot/pivotfield/show_all_details/#) | Show all details |
 | [`add_calculated_item(self, name, formula)`](/cells/python-net/aspose.cells.pivot/pivotfield/add_calculated_item/#system.string-system.string) | Add a calculated formula item to the pivot field. |
 
 
