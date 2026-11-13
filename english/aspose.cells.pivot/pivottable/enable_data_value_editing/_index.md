@@ -3,7 +3,7 @@ title: enable_data_value_editing property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /aspose.cells.pivot/pivottable/enable_data_value_editing/
 is_root: false
 ---
@@ -12,7 +12,7 @@ is_root: false
 
 
 Specifies a boolean value that indicates whether the user is allowed to edit the cells in the data area of the pivottable.
-Enable cell editing in the values area
+The default value is false.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: PivotFilter class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /aspose.cells.pivot/pivotfilter/
 is_root: false
 ---
@@ -82,15 +82,13 @@ cells.get(6, 2).value = 100
 cells.get(7, 2).value = 110
 cells.get(8, 2).value = 120
 pivots = sheet.pivot_tables
-pivotIndex = pivots.add("=Sheet1!A1:C9", "A12", "TestPivotTable")
-pivot = pivots[pivotIndex]
+pivot = pivots.add("=Sheet1!A1:C9", "A12")
 pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
 # Add top 10 filter
 pivot.base_fields[0].filter_top10(0, PivotFilterType.COUNT, False, 2)
-pivot.refresh_data()
 pivot.calculate_data()
 # do your business
 book.save("out.xlsx")

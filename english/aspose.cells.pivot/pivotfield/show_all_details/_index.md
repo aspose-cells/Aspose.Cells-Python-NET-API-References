@@ -10,7 +10,7 @@ is_root: false
 
 ## show_all_details(self) {#}
 
-Show all details
+Show all details of each pivot item.
 
 
 

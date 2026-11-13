@@ -3,7 +3,7 @@ title: PivotDiscreteGroupSettings class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /aspose.cells.pivot/pivotdiscretegroupsettings/
 is_root: false
 ---

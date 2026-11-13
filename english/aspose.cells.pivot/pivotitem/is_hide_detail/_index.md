@@ -3,7 +3,7 @@ title: is_hide_detail property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /aspose.cells.pivot/pivotitem/is_hide_detail/
 is_root: false
 ---

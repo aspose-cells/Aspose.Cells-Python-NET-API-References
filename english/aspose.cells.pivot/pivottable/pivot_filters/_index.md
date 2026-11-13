@@ -3,7 +3,7 @@ title: pivot_filters property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 890
 url: /aspose.cells.pivot/pivottable/pivot_filters/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## pivot_filters property
 
 
-Returns all filters of pivot fields in the pivot table.
+Returns all filters in the pivot table.
 ### Definition:
 ```python
 @property

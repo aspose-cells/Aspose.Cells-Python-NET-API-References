@@ -3,7 +3,7 @@ title: group_types property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /aspose.cells.pivot/pivotfieldgroupoptions/group_types/
 is_root: false
 ---

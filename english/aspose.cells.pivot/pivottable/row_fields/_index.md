@@ -3,7 +3,7 @@ title: row_fields property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 1020
+weight: 1030
 url: /aspose.cells.pivot/pivottable/row_fields/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## row_fields property
 
 
-Returns a PivotFields object that are currently shown as row fields.
+Returns a [`PivotFieldCollection`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection) that are currently shown as row fields.
 ### Definition:
 ```python
 @property

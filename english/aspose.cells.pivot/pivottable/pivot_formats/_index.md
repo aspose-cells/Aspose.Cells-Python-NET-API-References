@@ -3,7 +3,7 @@ title: pivot_formats property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 910
 url: /aspose.cells.pivot/pivottable/pivot_formats/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## pivot_formats property
 
 
-Gets all formats applied to PivotTable.
+Gets all cell formats applied to this pivot table.
 ### Definition:
 ```python
 @property

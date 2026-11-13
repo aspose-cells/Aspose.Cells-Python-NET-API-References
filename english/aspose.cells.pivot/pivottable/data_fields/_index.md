@@ -3,7 +3,7 @@ title: data_fields property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /aspose.cells.pivot/pivottable/data_fields/
 is_root: false
 ---
@@ -11,9 +11,7 @@ is_root: false
 ## data_fields property
 
 
-Gets a PivotField object that represents all the data fields in a PivotTable.
-Read-only.It would be init only when there are two or more data fields in the DataPiovtFiels.
-It only use to add DataPivotField to the PivotTable row/column area . Default is in row area.
+Gets a [`PivotFieldCollection`](/cells/python-net/aspose.cells.pivot/pivotfieldcollection) that represents all the data fields in a PivotTable.
 ### Definition:
 ```python
 @property

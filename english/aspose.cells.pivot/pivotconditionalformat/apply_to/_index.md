@@ -10,8 +10,7 @@ is_root: false
 
 ## apply_to(self, row, column, scope) {#int-int-aspose.cells.pivot.PivotConditionFormatScopeType}
 
-Applies the conditional format to range.
-Only for the data region.
+Applies the conditional format to range which must in data region.
 
 
 

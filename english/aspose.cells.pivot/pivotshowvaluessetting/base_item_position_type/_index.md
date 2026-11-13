@@ -3,7 +3,7 @@ title: base_item_position_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 90
 url: /aspose.cells.pivot/pivotshowvaluessetting/base_item_position_type/
 is_root: false
 ---
@@ -12,7 +12,6 @@ is_root: false
 
 
 Represents type of the base pivot item in the base field when the ShowDataAs calculation is in use.
-Valid only for data fields. 
 Because PivotItemPosition.Custom is only for read,if you need to set PivotItemPosition.Custom,
 please set PivotField.BaseItemIndex attribute.
 ### Definition:

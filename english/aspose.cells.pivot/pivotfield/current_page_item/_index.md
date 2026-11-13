@@ -11,8 +11,13 @@ is_root: false
 ## current_page_item property
 
 
-Represents the current selected page item of the page field to filter data.
-Only valid for page fields.
+Gets or sets the currently displayed page item for this pivot field (page field only).
+
+### Remarks 
+
+
+Use [`PivotItem.AllPageItemsIndex`](/cells/python-net/aspose.cells.pivot/pivotitem) (0x7FFD) as the sentinel value to indicate "Select All".
+This is a predefined marker and is not a valid item index.
 ### Definition:
 ```python
 @property

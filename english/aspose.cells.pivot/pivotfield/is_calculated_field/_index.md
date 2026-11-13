@@ -3,7 +3,7 @@ title: is_calculated_field property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /aspose.cells.pivot/pivotfield/is_calculated_field/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## is_calculated_field property
 
 
-Indicates whether the this pivot field is calculated field.
+Indicates whether the this pivot field is a calculated field.
 ### Definition:
 ```python
 @property

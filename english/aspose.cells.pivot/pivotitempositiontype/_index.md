@@ -3,7 +3,7 @@ title: PivotItemPositionType enumeration
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 470
 url: /aspose.cells.pivot/pivotitempositiontype/
 is_root: false
 ---

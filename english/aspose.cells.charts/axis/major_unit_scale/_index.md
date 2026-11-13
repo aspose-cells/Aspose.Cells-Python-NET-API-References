@@ -20,8 +20,8 @@ Represents the major unit scale for the category axis.
 from aspose.cells.charts import CategoryType
 
 chart.category_axis.category_type = CategoryType.TIME_SCALE
-timeUnit = chart.category_axis.major_unit_scale
-chart.category_axis.major_unit_scale = timeUnit
+majorUnitScale = chart.category_axis.major_unit_scale
+chart.category_axis.major_unit_scale = majorUnitScale
 chart.category_axis.major_unit = 2.0
 
 ```

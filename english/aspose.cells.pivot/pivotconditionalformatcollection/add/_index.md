@@ -30,7 +30,33 @@ def add(self):
 
 not supported
 
+## add(self, row, column, scope) {#int-int-aspose.cells.pivot.PivotConditionFormatScopeType}
+
+Applies the conditional format to range which must in data region.
+
+
+### Returns 
+
+
+Returens [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat).
+
+
+```python
+
+def add(self, row, column, scope):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| row | int | The selected row. |
+| column | int | The selected column. |
+| scope | aspose.cells.pivot.PivotConditionFormatScopeType | The scope |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
+* class [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat)
 * class [`PivotConditionalFormatCollection`](/cells/python-net/aspose.cells.pivot/pivotconditionalformatcollection)

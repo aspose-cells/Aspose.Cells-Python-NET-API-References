@@ -3,14 +3,14 @@ title: PivotConditionalFormat class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /aspose.cells.pivot/pivotconditionalformat/
 is_root: false
 ---
 
 ## PivotConditionalFormat class
 
-Represents a PivotTable Format Condition in PivotFormatCondition Collection.
+Represents the conditional format of pivot table.
 
 
 
@@ -32,7 +32,7 @@ The PivotConditionalFormat type exposes the following members:
 | [`add_field_area(self, axis_type, field)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_field_area/#aspose.cells.pivot.pivotfieldtype-aspose.cells.pivot.pivotfield) | Adds an area of pivot field. |
 | [`get_cell_areas(self)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/get_cell_areas/#) | Gets all cell areas where this conditional format applies to. |
 | [`add_cell_area(self, ca)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/add_cell_area/#aspose.cells.cellarea) | Adds an area based on pivot table view. |
-| [`apply_to(self, row, column, scope)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/apply_to/#int-int-aspose.cells.pivot.pivotconditionformatscopetype) | Applies the conditional format to range.<br/>Only for the data region. |
+| [`apply_to(self, row, column, scope)`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat/apply_to/#int-int-aspose.cells.pivot.pivotconditionformatscopetype) | Applies the conditional format to range which must in data region. |
 
 
 
@@ -75,8 +75,7 @@ cells.get(6, 2).value = 100
 cells.get(7, 2).value = 110
 cells.get(8, 2).value = 120
 pivots = sheet.pivot_tables
-pivotIndex = pivots.add("=Sheet1!A1:C9", "A12", "TestPivotTable")
-pivot = pivots[pivotIndex]
+pivot = pivots.add("=Sheet1!A1:C9", "A12")
 pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
@@ -84,15 +83,13 @@ pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
 # Add PivotFormatCondition
 formatIndex = pivot.conditional_formats.add()
 pfc = pivot.conditional_formats[formatIndex]
-pfc.add_field_area(PivotFieldType.DATA, pivot.data_fields[0])
-idx = pfc.format_conditions.add_condition(FormatConditionType.CELL_VALUE)
-fc = pfc.format_conditions[idx]
-fc.formula1 = "100"
-fc.operator = OperatorType.GREATER_OR_EQUAL
+pfc.add_cell_area(pivot.data_body_range)
+fcc = pfc.format_conditions
+ii = fcc.add_condition(FormatConditionType.CELL_VALUE, OperatorType.GREATER_OR_EQUAL, "100", None)
+fc = fcc[ii]
 fc.style.background_color = Color.red
-pivot.refresh_data()
-pivot.calculate_data()
 # do your business
+pivot.calculate_data()
 book.save("out.xlsx")
 
 ```

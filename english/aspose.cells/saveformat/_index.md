@@ -43,7 +43,7 @@ The SaveFormat type exposes the following members:
 | OTS | Open Document Template Sheet(OTS) file. |
 | XLT | Excel 97-2003 template file. |
 | XML | Represents a simple xml file. |
-| NUMBERS | Represents a numbers file. |
+| NUMBERS | Represents a numbers file since 2014 by Apple Inc. |
 | MARKDOWN | Represents markdown document. |
 | FODS | Represents OpenDocument Flat XML Spreadsheet (.fods) file format.<br/>NOTE: This member is now obsolete. Instead, <br/>please use [`SaveFormat.FODS`](/cells/python-net/aspose.cells/saveformat#FODS) property.<br/>This property will be removed 6 months later since April 2021. <br/>Aspose apologizes for any inconvenience you may have experienced. |
 | SXC | Represents StarOffice Calc Spreadsheet (.sxc) file format.<br/>NOTE: This member is now obsolete. Instead, <br/>please use [`SaveFormat.SXC`](/cells/python-net/aspose.cells/saveformat#SXC) property.<br/>This property will be removed 6 months later since April 2021. <br/>Aspose apologizes for any inconvenience you may have experienced. |

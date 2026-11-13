@@ -3,7 +3,7 @@ title: is_multiple_item_selection_allowed property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 600
 url: /aspose.cells.pivot/pivotfield/is_multiple_item_selection_allowed/
 is_root: false
 ---
@@ -13,6 +13,11 @@ is_root: false
 
 Indicates whether multiple items could be selected in the page field.
 The default value is false.
+
+### Remarks 
+
+
+Only for page (filter) fields.
 ### Definition:
 ```python
 @property

@@ -3,7 +3,7 @@ title: show_in_outline_form property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 770
 url: /aspose.cells.pivot/pivotfield/show_in_outline_form/
 is_root: false
 ---
@@ -11,7 +11,8 @@ is_root: false
 ## show_in_outline_form property
 
 
-Indicates whether to layout this field in outline form on the Pivot Table view.
+Gets or sets a value indicating whether this row field uses outline layout.
+Only applies to row fields.
 ### Definition:
 ```python
 @property

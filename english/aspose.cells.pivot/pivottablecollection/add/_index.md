@@ -8,9 +8,58 @@ url: /aspose.cells.pivot/pivottablecollection/add/
 is_root: false
 ---
 
+## add(self, source_data, cell_name) {#System.String-System.String}
+
+Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options.
+
+
+### Returns 
+
+
+The newly created PivotTable instance.
+
+
+```python
+
+def add(self, source_data, cell_name):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| source_data | System.String | The data cell range for the new PivotTable. Example: Sheet1!A1:C8 |
+| cell_name | System.String | The name of the upper-left corner cell for the PivotTable destination. |
+
+
+## add(self, source_data, cell_name, options) {#System.String-System.String-aspose.cells.pivot.PivotTableCreateOptions}
+
+Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options.
+
+
+### Returns 
+
+
+The newly created PivotTable instance.
+
+
+```python
+
+def add(self, source_data, cell_name, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| source_data | System.String | The data cell range for the new PivotTable. Example: Sheet1!A1:C8 |
+| cell_name | System.String | The name of the upper-left corner cell for the PivotTable destination. |
+| options | aspose.cells.pivot.PivotTableCreateOptions | The options of creating pivot table. |
+
+
 ## add(self, source_data, row, column) {#System.String-int-int}
 
-Adds a new PivotTable at the specified worksheet row and column position with default options.
+Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options.
 
 
 ### Returns 
@@ -41,7 +90,7 @@ Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 ### Returns 
 
 
-The new added cache index.
+The index in the this pivot table list.
 
 
 ```python
@@ -59,8 +108,8 @@ def add(self, source_data, dest_cell_name, table_name):
 ### Remarks
 
 NOTE: This method is obsolete.
-It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
-Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
 This method will be removed 12 months after September 2026.
 Apologies for any inconvenience.
 
@@ -87,6 +136,32 @@ def add(self, pivot_table, dest_cell_name, table_name):
 | pivot_table | aspose.cells.pivot.PivotTable | The source pivotTable. |
 | dest_cell_name | System.String | The cell in the upper-left corner of the PivotTable report's destination range. |
 | table_name | System.String | The name of the new PivotTable report. |
+
+
+## add(self, source_data, row, column, options) {#System.String-int-int-aspose.cells.pivot.PivotTableCreateOptions}
+
+Adds a new PivotTable at the specified worksheet row and column position.
+
+
+### Returns 
+
+
+The newly created PivotTable instance.
+
+
+```python
+
+def add(self, source_data, row, column, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| source_data | System.String | The data cell range for the new PivotTable. Example: Sheet1!A1:C8 |
+| row | int | The zero-based row index of the upper-left corner for the PivotTable destination. |
+| column | int | The zero-based column index of the upper-left corner for the PivotTable destination. |
+| options | aspose.cells.pivot.PivotTableCreateOptions | PivotTable creation options. |
 
 
 ## add(self, source_data, dest_cell_name, table_name, use_same_source) {#System.String-System.String-System.String-bool}
@@ -116,8 +191,8 @@ def add(self, source_data, dest_cell_name, table_name, use_same_source):
 ### Remarks
 
 NOTE: This method is obsolete.
-It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
-Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
 This method will be removed 12 months after September 2026.
 Apologies for any inconvenience.
 
@@ -129,7 +204,7 @@ Adds a new PivotTable with legacy Excel 97-2003 layout and style.
 ### Returns 
 
 
-The new added cache index.
+The index in the this pivot table list.
 
 
 ```python
@@ -148,8 +223,8 @@ def add(self, source_data, row, column, table_name):
 ### Remarks
 
 NOTE: This method is obsolete.
-It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
-Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
 This method will be removed 12 months after September 2026.
 Apologies for any inconvenience.
 
@@ -207,8 +282,8 @@ def add(self, source_data, row, column, table_name, use_same_source):
 ### Remarks
 
 NOTE: This method is obsolete.
-It is equivalent to calling PivotTableCollection.Add(string, int, int, NewPivotTableOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
-Please use PivotTableCollection.Add(string, int, int, NewPivotTableOptions) overload instead.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
 This method will be removed 12 months after September 2026.
 Apologies for any inconvenience.
 
@@ -237,7 +312,13 @@ def add(self, source_data, cell, table_name, use_same_source, is_xls_classic):
 | table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory when same data source has been gathered into one pivot cache. |
 | is_xls_classic | bool | Indicates whether add classic pivot table of Excel 97-2003. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
+This method will be removed 12 months after October 2026.
+Apologies for any inconvenience.
 
 ## add(self, source_data, is_auto_page, page_fields, dest_cell_name, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-System.String-System.String}
 
@@ -292,7 +373,13 @@ def add(self, source_data, row, column, table_name, use_same_source, is_xls_clas
 | table_name | System.String | The name of the new PivotTable report. |
 | use_same_source | bool | Indicates whether using same data source when another existing pivot table has used this data source.<br/>If the property is true, it will save memory. |
 | is_xls_classic | bool | Indicates whether add classic pivot table of Excel 97-2003. |
+### Remarks
 
+NOTE: This method is obsolete.
+It is equivalent to calling PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) with `NewPivotTableOptions.IsXlsClassic = true`.
+Please use PivotTableCollection.Add(string, int, int, PivotTableCreateOptions) overload instead.
+This method will be removed 12 months after October 2026.
+Apologies for any inconvenience.
 
 ## add(self, source_data, is_auto_page, page_fields, row, column, table_name) {#list-bool-aspose.cells.pivot.PivotPageFields-int-int-System.String}
 

@@ -3,7 +3,7 @@ title: calculation_type property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 100
 url: /aspose.cells.pivot/pivotshowvaluessetting/calculation_type/
 is_root: false
 ---
@@ -12,6 +12,14 @@ is_root: false
 
 
 Represents how to show values of a data field in the pivot report.
+
+### Remarks 
+
+
+NOTE: This property is now obsolete. Instead, 
+please use PivotShowValuesSetting.ShowValuesAs property instead.
+This method will be removed 12 months later since November 2026.
+Aspose apologizes for any inconvenience you may have experienced.
 ### Definition:
 ```python
 @property

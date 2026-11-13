@@ -3,7 +3,7 @@ title: new_pivot_field property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /aspose.cells.pivot/pivotfieldgroupoptions/new_pivot_field/
 is_root: false
 ---
@@ -16,7 +16,7 @@ Gets or sets a value indicating whether new pivot fields should be created after
 ### Remarks 
 
 
-If not explicitly set, the default value is false for numeric grouping and true for date-time grouping.
+If not explicitly set, the default value is false for numeric grouping and true for date-time grouping, true for discrete group.
 Only works for the first new group pivot field of the base field.
 ### Definition:
 ```python

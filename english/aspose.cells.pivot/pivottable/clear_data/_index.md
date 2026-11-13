@@ -23,7 +23,8 @@ def clear_data(self):
 
 ### Remarks
 
-If this method is not called before you add or delete PivotField, Maybe the PivotTable data is not corrected
+If this method is not called before you add or delete PivotField, 
+Maybe the PivotTable data is not corrected
 
 
 ### See Also

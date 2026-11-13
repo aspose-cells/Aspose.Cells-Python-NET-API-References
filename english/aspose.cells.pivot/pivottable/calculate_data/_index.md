@@ -24,7 +24,7 @@ def calculate_data(self):
 ### Remarks
 
 This method only calculate data with the cached data in the [`PivotTable.pivot_cache`](/cells/python-net/aspose.cells.pivot/pivottable#pivot_cache).
-So if you want to calcualte with latest data source, please use [`PivotCache.refresh`](/cells/python-net/aspose.cells.pivot/pivotcache/refresh) method to calculate.
+So if you want to calculate with latest data source, please use [`PivotCache.refresh`](/cells/python-net/aspose.cells.pivot/pivotcache/refresh) method to calculate.
 If only the setting of pivot table is changed, [`PivotTable.calculate_data`](/cells/python-net/aspose.cells.pivot/pivottable/calculate_data) is enough.
 
 ## calculate_data(self, option) {#aspose.cells.pivot.PivotTableCalculateOption}

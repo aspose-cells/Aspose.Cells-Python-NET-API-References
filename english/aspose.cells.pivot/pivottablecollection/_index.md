@@ -3,7 +3,7 @@ title: PivotTableCollection class
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 320
 url: /aspose.cells.pivot/pivottablecollection/
 is_root: false
 ---
@@ -33,7 +33,10 @@ Gets the PivotTable report by index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`add(self, source_data, row, column)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int) | Adds a new PivotTable at the specified worksheet row and column position with default options. |
+| [`add(self, source_data, cell_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string) | Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options. |
+| [`add(self, source_data, cell_name, options)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-aspose.cells.pivot.pivottablecreateoptions) | Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options. |
+| [`add(self, source_data, row, column)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int) | Adds a new modern PivotTable (since Excel 2007) at the specified worksheet row and column position with default options. |
+| [`add(self, source_data, row, column, options)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-aspose.cells.pivot.pivottablecreateoptions) | Adds a new PivotTable at the specified worksheet row and column position. |
 | [`add(self, source_data, dest_cell_name, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
 | [`add(self, source_data, dest_cell_name, table_name, use_same_source)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-system.string-system.string-bool) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
 | [`add(self, source_data, row, column, table_name)`](/cells/python-net/aspose.cells.pivot/pivottablecollection/add/#system.string-int-int-system.string) | Adds a new PivotTable with legacy Excel 97-2003 layout and style. |
@@ -99,8 +102,7 @@ cells.get(6, 2).value = 100
 cells.get(7, 2).value = 110
 cells.get(8, 2).value = 120
 pivots = sheet.pivot_tables
-pivotIndex = pivots.add("=Sheet1!A1:C9", "A12", "TestPivotTable")
-pivot = pivots[pivotIndex]
+pivot = pivots.add("=Sheet1!A1:C9", "A12")
 pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
@@ -109,20 +111,15 @@ pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
 rowField = pivot.row_fields[0]
 rowField.display_name = "custom display name"
 # Add PivotFilter
-index = pivot.pivot_filters.add(0, PivotFilterType.COUNT)
-filter = pivot.pivot_filters[index]
-filter.auto_filter.filter_top10(0, False, False, 2)
+filter = pivot.row_fields[0].filter_top10(0, PivotFilterType.PERCENT, False, 2)
 # Add PivotFormatCondition
-formatIndex = pivot.pivot_format_conditions.add()
-pfc = pivot.pivot_format_conditions[formatIndex]
+formatIndex = pivot.conditional_formats.add()
+pfc = pivot.conditional_formats[formatIndex]
+pfc.add_cell_area(pivot.data_body_range)
 fcc = pfc.format_conditions
-fcc.add_area(pivot.data_body_range)
-idx = fcc.add_condition(FormatConditionType.CELL_VALUE)
-fc = fcc[idx]
-fc.formula1 = "100"
-fc.operator = OperatorType.GREATER_OR_EQUAL
+ii = fcc.add_condition(FormatConditionType.CELL_VALUE, OperatorType.GREATER_OR_EQUAL, "100", None)
+fc = fcc[ii]
 fc.style.background_color = Color.red
-pivot.refresh_data()
 pivot.calculate_data()
 # do your business
 book.save("out.xlsx")

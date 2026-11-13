@@ -15,7 +15,6 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | :- | :- |
 | [`CustomPiovtFieldGroupItem`](/cells/python-net/aspose.cells.pivot/custompiovtfieldgroupitem) |  |
 | [`DiscreteGroupItem`](/cells/python-net/aspose.cells.pivot/discretegroupitem) | Represents an item of custom grouped field. |
-| [`NewPivotTableOptions`](/cells/python-net/aspose.cells.pivot/newpivottableoptions) | Options for creating a new PivotTable. |
 | [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) | Presents the selected area of the pivot table. |
 | [`PivotAreaCollection`](/cells/python-net/aspose.cells.pivot/pivotareacollection) | Represents a list of pivot area. |
 | [`PivotAreaFilter`](/cells/python-net/aspose.cells.pivot/pivotareafilter) | Represents the filter of [`PivotArea`](/cells/python-net/aspose.cells.pivot/pivotarea) for [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable). |
@@ -23,7 +22,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotCache`](/cells/python-net/aspose.cells.pivot/pivotcache) | Represents the memory cache for some PivotTable reports. |
 | [`PivotCacheCollection`](/cells/python-net/aspose.cells.pivot/pivotcachecollection) | Represents the collection of memory caches from the PivotTable reports in a workbook. |
 | [`PivotCacheMissingItemsLimitConst`](/cells/python-net/aspose.cells.pivot/pivotcachemissingitemslimitconst) | Constants for PivotCache missingItemsLimit (citmGhostMax)<br/>4-byte signed integer threshold for unused cache item eviction |
-| [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat) | Represents a PivotTable Format Condition in PivotFormatCondition Collection. |
+| [`PivotConditionalFormat`](/cells/python-net/aspose.cells.pivot/pivotconditionalformat) | Represents the conditional format of pivot table. |
 | [`PivotConditionalFormatCollection`](/cells/python-net/aspose.cells.pivot/pivotconditionalformatcollection) | Represents all conditional formats of pivot table. |
 | [`PivotDateTimeRangeGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdatetimerangegroupsettings) | Represents the field grouped by date time range. |
 | [`PivotDiscreteGroupSettings`](/cells/python-net/aspose.cells.pivot/pivotdiscretegroupsettings) | Rrepsents the discrete group of pivot field |
@@ -46,6 +45,7 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotTable`](/cells/python-net/aspose.cells.pivot/pivottable) | Summary description for PivotTable. |
 | [`PivotTableCalculateOption`](/cells/python-net/aspose.cells.pivot/pivottablecalculateoption) | Rerepsents the options of calculating data of the pivot table. |
 | [`PivotTableCollection`](/cells/python-net/aspose.cells.pivot/pivottablecollection) | Represents the collection of all the PivotTable objects on the specified worksheet. |
+| [`PivotTableCreateOptions`](/cells/python-net/aspose.cells.pivot/pivottablecreateoptions) | Options for creating a new PivotTable. |
 | [`PivotTableFormat`](/cells/python-net/aspose.cells.pivot/pivottableformat) | Represents the format defined in the PivotTable. |
 | [`PivotTableFormatCollection`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection) | Represents the collection of formats applied to PivotTable. |
 | [`PivotTableRefreshOption`](/cells/python-net/aspose.cells.pivot/pivottablerefreshoption) | Represents the options of refreshing data source of the pivot table. |
@@ -64,11 +64,11 @@ The **Aspose.Cells.Pivot**  namespace contains all classes of rendering and mani
 | [`PivotFieldType`](/cells/python-net/aspose.cells.pivot/pivotfieldtype) | Represents PivotTable field type. |
 | [`PivotFilterType`](/cells/python-net/aspose.cells.pivot/pivotfiltertype) | Represents the filter type of the pivot table. |
 | [`PivotGroupByType`](/cells/python-net/aspose.cells.pivot/pivotgroupbytype) | Represents group by type. |
-| [`PivotItemPosition`](/cells/python-net/aspose.cells.pivot/pivotitemposition) |  |
 | [`PivotItemPositionType`](/cells/python-net/aspose.cells.pivot/pivotitempositiontype) | Represents the position type of the pivot base item in the base field when the ShowDataAs calculation is in use. |
 | [`PivotLineType`](/cells/python-net/aspose.cells.pivot/pivotlinetype) | Specifies the type of the PivotLine. |
 | [`PivotMissingItemLimitType`](/cells/python-net/aspose.cells.pivot/pivotmissingitemlimittype) |  |
 | [`PivotRefreshState`](/cells/python-net/aspose.cells.pivot/pivotrefreshstate) | The state for refreshing pivot tables. |
+| [`PivotShowValuesAsType`](/cells/python-net/aspose.cells.pivot/pivotshowvaluesastype) | Represents the calculation type for the "Show Values As" feature of pivot field values. |
 | [`PivotTableAutoFormatType`](/cells/python-net/aspose.cells.pivot/pivottableautoformattype) | Represents PivotTable auto format type. |
 | [`PivotTableSelectionType`](/cells/python-net/aspose.cells.pivot/pivottableselectiontype) | Specifies what can be selected in a PivotTable during a structured selection.<br/>These constants can be combined to select multiple types. |
 | [`PivotTableSourceType`](/cells/python-net/aspose.cells.pivot/pivottablesourcetype) | Represents data source type of the pivot table. |

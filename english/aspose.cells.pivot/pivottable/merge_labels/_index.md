@@ -3,7 +3,7 @@ title: merge_labels property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 810
 url: /aspose.cells.pivot/pivottable/merge_labels/
 is_root: false
 ---
@@ -11,7 +11,7 @@ is_root: false
 ## merge_labels property
 
 
-Indicates whether row or column titles that span multiple cells should be merged into a single cell.
+Gets or sets whether to merge row/column field labels that span multiple cells.
 ### Definition:
 ```python
 @property

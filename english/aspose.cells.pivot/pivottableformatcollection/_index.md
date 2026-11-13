@@ -25,6 +25,9 @@ The PivotTableFormatCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
+| [`format(self, row, column, style)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/format/#int-int-aspose.cells.style) | Formats the cell in the pivottable area |
+| [`format(self, pivot_area, style)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/format/#aspose.cells.pivot.pivotarea-aspose.cells.style) | Formats selected area of the PivotTable. |
+| [`format(self, ca, style)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/format/#aspose.cells.cellarea-aspose.cells.style) | Formats selected area of the PivotTable. |
 | [`copy_to(self, array)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/copy_to/#list) | Copies the entire array list to a compatible one-dimensional array list, starting at the beginning of the target array list. |
 | [`copy_to(self, index, array, array_index, count)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/copy_to/#int-list-int-int) | Copies a range of elements from the array list to a compatible one-dimensional array list, starting at the specified index of the target array list. |
 | [`index_of(self, item, index)`](/cells/python-net/aspose.cells.pivot/pivottableformatcollection/index_of/#aspose.cells.pivot.pivottableformat-int) | Searches for the specified object and returns the zero-based index of the first occurrence within the range of elements in the array list that extends from the specified index to the last element. |

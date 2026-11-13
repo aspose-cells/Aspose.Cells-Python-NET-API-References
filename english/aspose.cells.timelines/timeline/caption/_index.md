@@ -12,16 +12,6 @@ is_root: false
 
 
 Gets or sets the caption of this Timeline.
-
-### Example 
-
-
-```python
-
-# Set the caption of this Timeline.
-timelineObj.caption = "timeline caption test"
-
-```
 ### Definition:
 ```python
 @property

@@ -57,7 +57,7 @@ def group_by(self, custom_group_items, new_field):
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 
-please use PivotField.GroupBy(DiscreteGroupItem[], bool) method .
+please use PivotField.Group(PivotFieldGroupOptions options) method with PivotFieldGroupOptions.DiscreteGroupItems property .
 This method will be removed 6 months later since July 2026. 
 Aspose apologizes for any inconvenience you may have experienced.
 
@@ -69,7 +69,7 @@ Custom group the field.
 ### Returns 
 
 
-False means this field could not be grouped by date time.
+
 
 
 ```python
@@ -83,7 +83,12 @@ def group_by(self, custom_group_items, new_field):
 | :- | :- | :- |
 | custom_group_items | list | The custom group items. |
 | new_field | bool | Indicates whether adding a new field to the pivottable |
+### Remarks
 
+NOTE: This method is now obsolete. Instead, 
+please use PivotField.Group(PivotFieldGroupOptions options) method with PivotFieldGroupOptions.DiscreteGroupItems property .
+This method will be removed 6 months later since July 2026. 
+Aspose apologizes for any inconvenience you may have experienced.
 
 ## group_by(self, groups, interval, new_field) {#list-float-bool}
 

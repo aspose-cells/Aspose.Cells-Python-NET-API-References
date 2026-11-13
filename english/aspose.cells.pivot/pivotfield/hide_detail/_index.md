@@ -28,8 +28,8 @@ def hide_detail(self, is_hidden_detail):
 ### Remarks
 
 NOTE: This method is now obsolete. Instead, 
-please use PivotField.HideAllDetails() and ShowAllDetails() method instead .
-This method will be removed 12 months later since Septempber 2026. 
+please use PivotItemsCollection.HideAllDetails() and UnhideAllDetails() method instead .
+This method will be removed 12 months later since November 2026. 
 Aspose apologizes for any inconvenience you may have experienced.
 
 

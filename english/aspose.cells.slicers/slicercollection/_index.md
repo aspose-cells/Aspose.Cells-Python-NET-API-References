@@ -84,17 +84,15 @@ cells.get(6, 2).value = 100
 cells.get(7, 2).value = 110
 cells.get(8, 2).value = 120
 pivots = sheet.pivot_tables
-pivotIndex = pivots.add("=Sheet1!A1:C9", "A12", "TestPivotTable")
-pivot = pivots[pivotIndex]
+pivot = pivots.add("=Sheet1!A1:C9", "A12")
 pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "year")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-pivot.refresh_data()
 pivot.calculate_data()
 slicers = sheet.slicers
-tableIndex = sheet.list_objects.add("A1", "C9", True)
-table = sheet.list_objects[tableIndex]
+slicerIndex = slicers.add(pivot, "E12", "fruit")
+slicer = slicers[slicerIndex]
 # do your business
 book.save("out.xlsx")
 

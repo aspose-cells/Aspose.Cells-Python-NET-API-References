@@ -3,7 +3,7 @@ title: top_10_auto_show_settings property
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 800
+weight: 820
 url: /aspose.cells.pivot/pivotfield/top_10_auto_show_settings/
 is_root: false
 ---

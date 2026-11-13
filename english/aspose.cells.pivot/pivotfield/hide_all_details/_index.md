@@ -10,7 +10,7 @@ is_root: false
 
 ## hide_all_details(self) {#}
 
-Hides all details
+Hides all details of each pivot item.
 
 
 

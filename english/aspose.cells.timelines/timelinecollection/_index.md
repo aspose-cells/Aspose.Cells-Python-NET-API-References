@@ -80,14 +80,11 @@ cells.get(3, 2).value = 70
 cells.get(4, 2).value = 80
 pivots = sheet.pivot_tables
 # Add a PivotTable
-pivotIndex = pivots.add("=Sheet1!A1:C5", "A12", "TestPivotTable")
-pivot = pivots[pivotIndex]
+pivot = pivots.add("=Sheet1!A1:C5", "A12")
 pivot.add_field_to_area(PivotFieldType.ROW, "fruit")
 pivot.add_field_to_area(PivotFieldType.COLUMN, "date")
 pivot.add_field_to_area(PivotFieldType.DATA, "amount")
 pivot.pivot_table_style_type = PivotTableStyleType.PIVOT_TABLE_STYLE_MEDIUM10
-# Refresh PivotTable data
-pivot.refresh_data()
 pivot.calculate_data()
 # do your business
 book.save("out.xlsx")

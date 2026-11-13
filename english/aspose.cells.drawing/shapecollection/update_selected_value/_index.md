@@ -3,7 +3,7 @@ title: update_selected_value method
 second_title: Aspose.Cells for Python via .NET API References
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /aspose.cells.drawing/shapecollection/update_selected_value/
 is_root: false
 ---

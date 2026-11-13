@@ -27,6 +27,25 @@ def __init__(self, name, item_indexes):
 | item_indexes | list | All indexes to the items of base pivot field. |
 
 
+## \_\_init\_\_(self, name, items) {#System.String-list}
+
+The constructor of custom group item of pivot field.
+
+
+
+```python
+
+def __init__(self, name, items):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| name | System.String | The name of group item |
+| items | list | The captions of pivot items that belong to this discrete group. |
+
+
 
 ### See Also
 * module [`aspose.cells.pivot`](../../)
